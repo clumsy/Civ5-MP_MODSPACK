@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Linguistic Tensions -->
+		<Row Tag="TXT_KEY_EVENT_JFD_BELGIUM_LINGUISTIC_TENSIONS">
+			<Text>Linguistic Tensions</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BELGIUM_LINGUISTIC_TENSIONS_DESC">
+			<Text>
+				Recently, a group of {1_Language}-speaking Belgians have caused a stir by demanding equal representation of their language in the courts. They see the lack of use for their language to convey Belgian laws as an affront to their protection beneath those laws. We must act to resolve this issue before it gets out of hand.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BELGIUM_LINGUISTIC_TENSIONS_OUTCOME_1">
+			<Text>Very well. There shall be equal use of the languages within the courts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BELGIUM_LINGUISTIC_TENSIONS_OUTCOME_2">
+			<Text>Absolutely not. Dutch is the language of our laws and so it shall stay.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BELGIUM_LINGUISTIC_TENSIONS_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]The [ICON_CAPITAL] Capital undergoes 1 turn of [ICON_RESISTANCE] Resistance[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_CULTURE] Culture[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BELGIUM_LINGUISTIC_TENSIONS_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLDEN_AGE] Golden Age points[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_BELGIUM_LINGUISTIC_TENSIONS_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have resolved linguistic tensions within our nation by establishing equal representation of our languages within the courts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_BELGIUM_LINGUISTIC_TENSIONS_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have dismissed the tensions caused by linguistic divisions in the country.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_BELGIUM_LINGUISTIC_TENSIONS">
+			<Text>{1_Language}-speaking Belgians have caused tensions in Belgium.</Text>
+		</Row>
+		<!-- Profitable Year -->
+		<Row Tag="TXT_KEY_EVENT_JFD_BELGIUM_PROFITABLE_YEAR">
+			<Text>Profitable Year</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BELGIUM_PROFITABLE_YEAR_DESC">
+			<Text>
+				It has been a profitable year for our plantation industry, and we have reaped a hefty surplus. Things are doing well in our colonies.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BELGIUM_PROFITABLE_YEAR_OUTCOME_1">
+			<Text>Excellent!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BELGIUM_PROFITABLE_YEAR_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_GOLD] Gold[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_BELGIUM_PROFITABLE_YEAR_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>It has been a profitable year for our plantation industry.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_BELGIUM_PROFITABLE_YEAR">
+			<Text>Belgium has had a profitable year for their plantation industry.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

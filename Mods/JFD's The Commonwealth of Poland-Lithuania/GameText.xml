@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Famous Alchemist -->
+		<Row Tag="TXT_KEY_EVENT_JFD_POLAND_LITHUANIA_ALCHEMIST">
+			<Text>Famous Alchemist</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_POLAND_LITHUANIA_ALCHEMIST_DESC">
+			<Text>
+				A gentleman calling himself John Dee has recently arrived in our capital. He claims that he has a connection to the supernatural world and offers “spiritual conferences” for our ears and eyes only. Those “conferences” are supposed to bring us divine revelations and other perks of communing with the ghostly folk. What should we do with this unexpected guest?[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_POLAND_LITHUANIA_ALCHEMIST_OUTCOME_1">
+			<Text>Turn him away. We need not his kind here.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_POLAND_LITHUANIA_ALCHEMIST_OUTCOME_2">
+			<Text>One test... shouldn't hurt...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_POLAND_LITHUANIA_ALCHEMIST_OUTCOME_3">
+			<Text>Let us hire him permanently to our court.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_POLAND_LITHUANIA_ALCHEMIST_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_CULTURE] Culture[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_POLAND_LITHUANIA_ALCHEMIST_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLD] Gold[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {2_Num} {3_Yield}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_POLAND_LITHUANIA_ALCHEMIST_OUTCOME_RESULT_3">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLD] Gold[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {2_Num} [ICON_GOLDEN_AGE] Golden Age points[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_POLAND_LITHUANIA_ALCHEMIST_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have turned way an Alchemist claiming to speak with spirits.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_POLAND_LITHUANIA_ALCHEMIST_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have hired for a test of his skills an Alchemist who claims to speak with spirits. It is difficult to discern whether his skills are legitimate, or merely a well-crafted deception, but they were entertaining nonetheless.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_POLAND_LITHUANIA_ALCHEMIST_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>We have hired to our court an Alchemist who claims to speak with spirits. His skills are clearly legitimate.</Text>
+		</Row>
+		<!-- Thursday Dinners -->
+		<Row Tag="TXT_KEY_EVENT_JFD_POLAND_LITHUANIA_DINNERS">
+			<Text>Thursday Dinners</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_POLAND_LITHUANIA_DINNERS_DESC">
+			<Text>
+				The cultural elite of Warsaw is bustling with intellectual and creative activity. Perhaps by arranging a meeting for a select few would further hone their skills and wits, and bring us much entertainment in return.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_POLAND_LITHUANIA_DINNERS_OUTCOME_1">
+			<Text>Invite the artists</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_POLAND_LITHUANIA_DINNERS_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLD] Gold[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {2_Num} [ICON_CULTURE] Culture[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_POLAND_LITHUANIA_DINNERS_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have invited the artists of our great capital to a royal dinner.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_POLAND_LITHUANIA_DINNERS_OUTCOME_2">
+			<Text>Invite the scientists and philosophers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_POLAND_LITHUANIA_DINNERS_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLD] Gold[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {2_Num} [ICON_RESEARCH] Science[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_POLAND_LITHUANIA_DINNERS_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have invited the scientists and philosophers of our great capital to a royal dinner.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_POLAND_LITHUANIA_DINNERS_OUTCOME_3">
+			<Text>They're not worth a dime.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_POLAND_LITHUANIA_DINNERS_OUTCOME_RESULT_3">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Nothing[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_POLAND_LITHUANIA_DINNERS_1">
+			<Text>Sigismund II of Poland-Lithuania has arranged a royal dinner for his city's greatest artists.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_POLAND_LITHUANIA_DINNERS_2">
+			<Text>Sigismund II of Poland-Lithuania has arranged a royal dinner for his city's greatest minds.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="afc1526b-ee6f-449e-a394-9e291e788b2f" version="2">
+  <Properties>
+    <Name>JFD's The Commonwealth of Poland-Lithuania</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]The Commonwealth of Poland-Lithuania[ENDCOLOR] with Sigismund II to the game.</Teaser>
+    <Description>See CivFanatics or Steam Workshop for details.</Description>
+    <Authors>Janboruta, JFD</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety &amp; Prestige" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events &amp; Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack    " />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="4222DA1C656D81292361EDD57523D955" import="0">Art/ArtDefines.sql</File>
+    <File md5="AC41C06BA721315512F26433220FEDF7" import="1">Art/Graphics/no_gloss.dds</File>
+    <File md5="7E39FABCE2FB64301810C923CB5BAFF7" import="1">Art/Graphics/sv_Voivode.dds</File>
+    <File md5="74B05349E44E685902D325105C9F0B66" import="1">Art/Graphics/Voivode_Horse_v2.dds</File>
+    <File md5="85B7B905387880DDE0292024E891349B" import="1">Art/Graphics/Voivode_v2.dds</File>
+    <File md5="C5C4B66178DEE73D4E0D8895C873EE0E" import="1">Art/Graphics/Voivode_v2.fxsxml</File>
+    <File md5="1DF8E8FC7CE488C51F5B2ABC3D63AA0B" import="1">Art/Graphics/Voivode_v2.gr2</File>
+    <File md5="E9E2EF9BED4BEF058C99D75031D3C6DA" import="1">Art/Graphics/Voivode_v2_gloss.dds</File>
+    <File md5="E05F2DB5BAAC4462F757B6739E651B8B" import="1">Art/Icon Atlas/flag_Voivode_32.dds</File>
+    <File md5="84B121ECA4E1591D79264E4FF9D116A9" import="1">Art/Icon Atlas/JFD_PolandLithuaniaAlphaAtlas_128.dds</File>
+    <File md5="F50787F6B1141503821E5C6D81053283" import="1">Art/Icon Atlas/JFD_PolandLithuaniaAlphaAtlas_16.dds</File>
+    <File md5="77D916709D8B5EA09F45B7AB98F1F997" import="1">Art/Icon Atlas/JFD_PolandLithuaniaAlphaAtlas_22.dds</File>
+    <File md5="63753A94E0C9ADAD753F2507684AB9D7" import="1">Art/Icon Atlas/JFD_PolandLithuaniaAlphaAtlas_24.dds</File>
+    <File md5="8FD3CC61B5C87AA94A86055E14C092C4" import="1">Art/Icon Atlas/JFD_PolandLithuaniaAlphaAtlas_32.dds</File>
+    <File md5="22E894345C6D5315057886B907AC13B4" import="1">Art/Icon Atlas/JFD_PolandLithuaniaAlphaAtlas_45.dds</File>
+    <File md5="B0FDF763EB94E74D8F8441FBAC4B9DB8" import="1">Art/Icon Atlas/JFD_PolandLithuaniaAlphaAtlas_48.dds</File>
+    <File md5="7097D736086357CAECA14F5775DAA628" import="1">Art/Icon Atlas/JFD_PolandLithuaniaAlphaAtlas_64.dds</File>
+    <File md5="60DF60B813773ED5D26590382DBDE8CB" import="1">Art/Icon Atlas/JFD_PolandLithuaniaAlphaAtlas_80.dds</File>
+    <File md5="0FAC6398E6B9B9063B5A592890FC2FBC" import="1">Art/Icon Atlas/JFD_PolandLithuaniaAtlas_128.dds</File>
+    <File md5="EFC47428E72197DE8664DF1D5A884B3D" import="1">Art/Icon Atlas/JFD_PolandLithuaniaAtlas_256.dds</File>
+    <File md5="98451DDFB9FC031BC43046C803DC4056" import="1">Art/Icon Atlas/JFD_PolandLithuaniaAtlas_32.dds</File>
+    <File md5="C7B1002F17B2E91696147851E7BF661B" import="1">Art/Icon Atlas/JFD_PolandLithuaniaAtlas_45.dds</File>
+    <File md5="D8F79485BC9EE2F2DDB94EE0515BD930" import="1">Art/Icon Atlas/JFD_PolandLithuaniaAtlas_64.dds</File>
+    <File md5="DFEB677734B1665DF345C8A55D57B595" import="1">Art/Icon Atlas/JFD_PolandLithuaniaAtlas_80.dds</File>
+    <File md5="F304CC8901403D971B0F5E24A0096AE5" import="1">Art/Leaderscene/Sigismund_Diplo.dds</File>
+    <File md5="0A5CD304B823D81D42CAF25951D7E574" import="1">Art/Leaderscene/Sigismund_Scene.xml</File>
+    <File md5="EB45C225B5ED83AD61B0BB437982C432" import="1">Art/Map/Casimir_DOM.dds</File>
+    <File md5="3DE0DABB3213397550AEB9CAD3589319" import="1">Art/Map/PolandLithuaniaMap512.dds</File>
+    <File md5="C704691EF8C25956D6F27D2EC7DDD4CC" import="1">Art/Map/PolandMap512.dds</File>
+    <File md5="D46A308538B235C807FB2A26ED16D734" import="1">Art/Map/Sigismund_DOM.dds</File>
+    <File md5="35E48FD159428934DA0B8C188504A43D" import="0">Audio/Audio.sql</File>
+    <File md5="9504638E2DF2BF9FDB52DE520484D8A7" import="1">Audio/Sigismund_Peace.mp3</File>
+    <File md5="07D40AE8AF57B47865ABB1EEB4D828AF" import="1">Audio/Sigismund_War.mp3</File>
+    <File md5="7141764B701BBDC6C00EE75C40F1E767" import="0">Core/Bingles' Civ IV Traits Support/Leader_SharedTraits.sql</File>
+    <File md5="18D9AE58923647D9568207F526FBE064" import="0">Core/Buildings.sql</File>
+    <File md5="BF2D47522795BA8F9E23B06DF69415CA" import="0">Core/Civilization.sql</File>
+    <File md5="CEEF1474C0C1709A644C66D1E200035C" import="0">Core/Diplomacy.sql</File>
+    <File md5="CCBD2B2669514C3B31891EB7D56C3B26" import="0">Core/DiplomacyText.xml</File>
+    <File md5="A9F7956D5F8AD7DC742B2AD72D1F0756" import="0">Core/GameText.xml</File>
+    <File md5="D40AB5D52B64304E5E882777057CC243" import="0">Core/Gedemon's YnAEMP Support/CivilizationStartPos.sql</File>
+    <File md5="7B356598E34207CBA188124DA8BE7F7B" import="0">Core/hazel16's Map Labels Support/ML_Tables.sql</File>
+    <File md5="F38C5E2B2F21A5EFE3801495231C876E" import="0">Core/JFD's Cultural Diversity Support/Civilization_JFD_CultureTypes.sql</File>
+    <File md5="BA6A69DAA1B5835BA2F6043834B00732" import="0">Core/JFD's Dynamic Tooltip Support/TopPanelAddins.sql</File>
+    <File md5="7C5410FD51C0A1FCDBF0E32ACC96119A" import="0">Core/JFD's Piety and Prestige Support/Flavours.sql</File>
+    <File md5="F5E170CDA8530FE7E68073672786A844" import="0">Core/JFD's Poland Revision/Traits.sql</File>
+    <File md5="B1E3C957F51D52BBC5A6DA3D755CA879" import="0">Core/Leaderhead.sql</File>
+    <File md5="B3F49DC86182A2373DEEFC91E3A5614C" import="0">Core/MinorCivilizations.sql</File>
+    <File md5="EE6FE66E2A41526CDB8362A9E4BA711F" import="0">Core/PlayerColours.sql</File>
+    <File md5="3F2D663172F72F5135922F034204E4AF" import="0">Core/Promotions.sql</File>
+    <File md5="DE5644BEFB25D35C7E1E7DD362CB7CD7" import="0">Core/Ryoga's Unique Cultural Influence Support/GameText.xml</File>
+    <File md5="81BC04DB1CE3337E92834752A9ABF57A" import="0">Core/Sukritact's Decisions Support/Decisions.sql</File>
+    <File md5="73AA8C46E27CACFB21C0023CB18A0277" import="0">Core/Sukritact's Decisions Support/GameText.xml</File>
+    <File md5="BB89F0A1764ACF7CEA1EF4FCDFDE1E38" import="0">Core/Sukritact's Events Support/Events.sql</File>
+    <File md5="412E51231AB4D68AD8DE1E90B57B95E8" import="0">Core/Sukritact's Events Support/GameText.xml</File>
+    <File md5="C76DB5C17592CE6D89F90FB794F85F9C" import="0">Core/Traits.sql</File>
+    <File md5="F04871C7AC0979C2E0CF26B4870F6DB9" import="0">Core/Units.sql</File>
+    <File md5="783FAF38B51E2C28116F4F6355618D74" import="0">Core/JFD's Poland Revision/GameText.xml</File>
+    <File md5="C0B684D8F530C4AB162C1B0E02E8BC85" import="1">Lua/JFD's Dynamic Tooltip Support/JFD_PolandLithuaniaDynamicTopPanelSupport.lua</File>
+    <File md5="DC86604DA2B8883859B9F73CCB524CC3" import="0">Lua/JFD_ChooseProductionCityPopup.lua</File>
+    <File md5="3E21EE6C3F24DFCD6DDFDAFF4A46D471" import="0">Lua/JFD_ChooseProductionCityPopup.xml</File>
+    <File md5="891674B23BDE84B9694AE12838A552DC" import="0">Lua/JFD_PolandLithuaniaFunctions.lua</File>
+    <File md5="D63DC8BB6AA0F310DD55B264DB49C7E2" import="0">Lua/PlotIterators.lua</File>
+    <File md5="86C1C3EDCE4699DE320A932C4E70E22C" import="0">Lua/Sukritact's Modular City Info Stack/CityInfoStack.lua</File>
+    <File md5="120EB71025973A8A48B38314241DD0B3" import="0">Lua/Sukritact's Modular City Info Stack/CityInfoStack.xml</File>
+    <File md5="D6E5CCD75BB1906090961DBC5AF444C0" import="0">Lua/Sukritact's Modular City Info Stack/JFD_VoivodeCityInfo.lua</File>
+    <File md5="60AA4FCB1C2602160DAFC231EE590D1A" import="0">Lua/Sukritact's Modular City Info Stack/JFD_VoivodeCityInfo.xml</File>
+    <File md5="83EE787E04C0962120B9489F96652447" import="0">Lua/Sukritact's Modular City Info Stack/JFD_EstateCityInfo.lua</File>
+    <File md5="CA8CC9C7914462ABF1312C7182D3100A" import="0">Lua/Sukritact's Modular City Info Stack/JFD_EstateCityInfo.xml</File>
+    <File md5="CBC0886D4B497478DB53E8612787B410" import="1">Lua/Sukritact's Decisions Support/JFD_PolandLithuaniaDecisions.lua</File>
+    <File md5="D12A944E76BAAF2C9731F96883FC7995" import="1">Lua/Sukritact's Events Support/JFD_PolandLithuaniaEvents.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Audio/Audio.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Gedemon's YnAEMP Support/CivilizationStartPos.sql</UpdateDatabase>
+      <UpdateDatabase>Core/hazel16's Map Labels Support/ML_Tables.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Cultural Diversity Support/Civilization_JFD_CultureTypes.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Piety and Prestige Support/Flavours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Dynamic Tooltip Support/TopPanelAddins.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Decisions Support/Decisions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Decisions Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Events Support/Events.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Events Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Ryoga's Unique Cultural Influence Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Bingles' Civ IV Traits Support/Leader_SharedTraits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Buildings.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Civilization.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DiplomacyText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Leaderhead.sql</UpdateDatabase>
+      <UpdateDatabase>Core/MinorCivilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Core/PlayerColours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Promotions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Units.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Poland Revision/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Poland Revision/Traits.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_PolandLithuaniaFunctions.lua">
+      <Name>JFD_PolandLithuaniaFunctions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_ChooseProductionCityPopup.xml">
+      <Name>JFD_ChooseProductionCityPopup</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Sukritact's Modular City Info Stack/CityInfoStack.lua">
+      <Name>Sukritact's City Info Stack</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Sukritact's Modular City Info Stack/JFD_EstateCityInfo.lua">
+      <Name>JFD_EstateCityInfo</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Sukritact's Modular City Info Stack/JFD_VoivodeCityInfo.lua">
+      <Name>JFD_VoivodeCityInfo</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

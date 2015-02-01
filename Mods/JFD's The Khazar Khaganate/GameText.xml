@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Wise Sage -->
+		<Row Tag="TXT_KEY_EVENT_JFD_KHAZARIA_SAGE">
+			<Text>Wise Sage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_KHAZARIA_SAGE_DESC">
+			<Text>A great sage of {1_ReligionName} has come to our court with words and letters of their faith. They have invited us to pray, and to consider converting to their religion.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_KHAZARIA_SAGE_OUTCOME_1">
+			<Text>Cast this blasphemer out!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_KHAZARIA_SAGE_OUTCOME_2">
+			<Text>We shall adopt {1_ReligionName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_KHAZARIA_SAGE_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} {2_Yield}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_KHAZARIA_SAGE_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]The empire fully converts to {1_ReligionName}.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_KHAZARIA_SAGE_OUTCOME_RESULT_2_PIETY">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]{1_ReligionName} becomes your State Religion.[NEWLINE][ICON_BULLET]50% of the empire fully converts to {1_ReligionName}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_KHAZARIA_SAGE_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have rejected the religious teachings of a wise sage.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_KHAZARIA_SAGE_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have adopted the religious teachings of a wise sage.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_KHAZARIA_SAGE">
+			<Text>The Khazar elite have adopted the religious teachings of a wise sage.</Text>
+		</Row>
+		<!-- Horse Breeder -->
+		<Row Tag="TXT_KEY_EVENT_JFD_KHAZARIA_HORSE_BREEDER">
+			<Text>Horse Breeder</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_KHAZARIA_HORSE_BREEDER_DESC">
+			<Text>A renown horse breeder has come to our lands, seeking our patronage. They are renown for their taming of even the wildest of beasts, and could help in producing new sources of mountable warhorses.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_KHAZARIA_HORSE_BREEDER_OUTCOME_1">
+			<Text>A waste of money.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_KHAZARIA_HORSE_BREEDER_OUTCOME_2">
+			<Text>They shall become a member of our court at once.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_KHAZARIA_HORSE_BREEDER_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Nothing[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_KHAZARIA_HORSE_BREEDER_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLD] Gold[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain a source of [ICON_RES_HORSE] Horse nearby.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_KHAZARIA_HORSE_BREEDER_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have rejected the help of a renown horse breeder.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_KHAZARIA_HORSE_BREEDER_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have accepted the help of a renown horse breeder.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

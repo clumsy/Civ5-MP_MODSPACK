@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="bdd9db48-cb3c-4920-b382-6c7e0202071d" version="3">
+  <Properties>
+    <Name>JFD's The Empire of Russia (Nicholas II)</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]the Empire of Russia[ENDCOLOR] with Nicholas II to the game.</Teaser>
+    <Description>See CivFanatics or Steam Workshop for full details.</Description>
+    <Authors>JFD, Janboruta</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events and Decisions" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="CD8DC975B405DE44EDEC87F10705A4C0" import="0">Art/ArtDefines.sql</File>
+    <File md5="0C759F1CED95795CCFBE40C6BD9A963C" import="1">Art/Graphics/Opolcheniye/no_gloss.dds</File>
+    <File md5="28AE2E4D635B02E616C1CF2DCAC84F34" import="1">Art/Graphics/Opolcheniye/rusgw1.dds</File>
+    <File md5="3E9686FDAD69E2EA50AE0931D018CF55" import="1">Art/Graphics/Opolcheniye/rusgw1.fxsxml</File>
+    <File md5="F4953C7A0D97EA96AFF641FCC9B78641" import="1">Art/Graphics/Opolcheniye/rusgw1.gr2</File>
+    <File md5="B796F8CE76BA4D945E03B7D70FABE690" import="1">Art/Graphics/Opolcheniye/sv_Opolcheniye.dds</File>
+    <File md5="7A79B955183B91514C68AE0DDDD49B70" import="1">Art/IconAtlas/JFD_OpolcheniyeUnitFlag_32.dds</File>
+    <File md5="F78AB19056A01859E4CF82DA200B5AB3" import="1">Art/IconAtlas/JFD_RussiaNicholasAlphaAtlas_128.dds</File>
+    <File md5="E557C000076C8E154275C474497987CE" import="1">Art/IconAtlas/JFD_RussiaNicholasAlphaAtlas_16.dds</File>
+    <File md5="532A428E427A7045F1D5E9AD01C576EE" import="1">Art/IconAtlas/JFD_RussiaNicholasAlphaAtlas_22.dds</File>
+    <File md5="CB8A2FE8C866F656BB31F5B961D2B487" import="1">Art/IconAtlas/JFD_RussiaNicholasAlphaAtlas_24.dds</File>
+    <File md5="12584262A72E852251D5AE88A7E1C5FC" import="1">Art/IconAtlas/JFD_RussiaNicholasAlphaAtlas_32.dds</File>
+    <File md5="15ECA7C33F1A589D9E8F8A99E52E4F6B" import="1">Art/IconAtlas/JFD_RussiaNicholasAlphaAtlas_45.dds</File>
+    <File md5="82B17A314BBAE32838E9D7AF722DE944" import="1">Art/IconAtlas/JFD_RussiaNicholasAlphaAtlas_48.dds</File>
+    <File md5="6BBECBA4CAB2F4AFDD268B536D96A096" import="1">Art/IconAtlas/JFD_RussiaNicholasAlphaAtlas_64.dds</File>
+    <File md5="5B51159C30E37103AEDC55DF8D862A44" import="1">Art/IconAtlas/JFD_RussiaNicholasAlphaAtlas_80.dds</File>
+    <File md5="1F489FA2981F0E0F06F580E8A0B9276B" import="1">Art/IconAtlas/JFD_RussiaNicholasAtlas_128.dds</File>
+    <File md5="6511D4A1C5D953875EAA43BF7C4A117C" import="1">Art/IconAtlas/JFD_RussiaNicholasAtlas_256.dds</File>
+    <File md5="618BA7BC02B9E5D5BC124D1D248EA35B" import="1">Art/IconAtlas/JFD_RussiaNicholasAtlas_32.dds</File>
+    <File md5="14083FB7C8998A9D05868769C5F94F6A" import="1">Art/IconAtlas/JFD_RussiaNicholasAtlas_45.dds</File>
+    <File md5="1780B54D9126B62D45B33411A4C9254E" import="1">Art/IconAtlas/JFD_RussiaNicholasAtlas_64.dds</File>
+    <File md5="56D9FF0066CFCEF74FC1D4D8C104404B" import="1">Art/IconAtlas/JFD_RussiaNicholasAtlas_80.dds</File>
+    <File md5="7CB9BC4D6F7941D757E208337D39B798" import="1">Art/Leaderscene/Nicholas_Diplo.dds</File>
+    <File md5="A0456AE50CD08A2370DCC0B31F40FCF0" import="1">Art/Leaderscene/Nicholas_Scene.xml</File>
+    <File md5="27B3FED97BAAA76EB60C41B3C318D835" import="1">Art/Map/NicholasRussiaMap512.dds</File>
+    <File md5="584828BFAF65DF8818A2E7D956B6F377" import="1">Art/Map/Nicholas_DOM.dds</File>
+    <File md5="FEAA9ED80CD5CBFE25095D51F4D0AB04" import="0">Audio/Audio.sql</File>
+    <File md5="6AAF3C80F39EE9709D981D098711F88A" import="1">Audio/Nicholas_Peace.mp3</File>
+    <File md5="EDEE7C577C04307EE374A3B46B462216" import="1">Audio/Nicholas_War.mp3</File>
+    <File md5="4E101B453FC119404CBBB33A69DED75A" import="0">Core/Bingles' Civ IV Traits Support/Leader_SharedTraits.sql</File>
+    <File md5="5E382C45009D0336A1187E4B64D30762" import="0">Core/Buildings.sql</File>
+    <File md5="D0449E54ACA723927038966C26A47180" import="0">Core/Civilizations.sql</File>
+    <File md5="506380E157D1109DB71174058F7E7090" import="0">Core/Diplomacy.sql</File>
+    <File md5="198C3801CE8BD4F206497F1AFF31F0D7" import="0">Core/DiplomacyText.xml</File>
+    <File md5="CB3E93E6C2299971245A254E68DA8C42" import="0">Core/GameText.xml</File>
+    <File md5="0D890D70A20EEE639AD08C6A0D2123EE" import="0">Core/Gedemon's YnAEMP Support/CivilizationStartPos.sql</File>
+    <File md5="95CC0F42C134899593F8715D1F1A5735" import="0">Core/hazel16's Map Labels Support/ML_Tables.sql</File>
+    <File md5="774E3D2E94ACED6D7B02FD3D417E3C42" import="0">Core/JFD's Cultural Diversity Support/Civilization_JFD_CultureTypes.sql</File>
+    <File md5="66FB3EC6D8C0863F2C76E648A8BF1BA2" import="0">Core/JFD's Piety and Prestige Support/Flavours.sql</File>
+    <File md5="310C357E2FA3D8E753BC8242AD19D36F" import="0">Core/Leaderhead.sql</File>
+    <File md5="B25F8D971A4AC0E5FA07F7A42788520A" import="0">Core/PlayerColours.sql</File>
+    <File md5="9245A0674B6F27B14A0ACFD4201EBA0D" import="0">Core/Promotions.sql</File>
+    <File md5="803D4EC82EE19A91538637239EADF540" import="0">Core/Ryoga's Unique Cultural Influence Support/GameText.xml</File>
+    <File md5="9ABB9DBF3774DE7D924AA0B92048B79A" import="0">Core/Sukritact's Decisions Support/Decisions.sql</File>
+    <File md5="8D67BDD188530BAC73D3403AE133111C" import="0">Core/Sukritact's Decisions Support/GameText.xml</File>
+    <File md5="28293B8B7580A5083836616E22E18B91" import="0">Core/Sukritact's Events Support/Events.sql</File>
+    <File md5="009DF628E0FC7B558FCE72B9E4795269" import="0">Core/Sukritact's Events Support/GameText.xml</File>
+    <File md5="CD3DCB519ACAA05E18029285BBDB4691" import="0">Core/Traits.sql</File>
+    <File md5="6DD1600BD4DDC215E93764E3B047551C" import="0">Core/Units.sql</File>
+    <File md5="B0BC367199B88C27E9B930A5A53EF9D3" import="0">Lua/JFD_RussiaNicholasIIFunctions.lua</File>
+    <File md5="9B09DB0BAA8DE38E4407AC91420F2985" import="1">Lua/RouteConnections.lua</File>
+    <File md5="3C005E9673369335FF98F9BE68A2A143" import="1">Lua/Sukritact's Decisions Support/JFD_RussiaNicholasIIDecisions.lua</File>
+    <File md5="A303095BBF1B927E8158760D101F88F0" import="1">Lua/Sukritact's Events Support/JFD_RussiaNicholasIIEvents.lua</File>
+    <File md5="86C1C3EDCE4699DE320A932C4E70E22C" import="0">Lua/Sukritact's Modular City Info Stack/CityInfoStack.lua</File>
+    <File md5="120EB71025973A8A48B38314241DD0B3" import="0">Lua/Sukritact's Modular City Info Stack/CityInfoStack.xml</File>
+    <File md5="586AFD893CC8AA1FCD8188F399F7DCAF" import="0">Lua/Sukritact's Modular City Info Stack/JFD_GuberniyasOfficeCityInfo.lua</File>
+    <File md5="5628673BA5BF335CA7675BA26C674916" import="0">Lua/Sukritact's Modular City Info Stack/JFD_GuberniyasOfficeCityInfo.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Audio/Audio.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Buildings.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Civilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DiplomacyText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Leaderhead.sql</UpdateDatabase>
+      <UpdateDatabase>Core/PlayerColours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Promotions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Units.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Gedemon's YnAEMP Support/CivilizationStartPos.sql</UpdateDatabase>
+      <UpdateDatabase>Core/hazel16's Map Labels Support/ML_Tables.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Decisions Support/Decisions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Decisions Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Events Support/Events.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Events Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Cultural Diversity Support/Civilization_JFD_CultureTypes.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Piety and Prestige Support/Flavours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Ryoga's Unique Cultural Influence Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Bingles' Civ IV Traits Support/Leader_SharedTraits.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_RussiaNicholasIIFunctions.lua">
+      <Name>JFD_RussiaNicholasIIFunctions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Sukritact's Modular City Info Stack/CityInfoStack.lua">
+      <Name>Sukritact's City Info Stack</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Sukritact's Modular City Info Stack/JFD_GuberniyasOfficeCityInfo.lua">
+      <Name>JFD_GuberniyasOfficeCityInfo</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

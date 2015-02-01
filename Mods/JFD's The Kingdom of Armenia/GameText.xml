@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Nakharar Conspiracy -->
+		<Row Tag="TXT_KEY_EVENT_JFD_ARMENIA_NAKHARAR_CONSPIRACY">
+			<Text>Nakharar Conspiracy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_ARMENIA_NAKHARAR_CONSPIRACY_DESC">
+			<Text>
+				The Nakharar families which continue to devote themselves to their pagan Gods conspire against us. An attempt upon our life has been uncovered, and those families which oppose our sovereignty and our conversion to {1_ReligionName} have been forced into the open.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_ARMENIA_NAKHARAR_CONSPIRACY_OUTCOME_1">
+			<Text>Pardon them. They merely follow their faith.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_ARMENIA_NAKHARAR_CONSPIRACY_OUTCOME_2">
+			<Text>Have them all executed. They are a threat to Armenia and her faith.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_ARMENIA_NAKHARAR_CONSPIRACY_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]30% chance that rebels will spawn near the [ICON_CAPITAL] Capital[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_GOLDEN_AGE] Golden Age points[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_ARMENIA_NAKHARAR_CONSPIRACY_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]30% chance that all cities besides the [ICON_CAPITAL] Capital will go into a turn of [ICON_RESISTANCE] Resistance[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_PEACE] Faith[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_ARMENIA_NAKHARAR_CONSPIRACY_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have pardoned the Nakharar conspirators.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_ARMENIA_NAKHARAR_CONSPIRACY_OUTCOME_RESULT_1_ALT_NOTIFICATION">
+			<Text>We have pardoned the Nakharar conspirators, but they have not appreciated our mercy and have risen up in opposition to our rulership.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_ARMENIA_NAKHARAR_CONSPIRACY_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have executed the Nakharar conspirators.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_ARMENIA_NAKHARAR_CONSPIRACY_OUTCOME_RESULT_2_ALT_NOTIFICATION">
+			<Text>We have executed the Nakharar conspirators, but this has caused shock amongst the aristocracy and have caused them to rebel.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_ARMENIA_NAKHARAR_CONSPIRACY">
+			<Text>A conspiracy to overthrow Tiridates III has been uncovered in Armenia.</Text>
+		</Row>
+		<!-- Comet Sighted -->
+		<Row Tag="TXT_KEY_EVENT_COMETSIGHTED_OUTCOME_6">
+			<Text>That would look great on a new coin!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_COMETSIGHTED_OUTCOME_RESULT_6">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_PEACE] Faith[NEWLINE][ICON_BULLET]Gain {2_Num} [ICON_GOLD] Gold[ENDCOLOR]</Text>
+		</Row>
+		<!-- Armenian Alphabet -->
+		<Row Tag="TXT_KEY_EVENT_JFD_ARMENIA_ALPHABET">
+			<Text>The Armenian Alphabet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_ARMENIA_ALPHABET_DESC">
+			<Text>
+				The Catholicos of the Armenian Apostolic Church, Sahak the Parthian, has petitioned us to adopt the alphabet created by the devout theologian Mesrop Mashtots. He has told us that doing as much will better unite the Armenian people together, and will only serve to strengthen our pious nation.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_ARMENIA_ALPHABET_OUTCOME_1">
+			<Text>Very well. I shall promulgate this alphabet as the alphabet of Armenians.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_ARMENIA_ALPHABET_OUTCOME_2">
+			<Text>No. Our existing language is ancient and sacred and cannot be replaced.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_ARMENIA_ALPHABET_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose 1 [ICON_MAGISTRATES] Magistrate[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]A [ICON_GOLDEN_AGE] Golden Age begins[NEWLINE][ICON_BULLET]Gain {1_Num} [ICON_PEACE] Faith[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_ARMENIA_ALPHABET_OUTCOME_RESULT_2">
+			<Text>[COLOR_POSITIVE_TEXT][ICON_BULLET]Gain {1_Num} [ICON_CULTURE] Culture[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_ARMENIA_ALPHABET_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have adopted the Armenian alphabet invented by Mesrop Mashtots.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_ARMENIA_ALPHABET_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have rejected the alphabet invented by Mesrop Mashtots.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_ARMENIA_ALPHABET">
+			<Text>A new alphabet has been created in Armenia by the theologian Mesrop Mashtots.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

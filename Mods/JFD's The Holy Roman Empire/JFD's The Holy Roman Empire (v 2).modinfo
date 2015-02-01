@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="8556a176-e72a-492a-9c9e-e8661895b1d9" version="2">
+  <Properties>
+    <Name>JFD's The Holy Roman Empire</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]The Holy Roman Empire[ENDCOLOR] with Charles V to the game</Teaser>
+    <Description>See CivFanatics or Steam Workshop for full details.</Description>
+    <Authors>JFD, Janboruta</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety &amp; Prestige" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events &amp; Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="E021F3457682778959EA0C3A7944C05A" import="0">Art/ArtDefines.sql</File>
+    <File md5="C48D070A6CFBA990C6AB6A8481D89DC7" import="1">Art/Graphics/Delegate/sv_Ambassador.dds</File>
+    <File md5="F7F6A7C7832E8130B2311A6DC641251C" import="1">Art/Graphics/Doppelsoldner/DBaro2nClay_gloss.dds</File>
+    <File md5="9A5E69D7340765F000790541CC6755AD" import="1">Art/Graphics/Doppelsoldner/DBaronClay.dds</File>
+    <File md5="98A2A197CAA34CB3CE1DF7828773CE1F" import="1">Art/Graphics/Doppelsoldner/DBaronClay_2.dds</File>
+    <File md5="3968FCCC56CD25DDDF439A02CD22E7BA" import="1">Art/Graphics/Doppelsoldner/dopp_a.fxsxml</File>
+    <File md5="0FA11A8C3578CC56B0332F96FB1533E5" import="1">Art/Graphics/Doppelsoldner/dopp_a.gr2</File>
+    <File md5="DCFC4E0E078AC21B62D76A75353E139C" import="1">Art/Graphics/Doppelsoldner/dopp_b.fxsxml</File>
+    <File md5="F2B945203EC6C485339E934C15662A37" import="1">Art/Graphics/Doppelsoldner/dopp_b.gr2</File>
+    <File md5="4A8AAADD77282D96CEA9F855F37FEC7D" import="1">Art/Graphics/Doppelsoldner/sv_Doppelsoldner.dds</File>
+    <File md5="7E757C5335C8A3FBF442B564101B6062" import="1">Art/Graphics/Doppelsoldner/u_german_landsknecht_a_diff.dds</File>
+    <File md5="1DC029A536B20446BC3CDB287B49D729" import="1">Art/Graphics/Doppelsoldner/u_german_landsknecht_a_sref.dds</File>
+    <File md5="7F8CBB3781E050BD44F9978ED58810C6" import="1">Art/Graphics/Doppelsoldner/u_german_landsknecht_b_diff.dds</File>
+    <File md5="2E66FAF173410C9A619E9084ED98A226" import="1">Art/Graphics/Doppelsoldner/u_german_landsknecht_b_sref.dds</File>
+    <File md5="2B392E9F6F58754BAC626B7CFDDDAC8E" import="1">Art/IconAtlas/JFD_AmbassadorUnitFlag_32.dds</File>
+    <File md5="6138E2A9F1A6A317EC6320E0FE45B0BE" import="1">Art/IconAtlas/JFD_AustriaAlphaAtlas_128.dds</File>
+    <File md5="71C2AF7B4E2123326B0DC90EB014B3A5" import="1">Art/IconAtlas/JFD_AustriaAlphaAtlas_16.dds</File>
+    <File md5="338EC2DD1687C66D9607F33A9C9B9E98" import="1">Art/IconAtlas/JFD_AustriaAlphaAtlas_22.dds</File>
+    <File md5="1F35B37340E75C51078A147298EC22DC" import="1">Art/IconAtlas/JFD_AustriaAlphaAtlas_24.dds</File>
+    <File md5="8D9CF649F48E34A6E766328E624FD7B9" import="1">Art/IconAtlas/JFD_AustriaAlphaAtlas_32.dds</File>
+    <File md5="C9D7E494205EF635D182BA07A2E0A571" import="1">Art/IconAtlas/JFD_AustriaAlphaAtlas_45.dds</File>
+    <File md5="C011D50D6D4D2B6A771186E1CE1F76BB" import="1">Art/IconAtlas/JFD_AustriaAlphaAtlas_48.dds</File>
+    <File md5="1E512647AE16006AF637066C094FE6F9" import="1">Art/IconAtlas/JFD_AustriaAlphaAtlas_64.dds</File>
+    <File md5="7F49B65FB0FA962817ABE3296EA4A91D" import="1">Art/IconAtlas/JFD_AustriaAlphaAtlas_80.dds</File>
+    <File md5="E313EB0233143C03B48647F0C3DFA53B" import="1">Art/IconAtlas/JFD_AustriaAtlas_128.dds</File>
+    <File md5="EFDEB18945B5E1EDB8A7F7A5E647C455" import="1">Art/IconAtlas/JFD_AustriaAtlas_256.dds</File>
+    <File md5="6177FCCF464E4A651AA89F7C3E8C9C51" import="1">Art/IconAtlas/JFD_AustriaAtlas_32.dds</File>
+    <File md5="C9076146C0C42002840998A5A5A2D6EB" import="1">Art/IconAtlas/JFD_AustriaAtlas_45.dds</File>
+    <File md5="E81A49687ADF607C4440F0EAEA56CBE6" import="1">Art/IconAtlas/JFD_AustriaAtlas_64.dds</File>
+    <File md5="6D5ACBCD54EF518FD21DF2A300CEAA4C" import="1">Art/IconAtlas/JFD_AustriaAtlas_80.dds</File>
+    <File md5="739690806C9AB5BCD0F6013DECCA8258" import="1">Art/IconAtlas/JFD_DoppelsoldnerUnitFlag_32.dds</File>
+    <File md5="4E08B3875EA4E4E543BAAA2F8FED92CF" import="1">Art/IconAtlas/JFD_HolyRomeAlphaAtlas_128.dds</File>
+    <File md5="2EB35A1708C97621A825FF9436CD2DB1" import="1">Art/IconAtlas/JFD_HolyRomeAlphaAtlas_16.dds</File>
+    <File md5="2E1CBF1FE96E1897FE0F09FD31A1AA41" import="1">Art/IconAtlas/JFD_HolyRomeAlphaAtlas_22.dds</File>
+    <File md5="699F4C1079FED6761E66D807B5D4B877" import="1">Art/IconAtlas/JFD_HolyRomeAlphaAtlas_24.dds</File>
+    <File md5="A4D5E1A91129C57C3C134C3194CB770D" import="1">Art/IconAtlas/JFD_HolyRomeAlphaAtlas_32.dds</File>
+    <File md5="AD48025826C42F92A76D919BFA9356F1" import="1">Art/IconAtlas/JFD_HolyRomeAlphaAtlas_45.dds</File>
+    <File md5="775C184857D49A38429AB88E701DFF99" import="1">Art/IconAtlas/JFD_HolyRomeAlphaAtlas_48.dds</File>
+    <File md5="759FBEB3146480A5DB621EBE92C57D4F" import="1">Art/IconAtlas/JFD_HolyRomeAlphaAtlas_64.dds</File>
+    <File md5="3128E15807BE1383199071A73F4D145A" import="1">Art/IconAtlas/JFD_HolyRomeAlphaAtlas_80.dds</File>
+    <File md5="009FA0E7DD458069054CA5ECD7F083FA" import="1">Art/IconAtlas/JFD_HolyRomeAtlas_128.dds</File>
+    <File md5="2E0026656682B74D725A2305E392C1E7" import="1">Art/IconAtlas/JFD_HolyRomeAtlas_256.dds</File>
+    <File md5="BE4486759626B058C95D9144B0F75B20" import="1">Art/IconAtlas/JFD_HolyRomeAtlas_32.dds</File>
+    <File md5="FB86996CA9D66D8BDB922955514892D7" import="1">Art/IconAtlas/JFD_HolyRomeAtlas_45.dds</File>
+    <File md5="F0C48B3CE94535527339936D031E9347" import="1">Art/IconAtlas/JFD_HolyRomeAtlas_64.dds</File>
+    <File md5="71E747717BE677CE7785394D604CEF76" import="1">Art/IconAtlas/JFD_HolyRomeAtlas_80.dds</File>
+    <File md5="52841B4976084B5C234C21F38864368D" import="1">Art/Leaderscene/CharlesV_Diplo.dds</File>
+    <File md5="1F4ABC311ED7AEDAC1E016E7C6501D78" import="1">Art/Leaderscene/CharlesV_Scene.xml</File>
+    <File md5="F60DAAA47A1A0EB8227DCDA28B1D96FF" import="1">Art/Map/CharlesV_DOM.dds</File>
+    <File md5="F6936728387CEFF04245FB7CB8932D19" import="1">Art/Map/HolyRomeMap512.dds</File>
+    <File md5="DDCD2ACC0670F5546105740BA6344653" import="0">Audio/Audio.sql</File>
+    <File md5="A90928DFCC136807733B93293F23962C" import="1">Audio/CharlesV_Peace.mp3</File>
+    <File md5="0C0A8E116DCE3CB86D4D7CC91C9085DC" import="1">Audio/CharlesV_War.mp3</File>
+    <File md5="DAEBEE415C8D21B0D19C5CB8F773DB50" import="0">Core/Buildings.sql</File>
+    <File md5="459D67A1D5753082EEC77AB9F08B8E8A" import="0">Core/Builds.sql</File>
+    <File md5="6AB9AC095974C236E294B5B9ADCC5D82" import="0">Core/Civilization.sql</File>
+    <File md5="FF343CEF3D4461E44828BA3DEBF5678E" import="0">Core/Diplomacy.sql</File>
+    <File md5="80C512854BBCEF17B3C8E5A436A8FE5D" import="0">Core/GameText.xml</File>
+    <File md5="DA923ACD2C94F672B61522234244B669" import="0">Core/Gedemon's YnAEMP Support/CivilizationStartPos.sql</File>
+    <File md5="C808AE2407BBB24E9F7694798AD60332" import="0">Core/hazel16's Map Labels Support/ML_Tables.sql</File>
+    <File md5="D27A70E6DEAFFB44D8802C9D6A3C7E11" import="0">Core/Improvements.sql</File>
+    <File md5="7474EC60A57EC2D8C76AC3E2BD2ECAA3" import="0">Core/JFD's Austria Revision/New Coffee House/Buildings.sql</File>
+    <File md5="11F7206FD4F89AD47F91FA782D390B4D" import="0">Core/JFD's Austria Revision/New Coffee House/GameText.xml</File>
+    <File md5="3E69D5DDD1A570DC5780D5CDF2DEC64B" import="0">Core/JFD's Austria Revision/New UA/Buildings.sql</File>
+    <File md5="1BBA6054412C6E5DB78BE811859B9660" import="0">Core/JFD's Austria Revision/New UA/GameText.xml</File>
+    <File md5="D9CB6B4A977EA37DF80CBCCC0C3FCA09" import="0">Core/JFD's Venice Revision/New Great Galleass/GameText.xml</File>
+    <File md5="A97AA854128FA95216134C66A533CE13" import="0">Core/JFD's Venice Revision/New Great Galleass/JFD_GreatGalleassFunctions.lua</File>
+    <File md5="E02C00046B7EE41FAC59233A05101853" import="0">Core/JFD's Venice Revision/New Great Galleass/Promotions.sql</File>
+    <File md5="E41195778F25D1C9C2EB2EAB13D21622" import="0">Core/JFD's Venice Revision/New Great Galleass/Units.sql</File>
+    <File md5="E207B87884F5DAF610D440707337F09B" import="0">Core/JFD's Venice Revision/New Merchant of Venice/ArtDefines.sql</File>
+    <File md5="1F8CBCC6CE492F24F56F7D09592C4DA8" import="0">Core/JFD's Venice Revision/New Merchant of Venice/GameText.xml</File>
+    <File md5="0567DF92724EEFCC3A5286272590B344" import="1">Core/JFD's Venice Revision/New Merchant of Venice/JFD_VenetianGlassFontIcons_22.ggxml</File>
+    <File md5="72C8F7DA0DA36308D6C0990F9393957A" import="1">Core/JFD's Venice Revision/New Merchant of Venice/JFD_VeniceAtlas_256.dds</File>
+    <File md5="D4BF2C277A013725CA40A09A41D33835" import="0">Core/JFD's Venice Revision/New Merchant of Venice/Promotions.sql</File>
+    <File md5="98F503BA43851DE922C45BD73EA8C706" import="1">Core/JFD's Venice Revision/New Merchant of Venice/VenetianGlass-FontIcons.dds</File>
+    <File md5="762EE49F707249AA1F6593FBEB46E90D" import="0">Core/JFD's Venice Revision/New UA/Civilizations.sql</File>
+    <File md5="E54CE97D86991C99FE3498B33058D177" import="0">Core/JFD's Venice Revision/New Merchant of Venice/JFD_MerchantOfVeniceFunctions.lua</File>
+    <File md5="9FAD002738F9598013B7E68B34D65AFC" import="0">Core/JFD's Venice Revision/New Merchant of Venice/Resources.sql</File>
+    <File md5="90A2C8B0D7BCDEB2AF0302BC17DD7704" import="0">Core/JFD's Venice Revision/New Merchant of Venice/Units.sql</File>
+    <File md5="A3D24DE5B2F22257F279694FCDEE38C1" import="0">Core/JFD's Venice Revision/New UA/Buildings.sql</File>
+    <File md5="DFE5ACCD7ABFEE97D087FA0E44DE83A1" import="0">Core/JFD's Venice Revision/New UA/GameText.xml</File>
+    <File md5="B9285E9B4F1E33168F8765D990D71588" import="0">Core/JFD's Venice Revision/New UA/Leaderhead.sql</File>
+    <File md5="00F73AA5692BB2BBB86A42A2C4FF92C2" import="0">Core/JFD's Venice Revision/New UA/Traits.sql</File>
+    <File md5="67A89C0B7C61A60E00B9F165907FEBB2" import="0">Core/JFD's Venice Revision/New UA/Units.sql</File>
+    <File md5="9534652D7CE61789EB0A8625EA52E3E3" import="0">Core/JFD's Austria Revision/New Coffee House/JFD_AustrianCoffeeHouseFunctions.lua</File>
+    <File md5="CC6C2BE972459A8F0D1804F49F4B77E4" import="0">Core/JFD's Austria Revision/New Icon/ArtDefines.sql</File>
+    <File md5="2127AEAD77A2F911CFCBFA7A308105EC" import="0">Core/JFD's Austria Revision/New Icon/Civilizations.sql</File>
+    <File md5="3947AF1599E6CAD9CA3752164F1AB7AA" import="0">Core/JFD's Austria Revision/New Icon/PlayerColours.sql</File>
+    <File md5="A060A9756F3DC9CF12BB8AB94F2D6215" import="0">Core/JFD's Austria Revision/New UA/Leaderhead.sql</File>
+    <File md5="12D181C1CD1A2738F547910827D80136" import="0">Core/JFD's Austria Revision/New UA/Traits.sql</File>
+    <File md5="1A5736CA07785F43D669C9426136EAC1" import="0">Core/JFD's Austria Revision/New UA/Units.sql</File>
+    <File md5="BD64D5D9A2CB043AD9C8ABF39E7EF253" import="0">Core/JFD's Cultural Diversity Support/Civilization_JFD_CultureTypes.sql</File>
+    <File md5="732FBAD2E6C8C6DEC81392934E08B7D9" import="0">Core/JFD's Dynamic Tooltip Support/TopPanelAddins.sql</File>
+    <File md5="9E8A9585153C3BAE5482EFA081904246" import="0">Core/JFD's Piety and Prestige Support/Flavours.sql</File>
+    <File md5="4D90696DF572656C973A24F82CED95BE" import="0">Core/Leaderhead.sql</File>
+    <File md5="CB6E1F154B544443EDD38C47324717D1" import="0">Core/PlayerColours.sql</File>
+    <File md5="976B9441F5201E87836B34C4A9C507BE" import="0">Core/Promotions.sql</File>
+    <File md5="53FF9D71D43E4290265858AFD8B34609" import="0">Core/Sukritact's Decisions Support/Decisions.sql</File>
+    <File md5="590C293DF22768F0CD54959E35107136" import="0">Core/Sukritact's Decisions Support/GameText.xml</File>
+    <File md5="DB849CDA62EBB607E6C6B76AC812064C" import="0">Core/Sukritact's Events Support/Events.sql</File>
+    <File md5="415F48DFC149B3AAC687A5D16BB94AC4" import="0">Core/Sukritact's Events Support/GameText.xml</File>
+    <File md5="DF6B55793BEF976B14370CDE86B5BF5C" import="0">Core/Traits.sql</File>
+    <File md5="D568B12320DFC78DCAA591FA9D1FCC2C" import="0">Core/Units.sql</File>
+    <File md5="AC785A415D1D20A40609C086BCFA5050" import="1">Lua/JFD's Dynamic Tooltip Support/JFD_HolyRomeDynamicTopPanelSupport.lua</File>
+    <File md5="B9E13C7F5BC792E5A07ABE309E5F3975" import="0">Lua/JFD_HolyRomanFunctions.lua</File>
+    <File md5="16BEF9BA4ABCC404616AA9F59C7862D8" import="1">Lua/Sukritact's Decisions Support/JFD_HolyRomeDecisions.lua</File>
+    <File md5="AC93B2A8C0F5EC22C8A900DDF98B79B4" import="1">Lua/Sukritact's Events Support/JFD_HolyRomeEvents.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Audio/Audio.sql</UpdateDatabase>
+      <UpdateDatabase>Art/ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Buildings.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Builds.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Civilization.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Leaderhead.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Improvements.sql</UpdateDatabase>
+      <UpdateDatabase>Core/PlayerColours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Promotions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Units.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Gedemon's YnAEMP Support/CivilizationStartPos.sql</UpdateDatabase>
+      <UpdateDatabase>Core/hazel16's Map Labels Support/ML_Tables.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Cultural Diversity Support/Civilization_JFD_CultureTypes.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Piety and Prestige Support/Flavours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Decisions Support/Decisions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Decisions Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Events Support/Events.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Events Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Dynamic Tooltip Support/TopPanelAddins.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Austria Revision/New Coffee House/Buildings.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Austria Revision/New Coffee House/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Austria Revision/New Icon/ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Austria Revision/New Icon/Civilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Austria Revision/New Icon/PlayerColours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Austria Revision/New UA/Buildings.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Austria Revision/New UA/Leaderhead.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Austria Revision/New UA/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Austria Revision/New UA/Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Austria Revision/New UA/Units.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Venice Revision/New Great Galleass/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Venice Revision/New Great Galleass/Promotions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Venice Revision/New Great Galleass/Units.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Venice Revision/New Merchant of Venice/ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Venice Revision/New Merchant of Venice/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Venice Revision/New Merchant of Venice/Promotions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Venice Revision/New Merchant of Venice/Resources.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Venice Revision/New Merchant of Venice/Units.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Venice Revision/New UA/Civilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Venice Revision/New UA/Units.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Venice Revision/New UA/Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Venice Revision/New UA/Leaderhead.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Venice Revision/New UA/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Venice Revision/New UA/Buildings.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_HolyRomanFunctions.lua">
+      <Name>JFD_HolyRomeFunctions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Core/JFD's Austria Revision/New Coffee House/JFD_AustrianCoffeeHouseFunctions.lua">
+      <Name>JFD_AustrianCoffeeHouseFunctions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Core/JFD's Venice Revision/New Great Galleass/JFD_GreatGalleassFunctions.lua">
+      <Name>JFD_GreatGalleasFunctions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Core/JFD's Venice Revision/New Merchant of Venice/JFD_MerchantOfVeniceFunctions.lua">
+      <Name>JFD_MerchantOfVeniceFunctions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

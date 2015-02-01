@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="fab51d41-7f5b-401c-9df0-73922a12e1d1" version="2">
+  <Properties>
+    <Name>JFD's The Kingdom of Scotland</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]The Kingdom of Scotland[ENDCOLOR] with James VI to the game.</Teaser>
+    <Description>See CivFanatics or Steam Workshop for full details.</Description>
+    <Authors>JFD, Janboruta, Viregel</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4&quot;" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events and Decisions" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety &amp; Prestige" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="1D5EFE7A449778357E0CEA6D2F54687D" import="0">Art/ArtDefines.sql</File>
+    <File md5="7E2B12DDB1122C97CA3EC544F298F1E8" import="1">Art/Graphics/celrm1.dds</File>
+    <File md5="800F1CC08E530A32DFD1F1B26943561F" import="1">Art/Graphics/celrm1.fxsxml</File>
+    <File md5="E62C9E36790354191ED4DF06F3C81E8E" import="1">Art/Graphics/celrm1.gr2</File>
+    <File md5="4214D79CCE7E4490677E58718CD7CC37" import="1">Art/Graphics/celrm1_sref.dds</File>
+    <File md5="2A29AB9A4C7146C2389321921D3C146B" import="1">Art/Graphics/celrm2.dds</File>
+    <File md5="13269347A05B32ACF5DE7DA4E2110A76" import="1">Art/Graphics/celrm2.fxsxml</File>
+    <File md5="6F4202DB60B6DA0BF46E9E8010940337" import="1">Art/Graphics/celrm2.gr2</File>
+    <File md5="3B69A268486C530A29BE6A1300B88CB2" import="1">Art/Graphics/celrm2_sref.dds</File>
+    <File md5="106804F920D37458C09DE40E8A72A707" import="1">Art/Graphics/celrm3.dds</File>
+    <File md5="CE456ABF5CDE4877687A64841706CC70" import="1">Art/Graphics/celrm3.fxsxml</File>
+    <File md5="BDDD2A89B93ED92656FC8B38381E9B04" import="1">Art/Graphics/celrm3.gr2</File>
+    <File md5="654CC813F8B9EEBD19491EFE94BA2A9F" import="1">Art/Graphics/celrm3_sref.dds</File>
+    <File md5="B9415B95F18D9779E8042D99A8A531C4" import="1">Art/Graphics/sv_Highlander.dds</File>
+    <File md5="D9566D571090763E6EDE380ACE64D98A" import="1">Art/Icon Atlas/JFD_ScotlandAlphaAtlas_128.dds</File>
+    <File md5="D55D1111137B5867096691F02D1A748E" import="1">Art/Icon Atlas/JFD_ScotlandAlphaAtlas_16.dds</File>
+    <File md5="C6F7F4E54B6CE6ACF6AFA286727DAAD7" import="1">Art/Icon Atlas/JFD_ScotlandAlphaAtlas_22.dds</File>
+    <File md5="614D8434C6020D64C67D90CDE8A5DD19" import="1">Art/Icon Atlas/JFD_ScotlandAlphaAtlas_24.dds</File>
+    <File md5="9A9104D0E9B78E5B1B570CFD2828B4B6" import="1">Art/Icon Atlas/JFD_ScotlandAlphaAtlas_32.dds</File>
+    <File md5="7B3A556D3C97E44CF62480A1C6DF347A" import="1">Art/Icon Atlas/JFD_ScotlandAlphaAtlas_45.dds</File>
+    <File md5="EA69EA1E35593AFC4EE904B5C3104CE4" import="1">Art/Icon Atlas/JFD_ScotlandAlphaAtlas_48.dds</File>
+    <File md5="C37795A8A51255D2C56424986A3C8FC0" import="1">Art/Icon Atlas/JFD_ScotlandAlphaAtlas_64.dds</File>
+    <File md5="49AD138BA2657445F7A6195C1DABAC79" import="1">Art/Icon Atlas/JFD_ScotlandAlphaAtlas_80.dds</File>
+    <File md5="1D5E8E24D7723A174754C94B45119496" import="1">Art/Icon Atlas/JFD_ScotlandAtlas_128.dds</File>
+    <File md5="2CE8BDBF31E411456DF0279EDC0FFE14" import="1">Art/Icon Atlas/JFD_ScotlandAtlas_256.dds</File>
+    <File md5="9A070CEEE1621FEA9EF027F07D6C17B3" import="1">Art/Icon Atlas/JFD_ScotlandAtlas_32.dds</File>
+    <File md5="905E658C567CDE8EF670209142194B83" import="1">Art/Icon Atlas/JFD_ScotlandAtlas_45.dds</File>
+    <File md5="A425012C522FF5CE5F4C52E2D0CC4DC5" import="1">Art/Icon Atlas/JFD_ScotlandAtlas_64.dds</File>
+    <File md5="65281131CA3175134209235731B5C9E8" import="1">Art/Icon Atlas/JFD_ScotlandAtlas_80.dds</File>
+    <File md5="E596933203B46A4C05A3812A8AEB5F30" import="1">Art/Icon Atlas/Unit_Highlander_Flag_32.dds</File>
+    <File md5="BBA266055038CE22677366012EFECEF8" import="1">Art/Leaderscene/James_diplo.dds</File>
+    <File md5="25E80EDF2524EA90D67FE266DC2F23A8" import="1">Art/Leaderscene/James_Scene.xml</File>
+    <File md5="7323C0D220B0F4778FCB50B7F52C71AD" import="1">Art/Map/James_DOM.dds</File>
+    <File md5="0DD6E640620898A8CB0FF7E415240DCE" import="1">Art/Map/ScotlandMap512.dds</File>
+    <File md5="94DF0514B91FACF910D3D56BC84BED2A" import="0">Audio/Audio.sql</File>
+    <File md5="DACA27DBD0E5C567483D8B946B162953" import="1">Audio/James_Peace.mp3</File>
+    <File md5="B139F39189FE2DDBD99300A6AD3C5479" import="1">Audio/James_War.mp3</File>
+    <File md5="F03ED912B7F6182450798562230F8461" import="0">Core/Bingles' Civ IV Traits Support/Leader_SharedTraits.sql</File>
+    <File md5="AFD05150A8BA71D2C29F931DA4BE7FB5" import="0">Core/Buildings.sql</File>
+    <File md5="843076AB6D7BF93533E7F9F723E58CB8" import="0">Core/Civilization.sql</File>
+    <File md5="A26DD8F12B4818971A370AAF7EB4D6F0" import="0">Core/Diplomacy.sql</File>
+    <File md5="F5EE612EE53646DBD70207869300D7DE" import="0">Core/DiplomacyText.xml</File>
+    <File md5="E000A9FD19A7E00AB51481B367EE4EA1" import="0">Core/GameText.xml</File>
+    <File md5="C16A898FA674A1834048BFAC39EA743D" import="0">Core/Gedemon's YnAEMP Support/CivilizationStartPos.sql</File>
+    <File md5="F9297443946C373F41F44B50F793982E" import="0">Core/hazel16's Map Labels Support/ML_Tables.sql</File>
+    <File md5="97F90687D64D696C6A275A59655CCCE5" import="0">Core/JFD's Cultural Diversity Support/Civilization_JFD_CultureTypes.sql</File>
+    <File md5="FAEA03611130D0DE2EC47C96BD0C12E9" import="0">Core/JFD's Piety and Prestige Support/Flavours.sql</File>
+    <File md5="8CE52CC938D850221F2EC3FE6E1A0C9E" import="0">Core/Leaderhead.sql</File>
+    <File md5="55D5BD11F88B5832E639163E1CD29088" import="0">Core/PlayerColours.sql</File>
+    <File md5="9D19E9113F60D1F4FFCC3008695BDFD9" import="0">Core/Promotions.sql</File>
+    <File md5="2E7398E96B4ACC32DC4AE84EA6235BBD" import="0">Core/Ryoga's Unique Cultural Influence Support/GameText.xml</File>
+    <File md5="09559651CE12E52D4A045A13D507B3BA" import="0">Core/Sukritact's Decisions Support/Decisions.sql</File>
+    <File md5="C05C00A2089F913F479EE627A05379FA" import="0">Core/Sukritact's Decisions Support/GameText.xml</File>
+    <File md5="8ED728BC54775BAA14E3CB02AF0B60A6" import="0">Core/Sukritact's Events Support/Events.sql</File>
+    <File md5="82E8D99D6615C61DA82137A732A915E2" import="0">Core/Sukritact's Events Support/GameText.xml</File>
+    <File md5="8582E86628BD8DE09E20369094D7671A" import="0">Core/Traits.sql</File>
+    <File md5="F52EF47FDD2AEED9A4D45650ED05AE34" import="0">Core/Units.sql</File>
+    <File md5="DC07C40F46DFA44EB38799F5CFF547EA" import="0">Lua/JFD_ScotlandFunctions.lua</File>
+    <File md5="5B0C42B5047539658E53EC1C7E9F0F50" import="1">Lua/Sukritact's Decisions Support/JFD_ScotlandDecisions.lua</File>
+    <File md5="47D655A64017F336D1DB0A161D7B408B" import="1">Lua/Sukritact's Events Support/JFD_ScotlandEvents.lua</File>
+    <File md5="4486E05E92C6A1829D1BD4FC8EAB80DE" import="1">Lua/UI/InGame/Popups/CultureOverview.lua</File>
+    <File md5="BF85D174CA9D4F2EC2AD7E3FBB6C0D6D" import="1">Lua/UI/InGame/Popups/CultureOverview.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Audio/Audio.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Gedemon's YnAEMP Support/CivilizationStartPos.sql</UpdateDatabase>
+      <UpdateDatabase>Core/hazel16's Map Labels Support/ML_Tables.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Piety and Prestige Support/Flavours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Decisions Support/Decisions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Decisions Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Events Support/Events.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Events Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Ryoga's Unique Cultural Influence Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Cultural Diversity Support/Civilization_JFD_CultureTypes.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Bingles' Civ IV Traits Support/Leader_SharedTraits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Buildings.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Civilization.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DiplomacyText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Leaderhead.sql</UpdateDatabase>
+      <UpdateDatabase>Core/PlayerColours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Promotions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Units.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_ScotlandFunctions.lua">
+      <Name>JFD_ScotlandFunctions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

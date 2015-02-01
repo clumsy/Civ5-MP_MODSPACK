@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Workers on Strike -->
+		<Row Tag="TXT_KEY_EVENT_JFD_USSR_STALIN_WORKER_STRIKE">
+			<Text>Workers on Strike</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_USSR_STALIN_WORKER_STRIKE_DESC">
+			<Text>A worker strike has begun in {1_CityName}. Disgruntled labourers are accusing our government of not taking their interests seriously, and that our pledge to the cause of the working man is mere empty rhetoric. We must put an end to these demonstrations, and show that they cannot be tolerated.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_USSR_STALIN_WORKER_STRIKE_OUTCOME_1">
+			<Text>We will put them down with force!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_USSR_STALIN_WORKER_STRIKE_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]{1_CityName} goes into 1 to 3 turns of [ICON_RESISTANCE] Resistance[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain a free Gun Unit[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_USSR_STALIN_WORKER_STRIKE_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have resolved to put down the strike in {1_CityName} by force.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_USSR_STALIN_WORKER_STRIKE_OUTCOME_2">
+			<Text>Let them strike.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_USSR_STALIN_WORKER_STRIKE_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]{1_CityName} goes into 1 turn of [ICON_RESISTANCE] Resistance[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_USSR_STALIN_WORKER_STRIKE_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have allowed the worker strike in {1_CityName} to run its course.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_WORLD_EVENT_USSR_STALIN_WORKER_STRIKE_1">
+			<Text>Joseph Stalin has put a violent end to a worker strike in the Soviet Union.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_WORLD_EVENT_USSR_STALIN_WORKER_STRIKE_2">
+			<Text>Worker strikes have begun in the Soviet Union.</Text>
+		</Row>
+		<!-- Revolutionary Movement -->
+		<Row Tag="TXT_KEY_EVENT_JFD_USSR_STALIN_REVOLUTIONARY_MOVEMENT">
+			<Text>Revolutionary Movement</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_USSR_STALIN_REVOLUTIONARY_MOVEMENT_DESC">
+			<Text>We have been informed by one of the loyal members of our governemnt that one of our high-ranking Ministers is co-operating with an underground revolutionary movement. This kind of disloyalty is of the highest treason and must be put to an end.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_USSR_STALIN_REVOLUTIONARY_MOVEMENT_OUTCOME_1">
+			<Text>Have the Minister put on trial.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_USSR_STALIN_REVOLUTIONARY_MOVEMENT_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]30% chance that Rebels will spawn near the [ICON_CAPITAL] Capital[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]The [ICON_CAPITAL] Capital begins celebrating 'We Love the King Day'[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_USSR_STALIN_REVOLUTIONARY_MOVEMENT_OUTCOME_RESULT_1_ALT_NOTIFICATION">
+			<Text>We have put on trial a Minister accused of treason, sparking the underground movement with which he was co-operating to rise up against us.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_USSR_STALIN_REVOLUTIONARY_MOVEMENT_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have put on trial a Minister accused of treason.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_USSR_STALIN_REVOLUTIONARY_MOVEMENT_OUTCOME_2">
+			<Text>The Minister will be forgiven.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_USSR_STALIN_REVOLUTIONARY_MOVEMENT_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Nothing[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_USSR_STALIN_REVOLUTIONARY_MOVEMENT_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have forgiven a Minister accused of treason.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

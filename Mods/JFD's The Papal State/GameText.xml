@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- The Papal States -->
+		
+		<!--<Row Tag="TXT_KEY_CIV5_JFD_PAPAL_STATES_HEADING_2">
+			<Text>Geography and Climate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_PAPAL_STATES_TEXT_2">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_PAPAL_STATES_FACTOID_HEADING">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_PAPAL_STATES_FACTOID_TEXT">
+			<Text></Text>
+		</Row>
+		 City Names -->
+		
+		<!-- Pius IX -->
+		
+		<!-- Diplomacy -->
+		<Row Tag="TXT_KEY_LEADER_PIUS_IX_DEFEATED_1">
+			<Text>Long may you swelter in the light of God.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PIUS_IX_DEFEATED_2">
+			<Text>Woe to you, faithless beast.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PIUS_IX_FIRSTGREETING_1">
+			<Text>Hello, my child. I am Pius IX, Vicar of Christ and Bishop of Rome. I know how to dress for every occasion. Would you care to know also?</Text>
+		</Row>
+    	<Row Tag="TXT_KEY_LEADER_PIUS_IX_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Know that you have not the blessing of the Church to continue your wanton land whoring.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PIUS_IX_FIRSTGREETING_2">
+			<Text>Welcome, my child, I am Piux IX. You have finally come. Welcome to the Kingdom of God.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PIUS_IX_GREETING_HOSTILE_HELLO_1">
+			<Text>Ah, yes. Hello filthy heathen. What do you want?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PIUS_IX_GREETING_NEUTRAL_HELLO_1">
+			<Text>Greetings, my son.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PIUS_IX_GREETING_POLITE_HELLO_1">
+			<Text>Dear friend, how may I help you today?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PIUS_IX_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Stand down your men or let them face the wrath of God.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PIUS_IX_LUXURY_TRADE_1">
+			<Text>What do you think of this, my child?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PIUS_IX_OPEN_BORDERS_EXCHANGE_1">
+			<Text>Come, let us not be bound by petty borders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PIUS_IX_RESPONSE_REQUEST_1">
+			<Text>Blessings. You will donate this to me, yes?</Text>
+		</Row>
+		<!-- Glory of God -->
+		<Row Tag="TXT_KEY_TRAIT_JFD_PAPAL_STATES_SHORT">
+			<Text>Glory of God</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_PAPAL_STATES">
+			<Text>[ICON_TOURISM] Tourism is increased by 50% with Civilizations that share your Religion. 50% of [ICON_PEACE] Faith in a city contributes toward the birth of Disciples, which may create Great Works. Begin with +1 [ICON_PEACE] Faith instead of [ICON_CULTURE] Culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_JFD_DISCIPLE">
+			<Text>Disciple</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_JFD_MISSIONARY">
+			<Text>Missionary</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_JFD_DISCIPLE_STRATEGY">
+			<Text>Disciples are used to create Great Works of Art, Music or Writing.</Text>
+		</Row>
+		<!-- Apostolic Palace -->
+		<Row Tag="TXT_KEY_BUILDING_APOSTOLIC_PALACE">
+			<Text>Apostolic Palace</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_APOSTOLIC_PALACE_TEXT">
+			<Text>The Apostolic Palace, located in Vatican City, is the official residence of the Pope, since the 15th century. The Palace is notable for its large collective of frescos; particularly those found in the Sistine Chapel.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_APOSTOLIC_PALACE_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_APOSTOLIC_PALACE_STRATEGY">
+			<Text>Your Palace is the seat of your government. Early in the game it provides a significant portion of your capital city's faith, gold, science, and production. It also forms the heart of your empire's trading system. Although the palace is automatically rebuilt in another city if your capital is captured, it can still be a terrible blow to your civilization (and it makes it impossible to win a Domination victory until you get it back). Protect your Palace!</Text>
+		</Row>
+		<!-- Church -->
+		<Row Tag="TXT_KEY_BUILDING_JFD_CHURCH">
+			<Text>Church</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDING_JFD_CHURCH_TEXT">
+			<Text>A church is any place used for religious worship, mostly in the Christian religion. Traditionally, Christian churches are designed in such a way that they inspire passer-bys to gaze toward the sky; often complemented by high towers or domes, so as to inspire and invite members of the community in. Churches are not restricted to religious activity, however, as many churches today and historically have provided other community services; such as shelter for the homeless or the victimized, or counselling and guidance to the bereaved.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_CHURCH_HELP">
+			<Text>An additional +50% of [ICON_PEACE] Faith produced by this city contributes toward the birth of Disciples. It also contributes toward the birth of Missionaries.</Text>
+		</Row>
+		<!-- St. Peter's Basilica -->
+		<Row Tag="TXT_KEY_BUILDING_JFD_ST_PETERS_BASILICA">
+			<Text>St. Peter's Basilica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDING_JFD_ST_PETERS_BASILICA_TEXT">
+			<Text>Basilica Papale di San Pietro in Vaticano, better known as St. Peter's Basilica, is a late Renaissance church in Vatican City, with the largest interior of any Christian church in the world. The supposed burial site of the apostle Peter in 64 AD, some years later a shrine was constructed there. Replacing the shrine, construction of "old" St. Peter's was begun by the Emperor Constantine between 319 and 333 AD. Having fallen into serious disrepair over the centuries, Pope Julius II in 1505 determined to demolish the old church and replace it with a monumental structure, a construction project that spanned the next 120 years under a succession of popes and architects. To finance the colossal project, a number of popes authorized the wholesale selling of indulgences, a practice that led in part to Martin Luther's protestant movement. With work by some of the Renaissance's leading figures - Michelangelo, Raphael, Bramante, Bernini and others - the church now stands as one of the great treasures of Western civilization.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_ST_PETERS_BASILICA_HELP">
+			<Text>Increases Religious Pressure by 100% and provides a free Cathedral in the city in which it is built. [NEWLINE][NEWLINE]+1 [ICON_PEACE] Faith for every Great Work in this city.[NEWLINE][NEWLINE]An additional +50% of [ICON_PEACE] Faith produced by this city contributes toward the birth of Disciples. It also contributes toward the birth of Missionaries. [NEWLINE][NEWLINE]Must be built in a Holy City. [NEWLINE][NEWLINE]Requires Temples in all cities if produced.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ST_PETERS_ALERT">
+			<Text>You receive {1_Num} [ICON_PEACE] Faith from the artwork of your Holy City.</Text>
+		</Row>
+	
+		<!-- Swiss Guard -->
+		
+		<Row Tag="TXT_KEY_SWISS_GUARD_ALERT">
+			<Text>You receive {1_Num} [ICON_CULTURE] Culture from the garrison of your Swiss Guards.</Text>
+		</Row>
+		<!-- Swiss Guard Promotion -->
+		<Row Tag="TXT_KEY_PROMOTION_SWISS_GUARD">
+			<Text>Pontifical Swiss Guard</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SWISS_GUARD_HELP">
+			<Text>+15% [ICON_STRENGTH] Combat Strength when [COLOR_TEXT_POSITIVE]Defending[ENDCOLOR].</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

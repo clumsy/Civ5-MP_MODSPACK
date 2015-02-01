@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- DIPLOMACY: VANILLA Vanilla -->
+		<!--First Greeting messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_FIRSTGREETING_1">
+			<Text>Glory to you, friend! I am Charlemagne, Emperor of the Romans and stalwart defender of the Holy Kingdom of God. What light has beckoned you to me this day?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_FIRSTGREETING_2">
+			<Text>Salutations, leader. I am Charlemagne, holy Emperor of the Romans and King of the Franks. Are you a pious ruler, as am I? Or at least, one worthy of my audience?</Text>
+		</Row>
+		<!--Defeated messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_DEFEATED_1">
+			<Text>Lay me to rest and watch the skies as God mourns my demise, for he shall strike a pestilence upon your victory, and one day I shall have my vengeance.</Text>
+		</Row>
+		<!--First Greeting from leaders that don't have their own file yet-->
+		<!-- Human repeats an action too much, gets the following responses -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_REPEAT_TOO_MUCH">
+			<Text>...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_REPEAT_TRADE_1">
+			<Text>Didn't I already say you would have to do better?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_REPEAT_TRADE_2">
+			<Text>I already told you to only bother offering a fair deal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_REPEAT_TRADE_3">
+			<Text>Are you offering deals you know I won't accept?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_GREETING_REPEAT_1">
+			<Text>Back so soon?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_GREETING_REPEAT_2">
+			<Text>You sure do like talking to me don't you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_GREETING_HOSTILE_REPEAT_1">
+			<Text>I have told you enough that this deal is simply ridiculous and I shall not accept it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_GREETING_HOSTILE_REPEAT_2">
+			<Text>And what do you want this time?</Text>
+		</Row>
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_GREETING_POLITE_HELLO_1">
+			<Text>Ah, my greatest friend, you return!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_GREETING_POLITE_HELLO_2">
+			<Text>It's always a pleasure speaking with you. What would you like to discuss?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_GREETING_POLITE_HELLO_3">
+			<Text>Hello again my friend.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_GREETING_POLITE_HELLO_4">
+			<Text>Great to see you again. Do you come with news, or perhaps an offer?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_GREETING_NEUTRAL_HELLO_1">
+			<Text>Greetings.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_GREETING_NEUTRAL_HELLO_3">
+			<Text>What would you like to discuss?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_GREETING_NEUTRAL_HELLO_4">
+			<Text>What brings you here today?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_GREETING_NEUTRAL_HELLO_5">
+			<Text>Go on.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_GREETING_NEUTRAL_HELLO_6">
+			<Text>Let us begin.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_GREETING_HOSTILE_HELLO_1">
+			<Text>What does the beast want with me?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_GREETING_HOSTILE_HELLO_2">
+			<Text>Why are you here?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_GREETING_HOSTILE_HELLO_3">
+			<Text>What business do you have here?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_GREETING_HOSTILE_HELLO_4">
+			<Text>Oh great, you again?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_GREETING_HOSTILE_HELLO_5">
+			<Text>Get on with it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_GREETING_DESTRUCTION_LOOMS_1">
+			<Text>The end is near. What is it you wish to speak about?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_GREETING_DESTRUCTION_LOOMS_2">
+			<Text>I know when I'm staring defeat in the face. Have you come to discuss terms?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_GREETING_AT_WAR_WANTS_PEACE_1">
+			<Text>Is it not time we ended this war?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_GREETING_AT_WAR_WANTS_PEACE_2">
+			<Text>For the good of our two nations, let us make peace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_GREETING_AT_WAR_WANTS_PEACE_3">
+			<Text>The time has come to put down our arms.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_GREETING_AT_WAR_HOSTILE_1">
+			<Text>Come to beg for mercy?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_GREETING_AT_WAR_HOSTILE_2">
+			<Text>Lost the will to fight?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_GREETING_AT_WAR_HOSTILE_3">
+			<Text>What's the matter? Tired of battle?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_GREETING_BROKEN_MILITARY_PROMISE_1">
+			<Text>What business does a dishonorable individual such as yourself have here?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_GREETING_WORKING_WITH_1">
+			<Text>Always a pleasure working with you, friend. What brings you to my court?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_GREETING_COOP_WAR_1">
+			<Text>It won't be long before we'll have dealt with {1_ThirdPlayerName:textkey}. I can just feel it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_GREETING_COOP_WAR_2">
+			<Text>I hope you're looking forward to the downfall of {1_ThirdPlayerName:textkey} as much as I am.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_GREETING_COOP_WAR_3">
+			<Text>Soon we'll have dealt with {1_ThirdPlayerName:textkey} once and for all.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>How goes your terrible war? If it is going well, then perhaps I should join forces against you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_GREETING_HUMAN_AT_WAR_1">
+			<Text>I wish you honour and glory in your current battle, friend.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_GREETING_HOSTILE_AGGRESSIVE_MILITARY_1">
+			<Text>I will not tolerate the armies that you are amassing at my borders. If you do not remove them, I will respond with deft aggression.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_GREETING_AGGRESSIVE_MILITARY_1">
+			<Text>The positioning of your military is somewhat worrisome. I advise you to withdraw for the sake of future peace. Now, what would you like to talk about?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>Continue to settle lands which I design for my empire and we shall have serious complications between us.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>Your rapid expansion is alarming my court. They have advised me to warn you against it, and I must agree.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>The rate at which you are buying up this earth is alarming! I urge you to temper your gluttony, or I will take it upon myself to force you to cease.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>Your rapid expansion is alarming my court. They have advised me to warn you against it, and I must agree.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>You army is strong. But this is good to see. I wish for your empire to be around for a long time to come.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>Your empire is famed for its prospering economy. Tell me, how do you do it? Is it extra praying?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_GREETING_HOSTILE_HUMAN_FEW_CITIES_1">
+			<Text>You have such a small empire it is not even worth conquering. I shall eventually, but I shall take no pleasure in doing so.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>Your army would do well to return to the fields from which it came.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>Your sins are known to me and the world over. You are a bloodthirsty tyrant and I take no pleasure in seeing your face here.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_TOO_SOON_FOR_DOF_1">
+			<Text>Of course not! For such dishonour you wield in your heart, you are no friend of mine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_DOF_AI_DENOUNCE_REQUEST_1">
+			<Text>Friend, I have a serious matter to discuss. My relationship with {1_CivName} has broken down, and I need you to denounce them as a show of support. What do you say?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_DOF_NOT_HONORED_1">
+			<Text>Pathetic. So you now show your true colors. The world will know of your dishonor.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_DOF_NOT_HONORED_2">
+			<Text>So that is the kind of ally you are then? The rest of the world's leaders will hear of your betrayal.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_DENOUNCING_FRIEND_1">
+			<Text>I've had enough of you. I've told the other leaders of the world that working with you is a mistake.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_DENOUNCING_FRIEND_2">
+			<Text>Alright, enough is enough. Informing everyone else of your ill deeds is long overdue.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>You have no honour. I will not take lightly to this foolish action.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HUMAN_DOFED_FRIEND_1">
+			<Text>Ahhh, I've noticed that you've become friends with {1_CivName}. Glad to hear of it. I'm already on good terms with them myself.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HUMAN_DOFED_ENEMY_1">
+			<Text>I recommend that you not get too close with {1_CivName}. If so... we might have problems getting along.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>I'll have you know that {1_CivName} and I have worked together in the past, and I have the utmost respect for them. Just so you're aware.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>Glad to hear there are others in the world which share my disgust with {1_CivName}. They are clearly not to be trusted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>Being on such good terms, I couldn't help but notice that you'd become friends with {1_CivName}. I have done the same. Perhaps this makeshift alliance will lead to great things in the future?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>I share your convictions that {1_CivName} only causes problems for the civilized empires of the world. Perhaps the combination of our denouncements will teach them a lesson.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>Oh great, now the vermin are breeding. Now I have to deal with both you and {1_CivName}? I'll have to teach them a lesson.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HUMAN_DENOUNCE_SO_AI_DOF_1">
+			<Text>Anyone who you don't get along with is clearly worth building a friendship with. Give {1_CivName} my regards.</Text>
+		</Row>
+		<!-- LEADER_JFD_CHARLEMAGNE Diplo Text -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>I see your armies amassed near my empire. If you wish to attack then come. Don't hide in the shadows like a child.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>You stand down your men or I shall not be frightened to do war against them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_KILLED_PROTECTED_CITY_STATE_1">
+			<Text>It seems your word is worth nothing, as your conquest of {@1_MinorCivName} shows. How despicable. The world will know of your crimes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_ATTACKED_PROTECTED_CITY_STATE_1">
+			<Text>Your wanton aggression against {@1_MinorCivName} does not go unnoticed. You will face serious consequences should you continue assault.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_EXPANSION_SERIOUS_WARNING_1">
+			<Text>You're going too far with your imperial designs. Cease it at once, or face the wrath of my Kingdom.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_EXPANSION_WARNING_1">
+			<Text>Your expansion efforts worry me. They threaten to get in the way of my designs.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_EXPANSION_WARNING_2">
+			<Text>Your habit of claiming every bit of land you've spotted has not gone unnoticed. I advise you to discontinue this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_EXPANSION_WARNING_3">
+			<Text>If you should continue to expand your empire in lands I feel are mine it can only ruin the possibility of friendship between us.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_EXPANSION_WARNING_4">
+			<Text>The settling of your people near my sovereign territory is placing a strain upon relations between our two nations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_EXPANSION_BROKEN_PROMISE_1">
+			<Text>Your guarantee of not expanding near us seems to have been empty words. Know that there will be consequences for this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>You're going too far with your imperial designs. Cease it at once, or face the wrath of my Kingdom.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_PLOT_BUYING_WARNING_1">
+			<Text>Your expansion efforts worry me. They threaten to get in the way of my imperial designs.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_PLOT_BUYING_BROKEN_PROMISE_1">
+			<Text>So it seems you lied when you told us that your empire would stop purchasing land near us. I do not take this insult lightly.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_PLOT_BUYING_BROKEN_PROMISE_2">
+			<Text>I am very disappointed that you did not stop funding land acquisition near my territory. I had hoped you were a more honorable leader.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_WORK_WITH_US_1">
+			<Text>Let us declare friendship, for with honour and dignity our two empires have prospered long together, and the world must know of this great harmony!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_DEC_FRIENDSHIP_1">
+			<Text>Let us declare friendship, for with honour and dignity our two empires have prospered long together, and the world must know of this great harmony!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_DENOUNCE_1">
+			<Text>The indignity of your rule must be brought to justice. The Empire of Charlemagne declares your barbarity before the world.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_COOP_WAR_REQUEST_1">
+			<Text>{1_PlayerName:textkey} wishes to do battle with me, and I wish to do battle with them. But I need allies, and I need an ally in you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_COOP_WAR_TIME_1">
+			<Text>The time for war against {1_PlayerName:textkey} has dawned. Honour thine pledge and join me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_NOW_UNFORGIVABLE_1">
+			<Text>Your actions are unforgivable. There can never be reconciliation between our two nations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_NOW_ENEMY_1">
+			<Text>Given the circumstances, I have no choice but to assume you are my enemy. As such, I will do what I must to protect my interests.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_COMPLIMENT_1">
+			<Text>I wanted to make it known to you that I value our friendship, and hope that it might remain strong.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_BOOT_KISSING_1">
+			<Text>It is clear to all that you are a wise and mighty ruler. I ask that you might also be compassionate towards those like myself who are weak.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_BOOT_KISSING_2">
+			<Text>Oh great one, my hope is that you will long serve as a paragon of strength and virtue for lesser leaders such as myself.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_WARMONGER_1">
+			<Text>Your highly aggressive behavior has not gone unnoticed. Should you keep it up, it will ultimately lead to your downfall.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_WARMONGER_2">
+			<Text>It's clear you're a fairly uncivilized brute. I have to warn you, your actions are starting to attract quite a bit of attention.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_WARMONGER_3">
+			<Text>Your warmongering is a popular topic these days. Better watch your back.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_WARMONGER_4">
+			<Text>You're starting to attract quite a bit of attention. That's not a good thing.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_MINOR_CIV_COMPETITION_1">
+			<Text>It's come to my attention that you're getting a little friendly with {1_MinorCivName:textkey}. In case you weren't aware, they're within my sphere of influence, and I'd prefer if you stayed out of it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_MINOR_CIV_COMPETITION_2">
+			<Text>I've noticed your relationship with {1_MinorCivName:textkey}. While that's nice, it would be best that you leave their protection to us. I'd hate for either of us to step on any toes.</Text>
+		</Row>
+		<!--Insults-->
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_INSULT_JFD_CHARLEMAGNE_1">
+			<Text>I couldn't help but notice how pathetic you are. And when I realized it I couldn't help but share.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_INSULT_JFD_CHARLEMAGNE_2">
+			<Text>Ah, it's always nice to see my favorite city-state again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_INSULT_JFD_CHARLEMAGNE_3">
+			<Text>I'm really getting tired of seeing your face. My hope is that one day you'll just go away or something.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_INSULT_JFD_CHARLEMAGNE_4">
+			<Text>Ah, it's you. My apologies. Sometimes I get you mixed up with the barbarians I have to swat from time to time.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_INSULT_MILITARY_1">
+			<Text>To think of conquering you brings me much shame, for your army is so pathetic it would confer no honour upon me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_INSULT_BULLY_1">
+			<Text>It's a shame there are some leaders in this world who have their fun by picking on the weak. Don't you agree?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_INSULT_UNHAPPINESS_1">
+			<Text>I can hear your people wailing in sorrow all the way over in my empire. If you don't do something soon they might just pack up and find a real civilization to live in.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_INSULT_UNHAPPINESS_2">
+			<Text>With people so unhappy it's a shock to me that they'd keep you around as their leader.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_INSULT_CITIES_1">
+			<Text>Its come to my attention that your empire appears to be quite puny. Maybe you would be better off as a part of my soviet union?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_INSULT_POPULATION_1">
+			<Text>Travelers have told us that your empire's economy is in pretty sad shape. If you had only not fallen into the trap of capitalism, you wouldn't be in this mess.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_INSULT_CULTURE_1">
+			<Text>What a sad sight... your empire is so faithless.</Text>
+		</Row>
+		<!--Public Declarations-->
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}. Attacking the City-State will greatly damage relations and may lead to war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<!--Human is asking the AI for something-->
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_REPEAT_NO_1">
+			<Text>We've been over this before. The answer is still no.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_DONT_SETTLE_YES_1">
+			<Text>I agree. I would not want this to come between us honourable lords.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_DONT_SETTLE_NO_1">
+			<Text>I cannot, for the lands that I intend to claim belong to my children.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_WORK_WITH_US_YES_1">
+			<Text>That will work. May a strong friendship lead to the flourishing of our empires.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_WORK_WITH_US_YES_2">
+			<Text>An excellent idea. May our alliance be the envy of the world.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_WORK_WITH_US_YES_3">
+			<Text>I am happy to accept. May our empires prosper in friendship.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_DECLINE_1">
+			<Text>I must decline.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_DECLINE_2">
+			<Text>Sorry, but no. Perhaps another time.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_DECLINE_3">
+			<Text>I fear that such an arrangement is not in my best interests, so I must decline.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_COOP_WAR_YES_1">
+			<Text>That sounds like a wise move. Let us take to the battlefield.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_COOP_WAR_SOON_1">
+			<Text>That is an intriguing offer. I accept. However, my empire is not yet prepared, so give me 10 turns. I will come to you again when I am ready.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HUMAN_DEMAND_YES_1">
+			<Text>Very well. I do what I must to maintain peace in my lands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HUMAN_DEMAND_YES_2">
+			<Text>I will do what it takes to keep the peace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HUMAN_DEMAND_YES_3">
+			<Text>Fine. But know that you poison your reputation with acts such as these. For what that might be worth to you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HUMAN_DEMAND_REFUSE_WEAK_1">
+			<Text>Please. You're in no position to make such demands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HUMAN_DEMAND_REFUSE_WEAK_2">
+			<Text>You should be well aware of your own inability to back those threats up.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HUMAN_DEMAND_REFUSE_WEAK_3">
+			<Text>You're not fooling anyone. I have nothing to fear from you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HUMAN_DEMAND_REFUSE_WEAK_4">
+			<Text>Haha! You are not strong enough to make such demands of me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HUMAN_DEMAND_REFUSE_HOSTILE_1">
+			<Text>You dare insult me in such a manner? If you want something so badly then do your best to come and take it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HUMAN_DEMAND_REFUSE_HOSTILE_2">
+			<Text>You'll have to take it from my dead body.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HUMAN_DEMAND_REFUSE_HOSTILE_3">
+			<Text>If you want that you'll have to come and get it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HUMAN_DEMAND_REFUSE_HOSTILE_4">
+			<Text>Unacceptable.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HUMAN_DEMAND_REFUSE_HOSTILE_5">
+			<Text>Don't be a fool.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HUMAN_DEMAND_REFUSE_TOO_MUCH_1">
+			<Text>You ask for too much. I will not drive my nation into poverty to satisfy your greed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HUMAN_DEMAND_REFUSE_TOO_MUCH_2">
+			<Text>No. I have my dignity, and refuse to hand over such a great bounty so freely.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HUMAN_DEMAND_REFUSE_TOO_MUCH_3">
+			<Text>Your desire to strip my lands of so much wealth is intolerable. Do not ask for so much.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HUMAN_DEMAND_REFUSE_TOO_SOON_1">
+			<Text>You threaten me again so soon? I refuse your demands, you vile beast.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HUMAN_DEMAND_REFUSE_TOO_SOON_2">
+			<Text>Asking again so soon? You know that greed is a vice, great leader...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HUMAN_DEMAND_REFUSE_TOO_SOON_3">
+			<Text>Asking for the fruits of others' labor yet again? Your greed is legendary. I will not give in to you.</Text>
+		</Row>
+		<!--Deal Offers and related-->
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_LETS_HEAR_IT_1">
+			<Text>Let's hear your offer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_LETS_HEAR_IT_2">
+			<Text>What do you propose?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_PEACE_OFFER_1">
+			<Text>The time has come to end this war. What do you think of this arrangement?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_PEACE_OFFER_2">
+			<Text>There is no point in this conflict continuing any further. Let us return to peace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_PEACE_OFFER_3">
+			<Text>We must not let war define who we are. The time has come to make peace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_DEMAND_1">
+			<Text>You have something I want. If you don't hand it over quietly I'll have no choice but to take it by force.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_REQUEST_ITEM_1">
+			<Text>I ask for you now this aide. Frankly, my people aren't doing so well.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_OPEN_BORDERS_EXCHANGE_1">
+			<Text>An open borders agreement with the empire of Charlemange would be acceptable, don't you think?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_OPEN_BORDERS_OFFER_1">
+			<Text>An open borders agreement with the empire of Charlemange would be quite a privilege, don't you think?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_PLAN_RESEARCH_AGREEMENT_1">
+			<Text>I would like to lay plans for establishing a Research Agreement with your great nation. Doing so would require each of us to spend 150 [ICON_GOLD]. What do you think?[NEWLINE][NEWLINE](Agreeing will not form a Research Agreement yet)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_RESEARCH_AGREEMENT_OFFER_1">
+			<Text>I feel that a Research Agreement is a mutually beneficial arrangement that would help serve to cement our Friendship.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_RENEW_DEAL_1">
+			<Text>This deal strengthened our nations and our bonds of friendship. Shall we renew this deal and continue our shared prosperity?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_WANT_MORE_RENEW_DEAL_1">
+			<Text>This deal has faded in our eyes over the years. To renew this deal, we would need more from your side of the negotiation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_LUXURY_TRADE_1">
+			<Text>Frankly, I think this deal is more than fair.</Text>
+		</Row>
+		<!-- AI Attacked by another player -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_ATTACKED_HOSTILE_1">
+			<Text>Then let us meet on the battlefield, and I will slay you gladly!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_ATTACKED_WEAK_HOSTILE_1">
+			<Text>Though may intend to defeat you may be futile, in the eyes of God, my effort shall be nonetheless glorious.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_ATTACKED_STRONG_HOSTILE_1">
+			<Text>So unlikely is it that you shall triumph, I am almost tempted to deny you the privilege of doing battle with Charlemagne.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_ATTACKED_EXCITED_1">
+			<Text>Let us ride to battle, and face off like the gallant legends that we are!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_ATTACKED_WEAK_EXCITED_1">
+			<Text>Though weakened I may be, I will now back down from this opportunity to attain glory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_ATTACKED_SAD_1">
+			<Text>Alas, it sorrows my heart deeply that we must do battle together. So let us do so with glory, and for the glory of our empires!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_ATTACKED_BETRAYED_1">
+			<Text>Alas, it sorrows my heart deeply that we must do battle together. So let us do so with glory, and for the glory of our empires!</Text>
+		</Row>
+		<!-- AI Declaring War-->
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_DOW_LEADER_JFD_CHARLEMAGNE_1">
+			<Text>The time for war is upon us. Ready your steed, and meet me on the battle-field with courage in your heart and faith in your soul.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_ATTACKED_MILITARY_PROMISE_BROKEN_1">
+			<Text>You have betrayed your word. Make no mistake, you will pay for this treachery.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_DOW_LAND_1">
+			<Text>The time for war is upon us. Ready your steed, and meet me on the battle-field with courage in your heart and faith in your soul.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_DOW_WORLD_CONQUEST_1">
+			<Text>The time for war is upon us. Ready your steed, and meet me on the battle-field with courage in your heart and faith in your soul. The day of my empire dawns..</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_DOW_WORLD_CONQUEST_2">
+			<Text>Fate has christened me the one which shall bring unity to this divided planet.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_DOW_OPPORTUNITY_1">
+			<Text>You have been exposed as a weak and fledgling empire. That is my opportunity to make it a part of mine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_DOW_DESPERATE_1">
+			<Text>I shall never resist the pull of my fate, and I shall fight on with all my will.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_DOW_BETRAYAL_1">
+			<Text>Alas, it sorrows my heart deeply that we must do battle together. So let us do so with glory, and for the glory of our two empires!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_DOW_WEAK_BETRAYAL_1">
+			<Text>It blackens my heart that I must wage war upon you, but know that I do this for the sake of my children, and for the sake of my subjects. There is no other way.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_WAR_DEMAND_REFUSED_1">
+			<Text>So be it. My armies will extract it from your lands then.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_WAR_DEMAND_REFUSED_2">
+			<Text>Then war it is.</Text>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_PEACE_WHAT_WILL_HUMAN_OFFER_1">
+			<Text>What is your offer?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_PEACE_WHAT_WILL_HUMAN_OFFER_2">
+			<Text>What would you suggest?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_PEACE_WHAT_WILL_HUMAN_OFFER_3">
+			<Text>What is the price of peace?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_NO_PEACE_1">
+			<Text>There can be no peace. Perhaps another day.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_NO_PEACE_2">
+			<Text>This is not the time for negotiation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_NO_PEACE_3">
+			<Text>We still have business to settle.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_TOO_SOON_NO_PEACE_1">
+			<Text>There cannot be peace now, my foe.</Text>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HUMAN_RESPONSE_PLEASED_1">
+			<Text>Good. Let us put this mishap behind us then.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HUMAN_RESPONSE_THANKFUL_1">
+			<Text>You have my thanks.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HUMAN_RESPONSE_THANKFUL_2">
+			<Text>You are truly a noble leader.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HUMAN_RESPONSE_THANKFUL_3">
+			<Text>History will long remember your noble deeds.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HUMAN_RESPONSE_DISAPPOINTED_1">
+			<Text>That is a shame.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HUMAN_RESPONSE_DISAPPOINTED_2">
+			<Text>Perhaps another time then.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HUMAN_RESPONSE_DISAPPOINTED_3">
+			<Text>That is disappointing.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_SO_BE_IT_1">
+			<Text>So be it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_SO_BE_IT_2">
+			<Text>Then you will be responsible for the consequences.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_SO_BE_IT_3">
+			<Text>You will regret this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_RETURNED_CIVILIAN_1">
+			<Text>You have my deepest, deepest gratitude for this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_RETURNED_CIVILIAN_2">
+			<Text>I am appreciative for the actions you have taken on behalf of my people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_RETURNED_CIVILIAN_3">
+			<Text>Thank you. May this be remembered as a historic event which brought our two great empires closer together.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_CULTURE_BOMBED_1">
+			<Text>How dare you? Know that there will be consequences for this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_CULTURE_BOMBED_2">
+			<Text>If you are trying to provoke a war, you're doing a fine job.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HOSTILE_AGGRESSIVE_MILITARY_WARNING_BAD_1">
+			<Text>Well, at least you're honest. But that may be your only good trait.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HOSTILE_AGGRESSIVE_MILITARY_WARNING_GOOD_1">
+			<Text>Good. Let us put this mishap behind us then.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_AGGRESSIVE_MILITARY_WARNING_BAD_1">
+			<Text>That is what I was afraid of.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_AGGRESSIVE_MILITARY_WARNING_GOOD_1">
+			<Text>Good. Let us put this mishap behind us then.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HOSTILE_WE_ATTACKED_MINOR_BAD_1">
+			<Text>So we shall see.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HOSTILE_WE_ATTACKED_MINOR_GOOD_1">
+			<Text>Good. Let us put this mishap behind us then.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_WE_ATTACKED_MINOR_BAD_1">
+			<Text>I remain confident that my decision was the best for my people and my nation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HUMAN_RESPONSE_BAD_1">
+			<Text>This is a disastrous response! I am rather displeased, to say the least.</Text>
+		</Row>
+		<!-- DIPLOMACY: BWN Vanilla -->
+		<!-- Statements to player -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HOSTILE_WE_ATTACKED_YOUR_MINOR_1">
+			<Text>I thought you might like to know that I've launched an invasion of one of your little pet states. The lands of {@1_MinorCivName} will make a fine addition to my own.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HOSTILE_WE_ATTACKED_YOUR_MINOR_2">
+			<Text>Oops, it seems I've attacked your little friend {@1_MinorCivName}. Care to do something about it?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_WE_ATTACKED_YOUR_MINOR_1">
+			<Text>It's come to my attention that I may have attacked {@1_MinorCivName}, a city-state under your protection. While it was not my goal to be at odds with your empire, this was deemed a necessary course of action.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_WE_ATTACKED_YOUR_MINOR_2">
+			<Text>I've been informed that my empire has commenced an attack on {@1_MinorCivName}. I assure you, this was not on purpose, and hope that this does not serve to drive us apart.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_EMBASSY_EXCHANGE_1">
+			<Text>We should consider exchanging embassies, which would allow for more advanced diplomacy between our peoples.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_EMBASSY_OFFER_1">
+			<Text>We would like to set up an embassy in your capital. What do you think?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_BULLIED_PROTECTED_CITY_STATE_1">
+			<Text>Your bullying of {@1_MinorCivName} is intolerable. I demand that you refrain from squeezing tribute out of city-states under my protection.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_BULLIED_PROTECTED_CITY_STATE_2">
+			<Text>I heard about what you did to {@1_MinorCivName}.  Did you not realize they are under my protection?  Do not provoke me further.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HOSTILE_WE_BULLIED_YOUR_MINOR_1">
+			<Text>We asked {@1_MinorCivName} for a tribute recently and they gave in. You promised to protect them from such things, but we both know you cannot back that up.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HOSTILE_WE_BULLIED_YOUR_MINOR_2">
+			<Text>Your little friend {@1_MinorCivName} is so easy to push around. They gave in to our tribute demands, and I don't believe you are in a position to do anything about it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_WE_BULLIED_YOUR_MINOR_1">
+			<Text>It's come to my attention that I may have bullied {@1_MinorCivName}, which is under your protection. You do not put their needs above mine, I hope.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_WE_BULLIED_YOUR_MINOR_2">
+			<Text>I've been informed that my armies have taken tribute from {@1_MinorCivName}, a city-state under your protection. I assure you, this was quite unintentional, and I hope that this does not serve to drive us apart.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_SAME_POLICIES_FREEDOM_1">
+			<Text>Warm salutations to you wise leader! I'm pleased to see you also have chosen to follow the path of Freedom. The free world will be stronger with one more nation to help us all fight against oppression!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_SAME_POLICIES_ORDER_1">
+			<Text>Greetings comrade! I'm pleased to see you also have chosen to follow the path of Order. Perhaps we can find some opportunities to aid each other during our empires' next 5-Year Plans!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_SAME_POLICIES_AUTOCRACY_1">
+			<Text>Welcome great emperor! I'm pleased to see you have also chosen to follow the path of Autocracy. May we work together to ensure that only the very strongest nations survive to achieve true greatness!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_CAUGHT_YOUR_SPY_HOSTILE_1">
+			<Text>How did one of your filthy agents somehow steal one of our basic technological secrets? These may be the last words we speak in peace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_CAUGHT_YOUR_SPY_FRIENDLY_1">
+			<Text>I am willing to overlook your recent theft of one of my technological secrets with a solemn promise that it won't happen again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HUMAN_CAUGHT_YOUR_SPY_GOOD_1">
+			<Text>I'm glad you agreed to stop this petty thieving.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HUMAN_CAUGHT_YOUR_SPY_BAD_1">
+			<Text>Your indiscretion is not a surprise.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_RESPONSE_STOP_SPYING_YES_1">
+			<Text>As you request, our agents will not conduct operations in your territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_RESPONSE_STOP_SPYING_NO_1">
+			<Text>Our agents help keep our civilization safe from all threats, including you. They operate as we need them to, not as you ask.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_RESPONSE_WARNED_ABOUT_INTRIGUE_1">
+			<Text>Thank you for bringing this {@1_CivAdjective} plot to our attention. With this warning, we will be ready for whatever they may try. Your generous aid will be remembered.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_RESPONSE_SHARE_INTRIGUE_DECEPTION_1">
+			<Text>Our spies have uncovered that {1_PlayerName} is plotting against you. We hope that you will share any intrigue your agents discover with us.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_RESPONSE_SHARE_INTRIGUE_ARMY_SNEAK_ATTACK_KNOWN_CITY_1">
+			<Text>Our spies have uncovered that {1_PlayerName} is currently marching an army to sneak attack your city of {2_CityName}. We hope that you will share any intrigue your agents discover with us.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_RESPONSE_SHARE_INTRIGUE_ARMY_SNEAK_ATTACK_UNKNOWN_CITY_1">
+			<Text>Our spies have uncovered that {1_PlayerName} is currently marching an army your way in a sneak attack. We hope that you will share any intrigue your agents discover with us.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_RESPONSE_SHARE_INTRIGUE_AMPHIBIOUS_SNEAK_ATTACK_KNOWN_CITY_1">
+			<Text>Our spies have uncovered that {1_PlayerName} embarked an army with naval escorts to sneak attack your city of {2_CityName}. We hope that you will share any intrigue your agents discover with us.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_RESPONSE_SHARE_INTRIGUE_AMPHIBIOUS_SNEAK_ATTACK_UNKNOWN_CITY_1">
+			<Text>Our spies have uncovered that {1_PlayerName} embarked an army with naval escorts in a sneak attack against your civilization. We hope that you will share any intrigue your agents discover with us.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_KILLED_YOUR_SPY_1">
+			<Text>We killed your spy as it was trying to steal from us. From my experience, it is far less dangerous to read a book and try to learn something yourself.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_KILLED_MY_SPY_1">
+			<Text>I regret any confusion caused by our late agent's recent activity. Please let any hostile feelings rest with the deceased operative.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_CONFRONT_YOU_KILLED_MY_SPY_1">
+			<Text>Hello there. Are you here about that little spying incident?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_SUSPECT_YOU_OF_SPYING_1">
+			<Text>One of my cities was recently burglarized and technological secrets were stolen. May I be assured that you had nothing to do with this?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_SUSPECT_YOU_OF_SPYING_2">
+			<Text>I'm convinced you've been spying on my great civilization. You should stop before somebody gets hurt.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_STOP_CONVERSIONS_1">
+			<Text>We have taken notice of the religious conversions you are undertaking inside our empire. We must ask you to cease this activity immediately!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_RESPONSE_HUMAN_KILLED_MY_SPY_UNFORGIVEN_1">
+			<Text>I understand that some actions may not be forgiven.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_RESPONSE_HUMAN_KILLED_MY_SPY_FORGIVEN_1">
+			<Text>It makes me glad that you will overlook this awkward circumstance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HUMAN_STOP_CONVERSIONS_GOOD_1">
+			<Text>I'm glad you agreed to end this proselytizing.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HUMAN_STOP_CONVERSIONS_BAD_1">
+			<Text>Your religious fervor is unsettling.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_RESPONSE_HUMAN_STOP_CONVERSIONS_AGREE_1">
+			<Text>You disappoint God. But as you wish. Our missionaries will no longer share the one true faith with the people in your cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_RESPONSE_HUMAN_STOP_CONVERSIONS_DISAGREE_1">
+			<Text>In spite of your protests, your citizens will continue to be enlightened by our missionaries, even though you damn your own people to live in ignorance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_GREETING_WILL_ACCEPT_SURRENDER_1">
+			<Text>We are eagerly anticipating your unconditional surrender.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_GREETING_WILL_ACCEPT_SURRENDER_2">
+			<Text>Your complete capitulation sounds reasonable.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_GREETING_WILL_ACCEPT_SURRENDER_3">
+			<Text>We can make a deal now to forestall your utter annihilation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_WE_LIKE_HUMAN_PROPOSAL_1">
+			<Text>We were very pleased to hear your recent proposal to the {1_LeagueName}.  It seems that our goals are aligned.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_WE_LIKE_HUMAN_PROPOSAL_2">
+			<Text>Your proposal to the {1_LeagueName} suits our interests quite nicely.  You have our sincere gratitude.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_WE_DISLIKE_HUMAN_PROPOSAL_1">
+			<Text>Your proposal to the {1_LeagueName} is a blatant attack on our interests.  I hope this does not escalate to future conflict.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_WE_DISLIKE_HUMAN_PROPOSAL_2">
+			<Text>I found your proposal to the {1_LeagueName} very troubling.  Surely there is a better way to resolve our differences than petty politics.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HUMAN_SUPPORTED_OUR_PROPOSAL_1">
+			<Text>Thanks to the help of your delegates, our recent proposal to the {1_LeagueName} was successful.  We look forward to your continued support, and will try to return the favor.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HUMAN_SUPPORTED_OUR_PROPOSAL_2">
+			<Text>Our proposal to the {1_LeagueName} succeeded, with the support of your delegation.  Together we can accomplish many great things.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HUMAN_FOILED_OUR_PROPOSAL_1">
+			<Text>Your delegation played a part in the failure of our proposal to the {1_LeagueName}.  I do not take such transgressions lightly.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HUMAN_FOILED_OUR_PROPOSAL_2">
+			<Text>Our proposal to the {1_LeagueName} was defeated at the hands of your delegates.  Do not expect our delegation to support your interests in the future.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HUMAN_SUPPORTED_OUR_HOSTING_1">
+			<Text>We thank you for entrusting the World Congress to our capable leadership.  I expect great things to come in the {1_LeagueName}.</Text>
+		</Row>
+		<!-- Responses to player -->
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HOSTILE_WE_BULLIED_MINOR_BAD_1">
+			<Text>We'll see about that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HOSTILE_WE_BULLIED_MINOR_GOOD_1">
+			<Text>Yes, that's right.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_WE_BULLIED_MINOR_BAD_1">
+			<Text>I remain confident that my decision was the best for my people and my nation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_HUMAN_BULLIED_MINOR_GOOD_1">
+			<Text>Very well. I'll be monitoring the situation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_TRADE_CANT_MATCH_OFFER_1">
+			<Text>We are not willing to offer you enough to make this a fair trade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_TRADE_CANT_MATCH_OFFER_2">
+			<Text>Any deal we suggest would result in an unfair exchange for you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_RESPONSE_STOP_DIGGINGX_1">
+			<Text>We've noticed that you've been looking for cultural artifacts within our borders. This needs to stop.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_RESPONSE_STOP_DIGGING_DISAGREE_1">
+			<Text>Sorry, our plans are too important to be stopped over a trinket.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_RESPONSE_STOP_DIGGING_AGREE_1">
+			<Text>As you wish, we will stop looking for artifacts within your borders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_RESPONSE_HUMAN_STOP_DIGGING_BAD_1">
+			<Text>Do I have to escalate this?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_RESPONSE_HUMAN_STOP_DIGGING_GOOD_1">
+			<Text>Thank you for heeding our request. An artifact discovered on our land belongs to our people, not yours.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_DIPLO_DISCUSS_DONT_STOP_DIGGING">
+			<Text>I'll dig wherever I want.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_DIPLO_DISCUSS_STOP_DIGGING">
+			<Text>We meant no offense when attempting to steal your cultural heritage.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_CIVIL_RESISTANCE_ON_AI_BY_FREEDOM_1">
+			<Text>The people of my nation have been corrupted by your bourgeois messages of liberty and equality. They seem to believe they have the right to demonstrate in the streets!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_CIVIL_RESISTANCE_ON_AI_BY_ORDER_1">
+			<Text>Your ideological plotting has us scared of a revolution for Order in our land. Will these workers' strikes never end?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_CIVIL_RESISTANCE_ON_AI_BY_AUTOCRACY_1">
+			<Text>Your message of strength through supreme power has resonated with our people. Must we imitate your feared totalitarian state?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_CIVIL_RESISTANCE_ON_HUMAN_BY_FREEDOM_1">
+			<Text>Your citizens clamor for human liberties. Tear down this wall of oppression and join the cause of Freedom and progress!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_CIVIL_RESISTANCE_ON_HUMAN_BY_ORDER_1">
+			<Text>The oppressed workers of your land are unhappy. Whether you like it or not, history is on our side. We will bury you!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_CIVIL_RESISTANCE_ON_HUMAN_BY_AUTOCRACY_1">
+			<Text>Your restless people are in need of strong leadership. Join us in writing history instead of sitting there with your hands folded.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_SWITCHED_TO_FREEDOM_1">
+			<Text>With celebration, we greet you in joining us in our quest for Freedom. Ask not what we can do individually, ask instead what we can do together.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_SWITCHED_TO_ORDER_1">
+			<Text>Give us the child for eight years and it will be a socialist forever. Your working class have heard this truth; now we welcome them to our revolutionary struggle for Order.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_SWITCHED_TO_AUTOCRACY_1">
+			<Text>You will not regret your move to Autocracy. All within the state; nothing outside the state; nothing against the state. Only the strong leaders of strong states can bring the world into a glorious new era together.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_CHARLEMAGNE_INFLUENTIAL_ON_HUMAN_1">
+			<Text>We are glad to see that sales of our souvenirs to tourists from your lands have reached record levels. The amazing works of our civilization are truly inspiring!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

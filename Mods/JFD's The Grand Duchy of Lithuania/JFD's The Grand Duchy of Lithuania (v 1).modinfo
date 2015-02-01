@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="575a3187-ced4-47de-990b-53ce965035a1" version="1">
+  <Properties>
+    <Name>JFD's The Grand Duchy of Lithuania</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]the Grand Duchy of Lithuania[ENDCOLOR] with Gediminas to the game.</Teaser>
+    <Description>The Grand Duchy of Lithuania is a custom civilization for Sid Meier's Civilization V, available for users with Brave New World.[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Leader:[ENDCOLOR] Gediminas[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Unique Ability:[ENDCOLOR] The Old Gods - If at least half of your cities follow only your pantheon belief, foreign religions cannot convert them, besides your Capital. Melee units trained in these cities may capture defeated enemies from combat.[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Unique Unit:[ENDCOLOR] Samogitian Warrior - The Samogitian Warrior is the Lithuanian unique unit. It gains double movement and +33% Combat Strength when in forest tiles and does not require Iron, unlike the Swordsman that it replaces, but it is slightly weaker. It can be used to convert a city to your pantheon belief by being garrisoned in a city where you pantheon is not the majority religion (unless that city is a Holy City). This rate is doubled when the Samogitian Warrior is in the same tile or adjacent to a Great Prophet or Missionary. Even after the Samogitian Warrior obsoletes with the discovery of Steel, it can still be trained in cities following your pantheon belief.[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Unique Building:[ENDCOLOR] Sacred Grove - The Sacred Grove is the unique Lithuanian replacement for the Shrine. Unlike the Shrine, the Sacred Grove can be built immediately. It also converts every 10 points of Faith from the city into 1 Local Happiness and yields +1 Faith on forest tiles. However, the effects only apply to cities following only your pantheon belief.[NEWLINE][NEWLINE]</Description>
+    <Authors>JFD, Janboruta, ww2Commander</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <Homepage>http://forums.civfanatics.com/showthread.php?t=474393</Homepage>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="6bc3cb6e-a697-491e-9347-5e3e02640f00" minversion="0" maxversion="999" title="Historical Religions Edit (BNW or GK)" />
+    <Mod id="8c101299-95c5-4b28-b7ed-4e0f774857ef" minversion="0" maxversion="999" title="Historical Religions (BNW or GK)" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="92D3B34B37564F1B26A33B98418B8C7C" import="0">Art/ArtDefines.sql</File>
+    <File md5="B6B02CA214E8045E90D74ECDDCB9D68F" import="1">Art/Graphics/Samogitian_Warrior.dds</File>
+    <File md5="9D82B0E21D9844FCE6383BD1F498B1E8" import="1">Art/Graphics/Samogitian_Warrior.fxsxml</File>
+    <File md5="8C62A8451A76CEBA924C9B853C62DB24" import="1">Art/Graphics/Samogitian_Warrior.gr2</File>
+    <File md5="01AB3B3011A72B54C6EECDDC2C4ADC7C" import="1">Art/Graphics/Samogitian_Warrior_gloss.dds</File>
+    <File md5="D0C742B72764CE902E525E1710C828CE" import="1">Art/Graphics/sv_Samogitian.dds</File>
+    <File md5="11BFEC7CB0C7D925D11F7CDD2B0F5DEC" import="1">Art/IconAtlas/JFD_LithuaniaAlphaAtlas_128.dds</File>
+    <File md5="B09E07AEBB8AFB809273F7DB3F5AA123" import="1">Art/IconAtlas/JFD_LithuaniaAlphaAtlas_16.dds</File>
+    <File md5="1D28E032367C8A53C85EE7B9557A7342" import="1">Art/IconAtlas/JFD_LithuaniaAlphaAtlas_24.dds</File>
+    <File md5="8892012063A4057F44D999A1D6D97F65" import="1">Art/IconAtlas/JFD_LithuaniaAlphaAtlas_32.dds</File>
+    <File md5="019EFB994CC1BC2E7B701B0CAC619617" import="1">Art/IconAtlas/JFD_LithuaniaAlphaAtlas_45.dds</File>
+    <File md5="4A484649232726A472198E619B3AC716" import="1">Art/IconAtlas/JFD_LithuaniaAlphaAtlas_48.dds</File>
+    <File md5="53CDBEDF53C6BDC89338E4F2AC93E418" import="1">Art/IconAtlas/JFD_LithuaniaAlphaAtlas_64.dds</File>
+    <File md5="CE9A350256477E4863C4051870C4A7FC" import="1">Art/IconAtlas/JFD_LithuaniaAlphaAtlas_80.dds</File>
+    <File md5="392A9AD6F9B0D44891E81A7F1E3E3F8B" import="1">Art/IconAtlas/JFD_LithuaniaAtlas_128.dds</File>
+    <File md5="751A92CE5D0B31232A6002CF8F5188CF" import="1">Art/IconAtlas/JFD_LithuaniaAtlas_256.dds</File>
+    <File md5="AC07886B2CE430C458E4789930FCD566" import="1">Art/IconAtlas/JFD_LithuaniaAtlas_32.dds</File>
+    <File md5="CBA342D6D6CEE1EB8E9E3A3DB46E59B2" import="1">Art/IconAtlas/JFD_LithuaniaAtlas_45.dds</File>
+    <File md5="E1E473C3D1E57AB5111C8F2A726BFB46" import="1">Art/IconAtlas/JFD_LithuaniaAtlas_64.dds</File>
+    <File md5="09CD0338B5957F78449529CF0888C4EC" import="1">Art/IconAtlas/JFD_LithuaniaAtlas_80.dds</File>
+    <File md5="7A42782597B41C6C0AC306E61A9F38D3" import="1">Art/IconAtlas/Unit_Samogitian_Flag_32.dds</File>
+    <File md5="8740632D171F73308AB983157F92DE83" import="1">Art/Leaderscene/Gediminas_Diplo.dds</File>
+    <File md5="035F6857D0B19B5AB3C3ED3223B864C8" import="1">Art/Leaderscene/Gediminas_Scene.xml</File>
+    <File md5="FE0A2DF763AA903D79C4C697B6B79A33" import="1">Art/Map/Gediminas_DOM.dds</File>
+    <File md5="D4E5946EF31EC9E58E6CFF9141A32C0B" import="1">Art/Map/LithuaniaMap512.dds</File>
+    <File md5="061C5C51E8C447B4AA491543E61E30CB" import="0">Audio/Audio.sql</File>
+    <File md5="622957DE99B5485578691E04683EE080" import="1">Audio/Gediminas_Peace.mp3</File>
+    <File md5="367B2C370E3F8552C7840F41CE52999F" import="1">Audio/Gediminas_War.mp3</File>
+    <File md5="F013D715D6966DD21A6FE398BDE1BC62" import="0">Core/Buildings.sql</File>
+    <File md5="2DB0A2D402C911F137C470BE0B547DF4" import="0">Core/Civilizations.sql</File>
+    <File md5="96D284821F3437FA04397A4E396EF8FE" import="0">Core/Diplomacy.sql</File>
+    <File md5="A4C755D08D4A4AFE104B0FBA68532892" import="0">Core/GameText.xml</File>
+    <File md5="AEFD187D2C04CF27119E967CD05BEF37" import="0">Core/Leaderhead.sql</File>
+    <File md5="623A016F0C05950E3DC023487BB9FB98" import="0">Core/MinorCivilizations.sql</File>
+    <File md5="484E89894A1EA3BC9F3305FCC44DC09F" import="0">Core/PlayerColours.sql</File>
+    <File md5="FFAF2C62388C626BAFF07062E32438B1" import="0">Core/Promotions.sql</File>
+    <File md5="6F6C77CBEC72327094454050B2145AA7" import="0">Core/Traits.sql</File>
+    <File md5="636E89C72F4F988EAD4CDB5D90E367F4" import="0">Core/TSL.sql</File>
+    <File md5="BD3FB32260936C07F934CF5E4719CA80" import="0">Core/Units.sql</File>
+    <File md5="3D5F36BDE09B1B6726FA9C3C5C7E8600" import="0">Lua/Lithuania_Functions.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Audio/Audio.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Buildings.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Civilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Leaderhead.sql</UpdateDatabase>
+      <UpdateDatabase>Core/MinorCivilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Core/PlayerColours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Promotions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Units.sql</UpdateDatabase>
+      <UpdateDatabase>Core/TSL.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Lithuania_Functions.lua">
+      <Name>Lithuania Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Context>
+	<Container ID="EncampmentContainer" />
+	<Instance Name="Encampment">
+		<WorldAnchor ID="Anchor">
+			<Stack Anchor="C,C" StackGrowth="Bottom" Padding="10">
+				<Label ID="EncampmentName" Size="24,24" Font="TwCenMT20" ColorSet="Beige_Alpha_Black" FontStyle="Shadow" />
+			</Stack>
+		</WorldAnchor>
+	</Instance>
+</Context>

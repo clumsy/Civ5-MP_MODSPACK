@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="c130ca83-d8b6-41bd-9045-62eea5eb6518" version="2">
+  <Properties>
+    <Name>JFD's The Khazar Khaganate</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]the Khazar Khaganate[ENDCOLOR] with Bulan to the game.</Teaser>
+    <Description>See this mod's Steam or CivFanatics page for full details.</Description>
+    <Authors>JFD, Janboruta</Authors>
+    <SpecialThanks>Moriboe</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events and Decisions" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety &amp;amp; Prestige" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="DA6247175707EE44986DC00AB6543EF6" import="0">Art/ArtDefines.sql</File>
+    <File md5="1324833741C3B6F920735EE2CCC02CEA" import="1">Art/Graphics/Knight_Turkey.dds</File>
+    <File md5="455AB5E60BB2FF2343E9D7A680796AF5" import="1">Art/Graphics/Knight_Turkey.fxsxml</File>
+    <File md5="3545880A98D609F0467BCDB311E7BC81" import="1">Art/Graphics/Knight_Turkey.gr2</File>
+    <File md5="6FEAA0A2CD0464F20FA84BCCBF4029E8" import="1">Art/Graphics/Knight_Turkey_gloss.dds</File>
+    <File md5="E4BD8CC51BF1C5C64D78DEF2411C515A" import="1">Art/Graphics/Knight_Turkey_Horse.dds</File>
+    <File md5="4C70FE4170AE6D900D26FCAFABA4697F" import="1">Art/Graphics/Knight_Turkey_Horse_gloss.dds</File>
+    <File md5="F263BC5C5E371A6848151A1010E3C069" import="1">Art/Graphics/sv_KhaghanBek.dds</File>
+    <File md5="381EEC92C189D77200D4271275F7E42C" import="1">Art/Graphics/Unit_KhaganBek_Flag_32.dds</File>
+    <File md5="215FDAE767BE517AC8D772FF8EFD3464" import="1">Art/IconAtlas/JFD_KhazariaAlphaAtlas_128.dds</File>
+    <File md5="352BA4EE5D982F7B41E6C2DD3DAB3143" import="1">Art/IconAtlas/JFD_KhazariaAlphaAtlas_16.dds</File>
+    <File md5="B7505125533FDF86983DE94747085D0C" import="1">Art/IconAtlas/JFD_KhazariaAlphaAtlas_24.dds</File>
+    <File md5="3304DA82D3B884585EBFBE4DCFC97838" import="1">Art/IconAtlas/JFD_KhazariaAlphaAtlas_32.dds</File>
+    <File md5="4630E487C23A9AC520E0EDEF6D34CCC5" import="1">Art/IconAtlas/JFD_KhazariaAlphaAtlas_45.dds</File>
+    <File md5="A648FC32718733CBA1D0542D757948D3" import="1">Art/IconAtlas/JFD_KhazariaAlphaAtlas_48.dds</File>
+    <File md5="9BD3D3C18307DDCC521C5036F80BCD5F" import="1">Art/IconAtlas/JFD_KhazariaAlphaAtlas_64.dds</File>
+    <File md5="159D1EB01A87BAC26EA44B1F58B34400" import="1">Art/IconAtlas/JFD_KhazariaAlphaAtlas_80.dds</File>
+    <File md5="B9279D1099CA5F70E9EF05B19425FD86" import="1">Art/IconAtlas/JFD_KhazariaAtlas_128.dds</File>
+    <File md5="F9AA263F2693698071A6427DC2FB6C3C" import="1">Art/IconAtlas/JFD_KhazariaAtlas_256.dds</File>
+    <File md5="E096C928F52B4F4E7B375639B48071ED" import="1">Art/IconAtlas/JFD_KhazariaAtlas_32.dds</File>
+    <File md5="DE024202A063855F58A9F16AA8CD3E35" import="1">Art/IconAtlas/JFD_KhazariaAtlas_45.dds</File>
+    <File md5="1AE15C08F81D477A63F94C0341B44B61" import="1">Art/IconAtlas/JFD_KhazariaAtlas_64.dds</File>
+    <File md5="65899E88D08D08D8045FADF6B43D80CB" import="1">Art/IconAtlas/JFD_KhazariaAtlas_80.dds</File>
+    <File md5="A4AB2619157B3DFD30BE45E9203D71F8" import="1">Art/Leaderscene/Bulan_Diplo.dds</File>
+    <File md5="602218940CE00F3E1EA38A9AE357C110" import="1">Art/Leaderscene/Bulan_Scene.xml</File>
+    <File md5="5A33D0E17BB796839054D36AC5CC13D6" import="1">Art/Map/Bulan_DOM.dds</File>
+    <File md5="D4BC7156A80573E55B787A19D1586C9F" import="1">Art/Map/KhazariaMap512.dds</File>
+    <File md5="91DED0DA68F3FF6E3D16C4D9ED396294" import="0">Audio/Audio.sql</File>
+    <File md5="BAB4D8F8EA4665F4EBC6ECFD7A620877" import="1">Audio/Bulan_Peace.mp3</File>
+    <File md5="029FA498446A9D7CF74F7F9C51673A9E" import="1">Audio/Bulan_War.mp3</File>
+    <File md5="6E49EFB48CD93FF8FE1EFDC28B4A0E90" import="0">Core/Bingles' Civ IV Traits Support/Leader_SharedTraits.sql</File>
+    <File md5="AA145D03C2A563298A6373AFD9829E81" import="0">Core/Buildings.sql</File>
+    <File md5="F2DC03E2C03F885428B85F0130F0B366" import="0">Core/Civilizations.sql</File>
+    <File md5="A8E64F7E1310C1E572B862B7BD79E0AB" import="0">Core/Diplomacy.sql</File>
+    <File md5="9C753CA1F1890F74FB59B50A5A48D4A5" import="0">Core/DiplomacyText.xml</File>
+    <File md5="B558752F7E3AF28C19EA3D49CD150DFC" import="0">Core/GameText.xml</File>
+    <File md5="CD92BE46E5FEA25B988589A5F554B3A6" import="0">Core/Gedemon's YnAEMP Support/CivilizationStartPos.sql</File>
+    <File md5="41EFE6A699718EEE33BF82F380DBE427" import="0">Core/hazel16's Map Labels Support/ML_Tables.sql</File>
+    <File md5="283E73AC1E1AA72EB13947F6589E6665" import="0">Core/JFD's Cultural Diversity Support/Civilization_JFD_CultureTypes.sql</File>
+    <File md5="0D2644EE0CA2AEC9BB198F8F0E442BBF" import="0">Core/JFD's Piety and Prestige Support/Flavours.sql</File>
+    <File md5="1ACF42937D36DC9266416E36B600B91F" import="0">Core/JFD's Piety and Prestige Support/GameText.xml</File>
+    <File md5="0902ECC30A0BCB450F400A3C55EE38A6" import="0">Core/JFD's Piety and Prestige Support/Traits.sql</File>
+    <File md5="ECC58D6CF6047F3A1D3C3321E8FE8D2E" import="0">Core/Leaderhead.sql</File>
+    <File md5="27852EDB04F928D5D64D3B0E1ADA83CE" import="0">Core/PlayerColours.sql</File>
+    <File md5="2BA0FE5102A667537BB4192B43C2BB3F" import="0">Core/Promotions.sql</File>
+    <File md5="16CD15A25F9ACF757F7134482F645940" import="0">Core/Ryoga's Unique Cultural Influence Support/GameText.xml</File>
+    <File md5="5FE31EEA43FA2E73A5E215A5AE8F37CE" import="0">Core/Sukritact's Decisions Support/Decisions.sql</File>
+    <File md5="F03A313559D19493AD7CDEE5AC96428E" import="0">Core/Sukritact's Decisions Support/GameText.xml</File>
+    <File md5="57853C8A95F175468E413AC3658A6B95" import="0">Core/Sukritact's Events Support/Events.sql</File>
+    <File md5="024BD8AF0FF0C54135C2585F89B79322" import="0">Core/Sukritact's Events Support/GameText.xml</File>
+    <File md5="71106503F034D747078B33AD6CEE770E" import="0">Core/Traits.sql</File>
+    <File md5="F199F9464C8B133FD7E99BA9F3A5428B" import="0">Core/Units.sql</File>
+    <File md5="81EAD84D3445D4948CBB56F132B4D575" import="0">Lua/JFD_KhazariaFunctions.lua</File>
+    <File md5="0AEFC6EF271825C4A6261518D92CF24C" import="1">Lua/Sukritact's Events Support/JFD_KhazariaEvents.lua</File>
+    <File md5="42A9C5559D6679EA53673377A229A1B3" import="1">Lua/Sukritact's Decisions Support/JFD_KhazariaDecisions.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Audio/Audio.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Gedemon's YnAEMP Support/CivilizationStartPos.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Decisions Support/Decisions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Decisions Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Buildings.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Civilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DiplomacyText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Leaderhead.sql</UpdateDatabase>
+      <UpdateDatabase>Core/PlayerColours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Promotions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Units.sql</UpdateDatabase>
+      <UpdateDatabase>Core/hazel16's Map Labels Support/ML_Tables.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Events Support/Events.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Events Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Cultural Diversity Support/Civilization_JFD_CultureTypes.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Piety and Prestige Support/Flavours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Piety and Prestige Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Piety and Prestige Support/Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Ryoga's Unique Cultural Influence Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Bingles' Civ IV Traits Support/Leader_SharedTraits.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_KhazariaFunctions.lua">
+      <Name>JFD_KhazariaFunctions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

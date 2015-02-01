@@ -1,0 +1,53 @@
+<!-- Created by JFD -->
+<GameData>
+	<!-- ++++++++++++++++++++++++++++++ -->
+	<!-- Earth Giant map start position -->
+	<!-- ++++++++++++++++++++++++++++++ -->
+	<Civilizations_YagemStartPosition>
+		<Row>
+			<Type>CIVILIZATION_MC_AYYUBIDS</Type>
+			<X>31</X>
+			<Y>48</Y>
+		</Row>
+	</Civilizations_YagemStartPosition>
+	<!-- +++++++++++++++++++++++++++++ -->
+	<!-- Earth Huge map start position -->
+	<!-- +++++++++++++++++++++++++++++ -->
+	<Civilizations_YahemStartPosition>
+		<Row>
+			<Type>CIVILIZATION_MC_AYYUBIDS</Type>
+			<X>70</X>
+			<Y>46</Y>
+		</Row>
+	</Civilizations_YahemStartPosition>
+	<!-- ++++++++++++++++++++++++++++++++++ -->
+	<!-- Earth Cordiform map start position -->
+	<!-- ++++++++++++++++++++++++++++++++++ -->
+	<Civilizations_CordiformStartPosition>
+		<Row>
+			<Type>CIVILIZATION_MC_AYYUBIDS</Type>
+			<X>44</X>
+			<Y>18</Y>
+		</Row>
+	</Civilizations_CordiformStartPosition>
+	<!-- +++++++++++++++++++++++++++++++++++ -->
+	<!-- "Europe Large Map" start position -->
+	<!-- +++++++++++++++++++++++++++++++++++ -->
+	<Civilizations_EuroLargeStartPosition>
+		<Row>
+			<Type>CIVILIZATION_MC_AYYUBIDS</Type>
+			<X>56</X>
+			<Y>13</Y>
+		</Row>
+	</Civilizations_EuroLargeStartPosition>
+	<!-- +++++++++++++++++++++++++++++++++++ -->
+	<!-- "Greatest Earth Map" start position -->
+	<!-- +++++++++++++++++++++++++++++++++++ -->
+	<Civilizations_GreatestEarthStartPosition>
+		<Row>
+			<Type>CIVILIZATION_MC_AYYUBIDS</Type>
+			<X>57</X>
+			<Y>35</Y>
+		</Row>
+	</Civilizations_GreatestEarthStartPosition>
+</GameData>

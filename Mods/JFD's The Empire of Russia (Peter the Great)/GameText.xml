@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- The Grand Embassy -->
+		<Row Tag="TXT_KEY_EVENT_JFD_PETER_GRAND_EMBASSY">
+			<Text>The Grand Embassy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_PETER_GRAND_EMBASSY_DESC">
+			<Text>Alas, our efforts to seek a secure alliance against our enemies has failed. Yet our diplomatic mission throughout the continent, which has become known as 'the Grand Embassy,' has not been for nothing, for we have been afforded a wealth of experience with which to make our government powerful and modern.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_PETER_GRAND_EMBASSY_OUTCOME_1">
+			<Text>We shall make use of our knowledge of Shipbuilding</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_PETER_GRAND_EMBASSY_OUTCOME_2">
+			<Text>We shall make use of our knowledge of Carpentry.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_PETER_GRAND_EMBASSY_OUTCOME_3">
+			<Text>We shall make use of our knowledge of Dentistry.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_PETER_GRAND_EMBASSY_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain a permanent 10% boost in the [ICON_PRODUCTION] Production of Naval Units[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_PETER_GRAND_EMBASSY_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain a permanent 5% boost in the [ICON_PRODUCTION] Production of Buildings[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_PETER_GRAND_EMBASSY_OUTCOME_RESULT_3">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain a permanent 5% boost in [ICON_FOOD] Growth rate in all Cities[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PETER_GRAND_EMBASSY_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have implemented our newly acquired knowledge of Shipbuilding to the government of Russia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PETER_GRAND_EMBASSY_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have implemented our newly acquired knowledge of Carpentry to the government of Russia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PETER_GRAND_EMBASSY_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>We have implemented our newly acquired knowledge of Dentistry to the government of Russia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_PETER_GRAND_EMBASSY">
+			<Text>Peter I of Russia has returned from a diplomatic mission around the world.</Text>
+		</Row>
+		<!-- The Bulavin Rebellion -->
+		<Row Tag="TXT_KEY_EVENT_JFD_PETER_BULAVIN_REBELLION">
+			<Text>The Bulavin Rebellion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_PETER_BULAVIN_REBELLION_DESC">
+			<Text>The Don Cossacks of the far east, led by their Ataman Kondraty Bulavin, have risen up against us in opposition to our efforts to modernise Russia. They pillage and rape the countryside, and march upon our cities and farmlands! We must put an end to this immediately, before they sow further discontent over our reforms.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_PETER_BULAVIN_REBELLION_OUTCOME_1">
+			<Text>We must crush this rebellion swiftly!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_PETER_BULAVIN_REBELLION_OUTCOME_2">
+			<Text>Let us concede to the demands of this Bulavin.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_PETER_BULAVIN_REBELLION_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]2 enemy Cossacks appears within your borders[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_PETER_BULAVIN_REBELLION_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLD] Gold and {2_Num} [ICON_CULTURE] Culture[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PETER_BULAVIN_REBELLION_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We shall respond with force against the uprising of the Don Cossacks!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PETER_BULAVIN_REBELLION_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have conceded to the demands of the Don Cossack leader, Bulavin.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_PETER_BULAVIN_REBELLION">
+			<Text>The Don Cossacks have risen up in Russia against the modernisation reforms of Peter I.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

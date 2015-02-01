@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- The Blood Countess -->
+		<Row Tag="TXT_KEY_EVENT_JFD_HUNGARY_BLOOD_COUNTESS">
+			<Text>The Blood Countess</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_HUNGARY_BLOOD_COUNTESS_DESC">
+			<Text>
+				A minister in our court has spoken up against the Countess Elizabeth Báthory, accusing her of wicked crimes against the Hungarian people. He alleges that the Countess has an insatisable obsession with torture and death, and that, at her hands, countless young women - of noble and common birth alike - have been tortured to death. These crimes are very serious, and we must not let them go unpunished if true.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_HUNGARY_BLOOD_COUNTESS_OUTCOME_1">
+			<Text>Investigate these claims.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_HUNGARY_BLOOD_COUNTESS_OUTCOME_2">
+			<Text>Disregard these claims.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_HUNGARY_BLOOD_COUNTESS_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLD] Gold[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {2_Num} [ICON_GOLDEN_AGE] Golden Age points[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_HUNGARY_BLOOD_COUNTESS_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLDEN_AGE] Golden Age points[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {2_Num} [ICON_CULTURE] Culture[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HUNGARY_BLOOD_COUNTESS_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>Our investigation into claims of serial murder against the Countess Elizabeth Báthory have turned up truth: a list of some 640 deaths has been unearthed and attributed to the Countess. She will be brought to the Capital and tried by the highest court in the land.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HUNGARY_BLOOD_COUNTESS_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have disregarded claims of serial murder against the Countess Elizabeth Báthory. Business as usual then.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_HUNGARY_BLOOD_COUNTESS">
+			<Text>The Countess Elizabeth Báthory has been convicted of serial murder in Hungary.</Text>
+		</Row>
+		<!-- A Foreign Hero -->
+		<Row Tag="TXT_KEY_EVENT_JFD_HUNGARY_FOREIGN_HERO">
+			<Text>A Foreign Hero</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_HUNGARY_FOREIGN_HERO_DESC">
+			<Text>A foreign commander, General Józef Bem, has recently become a hero to the Hungarian people for his courageous efforts to fight within our armies against our enemies. General Bem is known throughout for his military achievements, and we are fortunate that he fights for our cause. We should have him commemorated for his efforts.[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_HUNGARY_FOREIGN_HERO_OUTCOME_1">
+			<Text>Promote General Bem to the ranks of Hungary's commanders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_HUNGARY_FOREIGN_HERO_OUTCOME_2">
+			<Text>Decorate General Bem with the highest Hungarian honour.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_HUNGARY_FOREIGN_HERO_OUTCOME_3">
+			<Text>We shall afford no national honours to a foreigner.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_HUNGARY_FOREIGN_HERO_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_CULTURE] Culture[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain a free Great General with additional Sight and [ICON_MOVES] Moves and which ignores enemy Zone of Control[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_HUNGARY_FOREIGN_HERO_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_CULTURE] Culture[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain a free Great General[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_HUNGARY_FOREIGN_HERO_OUTCOME_RESULT_3">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]A foreign civilization receives a free Great General[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HUNGARY_FOREIGN_HERO_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have promoted General Józef Bem to join the ranks of our highest commanders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HUNGARY_FOREIGN_HERO_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have decorated General Józef Bem with our highest honour.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HUNGARY_FOREIGN_HERO_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>We have ignored the efforts of General Józef Bem, so he has chosen to desert our empire and serve elsewhere.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HUNGARY_JOZEF_BEM">
+			<Text>Józef Bem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_HUNGARY_FOREIGN_HERO">
+			<Text>National Hero</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_HUNGARY_FOREIGN_HERO_HELP">
+			<Text>Ignores Zone of Control. +1 Sight and +1 [ICON_MOVES] Movement.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

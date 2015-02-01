@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="0e17c147-5d24-4a45-80f9-247ad50a5c38" version="1">
+  <Properties>
+    <Name>JFD's The Anglo-Saxons</Name>
+    <Teaser>Added the [COLOR_POSITIVE_TEXT]The Anglo-Saxons[ENDCOLOR] with Alfred the Great to the game.</Teaser>
+    <Description>See CivFanatics or Steam Workshop for full details.</Description>
+    <Authors>JFD, Janboruta</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="B3030D39-C0D8-4bc7-91B1-7AD1CAF585AB" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events and Decisions" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="61C084E44AEF897124E18869BA1C7121" import="0">Art/ArtDefines.sql</File>
+    <File md5="BAE1CDF2CB92BA3B6ADB995C3CBD3D64" import="1">Art/IconAtlas/JFD_AngloSaxonsAlphaAtlas_128.dds</File>
+    <File md5="93CAEE1DF4D54F73A7084E7A8C89E082" import="1">Art/IconAtlas/JFD_AngloSaxonsAlphaAtlas_16.dds</File>
+    <File md5="43552D627B9AD5044031F8989D1AAAE2" import="1">Art/IconAtlas/JFD_AngloSaxonsAlphaAtlas_22.dds</File>
+    <File md5="A5BF43687B3A15882D97EF4A46D7E314" import="1">Art/IconAtlas/JFD_AngloSaxonsAlphaAtlas_24.dds</File>
+    <File md5="D5FB3E65CCEFD4020884D6234BA5A0E1" import="1">Art/IconAtlas/JFD_AngloSaxonsAlphaAtlas_32.dds</File>
+    <File md5="F7548F13D926FF225421E1F17D4D4127" import="1">Art/IconAtlas/JFD_AngloSaxonsAlphaAtlas_45.dds</File>
+    <File md5="763BA89EC4C6A48E1513BCD61A5A785F" import="1">Art/IconAtlas/JFD_AngloSaxonsAlphaAtlas_48.dds</File>
+    <File md5="6A8E7D525992E713690BA46F72B63C90" import="1">Art/IconAtlas/JFD_AngloSaxonsAlphaAtlas_64.dds</File>
+    <File md5="31126A62EA093E9CD7B23DEA82B8F6D2" import="1">Art/IconAtlas/JFD_AngloSaxonsAlphaAtlas_80.dds</File>
+    <File md5="2B67A6BF9C5598FCDAF36930D3E5515B" import="1">Art/IconAtlas/JFD_AngloSaxonsAtlas_128.dds</File>
+    <File md5="74DBC4FC31A081513D40ECCEC770D47B" import="1">Art/IconAtlas/JFD_AngloSaxonsAtlas_256.dds</File>
+    <File md5="F08564213D5D8B99A81C08EAD580403C" import="1">Art/IconAtlas/JFD_AngloSaxonsAtlas_32.dds</File>
+    <File md5="9B37F0D17B3A2D2F3DF857E7058D5119" import="1">Art/IconAtlas/JFD_AngloSaxonsAtlas_45.dds</File>
+    <File md5="9CD1A93AEF658961261BEE9B51FDDCE4" import="1">Art/IconAtlas/JFD_AngloSaxonsAtlas_64.dds</File>
+    <File md5="CDB029E75E138A1D4790A83FA67E4B79" import="1">Art/IconAtlas/JFD_AngloSaxonsAtlas_80.dds</File>
+    <File md5="2A8339CA77915FEBBE382562BA2741ED" import="1">Art/Leaderscene/Alfred_diplo.dds</File>
+    <File md5="5F29BD21F3EA5B8D73F964A8DA33D4E9" import="1">Art/Leaderscene/Alfred_Scene.xml</File>
+    <File md5="53471BB09BFFF4AFFF1CF747A8C305E3" import="1">Art/Map/AngloSaxonMap512.dds</File>
+    <File md5="C9A50BF428E70856192E977B5B4B9D76" import="1">Art/Map/DOM_Alfred.dds</File>
+    <File md5="D980B10A2341AA01F697AE1F39C33E0A" import="1">Audio/Alfred_Peace.mp3</File>
+    <File md5="7269EC2E84BC61F921970F8E1F628C59" import="1">Audio/Alfred_War.mp3</File>
+    <File md5="52F669B023C5008B8A715323A57FEE7F" import="0">Audio/Audio.sql</File>
+    <File md5="3B99DCF8A45050391FBFCA98194F6F53" import="0">Core/Bingles' Civ IV Traits Support/Leader_SharedTraits.sql</File>
+    <File md5="0BAAD9CDB5D5BB3552B6339F0CF6B2F8" import="0">Core/Buildings.sql</File>
+    <File md5="29511FF13BFAB4E1AD2CFA2D3003122E" import="0">Core/Civilizations.sql</File>
+    <File md5="2E265D1CD9B5ADE5A9071457F5D50E26" import="0">Core/Diplomacy.sql</File>
+    <File md5="94699DF55E79AADEEED9FEA4DA1BF551" import="0">Core/DiplomacyText.xml</File>
+    <File md5="26B8C41AE02189E9F964B241BB5B004C" import="0">Core/GameText.xml</File>
+    <File md5="4C1C7702FC11C74E81D3EA5373C1E7FE" import="0">Core/Gedemon's YnAEMP Support/CivilizationStartPos.sql</File>
+    <File md5="B4F7F3F3AC4F235B6240A1135EE6CA2C" import="0">Core/hazel16's Map Labels Support/ML_Tables.sql</File>
+    <File md5="1E83793720C28087237F9A46490A7600" import="0">Core/JFD's Cultural Diversity Support/Civilization_JFD_CultureTypes.sql</File>
+    <File md5="093B86D44357BF2FBEE57705349EE484" import="0">Core/JFD's Dynamic Tooltip Support/TopPanelAddins.sql</File>
+    <File md5="563D2D7001E96F68F200A2316E38AD8A" import="0">Core/JFD's Piety and Prestige Support/Flavours.sql</File>
+    <File md5="2D99754F0E2CA2440D54D6DE689CA76F" import="0">Core/Leaderhead.sql</File>
+    <File md5="505E0BC4D1B8149CE43D8D1331A89C45" import="0">Core/PlayerColours.sql</File>
+    <File md5="3620C256316B718DBDA18BC34D4A3427" import="0">Core/Promotions.sql</File>
+    <File md5="AD162A4708836852050841BF80DEF733" import="0">Core/Ryoga's Unique Cultural Influence Support/GameText.xml</File>
+    <File md5="E5ECBBDC8F4E8E5A5222FA2DCC5392B9" import="0">Core/Sukritact's Decisions Support/Decisions.sql</File>
+    <File md5="5D8F6B73E2DE530E318AB7B6436CDD29" import="0">Core/Sukritact's Decisions Support/GameText.xml</File>
+    <File md5="850737DB93F1A259D8022C567B2C4290" import="0">Core/Sukritact's Events Support/Events.sql</File>
+    <File md5="73A05298FF51D0E39E6FD756A5A457BC" import="0">Core/Sukritact's Events Support/GameText.xml</File>
+    <File md5="568446E7DDA6DA89806E740CEEACBE0B" import="0">Core/Traits.sql</File>
+    <File md5="B635C489A9E942ED408D0CED6E84CC88" import="0">Core/Units.sql</File>
+    <File md5="B85D88E6322469EC446B3F3F0AC12A9B" import="1">Lua/JFD's Dynamic Tooltip Support/JFD_AngloSaxonDynamicTopPanelSupport.lua</File>
+    <File md5="9CA11C68024BEA1D2D452C0A176BAC38" import="0">Lua/JFD_AngloSaxonsFunctions.lua</File>
+    <File md5="86C1C3EDCE4699DE320A932C4E70E22C" import="0">Lua/Sukritact's Modular City Info Stack/CityInfoStack.lua</File>
+    <File md5="120EB71025973A8A48B38314241DD0B3" import="0">Lua/Sukritact's Modular City Info Stack/CityInfoStack.xml</File>
+    <File md5="54AEEC0BF73FC3BA43827A5B4113927E" import="0">Lua/Sukritact's Modular City Info Stack/JFD_ShireCourtCityInfo.lua</File>
+    <File md5="4871C3840C688A7A7C2F2EC03F2E7A06" import="0">Lua/Sukritact's Modular City Info Stack/JFD_ShireCourtCityInfo.xml</File>
+    <File md5="040C47CF9851EFD53A80971D8B478340" import="1">Lua/Sukritact's Decisions Support/JFD_AngloSaxonsDecisions.lua</File>
+    <File md5="0FAED33DEA6F056F582F179B196EA1F9" import="1">Lua/Sukritact's Events Support/JFD_AngloSaxonsEvents.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Audio/Audio.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Gedemon's YnAEMP Support/CivilizationStartPos.sql</UpdateDatabase>
+      <UpdateDatabase>Core/hazel16's Map Labels Support/ML_Tables.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Cultural Diversity Support/Civilization_JFD_CultureTypes.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Piety and Prestige Support/Flavours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Decisions Support/Decisions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Decisions Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Events Support/Events.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Events Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Ryoga's Unique Cultural Influence Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Dynamic Tooltip Support/TopPanelAddins.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Bingles' Civ IV Traits Support/Leader_SharedTraits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Buildings.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Civilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DiplomacyText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Leaderhead.sql</UpdateDatabase>
+      <UpdateDatabase>Core/PlayerColours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Promotions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Units.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_AngloSaxonsFunctions.lua">
+      <Name>JFD_AngloSaxonFunctions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Sukritact's Modular City Info Stack/JFD_ShireCourtCityInfo.lua">
+      <Name>JFD_ShireCourtCityInfo</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Sukritact's Modular City Info Stack/CityInfoStack.lua">
+      <Name>Sukritact's City Info Stack</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

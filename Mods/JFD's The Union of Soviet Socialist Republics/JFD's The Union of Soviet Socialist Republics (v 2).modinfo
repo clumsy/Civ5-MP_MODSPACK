@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="454c179b-9894-4566-885f-47530b57d4cf" version="2">
+  <Properties>
+    <Name>JFD's The Union of Soviet Socialist Republics</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]the Union of Soviet Socialist Republics[ENDCOLOR] with Lenin to the game.</Teaser>
+    <Description>The Soviet Union is a custom civilization for Sid Meier's Civilization V, available for users with Brave New World.[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Leader:[ENDCOLOR] Lenin[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Unique Ability:[ENDCOLOR] Proletarian Revolution - Workers may be stationed in friendly cities to boost Production, or, after choosing an ideology, expended for Tourism in enemy territory.[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Unique Unit:[ENDCOLOR] Levy - The Levy is the unique unit for the USSR, for Lenin. Unlike the Great War Infantry that it replaces, the Levy is considerably cheaper, though it is also slightly weaker. Levies may be upgraded to from Workers if you have adopted an Ideology, and may make use of enemy roads.[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Unique Building:[ENDCOLOR] Commissariat - The Commissariat is the Soviet replacement for the Constable, for Lenin. In addition to the regular effects of the Constable, the Commissariat increases the amount of Food carried over when a new Citizen is born based upon the amount of Production produced in the city.[NEWLINE][NEWLINE]</Description>
+    <Authors>JFD</Authors>
+    <SpecialThanks>janboruta</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="8c101299-95c5-4b28-b7ed-4e0f774857ef" minversion="0" maxversion="999" title="Historical Religions (BNW or GK)" />
+    <Mod id="6bc3cb6e-a697-491e-9347-5e3e02640f00" minversion="0" maxversion="999" title="Historical Religions Edit (BNW or GK)" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="2413CDCB238C7D0BC83961CDC0D06AA6" import="0">Art/ArtDefines.sql</File>
+    <File md5="0B3EDF7C3F4DF4B3E29BE9693EC17179" import="0">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Animations Export.jpg</File>
+    <File md5="62C8B0D2EEEC81E954EC81B8A9246305" import="0">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Animations Import.jpg</File>
+    <File md5="2B24689CCD06205DB313CC9AC7E011C8" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Celtic_MD_DieA.gr2</File>
+    <File md5="7206EE5492876ADBA8B2C8FD3FAA74AE" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Celtic_MD_DieA_Fade.gr2</File>
+    <File md5="4B5358D2164010D3A5903C29041B1A43" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Celtic_MD_Fidget.gr2</File>
+    <File md5="893C52F40FA4B8A6D34C357B3026BD0C" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Celtic_MD_FortifyA.gr2</File>
+    <File md5="1868588C74E1E65884B7E44529B9ABB3" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Celtic_MD_FortifyA_Idle.gr2</File>
+    <File md5="59A1B6C695FBB87F6DCB78B26CC667C1" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Celtic_MD_HurtA.gr2</File>
+    <File md5="34B37CEC922754C393E21F37C534D078" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Celtic_MD_Idle.gr2</File>
+    <File md5="493A9BDF462A060493F4E26DB015C520" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Celtic_MD_Run.gr2</File>
+    <File md5="C5739FEA2C4725D62797D075D67FB025" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Celtic_MD_StrikeA.gr2</File>
+    <File md5="ADEB832C086934E630BF6C0902F2A56A" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Chinese_MD_DieA.gr2</File>
+    <File md5="40E4590E57EBB9917A11002309A3EA9E" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Chinese_MD_DieA_Fade.gr2</File>
+    <File md5="CB98C27CA2FC04656B518FE6479E0D4E" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Chinese_MD_Fidget.gr2</File>
+    <File md5="36D7E2AEC37A1A682C30914A9C6F671C" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Chinese_MD_FortifyA.gr2</File>
+    <File md5="5C651D74E5A48F9109F6C22ED72313A4" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Chinese_MD_FortifyA_Idle.gr2</File>
+    <File md5="FAF4E55A82A1A2F5759C86A705F9F68B" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Chinese_MD_HurtA.gr2</File>
+    <File md5="E9AE568DD0DDB11377702127C042B9D2" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Chinese_MD_Idle.gr2</File>
+    <File md5="BD9F6871C171C4C3FC3F7BA6DB672053" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Chinese_MD_Run.gr2</File>
+    <File md5="67AA377A5118D6AC9B5DA86819D33FA2" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Chinese_MD_StrikeA.gr2</File>
+    <File md5="3C80432357489FE72E7655F875BDB824" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/chariot_md_diea.gr2</File>
+    <File md5="5D52FA980E997549B0922C5C52BA64B1" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/chariot_md_diea_fade.gr2</File>
+    <File md5="43581AC9B98CF1055A0AFED3887E45AE" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/chariot_md_fidget.gr2</File>
+    <File md5="E6E19537717C935860CD9BD2FA6752EC" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/chariot_md_fortifya.gr2</File>
+    <File md5="1CA9DFD66BF306F5C9F3AD0C3028B12A" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/chariot_md_fortifya_idle.gr2</File>
+    <File md5="005FB3C34DBCA7AE12948BE7DA72CBA8" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/chariot_md_hurta.gr2</File>
+    <File md5="AE6DA18C5A2A9EEE0837BF3700B7A8D6" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/chariot_md_idle.gr2</File>
+    <File md5="D111DE946B028FF2D7E25F100562393D" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/chariot_md_run.gr2</File>
+    <File md5="D0C084D38F967E1619552481F721DD7B" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/chariot_md_strikea.gr2</File>
+    <File md5="5AD6804BB0A75E34C88FE9EA0BE6111E" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/egyptianwarchariot_md_diea.gr2</File>
+    <File md5="A1E3EC5A7FB67ACB252508175ED1A855" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/egyptianwarchariot_md_diea_fade.gr2</File>
+    <File md5="718CFD0F011CB22C22C33CFEF290380E" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/egyptianwarchariot_md_fidget.gr2</File>
+    <File md5="B819EBD3EBBFD1698E6F2161106A4A8A" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/egyptianwarchariot_md_fortifya.gr2</File>
+    <File md5="8E2DB4941285625D50CE5561F524F229" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/egyptianwarchariot_md_fortifya_idle.gr2</File>
+    <File md5="5D8CA3748BFE19C118E9887BC9CEBB9B" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/egyptianwarchariot_md_hurta.gr2</File>
+    <File md5="36DF45372BD78107F202633840D29F54" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/egyptianwarchariot_md_idle.gr2</File>
+    <File md5="0B942ED57C082D5AD8E3DBCE9E9FA81D" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/egyptianwarchariot_md_run.gr2</File>
+    <File md5="DB01D3C200F41A9339CF6E7B56228E56" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/egyptianwarchariot_md_strikea.gr2</File>
+    <File md5="B77A8D871F6552712B4CA6C3EAD22AA6" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/fx_triggers_Chariot_Civ4.ftsxml</File>
+    <File md5="8B435DA891615E52AB0297A3FDD15927" import="0">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/[Chariot_XML_Code].txt</File>
+    <File md5="AC41C06BA721315512F26433220FEDF7" import="1">Art/Graphics/no_gloss.dds</File>
+    <File md5="B7BE2BE39F697D37098A67D9C4FDF292" import="1">Art/Graphics/Paratrooper_Russia.dds</File>
+    <File md5="6C4F81CD447E513C1CB9C67B93E1152B" import="1">Art/Graphics/Paratrooper_Russia_MG.fxsxml</File>
+    <File md5="02C374ACBEC512B969F637CA29870370" import="1">Art/Graphics/Paratrooper_Russia_MG.gr2</File>
+    <File md5="EEB82B8B72686DDBE7BDE8401EF8ACA3" import="1">Art/Graphics/sv_Levy.dds</File>
+    <File md5="0701CD5E8688869B9124A6D89DCC029C" import="1">Art/IconAtlas/JFD_LeninUSSRAlphaAtlas_128.dds</File>
+    <File md5="E82389FF42E939F121D03D65E5F80D58" import="1">Art/IconAtlas/JFD_LeninUSSRAlphaAtlas_16.dds</File>
+    <File md5="1DF9916168DBEBB1D4131FB59B6E7F4B" import="1">Art/IconAtlas/JFD_LeninUSSRAlphaAtlas_24.dds</File>
+    <File md5="9208036AFA7B434F35E48DAB5D7B9E47" import="1">Art/IconAtlas/JFD_LeninUSSRAlphaAtlas_32.dds</File>
+    <File md5="2E537A26F92F5EEF2FD8955D91A5BDEA" import="1">Art/IconAtlas/JFD_LeninUSSRAlphaAtlas_45.dds</File>
+    <File md5="FAE7F807C6CB2ABD45061F44E8CD017A" import="1">Art/IconAtlas/JFD_LeninUSSRAlphaAtlas_48.dds</File>
+    <File md5="510BF1427AE9DD90AFC244F24AA7CD19" import="1">Art/IconAtlas/JFD_LeninUSSRAlphaAtlas_64.dds</File>
+    <File md5="242D5EBD36F14E4067AFB262E905BB62" import="1">Art/IconAtlas/JFD_LeninUSSRAlphaAtlas_80.dds</File>
+    <File md5="88D9C3D7252C4C7A74978FFA3EB8D60B" import="1">Art/IconAtlas/JFD_USSRLeninAtlas_128.dds</File>
+    <File md5="0323D84A45EA637953994A5183C1A4FB" import="1">Art/IconAtlas/JFD_USSRLeninAtlas_256.dds</File>
+    <File md5="591A109C49FAC6489E9CD47572BA5F95" import="1">Art/IconAtlas/JFD_USSRLeninAtlas_32.dds</File>
+    <File md5="20905C1408C0DAE8A250A2BE38344E3C" import="1">Art/IconAtlas/JFD_USSRLeninAtlas_45.dds</File>
+    <File md5="B1AD2CFBF4EA8D59E6804F21CF4D21E6" import="1">Art/IconAtlas/JFD_USSRLeninAtlas_64.dds</File>
+    <File md5="6C5FE5CB87489B49FA184D712A169F85" import="1">Art/IconAtlas/JFD_USSRLeninAtlas_80.dds</File>
+    <File md5="20905C1408C0DAE8A250A2BE38344E3C" import="1">Art/IconAtlas/JFD_USSRLeninAtlas_90.dds</File>
+    <File md5="78F0C31797D0DF846686D038409545AD" import="1">Art/IconAtlas/UnitFlagLevyAtlas_32.dds</File>
+    <File md5="D10CE6C8EBAE76C4141649BC75434968" import="1">Art/Leaderscene/Lenin_Diplo.dds</File>
+    <File md5="0AC4DAB2ED7496546F9EA59D4647C3B6" import="1">Art/Leaderscene/Lenin_Scene.xml</File>
+    <File md5="1B104BBB6077387A2D57B262E1D971C2" import="1">Art/Map/LeninUSSRMap512.dds</File>
+    <File md5="93E973F511A975DDF3D3EF60D6D51291" import="1">Art/Map/Lenin_DOM.dds</File>
+    <File md5="60C3FAE455202F460E91A1B0F1D57E3C" import="0">Audio/Audio.sql</File>
+    <File md5="98AC42DA699F92683122418E611D58F9" import="1">Audio/Lenin_Peace.mp3</File>
+    <File md5="2418B4863C5C02DC347A21F1CD6FCF19" import="1">Audio/Lenin_War.mp3</File>
+    <File md5="17CB3A83D36B83ED2E3D0947734CE016" import="0">Core/Buildings.sql</File>
+    <File md5="50B371F3F07DC11A47A2BB1E99C6211B" import="0">Core/Civilizations.sql</File>
+    <File md5="962D7E4838E68413E67346E50FF09573" import="0">Core/Diplomacy.sql</File>
+    <File md5="B0277A4E4104841B3C6F9FE4A3AEB28E" import="0">Core/GameText.xml</File>
+    <File md5="590E77233349A8FF0E9D6583565F6849" import="0">Core/Leaderhead.sql</File>
+    <File md5="4E69A0EBF2172082FD4B0455D239CE68" import="0">Core/PlayerColours.sql</File>
+    <File md5="989B37EFB9BB9E4F52B5A642FDD934D8" import="0">Core/Promotions.sql</File>
+    <File md5="FB11468C9361B5AD9108423A07B04E6C" import="0">Core/Traits.sql</File>
+    <File md5="CFA5F977DCFC70106B288EECEB86DBA3" import="0">Core/TSL.sql</File>
+    <File md5="93F8A85D9417BC34233D1BB98B9F33BA" import="0">Core/Units.sql</File>
+    <File md5="05E93AC4D1B6919ACA2A371F937472FE" import="0">Lua/Leninist Russia Functions.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Audio/Audio.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Buildings.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Civilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Leaderhead.sql</UpdateDatabase>
+      <UpdateDatabase>Core/PlayerColours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Promotions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/TSL.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Units.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Leninist Russia Functions.lua">
+      <Name>Leninist Russia Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

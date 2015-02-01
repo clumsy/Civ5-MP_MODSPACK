@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>	
+		<!--Address the British Nation-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_UNITED_KINGDOM_ADDRESS_THE_NATION">
+			<Text>Address the British Nation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_UNITED_KINGDOM_ADDRESS_THE_NATION_DESC">
+			<Text>Dark days encroach upon these British territories, but we shall never surrender! We shall fight on the beaches! We shall fight in the hills! We shall fight in the streets! By His Majesty's Grace and By God, We shall never surrender our British Empire![NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the United Kingdom
+				[NEWLINE][ICON_BULLET]Player must have at War with a Major Civilization
+				[NEWLINE][ICON_BULLET]May only be enacted once per era
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] Culture
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All Military Units gain a 25% [ICON_STRENGTH] Combat Bonus for the next 20 turns
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_UNITED_KINGDOM_ADDRESS_THE_NATION_ENACTED_DESC">
+			<Text>Dark days encroach upon these British territories, but we shall never surrender! We shall fight on the beaches! We shall fight in the hills! We shall fight in the streets! By His Majesty's Grace and By God, We shall never surrender our British Empire![NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All Military Units gain a 25% [ICON_STRENGTH] Combat Bonus for the next 20 turns
+			</Text>
+		</Row>
+		<!--Promote a Special Relationship-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_UNITED_KINGDOM_SPECIAL_RELATIONSHIP">
+			<Text>Promote a Special Relationship</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_UNITED_KINGDOM_SPECIAL_RELATIONSHIP_DESC">
+			<Text>It is a privilege to be an ally to the United Kingdom, but the bonds of friendship are stronger and more valueable. If we can foster a special relationship with another civilization, then it should come with it certain benefits.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the United Kingdom
+				[NEWLINE][ICON_BULLET]Player must have at least one Declaration of Friendship
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Medieval Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Gain two additional Trade Routes whilst you have a Declaration of Friendship with any Civilization
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_UNITED_KINGDOM_SPECIAL_RELATIONSHIP_ENACTED_DESC">
+			<Text>It is a privilege to be an ally to the United Kingdom, but the bonds of friendship are stronger and more valueable. If we can foster a special relationship with another civilization, then it should come with it certain benefits.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Gain two additional Trade Routes whilst you have a Declaration of Friendship with any Civilization
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SPECIAL_RELATIONSHIP">
+			<Text>JFD: Special Relationship</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SPECIAL_RELATIONSHIP_HELP">
+			<Text>+2 Trade Routes</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

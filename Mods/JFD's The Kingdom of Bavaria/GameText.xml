@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- The Illuminati -->
+		<Row Tag="TXT_KEY_EVENT_JFD_BAVARIA_ILLUMINATI">
+			<Text>The Illuminati</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BAVARIA_ILLUMINATI_DESC">
+			<Text>Whispers of a secret society calling themselves The Illuminati have emerged within our court. These "enlightened" minds advocate for women's education and equality, and for the devolution of the powers of faith in public life. These absurd notions cannot be allowed to fester.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BAVARIA_ILLUMINATI_OUTCOME_1">
+			<Text>Outlaw this blasphemous nuisance!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BAVARIA_ILLUMINATI_OUTCOME_2">
+			<Text>Bah. What harm could they do?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BAVARIA_ILLUMINATI_OUTCOME_3">
+			<Text>They seem fun. Let's ask to join them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BAVARIA_ILLUMINATI_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_CULTURE] Culture[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {2_Num} [ICON_PEACE] Faith and {3_Num} [ICON_GOLDEN_AGE] Golden Age points[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BAVARIA_ILLUMINATI_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]10% chance that a catastrophic event will occur in the future[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BAVARIA_ILLUMINATI_OUTCOME_RESULT_3">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_PEACE] Faith and {2_Num} [ICON_GOLDEN_AGE] Golden Age points[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]All Spies are levelled up[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_BAVARIA_ILLUMINATI_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have outlawed the Illuminati and had their secret society dissolved. We shall surely hear nothing from them again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_BAVARIA_ILLUMINATI_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have chosen to let the secret society of the Illuminati be. We shall surely never come to regret this decision.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_BAVARIA_ILLUMINATI_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>We have decided to join the secret society of the Illuminati. Perhaps we can put their secret knowledge to use in our government.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_BAVARIA_ILLUMINATI">
+			<Text>JFD: The Illuminati</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_BAVARIA_ILLUMINATI_HELP">
+			<Text>Instant Spy Level</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_BAVARIA_ILLUMINATI">
+			<Text>Ludwig II of Bavaria has outlawed the Illuminati; an exclusive group of intellectuals claiming to be enlightened.</Text>
+		</Row>
+		<!-- The New World Order -->
+		<Row Tag="TXT_KEY_EVENT_JFD_BAVARIA_NEW_WORLD_ORDER">
+			<Text>The New World Order</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BAVARIA_NEW_WORLD_ORDER_DESC">
+			<Text>The New World Order has come.[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BAVARIA_NEW_WORLD_ORDER_OUTCOME_1">
+			<Text>Darn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BAVARIA_NEW_WORLD_ORDER_OUTCOME_2">
+			<Text>As above, so below.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BAVARIA_NEW_WORLD_ORDER_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]A New World Order dawns[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_BAVARIA_NEW_WORLD_ORDER_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>A New World Order has dawned.</Text>
+		</Row>
+		<!-- Pressure to produce an heir -->
+		<Row Tag="TXT_KEY_EVENT_JFD_BAVARIA_PRESSURE_HEIR">
+			<Text>Pressures to Produce an Heir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BAVARIA_PRESSURE_HEIR_DESC">
+			<Text>The Ministers of our government have become simply ridiculous in their beratement of us for our lack of interest in seeking a women with whom to produce an heir. One of them even had the gall to accuse us of impotency! This simply cannot be tolerated and undermines the legitimacy of the Bavarian throne.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BAVARIA_PRESSURE_HEIR_OUTCOME_1">
+			<Text>Very well. I shall seek a bride immediately.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BAVARIA_PRESSURE_HEIR_OUTCOME_2">
+			<Text>My romantic affairs shall remain at my discretion alone.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BAVARIA_PRESSURE_HEIR_OUTCOME_3">
+			<Text>For what do I need an heir? I'm immortal!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BAVARIA_PRESSURE_HEIR_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]The Capital gains 10 turns of 'We Love the King Day.'[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BAVARIA_PRESSURE_HEIR_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_CULTURE] Culture[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BAVARIA_PRESSURE_HEIR_OUTCOME_RESULT_3">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain a 5 turn [ICON_GOLDEN_AGE] Golden Age[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_BAVARIA_PRESSURE_HEIR_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have conceded to taking a bride, though this is by no means assurance of an heir.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_BAVARIA_PRESSURE_HEIR_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have declined to take a bride. Rumours of our romantic indiscretions shall continue to permeate the court.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_BAVARIA_PRESSURE_HEIR_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>We have asserted our immortality and suspended the suspension of disbelief.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_BAVARIA_PRESSURE_HEIR">
+			<Text>Ludwig II of Bavaria has come under scrutiny over his failure to produce an heir.</Text>
+		</Row>
+		<!-- New Opera -->
+		<Row Tag="TXT_KEY_EVENT_JFD_BAVARIA_NEW_OPERA">
+			<Text>New Opera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BAVARIA_NEW_OPERA_DESC">
+			<Text>The great Richard Wagner has once again astounded the world with the creation of a magnificent new opera. Our devotion to Wagner's craft predicates that we simply cannot miss the premiere of this new masterpiece.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BAVARIA_NEW_OPERA_OUTCOME_1">
+			<Text>I must have a private showing!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BAVARIA_NEW_OPERA_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLD] Gold[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {2_Num} [ICON_CULTURE] Culture[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BAVARIA_NEW_OPERA_OUTCOME_2">
+			<Text>We shall invite all the world's leaders to the premiere.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BAVARIA_NEW_OPERA_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLD] Gold[NEWLINE][ICON_BULLET]Other Civilizations gain {2_Num} [ICON_CULTURE][ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]+10% [ICON_TOURISM] Tourism from the Musician's Guild[ENDCOLOR][NEWLINE][NEWLINE]Note: this option may only be chosen once</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BAVARIA_NEW_OPERA_OUTCOME_3">
+			<Text>Yawn...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BAVARIA_NEW_OPERA_OUTCOME_RESULT_3">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Nothing[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_BAVARIA_NEW_OPERA_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have attended a private showing of Richard Wagner's new opera.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_BAVARIA_NEW_OPERA_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have invited all the world to the premiere of Richard Wagner's new opera.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_BAVARIA_NEW_OPERA">
+			<Text>Ludwig II has invited you to the premiere of Richard Wagner's newest Opera.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

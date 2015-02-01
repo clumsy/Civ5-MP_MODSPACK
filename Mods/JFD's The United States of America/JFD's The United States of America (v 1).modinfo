@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="30796316-3cec-4f25-be0b-2d1d421f9c63" version="1">
+  <Properties>
+    <Name>JFD's The United States of America</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]the United States of America[ENDCOLOR] with Abraham Lincoln to the game.</Teaser>
+    <Description>The United States of America is a custom civilization for Sid Meier's Civilization V, available for users with Brave New World.[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Leader:[ENDCOLOR] Lincoln[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Unique Ability:[ENDCOLOR] A House Divided - Choose a unique, wartime bonus upon the outbreak of war with a major civilization. Cities construct Gold buildings automatically.[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Unique Unit:[ENDCOLOR] Monitor - The Monitor is the unique replacement for the Ironclad for Lincoln. Unlike the Ironclad, the Monitor comes in two unique variants, and may be trained as either a melee unit or a ranged unit. As a melee unit, a Monitor causes all friendly, adjacent naval units to heal 5 damage per turn with the Medic promotion, and also begins with the Supply promotion. As a ranged unit, the Monitor gains the Indirect Fire promotion, allowing it to attack over obstacles, and it gains a significant bonus against cities, though it must set up before attacking. Both variants cost more to produce than the regular Ironclad.[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Unique Unit:[ENDCOLOR] Parrott Rifle - The Parrott Rifle is Lincoln's unique Cannon replacement. Although it is weaker in combat against cities, it is especially effective against Land Units. When the Parrott Rifle is stationed in a Fort or Citadel, any unit adjacent to it will gain a defensive boost. This makes the Parrott Rifle great at defending any tenuous borders.[NEWLINE][NEWLINE]</Description>
+    <Authors>JFD</Authors>
+    <SpecialThanks>janboruta, Viregel, Sukritact</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="8c101299-95c5-4b28-b7ed-4e0f774857ef" minversion="0" maxversion="999" title="Historical Religions (BNW or GK)" />
+    <Mod id="6bc3cb6e-a697-491e-9347-5e3e02640f00" minversion="0" maxversion="999" title="Historical Religions Edit (BNW or GK)" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="7EB6BD0D842AD6CB045DC559785311AE" import="0">Art/ArtDefines.sql</File>
+    <File md5="314E34FE0A684C1E5569FA9F33082B7C" import="1">Art/Graphics/sv_parrottcannon_acw.dds</File>
+    <File md5="279CBA721BB96D75515392A6477E5C3D" import="1">Art/Graphics/sv_union_ironclad_acw.dds</File>
+    <File md5="79B423384F3AC392C9FDF34C27C0861F" import="1">Art/IconAtlas/JFD_AmericaLincolnAtlas_128.dds</File>
+    <File md5="1206A0DA04589A6E4E9BCAB91E5E6348" import="1">Art/IconAtlas/JFD_AmericaLincolnAtlas_256.dds</File>
+    <File md5="84875D243D44D3EB6FBA6B49C2FDC917" import="1">Art/IconAtlas/JFD_AmericaLincolnAtlas_64.dds</File>
+    <File md5="9C80E564D2536CF97221B484992BEE46" import="1">Art/Leaderscene/Lincoln_Diplo.dds</File>
+    <File md5="480FCEDF5119CB01306E69D0D860D074" import="1">Art/Leaderscene/Lincoln_Scene.xml</File>
+    <File md5="4318EC8A4D6E226C604CF16AE0550059" import="1">Art/Map/LincolnAmericaMap512.dds</File>
+    <File md5="B7C4D07E12DDF94F637C105AF3376DDF" import="1">Art/Map/LincolnAmericaMap512Alt.dds</File>
+    <File md5="D5BF0B1F03B799EADD016CFB127F356E" import="1">Art/Map/Lincoln_DOM.dds</File>
+    <File md5="795CA0D6B14B20B0646F88E6E32ED8A7" import="0">Audio/Audio.sql</File>
+    <File md5="75DC73FC8270AEE6267B358F1375E65C" import="1">Audio/Lincoln_Peace.mp3</File>
+    <File md5="3F0C9A36158E3809A6B1ACFBF3928CED" import="1">Audio/Lincoln_War.mp3</File>
+    <File md5="DC5449BB83601EC22956F8147C2FD7C3" import="0">Core/Civilizations.sql</File>
+    <File md5="3FF1486E31C98B4A02253261B8D34FC2" import="0">Core/Diplomacy.sql</File>
+    <File md5="87B94253E8B3CE83D3206541DC4EF437" import="0">Core/GameText.xml</File>
+    <File md5="C9292B72A6F69CA5BF3F1532B17DEFBE" import="0">Core/Leaderhead.sql</File>
+    <File md5="0EBC40FEE08B7C7347E5B83FAE3A0AEA" import="0">Core/PlayerColours.sql</File>
+    <File md5="E138CA353D4C683E86C2B0A7C173D5E7" import="0">Core/Promotions.sql</File>
+    <File md5="E2623983A95EDACC1AEE2840CD71D716" import="0">Core/Traits.sql</File>
+    <File md5="4DF7BA3C2C44C1A25794E2190657E25E" import="0">Core/TSL.sql</File>
+    <File md5="FB951B59FB74A458910C694655A1D935" import="0">Core/Units.sql</File>
+    <File md5="DA7F473C497D563F4527DC24F6B37A39" import="0">Lua/Lincoln America Functions.lua</File>
+    <File md5="166C3D6BF0C46A5461E82C32F37B8E25" import="0">Lua/Lincoln America Functions.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Civilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Leaderhead.sql</UpdateDatabase>
+      <UpdateDatabase>Core/PlayerColours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Promotions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/TSL.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Units.sql</UpdateDatabase>
+      <UpdateDatabase>Audio/Audio.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Lincoln America Functions.lua">
+      <Name>Lincoln America Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

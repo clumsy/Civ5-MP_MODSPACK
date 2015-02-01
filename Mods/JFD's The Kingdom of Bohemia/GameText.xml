@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Czech Language -->
+		<Row Tag="TXT_KEY_EVENT_JFD_BOHEMIA_CZECH_LANGUAGE">
+			<Text>Czech Language</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BOHEMIA_CZECH_LANGUAGE_DESC">
+			<Text>
+				A 13th century manuscript created by Dvur Králové to espouse the greatness of Bohemian identity has turned out to be a forgery. Nonetheless, it has sparked interest in the Czech language, since eroded by the influences of German, and a swelling of national pride has been instilled in the people. It would be a perfect opportunity to revive our ancient language.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BOHEMIA_CZECH_LANGUAGE_OUTCOME_1">
+			<Text>Yes, let us revive the Czech language!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BOHEMIA_CZECH_LANGUAGE_OUTCOME_2">
+			<Text>No, let it die.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BOHEMIA_CZECH_LANGUAGE_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLD] Gold[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain a free Great Writer[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BOHEMIA_CZECH_LANGUAGE_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Nothing[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_BOHEMIA_CZECH_LANGUAGE_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have decided to let the Czech language fade away miserably.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_BOHEMIA_CZECH_LANGUAGE_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have sought to revive the Czech language.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_BOHEMIA_CZECH_LANGUAGE">
+			<Text>Interest in the Czech language has emerged in Bohemia.</Text>
+		</Row>
+		<!-- Prague Defenestration -->
+		<Row Tag="TXT_KEY_EVENT_JFD_BOHEMIA_PRAGUE_DEFENSTRATION">
+			<Text>The Prague Defenestration</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BOHEMIA_PRAGUE_DEFENSTRATION_DESC">
+			<Text>
+				A most terrible incident has occured: several members of the Prague City Council have been tossed from a window by an aggravated mob! What councillors were not killed in the fall were quickly murdered by the crowd. This is simply terrible news![NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BOHEMIA_PRAGUE_DEFENSTRATION_OUTCOME_1">
+			<Text>This is shocking! I'm feeling faint...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BOHEMIA_PRAGUE_DEFENSTRATION_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Nothing[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_BOHEMIA_PRAGUE_DEFENSTRATION_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have been shocked by a recent and bloody incident involving the defenstration of several Prague officials. We should sit down before we die of shock!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BOHEMIA_PRAGUE_DEFENSTRATION_OUTCOME_2">
+			<Text>This is was clearly an accident.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BOHEMIA_PRAGUE_DEFENSTRATION_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_CULTURE] Culture[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]The [ICON_CAPITAL] Capital begins celebrating 'We Love the King Day' for 5 turns[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_BOHEMIA_PRAGUE_DEFENSTRATION_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have been shocked by a recent and bloody incident involving the defenstration of several Prague officials. But clearly it was an accident; everyone must have had too much to drink!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BOHEMIA_PRAGUE_DEFENSTRATION_OUTCOME_3">
+			<Text>The mob must be held accountable</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_BOHEMIA_PRAGUE_DEFENSTRATION_OUTCOME_RESULT_3">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]The [ICON_CAPITAL] Capital goes into [ICON_RESISTANCE] Resistance for one turn[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_CULTURE] Culture[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_BOHEMIA_PRAGUE_DEFENSTRATION_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>We have been shocked by a recent and bloody incident involving the defenstration of several Prague officials. This is clearly unacceptable, and the mob must be held accountable for their actions!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_BOHEMIA_PRAGUE_DEFENESTRATION">
+			<Text>Officials in the Bohemian city of Prague have been defenestrated.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

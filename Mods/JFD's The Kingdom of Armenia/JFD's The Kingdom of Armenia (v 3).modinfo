@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="bc011e1c-e076-4f9d-9efe-3e4d1a57679d" version="3">
+  <Properties>
+    <Name>JFD's The Kingdom of Armenia</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]the Kingdom of Armenia[ENDCOLOR] with Tiridates III to the game.</Teaser>
+    <Description>See Steam Workshop or CivFanatics for full details.</Description>
+    <Authors>JFD, Janboruta</Authors>
+    <SpecialThanks>KyteM</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <Homepage>http://forums.civfanatics.com/showthread.php?t=474393</Homepage>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="6bc3cb6e-a697-491e-9347-5e3e02640f00" minversion="0" maxversion="999" title="Historical Religions Edit (BNW or GK)" />
+    <Mod id="8c101299-95c5-4b28-b7ed-4e0f774857ef" minversion="0" maxversion="999" title="Historical Religions (BNW or GK)" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD's Piety and Prestige" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="2D02B61B3D15483166D35F87AEBDF3EA" import="0">Art/ArtDefines.sql</File>
+    <File md5="ED4EEF5DD458F2776A98A10F34157C8E" import="1">Art/Graphics/Knight_Persia.dds</File>
+    <File md5="4541401A9BB1499F76B82EEA6DCD61FF" import="1">Art/Graphics/Knight_Persia.fxsxml</File>
+    <File md5="58AB6FE86E3FE679DEA40C0C3D480612" import="1">Art/Graphics/Knight_Persia.gr2</File>
+    <File md5="8F439ED343C7B2A612F07BE809317BE5" import="1">Art/Graphics/Knight_Persia_gloss.dds</File>
+    <File md5="BD4D92A1B8E97A9320D43E7AFFFE1C18" import="1">Art/Graphics/Knight_Persia_Horse.dds</File>
+    <File md5="FB5DF706C65770F25C443B34581B2774" import="1">Art/Graphics/Knight_Persia_Horse_gloss.dds</File>
+    <File md5="2E52CE947329B2E9DC7DEC5F0C1E367C" import="1">Art/Graphics/mamikonian.fxsxml</File>
+    <File md5="7398F3508D7979A04D1AA968DA762352" import="1">Art/Graphics/mamikonian.gr2</File>
+    <File md5="8575CE36903EF9D40B5D9A8C73869E95" import="1">Art/Graphics/mamikonian_sref.dds</File>
+    <File md5="4D4A3579B719C0B1BF9B84C5024274BA" import="1">Art/Graphics/sv_Mamikonian.dds</File>
+    <File md5="3D805206E00BA804E53E9FCF7BC81A67" import="1">Art/Graphics/mamikonian_diff.dds</File>
+    <File md5="6D0937C66B6D29A08954DB3E90F92E30" import="1">Art/IconAtlas/JFD_ArmeniaAlphaAtlas_128.dds</File>
+    <File md5="9AFD5F5F34E0E8D4464960D0B20B76F6" import="1">Art/IconAtlas/JFD_ArmeniaAlphaAtlas_16.dds</File>
+    <File md5="5BA4663DDBE1BC744645FCE6C23B3A2C" import="1">Art/IconAtlas/JFD_ArmeniaAlphaAtlas_22.dds</File>
+    <File md5="9BD33BBA1034EB2BF74A3EBECEB7FF56" import="1">Art/IconAtlas/JFD_ArmeniaAlphaAtlas_24.dds</File>
+    <File md5="515DC10A7009E43C41C77EC9EA417BD7" import="1">Art/IconAtlas/JFD_ArmeniaAlphaAtlas_32.dds</File>
+    <File md5="81E8E1E2FCCEBF7C3509BEAC2BC1D69B" import="1">Art/IconAtlas/JFD_ArmeniaAlphaAtlas_45.dds</File>
+    <File md5="F936C67B2C4CD03D5FEBFE13409F78DD" import="1">Art/IconAtlas/JFD_ArmeniaAlphaAtlas_48.dds</File>
+    <File md5="CB0E7FD6A5AC50ADDCA296F9A7F4AA1C" import="1">Art/IconAtlas/JFD_ArmeniaAlphaAtlas_64.dds</File>
+    <File md5="413277AACD617CD7907521553929ACC3" import="1">Art/IconAtlas/JFD_ArmeniaAlphaAtlas_80.dds</File>
+    <File md5="B77D8A59FE2AD0A2EE8DE94F32339666" import="1">Art/IconAtlas/JFD_ArmeniaAtlas_128.dds</File>
+    <File md5="CC8242FF5CD90A00BB3A958703253FA4" import="1">Art/IconAtlas/JFD_ArmeniaAtlas_256.dds</File>
+    <File md5="B07097A69108BD08979BBDA9ECB7E7B1" import="1">Art/IconAtlas/JFD_ArmeniaAtlas_32.dds</File>
+    <File md5="1B02B0AE7D196B89273C591918EE6841" import="1">Art/IconAtlas/JFD_ArmeniaAtlas_45.dds</File>
+    <File md5="B5A46965FF4D836E3444429FA9D1F342" import="1">Art/IconAtlas/JFD_ArmeniaAtlas_64.dds</File>
+    <File md5="AEEA8170A8A807EAB9A72E0DCD446358" import="1">Art/IconAtlas/JFD_ArmeniaAtlas_80.dds</File>
+    <File md5="C278F443A79513DF6F4B01E2892F6FC5" import="1">Art/IconAtlas/JFD_ArmeniaPromotions256.dds</File>
+    <File md5="D0FB385A35999FBA2C8DF8B1A33361C9" import="1">Art/IconAtlas/JFD_ArmeniaPromotions32.dds</File>
+    <File md5="A814407E749F1EBBB8781BA2BE79F219" import="1">Art/IconAtlas/JFD_ArmeniaPromotions45.dds</File>
+    <File md5="6C52B8602B975E6CF0B8719FFA96A38D" import="1">Art/IconAtlas/JFD_ArmeniaPromotions64.dds</File>
+    <File md5="46FE3AC6F97CE8C54160EB18572B6886" import="1">Art/IconAtlas/Unit_Mamikonian_Flag_32.dds</File>
+    <File md5="65A49E5680C57028EA7B3A85F2CF85A8" import="1">Art/Leaderscene/Tiridates_Scene.xml</File>
+    <File md5="F917077D9B5CBA578FDB01F8CC1DD570" import="1">Art/Leaderscene/Tiridates_Diplo.dds</File>
+    <File md5="BD916A6261DD4AC5ACF6F4B09BAB3C6B" import="1">Art/Map/ArmeniaMap512.dds</File>
+    <File md5="40B427822B3B98268918802F971B1263" import="1">Art/Map/Tiridates_DOM.dds</File>
+    <File md5="EB999DC80028A9430B4EFB6598315315" import="0">Audio/Audio.sql</File>
+    <File md5="D7CE9E4CFA7C2A31D0AC294B76666115" import="1">Audio/Tiridates_Peace.mp3</File>
+    <File md5="1017BB0B6010AA1FAA3B67BA000E7BE4" import="1">Audio/Tiridates_War.mp3</File>
+    <File md5="AB04992DEE96AE2A0910197AF1866249" import="0">Core/Bingles' Civ IV Traits Support/Leader_SharedTraits.sql</File>
+    <File md5="BFD4FB45751D03DC8AE96705A0B8ABA0" import="0">Core/Buildings.sql</File>
+    <File md5="65154802D5CAADA5866D017D70FAC04D" import="0">Core/Civilizations.sql</File>
+    <File md5="042AB7C0DEE038F600B520F501AF0BCC" import="0">Core/Diplomacy.sql</File>
+    <File md5="CAA62FFDAA5EB5B189EFF73D59A4DAC0" import="0">Core/DiplomacyText.xml</File>
+    <File md5="0BA9877F7AE706BE63DBE384F6F807ED" import="0">Core/GameText.xml</File>
+    <File md5="F8A65D613C67C965CCE6596B67A11E7C" import="0">Core/Gedemon's YnAEMP Support/CivilizationStartPos.sql</File>
+    <File md5="AD260EDB70770B64913436DE1823D573" import="0">Core/hazel16's Map Labels Support/ML_Tables.sql</File>
+    <File md5="D76F5D745E7006C8FA8A79168344CE32" import="0">Core/JFD's Cultural Diversity Support/Civilization_JFD_CultureTypes.sql</File>
+    <File md5="2F5CFA324033BA5847F9F3094DC2594D" import="0">Core/JFD's Dynamic Tooltip Support/TopPanelAddins.sql</File>
+    <File md5="AAC5C33F196EC9802927F9C056342411" import="0">Core/JFD's Piety and Prestige Support/Flavours.sql</File>
+    <File md5="87A6ED9D14734FF8FC9BFD91C37763FD" import="0">Core/Leaderhead.sql</File>
+    <File md5="84CCF5A3E4EB6BE7C18E77D23709149C" import="0">Core/MinorCivilizations.sql</File>
+    <File md5="1FD7388CB1E2E61AC6DE57D3A8CC8B86" import="0">Core/PlayerColours.sql</File>
+    <File md5="8EDB8B36560AC9172B24CD43C846E0DB" import="0">Core/Promotions.sql</File>
+    <File md5="E14BE1CAE16414027BC0FFC76234BB2D" import="0">Core/Ryoga's Unique Cultural Influence Support/GameText.xml</File>
+    <File md5="75530FE6F004C8EFC8E0DC113C7B9DDD" import="0">Core/Sukritact's Decisions Support/Decisions.sql</File>
+    <File md5="D065032F5DE4E0210BEF72D732AF798B" import="0">Core/Sukritact's Decisions Support/GameText.xml</File>
+    <File md5="5D6A5E2566151778C7C993BF45D5C6EB" import="0">Core/Sukritact's Events Support/Events.sql</File>
+    <File md5="A2AF74EACD7292AFCE8FC0DFDFA5D4CA" import="0">Core/Sukritact's Events Support/GameText.xml</File>
+    <File md5="0DBF39327127379083954406E5261C27" import="0">Core/Traits.sql</File>
+    <File md5="1ABCD81BFB0F28890B273B6F775361BC" import="0">Core/Units.sql</File>
+    <File md5="D6816D1F63B38658DBDD559CB709CE79" import="1">Lua/JFD's Dynamic Tooltip Support/JFD_ArmeniaDynamicTopPanelSupport.lua</File>
+    <File md5="36EBC9DE603EC56C533C4F3F0631705E" import="0">Lua/JFD_ArmeniaFunctions.lua</File>
+    <File md5="3B7B1EE92949FC3B7B9308074F036BEB" import="1">Lua/NewSaveUtils.lua</File>
+    <File md5="D63DC8BB6AA0F310DD55B264DB49C7E2" import="1">Lua/PlotIterators.lua</File>
+    <File md5="86C1C3EDCE4699DE320A932C4E70E22C" import="0">Lua/Sukritact's Modular City Info Stack/CityInfoStack.lua</File>
+    <File md5="120EB71025973A8A48B38314241DD0B3" import="0">Lua/Sukritact's Modular City Info Stack/CityInfoStack.xml</File>
+    <File md5="1A3AB0E05B6F0C17E667D62B5EABD7D0" import="0">Lua/Sukritact's Modular City Info Stack/JFD_VankCityInfo.lua</File>
+    <File md5="B8FD70EE169CAE890C9F829257780A0F" import="0">Lua/Sukritact's Modular City Info Stack/JFD_VankCityInfo.xml</File>
+    <File md5="79684AADA7B9DEA807B935DAC69DD633" import="1">Lua/Sukritact's Decisions Support/JFD_ArmeniaDecisions.lua</File>
+    <File md5="CAB4B19C4CE543F886EED59F89E81433" import="1">Lua/Sukritact's Events Support/JFD_ArmeniaEvents.lua</File>
+    <File md5="4486E05E92C6A1829D1BD4FC8EAB80DE" import="1">Lua/UI/InGame/Popups/CultureOverview.lua</File>
+    <File md5="BF85D174CA9D4F2EC2AD7E3FBB6C0D6D" import="1">Lua/UI/InGame/Popups/CultureOverview.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Audio/Audio.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Buildings.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Civilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DiplomacyText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Leaderhead.sql</UpdateDatabase>
+      <UpdateDatabase>Core/MinorCivilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Core/PlayerColours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Promotions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Units.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Gedemon's YnAEMP Support/CivilizationStartPos.sql</UpdateDatabase>
+      <UpdateDatabase>Core/hazel16's Map Labels Support/ML_Tables.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Cultural Diversity Support/Civilization_JFD_CultureTypes.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Piety and Prestige Support/Flavours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Ryoga's Unique Cultural Influence Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Decisions Support/Decisions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Decisions Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Events Support/Events.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Events Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Dynamic Tooltip Support/TopPanelAddins.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Bingles' Civ IV Traits Support/Leader_SharedTraits.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_ArmeniaFunctions.lua">
+      <Name>JFD_ArmeniaFunctions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Sukritact's Modular City Info Stack/CityInfoStack.lua">
+      <Name>Sukritact's City Info Stack</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Sukritact's Modular City Info Stack/JFD_VankCityInfo.lua">
+      <Name>JFD_VankCityInfo</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

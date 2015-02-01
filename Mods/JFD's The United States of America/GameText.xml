@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!----------------------------------------------------------------
+						Lincoln America
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_JFD_AMERICA_LINCOLN_DESC">
+			<Text>The United States</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_AMERICA_LINCOLN_SHORT_DESC">
+			<Text>The United States</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_AMERICA_LINCOLN_ADJ">
+			<Text>Union</Text>
+		</Row>
+		<!--City Names-->
+		<Row Tag="TXT_KEY_JFD_AMERICA_LINCOLN_WASHINGTON">
+			<Text>Washington</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_AMERICA_LINCOLN_NEW_YORK">
+			<Text>New York</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_AMERICA_LINCOLN_PHILADELPHIA">
+			<Text>Philadelphia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_AMERICA_LINCOLN_ALBANY">
+			<Text>Albany</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_AMERICA_LINCOLN_BALTIMORE">
+			<Text>Baltimore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_AMERICA_LINCOLN_BOSTON">
+			<Text>Boston</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_AMERICA_LINCOLN_CINCINNATI">
+			<Text>Cincinnati</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_AMERICA_LINCOLN_ST_LOUIS">
+			<Text>St. Louis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_AMERICA_LINCOLN_CHICHAGO">
+			<Text>Chichago</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_AMERICA_LINCOLN_LOUISVILLE">
+			<Text>Louisville</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_AMERICA_LINCOLN_BUFFALO">
+			<Text>Buffalo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_AMERICA_LINCOLN_PITTSBURGH">
+			<Text>Pittsburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_AMERICA_LINCOLN_DETROIT">
+			<Text>Detroit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_AMERICA_LINCOLN_MILWAUKEE">
+			<Text>Milwaukee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_AMERICA_LINCOLN_CLEVELAND">
+			<Text>Cleveland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_AMERICA_LINCOLN_LOWELL">
+			<Text>Lowell</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_AMERICA_LINCOLN_NEW_HAVEN">
+			<Text>New Haven</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_AMERICA_LINCOLN_NEWARK">
+			<Text>Newark</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_AMERICA_LINCOLN_PROVIDENCE">
+			<Text>Providence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_AMERICA_LINCOLN_ALLEGHENY">
+			<Text>Allegheny</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_AMERICA_LINCOLN_SYRACUSE">
+			<Text>Syracuse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_AMERICA_LINCOLN_HARRISBURG">
+			<Text>Harrisburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_AMERICA_LINCOLN_WILMINGTON">
+			<Text>Wilmington</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_AMERICA_LINCOLN_MANCHESTER">
+			<Text>Manchester</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_AMERICA_LINCOLN_DAYTON">
+			<Text>Dayton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_AMERICA_LINCOLN_INDIANAPOLIS">
+			<Text>Indianapolis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_AMERICA_LINCOLN_COLUMBUS">
+			<Text>Columbus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_AMERICA_LINCOLN_WORCESTER">
+			<Text>Worcester</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_AMERICA_LINCOLN_UTICA">
+			<Text>Utica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_AMERICA_LINCOLN_GETTYSBURG">
+			<Text>Gettysburg</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Lincoln
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN">
+			<Text>Lincoln</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LINCOLN_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LINCOLN_TEXT_1">
+			<Text>Born in 1809 in a small cabin in central Kentucky, Abraham Lincoln rose from seemingly humble beginnings to become one of the greatest statesmen in American history. In his early 20s, Lincoln served in a number of small government roles before his election to the Illinois General Assembly in 1834. In 1836 he began practicing law, and it wasn't long before he established a reputation as a savvy lawyer willing to take on a wide variety of cases. During successive terms in the Illinois House of Representatives and later a single term in the U.S. House of Representatives, Lincoln became known for his views opposing the further spread of slavery in the United States, a key issue that became a hallmark of his political career.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LINCOLN_HEADING_2">
+			<Text>Election</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LINCOLN_TEXT_2">
+			<Text>In 1860, Lincoln successfully campaigned to become the 16th President of the United States. It was during the now famous Lincoln-Douglas debates that the specter of southern secession was first raised, when Lincoln continually rebuked the notion of allowing slavery to spread into the western territories of the United States. The southern states, united in their continued support for slavery, were prepared to abandon the United States if Lincoln were to be elected.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LINCOLN_HEADING_3">
+			<Text>Fort Sumter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LINCOLN_TEXT_3">
+			<Text>Soon after Lincoln's victory the first seven states to secede, led by South Carolina, and soon followed by Alabama, Florida, Georgia, Louisiana, Mississippi, and Texas, declared their sovereignty and formed the Confederate States of America in 1861. In naming Jefferson Davis as their president-elect, the southern states made good on their threat to secede, and it wasn't long before one of America's most devastating conflicts, the Civil War, began with a confederate attack on Fort Sumter in April of 1861.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LINCOLN_HEADING_4">
+			<Text>Emancipation Proclamation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LINCOLN_TEXT_4">
+			<Text>Lincoln assumed command of the Union war effort as commander-in-chief, issuing unprecedented orders to imprison confederate sympathizers, blockade all confederate ports, and to seize and free any slave used in the confederate war effort. His most aggressive and noteworthy order, the Emancipation Proclamation, was signed on January 1st, 1863, and provided freedom to all slaves within the confederacy, although it did not grant them full citizenship within the United States.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LINCOLN_HEADING_5">
+			<Text>Gettysburg Address</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LINCOLN_TEXT_5">
+			<Text>Months later, Lincoln gave what would become one of the most famous speeches in history, the Gettysburg Address. His renowned opening line - "Four score and seven years ago our fathers brought forth on this continent a new nation, conceived in liberty, and dedicated to the proposition that all men are created equal" - lives on today as one of the greatest reminders of Lincoln's mark on American history.  
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LINCOLN_HEADING_6">
+			<Text>Judgement of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LINCOLN_TEXT_6">
+			<Text>Following nearly five years of warfare, during which time over 500,000 Americans fought and died, the Civil War ended with the surrender of General Robert E. Lee in April of 1865. Just five days later, while attending a play at Ford's Theater in Washington D.C., Lincoln was assassinated by the Confederate sympathizer John Wilkes Booth. Although Lincoln did not survive to see the eventual outcome of his efforts to reestablish the nation and abolish slavery, the legacy of his deeds has long since established his position among America's greatest presidents.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LINCOLN_NAME">
+			<Text>Lincoln</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LINCOLN_SUBTITLE">
+			<Text>Leader of America</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LINCOLN_TITLES_1">
+			<Text>President of the United States</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LINCOLN_LIVED">
+			<Text>1809 - 1865</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_JFD_LINCOLN_TEXT">
+			<Text>The people of the United States welcome your return, President Lincoln. From humble beginnings, you rose to become one of America's greatest statesmen. A skilled orator and a man of great virtue, you championed the freedom of all men, and united the people in a time of America's greatest challenge, when in 1861 seven states ceded from the union and formed the Confederate States of America. Rallying the determination of your armies, your presidency would see the union arise victorious from this civil war, strengthening the resolve of your people to remain united in liberty, and beneath a government for the people, by the people, which would uphold the liberal ideals upon which it was founded.[NEWLINE][NEWLINE]President Lincoln, the United States stands firm behind your leadership for whatever trials might come to challenge the constitution of her will. Can you uphold the liberties afforded to the American people by her forefathers? Can you guarantee the strength and determination of a secured union to guide them into an uncertain future? Can you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Diplomacy
+		------------------------------------------------------------------>
+		<!--First Greeting messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_FIRSTGREETING_1">
+			<Text>Greetings there, I am President Lincoln. Now I am a man who believes in an honest, diplomatic relationship, and I'll ask you to return that in kind. Now, on to business then.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_FIRSTGREETING_2">
+			<Text>Greetings there, I am President Lincoln. I'll hope to call you a friend to the United States of America, and that together we live long and prosper.</Text>
+		</Row>
+		<!--Defeated messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_DEFEATED_1">
+			<Text>This is a defeat for all free men; of all free government. It is a terrible loss to all humanity.</Text>
+		</Row>
+		<!-- Human repeats an action too much, gets the following responses -->
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_REPEAT_TOO_MUCH_1">
+			<Text>Please, you're simply wasting my time now, and I suspect you know it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_REPEAT_TRADE_TOO_MUCH_1">
+			<Text>I grow very weary of your games.</Text>
+		</Row>
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_GREETING_HOSTILE_HELLO_1">
+			<Text>I won't deny that my previous dealings with you have been unpleasant.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_GREETING_POLITE_HELLO_1">
+			<Text>Welcome back. Is there something that I can help you with?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>I have no business with your war, so please do not try and discuss it with me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_GREETING_HUMAN_AT_WAR_1">
+			<Text>I hope that you will be at peace soon. War is such a terrible business. Now what can I do for you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>I am not afraid to mobilise my armies in response to your military aggression, but I'll ask you to reconsider your actions, to forgo the deaths of thousands of innocents.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_LINCOLN_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>My patience runs thin and soon I will respond to your aggressive pursuit of land.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>I have some concerns over your recent purchase of land near to the United States of America. Please keep that in mind. Now, what is it that I can help you with?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>I grow deeply concerned over your territorial ambitions. I urge you to halt your expansion into lands that do not belong to you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>I grow deeply concerned over your territorial ambitions. I urge you to halt your expansion into lands that do not belong to you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>I am right to think that you are a crucial ally of mine, for I have heard the tales of your powerful military.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>I am impressed by the lucrative stories that I hear of your strong economy. Perhaps one day you will share your secrets with the United States of America.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_GREETING_HOSTILE_HUMAN_FEW_CITIES_1">
+			<Text>You have very few cities. If you're not careful, you might succumb to invasion by a greater power.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>You must consider increasing the size of your army, or you will stand no chance on this earth.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>You are a blood-thirsty tyrant and I will not dignify your actions with diplomacy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_TOO_SOON_FOR_DOF_1">
+			<Text>I'm sorry. Though I would freely call you a friend, I cannot let this influence my duty as leader of the people of the United States of America.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_DENOUNCE_1">
+			<Text>I will not stand idly by whilst you undermine this free nation. The world must be told of your injustices.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_DENOUNCE_2">
+			<Text>Your continued injustices against your people, and against the nations of this earth, cannot be abided by. The world must be told of your misdeeds.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>So is that how it is then? Very well. I shall not forget this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>You have sullied your reputation with such a foolish move.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_HUMAN_DOFED_FRIEND_1">
+			<Text>It is good to see an ally in {1_CivName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_HUMAN_DOFED_ENEMY_1">
+			<Text>{1_CivName} is not to be trusted. I suggest you do not get too close to them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>I firmly believe that you have made a mistake in denouncing {1_CivName}? I suggest you get to know them better.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>I thank you for pledging your support in the cause against {1_CivName}. They deserve no less than to feel the pressure of their injustice.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>I noticed that you have declared your friendship with {1_CivName}. I will do the same, because I trust your judgement utmost.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>Oh great, now the vermin are breeding. Now I have to deal with both you and {1_CivName}? I'll have to teach them a lesson.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>I share your convictions that {1_CivName} only causes problems for the civilized empires of the world. Perhaps the combination of our denouncements will teach them a lesson.</Text>
+		</Row>
+		<!-- General Diplo Text -->
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_COOP_WAR_REQUEST_1">
+			<Text>{1_PlayerName:textkey} seeks to undermine this nation on earth. As an ally of mine, you will surely join me in halting their plans.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_COOP_WAR_REQUEST_2">
+			<Text>{1_PlayerName:textkey} must be brought to justice. Their attempts to undermine the peace of this earth cannot go unaddressed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_DEC_FRIENDSHIP_1">
+			<Text>I believe that we would make good friends; together, you and I will show the world that we stand for the freedom of men and for the freedom of nations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_DEC_FRIENDSHIP_2">
+			<Text>Let us make a declaration of friendship, and seek a better world together.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>It's come to my attention that you have a large number of Units near my borders. I request that you move them elsewhere to avoid causing undue distress to my citizens.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_PLOT_BUYING_WARNING_1">
+			<Text>Your purchase of land in my vicinity has caused some alarm. I would be wise to keep this in mind.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>I am disturbed at the pace of your land purchases. Cease at once or the United States will be forced to intervene.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_EXPANSION_SERIOUS_WARNING_1">
+			<Text>I am disturbed at the pace of your land grabbing. Cease at once or the United States will be forced to intervene.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_EXPANSION_WARNING">
+			<Text>Your expansion efforts are an insult. Know that there will be consequences for this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_RETURNED_CIVILIAN_1">
+			<Text>You have my deepest thanks for returning my civilian, friend.</Text>
+		</Row>
+		<!--Public Declarations-->
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}. Attacking the City-State will greatly damage relations and may lead to war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<!-- Human is asking the AI for something -->
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_DONT_SETTLE_NO_1">
+			<Text>No. The United States will continue to expand as it sees fit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_DONT_SETTLE_YES_1">
+			<Text>Very well. I will honour our friendship by complying to your wishes.</Text>
+		</Row>
+		<!--Deal Offers and related-->
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_LUXURY_TRADE_1">
+			<Text>I hope that through trade the United States and your great empire might become closer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_OPEN_BORDERS_EXCHANGE_1">
+			<Text>The United States feels that opening the borders between our two nations would help to further cement our friendship.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_RESPONSE_REQUEST_1">
+			<Text>The United States would be indebted to you if you were to provide us assistance.</Text>
+		</Row>
+		<!--AI Attacked by Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_ATTACKED_HOSTILE_1">
+			<Text>Can there truly be no reasoning with you? Very well. Sigh. Very well, let us go to war then.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_ATTACKED_EXCITED_1">
+			<Text>Can there truly be no reasoning with you? Very well. Sigh. Very well, let us go to war then.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_ATTACKED_SAD_1">
+			<Text>Sigh. So let it begin then. But know that I will chew and choke this war for victory as much as I can.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_ATTACKED_BETRAYED_1">
+			<Text>Sigh. So let it begin then. But know that I will chew and choke this war for victory as much as I can.</Text>
+		</Row>
+		<!--AI Declaring War on Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_DOW_GENERIC_1">
+			<Text>Peace has broken down. It is, unfortunately, time for war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_DOW_GENERIC_2">
+			<Text>You have responded too poorly to my attempts at diplomacy. The time has come for war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_DOW_LAND_1">
+			<Text>You have responded too poorly to my attempts at diplomacy. The time has come for war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_DOW_LAND_2">
+			<Text>You have responded too poorly to my attempts at diplomacy. The time has come for war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_DOW_WORLD_CONQUEST_1">
+			<Text>Peace has broken down. It is, unfortunately, time for war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_DOW_OPPORTUNITY_1">
+			<Text>Peace has broken down. It is, unfortunately, time for war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_DOW_DESPERATE_1">
+			<Text>You have responded too poorly to my attempts at diplomacy. The time has come for war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_DOW_DESPERATE_2">
+			<Text>You have responded too poorly to my attempts at diplomacy. The time has come for war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_DOW_BETRAYAL_1">
+			<Text>You have responded too poorly to my attempts at diplomacy. The time has come for war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_DOW_REGRET_1">
+			<Text>This is not a personal matter, my friend. Please forgive me, but these united states of America must come first.</Text>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_TOO_SOON_NO_PEACE_1">
+			<Text>I will accept no less than what I seek, and what I seek is to maintain the integrity of these united states.</Text>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_BAD_1">
+			<Text>Now I like to think that I'm a reasonable man, but you sir are making me doubt that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_BAD_2">
+			<Text>Sigh. I grow so tired of people like you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_BAD_3">
+			<Text>It did not want things to come to this, but you leave me no choice but to stand, and to stand firm.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LINCOLN_GOOD_1">
+			<Text>Thank you. You have chosen the path of civility.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						A House Divided
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_TRAIT_JFD_AMERICA_LINCOLN_SHORT">
+			<Text>A House Divided</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_AMERICA_LINCOLN">
+			<Text>Choose a unique, wartime bonus upon the outbreak of war with a major civilization. Cities produce [ICON_GOLD] Gold buildings automatically.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_LINCOLN_SPEECHES_TITLE">
+			<Text>Address the nation!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_LINCOLN_SPEECHES_MESSAGE">
+			<Text>The United States of America has entered a state of war against the {1_CivFullName}. As its leader, you must address the nation and inspire the people that victory is assured!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_LINCOLN_SPEECH_ONE_BUTTON">
+			<Text>Call for Courage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_LINCOLN_SPEECH_ONE_TT">
+			<Text>Units gain a 15% [ICON_WAR] attack bonus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_LINCOLN_SPEECH_TWO_BUTTON">
+			<Text>Call for Duty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_LINCOLN_SPEECH_TWO_TT">
+			<Text>-15% Unit [ICON_GOLD] Gold maintenance costs.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_LINCOLN_SPEECH_THREE_BUTTON">
+			<Text>Call for Honour</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_LINCOLN_SPEECH_THREE_TT">
+			<Text>Great Generals and Great Admirals are generated 30% faster.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_LINCOLN_SPEECH_FOUR_BUTTON">
+			<Text>Call for Mobilization</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_LINCOLN_SPEECH_FOUR_TT">
+			<Text>Military Units are [ICON_PRODUCTION] Produced 20% faster.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_LINCOLN_SPEECH_FIVE_BUTTON">
+			<Text>Call for Unity</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_LINCOLN_SPEECH_FIVE_TT">
+			<Text>-15% [ICON_HAPPINESS_4] Unhappiness empire-wide.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_LINCOLN_SPEECH_SIX_BUTTON">
+			<Text>Call for Volunteers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_LINCOLN_SPEECH_SIX_TT">
+			<Text>Units are 15% cheaper to purchase with [ICON_GOLD] Gold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_LINCOLN_SPEECH_NOTIFICATION_SHORT">
+			<Text>You have addressed the nation!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_LINCOLN_SPEECH_NOTIFICATION_FOUR">
+			<Text>Military units are trained 20% faster for the duration of this war against {1_Civ}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_LINCOLN_SPEECH_NOTIFICATION_SIX">
+			<Text>The cost of purchasing units is reduced by 15% for the duration of this war against {1_Civ}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_LINCOLN_SPEECH_NOTIFICATION_FIVE">
+			<Text>Unhappiness is reduced by 15% for the duration of war!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_LINCOLN_SPEECH_NOTIFICATION_TWO">
+			<Text>Unit maintenance costs are reduced by 15% for the duration of this war against {1_Civ}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_LINCOLN_SPEECH_NOTIFICATION_THREE">
+			<Text>Great Generals and Great Admirals are born 30% faster for the duration of this war against {1_Civ}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_LINCOLN_SPEECH_NOTIFICATION_ONE">
+			<Text>Military Units inflict 25% more damage when attacking for the duration of this war against {1_Civ}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_LINCOLN_SPEECH_ONE">
+			<Text>Wartime Inspiration</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_LINCOLN_SPEECH_ONE_HELP">
+			<Text>+15% [ICON_WAR] Attack bonus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_CAPITALIST_BUILDING_SHORT">
+			<Text>{1_Building} constructed in {2_City}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_CAPITALIST_BUILDING">
+			<Text>{1} have completed the construction of a {2_Building} in {3_City}.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Monitor
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_UNIT_JFD_MONITOR_RANGED">
+			<Text>Monitor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_MONITOR_MELEE">
+			<Text>Monitor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_JFD_MONITOR">
+			<Text>Unique replacement for the Ironclad. Only Lincoln may build it. May be built as either a Melee unit or a Ranged unit. Devastating vs. cities as a ranged unit. Heals nearby units as a melee unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_MONITOR_STRATEGY">
+			<Text>The Monitor is the unique replacement for the Ironclad for Lincoln. Unlike the Ironclad, the Monitor comes in two unique variants, and may be trained as either a melee unit or a ranged unit. As a melee unit, a Monitor causes all friendly, adjacent naval units to heal 5 damage per turn with the Medic promotion, and also begins with the Supply promotion. As a ranged unit, the Monitor gains the Indirect Fire promotion, allowing it to attack over obstacles, and it gains a significant bonus against cities, though it must set up before attacking. Both variants cost more to produce than the regular Ironclad.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Parrott Rifle
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_UNIT_JFD_PARROTT_RIFLE">
+			<Text>Parrott Rifle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_JFD_PARROTT_RIFLE">
+			<Text>Replacement for the Cannon for Lincoln. Not as effective against cities, but deadly against land units. Increases [ICON_STRENGTH] Defense of adjacent units when stationed in a fort or citadel.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_PARROTT_RIFLE_STRATEGY">
+			<Text>The Parrott Rifle is Lincoln's unique Cannon replacement. Although it is weaker in combat against cities, it is especially effective against Land Units. When the Parrott Rifle is stationed in a Fort or Citadel, any unit adjacent to it will gain a defensive boost. This makes the Parrott Rifle great at defending any tenuous borders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_BONUS_VS_LAND">
+			<Text>Bonus vs Land Units (50)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_BONUS_VS_LAND_HELP">
+			<Text>+50% Bonus vs Land Units</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_BONUS_VS_CITIES">
+			<Text>Bonus vs Cities (100)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_BONUS_VS_CITIES_HELP">
+			<Text>+100% Bonus vs Cities</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_PARROTT_RIFLE">
+			<Text>West Point Foundry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_PARROTT_RIFLE_HELP">
+			<Text>+10% [ICON_STRENGTH] Defensive strength for adjacent units when a unit with this promotion is stationed in a Fort or Citadel.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_PARROTT_DEFENSE">
+			<Text>Union Patriots</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_PARROTT_DEFENSE_HELP">
+			<Text>+10% [ICON_STRENGTH] Defensive strength whilst this unit is adjacent to a unit with the [COLOR_POSITIVE_TEXT]West Point Foundry[ENDCOLOR] promotion.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="ba0bfa7b-7e2c-44df-ab5a-7034c5186ad0" version="2">
+  <Properties>
+    <Name>Ayyubid Civilization</Name>
+    <Teaser>The Ayyubid dynasty was a sultanate centred in Cairo between the 12th and 14th centuries. At its peak, it rules swathes of North</Teaser>
+    <Description>The Ayyubid dynasty was a sultanate centred in Cairo between the 12th and 14th centuries. At its peak, it rules swathes of North Africa and the Middle East, from Sana'a to Tunis to Damascus. The dynasty was founded by Saladin, a man known throughout the world at the time for not only his military prowess but also his chivalry and forgiveness. Such behaviour earnt him and the Ayyubids respect throughout Europe, despite being heathens and enemies in their eyes. The Ayyubid army featured a caste of soldiers borne from slaves, known as the Mamluk. These soldiers were feared, and ultimately were the death of the Ayyubid dynasty through revolution.</Description>
+    <Authors>Pouakai, Sukritact, Leugi, Irkalla, Chris Sifniotis, JFD and others</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="8EF571B195CF1F0541504C749202DED7" import="1">Art/Atlases/AyyubidAlpha_128.dds</File>
+    <File md5="81218C0E92C2E3305CC2D6D029E61F77" import="1">Art/Atlases/AyyubidAlpha_16.dds</File>
+    <File md5="897E67DAC37CEB9A0539EBEA15E25609" import="1">Art/Atlases/AyyubidAlpha_24.dds</File>
+    <File md5="DD7B62D22A4F28EC75193426BE6804A7" import="1">Art/Atlases/AyyubidAlpha_32.dds</File>
+    <File md5="DA51808E253DEE87B1CD1DA294325CDC" import="1">Art/Atlases/AyyubidAlpha_48.dds</File>
+    <File md5="D3DCE9B651C53BC6096184D7D8145C66" import="1">Art/Atlases/AyyubidAlpha_64.dds</File>
+    <File md5="F69696887FF2D0E5F78209312F9AC9A7" import="1">Art/Atlases/Ayyubid_128.dds</File>
+    <File md5="3EF54B7783489E0C157136792DE3DFB5" import="1">Art/Atlases/Ayyubid_24.dds</File>
+    <File md5="06B6A1FBDDE2A6F7431A50C26E91F094" import="1">Art/Atlases/Ayyubid_256.dds</File>
+    <File md5="5BA00CD0BC32226E532BA844A32CF8BE" import="1">Art/Atlases/Ayyubid_32.dds</File>
+    <File md5="4AF589F294FC4F8A8754122D7DBC6A97" import="1">Art/Atlases/Ayyubid_45.dds</File>
+    <File md5="5866CB68BC865B280D6CD1A563CC959C" import="1">Art/Atlases/Ayyubid_48.dds</File>
+    <File md5="5E0E1775CE20D33606EDF8612F09B870" import="1">Art/Atlases/Ayyubid_64.dds</File>
+    <File md5="E84F7304CA9FF6513952817532BD59EC" import="1">Art/Atlases/Ayyubid_80.dds</File>
+    <File md5="725FE06B19DA663A023CF3B9F23ACA1C" import="1">Art/Scenes/Ayyubids_DoM.dds</File>
+    <File md5="34D86C7DCCE536CD742495AC527FC496" import="1">Art/Scenes/Ayyubids_Map.dds</File>
+    <File md5="76BFFCA892F82499DD2A954F8DBD191C" import="1">Art/Scenes/Ayyubids_Leaderhead.dds</File>
+    <File md5="E4711B91BFD0BBE393B28183872F7A5D" import="1">Art/Scenes/Ayyubids_Leaderhead.xml</File>
+    <File md5="A11E49F63E7F80CE5332FF8E2AAF43B5" import="1">Art/Unit Model/Mamluk.dds</File>
+    <File md5="59B6C7A38D27EC6678C928C693461B91" import="1">Art/Unit Model/Mamluk.fxsxml</File>
+    <File md5="2F90380363C27F8DCE992FDE5310DD0C" import="1">Art/Unit Model/Mamluk.gr2</File>
+    <File md5="5307E0915F2E75C6636A1EAD92C98A39" import="1">Art/Unit Model/MamlukFlag.dds</File>
+    <File md5="458C8A9166FC9E850F43B91769B6BD30" import="1">Art/Unit Model/Mamluk_Gloss.dds</File>
+    <File md5="1F0325EEA680E855D89B353D07D569DD" import="1">Art/Unit Model/Mamluk_Horse.dds</File>
+    <File md5="7EF1C790041A20ACCF72BEFB96529A20" import="1">Art/Unit Model/Mamluk_Horse_Gloss.dds</File>
+    <File md5="BEE3EB3C6F65810189B07D1DE140C606" import="1">Art/Unit Model/svmamluk.dds</File>
+    <File md5="3AEC6F853FE36F69F2445F28DC52DF08" import="0">Lua/AyyubidUA.lua</File>
+    <File md5="A8F62ACA35361F3CF4A61BFC90336F8C" import="0">Lua/JFD_CoreFunctions.lua</File>
+    <File md5="89ECA7DB2E4E95BC91CD6856B59105DB" import="1">Sounds/CaliphateFX.mp3</File>
+    <File md5="3EE5291E33402EAF4E3A0FC10DE3D765" import="1">Sounds/SaladinPeace.mp3</File>
+    <File md5="F3FCBD82ED77AD67178D794809D4A361" import="1">Sounds/SaladinWar.mp3</File>
+    <File md5="D42020163CB471C9BE53EAD9158E4308" import="1">SQL/ArtDefineAyyubids.sql</File>
+    <File md5="54D65B71481928E01668BA88F7A9BF6A" import="0">XML/Buildings/Ayyubids_Buildings.xml</File>
+    <File md5="FE25FB2C3593B1C723536818643785D0" import="0">XML/Buildings/Ayyubids_BuildingClasses.xml</File>
+    <File md5="FCD7CAD1D8E2CC3F6098C444D6A2F77C" import="0">XML/Civilizations/Ayyubids_Civilizations.xml</File>
+    <File md5="105AF89C40ED2B16051B94BBDECF6C3B" import="0">XML/Civilizations/Ayyubids_Strategic.xml</File>
+    <File md5="0C073323847AB9A0B58B1BB58B842E36" import="0">XML/GameInfo/Ayyubids_IconTextureAtlases.xml</File>
+    <File md5="318EE7FA6F91F5031F38EAF75B2A3850" import="0">XML/GameInfo/Ayyubids_Traits.xml</File>
+    <File md5="58857D366DF36261991480E0C8A78E31" import="0">XML/GameInfo/Ayyubids_Sounds.xml</File>
+    <File md5="725E27A0D2A7C527C78DAC73B4A5210C" import="0">XML/GameInfo/Ayyubids_TSL.xml</File>
+    <File md5="5487A459C604FCD6D36B701A65962153" import="0">XML/Leaders/Ayyubids_Leader.xml</File>
+    <File md5="54A9F8EADC775F152A65EF643392DDB9" import="0">XML/Text/Ayyubids_Text.xml</File>
+    <File md5="A12FD3EE45B446F61A0A1EB2DDCD5F4A" import="0">XML/Units/Ayyubids_Units.xml</File>
+    <File md5="348E3697BAE06B942E6B250993C16798" import="0">XML/Units/Promotions.sql</File>
+    <File md5="B1DB7FEE8574D1F511B0BFEE498DF417" import="0">XML/Units/Units.sql</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>SQL/ArtDefineAyyubids.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Ayyubids_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Ayyubids_BuildingClasses.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Ayyubids_Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Ayyubids_Strategic.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/Ayyubids_IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/Ayyubids_Traits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/Ayyubids_TSL.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/Ayyubids_Sounds.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/Ayyubids_Leader.xml</UpdateDatabase>
+      <UpdateDatabase>Art/Scenes/Ayyubids_Leaderhead.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Ayyubids_Text.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/Ayyubids_Units.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/Promotions.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Units/Units.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_CoreFunctions.lua">
+      <Name>JFD_CoreFunctions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

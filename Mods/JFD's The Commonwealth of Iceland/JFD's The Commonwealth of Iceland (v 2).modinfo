@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="293b2f23-552b-488a-95c2-4a395701c466" version="2">
+  <Properties>
+    <Name>JFD's The Commonwealth of Iceland</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]The Commonwealth of Iceland[ENDCOLOR] with Ingólfr to the game.</Teaser>
+    <Description>See Steam Workshop or CivFanatics for full details</Description>
+    <Authors>JFD, Sukritact, Pouakai, Viregel, Janboruta</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events and Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety &amp; Prestige" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="76D562D6E8ADDA45FF86662520F8D667" import="0">Art/ArtDefines.sql</File>
+    <File md5="20971D7EEA683827DE9A13299DBAE08A" import="1">Art/Graphics/skald.fxsxml</File>
+    <File md5="1C62A9B9A49680051028E5A8E142D13B" import="1">Art/Graphics/skald.gr2</File>
+    <File md5="2634C439B9F8E77066FDECD8AAF8979A" import="1">Art/Graphics/skald_diff.dds</File>
+    <File md5="DD9414484054AE51C01D503E76E1D2F5" import="1">Art/Graphics/sv_Skald.dds</File>
+    <File md5="AB665CC5628EF45E82C24F7C6BDF9ED0" import="1">Art/Icon Atlas/JFD_IcelandAlphaAtlas_128.dds</File>
+    <File md5="53C204EA3E559C5ACFFDB444387A2798" import="1">Art/Icon Atlas/JFD_IcelandAlphaAtlas_16.dds</File>
+    <File md5="CF59E9591EA009F04A44BA009E379556" import="1">Art/Icon Atlas/JFD_IcelandAlphaAtlas_24.dds</File>
+    <File md5="69879A1D42993D4819F13B2658957930" import="1">Art/Icon Atlas/JFD_IcelandAlphaAtlas_32.dds</File>
+    <File md5="DC1E7F494FBC39605F4CCC65ACEFF962" import="1">Art/Icon Atlas/JFD_IcelandAlphaAtlas_45.dds</File>
+    <File md5="A47FDC15A7CAB5BDB33E67C0B612BE82" import="1">Art/Icon Atlas/JFD_IcelandAlphaAtlas_48.dds</File>
+    <File md5="D2D0E6F8E9AF8F85939E696C0DDEA811" import="1">Art/Icon Atlas/JFD_IcelandAlphaAtlas_64.dds</File>
+    <File md5="26FECB33D93CE760629605CE95CCACB5" import="1">Art/Icon Atlas/JFD_IcelandAlphaAtlas_80.dds</File>
+    <File md5="A564F559513444E0DA128E13E464E5DA" import="1">Art/Icon Atlas/JFD_IcelandAtlas_128.dds</File>
+    <File md5="62E162F3FDF11301B72722F763762E09" import="1">Art/Icon Atlas/JFD_IcelandAtlas_256.dds</File>
+    <File md5="BE80D02FEEF08E4AB5A1D70ED87B5F82" import="1">Art/Icon Atlas/JFD_IcelandAtlas_32.dds</File>
+    <File md5="471839422CFFBEC0497580EC7021F86E" import="1">Art/Icon Atlas/JFD_IcelandAtlas_45.dds</File>
+    <File md5="D02A811488DA7FE532BAC06A0BD09E35" import="1">Art/Icon Atlas/JFD_IcelandAtlas_64.dds</File>
+    <File md5="0C3E548415883697D629356D4B15954D" import="1">Art/Icon Atlas/JFD_IcelandAtlas_80.dds</File>
+    <File md5="193430045D210C7E8E7D1CE67E98DD88" import="1">Art/Icon Atlas/Unit_Skald_Flag_32.dds</File>
+    <File md5="A1F571F620A73DF7A87B04385E5E64BA" import="1">Art/Leaderscene/Ingolfr_Diplo.dds</File>
+    <File md5="63C59D0A21D6A583682F4FA2D5CC0EC6" import="1">Art/Leaderscene/Ingolfr_Scene.xml</File>
+    <File md5="974ABE1217F80F2A0F20BC3C150EF7BC" import="1">Art/Map/IcelandMap512.dds</File>
+    <File md5="A53D3782CE83360418B167F6BEE597AE" import="1">Art/Map/Ingolfr_DoM.dds</File>
+    <File md5="77E867B282BBB17EC05AC3B20737CC55" import="0">Audio/Audio.sql</File>
+    <File md5="1782BE5807F8BA83F7FD4767BB61617F" import="1">Audio/Ingolfr_Peace.mp3</File>
+    <File md5="C72C92C4CD0DFDEB78C975CB99EB2D0E" import="1">Audio/Ingolfr_War.mp3</File>
+    <File md5="1B35968AEF006A3D8899461F6E986943" import="0">Core/Bingles' Civ IV Traits Support/Leader_SharedTraits.sql</File>
+    <File md5="253A8A310A5CC1F75EE1A18F41A36699" import="0">Core/Buildings.sql</File>
+    <File md5="9EBFDA8817242ED7225B79FE240EA021" import="0">Core/Civilization.sql</File>
+    <File md5="065ED8B496BD9718C925E475A7226653" import="0">Core/Diplomacy.sql</File>
+    <File md5="EDC9D781D6A7962859A6D4AC50837D1F" import="0">Core/DiplomacyText.xml</File>
+    <File md5="69E4ED8714EB5F9B9373061FE4757D8D" import="0">Core/GameText.xml</File>
+    <File md5="796ED36252E06DE47E87A28D43ABD37A" import="0">Core/Gedemon's YnAEMP Support/CivilizationStartPos.sql</File>
+    <File md5="2C9BFDA29DF05DB94E843DC830E42CE8" import="0">Core/GreatWorks.sql</File>
+    <File md5="EF8369E6D886C7A2D983A65658C6E653" import="0">Core/hazel16's Map Labels Support/ML_Tables.sql</File>
+    <File md5="38B4E471606B573565412A5652153042" import="0">Core/JFD's Cultural Diversity Support/Civilization_JFD_CultureTypes.sql</File>
+    <File md5="169B8569512B8FE776A9CA2E851EA0E4" import="0">Core/JFD's Piety and Prestige Support/Flavours.sql</File>
+    <File md5="24DF623FAB8BB05740DF77CC305A23D7" import="0">Core/Leaderhead.sql</File>
+    <File md5="5C7269C71224C11892834322EB69BF60" import="0">Core/PlayerColours.sql</File>
+    <File md5="F689614EAF2CF8972FC233A6AB5C9CDE" import="0">Core/Promotions.sql</File>
+    <File md5="5226C0EB7BD6C002A3E72325C8159AFE" import="0">Core/Ryoga's Unique Cultural Influence Support/GameText.xml</File>
+    <File md5="4E350CFF5D1A01BDF2D7FDFD2A74CD49" import="0">Core/Sukritact's Decisions Support/Decisions.sql</File>
+    <File md5="63D17698A4712F3351837FB3490E1DAD" import="0">Core/Sukritact's Decisions Support/GameText.xml</File>
+    <File md5="7C22F08E375FA2D4B71BE22EFB9E22B6" import="0">Core/Sukritact's Events Support/Events.sql</File>
+    <File md5="0EFC409989A654FF9C66B933E5EA1E50" import="0">Core/Sukritact's Events Support/GameText.xml</File>
+    <File md5="6FD34040080FA986A8D05A6B88F000AA" import="0">Core/Traits.sql</File>
+    <File md5="122ADD900ADF9317BE02753751BC12F9" import="0">Core/Units.sql</File>
+    <File md5="0EF2614AEADB44D172F7AC01E0BDEA5B" import="0">Lua/JFD_IcelandFunctions.lua</File>
+    <File md5="86C1C3EDCE4699DE320A932C4E70E22C" import="0">Lua/Sukritact's Modular City Info Stack/CityInfoStack.lua</File>
+    <File md5="120EB71025973A8A48B38314241DD0B3" import="0">Lua/Sukritact's Modular City Info Stack/CityInfoStack.xml</File>
+    <File md5="3039FAEFCB1E0C9A62F57F1C0DCC97BB" import="0">Lua/Sukritact's Modular City Info Stack/JFD_ThingsteadCityInfo.lua</File>
+    <File md5="F6886FBFBEE5033DEE9C73189A80F836" import="0">Lua/Sukritact's Modular City Info Stack/JFD_ThingsteadCityInfo.xml</File>
+    <File md5="D5CE8F15761A83EED115E88AA8CF6811" import="1">Lua/Sukritact's Decisions Support/JFD_IcelandDecisions.lua</File>
+    <File md5="C097B084E1839B794BC66F7616F48248" import="1">Lua/Sukritact's Events Support/JFD_IcelandEvents.lua</File>
+    <File md5="9E1C74A6AC39FCE67CCD9A50BD8EE06C" import="1">Lua/UI/InGame/Popups/CultureOverview.lua</File>
+    <File md5="BF85D174CA9D4F2EC2AD7E3FBB6C0D6D" import="1">Lua/UI/InGame/Popups/CultureOverview.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Audio/Audio.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Gedemon's YnAEMP Support/CivilizationStartPos.sql</UpdateDatabase>
+      <UpdateDatabase>Core/hazel16's Map Labels Support/ML_Tables.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Cultural Diversity Support/Civilization_JFD_CultureTypes.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Piety and Prestige Support/Flavours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Decisions Support/Decisions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Decisions Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Events Support/Events.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Events Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Ryoga's Unique Cultural Influence Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Bingles' Civ IV Traits Support/Leader_SharedTraits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Buildings.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Civilization.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DiplomacyText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GreatWorks.sql</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Leaderhead.sql</UpdateDatabase>
+      <UpdateDatabase>Core/PlayerColours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Promotions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Units.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_IcelandFunctions.lua">
+      <Name>JFD_IcelandFunctions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Sukritact's Modular City Info Stack/JFD_ThingsteadCityInfo.lua">
+      <Name>JFD_ThingsteadCityInfo</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Sukritact's Modular City Info Stack/CityInfoStack.lua">
+      <Name>Sukritact's City Info Stack</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

@@ -1,0 +1,1986 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!----------------------------------------------------------------
+						Lithuania
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_CIV_JFD_LITHUANIA_ADJECTIVE">
+			<Text>Lithuanian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_LITHUANIA_DESC">
+			<Text>Lithuanian Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_LITHUANIA_SHORT_DESC">
+			<Text>Lithuania</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_LITHUANIA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_LITHUANIA_TEXT_1">
+			<Text>The Grand Duchy of Lithuania was a European state from the 12th century until 1795. It was founded by the Lithuanians, one of the polytheistic Baltic tribes from Aukštaitija. The duchy later expanded to include large portions of the former Kievan Rus' and other Slavic lands, covering the territory of present-day Belarus, Latvia, Lithuania and parts of Estonia, Moldova, Poland, Russia and Ukraine. At its greatest extent in the 15th century, it was the largest state in Europe. It was a multi-ethnic and multi-confessional state with great diversity in languages, religion, and cultural heritage.[NEWLINE][NEWLINE]Consolidation of the Lithuanian lands began in the late 12th century. Mindaugas, the first ruler of the Grand Duchy, was crowned as Catholic King of Lithuania in 1253. The pagan state was targeted in the religious crusade by the Teutonic Knights and the Livonian Order. The multi-ethnic and multi-confessional state emerged only at the late reign of Gediminas and continued to expand under his son Algirdas. Algirdas's successor Jogaila signed the Union of Krewo in 1386, bringing two major changes in the history of the Grand Duchy of Lithuania: conversion into Catholicism and establishment of a dynastic union between the Grand Duchy of Lithuania and the Crown of the Kingdom of Poland.[NEWLINE][NEWLINE]The reign of Vytautas the Great marked both the greatest territorial expansion of the Grand Duchy and the defeat of the Teutonic Knights in the Battle of Grunwald in 1410. It also marked the rise of the Lithuanian nobility. After Vytautas's death, Lithuania's relationship with the Kingdom of Poland greatly deteriorated. Lithuanian noblemen, including the Radvila family (Radziwiłłs), attempted to break the personal union with Poland. However, the unsuccessful Muscovite–Lithuanian Wars with the Grand Duchy of Moscow forced the union to remain intact.[NEWLINE][NEWLINE]Eventually, the Union of Lublin of 1569 created a new state, the Polish–Lithuanian Commonwealth. In this federation, the Grand Duchy of Lithuania maintained its political distinctiveness and had a separate government, laws, army, and treasury. This federation was terminated by the passing of the Constitution of May 3, 1791, and since then there was supposed to be but a single country — Respublica Poloniae — under one monarch and one parliament. Shortly after, the unitary character of the state was confirmed by adopting Reciprocal Guarantee of Two Nations. The newly reformed Commonwealth was invaded by Russia in 1792, and partitioned between the neighbours, with a truncated state (principal cities being Kraków, Warsaw and Vilnius) remaining only nominally independent; and after the Kościuszko Uprising, partitioned among the Russian Empire, the Kingdom of Prussia and Austria in 1795.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_LITHUANIA_HEADING_2">
+			<Text>Geography and Climate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_LITHUANIA_TEXT_2">
+			<Text>Lithuania is located in Northern Europe. It covers an area of 65,200 km2. The country lies between latitudes 53° and 57° N, and mostly between longitudes 21° and 27° E (part of the Curonian Spit lies west of 21°). It has around 99 kilometres (61.5 mi) of sandy coastline, of which only about 38 kilometres (24 mi) face the open Baltic Sea and which is the shortest among the Baltic Sea countries; the rest of the coast is sheltered by the Curonian sand peninsula. Lithuania's major warm-water port, Klaipėda, lies at the narrow mouth of the Curonian Lagoon (Lithuanian: Kuršių marios), a shallow lagoon extending south to Kaliningrad. The main and largest river, the Nemunas River, and some of its tributaries carry international shipping.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_LITHUANIA_FACTOID_HEADING">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_LITHUANIA_FACTOID_TEXT">
+			<Text>Until the early fifteenth century, Lithuania was the largest and, in later centuries, sole state which professed a pagan religion. Because of this, it was known as a Grand Duchy, for the Holy See never bestowed upon it a crown for it to become a Kingdom.</Text>
+		</Row>
+		<!-- City Names -->
+		<Update>
+			<Where Tag="TXT_KEY_CITY_NAME_KAUNAS" />
+			<Set Text="Gniezno" />
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CITY_NAME_KLAIPEDA" />
+			<Set Text="Sandomierz" />
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CITY_NAME_SIAULIAI" />
+			<Set Text="Tarnow" />
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CITY_NAME_SWEIDNITZ" />
+			<Set Text="Swidnica" />
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CITY_NAME_KIELC" />
+			<Set Text="Kielce" />
+		</Update>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_VILNIUS">
+			<Text>Vilnius</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_KAUNAS">
+			<Text>Kaunas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GARDINAS">
+			<Text>Gardinas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_TRAKAI">
+			<Text>Trakai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SIAULIAI">
+			<Text>Siauliai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_KLAIPEDA">
+			<Text>Klaipeda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_KERNAVE">
+			<Text>Kernave</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PALANGA">
+			<Text>Palanga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RASEINIAI">
+			<Text>Raseiniai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SVNCIONYS">
+			<Text>Svencionys</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SEINAI">
+			<Text>Seinai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LYDA">
+			<Text>Lyda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_VARNIAI">
+			<Text>Varniai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_TELSIAI">
+			<Text>Telsiai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_UPYTE">
+			<Text>Upyte</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANYKSCIAI">
+			<Text>Anyksciai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RKISKIS">
+			<Text>Rokiskis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NESVYZIUS">
+			<Text>Nesvyzius</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BIRZAI">
+			<Text>Birzai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_KREVAS">
+			<Text>Krevas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PANEVEZYS">
+			<Text>Panevezys</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_UTENA">
+			<Text>Utena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SVIERIAI">
+			<Text>Svieriai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_JURBARKAS">
+			<Text>Jurbarkas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_UKMERGE">
+			<Text>Ukmerge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MERKINE">
+			<Text>Merkine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AKMENE">
+			<Text>Akmene</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SMURGAINYS">
+			<Text>Smurgainys</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZIETELA">
+			<Text>Zietela</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_KEDAINAI">
+			<Text>Kedainai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_TAURAGE">
+			<Text>Taurage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ALYTUS">
+			<Text>Alytus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RADVILISKIS">
+			<Text>Radviliskis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MAZEIKIAI">
+			<Text>Mazeikiai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_DRUSKININKAI">
+			<Text>Druskininkai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PANEMUNE">
+			<Text>Panemune</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_9">
+			<Text>Svidrigaila</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_8">
+			<Text>Kestutis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_7">
+			<Text>Algirdas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_6">
+			<Text>Vytautas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_5">
+			<Text>Traidenis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_4">
+			<Text>Butvydas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_3">
+			<Text>Aldona</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_2">
+			<Text>Birute</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_1">
+			<Text>Shvarn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_0">
+			<Text>Ruta</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!----------------------------------------------------------------
+						Gediminas
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS">
+			<Text>Gediminas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GEDIMINAS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GEDIMINAS_TEXT_1">
+			<Text>Gediminas (c.1275 – December 1341) was Grand Duke of Lithuania from 1315 or 1316 until his death. He is credited with founding this political entity and expanding its territory which, at the time of his death, spanned the area ranging from the Baltic Sea to the Black Sea. Also seen as one of the most significant individuals in early Lithuanian history, he was responsible for both building Vilnius, the capital of Lithuania, and the establishment of a dynasty that can be traced to other European monarchies such as Poland, Hungary and Bohemia.[NEWLINE][NEWLINE]As part of his legacy, he gained a reputation for being a champion of paganism, who successfully diverted attempts to Christianize his country by skillful negotiations with the Pope and other Christian rulers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GEDIMINAS_LIVED">
+			<Text>1275 - 1341</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GEDIMINAS_NAME">
+			<Text>Gediminas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GEDIMINAS_SUBTITLE">
+			<Text>Leader of Lithuania</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GEDIMINAS_TITLES_1">
+			<Text>Grand Duke of Lithuania</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_JFD_GEDIMINAS_TEXT">
+			<Text>Ah, O noble Gediminas, Lord of the Old Ways, Grand Duke of Lithuania, O how we sing praises unto your legacy! Your reign is beheld in the hearts of Lithuania's ancestors. A skilled diplomat, you championed the protection of the ancient beliefs of your people against the unyielding force of the Catholic Church, even persuading the Holy See to pardon the purported heresies of your people. You established a noble dynasty for Lithuania, which would go on to conquer a vast empire spanning from the Baltics in the North to the Black Sea in the South, and which would one day become a part of the great Polish-Lithuanian Commonwealth.[NEWLINE][NEWLINE]O sacred prince, the oppressive fist of organised religion weighs heavily upon your people; who forget not their old Gods, and who have chosen you to lead Lithuania once more to freedom. Can you deliver the will of the Gods unto your lands and unto the irreverents of this world? Can you take up sword and faith in hand and wield these mighty crowns as is your destiny? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Diplomacy
+		------------------------------------------------------------------>
+		<!--First Greeting messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_FIRSTGREETING_1">
+			<Text>Halt! You enter the lands of the Lithuanian people. We do not want your company. Leave us be, and we shall have no use for spilling your blood.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_FIRSTGREETING_2">
+			<Text>I am Gediminas, Lord of Lithuania, by the good will of Dievas, and you are entering my realm. Turn back now; this shall be my sole warning.</Text>
+		</Row>
+		<!--Defeated messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_DEFEATED_1">
+			<Text>May Auštaras take me, and Vėjas defile you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_DEFEATED_2">
+			<Text>You have spilt enough blood to fill the halls of your stolen palaces. Sleep soon, demon, for the blood of my ancestors will carry you away into death.</Text>
+		</Row>
+		<!-- Human repeats an action too much, gets the following responses -->
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_REPEAT_TOO_MUCH_1">
+			<Text>I'll cut out your tongue if it will stop these relentless, pointless talks.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_REPEAT_TRADE_TOO_MUCH_1">
+			<Text>You talk too much about nothing for my liking.</Text>
+		</Row>
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_GREETING_HOSTILE_HELLO_1">
+			<Text>You seem oblivious to the consequences of your intrusion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_GREETING_POLITE_HELLO_1">
+			<Text>You are a friend to Lithuania, so I will hear what you have to say.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>It amuses me that you come to me when you're about to be destroyed in the pathetic war that you've found yourself in.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_GREETING_HUMAN_AT_WAR_1">
+			<Text>I am not interested in discussing your war, if that is why you are here.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Your armies are not prepared to face the ferocity of my men.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_GEDIMINAS_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>Why must you purchase this land around me? Are you hoping to invoke your own doom?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>I grow very tired of your continuous land purchasing.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>The spread of your cities and people is like a plague infecting the land. I look forward to the day I don't have to see it any more.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>If you should continue to expand so aggressively, things should get very uncomfortable for you here.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>Your army is very strong, and I would be right to respect it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>Your pockets are overflowing with gold. Care to leave some of it laying around for us less fortunate rulers?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_GREETING_HOSTILE_HUMAN_FEW_CITIES_1">
+			<Text>You have so small an empire it would take but a gust of wind to collapse it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>What men fight for you? I see no army, only a band of ragged peasants.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>I see a the Reaper in your eyes that wishes to do with me war. But you will not win that war, Giltinė.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_TOO_SOON_FOR_DOF_1">
+			<Text>I will do no such thing. We are not friends, and I would have nothing to do with you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_DENOUNCE_1">
+			<Text>Your ways incite the displeasure of my Lords above, and I shall deliver their displeasure by telling the world of your coming doom.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>This means nothing to me. Your words are empty in the face of mine; backed by the will of Dievas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>You have damned your people to a bloodied fate.</Text>
+		</Row>
+		<!-- General Diplo Text -->
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_COOP_WAR_REQUEST_1">
+			<Text>{1_PlayerName:textkey} has become a nuisance. I want you to help me slaughter them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_COOP_WAR_TIME_1">
+			<Text>It is time to go to war with {1_PlayerName:textkey}. I hope you will not displease me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Are you building an army to conquer my lands? I warn you that this would be a grave mistake.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_PLOT_BUYING_WARNING_1">
+			<Text>You purchase the land of Lithuania's ancestors. Halt at once.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>What right do you possess to buy the land of Lithuania's ancestors? The gold of your coins will wash away in blood, if truly you wish to provoke my wrath.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_EXPANSION_SERIOUS_WARNING_1">
+			<Text>You have come deep into the lands of my people, and you will pay the price with the blood of your armies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_EXPANSION_WARNING">
+			<Text>You tread too close to Lithuania for my comfort.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_RETURNED_CIVILIAN_1">
+			<Text>You have my gratitude.</Text>
+		</Row>
+		<!--Public Declarations-->
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}. Attacking the City-State will greatly damage relations and may lead to war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<!-- Human is asking the AI for something -->
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_DONT_SETTLE_NO_1">
+			<Text>I will spill your blood before I give into your demands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_DONT_SETTLE_YES_1">
+			<Text>Hmph...</Text>
+		</Row>
+		<!--Deal Offers and related-->
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_LUXURY_TRADE_1">
+			<Text>Give this here, or suffer my wrath.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_OPEN_BORDERS_EXCHANGE_1">
+			<Text>Well?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_RESPONSE_REQUEST_1">
+			<Text>Hmph...</Text>
+		</Row>
+		<!--AI Attacked by Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_ATTACKED_HOSTILE_1">
+			<Text>You are a fool. Laima guides my blade, and soon I will have it at your throat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_ATTACKED_EXCITED_1">
+			<Text>You will make a delicious sacrifice.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_ATTACKED_SAD_1">
+			<Text>I was mistaken when I thought I could trust you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_ATTACKED_BETRAYED_1">
+			<Text>I was mistaken when I thought I could trust you.</Text>
+		</Row>
+		<!--AI Declaring War on Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_DOW_GENERIC_1">
+			<Text>If you will not let Lithuania be, she shall bring her wrath down upon you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_DOW_LAND_1">
+			<Text>Your empire is the empire of my ancestors. It is my desire to see it returned to Lithuania.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_DOW_WORLD_CONQUEST_1">
+			<Text>All your land are belong to me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_DOW_OPPORTUNITY_1">
+			<Text>Your death will make good sport.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_DOW_DESPERATE_1">
+			<Text>I will make one final sacrifice before my end, and it shall please my Gods mightily.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_DOW_BETRAYAL_1">
+			<Text>I have always had my eye on your throat. If you never realised, then you have only been a fool.</Text>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_TOO_SOON_NO_PEACE_1">
+			<Text>No. I have not bloodied your empire enough for peace.</Text>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_BAD_1">
+			<Text>A foolish mistake. Get out of my sight before I feed you to my dogs.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_BAD_2">
+			<Text>I was hoping you would give me an excuse to have you killed. Watch your back.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_GOOD_1">
+			<Text>A wise choice.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						The Old Gods
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_TRAIT_JFD_LITHUANIA_SHORT">
+			<Text>The Old Gods</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_LITHUANIA">
+			<Text>If at least half of your cities follow only your pantheon belief, foreign religions cannot convert them, besides your [ICON_CAPITAL] Capital. Melee units trained in these cities may capture defeated enemies from combat.</Text>
+		</Row>
+		<Update>
+			<Where Tag="TXT_KEY_EUPANEL_CAPTURE_CHANCE" />
+			<Set Text="[COLOR_CYAN]Capture Chance if Defeated: {1_Percent}%[ENDCOLOR]" />
+		</Update>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_LITHUANIA">
+			<Text>Pagan Warrior</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_LITHUANIA_HELP">
+			<Text>May capture defeated enemies.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Samogitian Warrior
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_UNIT_JFD_SAMOGITIAN_WARRIOR">
+			<Text>Samogitian Warrior</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_SAMOGITIAN_WARRIOR_TEXT">
+			<Text>Samogitians lived in western Lithuania and were closely related to Semigallians and Curonians. In 1413, they became the last group of Europeans to convert to Christianity. In 1857, there were 418,824 people of Samogitian roots and 444,921 persons declared the Samogitian dialect as their mother tongue in 1897 in Kovno Governorate. Currently Lithuania does not allow for declaration of Samogitian nationality in passports as it is not an ethnicity. In list of ethnic groups of Russia there is one person who declared himself with "Zhemaijty".</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_SAMOGITIAN_WARRIOR_HELP">
+			<Text>Double [ICON_MOVES] movement and +33% [ICON_STRENGTH] Combat Strength in Forest tiles.[NEWLINE][NEWLINE]Converts 20% of a city to your pantheon belief when garrisoned (unless that city is a Holy City). This rate is doubled when this unit is stationed in the same tile as, or adjacent to, a Great Prophet or Missionary.[NEWLINE][NEWLINE]May be trained in cities following your pantheon belief even after it would normally obsolete.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_SAMOGITIAN_WARRIOR_STRATEGY">
+			<Text>The Samogitian Warrior is the Lithuanian unique unit. It gains double [ICON_MOVES] movement and +33% [ICON_STRENGTH] Combat Strength when in forest tiles and does not require [ICON_RES_IRON] Iron, unlike the Swordsman that it replaces, but it is slightly weaker. It can be used to convert a city to your pantheon belief by being garrisoned in a city where you pantheon is not the majority religion (unless that city is a Holy City). This rate is doubled when the Samogitian Warrior is in the same tile or adjacent to a Great Prophet or Missionary. Even after the Samogitian Warrior obsoletes with the discovery of Steel, it can still be trained in cities following your pantheon belief.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_DOUBLE_MOVES">
+			<Text>Perkunas' Blessing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_DOUBLE_MOVES_HELP">
+			<Text>Double [ICON_MOVES] Movement and +33% [ICON_STRENGTH] Combat Strength in Forest.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_CONVERTS_TO_PAGANS">
+			<Text>Dievas' Blessing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_CONVERTS_TO_PAGANS_HELP">
+			<Text>Garrison this unit inside a city to convert 20% of that city's population to your pantheon belief (doubled if in the same tile or adjacent to a Great Prophet or Missionary). This cannot be used on a Holy City.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Sacred Grove
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SACRED_GROVE">
+			<Text>Sacred Grove</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_SACRED_GROVE_TEXT">
+			<Text>A sacred grove or sacred woods are any grove of trees of special religious importance to a particular culture. Sacred groves were most prominent in the Ancient Near East and prehistoric Europe, but feature in various cultures throughout the world. They were important features of the mythological landscape and cult practice of Celtic, Baltic, Germanic, ancient Greek, Near Eastern, Roman, and Slavic polytheism, and were also used in India, Japan, and West Africa. Examples of sacred groves include the Greco-Roman temenos, the Norse hörgr, and the Celtic nemeton, which was largely but not exclusively associated with Druidic practice. During the Northern Crusades, there was a common practice of building churches on the sites of sacred groves.[NEWLINE][NEWLINE]Ancient holy trees still exist in the English countryside and are mentioned often in folklore and fairytales.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SACRED_GROVE_STRATEGY"> 
+			<Text>The Sacred Grove is the unique Lithuanian replacement for the Shrine. Unlike the Shrine, the Sacred Grove can be built immediately. It also converts every 10 points of [ICON_PEACE] Faith from the city into 1 [ICON_HAPPINESS_1] Local Happiness and yields +1 [ICON_PEACE] Faith on forest tiles. However, the effects only apply to cities following only your pantheon belief.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SACRED_GROVE_HELP">
+			<Text>+1 [ICON_HAPPINESS_1] Local Happiness for every 10 [ICON_PEACE] Faith produced by the city and +1 [ICON_PEACE] Faith on forest tiles, if the city is following only your pantheon belief.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SACRED_GROVE_FAITH">
+			<Text>JFD: SG Faith</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SACRED_GROVE_FAITH_HELP">
+			<Text>+1 [ICON_PEACE] Faith on Forest Tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SACRED_GROVE_HAPPINESS">
+			<Text>JFD: SG Happiness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SACRED_GROVE_HAPPINESS_HELP">
+			<Text>+1 [ICON_HAPPINESS_1] Local Happiness per 10 [ICON_PEACE] Faith.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Minor Civs
+		------------------------------------------------------------------>
+		<!-- Dorpat -->
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_DORPAT">
+			<Text>Dorpat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_DORPAT_DESC">
+			<Text>Dorpat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_DORPAT_SHORT_DESC">
+			<Text>Dorpat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_DORPAT_ADJECTIVE">
+			<Text>Dorpat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_DORPAT_TEXT_1">
+			<Text>Tartu is the second largest city of Estonia, following Estonia's political and financial capital Tallinn, Tartu is often considered the intellectual centre of the country, especially since it is home to the nation's oldest and most renowned university, the University of Tartu. The city also houses the Supreme Court of Estonia and the Ministry of Education and Research. Situated 186 kilometres (116 miles) southeast of Tallinn, Tartu is the centre of southern Estonia and lies on the Emajõgi ("Mother river"), which connects the two largest lakes of Estonia. The city is served by Tartu Airport.[NEWLINE][NEWLINE]The ancient Estonian fortress of Tarbatu was founded in the 5th century AD. Historical names for the city include German Dorpat (from the 13th century) and Russian Yuryev and Derpt. Since 1918 the Estonian name Tartu has been used, but as Tartu has been under control of various rulers throughout its history, there are various names for the city in different languages. Most of them derive from the earliest attested form, the Estonian Tarbatu. In German, Swedish and Polish the town has been known and is sometimes still referred to as About this sound Dorpat, a variant of Tarbatu. In Russian, the city has been known as Юрьев (Yuryev) after Yaroslav I the Wise and Дерпт (Derpt), a variant of Dorpat. Similarly, the city has been known as Tērbata in Latvian. In Finnish, the toponym is Tartto.</Text>
+		</Row>
+	</Language_en_US>
+	<!----------------------------------------------------------------
+						Lithuania
+	------------------------------------------------------------------>
+	</Language_cs_CS>
+		<Row Tag="TXT_KEY_CIV_JFD_LITHUANIA_ADJECTIVE">
+			<Text>Litevský|Litevská|Litevské|Litevští|Litevské|Litevská|litevský|litevská|litevské|litevští|litevské|litevská</Text>
+			<Gender>masculine|feminine|neuter|masculine|feminine|neuter|masculine|feminine|neuter|masculine|feminine|neuter</Gender>   		
+			<Plurality>1|1|1|2|2|2|1|1|1|2|2|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_LITHUANIA_DESC">
+			<Text>Litevské velkoknížectví|Litevského velkoknížectví|Litevskému velkoknížectví|Litevské velkoknížectví|Litevským velkoknížectvím|Litevském velkoknížectví|z Litevského velkoknížectví</Text> <Gender>neuter</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_LITHUANIA_SHORT_DESC">
+			<Text>Litva|Litvy|Litvě|Litvu|Litvou|Litvě|z Litvy</Text> <Gender>neuter</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_LITHUANIA_HEADING_1">
+			<Text>Historie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_LITHUANIA_TEXT_1">
+			<Text>Velkoknížectví litevské (litevsky Lietuvos Didžioji Kunigaikštystė, bělorusky Вялікае Княства Літоўскае / Vialikaje Kniastva Litoŭskaje, latinsky Magnus Ducatus Lituaniae) byl od 13. století do roku 1795 stát zahrnující země dnešní Litvy, Běloruska, severovýchodního Polska, větší části Ukrajiny a západních okrajů Ruska. Prvním hlavním městem velkoknížectví bylo Kernavė (do roku 1230), později Trakai a za vlády Gedimina se jím stal Vilnius. Král Mindaugas ale sídlil v městě Navahrudak.[NEWLINE][NEWLINE]Poprvé byl termín Litva použit ve vztahu k zemím obydlených Balty a k oblastem dnešní Litvy. Sami Baltové - předkové Litvínů započali tvorbu Velkoknížectví litevského. VKL bylo obydleno zvláště slovanskými národy, předky dnešních Ukrajinců a Bělorusů, plemena Baltů zase sídlili hlavně v oblastech dnešní Litvy. Oficiálním úředním jazykem slovanský jazyk staroruský (v tomto jazyce byly sepsány i Statusy litevské) do roku 1699. Poté se stala úředním jazykem polština, ale používala se rovněž latina a litevština. Na zemích VKL žili i představitelé jiných národů např. Karaimové, kteří dodnes žijí v zemi, kultivujíc svůj jazyk a tradice. Ve 13. stol. král Mindaugas sjednotil Litvu a vytvořil malé ale rychle se rozvíjející panství s hlavním městem v Navahrudak.[NEWLINE]VKL konkurovala Velkoknížectví moskevskému, sjednocovala knížectví ruská pod svou nadvládou. Roku 1320 Gediminas uzavřel spojenectví s Knížectvím tverským a využívajíc oslabení ruských knížectví, vnutila Litva svůj protektorát Smolensku, Pskovu, Haličsko-volyňskému knížectví a Kyjevu. Lokální knížata (kňaz'ové) spravovala svou vládu, avšak podléhala velkému knížeti. V jedné chvíli byla hranice VKL vzdálena od Moskvy jen o 130 km. Litvíni dvakrát obléhali Moskevský Kreml v roku 1368 a 1370.[NEWLINE]V polovině 14. stol. se VKL skládalo z Litvy etnické (Pravá Litva, Litva Zavilenská, Žmuď - dohromady 80 000 km², čili okolo 10 % teritoria knížectví) a ze zemí ruských (Kyjevské knížectví, Černihovsko-severské knížectví, Volyňské knížectví, Podolské knížectví). Etnická Litva měla okolo 300 000 obyvatel a země ruské okolo 1 700 000 obyvatel. Gediminas měl sedm synů. Algirdas a Kęstutis zvítězili nad ostatními bratry a ustanovili společnou vládu na Litvě. Kęstutis byl otcem Vitauta a Algirdas Vladislava II. Jagella.[NEWLINE]V Polsku se přijal nepravdivý názor, že je VKL ve 14. století poslední nekřesťanskou zemí v Evropě. Toho využili sousedící s VKL Křižáci jako záminku k napadení země. Tyto útoky byly pro VKL tak vyčerpávající, že se Vladislav II. Jagello rozhodl přijmout od Polska křest. Vladislav II. Jagello si vzal za ženu Polku Hedviku z Anjou, čímž získal polskou korunu, křest a oba státy se zbavily nájezdů ze strany Križáků. Bratranec Vladislava Vitautas získal pro sebe titul velkého knížete Litvy, ale Jagello se stal vrchním knížetem VKL a právě on byl hlavním vůdcem sil polsko-litevských v bitvě u Grunwaldu. Vitautas zkoušel rozbít Zlatou hordu, ale nakonec odnesl porážku v bitvě nad Vorsklou. VKL se poté bránilo ruským nájezdům, které postupně okusovaly části země z východu.[NEWLINE]Roku 1659 byla uzavřena Lublinská unie - koalice Polska a Litvy. Po prvním dělení Polska se Litva dostala do hranic Ruské říše. V 1812 se VKL dělilo na čtyři departamenty - bělostocký, grodenský, miňský a vilenský.[NEWLINE]Dnes se na území VKL nacházejí samostatné státy Litvy, Běloruska, částečně Ukrainy a Lotyšska, kousky náleží Polsku a Rusku.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_LITHUANIA_HEADING_2">
+			<Text>Geografie a klima</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_LITHUANIA_TEXT_2">
+			<Text>Litva se nachází v severní Evropě. Její území činí 65 200 km², má 99 km písečného pobřeží, z nichž pouze 38 km otevřeně hraničí s Baltským mořem, což je nejméně z baltských států. Hlavním litevským teplovodním přístavem je Klajpeda, ležící  Lithuania's major warm-water port, Klaipėda, ležící na úzkém ústí Kurského zálivu (lit. Kuršių marios), mělké laguně protažené směrem na jih ke Kaliningradu. Hlavní a největší řeknou je Němen, jejíž některé přítoky poskytují mezinárodní přepravu.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_LITHUANIA_FACTOID_HEADING">
+			<Text>Faktoidy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_LITHUANIA_FACTOID_TEXT">
+			<Text>Ještě 15. století byla Litva největší zemí vyznávající pohanství. Z tohoto důvodu byla známá "pouze" jako velkoknížectví a nikolivěk království.</Text>
+		</Row>
+		<!-- City Names -->
+		<Update>
+			<Where Tag="TXT_KEY_CITY_NAME_KAUNAS" />
+			<Set Text="Hnězdno" />
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CITY_NAME_KLAIPEDA" />
+			<Set Text="Sandoměř" />
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CITY_NAME_SIAULIAI" />
+			<Set Text="Tarnov" />
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CITY_NAME_SWEIDNITZ" />
+			<Set Text="Svídnice" />
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CITY_NAME_KIELC" />
+			<Set Text="Kielce" />
+		</Update>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_VILNIUS">
+			<Text>Vilno|Vilna|Vilnu|Vilno|Vilnem|Vilně</Text> <Gender>neuter</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_KAUNAS">
+			<Text>Kovno|Kovna|Kovnu|Kovno|Kovnem|Kovně</Text> <Gender>neuter</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GARDINAS">
+			<Text>Grodno|Grodna|Grodnu|Grodno|Grodnem|Grodně</Text> <Gender>neuter</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_TRAKAI">
+			<Text>Troky|Trok|Trokám|Troky|Trokami|Trokách</Text> <Gender>feminine</Gender> <Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SIAULIAI">
+			<Text>Šavle|Šavel|Šavlím|Šavle|Šavlemi|Šavlích</Text> <Gender>feminine</Gender> <Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_KLAIPEDA">
+			<Text>Klajpeda|Klajpedy|Klajpedě|Klajpedu|Klajpedou|Klajpedě</Text> <Gender>feminine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_KERNAVE">
+			<Text>Kernovo|Kernova|Kernovu|Kernovo|Kernovem|Kernovu</Text> <Gender>neuter</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PALANGA">
+			<Text>Palanga|Palangy|Palanze|Palangu|Palangou|Palanze</Text> <Gender>feminine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RASEINIAI">
+			<Text>Raseiniai</Text> <Gender>neuter</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SVNCIONYS">
+			<Text>Švenčionys|Švenčionysu|Švenčionysu|Švenčionys|Švenčionysem|Švenčionysu</Text> <Gender>masculine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SEINAI">
+			<Text>Sejny|Sejn|Sejnám|Sejny|Sejnami|Sejnách</Text> <Gender>feminine</Gender> <Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LYDA">
+			<Text>Lida|Lidy|Lidě|Lidu|Lidou|Lidě</Text> <Gender>feminine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_VARNIAI">
+			<Text>Varniai</Text> <Gender>neuter</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_TELSIAI">
+			<Text>Telšiai</Text> <Gender>neuter</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_UPYTE">
+			<Text>Upytė</Text> <Gender>neuter</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANYKSCIAI">
+			<Text>Anykščiai</Text> <Gender>neuter</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RKISKIS">
+			<Text>Rokiškis|Rokiškisu|Rokiškisu|Rokiškis|Rokiškisem|Rokiškisu</Text> <Gender>masculine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NESVYZIUS">
+			<Text>Ňasviž|Ňasviže|Ňasviži|Ňasviž|Ňasviží|Ňasviži</Text> <Gender>feminine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BIRZAI">
+			<Text>Biržai</Text> <Gender>neuter</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_KREVAS">
+			<Text>Krevo|Kreva|Krevu|Krevo|Krevem|Krevě</Text> <Gender>neuter</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PANEVEZYS">
+			<Text>Panevėžys|Panevėžysu|Panevėžysu|Panevėžys|Panevėžysem|Panevėžysu</Text> <Gender>masculine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_UTENA">
+			<Text>Utena|Uteny|Uteně|Utenu|Utenou|Uteně</Text> <Gender>feminine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SVIERIAI">
+			<Text>Svir|Sviru|Sviru|Svir|Svirem|Sviru</Text> <Gender>masculine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_JURBARKAS">
+			<Text>Jurbarkas|Jurbarkasu|Jurbarkasu|Jurbarkas|Jurbarkasem|Jurbarkasu</Text> <Gender>masculine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_UKMERGE">
+			<Text>Ukmergė</Text> <Gender>neuter</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MERKINE">
+			<Text>Merkinė</Text> <Gender>neuter</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AKMENE">
+			<Text>Akmenė</Text> <Gender>neuter</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SMURGAINYS">
+			<Text>Smarhoń|Smarhoni|Smarhoně|Smarhoń|Smarhoní|Smarhoni</Text> <Gender>feminine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZIETELA">
+			<Text>Datlovo|Datlova|Datlovu|Datlovo|Datlovem|Datlově</Text> <Gender>neuter</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_KEDAINAI">
+			<Text>Kėdainiai</Text> <Gender>neuter</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_TAURAGE">
+			<Text>Tauragė</Text> <Gender>neuter</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ALYTUS">
+			<Text>Alytus|Alytusu|Alytusu|Alytus|Alytusem|Alytusu</Text> <Gender>masculine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RADVILISKIS">
+			<Text>Radviliškis|Radviliškisu|Radviliškisu|Radviliškis|Radviliškisem|Radviliškisu</Text> <Gender>masculine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MAZEIKIAI">
+			<Text>Mažeikiai</Text> <Gender>neuter</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_DRUSKININKAI">
+			<Text>Druskininkai</Text> <Gender>neuter</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PANEMUNE">
+			<Text>Panemunė</Text> <Gender>neuter</Gender> <Plurality>1</Plurality>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_9">
+			<Text>Svidrigaila</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_8">
+			<Text>Kestutis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_7">
+			<Text>Algirdas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_6">
+			<Text>Vytautas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_5">
+			<Text>Traidenis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_4">
+			<Text>Butvydas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_3">
+			<Text>Aldona</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_2">
+			<Text>Birute</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_1">
+			<Text>Shvarn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_0">
+			<Text>Ruta</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!----------------------------------------------------------------
+						Gediminas
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS">
+			<Text>Gediminas|Gedimina|Gediminovi|Gedimina|Gediminem|Gediminovi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GEDIMINAS_HEADING_1">
+			<Text>Historie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GEDIMINAS_TEXT_1">
+			<Text>Gediminas (kolem 1275–1341) byl v letech 1316–1341 litevským velkoknížetem, prvním z dynastie Gediminovců (vládnoucí rod byl nazván podle Gedimina samého, ačkoliv podle analogie s jeho vnukem Jogailou by měl být posledním členem dynastie předchozí). Používal titulatury král Litevců a Rusů (rex Litvinorum et Ruthenorum) a položil základní kámen k mocenskému postavení Litvy v severovýchodní Evropě. Za jeho panování dosáhl litevský stát mnohem větší rozlohy než jeho východní sousedé, sjednocující se moskevské a tverské knížectví, a stal se tak vážným konkurentem Moskvy ve snaze o ovládnutí ruských zemí.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GEDIMINAS_LIVED">
+			<Text>1275 - 1341</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GEDIMINAS_NAME">
+			<Text>Gediminas|Gedimina|Gediminovi|Gedimina|Gediminem|Gediminovi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GEDIMINAS_SUBTITLE">
+			<Text>Vládce Litvy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GEDIMINAS_TITLES_1">
+			<Text>Velkokníže litevský</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_JFD_GEDIMINAS_TEXT">
+			<Text>Ó, vznešený Gedimině, pane starých způsobů, velkokníže litevský. Ó, jak my zpíváme žalmy za tvým dědictvím. Tvou vládu vzpomínají srdce předků. Jako zkušený diplomat jste chránil stará věření před nepoddajnou silou katolické církve, a dokonce jste přesvědčil samotného papeže, aby prominul litevskému lidu údajné kacířství. Založil jsi šlechetnou dinastii pro Litvu, jež rozšířila území od Baltického až k Černému moři a která jednoho dne se stala velkou Republikou obou národů.[NEWLINE][NEWLINE]Ó, posvátný princi, tvrdá pěst organizované víry tíží nad tvým lidem, jež nezapomíná o svých starých bozích, a jež si zvolil právě tebe, abys Litvu vyvedl ke svobodě. Vezmeš si svůj měč a budeš vládnout tak, jak ti to předurčil osud? Zbuduješ civilizaci, která přetrvá zkoušku času?</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Diplomacy
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_DEFEATED_1">
+			<Text>Nechť tě bozi zatratí! Tvá slepá víra bude tvou zkázou.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_DEFEATED_2">
+			<Text>Rozlil jsi dost krve mého lidu, abys jí naplnil řeky tekoucí územím, jež jsi ukradl. Tato krev rozruší zdi tvých paláců a utopí tě, až budeš spát.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_FIRSTGREETING_1">
+			<Text>Halt! Vkročil jsi na země litevského lidu. Nechceme tvou společnost. Nech nás být a nebude důvod k prolévání vaší krve.</Text>
+		</Row>
+    	<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Zašel jsi daleko do zemí mého lidu a zaplatíš za to krvavou cenu.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_FIRSTGREETING_2">
+			<Text>Jsem Gediminas, vládce Litvy z dobré vůle Dieva a ty právě vstupuješ do mé říše. Hned se obrať nazpět. Ber to jako mé poslední varování.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_GREETING_HOSTILE_HELLO_1">
+			<Text>Vypadá to, že zapomínáš na následky svého vtržení.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_GREETING_NEUTRAL_HELLO_1">
+			<Text>Zůstalo mi jen málo trpělivosti pro tebe.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_GREETING_POLITE_HELLO_1">
+			<Text>Jsi přítelem Litvy, a tak si vyslechnu, co máš na srdci.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Tvá armáda není připravena čelit divokosti mých vojáků.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_LUXURY_TRADE_1">
+			<Text>Dej to sem, jasné?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_OPEN_BORDERS_EXCHANGE_1">
+			<Text>Takže?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_RESPONSE_REQUEST_1">
+			<Text>Pche...</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						The Old Gods
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_TRAIT_JFD_LITHUANIA_SHORT">
+			<Text>Staří bozi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_LITHUANIA">
+			<Text>Pokud alespoň polovina vašich měst následuje pouze váš panteon, cizí víry nemohou navrátit vaše města kromě [ICON_CAPITAL] hlavního města. Vojenské jednotky vycvičené v těchto městech mohou zajmout nepřátelské jednotky pokonané v bitvě.</Text>
+		</Row>
+		<Update>
+			<Where Tag="TXT_KEY_EUPANEL_CAPTURE_CHANCE" />
+			<Set Text="[COLOR_CYAN]Šance na zajetí: {1_Percent}%[ENDCOLOR]" />
+		</Update>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_LITHUANIA">
+			<Text>Pohan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_LITHUANIA_HELP">
+			<Text>Mohou zajmout nepřátelské jednotky.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Samogitian Warrior
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_UNIT_JFD_SAMOGITIAN_WARRIOR">
+			<Text>Žmuďští válečníci|Žmuďských válečníků|Žmuďským válečníkům|Žmuďské válečníky</Text> <Gender>masculine</Gender> <Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_SAMOGITIAN_WARRIOR_TEXT">
+			<Text>Žmuďané žili na západní Litvě a byli blízce spokrevnění se Zemgali  a Kurši. V roku 1413 se stali poslední skupinou Evropanů, jež přijali křest. V roku 1857 se 418 824 obyvatel přihlásilo k Zemgalským kořenům a 444 921 obyvatel prohlásilo zemgalské nářečí za svou mateřskou řeč. Dnes Litva nepovoluje zamgelskou národnost v pasech, jelikož není považována za etnický původ. V seznamu etnických skupin v Rusku byla jedna osoba, která svůj původ popsala jako "žemaity".</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_SAMOGITIAN_WARRIOR_HELP">
+			<Text>Zdvojnásobený [ICON_MOVES] pohyb a +1 k dohledu v lesích.[NEWLINE][NEWLINE]Rozpusťte tuto jednotku ve městě a město bude navráceno k vašemu panteonovému věření (v případě, že se nejedná o svaté město).[NEWLINE][NEWLINE]Může být vytrénována ve městech vyznávající vaši panteonovou víru i když už bude jednotka zastaralá.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_SAMOGITIAN_WARRIOR_STRATEGY">
+			<Text>Žmuďští válečníci jsou litevskou unikátní jednotkou. Dostávají zdvojnásobený pohyb [ICON_MOVES] a +1 k dohledu v lesích. Nevyžadují [ICON_RES_IRON] železo jako šermíři, které nahrazuje, ale naproti tomu jsou slabší. Mohou být použiti k navrácení města na vaši panteonovou víru, pokud budou propuštěni ve městě (v případě, že se nejedná o svaté město). I po zastarání Žmuďských válečníků s objevem oceli jsou stále dostupní ve městech, která vyznávají váš panteon.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_DOUBLE_MOVES">
+			<Text>Perkunasovo požehnání</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_DOUBLE_MOVES_HELP">
+			<Text>Zdvojnásobený [ICON_MOVES] pohyb v lesích.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_CONVERTS_TO_PAGANS">
+			<Text>Šlechetné obětování</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_CONVERTS_TO_PAGANS_HELP">
+			<Text>Propustit tuto jednotku ve městě k jeho navrácení k vašemu panteonu. Nelze použít ve svatém městě.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SAMOGITIAN_WARRIOR_SACRIFICED">
+			<Text>Vaši válečníci byli obětováni bohům! Bozi naoplátku požehnali {1_CityName} svou moudrostí!</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Mountain Monastery
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SACRED_GROVE">
+			<Text>Posvátný háj</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_SACRED_GROVE_TEXT">
+			<Text>Posvátný háj či posvátný les má náboženský význam pro konkrétní kulturu. Posvátné háje byly nejpřednější na antickém Blízkém východě a v prehistorické Evropě, ale objevují se v různých kulturách po celém světe. Byly významnou součástí mytologického kultu Keltů, Baltů, Germánů, antického Řecka, Blízkého východu, Říma, slovanských kultů a byly využívány také v Indii, Japonsku a západní Africe. Příklady svatých hájů zahrnují řecko-římské temeny, norské hörgry a keltské nemetony, které jsou obecně spojovány s druidy. Během severních křížových výprav byla běžná stavba kostelů na místech posvátných hájů.[NEWLINE][NEWLINE]Staré posvátné stromy nadále existují na anglickém venkově a jsou často vzpomínané ve folklóru a pohádkách.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SACRED_GROVE_STRATEGY"> 
+			<Text>Posvátný háj je unikátní litevská budova nahrazující Svatyni. Na rozdíl od svatyně posvátný háj může být postaven od počátku hry. Také každých 10 bodu víry [ICON_PEACE] produkované městem konventruje na 1 [ICON_HAPPINESS_1] lokální spokojenosti a vynáší +1 [ICON_PEACE] víry z lesů. Nicméně tento efekt funguje pouze ve městech s vaším panteonovým věřením.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SACRED_GROVE_HELP">
+			<Text>+1 [ICON_HAPPINESS_1] lokální spokojenosti za každých 10 produkovaných bodů [ICON_PEACE] víry v tomto měste a +1 [ICON_PEACE] víry z lesů. Město musí vyznávat váš panteon.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SACRED_GROVE_FAITH">
+			<Text>JFD: PH Víra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SACRED_GROVE_FAITH_HELP">
+			<Text>+1 [ICON_PEACE] víra z lesů</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SACRED_GROVE_HAPPINESS">
+			<Text>JFD: PH spokojenost</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SACRED_GROVE_HAPPINESS_HELP">
+			<Text>+1 [ICON_HAPPINESS_1] lokální spokojenost za 10 bodů [ICON_PEACE] viry.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Minor Civs
+		------------------------------------------------------------------>
+		<!-- Dorpat -->
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_DORPAT">
+			<Text>Tartu</Text> <Gender>neuter</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_DORPAT_DESC">
+			<Text>Tartu</Text> <Gender>neuter</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_DORPAT_SHORT_DESC">
+			<Text>Tartu</Text> <Gender>neuter</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_DORPAT_ADJECTIVE">
+			<Text>Tarbatský|Tarbatská|Tarbatské|Tarbatští|Tarbatské|Tarbatská|tarbatský|tarbatská|tarbatské|tarbatští|tarbatské|tarbatská</Text> 
+			<Gender>masculine|feminine|neuter|masculine|feminine|neuter|masculine|feminine|neuter|masculine|feminine|neuter</Gender>
+			<Plurality>1|1|1|2|2|2|1|1|1|2|2|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_DORPAT_TEXT_1">
+			<Text>Tartu (dříve známé též pod německým a švédským názvem Dorpat, pod ruskými jmény Дерпт (Děrpt) či Юрьев (Jurjev), nebo také přes staroestonštinu a latinu vytvořeným Tarbat) je druhé největší město Estonska. V roce 2004 zde žilo 101 297 obyvatel. Na rozdíl od estonského politického a finančního centra Tallinnu je Tartu často považováno za centrum vzdělanosti a kultury. Ve městě sídlí nejstarší a nejslavnější estonská univerzita. Město se nachází ve vnitrozemí Estonska, přibližně 180 km na jihovýchod od Tallinnu a je považováno za centrum celého jihovýchodního Estonska. Město protíná řeka Emajõgi, která spojuje dvě největší estonská jezera.</Text>
+		</Row>
+	</Language_cs_CS>
+		<!----------------------------------------------------------------
+		
+		
+		
+						Russkij
+						
+						
+						
+		------------------------------------------------------------------>
+	<Language_RU_RU>
+		<!----------------------------------------------------------------
+						Lithuania
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_CIV_JFD_LITHUANIA_ADJECTIVE">
+			<Text>Литовск.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_LITHUANIA_DESC">
+			<Text>Литовская империя</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_LITHUANIA_SHORT_DESC">
+			<Text>Литва</Text> <Gender>feminine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_LITHUANIA_HEADING_1">
+			<Text>История</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_LITHUANIA_TEXT_1">
+			<Text>Великое княжество Литовское (Вели́кое кня́жество Лито́вское, Ру́сское, Жемо́йтское[3] и иных; западнорусский язык) Великое князство Литовское, Руское, Жомойтское и иных, лит. Lietuvos Didžioji Kunigaikštystė, жем. Lietovuos Dėdliuojė Konėgaikštīstė, белор. Вялікае Княства Літоўскае, укр. Велике Князівство Литовське, польск. Wielkie Księstwo Litewskie, лат. Magnus Ducatus Lituaniae) — восточноевропейское государство, существовавшее с середины XIII века по 1795 год на территории современной Беларуси (8 воеводств) и Литвы (2 воеводства), а также частично Украины, России, Латвии, Польши, Эстонии и Молдавии.
+С 1385 года находилось в личной унии с Королевством Польским, а с 1569 года — в сеймовой Люблинской унии в составе конфедеративного государства Речи Посполитой. В XIV—XVI веках Великое княжество Литовское — соперник Великого княжества Московского в борьбе за господство в Восточной Европе. Было ликвидировано Конституцией 3 мая 1791 года. Окончательно прекратило своё существование после третьего раздела Речи Посполитой в 1795 году. К 1815 году вся территория бывшего княжества вошла в состав Российской империи.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_LITHUANIA_HEADING_2">
+			<Text>География и климат</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_LITHUANIA_TEXT_2">
+			<Text>Литва является страной, расположенной в географическом в Центральной Европе (в то время как ООН, как известно, странах Северной Европы), на юго-восточном побережье Балтийского моря. В Литве находится географический центр Европы, расположен в 26 км к северу от Вильнюса. Они обнаружили, что ученые из французского Географического института в 1989 году. Имея свой географический центр Европы на собственной территории похвастаться некоторые другие европейские страны, в том числе Польша.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_LITHUANIA_FACTOID_HEADING">
+			<Text>Факты о</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_LITHUANIA_FACTOID_TEXT">
+			<Text>Даже в 15-м века Литва была самой большой страной исповедующих язычество. По этой причине, он известен только как княжество, а не как королевство.</Text>
+		</Row>
+		<!-- City Names -->
+		<Update>
+			<Where Tag="TXT_KEY_CITY_NAME_KAUNAS" />
+			<Set Text="Гнезно" />
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CITY_NAME_KLAIPEDA" />
+			<Set Text="Сандомир" />
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CITY_NAME_SIAULIAI" />
+			<Set Text="Тарнов" />
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CITY_NAME_SWEIDNITZ" />
+			<Set Text="Свидница" />
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CITY_NAME_KIELC" />
+			<Set Text="Кельце" />
+		</Update>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_VILNIUS">
+			<Text>Вильна</Text> <Gender>feminine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_KAUNAS">
+			<Text>Каунас</Text> <Gender>masculine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GARDINAS">
+			<Text>Гродно</Text> <Gender>neuter</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_TRAKAI">
+			<Text>Троки</Text> <Gender>feminine</Gender> <Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SIAULIAI">
+			<Text>Шавли</Text> <Gender>neuter</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_KLAIPEDA">
+			<Text>Клайпеда</Text> <Gender>feminine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_KERNAVE">
+			<Text>Кернов</Text> <Gender>masculine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PALANGA">
+			<Text>Паланга</Text> <Gender>feminine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RASEINIAI">
+			<Text>Россиены</Text> <Gender>feminine</Gender> <Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SVNCIONYS">
+			<Text>Швянчёнис</Text> <Gender>masculine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SEINAI">
+			<Text>Сейны</Text> <Gender>feminine</Gender> <Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LYDA">
+			<Text>Лида</Text> <Gender>feminine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_VARNIAI">
+			<Text>Варняй</Text> <Gender>masculine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_TELSIAI">
+			<Text>Тельшяй</Text> <Gender>masculine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_UPYTE">
+			<Text>Упите</Text> <Gender>neuter</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANYKSCIAI">
+			<Text>Аникщяй</Text> <Gender>masculine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RKISKIS">
+			<Text>Рокишкис</Text> <Gender>masculine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NESVYZIUS">
+			<Text>Несвиж</Text> <Gender>masculine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BIRZAI">
+			<Text>Биржай</Text> <Gender>masculine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_KREVAS">
+			<Text>Крево</Text> <Gender>neuter</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PANEVEZYS">
+			<Text>Паневежис</Text> <Gender>masculine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_UTENA">
+			<Text>Утена</Text> <Gender>feminine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SVIERIAI">
+			<Text>Свирь</Text> <Gender>feminine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_JURBARKAS">
+			<Text>Юрбаркас</Text> <Gender>masculine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_UKMERGE">
+			<Text>Укмерге</Text> <Gender>neuter</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MERKINE">
+			<Text>Меркине</Text> <Gender>neuter</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AKMENE">
+			<Text>Акмяне</Text> <Gender>neuter</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SMURGAINYS">
+			<Text>Сморгонь</Text> <Gender>feminine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZIETELA">
+			<Text>Дятлово</Text> <Gender>neuter</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_KEDAINAI">
+			<Text>Кедайняй</Text> <Gender>masculine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_TAURAGE">
+			<Text>Таураге</Text> <Gender>neuter</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ALYTUS">
+			<Text>Алитус</Text> <Gender>masculine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RADVILISKIS">
+			<Text>Радвилишкис</Text> <Gender>masculine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MAZEIKIAI">
+			<Text>Мажейкяй</Text> <Gender>masculine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_DRUSKININKAI">
+			<Text>Друскининкай</Text> <Gender>masculine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PANEMUNE">
+			<Text>Панямуне</Text> <Gender>neuter</Gender> <Plurality>1</Plurality>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_9">
+			<Text>Свидригайло</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_8">
+			<Text>Кейстут</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_7">
+			<Text>Ольгерд</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_6">
+			<Text>Витовт</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_5">
+			<Text>Тройден</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_4">
+			<Text>Будивид</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_3">
+			<Text>Альдона</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_2">
+			<Text>Бирута</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_1">
+			<Text>Шварн</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_0">
+			<Text>Рута</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!----------------------------------------------------------------
+						Gediminas
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS">
+			<Text>Гедимин</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GEDIMINAS_HEADING_1">
+			<Text>История</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GEDIMINAS_TEXT_1">
+			<Text>Гедимин (лит. Gedimínas[1], белор. Гедзімін, Гедымін, польск. Giedymin, укр. Гедимін; ок. 1275 — декабрь 1341) — основатель династии Гедиминовичей. Великий князь литовский с 1316 по 1341 год. В легендарной части литовских летописей, и во всей донаучной литовской историографии, Гедимин представлен как сын великого князя литовского Витеня. С конца XIX века в историографии долго было принято мнение, основанное на письме одного из членов рижского магистрата самому Гедимину (в котором Витень назван в качестве «брата и предшественника» Гедимина), что он был братом Витеня и сыном великого князя литовского Будивида. В конце XX века некоторые историки, основываясь на свидетельствах двух сыновей Ольгерда, в древнерусской поэме «Задонщина»[2], об их происхождении от отца или тестя Гедимин «Сколоменда», и принимая во внимание, что слово «брат» в ВКЛ имело более широкое значение, чем в наше время, начали популяризировать альтернативную версию о происхождении Гедимина. По их гипотезе, Гедимин являлся сыном или зятем Сколоменда. Вёл ожесточённую борьбу с немецкими рыцарями, нанёс им ряд поражений. В 1322 году заключил союз с князем Мазовии и в 1325 году — с королём Польши Владиславом Локотком, скрепив последний браком сына Владислава Казимира со своей дочерью Альдоной. Как и его предшественники, Гедимин продолжал присоединение западнорусских земель. Под его власть мирно перешли древнерусские земли с городами Полоцк (1307), Гродно (по другой версии город был присоединён ранее) и Берестье (1315), Витебск (1320), Минск (1326), Туров и Пинск (1336) и другие. Вассалами Гедимина стали минский, лукомский, друцкий, берестейский, дрогичинский князья. Кроме того, он имел большое влияние в Жемайтии, которая не входила в государство Гедимина, имея сильные традиции автономии. На Волыни с 1340 года княжил его сын Любарт, зять последнего волынского князя из династии Романовичей. Поздняя традиция считает Гедимина основателем Вильны, которая впервые упоминается в его письмах 1323 года: не позднее 1323 года заложил деревянный замок при впадении Вильни в Вилию и перенёс свою резиденцию в Вильну, ставшую таким образом столицей Великого княжества Литовского. В письмах Папе Римскому Иоанну XXII, ганзейским городам, францисканцам и доминиканцам (1323—1324) заявлял о своём желании принять христианскую веру и приглашал в Литву рыцарей, ремесленников, купцов, земледельцев, священников. Гедимин вторым стал титуловать себя «королём литовцев и русских» (первым, признанным папой римским, был Миндовг, но его преемники называли себя великими князьями из-за тяготения к язычеству). Из семи сыновей Гедимина пятеро были христианами, все его дочери также были выданы замуж за христиан. Гедимин боролся против Московского княжества за влияние во Пскове и Новгороде. В этой борьбе он опирался на союз с Тверью, скреплённый браком дочери Гедимина Марии с князем Дмитрием Михайловичем Грозные Очи (1320). Гедимин тронулся в 1324 г. на Русь. Заняв Овруч и Житомир, он столкнулся с коалицией киевского, переяславского, черниговского и брянского князей под общим командованием Станислава Киевского. Коалиция была разгромлена, а Гедимин занял Киев. Убит при осаде крепости рыцарей-крестоносцев Байербург выстрелом из огнестрельного оружия. Снаряд из ручницы пробил князю грудную клетку, Гедимин рухнул на землю с коня и на месте умер.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GEDIMINAS_LIVED">
+			<Text>1275 - 1341</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GEDIMINAS_NAME">
+			<Text>Гедимин</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GEDIMINAS_SUBTITLE">
+			<Text>Bождь Литвы</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GEDIMINAS_TITLES_1">
+			<Text>Великий князь литовский</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_JFD_GEDIMINAS_TEXT">
+			<Text>O,  Гедиминас, Вы охранник старых способов, великий князь литовский. О, как мы поем псалмы наследием Твоим. Твое владычество в сердцах отцов литовскиx. Как опытный дипломат, защитив старых верований от католической церкви, и даже Вы убеждели Папу, что бы он простить народу Литвы предполагаемой ересью. Вы основатель великой династии для Литвы, которая расширила границы территории от Балтики до Черного моря, и которыя в один прекрасный день стала Речь Посполитая.[NEWLINE][NEWLINE]О, святой князь, жесткий кулак организованной веры лежит на народ твой, люди не забывая о старых богов, людей, которые выбрали вас, бы вы спасти их. Вы возьмете свой ​​меч и Вы будете править по назначению? Вы строить цивилизацию, которая выдержит испытание временем?</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Diplomacy
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_DEFEATED_1">
+			<Text>Пусть боги смутит вас! Ваша слепая вера будет твоя погибель.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_DEFEATED_2">
+			<Text>Ты пролил много крови моего народа, чтобы ты мог заполнить реки земли, которое ты украл. Эта кровь разрушит стены твоего дворца, и ты утонуть, когда ты будешь спать.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_FIRSTGREETING_1">
+			<Text>Oстановка! Ты пришел в землю литовского народа. Оставьте нас и не будет причиной, чтобы пролить вашу кровь.</Text>
+		</Row>
+    	<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Вы зашли слишком далеко в страну моего народа, так что ты и твои войска будут платить кровавую цену.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_FIRSTGREETING_2">
+			<Text>Я Гедиминас, правителем Литвы из волей Диевса, и ты идешь на почве моей империи. Сразу развернуться! Подумайте об этом в качестве единственного и последнего предупреждения.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_GREETING_HOSTILE_HELLO_1">
+			<Text>Кажется, что ты слеп к последствиям твоего вторжения.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_GREETING_NEUTRAL_HELLO_1">
+			<Text>Просто немного терпения у меня есть для тебя.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_GREETING_POLITE_HELLO_1">
+			<Text>Вы друг Литвы, так что я буду слушать, что вы должны сказать.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Твоя армия не готова сталкиваться с дикостью моих воинов.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_LUXURY_TRADE_1">
+			<Text>Дай сюда, понимаешь?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_OPEN_BORDERS_EXCHANGE_1">
+			<Text>И что?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_RESPONSE_REQUEST_1">
+			<Text>Хм...</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						The Old Gods
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_TRAIT_JFD_LITHUANIA_SHORT">
+			<Text>Старые боги</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_LITHUANIA">
+			<Text>Если хотя бы половина из городов исповедует ваш пантеон, другое религии не могут их преобразовать кроме [ICON_CAPITAL] столицы. Военные юниты сделаные в таких городах могут захватить вражеских юнитов в бою.</Text>
+		</Row>
+		<Update>
+			<Where Tag="TXT_KEY_EUPANEL_CAPTURE_CHANCE" />
+			<Set Text="[COLOR_CYAN]Возможность захвата: {1_Percent}%[ENDCOLOR]" />
+		</Update>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_LITHUANIA">
+			<Text>Язычник</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_LITHUANIA_HELP">
+			<Text>Mогут захватить вражеские юниты.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Samogitian Warrior
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_UNIT_JFD_SAMOGITIAN_WARRIOR">
+			<Text>Жямайтийскиe воины</Text> <Gender>masculine</Gender> <Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_SAMOGITIAN_WARRIOR_TEXT">
+			<Text>Жемайты (жямайты, жмудь, жамойты, жмудины; жем. Žemaitē, лит. Žemaičiai) — этническая группа в составе литовцев в Западной Литве, население исторической области Жемайтия. Сохраняется жемайтское наречие литовского языка (иногда рассматриваемое как отдельный язык, и на нем ведется своя Википедия[1]), на востоке Жемайтии говорят на западноаукштайтском диалекте. Однако большая часть жемайтов говорит на литературном литовском. Верующие — католики, на юго-западе есть также лютеране. Жемайты (жямайты, жмудь, жамойты, жмудины; жем. Žemaitē, лит. Žemaičiai) — этническая группа в составе литовцев в Западной Литве, население исторической области Жемайтия. Сохраняется жемайтское наречие литовского языка (иногда рассматриваемое как отдельный язык, и на нем ведется своя Википедия[1]), на востоке Жемайтии говорят на западноаукштайтском диалекте. Однако большая часть жемайтов говорит на литературном литовском. Верующие — католики, на юго-западе есть также лютеране.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_SAMOGITIAN_WARRIOR_HELP">
+			<Text>Двойное [ICON_MOVES] движение и +1 к радиусу обзора в лесу.[NEWLINE][NEWLINE]Если юнит будет удален в городе, город переходит к пантеоне (не работает в случае священного города).[NEWLINE][NEWLINE]Mожно тренировать только в городах, которые исповедует вашу веру пантеону. Mожно тренировать их, даже после открытия стали, но только в городах с вашим пантеоном</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_SAMOGITIAN_WARRIOR_STRATEGY">
+			<Text>Жямайтийскиe воины уникальный Литовский юнит. Они получают двойное [ICON_MOVES] движение и +1 к радиусу обзора  в лесу. [NEWLINE] [NEWLINE] Если юнит будет удален в городе, город переходит к пантеоне (не работает в случае священного города).  Они не требуют [ICON_RES_IRON] железо как мечники, которые заменяет, но с другой стороны они слабее. Они могут быть использованы, чтобы вернуть город к пантеону, в случае освобождения (если это не священный город). Даже после устаревания Жямайтийских воинов с открытием стали все еще доступны в городах, которые исповедуют ваш ​​пантеон. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_DOUBLE_MOVES">
+			<Text>Благословение Перкунаса</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_DOUBLE_MOVES_HELP">
+			<Text>Двойное [ICON_MOVES] движение в лесу.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_CONVERTS_TO_PAGANS">
+			<Text>Благородная жертва</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_CONVERTS_TO_PAGANS_HELP">
+			<Text>Используйте юнитa для восстановления пантеона. Сделав это, юнит исчезнет. Это не работает в священном городе.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SAMOGITIAN_WARRIOR_SACRIFICED">
+			<Text>Ваши воины принесены в жертву богам. Боги в обмен благословили город {1_CityName} своей мудростью!</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Mountain Monastery
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SACRED_GROVE">
+			<Text>Священная роща</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_SACRED_GROVE_TEXT">
+			<Text>Cвященная роща - священное место, посвященное богам, духам предков или силами природы. Священные рощи в религиях ариев, иранцы, греки, римляне, немцы, славяне, и кельты. Они оба были в древних религиях, а также других культур в мире. В некоторых культурах, священные рощи были посвящены богам (один из которых стали основой для создания таких книг Джеймса Фрэзера Золотой ветви), в других же были символично связь жизни с умерших предков, нарушение которых грозит серьезными, негативные последствия. Такие местa, сохранил свою религиозную функцию хорошо сегодня в некоторых религиозных течений.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SACRED_GROVE_STRATEGY"> 
+			<Text>Священная роща могут построить только литовцы. Она заменяет Святилище и в отличие от него доступна на начале игры. За каждые 10 точек [ICON_PEACE] веры из города, добавляет +1 [ICON_HAPPINESS_1] к Настроении и +1 [ICON_PEACE] веры из лесов. Этот эффект возникает только в городах вашего пантеона.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SACRED_GROVE_HELP">
+			<Text>+1 [ICON_HAPPINESS_1] к Настроении за каждые 10 точек [ICON_PEACE] веры из города и +1 [ICON_PEACE] веры из лесов. Нужен ваш пантеон</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SACRED_GROVE_FAITH">
+			<Text>JFD: CP вера</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SACRED_GROVE_FAITH_HELP">
+			<Text>+1 [ICON_PEACE] вера из лесов</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SACRED_GROVE_HAPPINESS">
+			<Text>JFD: CP Настроениe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SACRED_GROVE_HAPPINESS_HELP">
+			<Text>+1 [ICON_HAPPINESS_1] к Настроении за 10 точек [ICON_PEACE] веры</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Minor Civs
+		------------------------------------------------------------------>
+		<!-- Dorpat -->
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_DORPAT">
+			<Text>Тарту</Text> <Gender>neuter</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_DORPAT_DESC">
+			<Text>Тарту</Text> <Gender>neuter</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_DORPAT_SHORT_DESC">
+			<Text>Тарту</Text> <Gender>neuter</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_DORPAT_ADJECTIVE">
+			<Text>Тартcк.</Text> 
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_DORPAT_TEXT_1">
+			<Text>а́рту (эст. Tartu; в 1030—1224 и в 1893—1918 годах Ю́рьев; в 1224—1893 годах Дерпт нем. Dorpat, Dörpt) — город на реке Эмайыги (Омовжа; нем. Embach — Эмбах), второй по численности населения после Таллина город Эстонии, уездный центр.
+Тарту был известен как поселение эстов с V века н. э. под именем «Тарбату» (эст. tarvas — «тур, первобытный бык»). В XI веке дружина Ярослава Мудрого осуществила военный поход против эстов, присоединила часть их земель к Древнерусскому государству, и Ярослав Мудрый дал поселению имя «Юрьев». После распада Древнерусского государства город последовательно попадал под управление Новгородской республики, Ливонского ордена, Речи Посполитой, Шведской империи, Российской империи, СССР и Эстонии, чем обусловлено разнообразие вариантов названий города.</Text>
+		</Row>
+	</Language_RU_RU>		
+		<!----------------------------------------------------------------
+	
+	
+						Polski
+						
+					
+
+		------------------------------------------------------------------>
+		<Language_PL_PL>
+		<!----------------------------------------------------------------
+						Lithuania
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_CIV_JFD_LITHUANIA_ADJECTIVE">
+			<Text>Litewski|Litewska|Litewscy|Litewskie|litewski|litewska|litewscy|litewskie</Text>
+			<Gender>masculine|feminine|masculine|feminine|masculine|feminine|masculine|feminine</Gender>   		
+			<Plurality>1|1|2|2|1|1|2|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_LITHUANIA_DESC">
+			<Text>Imperium litewskie|Imperium litewskiego|Imperium litewskiemu|Imperium litewskie|Imperium litewskim|Imperium litewskim</Text> <Gender>neuter</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_LITHUANIA_SHORT_DESC">
+			<Text>Litwa|Litwy|Litwie|Litwę|Litwą|Litwie</Text> <Gender>feminine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_LITHUANIA_HEADING_1">
+			<Text>Historia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_LITHUANIA_TEXT_1">
+			<Text>Wielkie Księstwo Litewskie (WKL, lit. Lietuvos Didžioji Kunigaikštystė, żmudz. Lietovuos Dėdliuojė Konėgaikštīstė, biał. Вялікае Княства Літоўскае/Wialikaje Kniastwa Litoŭskaje, ukr. Велике Князівство Литовське/Wełyke Kniaziwstwo Łytowśke, ros. Великое Княжество Литовское/Wielikoje Kniażestwo Litowskoje, rus. Великое князство Литовское, Руское, Жомойтское и иных, łac. Magnus Ducatus Lituaniae) – państwo obejmujące ziemie (od morza do morza, od Bałtyku po Morze Czarne) dzisiejszej Litwy, Białorusi, północno-wschodniej Polski i większej części Ukrainy, zachodnich kresów Rosji od XIII w. do 1795.[NEWLINE]Po raz pierwszy nazwy Litwa użyto w stosunku do ziem zamieszkałych przez Bałtów i terenów dzisiejszej Litwy, także Bałtowie- przodkowie dzisiejszych Litwinów zapoczątkowali tworzenie Wielkiego Księstwa Litewskiego.[NEWLINE]
+Pierwszą stolicą Litwy był Kiernów (do 1230 r.), później Troki, a za rządów Giedymina stolica Litwy została przeniesiona do Wilna. Król Mendog natomiast rezydował w Nowogródku.
+WKL zamieszkiwały przede wszystkim narody słowiańskie (przodkowie dzisiejszych Białorusinów i Ukraińców), zaś plemiona bałtyckie (przodkowie dzisiejszych Litwinów) zasiedlały głównie tereny dzisiejszej Litwy. Językiem urzędowym był słowiański język ruski (w tym języku spisano m.in. Statuty Wielkiego Księstwa Litewskiego i prowadzono Metrykę Litewską) do 1699.[NEWLINE]Następnie na terenie WKL urzędowym był polski, posługiwano się również łaciną i litewskim. Na obszarze WKL zamieszkiwali też przedstawiciele innych narodów, np. w okolicy Trok do dziś mieszkają Karaimi, kultywujący swoją tradycyjną kulturę i język. W XIII w. król Mendog zjednoczył Litwę i utworzył małe, ale szybko rozwijające się państwo ze stolicą w Nowogródku.
+Litwa, konkurując z Wielkim Księstwem Moskiewskim, jednoczyła księstwa ruskie pod swoim zwierzchnictwem. W 1320 r. Giedymin zawarł sojusz z księciem twerskim. Wykorzystując osłabienie księstw ruskich swój protektorat Litwa narzuciła Smoleńskowi (przed 1326), Pskowowi (1322), księstwu Halicko-Wołyńskiemu (ok. 1320–1324) oraz Kijowowi (1325). Lokalni książęta (kniaziowie) zachowywali swoją władzę, ale podlegali wielkiemu księciu. W pewnym momencie granica WKL zbliżyła się do Moskwy na około 130 km. Litwini dwukrotnie oblegali Kreml moskiewski w 1368 i 1370.
+W połowie XIV wieku Księstwo składało się z Litwy etnicznej (Litwa właściwa, Litwa Zawilejska, Litwa Powilejska, Żmudź – razem około 80 000 km², czyli około 10% terytorium kraju) oraz z ziem ruskich (Księstwo Kijowskie, Księstwo Czernihowsko-Siewierskie, Księstwo Wołyńskie, Księstwo Podolskie – pozostałe 90% powierzchni kraju). Litwa etniczna liczyła około 300 000 mieszkańców, ziemie ruskie około 1 700 000 mieszkańców.
+Giedymin miał siedmiu synów. Dwaj z nich (Kiejstut i Olgierd) ostatecznie podporządkowali sobie braci i ustanowili wspólne rządy na Litwie. Kiejstut był ojcem Witolda, a Olgierd Jagiełły.[NEWLINE]
+W Polsce przyjął się nie do końca zgodny z rzeczywistością pogląd, iż w XIV w. Litwa była już jedynym niechrześcijańskim państwem w Europie. Fakt ten mieli wykorzystywać sąsiadujący z Wielkim Księstwem Krzyżacy jako pretekst do napaści na to państwo. Litwini wchodzili w konflikty także z Polską (Koroną), ale nie przybierały one tak dużych rozmiarów. Napaści Krzyżaków stały się na tyle uciążliwe, że władający Litwą Jagiełło postanowił przyjąć za pośrednictwem Polski chrzest. Królem w Polsce była wówczas niepełnoletnia Jadwiga Andegaweńska. Oba państwa miały wspólny interes – ich wrogiem był zakon krzyżacki. Na zjeździe w Krewie (niedaleko Wilna) podjęto decyzję o chrzcie Litwy i małżeństwie Jadwigi z Jagiełłą (na chrzcie przyjął imię – Władysław). Doszło do tego, że Jagiełło władał oboma państwami jako król Polski i wielki książę Litwy. Korona Polska i Wielkie Księstwo Litewskie zawarły unię personalną (unia w Krewie w 1385 r.). Państwa były połączone pod panowaniem jednego władcy, ale zachowały odrębność. Zastrzeżenie było takie, że państwa nie mogą znaleźć się pod panowaniem różnych władców.
+Powyższy, powszechnie przyjęty w Polsce, pogląd na chrystianizację Litwy jest nie do końca zgodny z rzeczywistością z uwagi na fakt, iż absolutna większość ziem wchodzących w skład Wielkiego Księstwa była ziemiami ruskimi, które zostały schrystianizowane w 988 r. w obrządku prawosławnym, wraz z przyjęciem chrztu przez Ruś Kijowską. Wielkie Księstwo Litewskie za panowania Jagiełły było państwem pogańskim jedynie na ziemiach rdzennie litewskich, które stanowiły około 10% powierzchni państwa. Sam Jagiełło został po urodzeniu ochrzczony, przez swoją matkę – ruską księżniczkę Juliannę, w Kościele prawosławnym. Jagiełło był już więc chrześcijaninem, gdy w wieku dorosłym ponownie przyjął chrzest w Kościele katolickim.[NEWLINE]
+W 1401 brat stryjeczny Jagiełły, Witold, podpisał akt unii wileńsko-radomskiej, uzyskując tym samym dla siebie tytuł wielkiego księcia Litwy. Jagiełło został jednak księciem zwierzchnim Wielkiego Księstwa Litewskiego i to on był wodzem naczelnym sił polsko-litewskich w bitwie pod Grunwaldem (1410 r.). Witold bezskutecznie próbował rozbić Złotą Ordę, ponosząc klęskę w bitwie nad Worsklą (12 lub 16 sierpnia 1399). Wielkie Księstwo Moskiewskie parło na zachód, podbijając w 1478 Nowogród Wielki), w 1485 Iwan III oderwał od Litwy tereny nad górną Oką i Wiaźmą (1494), w latach 1500-1503 Rosjanie opanowali ziemię czernihowsko-siewierską oraz Smoleńszczyznę ze Smoleńskiem (1514). W wielu wojnach (1512-1522; 1534-1537) Litwa odzyskała jedynie Homel i Starodub (wojny litewsko-rosyjskie).[NEWLINE]Od zawarcia unii lubelskiej każdy nowo koronowany król Polski automatycznie zostawał władcą Litwy i nigdy nie był podnoszony na Wielkie Księstwo Litewskie.
+Oba państwa utworzyły Rzeczpospolitą Obojga Narodów, ale wciąż zachowywały pewną odrębność. Dopiero na Sejmie Czteroletnim podjęto uchwałę o połączeniu Korony i Litwy (także wojsk i skarbów). Chciano w ten sposób zapobiec rozbiorom. Należy jednak pamiętać, że Konstytucja 3 maja świadomie pominęła sprawę wzajemnego stosunku Korony i Wielkiego Księstwa. Stanisław August Poniatowski dążył do unifikacji dualistycznej Rzeczypospolitej, lecz ze względu na przywiązanie szlachty litewsko-białoruskiej do odrębnych praw WKL, uznano, że najbardziej celowe będzie nie deklarować ujednolicenia w Konstytucji tylko w odrębnych ustawach. Tymczasem senatorowie a zwłaszcza posłowie litewscy z marszałkiem konfederacji litewskiej Kazimierzem Nestorem Sapiehą na czele, w zamian za wyrażoną zgodę na Konstytucję, uzyskali od monarchy zgodę na utrzymanie w ramach zreformowanego ustroju podmiotowości Wielkiego Księstwa. Jeszcze w maju 1791 utrzymano alternatę sejmów (co trzeci sejm w Grodnie) a przy okazji debaty sejmowej nad powołaniem Komisji Skarbowej uchwalono kompromisowe Zaręczenie Wzajemne Obojga Narodów. Na mocy Zaręczenia w powołanych wspólnych Komisjach Wojskowej i Skarbowej połowę członków stanowić mieli przedstawiciele WKL, a przewodnictwo miało kolejno należeć do przedstawicieli Korony i Litwy. Ponadto utrzymano osobne litewskie urzędy centralne. W Wielkim Księstwie miały istnieć osobna kasa skarbowa i osobny skarbowy trybunał litewski. Zaręczenie zacieśniało unię realną, ale utrzymało federacyjny charakter Rzeczypospolitej Obojga Narodów. [NEWLINE]W czasie III rozbioru ziemie litewskie weszły w skład Imperium Rosyjskiego. W 1812 WKL dzieliło się na cztery departamenty – białostocki, grodzieński, miński i wileński.[NEWLINE]
+Obecnie na terenie Wielkiego Księstwa Litewskiego funkcjonują samodzielne państwa – Litwa, Białoruś, częściowo Ukraina i Łotwa, skrawki należą do Polski i Rosji.
+Herb Wielkiego Księstwa Litewskiego, Pogoń, widnieje dzisiaj w symbolice Litwy, a do 1995 r. była również godłem Białorusi.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_LITHUANIA_HEADING_2">
+			<Text>Geografia i klimat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_LITHUANIA_TEXT_2">
+			<Text>Litwa jest krajem położonym pod względem geograficznym w Europie Środkowej (natomiast przez ONZ jest zaliczana do państw Europy Północnej), na południowo-wschodnim wybrzeżu Morza Bałtyckiego. Na terenie Litwy znajduje się geograficzny środek Europy, umiejscowiony 26 kilometrów na północ od Wilna. Ustalili to naukowcy z Francuskiego Instytutu Geograficznego w 1989 roku. Posiadaniem geograficznego środka Europy na własnym terenie chwalą się też inne państwa europejskie, m.in. Polska.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_LITHUANIA_FACTOID_HEADING">
+			<Text>Faktoidy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_LITHUANIA_FACTOID_TEXT">
+			<Text>Jeszcze w 15. wieku była Litwa największym państwem wyznającym pogaństwo. Z tego powodu jest znana tylko jako księstwo, a nikolwiek królestwo.</Text>
+		</Row>
+		<!-- City Names -->
+		<Update>
+			<Where Tag="TXT_KEY_CITY_NAME_KAUNAS" />
+			<Set Text="Gniezno" />
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CITY_NAME_KLAIPEDA" />
+			<Set Text="Sandomierz" />
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CITY_NAME_SIAULIAI" />
+			<Set Text="Tarnów" />
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CITY_NAME_SWEIDNITZ" />
+			<Set Text="Świdnica" />
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CITY_NAME_KIELC" />
+			<Set Text="Kielce" />
+		</Update>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_VILNIUS">
+			<Text>Wilno|Wilna|Wilnu|Wilno|Wilnem|Wilnie</Text> <Gender>neuter</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_KAUNAS">
+			<Text>Kowno|Kowna|Kownu|Kowno|Kownem|Kownie</Text> <Gender>neuter</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GARDINAS">
+			<Text>Grodno|Grodna|Grodnu|Grodno|Grodnem|Grodnie</Text> <Gender>neuter</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_TRAKAI">
+			<Text>Troki|Trok|Trokom|Troki|Trokach</Text> <Gender>feminine</Gender> <Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SIAULIAI">
+			<Text>Szawle|Szaweł|Szawlom|Szawle|Szawlami|Szawlach</Text> <Gender>feminine</Gender> <Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_KLAIPEDA">
+			<Text>Kłajpeda|Kłajpedy|Kłajpedzie|Kłajpedę|Kłajpedą|Kłajpedzie</Text> <Gender>feminine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_KERNAVE">
+			<Text>Kiernów|Kiernowa|Kiernowowu|Kiernów|Kiernowem|Kiernowie</Text> <Gender>masculine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PALANGA">
+			<Text>Połąga|Połągi|Połądze|Połągę|Połągą|Połądze</Text> <Gender>feminine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RASEINIAI">
+			<Text>Rosienie|Rosień|Rosieniom|Rosienie|Rosieniami|Rosieniach</Text> <Gender>feminine</Gender> <Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SVNCIONYS">
+			<Text>Święciany|Święcian|Święcianom|Święciany|Święcianami|Święcianach</Text> <Gender>feminine</Gender> <Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SEINAI">
+			<Text>Sejny|Sejn|Sejnom|Sejny|Sejnami|Sejnach</Text> <Gender>feminine</Gender> <Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LYDA">
+			<Text>Lida|Lidy|Lidzie|Lidę|Lidą|Lidzie</Text> <Gender>feminine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_VARNIAI">
+			<Text>Wornie|Worń|Worniom|Wornie|Worniami|Worniach</Text> <Gender>feminine</Gender> <Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_TELSIAI">
+			<Text>Telsze|Telsz|Telszom|Telsze|Telszami|Telszach</Text> <Gender>feminine</Gender> <Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_UPYTE">
+			<Text>Upita|Upity|Upicie|Upitę|Upitą|Upicie</Text> <Gender>feminine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANYKSCIAI">
+			<Text>Onikszty|Onikszt|Oniksztom|Onikszty|Oniksztami|Oniksztach</Text> <Gender>feminine</Gender> <Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RKISKIS">
+			<Text>Rakiszki|Rakiszk|Rakiszkom|Rakiszki|Rakiszkami|Rakiszkach</Text> <Gender>feminine</Gender> <Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NESVYZIUS">
+			<Text>Nieśwież|Nieświeża|Nieświeżu|Nieśwież|Nieświeżem|Nieświeżu</Text> <Gender>masculine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BIRZAI">
+			<Text>Birże|Birż|Birżom|Birże|Birżami|Birżach</Text> <Gender>feminine</Gender> <Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_KREVAS">
+			<Text>Krewo|Krewa|Krewu|Krewo|Krewem|Krewie</Text> <Gender>neuter</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PANEVEZYS">
+			<Text>Poniewież|Poniewieża|Poniewieżu|Poniewież|Poniewieżem|Poniewieżu</Text> <Gender>masculine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_UTENA">
+			<Text>Uciana|Uciany|Ucianie|Ucianę|Ucianą|Ucianie</Text> <Gender>feminine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SVIERIAI">
+			<Text>Świr|Świra|Świru|Świr|Świrem|Świrze</Text> <Gender>masculine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_JURBARKAS">
+			<Text>Jurbork|Jurborka|Jurborku|Jurbork|Jurborkiem|Jurborku</Text> <Gender>masculine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_UKMERGE">
+			<Text>Wiłkomierz|Wiłkomierza|Wiłkomierzu|Wiłkomierz|Wiłkomierzem|Wiłkomierzu</Text> <Gender>masculine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MERKINE">
+			<Text>Merecz|Merecza|Mereczu|Merecz|Mereczem|Mereczu</Text> <Gender>masculine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AKMENE">
+			<Text>Okmiany|Okmian|Okmianom|Okmiany|Okmianami|Okmianach</Text> <Gender>feminine</Gender> <Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SMURGAINYS">
+			<Text>Smorgonie|Smorgoń|Smorgoniom|Smorgonie|Smorgoniami|Smorgoniach</Text> <Gender>feminine</Gender> <Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZIETELA">
+			<Text>Zdzięcioł|Zdzięcioła|Zdzięciołu|Zdzięcioł|Zdzięciołem|Zdzięciole</Text> <Gender>masculine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_KEDAINAI">
+			<Text>Kiejdany|Kiejdan|Kiejdanom|Kiejdany|Kiejdanami|Kiejdanach</Text> <Gender>feminine</Gender> <Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_TAURAGE">
+			<Text>Taurogi|Tauróg|Taurogom|Taurogi|Taurogami|Taurogach</Text> <Gender>feminine</Gender> <Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ALYTUS">
+			<Text>Olita|Olity|Olicie|Olitę|Olitą|Olicie</Text> <Gender>feminine</Gender> <Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RADVILISKIS">
+			<Text>Radziwiliszki|Radziwiliszk|Radziwiliszkom|Radziwiliszki|Radziwiliszkami|Radziwiliszkach</Text> <Gender>feminine</Gender> <Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MAZEIKIAI">
+			<Text>Możejki|Możejk|Możejkom|Możejki|Możejkami|Możejkach</Text> <Gender>feminine</Gender> <Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_DRUSKININKAI">
+			<Text>Druskieniki|Druskienik|Druskienikom|Druskieniki|Druskienikami|Druskienikach</Text> 
+			<Gender>feminine</Gender> 
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PANEMUNE">
+			<Text>Poniemuń|Poniemunia|Poniemuniu|Poniemuń|Poniemuniem|Poniemuniu</Text> 
+			<Gender>masculine</Gender> 
+			<Plurality>1</Plurality>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_9">
+			<Text>Świdrygiełło</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_8">
+			<Text>Kiejstut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_7">
+			<Text>Olgierd</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_6">
+			<Text>Witold</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_5">
+			<Text>Trojden</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_4">
+			<Text>Butywid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_3">
+			<Text>Aldona</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_2">
+			<Text>Biruta</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_1">
+			<Text>Szwarno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_0">
+			<Text>Ruta</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!----------------------------------------------------------------
+						Gediminas
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS">
+			<Text>Giedymin|Giedymina|Giedyminowi|Giedymina|Giedyminem|Giedyminowi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GEDIMINAS_HEADING_1">
+			<Text>Historia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GEDIMINAS_TEXT_1">
+			<Text>Giedymin, także Gedymin, lit. Gediminas, biał. Гедымін (Giedymin) (ur. ok. 1275[1], zm. w grudniu 1341 pod Wieloną) – wielki książę litewski w latach 1316–1341, założyciel dynastii Giedyminowiczów, dziad Jagiełły.ochodzenie Giedymina budzi pewne wątpliwości w literaturze. Zazwyczaj uchodzi za syna Butywida (Pukuwera)[2]. Litewski historyk Edvardas Gudavičius zwraca uwagę na fakt, że pod koniec XIII wieku Litwą rządziły pary władców (np. Budikid i Budiwid); z tego powodu nie wyklucza się, że Giedymin mógł być bratankiem, a nie synem Pukuwera.
+Giedymin objął władzę po śmierci swego brata, Witenesa. Przez cały okres swego panowania zmagał się z naporem ze strony państwa krzyżackiego. Jednocześnie, wykorzystując kryzys Złotej Ordy, zdołał połączyć pod swym panowaniem bardzo duże obszary na południowy wschód od Litwy, powiększając tym samym dwukrotnie obszar swego państwa.
+Około 1318 (poprzez małżeństwo syna Olgierda) opanował Witebsk, w następnych latach także Pińsk, Wołyń, Podlasie (przez małżeństwo syna Lubarta) i w 1331 Kijów, którym zarządzał brat Giedymina, Fiodor[potrzebne źródło] (kwestią sporną pozostaje ewentualna zależność Fiodora od Złotej Ordy). Władztwo Giedymina ciągnęło się na wschód aż do ziemi smoleńskiej.
+Utrzymywał poprawne kontakty z Rygą (przede wszystkim handlowe), z Polską (jego córka, Aldona, poślubiła następcę polskiego tronu – Kazimierza, później zwanego Wielkim) i z papiestwem, któremu parokrotnie obiecywał przyjęcie chrztu. Podjął także uwieńczone powodzeniem zabiegi o utworzenie odrębnej, prawosławnej metropolii litewskiej.
+Giedymin często jest określany twórcą mocarstwowej potęgi Litwy. Jego podboje miały ogromny wpływ na historię ziem mało- i białoruskich, jak i na państwo litewskie, którego znaczna część elit uległa szybkiemu zruszczeniu.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GEDIMINAS_LIVED">
+			<Text>1275 - 1341</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GEDIMINAS_NAME">
+			<Text>Giedymin|Giedymina|Giedyminowi|Giedymina|Giedyminem|Giedyminowi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GEDIMINAS_SUBTITLE">
+			<Text>Władca Litwy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GEDIMINAS_TITLES_1">
+			<Text>Wielki książę litewski</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_JFD_GEDIMINAS_TEXT">
+			<Text>O, szlachetny Giedyminie, Panie starych sposobów, wielki książę litewski. Ach, jak my piejemy żałmy za twoim dziedzictwem. Twe panowanie wspominają serca litewskich przodków. Jako doświadczony dyplomata chroniłeś stare wierzenia przed niepoddajną siłą Kościła katolickiego, a nawet przekonałeś samego papieża, by wybaczył ludowi litewskiemu rzekomą herezję. Jeśteś założycielem wielkiej dynastii dla Litwy, która rozszerzyła granice terytorium od Bałtyka do Morza Czarnego i która pewnego dnia stała się Recząpospolitą Obojga Narodów.[NEWLINE][NEWLINE]O, święty książę, twarda pięść organizowanej wiary ciąży nad twym ludem, ludem nie zapominającym o starych bogach, ludem, który wybrał ciebie, byś go zbawił. Pojmiesz swój miecz i będziesz władał tak, jak ci przeznaczono? Zbudujesz cywilizację, która przetrwa próbę czasu?</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Diplomacy
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_DEFEATED_1">
+			<Text>Niechaj cię bogowie zatracą! Twoja ślepa wiara będzie twoją zagładą.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_DEFEATED_2">
+			<Text>Przelałeś wiele krwi mego ludu na to, byś mógł nią napełnić rzeki cieknące przez ziemie, któreś skradł. Krew ta zniszczy ściany twoich pałaców i ciebie utopi, kiedy będziesz spał.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_FIRSTGREETING_1">
+			<Text>Halt! Wkroczyłeś do ziem ludu litewskiego. Zostaw nas i nie będzie powodu, by przelać waszą krew.</Text>
+		</Row>
+    	<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Zaszedłeś za daleko do głębi ziem mego ludu, tak więc zapłacisz ty i twoje armie krwawą cenę.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_FIRSTGREETING_2">
+			<Text>Jam jest Giedymin, władca Litwy z woli Diewasa, a Ty kroczysz po glebie mojej rzeszy. Natychmiast zawróć. Traktuj to jako jedyne i ostatnie ostrzeżenie.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_GREETING_HOSTILE_HELLO_1">
+			<Text>Wygląda na to, że zapominasz na kosekwencje swego zjawienia się.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_GREETING_NEUTRAL_HELLO_1">
+			<Text>Tylko mało cierpliwości zostało mi prze ciebie.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_GREETING_POLITE_HELLO_1">
+			<Text>Jesteś przyjacielem Litwy, tak że wysłucham, co masz do powiedzenia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Twa armia nie jest gotowa stawić czoła dzikości mych wojaków.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_LUXURY_TRADE_1">
+			<Text>Dawaj to tu, zrozumiano?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_OPEN_BORDERS_EXCHANGE_1">
+			<Text>A więc?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_RESPONSE_REQUEST_1">
+			<Text>Pche...</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						The Old Gods
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_TRAIT_JFD_LITHUANIA_SHORT">
+			<Text>Starzy bogowie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_LITHUANIA">
+			<Text>Jeśli przynajmniej połowa miast wyznaje twój panteon, inne religie ich nie mogą nawrócić za wyjątkiem [ICON_CAPITAL] stolicy. Jednostki wojskowe wyćwiczone w takich miastach mogą zająć jednostki wroga w wygranej bitwie.</Text>
+		</Row>
+		<Update>
+			<Where Tag="TXT_KEY_EUPANEL_CAPTURE_CHANCE" />
+			<Set Text="[COLOR_CYAN]Szansa pojmania: {1_Percent}%[ENDCOLOR]" />
+		</Update>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_LITHUANIA">
+			<Text>Poganin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_LITHUANIA_HELP">
+			<Text>Mogą zająć jednostki wroga.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Samogitian Warrior
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_UNIT_JFD_SAMOGITIAN_WARRIOR">
+			<Text>Żmudzińscy wojownicy|Żmudzkich wojowników|Żmudzkim wojownikom|Żmudzkie wojowniki</Text> <Gender>masculine</Gender> <Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_SAMOGITIAN_WARRIOR_TEXT">
+			<Text>Plemiona żmudzkie do XII wieku były niezależne, rządzone przez książąt, choć przy wciąż dużym znaczeniu systemu rodowego. Od początku XIII wieku ziemie Żmudzinów w coraz większym stopniu najeżdżały wojska Zakonu kawalerów mieczowych, a od 1237 – Krzyżaków. Pomimo pewnych sukcesów Żmudzinów i innych sprzymierzonych plemion bałtyckich w walce z „krucjatami” (zwycięstwa pod Szawlami w 1236 i pod Durben w 1260) układ sił niekorzystny dla Żmudzinów wymusił na nich poddanie się około 1240 władzy formującego się pod berłem Mendoga państwa litewskiego.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_SAMOGITIAN_WARRIOR_HELP">
+			<Text>Podwójny [ICON_MOVES] ruch oraz +1 do widzenia w lasach.[NEWLINE][NEWLINE]Jeśli jednostka zostaje usunięta w mieście, miasto przechodzi na wyznanie panteonowe (nie działa w przypadku świętego miasta).[NEWLINE][NEWLINE]Może zostać wyćwiczona wyłącznie w miastach wyznających twoje wierzenie panteonowe. Może być wytrenowana w nich też nawet po odkryciu stali.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_SAMOGITIAN_WARRIOR_STRATEGY">
+			<Text>Żdmudzińscy wojownicy to unikalna litewska jednostka. Dostają oni podwójny [ICON_MOVES] ruch oraz +1 do widzenia w lasach.[NEWLINE][NEWLINE]Jeśli jednostka zostaje usunięta w mieście, miasto przechodzi na wyznanie panteonowe (nie działa w przypadku świętego miasta).[NEWLINE][NEWLINE]Może zostać wyćwiczona wyłącznie w miastach wyznających twoje wierzenie panteonowe. Może być wytrenowana w nich też nawet po odkryciu stali. W odróżnieniu do zbrojnego, którego zastępują, są nieco słabsi, ale za to nie trzeba żelaza do ich wyćwiczenia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_DOUBLE_MOVES">
+			<Text>Perkunasowo błogosławieństwo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_DOUBLE_MOVES_HELP">
+			<Text>Podwójny [ICON_MOVES] ruch w lasach.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_CONVERTS_TO_PAGANS">
+			<Text>Szlachetne poświęcenie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_CONVERTS_TO_PAGANS_HELP">
+			<Text>Wykorzystanie jednostki do przywrócenia panteonu. Jednostka zostanie skonsumowana. Nie działa w świętym mieście.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SAMOGITIAN_WARRIOR_SACRIFICED">
+			<Text>Twoi wojownicy się obiatowali dla bogów. Bogowie w zamian pobłogosławili {1_CityName:textkey} swą mądrością!</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Mountain Monastery
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SACRED_GROVE">
+			<Text>Święty gaj</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_SACRED_GROVE_TEXT">
+			<Text>Święty gaj – to święte miejsce poświęcone bóstwom, duchom przodków lub siłom natury. Święte gaje występują w pierwotnych religiach Ariów, Irańczyków, Greków, Rzymian, Germanów, Słowian, i Celtów. Istniały one zarówno w religiach starożytnych jak i w innych kulturach na świecie . W niektórych kulturach święte gaje poświęcone były bogom (jeden z nich stał się np. podstawą do powstania książki Jamesa Frazera Złota gałąź), w innych dodatkowo stanowiły symboliczną więź żywych ze zmarłymi przodkami, której naruszenie groziło poważnymi, negatywnymi konsekwencjami. Miejsca takie zachowały swoją funkcję religijną także współcześnie w wybranych nurtach religijnych.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SACRED_GROVE_STRATEGY"> 
+			<Text>Święty gaj mogą wybudować tylko Litwini. Zastępuje on Świątynie i w odróżnieniu do niej jest dostępny już od początku gry. Za każdych 10 punktów generowanej wiary [ICON_PEACE] przez miasto, dodaje +1 [ICON_HAPPINESS_1] do lokalnego zadowolenia oraz +1 [ICON_PEACE] wiaruy z lasów. Efekt ten występuje wyłącznie w miastach z twoim panteonowym wierzeniem.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SACRED_GROVE_HELP">
+			<Text>+1 [ICON_HAPPINESS_1] lokalnego zadowolenia za każdych 10 generowanych punktów [ICON_PEACE] wiary w tym mieście oraz +1 [ICON_PEACE] wiary z lasów. Miasto musi wyznawać twój panteon.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SACRED_GROVE_FAITH">
+			<Text>JFD: ŚG wiara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SACRED_GROVE_FAITH_HELP">
+			<Text>+1 [ICON_PEACE] wiara z lasów</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SACRED_GROVE_HAPPINESS">
+			<Text>JFD: ŚG zadowolenie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SACRED_GROVE_HAPPINESS_HELP">
+			<Text>+1 [ICON_HAPPINESS_1] lokalnego zadowolenia za 10 punktów [ICON_PEACE] wiary.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Minor Civs
+		------------------------------------------------------------------>
+		<!-- Dorpat -->
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_DORPAT">
+			<Text>Tartu</Text> 
+			<Gender>neuter</Gender> 
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_DORPAT_DESC">
+			<Text>Tartu</Text> 
+			<Gender>neuter</Gender> 
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_DORPAT_SHORT_DESC">
+			<Text>Tartu</Text> 
+			<Gender>neuter</Gender> 
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_DORPAT_ADJECTIVE">
+			<Text>Tarbacki|Tarbacka|Tarbaccy|Tarbackie|tarbacki|tarbacka|tarbaccy|tarbackie</Text> 
+			<Gender>masculine|feminine|masculine|feminine|masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2|1|1|2|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_DORPAT_TEXT_1">
+			<Text>Tartu (Dorpat; niem. i szw. Dorpat, d. ros. Дерпт) – drugie co do wielkości miasto Estonii, uznawane za intelektualną i kulturalną stolicę kraju. Słynie z uniwersytetu, założonego w 1632 przez króla Szwecji Gustawa II Adolfa. W 1828 powstała tu najstarsza polska korporacja akademicka Konwent Polonia. Przez miasto przepływa rzeka Emajõgi, łącząca dwa największe jeziora Estonii (Võrtsjärv i Pejpus). Transport lotniczy obsługuje Port lotniczy Tartu.</Text>
+		</Row>
+	</Language_PL_PL>
+		<!----------------------------------------------------------------
+			
+			
+			
+						Deutsch
+						
+						
+						
+						
+		------------------------------------------------------------------>
+	<Language_DE_DE>
+		<!----------------------------------------------------------------
+						Lithuania
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_CIV_JFD_LITHUANIA_ADJECTIVE">
+			<Text>litauisch|litauischen|litauische|litauischer|litauisches</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_LITHUANIA_DESC">
+			<Text>Großfürstentum Litauen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_LITHUANIA_SHORT_DESC">
+			<Text>Litauen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_LITHUANIA_HEADING_1">
+			<Text>Geschichte</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_LITHUANIA_TEXT_1">
+			<Text>Das Großfürstentum Litauen (lateinisch Magnus Ducatus Lituania(e), wörtlich: Großherzogtum Litauen) war ein im Mittelalter und der frühen Neuzeit bestehender Staat, der sich über das Territorium der heutigen Staaten Litauen und Weißrussland, teilweise auch Ukraine, Russische Föderation und Polen erstreckte. Auf dem Höhepunkt seiner Macht kurz vor 1400 reichte es bis zu den Steppengebieten am Schwarzen Meer. 1386 ging es eine Union mit dem Königreich Polen ein. Vor allem nach der Lubliner Union 1569, mit der ein gemeinsamer Staat Polen-Litauen gegründet wurde, ging es mehr und mehr in dem neuen, polnisch dominierten Gesamtstaat auf. Als politische Einheit verschwand es jedoch erst im Zuge der Teilungen Polen-Litauens.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_LITHUANIA_HEADING_2">
+			<Text>Geographie und Klima</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_LITHUANIA_TEXT_2">
+			<Text>Litauen liegt in Nordeuropa . Seine Fläche beträgt 65.200 km ², verfügt über 99 km Sandstrände, von denen nur 38 km offene Grenzen mit der Ostsee, dem niedrigsten der baltischen Staaten. Der Haupt Hot-litauischen Hafen Klaipeda wird großen Warmwasser-Anschluss Litauens, Klaipėda liegen, liegt an der engen Mündung des Kurisches Haff, eine flache Lagune, die sich in Richtung Süden nach Kaliningrad. Die Haupt-und die meisten werden sagen, dass es nicht geändert wird, von dem einige Nebenflüsse bieten internationalen Versand.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_LITHUANIA_FACTOID_HEADING">
+			<Text>Faktoiden</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_LITHUANIA_FACTOID_TEXT">
+			<Text>Auch im 15. Jahrhundert war Litauen das größte Land bekennende Heidentum. Aus diesem Grund ist der bekannte "nur" als ein Fürstentum und nicht ein Königreich.</Text>
+		</Row>
+		<!-- City Names -->
+		<Update>
+			<Where Tag="TXT_KEY_CITY_NAME_KAUNAS" />
+			<Set Text="Gnesen" />
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CITY_NAME_KLAIPEDA" />
+			<Set Text="Sandomir" />
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CITY_NAME_SIAULIAI" />
+			<Set Text="Tarnau" />
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CITY_NAME_SWEIDNITZ" />
+			<Set Text="Swidnitz" />
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CITY_NAME_KIELC" />
+			<Set Text="Kielce" />
+		</Update>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_VILNIUS">
+			<Text>Wilna</Text> 
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_KAUNAS">
+			<Text>Kauen</Text> 
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GARDINAS">
+			<Text>Hrodna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_TRAKAI">
+			<Text>Traken</Text> 
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SIAULIAI">
+			<Text>Schaulen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_KLAIPEDA">
+			<Text>Memel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_KERNAVE">
+			<Text>Kernau</Text> 
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PALANGA">
+			<Text>Polangen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RASEINIAI">
+			<Text>Raseinen</Text> 
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SVNCIONYS">
+			<Text>Schwentschionen</Text> 
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SEINAI">
+			<Text>Sejny</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LYDA">
+			<Text>Lida</Text> 
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_VARNIAI">
+			<Text>Medeniken</Text> 
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_TELSIAI">
+			<Text>Telschen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_UPYTE">
+			<Text>Upyte</Text> 
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ANYKSCIAI">
+			<Text>Onikschten</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RKISKIS">
+			<Text>Rokischken</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_NESVYZIUS">
+			<Text>Njaswisch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_BIRZAI">
+			<Text>Birsen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_KREVAS">
+			<Text>Krewa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PANEVEZYS">
+			<Text>Ponewiesch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_UTENA">
+			<Text>Utenen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SVIERIAI">
+			<Text>Swir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_JURBARKAS">
+			<Text>Georgenburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_UKMERGE">
+			<Text>Wilkomir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MERKINE">
+			<Text>Meretsch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_AKMENE">
+			<Text>Akmene</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_SMURGAINYS">
+			<Text>Smarhon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ZIETELA">
+			<Text>Dsjatlawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_KEDAINAI">
+			<Text>Kedahnen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_TAURAGE">
+			<Text>Tauroggen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ALYTUS">
+			<Text>Alitten</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_RADVILISKIS">
+			<Text>Radwilischken</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MAZEIKIAI">
+			<Text>Moscheiken</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_DRUSKININKAI">
+			<Text>Druscheniken</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_PANEMUNE">
+			<Text>Panemune</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_9">
+			<Text>Svidrigaila</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_8">
+			<Text>Kestutis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_7">
+			<Text>Algirdas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_6">
+			<Text>Vytautas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_5">
+			<Text>Traidenis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_4">
+			<Text>Butvydas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_3">
+			<Text>Aldona</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_2">
+			<Text>Birute</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_1">
+			<Text>Shvarn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LITHUANIA_0">
+			<Text>Ruta</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!----------------------------------------------------------------
+						Gediminas
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS">
+			<Text>Gedimin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GEDIMINAS_HEADING_1">
+			<Text>Geschichte</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GEDIMINAS_TEXT_1">
+			<Text>Gediminas (auch Gedimin; * um 1275; † Dezember 1341) war ab 1316 Großfürst von Litauen. Neben Mindaugas und Vytautas zählt er zu den großen Herrschern in der litauischen Geschichte. Litauen stieg unter ihm endgültig zur osteuropäischen Großmacht auf und Gediminas betrachtete sich als König der Litauer und Ruthenen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GEDIMINAS_LIVED">
+			<Text>1275 - 1341</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GEDIMINAS_NAME">
+			<Text>Gedimin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GEDIMINAS_SUBTITLE">
+			<Text>Herrscher von Litauen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_GEDIMINAS_TITLES_1">
+			<Text>Der Großherzog von Litauen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_JFD_GEDIMINAS_TEXT">
+			<Text>Oh, edel Gedimin, der Herr der alten Weisen, Großfürst von Litauen, wie wir singen ein Loblied über Ihr Erbe! IIhre Herrschaft ist in den Herzen der litauischen Vorfahren erinnert. Ein erfahrener Diplomat, den Schutz der alten Glauben Ihres Volkes gegen die unnachgiebigen Kraft der katholischen Kirche verfochten Sie, und Sie sogar davon überzeugt den Heiligen Papst, um die angebliche Häresien Ihres Menschen verzeihen. Sie gründete eine Adelsgeschlecht für Litauen, das die Grenzen aus dem Baltikum im Norden bis zum Schwarzen Meer im Süden erweitert und die eines Tages wurde ein Teil des großen Polen-Litauen.[NEWLINE][NEWLINE] O, heiligen Prince, die drückende Faust der organisierten Religion lastet schwer auf Ihre Leute, die Leute vergessen nicht ihre alten Götter, und die Leute haben Sie gewählt, um Litauen führen einmal mehr in die Freiheit. Könnt Ihr den Willen der Götter zu Ihrem Land und zu den irreverents von dieser Welt zu liefern? Könnt Ihr nehmen Schwert und Glauben in der Hand und schwingen diese mächtigen Kronen ist Ihr Schicksal? Könnt Ihr eine Zivilisation errichten, die die Zeit überdauern wird?</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Diplomacy
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_DEFEATED_1">
+			<Text>Götter verdammt! Ihr blinder Glaube wird Ihre Verhängnis.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_DEFEATED_2">
+			<Text>Sie haben genug von dem Blut meines Volkes, die Flüsse, die durch das, was ist jetzt Ihre gestohlenen Reich laufen füllen verschüttet. Dieses Blut wird die Wände Ihres Paläste erodieren und werden Sie in Ihrem Schlaf ertrinken.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_FIRSTGREETING_1">
+			<Text>Halt! Sie geben die Länder des litauischen Volkes. Wir wollen nicht, dass Ihr Unternehmen. Lassen Sie uns, und wir werden keine Verwendung für verschütten Blut haben.</Text>
+		</Row>
+    	<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Sie haben tief in den Ländern der mein Volk kommen, und Sie werden den Preis mit dem Blut eurer Armeen zu bezahlen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_FIRSTGREETING_2">
+			<Text>Ich bin Gedimin, Lord Litauen, vertreten durch den Firmenwert der Dievas und Sie sich in meinem Reich. Schalten Sie jetzt zurück, dies gilt meine einzige Warnung sein.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_GREETING_HOSTILE_HELLO_1">
+			<Text>Sie scheinen blind für die Konsequenzen Ihrer Eindringen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_GREETING_NEUTRAL_HELLO_1">
+			<Text>Ich habe wenig Geduld für Sie hinter.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_GREETING_POLITE_HELLO_1">
+			<Text>Sie sind ein Freund nach Litauen, also werde ich hören, was Sie zu sagen haben.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Deine Armeen sind nicht bereit, die Wildheit meiner Soldaten zu stellen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_LUXURY_TRADE_1">
+			<Text>Gib das hier, ja?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_OPEN_BORDERS_EXCHANGE_1">
+			<Text>Nun?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_GEDIMINAS_RESPONSE_REQUEST_1">
+			<Text>Hmpf...</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						The Old Gods
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_TRAIT_JFD_LITHUANIA_SHORT">
+			<Text>Die Alten Götter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_LITHUANIA">
+			<Text>Wenn die Hälfte deiner Städte gesteht Pantheon, andere Religionen kann nicht konvertieren (außer deiner [ICON_CAPITAL] Hauptstadt). Einheiten von dieser Städte können feindlichen Einheiten auffangen.</Text>
+		</Row>
+		<Update>
+			<Where Tag="TXT_KEY_EUPANEL_CAPTURE_CHANCE" />
+			<Set Text="[COLOR_CYAN]Chancen der Gefangenschaft: {1_Percent}%[ENDCOLOR]" />
+		</Update>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_LITHUANIA">
+			<Text>Pagan Krieger</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_LITHUANIA_HELP">
+			<Text>Kann besiegten Feinde zu erfassen.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Samogitian Warrior
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_UNIT_JFD_SAMOGITIAN_WARRIOR">
+			<Text>Schemaitisch Krieger</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_SAMOGITIAN_WARRIOR_TEXT">
+			<Text>Schamaiten lebte in West-Litauen und waren eng mit Semgallen und Kuren zusammen. Im Jahre 1413 wurde sie die letzte Gruppe der Europäer, zum Christentum zu konvertieren. Im Jahr 1857 gab es 418.824 Menschen Schemaitisch Wurzeln und 444.921 Personen, erklärte der Schemaitisch Dialekt als Muttersprache im Jahr 1897 in Kowno Gouvernement. Derzeit Litauen nicht für die Erklärung der Schemaitisch Staatsangehörigkeit in Reisepässen zu ermöglichen, wie es ist nicht eine ethnische Zugehörigkeit. In Liste der ethnischen Gruppen in Russland gibt es eine Person, die sich mit "Zhemaijty" erklärt.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_SAMOGITIAN_WARRIOR_HELP">
+			<Text>Doppel [ICON_MOVES] Bewegung und +1 Sicht in Forest Fliesen. [NEWLINE] [NEWLINE] auflösen Wenn dieses Gerät in einer Stadt, die Stadt, die ganz auf Ihre Pantheon Glauben konvertieren (es sei denn, Diese Stadt ist eine Heilige Stadt) stationiert. [NEWLINE] [NEWLINE] auch in den Städten Pantheon nach Ihren Glauben auch nach es normalerweise veraltet geschult werden.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_SAMOGITIAN_WARRIOR_STRATEGY">
+			<Text>Die Schemaitisch Krieger ist die einzigartige litauischen Einheit. Es gewinnt Doppel [ICON_MOVES] Bewegung und +1 Sicht, wenn im Wald Fliesen und [ICON_RES_IRON] Eisen, anders als der Schwertkämpfer, das es ersetzt nicht erforderlich, aber es ist etwas schwächer. Es kann verwendet werden, um eine Stadt ganz nach Ihren Pantheon Glauben zu konvertieren, wenn aufgelöst Während in einer Stadt besetzt (es sei denn, Diese Stadt ist eine Heilige Stadt) werden. Auch nach der Schemaitisch Krieger obsoletes mit der Entdeckung von Stahl, es kann immer noch in den Städten Pantheon Nach Ihren Glauben geschult werden.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_DOUBLE_MOVES">
+			<Text>Segen von Perkunas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_DOUBLE_MOVES_HELP">
+			<Text>Doppel [ICON_MOVES] Bewegung im Wald.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_CONVERTS_TO_PAGANS">
+			<Text>Edle Opferung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_CONVERTS_TO_PAGANS_HELP">
+			<Text>Auflösen, wenn das Gerät in einer Stadt stationiert, diese Stadt ganz nach Ihren Pantheon Glauben zu konvertieren. Dies kann nicht auf einer heiligen Stadt verwendet werden.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SAMOGITIAN_WARRIOR_SACRIFICED">
+			<Text>Deine Krieger hat zu den Göttern geopfert worden! TDeine Krieger hat zu den Göttern geopfert worden! Die Stadt {1_CityName:textkey} wurde mit der Weisheit von Göttern gesegnet!</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Sacred Grove
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SACRED_GROVE">
+			<Text>Heiligen Hain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_SACRED_GROVE_TEXT">
+			<Text>Im Altertum kannten die mesopotamischen Kulturen sowie Griechen, Germanen, Juden, Kelten, Römer und Slawen geweihte Bäume oder Haine.
+In der Germanischen Mythologie kannte man die Irminsul und die Weltenesche Yggdrasil. Bei den Germanen waren die Esche Odin und die Eiche Donar geweiht, wie die berühmte Donareiche bei Fritzlar. Der Brauch des Maibaums soll schon den Kelten bekannt gewesen sein, doch auch die Griechen weihten Bäume Maia, der Göttin der Fruchtbarkeit. Ähnliche Bedeutungen haben der Richtbaum und der Weihnachtsbaum.
+Griechen und Römer kannten die Vorstellung, dass Bäume von Nymphen, den Dryaden bewohnt wurden, wie zum Beispiel ein Lorbeerbaum von Daphne, eine Linde von Philyra, eine Silber-Pappel von Dryope und ein Nussbaum von Karya. Der Eichenhain von Dodona war ein Heiligtum. Auf Zypern heilt der Brunnen und der mit Tüchern behängte Feigenbaum vor den Agia Solomoni-Katakomben Augenleiden.
+In Kolchis sahen Jason und seine Begleiter laut der griechischen Argonautensage eine Vielzahl von an Äste von Weiden gekettete Leichen. Tote Männer sofort zu begraben, war für die Kolcher eine Unsitte. Die Verstorbenen wurden in Stierfelle gewickelt und außerhalb der Dörfer oder Städte an Bäumen aufgehängt. Nach dem Glauben der Kolcher sollte zuerst die Erde ihren Teil an den Toten nehmen, bevor die Reste vergraben wurden. Der georgische Geograf Vakhoucht bestätigte im 18. Jahrhundert diesen Teil der Sage.
+In Abchasien ist der Glaube an die Waldgöttin Mezıtha, die Verehrung alter Bäume, insbesondere von Eichen, seit der Antike schriftlich belegt und trotz Christianisierung im 6. Jahrhundert erhalten geblieben. Unweit jedes Dorfes gab es eine besondere Eiche, unter der Versammlungen abgehalten wurden. Vor Kriegen besuchte die Bevölkerung zuerst diesen Baum, band farbige Stoffstreifen an die Äste und an ihre Waffen und berührte mit den Breitseiten ihrer Schwerter den Baumstamm, während sie die Eiche um Hilfe bat.
+Im Kaukasus und im Nordosten der Türkei kennt man betende Bäume.
+Unter dem Bodhibaum erlangte Buddha die Erleuchtung. Abrahams Lagerplätze werden von Bäumen markiert. An der „Eiche More“ bei Sichem hatte er eine Erscheinung. Bei den „Eichen von Mamre“, bei Hebron wird ihm die Geburt Isaaks angekündigt. Er pflanzte eine „Tamariske zu Beerscheba“ und rief dort den Herrn an. Diese Baumverehrung prangern die Propheten Hesekiel und Hosea an.
+Noch heute gelten in einigen Gegenden Asiens, etwa in Bali, gewisse Bäume als heilig und werden mit Votivbändern geschmückt.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SACRED_GROVE_STRATEGY"> 
+			<Text>Der Heilige Hain ist die einzigartige litauischen Ersatz für den Schrein. Anders als der Schrein, kann der Heilige Hain sofort gebaut werden. Es wandelt auch alle 10 Punkte des [ICON_PEACE] Glaube von der Stadt in ein [ICON_HAPPINESS_1] Lokal Zufriedenheit und Renditen ein [ICON_PEACE] Glaube auf Wald Fliesen. Allerdings sind die Effekte nur auf folgende Städte nur Ihre Pantheon Glauben gelten.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SACRED_GROVE_HELP">
+			<Text>+1 [ICON_HAPPINESS_1] Lokal Zufriedenheit für alle 10 [ICON_PEACE] Glauben von der Stadt und ein [ICON_PEACE] Glaube auf Wald Fliesen, erzeugt, wenn die Stadt nach nur Ihr Pantheon Glaubens.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SACRED_GROVE_FAITH">
+			<Text>JFD: HH Glauben</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SACRED_GROVE_FAITH_HELP">
+			<Text>+1 [ICON_PEACE] Glaube auf Wald Fliesen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SACRED_GROVE_HAPPINESS">
+			<Text>JFD: HH Zufriedenheit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SACRED_GROVE_HAPPINESS_HELP">
+			<Text>+1 [ICON_HAPPINESS_1] Lokal Zufriedenheit pro 10 [ICON_PEACE] Glauben.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Minor Civs
+		------------------------------------------------------------------>
+		<!-- Dorpat -->
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_DORPAT">
+			<Text>Dorpat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_DORPAT_DESC">
+			<Text>Dorpat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_DORPAT_SHORT_DESC">
+			<Text>Dorpat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_DORPAT_ADJECTIVE">
+			<Text>Dorpat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_DORPAT_TEXT_1">
+			<Text>Tartu (deutsch und schwedisch: Dorpat, früher deutsch auch Dörpt; russisch Дерпт/Derpt, 11.–17. Jahrhundert, 1893–1918 Юрьев/Jurjew) ist Estlands zweitgrößte Stadt und Sitz der Universität Tartu. Sie liegt im Kreis Tartu.</Text>
+		</Row>
+	</Language_DE_DE>
+
+</GameData>

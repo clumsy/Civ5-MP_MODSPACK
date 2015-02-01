@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/4/2014 8:45:16 AM -->
+<GameData>
+	<Language_en_US>
+		<!----------------------------------------------------------------
+						Leninist Russia
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_CIV_JFD_USSR_LENIN_ADJECTIVE">
+			<Text>Leninist</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_USSR_LENIN_DESC">
+			<Text>Soviet Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_USSR_LENIN_SHORT_DESC">
+			<Text>The Soviet Union</Text>
+		</Row>
+		<!-- City Names -->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LENIN_PETROGRAD">
+			<Text>Petrograd</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LENIN_KHARKOV">
+			<Text>Kharkov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LENIN_MINSK">
+			<Text>Minsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LENIN_KIEV">
+			<Text>Kiev</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LENIN_SIMBIRSK">
+			<Text>Simbirsk</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LENIN_SIMFEROPOL">
+			<Text>Simferopol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LENIN_ODESSA">
+			<Text>Odessa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LENIN_BAKU">
+			<Text>Baku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LENIN_OMSK">
+			<Text>Omsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LENIN_UFA">
+			<Text>Ufa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LENIN_YEKATERINBURG">
+			<Text>Yekaterinburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LENIN_TROTSK">
+			<Text>Trotsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LENIN_KALUGA">
+			<Text>Kaluga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LENIN_SMOLENSK">
+			<Text>Smolensk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LENIN_ORENBURG">
+			<Text>Orenburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LENIN_ROSTOV_ON_DON">
+			<Text>Rostov-on-Don</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LENIN_KRASNODAR">
+			<Text>Krasnodar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LENIN_VLADIVOSTOK">
+			<Text>Vladivostok</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LENIN_NOVOSIBIRSK">
+			<Text>Novosibirsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LENIN_KRASNOYARSK">
+			<Text>Krasnoyarsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LENIN_CHELYABINSK">
+			<Text>Chelyabinsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LENIN_YEREVAN">
+			<Text>Yerevan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LENIN_SAMARA">
+			<Text>Samara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LENIN_TSARITSYN">
+			<Text>Tsaritsyn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LENIN_YUZOVKA">
+			<Text>Yuzovka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LENIN_IVANOVO">
+			<Text>Ivanovo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LENIN_ALMA_ATA">
+			<Text>Alma-Ata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LENIN_FRUNZE">
+			<Text>Frunze</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LENIN_KHABAROVSK">
+			<Text>Khabarovsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LENIN_AKMOLINSK">
+			<Text>Akmolinsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LENIN_SEMIPALATINSK">
+			<Text>Semipalatinsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LENIN_ASHGABAT">
+			<Text>Ashgabat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LENIN_DUSHANBE">
+			<Text>Dushanbe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LENIN_NIKOLAYEVSK_ON_AMUR">
+			<Text>Nikolayevsk-on-Amur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LENIN_ELEKTROSTAL">
+			<Text>Elektrostal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LENIN_DETSKOE_SELO">
+			<Text>Detskoe Selo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LENIN_LENINO">
+			<Text>Lenino</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LENIN_LENINABAD">
+			<Text>Leninabad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_LENIN_ARZAMAS-16">
+			<Text>Arzamas-16</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LENIN_SOVIET_9">
+			<Text>Pantiuşa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LENIN_SOVIET_8">
+			<Text>Ursula</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LENIN_SOVIET_7">
+			<Text>Mikhail</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LENIN_SOVIET_6">
+			<Text>Ain-Ervin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LENIN_SOVIET_5">
+			<Text>Susemihl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LENIN_SOVIET_4">
+			<Text>Valery</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LENIN_SOVIET_3">
+			<Text>Konon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LENIN_SOVIET_2">
+			<Text>Reino</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LENIN_SOVIET_1">
+			<Text>Yuri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LENIN_SOVIET_0">
+			<Text>Moura</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!----------------------------------------------------------------
+						Lenin
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN">
+			<Text>Lenin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LENIN_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LENIN_TEXT_1">
+			<Text>Vladimir Ilyich Lenin was a Russian communist revolutionary, politician and political theorist. He served as the leader of the Russian Soviet Federative Socialist Republic from 1917, and then concurrently as Premier of the Soviet Union from 1922, until his death. Under his administration, the Russian Empire was dissolved and replaced by the Soviet Union, a one-party socialist state; industry and businesses were nationalized, and one party took control of all organizations in all areas of society. The Red Army under his ally Trotsky took control of some areas, such as Ukraine, Armenia, Georgia and Azerbaijan that had set up independent states. Politically a Marxist, his theoretical contributions to Marxist thought are known as Leninism, which coupled with Marxian economic theory have collectively come to be known as Marxism–Leninism.[NEWLINE][NEWLINE]Born to a wealthy middle-class family in Simbirsk, Lenin gained an interest in revolutionary leftist politics following the execution of his brother Aleksandr in 1887. Expelled from Kazan State University for participating in anti-Tsarist protests, he devoted the following years to a law degree and to radical politics, becoming a Marxist. In 1893 he moved to St Petersburg, and became a senior figure in the Russian Social Democratic Labour Party (RSDLP). Arrested for sedition and exiled to Siberia for three years, he married Nadezhda Krupskaya, and fled to Western Europe, living in Germany, France, England, and Switzerland, where he became known as a prominent party theorist. In 1903, he took a key role in the RSDLP schism, leading the Bolshevik faction against Julius Martov's Mensheviks. Briefly returning to Russia during the Revolution of 1905, he encouraged violent insurrection and later campaigned for the First World War to be transformed into a Europe-wide proletariat revolution. After the 1917 February Revolution ousted the Tsar he returned to Russia.[NEWLINE][NEWLINE]Lenin played a senior role in orchestrating the October Revolution in 1917, which led to the overthrow of the Provisional Government and the establishment of the Russian Socialist Federative Soviet Republic, the world's first constitutionally socialist state. Immediately afterwards, the new government under Lenin's leadership proceeded to implement socialist reforms, including the transfer of estates and crown lands to workers' soviets. He supported world revolution and immediate peace with the Central Powers, agreeing to a punitive treaty that turned over a significant portion of the former Russian Empire to Germany. The treaty was voided after the Allies won the war. In 1921 Lenin proposed the New Economic Policy, a system of state capitalism that started the process of industrialisation and recovery from the Civil War. In 1922, the Russian SFSR joined former territories of the Russian Empire in becoming the Soviet Union, with Lenin elected as its leader.[NEWLINE][NEWLINE]After his death, Marxism–Leninism developed into a variety of schools of thought, namely Stalinism, Trotskyism and Maoism. Lenin remains a controversial and highly divisive world figure. Detractors label him a dictator whose administration oversaw multiple human rights abuses, while supporters reject this criticism and promote him as a champion of the working class. Lenin had a significant influence on the international Communist movement and was one of the most influential and controversial figures of the 20th century.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LENIN_LIVED">
+			<Text>1870 - 1924</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LENIN_NAME">
+			<Text>Lenin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LENIN_SUBTITLE">
+			<Text>Leader of the USSR</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LENIN_TITLES_1">
+			<Text>Leader of the Russian SFSR</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_LENIN_USSR_DAWN">
+			<Text>In your name, the proletariat rises, O Vladimir Lenin, leader of this glorious revolution! Though born into wealth, you would turn to the cause of the working class; upon whose backs rested the gilded sandals of the corpulent bourgeoisie, and you would take your place as leader of the Bolshevik Party in the pledge to forge a nation dictated by men of the soil. A storm was brewing in the bowels of mighty Russia and the days of the Tsars were drawing to a close. The Motherland sought a leader - not a ruler - to unbind her from the shackles of the capitalist tyranny, and to guide her toward a future of prosperity and security for all deserving men. With the Russian Revolution in 1917, Nicholas II was overthrown and the monarchy that had plagued Russia for centuries was finally unbound. With you at the helm of a new, socialist Republic, Russia would begin its journey into modernity, and the people would finally be united as the magnificent force that they were.[NEWLINE][NEWLINE]Dauntless revolutionary, once again the fires of change must be ignited by your champion. The will of the proletariat lies broken beneath the crowns of autocrats, and it demands your strength to inspire their fists to rise above their hearts. Can you unite the people once more against the tyrants of this world? Can you bring forth the ferocious will of your brothers in arms against their slavery? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Diplomacy
+		------------------------------------------------------------------>
+		<!--First Greeting messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_FIRSTGREETING_1">
+			<Text>I am Vladimir Lenin and I lead a nation of working men. You will find no welcome for tyrants and merchant-lords here. All men willing to be equal, are equal in this land.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_FIRSTGREETING_2">
+			<Text>I am Vladimir Lenin and I lead a nation of working men. The fires of my passion still this winter. Though it is chilly; I should've brought a coat...</Text>
+		</Row>
+		<!--Defeated messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_DEFEATED_1">
+			<Text>Take little solace in this victory, for know that I have already salted the hearts of your men, and before long they will be burning your golden portraits.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_DEFEATED_2">
+			<Text>No, this is no defeat; this is but a pillar upon which the hearts of working men will gaze and be inspired; to rise up against you and topple your corrupt tyranny.</Text>
+		</Row>
+		<!-- Human repeats an action too much, gets the following responses -->
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_REPEAT_TOO_MUCH_1">
+			<Text>You're getting on my nerves. Go bother somebody else.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_REPEAT_TRADE_TOO_MUCH_1">
+			<Text>I already told you to only bother offering a fair deal; do you not know what I'm all about?</Text>
+		</Row>
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_GREETING_HOSTILE_HELLO_1">
+			<Text>I have little patience for the likes of you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_GREETING_POLITE_HELLO_1">
+			<Text>We are brothers in this world; I have some time for you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>Your war is of no concern to me. But I hope it is going badly.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_GREETING_HUMAN_AT_WAR_1">
+			<Text>Your war is of no concern to me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Men of arms are but amongst the indentured servants that will rise against you when they look upon my eyes and see the enemy reflected.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_LENIN_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>The land is not yours to own; just as you believe it is not the noblemans to sow.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>Capitalism is the tool of vermin. Cease your aristocracy, for it sows in the hearts of your men hatred.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>The spread of your cities and people is like a plague infecting the land. I look forward to the day I don't have to see it any more.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>While I have this opportunity, I should mention that your expansion has worried several of my officials. I hope that this does not cause any problems in the future. What would you like to discuss?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>Your military is lauded for its size. The enemies of our revolution would do best to fear it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>I have heard of your strong economy; forged from the principles of socialism, I expect.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_GREETING_HOSTILE_HUMAN_FEW_CITIES_1">
+			<Text>The puny one makes an appearance. We were just talking about you. Only bad things, I assure you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>The size of your military is laughable. How do you expect to foster the fires of this revolution with such a small army?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>You are a capitalist of violence. I have little patience for you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_TOO_SOON_FOR_DOF_1">
+			<Text>I do not believe a declaration of friendship is in the best interests of the revolution right now.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_DENOUNCE_1">
+			<Text>You are a capitalist of tyranny. The men of this world will know that they need not tolerate your oppression any longer.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_DENOUNCE_2">
+			<Text>I call now upon the men of the soil to rise up against you, for the crown upon your head reflects their wretched oppression.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>You are just another damned fool desperate to cling onto a power that you know belongs to the men of the soil.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>You have made an idiotic mistake. To denounce me is to sow in the beating hearts of men a deep and unsettling disdain.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_HUMAN_DOFED_FRIEND_1">
+			<Text>You, too, are a friend to {1_CivName}. They are a sibling in this revolution; and now I know that I can call you mine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_HUMAN_DOFED_ENEMY_1">
+			<Text>I recommend that you not get too close with {1_CivName}. They have made it clear they have no interest in the principles of socialism.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>{1_CivName} is a friend to this revolution. If you are against them, then you are against all equal men.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>I am pleased that you do not tolerate the tyranny of {1_CivName}, just as I. Their reign in this world will soon be over.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>I noticed that you have become friends with {1_CivName}. I trust your judgement, and have pledged my support to them. Let us hope that this make-shift alliance will strengthen the fires of our revolution.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>Oh great, now the vermin are breeding. Now I have to deal with both you and {1_CivName}? I'll have to teach them a lesson.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>I share your convictions that {1_CivName} only causes problems for our cause. Perhaps the combination of our denouncements will rally the passion of their working men to rise up against their tyrannical leader.</Text>
+		</Row>
+		<!-- General Diplo Text -->
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_COOP_WAR_REQUEST_1">
+			<Text>{1_PlayerName:textkey} is an enemy to our cause. Will you join me in their dethronement?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_COOP_WAR_TIME_1">
+			<Text>The time has come to bring the revolution against {1_PlayerName:textkey}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_DEC_FRIENDSHIP_1">
+			<Text>I believe that you and I share a common interest in the equality of men. Let us declare to the world this interest.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>It's come to my attention that you have a large number of Units near my borders. I request that you move them elsewhere to avoid causing undue distress to my citizens.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_PLOT_BUYING_WARNING_1">
+			<Text>Your purchase of land in my vicinity has caused some alarm; I hope that it does not reflect your true colours.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>The aggressive manner in which you buy up territory is making it clear to me that you are an enemy to the principles of my revolution. Be careful in your dealings with me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Fragile drawings on a map will not unite the hearts of men. You waste your time with your childish land-grabbing.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_EXPANSION_WARNING">
+			<Text>Your expansion efforts are an insult. Know that there will be consequences for this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_RETURNED_CIVILIAN_1">
+			<Text>You have brought service to the revolution by returning my civilian. I am grateful that there are those like you in this world.</Text>
+		</Row>
+		<!--Insults-->	
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_INSULT_JFD_LENIN_1">
+			<Text>You are an oppressive tyrant. The crown you wear upon your head is forged from the ignorance and blood of men. You certainly didn't you think you deserved it, did you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_INSULT_JFD_LENIN_2">
+			<Text>I thought I'd let you know that I don't agree with your tyranny. In fact, I thought I'd let you know that I'm about to blow the winds of revolution in your direction shortly.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_INSULT_JFD_LENIN_3">
+			<Text>Your tyranny will soon be over. I thought I'd let you know, so that maybe you'd change your ways.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_INSULT_JFD_LENIN_4">
+			<Text>Ah, it's you. My apologies. Sometimes I get you mixed up with the barbarians I have to swat from time to time.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_INSULT_MILITARY_1">
+			 <Text>I thought you might like to know that your army is a little on the weak side. Better watch your back.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_INSULT_MILITARY_2">
+			<Text>With an army so weak it's a surprise your empire hasn't succumb to a barbarian invasion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_INSULT_BULLY_1">
+			<Text>It's a shame there are some leaders in this world who have their fun by picking on the weak. Don't you agree?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_INSULT_UNHAPPINESS_1">
+			<Text>I'm not surprised to hear that your people are miserable; living beneath your oppressive tyranny must be crushing. I hope to change that soon enough, though, so don't let it get you down.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_INSULT_CITIES_1">
+			<Text>It's come to my attention that your empire appears to be quite puny. Did you forget to expand your borders or are you just having a little trouble with that?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_INSULT_POPULATION_1">
+			<Text>Travelers have told us that your empire's economy is in pretty sad shape. If you beg a little I might give you a hand. Okay, actually I won't.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_INSULT_CULTURE_1">
+			<Text>What a sad sight... your empire is so uncultured. What do your citizens do all day, beat rocks together?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_INSULT_CULTURE_2">
+			<Text>Rumor has it that your culture is so laughable that even the barbarians are shying away from your lands.</Text>
+		</Row>
+		<!--Public Declarations-->
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}. Attacking the City-State will greatly damage relations and may lead to war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<!-- Human is asking the AI for something -->
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_DONT_SETTLE_NO_1">
+			<Text>Unacceptable. I will continue to settle what lands my people need.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_DONT_SETTLE_YES_1">
+			<Text>So be it. I will not settle near your lands. Cooperation is clearly not one of your strong suits.</Text>
+		</Row>
+		<!--Deal Offers and related-->
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_LUXURY_TRADE_1">
+			<Text>This is a fair deal. I would know.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_OPEN_BORDERS_EXCHANGE_1">
+			<Text>Tear down these arbitrary drawings, and let our people walk free between us.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_RESPONSE_REQUEST_1">
+			<Text>The cause demands some sacrifice. Will you provide that sacrifice?</Text>
+		</Row>
+		<!--AI Attacked by Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_ATTACKED_HOSTILE_1">
+			<Text>That crown must be crushing your head, for no other would make such a careless mistake.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_ATTACKED_EXCITED_1">
+			<Text>That crown must be crushing your head, for no other would make such a careless mistake.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_ATTACKED_SAD_1">
+			<Text>That crown must be crushing your head, for no other would make such a careless mistake.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_ATTACKED_BETRAYED_1">
+			<Text>That crown must be crushing your head, for no other would make such a careless mistake.</Text>
+		</Row>
+		<!--AI Declaring War on Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_DOW_GENERIC_1">
+			<Text>This world cannot be unshackled until you are destroyed. Prepare for war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_DOW_LAND_1">
+			<Text>Your land belongs to the men of the soil; your gilded sandals are not fit to tread upon it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_DOW_LAND_2">
+			<Text>Our proximity has fated us to be enemies. Let us see which of us is fit to survive in this land.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_DOW_WORLD_CONQUEST_1">
+			<Text>The world will be as it should; ruled by men who earn it. The day has come to realise that goal. That day begins with your end.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_DOW_OPPORTUNITY_1">
+			<Text>I have been waiting a long time for this day. Now would be a good time to put your affairs in order.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_DOW_DESPERATE_1">
+			<Text>I will re-ignite the fires of this revolution with my blood, if it must be so.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_DOW_DESPERATE_2">
+			<Text>Although I do not wish it, I fear that now may be my only opportunity to defeat you. Let us meet on the battlefield.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_DOW_BETRAYAL_1">
+			<Text>To continue this lie would be a betrayal to my cause. I call no tyrant a friend, and you are a tyrant.</Text>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_TOO_SOON_NO_PEACE_1">
+			<Text>No. Peace will not come to you, for you have wrought wicked oppression upon your people for too long.</Text>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_BAD_1">
+			<Text>I see. You are against the cause of men then.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LENIN_GOOD_1">
+			<Text>Good. I knew you wouldn't be so foolish.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Proletarian Revolution
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_TRAIT_JFD_USSR_LENIN">
+			<Text>Workers may be stationed in friendly cities to boost [ICON_PRODUCTION] Production, or, after choosing an ideology, expended for [ICON_TOURISM] Tourism in enemy territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_USSR_LENIN_SHORT">
+			<Text>Proletarian Revolution</Text>
+		</Row>
+		<Update>
+			<Where Tag="TXT_KEY_MISSION_ONE_SHOT_TOURISM" />
+			<Set Text="Spread Influence" />
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_UPANEL_TOURISM_STRENGTH_TT" />
+			<Set Text="This indicates the strength of the unit when spreading influence. The strength is based on the [ICON_TOURISM] Tourism output of the civilization when the unit was born." />
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_MISSION_ONE_SHOT_TOURISM_HELP" />
+			<Set Text="This order will consume the unit and will spread a large quantity of [ICON_TOURISM] Tourism to the civilization where the unit is located. Other civs in the game also receive 20% of this [ICON_TOURISM] Tourism." />
+		</Update>
+		<Row Tag="TXT_KEY_BUILDING_JFD_WORKER_PRODUCTION">
+			<Text>JFD: Lenin Production</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_WORKER_PRODUCTION_HELP">
+			<Text>+15% [ICON_PRODUCTION] Production.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Commissariat
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_BUILDING_JFD_LENIN_COMMISSARIAT">
+			<Text>Commissariat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_LENIN_COMMISSARIAT_HELP">
+			<Text>Stores [ICON_FOOD] Food after a new [ICON_CITIZEN] Citizen is born equal to the city's [ICON_PRODUCTION] Production.[NEWLINE][NEWLINE]Reduces enemy spy stealing rate by 25%.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_LENIN_COMMISSARIAT_STRATEGY">
+			<Text>The Commissariat is the Soviet replacement for the Constable, for Lenin. In addition to the regular effects of the Constable, the Commissariat increases the amount of [ICON_FOOD] Food carried over when a new [ICON_CITIZEN] Citizen is born based upon the amount of [ICON_PRODUCTION] Production produced in the city (caps at 20%).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_LENIN_COMMISSARIAT_TEXT">
+			<Text>A commissariat is a department charged with maintaining supplies for an army. Military commissariats in the Soviet Union were devoted to the administration of local military affairs; including the mobilization of the army and the drafting of soldiers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_LENIN_FOOD">
+			<Text>JFD: Lenin Food</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_LENIN_FOOD_HELP">
+			<Text>Stores [ICON_FOOD] Food when a new [ICON_CITIZEN] Citizen is born.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Levy
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_UNIT_JFD_LENIN_LEVY">
+			<Text>Levy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_JFD_LENIN_LEVY">
+			<Text>Cheap but slightly weak replacement for the Great War Infantry. May be upgraded to from Workers after adopting an Ideology. May use enemy roads.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_LENIN_LEVY_STRATEGY">
+			<Text>The Levy is the unique unit for the USSR, for Lenin. Unlike the Great War Infantry that it replaces, the Levy is considerably cheaper, though it is also slightly weaker. Levies may be upgraded to from Workers if you have adopted an Ideology, and may make use of enemy roads.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_LENIN_LEVY_TEXT">
+			<Text>A Levy is a citizen enlisted into military service as a part of mandatory conscription. Conscription is an ancient practice and continues to be used by many of the world's modern nations; although very few of them are European countries.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_LENIN_LEVY">
+			<Text>May Use Enemy Roads</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_LENIN_LEVY_HELP">
+			<Text>May Use Enemy Roads</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

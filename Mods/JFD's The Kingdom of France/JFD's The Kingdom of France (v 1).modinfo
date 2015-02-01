@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="7ca383f2-0d73-4084-9fe4-a14883dfb037" version="1">
+  <Properties>
+    <Name>JFD's The Kingdom of France</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]the Kingdom of France[ENDCOLOR] with Louis XIV to the game.</Teaser>
+    <Description>The Kingdom of France is a custom civilization for Sid Meier's Civilization V, available for users with Brave New World. It splits the existing France into France as it is led by King Louis XIV and France as it is led by Emperor Napoleon I. Louis XIV assumes all aspects of the vanilla France.[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Leader:[ENDCOLOR] Napoleon I[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Unique Ability:[ENDCOLOR] The Sun of Austerlitz - Earn a Great General upon the outbreak of war against a major civilization. Great Generals provide the effects of a Courthouse when stationed in ccupied cities.[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Unique Unit:[ENDCOLOR] Imperial Guard - The Imperial Guard is the Napoleonic replacement for the Lancer. Unlike the regular Lancer, however, the Imperial Guard is not a Mounted Unit. Instead, it acts more like an upgraded Musketman. It does not gain the same benefits or penalties as a Lancer, however, it increases the amount of points generated toward Great Generals from combat. It also earns additional XP per turn when stacked with a Great General.[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Unique Unit:[ENDCOLOR] Chevau-léger - The Chevau-léger is the unique Napoleonic replacement for the Cavalry. Although it is naturally weaker than the Cavalry, it gains extra Strength more damage that is dealt to it. It also gains bonuses when fighting against other Mounted Units or against Siege units, making it excellent at charging enemy lines. Unlike the Lancer, this unit upgrades into the Great War Infantry.[NEWLINE][NEWLINE]</Description>
+    <Authors>JFD, Janboruta</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="6bc3cb6e-a697-491e-9347-5e3e02640f00" minversion="0" maxversion="999" title="Historical Religions Edit (BNW or GK)" />
+    <Mod id="8c101299-95c5-4b28-b7ed-4e0f774857ef" minversion="0" maxversion="999" title="Historical Religions (BNW or GK)" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="CEED778FAB7B8FCCF00BFB94C197D493" import="0">Art/ArtDefines.sql</File>
+    <File md5="1811FD26EB9CA9C29C02B485D0A7153A" import="1">Art/Graphics/Chevau Leger/dutlr1.dds</File>
+    <File md5="F7CDCD8B79ED6C8721BA0EB3905DB6CF" import="1">Art/Graphics/Chevau Leger/dutlr1.fxsxml</File>
+    <File md5="3C9EBF07535BCFA55E40DDB0E34EEE67" import="1">Art/Graphics/Chevau Leger/dutlr1.gr2</File>
+    <File md5="11787B8AC162D8891C9B5FECA34A5625" import="1">Art/Graphics/Chevau Leger/dutlr1_sref.dds</File>
+    <File md5="EDA799A991005FECD632751C6651F62C" import="1">Art/Graphics/Chevau Leger/sv_ChevauLeger.dds</File>
+    <File md5="1B1F5E8511754BA94C258F316A21B773" import="1">Art/Graphics/Imperial Guard/civ5_fremm3.fxsxml</File>
+    <File md5="FFED8EF246545F34D3E001AAE21E6A51" import="1">Art/Graphics/Imperial Guard/civ5_fremm3.gr2</File>
+    <File md5="A65F9C8321D5AD7B2C9FA9D93A36D228" import="1">Art/Graphics/Imperial Guard/fremm3.dds</File>
+    <File md5="04BB1427DA5512F90D419A8E2C3D868B" import="1">Art/Graphics/Imperial Guard/fremm3_sref.dds</File>
+    <File md5="56E9AD4A7966F51BA648D41380E7874C" import="1">Art/Graphics/Imperial Guard/sv_ImperialGuard.dds</File>
+    <File md5="99306A7787A81FB72282A966C8B321D5" import="1">Art/IconAtlas/JFD_ChevauLegerUnitFlag_32.dds</File>
+    <File md5="76828487A864FB0B12849EF3B5C39B99" import="1">Art/IconAtlas/JFD_FranceAlphaAtlas_128.dds</File>
+    <File md5="F5309C958865050D0A473F93615314AE" import="1">Art/IconAtlas/JFD_FranceAlphaAtlas_16.dds</File>
+    <File md5="A46BDBD13F1D148A3D1055D46498D2B9" import="1">Art/IconAtlas/JFD_FranceAlphaAtlas_22.dds</File>
+    <File md5="297AA3988D17F7D75A723B69691B87CB" import="1">Art/IconAtlas/JFD_FranceAlphaAtlas_24.dds</File>
+    <File md5="FBC750D828CDDA119606692C16A52110" import="1">Art/IconAtlas/JFD_FranceAlphaAtlas_32.dds</File>
+    <File md5="05888D4FDF2A30F77430DEDECA52FB1D" import="1">Art/IconAtlas/JFD_FranceAlphaAtlas_45.dds</File>
+    <File md5="E37667337208BD239C57AB714E43EE79" import="1">Art/IconAtlas/JFD_FranceAlphaAtlas_48.dds</File>
+    <File md5="80A89702475DB0FD968C4B08ED26B65F" import="1">Art/IconAtlas/JFD_FranceAlphaAtlas_64.dds</File>
+    <File md5="DFFEA84E53BDB6FBE63E3DC1B048FB36" import="1">Art/IconAtlas/JFD_FranceAlphaAtlas_80.dds</File>
+    <File md5="9D91F5533EB27933638767AAB3E426EC" import="1">Art/IconAtlas/JFD_FranceAtlas_128.dds</File>
+    <File md5="D3AA78F4FE1ED5377F24C82457CD46FE" import="1">Art/IconAtlas/JFD_FranceAtlas_256.dds</File>
+    <File md5="FE9A0BC139A3A64C6A376536618F9F0E" import="1">Art/IconAtlas/JFD_FranceAtlas_32.dds</File>
+    <File md5="335FB42AD7B702AE82EE5782BCC3F61B" import="1">Art/IconAtlas/JFD_FranceAtlas_45.dds</File>
+    <File md5="C537FA25BB7D41273E1336923B67BD9E" import="1">Art/IconAtlas/JFD_FranceAtlas_64.dds</File>
+    <File md5="6340D9E53D34987351B464CB181CEFA8" import="1">Art/IconAtlas/JFD_FranceAtlas_80.dds</File>
+    <File md5="571E694B0CA8F9F3EE1DEF5D38FBA9F3" import="1">Art/IconAtlas/JFD_ImperialGuardUnitFlag_32.dds</File>
+    <File md5="2E92F061DE69FEDEEF231985A092FD5D" import="1">Art/Leaderscene/Louis_Scene.xml</File>
+    <File md5="936301C894CAE26F51F1E01798294612" import="1">Art/Leaderscene/Louis_Diplo.dds</File>
+    <File md5="8811D5D3C18C67ED0EF22D1377305380" import="1">Art/Map/BourbonFranceMap512.dds</File>
+    <File md5="076A77DF84B724ADA1818458542A09CD" import="1">Art/Map/Louis_DOM.dds</File>
+    <File md5="F0739A447C36A27107A9D5BC366ADF17" import="1">Art/Map/NapoleonicFranceMap512.dds</File>
+    <File md5="A572281724D7224DC9066E38B68207A1" import="1">Art/Map/Napoleon_DOM.dds</File>
+    <File md5="79D92ED5547733847E2090519C62CCB9" import="0">Audio/Audio.sql</File>
+    <File md5="FE7F02BFC851A935B4BC7115913E34C1" import="1">Audio/Louis_Peace.mp3</File>
+    <File md5="0A91BACD7CBB38C975A9166A7D67C333" import="1">Audio/Louis_War.mp3</File>
+    <File md5="92D743368EE0370FFBF53876EB9B4C54" import="0">Core/Buildings.sql</File>
+    <File md5="D1CC733702403E6CAC9E05E64C935C4F" import="0">Core/Civilizations.sql</File>
+    <File md5="3913DDBA2EA88CF930113A6D4B65E8E0" import="0">Core/Diplomacy.sql</File>
+    <File md5="4D7E649DCE4AFB329C462AB1F180B999" import="0">Core/GameText.xml</File>
+    <File md5="FD4607A6386E666D7BB97B5518F5BA41" import="0">Core/Leaderhead.sql</File>
+    <File md5="1C38E4878E0D31D444B87F45BD454079" import="0">Core/PlayerColours.sql</File>
+    <File md5="88B783CD482291E30FB766060CDA3647" import="0">Core/Promotions.sql</File>
+    <File md5="2D0E143450A2D2E5CF0B2AD6EB996E2A" import="0">Core/Traits.sql</File>
+    <File md5="61072C9DB7C70EC1A9507F96DA863B1D" import="0">Core/TSL.sql</File>
+    <File md5="3720DFEA1A625B98E4E2D90BE09D5405" import="0">Core/Units.sql</File>
+    <File md5="D75EAE7889F5F6EF386DF0D4D165C85D" import="0">Lua/Napoleonic France Functions.lua</File>
+    <File md5="836838CB1D0A32D5E29B49BD2E6655A0" import="0">Readme.txt</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Audio/Audio.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Buildings.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Civilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Leaderhead.sql</UpdateDatabase>
+      <UpdateDatabase>Core/PlayerColours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Promotions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/TSL.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Units.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Napoleonic France Functions.lua">
+      <Name>Napoleonic France Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

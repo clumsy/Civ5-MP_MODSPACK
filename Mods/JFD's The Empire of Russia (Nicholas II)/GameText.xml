@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Contention in the State Duma -->
+		<Row Tag="TXT_KEY_EVENT_JFD_NICHOLAS_II_CONTENTION_DUMA">
+			<Text>Contention in the State Duma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NICHOLAS_II_CONTENTION_DUMA_DESC">
+			<Text>Once again, the Duma is teeming with liberal and social democrats clamouring for radical change that threaten not only the nation, but also our divine right to the throne of Russia. We must act decisively and prevent this matter from stoking the fires of an uprising.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NICHOLAS_II_CONTENTION_DUMA_OUTCOME_1">
+			<Text>We pledged an oath to God and to the Russian People. We shall not concede!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NICHOLAS_II_CONTENTION_DUMA_OUTCOME_2">
+			<Text>Dissolve the Duma. Have it re-elected.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NICHOLAS_II_CONTENTION_DUMA_OUTCOME_3">
+			<Text>It is time that we go the way of the Constitutional Monarch.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NICHOLAS_II_CONTENTION_DUMA_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLDEN_AGE] Golden Age points[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {2_Num} [ICON_PEACE] Faith and {3_Num} [ICON_CULTURE] Culture[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NICHOLAS_II_CONTENTION_DUMA_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLD] Gold[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {2_Num} [ICON_CULTURE] Culture[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NICHOLAS_II_CONTENTION_DUMA_OUTCOME_RESULT_3">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_CULTURE] Culture[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]The [ICON_CAPITAL] Capital celebrates 10 turns of 'We Love the King Day'[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_NICHOLAS_II_CONTENTION_DUMA_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have stood firm against contention against us within the State Duma.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_NICHOLAS_II_CONTENTION_DUMA_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have dissolved the State Duma and called for its re-election.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_NICHOLAS_II_CONTENTION_DUMA_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>We have pledged to adopt a Constitutional Monarchy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_NICHOLAS_II_CONTENTION_DUMA">
+			<Text>Nicholas II faces contention within the State Duma of Russia.</Text>
+		</Row>
+		<!-- Alexei Falls Ill -->
+		<Row Tag="TXT_KEY_EVENT_JFD_NICHOLAS_II_ALEXEI_ILLNESS">
+			<Text>Illness Strikes Our Heir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NICHOLAS_II_ALEXEI_ILLNESS_DESC">
+			<Text>Our beloved son and heir, sickly all his young life, has fallen gravely ill once more. His mother weeps for his life, and the future of our nation remains tenuous should he not recover. We must enlist the best possible aide to see Alexei well again.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NICHOLAS_II_ALEXEI_ILLNESS_OUTCOME_1">
+			<Text>Send for the best Russian doctors possible!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NICHOLAS_II_ALEXEI_ILLNESS_OUTCOME_2">
+			<Text>Send for a holy man from one of our Monasteries.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NICHOLAS_II_ALEXEI_ILLNESS_OUTCOME_3">
+			<Text>Send a stern letter to his Great-Grandmother for her ill bloodline.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NICHOLAS_II_ALEXEI_ILLNESS_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLD] Gold[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]50% chance that Alexei will recover and you will gain a 5 turn [ICON_GOLDEN_AGE] Golden Age[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NICHOLAS_II_ALEXEI_ILLNESS_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_PEACE] Faith[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]25% chance that Alexei will recover and you will gain 5 turns of 'We Love the King Day' in all cities[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NICHOLAS_II_ALEXEI_ILLNESS_OUTCOME_RESULT_3">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]10% chance that Alexei will recover and you will gain a free Great Scientist[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_NICHOLAS_II_ALEXEI_ILLNESS_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have summoned the greatest medical doctors in all the land to care for our ill-stricken son. And for good cause, for Alexei has recovered with the aide of the modern marvels of medicine. This is cause for the utmost of celebrations!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_NICHOLAS_II_ALEXEI_ILLNESS_OUTCOME_RESULT_1_ALT_NOTIFICATION">
+			<Text>We have summoned the greatest medical doctors in all the land to care for our ill-stricken son. But to our grave dismay, the doctors could not save him, and this time our son Alexei has perished.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_NICHOLAS_II_ALEXEI_ILLNESS_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have summoned a great mystic called Rasputin to our court to attend to our ill-stricken son. And praise be to God, for Alexei has recovered from his terrible illness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_NICHOLAS_II_ALEXEI_ILLNESS_OUTCOME_RESULT_2_ALT_NOTIFICATION">
+			<Text>We have summoned a great mystic called Rasputin to our court to attend to our ill-stricken son. But woe betide us, for the mystic could do nothing to save our dear Alexei, and he has unfortunately perished.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_NICHOLAS_II_ALEXEI_ILLNESS_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>We have written a scolding letter to our Great-Grandmother-in-law for her abysmal genetic bloodline, which has fated out son's present illness. And by some miracle, she has sent her greatest court physician to us in response.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_NICHOLAS_II_ALEXEI_ILLNESS_OUTCOME_RESULT_3_ALT_NOTIFICATION">
+			<Text>We have written a scolding letter to our Great-Grandmother-in-law for her abysmal genetic bloodline, which has fated out son's present illness. Unfortunately, this has done little of practical use, and poor Alexei remains deathly ill.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_NICHOLAS_II_ALEXEI_ILLNESS">
+			<Text>The heir of Nicholas II has passed away.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

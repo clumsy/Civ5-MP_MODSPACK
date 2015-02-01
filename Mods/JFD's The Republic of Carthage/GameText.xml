@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>	
+		<!--Consult the Tribunal of a Hundred and Four-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_CARTHAGE_HANNIBAL_TRIBUNAL">
+			<Text>Consult the Tribunal of a Hundred and Four</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_CARTHAGE_HANNIBAL_TRIBUNAL_DESC">
+			<Text>Even the most battle-hardened of commanders may be blind to the strategies employed by our enemies. We should have our greatest general seek the advice of our Tribunal of Judges before facing battle.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Carthage (Hannibal)
+				[NEWLINE][ICON_BULLET]Player must have a Shophet stationed in the [ICON_CAPITAL] Capital
+				[NEWLINE][ICON_BULLET]May only be enacted once per era
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]The Shophet gains +2 [ICON_MOVES] Moves and +1 Sight, and ignores enemy Zone of Control
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_CARTHAGE_HANNIBAL_TRIBUNAL_ENACTED_DESC">
+			<Text>Even the most battle-hardened of commanders may be blind to the strategies employed by our enemies. We should have our greatest general seek the advice of our Tribunal of Judges before facing battle.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]The Shophet gains +2 [ICON_MOVES] Moves and +1 Sight, and ignores enemy Zone of Control
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_SHOPHET_TRIBUNAL">
+			<Text>Consulted the Hundred and Four</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_SHOPHET_TRIBUNAL_HELP">
+			<Text>+2 [ICON_MOVES] Movement and +1 Sight, and ignores enemy Zone of Control.</Text>
+		</Row>
+		<!--Restore the Power of the Suffetes-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_CARTHAGE_HANNIBAL_SUFFETES">
+			<Text>Restore the Power of the Suffetes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_CARTHAGE_HANNIBAL_SUFFETES_DESC">
+			<Text>Slowly, this government has crept into desuetude. Carthage's politicians are complacent and fat, and her Judges meek and uninspired. It would take little for the government to collapse and fall pray to some foreign despot. That is why we must revitalise the power of the Suffetes, and guarantee the security of our democratic Magistrate Lords.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Carthage (Hannibal)
+				[NEWLINE][ICON_BULLET]Player must have at least one [ICON_OCCUPIED] occupied or [ICON_PUPPET] puppeted city
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Courthouses are [ICON_PRODUCTION] built in half the usual amount of time
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_CARTHAGE_HANNIBAL_SUFFETES_ENACTED_DESC">
+			<Text>Slowly, this government has crept into desuetude. Carthage's politicians are complacent and fat, and her Judges meek and uninspired. It would take little for the government to collapse and fall pray to some foreign despot. That is why we must revitilise the power of the Suffetes, and guarantee the security of our democratic Magistrate Lords.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Courthouses are [ICON_PRODUCTION] built in half the usual time
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Gunpowder Treason Plot -->
+		<Row Tag="TXT_KEY_EVENT_JFD_SCOTLAND_GUNPOWDER_PLOT">
+			<Text>Gunpowder Treason Plot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_SCOTLAND_GUNPOWDER_PLOT_DESC">
+			<Text>A plot involving gunpowder to have us assassinated has been foiled! The plot involved a group of conspirators discontent with our religious policies, who aimed to have us ousted to suit their own selfish ends. A number of plotters perished in an effort to flee the capital, but the remainder shall be sentenced to death for their treason. The people will rejoice that their sovereign is safe.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_SCOTLAND_GUNPOWDER_PLOT_OUTCOME_1">
+			<Text>Thank God the plot was foiled in time.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_SCOTLAND_GUNPOWDER_PLOT_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]All cities begin celebrating 'We Love the King Day' for 5 turns[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SCOTLAND_GUNPOWDER_PLOT_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>An assassination attempt upon us has been foiled and the conspirators have been put to death.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_SCOTLAND_GUNPOWDER_PLOT">
+			<Text>An assassination plot against James VI has been foiled in Scotland.</Text>
+		</Row>
+		<!-- The Wealth of Nations -->
+		<Row Tag="TXT_KEY_EVENT_JFD_SCOTLAND_WEALTH_OF_NATIONS">
+			<Text>The Wealth of Nations</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_SCOTLAND_WEALTH_OF_NATIONS_DESC">
+			<Text>Adam Smith, economic and moral philosopher, has conceived his greatest work yet: An Inquiry into the Nature and Causes of the Wealth of Nations. The book offers a unique insight into the inner workings of the economy, and examines such topics as the division of labour, productivity, and the free market. It will surely lend to us crucial knowledge in how to prosper our nation.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_SCOTLAND_WEALTH_OF_NATIONS_OUTCOME_1">
+			<Text>Fascinating!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_SCOTLAND_WEALTH_OF_NATIONS_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain a free Great Merchant[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SCOTLAND_WEALTH_OF_NATIONS_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>Adam Smith has published his greatest work: An Inquiry into the Nature and Causes of the Wealth of Nations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_SCOTLAND_WEALTH_OF_NATIONS">
+			<Text>In Scotland, Adam Smith has published his greatest work: An Inquiry into the Nature and Causes of the Wealth of Nations.</Text>
+		</Row>
+		<!-- Wild Haggis appears! -->
+		<Row Tag="TXT_KEY_EVENT_JFD_SCOTLAND_WILD_HAGGIS">
+			<Text>Wild Haggis appears!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_SCOTLAND_WILD_HAGGIS_DESC">
+			<Text>
+				By the Gods! A fabled Wild Haggis - the most fearsome beast to roam the Scottish highlands - has appeared before us whilst out on a stroll through the countryside. Scholars had disparaged us for believing in such a creature - but behold! Evidence before our very eyes. We must make haste to capture it![NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_SCOTLAND_WILD_HAGGIS_OUTCOME_1">
+			<Text>We must run clockwise after it!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_SCOTLAND_WILD_HAGGIS_OUTCOME_2">
+			<Text>We must run anti-clockwise after it!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_SCOTLAND_WILD_HAGGIS_OUTCOME_3">
+			<Text>This is absurd! Clearly it is one of our scribes playing a joke upon us.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_SCOTLAND_WILD_HAGGIS_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Amends the lies told by the Civilopedia[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_SCOTLAND_WILD_HAGGIS_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Amends the lies told by the Civilopedia[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_SCOTLAND_WILD_HAGGIS_OUTCOME_RESULT_3">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]A few adorable kittens weep[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SCOTLAND_WILD_HAGGIS_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>Alas! We could not capture the Wild Haggis, for its right legs were too long... But at least we know it exists!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SCOTLAND_WILD_HAGGIS_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>Alas! We could not capture the Wild Haggis, for its left legs were too long... But at least we know it exists!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SCOTLAND_WILD_HAGGIS_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>Alas, our dismissal of the Wild Haggis has destroyed its legend, causing great suffering to befall our civilisation. We are a terrible person. Montezuma take us.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

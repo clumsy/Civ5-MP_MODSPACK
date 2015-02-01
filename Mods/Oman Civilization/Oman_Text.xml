@@ -1,0 +1,390 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Pouakai -->
+<GameData>
+	<Language_en_US>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- Unique Building - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<Row Tag="TXT_KEY_BUILDING_OMANI_MINAA">
+			<Text>Minaa'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_OMANI_MINAA_HELP">
+			<Text>Causes damage to enemy naval units ending their turn next to this city. +5% Naval Unit Production for every Trade Route departing this city. Forms a [ICON_CONNECTED] City Connection with the [ICON_CAPITAL] Capital over water (if they're not already [ICON_CONNECTED] connected by land). Sea trade routes originating from this city have a 50% increase in range and produce an additional 1 [ICON_GOLD] Gold when connecting to another civilization.[NEWLINE][NEWLINE]City must be built on the coast.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_OMANI_MINAA_STRATEGY">
+			<Text>The Minaa' is the Omani unique building, replacing the Harbor. The Minaa' causes any enemy naval unit ending its turn next to this city to take a small amount of damage. In addition, the Minaa' increases Production toward Naval Units for every Trade Route departing the city, as well as the regular effects of a Harbor. A well-positioned coastal city can quickly become an impenetrable fortress with a Minaa'.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_OMANI_MINAA_PEDIA">
+			<Text>Oman’s coast is lined with large coastal defences, mostly due to the vast amount of money that went into making sure Oman could not be taken over by any other empire. These huge forts also functioned as ports or harbours, one of the most famous examples lying in Muscat, under the name of Fort al-Jalali. This complex still lies just off the coast of Muscat, dominating the skyline from parts of the city. It was captured twice by outside powers over the course of civil war, and went on to function as a prison; though all that time, it stayed true to its purpose of helping defend Oman, as while it went down, it didn’t go down without a fight. Opposite Fort al-Jalali lies Fort al-Mirani, which served much the same function as the former. As previously mentioned, Oman’s coast is lined with them; once a fantastic preparation for any attack, now reminders of Oman’s past.</Text>
+		</Row>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- Unique Unit - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<Row Tag="TXT_KEY_UNIT_OMANI_BAGHLAH">
+			<Text>Baghlah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_OMANI_BAGHLAH_HELP">
+			<Text>Gains additional movement and sight and begins with 1 additional experience for every 3 net gold produced by the empire, to a max of 30 XP.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_OMANI_BAGHLAH_STRATEGY">
+			<Text>Only Oman may build this unit. It is faster and has additional sight to the Caravel that it replaces, and begins with additional experience for every 3 gold produced in the empire. The Baghlah may earn up to 30XP in this way.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_OMANI_BAGHLAH_PEDIA">
+			<Text>A type of Dhow more suited to deep-sea exploration, Baghlahs were active in the Persian Gulf and the Indian Ocean, suited for travel and commerce. Owing to their large size, they were also very good at ocean skirmishes; entire pirate fleets in the area were solely based off them. However, they were far more suited to ocean crossings than anything else. From the Arabian Gulf, they were capable of sailing to the Spice Islands, an extraordinary feat when no steam power is involved. This made that the use of Baghlahs were massively important in the region, opening up new markets and trade routes. </Text>
+		</Row>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- Trait - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<Row Tag="TXT_KEY_TRAIT_CHAIN_OF_THE_EARTH_SHORT">
+			<Text>Chain of the Earth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CHAIN_OF_THE_EARTH">
+			<Text>Domestic Sea Trade Routes yield [ICON_GOLD] Gold when connected to a conquered city. Naval Units gain a 10% combat bonus against cities for every 10 [ICON_GOLD] Gold Per Turn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_GOLD_FROM_DTRS">
+			<Text>+{1_Num} [ICON_GOLD] Gold from Domestic Trade Routes to conquered cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_MINAA_NAVAL_PRODUCTION">
+			<Text>JFD: Omani Naval Production</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_MINAA_NAVAL_PRODUCTION_HELP">
+			<Text>+5% [ICON_PRODUCTION] Production toward Naval Units.</Text>
+		</Row>
+		<!--Promotions-->
+		<Row Tag="TXT_KEY_PROMOTION_JFD_OMANI_BONUS_VS_CITIES_10">
+			<Text>Bonus vs Cities (10)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_OMANI_BONUS_VS_CITIES_10_HELP">
+			<Text>+10% Bonus vs Cities</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_OMANI_BONUS_VS_CITIES_20">
+			<Text>Bonus vs Cities (20)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_OMANI_BONUS_VS_CITIES_20_HELP">
+			<Text>+20% Bonus vs Cities</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_OMANI_BONUS_VS_CITIES_30">
+			<Text>Bonus vs Cities (30)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_OMANI_BONUS_VS_CITIES_30_HELP">
+			<Text>+30% Bonus vs Cities</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_OMANI_BONUS_VS_CITIES_40">
+			<Text>Bonus vs Cities (40)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_OMANI_BONUS_VS_CITIES_40_HELP">
+			<Text>+40% Bonus vs Cities</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_BAGHLAH">
+			<Text>Experienced Traders</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_BAGHLAH_HELP">
+			<Text>Begins with additional experience equal to 33% of your [ICON_GOLD] Gold Per Turn.</Text>
+		</Row>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- Dawn of Man - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_OMAN_TEXT">
+			<Text>Upon you a thousand blessings from God are bestowed, O magnificent Saif bin Sultan, leader of Oman and her glorious empire! Since the beginning of the 17th century, the Sultanate of Oman has prospered at the edge of the Arabian peninsula, maintaining strategic dominance over the Persian Gulf and across the coast of East Africa. Beneath your rule, the empire would flourish. The Portuguese strongholds that pervaded the African coast would be overrun by the might of your forces, and you would secure for your people the wealthy cities of Zanzibar and those along the Swahili Coast. You would bring great prosperity and power to the Sultanate, and would leave behind a legacy the envy of Omani princes to come.[NEWLINE][NEWLINE]May there be no other as wise and powerful as you, O great Sultan. Your people call for you to lead them once more. Can you use your great wealth to re-establish an empire of unrivalled prosperity? Can you resist the incursions of foreign powers that would seek to deprive you of your glory? Can you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- Diplomacy Lines - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<Row Tag="TXT_KEY_LEADER_SAIF_BIN_SULTAN_FIRST_GREETING_1">
+			<Text>Weary traveller, you have stumbled upon the mighty and wealthy empire of Oman. I am Saif bin Sultan, ruler of her lands and her seas. I hope you come bearing gifts for one as extravagant as I.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SAIF_BIN_SULTAN_FIRST_GREETING_2">
+			<Text>My God bless you, traveller. I am Saif bin Sultan, leader of Oman and her empire, where unimaginable riches and wealth abound. You can't have any, before you get any ideas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SAIF_BIN_SULTAN_DEFEATED_1">
+			<Text>May God forsake this violence. You have plundered the riches of Oman and destroyed with it a magnificent, golden empire. My people will never forgive. Never.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SAIF_BIN_SULTAN_DEFEATED_2">
+			<Text>By God, what have you done? This empire was the only thing bringing order to this chaotic region of the earth!</Text>
+		</Row>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- Spy Names - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<Row Tag="TXT_KEY_SPY_NAME_OMAN_0">
+			<Text>Qaboos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OMAN_1">
+			<Text>Al-Khalil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OMAN_2">
+			<Text>Azzan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OMAN_3">
+			<Text>Makhzum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OMAN_4">
+			<Text>Ya'arab</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OMAN_5">
+			<Text>Salim</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OMAN_6">
+			<Text>Thuwaini</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OMAN_7">
+			<Text>Ahmad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OMAN_8">
+			<Text>Faisal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_OMAN_9">
+			<Text>Turki</Text>
+		</Row>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- Denonyms- - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<Row Tag="TXT_KEY_OMAN_DESC">
+			<Text>Sultanate of Oman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OMAN_SHORT_DESC">
+			<Text>Oman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_OMAN_ADJECTIVE">
+			<Text>Omani</Text>
+		</Row>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- Civilopedias- - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--Oman-->
+		<Row Tag="TXT_KEY_OMAN">
+			<Text>Oman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_OMAN_TITLE">
+			<Text>Sultanate of Oman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_OMAN_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_OMAN_TEXT_1">
+			<Text>The Sultanate of Oman is a nation based in the South-East corner of the Arabian Peninsula. It has a large costal region, where the majority of the population reside, as well as a mostly desert interior. Oman has two enclaves to its north, based around the United Arab Emirates, known as Madha and Musandam. The present day capital of Oman is at Muscat, and has been for many years previously, even at the time of the much larger empire. For many years, Oman was controlled by powers outside their lands, and only with the rise of Islam did the nation truly prosper. Oman managed to establish a trans-continental empire with acquisitions in Africa, and with growing presence around the Arabian Peninsula it became a vital trading spot. However, the Sultanate fell into decline during the 19th century, and after stagnating for several years, it managed to get itself back up on its feet during the second half of the 20th century; Oman survives to this day, even retaining its ancient Sultan.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_OMAN_HEADING_2">
+			<Text>Geography and Climate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_OMAN_TEXT_2">
+			<Text>Though Oman has a large amount of coastal area, it is mainly desert, thus rendering many places uninhabitable. Most cities are built near to the coast, as a result of many years of ensuring water supplies. Oman was mostly covered in water in the past; we know this due a large in-land amount of fossils. Oman receives very little precipitation, and the interior of the country is very warm and dry as a result, with little to no cooling from ocean currents. The coastal areas tend to have a better living climate; while still very warm, they are also quite humid. However, the mountainous areas of Oman get slightly more rainfall than other parts, due to the monsoon season, and as a result, they have a more tropical climate, as compared to the desert plains of the rest of the country. The Omani Sultanate also expanded into Africa and Yemen; the former having an almost exclusively costal part reserved for the Sultanate, while still very warm due to its position at the equator, and the latter is similar to Oman itself.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_OMAN_HEADING_3">
+			<Text>Prehistory</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_OMAN_TEXT_3">
+			<Text>Oman’s first signs of civilisation begin with a site in the Dhofar region of the country, the most westward part of the nation; the site that commences Oman’s rich history is the Nubian Complex. Though the artefacts found there were similar to others already found, it was the first in the south of the Arabian Peninsula. The site is estimated to be around 106,000 years old, and as a result, it is used as a base to assign a date to the human migration from Africa to Arabia. The oldest inhabited site in Oman is known as Dereaze; located in the modern day city of Ibri, it dates back around eight thousand years. Nearby, cave paintings have also been discovered. Over all the sites, items such as pottery and spears were discovered. All this evidence shows that Oman’s history is truly ancient, with the Sultanate itself only forming a very small part of its rich and vibrant history.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_OMAN_HEADING_4">
+			<Text>Before Oman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_OMAN_TEXT_4">
+			<Text>In Sumer, to the north of present-day Oman, tablets had the name “Magan” or “Makan” written on them. This was a name used to refer to the copper mines in present-day Oman; so essentially Oman’s birth certificate. The present-day name of Oman is believed to have originated from around the same time, coming from Arab tribes who emigrated there from Yemen. A lot of these tribes decided to stick to the coastal regions of Oman, making a livelihood out of fishing or farming. For years afterwards, the classical world came to Oman, with three Persian Dynasties presiding over it until about the 7th century AD. Though Oman had little to no recognition as a state during this time, it was about to get it, no matter if the world was prepared for it or not. In 620, a monuments event happened that changed the course of world history, and perhaps more so than many, the history of Oman – the founding of Islam in Mecca.[NEWLINE][NEWLINE]As the Omanis were among the first to adopt the religion, they were also among the first to begin their own Islamic empire – for the first time in history, the Omanis were recognised as a separate culture from the Persians or anyone else who once dominated them – casting off their chains, they set out to create an empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_OMAN_HEADING_5">
+			<Text>Rise of Islam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_OMAN_TEXT_5">
+			<Text>'Amr ibn al-'As, a contemporary of Muhammad, is normally credited with converting the Omanis to Islam. Around 630 AD, he was given the task of converting the co-rulers of Oman at the time, Jayfar and ‘Abd to Islam – he succeeded in his task.  In doing so, Oman’s systems of governance changed to fit in with their sect of Islam, the Ibadi – the ruler became an Iman, an elected governor of the nation. Soon after the world was rocked with Islam came the death of the prophet Muhammad, and soon after, the struggle for power over the Islamic faith. This eventually split Islam over the leader of their faith, and Oman played a major role in this. However, it also took the time to develop its economic situation, and managed to elevate itself to become a major trader in the region, and as a result, managed to gain immense wealth and control. The leadership struggle in Oman was far from over, though; within five hundred years, Oman had managed to have five dynasties in command, mostly outsiders. However, this relentless power struggle made for some ambition of an Omani state, as with no one government in command, who were they to get to lead but themselves? Come several battles with other outsiders, they did just that. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_OMAN_HEADING_6">
+			<Text>Portuguese Invasion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_OMAN_TEXT_6">
+			<Text>Vasco de Gama, a Portuguese explorer, visited the Far East close to the advent of the 16th century. Impressed by Gama’s success in trade there, later Portuguese explorers went on to capture the present-day Omani capital of Muscat. The Portuguese built up defence in the city, though it was captured by the Ottoman Empire in 1552, during their fight for supremacy in India and the Persian Gulf. The Ottomans again recaptured Muscat in 1581, and held it until the following year. During this time, neither the Portuguese nor the Ottomans managed to take all of Oman; no outside power has ever done so. The Portuguese were thrown out of Oman in the 17th century, and were usurped by native Omani tribes; however, this did not last long, as Yemeni tribes managed to take over Oman around a century later. Though this may not sound like much, this is the dynasty that went on to take over Oman. Though the Persians briefly recaptured parts of Oman after the Yemeni takeover, Oman has been independent ever since.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_OMAN_HEADING_7">
+			<Text>Foundations of the Sultanate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_OMAN_TEXT_7">
+			<Text>With the coming of a suitable leader came the beginnings of an empire. Saif bin Sultan, possibly the greatest leader of Oman, became Iman (Omani leader) in 1692. To expand Oman’s sphere of influence and the empire, Saif focused on a takeover of the west coast of Africa, beginning with the remaining Portuguese settlements. Fort Jesus, a Portuguese stronghold in Africa, was among the main obstacles in Saif’s imperial plans. Saif took up arms to fight for the fort; come 1698, Saif’s famous Siege of Fort Jesus proved successful, and the beginning of a mighty trading empire commenced.[NEWLINE][NEWLINE]The Sultanate went on to siege and conquer the rest of Portuguese possessions in East Africa. They were rulled in a manner similar to the Portuguese hold on Muscat; though Oman had a firm grip on the cities themselves, they ruled very little of the nearby land, and most of what they claimed could not really be said to be controlled by them. The Persians, however, managed to siege Oman for around a decade starting in 1737. The saviours of the Omani Empire were the Al Said dynasty, who managed to recapture Oman along with all colonial positions from the Persians, and they still rule to this day.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_OMAN_HEADING_8">
+			<Text>Height of the Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_OMAN_TEXT_8">
+			<Text>Out of all the positions Oman had managed to attain over the years, Zanzibar was among the most precious. The ever-growing Slave market was to some extent centred there, and to show its importance, Iman Said bin Sultan built his main palace there, and ruled over the empire from its colonies, for the most part, doing so after the capture of Mombasa, further expanding his African Empire. Said’s rule marked the height of the empire, when Oman was thriving and in few difficulties. Said managed to sort out trading relations with the United States of America with very good terms for Oman, and as sole ruler of the sultanate, he was able to make such decisions very easily. Said is a very well-respected Omani leader to this day, and even has a museum dedicated to his possession.[NEWLINE][NEWLINE]After Said died, there was a succession crisis between his two sons, which was settled by the British; the territory of Oman was split between the two in such a way that one got the possessions in East Africa, though they were soon reclaimed by the Portuguese, and the other got control of the Omani homelands, at the time, Muscat and Oman. The latter territory was very much under British influence, though it was not a colonial possession of the British Empire by any stretch. Instead, it was a powerful trading link to their Indian and other Asian colonies, making the alliance with Oman evermore important for Britain. This act of division pretty much ended the two and a half centuries of Omani dominance in the region; it was divided between several lesser entities, and a few greater ones.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_OMAN_HEADING_9">
+			<Text>Muscat and Oman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_OMAN_TEXT_9">
+			<Text>The present-day nation of Oman was once divided into two distinct regions, namely Muscat and Oman. The former referred to the city of Muscat, now the nation’s capital, as well as other coastal areas of the nation. The term Oman was more to do with the desert interior of the country. This distinction was important in terms of governance; Oman was ruled by a Sultan, while the Iman retained control over Muscat. This was the result of several disagreements over the control of Oman, and was mostly planned by the British. While Muscat and Oman was never actually a British colony, it is safe to say that Britain certainly had a lot of influence and authority over it.[NEWLINE][NEWLINE]Muscat and Oman functioned as a single political entity, and did so during its 150 years of establishment. During the reign of Sultan Said bin Taimur, Muscat and Oman was able to become richer, strengthening the nation and putting in the foundations for the country today. With control over Muscat came a larger amount of power over external treaties; Oman was far more concerned with internal issues. When the oil market opened up in the Middle East, and Iraqi oil company was interested in dealing with Muscat and Oman. This lead to a dispute between Sultan Said and the Iman of Oman, Ghalib Al Hinai, over who should have final say over the oil. Said claimed the oil as external deals came under his area of influence, while Ghalib claimed it due to his control over the land the oil was on. Said went on to invade Oman, and took key oil sites, though never fully occupied the entire nation given that they were already unified by law.[NEWLINE][NEWLINE]Said also managed to secure deals with Pakistan over the territories of Makran and Gwadar, Omani enclaves in Pakistan – the latter was sold for three million dollars. Doing so made Oman richer, and along with their oil deals, they were able to progress at a far faster rate. However, due to the divisive nature of Muscat and Oman, it was far harder to say who should get power over what. In 1965, a rebellion occurred in Dhofar over exploitation from the Sultan. It was clear that Said was not doing all he could to meet the demands of his people; there was always a serious threat of overthrow for him, and in 1970, the coup happened – though lead by his own son.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_OMAN_HEADING_10">
+			<Text>Oman Today</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_OMAN_TEXT_10">
+			<Text>Sultan Qaboos seized power in 1970, and began to reform the country very quickly, dragging it out from being one of the worse-off nations of the Middle East. He opened up the nation to outside powers, enriching it in the process. With more money being put into healthcare, education and welfare, the Omani people were far better off, and ready to write the next chapter in Omani history. Through years of political reform, women were given the right to vote, a massive step forwards in the development of rights.  However, there is some dispute over whether or not this means much; voting is said to be somewhat useless, as the elected representatives have little to no power, as all real authority lies with the Sultan.[NEWLINE][NEWLINE]As a result, the Sultanate still suffers from many problems, given the Sultan’s authoritarian ruling style. Oman was affected by the Arab Spring, as protesters took to the streets to speak out against the political system, and to tell the world about the lack of jobs there. Qaboos promised further political reform, though as of May 2014, it has not yet been delivered, despite the pledge being almost four years ago. Despite all these problems, Oman’s economic situation is improving vastly, and the nation as a whole is doing very well on the world stage.</Text>
+		</Row>
+		<!--<Row Tag="TXT_KEY_CIVLOPEDIA_OMAN_STATBOX">
+			<Text>[NEWLINE]        Leader: Saladin[NEWLINE]        Unique Unit: Mamluk[NEWLINE]        Unique Building: Madrasah[NEWLINE][NEWLINE]</Text>
+		</Row>-->
+		<Row Tag="TXT_KEY_CIVLOPEDIA_OMAN_FACTOID_HEADING">
+			<Text>Oman Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_OMAN_FACTOID_TEXT">
+			<Text>Oman has retained political ties with the United Kingdom and the United States almost since the establishment of them.[NEWLINE][NEWLINE]Due to Sultan Qaboos’ reforms, Oman ranked as the most developed country in the world, according to the United Nations Development Program.[NEWLINE][NEWLINE]The symbol of Oman, known as a Khanjar, is actually a type of dagger. It is featured on both their Coat of Arms and their flag.</Text>
+		</Row>
+		<!-- Saif bin Sultan -->
+		<Row Tag="TXT_KEY_LEADER_SAIF_BIN_SULTAN_DESC">
+			<Text>Saif bin Sultan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SAIF_BIN_SULTAN_LIVED">
+			<Text>c. 160 - 1711</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SAIF_BIN_SULTAN_NAME">
+			<Text>Saif bin Sultan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SAIF_BIN_SULTAN_SUBTITLE">
+			<Text>Iman of Oman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SAIF_BIN_SULTAN_TITLES_1">
+			<Text>Iman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SAIF_BIN_SULTAN_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SAIF_BIN_SULTAN_TEXT_1">
+			<Text>The Iman of the Omani Sultanate, Saif bin Sultan, was instrumental in the process of assuring that Oman was a dominant power in the region. By taking control of Portuguese possessions in East Africa, he made the empire span two continents, thus putting it in an ever more vital trading position. Saif is credited as one of the greatest Omani leaders, a well-deserved title after doing so much to make sure that Oman would prosper in the region for centuries to come. Oman held the East African possessions until a leadership dispute in the 19th century, and given he preceded these arguments by more than two hundred years, it is safe to say that his efforts were worth it, as he managed to create an Omani national identity, as well as ensuring that Oman was safe from outside invasion, a promise broken only once by flawed leadership soon after his death. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SAIF_BIN_SULTAN_HEADING_2">
+			<Text>Early Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SAIF_BIN_SULTAN_TEXT_2">
+			<Text>Saif bin Sultan was born in the 17th century, not long after Oman had managed to gain independence from any outsiders. Saif was the second son of his father, and as a result, did not become the Iman of Oman immediately. Saif’s father, Sultan bin Saif, died in 1679. Bil’arab bin Sultan, the brother of Saif, took control of the country after his father’s death; Saif seemed happy with being second-in-command to his brother. However, his happiness with Bil’arab’s reign was cut short by a dispute between the brothers, and soon enough, Saif built up a force to go after him, and managed to hold up Bil’arab in his fort in Jabrin until 1692, when he died. Given that Saif was next in line to the Omani throne, as well as the dominant power in Oman, it was all but obvious that he should succeed. The same year, Saif became the fourth Iman of Oman, and possibly the greatest as well.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SAIF_BIN_SULTAN_HEADING_3">
+			<Text>Iman of Oman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SAIF_BIN_SULTAN_TEXT_3">
+			<Text>Early on in his reign, the Sultan focused on improving the infrastructure of Oman. With the advent of his reign, water supplies were focused on along with improvements to farming, making irrigation easier. Saif put Date Palm Trees near the coastal areas of Oman to encourage the desert dwellers, the Arabs in particular, to live nearer the coast. In line with the tradition of Omani leaders having a primary adobe, Saif chose to stay in Rustaq for the majority of the time, and added a new wind tower there early in his reign. The fort at Rustaq had been there several centuries prior to Islam’s founding; however, improvements by Saif, notably the walls built in 1711, made the fort even harder to break in the event of siege, and are said to be a fantastic example of Islamic architecture. Nearby the fort lies several other improvements that Saif made possible, such as large agricultural and irrigation areas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SAIF_BIN_SULTAN_HEADING_4">
+			<Text>The Seige of Fort Jesus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SAIF_BIN_SULTAN_TEXT_4">
+			<Text>Aiming to get back at the Portuguese invaders, Saif bin Sultan struck back hard at the Siege of Fort Jesus. In 1696, Saif had attacked Mombasa in an attempt to take it from the Portuguese, though they had retreated to Fort Jesus nearby. Though Oman had managed to attack Mombasa several times, almost breaking it in 1660, they had yet to take a Portuguese possession fully. Almost immediately after the Portuguese retreat, Saif put pressure down on the Portuguese positions in Fort Jesus, and sieged it for almost 33 months. So brutal was the siege that of the 2,500 people who took refuge in the fort when Oman attacked, only 13 were alive at the end of the siege in 1698.[NEWLINE][NEWLINE]The fort was held by around seventy Portuguese soldiers, and most of the civilians there were Arabs. Though the Queen of Zanzibar managed to get supplies through to the fort to keep up the health of the garrison, the Portuguese, immensely more powerful and with more to supply to the garrison, failed to provide anything. The siege was lifted at the end of 1696, when the Portuguese managed to get their first supplies in. However, Oman returned to the fort, and kept the pressure up until all of the Portuguese soldiers were killed due to disease. For around six to nine months, the defence of the fort was left in the hands of some of the native Africans, led by Sheikh Daud of Faza, leading eight men and fifty women, along with seventeen members of family – not an ideal fighting force. In late 1697, Portugal managed to get a few more reinforcements in, though these measures proved to be too little. On December the 13th 1698, Oman managed to capture the fort. A few days later, a Portuguese ship arrived to resupply the garrison, though it arrived too late. Oman had won; this victory secured their possession of Mombasa for nearly thirty years, and served as a harbinger to their dominance of the East African coast.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SAIF_BIN_SULTAN_HEADING_5">
+			<Text>Attacks on the Portuguese</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SAIF_BIN_SULTAN_TEXT_5">
+			<Text>After the monumental success in Mombasa, the Omani forces went on to take several other key Portuguese positions within a few months. Pemba Island, Kilwa and Zanzibar quickly fell to Oman, and before long, they dominated East Africa, as the once-mighty Portuguese presence there had been dwarfed by the power of Oman’s navy. This gained Saif quite some reputation for doing such attacks; he was given the nickname the “Chain of the Earth” for the attacks he had managed to carry out on the Portuguese possessions. To show his dominance in the region, he encouraged large-scale repopulations of newly captured territory such as Zanzibar and Mombasa, thus making sure that Omani presence was felt, asserting his authority across all territories he called his. Saif managed to gain a vast amount of wealth from his general assets, and to ensure that Oman remained the dominant economic power in the region, he advocated piracy against other nation’s ships. This made sure that they could not compete with Oman’s vast trading network, and overall, it helped Oman for the better. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SAIF_BIN_SULTAN_HEADING_6">
+			<Text>Later Reign</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SAIF_BIN_SULTAN_TEXT_6">
+			<Text>During the latter half of Saif bun Sultan’s reign, Oman didn’t expand much more, rather focus on improving what they had. This allowed for Saif to become vastly wealthier than he was at the start of his reign, overall improving Oman’s economy for the better. Saif also helped to open up the Slave Trade for Oman, and while highly questionable about whether it was morally correct or not, it was no doubt a large source of income for them. Saif died in 1711, and while the prosperity of his reign did not instantly fade, his political skills were not matched by his successors. Saif was noted for being incredibly wealthy at the end of his reign, with assets including 700 male slaves, 28 ships and a third of Oman’s palm trees, which were a large source of income at the time. With a comfortable burial at his fort of Rustaq later that year, the magnificence of the Iman’s reign ended.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SAIF_BIN_SULTAN_HEADING_7">
+			<Text>Judgement of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SAIF_BIN_SULTAN_TEXT_7">
+			<Text>Saif was renowned for his skill to avoid internal troubles, and instead focusing people’s anger on others, all part of why he advocated piracy. Doing so made sure that he had a far more stable empire with people willing to defend it, and even defending it on a day-to-day basis without even noticing. By avoiding all internal troubles, he was able to make far more money off the country than many could even hope to attain, and with his love of money and power, he was able to rule the empire in an incredibly authoritarian yet efficient way. Today, Saif is revered as a national hero, and has created a legacy of bringing Portugal to breaking point and improving Oman’s fortunes, in effect, creating an identity for them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SAIF_BIN_SULTAN_FACTOID_HEADING">
+			<Text>Saif bin Sultan Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SAIF_BIN_SULTAN_FACTOID_TEXT">
+			<Text>Saif bin Sultan was a member of the Ibadi sect of Islam, the sect originally introduced to Oman when Islam came to the nation.[NEWLINE][NEWLINE]Samuel Barrett Miles, a British Officer and Diplomat who served in Oman, said this of Saif: “The Imam Saif bin Sultan was the greatest of the Yaareba Princes, and at no time before or since has Oman been so renowned, powerful or prosperous as under his sway…”</Text>
+		</Row>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- City List - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<Row Tag="TXT_KEY_CITY_NAME_OMAN_MUSCAT">
+			<Text>Muscat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OMAN_SALALAH">
+			<Text>Salalah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OMAN_NIZWA">
+			<Text>Nizwa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OMAN_SUR">
+			<Text>Sur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OMAN_IBRA">
+			<Text>Ibra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OMAN_BAHLA">
+			<Text>Bahla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OMAN_RUSTAQ">
+			<Text>Rustaq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OMAN_BARKA">
+			<Text>Barka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OMAN_MUTTRAH">
+			<Text>Muttrah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OMAN_SOHAR">
+			<Text>Sohar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OMAN_SAHAN">
+			<Text>Sahan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OMAN_SAMAIL">
+			<Text>Samail</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OMAN_KHASAB">
+			<Text>Khasab</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OMAN_RAYSUT">
+			<Text>Raysut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OMAN_JABRIN">
+			<Text>Jabrin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OMAN_AL_HAMRA">
+			<Text>Al Hamra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OMAN_SEEB">
+			<Text>Seeb</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OMAN_DUQM">
+			<Text>Duqm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OMAN_THUMRAIT">
+			<Text>Thumrait</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OMAN_SHINAS">
+			<Text>Shinas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OMAN_MANAH">
+			<Text>Manah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OMAN_MADHA">
+			<Text>Madha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OMAN_ZANZIBAR">
+			<Text>Zanzibar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OMAN_QURAYYAT">
+			<Text>Qurayyat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OMAN_SUWAYQ">
+			<Text>Suwayq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OMAN_BIDIYAH">
+			<Text>Bidiyah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OMAN_SAIQ">
+			<Text>Saiq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OMAN_MALINDI">
+			<Text>Malindi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OMAN_MOGADISHU">
+			<Text>Mogadishu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OMAN_MERCA">
+			<Text>Merca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OMAN_MOMBASA">
+			<Text>Mombasa</Text>
+		</Row>
+	</Language_en_US>	
+</GameData>

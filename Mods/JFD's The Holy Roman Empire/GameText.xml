@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Magellan's Voyage -->
+		<Row Tag="TXT_KEY_EVENT_JFD_HOLY_ROME_MAGELLAN">
+			<Text>Magellan's Voyage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_HOLY_ROME_MAGELLAN_DESC">
+			<Text>
+				An intrepid explorer has approached our court to fund a most daring expedition to scour the oceans in search of new trade opportunities. His name is Ferdinand Magellan, and he merely asks for your patronage, in exchange for the glory and wealth that shall come with his success.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_HOLY_ROME_MAGELLAN_OUTCOME_1">
+			<Text>Let us fund this brave explorer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_HOLY_ROME_MAGELLAN_OUTCOME_2">
+			<Text>I shall not waste state funds like this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_HOLY_ROME_MAGELLAN_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLD] Gold[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain a free Great Admiral and four free Caravels[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_HOLY_ROME_MAGELLAN_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Nothing[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HOLY_ROME_MAGELLAN_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have become patron to the explorer Ferdinand Magellan.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HOLY_ROME_MAGELLAN_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have rejected to patroanise the explorer Ferdinand Magellan.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_HOLY_ROME_MAGELLAN">
+			<Text>Charles V of the Holy Roman Empire has accepted the patronage of the explorer Ferdinand Magellan.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_HOLY_ROME_MAGELLAN_2">
+			<Text>Charles V of the Holy Roman Empire has rejected the patronage of the explorer Ferdinand Magellan.</Text>
+		</Row>
+		<!-- Schmlkaldic League -->
+		<Row Tag="TXT_KEY_EVENT_JFD_HOLY_ROME_SCHMLKALDIC_LEAGUE">
+			<Text>Schmlkaldic League</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_HOLY_ROME_SCHMLKALDIC_LEAGUE_DESC">
+			<Text>
+				Several Princes within the Holy Roman Empire have banded together in opposition to our religious beliefs. They have formed a League with which to challange the legitimacy of our sovereignty, and they threaten to wage war against us.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_HOLY_ROME_SCHMLKALDIC_LEAGUE_OUTCOME_1">
+			<Text>We shall respond in kind with war!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_HOLY_ROME_SCHMLKALDIC_LEAGUE_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Several enemy Knights and two Great Generals spawn near the [ICON_CAPITAL] Capital[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain three Knights at the [ICON_CAPITAL] Capital[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HOLY_ROME_SCHMLKALDIC_LEAGUE_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have pledged to destroy the rebellious Schmlkaldic League.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_HOLY_ROME_SCHMLKALDIC_LEAGUE_OUTCOME_2">
+			<Text>I'm certain they can be reasoned with... by way of coin.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_HOLY_ROME_SCHMLKALDIC_LEAGUE_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLD] Gold[NEWLINE][ICON_BULLET]60% chance that a few enemy Knights and a Great General spawn near the [ICON_CAPITAL] Capital[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain two Knights at the [ICON_CAPITAL] Capital[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HOLY_ROME_SCHMLKALDIC_LEAGUE_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have managed to pacify the rebellious Schmlkaldic League with coin.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HOLY_ROME_SCHMLKALDIC_LEAGUE_OUTCOME_RESULT_2_ALT_NOTIFICATION">
+			<Text>We have attempted to pacify the rebellious Schmlkaldic League with coin. Unfortunately, it was not entirely successful.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_HOLY_ROME_SCHMLKALDIC_LEAGUE">
+			<Text>Several Holy Roman Princes have banded together to form the Schmlkaldic League in opposition of the religious legitimacy of Charles V.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

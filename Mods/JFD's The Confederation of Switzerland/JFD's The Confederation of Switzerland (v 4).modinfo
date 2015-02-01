@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="205aa32b-9ee1-4ad8-8c42-4fcde1d4f417" version="4">
+  <Properties>
+    <Name>JFD's The Confederation of Switzerland</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]the Confederation of Switzerland[ENDCOLOR] with Guillaume-Henri Dufour to the game.</Teaser>
+    <Description>See Steam Workshop or CivFanatics for full details.</Description>
+    <Authors>JFD, Janboruta</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <Homepage>http://forums.civfanatics.com/showthread.php?t=474393</Homepage>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events and Decisions" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety &amp; Prestige" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="75AF4319146030D5A45D4B3807437C0B" import="0">Art/ArtDefines.sql</File>
+    <File md5="B8A03FA21E2C62EB856D71F436C4F125" import="1">Art/Graphics/Surgeon/Industrial/civ5_frerm.fxsxml</File>
+    <File md5="333B64905A4164625A207B9D34306373" import="1">Art/Graphics/Surgeon/Industrial/civ5_frerm.gr2</File>
+    <File md5="C9E95084E20C354724161BB257B140F6" import="1">Art/Graphics/Surgeon/Industrial/frerm.dds</File>
+    <File md5="E53220C726C831E2BFFA583CD0D750B8" import="1">Art/Graphics/Surgeon/Industrial/frerm_diff.dds</File>
+    <File md5="32F4FE0E091B1FE56C98785D4C24E332" import="1">Art/Graphics/Surgeon/Modern/ausgw1.dds</File>
+    <File md5="09494335C27B585180136F7F5AA91CE9" import="1">Art/Graphics/Surgeon/Modern/ausgw1.fxsxml</File>
+    <File md5="033BFACE31C66BE49DE1F84AF9FED36F" import="1">Art/Graphics/Surgeon/Modern/ausgw1.gr2</File>
+    <File md5="0C759F1CED95795CCFBE40C6BD9A963C" import="1">Art/Graphics/Surgeon/Modern/no_gloss.dds</File>
+    <File md5="68AD301F46F96E1BD8DB2CCF481783C0" import="1">Art/Graphics/Surgeon/Modern/sv_Medic.dds</File>
+    <File md5="7089E4167BD82510612DFB78F78C7261" import="1">Art/Graphics/Surgeon/sv_Medic.dds</File>
+    <File md5="9DB26DBC44630C7F81F3E3E2F7E60CD1" import="1">Art/Icon Atlas/JFD_SwitzerlandAlphaAtlas_128.dds</File>
+    <File md5="C919E3EC5CFC17E1FDB58A8DD719AA36" import="1">Art/Icon Atlas/JFD_SwitzerlandAlphaAtlas_16.dds</File>
+    <File md5="D9D379E2F4802FB8F676825682BF7581" import="1">Art/Icon Atlas/JFD_SwitzerlandAlphaAtlas_22.dds</File>
+    <File md5="A743EE4725E40C72A61AF1EF6F358D84" import="1">Art/Icon Atlas/JFD_SwitzerlandAlphaAtlas_24.dds</File>
+    <File md5="30E5654DE6C1BB57DD6B9279EEDDEB93" import="1">Art/Icon Atlas/JFD_SwitzerlandAlphaAtlas_32.dds</File>
+    <File md5="E4335B228C26A8158B00D8C6FBADA691" import="1">Art/Icon Atlas/JFD_SwitzerlandAlphaAtlas_45.dds</File>
+    <File md5="D407574180CC3E3BB7DEB58B898E54F0" import="1">Art/Icon Atlas/JFD_SwitzerlandAlphaAtlas_48.dds</File>
+    <File md5="BBF537521EF327B4805248027028B75B" import="1">Art/Icon Atlas/JFD_SwitzerlandAlphaAtlas_64.dds</File>
+    <File md5="240AAB4ACE01942D6B2DDBD27B9D4332" import="1">Art/Icon Atlas/JFD_SwitzerlandAlphaAtlas_80.dds</File>
+    <File md5="C9AC677F260D66DE447EC22CC029A488" import="1">Art/Icon Atlas/JFD_SwitzerlandAtlas_128.dds</File>
+    <File md5="1E984CCCFA5E3F1D6A20A3CDB93516F7" import="1">Art/Icon Atlas/JFD_SwitzerlandAtlas_256.dds</File>
+    <File md5="0650BB523699BF757F9949FB065247A2" import="1">Art/Icon Atlas/JFD_SwitzerlandAtlas_32.dds</File>
+    <File md5="E4335B228C26A8158B00D8C6FBADA691" import="1">Art/Icon Atlas/JFD_SwitzerlandAtlas_45.dds</File>
+    <File md5="037AF6E7D027B3B16BAAB203E1E43F14" import="1">Art/Icon Atlas/JFD_SwitzerlandAtlas_64.dds</File>
+    <File md5="1D7A78344626311CB6238C98C9B38E8C" import="1">Art/Icon Atlas/JFD_SwitzerlandAtlas_80.dds</File>
+    <File md5="0C4A2C0329F93E5FC27B95D46F71E627" import="1">Art/Icon Atlas/UnitFlagMedic_32.dds</File>
+    <File md5="59CAA133137348726E7D4BCC9AB9BE4D" import="1">Art/Leaderscene/Dufour_diplo.dds</File>
+    <File md5="BC724BBD2A479924F5E1E9D87C9CDC91" import="1">Art/Leaderscene/Dufour_Scene.xml</File>
+    <File md5="91AC04C8CCF64D7614F3CCA5C31664A3" import="1">Art/Map/Dufour_DOM.dds</File>
+    <File md5="7F9726CE275081D2E87302CAA2ADDDEA" import="1">Art/Map/SwitzerlandMap512.dds</File>
+    <File md5="C44F1C2B717BE4099400ED230A6C8D37" import="0">Audio/Audio.sql</File>
+    <File md5="3C66D456FB558E9416C6405171047DEC" import="1">Audio/Dufour_Peace.mp3</File>
+    <File md5="1D03251A253D685EE811AEF9B39EB86E" import="1">Audio/Dufour_War.mp3</File>
+    <File md5="3C97C064AD0666CBA68A352B127C0DD7" import="0">Core/Bingles' Civ IV Traits Support/Leader_SharedTraits.sql</File>
+    <File md5="D432EDC9EB389839164AACE65C64CF4C" import="0">Core/Buildings.sql</File>
+    <File md5="3944798D596C3E2EC94C14C81043A001" import="0">Core/Civilizations.sql</File>
+    <File md5="6E88E858C9E83AB6A39FE90F8393C376" import="0">Core/Diplomacy.sql</File>
+    <File md5="220D19E1211BD640720A57EF59CC5542" import="0">Core/DiplomacyText.xml</File>
+    <File md5="B2CEC8DD63B081930F9029F4C2452958" import="0">Core/GameText.xml</File>
+    <File md5="CBA4B9244956E954D3B90F827C7BCD44" import="0">Core/Gedemon's YnAEMP Support/CivilizationStartPos.sql</File>
+    <File md5="3AD54E4A221036971F35B66C15119246" import="0">Core/hazel16's Map Labels Support/ML_Tables.sql</File>
+    <File md5="4A791106F6DAE0243A3CEB8DE1DD3C7B" import="0">Core/JFD's Cultural Diversity Support/Civilization_JFD_CultureTypes.sql</File>
+    <File md5="93A7DD4975477BF6312119F8418D80D3" import="0">Core/JFD's Dynamic Tooltip Support/TopPanelAddins.sql</File>
+    <File md5="1C8467A25A29E5240BF06A88F8607A72" import="0">Core/JFD's Piety and Prestige Support/Flavours.sql</File>
+    <File md5="FDFA9919DCF5A3A6627921EBC8B9D254" import="0">Core/Leaderhead.sql</File>
+    <File md5="B192A9AE4878283F57895DF9A2B591BE" import="0">Core/MinorCivilizations.sql</File>
+    <File md5="5042236188F0E736414DFF2A7B475CA3" import="0">Core/PlayerColours.sql</File>
+    <File md5="F895388E282A0C79B962137B04A87C54" import="0">Core/Promotions.sql</File>
+    <File md5="CF679C2157874761009983D510B17267" import="0">Core/Resources.sql</File>
+    <File md5="4F2E30D2E78A553ADBB2178162D61393" import="0">Core/Ryoga's Unique Cultural Influence Support/GameText.xml</File>
+    <File md5="196A4439BE4703F7962E985D891A0B0D" import="0">Core/Sukritact's Decisions Support/Decisions.sql</File>
+    <File md5="8CDBE4B9978D83B1E1664A6BE6D484FF" import="0">Core/Sukritact's Decisions Support/GameText.xml</File>
+    <File md5="1C1600F35023C75403E8242198A45CB9" import="0">Core/Sukritact's Events Support/Events.sql</File>
+    <File md5="F04DE696364E70625B3B2809373506F0" import="0">Core/Sukritact's Events Support/GameText.xml</File>
+    <File md5="25D50584C06425D3C1F2E5767FEF769D" import="0">Core/Traits.sql</File>
+    <File md5="BE082F2B05AF3530D0E8637246C812A1" import="0">Core/Units.sql</File>
+    <File md5="C26A72B21D092E9D8E113F36B4AAA014" import="1">Lua/JFD's Dynamic Tooltip Support/JFD_SwitzerlandDynamicTopPanelSupport.lua</File>
+    <File md5="59C2CBF197583448FDE6D1427E17DFF2" import="1">Lua/Sukritact's Events Support/JFD_SwitzerlandEvents.lua</File>
+    <File md5="F6D0810E5D699F337BA7BE8976EB28C6" import="1">Lua/Sukritact's Decisions Support/JFD_SwitzerlandDecisions.lua</File>
+    <File md5="45628CB417AA6096B610C8494C7BBE59" import="0">Lua/JFD_SwitzerlandFunctions.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Audio/Audio.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Buildings.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Civilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DiplomacyText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Leaderhead.sql</UpdateDatabase>
+      <UpdateDatabase>Core/MinorCivilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Core/PlayerColours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Promotions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Resources.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Units.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Gedemon's YnAEMP Support/CivilizationStartPos.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Decisions Support/Decisions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Decisions Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Cultural Diversity Support/Civilization_JFD_CultureTypes.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Piety and Prestige Support/Flavours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Events Support/Events.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Events Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/hazel16's Map Labels Support/ML_Tables.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Ryoga's Unique Cultural Influence Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Dynamic Tooltip Support/TopPanelAddins.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Bingles' Civ IV Traits Support/Leader_SharedTraits.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_SwitzerlandFunctions.lua">
+      <Name>Switzerland Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

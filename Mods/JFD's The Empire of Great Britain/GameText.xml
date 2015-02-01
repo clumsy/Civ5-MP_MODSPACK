@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Charge of the Light Brigade -->
+		<Row Tag="TXT_KEY_EVENT_JFD_GREAT_BRITAIN_LIGHT_BRIGADE">
+			<Text>Charge of the Light Brigade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_GREAT_BRITAIN_LIGHT_BRIGADE_DESC">
+			<Text>
+				A set of misinterpreted orders has led a unit of our cavalry to charge through a valley full of enemy guns. Our cavalry is now respected worldwide, however, our officers are not.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_GREAT_BRITAIN_LIGHT_BRIGADE_OUTCOME_1">
+			<Text>We should invest in our brave mounted soldiers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_GREAT_BRITAIN_LIGHT_BRIGADE_OUTCOME_2">
+			<Text>We need to improve our officer corps.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_GREAT_BRITAIN_LIGHT_BRIGADE_OUTCOME_3">
+			<Text>This proves Cavalry are a thing of the past.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_GREAT_BRITAIN_LIGHT_BRIGADE_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLD] Gold[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]All current Mounted Units gain 10 XP[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_GREAT_BRITAIN_LIGHT_BRIGADE_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLD] Gold[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Receive a Military Academy in the [ICON_CAPITAL] Capital[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_GREAT_BRITAIN_LIGHT_BRIGADE_OUTCOME_RESULT_3">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLD] Gold[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]All current Mounted Units are upgraded into Landships[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_GREAT_BRITAIN_LIGHT_BRIGADE_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have invested in our mounted soldiers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_GREAT_BRITAIN_LIGHT_BRIGADE_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have invested in our officer corps.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_GREAT_BRITAIN_LIGHT_BRIGADE_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>We have conceded that mounted warfare is obsolete.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_VICTORIA_LIGHT_BRIGADE">
+			<Text>A regiment of British Cavalry soldiers have charged heroically into a valley full of enemy guns.</Text>
+		</Row>
+		<!-- Jubilee Celebrations -->
+		<Row Tag="TXT_KEY_EVENT_JFD_GREAT_BRITAIN_JUBILEE_CELEBRATIONS">
+			<Text>Jubilee Celebrations</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_GREAT_BRITAIN_JUBILEE_CELEBRATIONS_DESC">
+			<Text>
+				Yet another Judilee celebration has stirred the hearts of our subjects! They rejoice throughout the land for the continuation of our long reign, and pray for many more to come. God save the Queen![NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_GREAT_BRITAIN_JUBILEE_CELEBRATIONS_OUTCOME_1">
+			<Text>We are amused.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_GREAT_BRITAIN_JUBILEE_CELEBRATIONS_OUTCOME_RESULT_1">
+			<Text>[COLOR_POSITIVE_TEXT]All cities begin celebrating 'We Love the King Day' for 10 turns[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_GREAT_BRITAIN_JUBILEE_CELEBRATIONS_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have celebrated a Jubilee in honour of our long-reign.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_VICTORIA_JUBILEE_CELEBRATIONS">
+			<Text>Victoria is celebrating her Jubilee year as sovereign of Great Britain.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

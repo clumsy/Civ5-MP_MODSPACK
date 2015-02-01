@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="ac1d26db-1a12-4b43-8932-b4d9686c721c" version="2">
+  <Properties>
+    <Name>JFD's The Kingdom of Bavaria</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]the Kingdom of Bavaria[ENDCOLOR] with Ludwig II to the game.</Teaser>
+    <Description>See CivFanatics or Steam Workshop for full details.</Description>
+    <Authors>JFD, Janboruta, Leugi, Viregel</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events and Decisions" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety &amp;amp; Prestige" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="DLL - Various Mod Components" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="D724B074868BE20A14AD9CA197DE9291" import="0">Art/ArtDefines.sql</File>
+    <File md5="B61275734B1EE95D81F15A4011FC9DD1" import="1">Art/Graphics/Hartschier/hartschier.dds</File>
+    <File md5="E471E2E76B25F9D632B19442EE4C085F" import="1">Art/Graphics/Hartschier/hartschier.fxsxml</File>
+    <File md5="45F82F7DC652ECC732B057A562072EA1" import="1">Art/Graphics/Hartschier/hartschier.gr2</File>
+    <File md5="D4D851B3EE06841E913B98B06C6BF71A" import="1">Art/Graphics/Hartschier/hartschier_sref.dds</File>
+    <File md5="ADB67300E7C033674D2498CE42620A27" import="1">Art/Graphics/Hartschier/sv_Hartschier.dds</File>
+    <File md5="58C7181A0FC3E57B05FDBB6B89A3FC72" import="1">Art/Graphics/Schloss/fx_schloss_smoke.ftsxml</File>
+    <File md5="418701AF3C7F60937C400DD99E3D773C" import="1">Art/Graphics/Schloss/schloss.fxsxml</File>
+    <File md5="D99E5E09F9118584AA9FF69D1919B232" import="1">Art/Graphics/Schloss/schloss.gr2</File>
+    <File md5="011A2F8A2595AA3B5E89F42D37543DCE" import="1">Art/Graphics/Schloss/schloss_diff.dds</File>
+    <File md5="072B3E747A46251A17C0C0642023F909" import="1">Art/Graphics/Schloss/schloss_hb.fxsxml</File>
+    <File md5="BFA07FF52DE78E2F319CE3FE3CDEBE40" import="1">Art/Graphics/Schloss/schloss_hb.gr2</File>
+    <File md5="5B04C9AD42C4133A4BB9ABA4AE1FBB3D" import="1">Art/Graphics/Schloss/schloss_pl.dds</File>
+    <File md5="FDF8EE0921ED13F77DE6D75EA17FDB39" import="1">Art/Graphics/Schloss/schloss_pl.fxsxml</File>
+    <File md5="B9AC43A2542B70450DE6A1F2C33DEF1D" import="1">Art/Graphics/Schloss/schloss_pl.gr2</File>
+    <File md5="A51A8792B3B5A2E96E19F65963BD5FC6" import="1">Art/Graphics/Schloss/sv_schloss.dds</File>
+    <File md5="C3E2DDF3D898A42234091F70B54059A2" import="1">Art/IconAtlas/JFD_BavariaAlphaAtlas_128.dds</File>
+    <File md5="B8FB6ED01FC2C99BB19445BFEA989F2B" import="1">Art/IconAtlas/JFD_BavariaAlphaAtlas_16.dds</File>
+    <File md5="A323371E3D64870D612EBDCB0DFF67C0" import="1">Art/IconAtlas/JFD_BavariaAlphaAtlas_22.dds</File>
+    <File md5="45ABC03758DE4DE9D8BBC236DA3AB936" import="1">Art/IconAtlas/JFD_BavariaAlphaAtlas_24.dds</File>
+    <File md5="02CDE9AAA6C37E6F9C0855F2A611C16B" import="1">Art/IconAtlas/JFD_BavariaAlphaAtlas_32.dds</File>
+    <File md5="DE2E0A13EB72833FBAF47EAF1A50CB4C" import="1">Art/IconAtlas/JFD_BavariaAlphaAtlas_45.dds</File>
+    <File md5="A16CBBC3829754AC4C749B72175D0AC8" import="1">Art/IconAtlas/JFD_BavariaAlphaAtlas_48.dds</File>
+    <File md5="26830E1545C09A11A33F91A27C9BD4C4" import="1">Art/IconAtlas/JFD_BavariaAlphaAtlas_64.dds</File>
+    <File md5="8FF79EA70F2C99CD09D7B37A0FDD5F25" import="1">Art/IconAtlas/JFD_BavariaAlphaAtlas_80.dds</File>
+    <File md5="3C97BF7BF2C4E2919BDBD10DD20581B5" import="1">Art/IconAtlas/JFD_BavariaAtlas_128.dds</File>
+    <File md5="73F7BD21FA01F56CF5E76025102939B0" import="1">Art/IconAtlas/JFD_BavariaAtlas_256.dds</File>
+    <File md5="0F89C0078C0FEC5A64F8C1E863617EFD" import="1">Art/IconAtlas/JFD_BavariaAtlas_32.dds</File>
+    <File md5="2ACDF629E5DBC42F4EE29A26CA36E231" import="1">Art/IconAtlas/JFD_BavariaAtlas_45.dds</File>
+    <File md5="0191E3D7E6DB5C6EACF1FCF0515D1045" import="1">Art/IconAtlas/JFD_BavariaAtlas_64.dds</File>
+    <File md5="BBEB5760406AF2F3AC4D66804ECA8266" import="1">Art/IconAtlas/JFD_BavariaAtlas_80.dds</File>
+    <File md5="42D4675BCC2CD37BE2F46894041B43CC" import="1">Art/IconAtlas/JFD_HartschierUnitFlag_32.dds</File>
+    <File md5="CA718CB829751D666CA4B575179F6370" import="1">Art/IconAtlas/SchlossIcon256.dds</File>
+    <File md5="E1C26812264DD537EB43ACF52E02AD2B" import="1">Art/IconAtlas/SchlossIcon45.dds</File>
+    <File md5="74F13BA8A54D554EE730BBF5D2B1A644" import="1">Art/IconAtlas/SchlossIcon64.dds</File>
+    <File md5="EA2574672C7D4D45F44AA4E091AA5D60" import="1">Art/Leaderscene/Ludwig_diplo.dds</File>
+    <File md5="F6B2EE28C214312D84FBDA69285C00C2" import="1">Art/Leaderscene/Ludwig_Scene.xml</File>
+    <File md5="818CD19A9704174CFDAE7069A65EA7BF" import="1">Art/Map/BavariaMap512.dds</File>
+    <File md5="BA9CD28499EE4FA67FE8BE4BE56C6D74" import="1">Art/Map/DOM_Ludwig.dds</File>
+    <File md5="34228350223334870DFE1CCC5351A83A" import="0">Art/SchlossDefine.sql</File>
+    <File md5="FB4C0DDF2A086641A750FE401CF8F849" import="0">Audio/Audio.sql</File>
+    <File md5="295886CFBCEED4A75FD90AC02B7207C6" import="1">Audio/Ludwig_Peace.mp3</File>
+    <File md5="9CD86D84C273AB7A650D9A3472ACEE9C" import="1">Audio/Ludwig_War.mp3</File>
+    <File md5="7D892A67124BE6F4F8C8F82DDABCFAE7" import="0">Core/Bingles' Civ IV Traits Support/Leader_SharedTraits.sql</File>
+    <File md5="EF59B534CE5536FEB4827B70FB10FFB0" import="0">Core/Buildings.sql</File>
+    <File md5="8EB78E6B8C02C2E2D368EE0BC56FAF3D" import="0">Core/Builds.sql</File>
+    <File md5="2DA3F02261B5E370B0478EF38725D195" import="0">Core/Civilizations.sql</File>
+    <File md5="2BC7A5AB8969FBD21C6D868A8D6DBFCB" import="0">Core/Diplomacy.sql</File>
+    <File md5="C155F20F718416CE534196DD0BD16B4B" import="0">Core/DiplomacyText.xml</File>
+    <File md5="98304AE7663DFE4A894F168057830DFC" import="0">Core/GameText.xml</File>
+    <File md5="1358C92A3AC6F4091D2FBA711BD396EA" import="0">Core/Gedemon's YnAEMP Support/CivilizationStartPos.sql</File>
+    <File md5="EC1FCBAE368AFE6413150FD1791F9B3A" import="0">Core/hazel16's Map Labels Support/ML_Tables.sql</File>
+    <File md5="FB6364CAEB42AC213D76034624830D99" import="0">Core/Improvements.sql</File>
+    <File md5="ECC392963530775812BB65032BB194A0" import="0">Core/JFD's Cultural Diversity Support/Civilization_JFD_CultureTypes.sql</File>
+    <File md5="9E7908E0195A32563729728314FD77B1" import="0">Core/JFD's Piety and Prestige Support/Flavours.sql</File>
+    <File md5="25C6881228847E074A8401063F84E57B" import="0">Core/Leaderhead.sql</File>
+    <File md5="D5A666664613BB93E85AD40191DBC796" import="0">Core/PlayerColours.sql</File>
+    <File md5="02D1DCED49FD4C7D708010930737799B" import="0">Core/Promotions.sql</File>
+    <File md5="CA115AB6F091D06E0670C9D4501CFD90" import="0">Core/Ryoga's Unique Cultural Influence Support/GameText.xml</File>
+    <File md5="4921F1BDF0F0BC88577F70DFF9DA6F25" import="0">Core/Sukritact's Decisions Support/Decisions.sql</File>
+    <File md5="7E560D25C2D9DB8648FC4AC22CF5D57A" import="0">Core/Sukritact's Decisions Support/GameText.xml</File>
+    <File md5="D1946C8090CF42689018D6991B76E0C0" import="0">Core/Sukritact's Events Support/Events.sql</File>
+    <File md5="EBAE47CAF6E6263CD1C3630EFFE00322" import="0">Core/Sukritact's Events Support/GameText.xml</File>
+    <File md5="B64A90E4BFF17C6BFF0EC5AA29D967F5" import="0">Core/Traits.sql</File>
+    <File md5="3217A385D7E243C121048BCE94CF7F2C" import="0">Core/Units.sql</File>
+    <File md5="7863445E68952E402BE984EF4CB0FDF1" import="0">Core/Whowards DLL Support/CustomModOptions.sql</File>
+    <File md5="A04E4EDE2BFC08D33C74FDB5C30911FD" import="0">Lua/JFD_BavariaFunctions.lua</File>
+    <File md5="DB4BF7B571AE2A3A95053F5B555C8DC2" import="0">Lua/Sukritact's Decisions Support/JFD_BavariaChooseWonderCityPopup.lua</File>
+    <File md5="58659833E73BC7673170722EE0C6755D" import="0">Lua/Sukritact's Decisions Support/JFD_BavariaChooseWonderCityPopup.xml</File>
+    <File md5="37AB1C90283B141A54575C30CD137275" import="1">Lua/Sukritact's Events Support/JFD_BavariaEvents.lua</File>
+    <File md5="46BB21CA84E7379363217E7D549838EF" import="1">Lua/Sukritact's Decisions Support/JFD_BavariaDecisions.lua</File>
+    <File md5="4486E05E92C6A1829D1BD4FC8EAB80DE" import="1">Lua/UI/InGame/Popups/CultureOverview.lua</File>
+    <File md5="BF85D174CA9D4F2EC2AD7E3FBB6C0D6D" import="1">Lua/UI/InGame/Popups/CultureOverview.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Art/SchlossDefine.sql</UpdateDatabase>
+      <UpdateDatabase>Audio/Audio.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Buildings.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Builds.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Civilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DiplomacyText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Improvements.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Leaderhead.sql</UpdateDatabase>
+      <UpdateDatabase>Core/PlayerColours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Promotions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Units.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Gedemon's YnAEMP Support/CivilizationStartPos.sql</UpdateDatabase>
+      <UpdateDatabase>Core/hazel16's Map Labels Support/ML_Tables.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Events Support/Events.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Events Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Decisions Support/Decisions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Decisions Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Cultural Diversity Support/Civilization_JFD_CultureTypes.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Piety and Prestige Support/Flavours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Ryoga's Unique Cultural Influence Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Whowards DLL Support/CustomModOptions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Bingles' Civ IV Traits Support/Leader_SharedTraits.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_BavariaFunctions.lua">
+      <Name>JFD_BavariaFunctions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Sukritact's Decisions Support/JFD_BavariaChooseWonderCityPopup.xml">
+      <Name>JFD_BavariaChooseWonderCity</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

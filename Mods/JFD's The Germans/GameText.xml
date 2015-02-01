@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Sacred Grove -->
+		<Row Tag="TXT_KEY_EVENT_JFD_GERMANS_SACRED_GROVE">
+			<Text>Sacred Grove</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_GERMANS_SACRED_GROVE_DESC">
+			<Text>The {1_TribeName} Tribe has laid claim to being the site of a sacred grove, where the visage of the Gods can be divined. Naturally, this has inspired a great many pilgrimages to the site, but these very pilgrimages may come to tarnish the tribe's way of life. Perhaps we should intervene in the matter.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_GERMANS_SACRED_GROVE_OUTCOME_1">
+			<Text>Only the {1_TribeName} shall bear witness to this grove.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_GERMANS_SACRED_GROVE_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_PEACE] Faith[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_GERMANS_SACRED_GROVE_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have decreed that the sacred grove shall only be open to the {1_TribeName} people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_GERMANS_SACRED_GROVE_OUTCOME_2">
+			<Text>All must bear witness to this grove.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_GERMANS_SACRED_GROVE_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+1 [ICON_PEACE] Faith on the {1_TribeName} tile[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_GERMANS_SACRED_GROVE_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have decreed that the sacred grove of the {1_TribeName} Tribe shall be open to all pilgrims.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_GERMANS_SACRED_GROVE_OUTCOME_3">
+			<Text>This is none of our concern.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_GERMANS_SACRED_GROVE_OUTCOME_RESULT_3">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain +{1_Num} [ICON_GOLDEN_AGE] Golden Age points[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_GERMANS_SACRED_GROVE_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>We have resolved to stay out of the matter regarding the sacred grove of the {1_TribeName} Tribe.</Text>
+		</Row>
+		<!-- New Craft -->
+		<Row Tag="TXT_KEY_EVENT_JFD_GERMANS_NEW_CRAFT">
+			<Text>New Craft</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_GERMANS_NEW_CRAFT_DESC">
+			<Text>The people of the {1_TribeName} Tribe have garnered a reputation for their fine {2_FontIcon} {3_Resource}. However, their traditional ties to {4_Current} hold them back from making this a profitable enterprise. Perhaps they could be encouraged to promote their new craft.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_GERMANS_NEW_CRAFT_OUTCOME_1">
+			<Text>We should invest in {1_TribeName} {2_FontIcon} {3_Resource}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_GERMANS_NEW_CRAFT_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLD] Gold[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]{2_TribeName} becomes a source of {3_FontIcon} {4_ResourceName}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_GERMANS_NEW_CRAFT_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have invested in {1_TribeName} {2_FontIcon} {3_Resource}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_GERMANS_NEW_CRAFT_OUTCOME_2">
+			<Text>No. They must remain devoted to {1_Current}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_GERMANS_NEW_CRAFT_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Nothing[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_GERMANS_NEW_CRAFT_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have declined to invest in {1_TribeName} {2_FontIcon} {3_Resource}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_GERMANS_WORLD_EVENT_NEW_CRAFT">
+			<Text>The German {1_TribeName} Tribe has become world-renown for their fine {2_FontIcon} {3_Resource}.</Text>
+		</Row>
+		<!-- Kidnapped Son -->
+		<Row Tag="TXT_KEY_EVENT_JFD_GERMANS_KIDNAPPING">
+			<Text>Kidnapped Son</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_GERMANS_KIDNAPPING_DESC">
+			<Text>The son of a chieftain was recently captured in a raid led by the {1_Name} Tribe. The incident has caused great upheaval amongst the other tribes, who abhor the taking of live hostages, and they have appealed for you to intervene.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_GERMANS_KIDNAPPING_OUTCOME_1">
+			<Text>The son should be returned to their father.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_GERMANS_KIDNAPPING_OUTCOME_2">
+			<Text>We should ransom the son back to their father.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_GERMANS_KIDNAPPING_OUTCOME_3">
+			<Text>We should kill the boy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_GERMANS_KIDNAPPING_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_CULTURE] Culture[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_GERMANS_KIDNAPPING_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLDEN_AGE] Golden Age points[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {2_Num} [ICON_GOLD] Gold[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_GERMANS_KIDNAPPING_OUTCOME_RESULT_3">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_GOLDEN_AGE] Golden Age points[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_GERMANS_KIDNAPPING_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have returned the kidnapped son of a chieftain to their father.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_GERMANS_KIDNAPPING_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have returned the kidnapped son of a chieftain to their father at a ransom.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_GERMANS_KIDNAPPING_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>We have executed the kidnapped son of a chieftain.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

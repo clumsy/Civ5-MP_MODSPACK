@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Demand for De-militarisation -->
+		<Row Tag="TXT_KEY_EVENT_JFD_NAZI_GERMANY_DEMILITARISATION">
+			<Text>Demand for De-militarisation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NAZI_GERMANY_DEMILITARISATION_DESC">
+			<Text>An Ambassador from {1_CivName} has approached us with an ultimatum: we reduce the size of our armed forces, or they denounce us to the world as a military threat. Clearly, the fools in {1_CivName} have recognised our superior power. It would be damning for them to even think of denouncing us.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NAZI_GERMANY_DEMILITARISATION_OUTCOME_1">
+			<Text>Perhaps we should teach them a lesson.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NAZI_GERMANY_DEMILITARISATION_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]War is declared against {1_CivName}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_NAZI_GERMANY_DEMILITARISATION_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have determined that the best course of action is by declaring war against {1_CivName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NAZI_GERMANY_DEMILITARISATION_OUTCOME_2">
+			<Text>Then we shall reduce the size of our arms... for now.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NAZI_GERMANY_DEMILITARISATION_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]All Military Units not garrisoned in a city are disbanded (unless of level 3 or higher)[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_NAZI_GERMANY_DEMILITARISATION_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have agreed to {1_CivName}'s demands that we must reduce the size of our forces.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NAZI_GERMANY_DEMILITARISATION_OUTCOME_3">
+			<Text>They're bluffing...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NAZI_GERMANY_DEMILITARISATION_OUTCOME_RESULT_3">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]50% chance that {1_CivName} will denounce you[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_NAZI_GERMANY_DEMILITARISATION_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>We have called {1_CivName}'s bluff and stood by our armament. We knew they were too weak to denounce us.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_NAZI_GERMANY_DEMILITARISATION_OUTCOME_RESULT_3_ALT_NOTIFICATION">
+			<Text>As it so happens, {1_CivName} was not bluffing and they have denounced our refusal to de-militarise. We shall teach them a lesson in time.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_WORLD_EVENT_NAZI_GERMANY_DEMILITARISATION_1">
+			<Text>War has erupted between Germany and {1_CivName} in defiance of {2_LeaderName}'s demands for Adolf Hitler to de-militarise.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_WORLD_EVENT_NAZI_GERMANY_DEMILITARISATION_2">
+			<Text>Adolf Hitler of Germany has agreed to the demands of {1_LeaderName} of {2_CivName} and has pledged to de-militarise.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_WORLD_EVENT_NAZI_GERMANY_DEMILITARISATION_3">
+			<Text>Adolf Hitler of Germany has called {1_LeaderName} of {2_CivName}'s bluff and they have failed to denounce Germany's armament as promised.</Text>
+		</Row>
+		<!-- New Propaganda -->
+		<Row Tag="TXT_KEY_EVENT_JFD_NAZI_GERMANY_PROPAGANDA">
+			<Text>New Propaganda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NAZI_GERMANY_PROPAGANDA_DESC">
+			<Text>New propaganda material has been drawn up ready to promote the glorious will of the Führer. What is only left is to determine what the Führer's glorious will is and how this propaganda should be directed.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NAZI_GERMANY_PROPAGANDA_OUTCOME_1">
+			<Text>Well, let me tell you...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NAZI_GERMANY_PROPAGANDA_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain a free [ICON_GREAT_PEOPLE] Great Person of your choice[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_NAZI_GERMANY_PROPAGANDA_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have been presented with new propaganda material.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

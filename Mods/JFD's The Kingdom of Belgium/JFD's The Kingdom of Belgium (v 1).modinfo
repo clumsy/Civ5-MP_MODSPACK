@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="488c2bae-ea94-45f8-8d79-7e943d41e3ca" version="1">
+  <Properties>
+    <Name>JFD's The Kingdom of Belgium</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]the Kingdom of Belgium[ENDCOLOR] with Albert to the game.</Teaser>
+    <Description>See Steam Workshop or CivFanatics for full details.</Description>
+    <Authors>JFD, Janboruta</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="6676902b-b907-45f1-8db5-32dcb2135eee" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events and Decisions" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety &amp; Prestige " />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Unique Cultural Influence" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="A7073913A84BAD64137391F465A88644" import="0">Art/ArtDefines.sql</File>
+    <File md5="07FCF53AED1C2E1EB2C29C038BA16CBF" import="1">Art/Graphics/civ5_swerm1.fbx</File>
+    <File md5="C12E1992601585621BA69FB587C1E422" import="1">Art/Graphics/civ5_swerm1.fxsxml</File>
+    <File md5="E2FAA3CEC206A58D5F5FBAA778DA1BAF" import="1">Art/Graphics/civ5_swerm1.gr2</File>
+    <File md5="AE8384480CAD1D4BBBA0F83F567FC515" import="1">Art/Graphics/sv_Chasseur.dds</File>
+    <File md5="5FB636557846F6ED0395784E83E9F54A" import="1">Art/Graphics/swerm1.dds</File>
+    <File md5="505D25114B00306E1A284F8E145085AC" import="1">Art/Graphics/swerm1_sref.dds</File>
+    <File md5="FF567DEBFEAA6276AC0BCC87C973C714" import="1">Art/IconAtlas/JFD_BelgiumAlphaAtlas_128.dds</File>
+    <File md5="8F275D816A0764BF58F170BA86998A80" import="1">Art/IconAtlas/JFD_BelgiumAlphaAtlas_16.dds</File>
+    <File md5="9C110D3D16BBE6B632B75BCBB6822A8A" import="1">Art/IconAtlas/JFD_BelgiumAlphaAtlas_24.dds</File>
+    <File md5="20EFFA870AEC2E43375B41A3519EEA9A" import="1">Art/IconAtlas/JFD_BelgiumAlphaAtlas_32.dds</File>
+    <File md5="E4EC45BDB948AB88001D89ABD3E30856" import="1">Art/IconAtlas/JFD_BelgiumAlphaAtlas_45.dds</File>
+    <File md5="0D89BBE9DAC775479715E0148DEA226D" import="1">Art/IconAtlas/JFD_BelgiumAlphaAtlas_48.dds</File>
+    <File md5="0E3FDA772BFCEBEA6AAE26B57504DD74" import="1">Art/IconAtlas/JFD_BelgiumAlphaAtlas_64.dds</File>
+    <File md5="11DC93F9158850F3491EC3D43759428A" import="1">Art/IconAtlas/JFD_BelgiumAlphaAtlas_80.dds</File>
+    <File md5="417FCC8E24808D7E323D7EFEDB8AC60F" import="1">Art/IconAtlas/JFD_BelgiumAtlas_128.dds</File>
+    <File md5="4407031FED59222E98C6D534C1B37806" import="1">Art/IconAtlas/JFD_BelgiumAtlas_256.dds</File>
+    <File md5="9BBB5C3C75F4C9764B9897073CB24EAD" import="1">Art/IconAtlas/JFD_BelgiumAtlas_32.dds</File>
+    <File md5="40D8FBCE218385A175FACD1344F5755B" import="1">Art/IconAtlas/JFD_BelgiumAtlas_45.dds</File>
+    <File md5="E1DFF247439EA4CB56F3C67B76529D3D" import="1">Art/IconAtlas/JFD_BelgiumAtlas_64.dds</File>
+    <File md5="FB9D23E4A8ADB87F59D8BBEEFBB4861F" import="1">Art/IconAtlas/JFD_BelgiumAtlas_80.dds</File>
+    <File md5="F3DC7006535C2B464BC3672FA9169448" import="1">Art/IconAtlas/JFD_ChasseurUnitFlag_32.dds</File>
+    <File md5="4018D10FB376C08EA06488FAAE8BEB12" import="1">Art/IconAtlas/JFD_PralineFontIcons_22.ggxml</File>
+    <File md5="07FB41C77A84AADFF6BA3874B44503B3" import="1">Art/IconAtlas/Praline-FontIcons.dds</File>
+    <File md5="802B96FB13530E4358639E65829D761D" import="1">Art/Leaderscene/Albert_Diplo.dds</File>
+    <File md5="9D70A34A4A50A8D0BF5040A6CCB7E2C7" import="1">Art/Leaderscene/Albert_Scene.xml</File>
+    <File md5="8E63003CC25FA159D47A07E487B0E704" import="1">Art/Map/Albert_DOM.dds</File>
+    <File md5="E5BB32CD8A2DC8B6185689B7C23A362C" import="1">Art/Map/BelgiumMap512.dds</File>
+    <File md5="491F4FACCC46C87205C3DA2E9106CD99" import="1">Audio/Albert_Peace.mp3</File>
+    <File md5="347698720D76CC416292BC3197AD834C" import="1">Audio/Albert_War.mp3</File>
+    <File md5="1ABD7C094F92CFB1755021A2F5D28DF0" import="0">Audio/Audio.sql</File>
+    <File md5="8FD19C8BD1EBD527B21748DAFC8A66F2" import="0">Core/Bingles' Civ IV Traits Support/Leader_SharedTraits.sql</File>
+    <File md5="6B752F602039EA0788732AE77CBACE09" import="0">Core/Buildings.sql</File>
+    <File md5="3CCFBA0B53CFF8D7D052CCE2C98C754D" import="0">Core/Builds.sql</File>
+    <File md5="BD2B963C262963D6719E5F35B015EA58" import="0">Core/Civilizations.sql</File>
+    <File md5="24B7FC03B352D06580CC783ECA885251" import="0">Core/Diplomacy.sql</File>
+    <File md5="D35D18A28B5D2759A4BC0B30C5A78218" import="0">Core/DiplomacyText.xml</File>
+    <File md5="92D11DD5CEBAE85767463AE5B31D71AA" import="0">Core/GameText.xml</File>
+    <File md5="46A7A13ECBE4C328031F44AE3D8CADFB" import="0">Core/Gedemon's YnAEMP Support/CivilizationStartPos.sql</File>
+    <File md5="C64030033BB45847044F12C28D9BF1B4" import="0">Core/hazel16's Map Labels Support/ML_Tables.sql</File>
+    <File md5="048EF38356B1429CB91C7BA3D61A21E8" import="0">Core/Improvements.sql</File>
+    <File md5="510B78F7B200A5E983FC5C8A1BE164B2" import="0">Core/JFD's Cultural Diversity Support/Civilization_JFD_CultureTypes.sql</File>
+    <File md5="109B2D0DCC3FA59A314131B04F20E0C1" import="0">Core/JFD's Piety and Prestige Support/Flavours.sql</File>
+    <File md5="6CE070F87E66602D0861DC956ED96E85" import="0">Core/Leaderhead.sql</File>
+    <File md5="C6D2D307EFD504738146D4A849B6650D" import="0">Core/MinorCivilizations.sql</File>
+    <File md5="16D6ECFBEAD063E166D9180C58ADEC4B" import="0">Core/PlayerColours.sql</File>
+    <File md5="9D29DA795E823FFFC657245582718E0F" import="0">Core/Promotions.sql</File>
+    <File md5="ECDD01CA25E98CD18BAF1BB26CF77517" import="0">Core/Resources.sql</File>
+    <File md5="33F4D1D06CFD3963F22C83F1A890ACC0" import="0">Core/Ryoga's Unique Cultural Influence Support/GameText.xml</File>
+    <File md5="1DC9FF3A25C0ED7D7B6DBED9B19EE267" import="0">Core/Sukritact's Events Support/Events.sql</File>
+    <File md5="3B9A71E90ED9B96F213A25435107C7FF" import="0">Core/Sukritact's Events Support/GameText.xml</File>
+    <File md5="B1682402C8569A6EC6E9ACB6B3B411E0" import="0">Core/Sukritact's Decisions Support/Decisions.sql</File>
+    <File md5="AE82FF1C350D64651F75C7CA6C844988" import="0">Core/Sukritact's Decisions Support/GameText.xml</File>
+    <File md5="31E4535831782759D47EF083ED22BB0B" import="0">Core/Traits.sql</File>
+    <File md5="C9DDE238236D8BD78C855715722DF1A5" import="0">Core/Units.sql</File>
+    <File md5="4726325537A0D1A0545339B7B1DFE7C2" import="0">Lua/JFD_BelgiumFunctions.lua</File>
+    <File md5="4E609D2148005CC34957DB34EF356522" import="1">Lua/Sukritact's Events Support/JFD_BelgiumEvents.lua</File>
+    <File md5="ADEAC4993F9225544DCA2A846F93A33F" import="1">Lua/Sukritact's Decisions Support/JFD_BelgiumDecisions.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Audio/Audio.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Buildings.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Builds.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Civilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DiplomacyText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Improvements.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Leaderhead.sql</UpdateDatabase>
+      <UpdateDatabase>Core/MinorCivilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Core/PlayerColours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Promotions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Resources.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Units.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Gedemon's YnAEMP Support/CivilizationStartPos.sql</UpdateDatabase>
+      <UpdateDatabase>Core/hazel16's Map Labels Support/ML_Tables.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Decisions Support/Decisions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Decisions Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Cultural Diversity Support/Civilization_JFD_CultureTypes.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Piety and Prestige Support/Flavours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Ryoga's Unique Cultural Influence Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Events Support/Events.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Events Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Bingles' Civ IV Traits Support/Leader_SharedTraits.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_BelgiumFunctions.lua">
+      <Name>Belgium Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

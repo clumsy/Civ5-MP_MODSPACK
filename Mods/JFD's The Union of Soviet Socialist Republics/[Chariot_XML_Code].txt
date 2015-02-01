@@ -1,0 +1,24 @@
+  <!-- UNIT_CHARIOT_ARCHER************************************************ -->
+  <UnitMemberArtInfo>
+    <Type>ART_DEF_UNIT_MEMBER_CHARIOTARCHER</Type>
+    <fScale>0.13</fScale>
+    <Granny>Assets/Units/ChariotArcher/ChariotArcher/a4.fxsxml</Granny>
+    <Combat>
+      <Defaults>ART_DEF_TEMPLATE_MOUNTED</Defaults>
+      <iReformBeforeCombat>2</iReformBeforeCombat>
+      <RushAttackFormation>DefaultCavalry</RushAttackFormation>
+      <bHasStationaryMelee>1</bHasStationaryMelee>
+      <Weapon>
+        <WeaponTypeTag>METAL</WeaponTypeTag>
+        <WeaponTypeSoundOverrideTag>SWORD</WeaponTypeSoundOverrideTag>
+      </Weapon>
+      <Weapon>
+        <Usage>Vs_City ShortRange</Usage>
+        <fVisKillStrengthMin>10.0</fVisKillStrengthMin>
+        <fVisKillStrengthMax>20.0</fVisKillStrengthMax>
+        <WeaponTypeTag>FLAMING_ARROW</WeaponTypeTag>
+      </Weapon>
+    </Combat>
+    <MaterialTypeTag>CLOTH</MaterialTypeTag>
+    <MaterialTypeSoundOverrideTag>FLESH</MaterialTypeSoundOverrideTag>
+  </UnitMemberArtInfo>

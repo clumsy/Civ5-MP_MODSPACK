@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="bb6b0416-80b3-4f2a-9158-15d7fb878fd8" version="2">
+  <Properties>
+    <Name>JFD's The Republic of Carthage</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]the Republic of Carthage[ENDCOLOR] with Hannibal to the game.</Teaser>
+    <Description>See Steam Workshop or CivFanatics page for full details.</Description>
+    <Authors>JFD, Janboruta</Authors>
+    <SpecialThanks>Sukritact, Whoward, Wodhann</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="8c101299-95c5-4b28-b7ed-4e0f774857ef" minversion="0" maxversion="999" title="Historical Religions (BNW or GK)" />
+    <Mod id="6bc3cb6e-a697-491e-9347-5e3e02640f00" minversion="0" maxversion="999" title="Historical Religions Edit (BNW or GK)" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="88cf706d-7bf9-431a-b8e1-aa8a8514c462" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="DLL - Various Mod Components" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events and Decisions" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="D46AB2CA13CC3FF60F9274A09BFD9834" import="0">Art/ArtDefines.sql</File>
+    <File md5="EB8828D6824CEEEABB49392A85E25320" import="1">Art/Graphics/Knight_Greece.dds</File>
+    <File md5="8D412C5C0690701875F73C9A19D47185" import="1">Art/Graphics/Knight_Greece.fxsxml</File>
+    <File md5="413799326A76E995C67908DC6A0151B9" import="1">Art/Graphics/Knight_Greece.gr2</File>
+    <File md5="91EAD074AF42852D340723F70C3749B8" import="1">Art/Graphics/Knight_Greece_gloss.dds</File>
+    <File md5="A97F6601533363C2FE3FE14D12066FC5" import="1">Art/Graphics/Knight_Greece_Horse.dds</File>
+    <File md5="F12625F410AF7C4F816FA635E9B846AE" import="1">Art/Graphics/Knight_Greece_Horse_gloss.dds</File>
+    <File md5="BA7AAE4F30432673E5A478D1755E9FEC" import="1">Art/Graphics/Shellfish/shellfish.fxsxml</File>
+    <File md5="354CEEBB0F4353FB5CA1F452BD25BC54" import="1">Art/Graphics/Shellfish/shellfish.gr2</File>
+    <File md5="1C21659E9650C0223D38FD5DB7469D1D" import="1">Art/Graphics/Shellfish/shellfish_diff.dds</File>
+    <File md5="029A67BAE7F667B23E6E168DAA57CB00" import="1">Art/Graphics/Shellfish/shellfish_industrial.fxsxml</File>
+    <File md5="55C4190894B910B558178D441A9DBC10" import="1">Art/Graphics/Shellfish/shellfish_industrial.gr2</File>
+    <File md5="15E2DEBCBEA09EC4A7F97E0032680359" import="1">Art/Graphics/Shellfish/shellfish_sref.dds</File>
+    <File md5="4E9E5E58E3971909AA345B8CB96184DD" import="1">Art/Graphics/sv_ShellFish.dds</File>
+    <File md5="8197F016DB3BB21032173136F5949CD6" import="1">Art/Graphics/sv_Shophet.dds</File>
+    <File md5="7552209159DC9C56F0068D089381B8A4" import="1">Art/IconAtlas/civsymbolscolor128_expansion.dds</File>
+    <File md5="5B3F857DF12D5B749B39805274CA8FE8" import="1">Art/IconAtlas/civsymbolscolor256_expansion.dds</File>
+    <File md5="78026FBAD611F4915CB3435F924958CC" import="1">Art/IconAtlas/civsymbolscolor32_expansion.dds</File>
+    <File md5="D3F8A8107A1E70D43783D6D974A141C9" import="1">Art/IconAtlas/civsymbolscolor45_expansion.dds</File>
+    <File md5="650C73AF500C7AC7CFBCA59CD190ADC9" import="1">Art/IconAtlas/civsymbolscolor64_expansion.dds</File>
+    <File md5="E89251822AC2FD45DA95AAC9EE524FD4" import="1">Art/IconAtlas/civsymbolscolor80_expansion.dds</File>
+    <File md5="51F566B46EF7F9C95095D939DC52B68B" import="1">Art/IconAtlas/civsymbolswhite16_expansion.dds</File>
+    <File md5="23538E0C45E910397DB30EB0908E2368" import="1">Art/IconAtlas/civsymbolswhite24_expansion.dds</File>
+    <File md5="2B39913C43FD780B7202CC9EF6CEE3D1" import="1">Art/IconAtlas/civsymbolswhite32_expansion.dds</File>
+    <File md5="5076E670D4C7351692426975E057290B" import="1">Art/IconAtlas/civsymbolswhite45_expansion.dds</File>
+    <File md5="889AA417AB94A632F1AF8BBD71F94B35" import="1">Art/IconAtlas/civsymbolswhite48_expansion.dds</File>
+    <File md5="A361D815F7B40F17508681FAB6FB9056" import="1">Art/IconAtlas/civsymbolswhite64_expansion.dds</File>
+    <File md5="37D7CBCE7B9E45D438410626C5B5D0B9" import="1">Art/IconAtlas/civsymbolswhite80_expansion.dds</File>
+    <File md5="F9F64345D0F73D55F81D06B202B24720" import="1">Art/IconAtlas/JFD_CarthageDidoAlphaAtlas_128.dds</File>
+    <File md5="E9B8BE97421A5E02C92ECEFBF9293FFA" import="1">Art/IconAtlas/JFD_CarthageDidoAlphaAtlas_16.dds</File>
+    <File md5="AF651E495AB59BF8CB0859C51B800E0D" import="1">Art/IconAtlas/JFD_CarthageDidoAlphaAtlas_24.dds</File>
+    <File md5="68BD354D9E3CB28C2E7D712EECABBF2E" import="1">Art/IconAtlas/JFD_CarthageDidoAlphaAtlas_32.dds</File>
+    <File md5="315BA3371F86EB5A24AF83AD2E8B47EA" import="1">Art/IconAtlas/JFD_CarthageDidoAlphaAtlas_45.dds</File>
+    <File md5="5E8733A56748E6FB60E8892C6FF446B8" import="1">Art/IconAtlas/JFD_CarthageDidoAlphaAtlas_48.dds</File>
+    <File md5="57745FC119E56521E2A03800F6076F5C" import="1">Art/IconAtlas/JFD_CarthageDidoAlphaAtlas_64.dds</File>
+    <File md5="A0A847C406BC81BCA5093B2E31C7B656" import="1">Art/IconAtlas/JFD_CarthageDidoAlphaAtlas_80.dds</File>
+    <File md5="A83B9FA5E84FD17A81D202B51B9FD345" import="1">Art/IconAtlas/JFD_CarthageDidoAtlas_128.dds</File>
+    <File md5="6FD11CC53FAB1CA7AAE092CBEF1A4BCF" import="1">Art/IconAtlas/JFD_CarthageDidoAtlas_256.dds</File>
+    <File md5="24B145C9DE99E1A5090A39F261C16226" import="1">Art/IconAtlas/JFD_CarthageDidoAtlas_32.dds</File>
+    <File md5="BB72C1DE0CF4C57932F24741F18655BF" import="1">Art/IconAtlas/JFD_CarthageDidoAtlas_45.dds</File>
+    <File md5="4153EB2A4B4985FEFBA98D8E118CACD8" import="1">Art/IconAtlas/JFD_CarthageDidoAtlas_64.dds</File>
+    <File md5="57F29831CB0F71EEEBBD204F7624BCCA" import="1">Art/IconAtlas/JFD_CarthageDidoAtlas_80.dds</File>
+    <File md5="93F73327D2E9D1F7ABD49D1F7C0B16C1" import="1">Art/IconAtlas/JFD_CarthageHannibalAlphaAtlas_128.dds</File>
+    <File md5="66B6F4A63DEB8C579E7C41104A4A80FD" import="1">Art/IconAtlas/JFD_CarthageHannibalAlphaAtlas_16.dds</File>
+    <File md5="099C22E3F9570B6049ECE7F3F3B1AB40" import="1">Art/IconAtlas/JFD_CarthageHannibalAlphaAtlas_24.dds</File>
+    <File md5="829ED0AB1973C617CDB0C3A3501926F3" import="1">Art/IconAtlas/JFD_CarthageHannibalAlphaAtlas_32.dds</File>
+    <File md5="B5A96D33689FC1990568B2E149AE9C31" import="1">Art/IconAtlas/JFD_CarthageHannibalAlphaAtlas_45.dds</File>
+    <File md5="F71425B54C719547207B631BC6BE4E99" import="1">Art/IconAtlas/JFD_CarthageHannibalAlphaAtlas_48.dds</File>
+    <File md5="6BF7F4EE50705EC4CA27ECDF98E40810" import="1">Art/IconAtlas/JFD_CarthageHannibalAlphaAtlas_64.dds</File>
+    <File md5="FB2BAE1D8C01B10E6537868BA59A27E3" import="1">Art/IconAtlas/JFD_CarthageHannibalAlphaAtlas_80.dds</File>
+    <File md5="EFCA04305CE07D27C83D923442B1BF58" import="1">Art/IconAtlas/JFD_CarthageHannibalAtlas_128.dds</File>
+    <File md5="1EB098673F56E33E7BD03CAE3525C77D" import="1">Art/IconAtlas/JFD_CarthageHannibalAtlas_256.dds</File>
+    <File md5="4F062C091CA462C1494E211A7656A0DD" import="1">Art/IconAtlas/JFD_CarthageHannibalAtlas_32.dds</File>
+    <File md5="E08F2840CAEACECEE65FF3F09FD40BA8" import="1">Art/IconAtlas/JFD_CarthageHannibalAtlas_45.dds</File>
+    <File md5="D306A13DC33F1B68249C3793AF2995CD" import="1">Art/IconAtlas/JFD_CarthageHannibalAtlas_64.dds</File>
+    <File md5="A9C064BEF8111ED4AA51D3D4D5592741" import="1">Art/IconAtlas/JFD_CarthageHannibalAtlas_80.dds</File>
+    <File md5="194D4C1EEAF5EEB8A3AD107CB87A33B8" import="1">Art/IconAtlas/JFD_ShellFishFontIcons_22.ggxml</File>
+    <File md5="5C7ECF5081F4EF95956DEE89054ECC25" import="1">Art/IconAtlas/JFD_ShophetUnitFlag_32.dds</File>
+    <File md5="8E0131B4759A5E7E8A14B84BB185E343" import="1">Art/IconAtlas/Shellfish-FontIcons.dds</File>
+    <File md5="31C587165C3BA59D1743699E12F68DA6" import="1">Art/Leaderscene/Hannibal_Diplo.dds</File>
+    <File md5="C758738D8ED0D92520949DFAC57E0C69" import="1">Art/Leaderscene/Hannibal_Scene.xml</File>
+    <File md5="8831695543469A46E1F0B77EAF488CD1" import="1">Art/Map/CarthageHannibalMap512.dds</File>
+    <File md5="0C2DD4894D4B1C12DD490BE9DE1C9699" import="1">Art/Map/mapcarthage512.dds</File>
+    <File md5="EB6D1F193257DC87B71AE12E4DD45237" import="1">Art/Map/dom_Dido.dds</File>
+    <File md5="440F72ED0C3764A590534C875DF20988" import="1">Art/Map/Hannibal_DOM.dds</File>
+    <File md5="E2468B06F3164FCF129AF68BE0001F35" import="0">Audio/Audio.sql</File>
+    <File md5="9BFBED99C3F96BAA3DAD0D42F96964CF" import="1">Audio/Hannibal_Peace.mp3</File>
+    <File md5="CB5D76052BEF96434FC79597B450A824" import="1">Audio/Hannibal_War.mp3</File>
+    <File md5="1EE77377ACBA6658C234927F26CBF5CC" import="0">Core/Buildings.sql</File>
+    <File md5="261D70CE1B81635421CAE3E5F18DA65F" import="0">Core/Civilizations.sql</File>
+    <File md5="040CCC03AFC73A50C8B478DBC98DC9A5" import="0">Core/Diplomacy.sql</File>
+    <File md5="9E0CC5E916851BE59B48D4BE52499A27" import="0">Core/GameText.xml</File>
+    <File md5="A678B8E58DCCC94633C1F6C3FA68FFF8" import="0">Core/Gedemon's YnAEMP Support/CivilizationStartPos.sql</File>
+    <File md5="85E4A506C8F4380F49BB384112AEB311" import="0">Core/Improvements.sql</File>
+    <File md5="3E2EF4FFF7AB80F2F24FB2DC62C4A276" import="0">Core/Leaderhead.sql</File>
+    <File md5="2C14FDEFF5D18267955BD371E3E61C13" import="0">Core/PlayerColours.sql</File>
+    <File md5="B9E33FA763B6D77A4B5057213727D0AE" import="0">Core/Promotions.sql</File>
+    <File md5="9E1F156FC935A74C3DC49FF5E0AC82B3" import="0">Core/Resources.sql</File>
+    <File md5="01E9F00EDF6ECAF8793C19A6A35BD175" import="0">Core/Sukritact's Decisions Support/Decisions.sql</File>
+    <File md5="32EC9A8DCF0865314DBFF8926393714A" import="0">Core/Sukritact's Decisions Support/GameText.xml</File>
+    <File md5="11F9D6B300C11027BD724CA64574DE06" import="0">Core/Traits.sql</File>
+    <File md5="06A0BB94A3AFC4E79CDEA28D95D6C801" import="0">Core/Units.sql</File>
+    <File md5="408CD4B21F4BCA676BC353AFC410650C" import="0">Lua/JFD_CarthageFunctions.lua</File>
+    <File md5="D63DC8BB6AA0F310DD55B264DB49C7E2" import="1">Lua/PlotIterators.lua</File>
+    <File md5="F55F85B0A308A9B7FD3DDDD4FBF44F63" import="1">Lua/Sukritact's Decisions Support/JFD_CarthageDecisions.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Audio/Audio.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Buildings.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Civilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Improvements.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Leaderhead.sql</UpdateDatabase>
+      <UpdateDatabase>Core/PlayerColours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Promotions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Resources.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Units.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Gedemon's YnAEMP Support/CivilizationStartPos.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Decisions Support/Decisions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Decisions Support/GameText.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_CarthageFunctions.lua">
+      <Name>Carthage Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

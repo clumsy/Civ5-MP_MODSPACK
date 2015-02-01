@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="6c049286-e464-452d-9426-365d8875b2c6" version="3">
+  <Properties>
+    <Name>JFD's The Empire of Great Britain</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]the Empire of Great Britain[ENDCOLOR] with Victoria to the game.</Teaser>
+    <Description>See this mod's Steam or CivFanatics page for full details.</Description>
+    <Authors>JFD, Janboruta</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events and Decisions" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="2f0b6cd7-3bf5-4197-96f6-96c00787ef18" minversion="0" maxversion="999" title="Christianity Merge" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="d60c32bd-6826-4ca3-8161-2e37ebab5883" minversion="0" maxversion="999" title="Protestant Denominations" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="CCE517C3C53B2EAC62E0582972D25A1B" import="0">Art/ArtDefines.sql</File>
+    <File md5="235805143A760DDD9F22EDBA552F9774" import="1">Art/Graphics/Grand Carrack/u_british_carrack.fxsxml</File>
+    <File md5="44FF879C9C7ABAD55C7503F2CA84BEE9" import="1">Art/Graphics/Grand Carrack/u_british_carrack.gr2</File>
+    <File md5="53050466E292627D9D1EB25FF313B2D2" import="1">Art/Graphics/Grand Carrack/u_grand_carrack_damg_diff.dds</File>
+    <File md5="7F5EAA15149BD31A9D73334D9B6432F1" import="1">Art/Graphics/Grand Carrack/u_grand_carrack_diff.dds</File>
+    <File md5="7AFC633E0B37941897D553FDA038A426" import="1">Art/Graphics/Grand Carrack/u_grand_carrack_sref.dds</File>
+    <File md5="2CDB17CD1CF5A355A98905BC56FA3F24" import="1">Art/Graphics/Redocat/civ5_engrm1.fxsxml</File>
+    <File md5="47B4F4BA3F2180B816C855E5932D2D41" import="1">Art/Graphics/Redocat/civ5_engrm1.gr2</File>
+    <File md5="09A2C00D49DF2FF2CBB8A4481366D86D" import="1">Art/Graphics/Redocat/engrm1.dds</File>
+    <File md5="F85DE158C1881134130FC09224EED765" import="1">Art/Graphics/Redocat/engrm1_sref.dds</File>
+    <File md5="79804AFBD4C4C440C45662F4B4B820A4" import="1">Art/Graphics/Redocat/sv_redcoat.dds</File>
+    <File md5="79B11AD6C33977BF5367EB560EFC5763" import="1">Art/IconAtlas/JFD_GreatBritainAlphaAtlas_128.dds</File>
+    <File md5="4DA870823A84DFD7AF00D3CDF2A02899" import="1">Art/IconAtlas/JFD_GreatBritainAlphaAtlas_16.dds</File>
+    <File md5="F36CDB753E6E569758C614F152388CC8" import="1">Art/IconAtlas/JFD_GreatBritainAlphaAtlas_22.dds</File>
+    <File md5="2941438584BD5926B8423C4354BB2C0D" import="1">Art/IconAtlas/JFD_GreatBritainAlphaAtlas_24.dds</File>
+    <File md5="81A673E19E708091C4D091185756AC94" import="1">Art/IconAtlas/JFD_GreatBritainAlphaAtlas_32.dds</File>
+    <File md5="75A7CCCA5ADE6139CAD5BCCC501DA39D" import="1">Art/IconAtlas/JFD_GreatBritainAlphaAtlas_45.dds</File>
+    <File md5="16EB870FE68B8FC0975EF03F0C0B5E0A" import="1">Art/IconAtlas/JFD_GreatBritainAlphaAtlas_48.dds</File>
+    <File md5="546410CFA59A5B1E8662A31B70F500B1" import="1">Art/IconAtlas/JFD_GreatBritainAlphaAtlas_64.dds</File>
+    <File md5="08834C86A6FAED3125720A253260E655" import="1">Art/IconAtlas/JFD_GreatBritainAlphaAtlas_80.dds</File>
+    <File md5="B66637ED137E6175D79FDC5624E524BE" import="1">Art/IconAtlas/JFD_GreatBritainAtlas_128.dds</File>
+    <File md5="C3D990D7CEDB0479FCC8D80CB03C9E32" import="1">Art/IconAtlas/JFD_GreatBritainAtlas_256.dds</File>
+    <File md5="BBC55EAE0321FF2D16265B1B7308809E" import="1">Art/IconAtlas/JFD_GreatBritainAtlas_32.dds</File>
+    <File md5="23E306635F38EFA6D8F4FBEB0060EC56" import="1">Art/IconAtlas/JFD_GreatBritainAtlas_45.dds</File>
+    <File md5="0E810194ED65F7167C669E38A0B21F53" import="1">Art/IconAtlas/JFD_GreatBritainAtlas_64.dds</File>
+    <File md5="D443D7C2446398C86CBC7264B5FCFC73" import="1">Art/IconAtlas/JFD_GreatBritainAtlas_80.dds</File>
+    <File md5="1D44D58B3B91CABFEA35CC2D0546480F" import="1">Art/IconAtlas/UnitFlagGrandCarrackAtlas_32.dds</File>
+    <File md5="5575CD50C35EA9C66EB907156503730E" import="1">Art/IconAtlas/UnitFlagRedcoatAtlas_32.dds</File>
+    <File md5="FFFF91197598E99F8208270CDE440470" import="1">Art/Leaderscene/Victoria_diplo.dds</File>
+    <File md5="327DC2FDE92975EC71B5E6828C879B15" import="1">Art/Leaderscene/Victoria_Scene.xml</File>
+    <File md5="2666ABCC20BB78F653726C855EE50A14" import="1">Art/Map/GreatBritainMap512.dds</File>
+    <File md5="8FC8C83E46EE75BCE4FC24DE0687F63B" import="1">Art/Map/Victoria_DOM.dds</File>
+    <File md5="0931A01F67457F9BF272F852E57B0463" import="0">Audio/Audio.sql</File>
+    <File md5="EE24BB72EAE27E9C8DE4CC8CB801E1E0" import="1">Audio/Victoria_Peace.mp3</File>
+    <File md5="73E3D1D7C57DD1CDF917B72790ED7EBA" import="1">Audio/Victoria_War.mp3</File>
+    <File md5="6F6FED196E0531DDA80B25F4ABAD7DC5" import="0">Core/Bingles' Civ IV Traits Support/Leader_SharedTraits.sql</File>
+    <File md5="A129D3E29FAECED2C611B840AB402E30" import="0">Core/Buildings.sql</File>
+    <File md5="64E304DAF0BCC76C6F4ED49E4BACD36E" import="0">Core/Civilizations.sql</File>
+    <File md5="D35762EF2CA69C482CA7D0F9A291407D" import="0">Core/Diplomacy.sql</File>
+    <File md5="0DC18925EB2C6ECC8C94CCBA7AD16F5E" import="0">Core/DiplomacyText.xml</File>
+    <File md5="A296E839BF8A2D1A875E9E44372FC875" import="0">Core/GameText.xml</File>
+    <File md5="D856119558A25E1B3A55E5AB9901C936" import="0">Core/Gedemon's YnAEMP Support/CivilizationStartPos.sql</File>
+    <File md5="A27041F1B3BBFA3639317DE6FC6F2C1E" import="0">Core/hazel16's Map Labels Support/ML_Tables.sql</File>
+    <File md5="30798C9AAA7E67629CFFA41C96B7E7F7" import="0">Core/JFD's Cultural Diversity Support/Civilization_JFD_CultureTypes.sql</File>
+    <File md5="C1914C0E8DED486A3945C6465B01D9BC" import="0">Core/JFD's England Revision/GameText.xml</File>
+    <File md5="57C61C21FBCC6845DB40636F9814C676" import="0">Core/JFD's England Revision/Leaders.sql</File>
+    <File md5="0CC08A642261FDC5F8F198B8302DE8DD" import="0">Core/JFD's England Revision/Promotions.sql</File>
+    <File md5="79AD0CF0B3C9B349781DC843B7577F39" import="0">Core/JFD's England Revision/Traits.sql</File>
+    <File md5="A8761FF5381A9DD3A36F033AF3ACAA42" import="0">Core/JFD's England Revision/Units.sql</File>
+    <File md5="A0520C78E16EB6454A00C3DEBF829BF3" import="0">Core/JFD's Piety and Prestige Support/Flavours.sql</File>
+    <File md5="9E84FBC431E950D240476EC3FCC86ACA" import="0">Core/Leaderhead.sql</File>
+    <File md5="11328ED509618C3636C342B57CF3D30F" import="0">Core/PlayerColours.sql</File>
+    <File md5="8A021FEE014F1091EE6FEB9F2AF88C8B" import="0">Core/Promotions.sql</File>
+    <File md5="C8A9467484B104513AF92AE5FE963CA0" import="0">Core/Ryoga's Unique Cultural Influence Support/GameText.xml</File>
+    <File md5="1A783C1E2541719D7E02523869EDFDF9" import="0">Core/Sukritact's Events Support/Events.sql</File>
+    <File md5="1ACF16689D8AFE8247DF3FFF162C4759" import="0">Core/Sukritact's Events Support/GameText.xml</File>
+    <File md5="0C6A633424300F0F0E9F3DE611077DB0" import="0">Core/Sukritact's Decisions Support/Decisions.sql</File>
+    <File md5="DC851159C44EEE440B8E9A8AEF7D1E85" import="0">Core/Sukritact's Decisions Support/GameText.xml</File>
+    <File md5="7E401CFD5EE6E42F4FCFD6C13B041AB1" import="0">Core/Traits.sql</File>
+    <File md5="CC5A36B41AAEFCAD48BAD1209793BAA7" import="0">Core/Units.sql</File>
+    <File md5="482169FBD0CB165750D805CF19BDA9D4" import="0">Lua/JFD_GreatBritainFunctions.lua</File>
+    <File md5="A76C66962AF4F62DC7F3608C88901A9D" import="1">Lua/JFD_GreatBritainUtilities.lua</File>
+    <File md5="86C1C3EDCE4699DE320A932C4E70E22C" import="0">Lua/Sukritact's Modular City Info Stack/CityInfoStack.lua</File>
+    <File md5="120EB71025973A8A48B38314241DD0B3" import="0">Lua/Sukritact's Modular City Info Stack/CityInfoStack.xml</File>
+    <File md5="65E53A8BEF17950A38AD6193275316C2" import="0">Lua/Sukritact's Modular City Info Stack/JFD_GreatBritainCityInfo.lua</File>
+    <File md5="29EE41CD8DF1AB05B634ECE93ED1A459" import="0">Lua/Sukritact's Modular City Info Stack/JFD_GreatBritainCityInfo.xml</File>
+    <File md5="32DCA778D5E91A7ADCE5E05E8FD34B5C" import="0">Lua/Sukritact's Modular City Info Stack/JFD_RedcoatCityInfo.lua</File>
+    <File md5="46C05DEBDA65695D654E28B14976F566" import="0">Lua/Sukritact's Modular City Info Stack/JFD_RedcoatCityInfo.xml</File>
+    <File md5="CD96BBEF921BF3918A86ECFBBDBA6408" import="1">Lua/Sukritact's Events Support/JFD_GreatBritainEvents.lua</File>
+    <File md5="CB0FC185A2E17C0BDB50038805D0A08A" import="1">Lua/Sukritact's Decisions Support/JFD_GreatBritainDecisions.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Audio/Audio.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Buildings.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Civilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DiplomacyText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Leaderhead.sql</UpdateDatabase>
+      <UpdateDatabase>Core/PlayerColours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Promotions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Units.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Gedemon's YnAEMP Support/CivilizationStartPos.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Decisions Support/Decisions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Decisions Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Events Support/Events.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Events Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Piety and Prestige Support/Flavours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/hazel16's Map Labels Support/ML_Tables.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Cultural Diversity Support/Civilization_JFD_CultureTypes.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Ryoga's Unique Cultural Influence Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's England Revision/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's England Revision/Leaders.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's England Revision/Promotions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's England Revision/Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's England Revision/Units.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Bingles' Civ IV Traits Support/Leader_SharedTraits.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_GreatBritainFunctions.lua">
+      <Name>JFD_GreatBritainFunctions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Sukritact's Modular City Info Stack/JFD_RedcoatCityInfo.lua">
+      <Name>JFD_RedcoatCityInfo</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Sukritact's Modular City Info Stack/JFD_GreatBritainCityInfo.lua">
+      <Name>JFD_GreatBritainCityInfo</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Sukritact's Modular City Info Stack/CityInfoStack.lua">
+      <Name>Sukritact's City Info Stack</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

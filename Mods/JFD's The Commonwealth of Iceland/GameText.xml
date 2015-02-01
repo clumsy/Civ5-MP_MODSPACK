@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Religious Hermit -->
+		<Row Tag="TXT_KEY_EVENT_JFD_ICELAND_RELIGIOUS_HERMIT">
+			<Text>Religious Hermit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_ICELAND_RELIGIOUS_HERMIT_DESC">
+			<Text>One of our soldiers has stumbled across an old, religious monk living far alone from civilisation. His religious views are unfamiliar to us, and go against our own. What should we do with him?[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_ICELAND_RELIGIOUS_HERMIT_OUTCOME_1">
+			<Text>We should bring him back to our capital so that he may teach us his faith.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_ICELAND_RELIGIOUS_HERMIT_OUTCOME_2">
+			<Text>We should kill him.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_ICELAND_RELIGIOUS_HERMIT_OUTCOME_3">
+			<Text>We should leave him be.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_ICELAND_RELIGIOUS_HERMIT_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Your [ICON_CAPITAL] Capital adopts {1_Religion}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_ICELAND_RELIGIOUS_HERMIT_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} {2_Yield}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_ICELAND_RELIGIOUS_HERMIT_OUTCOME_RESULT_3">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Nothing[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_ICELAND_RELIGIOUS_HERMIT_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have been introduced to the teachings of {1_ReligionName} by a religious hermit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_ICELAND_RELIGIOUS_HERMIT_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>In honour of our traditional ways, we have killed a religious hermit who believed in something different.</Text>
+		</Row>
+		<!-- Sturlung Pressures -->
+		<Row Tag="TXT_KEY_EVENT_JFD_ICELAND_STURLUNG_PRESSURES">
+			<Text>Sturlung Pressures</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_ICELAND_STURLUNG_PRESSURES_DESC">
+			<Text>
+				The Sturlung clan, wealthy and powerful throughout Iceland, have begun to place pressure upon the Althing; our parliament. Their influence is inescapable, and threatens the sanctity of our equitable system. However, if we respond, they may seek to displace the Althing completely, and Iceland could descend into civil war.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_ICELAND_STURLUNG_PRESSURES_OUTCOME_1">
+			<Text>We must remind them of their place in our society.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_ICELAND_STURLUNG_PRESSURES_OUTCOME_2">
+			<Text>We must strip them of their arms.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_ICELAND_STURLUNG_PRESSURES_OUTCOME_3">
+			<Text>We must support them, so that, should they rise in power, we are in their favour.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_ICELAND_STURLUNG_PRESSURES_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]30% chance that the Sturlings will revolt[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]The [ICON_CAPITAL] Capital and all cities with a Thingstead begin celebrating 'We Love the King Day' for 20 turns.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_ICELAND_STURLUNG_PRESSURES_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]The Sturlings will revolt[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain a free [ICON_GREAT_PEOPLE] Skald[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_ICELAND_STURLUNG_PRESSURES_OUTCOME_RESULT_3">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]All cities with a Thingstead go into 1 turn of [ICON_RESISTANCE] resistance[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_GOLD] Gold and {2_Num} [ICON_CULTURE] Culture[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_ICELAND_STURLUNG_PRESSURES_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have spoken with the head of the Sturlung clan and have ensured that they know their place beneath the Althing.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_ICELAND_STURLUNG_PRESSURES_OUTCOME_RESULT_1_ALT_NOTIFICATION">
+			<Text>We have spoken with the head of the Sturlung clan and have ensured that they know their place beneath the Althing. They did not take kindly to this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_ICELAND_STURLUNG_PRESSURES_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>In our attempt to strip the Sturlung clan of their arms, the head of the clan eviscerated one of our guards and by this action has declared a revolt against the Althing. Our guess is that they preferred keeping their arms.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_ICELAND_STURLUNG_PRESSURES_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>We have decided to support the Sturlungs slow creep to non-democratic power.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_ICELAND_STURLUNG_PRESSURES">
+			<Text>Ingolfur Arnarson of Iceland faces pressures from the powerful Sturlung clan.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_ICELAND_STURLUNG_PRESSURES_ALT">
+			<Text>A revolt has broken out in Iceland led by the Sturlung clan.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

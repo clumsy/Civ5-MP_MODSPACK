@@ -1,0 +1,11 @@
+--==========================================================================================================================
+-- UnitPromotions
+--==========================================================================================================================	
+INSERT OR REPLACE INTO UnitPromotions 
+			(Type, 														Description, 														Help, 																	Sound, 				CannotBeChosen, MovesChange,	OutsideFriendlyLandsModifier, 	PortraitIndex, 	IconAtlas, 			PediaType, 			PediaEntry)
+VALUES		('PROMOTION_JFD_DANO_NORWEGIAN_SKI_INFANTRY_EXTRA_MOVES',	'TXT_KEY_PROMOTION_JFD_DANO_NORWEGIAN_SKI_INFANTRY_EXTRA_MOVES', 	'TXT_KEY_PROMOTION_JFD_DANO_NORWEGIAN_SKI_INFANTRY_EXTRA_MOVES_HELP',	'AS2D_IF_LEVELUP', 	1, 				2, 				0, 								59, 			'ABILITY_ATLAS', 	'PEDIA_ATTRIBUTES', 'TXT_KEY_PROMOTION_JFD_DANO_NORWEGIAN_SKI_INFANTRY_EXTRA_MOVES'),
+			('PROMOTION_JFD_DANO_NORWEGIAN_SKI_INFANTRY_MOVES',			'TXT_KEY_PROMOTION_JFD_DANO_NORWEGIAN_SKI_INFANTRY_MOVES',			'TXT_KEY_PROMOTION_JFD_DANO_NORWEGIAN_SKI_INFANTRY_MOVES_HELP',			'AS2D_IF_LEVELUP', 	1, 				0, 				0, 								59, 			'ABILITY_ATLAS', 	'PEDIA_ATTRIBUTES', 'TXT_KEY_PROMOTION_JFD_DANO_NORWEGIAN_SKI_INFANTRY_MOVES'),
+			('PROMOTION_JFD_LAND_UNIT_BONUS_LONGBOAT', 					'TXT_KEY_PROMOTION_JFD_LAND_UNIT_BONUS_LONGBOAT', 					'TXT_KEY_PROMOTION_JFD_LAND_UNIT_BONUS_LONGBOAT_HELP',					'AS2D_IF_LEVELUP', 	1, 				0, 				0, 								59, 			'ABILITY_ATLAS', 	'PEDIA_ATTRIBUTES', 'TXT_KEY_PROMOTION_JFD_LAND_UNIT_BONUS_LONGBOAT'),
+			('PROMOTION_JFD_LAND_UNIT_BONUS', 							'TXT_KEY_PROMOTION_JFD_LAND_UNIT_BONUS', 							'TXT_KEY_PROMOTION_JFD_LAND_UNIT_BONUS_HELP', 							'AS2D_IF_LEVELUP', 	1, 				0, 				20, 							59, 			'ABILITY_ATLAS', 	'PEDIA_ATTRIBUTES', 'TXT_KEY_PROMOTION_JFD_LAND_UNIT_BONUS');
+--==========================================================================================================================
+--==========================================================================================================================

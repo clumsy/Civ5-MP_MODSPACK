@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="fabf38f3-2bb1-497e-af87-6dcbeb0bba92" version="2">
+  <Properties>
+    <Name>JFD's The Germans</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]The Germans[ENDCOLOR] with Arminius to the game.</Teaser>
+    <Description>See CivFanatics or Steam Workshop for full details.</Description>
+    <Authors>JFD, Janboruta</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety &amp; Prestige" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events &amp; Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="DLL - Various Mod Components" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="891CB39D06043C63BDF103B932389AAE" import="0">Art/ArtDefines.sql</File>
+    <File md5="04B533DDECAA98EF91480FA795FEA9B1" import="1">Art/Graphics/Slaganz/BearWarrior.dds</File>
+    <File md5="6275A9E4EEDB18C17252A507FC5602E1" import="1">Art/Graphics/Slaganz/BearWarrior.fxsxml</File>
+    <File md5="0A78B94DD5B0A1FACA0B916FAB0BA70D" import="1">Art/Graphics/Slaganz/BearWarrior.gr2</File>
+    <File md5="51B68770A80E2C3CAA2E51D684B61858" import="1">Art/Graphics/Slaganz/BearWarrior_sref.dds</File>
+    <File md5="BFA1A7413AC115F1196848AF7A31858B" import="1">Art/Graphics/Slaganz/sv_Slaganz.dds</File>
+    <File md5="D5D6D034866F88D1B474F5A98A93E6F6" import="1">Art/Graphics/sv_Encampment.dds</File>
+    <File md5="1F6F5B6EFBC08B7143162DF6C6335247" import="1">Art/Graphics/sv_EncampmentUpgraded.dds</File>
+    <File md5="577EF72CBF5DE34C59A79AE2805AF0C0" import="1">Art/Graphics/Village/fx_triggers_pl_mod_town.ftsxml</File>
+    <File md5="AA6525167F2880B1B25A8DEE2CC76165" import="1">Art/Graphics/Village/mod_town1.fxsxml</File>
+    <File md5="E751979E7E52A604EA7784725196EDB7" import="1">Art/Graphics/Village/mod_town1.gr2</File>
+    <File md5="66918BD09A54E09647BD28387E08CC4A" import="1">Art/Graphics/Village/mod_town2.fxsxml</File>
+    <File md5="9038FF77933CDB7E274AA04240763EFB" import="1">Art/Graphics/Village/mod_town2.gr2</File>
+    <File md5="364339278C24B7D1D93AC3ED2197D652" import="1">Art/Graphics/Village/mod_town3.fxsxml</File>
+    <File md5="95C1FBA2ACC167F5699EFE30D16C9C5F" import="1">Art/Graphics/Village/mod_town3.gr2</File>
+    <File md5="3D1964968D4A3793DEB34A7774525D8C" import="1">Art/Graphics/Village/mod_town4.fxsxml</File>
+    <File md5="AF76552A0420C1C202CDC8A02D8215C8" import="1">Art/Graphics/Village/mod_town4.gr2</File>
+    <File md5="FDFDAF6A6CAC6FCA379EFA622EA2ACA2" import="1">Art/Graphics/Village/mod_town_decal_d.dds</File>
+    <File md5="943E528D220345A83CDE2AEB61A1D09E" import="1">Art/Graphics/Village/mod_town_decal_h.dds</File>
+    <File md5="3EC8353FC0570955963C14559403B83E" import="1">Art/Graphics/Village/mod_town_decal_s.dds</File>
+    <File md5="FFF1D0E923484CEED49C21B73D920F39" import="1">Art/Graphics/Village/mod_town_diff.dds</File>
+    <File md5="D1C172034F46DD95DB3E93BDD19C59FD" import="1">Art/Graphics/Village/mod_town_sref.dds</File>
+    <File md5="E99A43DEA212BBA8A7795F9402AF9ECA" import="1">Art/Graphics/Village/pl_mod_town1.fxsxml</File>
+    <File md5="971A32D6BDD3B83BEA82833D65748088" import="1">Art/Graphics/Village/pl_mod_town1.gr2</File>
+    <File md5="4AA966217E6746BE7F0EE13806126190" import="1">Art/Graphics/Village/pl_mod_town2.fxsxml</File>
+    <File md5="2731ADBB7A38E1AF0199F6F6BDC10A95" import="1">Art/Graphics/Village/pl_mod_town2.gr2</File>
+    <File md5="C5B8DD828EFEB74D228CD4A52E9747A6" import="1">Art/Graphics/Village/pl_mod_town3.fxsxml</File>
+    <File md5="A2572D79A94DA1D20418EBF734214D72" import="1">Art/Graphics/Village/pl_mod_town3.gr2</File>
+    <File md5="7C79A18D3DFC83E0BED7A6925C39889F" import="1">Art/Graphics/Village/pl_mod_town4.fxsxml</File>
+    <File md5="AB08DEBA037BB68E95BBA16F6FE04516" import="1">Art/Graphics/Village/pl_mod_town4.gr2</File>
+    <File md5="2E827FB56A989FECDE663D943662D89D" import="1">Art/Graphics/Village/pl_mod_town_decal_d.dds</File>
+    <File md5="30ADEC29EB03EB28568ABCD4EB004E4A" import="1">Art/Graphics/Village/pl_mod_town_diff.dds</File>
+    <File md5="18967884306F25EC1695C11AF948D878" import="0">Art/IconAtlas/GameText.xml</File>
+    <File md5="15F5BA22DDD5DB7C37273E3C4E6BF982" import="1">Art/IconAtlas/JFD_EncampmentAtlas_256.dds</File>
+    <File md5="722F6C1333B2329F2A3CD25316C4086E" import="1">Art/IconAtlas/JFD_EncampmentAtlas_64.dds</File>
+    <File md5="0EC2BCC3CC4652D62544768D8C7C79B8" import="1">Art/IconAtlas/JFD_EncampmentGoldUnitActionAtlas_45.dds</File>
+    <File md5="77144FD7E7C418ADA4F16BF2A0D8E2C7" import="1">Art/IconAtlas/JFD_EncampmentGoldUnitActionAtlas_64.dds</File>
+    <File md5="437C4AE3E4DCDAD7FC2D1B3AE90364D3" import="1">Art/IconAtlas/JFD_EncampmentUnitActionAtlas_45.dds</File>
+    <File md5="567E0424D441AF0141B48AEA1F00B321" import="1">Art/IconAtlas/JFD_EncampmentUnitActionAtlas_64.dds</File>
+    <File md5="BB2A99C7471B8E32C5E065A775C58935" import="1">Art/IconAtlas/JFD_GermansAlphaAtlas_128.dds</File>
+    <File md5="B2DE050B8F5142A06D37048AC5400E3D" import="1">Art/IconAtlas/JFD_GermansAlphaAtlas_16.dds</File>
+    <File md5="7A6A6F67683257BFD6D144841C4BC69A" import="1">Art/IconAtlas/JFD_GermansAlphaAtlas_22.dds</File>
+    <File md5="A1ADD8C85C76E11630BC8039605A7E96" import="1">Art/IconAtlas/JFD_GermansAlphaAtlas_24.dds</File>
+    <File md5="A293F76BC2EB70841F00DAD4BCB92F68" import="1">Art/IconAtlas/JFD_GermansAlphaAtlas_32.dds</File>
+    <File md5="69E262A8CDEB01F0085C0B8C169021B6" import="1">Art/IconAtlas/JFD_GermansAlphaAtlas_45.dds</File>
+    <File md5="1DD73402FA91C779DCCF17014B80C995" import="1">Art/IconAtlas/JFD_GermansAlphaAtlas_48.dds</File>
+    <File md5="D4C4DD8BD0D34F17936BDC1B8F51A4B7" import="1">Art/IconAtlas/JFD_GermansAlphaAtlas_64.dds</File>
+    <File md5="0F10505C8A46254BE3DB2A4156060520" import="1">Art/IconAtlas/JFD_GermansAlphaAtlas_80.dds</File>
+    <File md5="3F3E2DEFD871C9E850D454B410942E79" import="1">Art/IconAtlas/JFD_GermansAtlas_128.dds</File>
+    <File md5="C7613B2BCD1633907EB9831C5C75BA32" import="1">Art/IconAtlas/JFD_GermansAtlas_256.dds</File>
+    <File md5="F8FC8F80F03793948CC692244E058942" import="1">Art/IconAtlas/JFD_GermansAtlas_32.dds</File>
+    <File md5="1CC67ACA4BE3EC2D3D7054EF6F920894" import="1">Art/IconAtlas/JFD_GermansAtlas_45.dds</File>
+    <File md5="A43FE0D0F4F470BB0DFD87ABE076B7F1" import="1">Art/IconAtlas/JFD_GermansAtlas_64.dds</File>
+    <File md5="870194A632CE7EA525D2A48E44F3004D" import="1">Art/IconAtlas/JFD_GermansAtlas_80.dds</File>
+    <File md5="1CDA53A8A6A708E34F36B9B561144FE1" import="1">Art/IconAtlas/JFD_GermanTribesAtlas_256.dds</File>
+    <File md5="01E2BB37D176FF73B974B8F866C68F86" import="1">Art/IconAtlas/JFD_GermanTribesAtlas_45.dds</File>
+    <File md5="28AA7EE5323F6801E6C400094865B6FD" import="1">Art/IconAtlas/JFD_GermanTribesAtlas_64.dds</File>
+    <File md5="7C4565B8EB10D12312B22730661241AF" import="1">Art/IconAtlas/JFD_SlaganzUnitFlag_32.dds</File>
+    <File md5="9E9AA89C1B22A5320990B90EF64A6C1E" import="1">Art/Leaderscene/Arminius_Diplo.dds</File>
+    <File md5="0E40AB29B5FB09C7E2792DB5B854EC01" import="1">Art/Leaderscene/Arminius_Scene.xml</File>
+    <File md5="17DA7AD6D2EE01711B64460226980E74" import="1">Art/Map/Arminius_DOM.dds</File>
+    <File md5="034CD2D44B5F4C42D20BD5DA61972C10" import="1">Art/Map/GermansMap512.dds</File>
+    <File md5="2DFB044C13C8334EE678D88E2637AEEC" import="1">Audio/Arminius_Peace.mp3</File>
+    <File md5="3F3B0832BD0ECAF37F8EB8B49687603C" import="1">Audio/Arminius_War.mp3</File>
+    <File md5="A6ABA44C632370FBEB3F27BC85C90B43" import="0">Audio/Audio.sql</File>
+    <File md5="1E2BEB88953C4A89474D18EEF8C476A0" import="0">Core/Bingles' Civ IV Traits Support/Leader_SharedTraits.sql</File>
+    <File md5="3617475A7295F978DBC6BABB2241E2F4" import="0">Core/Builds.sql</File>
+    <File md5="3C9EAF5DE1E535A49B731166BE84C02E" import="0">Core/Civilizations.sql</File>
+    <File md5="E59582CE699CF43A27C4925D61BD1594" import="0">Core/Diplomacy.sql</File>
+    <File md5="4475F19734C53D3F762950384B90F761" import="0">Core/DiplomacyText.xml</File>
+    <File md5="0B971793A905338EE3DFE3F229B9193F" import="0">Core/GameText.xml</File>
+    <File md5="5EAE417C8DECB641DC119271CBA980A0" import="0">Core/Gedemon's YnAEMP Support/CivilizationStartPos.sql</File>
+    <File md5="1156D31FA09B9F5FEC76962CAFBEF397" import="0">Core/hazel16's Map Labels Support/ML_Tables.sql</File>
+    <File md5="0DBC57FA48A0D69C9F85ABE3D8C190BB" import="0">Core/Improvements.sql</File>
+    <File md5="05C00BCF89035174644F052E66EFCED7" import="0">Core/JFD's Cultural Diversity Support/Civilization_JFD_CultureTypes.sql</File>
+    <File md5="3A58B48A4A72D0515245CE427919C8EF" import="0">Core/JFD's Germany Revision/New UA/Buildings.sql</File>
+    <File md5="0CCF5FD2323467234B8274604837EB2D" import="0">Core/JFD's Germany Revision/New UA/GameText.xml</File>
+    <File md5="2B30AE475195286CB8800B27B47A504D" import="0">Core/JFD's Germany Revision/New UA/JFD_GermanyFunctions.lua</File>
+    <File md5="DF97C76E5EACA0ADF657E5DCFD4504B3" import="0">Core/JFD's Germany Revision/New UA/Traits.sql</File>
+    <File md5="386151F0B491DE7BB35D3E7EF19DFEDC" import="0">Core/JFD's Germany Revision/New UU/Art/ArtDefines.sql</File>
+    <File md5="8EBC8FB1C485B508848DA63AD52EEF5F" import="1">Core/JFD's Germany Revision/New UU/Art/JFD_Jaeger_128.dds</File>
+    <File md5="8F0C290FD8B45E5AC45DE13F0E9F1E97" import="1">Core/JFD's Germany Revision/New UU/Art/JFD_Jaeger_256.dds</File>
+    <File md5="2E3478090FFD88F4C26FCEC727449FC7" import="1">Core/JFD's Germany Revision/New UU/Art/JFD_Jaeger_45.dds</File>
+    <File md5="84E3687609F2958F98BA418C88706F12" import="1">Core/JFD's Germany Revision/New UU/Art/JFD_Jaeger_64.dds</File>
+    <File md5="F36DC5F450F5192AD3FADEF930C0435E" import="1">Core/JFD's Germany Revision/New UU/Art/JFD_Jaeger_80.dds</File>
+    <File md5="DC4F37151DA851F4E9707273B6717BC9" import="1">Core/JFD's Germany Revision/New UU/Art/Unit_Jaeger_Flag_32.dds</File>
+    <File md5="5AC070DE63D778E5A4F49C0714A8CEF9" import="0">Core/JFD's Germany Revision/New UU/As Hanse Replacement/Civilizations.sql</File>
+    <File md5="09CE2153C3367619FFA67BE1A03097E6" import="0">Core/JFD's Germany Revision/New UU/Civilizations.sql</File>
+    <File md5="2D56E23072C0B9BB4A3EC0EE224F86BC" import="0">Core/JFD's Germany Revision/New UU/GameText.xml</File>
+    <File md5="A3F63AB768EC7604D162ACBE7664D51C" import="1">Core/JFD's Germany Revision/New UU/Graphics/jaeger.dds</File>
+    <File md5="95D05F683FAE65A660E516F0A3C02391" import="1">Core/JFD's Germany Revision/New UU/Graphics/jaeger.fxsxml</File>
+    <File md5="8A704AC88F7A99C3EBDDEBA545ECF3BC" import="1">Core/JFD's Germany Revision/New UU/Graphics/jaeger.gr2</File>
+    <File md5="D6CB61760E74395DACB4F569496F9004" import="1">Core/JFD's Germany Revision/New UU/Graphics/jaeger_sref.dds</File>
+    <File md5="ACB97853D03E433EE76211EAD18E6133" import="1">Core/JFD's Germany Revision/New UU/Graphics/sv_Jaeger.dds</File>
+    <File md5="491DB54B6B35796D3E18E3CD7339E01A" import="0">Core/JFD's Germany Revision/New UU/Promotions.sql</File>
+    <File md5="81EE388BDC9563618C22BAA9387A0C3D" import="0">Core/JFD's Germany Revision/New UU/Units.sql</File>
+    <File md5="8BA74F6C56E9025C5C61303946448880" import="0">Core/JFD's Piety and Prestige Support/Flavours.sql</File>
+    <File md5="A2F8AF485B4249FC8E66903666B17670" import="0">Core/Leaderhead.sql</File>
+    <File md5="8D83187D03739F280581780F68930E78" import="0">Core/PlayerColours.sql</File>
+    <File md5="8766282E9EF0C2AAD5546161B4E7420C" import="0">Core/Promotions.sql</File>
+    <File md5="9B11F540044D247AA7A31F9531360401" import="0">Core/Ryoga's Unique Cultural Influence Support/GameText.xml</File>
+    <File md5="343D13D7CDFCE3E464CB32B9E8AA3B1A" import="0">Core/Sukritact's Decisions Support/Decisions.sql</File>
+    <File md5="9D03D1C123A3C88CD708BDC91DB38A4F" import="0">Core/Sukritact's Decisions Support/GameText.xml</File>
+    <File md5="C135161F411F528E21DAFD4B352EBD02" import="0">Core/Sukritact's Events Support/Events.sql</File>
+    <File md5="778B0C39C9EC5FEEC1150FA6BD378A6E" import="0">Core/Sukritact's Events Support/GameText.xml</File>
+    <File md5="EF6FA4831B6AFD17329D88B289FCE1A8" import="0">Core/Traits.sql</File>
+    <File md5="4D17688230E813FE251D413673C313CD" import="0">Core/Units.sql</File>
+    <File md5="7863445E68952E402BE984EF4CB0FDF1" import="0">Core/Whowards DLL Support/CustomModOptions.sql</File>
+    <File md5="B9A52D8CB699E247AF4DD47FB996E836" import="0">Lua/JFD_GermansFunctions.lua</File>
+    <File md5="AFB71F407A2EB74761B7D291B9C426AF" import="0">Lua/JFD_GermansFunctions.xml</File>
+    <File md5="3B7B1EE92949FC3B7B9308074F036BEB" import="1">Lua/NewSaveUtils.lua</File>
+    <File md5="00650B1FF67713C4C601031ECECBE0D9" import="1">Lua/PlotIterators.lua</File>
+    <File md5="ED6165A68C355C5DDC787AC593D072DD" import="1">Lua/Sukritact's Decisions Support/JFD_GermansDecisions.lua</File>
+    <File md5="A8A09A25FCAB4E67B3E6AE54877033DA" import="1">Lua/Sukritact's Events Support/JFD_GermansEvents.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Audio/Audio.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Gedemon's YnAEMP Support/CivilizationStartPos.sql</UpdateDatabase>
+      <UpdateDatabase>Core/hazel16's Map Labels Support/ML_Tables.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Cultural Diversity Support/Civilization_JFD_CultureTypes.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Piety and Prestige Support/Flavours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Ryoga's Unique Cultural Influence Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Events Support/Events.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Events Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Decisions Support/Decisions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Decisions Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Bingles' Civ IV Traits Support/Leader_SharedTraits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Whowards DLL Support/CustomModOptions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Builds.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Civilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DiplomacyText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Improvements.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Leaderhead.sql</UpdateDatabase>
+      <UpdateDatabase>Core/PlayerColours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Promotions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Units.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Germany Revision/New UA/Buildings.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Germany Revision/New UA/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Germany Revision/New UA/Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Germany Revision/New UU/Art/ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Germany Revision/New UU/Civilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Germany Revision/New UU/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Germany Revision/New UU/Promotions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Germany Revision/New UU/Units.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_GermansFunctions.lua">
+      <Name>JFD_GermansFunctions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Core/JFD's Germany Revision/New UA/JFD_GermanyFunctions.lua">
+      <Name>JFD_GermanyFunctions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

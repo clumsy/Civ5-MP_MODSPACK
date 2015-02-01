@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="1cf92123-3e7f-4239-82a7-9efd4cd3e521" version="2">
+  <Properties>
+    <Name>JFD's The Kingdom of Bohemia</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]The Kingdom of Bohemia[ENDCOLOR] with Vaclav II to the game.</Teaser>
+    <Description>See CivFanatics or Steam Workshop for full details.</Description>
+    <Authors>JFD, Janboruta, Leugi</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety &amp; Prestige " />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events &amp; Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="04BEDFA3832FDD7E2E32AE1B8F35691E" import="0">Art/ArtDefines.sql</File>
+    <File md5="B3EE62E3AEA1E542A65CEFC326960855" import="1">Art/Graphics/bohemian_tabor.gr2</File>
+    <File md5="D48CE0162A6C5D1A3E9BF6EDFA2C142E" import="1">Art/Graphics/flag_Tabor_32.dds</File>
+    <File md5="B2E09E60F5919541A01AA828FC047498" import="1">Art/Graphics/sv_Tabor.dds</File>
+    <File md5="69653871B5A873178EDA982CC2BE075F" import="1">Art/Graphics/tabor.fxsxml</File>
+    <File md5="61EA5CD8EF74B5F295B812C3434D2335" import="1">Art/Graphics/tabor_diff.dds</File>
+    <File md5="CF9EC3E076BB29AE0D0D94BF5A5761F2" import="1">Art/Graphics/tabor_sref.dds</File>
+    <File md5="A9C9644D9F5929513BCC12D0D3024ABF" import="1">Art/Icon Atlas/JFD_BohemiaAlphaAtlas_128.dds</File>
+    <File md5="6229A9C3E1F5977FE7BEA2BF2F32C307" import="1">Art/Icon Atlas/JFD_BohemiaAlphaAtlas_16.dds</File>
+    <File md5="83C6086EBF440232DF14FC916BB71A3D" import="1">Art/Icon Atlas/JFD_BohemiaAlphaAtlas_24.dds</File>
+    <File md5="947A9CD079B47CD84F9F9A10B0DE6A78" import="1">Art/Icon Atlas/JFD_BohemiaAlphaAtlas_32.dds</File>
+    <File md5="9929AD5D6646D07FADD4726FC7E94750" import="1">Art/Icon Atlas/JFD_BohemiaAlphaAtlas_45.dds</File>
+    <File md5="AB63C0948B88B4B28B59C4DED812A3BD" import="1">Art/Icon Atlas/JFD_BohemiaAlphaAtlas_48.dds</File>
+    <File md5="E494431507EAE6880E5EB8CE828E96AE" import="1">Art/Icon Atlas/JFD_BohemiaAlphaAtlas_64.dds</File>
+    <File md5="16BA779B64BE117A064D7F571E5689A9" import="1">Art/Icon Atlas/JFD_BohemiaAlphaAtlas_80.dds</File>
+    <File md5="48F2C146405855126FA79616BDCF7DB8" import="1">Art/Icon Atlas/JFD_BohemiaAtlas_128.dds</File>
+    <File md5="96EDAE7B97B67C9307D457D9AD8B162E" import="1">Art/Icon Atlas/JFD_BohemiaAtlas_256.dds</File>
+    <File md5="26BCB06D65B2A25010E2A2FCABA30EFC" import="1">Art/Icon Atlas/JFD_BohemiaAtlas_32.dds</File>
+    <File md5="92B0F4509BF2F486426F23447034BD82" import="1">Art/Icon Atlas/JFD_BohemiaAtlas_45.dds</File>
+    <File md5="DB8F6F2ED7CD662335C8220C87FCC76A" import="1">Art/Icon Atlas/JFD_BohemiaAtlas_64.dds</File>
+    <File md5="5EB6F0E79A8848446CB1DD691628302F" import="1">Art/Icon Atlas/JFD_BohemiaAtlas_80.dds</File>
+    <File md5="497EE2703E240B5F0D20A6E7E0BEEB1E" import="1">Art/Leaderscene/Vaclav_diplo.dds</File>
+    <File md5="3D227DE55D766B9B668F6190D6F75ADA" import="1">Art/Leaderscene/Vaclav_Scene.xml</File>
+    <File md5="AD7E6510A50876A26CA740D89F105201" import="1">Art/Map/DOM_Vaclav.dds</File>
+    <File md5="FB630D02B2B87789EB1A4357D56459CA" import="1">Art/Map/MapBohemia512.dds</File>
+    <File md5="4C84A20F1A1CFCC4B64D0EBFA0D98D05" import="0">Audio/Audio.sql</File>
+    <File md5="DAEC12D39992216C93C17ED07A4DC2F2" import="1">Audio/Vaclav_Peace.mp3</File>
+    <File md5="AE792596519C2EEA5F2B6820260ADA09" import="1">Audio/Vaclav_War.mp3</File>
+    <File md5="5CE93427485C9FD97F8A0325ABD76962" import="0">Core/Bingles' Civ IV Traits Support/Leader_SharedTraits.sql</File>
+    <File md5="CAFBF1BFF5F90C4003B6D1AC15EF3A1B" import="0">Core/Buildings.sql</File>
+    <File md5="98628BC583D17F9161285E6A6D4F6C03" import="0">Core/Civilization.sql</File>
+    <File md5="812654D5C114E708E7F6139041BF05BC" import="0">Core/Diplomacy.sql</File>
+    <File md5="3F65BFF3C61FCD169838F3903A1CE0E6" import="0">Core/DiplomacyText.xml</File>
+    <File md5="841BD8C27254389328A3E426E1342C52" import="0">Core/GameText.xml</File>
+    <File md5="7039663161031952B26B9877F5AAB5A7" import="0">Core/Gedemon's YnAEMP Support/CivilizationStartPos.sql</File>
+    <File md5="46CBEF0754C88159181E22FB0D3EB0E8" import="0">Core/hazel16's Map Labels Support/ML_Tables.sql</File>
+    <File md5="5FA4A2E0ED007070940429BB2198EB48" import="0">Core/JFD's Cultural Diversity Support/Civilization_JFD_CultureTypes.sql</File>
+    <File md5="0E60F7BE1B3133776353C998014F1F02" import="0">Core/JFD's Piety and Prestige Support/Flavours.sql</File>
+    <File md5="9C4FC4A13C8CE9DC20DA152B09F7B5C5" import="0">Core/Leaderhead.sql</File>
+    <File md5="98B70D77D5B3EE753719D04E48A30BDD" import="0">Core/MinorCivilizations.sql</File>
+    <File md5="FABAE6A8D47E0876BB95B86807B04565" import="0">Core/PlayerColours.sql</File>
+    <File md5="B88645D2A4D5030AD80C4AE77797F83C" import="0">Core/Promotions.sql</File>
+    <File md5="47FB1EFAE64E394DB334C2B1CCE5A128" import="0">Core/Ryoga's Unique Cultural Influence Support/GameText.xml</File>
+    <File md5="C176F7BBB2CE7A4405C676AF6D620034" import="0">Core/Sukritact's Decisions Support/Decisions.sql</File>
+    <File md5="AB48851D00F94DB0FD2E2764F955E2D0" import="0">Core/Sukritact's Decisions Support/GameText.xml</File>
+    <File md5="2090916E4462F4D45D49D1A67317D16A" import="0">Core/Sukritact's Events Support/Events.sql</File>
+    <File md5="CBD98197919901D621503481105B1E72" import="0">Core/Sukritact's Events Support/GameText.xml</File>
+    <File md5="EE4DD8D682EDC284F36150921F0B22B8" import="0">Core/Traits.sql</File>
+    <File md5="EB15A5016A4E825D0E26545F368ACDD8" import="0">Core/Units.sql</File>
+    <File md5="D1285F55602B09258B81AD5EA733D1DF" import="0">Lua/JFD_BohemiaFunctions.lua</File>
+    <File md5="19D73486586D9FE81A97CD0B551CCA4C" import="1">Lua/PlotIterators.lua</File>
+    <File md5="CDCEEA72F23114BF6E18BF44C00BBFE8" import="1">Lua/Sukritact's Decisions Support/JFD_BohemiaDecisions.lua</File>
+    <File md5="8A94EFC6DAF12C86F8CAA9BCE61584E7" import="1">Lua/Sukritact's Events Support/JFD_BohemiaEvents.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Audio/Audio.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Gedemon's YnAEMP Support/CivilizationStartPos.sql</UpdateDatabase>
+      <UpdateDatabase>Core/hazel16's Map Labels Support/ML_Tables.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Cultural Diversity Support/Civilization_JFD_CultureTypes.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Piety and Prestige Support/Flavours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Buildings.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Civilization.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DiplomacyText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Leaderhead.sql</UpdateDatabase>
+      <UpdateDatabase>Core/MinorCivilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Core/PlayerColours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Promotions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Promotions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Units.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Events Support/Events.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Events Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Decisions Support/Decisions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Decisions Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Ryoga's Unique Cultural Influence Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Bingles' Civ IV Traits Support/Leader_SharedTraits.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_BohemiaFunctions.lua">
+      <Name>JFD_BohemiaFunctions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

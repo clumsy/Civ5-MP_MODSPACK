@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Song of Roland -->
+		<Row Tag="TXT_KEY_EVENT_JFD_FRANKS_SONG_OF_ROLAND">
+			<Text>Song of Roland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_FRANKS_SONG_OF_ROLAND_DESC">
+			<Text>A heroic poem honouring our good and noble campaigns has been delivered to our court. The author is unknown, but their intent is clear; to venerate and honour their great lord Charlemagne. This is a masterpiece that shall truly last the ages.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_FRANKS_SONG_OF_ROLAND_OUTCOME_1">
+			<Text>This poem must be treasured.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_FRANKS_SONG_OF_ROLAND_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]The [ICON_CAPITAL] Capital receives a free Great Work of Writing[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]All current Military Land Units gain 5 XP[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_FRANKS_SONG_OF_ROLAND_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>An epic poem has been compiled in our honour.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_SONG_OF_ROLAND">
+			<Text>Great Writer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_SONG_OF_ROLAND_DESC">
+			<Text>Unknown Author</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_JFD_SONG_OF_ROLAND">
+			<Text>Song of Roland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_JFD_SONG_OF_ROLAND">
+			<Text>
+				Upon a faldstool wrought in purest gold
+				[NEWLINE]Sits Charlemagne, the king who rules all France.
+				[NEWLINE]White is his beard and hoary is his head,
+				[NEWLINE]His stature noble and his countenance proud –
+				[NEWLINE]No need to point him out to any man.
+			</Text>
+		</Row>
+		<!-- New Siege Tactics -->
+		<Row Tag="TXT_KEY_EVENT_JFD_FRANKS_NEW_SIEGE_TACTICS">
+			<Text>New Siege Tactics</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_FRANKS_NEW_SIEGE_TACTICS_DESC">
+			<Text>
+				Our on-going war has spurred the innovations of our military genuises and they have conceived of a way to increase the efficacy of our siege weapons. With the right funding and proper implementation, no city will stand in the way of our war machines.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_FRANKS_NEW_SIEGE_TACTICS_OUTCOME_1">
+			<Text>This sounds too expensive...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_FRANKS_NEW_SIEGE_TACTICS_OUTCOME_2">
+			<Text>These new stratagems must be applied at once!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_FRANKS_NEW_SIEGE_TACTICS_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Nothing[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_FRANKS_NEW_SIEGE_TACTICS_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLD] Gold[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]All current Siege Units gain the Logistics promotion, allowing them to attack twice in one turn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_FRANKS_NEW_SIEGE_TACTICS_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have incorporated new Siege tactics into our military.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_FRANKS_NEW_SIEGE_TACTICS">
+			<Text>New Siege tactics have been innovated in Francia.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

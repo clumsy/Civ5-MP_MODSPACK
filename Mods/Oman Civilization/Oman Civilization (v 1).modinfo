@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="22426b34-4c20-46f9-9650-68b5a4e53859" version="1">
+  <Properties>
+    <Name>Oman Civilization</Name>
+    <Teaser>The Sultanate of Muscat and Oman (Oman for short) was a 19th century power in the Indian ocean, ruling large swaths of land acr</Teaser>
+    <Description>The Sultanate of Muscat and Oman (Oman for short) was a 19th century power in the Indian ocean, ruling large swaths of land across East Africa through to southern Iran from their centre of power in the eastern Arabian peninsula. Under the leadership of Saif bin Sultan, Oman won a series of victories in the Indian Ocean and East African coast against the Portuguese, driving out the early colonisers from the region and securing it for several years.</Description>
+    <Authors>Pouakai, JFD, Janbortua, Sukritact, Viregel</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="8C5B4D0DD69DCC172E0B449510A24892" import="1">Art/Atlases/OmanAlpha_128.dds</File>
+    <File md5="3EAA9E31B8A9A0C5898FC654DAD3FF79" import="1">Art/Atlases/OmanAlpha_16.dds</File>
+    <File md5="911C46148E504EC410E83E4D3A8025B2" import="1">Art/Atlases/OmanAlpha_24.dds</File>
+    <File md5="369F0147C2D49105BE4EC7BE85A0705B" import="1">Art/Atlases/OmanAlpha_32.dds</File>
+    <File md5="B2EE4D164990CB7F491970B8D51B5969" import="1">Art/Atlases/OmanAlpha_48.dds</File>
+    <File md5="3628D72901CEF1F0019351FE1C39A952" import="1">Art/Atlases/OmanAlpha_64.dds</File>
+    <File md5="6B6278B2ADA45B1A6F06709C33378859" import="1">Art/Atlases/Oman_128.dds</File>
+    <File md5="4813421509948B47FBAA8AB1D5CBAF77" import="1">Art/Atlases/Oman_16.dds</File>
+    <File md5="866A670ACD7F2623B053999C6044833E" import="1">Art/Atlases/Oman_24.dds</File>
+    <File md5="5F8E991ED24E217643CAECF220647E0F" import="1">Art/Atlases/Oman_256.dds</File>
+    <File md5="47AE4BE62549E7C65839579DDDFDEECB" import="1">Art/Atlases/Oman_32.dds</File>
+    <File md5="3A13A645C592D5490560198F9CDB4737" import="1">Art/Atlases/Oman_45.dds</File>
+    <File md5="B66352FB50281A1BD6FEC77CE258F5F8" import="1">Art/Atlases/Oman_48.dds</File>
+    <File md5="4F0ECC1B2E73B67412C09FE2F6AD1B8F" import="1">Art/Atlases/Oman_64.dds</File>
+    <File md5="DB3A0BE597CEE663B14AD502C234B06A" import="1">Art/Atlases/Oman_80.dds</File>
+    <File md5="E6FC04A1DB2423CE7FD9404DFF9C5C0E" import="1">Art/Scenes/Oman_Map.dds</File>
+    <File md5="FEC2C0C9217980D63036EEE0764D9359" import="1">Art/Scenes/Oman_Diplo.dds</File>
+    <File md5="48478D5C10EF4C5C7F0716C5A5ECB29C" import="1">Art/Scenes/Oman_DoM.dds</File>
+    <File md5="45966B60A14B71D35B746B8D7340B1F1" import="1">Art/Unit/baghlah.fxsxml</File>
+    <File md5="8FD3BF6D97C9768C948114AF07561408" import="1">Art/Unit/baghlah.gr2</File>
+    <File md5="B010C2AE7BB605F0EF1BF621FD28F375" import="1">Art/Unit/BaghlahFlag.dds</File>
+    <File md5="99C7C956EC1532223705D8903CA3702D" import="1">Art/Unit/sv_baghlah.dds</File>
+    <File md5="21598273D18D536BA5B307190BE8516C" import="1">Art/Unit/u_baghlah_dam_diff.dds</File>
+    <File md5="DB186D1910311E1E678455616078F773" import="1">Art/Unit/u_baghlah_diff.dds</File>
+    <File md5="5212739F1B7687B88132C6F8F3E79807" import="1">Art/Unit/u_baghlah_sref.dds</File>
+    <File md5="10FC9BE708B4EBF04119C92C77F1CE37" import="0">Lua/Oman Functions.lua</File>
+    <File md5="0A3880B0DFFD1533A7F35C90E095BBEC" import="1">Sounds/OmanDoM.mp3</File>
+    <File md5="4259180269A3A68A424D7636271BFFD7" import="1">Sounds/OmanWar.mp3</File>
+    <File md5="10608E2F9C21F214392107CE07DEA96E" import="1">Sounds/OmanPeace.mp3</File>
+    <File md5="F1A9EA790F5E335A11B9006E8F53C8FC" import="0">SQL/ArtDefBaghlah.sql</File>
+    <File md5="D186AEFAB502CD919FB0207213C7180F" import="0">SQL/Buildings.sql</File>
+    <File md5="C94DD72586D72E43E71CC7EA7BAA1646" import="0">SQL/TSL.sql</File>
+    <File md5="6A8A897D105B35FFBC8C71BA49BD6CB3" import="0">SQL/UnitPromotions.sql</File>
+    <File md5="CFC09B8220766C3EF0C04DAB0FD4611B" import="1">XML/Art/Oman_Leaderhead.xml</File>
+    <File md5="8F78D85D7FBDDD1F77845BDCAAFF0935" import="0">XML/Buildings/Oman_Buildings.xml</File>
+    <File md5="DBD2B4D1C326E7A3D147821FA123B427" import="0">XML/Civilizations/Oman_Civilizations.xml</File>
+    <File md5="A9288DE3BCA6666B40DD1D5A504B9929" import="0">XML/GameInfo/Oman_IconTextureAtlases.xml</File>
+    <File md5="819C03BB003544E1D579C5C59BA83EAF" import="0">XML/GameInfo/Oman_Traits.xml</File>
+    <File md5="4103EC39F3A2A3E0D4AD84F214BF1B57" import="0">XML/GameInfo/Oman_Sounds.xml</File>
+    <File md5="D6D454CD333EC85583C54405CD7AE292" import="0">XML/GameInfo/Oman_TSL.xml</File>
+    <File md5="5126F945FFE68BDCB6263907DED0F74E" import="0">XML/Leaders/Oman_Leader.xml</File>
+    <File md5="D0679E5A787BEE58691757C4BB4FF976" import="0">XML/Text/Oman_Text.xml</File>
+    <File md5="7450C98FD927043C676AA3DD87C9D9CD" import="0">XML/Units/Oman_Units.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>SQL/ArtDefBaghlah.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Buildings.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/TSL.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/UnitPromotions.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Oman_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Oman_Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/Oman_IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/Oman_Sounds.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/Oman_Traits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/Oman_TSL.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/Oman_Leader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Oman_Text.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/Oman_Units.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Oman Functions.lua">
+      <Name>Oman Functions</Name>
+      <Description>Everything for Oman to work</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

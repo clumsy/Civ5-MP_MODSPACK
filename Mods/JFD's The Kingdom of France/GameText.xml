@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!----------------------------------------------------------------
+						Napoleonic France
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_CIV_JFD_NAPOLEONIC_FRANCE_ADJECTIVE">
+			<Text>Napoleonic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_NAPOLEONIC_FRANCE_DESC">
+			<Text>Napoleonic Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_NAPOLEONIC_FRANCE_SHORT_DESC">
+			<Text>France</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_NAPOLEONIC_FRANCE_HEADING_1">
+			<Text>The Napoleonic Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_NAPOLEONIC_FRANCE_TEXT_1">
+			<Text>The Empire of Napoleon Bonaparte was born out of the turbulence of the French Revolution, which had established a constitution sought to be dethroned by members of the executive, post-monarchical government, of which Napoleon would be placed at its charge. His Empire would come to ravage the powers of Europe; at its height stretching across most of the central continent and amassing a military power unseen before - an homage to the ancient, Frankish empire of Charlemagne. Napoleon's Empire would cause great political and legal change within Europe. Where he conquered, his code of laws, venerating judicial equality and legalised divorce, would follow, and behind him he would leave much of the ancient nobility of his conquests without privilege. Defeats in Spain and then in Russia, however, would inflict a fatal wound upon his empire, and in 1814 Napoleon Bonaparte would abdicate his Imperial throne. Though he would return briefly in 1815, his defeat at Waterloo would seal the coffin of his legacy, and subsequently the Bourbon Monarchy of France would be restored.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_NAPOLEONIC_FRANCE_HEADING_2">
+			<Text>History of France</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_NAPOLEONIC_FRANCE_TEXT_2">
+			<Text>Modern France has its roots in ancient Gaul. In the 2nd century BC Rome intervened on the side of Massilia (Marseilles), a Greek colony founded in 600 BC, in its struggle against the barbarian tribes of the hinterland. The result was the formation, in 121 BC, of the Roman Provincia in what is now southern France; between 58 to 50 BC Julius Caesar seized the remainder. For more than four centuries Gaul enjoyed the benefits of Roman rule, and many ruins of aqueducts and bathhouses still dot the French landscape. After 395 AD the internal problems of the Empire encouraged barbarian penetration of Gaul. By 418, the Franks and Burgundians were established west of the Rhine, and the Visigoths had settled in Aquitaine. The period of the Merovingian and Carolingian Frankish dynasties (476-887) frames the Early Middle Ages. [NELWINE][NEWLINE]Following his ascension, the first Merovingian king, Clovis (481-511), consolidated the position of the Franks in northern Gaul. Clovis came to believe that his victories were due to the Christian God. Clovis' subsequent conversion assured the Frankish rulers of the support not only of the Catholic Church but of the majority of their own subjects. The Frankish kingdom reached its largest extent under Charlemagne (768-814), who united modern-day France, Italy, and Germany under his rule. After Charlemagne's death, his grandsons divided the kingdom into the three parts that have largely survived to the present. France was a divided kingdom for much of the medieval period, but power gradually began to accumulate in the hands of the rulers of the Ile de France region centered around Paris. By the rise of the house of Valois in 1328, France was the most powerful kingdom in Europe. Its ruler could muster larger armies than rivals; he could tap enormous fiscal resources; and the king's courts maintained royal supremacy. The history of France in the Late Middle Ages is dominated by efforts of its kings to maintain their suzerainty, efforts that, despite French advantages, were long frustrated.[NEWLINE][NEWLINE]The Hundred Years War was an intermittent struggle between England and France in the 14th-15th centuries over a series of dynastic disputes, including the legitimate succession to the French crown. The war's turning point was reached in 1429, when an English army was forced to raise its siege of Orleans by a relief force organized by Joan of Arc. By 1453, England retained only Calais, which it finally relinquished in 1558. The French kings of the 16th century spent much of their time fighting the Hapsburg monarchs for control of Italy, while religious conflict between Catholics and Protestants led to a series of civil wars between 1562 and 1598.[NEWLINE][NEWLINE]The ascension of the Bourbon line of kings beginning in 1589 brought renewed stability to France, and the country soared to some of its greatest heights during the long rule of Louis XIV (1643-1715). Under Louis, France became the artistic and intellectual capital of Europe. From his magnificent palace of Versailles, Louis was truly the "Sun King", the absolute master of all he surveyed. The French military was the most powerful in Europe at this time, known for the elite Musketeer units that served as the king's personal guard. France was so strong at this time that the other European nations kept banding together to stop France from conquering them - a pattern that would be repeated in the French Revolution.[NEWLINE][NEWLINE]These intellectual developments, although significant by themselves, gave rise to a still more momentous change: the French Enlightenment. This movement was a cultural transformation based on rationalism, empiricism, and an amorphous concept of freedom found in the influential writings of figures like Voltaire (1694-1778) and Rousseau (1712-78). Compounding the situation was the bankruptcy of the French crown, which forced the king to call upon representatives of the people for additional taxes. Hence, what began in 1787 as a conflict between royal authority and aristocrats became a triangular struggle, with "the masses" opposing both absolutism and privilege. By any standard, the fall of the Bastille to the Parisian crowd in 1789 was a monumental event, a seemingly miraculous triumph of the people. But the French Revolution soon degenerated into a reign of terror and chaos. After a decade of violence and uncertainty, Napoleon terminated the bloodshed by overthrowing the French government in 1800, at the price of suppressing freedom altogether. In utter contrast to the Revolution, militarism became the defining quality of the Napoleonic regime. The French armies under Napoleon won victory after victory against all of the other great European powers, but decades of war led to the exhaustion of the nation and eventual defeat in 1815.[NEWLINE][NEWLINE]However, the revolutionary fervor of the French citizenry was undiminished by the Napoleonic experience, and led to further revolutions in 1830 and 1848. The latter revolution lead to the short-lived Second Republic (1848-1852), which was overthrown by Napoleon's nephew "Napoleon III" who instituted the Second Empire (1852-1870). Following defeat in the Franco-Prussia War, the Third Republic (1870-1940) was formed, which survived the First World War but collapsed in the face of the German invasion in 1940. After the war, the period of the short-lived Fourth Republic (1947-59) was succeeded by the Fifth Republic (the current one), adopted in September 1958 by popular referendum. Although shorn of its past colonial holdings and aura of military invulnerability, France today remains a major economic power and influential member of the European Union.</Text>
+		</Row>	
+		<!-- City Names -->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_VERSAILLES">
+			<Text>Versailles</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NAPOLEONIC_FRANCE_9">
+			<Text>Schulmeister</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NAPOLEONIC_FRANCE_8">
+			<Text>Fouché</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NAPOLEONIC_FRANCE_7">
+			<Text>Jérôme</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NAPOLEONIC_FRANCE_6">
+			<Text>Vandernoot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NAPOLEONIC_FRANCE_5">
+			<Text>Vidocq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NAPOLEONIC_FRANCE_4">
+			<Text>Javert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NAPOLEONIC_FRANCE_3">
+			<Text>Éponine</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NAPOLEONIC_FRANCE_2">
+			<Text>Joséphine</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NAPOLEONIC_FRANCE_1">
+			<Text>Mme Walewska</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NAPOLEONIC_FRANCE_0">
+			<Text>Him</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LOUIS_FRANCE_0">
+			<Text>Atos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LOUIS_FRANCE_9">
+			<Text>Portos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LOUIS_FRANCE_8">
+			<Text>Aramis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LOUIS_FRANCE_7">
+			<Text>D'Artagnan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LOUIS_FRANCE_6">
+			<Text>Monte Cristo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LOUIS_FRANCE_5">
+			<Text>Grand Condé</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LOUIS_FRANCE_4">
+			<Text>Richelieu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LOUIS_FRANCE_3">
+			<Text>Éponine</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LOUIS_FRANCE_2">
+			<Text>Marie Louise</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_LOUIS_FRANCE_1">
+			<Text>Mme Pompadour</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!----------------------------------------------------------------
+						Louis XIV
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV">
+			<Text>Louis XIV</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LOUIS_XIV_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LOUIS_XIV_TEXT_1">
+			<Text>Born to King Louis XIII of France, Louis XIV was raised in the most opulent court in Europe. His every need was catered to, and he was given an excellent education, even if he was too lazy and spoiled to appreciate it. Louis XIII died when his son was five, and the regency passed to the queen mother, Anne of Austria. For the next 18 years she ruled France with the able assistance of Cardinal Mazarin, who may or may not have also been her lover, while Louis lived in pampered splendor.[NEWLINE][NEWLINE]It was upon Mazarin's death in 1661 that the 22-year-old Louis XIV began to take an active interest in ruling his country. Much to everyone's surprise, he was good at it. First he gathered all of the power into his own hands, bypassing the old bureaucratic patronage system that Mazarin and his predecessors had used. He enticed the great nobles to his court, where he heaped upon them titles, honorary positions, and financial rewards, while at the same time undermining their actual power. In Louis' court, great noblemen - whose parents had fought for the crown of France itself - fought each other for the privilege of watching Louis shave.[NEWLINE][NEWLINE]In person Louis was said to possess a great natural dignity and bearing. He was unfailingly courteous and usually honest, but he could dissimulate with the best of them when need-be.[NEWLINE][NEWLINE]During his early reign Louis's court was known for its debauchery, and Louis himself had several mistresses. As his reign progressed, however, Louis became more devout, and he even married his last mistress (although in secret). Louis also became a patron of the arts, and literature and painting flourished under his rule. He built many great buildings and palaces, including the grand palace at Versailles. [NEWLINE][NEWLINE]Despite France's wealth, the country remained virtually bankrupt, not only because it had to pay for all the gifts that Louis gave his favorites, but, more importantly, it had to pay for all the wars of conquest that Louis embarked upon. Although a sound and thoughtful ruler at home, Louis had a great thirst for international "glory" - which in his terms meant victory on the battlefield. He constantly fought his neighbors, often for the most trivial reasons, gaining little but glory from the wars. Though he left the army and navy in splendid condition, he left his country's treasury bare. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LOUIS_XIV_NAME">
+			<Text>Louis XIV</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LOUIS_XIV_SUBTITLE">
+			<Text>Leader of France</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LOUIS_XIV_TITLES_1">
+			<Text>King of France</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_LOUIS_XIV_LIVED">
+			<Text>1638 - 1715</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_JFD_LOUIS_XIV_TEXT">
+			<Text>Kingdoms the world over rejoice, O glorious Monarch, Louis XIV, the Sun King of France, for you art adorned with sovereignty and sensibility like none before. As young a five, you inherited the French throne; the most ancient and noble of the thrones of Europe, and for seventy-two years you would bear the crown bestowed upon you by God with dignity and absolutism untouched. Driven by your lust for glory and refinement, you would amass a power matched only by God, ridding France of its medieval aristocracy and embarking upon conquests that would bring the Kingdom both terrible poverty and glorious supremacy. Though a man of indulgence, your legal and cultural advances would form the basis of both Napoleon's Empire and the French Republics to come, and you would ultimately leave in your wake the most glorious century with which France has ever been blessed.[NEWLINE][NEWLINE]Your great majesty, the Kingdom of France is bereft of the glory that had once adorned it, and your people grieve for ages past. Can you restore the refinement and power of the Bourbon throne? Can you, with guile and excellence, restore the treasured crown of the divine Kings? Can you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Diplomacy
+		------------------------------------------------------------------>
+		<!--First Greeting messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_FIRSTGREETING_1">
+			<Text>By the heavens, what is this unrefined thing that walks into my court so heedlessly? You stand before the King of France, the most beautiful, serene and pious of all the Kings of this world. Oh, and humble.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_FIRSTGREETING_2">
+			<Text>I am Louis XIV, by the Grace of God, King of France and Navarre. No King has ever walked this earth to bear such a glorious shadow as mine. You must be blessed to witness the grandeur of my being. So, what gifts have you brought me?</Text>
+		</Row>
+		<!--Defeated messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_DEFEATED_1">
+			<Text>Oh my, what an uncouth barbarian you are! I am positively disturbed by your lack of concern for the beauty of this earth. The world over will weep for this loss.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_DEFEATED_2">
+			<Text>I did not think I should live forever.</Text>
+		</Row>
+		<!-- Human repeats an action too much, gets the following responses -->
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_REPEAT_TOO_MUCH_1">
+			<Text>You again? There is a limit to my patience, you know.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_REPEAT_TRADE_TOO_MUCH_1">
+			<Text>Do not bargain with me when you have such little to offer.</Text>
+		</Row>
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_GREETING_HOSTILE_HELLO_1">
+			<Text>Oh, what in God's name do you want?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_GREETING_POLITE_HELLO_1">
+			<Text>Hello my darling? How might I comfort you today?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>You may kiss at my feet all you wish, but I shall not be giving you aide in your silly little squabble.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_GREETING_HUMAN_AT_WAR_1">
+			<Text>I bid you well in your current conflict, and by this I mean: France bids you well.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Ah-hah-hah! Your aggression leaves no mark upon me. I will not be intimidated by the likes of you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_LOUIS_XIV_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>You're getting awfully careless with your purse, aren't you? I am only thinking the best for the land that might one day become mine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>You're getting awfully careless with your purse, aren't you? I am only thinking the best for the land that might one day become mine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>Your empire is all over the place. It'll fall over if you're not careful.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>I thought it pertinent to tell you that your rapid expansion is causing some concern in my court.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>Your military might is the only thing talked about around my court. I do not like it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>Your empire is supposed to be quite rich, I have heard. If only you knew how to dress to reflect this status.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_GREETING_HOSTILE_HUMAN_FEW_CITIES_1">
+			<Text>I do not deal with petty lords, thank you. Speak with one of my advisors.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>Your military is quite pathetic and sad, it must be said. And those uniforms? Positively reprehensible!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>France is a Kingdom that stands for duty and respect, and We shall have nothing to do with warmongers such as yourself.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_TOO_SOON_FOR_DOF_1">
+			<Text>No, sorry. I don't think you're within my league.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_DENOUNCE_1">
+			<Text>I am disgusted by the mere sight of you. Unkempt barbarian. It is time to world sees you for what you are.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_DENOUNCE_2">
+			<Text>You're really quite ugly, you know.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+			<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>You dirty little ingrate. Know that this act will not fool anyone.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>Have you such little decency? How dare are you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_HUMAN_DOFED_FRIEND_1">
+			<Text>I've noticed that you believe in a friendship with {1_CivName}. Perhaps you have some sense after all.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_HUMAN_DOFED_ENEMY_1">
+			<Text>{1_CivName} is a wretched place. I trust you will have better sense than to deal with them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>Why have you denounced {1_CivName}? I am baffled by your sheer ignorance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>I praise your denouncement of {1_CivName}. They are quite undeserving of anything better.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>I noticed that you have declared your friendship with {1_CivName}. I had planned to do the same, just so you know.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>Oh great, now the vermin are breeding. Now I have to deal with both you and {1_CivName}? I'll have to teach them a lesson.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>I share your convictions that {1_CivName} only causes problems for the civilized empires of the world. Perhaps the combination of our denouncements will teach them a lesson.</Text>
+		</Row>
+		<!-- General Diplo Text -->
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_COOP_WAR_REQUEST_1">
+			<Text>{1_PlayerName:textkey} believes that they are above the supremacy of France. Will you help me teach them their place?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_COOP_WAR_REQUEST_2">
+			<Text>{1_PlayerName:textkey} has brought much upset to my Kingdom. Will you join me in ridding the world of their treacherous empire?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_COOP_WAR_TIME_1">
+			<Text>The time has come to join me in the feast of war against {1_PlayerName:textkey}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_DEC_FRIENDSHIP_1">
+			<Text>It is without need to be spoken that I am bestowing upon you the greatest glory that you could ever live to receive.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_DEC_FRIENDSHIP_2">
+			<Text>Yes, I am giving you the privilege of a friendship with me. You will be no fool, so you must do no other than to accept.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>It's come to my attention that you have a large number of Units near my borders. I request that you move them elsewhere to avoid causing undue distress to my citizens.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_PLOT_BUYING_WARNING_1">
+			<Text>You're getting awfully careless with your purse, aren't you? I am only thinking the best for the land that might one day become mine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>You're getting awfully careless with your purse, aren't you? I am only thinking the best for the land that might one day become mine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Ah, if I were not King, I should lose my temper. Interrupt your expansion at once.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_EXPANSION_WARNING">
+			<Text>Your expansion efforts are an insult. Know that there will be consequences for this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_RETURNED_CIVILIAN_1">
+			<Text>Fabulous! I thank thee for returning my civilian with gifts of my beauty. You may stare at me for a while.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_RETURNED_CIVILIAN_2">
+			<Text>Oh, I didn't really ask for you to do that, but fine, fine. Know that France is somewhat grateful.</Text>
+		</Row>
+		<!--Insults-->	
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_INSULT_JFD_LOUIS_XIV_1">
+			<Text>My, you certainly are quite unkempt today, aren't you? Didn't you know you have an empire to run? Oh, well, what am I saying? Of course you didn't: that's the job of your spouse!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_INSULT_JFD_LOUIS_XIV_2">
+			<Text>I thought I smelt you hanging around my court. Why don't you just run back to the decrepit hut that you live in, there's a good fellow.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_INSULT_JFD_LOUIS_XIV_3">
+			<Text>I'm really getting tired of seeing your face. It gives me nightmares, and I really don't want to be seen cohorting with it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_INSULT_JFD_LOUIS_XIV_4">
+			<Text>Does it please you to bring me to tears to gaze upon you and your empire? I hope so, for you are doing a fine job of ruling the most unattractive of empires.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_INSULT_MILITARY_1">
+			<Text>Today, at court, my advisors were discussing you. This is what I said to them: "I'm sorry. You're telling me that they are the leader of an empire? But, my good man, where is their army?"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_INSULT_MILITARY_2">
+			<Text>As I said to my advisors; "where is your army?" It is that lone worker running around?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_INSULT_BULLY_1">
+			<Text>It is such a sad thing that you must resort to this kind of bullying. Only a terribly insecure person would be such a bully as you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_INSULT_UNHAPPINESS_1">
+			<Text>Your people are unhappy: can you not hear them? They cry for me! They are full of woe for they do not have I as their King.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_INSULT_UNHAPPINESS_2">
+			<Text>Your people are unhappy: can you not hear them? They cry for me! They are full of woe for they do not have I as their King.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_INSULT_CITIES_1">
+			<Text>There is so little glory in your weeny empire, I would not be slighted if it were to just disappear from the map.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_INSULT_POPULATION_1">
+			<Text>Your coffers are so terribly empty. My servants just baked a cake; would you like some?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_INSULT_CULTURE_1">
+			<Text>You're so uncultured that I feel my refinement just fading away simply by being in your presence.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_INSULT_CULTURE_2">
+			<Text>You're so filthy. I just wanted to stop by and tell you that. It's probably something to do with having so little culture; or maybe you're just filthy.</Text>
+		</Row>
+		<!--Public Declarations-->
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}. Attacking the City-State will greatly damage relations and may lead to war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<!-- Human is asking the AI for something -->
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_DONT_SETTLE_NO_1">
+			<Text>Unacceptable. I'll do what I damn well please.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_DONT_SETTLE_YES_1">
+			<Text>Fine, fine. Empire building can get so tiresome anyway.</Text>
+		</Row>
+		<!--Deal Offers and related-->
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_LUXURY_TRADE_1">
+			<Text>A fair exchange, don't you think, my dear?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_OPEN_BORDERS_EXCHANGE_1">
+			<Text>I am bored of not being allowed to bring joy to the gaze of your people. Come now, and let us have free borders, and I shall spread my glory all throughout.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_RESPONSE_REQUEST_1">
+			<Text>My beauty demands this luxury. It is not easy being so fabulous. I'm sure you wouldn't know, but believe me, I need this.</Text>
+		</Row>
+		<!--AI Attacked by Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_ATTACKED_HOSTILE_1">
+			<Text>This attack upon my Kingdom will not go unjudged by the sight of God.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_ATTACKED_EXCITED_1">
+			<Text>This attack comes as a surprise. I had not realised you were such a fool.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_ATTACKED_SAD_1">
+			<Text>This attack upon my Kingdom will not go unjudged by the sight of God.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_ATTACKED_BETRAYED_1">
+			<Text>This attack upon my Kingdom will not go unjudged by the sight of God.</Text>
+		</Row>
+		<!--AI Declaring War on Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_DOW_GENERIC_1">
+			<Text>Consider this quite flattering; that I would consider your conquest so glorious that it must be written by my hand.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_DOW_LAND_1">
+			<Text>There is such glory and such beauty in conquest, and mine must be sated.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_DOW_LAND_2">
+			<Text>There is such glory and such beauty in conquest, and mine must be sated.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_DOW_WORLD_CONQUEST_1">
+			<Text>Alexander wept when he had reached the edge of the world and saw that he could conquer no more. As the inheritor of his sexiness, I believe it is only my right to conquer that which he did not.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_DOW_WORLD_CONQUEST_2">
+			<Text>For the good the earth, it must be brought within the realm of my majesty.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_DOW_OPPORTUNITY_1">
+			<Text>Well, if not for I, your people would merely fall to another, less civilised and more ugly King.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_DOW_OPPORTUNITY_2">
+			<Text>The time to strike against you is now. This was inevitable. Consider it a courtesy to your children.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_DOW_DESPERATE_1">
+			<Text>I shall be known as the King that lost his glory. It is time to reclaim that which is mine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_DOW_DESPERATE_2">
+			<Text>I shall be known as the King that lost his glory. It is time to reclaim that which is mine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_DOW_BETRAYAL_1">
+			<Text>Your eternal jealousy of my fabulousness demands that I act before you are driven mad by it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_DOW_BETRAYAL_2">
+			<Text>My deepest, sincerest apologises. I am, however, not sorry that it must be this way.</Text>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_TOO_SOON_NO_PEACE_1">
+			<Text>No, no, my adversary. No peace for you just yet. France is not finished with you.</Text>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_BAD_1">
+			<Text>Oh, so that is how it is going to be then? All the more glory when I beat you, then.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_BAD_2">
+			<Text>I am ashamed to look at you. Begone from my beautiful gaze!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_BAD_3">
+			<Text>You foolish trout! I should never to speak with you again, were it not so cruel a punishment.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_LOUIS_XIV_GOOD_1">
+			<Text>Pity. I was a little bit hoping for things to turn sour.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						The Sun of Austerlitz
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_TRAIT_JFD_NAPOLEONIC_FRANCE_SHORT">
+			<Text>The Sun of Austerlitz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_NAPOLEONIC_FRANCE">
+			<Text>Earn a Great General upon the outbreak of war against a major civilization. Great Generals provide the effects of a Courthouse when in [ICON_OCCUPIED] occupied cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_DUMMY_COURTHOUSE">
+			<Text>JFD: Napoleonic Marshall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_NAPOLEONIC_MARSHAL">
+			<Text>Marshal of the Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_NAPOLEONIC_MARSHAL_TEXT">
+			<Text>Marshal of the Empire was a title bestowed upon the most prestigious and accomplished of Napoleon's military generals, who were granted special honours that elevated them serve in many important roles in the management of his empire. A number of these Marshals even went on to establish royal dynasties, such as the Bernadottes who today remaining the ruling House of Sweden.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_NAPOLEONIC_MARSHAL_STRATEGY">
+			<Text>The Marshal of the Empire is a flavoured Great General for Napoleonic France. The Marshal can construct the special Citadel improvement which gives a big defensive bonus to any unit occupying it, damages enemy units moving adjacent, and puts all adjacent tiles into your territory. The Marshal is consumed when it builds the Citadel. When stationed in an occupied city, the Marshal acts as a courthouse, eliminating extra unhappiness from the city. The Marshal provides a 15% combat bonus to all player-owned land units within 2 tiles. The Marshal is NOT consumed when he provides this bonus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_MARSHAL">
+			<Text>Marshal of the Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_MARSHAL_HELP">
+			<Text>Station this unit in an [ICON_OCCUPIED] occupied city to remove extra [ICON_HAPPINESS_4] Unhappiness.</Text>
+		</Row>
+		<!-- Marshal Names -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_BERNADOTTE">
+			<Text>Bernadotte</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_BERTHIER">
+			<Text>Berthier</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_MURAT">
+			<Text>Murat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_DE_MONCEY">
+			<Text>de Moncey</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_JOURDAN">
+			<Text>Jourdan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_MASSENA">
+			<Text>Masséna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_AUGEREAU">
+			<Text>Augereau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_BRUNE">
+			<Text>Brune</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SOULT">
+			<Text>Soult</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_LANNES">
+			<Text>Lannes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_MORTIER">
+			<Text>Mortier</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_NEY">
+			<Text>Ney</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_DAVOUT">
+			<Text>Davout</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_BESSIERES">
+			<Text>Bessières</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_DE_KALLERMANN">
+			<Text>de Kallermann</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_LEFEBVRE">
+			<Text>Lefebvre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_DE_PERIGNON">
+			<Text>de Pérignon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SERURIER">
+			<Text>Sérurier</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_VICTOR">
+			<Text>Victor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_MACDONALD">
+			<Text>MacDonald</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_OUDINOT">
+			<Text>Oudinot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_DE_MARMONT">
+			<Text>de Marmont</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SUCHET">
+			<Text>Suchet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_SAINT_CYR">
+			<Text>Saint-Cyr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_PONIATOWSKI">
+			<Text>Poniatowski</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_DE_GROUCHY">
+			<Text>de Grouchy</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Imperial Guard
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_UNIT_JFD_IMPERIAL_GUARD">
+			<Text>Imperial Guard</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_IMPERIAL_GUARD_TEXT">
+			<Text>Napoleon's Imperial Guard was an elite division of the French Army that served under the direct command of Napoleon I, acting both as his personal bodyguard and as a reserve force. Although originally the Guard consisted of only a small group of some 8,000 soldiers, by 1812, it had amassed just under 100,000 men, and comprised its own cavalry, artillery and infantry divisions. The guard itself was divided into three sections: the Old Guard, which consisted of Napoleon's most veteran soldiers, the Middle Guard, veterans of Napoleons campaigns between 1805 and 1809, and the Young Guard, the best of the French Army's new recruits.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_IMPERIAL_GUARD_HELP">
+			<Text>An elite infantry unit that increases the rate at which [ICON_GREAT_PEOPLE] Great Generals are born. If this unit begins its turn in the same tile as a Great General, it earns +2 XP. Only Napoleon's France may build it. Upgrades to the Great War Infantry.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_IMPERIAL_GUARD_STRATEGY">
+			<Text>The Imperial Guard is the Napoleonic replacement for the Lancer. Unlike the regular Lancer, however, the Imperial Guard is not a Mounted Unit. Instead, it acts more like an upgraded Musketman. It does not gain the same benefits or penalties as a Lancer, however, it increases the amount of points generated toward Great Generals from combat. It also earns additional XP per turn when stacked with a Great General. Unlike the Lancer, this unit upgrades into the Great War Infantry.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_IMPERIAL_GUARD">
+			<Text>Garde Impériale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_IMPERIAL_GUARD_HELP">
+			<Text>+2 XP per turn when this unit is stationed in the same tile as a Great General.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Chevau-léger
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_UNIT_JFD_CHEVAU_LEGER">
+			<Text>Chevau-léger</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_CHEVAU_LEGER_TEXT">
+			<Text>In French, the term Chevau-léger means "Light Horse." During the late 15th and 16th centuries in France, Austria and Spain, the contemporary militaries of the day were undergoing a reformation, which led to the de-emphasis of heavily armoured cavalry in favour of those lightly armoured and possessing of a shorter lance. Amongst the Chevau-légers of Napoleon's Empire was the famous Polish 1st Light Cavalry Regiment of the French Guards, which was lauded for its legendary charges against the enemy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_CHEVAU_LEGER_HELP">
+			<Text>Late game Mounted Unit that gains combat bonuses against Mounted and Siege units. Also gains extra [ICON_STRENGTH] Combat Strength when damaged. Only Napoleon's France may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_CHEVAU_LEGER_STRATEGY">
+			<Text>The Chevau-léger is the unique Napoleonic replacement for the Cavalry. Although it is naturally weaker than the Cavalry, it gains extra [ICON_STRENGTH] Strength more damage that is dealt to it. It also gains bonuses when fighting against other Mounted Units or against Siege units, making it excellent at charging enemy lines.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_NAPOLEONIC_BONUS_VS_MOUNTED">
+			<Text>Bonus vs Mounted (20)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_NAPOLEONIC_BONUS_VS_MOUNTED_HELP">
+			<Text>Bonus vs Mounted (20)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_NAPOLEONIC_BONUS_VS_SIEGE">
+			<Text>Bonus vs Siege (20)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_NAPOLEONIC_BONUS_VS_SIEGE_HELP">
+			<Text>Bonus vs Siege (20)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_BONUS_WHEN_DAMAGED">
+			<Text>Honour Guard</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_BONUS_WHEN_DAMAGED_HELP">
+			<Text>+1 [ICON_STRENGTH] Combat Strength for every 10 points of damage taken below 50% health.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

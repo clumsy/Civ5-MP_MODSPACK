@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Enlightened Absolutism -->
+		<Row Tag="TXT_KEY_EVENT_JFD_PRUSSIA_ENLIGHTENED_ABSOLUTISM">
+			<Text>Enlightened Absolutism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_PRUSSIA_ENLIGHTENED_ABSOLUTISM_DESC">
+			<Text>
+				The ideals of the enlightened age have finally reached our court. As a great defender of absolutism, these ideals which preach liberty and popular sovereignty threaten our very power. But perhaps it need not be this way. Perhaps within these ideals lies the assertion of an enlightened absolutism, and so perhaps these ideals should instead be embraced and used to re-affirm our noble authority.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_PRUSSIA_ENLIGHTENED_ABSOLUTISM_OUTCOME_1">
+			<Text>Embrace the Enlightenment.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_PRUSSIA_ENLIGHTENED_ABSOLUTISM_OUTCOME_2">
+			<Text>Condemn the Enlightenment.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_PRUSSIA_ENLIGHTENED_ABSOLUTISM_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]The [ICON_CAPITAL] Capital undergoes 2 turns of [ICON_RESISTANCE] Resistance[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]A [ICON_GOLDEN_AGE] Golden Age begins and you gain {1_Num} [ICON_RESEARCH] Science[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_PRUSSIA_ENLIGHTENED_ABSOLUTISM_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLDEN_AGE] Golden Age points[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Receive a free [ICON_CULTURE] Social Policy[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PRUSSIA_ENLIGHTENED_ABSOLUTISM_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have embraced the ideals of an enlightened age.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PRUSSIA_ENLIGHTENED_ABSOLUTISM_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have shunned the ideals of an enlightened age.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_PRUSSIA_ENLIGHTENED_ABSOLUTISM">
+			<Text>Prussia's Frederick has adopted the ideals of enlightened absolutism.</Text>
+		</Row>
+		<!-- Compilation of Clausewitz' 'On War' -->
+		<Row Tag="TXT_KEY_EVENT_JFD_PRUSSIA_CLAUSEWITZ_ON_WAR">
+			<Text>Compilation of Clausewitz' 'On War'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_PRUSSIA_CLAUSEWITZ_ON_WAR_DESC">
+			<Text>
+				Following his death some years earlier, General Carl von Clausewitz's most important work, 'Vom Kriege,' has finally been compiled by his widow. It is a remarkable exposition on the art of war, and details many of the strategies employed by some of history's greatest commanders. We are most fortunate that our nation should have given birth to such a brilliant mind.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_PRUSSIA_CLAUSEWITZ_ON_WAR_OUTCOME_1">
+			<Text>We must read it at once!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_PRUSSIA_CLAUSEWITZ_ON_WAR_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]All current Military Land Units gain 10 XP[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PRUSSIA_CLAUSEWITZ_ON_WAR_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>Carl von Clausewitz' 'On War' has been compiled and we have spent many nights pouring over its contents. It shall make a fine accompanyment to our future military glory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_PRUSSIA_CLAUSEWITZ_ON_WAR">
+			<Text>Carl von Clausewitz' 'On War' has been published in Prussia.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

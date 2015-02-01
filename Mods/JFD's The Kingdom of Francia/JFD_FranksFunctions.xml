@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Context>
+	<Box ID="JFDFranksUIBG"  Style="BGBlock_ClearTopBar" Hidden="1"/>
+
+	<Grid  ID="JFDFranksUI" Size="500,360" Anchor="C,C" Offset="0,0" Padding="30,30" Style="Grid9DetailFive140" Hidden="1">
+
+		<!-- Upper Treatment -->
+		<Image Anchor="C,T" AnchorSide="I.O" Size="256,64" Offset="0,-14"  Texture="assets\UI\Art\Icons\Top512IconTrim.dds" >
+			<Image ID="CivIconBG" Size="64.64" Anchor="C,C" Offset="-1,-1" TextureOffset="77,0" Texture="CivIconBGSizes.dds" />
+			<Image ID="CivIconShadow" Size="48.48" Anchor="C,C" Offset="0,0" Texture="CivSymbolAtlas48.dds" Color="Black.128"/>
+			<Image ID="CivIcon" Size="48,48" Offset="-1,-1"  Anchor="C,C" Texture="CivSymbolsColor512.dds" />
+		</Image>
+
+		<!-- Side treatments -->
+		<Box Style="MenuLeftSideTreatment"/>
+		<Box Style="MenuRightSideTreatment"/>
+
+		<Label  Anchor="C,T" Size="300,24" Offset="0,15" String="TXT_KEY_TRAIT_JFD_THE_FRANKS_SHORT" ID="Title" ColorSet="Beige_Black"  Font="TwCenMT22" />
+
+
+		<Stack Anchor="C,T" Offset="0,70" Padding="12" StackGrowth="Bottom" ID="ButtonStack">
+
+			<Label Anchor="C,T" Offset="0,0" ColorSet="Beige_Black" Font="TwCenMT20" FontStyle="Shadow" String="TXT_KEY_JFD_FRANKS_MESSAGE" ID="Summary" WrapWidth="450" LeadingOffset="-8"/>
+
+			<GridButton Style="BaseButton"  ID="Button1" Size="380,36" Anchor="C,T" Offset="0,20"  Hidden="0" ToolTip ="TXT_KEY_JFD_FRANKS_PROPHET_TT">
+				<Label Anchor="C,C" Offset="0,0" String="TXT_KEY_JFD_FRANKS_PROPHET_BUTTON" ColorSet="Beige_Black" Font="TwCenMT22" FontStyle="Shadow" ID="Button1Text" />
+			</GridButton>
+
+			<GridButton  Style="BaseButton" ID="Button2" Size="370,36" Anchor="C,T" Offset="0,0"  Hidden="0" ToolTip ="TXT_KEY_JFD_FRANKS_POLICY_TT">
+				<Label Anchor="C,C" Offset="0,0" String="TXT_KEY_JFD_FRANKS_POLICY_BUTTON" ColorSet="Beige_Black" Font="TwCenMT22" FontStyle="Shadow" ID="Button2Text" />
+			</GridButton>
+
+		</Stack>
+
+
+	</Grid>
+
+
+</Context>

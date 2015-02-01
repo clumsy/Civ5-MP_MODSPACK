@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="e85d229f-2e34-4ebf-8314-b29876e119a2" version="13">
+  <Properties>
+    <Name>JFD's The Soviet Union (Stalin)</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]The Soviet Union[ENDCOLOR] with Josef Stalin to the game.</Teaser>
+    <Description>See Steam Workshop or CivFanatics for full details.</Description>
+    <Authors>JFD, Janboruta, Leugi</Authors>
+    <SpecialThanks>The Lohoped</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety &amp; Prestige" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events &amp; Decisions" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="0A4E349226F3FEAAB1C56D33F8188BC7" import="0">Art/ArtDefines.sql</File>
+    <File md5="74B55B3C96723A68EEDEA8B083D50DBC" import="1">Art/Graphics/Animations and Effects/civ5artdefines_viseffects.xml</File>
+    <File md5="0B3EDF7C3F4DF4B3E29BE9693EC17179" import="0">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Animations Export.jpg</File>
+    <File md5="62C8B0D2EEEC81E954EC81B8A9246305" import="0">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Animations Import.jpg</File>
+    <File md5="2B24689CCD06205DB313CC9AC7E011C8" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Celtic_MD_DieA.gr2</File>
+    <File md5="7206EE5492876ADBA8B2C8FD3FAA74AE" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Celtic_MD_DieA_Fade.gr2</File>
+    <File md5="4B5358D2164010D3A5903C29041B1A43" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Celtic_MD_Fidget.gr2</File>
+    <File md5="893C52F40FA4B8A6D34C357B3026BD0C" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Celtic_MD_FortifyA.gr2</File>
+    <File md5="1868588C74E1E65884B7E44529B9ABB3" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Celtic_MD_FortifyA_Idle.gr2</File>
+    <File md5="59A1B6C695FBB87F6DCB78B26CC667C1" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Celtic_MD_HurtA.gr2</File>
+    <File md5="34B37CEC922754C393E21F37C534D078" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Celtic_MD_Idle.gr2</File>
+    <File md5="493A9BDF462A060493F4E26DB015C520" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Celtic_MD_Run.gr2</File>
+    <File md5="C5739FEA2C4725D62797D075D67FB025" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Celtic_MD_StrikeA.gr2</File>
+    <File md5="ADEB832C086934E630BF6C0902F2A56A" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Chinese_MD_DieA.gr2</File>
+    <File md5="40E4590E57EBB9917A11002309A3EA9E" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Chinese_MD_DieA_Fade.gr2</File>
+    <File md5="CB98C27CA2FC04656B518FE6479E0D4E" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Chinese_MD_Fidget.gr2</File>
+    <File md5="36D7E2AEC37A1A682C30914A9C6F671C" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Chinese_MD_FortifyA.gr2</File>
+    <File md5="5C651D74E5A48F9109F6C22ED72313A4" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Chinese_MD_FortifyA_Idle.gr2</File>
+    <File md5="FAF4E55A82A1A2F5759C86A705F9F68B" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Chinese_MD_HurtA.gr2</File>
+    <File md5="E9AE568DD0DDB11377702127C042B9D2" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Chinese_MD_Idle.gr2</File>
+    <File md5="BD9F6871C171C4C3FC3F7BA6DB672053" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Chinese_MD_Run.gr2</File>
+    <File md5="67AA377A5118D6AC9B5DA86819D33FA2" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Chinese_MD_StrikeA.gr2</File>
+    <File md5="3C80432357489FE72E7655F875BDB824" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/chariot_md_diea.gr2</File>
+    <File md5="5D52FA980E997549B0922C5C52BA64B1" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/chariot_md_diea_fade.gr2</File>
+    <File md5="43581AC9B98CF1055A0AFED3887E45AE" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/chariot_md_fidget.gr2</File>
+    <File md5="E6E19537717C935860CD9BD2FA6752EC" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/chariot_md_fortifya.gr2</File>
+    <File md5="1CA9DFD66BF306F5C9F3AD0C3028B12A" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/chariot_md_fortifya_idle.gr2</File>
+    <File md5="005FB3C34DBCA7AE12948BE7DA72CBA8" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/chariot_md_hurta.gr2</File>
+    <File md5="AE6DA18C5A2A9EEE0837BF3700B7A8D6" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/chariot_md_idle.gr2</File>
+    <File md5="D111DE946B028FF2D7E25F100562393D" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/chariot_md_run.gr2</File>
+    <File md5="D0C084D38F967E1619552481F721DD7B" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/chariot_md_strikea.gr2</File>
+    <File md5="5AD6804BB0A75E34C88FE9EA0BE6111E" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/egyptianwarchariot_md_diea.gr2</File>
+    <File md5="A1E3EC5A7FB67ACB252508175ED1A855" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/egyptianwarchariot_md_diea_fade.gr2</File>
+    <File md5="718CFD0F011CB22C22C33CFEF290380E" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/egyptianwarchariot_md_fidget.gr2</File>
+    <File md5="B819EBD3EBBFD1698E6F2161106A4A8A" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/egyptianwarchariot_md_fortifya.gr2</File>
+    <File md5="8E2DB4941285625D50CE5561F524F229" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/egyptianwarchariot_md_fortifya_idle.gr2</File>
+    <File md5="5D8CA3748BFE19C118E9887BC9CEBB9B" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/egyptianwarchariot_md_hurta.gr2</File>
+    <File md5="36DF45372BD78107F202633840D29F54" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/egyptianwarchariot_md_idle.gr2</File>
+    <File md5="0B942ED57C082D5AD8E3DBCE9E9FA81D" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/egyptianwarchariot_md_run.gr2</File>
+    <File md5="DB01D3C200F41A9339CF6E7B56228E56" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/egyptianwarchariot_md_strikea.gr2</File>
+    <File md5="B77A8D871F6552712B4CA6C3EAD22AA6" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/fx_triggers_Chariot_Civ4.ftsxml</File>
+    <File md5="8B435DA891615E52AB0297A3FDD15927" import="0">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/[Chariot_XML_Code].txt</File>
+    <File md5="9309774C33232FFC6E47E09F56BDD3C5" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_attack_city_to_run.dge</File>
+    <File md5="FA9CE373BB700CFCD8F0FA3A955B1E69" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_attack_to_run_graph.dge</File>
+    <File md5="BA4F6AEB27527AB47CC284B27C8288A8" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_bombard_defend_loop_graph.dge</File>
+    <File md5="933E4A224EFE615D537517EFE06B34BC" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_civilian_activate_captured.dge</File>
+    <File md5="87476FD4384999BCCBF43AEEF9B3A652" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_civilian_death_final.dge</File>
+    <File md5="9AB143ED19D8B61A7794C90D5D65EE97" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_civilian_enter_bombard_defend.dge</File>
+    <File md5="7BCAF33AE57FA6E4F56F767E1799955E" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_civilian_state_01.fsmxml</File>
+    <File md5="CD02EC91E73F396297C2B3434A8BA034" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_combat_ready_graph.dge</File>
+    <File md5="6B4338103039DFBD431A44C89DA198D6" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_death_final_graph.dge</File>
+    <File md5="F9F109E1E43FD75DFC765D9B3A43CE48" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_death_graph.dge</File>
+    <File md5="014FBFBCB17012BEC0B32D9FFDBF721E" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_enter_bombard_defend_graph.dge</File>
+    <File md5="7A5A0ADFBBB05D6E4FB126383988B264" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_enter_combat_ready_graph.dge</File>
+    <File md5="34488A641F9D948D865BBECF8B3878DF" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_enter_fortify.dge</File>
+    <File md5="ADAECB630FF73EEFBBE3EE3661F1819C" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_enter_sleep_civilian.dge</File>
+    <File md5="F245B80AAC985C0011FEE5CBF3FB25DF" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_fidgets_graph.dge</File>
+    <File md5="65FED4E2E20D7512D6B5E92C1CD37EF7" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_fortify_fidget_graph.dge</File>
+    <File md5="F758D65157483D32C6763F817B216937" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_fortify_graph.dge</File>
+    <File md5="C2C8D0ADFA388980A03E814BF2B335F5" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_fortify_leave_graph.dge</File>
+    <File md5="AD4E2A013238410D8FCE2666AEB1DC08" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_fortify_to_idle_a.dge</File>
+    <File md5="EF6168FF0903555EDCBB9FD626CFB00F" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_idle_graph.dge</File>
+    <File md5="268797759660DA55A0F792A966EB586B" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_idle_offset_continue_true_graph.dge</File>
+    <File md5="C4D8B3EB164B5525B92514645521D0C3" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_leave_bombard_defend_trans_idle_a_graph.dge</File>
+    <File md5="189E34C23C7A19F2C190E1ACB4212C91" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_leave_combat_ready.dge</File>
+    <File md5="225D164523FE1270306005CCD71B075A" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_melee_attacks.dge</File>
+    <File md5="71E511A38054110B5D9A23B311AC0104" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_modern_ship_attacks.dge</File>
+    <File md5="BA0D234DE017F5CEB6DEF37CE7DFE384" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_attack_city_to_run.dge</File>
+    <File md5="75D8FBC3A2C4D56B1089F20A2E9D9DA1" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_attack_to_run_graph.dge</File>
+    <File md5="82C3CE94F7827159DEA80CCF8AAF5D9E" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_bombard_defend_loop_graph.dge</File>
+    <File md5="FF8A929D15C8ECE5089A806AFBC80C8E" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_civilian_activate_captured.dge</File>
+    <File md5="1AE83D5303F9671277D4FEC7F327A2BB" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_civilian_death_final.dge</File>
+    <File md5="0021307C276C3516A57BBADDAC07ACE7" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_civilian_enter_bombard_defend.dge</File>
+    <File md5="C3686411D2E96A715267F9A5C72A5EB1" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_combat_ready_graph.dge</File>
+    <File md5="FE5B902745DEE0860ECEE5BA421D141F" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_death_final_graph.dge</File>
+    <File md5="21659FCED7A08D6FB464A693D0E82597" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_death_graph.dge</File>
+    <File md5="B66FF4B10706BE666A916B917D14AC83" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_enter_bombard_defend_graph.dge</File>
+    <File md5="9B18015ACB470CD66C3294FDA203C27E" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_enter_combat_ready_graph.dge</File>
+    <File md5="FD1B5EABA624344B944CD37BD71DE110" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_enter_fortify.dge</File>
+    <File md5="2470ABA98F462C27DD3C1AC013BD3AC6" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_enter_sleep_civilian.dge</File>
+    <File md5="04680D47D3519A5FFB950F1147D7B1D4" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_fidgets_graph.dge</File>
+    <File md5="327CB90C3BCF5BAC71F77DA677997631" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_fortify_fidget_graph.dge</File>
+    <File md5="998F9D5F9FCAFE31E97022C5C50C67E8" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_fortify_graph.dge</File>
+    <File md5="39370F05801D7D017D605CE224EE11E7" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_fortify_leave_graph.dge</File>
+    <File md5="7BC464D9DF686D87145362DEE0F68A04" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_fortify_to_idle_a.dge</File>
+    <File md5="EF3E7C919600B18CDC0D6F1BCDD45F64" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_idle_graph.dge</File>
+    <File md5="2F7C2570D10BD4E5879F105F9BB3BC53" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_idle_offset_continue_true_graph.dge</File>
+    <File md5="7AAA31587E2E15A0B887A31C861D4B45" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_leave_bombard_defend_trans_idle_a_graph.dge</File>
+    <File md5="4BB9881AAB8B9F3571AA787BB89B4FF1" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_leave_combat_ready.dge</File>
+    <File md5="2937CE1A002CB18C85FA2E3E63221139" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_melee_attacks.dge</File>
+    <File md5="E538938BAD81B88082C8DF076514653E" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_modern_ship_attacks.dge</File>
+    <File md5="DBFC96AE4406957395EC439CEFF8584A" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_running_loop.dge</File>
+    <File md5="BD96EBE9953A41BD78D450DC26561AFC" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_run_no_charge_loop.dge</File>
+    <File md5="91A772D3D07C64329ED801632EB689C7" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_run_start_civilian.dge</File>
+    <File md5="C017AA3F2D83AAB3B6B939B6418071A3" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_start_running.dge</File>
+    <File md5="34D584D857E6CBA51D87EE2FD6950EC6" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_stop_running.dge</File>
+    <File md5="8D3450B63AF23F48CF9DEDC3B586B022" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_stop_running_civilian.dge</File>
+    <File md5="500F6DEDBDB767CAE8C964DBEE647459" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_ms_transitions_for_idles.dge</File>
+    <File md5="A64E86033B61613B4F39979D5603E65F" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_running_loop.dge</File>
+    <File md5="E38EAF3E95C835B93C7E7849A7F4F23B" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_run_no_charge_loop.dge</File>
+    <File md5="9432853873B222F5AEF1CE53C1CD98DA" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_run_start_civilian.dge</File>
+    <File md5="BCF1F945C0CBE7A1C9F62E5B46F84F99" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_start_running.dge</File>
+    <File md5="7B0232A8BE345EB899FF221FBD7BDCFB" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_stop_running.dge</File>
+    <File md5="38B813F99CCD01B77FB798D2AFE91571" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_stop_running_civilian.dge</File>
+    <File md5="2506D6C118D6A9FB915723F731C95FD4" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_aim_transitions_for_idles.dge</File>
+    <File md5="E38F763EEDD8E5CA2320278CC1641F42" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_fx_triggers_antiair_vehicle_1gun.ftsxml</File>
+    <File md5="1091C411BFCA66D5EE74CEFFD6EE64DC" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_fx_triggers_antiair_vehicle_2gun.ftsxml</File>
+    <File md5="948F20768997973457FAD6CF0F58645E" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_fx_triggers_antiair_vehicle_3gun.ftsxml</File>
+    <File md5="76CCDC691B5CBE0C4F3A85BF0E796AA5" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_fx_triggers_antiair_vehicle_4gun.ftsxml</File>
+    <File md5="EDA5989385F1C83D85AD44E2B8028A1E" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_fx_triggers_artillery.ftsxml</File>
+    <File md5="AB180DC6BFF8E18757D23D554F80784A" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_fx_triggers_battleship.ftsxml</File>
+    <File md5="15D16F16B2DA12C59E1DB7565EBAC0ED" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_fx_triggers_battleship_4turret.ftsxml</File>
+    <File md5="57B853C5D7F32E9A1000E2F1341916A0" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_fx_triggers_Cruiser.ftsxml</File>
+    <File md5="6E0AFDF33543EE37A4770E8903EF3DCB" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_fx_triggers_destroyer.ftsxml</File>
+    <File md5="206D2B57E712C46A9B2B06BC024BA5F4" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_fx_triggers_EarlyJet.ftsxml</File>
+    <File md5="DE8146AC44DE6C704F0728782C1AE500" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_fx_triggers_EarlyTank_1gun.ftsxml</File>
+    <File md5="609CE0B64FB4B5781695009F0D913A51" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_fx_triggers_EarlyTank_2gun.ftsxml</File>
+    <File md5="6903919CC91F1C38BC07B661FDCF73AB" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_fx_triggers_fighter_2Propellers.ftsxml</File>
+    <File md5="57E688AF2606E958CA088BD229D43F5B" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_fx_triggers_infantry.ftsxml</File>
+    <File md5="5B811AF5596286D7B6DAD0FE8E8FA53B" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_fx_triggers_jetfighter.ftsxml</File>
+    <File md5="DD04F56BC976D1CC6D925C1677DCF2A2" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_fx_triggers_Katyusha.ftsxml</File>
+    <File md5="A08730646EFA18C9E3385EE7D59EA9DC" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_fx_triggers_modernarmor.ftsxml</File>
+    <File md5="6E33E758B853E1114BB487111B8FA075" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_fx_triggers_paratrooper.ftsxml</File>
+    <File md5="212745C0D1059F32FAC334A46B790713" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_fx_triggers_paratrooper_mg.ftsxml</File>
+    <File md5="108FD3B4BAAB4A605BF70CCD44F20E8B" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_fx_triggers_tank.ftsxml</File>
+    <File md5="2B8DD37B99816431055263F820529E18" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_fx_triggers_tank_lightfire.ftsxml</File>
+    <File md5="2C9B80EF7FD70EFAA250F616A4316DC2" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_fx_triggers_tank_mg_1gun.ftsxml</File>
+    <File md5="CCEE19B5A0E7AE186838E1A5A0EE0D33" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_fx_triggers_tank_mg_2gun.ftsxml</File>
+    <File md5="B233D27FC1FA1DB1127E263DC20D30DB" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_mechanized_aim_state_01.fsmxml</File>
+    <File md5="75C5BA4CEC139C9EAFA47AE912EAB3EC" import="1">Art/Graphics/Animations and Effects/Edited_Animations/edited_modern_ship_aim_state_01.fsmxml</File>
+    <File md5="6DE978A414F244E9C869A692EE90D61B" import="0">Art/Graphics/Animations and Effects/[Readme].txt</File>
+    <File md5="8367C9A93F0BE94F6CE505E451E430F9" import="1">Art/Graphics/IS-2.dds</File>
+    <File md5="73B07FC6A6029998D594ACE9CD5B9874" import="1">Art/Graphics/IS-2.fxsxml</File>
+    <File md5="442D349FE1AFC718A158364238654D51" import="1">Art/Graphics/IS-2.gr2</File>
+    <File md5="AC41C06BA721315512F26433220FEDF7" import="1">Art/Graphics/no_gloss.dds</File>
+    <File md5="AC2CB2F9D3438EB8AB854AA0113F6436" import="1">Art/Graphics/sv_IS2.dds</File>
+    <File md5="2875B2BC68B8459E30BF02D709B64DB7" import="1">Art/IconAtlas/JFD_IS2UnitFLag_32.dds</File>
+    <File md5="4AF65558B42E9E56EC080615FAEBB099" import="1">Art/IconAtlas/JFD_USSRStalinAlphaAtlas_128.dds</File>
+    <File md5="5F8DC0286BD08E763517D03277051003" import="1">Art/IconAtlas/JFD_USSRStalinAlphaAtlas_16.dds</File>
+    <File md5="349CBB3BDA89E8191765415427B154E1" import="1">Art/IconAtlas/JFD_USSRStalinAlphaAtlas_24.dds</File>
+    <File md5="FD54EBC42976D239590CF7F57E1D7307" import="1">Art/IconAtlas/JFD_USSRStalinAlphaAtlas_32.dds</File>
+    <File md5="8354AE5BA75494D3F9304B41AB808A1C" import="1">Art/IconAtlas/JFD_USSRStalinAlphaAtlas_45.dds</File>
+    <File md5="7C0C610DBCA4DD98BA04AC76D543915A" import="1">Art/IconAtlas/JFD_USSRStalinAlphaAtlas_48.dds</File>
+    <File md5="B4178FC1CB4E879979EAD4BD0DDB0EFD" import="1">Art/IconAtlas/JFD_USSRStalinAlphaAtlas_64.dds</File>
+    <File md5="DEB8E068ADA4330D95392C056F9451DB" import="1">Art/IconAtlas/JFD_USSRStalinAlphaAtlas_80.dds</File>
+    <File md5="85AB4585B630793A943A8EE6E074D4E7" import="1">Art/IconAtlas/JFD_USSRStalinAtlas_128.dds</File>
+    <File md5="388D86F60186D9BAF0E8336C9C7B47CA" import="1">Art/IconAtlas/JFD_USSRStalinAtlas_256.dds</File>
+    <File md5="AF2EF8A2A810F7C93702C4F1298BED5C" import="1">Art/IconAtlas/JFD_USSRStalinAtlas_32.dds</File>
+    <File md5="F7144CFCF34E1583993663A45209F338" import="1">Art/IconAtlas/JFD_USSRStalinAtlas_45.dds</File>
+    <File md5="A72F15AF03A49E335E0A4721A20BA330" import="1">Art/IconAtlas/JFD_USSRStalinAtlas_64.dds</File>
+    <File md5="87C732736A992A024FBC6FBA0B3BCAD4" import="1">Art/IconAtlas/JFD_USSRStalinAtlas_80.dds</File>
+    <File md5="7A44EF80783F0ACC674B2FDCF8E6B0B4" import="1">Art/Leaderscene/Stalin_diplo.dds</File>
+    <File md5="F8A585BCAA0EB542CAA5DA57DB2EB58C" import="1">Art/Leaderscene/Stalin_Scene.xml</File>
+    <File md5="C0D3F65D768426CB89D8993AA722AC62" import="1">Art/Map/DOM_Stalin.dds</File>
+    <File md5="01C020CD99FA5729D91A4B1D33AF1A57" import="1">Art/Map/USSRStalinMap512.dds</File>
+    <File md5="FF2A89C93D40F3CE879F7C40C07CC99D" import="1">Art/StalinPropaganda1.dds</File>
+    <File md5="6AC0A27D9D0C3E592C5BAB9BB6EC7631" import="1">Art/StalinPropaganda2.dds</File>
+    <File md5="DC5D72E1C2AE21F6230F4A45AE3EB015" import="1">Art/StalinPropaganda3.dds</File>
+    <File md5="8DAD41D2D51F181CED37C99A91704D33" import="0">Audio/Audio.sql</File>
+    <File md5="C9B8907077F748FAECD5B060F93E24B1" import="1">Audio/SovietAnthem.mp3</File>
+    <File md5="A3868C35484A68E19B012920B137E55D" import="1">Audio/Stalin_Peace.mp3</File>
+    <File md5="2CB587E3C65E7C06CF780943963FC83F" import="1">Audio/Stalin_War.mp3</File>
+    <File md5="BF5CC8A5AC80C2724B1018B7FD8DDB03" import="0">Core/Bingles' Civ IV Traits Support/Leader_SharedTraits.sql</File>
+    <File md5="4867D03DE4E3880265FBCF1701F8D598" import="0">Core/Buildings.sql</File>
+    <File md5="08AFBB242FC358385FEDD677BBFCE43D" import="0">Core/Civilizations.sql</File>
+    <File md5="3E02A011323E047A8E8FCBB75F6A12AC" import="0">Core/Diplomacy.sql</File>
+    <File md5="034E5B72380FD56D8D9E1519F54DCA68" import="0">Core/DiplomacyText.xml</File>
+    <File md5="38BC920D3FFCD9F4A847293526A5C867" import="0">Core/GameText.xml</File>
+    <File md5="8723D893A26037B269017237138D43B0" import="0">Core/Gedemon's YnAEMP Support/CivilizationStartPos.sql</File>
+    <File md5="63772684387B323F6D3A37127496C5B6" import="0">Core/hazel16's Map Labels Support/ML_Tables.sql</File>
+    <File md5="86D81EA2096271EFBADA51AC83D3A7BC" import="0">Core/JFD's Cultural Diversity Support/Civilization_JFD_CultureTypes.sql</File>
+    <File md5="D8805E02CD5E9BBFF500E9BACC24A587" import="0">Core/JFD's Piety and Prestige Support/Flavours.sql</File>
+    <File md5="5EF8F70052DB42F140C391769E819880" import="0">Core/Leaderhead.sql</File>
+    <File md5="ABC57C0C761ADD19AB9603046D7CE5FF" import="0">Core/PlayerColours.sql</File>
+    <File md5="0D17C37AE124CC6444E01016E016F312" import="0">Core/Promotions.sql</File>
+    <File md5="AADED41B044F9BAF74502B43ECB39A91" import="0">Core/Ryoga's Unique Cultural Influence Support/GameText.xml</File>
+    <File md5="2329088DBC4DE03A41B226E330DCE904" import="0">Core/Sukritact's Decisions Support/Decisions.sql</File>
+    <File md5="EF1A6BE4370F2F8BB88B76793763303F" import="0">Core/Sukritact's Decisions Support/GameText.xml</File>
+    <File md5="B8ACA63D8711F92A25D2341DAD9D1F0C" import="0">Core/Sukritact's Events Support/Events.sql</File>
+    <File md5="757142C74FF74D10AFF7D2FFAAF5BAB5" import="0">Core/Sukritact's Events Support/GameText.xml</File>
+    <File md5="5CF668CEFBD1D00CD5C1F7EA805A41D2" import="0">Core/Traits.sql</File>
+    <File md5="75928052E730D666D8A7B99E54B182E1" import="0">Core/Units.sql</File>
+    <File md5="86C1C3EDCE4699DE320A932C4E70E22C" import="0">Lua/Sukritact's Modular City Info Stack/CityInfoStack.lua</File>
+    <File md5="120EB71025973A8A48B38314241DD0B3" import="0">Lua/Sukritact's Modular City Info Stack/CityInfoStack.xml</File>
+    <File md5="52DAF4F8C7F0A1980C251623A16DCD9C" import="0">Lua/Sukritact's Modular City Info Stack/JFD_USSRStalinCityInfo.lua</File>
+    <File md5="1DD8D4242F9166EA049B3EF9623E9C93" import="0">Lua/Sukritact's Modular City Info Stack/JFD_USSRStalinCityInfo.xml</File>
+    <File md5="8E48E5DFA466243F111D9F541BD59F63" import="1">Lua/Sukritact's Events Support/JFD_USSRStalinEvents.lua</File>
+    <File md5="BFA350224D5DB02FA463E04E4765C792" import="1">Lua/Sukritact's Decisions Support/JFD_USSRStalinDecisions.lua</File>
+    <File md5="4806FA26C35743CA057DA8583EE11163" import="0">Lua/JFD_USSRStalinFunctions.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Audio/Audio.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Buildings.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Civilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DiplomacyText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Leaderhead.sql</UpdateDatabase>
+      <UpdateDatabase>Core/PlayerColours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Promotions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Units.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Gedemon's YnAEMP Support/CivilizationStartPos.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Decisions Support/Decisions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Decisions Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Bingles' Civ IV Traits Support/Leader_SharedTraits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/hazel16's Map Labels Support/ML_Tables.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Cultural Diversity Support/Civilization_JFD_CultureTypes.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Piety and Prestige Support/Flavours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Ryoga's Unique Cultural Influence Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Events Support/Events.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Events Support/GameText.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_USSRStalinFunctions.lua">
+      <Name>USSR Stalin Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Sukritact's Modular City Info Stack/CityInfoStack.lua">
+      <Name>Sukritact's City Info Stack</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Sukritact's Modular City Info Stack/JFD_USSRStalinCityInfo.lua">
+      <Name>JFD_USSRStalinCityInfoStack</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

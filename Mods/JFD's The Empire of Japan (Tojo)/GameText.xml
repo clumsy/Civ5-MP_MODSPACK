@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Divided Military -->
+		<Row Tag="TXT_KEY_EVENT_JFD_JAPAN_TOJO_DIVIDED_MILITARY">
+			<Text>Divided Military</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_JAPAN_TOJO_DIVIDED_MILITARY_DESC">
+			<Text>
+				A plot concoted by members of the Imperial Army to overthrow the government has been uncovered and foiled. But the matter has proven divisive within the military. We must act to ensure that the army does not lose its solidarity, and that it remains fiercly united in service to the imperial throne.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_JAPAN_TOJO_DIVIDED_MILITARY_OUTCOME_1">
+			<Text>We must execute the conspirators. There will be no tolerance of discord.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_JAPAN_TOJO_DIVIDED_MILITARY_OUTCOME_2">
+			<Text>Throw money at the army! Better equipment will strengthen their hearts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_JAPAN_TOJO_DIVIDED_MILITARY_OUTCOME_3">
+			<Text>Perhaps political reforms are needed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_JAPAN_TOJO_DIVIDED_MILITARY_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose your [ICON_CAPITAL] Capital's garrison[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_JAPAN_TOJO_DIVIDED_MILITARY_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]20% chance that rebels will spawn near the [ICON_CAPITAL] Capital[NEWLINE][ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLD] Gold[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]All current Military Land Units gain 5 XP[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_JAPAN_TOJO_DIVIDED_MILITARY_OUTCOME_RESULT_3">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]40% chance that rebels will spawn near the [ICON_CAPITAL] Capital[NEWLINE][ICON_BULLET]Lose {1_Num} [ICON_GOLD] Gold[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain a free [ICON_CULTURE] Social Policy[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_JAPAN_TOJO_DIVIDED_MILITARY_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have executed those responsible for a plot to overthrow the government. This seems to have quietened down any discord within the Imperial Army.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_JAPAN_TOJO_DIVIDED_MILITARY_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have paid for better equipment for the Imperial Army, which seems to have quietened down any discord within.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_JAPAN_TOJO_DIVIDED_MILITARY_OUTCOME_RESULT_2_ALT_NOTIFICATION">
+			<Text>We have paid for better equipment for the Imperial Army, but this was not enough to quieten the discord within.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_JAPAN_TOJO_DIVIDED_MILITARY_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>We have pledged to enact political reforms in favour of the military, which seems to have quietened down any discord within.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_JAPAN_TOJO_DIVIDED_MILITARY_OUTCOME_RESULT_3_ALT_NOTIFICATION">
+			<Text>We have pledged to enact political reforms in favour of the military, but this was not enough to quieten the discord within.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_JAPAN_TOJO_DIVIDED_MILITARY">
+			<Text>A recent plot to overthrow the government of Japan has left the Japanese Imperial Army divided.</Text>
+		</Row>
+		<!-- Emperor's Summon -->
+		<Row Tag="TXT_KEY_EVENT_JFD_JAPAN_TOJO_EMPERORS_SUMMONS">
+			<Text>Emperor's Summon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_JAPAN_TOJO_EMPERORS_SUMMONS_DESC">
+			<Text>
+				We have been summoned to the Imperial Palace at the behest of the Emperor, to discuss matters of state. We can only hope that the Emperor is pleased with our continued service to the empire and to the Emperor's family.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_JAPAN_TOJO_EMPERORS_SUMMONS_OUTCOME_1">
+			<Text>This is a tremendous honour. We cannot decline.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_JAPAN_TOJO_EMPERORS_SUMMONS_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]A [ICON_GOLDEN_AGE] Golden Age begins[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_JAPAN_TOJO_EMPERORS_SUMMONS_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We were summoned to meet with the Emperor, who praised our continuing devotion to the Japanese Empire.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

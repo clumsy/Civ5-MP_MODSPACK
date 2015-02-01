@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Lost Nordic Settlement -->
+		<Row Tag="TXT_KEY_EVENT_JFD_DENMARK_NORWAY_LOST_NORDIC_SETTLEMENT">
+			<Text>Lost Nordic Settlement</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_DENMARK_NORWAY_LOST_NORDIC_SETTLEMENT_DESC">
+			<Text>A band of explorers have approached us for patronage to seek out a lost nordic settlement, founded in ancient times by our ancestors. In exchange for gold to cover expenses, and a bit of the glory, if successful, this settlement will be claimed in the name of the empire.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_DENMARK_NORWAY_LOST_NORDIC_SETTLEMENT_OUTCOME_1">
+			<Text>Fund this expedition immediately!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_DENMARK_NORWAY_LOST_NORDIC_SETTLEMENT_OUTCOME_2">
+			<Text>That seems a waste of state funds.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_DENMARK_NORWAY_LOST_NORDIC_SETTLEMENT_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLD] Gold[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain a free Settler, two free Scouts, and a free Kontreadmiral[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_DENMARK_NORWAY_LOST_NORDIC_SETTLEMENT_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Nothing[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_DENMARK_NORWAY_LOST_NORDIC_SETTLEMENT_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have become patron to an expedition to seek out a lost nordic settlement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_DENMARK_NORWAY_LOST_NORDIC_SETTLEMENT_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have refused to patronise an expedition to seek out a lost nordic settlement.</Text>
+		</Row>
+		<!-- Pietist Movement -->
+		<Row Tag="TXT_KEY_EVENT_JFD_DENMARK_NORWAY_PIETISIM">
+			<Text>Pietist Movement</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_DENMARK_NORWAY_PIETISIM_DESC">
+			<Text>Certain members of our faith, led by the theologian Philipp Spener, contend that our religious elite are corrupted by greed and impiety. A movement calling for the revival of a more devout, traditional style of {1_ReligionName} has begun, and they appeal to us to embrace their ideals.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_DENMARK_NORWAY_PIETISIM_OUTCOME_1">
+			<Text>Yes. Let us adopt a more pietist faith.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_DENMARK_NORWAY_PIETISIM_OUTCOME_2">
+			<Text>Bah. This is sacriligious nonsense.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_DENMARK_NORWAY_PIETISIM_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_CULTURE] Culture[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_DENMARK_NORWAY_PIETISIM_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} {2_Yield}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_DENMARK_NORWAY_PIETISIM_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have embraced the ideals of Pietism.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_DENMARK_NORWAY_PIETISIM_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have rejected the ideals of Pietism.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_DENMARK_NORWAY_PIETISM_1">
+			<Text>Christian VI Denmark-Norway has embraced the ideals of the Pietist Movement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_DENMARK_NORWAY_PIETISM_2">
+			<Text>Christian VI Denmark-Norway has rejected the ideals of the Pietist Movement.</Text>
+		</Row>
+		<!-- Norwegian Tensions -->
+		<Row Tag="TXT_KEY_EVENT_JFD_DENMARK_NORWAY_NORWEGIAN_TENSIONS">
+			<Text>Norwegian Tensions</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_DENMARK_NORWAY_NORWEGIAN_TENSIONS_DESC">
+			<Text>
+				Our Norwegian subjects have become discontent with our rule being centred on Copenhagen. Some of the more radical elite are beginning to discuss the creation of an independent Norway, whilst others merely wish for a greater devolution of powers to Christiania. Something must be done to settle these tensions before they become a threat to the Dano-Norwegian union.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_DENMARK_NORWAY_NORWEGIAN_TENSIONS_OUTCOME_1">
+			<Text>Let us re-locate our capital to Christiania.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_DENMARK_NORWAY_NORWEGIAN_TENSIONS_OUTCOME_2">
+			<Text>Very well. Let us grant greater autonomy unto Norway.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_DENMARK_NORWAY_NORWEGIAN_TENSIONS_OUTCOME_3">
+			<Text>We shall tour Norway. A visit from their sovereign shall distract them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_DENMARK_NORWAY_NORWEGIAN_TENSIONS_OUTCOME_4">
+			<Text>We shall not act to appease these ingrates.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_DENMARK_NORWAY_NORWEGIAN_TENSIONS_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Copenhagen enters 5 turns of [ICON_RESISTANCE] Resistance[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Christiania becomes your new [ICON_CAPITAL] Capital[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Christiania begins celebrating 20 turns of 'We Love the King Day'[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_DENMARK_NORWAY_NORWEGIAN_TENSIONS_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Copenhagen enters 2 turns of [ICON_RESISTANCE] Resistance[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Christiania begins celebrating 10 turns of 'We Love the King Day'[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_DENMARK_NORWAY_NORWEGIAN_TENSIONS_OUTCOME_RESULT_3">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]30% chance of rebels spawning near to Christiania[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]The [ICON_CAPITAL] Capital and Christiania begin celebrating 5 turns of 'We Love the King Day'[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_DENMARK_NORWAY_NORWEGIAN_TENSIONS_OUTCOME_RESULT_4">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]50% chance of rebels spawning near to Christiania[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]The [ICON_CAPITAL] Capital begins celebrating 10 turns of 'We Love the King Day'[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_DENMARK_NORWAY_NORWEGIAN_TENSIONS_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have conceded to the upset of our Norwegian realm by re-locating our capital to Christiania. This has upset many of our Danish officials in Copenhagen, however.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_DENMARK_NORWAY_NORWEGIAN_TENSIONS_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have conceded to the upset of our Norwegian realm by conferring upon them greater autonomy. This has upset some of our Danish officials in Copenhagen, however.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_DENMARK_NORWAY_NORWEGIAN_TENSIONS_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>We have embarked upon a ten-day tour of our Norwegian realm. This seems to have put to rest any talk of independence, and has impressed our Danish officials in Copenhagen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_DENMARK_NORWAY_NORWEGIAN_TENSIONS_OUTCOME_RESULT_3_ALT_NOTIFICATION">
+			<Text>We have embarked upon a ten-day tour of our Norwegian realm. Though this has impressed our Danish officials in Copenhagen, it has not satisfied all, and secessionist rebels have risen up against us in Norway.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_DENMARK_NORWAY_NORWEGIAN_TENSIONS_OUTCOME_RESULT_4_NOTIFICATION">
+			<Text>We have decided against acting upon the discontentment in our Norwegian realm. This seems to have come to no fault, and our show of conservatism has impressed our Danish officials.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_DENMARK_NORWAY_NORWEGIAN_TENSIONS_OUTCOME_RESULT_4_ALT_NOTIFICATION">
+			<Text>We have decided against acting upon the discontentment in our Norwegian realm. Though our show of conservatism has impressed our Danish officials, this has not satisfied all, and secessionist rebels have risen up against us in Norway.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_DENMARK_NORWAY_NORWEGIAN_TENSIONS">
+			<Text>Tensions are brewing between Denmark and Norway in Denmark-Norway.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

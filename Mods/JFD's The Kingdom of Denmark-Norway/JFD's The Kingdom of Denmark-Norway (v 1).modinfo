@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="71a9ae62-0acf-4fb4-b956-8bc10eef2a47" version="1">
+  <Properties>
+    <Name>JFD's The Kingdom of Denmark-Norway</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]The Kingdom of Denmark-Norway[ENDCOLOR] with Christian IV to the game.</Teaser>
+    <Description>See CivFanatics or Steam Workshop for full details.</Description>
+    <Authors>JFD, Janboruta</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="B3030D39-C0D8-4bc7-91B1-7AD1CAF585AB" minversion="0" maxversion="999" />
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events and Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="d60c32bd-6826-4ca3-8161-2e37ebab5883" minversion="0" maxversion="999" title="Protestant Denominations" />
+    <Mod id="2f0b6cd7-3bf5-4197-96f6-96c00787ef18" minversion="0" maxversion="999" title="Christianity Merge" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack    " />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="56E47EFF8ABB798871282A906996684C" import="0">Art/ArtDefines.sql</File>
+    <File md5="F20C6C88B7928581D8BC2F8107BCB259" import="1">Art/Graphics/Kontreadmiral/sv_Kontreadmiral.dds</File>
+    <File md5="9CE97827CA284AD570B8F71FE33D8CAA" import="1">Art/Graphics/Kontreadmiral/WarGalleonDanish.fxsxml</File>
+    <File md5="ACAB3AF4E8D87D6D489DEDB84755768D" import="1">Art/Graphics/Kontreadmiral/WarGalleonDanish.gr2</File>
+    <File md5="5E52F63DCB6CF83FD588F17F27A82F73" import="1">Art/Graphics/Kontreadmiral/war_galleon_danish_diff.dds</File>
+    <File md5="E2D814EE028E35CCDC44B44F2BDA4C41" import="1">Art/Graphics/Kontreadmiral/war_galleon_sref.dds</File>
+    <File md5="D4DBC131F8DC628608F7BB565F4AFF19" import="1">Art/Graphics/sv_longboat.dds</File>
+    <File md5="3080962BC5D9A6A80DF87E2197770CA4" import="1">Art/IconAtlas/JFD_DenmarkNorwayAlphaAtlas_128.dds</File>
+    <File md5="D604D2CEDEA22B202047CC3213858B4F" import="1">Art/IconAtlas/JFD_DenmarkNorwayAlphaAtlas_16.dds</File>
+    <File md5="4EC6885E09CEFC88C3CBFB10B1603C1F" import="1">Art/IconAtlas/JFD_DenmarkNorwayAlphaAtlas_22.dds</File>
+    <File md5="99294C2F9CBE5AB32075A0992CA851B2" import="1">Art/IconAtlas/JFD_DenmarkNorwayAlphaAtlas_24.dds</File>
+    <File md5="6B545B18BA11903403489E44FE28CBF6" import="1">Art/IconAtlas/JFD_DenmarkNorwayAlphaAtlas_32.dds</File>
+    <File md5="6C9BF46ED85C0CEB6B9C8AFFA420A824" import="1">Art/IconAtlas/JFD_DenmarkNorwayAlphaAtlas_45.dds</File>
+    <File md5="32EDCC64354138FB9B11CECC642953BB" import="1">Art/IconAtlas/JFD_DenmarkNorwayAlphaAtlas_48.dds</File>
+    <File md5="E64BBCD56E994BE347AC00F6951634B9" import="1">Art/IconAtlas/JFD_DenmarkNorwayAlphaAtlas_64.dds</File>
+    <File md5="45872F3021A3246EFDEA613392E36F2F" import="1">Art/IconAtlas/JFD_DenmarkNorwayAlphaAtlas_80.dds</File>
+    <File md5="F293E4A2C3A87DC5D6FB9026A6B5E0FE" import="1">Art/IconAtlas/JFD_DenmarkNorwayAtlas_128.dds</File>
+    <File md5="BA23903F7F423689A9C89D4C84A9DFB6" import="1">Art/IconAtlas/JFD_DenmarkNorwayAtlas_256.dds</File>
+    <File md5="194168908948E0E4D8F2DF3A08AE1A60" import="1">Art/IconAtlas/JFD_DenmarkNorwayAtlas_32.dds</File>
+    <File md5="CE1FC35C9414370DF099C9676E898969" import="1">Art/IconAtlas/JFD_DenmarkNorwayAtlas_45.dds</File>
+    <File md5="72EDB158AD88E6A745D965EB6823B185" import="1">Art/IconAtlas/JFD_DenmarkNorwayAtlas_64.dds</File>
+    <File md5="6421D5D085B11789A947F8CF26D301C2" import="1">Art/IconAtlas/JFD_DenmarkNorwayAtlas_80.dds</File>
+    <File md5="0D1E3057D97D56EA793384E70BA13147" import="1">Art/IconAtlas/JFD_KontreadmiralUnitFlag_32.dds</File>
+    <File md5="6C9AC72B790BEC3A3A3E5BF27EA08C84" import="1">Art/IconAtlas/Unit_Longboat_Flag_32.dds</File>
+    <File md5="145C3E31CFA66D1AA77C029EFEDD2F7E" import="1">Art/Leaderscene/Christian_diplo.dds</File>
+    <File md5="2FD8F0297677FF4C4DB82B8DD100464E" import="1">Art/Leaderscene/Christian_Scene.xml</File>
+    <File md5="5A090CC0BF6BCDA680F25E076F67B953" import="1">Art/Map/DenmarkNorwayMap512.dds</File>
+    <File md5="2EB476318C7A290D571D3404B96C218B" import="1">Art/Map/DOM_Christian.dds</File>
+    <File md5="E8DCF4741F8D03CFEB4B8F789422B5A4" import="0">Art/SeaFortressDefine.sql</File>
+    <File md5="71D4C72EAC32E1E58FE9CF26BC479146" import="0">Audio/Audio.sql</File>
+    <File md5="6FEFD3272F4724D05E338B61C46F8B82" import="1">Audio/Christian_Peace.mp3</File>
+    <File md5="0C93CF3A58093DA86EDAD750780E8DF3" import="1">Audio/Christian_War.mp3</File>
+    <File md5="9DA1F1B116CF1F471CB3EF4ADC19283A" import="0">Core/Bingles' Civ IV Traits Support/Leader_SharedTraits.sql</File>
+    <File md5="03E6CD6842A6D8A77996D2D0BE111D95" import="0">Core/Buildings.sql</File>
+    <File md5="9BB2334A12720D9F2A1FFBE385C61588" import="0">Core/Builds.sql</File>
+    <File md5="A88B59EADE6FEB642995C5E7591EE443" import="0">Core/Civilizations.sql</File>
+    <File md5="3C0136F6333816734BDD296DBDAB0D64" import="0">Core/Diplomacy.sql</File>
+    <File md5="C630B0F5B62EF08939860BBC94745A35" import="0">Core/DiplomacyText.xml</File>
+    <File md5="4D0A4EA271A4137624D352BB17F69B06" import="0">Core/GameText.xml</File>
+    <File md5="4F84ABA9DB551CA1E06C4D61F7F221CA" import="0">Core/Gedemon's YnAEMP Support/CivilizationStartPos.sql</File>
+    <File md5="2D0DADED62C379DF943FDB37B252EAB2" import="0">Core/hazel16's Map Labels Support/ML_Tables.sql</File>
+    <File md5="B8BC43BFC0D33021FB246963A52EDE11" import="0">Core/Improvements.sql</File>
+    <File md5="9B7E79468699E0FF6D2BFEC5EC19FEEB" import="0">Core/JFD's Cultural Diversity Support/Civilization_JFD_CultureTypes.sql</File>
+    <File md5="ABD9DFC59409E31B6C3C251299843FAC" import="0">Core/JFD's Piety and Prestige Support/Flavours.sql</File>
+    <File md5="B7635F78373D327A15570FCD658BB99B" import="0">Core/Leaderhead.sql</File>
+    <File md5="BA513BA6089A9F53DAC9655F8DDBFDED" import="0">Core/PlayerColours.sql</File>
+    <File md5="A81E2684E3ADD3F423FE8B81001166F9" import="0">Core/Promotions.sql</File>
+    <File md5="9A58D203E80B8EF21BD32206DDD78710" import="0">Core/Ryoga's Unique Cultural Influence Support/GameText.xml</File>
+    <File md5="69216A8490C35EBE44150EE4E016DB66" import="0">Core/Sukritact's Decisions Support/Decisions.sql</File>
+    <File md5="6FDD9CC6408A97F96F00684B8B30E0C1" import="0">Core/Sukritact's Decisions Support/GameText.xml</File>
+    <File md5="B8289ADEB8A0E1DE99B3C9C437C8B7FD" import="0">Core/Sukritact's Events Support/Events.sql</File>
+    <File md5="E31B320769539B2B21EA11A31602FA27" import="0">Core/Sukritact's Events Support/GameText.xml</File>
+    <File md5="BD894C140549D382426F4316FE9D51FE" import="0">Core/Traits.sql</File>
+    <File md5="323BA4248088C5F5777A01852DFA7342" import="0">Core/Units.sql</File>
+    <File md5="E6EA70419D2EDB8A41F06EC38B29E410" import="0">Lua/JFD_DenmarkNorwayFunctions.lua</File>
+    <File md5="D63DC8BB6AA0F310DD55B264DB49C7E2" import="1">Lua/PlotIterators.lua</File>
+    <File md5="A7CEC32391CDE0F31E50C0C467B01BE9" import="1">Lua/Sukritact's Decisions Support/JFD_DenmarkNorwayDecisions.lua</File>
+    <File md5="9B30489E43E86B534AAFAF5026072301" import="1">Lua/Sukritact's Events Support/JFD_DenmarkNorwayEvents.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Audio/Audio.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Gedemon's YnAEMP Support/CivilizationStartPos.sql</UpdateDatabase>
+      <UpdateDatabase>Core/hazel16's Map Labels Support/ML_Tables.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Decisions Support/Decisions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Decisions Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Events Support/Events.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Cultural Diversity Support/Civilization_JFD_CultureTypes.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD's Piety and Prestige Support/Flavours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Ryoga's Unique Cultural Influence Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Sukritact's Events Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Bingles' Civ IV Traits Support/Leader_SharedTraits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Builds.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Buildings.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Civilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DiplomacyText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Improvements.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Leaderhead.sql</UpdateDatabase>
+      <UpdateDatabase>Core/PlayerColours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Promotions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Units.sql</UpdateDatabase>
+      <UpdateDatabase>Art/SeaFortressDefine.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_DenmarkNorwayFunctions.lua">
+      <Name>JFD_DenmarkNorwayFunctions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>
