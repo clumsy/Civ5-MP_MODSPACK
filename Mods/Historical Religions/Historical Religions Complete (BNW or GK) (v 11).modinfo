@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" version="11">
+  <Properties>
+    <Name>Historical Religions Complete (BNW or GK)</Name>
+    <Teaser>Adds 90 Religions to the base game combining my Historical Religions mod with my Denominations and Great Prophet Names mods.</Teaser>
+    <Description>This is a stand-alone edit of my Historical Religions (BNW or GK) mod (you do not need to use the main mod to use this version).
+[NEWLINE]
+[NEWLINE]This mod combines the main Historical Religions mod and all the various denomination packs into a single download. In total, it includes about 90 new religions (62 from Historical Religions and 28 religious denominations) as well as my Great Prophet Names mod.
+[NEWLINE]
+[NEWLINE]This mod includes the following mods:
+[NEWLINE]
+[NEWLINE]Christian Denominations
+[NEWLINE]Protestant Denominations
+[NEWLINE]Islamic Denominations
+[NEWLINE]Hindu Denominations
+[NEWLINE]Buddhist Denominations
+[NEWLINE]Mesopotamian Denominations
+[NEWLINE]Egyptian Denominations
+[NEWLINE]Greco-Roman Denominations
+[NEWLINE]
+[NEWLINE]Great Prophet Historical Names
+[NEWLINE]
+[NEWLINE]For additional details please see the download pages of the individual religion mods, linked above. This mod will be updated as I release new denomination packs in the future.
+[NEWLINE]
+[NEWLINE]The mod includes updated preferences for the official civs and civs made by the following authors: Tomatekh, Leugi (Patria grande), Pouakai &amp; Sukritact (More Civs), JFD, Hiram (Forgotten Civs), LastSword, TPangolin (Colonialist Legacy), Engarde, Trystero49, AgressiveWimp, TarcisioCM, Viregel, DJSHenniger, Han</Description>
+    <Authors>Tomatekh</Authors>
+    <SpecialThanks>Janboruta, Ryoga, Leugi, Reedstilt, JFD, Sukritact</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <Homepage>http://forums.civfanatics.com/showthread.php?t=478532</Homepage>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>10</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </References>
+  <Blocks>
+    <Mod id="8c101299-95c5-4b28-b7ed-4e0f774857ef" minversion="0" maxversion="999" title="HR" />
+    <Mod id="6bc3cb6e-a697-491e-9347-5e3e02640f00" minversion="0" maxversion="999" title="HR Edit" />
+    <Mod id="6c52be67-b7da-4768-9873-1a9ce5011e8e" minversion="0" maxversion="999" title="D Christian" />
+    <Mod id="d60c32bd-6826-4ca3-8161-2e37ebab5883" minversion="0" maxversion="999" title="D Protestant" />
+    <Mod id="524fba76-d0be-447f-9c89-fc56462f9f63" minversion="0" maxversion="999" title="D Islam" />
+    <Mod id="cda9bfce-2abf-4b10-b0be-514f850d95cb" minversion="0" maxversion="999" title="D Hindu" />
+    <Mod id="59a97415-76c7-47e8-8f69-d268dccd9535" minversion="0" maxversion="999" title="D Buddhist" />
+    <Mod id="1b456011-7882-4f02-8184-5421e6a2b3fb" minversion="0" maxversion="999" title="D Egyptian" />
+    <Mod id="a8a3f188-f98e-4ba2-91bf-76af49cb0a6d" minversion="0" maxversion="999" title="D Greco-Roman" />
+    <Mod id="5139dcb2-e318-4fe7-a58c-68a59b8339db" minversion="0" maxversion="999" title="D Mesopotamian" />
+    <Mod id="ba8478fa-c70e-47ca-82fc-aee3baea6407" minversion="0" maxversion="999" title="D Mesoamerican" />
+    <Mod id="f888af09-cf4d-41f0-8bf9-2d52df170330" minversion="0" maxversion="999" title="D Andean" />
+    <Mod id="b50d58fc-fb27-46b9-a8cb-2ff65d8d663a" minversion="0" maxversion="999" title="Great Prophet Names" />
+  </Blocks>
+  <Files>
+    <File md5="14066DE04C8307485148AD2E1BA56A52" import="1">Art/HistoricalReligionsMaster128.dds</File>
+    <File md5="7704D944521843E7A046914C5575FE0D" import="1">Art/HistoricalReligionsMaster16.dds</File>
+    <File md5="2EA362CBAA07FFE4816F94ADCA76904C" import="1">Art/HistoricalReligionsMaster214.dds</File>
+    <File md5="6B0450729298087D505E3AC6B0BC75B0" import="1">Art/HistoricalReligionsMaster24.dds</File>
+    <File md5="EF52C4FC7AF614A1FEEE3DDF80C84B28" import="1">Art/HistoricalReligionsMaster256.dds</File>
+    <File md5="E8897224D1A2EC7F65F3C200BCAF7048" import="1">Art/HistoricalReligionsMaster32.dds</File>
+    <File md5="E27C0678E2B6E2BB9DBBEF0ACD38E14C" import="1">Art/HistoricalReligionsMaster48.dds</File>
+    <File md5="EB1B476F7A0059E7065A5BFD5147DE50" import="1">Art/HistoricalReligionsMaster64.dds</File>
+    <File md5="E7D5DDBDA9524470E1DB4D824C25A40B" import="1">Art/HistoricalReligionsMaster80.dds</File>
+    <File md5="0119D606222FAFC8026EAB8D8FF3B601" import="1">Art/HistoricalReligionsMasterFontIcons.dds</File>
+    <File md5="11510B3EDF1D2A4C5DCCE1740B1CED66" import="1">Art/HistoricalReligionsMasterFontIcons.ggxml</File>
+    <File md5="DA8825EFB192974DEDF0CAB3164D7E22" import="0">Great Prophet Names/Great Prophet Names Text.xml</File>
+    <File md5="8A875485D18C2E2A51D514CDB6866912" import="0">Great Prophet Names/Great Prophet Names.xml</File>
+    <File md5="58AC190FFAA54C85115A27AD775B67A3" import="0">Great Prophet Names/Non-English XML Tags/Great Prophet Text DE_DE.xml</File>
+    <File md5="3987ED6001C8855E8C48BDA7621FBE8C" import="0">Great Prophet Names/Non-English XML Tags/Great Prophet Text ES_ES.xml</File>
+    <File md5="CD2459DE30D86BD7166FA280159B7085" import="0">Great Prophet Names/Non-English XML Tags/Great Prophet Text FR_FR.xml</File>
+    <File md5="3F710119B19239CC31F928607E30F496" import="0">Great Prophet Names/Non-English XML Tags/Great Prophet Text IT_IT.xml</File>
+    <File md5="8B1AF23EDA8EC8A58784DFBBAB5491AE" import="0">Great Prophet Names/Non-English XML Tags/Great Prophet Text JA_JP.xml</File>
+    <File md5="1AA782BE22BF622094F515439F1C6DDA" import="0">Great Prophet Names/Non-English XML Tags/Great Prophet Text KO_KR.xml</File>
+    <File md5="BE7E15EFC46B60F3B0B505BB7602742B" import="0">Great Prophet Names/Non-English XML Tags/Great Prophet Text PL_PL.xml</File>
+    <File md5="ADFFF4C3C57F258D4FF394CB27265E8F" import="0">Great Prophet Names/Non-English XML Tags/Great Prophet Text RU_RU.xml</File>
+    <File md5="8C64244F831C3437011DA3C24B83B15E" import="0">SQL/HistoricalReligionsMasterArt.sql</File>
+    <File md5="171C2ADFA355DE25503421EE1FFE9015" import="0">SQL/HistoricalReligionsMasterPreference.sql</File>
+    <File md5="404892E6DB03C623A47E831485717903" import="0">SQL/HistoricalReligionsMasterReligion.sql</File>
+    <File md5="1DDF3051BF8CD090780549D5946B8625" import="0">XML/Historical Religions Mod Edits.xml</File>
+    <File md5="4CFB1DE29ED0D1EDDE3F14C86F1CF366" import="0">XML/Text/HistoricalReligionsMasterText.xml</File>
+    <File md5="7A3E83DF5A9B700F24AD5B840DFF5A7D" import="0">XML/Text/Non-English XML Tags/HistoricalReligionsMasterText zh_Hant_HK.xml</File>
+    <File md5="C6DF3A259576C99F4D824D9C31E4CFB9" import="0">XML/Text/Non-English XML Tags/HistoricalReligionsMasterText zh_CN.xml</File>
+    <File md5="8C4B01224DEC5E8FF2AB0E9801EF2420" import="0">XML/Text/Non-English XML Tags/HistoricalReligionsMasterText DE_DE.xml</File>
+    <File md5="B88A10B123FD9EF086D15C1A52EB2C99" import="0">XML/Text/Non-English XML Tags/HistoricalReligionsMasterText ES_ES.xml</File>
+    <File md5="59C13F33F70AD8FC68F88615641D7BDA" import="0">XML/Text/Non-English XML Tags/HistoricalReligionsMasterText FR_FR.xml</File>
+    <File md5="882C181F39A685D85E0761F35ACDC9A5" import="0">XML/Text/Non-English XML Tags/HistoricalReligionsMasterText IT_IT.xml</File>
+    <File md5="30BE03EE5D9B9B126E870291E4327474" import="0">XML/Text/Non-English XML Tags/HistoricalReligionsMasterText JA_JP.xml</File>
+    <File md5="2BE885A31B21CBEC9D3BB8AC235B2204" import="0">XML/Text/Non-English XML Tags/HistoricalReligionsMasterText KO_KR.xml</File>
+    <File md5="DDA978BCDD745EA874AD1542049405B6" import="0">XML/Text/Non-English XML Tags/HistoricalReligionsMasterText PL_PL.xml</File>
+    <File md5="5DB2695B361E7DC24316F0295808D725" import="0">XML/Text/Non-English XML Tags/HistoricalReligionsMasterText RU_RU.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>SQL/HistoricalReligionsMasterArt.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/HistoricalReligionsMasterReligion.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/HistoricalReligionsMasterPreference.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Text/HistoricalReligionsMasterText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non-English XML Tags/HistoricalReligionsMasterText DE_DE.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non-English XML Tags/HistoricalReligionsMasterText ES_ES.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non-English XML Tags/HistoricalReligionsMasterText FR_FR.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non-English XML Tags/HistoricalReligionsMasterText IT_IT.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non-English XML Tags/HistoricalReligionsMasterText JA_JP.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non-English XML Tags/HistoricalReligionsMasterText KO_KR.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non-English XML Tags/HistoricalReligionsMasterText PL_PL.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non-English XML Tags/HistoricalReligionsMasterText RU_RU.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non-English XML Tags/HistoricalReligionsMasterText zh_CN.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non-English XML Tags/HistoricalReligionsMasterText zh_Hant_HK.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Historical Religions Mod Edits.xml</UpdateDatabase>
+      <UpdateDatabase>Great Prophet Names/Great Prophet Names.xml</UpdateDatabase>
+      <UpdateDatabase>Great Prophet Names/Great Prophet Names Text.xml</UpdateDatabase>
+      <UpdateDatabase>Great Prophet Names/Non-English XML Tags/Great Prophet Text DE_DE.xml</UpdateDatabase>
+      <UpdateDatabase>Great Prophet Names/Non-English XML Tags/Great Prophet Text ES_ES.xml</UpdateDatabase>
+      <UpdateDatabase>Great Prophet Names/Non-English XML Tags/Great Prophet Text FR_FR.xml</UpdateDatabase>
+      <UpdateDatabase>Great Prophet Names/Non-English XML Tags/Great Prophet Text IT_IT.xml</UpdateDatabase>
+      <UpdateDatabase>Great Prophet Names/Non-English XML Tags/Great Prophet Text JA_JP.xml</UpdateDatabase>
+      <UpdateDatabase>Great Prophet Names/Non-English XML Tags/Great Prophet Text KO_KR.xml</UpdateDatabase>
+      <UpdateDatabase>Great Prophet Names/Non-English XML Tags/Great Prophet Text PL_PL.xml</UpdateDatabase>
+      <UpdateDatabase>Great Prophet Names/Non-English XML Tags/Great Prophet Text RU_RU.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>
