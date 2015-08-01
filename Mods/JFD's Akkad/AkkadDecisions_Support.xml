@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by TarcisioCM -->
+<GameData>
+	<Language_en_US>	
+		<Row Tag="TXT_KEY_DECISIONS_LITE_SUMMONARMY">
+			<Text>Summon Army of Naram-Sin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_LITE_SUMMONARMY_DESC">
+			<Text>A strong military is necessary to protect our people at home and to be victorious abroad. Let us call the mighty and well-trained armies of Naram-Sin to our aid.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Akkad
+				[NEWLINE][ICON_BULLET]May not be enacted after the Classical Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]{2_Faith} [ICON_PEACE] Faith
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Two Onager Wagons and two Lapattus are spawned near your [ICON_CAPITAL] Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_LITE_SUMMONARMY_ENACTED">
+			<Text>
+				A strong military is necessary to protect our people at home and to be victorious abroad. Let us call the mighty and well-trained armies of Naram-Sin to our aid.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Two Onager Wagons and two Lapattus are spawned near your [ICON_CAPITAL] Capital
+			</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_DECISIONS_LITE_POSTALSERVICE">
+			<Text>Establish the Post</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_LITE_POSTALSERVICE_DESC">
+			<Text>Our realm grows large with each passing day. Connecting our numerous peoples under an efficient postal service system will strengthen the bonds of our vast empire.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Akkad
+				[NEWLINE][ICON_BULLET]Player must have at least four cities
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] Culture
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Caravansaries are built 50% faster and generate +1 [ICON_HAPPINESS_1] Happiness and [ICON_GOLD] Gold
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_LITE_POSTALSERVICE_ENACTED">
+			<Text>
+				Our realm grows large with each passing day. Connecting our numerous peoples under an efficient postal service system will strengthen the bonds of our vast empire.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Caravansaries are built 50% faster and generate +1 [ICON_HAPPINESS_1] Happiness and [ICON_GOLD] Gold
+			</Text>
+		</Row>
+	</Language_en_US>	
+</GameData>

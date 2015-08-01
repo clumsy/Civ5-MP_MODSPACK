@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<Language_en_US>
+		<!-- -->
+		<Row Tag="TXT_KEY_UNIT_LITE_AKKAD_ONAGER_WAGON">
+			<Text>Onager Wagon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_LITE_AKKAD_ONAGER_WAGON_TEXT">
+			<Text>The first military application of the wheel is depicted on the Standard of Ur in southern Mesopotamia, c. 2500 BC. These are more properly called wagons or carts than chariots; still double-axed and pulled by oxen, donkeys, or onagers. At this early stage of development the wheeled cart was probably not a major offensive weapon because of limitations from its size, weight, and instability. Although still likely carrying a spearman along with the driver, such heavy wagons may have instead been part of royal baggage trains. By the second millennium BC several advancements were made to increase the cart's offensive capabilities, including a lighter, two-wheeled frame which would be pulled by four asses. The wheeled cart was probably not produced in quantity, but nevertheless became the standard vehicle for logistical transport in the Middle East.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LITE_AKKAD_ONAGER_WAGON_HELP">
+			<Text>A unit only available to Akkad. Unlike the Chariot Archer it replaces, rough terrain does not end turn. Ignores enemy Zone of Control and has no movement cost for pillaging tiles. Does not require [ICON_RES_HORSE] Horses.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LITE_AKKAD_ONAGER_WAGON_STRATEGY">
+			<Text>The Onager Wagon is highly useful in invading poorly defended empires, given their bonuses to pillaging. Additionally, they do not end turns like the Chariot Archer when they encounter rough terrain. They can also escape from conflict zones if needed with more ease as they ignore Zones of Control.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LITE_AKKAD_LAPUTTU">
+			<Text>Laputtu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_AKKAD_LAPUTTU_TEXT">
+			<Text>One of the most remarkable qualities of the Akkadian Empire was its level of organization. The empire was bound together by roads and cadastral surveys, while the year was measured with advanced astronomical observations and calendric systems. This organization extended to both Akkad's military and domestic workforce. The term "laputtu" was used to designate the position of overseer, both in regard to civilian work projects and military campaigns. The laputtu, then, represented an experienced military captain that would command a company of "redu" (soldiers). In fact, the Akkadian Empire was amongst the first to organize military expeditions (both on land and sea) in history. The end result was one of the most well trained armies of the period, ready to support Akkad's campaigns of expansion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LITE_AKKAD_LAPUTTU_STRATEGY">
+			<Text>Stronger than the Spearmen it replaces, the Laputtu can be exploited to invade and improve as well. Its ability to increase improvement speed can easily improve or repair newly acquired tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LITE_AKKAD_LAPUTTU_HELP">
+			<Text>Battle-hardened Ancient Era Unit that specializes in defeating Mounted Units. Only Akkad may build it. Increases improvement speed in tiles it is stationed on.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_TRAIT_EPIC_OF_THE_BATTLE_SHORT">
+			<Text>Epic of the Battle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_EPIC_OF_THE_BATTLE">
+			<Text>Great Generals grant nearby units +15% combat strength against Cities. Improving or repairing tiles in conquered Cities gives points towards Great Generals. Earn a free Great General when you research Bronze Working.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_LITE_AKKAD_DESC">
+			<Text>Akkadian Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LITE_AKKAD_SHORT_DESC">
+			<Text>Akkad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LITE_AKKAD_ADJECTIVE">
+			<Text>Akkadian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LITE_AKKAD">
+			<Text>Akkad</Text>
+		</Row>	
+		<!-- -->
+		<Row Tag="TXT_KEY_LEADER_SARGON_DESC">
+			<Text>Sargon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SARGON_LIVED">
+			<Text>c. 2334 BC – 2279 BC</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SARGON_NAME">
+			<Text>Sargon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SARGON_SUBTITLE">
+			<Text>Leader of Akkad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SARGON_TITLES_1">
+			<Text>Emperor of Akkad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SARGON_HEADING_1">
+			<Text>History</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_LEADER_SARGON_TEXT_1">
+			<Text>One of the greatest rulers in Mesopotamia, or perhaps even world history, Sargon of Akkad was the founder of the world’s first empire, invading several Sumerian settlements in the 23rd century BC. Though details about his origins and rise to power are mostly lost in the mists of time, it can be said that he came to carve out this vast kingdom himself. Reportedly stretching from Syria to Iran, the scale of Sargon’s conquests were vast; greater than most monarchs to this day can boast. After creating this empire - the first ever empire, at that - Sargon constructed the city of Akkad to rule from, albeit the exact location of this allegedly marvelous city is unknown to this day. His ability to create the first ever state on such a scale, subduing people from coast to coast, of all different cultures, makes him a very notable historically.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SARGON_HEADING_2">
+			<Text>Early Life</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_LEADER_SARGON_TEXT_2">
+			<Text>The exact details of Sargon’s early life and rise to power are unknown, due to parts of sources getting lost or not existing in the first place. However, we can say that Sargon was born in Azumpiranu - though there is no location given, it appears to be in Akkad. The next part of this source says that Ur-Zababa, the King of Kish, wakes up after a dream - again, the details of that dream are lost. Related or not, Sargon was appointed as the King’s cupbearer. Exact details of what happened afterwards are mostly lost as well, but from cross-checking sources, one thing can be said for sure - Sargon became king, possibly at the cost of Ur-Zababa’s life.</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_LEADER_SARGON_HEADING_3">
+			<Text>Beginnings of the Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SARGON_TEXT_3">
+			<Text>Soon after becoming king of Kish, Sargon lead his new army to invade the nearby city of Uruk, crushing it and destroying its famous walls. He proceeded to knock down all inscriptions of prior kings, asserting his dominance in the city - this was a process that Sargon repeated with other conquered settlements. The city had been ruled by Lugal-Zage-Si of Umma, whose kingdom Sargon aimed to destroy. Moving forwards towards Ur, Sargon pursued the army that had fled Uruk, capturing Lugal-Zage-Si in the process. Sargon kept marching towards Umma, taking Lagash in the process. Symbolically, Sargon washed his weapons in the Persian Gulf, showing he had completely conquered the Sumerians - thus creating the world’s first empire. To show his dominance, Sargon appointed 5,400 Akkadians to administer the conquered territories, aiming to fully assimilate them into his own via use of staunch discipline. A lot of these appointed administrators may well have served in Sargon’s army, making them perfect to enforce his rule there. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SARGON_HEADING_4">
+			<Text>Further Conquests</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SARGON_TEXT_4">
+			<Text>Sargon’s path of destruction lead him west towards cities such as Mari and Ebla, which were very quickly taken and pillaged. His advance across Mesopotamia was unmatched; he hoped to have built an empire that covered the entirety of the Fertile Crescent. Sargon’s army marched south towards present-day Lebanon, making vast progress into the Levant region. With an empire now stretching all the way from the southern reaches of the Mediterranean to the Gulf Sea, Sargon had carved out a truly impressive domain. However, he aimed to make it greater still. He soon embarked on an invasion of Elam, in response to their attacks on Akkad’s holdings in the east. After easily crushing them, Sargon had virtually nobody around who would want to stand up to his army, letting him have almost complete control of the region. Despite all this conquering, Sargon was able to take some economic measures as well; he kept trade routes open in the Euphrates so that wood and precious metal supplies could be freely floated downstream to Akkad.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SARGON_HEADING_5">
+			<Text>Later Reign</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SARGON_TEXT_5">
+			<Text>Little is known about Sargon’s later life. It is said that he ordered huge construction projects to take place in Akkad, but no evidence has been found to back this up. He reportedly went on campaign in Anatolia as well, but this seems to be fictional. However, it does seem likely that Sargon’s later reign was plagued by famine and war. Revolts broke out against him in several locations, but Sargon - now known by the epitaph, the “King of Battle” - soundly defeated the uprisings. Sargon died in 2215 BC, after a long, eventful and glorious reign. More revolts broke out after hearing of the news of his death, but these were put down by his successors. However, the empire did not last for much longer after that, going into decline after its period of dominance under Sargon.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SARGON_HEADING_6">
+			<Text>Impact on Mesopotamia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SARGON_TEXT_6">
+			<Text>One of the greatest ever kings of the Fertile Crescent, Sargon is constantly hailed as a genius of battle strategy, seemingly undefeatable. As with so many other events in Sargon’s life, how he won the battles is only a matter of speculation, but he passed into legend almost immediately after he died, with all manner of kings aiming to emulate his conquests. Assyrian and Babylonian kings based themselves off Sargon’s Akkad - despite it being long gone by this point. Sargon’s reign was not only a golden age for Akkad, but truly a golden age for Mesopotamia - one of the few times that one king has been able to bring the people of this land under the one banner. Whether it was beneficial for the people of Mesopotamia is a totally different matter, but Sargon’s reign was clearly a triumph for empire-building, providing a model for all later kings.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_LITE_AKKAD_TEXT">
+			<Text>Behold, as the whole world watches you in awe, great conqueror of Akkad, King Sargon! The heavens have shone upon you, showering blessings upon you, empowering you to go forth and carve out your kingdom. Truly you were one of the greatest leaders the world ever saw, leading an army which was able to turn your state into the first empire, making you the first emperor to set foot on Earth. First usurping control of Kish in a time of tumult, you managed to carve the largest state Mesopotamia had ever seen. Further and further more your army marched, subduing foreign foes and conquering land on a scale unseen, taking control of your rightful lands around the Tigris and the Euphrates. Ranging from the Taurus Mountains to the Persian Gulf, the mighty Akkadian empire was a force to be reckoned with. However, you were not a mere warmonger. Your rule oversaw the flourishing of trade across all of the Middle East, extending all the way to the cities of Greece. Mesopotamia was once again transformed into a land of culture and colour as the ever-growing wealth of Akkad heralded a time of peace in the forever restless realm.[NEWLINE][NEWLINE]Oh great emperor, as the world once again is in turmoil, people are losing hope. Can you hear them? They are calling your name, the name of a leader who will bring them prosperity with his rule. Sargon of Akkad, can you once again create an empire that will look down on all others. Can you create a civilization that can stand the test of time?</Text>
+		</Row>		
+		<!-- -->
+		<Row Tag="TXT_KEY_LEADER_SARGON_FIRST_GREETING_1">
+			<Text>If you keep away from lands that are mine, we can have peaceful diplomatic exchanges. Challenge this warning, and I shall show you no mercy. Now what will you ask of me?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SARGON_FIRST_GREETING_2">
+			<Text>Welcome to the ever growing realm of Akkad. You should be carefuL not to let it expand into your lands. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SARGON_DEFEATED_1">
+			<Text>I have been cursed by many gods. My story will live on, whether your dominion does or not.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SARGON_DEFEATED_2">
+			<Text>This land that you conquered was mine! Oh a thousand curses on you!</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_CIVLOPEDIA_LITE_AKKAD_STATBOX">
+			<Text>[NEWLINE]        Leader: Sargon[NEWLINE]        Unique Unit: Onager Wagon[NEWLINE]        Unique Unit: Lapattu[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_CIVLOPEDIA_LITE_AKKAD_TITLE">
+			<Text>Akkad</Text>
+		</Row>		
+		<Row Tag="TXT_KEY_CIVLOPEDIA_LITE_AKKAD_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_LITE_AKKAD_TEXT_1">
+			<Text>The Akkadian Empire was centered in the city of Akkad (Sumerian: Agade) and its surrounding region in Mesopotamia. During the 3rd millennium BC, there developed a very intimate cultural symbiosis between the Sumerians and the Akkadians, which included widespread bilingualism. Akkadian gradually replaced Sumerian as a spoken language somewhere around the turn of the 3rd and the 2nd millennium BC (the exact dating being a matter of debate). The Akkadian Empire reached its political peak between the 24th and 22nd centuries BC, following the conquests of its founder Sargon of Akkad (2334–2279 BC). Under Sargon and his successors, Akkadian language was briefly imposed on neighboring conquered states such as Elam. Akkad is sometimes regarded as the first empire in history.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_LITE_AKKAD_HEADING_2">
+			<Text>Origins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_LITE_AKKAD_TEXT_2">
+			<Text>Speakers of the Akkadian language seem to have already been present in Mesopotamia at the dawn of the historical period, and soon achieved preeminence with the first Dynasty of Kish and numerous localities to the north of Sumer, where rulers with Akkadian names had already established themselves by the 3rd millennium BC. Sargon has often been cited as the first ruler of a combined empire of Akkad and Sumer, although more recently discovered data suggests there had been Sumerian expansions under previous kings, including Lugal-Anne-Mundu of Adab, Eannatum of Lagash, and Lugal-Zage-Si.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_LITE_AKKAD_HEADING_3">
+			<Text>Sargon and His Sons</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_LITE_AKKAD_TEXT_3">
+			<Text>Sargon of Akkad defeated and captured Lugal-Zage-Si in the Battle of Uruk and conquered his empire. The earliest records in the Akkadian language date to the time of Sargon. Sargon was claimed to be the son of La'ibum or Itti-Bel, a humble gardener, and possibly a hierodule, or priestess to Ishtar or Inanna. One legend related of Sargon in Assyrian times says that:[NEWLINE]"My mother was a changeling, my father I knew not. The brothers of my father loved the hills. My city is Azurpiranu (the wilderness herb fields), which is situated on the banks of the Euphrates. My changeling mother conceived me, in secret she bore me. She set me in a basket of rushes, with bitumen she sealed my lid. She cast me into the river which rose not over me. The river bore me up and carried me to Akki, the drawer of water. Akki, the drawer of water, took me as his son and reared me. Akki the drawer of water, appointed me as his gardener. While I was gardener Ishtar granted me her love, and for four and fifty years I exercised kingship."[NEWLINE]Originally a cupbearer (Rabshaqe) to a king of Kish with a Semitic name, Ur-Zababa, Sargon thus became a gardener, responsible for the task of clearing out irrigation canals. This gave him access to a disciplined corps of workers, who also may have served as his first soldiers. Displacing Ur-Zababa, Sargon was crowned king, and he entered upon a career of foreign conquest. Four times he invaded Syria and Canaan, and he spent three years thoroughly subduing the countries of "the west" to unite them with Mesopotamia "into a single empire."[NEWLINE]However, Sargon took this process further, conquering many of the surrounding regions to create an empire that reached westward as far as the Mediterranean Sea and perhaps Cyprus (Kaptara); northward as far as the mountains (a later Hittite text asserts he fought the Hattite king Nurdaggal of Burushanda, well into Anatolia); eastward over Elam; and as far south as Magan (Oman) — a region over which he reigned for purportedly 56 years, though only four "year-names" survive.[NEWLINE]Trade extended from the silver mines of Anatolia to the lapis lazuli mines in Afghanistan, the cedars of Lebanon and the copper of Magan. This consolidation of the city-states of Sumer and Akkad reflected the growing economic and political power of Mesopotamia. The empire's breadbasket was the rain-fed agricultural system of northern Mesopotamia (Assyria) and a chain of fortresses was built to control the imperial wheat production.[NEWLINE]Images of Sargon were erected on the shores of the Mediterranean, in token of his victories, and cities and palaces were built at home with the spoils of the conquered lands. Elam and the northern part of Mesopotamia (Subartu) were also subjugated, and rebellions in Sumer were put down. Contract tablets have been found dated in the years of the campaigns against Canaan and against Sarlak, king of Gutium. He also boasted of having subjugated the "four quarters" — the lands surrounding Akkad to the north (Assyria), the south (Sumer), the east (Elam) and the west (Martu). Some of the earliest historiographic texts (ABC 19, 20) suggest he rebuilt the city of Babylon (Bab-ilu) in its new location near Akkad.[NEWLINE]Sargon, throughout his long life, showed special deference to the Sumerian deities, particularly Inanna, his patroness, and Zababa, the warrior god of Kish. He called himself "The anointed priest of Anu" and "the great ensi of Enlil" and his daughter, Enheduanna, was installed as priestess to Nanna at the temple in Ur.[NEWLINE]Troubles multiplied toward the end of his reign. A later Babylonian text states:[NEWLINE]"In his old age, all the lands revolted against him, and they besieged him in Akkad (the city)" but "he went forth to battle and defeated them, he knocked them over and destroyed their vast army".[NEWLINE]Also shortly after:[NEWLINE]"the Subartu (mountainous tribes of Assyria) the upper country—in their turn attacked, but they submitted to his arms, and Sargon settled their habitations, and he smote them grievously".[NEWLINE]These difficulties broke out again in the reign of his sons. Revolts broke out during the 9-year reign of his son, Rimush (2278–2270 BC), who fought hard to retain the empire—and in the fifteen year reign of Rimush's elder brother, Manishtushu (2269–2255 BC). The latter king seems to have fought a sea battle against 32 kings who had gathered against him. Both appear to have been assassinated.</Text>
+		</Row>	
+		<!-- -->
+		<Row Tag="TXT_KEY_SPY_NAME_LITE_AKKAD_0">
+			<Text>Naram-Sin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LITE_AKKAD_1">
+			<Text>Mulagunnuna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LITE_AKKAD_2">
+			<Text>Telel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LITE_AKKAD_3">
+			<Text>Nabua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LITE_AKKAD_4">
+			<Text>Adini</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LITE_AKKAD_5">
+			<Text>Enheduanna</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LITE_AKKAD_6">
+			<Text>Tashlultum</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LITE_AKKAD_7">
+			<Text>Astarte</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LITE_AKKAD_8">
+			<Text>Inanna</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LITE_AKKAD_9">
+			<Text>Nin-Marki</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_AKKAD_AKKAD">
+			<Text>Akkad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_AKKAD_KISH">
+			<Text>Kish</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_AKKAD_SIPPAR">
+			<Text>Sippar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_AKKAD_NUZI">
+			<Text>Nuzi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_AKKAD_MARAD">
+			<Text>Marad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_AKKAD_AZUPIRANU">
+			<Text>Azupiranu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_AKKAD_ESHNUNNA">
+			<Text>Eshnunna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_AKKAD_TELL_BRAK">
+			<Text>Tell Brak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_AKKAD_TELL_LEILAN">
+			<Text>Tell Leilan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_AKKAD_UMMA">
+			<Text>Umma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_AKKAD_NIPPUR">
+			<Text>Nippur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_AKKAD_GIRSU">
+			<Text>Girsu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_AKKAD_URUK">
+			<Text>Uruk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_AKKAD_LAGASH">
+			<Text>Lagash</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_AKKAD_UR">
+			<Text>Ur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_AKKAD_MARI">
+			<Text>Mari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_AKKAD_GASUL">
+			<Text>Gasul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_AKKAD_TUTTUL">
+			<Text>Tuttul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_AKKAD_HARRAN">
+			<Text>Harran</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_AKKAD_ERIDU">
+			<Text>Eridu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_AKKAD_SHUSHAN">
+			<Text>Shushan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_AKKAD_EBLA">
+			<Text>Ebla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_AKKAD_TELL_MOZAN">
+			<Text>Tell Mozan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_AKKAD_TELL_BEYDAR">
+			<Text>Tell Beydar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_AKKAD_GERRHA">
+			<Text>Gerrha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_AKKAD_ADAB">
+			<Text>Adab</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_AKKAD_AKSHAK">
+			<Text>Akshak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_AKKAD_NINEVEH">
+			<Text>Nineveh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_AKKAD_HALAB">
+			<Text>Halab</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_AKKAD_UGARIT">
+			<Text>Ugarit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_AKKAD_CARCHEMISH">
+			<Text>Carchemish</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_AKKAD_ASSUR">
+			<Text>Assur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_AKKAD_BABYLON">
+			<Text>Babylon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_AKKAD_TELL_HALAF">
+			<Text>Tell Halaf</Text>
+		</Row>
+		<!--Promotion Tags-->
+		<Row Tag="TXT_KEY_PROMOTION_LITE_AKKAD_IGNORE_ZOC">
+			<Text>Ignore Zone of Control</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LITE_AKKAD_IGNORE_ZOC_HELP">
+			<Text>Ignores Zone of Control of enemy units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LITE_AKKAD_CITY_BONUS">
+			<Text>Combat Strength Against Cities</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LITE_AKKAD_CITY_BONUS_HELP">
+			<Text>Increases combat strength against Cities from Great Generals by 20%</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_GENERIC_LITE_AKKAD_INFLUENTIAL_ON_AI_1">
+			<Text>People have begun to ride asses instead of horses... I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_LEADER_SARGON">
+			<Text>Enheduanna</Text>
+			<Gender>feminine</Gender>
+		</Row>
+	</Language_en_US>	
+</GameData>

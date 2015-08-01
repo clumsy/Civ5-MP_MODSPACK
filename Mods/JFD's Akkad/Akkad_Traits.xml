@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_EPIC_OF_THE_BATTLE</Type>
+			<Description>TXT_KEY_TRAIT_EPIC_OF_THE_BATTLE</Description>
+			<ShortDescription>TXT_KEY_TRAIT_EPIC_OF_THE_BATTLE_SHORT</ShortDescription>
+			<FreeUnitPrereqTech>TECH_BRONZE_WORKING</FreeUnitPrereqTech>
+			<FreeUnit>UNITCLASS_GREAT_GENERAL</FreeUnit>
+		</Row>
+	</Traits>
+</GameData>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by regalmanemperor -->
+<GameData>
+	<ArtDefine_StrategicView>
+		<Replace>
+			<StrategicViewType>ART_DEF_UNIT_ONAGER_WAGON_MOD</StrategicViewType>
+			<TileType>Unit</TileType>
+			<Asset>sv_AkkadOnagerMod.dds</Asset>
+		</Replace>
+		<Replace>
+			<StrategicViewType>ART_DEF_UNIT_AKKAD_LAPUTTU_MOD</StrategicViewType>
+			<TileType>Unit</TileType>
+			<Asset>sv_AkkadLaputtuMod.dds</Asset>
+		</Replace>
+	</ArtDefine_StrategicView>
+</GameData>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/22/2015 7:30:08 PM -->
+<GameData>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_LITE_AKKAD_IGNORE_ZOC</Type>
+			<Description>TXT_KEY_PROMOTION_LITE_AKKAD_IGNORE_ZOC</Description>
+			<Help>TXT_KEY_PROMOTION_LITE_AKKAD_IGNORE_ZOC_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<IgnoreZOC>true</IgnoreZOC>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_SHARED</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_LITE_AKKAD_IGNORE_ZOC</PediaEntry>
+		</Row>
+		<Row>
+			<Type>PROMOTION_LITE_AKKAD_CITY_BONUS</Type>
+			<Description>TXT_KEY_PROMOTION_LITE_AKKAD_CITY_BONUS</Description>
+			<Help>TXT_KEY_PROMOTION_LITE_AKKAD_CITY_BONUS_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CityAttack>15</CityAttack>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>NULL</PediaType>
+		</Row>	
+	</UnitPromotions>
+	<UnitPromotions_UnitCombats>
+		<Row>
+			<PromotionType>PROMOTION_LITE_AKKAD_IGNORE_ZOC</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+		</Row>
+	</UnitPromotions_UnitCombats>
+</GameData>

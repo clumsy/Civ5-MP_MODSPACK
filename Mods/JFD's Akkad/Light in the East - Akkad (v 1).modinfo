@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="c0bc7e36-ed98-408f-9bc5-68b2283307ae" version="1">
+  <Properties>
+    <Name>Light in the East - Akkad</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds [COLOR_POSITIVE_TEXT]Akkad led by Sargon[ENDCOLOR]</Teaser>
+    <Description>[NEWLINE]~~~
+[NEWLINE]Note: 
+[NEWLINE]- This civilization requires the Brave New World expansion.
+[NEWLINE]- Updates will most likely break saves. Do not update unless you are ready to start a new game.
+[NEWLINE]
+[NEWLINE]~~~
+[NEWLINE]
+[NEWLINE]
+[NEWLINE]Leader:  Sargon
+[NEWLINE]Capital: Akkad
+[NEWLINE]UA: Great Generals grant nearby units +15% combat strength against Cities. Improving or repairing tiles in conquered Cities gives points towards Great Generals. Earn a free Great General when you research Bronze Working.
+[NEWLINE]UU: (Onager Wagon) A unit only available to Akkad. Unlike the Chariot Archer it replaces, rough terrain does not end turn. Ignores enemy Zone of Control and has no movement cost for pillaging tiles. Does not require horses.
+[NEWLINE]UU: (Laputtu)Stronger than the Spearman it replaces, the Laputtu also increases the improvement speed on tiles it is stationed on. Only Akkad may build it.
+[NEWLINE]
+[NEWLINE]Support:
+[NEWLINE]- YNAEMP 
+[NEWLINE]- Ethnic Units 
+[NEWLINE]- Historical Religions Complete
+[NEWLINE]- Piety and Prestige by JFD
+[NEWLINE]- Events and Decisions 
+[NEWLINE]- R.E.D. Modpack
+[NEWLINE]- Map Labels
+[NEWLINE]- Cultural Diversity
+[NEWLINE]- Unique Cultural Influence
+[NEWLINE]- Wish for the World
+[NEWLINE]- Exploration Continued
+[NEWLINE]- Civ 4 Traits
+[NEWLINE]</Description>
+    <Authors>regalman, janboruta, COF, Reedstilt, Tarcisiocm, Viregel, Tomatekh</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YNAEMP" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="Piety and Prestige" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="Cultural Diversity" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Cultural Influence" />
+    <Mod id="43868e8d-de88-48a1-a8d9-ce144e07f5e0" minversion="0" maxversion="999" title="ExCE" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events &amp; Decisions" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="3B2555E0FC55F228D4639CF5221E87F1" import="1">Art/Atlases/LITE_Akkad_128.dds</File>
+    <File md5="E2A4F3BFAE7D3D9BDC73937F106F8307" import="1">Art/Atlases/LITE_Akkad_16.dds</File>
+    <File md5="83A0B0811AC8328E78EB4D8859D8A13B" import="1">Art/Atlases/LITE_Akkad_214.dds</File>
+    <File md5="7F2297E1E55DC049C716649CE44C4C21" import="1">Art/Atlases/LITE_Akkad_24.dds</File>
+    <File md5="E8806A757C42C4067D965A3AEE7D61E7" import="1">Art/Atlases/LITE_Akkad_256.dds</File>
+    <File md5="6412C2521C48B65B56C6E535309A25AA" import="1">Art/Atlases/LITE_Akkad_32.dds</File>
+    <File md5="60ABB0EFF6A65719B23D8297757AD2F7" import="1">Art/Atlases/LITE_Akkad_45.dds</File>
+    <File md5="4318539F66A1D5D19EDB15A54AF15114" import="1">Art/Atlases/LITE_Akkad_48.dds</File>
+    <File md5="5E2DB8D2BBEBD9FF37587CBA6A0A2403" import="1">Art/Atlases/LITE_Akkad_64.dds</File>
+    <File md5="3C5A96580BE9FA8946FE9036480CCD59" import="1">Art/Atlases/LITE_Akkad_80.dds</File>
+    <File md5="CB62159A4BC30AAD22514401032B957B" import="1">Art/Atlases/LITE_AkkadAlpha_128.dds</File>
+    <File md5="C274D184035339C30C633C92EC700C46" import="1">Art/Atlases/LITE_AkkadAlpha_16.dds</File>
+    <File md5="564B64F42D5DA5635E4A002504566B88" import="1">Art/Atlases/LITE_AkkadAlpha_22.dds</File>
+    <File md5="73CD8DF10FB82FD458F4EBAB73780B0C" import="1">Art/Atlases/LITE_AkkadAlpha_24.dds</File>
+    <File md5="907A49AE642C6C3253D4E6F6D371BA8D" import="1">Art/Atlases/LITE_AkkadAlpha_256.dds</File>
+    <File md5="C45282A9E2E8F8DCC43BDA8F0AC4FCF0" import="1">Art/Atlases/LITE_AkkadAlpha_32.dds</File>
+    <File md5="4CA7952E291E72BA3555C83E25DF92D8" import="1">Art/Atlases/LITE_AkkadAlpha_45.dds</File>
+    <File md5="77F13823F451B2B340622CC3B2B1295E" import="1">Art/Atlases/LITE_AkkadAlpha_48.dds</File>
+    <File md5="1AE754F381CFAD44EA0C5C14A47BBC28" import="1">Art/Atlases/LITE_AkkadAlpha_64.dds</File>
+    <File md5="AD13E4BF4B732E192F6D086694C3F20B" import="1">Art/Atlases/LITE_AkkadAlpha_80.dds</File>
+    <File md5="42965F0D6D621E7F31D1706C6A927D04" import="1">Art/Scenes/LITE_Akkad_Diplo.dds</File>
+    <File md5="8EAAEB77B093F180995A97169F99158A" import="1">Art/Scenes/LITE_Akkad_DOM.dds</File>
+    <File md5="3FE9799E62CCAE64089E14079B17A92D" import="1">Art/Scenes/LITE_Akkad_Map.dds</File>
+    <File md5="207C4D819110590395E26B1D0458B5FB" import="1">Art/Sounds/LITE_Akkad_DOM.mp3</File>
+    <File md5="6FE1F782899907CA0CA7562E09835929" import="1">Art/Sounds/LITE_Akkad_Peace.mp3</File>
+    <File md5="A66988966F0AF7217D4C7F49B767B2BB" import="1">Art/Sounds/LITE_Akkad_War.mp3</File>
+    <File md5="49FFF9F7ED02F6914E8FEFD7E4636D9E" import="1">Art/Unit models/AkkadLapattuAlphaAtlas.dds</File>
+    <File md5="DD8FA83487E9A88ADB124D6FA13440C7" import="1">Art/Unit models/AkkadOnagerAlphaAtlas.dds</File>
+    <File md5="040664DE6841B94D29495904758E1A80" import="1">Art/Unit models/Lapattu/fx_triggers_u_sumerian_phalanx.ftsxml</File>
+    <File md5="4E6B426496BE04FE078697EDF18D61E0" import="1">Art/Unit models/Lapattu/u_sumerian_phalanx.fxsxml</File>
+    <File md5="45C6ADE43D7A61BAC0651F04D7ED36C6" import="1">Art/Unit models/Lapattu/u_sumerian_phalanx.gr2</File>
+    <File md5="A1A2F63F513E80E8AAD6984E1B1A2D94" import="1">Art/Unit models/Lapattu/u_sumerian_phalanx_attacka.gr2</File>
+    <File md5="8D7629BD266C9C64DC1D7F74139BA44A" import="1">Art/Unit models/Lapattu/u_sumerian_phalanx_attackb.gr2</File>
+    <File md5="A869BD0064D3ACA803F80AA521BC2990" import="1">Art/Unit models/Lapattu/u_sumerian_phalanx_attack_city.gr2</File>
+    <File md5="267288C3FA98D04179D8D55404996E62" import="1">Art/Unit models/Lapattu/u_sumerian_phalanx_bombard_defense.gr2</File>
+    <File md5="8CC448532264D8A0C189E5FB5D355E82" import="1">Art/Unit models/Lapattu/u_sumerian_phalanx_bombard_defense_idle.gr2</File>
+    <File md5="F0CFE42BFF92DB83398BB2DE06D9EE03" import="1">Art/Unit models/Lapattu/u_sumerian_phalanx_bombard_defense_idle_trans_idlea.gr2</File>
+    <File md5="28AD2FC8CF77644D479DD14C4E97B09F" import="1">Art/Unit models/Lapattu/u_sumerian_phalanx_charge_attack.gr2</File>
+    <File md5="178A296C6111F9B65F857971EE2F38B7" import="1">Art/Unit models/Lapattu/u_sumerian_phalanx_charge_run.gr2</File>
+    <File md5="A2292C08539E59E3F4AF246727F1DD60" import="1">Art/Unit models/Lapattu/u_sumerian_phalanx_charge_start_run.gr2</File>
+    <File md5="701D8DF9E77F8973B188030A5F5CC1B5" import="1">Art/Unit models/Lapattu/u_sumerian_phalanx_combat_ready.gr2</File>
+    <File md5="318535010FF2D0AA1B13358BC55B7862" import="1">Art/Unit models/Lapattu/u_sumerian_phalanx_combat_ready_idle.gr2</File>
+    <File md5="D37AE83BEA4BF0FFA3228141706F5162" import="1">Art/Unit models/Lapattu/u_sumerian_phalanx_combat_ready_idle_trans_idlea.gr2</File>
+    <File md5="819E9DAF54F6040B6D5472F8FC5FAC07" import="1">Art/Unit models/Lapattu/u_sumerian_phalanx_deatha.gr2</File>
+    <File md5="188C7442CC01758D5A7780BC5B24A08F" import="1">Art/Unit models/Lapattu/u_sumerian_phalanx_deathb.gr2</File>
+    <File md5="24E635E99A85B5EACA0607713198A8DC" import="1">Art/Unit models/Lapattu/u_sumerian_phalanx_death_idlea.gr2</File>
+    <File md5="99C80E352859F2A446242043A07FDBFD" import="1">Art/Unit models/Lapattu/u_sumerian_phalanx_death_idleb.gr2</File>
+    <File md5="2F17BE6790B9648CCD9D26560A24B876" import="1">Art/Unit models/Lapattu/u_sumerian_phalanx_diff.dds</File>
+    <File md5="89A66A0CBB26E60EA8FE099E5FBA6D2F" import="1">Art/Unit models/Lapattu/u_sumerian_phalanx_fidgeta.gr2</File>
+    <File md5="D2AB9F76FEB53DF856156CC4EFA1ACD9" import="1">Art/Unit models/Lapattu/u_sumerian_phalanx_fidgetb.gr2</File>
+    <File md5="558690E80171FD4974B3F99E225F5ED3" import="1">Art/Unit models/Lapattu/u_sumerian_phalanx_fortify.gr2</File>
+    <File md5="0779652CA78202685CEB7F4D310B095D" import="1">Art/Unit models/Lapattu/u_sumerian_phalanx_fortifyidle_trans_idlea.gr2</File>
+    <File md5="68CBF697681E4552798EBD96000F655F" import="1">Art/Unit models/Lapattu/u_sumerian_phalanx_fortify_idle.gr2</File>
+    <File md5="4C8E4E1D64D737701C7939532A8A0780" import="1">Art/Unit models/Lapattu/u_sumerian_phalanx_fortify_idle_fidget.gr2</File>
+    <File md5="B3D0670191865CF9B827C06BAB35A27A" import="1">Art/Unit models/Lapattu/u_sumerian_phalanx_fortify_idle_trans_combat_ready_idle.gr2</File>
+    <File md5="4C7DCB1D75320749F346125A0AC5560E" import="1">Art/Unit models/Lapattu/u_sumerian_phalanx_idlea.gr2</File>
+    <File md5="E8035BE630B11A9369B6BE88A7250151" import="1">Art/Unit models/Lapattu/u_sumerian_phalanx_idlea_trans_idleb.gr2</File>
+    <File md5="D682D3E90222779E1EF7C2F1C3A0DCEA" import="1">Art/Unit models/Lapattu/u_sumerian_phalanx_idleb.gr2</File>
+    <File md5="4A0A6E3701EC0CC7369D5AF0B73D7F1A" import="1">Art/Unit models/Lapattu/u_sumerian_phalanx_idleb_trans_idlea.gr2</File>
+    <File md5="7522D768BFE7045438F7A484E158A96C" import="1">Art/Unit models/Lapattu/u_sumerian_phalanx_run.gr2</File>
+    <File md5="F048D071A30694C0DF607B6805604CD9" import="1">Art/Unit models/Lapattu/u_sumerian_phalanx_shuffle.gr2</File>
+    <File md5="1D58C7A8772B3A826A33028676E37177" import="1">Art/Unit models/Lapattu/u_sumerian_phalanx_sref.dds</File>
+    <File md5="0660377E62ADCFDB526660C2D8661605" import="1">Art/Unit models/Lapattu/u_sumerian_phalanx_start_run.gr2</File>
+    <File md5="3814C6790C8AE88FE6554013F57F3CC2" import="1">Art/Unit models/Lapattu/u_sumerian_phalanx_stop_run.gr2</File>
+    <File md5="AFCDBD95C47262A3706610811441F448" import="1">Art/Unit models/Lapattu/u_sumerian_phalanx_stop_run_idleb.gr2</File>
+    <File md5="8E6D2055D23E568B936375EB84B05C55" import="1">Art/Unit models/Lapattu/u_sumerian_phalanx_victory.gr2</File>
+    <File md5="0B3EDF7C3F4DF4B3E29BE9693EC17179" import="1">Art/Unit models/Onager Wagon/Animations Export.jpg</File>
+    <File md5="62C8B0D2EEEC81E954EC81B8A9246305" import="1">Art/Unit models/Onager Wagon/Animations Import.jpg</File>
+    <File md5="A1377B6D32B78001F904A27193D4F922" import="1">Art/Unit models/Onager Wagon/Chariot_Babylon.blend</File>
+    <File md5="B095580EFC2C39EB6FACF70972432DCE" import="1">Art/Unit models/Onager Wagon/Chariot_Babylon.dds</File>
+    <File md5="B76AD6968116CA2EA90F680D34C6133B" import="1">Art/Unit models/Onager Wagon/Chariot_Babylon.fxsxml</File>
+    <File md5="3BEEB0CEE3039745638681AE4A20B7E2" import="1">Art/Unit models/Onager Wagon/Chariot_Babylon.gr2</File>
+    <File md5="A2081364EF81E904FF82976CA00955E0" import="1">Art/Unit models/Onager Wagon/Chariot_Babylon.jpg</File>
+    <File md5="EC6F36970C6BB6C6637C92949DA4C896" import="1">Art/Unit models/Onager Wagon/Chariot_Babylon_gloss.dds</File>
+    <File md5="2B24689CCD06205DB313CC9AC7E011C8" import="1">Art/Unit models/Onager Wagon/Chariot_Celtic_MD_DieA.gr2</File>
+    <File md5="7206EE5492876ADBA8B2C8FD3FAA74AE" import="1">Art/Unit models/Onager Wagon/Chariot_Celtic_MD_DieA_Fade.gr2</File>
+    <File md5="4B5358D2164010D3A5903C29041B1A43" import="1">Art/Unit models/Onager Wagon/Chariot_Celtic_MD_Fidget.gr2</File>
+    <File md5="893C52F40FA4B8A6D34C357B3026BD0C" import="1">Art/Unit models/Onager Wagon/Chariot_Celtic_MD_FortifyA.gr2</File>
+    <File md5="1868588C74E1E65884B7E44529B9ABB3" import="1">Art/Unit models/Onager Wagon/Chariot_Celtic_MD_FortifyA_Idle.gr2</File>
+    <File md5="59A1B6C695FBB87F6DCB78B26CC667C1" import="1">Art/Unit models/Onager Wagon/Chariot_Celtic_MD_HurtA.gr2</File>
+    <File md5="34B37CEC922754C393E21F37C534D078" import="1">Art/Unit models/Onager Wagon/Chariot_Celtic_MD_Idle.gr2</File>
+    <File md5="493A9BDF462A060493F4E26DB015C520" import="1">Art/Unit models/Onager Wagon/Chariot_Celtic_MD_Run.gr2</File>
+    <File md5="C5739FEA2C4725D62797D075D67FB025" import="1">Art/Unit models/Onager Wagon/Chariot_Celtic_MD_StrikeA.gr2</File>
+    <File md5="ADEB832C086934E630BF6C0902F2A56A" import="1">Art/Unit models/Onager Wagon/Chariot_Chinese_MD_DieA.gr2</File>
+    <File md5="40E4590E57EBB9917A11002309A3EA9E" import="1">Art/Unit models/Onager Wagon/Chariot_Chinese_MD_DieA_Fade.gr2</File>
+    <File md5="CB98C27CA2FC04656B518FE6479E0D4E" import="1">Art/Unit models/Onager Wagon/Chariot_Chinese_MD_Fidget.gr2</File>
+    <File md5="36D7E2AEC37A1A682C30914A9C6F671C" import="1">Art/Unit models/Onager Wagon/Chariot_Chinese_MD_FortifyA.gr2</File>
+    <File md5="5C651D74E5A48F9109F6C22ED72313A4" import="1">Art/Unit models/Onager Wagon/Chariot_Chinese_MD_FortifyA_Idle.gr2</File>
+    <File md5="FAF4E55A82A1A2F5759C86A705F9F68B" import="1">Art/Unit models/Onager Wagon/Chariot_Chinese_MD_HurtA.gr2</File>
+    <File md5="E9AE568DD0DDB11377702127C042B9D2" import="1">Art/Unit models/Onager Wagon/Chariot_Chinese_MD_Idle.gr2</File>
+    <File md5="BD9F6871C171C4C3FC3F7BA6DB672053" import="1">Art/Unit models/Onager Wagon/Chariot_Chinese_MD_Run.gr2</File>
+    <File md5="67AA377A5118D6AC9B5DA86819D33FA2" import="1">Art/Unit models/Onager Wagon/Chariot_Chinese_MD_StrikeA.gr2</File>
+    <File md5="3C80432357489FE72E7655F875BDB824" import="1">Art/Unit models/Onager Wagon/chariot_md_diea.gr2</File>
+    <File md5="5D52FA980E997549B0922C5C52BA64B1" import="1">Art/Unit models/Onager Wagon/chariot_md_diea_fade.gr2</File>
+    <File md5="43581AC9B98CF1055A0AFED3887E45AE" import="1">Art/Unit models/Onager Wagon/chariot_md_fidget.gr2</File>
+    <File md5="E6E19537717C935860CD9BD2FA6752EC" import="1">Art/Unit models/Onager Wagon/chariot_md_fortifya.gr2</File>
+    <File md5="1CA9DFD66BF306F5C9F3AD0C3028B12A" import="1">Art/Unit models/Onager Wagon/chariot_md_fortifya_idle.gr2</File>
+    <File md5="005FB3C34DBCA7AE12948BE7DA72CBA8" import="1">Art/Unit models/Onager Wagon/chariot_md_hurta.gr2</File>
+    <File md5="AE6DA18C5A2A9EEE0837BF3700B7A8D6" import="1">Art/Unit models/Onager Wagon/chariot_md_idle.gr2</File>
+    <File md5="D111DE946B028FF2D7E25F100562393D" import="1">Art/Unit models/Onager Wagon/chariot_md_run.gr2</File>
+    <File md5="D0C084D38F967E1619552481F721DD7B" import="1">Art/Unit models/Onager Wagon/chariot_md_strikea.gr2</File>
+    <File md5="5AD6804BB0A75E34C88FE9EA0BE6111E" import="1">Art/Unit models/Onager Wagon/egyptianwarchariot_md_diea.gr2</File>
+    <File md5="A1E3EC5A7FB67ACB252508175ED1A855" import="1">Art/Unit models/Onager Wagon/egyptianwarchariot_md_diea_fade.gr2</File>
+    <File md5="718CFD0F011CB22C22C33CFEF290380E" import="1">Art/Unit models/Onager Wagon/egyptianwarchariot_md_fidget.gr2</File>
+    <File md5="B819EBD3EBBFD1698E6F2161106A4A8A" import="1">Art/Unit models/Onager Wagon/egyptianwarchariot_md_fortifya.gr2</File>
+    <File md5="8E2DB4941285625D50CE5561F524F229" import="1">Art/Unit models/Onager Wagon/egyptianwarchariot_md_fortifya_idle.gr2</File>
+    <File md5="5D8CA3748BFE19C118E9887BC9CEBB9B" import="1">Art/Unit models/Onager Wagon/egyptianwarchariot_md_hurta.gr2</File>
+    <File md5="36DF45372BD78107F202633840D29F54" import="1">Art/Unit models/Onager Wagon/egyptianwarchariot_md_idle.gr2</File>
+    <File md5="0B942ED57C082D5AD8E3DBCE9E9FA81D" import="1">Art/Unit models/Onager Wagon/egyptianwarchariot_md_run.gr2</File>
+    <File md5="DB01D3C200F41A9339CF6E7B56228E56" import="1">Art/Unit models/Onager Wagon/egyptianwarchariot_md_strikea.gr2</File>
+    <File md5="B77A8D871F6552712B4CA6C3EAD22AA6" import="1">Art/Unit models/Onager Wagon/fx_triggers_Chariot_Civ4.ftsxml</File>
+    <File md5="95238F99CACFF9E38B77FF5EC4183F31" import="1">Art/Unit models/sv_AkkadLaputtuMod.dds</File>
+    <File md5="DD2BFA17D78240A43EE9C1E4A09747FB" import="1">Art/Unit models/sv_AkkadOnagerMod.dds</File>
+    <File md5="2EC95A2F7EEAADCEF4324EC4B5EDA691" import="0">Code/lua/Akkad_Laputtu.lua</File>
+    <File md5="C5B7F0CD0A425FD4ED53B59A4610F557" import="0">Code/lua/Akkad_UA.lua</File>
+    <File md5="D63DC8BB6AA0F310DD55B264DB49C7E2" import="1">Code/lua/PlotIterators.lua</File>
+    <File md5="7AF8D2246FA3B7A0DDF0469E114346FC" import="0">Code/Mod Support/AkkadDecisions_SQL.sql</File>
+    <File md5="66B91678392D929EC3EF26259EE8F7F9" import="0">Code/Mod Support/AkkadDecisions_Support.xml</File>
+    <File md5="6C416F5F0620739A9127BA5349EB2F59" import="0">Code/Mod Support/AkkadMod_Support.sql</File>
+    <File md5="BAB7E386D6FAFBF2B2802ED74C3C8BB6" import="1">Code/Mod Support/AkkadDecisions.lua</File>
+    <File md5="72C3639BFCB97B3DA5F4BAD917EC9276" import="0">Code/Mod Support/AkkadTSL.sql</File>
+    <File md5="1322C825D4363EE1613BF234E0E7B765" import="1">Code/SQL/Units/Akkad Unit Skin Mod 2.sql</File>
+    <File md5="64A1499440185F5C0D28FCAF1B9D9858" import="1">Code/SQL/Units/Akkad Unit Skin Mod.sql</File>
+    <File md5="3370EFE92EFB83CA0008C1974DEA9062" import="0">Code/XML/Art/Akkad_Atlas.xml</File>
+    <File md5="442F447DA8EBB22DE4ECFA38CC32D862" import="0">Code/XML/Art/Akkad_Sound.xml</File>
+    <File md5="62D73661AAAC8384DD18C2AE28D84D46" import="0">Code/XML/Art/Akkad_Strategic_View.xml</File>
+    <File md5="9F58935AAE7BF77461AC13D9AC36F273" import="1">Code/XML/Art/Akkad_Leader_Scene_Mod.xml</File>
+    <File md5="F910D214C9F1E944955D807788486492" import="0">Code/XML/Civilization/Akkad_Promotions.xml</File>
+    <File md5="1B48D756341A90B0578869F3228A8B9B" import="0">Code/XML/Civilization/Akkad_Units.xml</File>
+    <File md5="743621139D119036933DFB53A3833AB5" import="0">Code/XML/Civilization/Akkad_Civilizations.xml</File>
+    <File md5="DBB580FB144C4E522CF79E0BF0D766AE" import="0">Code/XML/Civilization/Akkad_Leader.xml</File>
+    <File md5="7C104E0C49F9215A2341AEA1B76BC978" import="0">Code/XML/Civilization/Akkad_Traits.xml</File>
+    <File md5="09B8A242E622CF0B586F48DF2317E1C8" import="0">Code/XML/Game Text/Akkad_Text.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Code/XML/Civilization/Akkad_Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>Code/XML/Civilization/Akkad_Leader.xml</UpdateDatabase>
+      <UpdateDatabase>Code/XML/Civilization/Akkad_Units.xml</UpdateDatabase>
+      <UpdateDatabase>Code/XML/Civilization/Akkad_Promotions.xml</UpdateDatabase>
+      <UpdateDatabase>Code/XML/Civilization/Akkad_Traits.xml</UpdateDatabase>
+      <UpdateDatabase>Code/XML/Art/Akkad_Leader_Scene_Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Code/Mod Support/AkkadDecisions_SQL.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Mod Support/AkkadDecisions_Support.xml</UpdateDatabase>
+      <UpdateDatabase>Code/SQL/Units/Akkad Unit Skin Mod.sql</UpdateDatabase>
+      <UpdateDatabase>Code/SQL/Units/Akkad Unit Skin Mod 2.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Mod Support/AkkadMod_Support.sql</UpdateDatabase>
+      <UpdateDatabase>Code/XML/Art/Akkad_Atlas.xml</UpdateDatabase>
+      <UpdateDatabase>Code/XML/Art/Akkad_Sound.xml</UpdateDatabase>
+      <UpdateDatabase>Code/XML/Art/Akkad_Strategic_View.xml</UpdateDatabase>
+      <UpdateDatabase>Code/XML/Game Text/Akkad_Text.xml</UpdateDatabase>
+      <UpdateDatabase>Code/Mod Support/AkkadTSL.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Code/lua/Akkad_UA.lua">
+      <Name>Akkad_UA</Name>
+      <Description>Akkad_UA</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Code/lua/Akkad_Laputtu.lua">
+      <Name>Akkad_Laputtu</Name>
+      <Description>Akkad_Laputtu</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>
