@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="b7cf76ee-c099-4179-951d-d0093a55e4f8" version="1">
+  <Properties>
+    <Name>JFD's The Duchy of Normandy</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]The Duchy of Normandy[ENDCOLOR] under William the Conqueror to the game.</Teaser>
+    <Description>See CivFanatics or Steam Workshop for full details.</Description>
+    <Authors>JFD, Janboruta</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety" />
+    <Mod id="d99bf7aa-51ac-4bef-bd88-d765b28e260e" minversion="0" maxversion="999" title="JFD’s Prestige" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events &amp; Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="6676902b-b907-45f1-8db5-32dcb2135eee" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="90CF2BFB4D0ACB48D49785DF5F9A71C3" import="1">Art/Graphics/Knight_England.dds</File>
+    <File md5="93FEEF586E496DF60587AB353263BDF6" import="1">Art/Graphics/Knight_England.fxsxml</File>
+    <File md5="425FB31E832BF96A88E870D5AB7D8BA8" import="1">Art/Graphics/Knight_England.gr2</File>
+    <File md5="7F95B3AF4AED18568B91D331536791F2" import="1">Art/Graphics/Knight_England_gloss.dds</File>
+    <File md5="97871AF9D6CF39D21A67ACB861769B09" import="1">Art/Graphics/Knight_England_Horse.dds</File>
+    <File md5="C768537D1286ABAF2EA45557BCDFD700" import="1">Art/Graphics/Knight_England_Horse_gloss.dds</File>
+    <File md5="22C49E74D391D988051414394A0DBD04" import="1">Art/Graphics/sv_ManAtArms.dds</File>
+    <File md5="63477EC225647C02EAC9256960A6B41B" import="1">Art/IconAtlas/JFD_ManAtArmsUnitFlag_32.dds</File>
+    <File md5="525F344534EFD8BE7C34FFA5123DCAE9" import="1">Art/IconAtlas/JFD_NormandyAlphaAtlas_128.dds</File>
+    <File md5="8B1ECD3B35E712174041AC6885BC5CFF" import="1">Art/IconAtlas/JFD_NormandyAlphaAtlas_16.dds</File>
+    <File md5="90D9836FE5DDB79B21FA4FD3279294DD" import="1">Art/IconAtlas/JFD_NormandyAlphaAtlas_22.dds</File>
+    <File md5="C102C053DEB07F8CF05ECB144C01E356" import="1">Art/IconAtlas/JFD_NormandyAlphaAtlas_24.dds</File>
+    <File md5="6CC2A9FF8F0DF56F5855D178341DD3F2" import="1">Art/IconAtlas/JFD_NormandyAlphaAtlas_256.dds</File>
+    <File md5="08DCD5F5409783C9F74D091B5C3DF05C" import="1">Art/IconAtlas/JFD_NormandyAlphaAtlas_32.dds</File>
+    <File md5="4D36DA3D9C07223EA2E52183B3871353" import="1">Art/IconAtlas/JFD_NormandyAlphaAtlas_45.dds</File>
+    <File md5="66D8CFAEE924A6DE90659F2C82D4B1B3" import="1">Art/IconAtlas/JFD_NormandyAlphaAtlas_48.dds</File>
+    <File md5="8C43C91AEDF0E99C32535BA549BBFDD3" import="1">Art/IconAtlas/JFD_NormandyAlphaAtlas_64.dds</File>
+    <File md5="1144AFB703C35C4B8465F53BC582402B" import="1">Art/IconAtlas/JFD_NormandyAlphaAtlas_80.dds</File>
+    <File md5="5A80893658A645D67D740AB84A1EFF0F" import="1">Art/IconAtlas/JFD_NormandyAtlas_128.dds</File>
+    <File md5="0B0C9D6A12A3C690F83BCEF667EC6298" import="1">Art/IconAtlas/JFD_NormandyAtlas_256.dds</File>
+    <File md5="15F89D9045A074B09B7BE57B5C39FD0B" import="1">Art/IconAtlas/JFD_NormandyAtlas_32.dds</File>
+    <File md5="381BB25481BD9BD280369C14AF03D4FF" import="1">Art/IconAtlas/JFD_NormandyAtlas_45.dds</File>
+    <File md5="00261AC6E626DA871799ABF7376C4B7D" import="1">Art/IconAtlas/JFD_NormandyAtlas_64.dds</File>
+    <File md5="D825C49C3BB2A7B81607F07509AEB9B6" import="1">Art/IconAtlas/JFD_NormandyAtlas_80.dds</File>
+    <File md5="DD5DE436D358FA7B03FEADF55788DF93" import="1">Art/IconAtlas/JFD_NormandyEventsAtlas_128.dds</File>
+    <File md5="0A0EA809E5659D2A33A3CDDA5601F9DF" import="1">Art/IconAtlas/JFD_NormandyEventsAtlas_160.dds</File>
+    <File md5="406D60607B1786530CCEE55CD6C5F8CC" import="1">Art/IconAtlas/JFD_NormandyEventsAtlas_256.dds</File>
+    <File md5="73AAE72C2681AE5C2AD5F941F3BC8629" import="1">Art/IconAtlas/JFD_NormandyEventsAtlas_64.dds</File>
+    <File md5="86BF8A2C0486591BA4A1481F402D523A" import="1">Art/IconAtlas/JFD_NormandyEventsAtlas_90.dds</File>
+    <File md5="49ED28FBCB07187CC926E516CC69D1EE" import="1">Art/Leaderscene/WilliamI_Scene.xml</File>
+    <File md5="6EB2037E40D2873C85B3187AE687C3BA" import="1">Art/Leaderscene/WilliamI_Diplo.dds</File>
+    <File md5="08D86F5CFDB79A51AE1EBC9A1499AD4B" import="1">Art/Map/JFD_NormandyMap_512.dds</File>
+    <File md5="3722761C7D845325EB71D89DFEC41528" import="1">Art/Map/WilliamI_DOM.dds</File>
+    <File md5="E6E09180F3E9B94C29D59D78772FA02C" import="1">Audio/WilliamI_Peace.mp3</File>
+    <File md5="78B226EBA36371D2F8660F9E907F7B4E" import="1">Audio/WilliamI_War.mp3</File>
+    <File md5="6DB8CE7A9E747E1058CE295882AA3E63" import="0">Core/JFD_Normandy_ArtDefines.sql</File>
+    <File md5="8F3B5486092560C9CACAABB78730B934" import="0">Core/JFD_Normandy_GameDefines.sql</File>
+    <File md5="119E5B91293DD2B07C38922C0C63FD69" import="0">Core/JFD_Normandy_GameDefines_Diplomacy.sql</File>
+    <File md5="17D8144939EADAF541982825CC44896D" import="0">Core/JFD_Normandy_GameDefines_ModSupport.sql</File>
+    <File md5="82388D011ABF6BE54D900E6125A79C7D" import="0">Core/JFD_Normandy_GameText.xml</File>
+    <File md5="67939D39C2DC7EF090078BEE5E5C57A3" import="0">Core/JFD_Normandy_GameText_Diplomacy.xml</File>
+    <File md5="0203F79EEFEFC8B03B7812C48DDDAB4E" import="0">Core/JFD_Normandy_GameText_ModSupport.xml</File>
+    <File md5="3665EA7314EC7714D3F5520365D7702A" import="0">DeleteMissingReferences.xml</File>
+    <File md5="0D8D2238B8F0DCCDE8DA2FFAC2DB78A5" import="1">Lua/JFD_Normandy_Decisions.lua</File>
+    <File md5="3A3B7D0887A0DF130C2F7F8439B34068" import="1">Lua/JFD_Normandy_Events.lua</File>
+    <File md5="50B9DB15C2AB710247DBA42478C1FD22" import="0">Lua/JFD_Normandy_Functions.lua</File>
+    <File md5="2297E5454ADB350F79D37075856FF6D6" import="1">Lua/Utilities/UniqueDiplomacyUtils.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/JFD_Normandy_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_Normandy_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_Normandy_GameDefines_Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_Normandy_GameDefines_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_Normandy_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_Normandy_GameText_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_Normandy_GameText_ModSupport.xml</UpdateDatabase>
+      <UpdateDatabase>DeleteMissingReferences.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_Normandy_Functions.lua">
+      <Name>JFD_Normandy_Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>
