@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="55122f6c-b3b5-426f-99e9-6360b7c6cba5" version="3">
+  <Properties>
+    <Name>Wonders - The Monte Carlo Casino</Name>
+    <Teaser>The Monte Carlo Casino is a gambling and entertainment complex located in Monte Carlo, Monaco.</Teaser>
+    <Description>The Monte Carlo Casino is a gambling and entertainment complex located in Monte Carlo, Monaco. It includes a casino, the Grand Théâtre de Monte Carlo, and the office of Les Ballets de Monte Carlo. The Monte Carlo Casino is owned and operated by the Société des bains de mer de Monaco, a public company in which the Monaco government and the ruling family have a majority interest. The company also owns the principal hotels, sports clubs, foodservice establishments, and nightclubs throughout Monaco. +1 [ICON_GOLD] Gold for every 1 [ICON_CITIZEN] Citizen in this City. Available with Industrialization.</Description>
+    <Authors>Envoy (@fourfourhero), Pouakai</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="D9E0808D04BEED4C7EF491D9AC57E6AC" import="1">ART/MonteCarloIconAtlas128.dds</File>
+    <File md5="83B2E87AC0BB3AE6CC2E3BEA0318AFAA" import="1">ART/MonteCarloIconAtlas256.dds</File>
+    <File md5="57C00211C4B4826E4C098B7372FE88F2" import="1">ART/MonteCarloIconAtlas45.dds</File>
+    <File md5="FB123D3C0482AE14C5FC9CDC438D5C4C" import="1">ART/MonteCarloIconAtlas64.dds</File>
+    <File md5="C50E0BC1BD0D61F750A43241F2205A48" import="1">ART/MonteCarloSplash.dds</File>
+    <File md5="16B4EE0B21B04C434D5A25F6749ECD95" import="0">XML/Buildings/MonteCarlo_Buildings.xml</File>
+    <File md5="86E1D3A500F081894EA3BA5F0E8BFB66" import="0">XML/Buildings/MonteCarlo_IconTextureAtlases.xml</File>
+    <File md5="BE8EB51D0A2E08416A908B153108302B" import="0">XML/Civilizations/MonteCarlo_Civilizations.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Buildings/MonteCarlo_IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/MonteCarlo_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/MonteCarlo_Civilizations.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

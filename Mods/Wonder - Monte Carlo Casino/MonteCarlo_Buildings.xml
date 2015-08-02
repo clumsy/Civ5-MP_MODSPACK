@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_MONTE_CARLO</Type>
+			<DefaultBuilding>BUILDING_MONTE_CARLO</DefaultBuilding>
+			<Description>TXT_KEY_WONDER_MONTE_CARLO</Description>
+			<MaxGlobalInstances>1</MaxGlobalInstances>
+		</Row>
+	</BuildingClasses>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_MONTE_CARLO</Type>
+			<BuildingClass>BUILDINGCLASS_MONTE_CARLO</BuildingClass>
+			<Cost>750</Cost>
+			<PrereqTech>TECH_INDUSTRIALIZATION</PrereqTech>
+			<Help>TXT_KEY_WONDER_MONTE_CARLO_HELP</Help>
+			<Description>TXT_KEY_WONDER_MONTE_CARLO</Description>
+			<Civilopedia>TXT_KEY_WONDER_MONTE_CARLO_DESC</Civilopedia>
+			<Quote>TXT_KEY_WONDER_MONTE_CARLO_QUOTE</Quote>			
+			<SpecialistType>SPECIALIST_MERCHANT</SpecialistType>
+			<SpecialistCount>1</SpecialistCount>
+			<GreatPeopleRateChange>1</GreatPeopleRateChange>
+			<Happiness>4</Happiness>
+			<NukeImmune>true</NukeImmune>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>100</ConquestProb>
+			<IconAtlas>BW_ATLAS_MONTE_CARLO</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>			
+			<WonderSplashImage>MonteCarloSplash.dds</WonderSplashImage>
+			<WonderSplashAnchor>R,B</WonderSplashAnchor>
+		</Row>
+	</Buildings>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_MONTE_CARLO</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MONTE_CARLO</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<Building_YieldChangesPerPop>
+		<Row>
+			<BuildingType>BUILDING_MONTE_CARLO</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>100</Yield>
+		</Row>
+	</Building_YieldChangesPerPop>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_MONTE_CARLO</BuildingType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MONTE_CARLO</BuildingType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>40</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MONTE_CARLO</BuildingType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>25</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MONTE_CARLO</BuildingType>
+			<FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+	</Building_Flavors>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_WONDER_MONTE_CARLO">
+			<Text>The Monte Carlo Casino</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_MONTE_CARLO_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Luck was a servant and not a master. Luck had to be accepted with a shrug or taken advantage of up to the hilt. But it had to be understood and recognized for what it was and not confused with a faulty appreciation of the odds, for, at gambling, the deadly sin is to mistake bad play for bad luck."[NEWLINE] - Ian Fleming[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_MONTE_CARLO_HELP">
+			<Text>+1 [ICON_GOLD] Gold for every 1 [ICON_CITIZEN] Citizen in this City.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_MONTE_CARLO_DESC">
+			<Text>The Monte Carlo Casino is a gambling and entertainment complex located in Monte Carlo, Monaco. It includes a casino, the Grand Théâtre de Monte Carlo, and the office of Les Ballets de Monte Carlo. The Monte Carlo Casino is owned and operated by the Société des bains de mer de Monaco, a public company in which the Monaco government and the ruling family have a majority interest. The company also owns the principal hotels, sports clubs, foodservice establishments, and nightclubs throughout Monaco.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

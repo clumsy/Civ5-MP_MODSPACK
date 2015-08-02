@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>BW_ATLAS_MONTE_CARLO</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>MonteCarloIconAtlas256.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BW_ATLAS_MONTE_CARLO</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>MonteCarloIconAtlas128.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BW_ATLAS_MONTE_CARLO</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>MonteCarloIconAtlas64.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BW_ATLAS_MONTE_CARLO</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>MonteCarloIconAtlas45.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+</GameData>
