@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="520f1975-bfbe-4211-b708-225332774cb9" version="2">
+  <Properties>
+    <Name>Brooklyn Bridge Wonder</Name>
+    <Teaser>Built in the late 19th century, the Brooklyn Bridge is the most iconic and oldest major bridge of New York, and is an icon of NY</Teaser>
+    <Description>Built in the late 19th century, the Brooklyn Bridge is the most iconic and oldest major bridge of New York, and is as much an icon as the Statue of Liberty or the Empire State Building. It was built in Neo-Gothic style, much like many other New York buildings of the time. The Brooklyn Bridge had fears a year after opening of stability issues, so PT Barnum famously lead 21 elephants from his Circus across the bridge. Ingame, the Brooklyn Bridge causes your empire to enter a 10-turn  Golden Age, and gives +50%  Great Person generation in the city it is built; it requires Railroad</Description>
+    <Authors>Pouakai, sukritact</Authors>
+    <SpecialThanks>Ambrox62</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>0</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="0F20C49D106AEF3424D459A2A44ABB5C" import="1">Art/Brooklyn_128.dds</File>
+    <File md5="0CFD44DE62EE991B0A60CF608CE14922" import="1">Art/Brooklyn_256.dds</File>
+    <File md5="F67BB3FCE6D3A1B9395325A2CFA0BFC7" import="1">Art/Brooklyn_45.dds</File>
+    <File md5="4AA771CDE2BD5D405657470F0E5265A2" import="1">Art/Brooklyn_64.dds</File>
+    <File md5="0B9A1CEA0F3F1A6E720E1C6B09567428" import="1">Art/Brooklyn_80.dds</File>
+    <File md5="C20C734CAF13AB94012FA51082DF8B12" import="1">Art/Brooklyn_splash.dds</File>
+    <File md5="FBF71DDF796D3AF44D84FB0E62F15D1E" import="1">Art/Brooklyn_Splash_a.dds</File>
+    <File md5="88200969D464219E6F2B03E38D70BF3F" import="0">XML/Buildings/Brooklyn_BuildingClasses.xml</File>
+    <File md5="231B3BFEDAFB5DA48B095D1E52C6C3AE" import="0">XML/Buildings/Brooklyn_Buildings.xml</File>
+    <File md5="80D75426CA76CBF35556A506C4545ED1" import="0">XML/Civilizations/Brooklyn_Civilizations.xml</File>
+    <File md5="4BC5B6F9A5423DCD7D9E3B4B0754FB1A" import="0">XML/GameInfo/Brooklyn_IconTextureAtlases.xml</File>
+    <File md5="F455B37FB503A0994AEF5BC417D493E2" import="0">XML/Text/Brooklyn_text_en_US.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Buildings/Brooklyn_BuildingClasses.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Brooklyn_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Brooklyn_Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/Brooklyn_IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Brooklyn_text_en_US.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>
