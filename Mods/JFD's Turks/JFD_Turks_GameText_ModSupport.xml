@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- RYOGA's UNIQUE CULTURAL INFLUENCE -->
+		<Row Tag="TXT_KEY_GENERIC_JFD_TURKS_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now writing in Diwani script and displaying decorative carpets in their homes. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<!-- SUKRITACT's DECISIONS -->
+		<!--Become a Gunpowder Empire-->
+		<Delete Tag="TXT_KEY_DECISIONS_OTTOMANGUNPOWDER_DESC" />
+		<Row Tag="TXT_KEY_DECISIONS_OTTOMANGUNPOWDER_DESC">
+			<Text>
+				All our generals agree; gunpowder will revolutionise warfare. In order to ensure the Turkish war machine remains the greatest, it is paramount that we commission for our army, muskets and bombards, and train our soldiers in their use, beginning our transition into a Gunpowder Empire.
+				[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Turks
+				[NEWLINE][ICON_BULLET]Must have researched Physics
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Gain the Gunpowder technology
+				[NEWLINE][ICON_BULLET]Two free Musketmen and a free Bombard appear at you [ICON_CAPITAL] Capital
+			</Text>
+		</Row>
+		<Delete Tag="TXT_KEY_DECISIONS_OTTOMANGUNPOWDER_ENACTED_DESC" />
+		<Row Tag="TXT_KEY_DECISIONS_OTTOMANGUNPOWDER_ENACTED_DESC">
+			<Text>
+				All our generals agree; gunpowder will revolutionise warfare. In order to ensure the Turkish war machine remains the greatest, it is paramount that we commission for our army, muskets and bombards, and train our soldiers in their use, beginning our transition into a Gunpowder Empire.
+				[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Gain the Gunpowder technology
+				[NEWLINE][ICON_BULLET]Two free Musketmen and a free Bombard appear at you [ICON_CAPITAL] Capital
+			</Text>
+		</Row>
+		<!--Found the Enderun Academy-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_TURKS_FOUND_ENDERUN_ACADEMY">
+			<Text>Found the Enderun Academy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_TURKS_FOUND_ENDERUN_ACADEMY_DESC">
+			<Text>As the world changes, so too do our enemies adapt to our advanced technologies, and it becomes not enough to possess a larger or more advanced military. We must, then, face our enemies with soldiers trained in military enlightenment.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Turks
+				[NEWLINE][ICON_BULLET]Your [ICON_CAPITAL] Capital must have a military garrison of at least level 3
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Renaissance Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Establishes the Enderun Academy in the [ICON_CAPITAL] Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_TURKS_FOUND_ENDERUN_ACADEMY_ENACTED_DESC">
+			<Text>
+				As the world changes, our enemies adapt to our advanced technology, and it becomes not enough to possess a larger or more advanced military. We must, then, face our enemies with soldiers trained in military enlightenment.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Establishes the Enderun Academy in the [ICON_CAPITAL] Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ENDERUN_ACADEMY">
+			<Text>Enderun Academy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ENDERUN_ACADEMY_HELP">
+			<Text>+10XP for newly trained Gun and Mounted Units, and Lancer Units trained in this city become Sipahi.[NEWLINE][NEWLINE]Rate at which Great Generals are born is increased by 20%.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ENDERUN_ACADEMY_PEDIA">
+			<Text>Enderun Academy was established by Mehmed II in Constantinople. Promising devsirmes (often kidnapped Christian children from the Balkans) and sons of prominent Ottoman officials were trained in literature, theology, engineering, mathematics etc. at Enderun, preparing them for government service as civil servants and janissaries. The janissaries became rivals to the landed Timariot sipahi soldiers that made up the bulk of the Ottoman army, and tensions were inevitable between the two classes.</Text>
+		</Row>
+		<!-- SUKRITACT's EVENTS -->
+		<!-- Re-Population Efforts -->
+		<Row Tag="TXT_KEY_EVENT_JFD_TURKS_REPOPULATION_EFFORTS">
+			<Text>Re-Population Efforts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_TURKS_REPOPULATION_EFFORTS_DESC">
+			<Text>With our capture of the former capital city of the {1_CivName}, {2_CityName}, our chief ministers have proposed that we invest in an effort to see the city re-populated with Turks.[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_TURKS_REPOPULATION_EFFORTS_OUTCOME_1">
+			<Text>Excellent! I shall invest lucratively. In fact, it shall become my new capital!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_TURKS_REPOPULATION_EFFORTS_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLD] Gold[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_NEGATIVE_TEXT]Your [ICON_CAPITAL] Capital loses 3 [ICON_CITIZEN] Population[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]{2_CityName} gains 3 [ICON_CITIZEN] Population[NEWLINE][ICON_BULLET]{2_CityName} becomes your new [ICON_CAPITAL] Capital[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_TURKS_REPOPULATION_EFFORTS_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have made a lucrative investment in the re-population of {1_CityName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_TURKS_REPOPULATION_EFFORTS">
+			<Text>{1_LeaderName} has re-located his capital to the former capital city of the {2_CivName}, {3_CityName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_TURKS_REPOPULATION_EFFORTS_OUTCOME_2">
+			<Text>A good plan. I shall invest cautiously.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_TURKS_REPOPULATION_EFFORTS_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLD] Gold[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_NEGATIVE_TEXT]Your [ICON_CAPITAL] Capital loses 2 [ICON_CITIZEN] Population[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]{2_CityName} gains 2 [ICON_CITIZEN] Population[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_TURKS_REPOPULATION_EFFORTS_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have made a moderate investment in the re-population of {1_CityName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_TURKS_REPOPULATION_EFFORTS_OUTCOME_3">
+			<Text>A ridiculous plan. The ministers are lucky to have their heads.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_TURKS_REPOPULATION_EFFORTS_OUTCOME_RESULT_3">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Nothing[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_TURKS_REPOPULATION_EFFORTS_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>We have rejected the proposal to invest in the re-population of {1_CityName}.</Text>
+		</Row>
+		<!-- Merchant's Patronage -->
+		<Row Tag="TXT_KEY_EVENT_JFD_TURKS_MERCHANTS_PATRONAGE">
+			<Text>Merchant's Patronage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_TURKS_MERCHANTS_PATRONAGE_DESC">
+			<Text>A daring merchant from the city-state of {1_CityState} has approached us with an opportunity for the financing of a Turkish navy. They believe that the Turkish empire is a magnet for economic prosperity, and that patronizing her conquests would be of great benefit to merchants the world over.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_TURKS_MERCHANTS_PATRONAGE_OUTCOME_1">
+			<Text>We most readily accept.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_TURKS_MERCHANTS_PATRONAGE_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain 3 free Naval Units[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_TURKS_MERCHANTS_PATRONAGE_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have agreed to accept a merchant's patronization.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_TURKS_MERCHANTS_PATRONAGE_OUTCOME_2">
+			<Text>We'll take no assistance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_TURKS_MERCHANTS_PATRONAGE_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_CULTURE] Culture[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_TURKS_MERCHANTS_PATRONAGE_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have refused to accept a merchant's patronization.</Text>
+		</Row>
+		<!-- VICEVIRTUOSO's WISH FOR THE WORLD -->
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_JFD_TURKS">
+			<Text>Gülbahar Hatun</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

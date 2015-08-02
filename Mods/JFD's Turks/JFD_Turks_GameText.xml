@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- TURKS-->
+		<Row Tag="TXT_KEY_CIV_JFD_TURKS_ADJECTIVE">
+			<Text>Turkish</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_TURKS_DESC">
+			<Text>Turkish Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_TURKS_SHORT_DESC">
+			<Text>The Turks</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<!-- MEHMED -->
+		<Row Tag="TXT_KEY_LEADER_JFD_MEHMED">
+			<Text>Mehmed II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_MEHMED_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_MEHMED_TEXT_1">
+			<Text>Mehmed II, also known as el-Fatih ("the Conqueror") was the sultan of the Ottoman Empire from 1451 - 1481 AD. He is best known for capturing the city of Constantinople, turning it into the new Ottoman capital and destroying the Byzantine Empire in the process. Mehmed was born in Edirne, which was then the capital of the Ottoman state, in 1432. He was fascinated by military matters from an early age; by the time that he reached maturity and ascended to the position of sultan (in 1451), Mehmed was prepared to begin the attack upon the city of Constantinople.[NEWLINE][NEWLINE]During the thousand-year history of the Byzantine Empire, Constantinople had withstood sieges many times. It had only been captured once, by the Fourth Crusaders in 1204. But by the fifteenth century the Byzantine Empire was a battered shell of its former self: while it still held Constantinople, it retained only a few small territories outside the city's walls (mainly in Greece).[NEWLINE][NEWLINE]Mehmed began the siege by constructing a pair of fortresses on both sides of the straits surrounding the city, thus preventing reinforcement by sea. When Mehmed attacked in 1453, the Byzantines were horribly outnumbered: there were only 7000 defenders to meet an army of roughly 100,000 Turks. Help was not forthcoming from the West, which remained hostile to the Byzantines because of the split between the Catholic and Orthodox churches.[NEWLINE][NEWLINE]Using enormous primitive cannon, the Ottomans battered the walls of Constantinople for weeks (although the rate of fire was so slow that the defenders were able to repair much of the damage as it took place). On May 29 Mehmed finally ordered an assault at a damaged section of the walls. The assault was successful, and the attackers succeeded in breaking into the city streets. The city's fate was sealed. The last Emperor, Constantine XI, died in battle, and the ancient empire was extinguished forever.[NEWLINE][NEWLINE]Mehmed gave his soldiers a day to loot the city (which was a customary practice at the time), during which a large portion of the populace was slaughtered, raped, or enslaved. After his soldiers' greed and lust were sated, Mehmed made every effort to rebuild the city and repopulate it with Turks. (Despite this odious "ethnic cleansing" at the beginning of his reign, Mehmed generally treated his non-Islamic subjects well, granting them permission to practice their religion freely, as well as a great deal of local autonomy.) The Byzantine administration was largely preserved intact and was given the task of running the Ottoman Empire.[NEWLINE][NEWLINE]Upon consolidating his control over Constantinople, Mehmed finished off the last remnants of the Byzantine Empire by conquering some small states in Greece and in 1461 he conquered the tiny Empire of Trebizond on the Black Sea. He then tried to extend his empire into Europe, but in 1462 he was defeated by Prince Vlad III (the real Count Dracula) of Wallachia, and at the Battle of Vaslui in 1475 he suffered a major loss to the Moldavian Prince Stefan. These defeats put an end to that campaign. However, Mehmed still had ambition - and plenty of it.[NEWLINE][NEWLINE]Believing that his conquest of Rome made him the legitimate ruler of the late Roman Empire, at the end of his life Mehmed embarked on an ambitious but foolhardy campaign to reunite his divided empire. The campaign began well; the Ottomans invaded Italy, and in 1840 the city of Otranto was easily captured. However, a rebellion in Albania the same year threatened the Ottoman supply lines, forcing the Ottomans to divide their forces. The following year a large Christian army led by the pope pushed the Ottomans from Italy. Mehmed died in 1481, putting an end forever to his dream of recapturing the ancient glory of Rome.[NEWLINE][NEWLINE]In large, history has judged Mehmed kindly. He is recognized for his military success and his strong rule, and later Ottoman sultans would seek to follow his example. Mehmed's conquest of Constantinople was one of the most important events in Western history, signifying the end of the medieval period. His attack upon Italy may have been foolish, but it ultimately did little to harm the young Ottoman Empire that was his legacy. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_MEHMED_NAME">
+			<Text>Mehmed II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_MEHMED_SUBTITLE">
+			<Text>Leader of the Turks</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_MEHMED_TITLES_1">
+			<Text>Sultan of the Ottoman Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_MEHMED_TITLES_2">
+			<Text>Caliph of Islam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_MEHMED_TITLES_3">
+			<Text>Amir al-Mu'minin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_MEHMED_TITLES_4">
+			<Text>Qayser-i Rûm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_MEHMED_LIVED">
+			<Text>1432 - 1481 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_TURKS_TEXT">
+			<Text>Great triumphs to you, young Caliph, Mehmed the Conqueror. Though perhaps regarded for your great devotion to architecture, you are most famous for your conquest of Constantinople in 1453. Overwhelming the Byzantines with your superior arms, you sought to consolidate the power of the Turks through the conquest of the Balkans. Though your empire was stilled by the powers of Vlad the Impaler and Stefan of Moldavia, your annexation of the Byzantine Empire single-handedly defined the end of an era, and paved the way for both Ottoman and Muslim influence in Europe for centuries to come.[NEWLINE][NEWLINE]Great Sultan, the armies of the Ottoman Turks stand once more hungry for power and glory. Can you lead them to conquer empires once thought impenetrable? Can you raise your banner atop the palaces of once great emperors? Can you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!-- TRIBUTE IN BLOOD -->
+		<Row Tag="TXT_KEY_TRAIT_JFD_TURKS_SHORT">
+			<Text>Tribute In Blood</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_TURKS">
+			<Text>Free Gun Unit upon capturing an enemy city (after Gunpowder). Military Land Units upgrade for free and yield +1 [ICON_HAPPINESS_1] Happiness when garrisoned.</Text>
+		</Row>
+		<!-- BOMBARD -->
+		<Row Tag="TXT_KEY_JFD_BOMBARD_DESC">
+			<Text>Great Bombard</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_BOMBARD_HELP">
+			<Text>Renaissance era Siege Unit. Only the Turks may build it. Has one additional range over the Cannon and a significantly larger bonus against Cities, but is inherently weaker. Comes earlier but is more costly to produce.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_BOMBARD_STRATEGY">
+			<Text>The Great Bombard is the Turkish unique unit, replacing the Cannon. The Great Bombard has a greater range than the Cannon, allowing it to attack enemies three hexes away, and it has a large attack bonus against Cities. However, the Great Bombard costs significantly more to produce and is inherently weaker than the Cannon, meaning it does not benefit as well from promotions or when attacking Units. It also comes slightly earlier, at Gunpowder.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_BOMBARD_TEXT">
+			<Text>The Dardanelles Gun or Great Turkish Bombard is a 15th-century siege cannon, specifically a super-sized bombard. Such super-sized bombards had been employed in Western Europe siege warfare since the beginning of the 15th century, and were introduced to the Ottoman army in 1453 by the gunfounder Orban (from Brasov, Kingdom of Hungary) on the occasion of the Siege of Constantinople. Ali's piece is assumed to have followed closely the outline of these guns.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_BOMBARD">
+			<Text>Bonus vs Cities (350)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_BOMBARD_HELP">
+			<Text>+350% Bonus vs Cities.</Text>
+		</Row>
+		<!-- JANISSARY -->
+		<Row Tag="TXT_KEY_JFD_JANISSARY_HELP">
+			<Text>One of the first gunpowder units of the game. Only the Turks may build it. This Unit is stronger on offense and heals when it kills an enemy, unlike the Musketman which it replaces.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_JANISSARY_STRATEGY">
+			<Text>The Janissary is an Turkish unique unit, replacing the Musketman. The Janissary receives a significant combat bonus when on the attack. In addition, the Janissary unit automatically heals all damage when it destroys a non-Barbarian unit. This can give a Janissary army a crushing advantage against an enemy force on the defensive.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

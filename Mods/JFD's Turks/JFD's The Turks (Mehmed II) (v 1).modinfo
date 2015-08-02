@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="26a636b9-5290-4a2b-9b96-b0eb9e49be83" version="1">
+  <Properties>
+    <Name>JFD's The Turks (Mehmed II)</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]The Turks[ENDCOLOR] with Mehmed II to the game.</Teaser>
+    <Description>See CivFanatics or Steam Workshop for full details.</Description>
+    <Authors>JFD, Janboruta</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety " />
+    <Mod id="d99bf7aa-51ac-4bef-bd88-d765b28e260e" minversion="0" maxversion="999" title="JFD’s Prestige" />
+    <Mod id="6676902b-b907-45f1-8db5-32dcb2135eee" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events &amp; Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="4BF4FB09E15B80DD1E068B52D272B72F" import="1">Art/Diplomacy/Mehmed_Diplo.dds</File>
+    <File md5="742CE2289C066423FE4AC6BDF33B2207" import="1">Art/Diplomacy/Mehmed_Scene.xml</File>
+    <File md5="3AEFACCEAFFB412D0537D282ACEE5039" import="1">Art/Graphics/Bombard.fxsxml</File>
+    <File md5="6B4998B63948B671F810B6C3DCEAE04E" import="1">Art/Graphics/Bombard.gr2</File>
+    <File md5="4DA2B4CAAE9C895CDFCD92F3EDD41D0D" import="1">Art/Graphics/bombard_crew_diff.dds</File>
+    <File md5="0B1534B32C405A3EE4B9D784471DA90B" import="1">Art/Graphics/Bombard_diff.dds</File>
+    <File md5="B72AF20074CF79CA94D5327FDDC096CC" import="1">Art/Graphics/Bombard_sref.dds</File>
+    <File md5="AE80A76BAE9DE2C0E8EAA52873951B8B" import="1">Art/Graphics/sv_GreatBombard.dds</File>
+    <File md5="52C8FF6A652C4DC407FDA6E7C93CCE2E" import="1">Art/IconAtlas/JFD_GreatBombardUnitFlag_32.dds</File>
+    <File md5="0D1FE207D663F3C0BAE5FC8474523C5A" import="1">Art/IconAtlas/JFD_TurksMehmedAlphaAtlas_128.dds</File>
+    <File md5="C7BF0760F86E528CC90806401A240EA9" import="1">Art/IconAtlas/JFD_TurksMehmedAlphaAtlas_16.dds</File>
+    <File md5="FA0A2DCFEB867417631E15876FAB786D" import="1">Art/IconAtlas/JFD_TurksMehmedAlphaAtlas_22.dds</File>
+    <File md5="1E7AAB14B5FEAA0EDFE7CC7E65EB58B0" import="1">Art/IconAtlas/JFD_TurksMehmedAlphaAtlas_24.dds</File>
+    <File md5="5AA6A47EEDD8CB0107C1BDCED6808980" import="1">Art/IconAtlas/JFD_TurksMehmedAlphaAtlas_256.dds</File>
+    <File md5="4B2EA1BCE0621F7CC6416070B101CFED" import="1">Art/IconAtlas/JFD_TurksMehmedAlphaAtlas_32.dds</File>
+    <File md5="54FA99BB5EE630A08DC550FCF5175AA1" import="1">Art/IconAtlas/JFD_TurksMehmedAlphaAtlas_45.dds</File>
+    <File md5="5646170C06EFA209FCD66238DA926CEF" import="1">Art/IconAtlas/JFD_TurksMehmedAlphaAtlas_48.dds</File>
+    <File md5="343E2EC4D4AFD51B46F15A1BD6281199" import="1">Art/IconAtlas/JFD_TurksMehmedAlphaAtlas_64.dds</File>
+    <File md5="CB85B8A648C1E738C920A7D9B37F4C35" import="1">Art/IconAtlas/JFD_TurksMehmedAlphaAtlas_80.dds</File>
+    <File md5="DE558CEE001B820B98C48F250006EB6F" import="1">Art/IconAtlas/JFD_TurksMehmedAtlas_128.dds</File>
+    <File md5="DB38D471A124722CBF95FC5FBF29ADC5" import="1">Art/IconAtlas/JFD_TurksMehmedAtlas_256.dds</File>
+    <File md5="76CF65D7EC7307B55642AF38A78D0C38" import="1">Art/IconAtlas/JFD_TurksMehmedAtlas_32.dds</File>
+    <File md5="EA21D2CC3F76F25BD8CE19B85CF57B70" import="1">Art/IconAtlas/JFD_TurksMehmedAtlas_45.dds</File>
+    <File md5="50EF4FA3E69D85D4E2DEDC147661A165" import="1">Art/IconAtlas/JFD_TurksMehmedAtlas_64.dds</File>
+    <File md5="C7FB55CB00DA08BA1E54C950141BC05A" import="1">Art/IconAtlas/JFD_TurksMehmedAtlas_80.dds</File>
+    <File md5="9F749B66DD8F43E0F26A48C5CD278324" import="1">Art/gw_suleiman_signature.dds</File>
+    <File md5="A1D385EFB22AA47718ABD29ED79E40FB" import="1">Art/Map/JFD_TurksMehmedMap_512.dds</File>
+    <File md5="79C4DE0F21F871D4F469D3E60C9A642D" import="1">Art/Map/Mehmed_DOM.dds</File>
+    <File md5="1233F8D82353FE6DA75C6DF51F31EC31" import="1">Audio/Mehmed_Peace.mp3</File>
+    <File md5="917C350B0F05BD4B52631281C159C0BD" import="1">Audio/Mehmed_War.mp3</File>
+    <File md5="E5B86C93EB8E3FEB6259A49D89AE6AC4" import="0">Core/JFD_Ottomans_GameDefines.sql</File>
+    <File md5="BB965C1DEC992647D6DFA8B738804C1C" import="0">Core/JFD_Ottomans_GameText.xml</File>
+    <File md5="BCE7688E0DF53991808188D3C20D5AAA" import="0">Core/JFD_Turks_ArtDefines.sql</File>
+    <File md5="31E7376DFDEA2DF7E6E77030F40B9430" import="0">Core/JFD_Turks_GameDefines.sql</File>
+    <File md5="5876094220C36BF96B30102BE2872732" import="0">Core/JFD_Turks_GameDefines_Diplomacy.sql</File>
+    <File md5="781717EAB291FA231E684A8F8DAACDAE" import="0">Core/JFD_Turks_GameDefines_ModSupport.sql</File>
+    <File md5="624C49C5FA0C8DEAA14C598C89C5C616" import="0">Core/JFD_Turks_GameText.xml</File>
+    <File md5="C8EF443B7609DB6B66B22136ABBBED3F" import="0">Core/JFD_Turks_GameText_Diplomacy.xml</File>
+    <File md5="ED8402934C936D6BABE6A3D6D3B9A56F" import="0">Core/JFD_Turks_GameText_ModSupport.xml</File>
+    <File md5="3665EA7314EC7714D3F5520365D7702A" import="0">DeleteMissingReferences.xml</File>
+    <File md5="23B375F9B21605001EEB13FAA2F7B5D9" import="1">Lua/JFD_Ottomans_Decisions.lua</File>
+    <File md5="D0C66312DBD28ECC929193968F5845EC" import="0">Lua/JFD_Ottomans_Functions.lua</File>
+    <File md5="219025AE218BD51F5B497FB6831AE9FF" import="1">Lua/JFD_Turks_Decisions.lua</File>
+    <File md5="60F8ECA6B2FFD047C2C50B5A8BBF5866" import="1">Lua/JFD_Turks_Events.lua</File>
+    <File md5="C25F85A061CCDA28B32D1609F03FA641" import="0">Lua/JFD_Turks_Functions.lua</File>
+    <File md5="8C10D84DD34F3B68C0BD34E1849443BD" import="1">Lua/Utilities/JFD_OttomansDynamicTopPanelSupport.lua</File>
+    <File md5="B4E22C0096BB556AF8C919F3BC7E3AC1" import="0">Lua/Utilities/JFD_TopPanelUpdated.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/JFD_Ottomans_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_Ottomans_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_Turks_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_Turks_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_Turks_GameDefines_Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_Turks_GameDefines_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_Turks_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_Turks_GameText_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_Turks_GameText_ModSupport.xml</UpdateDatabase>
+      <UpdateDatabase>DeleteMissingReferences.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_Turks_Functions.lua">
+      <Name>JFD_Turk_Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_Ottomans_Functions.lua">
+      <Name>JFD_Ottomans_Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Utilities/JFD_TopPanelUpdated.lua">
+      <Name>JFD_TopPanelUpdated</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

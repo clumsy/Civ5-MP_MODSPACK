@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/30/2015 10:03:44 AM -->
+<GameData>
+	<Language_en_US>
+		<!-- SUZERAINTY -->
+		<Row Tag="TXT_KEY_TRAIT_JFD_OTTOMAN_SHORT">
+			<Text>Suzerainty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_OTTOMAN">
+			<Text>Internal Trade Routes produce 33% more [ICON_FOOD] Food and [ICON_PRODUCTION] Production. Each [ICON_PUPPET] puppet connected via Internal Trade Route yields +2 [ICON_GOLD] Gold and an additional +2 [ICON_PEACE] Faith if following a different religion than your capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_OTTOMAN_PIETY">
+			<Text>Internal Trade Routes produce 33% more [ICON_FOOD] Food and [ICON_PRODUCTION] Production. Each [ICON_PUPPET] puppet connected via Internal Trade Route yields +2 [ICON_GOLD] Gold and an additional +2 [ICON_PEACE] Faith if following a different religion than your State Religion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_OTTOMAN_GOLD_FROM_PUPPETS">
+			<Text>[TAB]{1_Num} from [ICON_SWAP] Trade Routes between your cities and your [ICON_PUPPET] puppets.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_OTTOMAN_FAITH_FROM_PUPPETS">
+			<Text>[COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] from [ICON_SWAP] Trade Routes between your cities and your [ICON_PUPPET] puppets.</Text>
+		</Row>
+		<!-- HAMMAM-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_HAMMAM">
+			<Text>Hammam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_HAMMAM_HELP">
+			<Text>10% of [ICON_FOOD] Food is carried over after a new [ICON_CITIZEN] Citizen is born.[NEWLINE][NEWLINE]+25% [ICON_GREAT_PEOPLE] Great People generation in this City.[NEWLINE][NEWLINE]City must be built next to a River or Lake.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_HAMMAM_STRATEGY">
+			<Text>Like the Garden that it replaces, the unique Ottoman Hammam increases the speed at which [ICON_GREAT_PEOPLE] Great People are generated. In addition, however, it decreases the amount of [ICON_FOOD] Food a city needs to increase in size by 10% and provides a small boost in [ICON_HAPPINESS_1] Happiness. Hammams can be constructed only in cities next to a river or lake.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HAMMAM_TEXT">
+			<Text>Cleanliness was extremely important in Ottoman culture. Before modern plumbing, the Ottomans constructed communal steam baths ("hammams") throughout their major cities. In early times many of these were attached to mosques - ritual cleanliness played an important part in the Ottoman religious beliefs - in later periods they evolved into separate buildings and eventually, into enormous complexes of buildings.</Text>
+		</Row>
+		<!-- SUKRITACT's DECISIONS -->
+		<!--Commission Decorated Tughra-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_OTTOMAN_COMMISSION_DECORATED_TUGHRA">
+			<Text>Commission Decorated Tughra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_OTTOMAN_COMMISSION_DECORATED_TUGHRA_DESC">
+			<Text>
+				It is the charge of the Sultan to ensure that his reign is well regarded. And so we must commission a most decorated and elaborate Tughra to benefit the glory of our rule.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Ottoman
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Renaissance Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_GOLD] Gold
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Gain a free Great Artist
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_OTTOMAN_COMMISSION_DECORATED_TUGHRA_ENACTED_DESC">
+			<Text>
+				It is the charge of the Sultan to ensure that his reign is well regarded. And so we must commission a most decorated and elaborate Tughra to benefit the glory of our rule.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Gain a free Great Artist
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_OTTOMAN_CALLIGRAPHER">
+			<Text>Great Calligrapher</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_JFD_OTTOMAN_CALLIGRAPHER_DESC">
+			<Text>Nişancı</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_JFD_SULEIMAN_TUGHRA">
+			<Text>Tughra of Suleiman the Magnificent</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
