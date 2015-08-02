@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/20/2013 3:43:32 AM -->
+<GameData>
+	<Language_en_US>
+		<!--MUSCOVY-->
+		<Row Tag="TXT_KEY_CIV_JFD_MUSCOVY_ADJECTIVE">
+			<Text>Muscovite</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_MUSCOVY_DESC">
+			<Text>Muscovite Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_MUSCOVY_SHORT_DESC">
+			<Text>Muscovy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MUSCOVY_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MUSCOVY_TEXT_1">
+			<Text>Antwerp, 1585. After 14 months of siege the city falls to the Spanish army. Only a couple of decades before it had been the richest city in Europe, accounting for 40% of world trade, and one of the most populous. Now over half its population - including many skilled tradesmen - migrate north, laying the commercial foundation for the subsequent Dutch Golden Age. The Dutch fleet, originally involved in attempts to end the siege, starts a blockade that would last for centuries to come. And so foreign rule continued for the Southern Netherlands, whose Dutch-speaking territories are nowadays known as the Flemish Community, comprising the north of Belgium.[NEWLINE][NEWLINE]In the Middle Ages, this region consisted of the county of MUSCOVY, the duchy of Brabant and the county of Loon. It has been a wealthy region for most of its history. Due to this and its central position, the area was strongly contested by Europe's great powers. Struggles for greater autonomy and to protect the local culture and language are a common theme throughout the history of MUSCOVY.</Text>
+		</Row>
+		<!--City List-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_MUSCOVY_01">
+			<Text>Moscow</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_JFD_MUSCOVY_02">
+			<Text>Suzdal</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_JFD_MUSCOVY_03">
+			<Text>Vladimir</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_JFD_MUSCOVY_04">
+			<Text>Veliky Ustyug</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_JFD_MUSCOVY_05">
+			<Text>Nizhny Novgorod</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_JFD_MUSCOVY_06">
+			<Text>Vologda</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_JFD_MUSCOVY_07">
+			<Text>Yaroslavl</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_JFD_MUSCOVY_08">
+			<Text>Toropets</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_JFD_MUSCOVY_09">
+			<Text>Rzhev</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_JFD_MUSCOVY_10">
+			<Text>Murom</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_JFD_MUSCOVY_11">
+			<Text>Vereya</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_JFD_MUSCOVY_12">
+			<Text>Beloozero</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_JFD_MUSCOVY_13">
+			<Text>Mozhaysk</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_JFD_MUSCOVY_14">
+			<Text>Kostroma</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_JFD_MUSCOVY_15">
+			<Text>Veliky Novgorod</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_JFD_MUSCOVY_16">
+			<Text>Tver</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_JFD_MUSCOVY_17">
+			<Text>Ryazan</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_JFD_MUSCOVY_18">
+			<Text>Kaluga</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_JFD_MUSCOVY_19">
+			<Text>Rostov</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_JFD_MUSCOVY_20">
+			<Text>Volokolamsk</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_JFD_MUSCOVY_21">
+			<Text>Kursk</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_JFD_MUSCOVY_22">
+			<Text>Bryansk</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_JFD_MUSCOVY_23">
+			<Text>Pskov</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_JFD_MUSCOVY_24">
+			<Text>Vyazma</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_JFD_MUSCOVY_25">
+			<Text>Staraya Russa</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_JFD_MUSCOVY_26">
+			<Text>Kholm</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_JFD_MUSCOVY_27">
+			<Text>Torzhok</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_JFD_MUSCOVY_28">
+			<Text>Vyatka</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_JFD_MUSCOVY_29">
+			<Text>Ufa</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_JFD_MUSCOVY_30">
+			<Text>Tula</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_JFD_MUSCOVY_31">
+			<Text>Belgorod</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_JFD_MUSCOVY_32">
+			<Text>Chernigov</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_JFD_MUSCOVY_33">
+			<Text>Voronezh</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_JFD_MUSCOVY_34">
+			<Text>Saratov</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_JFD_MUSCOVY_35">
+			<Text>Samara</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_JFD_MUSCOVY_36">
+			<Text>Smolensk</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_JFD_MUSCOVY_37">
+			<Text>Tobolsk</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_JFD_MUSCOVY_38">
+			<Text>Orel</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_JFD_MUSCOVY_39">
+			<Text>Kazan</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_JFD_MUSCOVY_40">
+			<Text>Astrakhan</Text>
+        </Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_MUSCOVY_9">
+			<Text>Iov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_MUSCOVY_8">
+			<Text>Shuisky</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_MUSCOVY_7">
+			<Text>Vassily</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_MUSCOVY_6">
+			<Text>Philaret</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_MUSCOVY_5">
+			<Text>Feodor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_MUSCOVY_4">
+			<Text>Vasilisa</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_MUSCOVY_3">
+			<Text>Oxana</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_MUSCOVY_2">
+			<Text>Marfa</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_MUSCOVY_1">
+			<Text>Dmitry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_MUSCOVY_0">
+			<Text>Xenia</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--IVAN IV-->
+		<Row Tag="TXT_KEY_LEADER_JFD_IVAN">
+			<Text>Ivan IV</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_IVAN_LIVED">
+			<Text>1530 - 1584 CE</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_IVAN_NAME">
+			<Text>Ivan IV</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_IVAN_SUBTITLE">
+			<Text>Leader of Muscovy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_IVAN_TITLES_1">
+			<Text>Grand Prince of Muscovy, Tsar of All the Russias</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_IVAN_HEADING_1">
+			<Text>Biography</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_IVAN_TEXT_1">
+			<Text>Ivan IV Vasilyevich, commonly known as Ivan the Terrible, (Ivan Grozny literally "Ivan the Formidable"), was the Grand Prince of Moscow from 1533 to 1547 and Tsar of All the Russias from 1547 until his death. His long reign saw the conquest of the Khanates of Kazan, Astrakhan and Siberia, transforming Russia into a multiethnic and multiconfessional state spanning almost one billion acres, approximately 4,046,856 km2 (1,562,500 sq mi). Ivan managed countless changes in the progression from a medieval state to an empire and emerging regional power, and became the first ruler to be crowned as Tsar of All the Russians.[NEWLINE][NEWLINE]Historic sources present disparate accounts of Ivan's complex personality: he was described as intelligent and devout, yet given to rages and prone to episodic outbreaks of mental illness that increased with his age, affecting his reign.] In one such outburst, he killed his groomed and chosen heir Ivan Ivanovich. This left the Tsardom to be passed to Ivan's younger son, the weak and intellectually disabled Feodor Ivanovich. Ivan's legacy is complex: he was an able diplomat, a patron of arts and trade, founder of Russia's first Print Yard, a leader highly popular among the common people of Russia, but he is also remembered for his paranoia and arguably harsh treatment of the nobility. The Massacre of Novgorod is regarded as one of the demonstrations of his mental instability and brutality.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_JFD_IVAN_TEXT">
+			<Text>O' terrible and awesome Ivan IV, Grand Prince of Muscovy and heir to the legacy of Ivan the Great; unifier of the Russian states. With the conquests of the Khanates of Kazan, Astrakhan, and Siberia, the power of your princedom would officiate the Tsardom to which your predecessors had laid claim only to by name. Plagued by outbursts of your rage and paranoia, your harsh and bloody rule would put to fire and death any and all opponents to your divine and absolute monarchy. Yet in your moments of sapience and piety, you proved to be a capable and effective politician, military leader, and devotee to God, and you would lay the foundations upon which Peter the Great's Russian Empire could be built, and the modern Russian state could be born.[NEWLINE][NEWLINE]Ivan the Formidable, fearless leader of Muscovy, the Russian people once more lie scattered and in disharmony. Can you lead to battle your mighty armies, crushing those who would stand in the way of a united Russian kingdom? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!--STRELTSY-->
+		<Row Tag="TXT_KEY_UNIT_JFD_STRELTSY">
+			<Text>Streltsy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_STRELTSY_TEXT">
+			<Text>The Streltsy were a Russian light infantry formed in the mid-sixteenth century by Tsar Ivan IV, and were Russia's first permanent standing infantry. They received a salary, a plot of land, and allotments of food and drink. This pay was rather meager, and strelets often found it necessary to supplement their income. An elite group of mounted strelets were the tsar's bodyguard and passed service to the tsar to their sons. The only way a man could become a member of this elite body was by birth."[NEWLINE][NEWLINE]The word strelet is derived from the Russian word for arrow, strela, and while it once referred to archers, over time it came to refer to the Russian ranged infantry in general. Strelets carried heavy, unwieldy firearms, sabers, and two-handed axes. These axes had a sharp point that could be shoved into the ground to provide a rest for cumbersome strelet muskets.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_STRELTSY_STRATEGY">
+			<Text>The Streltsy is the unique unit for Muscovy. It is both slightly cheaper and a bit weaker than the Musketman that it replaces, but it may attack twice when it begins its turn adjacent to another Streltsy. It may also use roads built in enemy territory, making it effective at keeping up with the rest of your army.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_STRELTSY_HELP">
+			<Text>Cheap and weak Musketman that may use enemy roads and can attack twice when beginning its turn adjacent to another Streltsy. Only Muscovy may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_STRELTSY">
+			<Text>Marksman Troops</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_STRELTSY_INFO_HELP">
+			<Text>May attack twice if adjacent to another unit with this promotion. May use enemy roads.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_STRELTSY_HELP">
+			<Text>May attack twice. May use enemy roads.</Text>
+		</Row>
+		<!--SOBOR-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_SOBOR">
+			<Text>Sobor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_SOBOR_TEXT">
+			<Text>The word 'sobor' means "assembly" and is used to denote of a council of bishops who represent the church on doctrinal matters. It is the slavic equivalent of a Synod. The Stoglavy Sobor in 1551 was a convening of the Tsar Ivan IV, the Metropolitan Macarius, and representatives of the Boyar Duma, in which the synod would rule on the incomformities of the Russian Church to that of the traditional Greek Orthodox Church. In this session, the synod ruled that the Russian Church was inviolable and that its practices were independent to that of the Greek Church, as well as to that of the Tsar. Such a ruling would solidify the autonomy that would characterise the Russian Orthodox Church.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SOBOR_HELP">
+			<Text>Eliminates extra [ICON_HAPPINESS_4] Unhappiness from an [ICON_OCCUPIED] Occupied City. Reduces cost of acquiring new tiles with [ICON_GOLD] Gold or [ICON_CULTURE] Culture based upon the city's [ICON_PEACE] Faith output.[NEWLINE][NEWLINE]City must have a Shrine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SOBOR_STRATEGY">
+			<Text>The Muscovite Sobor is used to expand your borders. It reduces the [ICON_GOLD] Gold and [ICON_CULTURE] Culture cost of acquiring new tiles based upon a city's [ICON_PEACE] Faith output (up to 30%). It may also be used in place of a Courthouse in occupied cities to eliminate extra [ICON_HAPPINESS_4] Unhappiness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SOBOR_FAITH">
+			<Text>JFD: Muscovy Sobor Expansion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SOBOR_FAITH_HELP">
+			<Text>-1% [ICON_CULTURE] Culture and [ICON_GOLD] Gold cost of acquiring new tiles (max 30%).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SOBOR_COURTHOUSE">
+			<Text>JFD: Muscovy Sobor Courthouse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SOBOR_COURTHOUSE_HELP">
+			<Text>No occupied [ICON_HAPPINESS_4] Unhappiness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SOBOR_CITY_VIEW_HELP">
+			<Text>[NEWLINE][ICON_GOLD] Gold and [ICON_CULTURE] Culture cost of acquiring new tiles reduced by {1_Num}%</Text>
+		</Row>
+		<!--TSAR OF ALL THE RUSSIAS-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_MUSCOVY_SHORT">
+			<Text>Tsar of All the Russias</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_MUSCOVY">
+			<Text>Capturing enemy cities deals damage to all cities in the enemy's empire and instantly heals 25 damage for nearby friendly units. Receive [ICON_GOLDEN_AGE] Golden Age points for every turn a city is being [ICON_RAZING] razed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_MUSCOVY_ALERT">
+			<Text>[COLOR_POSITIVE_TEXT]+{1_Num} Total[ENDCOLOR] [ICON_GOLDEN_AGE] Golden Age points from cities being [ICON_RAZING] razed this turn.</Text>
+		</Row>
+		<!--MINOR CIVS-->
+		<!--Vladimir-->
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_VLADIMIR">
+			<Text>Vladimir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_VLADIMIR_ADJ">
+			<Text>Vladimir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_VLADIMIR_TEXT">
+			<Text>Traditionally, the founding date of Vladimir has been acknowledged as 1108, as the first mention of Vladimir in the Primary Chronicle appears under that year. This view attributes the founding of the city, and its name, to Vladimir Monomakh, who inherited the region as part of the Rostov-Suzdal Principality in 1093. Being established long after the city of Vladimir in Volhynia, initially it was named Vladimir-on-Klyazma. In 1958, the 850th anniversary of the city foundation was celebrated, with many monuments from the celebrations adorning the city.</Text>
+		</Row>
+		<!--Rostov-->
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_ROSTOV">
+			<Text>Rostov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_ROSTOV_ADJ">
+			<Text>Rostovian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_ROSTOV_TEXT">
+			<Text>Rostov was preceded by Sarskoye Gorodishche, which some scholars interpret as the capital of the Merya tribe, while others believe it was an important Viking trade enclave and fortress guarding the Volga trade route. First mentioned in the year 862 as an already important settlement, by the 13th century Rostov became the capital city of one of the most prominent Russian principalities. It was incorporated into Muscovy in 1474.</Text>
+		</Row>
+		<!--Pskov-->
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_PSKOV">
+			<Text>Pskov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_PSKOV_ADJ">
+			<Text>Pskovian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_PSKOV_TEXT">
+			<Text>Pskov is one of the oldest cities in Russia. The name of the city, originally spelled "Pleskov", may be loosely translated as "[the town] of purling waters". Its earliest mention comes in 903, which records that Igor of Kiev married a local lady, St. Olga. Pskovians sometimes take this year as the city's foundation date, and in 2003 a great jubilee took place to celebrate Pskov's 1,100th anniversary.</Text>
+		</Row>
+		<!--Smolensk-->
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_SMOLENSK">
+			<Text>Smolensk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_SMOLENSK_ADJ">
+			<Text>Smolensk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_SMOLENSK_TEXT">
+			<Text>Smolensk is among the oldest Russian cities. The first recorded mention of the city was 863 AD, two years after the founding of ancient Rus'. According to Russian Primary Chronicle, Smolensk (probably located slightly downstream, at the archaeological site of Gnezdovo) was located on the area settled by the West Slavic Radimichs tribe in 882 when Oleg of Novgorod took it in passing from Novgorod to Kiev. The town was first attested two decades earlier, when the Varangian chieftains Askold and Dir, while on their way to Kiev, decided against challenging Smolensk on account of its large size and population.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

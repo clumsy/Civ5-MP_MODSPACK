@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- JFD's EXPLORATION CONTINUED EXPANDED -->
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_MUSCOVY_01">
+			<Text>Sagallo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_MUSCOVY_02">
+			<Text>Ross</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_MUSCOVY_03">
+			<Text>Elizabeth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_MUSCOVY_04">
+			<Text>Three Saints Bay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_MUSCOVY_05">
+			<Text>St. Paul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_MUSCOVY_06">
+			<Text>Kodiak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_MUSCOVY_07">
+			<Text>Old Sitka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_MUSCOVY_08">
+			<Text>Sitka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_MUSCOVY_09">
+			<Text>Nulato</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_MUSCOVY_10">
+			<Text>Stikine</Text>
+		</Row>
+		<!-- RYOGA's UNIQUE CULTURAL INFLUENCE -->
+		<Row Tag="TXT_KEY_GENERIC_JFD_MUSCOVY_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now  I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<!-- SUKRITACT's DECISIONS -->
+		<!--Establish the Russian Tsardom-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_MUSCOVY_RUSSIAN_TSARDOM">
+			<Text>Establish the Russian Tsardom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_MUSCOVY_RUSSIAN_TSARDOM_DESC">
+			<Text>
+				It cannot be tolerated that the ruler of the Russian people is but a mere Grand Prince; below that of Kings in other realms. Today, I declare myself Tsar - sovereign ruler of the Russian people and her empire, answerable and accountable only to almighty God. Let it be said that I am a divine ruler, and that I am the ruler of the mightiest empire on all the earth, which shall stand the test of time for so long as my lineage commands it.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Muscovy
+				[NEWLINE][ICON_BULLET]Must have conquered 4 foreign Capitals, or 7 cities otherwise
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Medieval Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]{2_Num} [ICON_PEACE] Faith
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]A [ICON_GOLDEN_AGE] Golden Age begins
+				[NEWLINE][ICON_BULLET]St. Basil's Cathedral wonder is constructed in the [ICON_CAPITAL] Capital
+				[NEWLINE][ICON_BULLET]Empire becomes Russia
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_MUSCOVY_RUSSIAN_TSARDOM_ENACTED_DESC">
+			<Text>
+				It cannot be tolerated that the ruler of the Russian people is but a mere Grand Prince; below that of Kings in other realms. Today, I declare myself Tsar - sovereign ruler of the Russian people and her empire, answerable and accountable only to almighty God. Let it be said that I am a divine ruler, and that I am the ruler of the mightiest empire on all the earth, which shall stand the test of time for so long as my lineage commands it.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]A [ICON_GOLDEN_AGE] Golden Age begins
+				[NEWLINE][ICON_BULLET]St. Basil's Cathedral wonder is constructed in the [ICON_CAPITAL] Capital
+				[NEWLINE][ICON_BULLET]Empire becomes known as Russia
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_MUSCOVY_RUSSIAN_TSARDOM">
+			<Text>Ivan IV has consolidated his power over the Rus' and has declared himself Tsar of All the Russias.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_ST_BASILS">
+			<Text>St. Basil's Cathedral</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_ST_BASILS_HELP">
+			<Text>Free Cathedrals in all cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_ST_BASILS_CIVILOPEDIA">
+			<Text>The Cathedral of Vasily the Blessed, commonly known as the Cathedral of Saint Basil, is a former church in Red Square in Moscow, Russia. The building, now a museum, is officially known as the Cathedral of the Intercession of the Most Holy Theotokos on the Moat or Pokrovsky Cathedral. It was built from 1555–61 on orders from Ivan the Terrible and commemorates the capture of Kazan and Astrakhan. A world famous landmark, it has been the hub of growth since the 14th century and was the tallest building in the city until the completion of the Ivan the Great Bell Tower in 1600.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_ST_BASILS_QUOTE">
+			<Text>[NEWLINE]"And he that sat was to look upon like a jasper and a sardine stone: and there was a rainbow round about the throne, in sight like unto an emerald."[NEWLINE] -  Revelation, 4:3 - 4:4[NEWLINE]</Text>
+		</Row>
+		<!--Send the Oprichniki-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_RUSSIAOPRICHNINA">
+			<Text>Send the Oprichniki to {1_City}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_RUSSIAOPRICHNINA_DESC">
+			<Text>
+				The hereditary nobility is the biggest threat to our control of the state. We will send the Oprichniki to {1_City} to purge the city of those nobles whose loyalty is questionable.[NEWLINE][NEWLINE]Requirement/Restrictions:[NEWLINE][ICON_BULLET]Player must be Muscovy[NEWLINE][ICON_BULLET]{1_City} must have a Constabulary[NEWLINE][ICON_BULLET]May not be enacted after the Atomic era[NEWLINE][ICON_BULLET]May only be enacted once per City[NEWLINE]Costs:[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates[NEWLINE]Rewards:[NEWLINE][ICON_BULLET]{2_Reward} [ICON_GOLD] Gold[NEWLINE][ICON_BULLET]{2_Reward} [ICON_CULTURE] Culture
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_RUSSIAOPRICHNINA_ENACTED_DESC">
+			<Text>
+				The hereditary nobility is the biggest threat to our control of the state. We will send the Oprichniki to {1_City} to purge the city of those nobles whose loyalty is questionable.[NEWLINE][NEWLINE]Requirement/Restrictions:[NEWLINE]Rewards:[NEWLINE][ICON_BULLET]Lump sum of [ICON_GOLD] Gold[NEWLINE][ICON_BULLET]Lump sum of [ICON_CULTURE] Culture
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_RUSSIAOPRICHNINA_NOTE">
+			<Text>
+				[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: Construct Constabularies to unlock this Decision in other cities[ENDCOLOR]
+			</Text>
+		</Row>
+		<!--Decree the Establishment of the Smolny Institute-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_RUSSIA_CATHERINE_SMOLNY_INSTITUTE">
+			<Text>Decree the Establishment of the Smolny Institute</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_RUSSIA_CATHERINE_SMOLNY_INSTITUTE_DESC">
+			<Text>
+				The Smolny Institute was a building commissoned under the patronage of Catherine the Great in 1764 to serve the Smolny Institute for Noble Maidens. It was Russia's first place of higher learning for women and continued to serve as much until 1917.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Russia (Catherine)
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Renaissance Era
+				[NEWLINE][ICON_BULLET]Must have researched Education
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]The Smolny Institute National Wonder is built in the [ICON_CAPITAL] Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_RUSSIA_CATHERINE_SMOLNY_INSTITUTE_ENACTED_DESC">
+			<Text>
+				The Smolny Institute was a building commissoned under the patronage of Catherine the Great in 1764 to serve the Smolny Institute for Noble Maidens. It was Russia's first place of higher learning for women and continued to serve as much until 1917.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]The Smolny Institute National Wonder is built in the [ICON_CAPITAL] Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SMOLNY_INSTITUTE">
+			<Text>Smolny Institute</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SMOLNY_INSTITUTE_CIVILOPEDIA">
+			<Text>The Smolny Institute is a Palladian edifice in St Petersburg that has played a major part in the history of Russia. The building was commissioned from Giacomo Quarenghi by the Society for Education of Noble Maidens and constructed in 1806–08 to house the Smolny Institute for Noble Maidens, established at the urging of Ivan Betskoy and in accordance with a decree of Catherine II (the Great) in 1764, borrowing its name from the nearby Smolny Convent. The Smolny was Russia's first educational establishment for women and continued to function under the personal patronage of the Russian Emperors until just before the 1917 revolution.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_CATHERINE_SMOLNT_INSTITUTE">
+			<Text>Catherine of Russia has founded the Smolny Institute for women.</Text>
+		</Row>
+		<!--Patronise the Fur Trade-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_RUSSIA_CATHERINE_FUR_TRADE">
+			<Text>Patronise the Fur Trade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_RUSSIA_CATHERINE_FUR_TRADE_DESC">
+			<Text>
+				Fur is one of our most valuable commodities. Russian Furs are demanded in the most prestigious courts throughout the known world, desired for both their fashion and utility. We should seek out foreign lands by which to extend our imperial dominion, and have our most experienced fur-makers and hunters gather what they can of this most prized luxury.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Russia (Catherine)
+				[NEWLINE][ICON_BULLET]Must have a natural source of [ICON_RES_FUR] Fur
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Renaissance Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Each city founded in Tundra spawns a nearby source of [ICON_RES_FUR] Fur
+				[NEWLINE][ICON_BULLET]Receive two free Settlers
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_RUSSIA_CATHERINE_FUR_TRADE_ENACTED_DESC">
+			<Text>
+				Fur is one of our most valuable commodities. Russian Furs are demanded in the most prestigious courts throughout the known world, desired for both their fashion and utility. We should seek out foreign lands by which to extend our imperial dominion, and have our most experienced fur-makers and hunters gather what they can of this most prized luxury.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Each city founded in Tundra spawns a nearby source of [ICON_RES_FUR] Fur
+				[NEWLINE][ICON_BULLET]Receive two free Settlers
+			</Text>
+		</Row>
+		<!-- SUKRITACT's EVENTS -->
+		<!-- The Printing Press -->
+		<Row Tag="TXT_KEY_EVENT_JFD_MUSCOVY_PRINTING_PRESS">
+			<Text>The Printing Press</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_MUSCOVY_PRINTING_PRESS_DESC">
+			<Text>
+				Word has reached our court of the creation of the printing press - a machine said to be capable of replicating written works many times faster than any man. Our courtiers have already begun contemplating what worth this machine might have in increasing the distribution of religious and legal texts throughout the empire. We should consider whether the printing press might have a place in our people's lives.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_MUSCOVY_PRINTING_PRESS_OUTCOME_1">
+			<Text>Turn away this devilry. It is a waste of gold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_MUSCOVY_PRINTING_PRESS_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Nothing[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_MUSCOVY_PRINTING_PRESS_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have refused to adopt the Printing Press.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_MUSCOVY_PRINTING_PRESS_OUTCOME_2">
+			<Text>We shall endorse this innovation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_MUSCOVY_PRINTING_PRESS_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLD] Gold[NEWLINE][COLOR_POSITIVE_TEXT][NEWLINE][ICON_BULLET]Gain the Printing Press technology[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_MUSCOVY_PRINTING_PRESS_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have adopted the Printing Press.</Text>
+		</Row>
+		<!-- Conspiring Nobles -->
+		<Row Tag="TXT_KEY_EVENT_JFD_MUSCOVY_CONSPIRING_NOBLES">
+			<Text>Conspiring Nobles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_MUSCOVY_CONSPIRING_NOBLES_DESC">
+			<Text>
+				We have learned that some of the noblemen in the city of {1_CityName} are probably conspiring against us. There is a plot to overthrow us, and there is almost certainly irrefutable evidence to back this up.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_MUSCOVY_CONSPIRING_NOBLES_OUTCOME_1">
+			<Text>Those wretches need to be taught a lesson.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_MUSCOVY_CONSPIRING_NOBLES_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]{1_CityName} begins [ICON_RAZING] Razing[NEWLINE][ICON_BULLET]Lose {2_Num} [ICON_GOLDEN_AGE] Golden Age Points[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_MUSCOVY_CONSPIRING_NOBLES_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have mercilessly set the city of {1_CityName} to light for their perceived transgressions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_MUSCOVY_CONSPIRING_NOBLES_OUTCOME_2">
+			<Text>Probably my imagination.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_MUSCOVY_CONSPIRING_NOBLES_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]30% chance {1_CityName} will go into 1 turn of [ICON_RESISTANCE] Resistance[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_MUSCOVY_CONSPIRING_NOBLES_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have not followed up on suspicions that noblemen from {1_CityName} are conspiring against us.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_MUSCOVY_CONSPIRING_NOBLES_OUTCOME_RESULT_2_ALT_NOTIFICATION">
+			<Text>We have not followed up on suspicions that noblemen from {1_CityName} are conspiring against us. Unfortunately for us, these suspicions seem to have been correct, and the city has revolted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_MUSCOVY_CONSPIRING_NOBLES">
+			<Text>Ivan IV has started a bloody massacre of the nobility in the Muscovite city of {1_CityName}.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="b5135347-162b-4b83-aaba-ddc47e7f7a14" version="1">
+  <Properties>
+    <Name>JFD's The Grand Principality of Muscow</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]The Grand Principality of Muscow[ENDCOLOR] with Ivan IV to the game.</Teaser>
+    <Description>See Steam Workshop or CivFanatics for details.</Description>
+    <Authors>JFD, Janboruta</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety &amp; Prestige" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events &amp; Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="DLL - Various Mod Components" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="43868e8d-de88-48a1-a8d9-ce144e07f5e0" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="C463282C91E74DE41827FE526D309AA7" import="1">Art/Diplomacy/IvanIV_Diplo.dds</File>
+    <File md5="198A58BD23977497722BE3FE7BA1FEF0" import="1">Art/Diplomacy/IvanIV_Scene.xml</File>
+    <File md5="AFA7199461B4CD914AC53EA437E199B5" import="1">Art/Graphics/Streltsy/Streltsy_blue_cap.fxsxml</File>
+    <File md5="9D3EA09EE5F6BA57C68D0C52FFC47523" import="1">Art/Graphics/Streltsy/Streltsy_blue_cap.gr2</File>
+    <File md5="7C475C3A82CDD4634AC7B505A35567B4" import="1">Art/Graphics/Streltsy/Streltsy_blue_cap_diff.dds</File>
+    <File md5="416295D24E7C6B9F0415BC44F9679628" import="1">Art/Graphics/Streltsy/Streltsy_sref.dds</File>
+    <File md5="4ABE5E7219E320E7B8E8CA539240AB83" import="1">Art/Graphics/Streltsy/sv_Streltsy.dds</File>
+    <File md5="67F9502A8A442E63EDA5C1E803909882" import="1">Art/Icon Atlas/JFD_MuscovyAlphaAtlas_128.dds</File>
+    <File md5="11EFF3D88CC01850B0EAF81CE5CA1024" import="1">Art/Icon Atlas/JFD_MuscovyAlphaAtlas_16.dds</File>
+    <File md5="5BB195AE19B95363F916D318CD450488" import="1">Art/Icon Atlas/JFD_MuscovyAlphaAtlas_22.dds</File>
+    <File md5="7B8D70F2806255AF952ECF1F752DDB2E" import="1">Art/Icon Atlas/JFD_MuscovyAlphaAtlas_24.dds</File>
+    <File md5="FC05960ADCF27EFDF79FBCD409F02976" import="1">Art/Icon Atlas/JFD_MuscovyAlphaAtlas_256.dds</File>
+    <File md5="064EB97BDAA187EFEC01F0B5B0DE6B55" import="1">Art/Icon Atlas/JFD_MuscovyAlphaAtlas_32.dds</File>
+    <File md5="7AE7A4151885D1711A74F0A2DD3C8BAE" import="1">Art/Icon Atlas/JFD_MuscovyAlphaAtlas_45.dds</File>
+    <File md5="6E340187E59B99B7BF91B9871B8F5F41" import="1">Art/Icon Atlas/JFD_MuscovyAlphaAtlas_48.dds</File>
+    <File md5="0122EBF456E7271CB1B66112D9A21E82" import="1">Art/Icon Atlas/JFD_MuscovyAlphaAtlas_64.dds</File>
+    <File md5="C53C4F8D748D42E3EB139C5EB95E21D9" import="1">Art/Icon Atlas/JFD_MuscovyAlphaAtlas_80.dds</File>
+    <File md5="EB0F7F0B7706A92EDC1279A314504931" import="1">Art/Icon Atlas/JFD_MuscovyAtlas_128.dds</File>
+    <File md5="13562C04CC0C668BC5033E410C13CB03" import="1">Art/Icon Atlas/JFD_MuscovyAtlas_256.dds</File>
+    <File md5="2C6157640D697517D4EF24996BF92D0F" import="1">Art/Icon Atlas/JFD_MuscovyAtlas_32.dds</File>
+    <File md5="51426575A35A9C373691BA3EF45635EF" import="1">Art/Icon Atlas/JFD_MuscovyAtlas_45.dds</File>
+    <File md5="CB2B029C5139C2FF97BAA41CABCEAED5" import="1">Art/Icon Atlas/JFD_MuscovyAtlas_64.dds</File>
+    <File md5="6313CB4C80EE97D78F96B10661C9D127" import="1">Art/Icon Atlas/JFD_MuscovyAtlas_80.dds</File>
+    <File md5="3DD1578B9652FD0F6A86D605116B6D59" import="1">Art/Icon Atlas/JFD_StreltsyUnitFlag_32.dds</File>
+    <File md5="D4CB2C7B94411990990C933558A0418A" import="1">Art/Map/DOM_IvanIV.dds</File>
+    <File md5="D832E4CD23A525A7F331EB5282720E54" import="1">Art/Map/MuscovyMap512.dds</File>
+    <File md5="3AB65FCBF5DE9C94297755924FEE7540" import="1">Audio/Ivan_Peace.mp3</File>
+    <File md5="66700F4789855C145FC9D1702C6F21A3" import="1">Audio/Ivan_War.mp3</File>
+    <File md5="AA967CC2F357E54A0AE8F3DF6B7700EB" import="0">Core/JFD_Muscovy_ArtDefines.sql</File>
+    <File md5="B39A55969DECB2609B7DD5E3338993B8" import="0">Core/JFD_Muscovy_GameDefines.sql</File>
+    <File md5="E5EB0FC2C1E3AD41258EAF2B3939B713" import="0">Core/JFD_Muscovy_GameDefines_Diplomacy.sql</File>
+    <File md5="DB915188FD6620FC29BCA1C806896048" import="0">Core/JFD_Muscovy_GameDefines_ModSupport.sql</File>
+    <File md5="D2170AE52A015C5C6D30823AFF48C7A4" import="0">Core/JFD_Muscovy_GameText.xml</File>
+    <File md5="7D15EBBA9835E215D75D42B8700E51D1" import="0">Core/JFD_Muscovy_GameText_Diplomacy.xml</File>
+    <File md5="56B24F0225657E224D8F60DCF725B577" import="0">Core/JFD_Muscovy_GameText_ModSupport.xml</File>
+    <File md5="3665EA7314EC7714D3F5520365D7702A" import="0">DeleteMissingReferences.xml</File>
+    <File md5="B996D1F425205EC2191C6F8D4F2155EE" import="1">Lua/JFD_Muscovy_Events.lua</File>
+    <File md5="A80C3DFACB99607A90767E9043A685F2" import="1">Lua/JFD_Muscovy_Decisions.lua</File>
+    <File md5="6B24B3DB9E92CEAF64B95F611F7EC840" import="0">Lua/JFD_Muscovy_Functions.lua</File>
+    <File md5="86C1C3EDCE4699DE320A932C4E70E22C" import="0">Lua/Sukritact's MCIS/CityInfoStack.lua</File>
+    <File md5="120EB71025973A8A48B38314241DD0B3" import="0">Lua/Sukritact's MCIS/CityInfoStack.xml</File>
+    <File md5="C6EBCD11F8351ADED183B51FD326D2E0" import="0">Lua/Sukritact's MCIS/JFD_Muscovy_Sobor_CityInfo.lua</File>
+    <File md5="6861F3F29D31BCE1189005E1E381339D" import="0">Lua/Sukritact's MCIS/JFD_Muscovy_Sobor_CityInfo.xml</File>
+    <File md5="5690A1B2ACA2729FD9D55156E232AB1A" import="1">Lua/Utilities/PlotIterators.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/JFD_Muscovy_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_Muscovy_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_Muscovy_GameDefines_Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_Muscovy_GameDefines_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_Muscovy_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_Muscovy_GameText_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_Muscovy_GameText_ModSupport.xml</UpdateDatabase>
+      <UpdateDatabase>DeleteMissingReferences.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Sukritact's MCIS/CityInfoStack.lua">
+      <Name>Sukritact's MCIS</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Sukritact's MCIS/JFD_Muscovy_Sobor_CityInfo.lua">
+      <Name>JFD_Muscovy_Sobor_CityInfo</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_Muscovy_Functions.lua">
+      <Name>JFD_Muscovy_Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>
