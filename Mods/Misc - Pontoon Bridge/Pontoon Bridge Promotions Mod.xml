@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_PONTOON_PENALTY</Type>
+			<Description>TXT_KEY_PROMOTION_NAVAL_PENALTY</Description>
+			<Help>TXT_KEY_PROMOTION_NAVAL_PENALTY</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PortraitIndex>57</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>NULL</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_NAVAL_PENALTY</PediaEntry>
+		</Row>
+		<Update>
+			<Where Type="PROMOTION_NAVAL_PENALTY"/>
+			<Set>
+				<PediaEntry>TXT_KEY_PROMOTION_NAVAL_PENALTY</PediaEntry>
+			</Set>
+		</Update>
+	</UnitPromotions>
+	<UnitPromotions_UnitCombatMods>
+		<Row>
+			<PromotionType>PROMOTION_PONTOON_PENALTY</PromotionType>
+			<UnitCombatType>UNITCOMBAT_NAVALRANGED</UnitCombatType>
+			<Modifier>-50</Modifier>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_PONTOON_PENALTY</PromotionType>
+			<UnitCombatType>UNITCOMBAT_NAVALMELEE</UnitCombatType>
+			<Modifier>-50</Modifier>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_PONTOON_PENALTY</PromotionType>
+			<UnitCombatType>UNITCOMBAT_SUBMARINE</UnitCombatType>
+			<Modifier>-50</Modifier>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_PONTOON_PENALTY</PromotionType>
+			<UnitCombatType>UNITCOMBAT_CARRIER</UnitCombatType>
+			<Modifier>-50</Modifier>
+		</Row>
+	</UnitPromotions_UnitCombatMods>
+</GameData>

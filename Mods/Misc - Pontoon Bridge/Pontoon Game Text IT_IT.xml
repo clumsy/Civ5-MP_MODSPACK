@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh-->
+<GameData>
+	<Language_IT_IT>
+		<Row Tag="TXT_KEY_IMPROVEMENT_PONTOON_BRIDGE_MOD">
+			<Text>Pontoon Bridge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_PONTOON_BRIDGE_MODE_HELP">
+			<Text>The Pontoon Bridge allows land units to cross a single coastal tile without embarking and may be used to form [ICON_CONNECTED] City Connections after the Wheel is researched. However, it provides no bonus tile yield and counts as a Road in terms of maintenance costs.[NEWLINE][NEWLINE]Requires at least two adjacent land tiles and may not be constructed adjacent to another Pontoon Bridge or on Resource Tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_PONTOON_BRIDGE_MOD_TEXT">
+			<Text>The Pontoon Bridge allows land units to cross a single coastal tile without embarking and may be used to form [ICON_CONNECTED] City Connections after the Wheel is researched. However, it provides no bonus tile yield and counts as a Road in terms of maintenance costs. Constructing a Pontoon Bridge requires at least two adjacent land tiles and the Pontoon Bridge may not be constructed adjacent to another Pontoon Bridge or on Resource Tiles.[NEWLINE][NEWLINE]A Pontoon Bridge is a bridge that floats on water and, in which, barge or boat-like pontoons support the bridge deck and its dynamic loads. While Pontoon Bridges are usually temporary structures, some are used for long periods of time. Permanent floating bridges are useful for sheltered water-crossings where it is not considered economically feasible to suspend a bridge from anchored piers. Such bridges can require a section that is elevated, or can be raised or removed, to allow ships to pass.[NEWLINE][NEWLINE]Pontoon Bridges have been in use since ancient times and are especially useful in wartime as river crossings. Such bridges are usually temporary and are sometimes destroyed after crossing, to keep the enemy from using them, or collapsed and carried if on a long march.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_PONTOON_BRIDGE_MOD">
+			<Text>Construct a [LINK=IMPROVEMENT_PONTOON_BRIDGE]Pontoon Bridge[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_PONTOON_BRIDGE_MOD_HELP">
+			<Text>Allows land units to cross a single coastal tile without embarking. May only be constructed in a coastal tile with 2 or more land tiles adjacent to it. May not be constructed adjacent to another Pontoon Bridge or on a Resource Tile.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_PONTOON_BRIDGE_MOD_REC">
+			<Text>It will allow land units to traverse this hex.</Text>
+		</Row>
+		<Update>
+			<Where Tag="TXT_KEY_UNIT_ROMAN_LEGION_STRATEGY"/>
+			<Set Text="The Legion is the Roman unique unit, replacing the Swordsman. The Legion is more powerful than the Swordsman, making it the most powerful melee unit of the Classical Era. The Legion can also construct Roads, Forts, and Pontoon Bridges and is the only non-Worker unit able to do so."/>
+		</Update>
+	</Language_IT_IT>
+</GameData>

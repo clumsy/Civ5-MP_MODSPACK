@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>PONTOON_MOD_ATLAS</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>PontoonModAtlas256.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>PONTOON_MOD_ATLAS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>PontoonModAtlas64.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>PONTOON_ACTION_MOD_ATLAS</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>PontoonActionMod45.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>PONTOON_ACTION_MOD_ATLAS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>PontoonActionMod64.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+	<ArtDefine_StrategicView>
+		<Row TileType="Improvement">
+			<StrategicViewType>ART_DEF_IMPROVEMENT_PONTOON_BRIDGE</StrategicViewType>
+			<Asset>sv_PontoonMod.dds</Asset>
+		</Row>
+	</ArtDefine_StrategicView>
+</GameData>

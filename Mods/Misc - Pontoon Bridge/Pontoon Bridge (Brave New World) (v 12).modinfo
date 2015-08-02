@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="f8a91551-3173-4d14-8ec9-0f6ec290b10c" version="12">
+  <Properties>
+    <Name>Pontoon Bridge (Brave New World)</Name>
+    <Teaser>Adds the Pontoon Bridge improvement to the standard game. Requires the Brave New World expansion.</Teaser>
+    <Description>The Pontoon Bridge allows land units to cross a single coastal tile without embarking and may be used to form (Road) City Connections. Land Units suffer a combat penalty versus Naval Units while on a Pontoon Bridge, and the Bridge has the same maintenance cost as Road tile.
+[NEWLINE]
+[NEWLINE]The improvement may be constructed by Work Boats after Mathematics is researched (consumes the unit), or by embarked Roman Legions (does not consume the unit). Requires at least two adjacent land tiles and may not be constructed adjacent to another Pontoon Bridge or on Resource Tiles.
+[NEWLINE]
+[NEWLINE]Note:
+[NEWLINE]-Requires the [b]Brave New World[/b] expansion.
+[NEWLINE]-The game won't load the Pontoon Bridge graphic unless there’s actual land for the bridge to connect to (if, for example, you built it on an empty coast), leaving invisible bridges. I’m working on a fix for this, but until then, the solution is to simply not build the improvement when it won’t connect to anything.
+[NEWLINE]
+[NEWLINE]Credits:
+[NEWLINE]Graphics taken from the Firaxis BNW Civil War Scenario.</Description>
+    <Authors>Tomatekh</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>12</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+    <Mod id="2a8162c9-57cb-4e92-a459-8722c2a3d7bf" minversion="0" maxversion="999" title="Norte Chico" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="46D683A0C33BEF0510FD0D18FD86F64C" import="1">Art/PontoonActionMod45.dds</File>
+    <File md5="3F1DFC946105CCD3E83D65FD8657C18D" import="1">Art/PontoonActionMod64.dds</File>
+    <File md5="9C0BC659625FCE954683A6C6983393F4" import="1">Art/PontoonModAtlas256.dds</File>
+    <File md5="F0EACD3C6C4AF5D531A63ADE506C8636" import="1">Art/PontoonModAtlas64.dds</File>
+    <File md5="8ACDE8B42BC6D3F40F896E53D7E5CA89" import="1">Art/sv_PontoonMod.dds</File>
+    <File md5="EA4DD5F257606E215C425904974CC2E7" import="0">Lua/Pontoon Bridge Lua.lua</File>
+    <File md5="E4F2D8884D7972949ED2AD6C1C89FB20" import="0">XML/Art/Pontoon Bridge Atlas Mod.xml</File>
+    <File md5="5868DE9AF7BA8BCF3F68CE4BD7036602" import="0">XML/Terrain/Pontoon Bridge Improvement Mod.xml</File>
+    <File md5="CBF26B24E12EC7E86E5D4E21CED2A22B" import="0">XML/Text/Non English XML Tags/Pontoon Game Text DE_DE.xml</File>
+    <File md5="DD16BFFE0BB727D49487757D285D10AB" import="0">XML/Text/Non English XML Tags/Pontoon Game Text ES_ES.xml</File>
+    <File md5="C080BEC7FBC9B5AE5B81F22B58A15BB9" import="0">XML/Text/Non English XML Tags/Pontoon Game Text FR_FR.xml</File>
+    <File md5="EBC9C94575BED544248EAF4C530AFB92" import="0">XML/Text/Non English XML Tags/Pontoon Game Text IT_IT.xml</File>
+    <File md5="4C8CA9454B025C418B87E317B5DD6114" import="0">XML/Text/Non English XML Tags/Pontoon Game Text JA_JP.xml</File>
+    <File md5="FAF72E153E90D0382FD8EA97278B8AF0" import="0">XML/Text/Non English XML Tags/Pontoon Game Text KO_KR.xml</File>
+    <File md5="90D09F945A80DA07A9C63CDB2345992A" import="0">XML/Text/Non English XML Tags/Pontoon Game Text PL_PL.xml</File>
+    <File md5="B90EE67C29DB9A16E13B9B7B2AFB49FF" import="0">XML/Text/Non English XML Tags/Pontoon Game Text RU_RU.xml</File>
+    <File md5="F06A686E8D967345DB47EA8BE5B8910C" import="0">XML/Text/Pontoon Bridge Text Mod.xml</File>
+    <File md5="AE757FE3895A92A733269929F5961DBC" import="0">XML/Units/Pontoon Bridge Promotions Mod.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Terrain/Pontoon Bridge Improvement Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Pontoon Bridge Text Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Art/Pontoon Bridge Atlas Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/Pontoon Bridge Promotions Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Pontoon Game Text DE_DE.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Pontoon Game Text ES_ES.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Pontoon Game Text FR_FR.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Pontoon Game Text IT_IT.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Pontoon Game Text JA_JP.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Pontoon Game Text KO_KR.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Pontoon Game Text PL_PL.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Pontoon Game Text RU_RU.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Pontoon Bridge Lua.lua">
+      <Name>Pontoon Bridge</Name>
+      <Description>City Connections</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>
