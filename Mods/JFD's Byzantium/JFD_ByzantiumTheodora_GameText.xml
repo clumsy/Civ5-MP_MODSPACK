@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/30/2015 10:03:44 AM -->
+<GameData>
+	<Language_en_US>
+		<!-- PATRIARCHATE OF CONSTANTINOPLE -->
+		<Delete Tag="TXT_KEY_TRAIT_EXTRA_BELIEF" />
+		<Row Tag="TXT_KEY_TRAIT_EXTRA_BELIEF">
+			<Text>Choose one more Belief than normal when you found a Religion. Receive a free Great Prophet at the discovery of Theology.</Text>
+		</Row>
+		<Delete Tag="TXT_KEY_CHOOSE_RELIGION_BYZANTINES_ONLY" />
+		<Row Tag="TXT_KEY_CHOOSE_RELIGION_BYZANTINES_ONLY">
+			<Text>Available to Theodora's Byzantines only.</Text>
+		</Row>
+		<!-- DROMON -->
+		<Row Tag="TXT_KEY_JFD_DROMON_HELP">
+			<Text>Dominant Ancient Era Naval Unit used to own the seas through the Classic Era with its ranged attack. Only Theodora's Byzantines may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_DROMON_STRATEGY">
+			<Text>Only Theodora's Byzantines may build this unit. Attacks with lethal Greek Fire, making it the first naval unit with a ranged attack. This unit fights at +50% strength against other naval units. It cannot enter Deep Ocean tiles outside of the city borders.</Text>
+		</Row>
+		<!-- STOUDION-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_STOUDION">
+			<Text>Stoudion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_STOUDION_HELP">
+			<Text>+25% [ICON_GREAT_PEOPLE] Great People generation in this City.[NEWLINE][NEWLINE]Missionaries purchased in this city begin with +1 [ICON_MOVES] Movement and have no Sight Penalty.[NEWLINE][NEWLINE]Does not require Fresh Water.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_STOUDION_STRATEGY">
+			<Text>The unique Stoudion is Theodora's Byzantium's replacement for the Garden, however, it does not require fresh water. Producing a small amount of [ICON_PEACE] Faith over the Garden, the Stoudion benefits your Missionaries by granting then an additional [ICON_MOVES] Movement and removing their Sight Penalty when they are born. Ensure that you build Stoudion's at your centres for religious propagation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_STOUDION_TEXT">
+			<Text>The Monastery of Stoudios, more fully Monastery of Saint John the Forerunner "at Stoudios", often shortened to Stoudios, Studion, or Stoudion, was historically the most important monastery of Constantinople (modern-day Istanbul), the capital of the Byzantine Empire. The residents of the monastery were referred to as Stoudites (or Studites). Although the monastery has been derelict for half a millennium, the laws and customs of the Stoudion were taken as models by the monks of Mount Athos and of many other monasteries of the Orthodox world; even today they have influence.</Text>
+		</Row>
+		<!-- SUKRITACT's DECISIONS -->
+		<!--Renovate the Capital-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_BYZANTIUM_RENOVATE_THE_CAPITAL">
+			<Text>Renovate the Capital</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_BYZANTIUM_RENOVATE_THE_CAPITAL_DESC">
+			<Text>
+				Our capital city has yet more potential to become the greatest city in the world. Let us transform our humble capital from its drab state into one of great splendour.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Byzantium (Theodora)
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Medieval Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]The Palace yields +15% [ICON_TOURISM] Tourism
+				[NEWLINE][ICON_BULLET]+2 [ICON_CULTURE] Culture from Stoudions
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_BYZANTIUM_RENOVATE_THE_CAPITAL_ENACTED_DESC">
+			<Text>
+				Our capital city has yet more potential to become the greatest city in the world. Let us transform our humble capital from its drab state into one of great splendour.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]The Palace yields +15% [ICON_TOURISM] Tourism
+				[NEWLINE][ICON_BULLET]+2 [ICON_CULTURE] Culture from Stoudions
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

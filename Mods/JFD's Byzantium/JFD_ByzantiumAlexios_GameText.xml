@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- BYZANTIUM (ALEXIOS)-->
+		<Row Tag="TXT_KEY_CIV_JFD_BYZANTIUM_ALEXIOS_ADJECTIVE">
+			<Text>Byzantine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_BYZANTIUM_ALEXIOS_DESC">
+			<Text>Byzantine Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_BYZANTIUM_ALEXIOS_SHORT_DESC">
+			<Text>Byzantium</Text>
+		</Row>
+		<!-- ALEXIOS -->
+		<Row Tag="TXT_KEY_LEADER_JFD_ALEXIOS">
+			<Text>Alexios I Komnenos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ALEXIOS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ALEXIOS_TEXT_1">
+			<Text>Alexios I Komnenos, Latinized as Alexius I Comnenus, was Byzantine emperor from 1081 to 1118. Although he was not the founder of the Komnenian dynasty, it was during his reign that the Komnenos family came to full power. Inheriting a collapsing empire and faced with constant warfare during his reign against both the Seljuq Turks in Asia Minor and the Normans in the western Balkans, Alexios was able to halt the Byzantine decline and begin the military, financial, and territorial recovery known as the Komnenian restoration. His appeals to Western Europe for help against the Turks were also the catalyst that likely contributed to the convoking of the Crusades.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ALEXIOS_HEADING_2">
+			<Text>Legacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ALEXIOS_TEXT_2">
+			<Text>Alexios I had overcome a dangerous crisis and stabilized the Byzantine Empire, inaugurating a century of imperial prosperity and success. He had also profoundly altered the nature of the Byzantine government. By seeking close alliances with powerful noble families, Alexios put an end to the tradition of imperial exclusivity and coopted most of the nobility into his extended family and, through it, his government. Those who did not become part of this extended family were deprived of power and prestige. This measure, which was intended to diminish opposition, was paralleled by the introduction of new courtly dignities, like that of panhypersebastos given to Nikephoros Bryennios, or that of sebastokrator given to the emperor's brother Isaac Komnenos. Although this policy met with initial success, it gradually undermined the relative effectiveness of imperial bureaucracy by placing family connections over merit. Alexios' policy of integration of the nobility bore the fruit of continuity: every Byzantine emperor who reigned after Alexios I Komnenos was related to him by either descent or marriage.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ALEXIOS_NAME">
+			<Text>Alexios I Komnenos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ALEXIOS_SUBTITLE">
+			<Text>Leader of Byzantium</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ALEXIOS_TITLES_1">
+			<Text>Emperor of Byzantium</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ALEXIOS_LIVED">
+			<Text>1056 - 1118 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_BYZANTIUM_ALEXIOS_TEXT">
+			<Text>Glory to the restorer of Rome, Alexios Komnenos, Emperor of Byzantium! Ascending to the throne of a dying empire, you were beset from all sides by war; facing constant threat from the east by the Turks and from the west by the Normans. However, it was with your adept skill as a military ruler that you were able to pull Byzantium from the brink of destruction, ushering in a restoration of the once fabled Eastern Rome. Under your appeal to the West, you then convoked what would come to be the Crusades, and initiated a centuries long campaign against the encroaching Muslim armies.[NEWLINE][NEWLINE]Great Restorer! Byzantium once more hinges upon the aptitude of your leadership and her faith depends upon your fortitude. Can you strengthen the bastions of her ancient cities and restore her armies to their former glory? Can you build a civilization to stand the test of time?</Text>
+		</Row>
+		<!-- KOMNENIAN RESTORATION -->
+		<Row Tag="TXT_KEY_TRAIT_JFD_BYZANTIUM_ALEXIOS_SHORT">
+			<Text>Komnenian Restoration</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_BYZANTIUM_ALEXIOS">
+			<Text>[ICON_GOLDEN_AGE] Golden Age at the outbreak of war; length is greater the larger the enemy. Garrisoned cities gain +100% [ICON_RANGE_STRENGTH] Ranged Strength during [ICON_GOLDEN_AGE] Golden Ages.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_JFD_BYZANTIUM_ALEXIOS_GOLDEN_AGE_ON">
+			<Text>Komnenian Restoration (On)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_JFD_BYZANTIUM_ALEXIOS_GOLDEN_AGE_OFF">
+			<Text>Komnenian Restoration (Off)</Text>
+		</Row>
+		<!-- LANTERNAS -->
+		<Row Tag="TXT_KEY_UNIT_JFD_LANTERNAS">
+			<Text>Lanternas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_JFD_LANTERNAS">
+			<Text>A fast Medieval Era Naval Unit, the Lanternas has a chance to withdraw when faced with a melee attack and heals 15 damage every turn during a [ICON_GOLDEN_AGE] Golden Age. Only Alexios I Komnenos' Byzantium can build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_LANTERNAS_STRATEGY">
+			<Text>Only Alexios I Komnenos' Byzantium can build the Lanternas, a unique Galleass. The Lanternas has a chance to withdraw from combat when faced with a melee attack. During [ICON_GOLDEN_AGE] Golden Ages, this unit heals 15 damage every turn, even when performing an action, making it most effective during long, drawn-out wars.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_LANTERNAS_TEXT">
+			<Text>The Lanternas was the premier version of the war galley, quipped with gun powder weapons. Being larger, heavier, more durable and better equipped than the traditional war galley, the Lanternas was used by naval commanders in the Mediterranean during the 15th century. Featuring multiple centreline guns and some flanking guns it can take on and destroy war galleys. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_LANTERNAS">
+			<Text>Naval Restoration</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_LANTERNAS_HELP">
+			<Text>Unit will [COLOR_POSITIVE_TEXT]Heal Every Turn[ENDCOLOR] if in a [ICON_GOLDEN_AGE] Golden Age, even when performing an action.</Text>
+		</Row>
+		<!-- CATAPHRACT -->
+		<Row Tag="TXT_KEY_JFD_CATAPHRACT_HELP">
+			<Text>Fast and powerful Mounted Unit. Weak to Spearmen. Only the Byzantines under Alexios I Komnenos may build it. This Unit has a higher [ICON_STRENGTH] Combat Strength, defends better, and attacks cities more effectively than the Knight which it replaces.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_CATAPHRACT_STRATEGY">
+			<Text>The Cataphract is a Byzantine unique unit, replacing the Horseman. Cataphracts are slower but more powerful than the Knight unit, making them one of the most dangerous cavalry units until the arrival of the Cavalry. They can move after attacking. They are able to gain defensive bonuses, unlike the Knight. Also their penalty for attacking cities is not as severe.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
