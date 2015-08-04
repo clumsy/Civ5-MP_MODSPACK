@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="0882e04f-7c26-4456-ad67-84d23801fb6d" version="1">
+  <Properties>
+    <Name>Burj Kalifa</Name>
+    <Description>This mod adds Burj Khalifa as a World Wonder. Requires Globalization, grants +1 [ICON_PRODUCTION] and  +3 [ICON_GOLD] on water tiles, and one Great Merchant in the city.[NEWLINE][NEWLINE]Although Dubai's economy was built on the oil industry, currently the emirate's model of business, similar to that of Western countries, drives its economy, with the effect that its main revenues are now from tourism, real estate, and financial services. The large scale real estate development projects have led to the construction of some of the tallest skyscrapers and largest projects in the world such as the Emirates Towers, the Burj Khalifa, the Palm Islands and the world's second tallest, and most expensive hotel, the Burj Al Arab. Burj Khalifa, known as Burj Dubai prior to its inauguration, is the tallest man-made structure ever built, at 828 m. The building officially opened on 4 January 2010, and is part of the new 2 square km flagship development called Downtown Dubai near Dubai's main business district.</Description>
+    <Authors>Lukasz 'asioasioasio' Mackowiak</Authors>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsMac>1</SupportsMac>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="7664A01980B001E6A5181DF232A79CB0">Art/BurjKhalifa128.dds</File>
+    <File md5="CA4DE486CF0C431A2BBBE9D46F0915FD">Art/BurjKhalifa256.dds</File>
+    <File md5="C719A5062B96447AEE8CFD1CD91B0605">Art/BurjKhalifa45.dds</File>
+    <File md5="9EF91856576082C2983CF91EF706D8D1">Art/BurjKhalifa64.dds</File>
+    <File md5="D1D56564B3F8884CA595C5E6398549E0">Art/BurjKhalifa80.dds</File>
+    <File md5="E9C590FBF5959B705BE017620503DE07">Art/WonderConceptBurjKhalifa.dds</File>
+    <File md5="5D822051A5AC401AB609DFFE1B7BE716">XML/BurjKhalifa_Atlas.xml</File>
+    <File md5="C95CB88D1F9884B9071E4E84568319B5">XML/BurjKhalifa_Settings.xml</File>
+    <File md5="384F7FEDD78ABA17608AF93841C3A53E">XML/BurjKhalifa_Text.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/BurjKhalifa_Atlas.xml</UpdateDatabase>
+      <UpdateDatabase>XML/BurjKhalifa_Settings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/BurjKhalifa_Text.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

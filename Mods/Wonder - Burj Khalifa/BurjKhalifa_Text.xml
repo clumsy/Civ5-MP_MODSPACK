@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/5/2010 1:21:34 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_WONDER_BURJ_KHALIFA_DESC">
+			<Text>Burj Khalifa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_BURJ_KHALIFA_PEDIA">
+			<Text>Although Dubai's economy was built on the oil industry, currently the emirate's model of business, similar to that of Western countries, drives its economy, with the effect that its main revenues are now from tourism, real estate, and financial services. The large scale real estate development projects have led to the construction of some of the tallest skyscrapers and largest projects in the world such as the Emirates Towers, the Burj Khalifa, the Palm Islands and the world's second tallest, and most expensive hotel, the Burj Al Arab. Burj Khalifa, known as Burj Dubai prior to its inauguration, is the tallest man-made structure ever built, at 828 m. The building officially opened on 4 January 2010, and is part of the new 2 square km flagship development called Downtown Dubai near Dubai's main business district.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_BURJ_KHALIFA_HELP">
+			<Text>The Burj Khalifa gives +1[ICON_PRODUCTION] and +3[ICON_GOLD] on water tiles and additionaly Great Merchant unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_BURJ_KHALIFA_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"There’s a sense of being on the tip of a needle in the middle of the sky."[NEWLINE][TAB][TAB] - Fred Marshall[NEWLINE][TAB]</Text>
+		</Row>
+	</Language_en_US>
+	<Language_PL_PL>
+		<Row Tag="TXT_KEY_WONDER_BURJ_KHALIFA_DESC">
+			<Text>Burdż Chalifa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_BURJ_KHALIFA_PEDIA">
+			<Text>Decyzja rządu Zjednoczonych Emiratów Arabskich o przejściu z gospodarki uzależnionej dochodowo od wydobycia ropy na nastawioną na usługi i turystykę uczyniła nieruchomości bardziej wartościowymi i skutkowała boomem budowlanym w latach 2004-2006. Budowy na dużą skalę uczyniły z Dubaju jedno z najszybciej rozrastających się miast, porównywalne jedynie z największymi miastami Chin. Boom budowlany zaowocował powstaniem projektów na wodzie Palm Islands, The World oraz na lądzie Dubai Marina, Burdż Chalifa, Business Bay i Dubailand. Budowa Burdż Chalifa, znanego przed otwarciem jako Burdż Dubaj, rozpoczęta została 21 września 2004 a zakończyła się 16 sierpnia 2009 roku. Emaar Properties oddało do użytku budynek, który z wysokością 850 m pobił już wszystkie rekordy wysokości i jest najwyższą konstrukcją wybudowaną przez człowieka. Budynek posiada 169 pięter użytkowych, przy czym całkowita liczba kondygnacji wynosi 206. Oficjalne otwarcie budynku nastąpiło 4 stycznia 2010 roku.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_BURJ_KHALIFA_HELP">
+			<Text>Burdż Chalifa daje +1 [ICON_PRODUCTION] i +1 [ICON_GOLD] na polach morskich i dodatkowo Wielkiego Kupca.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_BURJ_KHALIFA_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Ma się wrażenie bycia na czubku igły w samym środku nieba"[NEWLINE][TAB][TAB] - Fred Marshall[NEWLINE][TAB]</Text>
+		</Row>		
+	</Language_PL_PL>
+</GameData>

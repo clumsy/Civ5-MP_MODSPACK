@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/5/2010 1:12:58 PM -->
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>BW_ATLAS_BURJ_KHALIFA</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>BurjKhalifa256.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BW_ATLAS_BURJ_KHALIFA</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>BurjKhalifa128.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BW_ATLAS_BURJ_KHALIFA</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>BurjKhalifa64.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BW_ATLAS_BURJ_KHALIFA</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>BurjKhalifa80.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BW_ATLAS_BURJ_KHALIFA</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>BurjKhalifa45.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>  
+</GameData>
