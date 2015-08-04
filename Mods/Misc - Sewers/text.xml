@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/6/2014 3:01:42 PM -->
+<GameData>
+  <!-- TODO: Insert table creation example here. -->
+ 
+  <!-- TODO: Insert table data example here.-->
+  
+  <!-- Enter your Game Data here. -->
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_SEWERAGE_DESC">
+			<Text>Sewers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SEWERAGE_HELP">
+			<Text>Building sewers carries over +10% [ICON_FOOD] food when a new [ICON_CITIZEN] citizen is born (effect stacks with Aqueduct) adds +2 [ICON_HAPPINESS_1] happiness to a city.[NEWLINE]Needs an Aqueduct in the city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SEWERAGE_STRATEGY">
+			<Text>In order to accelerate the growth of cities the construction of sewers is appropriate.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_SEWERAGE_PEDIA">
+			<Text>A sanitary sewer is an underground carriage system specifically for transporting sewage from houses and commercial buildings through pipes to treatment or disposal.[NEWLINE]Animal feces were plentiful on city streets while animal-powered transport moved people and goods. Accumulations of animal feces encouraged dumping chamber pots into streets where night soil collection was impractical. The earliest sewers were designed to carry street runoff away from inhabited areas and into surface waterways without treatment. Indoor plumbing was often drained to combined sewers through the 19th century. Sewage treatment facilities built for combined sewers become ineffective during periods of precipitation or snowmelt. Cities were built with sanitary sewers operated separately and independently of storm drains carrying the runoff of rain after wagons and carriages powered by internal combustion engines reduced the advantages of treating street runoff; but many cities built prior to the twentieth century have not replaced combined sewer infrastructure.[</Text>
+		</Row>
+	</Language_en_US>
+
+	<Language_de_DE>
+		<Row Tag="TXT_KEY_BUILDING_SEWERAGE_DESC">
+			<Text>Kanalisation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SEWERAGE_HELP">
+			<Text>Beim Bau einer Kanalisation bleibt 10% [ICON_FOOD] Nahrung erhalten, wenn ein neuer [ICON_CITIZEN] Bürger geboren wird (Wirkung kumulativ mit Aquädukt) und führt zu +2 [ICON_HAPPINESS_1] Zufriedenheit.[NEWLINE]Benötigt ein Aquädukt in der Stadt.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SEWERAGE_STRATEGY">
+			<Text>Um das Wachstum von Städten zu beschleunigen eignet sich der Bau einer Kanalisation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_SEWERAGE_PEDIA">
+			<Text>Eine Kanalisation ist eine Anlage zur Sammlung und Ableitung von Schmutzwasser, Regen- und Schmelzwasser durch unterirdische Kanäle. Mit der Bildung von zusammenhängenden Siedlungen entstanden Probleme durch Abfälle, Abwässer und Überflutungen.[NEWLINE][NEWLINE]Die zunächst einfache Entsorgung war ein Hauptgrund für die Entstehung von Siedlungen an Bächen und Flüssen; dadurch konnte die natürliche Vorflut zur Ableitung genutzt werden. Bereits im Altertum befasste man sich mit dem Problem der Abwasserbeseitigung und baute Entwässerungsleitungen in Städten. So entdeckten Archäologen in Mohenjo-Daro, nahe dem Fluss Indus in Pakistan, ein 4000 Jahre altes gemauertes Entwässerungssystem. Es wird zu den ältesten Kanalisationen der Welt gezählt. Noch heute können die aus Ziegeln gemauerten Hausanschlüsse und Kanäle besichtigt werden, welche das Abwasser ableiteten. Entwässerungskanäle lassen sich aber auch schon um 3000 v. Chr. im Euphrattal nachweisen. Zu Zeiten der Römer wurden Schwemmkanalisationen verwendet; meistens handelte es sich dabei allerdings um offene Gerinne, wegen des hohen Bauaufwandes waren Abwasserrohre selten. Die bekannteste römische Kanalisation ist die Cloaca Maxima in Rom. Der Rest einer unterirdischen, römischen Abwasserkanalisation ist in der Kölner Altstadt noch heute begehbar.[NEWLINE]Im frühen europäischen Mittelalter ging das Wissen um die hygienische Bedeutung einer geordneten Abwasserentsorgung weitgehend verloren, weshalb es infolge einer wachsenden Bevölkerung über Jahrhunderte hinweg zu verheerenden Pest- und Choleraepidemien kam. Erst in der Neuzeit wurde in den aufgrund der Industrialisierung stark gewachsenen Städten eine geordnete Abwasserentsorgung installiert. Im Jahre 1739 war Wien als erste Stadt Europas vollständig kanalisiert. Ab 1842 wurde in London mit dem Bau des Kanalisationssystems begonnen. Das erste moderne Kanalisationssystem auf dem europäischen Festland entstand ab 1856 in Hamburg nach dem Großen Brand von 1842.</Text>
+		</Row>
+	</Language_de_DE>
+
+</GameData>

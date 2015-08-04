@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="ac465578-b49f-47e4-95ac-ddd17bbbb185" version="3">
+  <Properties>
+    <Name>Sewers</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Sewers keeps food and adds happiness to a city</Teaser>
+    <Description>Big cities in the industrial era were in need of sewers to avoid epidemics and to increase living standard.
+
+Building sewers carries over +10% food when a new citizen is born (effect stacks with Aqueduct) adds +2 happiness to a city.
+Gold maintenance is 2.
+
+Prerequisites:
+Building - Aqueduct
+Tech - Scientific Theory
+
+English and German language available.
+
+Tested with BNW only.</Description>
+    <Authors>Paradroid</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="A757474C4130E75D114885B77E1D1002" import="1">art/IconAtlas128.dds</File>
+    <File md5="5772F66486759FC4CFD7F8558F1FE351" import="1">art/IconAtlas256.dds</File>
+    <File md5="BA97C9740D5C214E32304E78B8FBE046" import="1">art/IconAtlas45.dds</File>
+    <File md5="E821F64D4F0504BE736F177249AD0A70" import="1">art/IconAtlas64.dds</File>
+    <File md5="3A8AF00763AEE19D7D7D93DF66760551" import="1">art/IconAtlas80.dds</File>
+    <File md5="9C45BCEFEAD8EFB7CA042325F2B90322" import="0">xml/building.xml</File>
+    <File md5="CAF1F4BCDE73437C9AB2173D70F5205B" import="0">xml/IconTextureAtlas.xml</File>
+    <File md5="AF578F10DDC8814DE991A847AB0FA95B" import="0">xml/text.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>xml/building.xml</UpdateDatabase>
+      <UpdateDatabase>xml/IconTextureAtlas.xml</UpdateDatabase>
+      <UpdateDatabase>xml/text.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

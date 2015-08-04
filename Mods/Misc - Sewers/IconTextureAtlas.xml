@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/6/2014 3:02:02 PM -->
+<GameData>
+  <!-- TODO: Insert table creation example here. -->
+ 
+  <!-- TODO: Insert table data example here.-->
+  
+  <!-- Enter your Game Data here. -->
+
+
+	<IconTextureAtlases>
+		<!--============   ATLAS 1   ====================================================================================-->
+		<Row>
+			<Atlas>ATLAS_PARADROID</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>IconAtlas256.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ATLAS_PARADROID</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>IconAtlas128.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ATLAS_PARADROID</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>IconAtlas80.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ATLAS_PARADROID</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>IconAtlas64.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ATLAS_PARADROID</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>IconAtlas45.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ATLAS_PARADROID</Atlas>
+			<IconSize>32</IconSize>
+			<Filename>IconAtlas32.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+	
+	
+</GameData>
