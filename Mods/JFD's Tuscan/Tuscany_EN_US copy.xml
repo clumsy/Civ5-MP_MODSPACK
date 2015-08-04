@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- The Pazzi Conspiracy -->
+		<Row Tag="TXT_KEY_EVENT_TUSCANYPAZZICONSPIRACY">
+			<Text>The Pazzi Conspiracy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TUSCANYPAZZICONSPIRACY_DESC">
+			<Text>As part of a plot to overthrow the Medici from power, the Pazzi family attempted to assassinate Lorezo and Giuliano de' Medici during High Mass at the Duomo before a crowd of 10,000. While Giuliano was killed, Lorenzo managed to escape with serious, but non life-threatening wounds. The enraged crowd of Florentines turned upon the conspirators, killing them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TUSCANYPAZZICONSPIRACY_OUTCOME_1">
+			<Text>The people must be thanked for their loyalty.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TUSCANYPAZZICONSPIRACY_OUTCOME_2">
+			<Text>I must hire more guards.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TUSCANYPAZZICONSPIRACY_OUTCOME_3">
+			<Text>This matter must be properly investigated.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TUSCANYPAZZICONSPIRACY_OUTCOME_1_DESC">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]"We Love the King Day" in all cities[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TUSCANYPAZZICONSPIRACY_OUTCOME_2_DESC">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain 2 free Condottieri[NEWLINE][ICON_BULLET]Gain 2 free Landsknechts[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TUSCANYPAZZICONSPIRACY_OUTCOME_3_DESC">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]A Constabulary is built in the Capital[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TUSCANYPAZZICONSPIRACY_OUTCOME_1_NOTIFICATION">
+			<Text>The people have been thanked for their loyalty to the Medici family after a failed assassination attempt.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TUSCANYPAZZICONSPIRACY_OUTCOME_2_NOTIFICATION">
+			<Text>Additional guards have been hired after a failed assassination attempt.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TUSCANYPAZZICONSPIRACY_OUTCOME_3_NOTIFICATION">
+			<Text>An investigation of the Pazzi family and others involved in the conspiracy to overthrow the Medici has been launched after a failed assassination attempt.</Text>
+		</Row>
+		<!-- Patrons of the Renaissance -->
+		<Row Tag="TXT_KEY_EVENT_ITALIANSTATESPATRONAGE">
+			<Text>Patrons of the Renaissance</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_ITALIANSTATESPATRONAGE_DESC">
+			<Text>We stand at the dawn of a new Golden Age; a reinvigoration of philosophy and art. Many of the wealthier nobles and merchants are already supporting the promising artists of this new era. Should we not follow their example pledge to support our people in their cultural endeavours?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_ITALIANSTATESPATRONAGE_OUTCOME_1">
+			<Text>Our finances must be properly managed; we cannot spend so frivolously.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_ITALIANSTATESPATRONAGE_OUTCOME_2">
+			<Text>I pledge my support! Let the Arts flourish!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_ITALIANSTATESPATRONAGE_OUTCOME_1_DESC">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]A [ICON_GOLDEN_AGE] Golden Age begins[NEWLINE][ICON_BULLET]Gain {1_Num} [ICON_GOLD] Gold[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_ITALIANSTATESPATRONAGE_OUTCOME_2_DESC">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLD] Gold[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]A [ICON_GOLDEN_AGE] Golden Age begins[NEWLINE][ICON_BULLET]Gain a permanent 10% increase in Great Writer, Artist, and Musician generation.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_ITALIANSTATESPATRONAGE_OUTCOME_1_NOTIFICATION">
+			<Text>{1_Civ} watches idly as a Golden Age dawns.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_ITALIANSTATESPATRONAGE_OUTCOME_2_NOTIFICATION">
+			<Text>{1_Civ} pledges to support her artists as a Golden Age dawns.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

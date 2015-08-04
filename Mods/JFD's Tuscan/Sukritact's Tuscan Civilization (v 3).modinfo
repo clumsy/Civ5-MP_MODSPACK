@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="b8bba8fe-c7b7-4fe1-9e21-950fd6180e98" version="3">
+  <Properties>
+    <Name>Sukritact's Tuscan Civilization</Name>
+    <Teaser>Tuscany: Cradle of the Renaissance</Teaser>
+    <Description>Today a region in modern Italy, Tuscany is known for its landscapes, traditions, history, artistic legacy and its permanent influence on high culture. It is regarded as the birthplace of the Renaissance, reaching its hieght under the rule of Lorenzo de' Medici, and has been home to many figures influential in the history of art and science. Tuscan culture soon became the model for all the states of Northern Italy, and the Tuscan variety of Italian came to predominate throughout the region, especially in literature.</Description>
+    <Authors>Sukritact, Leugi, Chris Sifniotis, Pouakai</Authors>
+    <SpecialThanks>JFD, Rual, Paradox Interactive, Charlatan Alley, KyteM</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="43868e8d-de88-48a1-a8d9-ce144e07f5e0" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety &amp; Prestige" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="14651FE7BB17B534EBD178813022668A" import="1">Art/Scenes/TuscanSantaMaria_Splash.dds</File>
+    <File md5="643813FABF53EB1B92C2823BCAE64F7F" import="0">Art/Tuscany_ArtDefines.sql</File>
+    <File md5="A46A2E14AAAF718620F638A287A98997" import="1">Art/Atlases/TuscanyAlpha_128.dds</File>
+    <File md5="E704B5C2A4F2B58D11D050BF445A29B3" import="1">Art/Atlases/TuscanyAlpha_16.dds</File>
+    <File md5="A553808B7DBE68731E412F39CF60044D" import="1">Art/Atlases/TuscanyAlpha_24.dds</File>
+    <File md5="D3B5171CDA085C0A23E1F4803CE647C2" import="1">Art/Atlases/TuscanyAlpha_32.dds</File>
+    <File md5="739F5351554FC8EB0702BCB479EAB891" import="1">Art/Atlases/TuscanyAlpha_48.dds</File>
+    <File md5="133A19D723BBDD66CF9EE029A5FACAA5" import="1">Art/Atlases/TuscanyAlpha_64.dds</File>
+    <File md5="D5DB7FFFC26ED60F4AB26EF7A53E3FE9" import="1">Art/Atlases/Tuscany_128.dds</File>
+    <File md5="52D9F4825DAD1DD65DD396F711153B53" import="1">Art/Atlases/Tuscany_256.dds</File>
+    <File md5="71FAB73E3301CF81B45042640DEB3E77" import="1">Art/Atlases/Tuscany_32.dds</File>
+    <File md5="C9481041D5B3758399126EFB153E1BEE" import="1">Art/Atlases/Tuscany_45.dds</File>
+    <File md5="76EC7D9590AD684697DE8BAA5AD2C501" import="1">Art/Atlases/Tuscany_48.dds</File>
+    <File md5="BCAE62C14059BE5E66572FA19E33F2C3" import="1">Art/Atlases/Tuscany_64.dds</File>
+    <File md5="4BCC8799A84A932E9E80DCC6C24A75E0" import="1">Art/Atlases/Tuscany_80.dds</File>
+    <File md5="A2EA3D54D831B9779EC517D2BB1C900A" import="0">Art/Audio/Tuscany_Audio.sql</File>
+    <File md5="9DA4D74C66F516EE443BCD86E1B7F9B6" import="1">Art/Audio/Tuscany_Peace.mp3</File>
+    <File md5="FE4F0C5EAEEEB04D826F4EBD99C7B5A4" import="1">Art/Audio/Tuscany_War.mp3</File>
+    <File md5="ECF9BD6209193A68C68490772D06FCB3" import="1">Art/Audio/Tuscany_DoM.mp3</File>
+    <File md5="E39710E05EBD63E40D7B999FE214A568" import="0">Art/Scenes/Alternate/Lorenzo_Screen.dds</File>
+    <File md5="3ED5254F378CA8BCC34C2982137371BA" import="0">Art/Scenes/Alternate/Tuscany_DOM.dds</File>
+    <File md5="4998E237D32CC51572CA28AB7CAF7881" import="1">Art/Scenes/Tuscany_DOM.dds</File>
+    <File md5="BB058DC8E7B09D033483C9E615260787" import="1">Art/Scenes/Lorenzo_Screen.dds</File>
+    <File md5="4D8A619027E8392680E42FD3C2D58E11" import="1">Art/Scenes/TuscanyMap512.dds</File>
+    <File md5="A10639439F995CB6C1220FCB30DAA62D" import="1">Art/Tuscany_Leaderhead.xml</File>
+    <File md5="7E66654DB3B64A8EEB87782D228620A3" import="1">Art/Units/condottiere.fxsxml</File>
+    <File md5="2BF9DA3CF8B82C472D7F59FC7CF3DE82" import="1">Art/Units/Condottiere.gr2</File>
+    <File md5="2F262269AEBFDDF47365FF9A758C99B6" import="1">Art/Units/CondottiereFlag.dds</File>
+    <File md5="32A429099E1090F65DC8CB81EC6431ED" import="1">Art/Units/condottiere_diff.dds</File>
+    <File md5="A2FC7D39829D0C2C95A989245E51BEF5" import="1">Art/Units/condottiere_sref.dds</File>
+    <File md5="FA3EC147B5FB7FDECF6B4CA03E731031" import="1">Art/Units/sv_Condottiere.dds</File>
+    <File md5="30C23D7211784908C5BA33A78955A6E3" import="1">Core/Decisions Support/Tuscany_Decisions.lua</File>
+    <File md5="B701C317CCFE6CDBE9121A14E27D0D2B" import="0">Core/Decisions Support/Tuscany_Decisions.sql</File>
+    <File md5="1A280C6689AF56E529D810E17975CED1" import="0">Core/Decisions Support/Tuscany_EN_US.xml</File>
+    <File md5="5CD96CFC921D188F40529D389480D34F" import="0">Core/Events Support/Tuscany_Events.sql</File>
+    <File md5="8C4CCED5CA5920848D9D82E8DDA7EAD7" import="0">Core/Events Support/Tuscany_EN_US.xml</File>
+    <File md5="5F763B60C160AD7A0FE907807B669457" import="1">Core/Events Support/Tuscany_Events.lua</File>
+    <File md5="C63E9715B00111D5E9D7F91D108D507E" import="0">Core/Map Labels Support/Tuscany_MapLabels.sql</File>
+    <File md5="9EF62F08B243646DF2570BB4FFDB883C" import="0">Core/Lua/BuildingYieldFromGreatWorksInCity.lua</File>
+    <File md5="8A5FC22EB73A2C2106DE16D1A3E98AF2" import="1">Core/Lua/Sukritact_SaveUtils.lua</File>
+    <File md5="8416CC003D97EBA796C55CC915535070" import="0">Core/Lua/Tuscany_CoreFunctions.lua</File>
+    <File md5="0C3C8A059B5A0ACFA40C02C3926DCB18" import="0">Core/Piety and Prestige Support/Tuscany_Flavor.sql</File>
+    <File md5="B599FB81F39B2FC9D60EF44A5507EC6C" import="0">Core/Tuscany_Buildings.sql</File>
+    <File md5="64018BE532CD230F8CE2DA6974225A31" import="0">Core/Tuscany_Civilizations.sql</File>
+    <File md5="427ACF3206CDEE694C2DC53AC215F717" import="0">Core/Tuscany_Diplomacy.sql</File>
+    <File md5="020D07291C5C60DF692C07E8FD2ABB44" import="0">Core/Tuscany_EN_US.xml</File>
+    <File md5="6269001C1C4AC36F1C2753F838C57559" import="0">Core/Tuscany_ES_ES.xml</File>
+    <File md5="970DE123850AE8E5FA5417E66A1982C2" import="0">Core/Tuscany_Leaderhead.sql</File>
+    <File md5="E0DD1F71B97B5DA39FB80E4E7B87F226" import="0">Core/Tuscany_MinorCivilizations.sql</File>
+    <File md5="2E02690236FE48C8DB10BD53AA7120F4" import="0">Core/Tuscany_PlayerColours.sql</File>
+    <File md5="AF460B9299F7661D8BFBD3B31BF504D3" import="0">Core/Tuscany_Promotions.sql</File>
+    <File md5="0E0508445BDF5172BB98CBCEBEC86740" import="0">Core/Tuscany_Traits.sql</File>
+    <File md5="CE2525A18C161358F26E79FD2A05A3ED" import="0">Core/Tuscany_Units.sql</File>
+    <File md5="DC241375F8BF61E97243F18FCD745476" import="0">Core/YnAEMP Support/Tuscany_TSL.sql</File>
+    <File md5="5C5F64ABCD28A9D4BF7182B409744E8F" import="0">Tuscany_Settings.SQL</File>
+    <File md5="4486E05E92C6A1829D1BD4FC8EAB80DE" import="1">UI/CultureOverview.lua</File>
+    <File md5="BF85D174CA9D4F2EC2AD7E3FBB6C0D6D" import="1">UI/CultureOverview.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Tuscany_Settings.SQL</UpdateDatabase>
+      <UpdateDatabase>Art/Audio/Tuscany_Audio.sql</UpdateDatabase>
+      <UpdateDatabase>Art/Tuscany_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Tuscany_Buildings.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Tuscany_Civilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Tuscany_Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Tuscany_EN_US.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Tuscany_ES_ES.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Tuscany_Leaderhead.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Tuscany_MinorCivilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Tuscany_PlayerColours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Tuscany_Promotions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Tuscany_Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Tuscany_Units.sql</UpdateDatabase>
+      <UpdateDatabase>Core/YnAEMP Support/Tuscany_TSL.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Decisions Support/Tuscany_Decisions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Decisions Support/Tuscany_EN_US.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Map Labels Support/Tuscany_MapLabels.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Events Support/Tuscany_EN_US.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Events Support/Tuscany_Events.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Piety and Prestige Support/Tuscany_Flavor.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Core/Lua/Tuscany_CoreFunctions.lua">
+      <Name>Tuscany_CoreFunctions</Name>
+      <Description>Tuscany_CoreFunctions</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Core/Lua/BuildingYieldFromGreatWorksInCity.lua">
+      <Name>BuildingYieldFromGreatWorksInCity</Name>
+      <Description>BuildingYieldFromGreatWorksInCity</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

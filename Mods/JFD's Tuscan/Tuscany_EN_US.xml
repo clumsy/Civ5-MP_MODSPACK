@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_DECISIONS_TUSCANSANTAMARIA">
+			<Text>Commission Designs for the Grand Duomo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TUSCANSANTAMARIA_DESC">
+			<Text>
+				For decades, the Santa Maria del Fiore has remained unfinished. Now it approaches completion; all that remains is the erection of the central dome, one that will be grander and larger than any other ever built. Thus we will need the aid of Tuscany's greatest architects and engineers; we shall hold a contest that they might submit to us their most brilliant ideas and aid in the construction of this Grand Duomo.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Tuscany
+				[NEWLINE][ICON_BULLET]May only be enacted during a [ICON_GOLDEN_AGE] Golden Age
+				[NEWLINE][ICON_BULLET]May only be enacted in the Medieval or Renaissance Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]3 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]The Santa Maria del Fiore is built in the Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TUSCANSANTAMARIA_ENACTED_DESC">
+			<Text>
+				For decades, the Santa Maria del Fiore has remained unfinished. Now it approaches completion; all that remains is the erection of the central dome, one that will be grander and larger than any other ever built. Thus we will need the aid of Tuscany's greatest architects and engineers; we shall hold a contest that they might submit to us their most brilliant ideas and aid in the construction of this Grand Duomo.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]The Santa Maria del Fiore is built in the Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TUSCANSANTAMARIA_DESC">
+			<Text>Santa Maria del Fiore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TUSCANSANTAMARIA_HELP">
+			<Text>Contains 4 slots for Great Works of Art. Great Works in this city produce +2 [ICON_CULTURE] Culture[NEWLINE][NEWLINE]May only be acquired by Tuscany through the "Become Patron of the Arts" decision.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TUSCANSANTAMARIA_PEDIA">
+			<Text>
+				The Basilica di Santa Maria del Fiore (English: Basilica of Saint Mary of the Flower) is the main church of Florence, Italy. Il Duomo di Firenze, as it is ordinarily called, was begun in 1296 in the Gothic style to the design of Arnolfo di Cambio and completed structurally in 1436 with the dome engineered by Filippo Brunelleschi. The exterior of the basilica is faced with polychrome marble panels in various shades of green and pink bordered by white and has an elaborate 19th-century Gothic Revival façade by Emilio De Fabris.
+				[NEWLINE][NEWLINE]The cathedral complex, located in Piazza del Duomo, includes the Baptistery and Giotto's Campanile. The three buildings are part of the UNESCO World Heritage Site covering the historic centre of Florence and are a major attraction to tourists visiting the region of Tuscany. The basilica is one of Italy's largest churches, and until development of new structural materials in the modern era, the dome was the largest in the world. It remains the largest brick dome ever constructed.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_TUSCANSANTAMARIA_QUOTE">
+			<Text>[NEWLINE]"How beautiful is youth, that is always slipping away! Whoever wants to be happy, let him be so: of tomorrow there's no knowing." [NEWLINE]- Lorenzo de' Medici[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TUSCANSANTAMARIA_THEMING_BONUS_HELP">
+			<Text>To maximize your bonus, make sure the Great Work Slots are all filled with Great Works of Art or Artifacts from the city owner.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_TUSCANSANTAMARIA">
+			<Text>Il Duomo di Firenze</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TUSCANBANK">
+			<Text>Found the Medici Bank</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TUSCANBANK_DESC">
+			<Text>
+				Created by the Medici family in 1397; the Medici Bank was the largest and most respected bank in Europe during its prime, and is notable for introducing the double entry system of tracking debits and credits or deposits and withdrawals.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Tuscany
+				[NEWLINE][ICON_BULLET]May only be enacted in the Medieval or Renaissance Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Great Works in the Capital produce +2 [ICON_GOLD] Gold
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TUSCANBANK_ENACTED_DESC">
+			<Text>
+				Created by the Medici family in 1397; the Medici Bank was the largest and most respected bank in Europe during its prime, and is notable for introducing the double entry system of tracking debits and credits or deposits and withdrawals.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Great Works in the Capital produce +2 [ICON_GOLD] Gold
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

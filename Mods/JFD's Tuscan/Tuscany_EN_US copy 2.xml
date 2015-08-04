@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!----------------------------------------------------------------
+						Tuscany
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_TUSCANY_DESC">
+			<Text>Tuscan Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TUSCANY_SHORT_DESC">
+			<Text>Tuscany</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TUSCANY_ADJECTIVE">
+			<Text>Tuscan</Text>
+		</Row>
+		<!--Civilopedias-->
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TUSCANY_TITLE">
+			<Text>Tuscany</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TUSCANY_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TUSCANY_TEXT_1">
+			<Text>The history of Tuscany goes far back into prehistory to the Etruscans, before the establishment of the Roman Republic. Over the course of the region's history Tuscany would influence and become influenced by Roman imperialism, the beauty of the Renaissance, independent rule, the far reach of Napoleon; eventually becoming part of the Italian Republic in the nineteenth century.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TUSCANY_HEADING_2">
+			<Text>Climate and Terrain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TUSCANY_TEXT_2">
+			<Text>Nestled along side the Tyrrhenian Sea Tuscany today is a small coastal region of Italy, bordered by the sea and the mountains. Two thirds of Tuscany is hilly and a further quarter mountainous while much of the plains sits next to the River Arno. The climate is mild along the coast while more prone to rain in the mountainous interior, the weather made the soil particularly fertile in the ancient era as the region had served as a key breadbasket of ancient Rome.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TUSCANY_HEADING_3">
+			<Text>Before Rome</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TUSCANY_TEXT_3">
+			<Text>The prehistory of the region tends to parallel the ancient Greeks, particularly the late Bronze and early Iron Ages. The Apennine culture in the second millennium BC first tended to Tuscany, trading with the Minoans and Mycenaeans. They were alpine cattle herdsmen over the groves of central Italy, living in hamlets in defensible places. After them were the Villanovan culture were challenged with competing against Greek settlers and traders in the south of Italy and their 'orientalization'. By c. 700 BC the Villanovan culture saw Tuscany descend into chiefdoms and city-states. From this the Etruscans rose, they were the first major civilization in the region, employing infrastructure, agriculture and mining and produced artworks. Etruria expanded between the Arno and Tiber rivers and reaching their peak by the seventh and sixth centuries BC. By the first century BC the Etruscans fell to the emerging Romans, one reason for their fall was the surrounding city-states and cultures absorbed into Rome, including the Etruscan upper class.[NEWLINE][NEWLINE]Rome would come to rule over Tuscany and all of Italy and indeed all of known Europe for a millennium, for a more detailed view of Rome's dominance see their Civilopedia entry. The Western Roman empire fell to the Goths by the fifth century, the next century the Lombards arrived and established Lucca as the capital of the Duchy of Tuscia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TUSCANY_HEADING_4">
+			<Text>Takeovers and City-States</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TUSCANY_TEXT_4">
+			<Text>As a whole the Kingdom of the Lombards expanded to almost the entirety of Italy, splitting the kingdom into two major divisions; Langobardia Major and Langobardia Minor - the Duchy of Tuscia falls into the former. Little is known about the duchy specifically, the kingdom however instigated an initial autonomy from the duchies, eventually though this developed into an even greater authority to the sovereign, even if the dukes' motive for autonomy was never completely harnessed, and the Lombard character gradually evolved into the medieval Kingdom of Italy. The kingdom fell to Charlemagne and the Franks during the eighth century reforming the duchy into first a county, and then the March of Tuscany by 846. For the most part the march became instrumental for a candidate to ascend to become King of Italy. Matilda of Canossa is the most famous of the margraves, Tuscany was her greatest possession handed to her by her father Boniface III. She wielded it to the benefit of the Papacy in the Investiture Controversy, by her death in 1115 Tuscany rebelled and as a result split into separate city-states, the most notable being Lucca, Arezzo, Florence, Siena and Pisa.[NEWLINE][NEWLINE]Before the rebellion the Republic of Pisa was the more powerful state creating a trade and colonial empire in the Mediterranean and playing an important role in the Crusades; Pisa was in continuous conflict with the Saracens due to Saracen bases in Corsica. In 1017 the Sardinian Giudicati, in an alliance with Pisa and Genoa, plotted to defeat the Saracen king Mugahid in his base in northern Sardinia. The resulting defeat gave Pisa supremacy of the Tyrrhenian Sea. Banking became the main resource for Florence, Siena and Lucca, the city-state's branches appeared in Flanders, France and England. Pisa declined after the Battle of Meloria and by the early fifteenth century the Republic of Florence reached prominence over Tuscany and Italy as a whole as a cultural hub during the Renaissance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TUSCANY_HEADING_5">
+			<Text>Florentine Renaissance</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TUSCANY_TEXT_5">
+			<Text>While 'Tuscany' remained a cultural and geographic conception and not a political state outright, Florence extended dominion in Tuscany through the annexation of Arezzo in 1384, the purchase of Pisa in 1405 and suppressing resistance there the following year, and the purchase of Livorno in 1421. From 1434 to 1492 Florence was ruled by the Medici family, they are credited with propelling the republic to the Florentine Renaissance.[NEWLINE][NEWLINE]Florentine humanist Niccolò Niccoli started this by appointing Manuel Chrysoloras, the founder of Hellenic studies in Italy at the University of Florence in 1397. Niccoli was a keen collector of ancient manuscripts, upon his death in 1437 he bequeathed them to Cosimo de' Medici, the reigning monarch at the time. Gian Francesco Poggio Bracciolini succeeded Niccoli as the principal humanist of Florence, he toured Europe in search of more Greco-Roman manuscripts. Just before Bracciolini's death he was made Chancellor of Florence by Cosimo. Florence also played host to the Great Ecumenical Council in 1439; the council was convened in an attempt to reconcile the Byzantine Orthodoxy with Roman Catholicism. Pope Eugenius IV attended to reply to the Byzantine Emperor John VIII Palaiologos as the Ottomans slowly ate the empire. The Pope agreed to send aid to Byzantium, but when John returned to Constantinople the Greeks rejected the agreement and rioted. John was forced to repudiate the agreement and as a result no aid was sent. Despite the result Florence gained a large boost of international prestige during the council. Cosimo's patronage transformed Florence into the epitome of a Renaissance city; culturally he employed Donatello, Brunelleschi and Michelozzo at a cost of over 600,000 florins, politically Milan invaded Florence three times between 1430 and 1440, failing to make any success. Cosimo's ally, Francesco Sforza captured Milan and declared himself duke. Through the crises of his reign Cosimo de' Medici cemented his power in Florence and in the process became a patron of the arts, he died in 1464. [NEWLINE][NEWLINE]Piero di Cosimo de' Medici, Piero the Gouty took the seat after his father's death. Piero's reign furthered the fractious political divisions in Florence; Cosimo tallied large debts owed to the Medici Bank, primarily to Florentine nobleman Luca Pitti. Lucca called for an armed insurrection against Piero, but a co-conspirator rebutted this. Duke Sforza of Milan died in 1466, his son Gian Galeazzo Sforza ascended to duke of Milan. Francesco's death cost Florence a valuable ally. In August 1466 the conspirators acted, they found support from the Duke of Ferrara and marched into Florentine territory to depose Piero. The coup failed; the Florentines were unwilling to support the coup and soon after arriving Ferrara's troops left. With the conspirators exiled for life the internal affairs of Florence were mended, Venice however took the opportunity to invade the following year. Piero appointed Federigo da Montefeltro, the Lord of Urbino to command his armies; while the battle was inconclusive, the Venetians retreated. Piero the Gouty died in the winter of 1469, his son Lorenzo de' Medici was groomed by Piero before his death. Lorenzo was the greatest artistic patron of the Renaissance, for more detail on Lorenzo's rule over Florence see his Civilopedia entry. Lorenzo had many children with his wife, Clarice Orsini, including the then future Pope Leo X, and his successor Piero the Unfortunate. Piero ruled for just two years; Charles VIII of France invaded the Italian states, he demanded passage through Florence to Naples in an attempt to secure the throne. Piero met Charles to negotiate, he eventually caved in to all Charles' demands and upon arriving back in Florence in November he was branded a traitor. He and his family were forced to flee the republic and into exile. [NEWLINE][NEWLINE]There was a brief return to the republic after Piero's exile, Girolamo Savonarola and then Piero Soderini oversaw the state before Cardinal Giovanni de' Medici captured Florence with Spanish aid in 1512, Giovanni later went to Rome and became Pope Leo X. The Papacy dominated Florence until 1527 when the citizens declared the republic again, only to have it taken from them again in 1530 after a battle by the Imperial and Spanish army. The same year Pope Clement VII and Holy Roman Emperor Charles V appointed Alessandro de' Medici as the first formally hereditary ruler.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TUSCANY_HEADING_6">
+			<Text>Grand Duchy of Tuscany</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TUSCANY_TEXT_6">
+			<Text>During the fifteenth century Siena enjoyed its own 'Sienese Renaissance', a more conservative character to the rest of the Renaissance. The Sienese commune was not part of Tuscany until 1555 and Lucca remained independent until 1847, both eventually became part of the Grand Duchy of Tuscany. For most of the sixteenth century the Medici continued to successfully rule Florence and expanding Tuscany greatly. Being patrons of science and the arts these industries flowered for much of the Medici reign. Tuscany became a more cohesive state, rather than just the dominating Florentine republic. As time passed Tuscany transformed in many ways, not all for the best. Most notable was the economy underwent a fundamental change; the wool industry was nearly destroyed during the later years of Medici rule, while the silk industry came to just as nearly replace it. In essence the industries that held Florence in the Middle Ages declined and investment in business became less profitable, there was some 're-feudalization' of Tuscany with many patricians investing in land instead of industry.[NEWLINE][NEWLINE]After the Medici dynasty died out the Austrian Habsburg-Lorraine rules took over the duchy. Known as Pietro Leopoldino to the Italians, Leopold I was the only progressive ruler of Tuscany, he abolished serfdom, encouraged trade and industry, and reformed the bureaucracy. Tuscany became one of the most prosperous states in Italy and on November 30, 1786 Leopold promulgated a penal reform making Tuscany the first sovereign state to abolish the death penalty; Tuscany was known as a 'Guild'. Ferdinand III was deposed by Napoleon Bonaparte in 1801 so that Tuscany could be given to the Bourbon dukes of Parma as compensation for the loss of their duchy. During this brief time the duchy was known as the Kingdom of Etruria before it was later annexed by Napoleonic France in 1807. Napoleon gave his sister, Elisa the title of the Grand Duchess of Tuscany in 1809. In 1814 Ferdinand III was restored as the grand duke after Napoleon's downfall, but a year later the Congress of Vienna split the Duchy of Lucca from Tuscany to give the Bourbons of Parma compensation for their other losses, Lucca reintegrated into Tuscany in 1847.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TUSCANY_HEADING_7">
+			<Text>Modern History and Tuscany Today</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TUSCANY_TEXT_7">
+			<Text>In 1860 Tuscany became part of the Kingdom of Italy; Florence replaced Turin as the capital five years later, hosting the first parliament in Italy, before being superseded by Rome in 1871. Under Benito Mussolini, Tuscany fell into the dominance of local Fascist leaders such as Dino Perrone Compagni and Costanzo and Galeazzo Ciano. After Mussolini's fall and the armistice of September 8, 1943 Tuscany became part of the Nazi controlled Italian Social Republic and was almost completely conquered by the Anglo-American allies during the summer of 1944. After the Social Republic fell and the transformation from the kingdom to the modern Italian Republic, Tuscany again flourished as a cultural center in Italy. Today Tuscany boosts an immense cultural and artistic heritage in the state's churches, palaces, art galleries, museums, villages and piazzas and many towns and cities granting access to natural and architectural beauty.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TUSCANY_FACTOID_HEADING">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TUSCANY_FACTOID_TEXT">
+			<Text>As his name suggests, Piero the Gouty suffered from gout and did not enjoy good health.[NEWLINE][NEWLINE]Seven localities are World Heritage Sites in Tuscany; the historic centers of Florence, Siena, San Gimignano and Pienza, the square of the Cathedral of Pisa, the Val d'Orcia and Medici Villas and Gardens.[NEWLINE][NEWLINE]The capital of Tuscany, Florence receives an average of ten million tourists a year.</Text>
+		</Row>
+		<!-- City Names -->
+		<Row Tag="TXT_KEY_CITY_NAME_TUSCANY_FLORENCE">	
+			<Text>Florence</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_TUSCANY_PISA">	
+			<Text>Pisa</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_TUSCANY_SIENA">	
+			<Text>Siena</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_TUSCANY_LUCCA">	
+			<Text>Lucca</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_TUSCANY_AREZZO">	
+			<Text>Arezzo</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_TUSCANY_PRATO">	
+			<Text>Prato</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_TUSCANY_GROSSETO">	
+			<Text>Grosseto</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_TUSCANY_SAN_GIMIGNANO">	
+			<Text>San Gimignano</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_TUSCANY_FIESOLE">	
+			<Text>Fiesole</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_TUSCANY_PIETRASANTA">	
+			<Text>Pietrasanta</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_TUSCANY_PISTOIA">	
+			<Text>Pistoia</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_TUSCANY_CARRARA">	
+			<Text>Carrara</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_TUSCANY_PIENZA">	
+			<Text>Pienza</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_TUSCANY_VOLTERRA">	
+			<Text>Volterra</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_TUSCANY_LIVORNO">	
+			<Text>Livorno</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_TUSCANY_CORTONA">	
+			<Text>Cortona</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_TUSCANY_MONTEPULCIANO">	
+			<Text>Montepulciano</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_TUSCANY_VIAREGGIO">	
+			<Text>Viareggio</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_TUSCANY_PITIGLIANO">	
+			<Text>Pitigliano</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_TUSCANY_CASTIGLION_FIORENTINO">	
+			<Text>Castiglion Fiorentino</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_TUSCANY_LUCIGNANO">	
+			<Text>Lucignano</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_TUSCANY_SANSEPOLCRO">	
+			<Text>Sansepolcro</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_TUSCANY_CERTALDO">	
+			<Text>Certaldo</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_TUSCANY_ORBETELLO">	
+			<Text>Orbetello</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_TUSCANY_PIOMBINO">	
+			<Text>Piombino</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_TUSCANY_BARGA">	
+			<Text>Barga</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_TUSCANY_CARMIGNANO">	
+			<Text>Carmignano</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_TUSCANY_MONTALCINO">	
+			<Text>Montalcino</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_TUSCANY_SUVERETO">	
+			<Text>Suvereto</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_TUSCANY_POPPI">	
+			<Text>Poppi</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_TUSCANY_FIVIZZANO">	
+			<Text>Fivizzano</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_TUSCANY_PONTREMOLI">	
+			<Text>Pontremoli</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_TUSCANY_PESCIA">	
+			<Text>Pescia</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_TUSCANY_SCANDICCI">	
+			<Text>Scandicci</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_TUSCANY_MONTEVARCHI">	
+			<Text>Montevarchi</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_TUSCANY_PONTEDERA">	
+			<Text>Pontedera</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_TUSCANY_QUARRATA">	
+			<Text>Quarrata</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_TUSCANY_EMPOLI">	
+			<Text>Empoli</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_TUSCANY_MONTERIGGIONI">	
+			<Text>Monteriggioni</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_TUSCANY_VINCI">	
+			<Text>Vinci</Text>
+		</Row>	
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_TUSCANY_0">
+			<Text>Ezio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TUSCANY_1">
+			<Text>Mario</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TUSCANY_2">
+			<Text>Rodolfo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TUSCANY_3">
+			<Text>Salvatore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TUSCANY_4">
+			<Text>Enrico</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TUSCANY_5">
+			<Text>Roberto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TUSCANY_6">
+			<Text>Lucrezia</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TUSCANY_7">
+			<Text>Paola</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TUSCANY_8">
+			<Text>Rosa</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TUSCANY_9">
+			<Text>Caterina</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!----------------------------------------------------------------
+						Lorenzo de' Medici
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_LEADER_LORENZO_DESC">
+			<Text>Lorenzo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LORENZO_PEDIA">
+			<Text>Lorenzo de' Medici</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LORENZO_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LORENZO_HEADING_2">
+			<Text>Early Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LORENZO_HEADING_3">
+			<Text>Rise to Power</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LORENZO_HEADING_4">
+			<Text>Politics and Diplomacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LORENZO_HEADING_5">
+			<Text>Money Well Spent</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LORENZO_HEADING_6">
+			<Text>Later Years and Death</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LORENZO_HEADING_7">
+			<Text>Judgment of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LORENZO_LIVED">
+			<Text>1449 - 1492 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LORENZO_NAME">
+			<Text>Lorenzo de' Medici</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LORENZO_SUBTITLE">
+			<Text>Leader of Tuscany</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LORENZO_TEXT_1">
+			<Text>Lorenzo di Piero de' Medici was an Italian statesman who brought Florence to her greatest heights in the Italian Renaissance. Often known as Lorenzo the Magnificent by his contemporaries, Lorenzo was an able diplomat, politician and patron of scholars, artists and poets. Undoubtedly he is most known for his contribution to Renaissance artistry, funding artists, helping them create masterpieces. His life paralleled the Renaissance; the end of his life was the end of the Florentine Golden Age, and the fragile peace he maintained in his life collapsed after his death.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LORENZO_TEXT_2">
+			<Text>Born on the first day of 1449 in the city of Florence, Lorenzo was born into the prestigious Medici family, the most powerful family in the Florentine Republic, and her de facto rulers. His grandfather, Cosimo de' Medici was the founding member of the ruling dynasty, he also ran the Medici Bank. Like Lorenzo, Cosimo was a patron of the arts and funded public works. Lorenzo's father, Piero di Cosimo de' Medici was also the center of Florentine art and a collector. Lorenzo's mother, Lucrezia Tornabuoni was herself a poet and had written sonnets; she also was a friend of figures the likes of Luigi Pulci and Agnolo Poliziano and became Lorenzo's advisor when he ascended to power. Of Piero's five children Lorenzo was the brightest, tutored by diplomat Gentile Becchi, he participated in jousting, hawking, hunting and horse breeding for the palio, a Sienese horse race. Piero sent the young Lorenzo on many diplomatic trips, including trips to Rome to see the pope and other important figures.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LORENZO_TEXT_3">
+			<Text>Piero died on Dec. 5, 1469, and 2 days later the 20-year-old Lorenzo was asked by a delegation of eminent citizens to take control of the state. This he did, ruling as his father and grandfather had done, from behind the scenes and without holding any public office.[NEWLINE][NEWLINE]Lorenzo enhanced the prestige and stability of his house when he came to an agreement with Pope Sixtus IV in 1471 by which the Medici would continue to handle the papal finances. And in 1472 he won the hearts of all Florentines by saving the city from an imminent famine. When the bad harvest of that year threatened the population with disaster, it was Lorenzo who imported large amounts of grain. Lorenzo also maintained good relations with Sultan Mehmed II of the Ottoman Empire as Florence engaged in maritime trade with them, this trade became a major source of wealth for the Medici.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LORENZO_TEXT_4">
+			<Text>Although it was Medici policy to retain close ties with the Holy See, relations between Lorenzo and Pope Sixtus were not always cordial. The Pontiff was very displeased when Lorenzo's diplomacy achieved an alliance between Florence, Venice, and Milan, for such a combination was more than a match for the armies of the Church. Sixtus felt thwarted in his ambitions to expand the papal territory and uneasy about the safety of what the Church already held. His hostility grew when he learned that Lorenzo was trying to buy the town of Imola, which was strategically important. Consequently the Pope agreed to a plot designed to rid Florence of both Lorenzo and his brother Giuliano. The chief conspirators were the Pazzi family, a rival banking house and bitter enemies of the Medici. The plan was to assassinate the two brothers at a moment when their guard would be down, during the celebration of Mass on Easter Sunday, April 26, 1478. Giuliano was slain, but Lorenzo escaped with wounds. The people of Florence rallied to the Medici standard and visited a terrible retribution on the hapless conspirators, most of whom did not survive the day. Among those killed was Francesco Salviato, Archbishop of Pisa.[NEWLINE][NEWLINE]The Pope, enraged, excommunicated Lorenzo and placed an interdict on the city. In 1479, in the midst of unbearable tension, Sixtus and King Ferrante (Ferdinand) of Naples declared war on Florence. Lorenzo rallied the citizens. However, little support was found through the allies of the Medici: the city-states of Bologna and Milan (Milan was occupied with power struggles among the ruling family, the Sforza). Thus the war with Florence and Naples dragged on. Lorenzo, knowing that the safety of his city and his dynasty were at stake, undertook the most hazardous adventure of his colorful career. He went by sea to Naples, virtually placing his life in the hands of the King. Ferrante was won over by Lorenzo's charm and his persuasive argument that it would not do for Italy to be divided or Florence destroyed. Lorenzo returned to Florence with the gift of peace and was received with great joy. Sixtus was bitter but grudgingly bowed to necessity and in 1480 made peace. Lorenzo's control over Florence and its possessions would not be challenged again.[NEWLINE][NEWLINE]A new constitution in 1480 simplified the structure of Florentine government. The Signoria, or executive branch, chose 30 citizens, who in turn selected 40 more, all to serve for life in a new council. Hence forward all other branches, including the Signoria, were responsible to this permanent Council of Seventy. Since the council was filled with Lorenzo's adherents, the effect of the constitutional change was to make his hold over the state more obvious. Under this rule the prosperity of Florence grew, primarily through banking and commerce. Not the least of Lorenzo's contributions to this prosperity was the peace which his diplomacy, from 1480 until his death, maintained between Florence and the rest of Italy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LORENZO_TEXT_5">
+			<Text>Lorenzo's court included artists such as Piero and Antonio del Pollaiuolo, Leonardo da Vinci, Sandro Botticelli and Michelangelo Buonarroti, some of the major artists of the Italian Renaissance. While Lorenzo himself did not commission many of their works he did secure commissions from other patrons. Michelangelo lived with Lorenzo and his family for five years, dining at the table and participating in the discussions. Lorenzo himself was a artist and wrote poetry in his native Tuscan; he celebrates life even while in part of his later works acknowledging with melancholy the fragility and instability of the human condition. Love, feasts and light dominate his body of work.[NEWLINE][NEWLINE]Cosimo de' Medici started a collection of books which became the Medici Library, Lorenzo expanded it during his reign. His agents in the East uncovered a large number of classical works, and employed a large workshop to copy his books and dispense their content across Europe. Lorenzo supported the development of humanism through his circle of scholars including the philosophers Marsilio Ficino, Poliziano and Giovanni Pico della Mirandola. They studied Greek philosophers and tried to merge the ideas of Plato with Christianity. Lorenzo used the Florentine fine arts scene for both his personal interest and for his diplomatic efforts, an example of this is the emission of Botticelli, Domenico Ghirlandaio, Pietro Perugino and Cosimo Rosselli to Rome in order to paint murals in the Sistine Chapel. This is generally interpreted as sealing the alliance between Lorenzo and Pope Sixtus IV.[NEWLINE][NEWLINE]In 1471 Lorenzo calculated that since 1434 the Medici family spent around 663,000 florins for charity, buildings and taxes; today that cost is approximately US$460,000,000. Lorenzo wrote "I do not regret this for though many would consider it better to have a part of that sum in their purse, I consider it to have been a great honor to our state, and I think the money was well-expended and I am well-pleased."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LORENZO_TEXT_6">
+			<Text>Several branches of the Medici bank collapsed due to bad loans and in later years Lorenzo himself fell into financial problems, he resorted to misappropriating trust and state funds. Near the end of Lorenzo's life Florence came under the spell of Girolamo Savonarola, who believed Christians strayed too far into Greco-Roman culture. Lorenzo de' Medici died during the late night of April 8 or early morning of the ninth, 1492, in the family villa of Careggi. Savonarola visited him in his deathbed, it was rumored that Savonarola damned Lorenzo there, but Roberto Ridolfi refutes these claims. As Lorenzo died the tower of the church of Santa Reparata was allegedly struck by lightning. Lorenzo was united with his brother Giuliano and buried in a chapel designed by Michelangelo, the chapel is now part of the Church of San Lorenzo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LORENZO_TEXT_7">
+			<Text>As a diplomat Lorenzo was able to pull Florence out of war and reconcile with rivals to establish better rule and power over the city-state, but as a patron of the arts Lorenzo is better known as one of the greatest figures of the Italian Renaissance, and certainly that of the Florentine Renaissance. His donations, contributions and patronage of great artists such as Michelangelo, da Vinci and Botticelli cemented Florence as a cultural hub of philosophy and beauty, even in the face of rival states.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LORENZO_TITLES_1">
+			<Text>Ruler of the Florentine Republic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LORENZO_TITLES_2">
+			<Text>Lorenzo the Magnificent</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_TUSCANY_TEXT">
+			<Text>The people of Tuscany welcome you Lorenzo de' Medici. You rule the Florentine Republic. It was your skilled diplomacy that brought about an unprecedented peace not only for Tuscany, but for all of Italy, a peace that would last throughout your rule. Your tact pacified your enemies and forced them into reluctant submission. But perhaps most significant of all was your generosity and patronage of the arts, pushing Tuscany into the forefront of the cultural world. In this golden age that you wrought Tuscany left an indelible mark, with people and works of art whose names are known throughout the globe.[NEWLINE][NEWLINE]Lorenzo the Magnificent, Tuscany longs to return to her greatest heights. Will you strive to bring about peace once again? Will you usher in a new Renaissance? Can you build a civilization that stands the test of time?</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Diplomacy
+		------------------------------------------------------------------>
+		<!--First Greeting messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_LORENZO_FIRSTGREETING_1">
+			<Text>Hello stranger; I am Lorenzo de' Medici. How are you enjoying Florence?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LORENZO_FIRSTGREETING_2">
+			<Text>I, Lorenzo the Magnificent, welcome you to Florence. Tell me, what do you think of her?</Text>
+		</Row>
+		<!--Defeated messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_LORENZO_DEFEATED_1">
+			<Text>I have lost, and the world has lost all its beauty.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LORENZO_DEFEATED_2">
+			<Text>Tuscany stands in ruins. I hope you're satisfied.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_TUSCANY_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now buying your art and drinking your wine. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Cradle of the Renaissance
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_TRAIT_CRADLE_OF_THE_RENAISSANCE_SHORT">
+			<Text>Cradle of the Renaissance</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CRADLE_OF_THE_RENAISSANCE">
+			<Text>Receive a Great Person of the appropriate type when Buildings with Great Work slots are first acquired in the [ICON_CAPITAL] Capital. When a World Wonder is built in the [ICON_CAPITAL] Capital, receive a boost to your next [ICON_GOLDEN_AGE] Golden Age.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CRADLE_OF_THE_RENAISSANCE_ALT">
+			<Text>When first acquired in the [ICON_CAPITAL] Capital, Buildings with Great Work Slots give an appropriate Great Person, Wonders with Great Work Slots give Great Person Points of the appropriate type.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Condottiere
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_UNIT_TUSCAN_CONDOTTIERE">
+			<Text>Condottiere</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_TUSCAN_CONDOTTIERE">
+			<Text>Medieval mounted unit which recieves extra [ICON_STRENGTH] Combat Strength based off the amount of [ICON_GOLD] Gold you earn each turn, weak to Pikemen. Only Tuscany may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TUSCAN_CONDOTTIERE_STRATEGY">
+			<Text>The Condottiere is the Tuscan unique unit, replacing the Knight. Condottieri are cheaper than the base unit and may also earn extra [ICON_STRENGTH] Combat Strength based of the amount of [ICON_GOLD] Gold you are generating each turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TUSCAN_CONDOTTIERE_TEXT">
+			<Text>In the late Middle Ages and throughout the Renaissance, the Italian city-states were prospering from their trade with the Levant, yet possessed woefully small national armies. In the event that foreign powers and envious neighbors attacked, the ruling nobles hired foreign mercenaries to fight for them. Condottieri were the leaders of the mercenary armies (which consisted mostly of heavily armored cavalry) contracted by the Italian city-states and the Papacy. The condottieri company commanders selected the soldiers to enlist; the condotta was a consolidated contract, and, when the ferma (service period) elapsed, the company entered an aspetto (wait) period, wherein, the contracting city-state considered its renewal. If the condotta expired definitively, the condottiere could not declare war against the contracting city-state for two years. This military–business custom was respected because professional reputation (business credibility) was everything to the condottieri; a deceived employer was a reputation ruined. The fifteenth-century Italian armies defeated most of the Turkish, Swiss, Hungarian, German, French, and Austrian incursions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TUSCAN_CONDOTTIERE_">
+			<Text>Great Company</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TUSCAN_CONDOTTIERE__HELP">
+			<Text>Receives extra [ICON_STRENGTH] Combat Strength based on [ICON_GOLD] Gold earnt at the start of each turn.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Duomo
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_BUILDING_DUOMO_DESC">
+			<Text>Duomo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUOMO_HELP">
+			<Text>Unique Tuscan Garden replacement. +25% [ICON_GREAT_PEOPLE] Great People generation in this City. Contains 1 slot for a Great Work of Art.[NEWLINE][NEWLINE]Unlike the Garden, the Duomo does not have to be built next to a River or Lake.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUOMO_STRATEGY">
+			<Text>In addition to the regular abilities of the Garden, the Duomo also has a Great Work of Art slot. Only Tuscany may build it, and the city does not need to be located next to a River or Lake.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDING_DUOMO_TEXT">
+			<Text>Duomo is a term for a cathedral church. A Duomo may be either a present or a former cathedral (the latter always in a town that no longer has a bishop nor therefore a cathedral, as for example Trevi). Some, like the Duomo of Monza, have never been cathedrals, although old and important. Many people refer to particular churches simply as "Il Duomo" or "The Duomo", without regard to the full proper name of the church.[NEWLINE][NEWLINE]Italian cathedrals are often highly decorated and contain notable artworks; in many cases the buildings themselves are true artworks. Some of the most well-known Duomos include San Giovanni in Laterano in Rome, Il Duomo di Milano and Florence's Santa Maria del Fiore.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Minor Civs
+		------------------------------------------------------------------>
+		<!-- Andorra la Vella -->
+		<Row Tag="TXT_KEY_CITYSTATE_MANTUA_DESC">
+			<Text>Mantua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MANTUA_ADJECTIVE">
+			<Text>Mantuan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MANTUA_TEXT_1">
+			<Text>Mantua is a city and comune in Lombardy, Italy, and capital of the province of the same name. Mantua's historic power and influence under the Gonzaga family made it one of the main artistic, cultural, and especially musical hubs of Northern Italy and the country as a whole. Mantua is noted for its significant role in the history of opera, and the city is known for its architectural treasures and artifacts, elegant palaces, and medieval and Renaissance cityscape. It is the nearest town to the birthplace of the Roman poet Virgil. It is also the town to which Romeo was banished in William's play Romeo and Juliet.[NEWLINE][NEWLINE]Mantua is surrounded on three sides by artificial lakes created during the 12th century. These receive the waters of the river Mincio, a tributary of the Po which descends from Lake Garda. The three lakes are called Lago Superiore, Lago di Mezzo, and Lago Inferiore. A fourth lake, Lake Pajolo, which once completed a defensive water ring of the city, dried up at the end of the 18th century.[NEWLINE][NEWLINE]The area and its environs are not only important in naturalistic terms, but also anthropologically and historically; research has highlighted a number of human settlements scattered between Barche di Solferino and Bande di Cavriana Castellaro and Isolone del Mincio. These date, without interruption, from Neolithic times (5th-4th millennium BOT) to the Bronze Age (2nd-1st millennium BC), the Gallic phases (2nd-1st centuries BC) and end with Roman residential settlements, which can be dated to the 3rd century AD.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
