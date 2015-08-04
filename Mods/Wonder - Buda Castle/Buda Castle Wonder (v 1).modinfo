@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="4266ae5c-594d-4600-98c4-9aab50d97621" version="1">
+  <Properties>
+    <Name>Buda Castle Wonder</Name>
+    <Teaser>Located on the bank of the Danube river, Buda Castle</Teaser>
+    <Description>Located on the bank of the Danube river in modern day Budapest, Buda Castle is a site formerly used by several different parties throughout its history, including as a palace and as a defensive castle. It has been destroyed several times since it was first constructed in the 15th century, most recently in the 1960's following significant damage during World War Two. It was also heavily damaged following the conquering of Buda by Christian forces, when an artillery shell struck part of the castle that was being used as a gunpowder store. Ingame, Buda Castle provides +2 of each yield in the Capital, while it must be built in a city next to a river and requires Architecture.</Description>
+    <Authors>Pouakai, sukritact, chrissifniotis</Authors>
+    <SpecialThanks>Ambrox62</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="4710AD380FED6CFF8B8082EBA7AB5597" import="1">Art/Buda_128.dds</File>
+    <File md5="E2BC43294D253264B3C4ED6250319023" import="1">Art/Buda_256.dds</File>
+    <File md5="91F302273B2CFD7EAB395C1C1A0245AD" import="1">Art/Buda_45.dds</File>
+    <File md5="7283A8DE6853F6E2FF6A2114DD5DF49D" import="1">Art/Buda_64.dds</File>
+    <File md5="BD4EF160F58F4FF3D065D9966636507B" import="1">Art/Buda_80.dds</File>
+    <File md5="58E80B5468C5107A2089FA141DEA3BBC" import="1">Art/Buda_splash.dds</File>
+    <File md5="CAE85B62696DFA766F21EE95B16458B6" import="0">XML/Buildings/Buda_BuildingClasses.xml</File>
+    <File md5="F021386928B91AC6EFEEEED79C5E5B69" import="0">XML/Buildings/Buda_Buildings.xml</File>
+    <File md5="C476FC8FCDAC9430E4B93D8FF6A53615" import="0">XML/Civilizations/Buda_Civilizations.xml</File>
+    <File md5="301AB67D06F22BCC068279867CD13E23" import="0">XML/GameInfo/Buda_IconTextureAtlases.xml</File>
+    <File md5="5BC1E1F837B47C134118C9F9F7DA5AA8" import="0">XML/Text/Buda_text_EN_US.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Buildings/Buda_BuildingClasses.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Buda_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Buda_Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/Buda_IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Buda_text_EN_US.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_BUDA">
+			<Text>Buda Castle</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_BUDA_HELP">
+			<Text>+2 of every yield in the [ICON_CAPITAL] Capital. City must be built next to a river.</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_BUDA_QUOTE">
+			<Text>[NEWLINE]"There is no sanctuary so holy that money cannot profane it, no fortress so strong that money cannot take it by storm"[NEWLINE] -  Marcus Tullius Cicero[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_BUDA_PEDIA">
+			<Text>Buda Castle is a complex of fortifications and the residence to the Hungarian kings in Budapest. Castle Hill - site of Buda Castle - was first occupied in 1265 by King Béla IV. The oldest part of the complex is the foundations of Stephen's Tower, a caster keep built during the fourteenth century by Stephen, the Duke of Slovakia and younger brother to King Louis I of Hungary. King Sigismund strengthened its fortifications and enlarged the palace, from 1410 until after his death in 1437, as a bid to express primacy among Europe as the Holy Roman Emperor. Kings Matthias Corvinus, Vladislaus II and John Zápolya all continued the work of the expansion of the castle before the Ottomans conquered Budapest and the castle, and the subsequent sieges contributed to the medieval castle's ruin, especially during the Battle of Buda in 1686. Work on the castle was on and off for many years until in 1748 Count Antal Grassalkovich appealed to the public to complete the repairs of the castle. The Palatine János Pálffy appealed to the countries and city-states to award grants; the moment was most opportune as support for the Habsburgs were at its peak and Hungarians supported Maria Theresa in the War of Austrian Succession. The queen was appreciative and funded the work to reconstruct Buda Castle. Since then the castle has gone through many cycles of destruction and rebuilding right up to the end of World War II, where in 1948 the re-construction of the castle took on a modernist design. The current version of the castle was build in 1966 and the interior completed in the 1980s.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
