@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/19/2013 1:20:28 PM -->
+<GameData>
+	<Language_ES_ES>
+
+		<!--Leader Speech -->
+		<!--Greeting (first time meeting) -->
+		<Row Tag="TXT_KEY_LEADER_EVITA_FIRSTGREETING_3">
+			<Text>Este lugar es la razón de mi vida, ¡Argentina!, bienvenido, soy Evita Perón</Text>
+		</Row>
+
+		<!--Defeated and removed from game -->
+		<Row Tag="TXT_KEY_LEADER_EVITA_DEFEATED_1">
+			<Text>No llores por mi Argentina... me quedo con tu bandera de cielo azul, de mar azul... Que el firmamento iluminado por el sol, brilla donde voy
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_ARGENTINA_01">
+			<Text>Buenos Aires</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_ARGENTINA_02">
+			<Text>La Plata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_ARGENTINA_03">
+			<Text>Córdoba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_ARGENTINA_04">
+			<Text>Jujuy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_ARGENTINA_05">
+			<Text>Catamarca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_ARGENTINA_06">
+			<Text>La Rioja</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_ARGENTINA_07">
+			<Text>Formosa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_ARGENTINA_08">
+			<Text>Paraná</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_ARGENTINA_09">
+			<Text>Posadas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_ARGENTINA_10">
+			<Text>Neeuquén</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_ARGENTINA_11">
+			<Text>Salta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_ARGENTINA_12">
+			<Text>San Juan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_ARGENTINA_13">
+			<Text>San Luis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_ARGENTINA_14">
+			<Text>Santa Fe de la Vera Cruz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_ARGENTINA_15">
+			<Text>Santiago del Estero</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_ARGENTINA_21">
+			<Text>Ushuaia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_ARGENTINA_16">
+			<Text>Tucumán</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_ARGENTINA_17">
+			<Text>Resistencia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_ARGENTINA_18">
+			<Text>Rawson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_ARGENTINA_19">
+			<Text>Santa Rosa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_ARGENTINA_20">
+			<Text>Viedma</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV_ARGENTINA_ADJECTIVE">
+			<Text>argentino|argentina|argentinos|argentinas</Text>
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ARGENTINA_DESC">
+			<Text>República de Argentina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ARGENTINA_SHORT_DESC">
+			<Text>Argentina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ARGENTINA_HEADING_1">
+			<Text>Datos Generales</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ARGENTINA_TEXT_1">
+			<Text>
+				[NEWLINE][NEWLINE]Argentina, oficialmente República Argentina, es un estado soberano, organizado como república representativa y federal, situado en el extremo sureste y sur de América del Sur. Su territorio está dividido en 23 provincias y una ciudad autónoma, Buenos Aires, capital de la nación y sede del gobierno federal. Sus 40 millones de habitantes promedian índices de desarrollo humano, renta per cápita y calidad de vida que se encuentran entre los más altos de América Latina.8 Según el Banco Mundial, su PIB nominal es el 25.º más importante del mundo, pero si se considera el poder adquisitivo su PIB total trasforma al país en la 20.ª economía más importante del mundo.10 En 2010, el país fue clasificado como nación de ingresos medianos altos11 o como un mercado emergente, también por el Banco Mundial. La Argentina es reconocida como una potencia regional.
+
+				[NEWLINE][NEWLINE]Por su extensión, 2 780 400 km cuadrados, es el país hispanohablante más extenso del planeta, el segundo Estado más grande de América Latina, cuarto en el continente americano y octavo en el mundo, considerando solamente la superficie continental sujeta a su soberanía efectiva. Si se consideran las islas Malvinas, Georgias del Sur, Sándwich del Sur y Aurora (administradas por el Reino Unido pero de soberanía en litigio con la Argentina), más el área antártica reclamada al sur del paralelo 60° S, denominada Antártida Argentina (que incluye a las islas Orcadas del Sur y Shetland del Sur) sobre la cual Argentina reclama soberanía, prolongando su límite meridional hasta el Polo Sur, la superficie total se elevaría a 3 761 274 km², convirtiéndose en el séptimo país más grande del mundo. Sin embargo, esta reclamación está afectada por lo establecido por el Tratado Antártico, sin que su firma constituya una renuncia.
+
+				[NEWLINE][NEWLINE]Su territorio continental americano, que abarca gran parte del Cono Sur, limita al norte con Bolivia y Paraguay, al nordeste con Brasil, al este con Uruguay y el océano Atlántico, al oeste con Chile y, siempre en su sector americano, al sur con Chile y las aguas atlánticas del pasaje de Drake.
+
+				[NEWLINE][NEWLINE]El 25 de mayo de 1810 se alcanzó la independencia de facto cuando fue depuesto el último virrey español que gobernó desde Buenos Aires,20 organizándose la Primera Junta de gobierno, y el 9 de julio de 1816 la independencia fue proclamada formalmente en San Miguel de Tucumán.
+
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ARGENTINA_HEADING_2">
+			<Text>Cultura Argentina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ARGENTINA_TEXT_2">
+			<Text>
+				La cultura argentina está marcada por el carácter multiétnico y multicultural de su población, el fuerte sincretismo de sus formas de expresión, y una positiva valoración del progreso y la modernidad, en la que se conjugan, no sin conflictos, un sentido dual de pertenencia a las culturas europea y latinoamericana. El escritor argentino Ernesto Sabato ha reflexionado sobre la naturaleza de la cultura argentina del siguiente modo:
+
+				[NEWLINE][NEWLINE]Fracturada la primitiva realidad hispanoamericana en esta cuenca del Plata por la inmigración, sus habitantes venimos a ser algo dual, con todos los peligros pero asimismo con todas las ventajas de esa condición: por nuestras raíces europeas vinculamos de modo entrañable el interior de la nación con los perdurables valores del Viejo Mundo; por nuestra condición de americanos, a través del folklore interior y el viejo castellano que nos unifica, nos vinculamos al resto del continente, sintiendo de algún modo la vocación de aquella Patria Grande que imaginaron San Martín y Bolívar.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ARGENTINA_HEADING_3">
+			<Text>Música Argentina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ARGENTINA_TEXT_3">
+			<Text>
+				El tango es un estilo musical y un baile nacido en los arrabales porteños con difusión internacional, ligado fuertemente con la Argentina y con Uruguay, pero sobre todo con Buenos Aires. En este género musical se destacaron Carlos Gardel, considerado como el Rey del Tango, y el marplatense mundialmente reconocido Astor Piazzolla.
+
+				[NEWLINE][NEWLINE]El folclore argentino reúne las manifestaciones artísticas del interior de la Argentina. Han existido zonas en la cuales predominaba algún estilo (por ejemplo zambas, cuecas, chacareras, chamarritas, chamamés, malambo), aunque actualmente han experimentado una difusión nacional. Atahualpa Yupanqui, Mercedes Sosa y Soledad Pastorutti se encuentran entre los exponentes más importantes de estos géneros.
+
+				[NEWLINE][NEWLINE]El rock nacional argentino ha tenido un amplio desarrollo desde finales de los años 1960 y una fuerte influencia en el rock iberoamericano cantado en español. Posee exponentes destacados como las bandas fundacionales Los Gatos, Almendra y Manal, además de Soda Stereo, Patricio Rey y sus Redonditos de Ricota, o los músicos como Litto Nebbia y Luis Alberto Spinetta, además de Charly García o Fito Páez. Los recitales multitudinarios suelen celebrarse en estadios, siendo el de mayor capacidad el Estadio Monumental Antonio Vespucio Liberti. Uno de los festivales más exitosos de la actualidad es el Quilmes Rock, celebrado anualmente.
+
+
+				[NEWLINE][NEWLINE]La balada romántica, con cantantes de fama sudamericana como Sandro de América, la cumbia, también llamada "bailanta", con un ritmo más simple que el modelo original colombiano, y el cuarteto (este ritmo especialmente en la Provincia de Córdoba), son los géneros de mayor arraigo en los sectores populares.
+
+				[NEWLINE][NEWLINE]Buenos Aires suele ser escenario de la música electrónica en América Latina y es sede de importantes fiestas como la South American Music Conference o la Creamfields, que con su convocatoria de más de 60.000 personas, se convirtió en una de las más importantes del mundo. La ciudad, junto con Mar del Plata y Bariloche, tienen también su propio estilo de música electrónica.
+
+				[NEWLINE][NEWLINE]Con base en el Conservatorio Nacional de Música y el Teatro Colón, se ha desarrollado una sólida escuela de música y danza clásicas. En la música clásica, destacan compositores como Alberto Ginastera, intérpretes como Martha Argerich y directores como Daniel Barenboim. En danza clásica, destacan Jorge Donn, Maximiliano Guerra, Paloma Herrera, Marianela Núñez, Iñaki Urlezaga y Julio Bocca; este último, director también del Ballet Argentino.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ARGENTINA_DOM">
+			<Text>
+				¡Bienvenida, Eva Perón! Líder espiritual de la Nación de Argentina, esposa de Juan Perón. Defendiste los derechos de los Descamisados y las mujeres en tu gran nación
+				[NEWLINE][NEWLINE]Argentina es el segundo país más grande de Latino América, y el más grande entre los países de habla hispana. Su nombre deriva de los rumores de la existencia de plata en sus montañas. Argentina tiene una rica historia tanto en la época precolombina como en la era republicana.
+				[NEWLINE][NEWLINE]Fracturada la primitiva realidad hispanoamericana en esta cuenca del Plata por la inmigración, sus habitantes venimos a ser algo dual, con todos los peligros pero asimismo con todas las ventajas de esa condición: por nuestras raíces europeas vinculamos de modo entrañable el interior de la nación con los perdurables valores del Viejo Mundo; por nuestra condición de americanos, a través del folklore interior y el viejo castellano que nos unifica, nos vinculamos al resto del continente, sintiendo de algún modo la vocación de aquella Patria Grande que imaginaron San Martín y Bolívar.
+				[NEWLINE][NEWLINE]Evita, tu gente aún recuerda tus hazañas que favorecieron a la gente en las épocas más oscuras. ¿Les ayudarás a construir una nación de justcia para todos? ¿Construirás una civilización que sobrepase las pruebas del tiempo?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_EVITA_HEADING_1">
+			<Text>Historia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_EVITA_TEXT_1">
+			<Text>
+				Impulsó y logró la sanción en 1947 de la ley de sufragio femenino. Tras lograr la igualdad política entre los hombres y las mujeres, buscó luego la igualdad jurídica de los cónyuges y la patria potestad compartida con el artículo 39 de la Constitución de 1949. En 1949 fundó el Partido Peronista Femenino, el cuál presidió hasta su muerte. Desarrolló una amplia acción social a través de la Fundación Eva Perón, dirigida a los grupos más carenciados. La Fundación construyó hospitales, asilos, escuelas, impulsó el turismo social creando colonias de vacaciones, difundió el deporte entre los niños mediante campeonatos que abarcaron a toda la población, otorgó becas para estudiantes, ayudas para la vivienda y promocionó a la mujer en diversas facetas.
+
+				[NEWLINE][NEWLINE]Adoptó una posición activa en las luchas por los derechos sociales y laborales y se constituyó en vínculo directo entre Perón y los sindicatos. En 1951, para las primeras elecciones presidenciales con sufragio universal, el movimiento obrero propuso a Evita, como la llamaba la población, como candidata a vicepresidenta, sin embargo ella renunció a la candidatura el 31 de agosto, conocido como el Día del Renunciamiento, presionada por las luchas internas en el peronismo y la sociedad ante la eventualidad de que una mujer apoyada por el sindicalismo pudiera llegar a vicepresidenta.
+
+				[NEWLINE][NEWLINE]Debido a un fulminante cancer de útero, falleció el 26 de julio de 1952, a la edad de 33 años. Recibió honores oficiales siendo velada en el Congreso de la Nación y en la central sindical (CGT), con un reconocimiento multitudinario sin antecedentes en el país. Su cuerpo fue embalsamado y ubicado en la CGT. La dictadura cívico-militar autodenominada Revolución Libertadora secuestró y profanó su cadaver en 1955, ocultándolo durante dieciseis años.
+
+				[NEWLINE][NEWLINE]Escribió dos libros, La razón de mi vida en 1951 y Mi mensaje en 1952 y recibió numerosos honores. Entre ellos el título de Jefa Espiritual de la Nación, la distinción de Mujer del Bicentenario, la Gran Cruz de Honor de la Cruz Roja Argentina, la Distinción del Reconocimiento de Primera Categoría de la CGT, la Gran Medalla a la Lealtad Peronista en Grado Extraordinario y el Collar de la Orden del Libertador General San Martín, la máxima distinción argentina. Se han producido además numerosas películas, musicales, obras teatrales, novelas y composiciones musicales sobre Eva Duarte de Perón.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_EVITA_LIVED">
+			<Text>7 de Mayo de 1919 – 26 de Julio de 1952</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_EVITA_NAME">
+			<Text>María Eva Duarte de Perón</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_EVITA_SUBTITLE">
+			<Text>Líder Espiritual de la Nación Argentina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EVITA">
+			<Text>Eva Perón</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_EVITA_TITLES_1">
+			<Text>Líder Espiritual de la Nación Argentina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_EVITA_TITLES_2">
+			<Text>Evita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_PRIDE">
+			<Text>
+				+1 de Comida [ICON_FOOD] en los pastizales. Al descubrir la tecnología de Servicio Civil, recibe un tipo especial de ciudadano en todas tus ciudades (El Descamisad), que genera +2 de [ICON_CULTURE], +2 de [ICON_PRODUCTION] y genera puntos hacia un gran personaje de tu elección.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_PRIDE_SHORT">
+			<Text>Orgullo de la Gente</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARGENTINA_0">
+			<Text>Cortázar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARGENTINA_1">
+			<Text>Fontanarrosa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARGENTINA_2">
+			<Text>Borges</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARGENTINA_3">
+			<Text>Laiseca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARGENTINA_4">
+			<Text>Crossa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARGENTINA_5">
+			<Text>Aira</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARGENTINA_6">
+			<Text>Piazzolla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARGENTINA_7">
+			<Text>Valcárcel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARGENTINA_8">
+			<Text>Shakespear</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARGENTINA_9">
+			<Text>Sabato</Text>
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_BUILDING_ARGENTINA">
+			<Text>Casillas de Descamisados</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ARGENTINA_DESC">
+			<Text>Casillas especiales de ciudadanos para Argentina.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ARGENTINA_STRATEGY">
+			<Text>Argentina tiene la abilidad especial de asignar un tipo diferente de ciudadano llamado el Descamisado, el cual genera producción y cultura al mismo tiempo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ARGENTINA_HELP">
+			<Text>Casillas especiales de ciudadanos para Argentina.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_TANGUERIA">
+			<Text>Tanguería</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TANGUERIA_HELP">
+			<Text>Reemplazo argentino para las casas de ópera. Adquiere un bonus especial al llenar todas las casillas de música con música argentina.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TANGUERIA_STRATEGY">
+			<Text>La Tanguería además provee espacio para casillas de Descamisados.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TANGUERIA_TEXT">
+			<Text>
+				Las principales tanguerías de Buenos Aires ofrecen a los turistas espectáculos de tango con todo su glamour. Son lugares de alto nivel y de precios acorde. En muchas casas también es posible cenar antes del show o disfrutarlo con alguna bebida. Los espectáculos son una sucesión de varios números artísticos, que incluyen grupos instrumentales, cantantes y parejas de bailarines.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TANGUERIA_THEME">
+			<Text>Para maximizar los beneficios de la Tanguería, debes llenar las casillas con música argentina.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_TANGUERIA">
+			<Text>Casa del Tango Argentino</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_GAUCHO">
+			<Text>Gaucho</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_GAUCHO_HELP">
+			<Text>Reemplazo para la Caballería. El Gaucho tiene una incrementada chance de evitar ataques, y puede construir granjas y pastizales más rápido que los trabajadores</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GAUCHO_STRATEGY">
+			<Text>Con la chance extra de evitar ataques, el gaucho es una unidad muy versátil, además, sus habilidades de trabajador son útiles para ayudar a nuevas ciudades crecer más rápido</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GAUCHO_TEXT">
+			<Text>
+				El gaucho es un tipo de campesino-jinete característico de las llanuras y zonas adyacentesnota  de Argentina, Uruguay, Paraguay, Sur del Brasil (Río Grande del Sur, Santa Catarina, Estado de Paraná y Mato Grosso del Sur)nota 1 , Sur de Chile y el chaco boliviano. Se identificaba e identifica por su condición de hábil jinete y por su vínculo con la proliferación de vacunos en la región y las actividades económicas y culturales derivadas de ella, en especial el consumo de carne y la utilización del cuero.
+
+				[NEWLINE][NEWLINE]Aparecido en el curso del siglo XVIII, hasta mediados del siglo XIX fue un habitante semi-nómada y con una autonomía personal considerable. Los sistemas de trabajo impuestos por algunos terratenientes luego de la independencia dieron forma al particular régimen clientelar del peón de campo.
+
+				[NEWLINE][NEWLINE]A la mujer gaucha tradicionalmente se le ha llamado "china" (en quechua: muchacha y por extensión hembra),1"paisana", "guaina" (en el norte litoraleño), "gaucha", "prenda".
+
+				[NEWLINE][NEWLINE]Casi desaparecido como tal a principios del siglo XX, el gaucho conserva un papel importante en el sentimiento nacionalista de Argentina y Uruguay así como independentista de Río Grande del Sur. Habiendo sido actor importante de las guerras de la independencia y civiles, y desarrollando una literatura original, la literatura gauchesca, uno de cuyos ejes temáticos fue la denuncia de la injusticia social, que tuvo como punto culminante los libros El Gaucho Martín Fierro (1872) y La vuelta de Martín Fierro (1879).
+
+				[NEWLINE][NEWLINE]Mantiene semejanzas con otros campesinos-caballeros, no por ser precisamente un trabajador, sino en tanto habitante del campo y sobre todo un jinete. Tal los casos de: el charro mexicano, el huaso chileno, el llanero colombo-venezolano, el cowboy estadounidense, el vaquero paraguayo (el actualmente llamado "vaquero" en Paraguay muchas veces también ha recibido por razones históricoculturales el nombre de gaucho).
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_GAUCHO">
+			<Text>Montoneras</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GAUCHO_HELP">
+			<Text>Chance de evitar ataques incrementada</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPECIALIST_DESCAMISADO">
+			<Text>Descamisado</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_DESCAMISADO_SLOTS">
+			<Text>Casillas de Descamisado</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_DESCAMISADO_STRATEGY">
+			<Text>Los Descamisados argentinos generan +2 de Cultura[ICON_CULTURE], +2 de Producción[ICON_PRODUCTION] y trabajan para la generación de un gran personaje de tu elección.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSEGP">
+			<Text>Gran Personaje</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CHOOSEGP">
+			<Text>Gran Personaje</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CHOOSEGP_HELP">
+			<Text>Un Gran Personaje de tu elección!</Text>
+		</Row>
+	</Language_ES_ES>
+</GameData>

@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/19/2013 1:20:28 PM -->
+<GameData>
+	<Language_en_US>
+
+		<!--Leader Speech -->
+		<!--Greeting (first time meeting) -->
+		<Row Tag="TXT_KEY_LEADER_EVITA_FIRSTGREETING_3">
+			<Text>This place is the reason for my life, Argentina! Welcome, I'm Eva Perón</Text>
+		</Row>
+
+		<!--Defeated and removed from game -->
+		<Row Tag="TXT_KEY_LEADER_EVITA_DEFEATED_1">
+			<Text>
+				Don't cry for me Argentina! The truth is I never left you all through my wild days, my mad existence, I kept my promise don't keep your distance
+			</Text>
+		</Row>
+			<Row Tag="TXT_KEY_CITY_ARGENTINA_01">
+				<Text>Buenos Aires</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_ARGENTINA_02">
+				<Text>La Plata</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_ARGENTINA_03">
+				<Text>Córdoba</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_ARGENTINA_04">
+				<Text>Jujuy</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_ARGENTINA_05">
+				<Text>Catamarca</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_ARGENTINA_06">
+				<Text>La Rioja</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_ARGENTINA_07">
+				<Text>Formosa</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_ARGENTINA_08">
+				<Text>Paraná</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_ARGENTINA_09">
+				<Text>Posadas</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_ARGENTINA_10">
+				<Text>Neeuquén</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_ARGENTINA_11">
+				<Text>Salta</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_ARGENTINA_12">
+				<Text>San Juan</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_ARGENTINA_13">
+				<Text>San Luis</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_ARGENTINA_14">
+				<Text>Santa Fe de la Vera Cruz</Text>
+			</Row>
+		<Row Tag="TXT_KEY_CITY_ARGENTINA_15">
+			<Text>Santiago del Estero</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_ARGENTINA_21">
+			<Text>Ushuaia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_ARGENTINA_16">
+			<Text>Tucumán</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_ARGENTINA_17">
+			<Text>Resistencia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_ARGENTINA_18">
+			<Text>Rawson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_ARGENTINA_19">
+			<Text>Santa Rosa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_ARGENTINA_20">
+			<Text>Viedma</Text>
+		</Row>
+
+			<Row Tag="TXT_KEY_CIV_ARGENTINA_ADJECTIVE">
+				<Text>Argentine</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV_ARGENTINA_DESC">
+				<Text>Argentine Republic</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV_ARGENTINA_SHORT_DESC">
+				<Text>Argentina</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_ARGENTINA_HEADING_1">
+				<Text>Overview</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_ARGENTINA_TEXT_1">
+				<Text>
+					Argentina is a federal republic located in southeastern South America. Covering most of the Southern Cone, it is bordered by Bolivia and Paraguay to the north, Brazil to the northeast, Uruguay and the Atlantic Ocean to the east, Chile to the west and the waters of the Drake Passage to the south.
+					[NEWLINE][NEWLINE]Argentina is derived from the Latin argentum ("silver"). La Plata Basin does not have any sources of silver, but the first Spanish conquerors arrived in the area following rumors of the existence of silver mountains, hence the name.
+				</Text>
+			</Row>
+		<Row Tag="TXT_KEY_CIV5_ARGENTINA_HEADING_2">
+			<Text>Culture of Argentina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ARGENTINA_TEXT_2">
+			<Text>
+				The first use of the name Argentina can be traced to La Argentina, a 1602 poem by Martín del Barco Centenera. Although this name for the La Plata Basin was already in common usage by the 18th century, the area was formally called Viceroyalty of the Río de la Plata, and United Provinces of the Río de la Plata after independence.
+
+				[NEWLINE][NEWLINE]The culture of Argentina is as varied as the country's geography and is composed of a mix of ethnic groups. Modern Argentine culture has been largely influenced by European immigration, although there are lesser elements of Amerindian and African influences, particularly in the fields of music and art. Buenos Aires, its cultural capital, is largely characterized by both the prevalence of people of European descent, and of conscious imitation of European styles in architecture.Museums, cinemas, and galleries are abundant in all the large urban centers, as well as traditional establishments such as literary bars, or bars offering live music of a variety of genres.
+
+				[NEWLINE][NEWLINE]Argentina has a detailed literary history, as well as one of the region's most active publishing industries. Argentine writers have figured prominently in Latin American literature, since becoming a fully united entity in the 1850s, with a strong constitution and a defined nation-building plan. The struggle between the Federalists (who favored a loose confederation of provinces based on rural conservatism) and the Unitarians (pro-liberalism and advocates of a strong central government that would encourage European immigration), set the tone for Argentine literature of the time.
+
+				[NEWLINE][NEWLINE]The ideological divide between gaucho epic Martín Fierro by José Hernández, and Facundo by Domingo Faustino Sarmiento, is a great example. Hernández, a federalist, was opposed to the centralizing, modernizing, and Europeanizing tendencies. Sarmiento wrote in support of immigration as the only way to save Argentina from becoming subject to the rule of a small number of dictatorial caudillo families, arguing such immigrants would make Argentina more modern and open to Western European influences, and therefore a more prosperous society.
+
+				[NEWLINE][NEWLINE]Argentine literature of that period was fiercely nationalist. It was followed by the modernist movement, which emerged in France in the late 19th century, and this period in turn was followed by vanguardism, with Ricardo Güiraldes as an important reference. Jorge Luis Borges, its most acclaimed writer, found new ways of looking at the modern world in metaphor and philosophical debate, and his influence has extended to writers all over the globe. Borges is most famous for his works in short stories, such as Ficciones and The Aleph.
+
+				Some of the nation's notable writers, poets, and intellectuals include: Juan Bautista Alberdi, Roberto Arlt, Enrique Banchs, Adolfo Bioy Casares, Jorge Luis Borges, Silvina Bullrich, Eugenio Cambaceres, Julio Cortázar, Esteban Echeverría, Leopoldo Lugones, Eduardo Mallea, Ezequiel Martínez Estrada, Tomás Eloy Martínez, Victoria Ocampo, Manuel Puig, Ernesto Sabato, Osvaldo Soriano, Alfonsina Storni, and María Elena Walsh.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ARGENTINA_HEADING_3">
+			<Text>Argentine Music</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ARGENTINA_TEXT_3">
+			<Text>
+				The music of Argentina is known mostly for the tango, which developed in Buenos Aires and surrounding areas, as well as Montevideo, Uruguay. Folk, pop and classical music are also popular, and Argentine artists like Mercedes Sosa and Atahualpa Yupanqui contributed greatly to the development of the nueva canción. Argentine rock has also led to a defiant rock scene in Argentina.
+
+				[NEWLINE][NEWLINE]Folk music—called música folklórica or folklore in Spanish, from transliteration of the English folklore—comes in many forms, developed in different parts of Argentina with different European and indigenous influences. Among the first traditional folk groups to record extensively in Argentina, three of the most influential were from the northwest: Los Chalchaleros and Los Fronterizos from the Province of Salta and the Ábalos brothers from Santiago del Estero Province. Becoming nearly instant successes following their first albums around 1950, they inspired a revival of the genre in Argentina.
+
+				[NEWLINE][NEWLINE]A famous soloist in the genre is guitarrist Eduardo Falú, known for the many compositions that set traditional poetry into music. Traditional folk music became increasingly important during the protest movement against the military dictatorship and the community divisions of the 1970s, with artists like Mercedes Sosa and Atahualpa Yupanqui, contributing to the development of nueva canción. Soledad Pastorutti ('La Sole') has brought folklore to a new audience, and in the early 21st century Juana Molina has proposed a fusion between electronic music and folklore with ambient sounds, a gentle voice and short zambas.
+
+				[NEWLINE][NEWLINE]A well-known venue for Argentine folklore music, the Cosquín National Folklore Festival, has been gathering musicians from the genre annually since 1961. A modest event at first, the festival has grown to include folk musicians from neighboring countries and Asia, as well as from throughout Argentina, itself. Focusing on folklore music, the festival nevertheless features talent from the worlds of tango, acoustic music and international culture. On the same time of year is made the Cosquín Rock festival.
+
+				Originating in Santiago del Estero, Chacarera is accompanied by Spanish guitars and bombo legüero. The name originates from the word "chacra" ("farm"), as it was usually danced in rural areas, but it slowly made its way to the cities of that area.It is one of the few Argentine dances for couples where the woman has an equal opportunity to show off.
+
+				[NEWLINE][NEWLINE]Tango is a style of ballroom dance music in 2/4 or 4/4 time that originated among European immigrant populations of Argentina and Uruguay. It is traditionally played by a sextet, known as the orquesta típica, which includes two violins, piano, double bass, and two bandoneóns. Earlier forms of this ensemble sometimes included flute, clarinet and guitar. Tango may be purely instrumental or may include a vocalist. Tango music and dance have become popular throughout the world.
+
+				[NEWLINE][NEWLINE]Tango soon began to gain popularity in Europe, beginning in France. Superstar Carlos Gardel soon became a sex symbol who brought the tango to new audiences, especially in the United States, due to his sensual depictions of the dance on film. In the 1920s, tango moved out of the lower-class brothels and became a more respectable form of music and dance. Bandleaders like Roberto Firpo and Francisco Canaro dropped the flute and added a double bass in its place. Lyrics were still typically macho, blaming women for countless heartaches, and the dance moves were still sexual and aggressive.
+
+				[NEWLINE][NEWLINE]Carlos Gardel became especially associated with the transition from a lower-class "gangster" music to a respectable middle-class dance. He helped develop tango-canción in the 1920s and became one of the most popular tango artists of all time. He was also one of the precursors of the Golden Age of tango.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ARGENTINA_DOM">
+			<Text>
+				Salutations Eva Perón, spiritual leader of the Nation of Argentina, wife to Juan Perón. You defended the rights of Descamisados and Women in your great nation.
+				[NEWLINE][NEWLINE]Argentina is the second largest country in Latin America, and the largest among Spanish-speaking nations. Its name devired from the rumors of the existence of silver mountains. Argentina has a rich history in both pre-columbian and republican eras.
+				[NEWLINE][NEWLINE]With the primitive Hispanic American reality fractured in La Plata Basin due to immigration, its inhabitants have come to be somewhat dual with all the dangers but also with all the advantages of that condition: because of their European roots, they deeply link the nation with the enduring values of the Old World; because of their condition of Americans they link themselves to the rest of the continent, through the folklore of the interior and the old Castilian that unifies us, feeling somehow the vocation of the Patria Grande San Martín and Bolívar once imagined.
+				[NEWLINE][NEWLINE]Evita, your people still remember your deeds to the people in the darkest times. Will you help them build a nation of justice for everyone? Will you build a civilization that will stand the test of time?
+			</Text>
+		</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_EVITA_HEADING_1">
+				<Text>History</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_EVITA_TEXT_1">
+				<Text>
+					María Eva Duarte de Perón (7 May 1919 – 26 July 1952) was the second wife of Argentine President Juan Perón (1895–1974) and served as the First Lady of Argentina from 1946 until her death in 1952. She is usually referred to as Eva Perón, or by the affectionate Spanish language diminutive Evita.
+
+					She was born in the village of Los Toldos in The Pampas, rural Argentina in 1919, the youngest of five children. In 1934, at the age of 15, she went to the nation's capital of Buenos Aires, where she pursued a career as a stage, radio, and film actress. Eva met Colonel Juan Perón on 22 January 1944, in Buenos Aires during a charity event at the Luna Park Stadium to benefit the victims of an earthquake in San Juan, Argentina. The two were married the following year. In 1946, Juan Perón was elected President of Argentina. Over the course of the next six years, Eva Perón became powerful within the pro-Peronist trade unions, primarily for speaking on behalf of labor rights. She also ran the Ministries of Labor and Health, founded and ran the charitable Eva Perón Foundation, championed women's suffrage in Argentina, and founded and ran the nation's first large-scale female political party, the Female Peronist Party.
+
+					In 1951, Eva Perón announced her candidacy for the Peronist nomination for the office of Vice President of Argentina, receiving great support from the Peronist political base, low-income and working class Argentines who were referred to as descamisados or "shirtless ones". However, opposition from the nation's military and bourgeoisie, coupled with her declining health, ultimately forced her to withdraw her candidacy. In 1952, shortly before her death from cancer at the age of 33, Eva Perón was given the title of "Spiritual Leader of the Nation" by the Argentine Congress. Eva Perón was given a state funeral upon her death, a prerogative generally reserved for heads of state.
+
+					Eva Perón has become a part of international popular culture, most famously as the subject of the musical Evita (1976). Cristina Alvarez Rodriguez, Evita's great niece, claims that Evita has never left the collective consciousness of Argentines. Cristina Fernández de Kirchner, the first female elected President of Argentina, claims that women of her generation owe a debt to Eva for "her example of passion and combativeness".
+				</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_EVITA_LIVED">
+				<Text>7 May 1919 – 26 July 1952</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_EVITA_NAME">
+				<Text>María Eva Duarte de Perón</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_EVITA_SUBTITLE">
+				<Text>Spiritual Leader of the Nation of Argentina</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_EVITA">
+				<Text>Eva Perón</Text>
+				<Gender>feminine</Gender>
+			</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_EVITA_TITLES_1">
+				<Text>Spiritual Leader of the Nation of Argentina</Text>
+			</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_EVITA_TITLES_2">
+			<Text>Evita</Text>
+		</Row>
+			<Row Tag="TXT_KEY_TRAIT_PRIDE">
+				<Text>
+					+1 [ICON_FOOD] on Pastures. Upon researching Civil Service receive a special citizen type in all your cities (The Descamisado), which yields +2 [ICON_CULTURE] and +2 [ICON_PRODUCTION] and works towards generation of a Great Person of your choice.
+				</Text>
+			</Row>
+			<Row Tag="TXT_KEY_TRAIT_PRIDE_SHORT">
+				<Text>Pride of the People</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_ARGENTINA_0">
+				<Text>Cortázar</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_ARGENTINA_1">
+				<Text>Fontanarrosa</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_ARGENTINA_2">
+				<Text>Borges</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_ARGENTINA_3">
+				<Text>Laiseca</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_ARGENTINA_4">
+				<Text>Crossa</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_ARGENTINA_5">
+				<Text>Aira</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_ARGENTINA_6">
+				<Text>Piazzolla</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_ARGENTINA_7">
+				<Text>Valcárcel</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_ARGENTINA_8">
+				<Text>Shakespear</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_ARGENTINA_9">
+				<Text>Sabato</Text>
+			</Row>
+
+
+
+			<Row Tag="TXT_KEY_BUILDING_ARGENTINA">
+				<Text>Descamisado Slots</Text>
+			</Row>
+			<Row Tag="TXT_KEY_BUILDING_ARGENTINA_DESC">
+				<Text>Special Citizen Slots for Argentina earned after the discovery of Civil Service</Text>
+			</Row>
+			<Row Tag="TXT_KEY_BUILDING_ARGENTINA_STRATEGY">
+				<Text>Argentina has the special ability of assigning a different Specialist called the Descamisado. Production and Culture at the same time, the Descamisados allow for a more varied specialization of your cities</Text>
+			</Row>
+			<Row Tag="TXT_KEY_BUILDING_ARGENTINA_HELP">
+				<Text>Special Citizen Slots for Argentina earned after the discovery of Civil Service</Text>
+			</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_TANGUERIA">
+			<Text>Tanguería</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TANGUERIA_HELP">
+			<Text>Argentine replacement for Opera House. Earn a special theming bonus after filling the Music slots with Argentine Music</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TANGUERIA_STRATEGY">
+			<Text>Descamisado's are the special citizen kind for Argentina, and the Tanguería makes use of them. Tanguerías are a good option for building a strong yet productive culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TANGUERIA_TEXT">
+			<Text>
+				[NEWLINE][NEWLINE]Tanguería is a way of calling Tango Halls, or places where Tango is played and developed. Tango is a style of ballroom dance music in 2/4 or 4/4 time that originated among European immigrant populations of Argentina and Uruguay. It is traditionally played by a sextet, known as the orquesta típica, which includes two violins, piano, double bass, and two bandoneóns. Earlier forms of this ensemble sometimes included flute, clarinet and guitar. Tango may be purely instrumental or may include a vocalist. Tango music and dance have become popular throughout the world.
+
+				[NEWLINE][NEWLINE]Tango soon began to gain popularity in Europe, beginning in France. Superstar Carlos Gardel soon became a sex symbol who brought the tango to new audiences, especially in the United States, due to his sensual depictions of the dance on film. In the 1920s, tango moved out of the lower-class brothels and became a more respectable form of music and dance. Bandleaders like Roberto Firpo and Francisco Canaro dropped the flute and added a double bass in its place. Lyrics were still typically macho, blaming women for countless heartaches, and the dance moves were still sexual and aggressive.
+
+				[NEWLINE][NEWLINE]Carlos Gardel became especially associated with the transition from a lower-class "gangster" music to a respectable middle-class dance. He helped develop tango-canción in the 1920s and became one of the most popular tango artists of all time. He was also one of the precursors of the Golden Age of tango.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TANGUERIA_THEME">
+			<Text>If you want to maximize the theming bonus for the Tanguería, you must fill the slots with Argentine Music</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_TANGUERIA">
+			<Text>House of Argentine Tango</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_UNIT_GAUCHO">
+			<Text>Gaucho</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_UNIT_GAUCHO_HELP">
+			<Text>Replacement for Cavalry. The Gaucho has an increased withdraw chance, and may build farms and pastures faster than workers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GAUCHO_STRATEGY">
+			<Text>With the extra withdraw chance, the Gaucho is a very versatile unit. Its worker abilities can help newly found cities be more productive quickly</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GAUCHO_TEXT">
+			<Text>
+				Gaucho is a term commonly used to describe residents of the South American pampas, Gran Chaco, or Patagonian grasslands, found principally in parts of Argentina, Rio Grande do Sul in the south of Brazil, Uruguay, Paraguay, eastern and southern Bolivia and Southern Chile. In Brazil, gaúcho is also the main gentilic of the people from the state of Rio Grande do Sul.
+
+				[NEWLINE][NEWLINE]Gaucho is a loose equivalent of the North American "cowboy" (vaquero, in Spanish). Like the North American word cowboy, the Chilean huaso, the Cuban guajiro, the Venezuelan or Colombian llanero or the Mexican charro, the term often connotes the 19th century more than the present day; then gauchos made up the majority of the rural population, herding cattle on the vast estancias, and practicing hunting as their main economic activities.
+
+				[NEWLINE][NEWLINE]There are several conflicting hypotheses concerning the origin of the term. It may derive from the Mapuche cauchu ("vagabond") or from the Quechua huachu ("orphan"), which gives also a different word in American Spanish, guacho and Brazilian Portuguese gaúcho. The first recorded uses of the term date from around the time of Argentine independence in 1816.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_GAUCHO">
+			<Text>Montoneras</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GAUCHO_HELP">
+			<Text>Increased withdrawal chance</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPECIALIST_DESCAMISADO">
+			<Text>Descamisado</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_DESCAMISADO_SLOTS">
+			<Text>Descamisado Slots</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPECIALIST_DESCAMISADO_STRATEGY">
+			<Text>Argentine Descamisados generate +2 [ICON_CULTURE] Culture, +2 [ICON_PRODUCTION] Production and work towards a Great Person of your choice.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOOSEGP">
+			<Text>Great Person</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CHOOSEGP">
+			<Text>Great Person</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CHOOSEGP_HELP">
+			<Text>A Great Person of your Choice!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

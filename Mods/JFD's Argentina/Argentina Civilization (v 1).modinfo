@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="4050cf28-434b-4df9-8689-c7d0a5a54358" version="1">
+  <Properties>
+    <Name>Argentina Civilization</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Argentina Civilization to Brave New World, with Eva Peron as its leader!</Teaser>
+    <Description>Adds the Argentina Civilization to Brave New World, with Eva Peron as its leader!</Description>
+    <Authors>Leugi, Pouakai</Authors>
+    <SpecialThanks>Pouakai</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="86E8194D6B1D988C9BFDF9174B326B18" import="1">Art/Icons/AlphaArgentinaIcon128.dds</File>
+    <File md5="470ADE09D168A969F4BC56B91A2C4F27" import="1">Art/Icons/AlphaArgentinaIcon16.dds</File>
+    <File md5="92A72DA97B552392F351BCF919BC399C" import="1">Art/Icons/AlphaArgentinaIcon24.dds</File>
+    <File md5="78C47053DABAFD0370D2D034607B26F9" import="1">Art/Icons/AlphaArgentinaIcon256.dds</File>
+    <File md5="69D41FF52E6A2AEC3FE229B8E4189192" import="1">Art/Icons/AlphaArgentinaIcon32.dds</File>
+    <File md5="0C0F3435A3286340B7917F025BBD4D27" import="1">Art/Icons/AlphaArgentinaIcon45.dds</File>
+    <File md5="84B61759D34453BB7A561CD9C2317307" import="1">Art/Icons/AlphaArgentinaIcon48.dds</File>
+    <File md5="BBCE78818DAA5F3A4D379BB1700F4BAF" import="1">Art/Icons/AlphaArgentinaIcon64.dds</File>
+    <File md5="ADA046D700502F07F08A39460CA92ECB" import="1">Art/Icons/AlphaArgentinaIcon80.dds</File>
+    <File md5="55ED31176D909AE322E614B62B2879EA" import="1">Art/Icons/ArgentinaIcons128.dds</File>
+    <File md5="1200F0E9E8C0D3057CE14B196D4F0064" import="1">Art/Icons/ArgentinaIcons256.dds</File>
+    <File md5="B45F7A66B51E1AD15819437BD2BC66FD" import="1">Art/Icons/ArgentinaIcons32.dds</File>
+    <File md5="F7AC25B9B6D5E2DC8BE1FD41740D64D5" import="1">Art/Icons/ArgentinaIcons45.dds</File>
+    <File md5="579DB70E1EC53875EE9E316D5244A857" import="1">Art/Icons/ArgentinaIcons64.dds</File>
+    <File md5="CFEDA3C7628974D64882EF73269AD3F5" import="1">Art/Icons/ArgentinaIcons80.dds</File>
+    <File md5="2E57A58B8BCB061F105AC5A63BFFB5A6" import="1">Art/Leader/ArgentinaDOM.dds</File>
+    <File md5="264169FF7541AEFF2735FE73FC3AA2D2" import="1">Art/Leader/ArgentinaMap.dds</File>
+    <File md5="9564671199C528DE6285F97097C8FC0D" import="1">Art/Leader/Evita.dds</File>
+    <File md5="61EF3675329194CD4A7AC6CE9ACB3271" import="1">Art/Models/flag_gaucho.dds</File>
+    <File md5="D588609360B63747D67CECB05D6B74FC" import="1">Art/Models/gaucho.fxsxml</File>
+    <File md5="8FE88B43990BE1E2B109BF8DB274178F" import="1">Art/Models/Gaucho.gr2</File>
+    <File md5="B884D0090E83DE56165F9B2888D8DC97" import="1">Art/Models/gaucho_diff.dds</File>
+    <File md5="DD29C01FD3A0151261CE7C7B4822791C" import="1">Art/Models/gaucho_sref.dds</File>
+    <File md5="5BAF9C35DA7408E6FD22992D33B689FF" import="1">Art/Models/gaucho_worker.dds</File>
+    <File md5="976CB359654C7B69DD464B510851E9F3" import="1">Art/Models/gaucho_worker.fxsxml</File>
+    <File md5="D084931382DBEDD664D960283E93C9C0" import="1">Art/Models/gaucho_worker.gr2</File>
+    <File md5="159CC2F0D772EB417C7235BCA7E377BA" import="1">Art/Models/gaucho_worker_sref.dds</File>
+    <File md5="0F7E17DA945B3741530921F470B5FB46" import="1">Art/Models/sv_gaucho.dds</File>
+    <File md5="1326B30D904881FD55C8515EB25F016D" import="0">Lua/ChooseGPspecialist.lua</File>
+    <File md5="59EBD2672B68890E6B164933519F9413" import="1">Lua/CultureOverview.lua</File>
+    <File md5="1CA3E188E405983ED49E5154C2860C1E" import="0">Lua/FreeBuildingonTech.lua</File>
+    <File md5="ABA929780ED199780D9986DBBBDA7178" import="0">SQL/ArgentinaArtDefines.sql</File>
+    <File md5="A60F977FF291EDCA1B064CA17ACE5888" import="0">SQL/TSL.sql</File>
+    <File md5="06E7F9DCABCA08C29CA68D1FA3D05EEE" import="0">XML/Buildings/BuildingsArgentina.xml</File>
+    <File md5="DBDD52A2A0CF1C852219A0DDC89A3E1B" import="0">XML/Civilization/ArgentinaCivilization.xml</File>
+    <File md5="AFB416223E360C27BFDFBE5A4B6A45A2" import="0">XML/Civilization/ArgentinaTrait.xml</File>
+    <File md5="C292FDFB678EC0AA70B9C9FE241B0950" import="0">XML/Civilization/MontevideoCS.xml</File>
+    <File md5="AED8864CF6A8C558667F9AE117D35D34" import="0">XML/Icons/ArgentinaIconAtlas.xml</File>
+    <File md5="1F8DA5742D3C00C516CDAA28E1538C9D" import="1">XML/Leader/EvitaWar.mp3</File>
+    <File md5="AD1ACFAF1430AE3FBF69F7DD2C6B7B84" import="1">XML/Leader/EvitaPeace.mp3</File>
+    <File md5="7E1E2D3E87E13E9BA79451A727248ED2" import="0">XML/Leader/LeaderEvita.xml</File>
+    <File md5="9C17B504194FA6039A1B2B863F5AC4DF" import="1">XML/Leader/Evita_Scene.xml</File>
+    <File md5="153B2846E5684F580643E324E97F369A" import="1">XML/Leader/unknownicon80.dds</File>
+    <File md5="B1223636DDC21A1EA1A3C284000F45F9" import="0">XML/Music/ArgentinaAudioScripts.xml</File>
+    <File md5="9BFDB614AD31B7C40F0320957271D99C" import="0">XML/Text/ArgentinaText.xml</File>
+    <File md5="94E1752091D0CEFEDAE48601EF295280" import="0">XML/Text/ArgentinaTextESxml.xml</File>
+    <File md5="58049AF0CB6F8C22369F07AF502F9E8C" import="0">XML/Units/UnitsArgentina.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>SQL/ArgentinaArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/BuildingsArgentina.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization/ArgentinaCivilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization/ArgentinaTrait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization/MontevideoCS.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Icons/ArgentinaIconAtlas.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader/Evita_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader/LeaderEvita.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/ArgentinaText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/UnitsArgentina.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Music/ArgentinaAudioScripts.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/ArgentinaTextESxml.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/TSL.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/ChooseGPspecialist.lua">
+      <Name>ChooseGPSpecialist</Name>
+      <Description>ChooseGPSpecialist</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/FreeBuildingonTech.lua">
+      <Name>Free Descamisado Slots</Name>
+      <Description>Free Descamisado Slots</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

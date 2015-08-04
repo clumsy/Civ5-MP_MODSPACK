@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/18/2013 3:41:06 PM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_PRIDE</Type>
+			<Description>TXT_KEY_TRAIT_PRIDE</Description>
+			<ShortDescription>TXT_KEY_TRAIT_PRIDE_SHORT</ShortDescription>
+
+		</Row>
+	</Traits>
+	<Trait_ImprovementYieldChanges>
+		<Row>
+			<TraitType>TRAIT_PRIDE</TraitType>
+			<ImprovementType>IMPROVEMENT_PASTURE</ImprovementType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Trait_ImprovementYieldChanges>
+	<Specialists>
+		<Row>
+			<Type>SPECIALIST_DESCAMISADO</Type>
+			<Description>TXT_KEY_SPECIALIST_DESCAMISADO</Description>
+			<Strategy>TXT_KEY_SPECIALIST_DESCAMISADO_STRATEGY</Strategy>
+			<GreatPeopleTitle>TXT_KEY_SPECIALIST_DESCAMISADO_TITLE</GreatPeopleTitle>
+			<Visible>true</Visible>
+			<Cost>0</Cost>
+			<GreatPeopleUnitClass>UNITCLASS_CHOOSEGP</GreatPeopleUnitClass>
+			<GreatPeopleRateChange>2</GreatPeopleRateChange>
+			<CulturePerTurn>2</CulturePerTurn>
+			<IconAtlas>CITIZEN_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+		</Row>	
+	</Specialists>
+	<SpecialistYields>
+		<Row>
+			<SpecialistType>SPECIALIST_DESCAMISADO</SpecialistType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</SpecialistYields>
+</GameData>

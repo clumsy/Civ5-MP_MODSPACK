@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/6/2013 9:18:46 AM -->
+<GameData>
+	<Language_en_US>
+		<Update>
+			<Set Text="Montevideo"/>
+			<Where Tag="TXT_KEY_CITYSTATE_BUENOS_AIRES"/>
+		</Update>
+		<Update>
+			<Set Text="Montevideo"/>
+			<Where Tag="TXT_KEY_CITYSTATE_BUENOS_AIRES_ADJ"/>
+		</Update>
+		<Update>
+			<Set Text="Montevideo is the largest city, the capital, and the chief port of Uruguay. The settlement was established in 1724 by Bruno Mauricio de Zabala, as a strategic move amidst a Spanish-Portuguese dispute over the platine region, and as a counter to the Portuguese colony at Colonia del Sacramento. 
+[NEWLINE][NEWLINE]Described as a 'vibrant, eclectic place with a rich cultural life', it is the hub of commerce and higher education in Uruguay: its first university, the Universidad de la República, was founded in 1849. The architecture of Montevideo reflects its history, ranging from colonial to Art Deco, and influenced by Spanish, Portuguese, Italian, French and British immigrants."/>
+			<Where Tag="TXT_KEY_CIV5_BUENOS_AIRES_TEXT"/>
+		</Update>
+	</Language_en_US>
+
+	<Language_ES_ES>
+		<Update>
+			<Set Text="Montevideo"/>
+			<Where Tag="TXT_KEY_CITYSTATE_BUENOS_AIRES"/>
+		</Update>
+		<Update>
+			<Set Text="de Montevideo"/>
+			<Where Tag="TXT_KEY_CITYSTATE_BUENOS_AIRES_ADJ"/>
+		</Update>
+		<Update>
+			<Set Text="Montevideo es la capital y ciudad más poblada de la República Oriental del Uruguay. Es, asimismo, sede del Mercosur y de la ALADI. Los resultados finales del censo de 2011 estimaban una población de 1.319.108, y 1.947.604 habitantes en su área metropolitana. Se ubica en la zona meridional del país, siendo la capital más austral de América. Limita al oeste con el departamento de San José y al norte y este con el de Canelones, al sur tiene costas sobre el Río de la Plata, donde se ubican la bahía de Montevideo y el principal puerto de la región. La ciudad se encuentra dividida en 8 municipios y 62 barrios. Montevideo es una ciudad global de categoría beta, según un estudio de GaWC, posicionándose como la octava de Latinoamérica"/>
+			<Where Tag="TXT_KEY_CIV5_BUENOS_AIRES_TEXT"/>
+		</Update>
+	</Language_ES_ES>
+	<MinorCivilizations>
+		<Update>
+			<Set ArtStyleType="ARTSTYLE_GRECO_ROMAN"/>
+			<Where Type="MINOR_CIV_BUENOS_AIRES"/>
+		</Update>	
+	</MinorCivilizations>
+
+</GameData>

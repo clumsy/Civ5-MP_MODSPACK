@@ -1,0 +1,47 @@
+<GameData>
+	<Audio_Sounds>
+
+		<!--Evita Music-->
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_EVITA_PEACE</SoundID>
+			<Filename>EvitaPeace</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_EVITA_WAR</SoundID>
+			<Filename>EvitaWar</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<!--Evita Music-->
+	</Audio_Sounds>
+	<Audio_2DSounds>
+		<!--Evita Music For Audio Scripts-->
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_EVITA_PEACE</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_EVITA_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_EVITA_WAR</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_EVITA_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_AMBIENCE_LEADER_EVITA_AMBIENCE</ScriptID>
+			<SoundID>SND_AMBIENCE_CITY_MODERN_LARGE</SoundID>
+			<SoundType>GAME_SFX</SoundType>
+			<Looping>true</Looping>
+			<MinVolume>20</MinVolume>
+			<MaxVolume>20</MaxVolume>
+		</Row>
+		<!--Evita Music-->
+	</Audio_2DSounds>
+	
+
+</GameData>
