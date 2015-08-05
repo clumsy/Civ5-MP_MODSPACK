@@ -1334,6 +1334,10 @@ ContextPtr:LoadNewContext("JFD_PapalFunctions")
 ContextPtr:LoadNewContext("Akkad_UA")
 ContextPtr:LoadNewContext("Akkad_Laputtu")
 
+-- Nation - Argentina --
+ContextPtr:LoadNewContext("ChooseGPSpecialist")
+ContextPtr:LoadNewContext("Free Descamisado Slots")
+
 -- Nation - Buccaneers --
 ContextPtr:LoadNewContext("BuccaneerUA")
 ContextPtr:LoadNewContext("Civilization_StartNearResource")
