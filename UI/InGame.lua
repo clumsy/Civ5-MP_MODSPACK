@@ -1330,6 +1330,10 @@ ContextPtr:LoadNewContext("Oman Functions")
 ContextPtr:LoadNewContext("Napoleonic France Functions")
 ContextPtr:LoadNewContext("JFD_PapalFunctions")
 
+-- Nation - Akkad --
+ContextPtr:LoadNewContext("Akkad_UA")
+ContextPtr:LoadNewContext("Akkad_Laputtu")
+
 -- Nation - Buccaneers --
 ContextPtr:LoadNewContext("BuccaneerUA")
 ContextPtr:LoadNewContext("Civilization_StartNearResource")
