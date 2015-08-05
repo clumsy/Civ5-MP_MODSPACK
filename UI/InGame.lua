@@ -1335,8 +1335,8 @@ ContextPtr:LoadNewContext("Akkad_UA")
 ContextPtr:LoadNewContext("Akkad_Laputtu")
 
 -- Nation - Argentina --
-ContextPtr:LoadNewContext("ChooseGPSpecialist")
-ContextPtr:LoadNewContext("Free Descamisado Slots")
+ContextPtr:LoadNewContext("ChooseGPspecialist")
+ContextPtr:LoadNewContext("FreeBuildingonTech")
 
 -- Nation - Byzantium --
 ContextPtr:LoadNewContext("JFD_ByzantiumAlexios_Functions")
