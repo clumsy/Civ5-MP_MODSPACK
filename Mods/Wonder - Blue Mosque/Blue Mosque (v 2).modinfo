@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="eaf3a87b-a8a2-4e05-b946-8919d33d14a4" version="2">
+  <Properties>
+    <Name>Blue Mosque</Name>
+    <Description>This mod adds Blue Mosque as a World Wonder. Requires Acoustics, grants +3 [ICON_HAPPINESS_1] and  +1 [ICON_CULTURE], and +1 [ICON_RESEARCH] for each two [ICON_CITIZEN] in the city.[NEWLINE][NEWLINE]The Sultan Ahmed Mosque is a historical mosque in Istanbul, the largest city in Turkey and the capital of the Ottoman Empire. The mosque is popularly known as the Blue Mosque for the blue tiles adorning the walls of its interior. It was built between 1609 and 1616, during the rule of Ahmed I. Like many other mosques, it also comprises a tomb of the founder, a madrasah and a hospice. Blue Mosque is one of the most impressive monuments in the world and is the culmination of two centuries of both Ottoman mosque and Byzantine church development.</Description>
+    <Authors>Lukasz 'asioasioasio' Mackowiak</Authors>
+    <Homepage>http://www.civ.org.pl</Homepage>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsMac>1</SupportsMac>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="7B79450DC1A7CD3593E27B06C6A41F10">Art/BlueMosque128.dds</File>
+    <File md5="2B4151078CBFF8D7C7055F17AB08A087">Art/BlueMosque256.dds</File>
+    <File md5="60B53983D1C553D142B6D96BA5B1B83C">Art/BlueMosque45.dds</File>
+    <File md5="CD635FE1B969D489FD83B9626CF4422E">Art/BlueMosque64.dds</File>
+    <File md5="FE38D801C697195BBD42EBBDDB80D889">Art/BlueMosque80.dds</File>
+    <File md5="40FDA84670CA4B22F4F7B4591DB0506E">Art/Blue_Mosque.gr2</File>
+    <File md5="FFBF7C00C91C2F04B5DFA2F003C5E054">Art/Blue_Mosque_diff.dds</File>
+    <File md5="C20058BDCA8545A39A45947AB92D42A4">Art/HBBlueMosque_diff.dds</File>
+    <File md5="32CCD658822789919EEAB3E803467F04">Art/WonderConceptBlueMosque.dds</File>
+    <File md5="0A9AFB2B51A98F6F321299571757445B">XML/BlueMosque_Atlas.xml</File>
+    <File md5="0E67118AA135DE11C5390EB2B2E89603">XML/BlueMosque_Settings.xml</File>
+    <File md5="360B906068B83C44D1B5C2C92157AE33">XML/BlueMosque_Text.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/BlueMosque_Atlas.xml</UpdateDatabase>
+      <UpdateDatabase>XML/BlueMosque_Settings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/BlueMosque_Text.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

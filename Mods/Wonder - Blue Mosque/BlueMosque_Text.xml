@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/5/2010 1:21:34 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_WONDER_BLUE_MOSQUE_DESC">
+			<Text>Blue Mosque</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_BLUE_MOSQUE_PEDIA">
+			<Text>The Sultan Ahmed Mosque is a historical mosque in Istanbul, the largest city in Turkey and the capital of the Ottoman Empire. The mosque is popularly known as the Blue Mosque for the blue tiles adorning the walls of its interior. It was built between 1609 and 1616, during the rule of Ahmed I. Like many other mosques, it also comprises a tomb of the founder, a madrasah and a hospice. Blue Mosque is one of the most impressive monuments in the world and is the culmination of two centuries of both Ottoman mosque and Byzantine church development.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_BLUE_MOSQUE_HELP">
+			<Text>The Blue Mosque gives +1 [ICON_CULTURE] and +1 [ICON_RESEARCH] for each two [ICON_CITIZEN] in the city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_BLUE_MOSQUE_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"They who attain to faith and do righteous deeds are destined for happiness in this world and the most beauteous of all goals in the life to come."[NEWLINE][TAB][TAB] - Qur'an 13:29[NEWLINE][TAB]</Text>
+		</Row>
+	</Language_en_US>
+	<Language_PL_PL>
+		<Row Tag="TXT_KEY_WONDER_BLUE_MOSQUE_DESC">
+			<Text>Błękitny Meczet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_BLUE_MOSQUE_PEDIA">
+			<Text>Błękitny Meczet (właściwie Meczet Sułtana Ahmeda) - meczet w Stambule, który jest jednym z ostatnich, a zarazem najwspanialszych przykładów tzw. "klasycznego okresu" sztuki islamskiej w Turcji. Budowę meczetu, w 1609, rozpoczął w towarzystwie urzędników państwowych sam sułtan Ahmed I (wówczas 19-letni), którego ambicją było stworzyć budowlę wspanialszą od stojącej w pobliżu Hagia Sofii. O wadze świątyni, która miała stać się najważniejszym meczetem Imperium osmańskiego, świadczyło również jej położenie - bezpośrednio przy Pałacu Topkapi. Swego znaczenia nie stracił on nawet po tym, gdy siedzibę sułtana przeniesiono do Pałacu Dolmabahçe. Do meczetu dołączono kompleks innych budynków: medresę, jadłodajnie dla ubogich, szpital, hale handlowe, szkołę, mauzoleum, karawanseraj oraz fontannę.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_BLUE_MOSQUE_HELP">
+			<Text>Błękitny Meczet daje +1 [ICON_CULTURE] i +1 [ICON_RESEARCH] za każdych dwóch [ICON_CITIZEN] w mieście.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_BLUE_MOSQUE_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Ci, którzy osiągaja wiarę i czynią dobre uczynki, są przeznaczeni do osiągnięcia szczęścia na tym świecie i najpiękniejszego ze wszystkich celów w życiu, które nadejdzie."[NEWLINE][TAB][TAB] - Koran 13:29[NEWLINE][TAB]</Text>
+		</Row>		
+	</Language_PL_PL>
+</GameData>
