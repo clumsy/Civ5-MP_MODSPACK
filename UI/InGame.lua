@@ -1343,7 +1343,7 @@ ContextPtr:LoadNewContext("JFD_ByzantiumAlexios_Functions")
 ContextPtr:LoadNewContext("JFD_ByzantiumTheodora_Functions")
 
 -- Nation - Muscovy --
-ContextPtr:LoadNewContext("Sukritact's MCIS")
+ContextPtr:LoadNewContext("CityInfoStack")
 ContextPtr:LoadNewContext("JFD_Muscovy_Sobor_CityInfo")
 ContextPtr:LoadNewContext("JFD_Muscovy_Functions")
 
