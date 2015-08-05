@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<ArtDefine_StrategicView>
+		<Replace>
+			<StrategicViewType>ART_DEF_UNIT_BUCCANEER_CORSAIR</StrategicViewType>
+			<TileType>Unit</TileType>
+			<Asset>sv_corsair.dds</Asset>
+		</Replace>
+		<InsertOrAbort>
+			<StrategicViewType>ART_DEF_IMPROVEMENT_DISTILLERY</StrategicViewType>
+			<TileType>Improvement</TileType>
+			<Asset>SV_distillery.dds</Asset>
+		</InsertOrAbort>
+	</ArtDefine_StrategicView>
+</GameData>

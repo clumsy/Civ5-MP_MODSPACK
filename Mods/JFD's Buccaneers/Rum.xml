@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/3/2012 8:08:10 PM -->
+<GameData>
+	<Resources>
+		<Row>
+			<Type>RESOURCE_RUM</Type>
+			<Happiness>4</Happiness>
+			<TechCityTrade>TECH_MACHINERY</TechCityTrade>
+			<Description>TXT_KEY_RESOURCE_RUM</Description>
+			<Civilopedia>TXT_KEY_RESOURCE_RUM_PEDIA</Civilopedia>
+			<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+			<ArtDefineTag>ART_DEF_RESOURCE_SUGAR</ArtDefineTag>
+			<AltArtDefineTag>ART_DEF_RESOURCE_SUGAR</AltArtDefineTag>
+			<AIObjective>3</AIObjective>
+			<PlacementOrder>4</PlacementOrder>
+			<ConstAppearance>50</ConstAppearance>
+			<MinAreaSize>3</MinAreaSize>
+			<MaxLatitude>0</MaxLatitude>
+			<RandApp1>25</RandApp1>
+			<RandApp2>25</RandApp2>
+			<Player>67</Player>
+			<IconString>[ICON_RES_RUM]</IconString>
+			<PortraitIndex>3</PortraitIndex>
+			<IconAtlas>BUCCANEER_ATLAS</IconAtlas>
+		</Row>
+	</Resources>
+	<Resource_YieldChanges>
+		<Row>
+			<ResourceType>RESOURCE_RUM</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Resource_YieldChanges>
+	<Resource_Flavors>
+		<Row>
+			<ResourceType>RESOURCE_RUM</ResourceType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+	</Resource_Flavors>
+</GameData>

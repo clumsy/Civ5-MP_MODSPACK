@@ -1,0 +1,22 @@
+<Asset>
+  <Mesh file="distillery_hb.gr2" source="Max" />
+	<Animation file="distillery_anim00.gr2" ec="1000" source="Max" layer="None" />
+	<Animation file="distillery_anim01.gr2" ec="1001" source="Max" layer="None" />
+	<Animation file="distillery_anim02.gr2" ec="1002" source="Max" layer="None" />
+	<Animation file="distillery_anim03.gr2" ec="1003" source="Max" layer="None" />
+	<Texture file="FX_Blk_Blk4x4.dds" source="Max" />
+	<Texture file="Polder_1_SREF.dds" source="Max" />
+	<Texture file="Polder_2_GRND_DIFF.dds" source="Max" />
+	<Texture file="Polder_A_SREF.dds" source="Max" />
+	<Texture file="Polder_A_Upgrade_DIFF.dds" source="Max" />
+	<Texture file="Polder_B_SREF.dds" source="Max" />
+	<Texture file="Polder_B_Upgrade_DIFF.dds" source="Max" />
+	<Texture file="Polder_HB_GRND_H.dds" source="Max" />
+	<Texture file="Polder_Upgrade_DIFF.dds" source="Max" />
+	<Texture file="Windmill_DIFF.dds" source="Max" />
+	<Texture file="Windmill_SREF.dds" source="Max" />
+	<Texture file="Unit_Environment_Dull.dds" source="Max" />
+	<Texture file="Unit_Environment_Sharp.dds" source="Max" />
+	<Texture file="Unit_Irradiance.dds" source="Max" />
+	<DecisionTree file="LandmarkDecisionTree4.ddtxml" source="Tool" />
+</Asset>

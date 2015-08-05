@@ -1,0 +1,398 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Pouakai -->
+<GameData>
+	<Language_en_US>
+		<!--Unique Unit-->
+		<Row Tag="TXT_KEY_UNIT_BUCCANEER_CORSAIR">
+			<Text>Corsair</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BUCCANEER_CORSAIR_HELP">
+			<Text>Privateer replacement, unique to the Buccaneers. Receives a temporary combat boost after raiding a trade route, and has an additional bonus against naval units, unlike the privateer which it replaces.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BUCCANEER_CORSAIR_STRATEGY">
+			<Text>The Corsair is the unique replacement for the Privateer for the Buccaneers. Unlike the Privateer, this unit gains a boost in [ICON_STRENGTH] Strength after pillaging a trade route, making it excellent at causing distress for other civilizations. It also gains a combat bonus when fighting other Naval Units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BUCCANEER_CORSAIR_PEDIA">
+			<Text>A Corsair was any private person or ship contracted by a government to attack foreign vessels during wartime, which found prominence during the 16 to 19th centuries under the employment of most of the day's European colonial powers. Although the term 'Corsair', or 'Privateer', is not strictly synonymous with the term 'Pirate,' the distinction between the two is often vague, given that they both participate in the same activities. This has allowed pirates throughout history to operate under a false assumption of legitimacy.</Text>
+		</Row>
+		<!--Unique Improvement-->
+		<Row Tag="TXT_KEY_BUCCANEER_DISTILLERY">
+			<Text>Distillery</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_BUCCANEER_DISTILLERY_HELP">
+			<Text>If built on a [ICON_RES_SUGAR] Sugar resource, converts it to a source of [ICON_RES_RUM] Rum. After 40 turns of being worked, the Distillery upgrades to a Vintage Distillery, which provides additional yields.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_BUCCANEER_DISTILLERY_TEXT">
+			<Text>The Distillery is a unique improvement for the Buccaneers. When built upon a sugar resource, the distillery converts the sugar into a source of the unique Rum luxury resource, which can be traded like any other. All distilleries, whether built on sugar or not, will upgrade to a Vintage Distillery after 40 turns of being worked, which increases its usual yields.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUCCANEER_DISTILLERY_VINTAGE">
+			<Text>Vintage Distillery</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_BUCCANEER_DISTILLERY_VINTAGE_HELP">
+			<Text>If built on a [ICON_RES_SUGAR] Sugar resource, converts it to a source of [ICON_RES_RUM] Rum.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_BUCCANEER_DISTILLERY_VINTAGE_TEXT">
+			<Text>The Vintage Distillery is an enhanced version of the Distillery, the unique tile improvement for the Buccaneers. A Vintage Distillery cannot be built; instead, a regular Distillery will become a Vintage Distillery after 40 turns fo being worked.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_BUCCANEER_DISTILLERY">
+			<Text>Construct a [LINK=IMPROVEMENT_BUCCANEER_DISTILLERY]Distillery[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_BUCCANEER_DISTILLERY_HELP">
+			<Text>A Distillery constructed on a source of [ICON_RES_SUGAR] Sugar converts it into a source of [ICON_RES_RUM] [COLOR_POSITIVE_TEXT]Rum[ENDCOLOR]. Distilleries worked for at least 40 turns will upgrade automatically into a Vintage Distillery, which increases its usual yields.[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]NOTE[ENDCOLOR] Distilleries do NOT connect [ICON_RES_SUGAR] Sugar.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_BUCCANEER_DISTILLERY_REC">
+			<Text>It will provide a source of [ICON_RES_RUM] Rum ad upgrade into a Vintage Distillery after 40 turns of being worked, which increases its usual yields.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_RUM">
+			<Text>Rum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_RUM_PEDIA">
+			<Text>Rum is an alcoholic beverage often associated with piracy in the Caribbean. The resource is made by the fermentation of sugar, and as a result, the Caribbean Islands make the perfect place to grow this, and they produce the majority of the world’s rum. The liquid in question was normally made by slaves in the Caribbean during the Colonial Era, and even though it is no longer produced in such circumstances, it still has an association with this, although its naval culture is probably more famous. Rum was used by both colonials and pirates, mostly by their naval forces. As Rum required plantation and distillery work to be produced, it was highly regarded as a commodity, hence the tales today of pirates stealing and drinking rum, even though this is somewhat factually incorrect. The Pirates would use it to purchase slaves, inducing in underhand methods to get this done. In the British Navy, soldiers were given a Rum Ration, which started in 1665. This was an amount of rum that the soldiers were allowed to have, and was diluted to the right amount that they wouldn’t get drunk. This practice was only abolished in 1970. On top of this, several other navies gave out rum rations, and the Canadian Navy still give it out on special occasions today.[NEWLINE][NEWLINE]In Colonial America, Rum Distilleries were set up all around the coastline. Rum became a main source of income in New England; in fact, Rhode Island Rum was even used as an European currency for a time. Rum was apparently sold during the American War of Independence, and even afterwards it had a prominent role in society, and helped to fuel the war because of the Sugar Tax imposed on America. The major problems with the resource were that as demands for sugar were high in Europe, the slaves had to be pushed harder to get both rum and sugar onto the market, and furthermore, restrictions on the drink in the Colonial Caribbean lead to a decline in popularity. This, combined with the new craze for Whisky, ended the drink’s dominance in North America. However, it is still available today, and has a large role in popular culture as the drink of Pirates and Buccaneers.</Text>
+		</Row>
+		<!--Promotion Tags-->
+		<Row Tag="TXT_KEY_PROMOTION_HIGH_SEA_RAIDING">
+			<Text>Scourge of the High Seas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HIGH_SEA_RAIDING_HELP">
+			<Text>Combat bonus from pillaging trade routes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LETTER_OF_MARQUE">
+			<Text>Letter of Marque</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LETTER_OF_MARQUE_HELP">
+			<Text>May enter enemy territory without open borders, but risks conversion to barbarians if it starts a turn on an enemy tile. </Text>
+		</Row>
+		<!--Unique Ability-->
+		<Row Tag="TXT_KEY_TRAIT_LETTER_OF_MARQUE_SHORT">
+			<Text>Letter of Marque</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LETTER_OF_MARQUE">
+			<Text>Naval units can enter enemy territory without open borders, but may turn hostile if they end their turn on a tile owned by an enemy. Receive extra [ICON_GOLD] Gold for each trade route pillaged, city captured or unit killed</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_BUCCANEER_PILLAGE_CITY_ALERT">
+			<Text>+{1_Num} extra [ICON_GOLD] Gold plundered from the treasures of this city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_BUCCANEER_PILLAGE_TRADE_ALERT">
+			<Text>+{1_Num} extra [ICON_GOLD] Gold plundered from the treasures of this Trade Route.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PIRATE_DEFECT">
+			<Text>The Captain of a {1_UnitName:textkey} has gone rouge and become a Barbarian!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PIRATE_DEFECT_CORSAIR">
+			<Text>The Captain of the {1_UnitName:textkey} has gone rouge and become a Barbarian!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PIRATE_DEFECT_SHORT">
+			<Text>[COLOR_NEGATIVE_TEXT]Captain defected![ENDCOLOR]</Text>
+		</Row>
+		<!--Denonyms-->
+		<Row Tag="TXT_KEY_BUCCANEER_DESC">
+			<Text>The Buccaneers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUCCANEER_SHORT_DESC">
+			<Text>The Buccaneers</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_BUCCANEER_ADJECTIVE">
+			<Text>Buccaneer</Text>
+		</Row>
+		<!-- DOM Text-->
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_BUCCANEER_TEXT">
+			<Text>Ahoy, captain Henry Morgan! Your crew eagerly await your command! You were among the most feared pirates ever to set sail in the waters of the Caribbean, plundering Spanish trade routes and pillaging countless settlements, from Puerto Principe to Panama and from Mexico to Maracaibo. None escaped your wrath, for your actions knew no national boundaries, instilling fear into friend and foe alike despite your work for the English. It was this which would be your downfall, for you were betrayed and arrested by those whom benefited most from your buccaneering in order to please a former enemy. And yet, your legacy lives on.[NEWLINE][NEWLINE]Sir Henry Morgan, your men call your name! They wish for you to take up the mantle of captain once more, to lead them into battle at land and sea! Will you answer their call? Will you terrorise the seas once more, and all those who sail upon her? Will you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!--Diplo lines-->
+		<Row Tag="TXT_KEY_LEADER_HENRY_MORGAN_FIRST_GREETING_1">
+			<Text>What have we here? A spineless landlubber not yet set sail a day in their life, or one worthy to cross swords with me aboard my limitless empire? Well? Speak.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HENRY_MORGAN_FIRST_GREETING_2">
+			<Text>Behold, I am Henry Morgan. I am a captain of the Royal Navy, but I am loyal only to myself and to the life that I choose to live upon the seas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HENRY_MORGAN_DEFEATED_1">
+			<Text>You think it a noble cause to rid the seas of my fleet, but you and I are not so different. Our differences lie merely in the use of our tongues. I am an honest man, and you are not.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HENRY_MORGAN_DEFEATED_2">
+			<Text>I go to Davy Jones' Locker with no remorse. I am but one man who has lived his life in pursuit of his share of the seas. There will come others.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HENRY_MORGAN_GREETING_POLITE_HELLO">
+			<Text>Ahoy, my friend. What can this humble captain do for you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HENRY_MORGAN_GREETING_HOSTILE_HELLO">
+			<Text>It would take little for me to teach you the ways of poverty, just so you know.</Text>
+		</Row>
+		<!--Spy Names-->
+		<Row Tag="TXT_KEY_SPY_NAME_BUCCANEER_0">
+			<Text>Gibbs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BUCCANEER_1">
+			<Text>Barbossa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BUCCANEER_2">
+			<Text>Bootstrap Bill</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BUCCANEER_3">
+			<Text>Gentleman Jocard</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BUCCANEER_4">
+			<Text>Captaine Chevalle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BUCCANEER_5">
+			<Text>Edward Teague</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BUCCANEER_6">
+			<Text>Sao Feng</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BUCCANEER_7">
+			<Text>Miss Swann</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BUCCANEER_8">
+			<Text>Mistress Ching</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BUCCANEER_9">
+			<Text>Cutlass Liz</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--Unit Names-->
+		<Row Tag="TXT_KEY_CORSAIR_BLACKBEARD">
+			<Text>Blackbeard</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CORSAIR_BLACK_BART_ROBERTS">
+			<Text>Black Bart Roberts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CORSAIR_SAM_BELLAMY">
+			<Text>Sam Bellamy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CORSAIR_CALICO_JACK_RACKHAM">
+			<Text>Calico Jack Rackham</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CORSAIR_LOLONNAIS">
+			<Text>L'Olonnais</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CORSAIR_WILLIAM_KIDD">
+			<Text>William Kidd</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CORSAIR_STEDE_BONNET">
+			<Text>Stede Bonnet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CORSAIR_JEAN_LAFITTE">
+			<Text>Jean Lafitte</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CORSAIR_ANNE_BONNY">
+			<Text>Anne Bonny</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CORSAIR_ELIZABETH_KILLIGREW">
+			<Text>Elizabeth Killigrew</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CORSAIR_MARY_READ">
+			<Text>Mary Read</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CORSAIR_JEAN_BART">
+			<Text>Jean Bart</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CORSAIR_WILLIAM_DAMPIER">
+			<Text>William Dampier</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CORSAIR_HENRY_AVERY">
+			<Text>Henry Avery</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CORSAIR_EDWARD_KENWAY">
+			<Text>Edward Kenway</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CORSAIR_FRANCIS_DRAKE">
+			<Text>Francis Drake</Text>
+		</Row>
+		<!--Civilopedias-->
+		<Row Tag="TXT_KEY_BUCCANEER">
+			<Text>The Buccaneers</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_BUCCANEER_TITLE">
+			<Text>The Buccaneers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_ BUCCANEER_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_ BUCCANEER_TEXT_1">
+			<Text> The buccaneers were pirates and privateers that sailed the Caribbean Sea and surrounding waters from the 1500s to the early 1800s. They preyed upon Spanish treasure ships laden with the gold and silver that the conquistadors had plundered from the former empires of Mesoamerica and the Andes, among other sources of colonial wealth. Some enjoyed the patronage of kings and colonial governors; others served no masters but their own wanton avarice. A diverse and disjointed lot, their ranks included French Corsairs, Dutch Sea Beggars, and English Sea Dogs. Black flags rose over strange tides to herald a pirate raid upon a hapless vessel or seaside town, and, in time, black flags sank to the depths to herald to end of the pirates’ reign, as national navies sought to make the seas safe for their merchants.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_ BUCCANEER_HEADING_2">
+			<Text>Geography</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_ BUCCANEER_TEXT_2">
+			<Text> The buccaneers prowled the Caribbean Sea. This large tropical sea is bound to the south by South America, to the west by Central America, to the north by the four large islands of the Greater Antilles, and to the east by the numerous small islands of the Lesser Antilles. While the interior of the Caribbean is nearly devoid of land of any sort, the numerous small islands and sheltered coves around its periphery provided pirates with secret harbors from which they could ambush unsuspecting vessels bound for Europe. These islands are all tropical, with temperatures rarely falling below 70° F (21° C). Tropical storms are common and violent hurricanes frequently wrack the islands. In the days of the buccaneers, various colonial powers employed this climate to support their sugar and tobacco plantations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_ BUCCANEER_HEADING_3">
+			<Text>No Peace Beyond the Line</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_ BUCCANEER_TEXT_3">
+			<Text>Following European contact with the New World, the Treaty of Tordesillas divided the world between the Portuguese and the Spanish empires. This treaty provoked France, as the third major Catholic power in western Europe, to challenge the other two for a piece of colonial prize. King Francis I unleashed privateers deep into the far-flung waters of the Spanish empire. Among them were Jean Fleury, the first great Corsair. In 1522, Fleury ambushed three Spanish galleons full of Aztec gold and other wonders plundered by Cortes. Fleury and his men captured two of the ships, for which Francis I rewarded them handsomely. Within a year, Fleury took thirty Portuguese and Spanish vessels before being tried and hanged for his piracy. The corsair’s career as a buccaneer had come to an end, but the lucrative industry of Caribbean piracy had only just begun.[NEWLINE][NEWLINE]By the mid-1500s, English and Dutch pirates had joined their French counterparts on the high seas. Spain quietly negotiated with France for a “line of amity” near the Azores. On the European side of the line, Spanish ships sailed without fear, but there was no peace beyond the line. For all its imperial might, Spain could do little to stop the buccaneers. They were simply too numerous and dispersed to confront effectively. Any attack against the nation that sponsored them allowed provide those nations with more incentive to sponsor more. Soon those nations had their own colonies established in the Caribbean, having used the buccaneers to seize Spanish ports or to stealthily build their own. The buccaneers could now operate locally and the Golden Age of Piracy dawned.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_ BUCCANEER_HEADING_4">
+			<Text>The Brethren of the Coast</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_ BUCCANEER_TEXT_4">
+			<Text>By the 1560s, Spain’s competitors were colonial powers in their own right. English pirates weighed anchor from Port Royal. French corsairs made Tortuga their port-of-call. Curaçao became the epicenter of Dutch power in the region. Smugglers and other disreputable folk of all nations frequented Trinidad. So many colonial powers vying for dominance in the region created opportunities for men and women ruthless enough to kill for profit. Unfortunately for the people of the Caribbean, there was no shortage of those who thought blood was a small price to pay for gold.[NEWLINE][NEWLINE] Edward Mansvelt was the first great pirate of this era and became the informal leader of the Brethren of the Coast, a loose coalition of pirate captains and their crews that had its roots a few decades earlier. Though Dutch by heritage, Mansvelt was a weapon wielded by England’s governor in Jamaica and profited greatly by raiding Spanish vessels and coasts. Together with his protégé, Henry Morgan, Mansvelt attempted to establish a buccaneer-ruled colony on Providence Island, off the Mosquito Coast, after capturing the settlement from the Spanish. In 1666, after dying from a mysterious illness or the hangman’s noose (accounts differ), Mansvelt’s authority among the Brethren passed to Morgan.[NEWLINE]]NEWLINE]Though Morgan came to the Caribbean as a laborer on an English plantation on Barbados, he soon found a more fulfilling career as a buccaneer. After capturing several vessels of the coast of the Yucatan, Morgan earned the respect of his peers and served directly under Mansvelt as they terrorized the Cuba coast. After Mansvelt’s death, he went on to led his pirate fleet against the Spanish in Panama and Venezuela. After capturing three Spanish forts and a major Panamanian port, Morgan received a letter from the local colonial governor asking to known what cunning strategy Morgan had employed and begging him never to return to Panama. In response, Morgan sent the governor one of his prized pistols and the promise that he would soon take it back by force. In 1670, Morgan and his pirates cross the Isthmus of Panama to plunder Panama City itself on the Pacific Coast. Unlike so many of his Brethren, Morgan lived long enough to enjoy his ill-gotten wealth and received a knighthood rather than an execution for his efforts.[NEWLINE][NEWLINE]Many famous pirates came and went following Morgan’s reign of terror: Blackbeard, Charles Vane, Calico Jack, Mary Read, to name just a few. But as the Golden Age drew to a close, one last great pirate would stalk the high seas. In terms of vessels taken, Bartholomew Roberts was the most successful of all the buccaneers. More than 470 ships fell to Roberts’ attacks. Originally a sailor on a merchant vessel, Roberts was press-ganged into piracy. He soon saw the appeal of such a lifestyle and famously said, “In an honest service there is thin commons, low wages, and hard labour. In this, plenty and satiety, pleasure and ease, liberty and power; and who would not balance creditor on this side, when all the hazard that is run for it, at worst is only a sour look or two at choking? No, a merry life and a short one shall be my motto.” Roberts’ reach extended beyond the Caribbean as he sated his greed on vessels from Newfoundland to Brazil and eastward to African coast. His motto proved prophetic. In 1722, just three years after turning to piracy, Roberts fell in a battle with the English Royal Navy. With him died the Golden Age of Piracy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_ BUCCANEER_HEADING_5">
+			<Text>The Problem with Being the Last of Anything</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_ BUCCANEER_TEXT_5">
+			<Text>By the early 1700s, European nations had grown weary of entrusting the battles to mercenaries and privateers. As they built up their own national armies and navies, the necessity of sponsoring independent and unruly buccaneers decreased precipitously. By the time of Roberts’ death, piracy had become a wholly illegal enterprise in the Caribbean. The port cities that once sheltered pirates now hanged them. Only frontier towns like Nassau remained a safe harbor for the lingering pirates that haunted the fringes of Caribbean society. As the glory days of the pirate faded, a few still managed to become notorious, and in this era more so than Jean Lafitte.[NEWLINE][NEWLINE]Lafitte was born either in France or the French Caribbean colony of Saint-Domingue in 1776. He began his infamous career fencing goods his brother smuggled into New Orleans, but was forced to relocate to a tiny island off the coast of Louisiana once the United States began cracking down on smugglers. By 1810, this island became the base for his growing pirate fleet which hunted throughout the Gulf of Mexico. The United States defeated Lafitte’s pirates near the end of the War of 1812, but Lafitte himself escaped justice by aiding the United States in the Battle of New Orleans. After the war, Lafitte moved his operations again to an island off the coast of Texas, establishing an ill-fated buccaneer colony known as Campeche. His life of piracy ended with an unsuccessful attack against Spanish vessels off the coast of Mexico.[NEWLINE][NEWLINE]While isolated buccaneers like Lafitte continued to operate from time to time, the era of the pirate officially ended in 1856 with the Paris Declaration Respecting Maritime Law. This international agreement abolished privateering and prohibited the seizure of neutral goods except for wartime contraband. Such laws made all acts of piracy illegal and removed the last vestiges of the buccaneers power.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_ BUCCANEER_FACTOID_HEADING">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_BUCCANEER_FACTOID_TEXT ">
+			<Text>Pirate flags are known generically as Jolly Rogers. Usually black in color, they signified that no quarter would be given to those who resisted. Each pirate flew a unique flag. The most iconic Jolly Roger, the Skull and Crossbones, was flown by Black Sam Bellamy and Edward England. Many other Jolly Rogers had similar designs, such as Calico Jack Rackham’s Skull and Crossed Swords.[NEWLINE][NEWLINE]In order to keep the peace among their crew of murderers and thieves, many buccaneers developed their own Pirate Codes, or the Articles of Agreement. The first of such codes was enacted by the mysterious Portuguese buccaneer Bartolomeu Português in the 1660s. Others were penned by Henry Morgan and Bartholomew Roberts. Common provisions in these codes included methods of payment, rules against gambling on board the vessel, and obligations for the crew to maintain the ship and their weapons.</Text>
+		</Row>
+		<!--Leader Civilopedia-->
+		<Row Tag="TXT_KEY_LEADER_HENRY_MORGAN_DESC">
+			<Text>Henry Morgan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HENRY_MORGAN_LIVED">
+			<Text>1635 – 1688 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HENRY_MORGAN_NAME">
+			<Text>Henry Morgan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HENRY_MORGAN_SUBTITLE">
+			<Text>Leader of The Buccaneers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HENRY_MORGAN_TITLES_1">
+			<Text>Captain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HENRY_MORGAN_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HENRY_MORGAN_TEXT_1">
+			<Text>Sailing against England’s enemies for glory and gold as a privateer, Henry Morgan and his buccaneer fleet terrorized the Caribbean for over a decade. Morgan relied on determination, ruthlessness, and savvy to rise from humble beginnings to become one of the most feared and successful pirates of his day.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HENRY_MORGAN_HEADING_2">
+			<Text>Early Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HENRY_MORGAN_TEXT_2">
+			<Text>Henry was the firstborn son of Robert Morgan, a Welsh farmer, near what is today Ely, Wales. His extended family was well connected in the English society, as his uncles were both high-ranking military officers and governors at various points in their lives. By 1655, he had arrived in the Caribbean, bound in service to Timothy Tounsend as a plantation laborer. Though some believed he arrived in Barbados as an indentured servant, in his later years Morgan would successfully challenge such claims as libelous. Others say he came to the Caribbean as a sailor fighting for Oliver Cromwell’s bid to seize control of Hispaniola. Though the expedition failed, it did manage to take control of Jamaica instead, where Morgan’s uncle Edward was became Lieutenant-Governor. Here Morgan’s career as a privateer began.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HENRY_MORGAN_HEADING_3">
+			<Text>Vice Admiralty </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HENRY_MORGAN_TEXT_3">
+			<Text>Once Jamaica was secured, Port Royal served as a base of operations for English privateers throughout the Caribbean. Among them was Christopher Myngs, a notorious pirate known for his excessive cruelty and unhinged demeanor. Under Myngs’ leadership, Morgan first became captain of his own vessel in 1661. Assembling the largest pirate fleet yet seen in the Carribbean, Myngs led an assault against Cuba and Mexico with the backing of Lord Windsor, the governor of Jamaica, who sought to weaken Spanish power in the region despite the wishes of King Charles II to maintain peace with Spain. During the fighting off the coast of Campenche, Morgan seized several Spanish ships and earned himself fame and fortune. Windsor, however, was recalled by King Charles and replaced with Thomas Modyford.[NEWLINE][NEWLINE]King Charles ordered Governor Modyford to recall the pirates. Despite his affectations of loyalty to the crown, Modyford neglected to issue the recall and instead redirected the pirates attention toward a new enemy: the Dutch. Hoping to remove the Dutch from the Caribbean, Modyford acquired the services of Edward Mansvelt, a Dutch corsair, who appointed Morgan as his Vice Admiral for the expedition. Fearing their primary target, the Dutch colony of Curaçao, was not worth the risk it posed, the pirates voted on a new, more lucrative target. Mansvelt and Morgan set sail for the Spanish colony of Isla de Providencia, off the coast of Costa Rica.[NEWLINE][NEWLINE]Mansvelt and Morgan’s pirates easily defeated the unprepared colony and destroy all but one of the forts after the Spanish surrendered. The colony became their base of operations while they raided the shores of Costa Rica. With Modyford’s support, the pirates attempted to establish their own colonial rule on Isla de Providencia, but the raiders proved to be more rulers. The experiment soon failed as the Spanish retook the island.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HENRY_MORGAN_HEADING_4">
+			<Text>Scourge of the Spanish Main </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HENRY_MORGAN_TEXT_4">
+			<Text>Upon returning to Port Royal in 1667, Morgan received a commission of his own from Modyford and for the first time led an expedition of his own. Fearing Spanish retaliation against Port Royal, Modyford dispatched Morgan to Cuba to capture some Spanish in hopes of learning details of such a plot. Morgan and his five-hundred men sacked the city of Puerto Principe and captured prisoners. On his second expedition against Cuba, Morgan initially hoped to attack Havana itself but was convinced to sack Puerto Principe again, a much easier target. The expedition failed as a fierce storm forced his fleet to come ashore in the wrong part of Cuba. Puerto Principe received warning in advanced of the pirates’ arrival, and its citizens fled with their wealth. Unsatisfied with the meager riches he plundered from the deserted city, Morgan set his sights on a new target.[NEWLINE][NEWLINE]Morgan’s fleet set sail for Porto Bello, Panama. The city was a fearsome target, guarded by three Spanish forts, but its bloated warehouses were too tempting to ignore. Under the cover of darkness, the pirates seized the first fort while many of its soldiers slept. The defenders of the second fort killed many of the pirates, but the pirates’ ships bombarded the fort and provided cover for the men scaling its walls. Seeing the ease with which Morgan’s men defeated the other two forts, the third fort retreated. While Morgan’s men sacked Porto Bello, the Spanish amassed a counter-attack. Their efforts were fruitless. Morgan anticipated their arrival and laid in ambush. Despite their superior numbers, the Spanish were defeated. Morgan’s men plundered Porto Bello at their leisure for the next two months, claiming 200,000 pieces-of-eight as their reward.[NEWLINE][NEWLINE]Morgan sought an even greater prize than Porto Bello. Cartagena, on the coast of Columbia, held all the treasures of Peru awaiting the long journey to Spain. However, Morgan’s flagship was destroyed during the preparations, many of his men deserted, and poor winds reduced his fleet in half by the time he reached the coast of South America. With only five-hundred men, Morgan had little chance against Cartagena and instead turned his attention to the city of Maracaibo. The people of the city received warning of the impending attack and fled. Unwilling to let such wealth slip away from him as it had in Puerto Principe, Morgan tortured what captives he found and learned where the city’s treasure was hidden. After sacking the town of Gibraltar and claiming Maracaibo’s wealth, Morgan’s fleet set sail for home. A small Spanish fleet awaited them as they entered the Caribbean, but through Morgan’s cunning, the Spanish ships were destroyed, captured or run aground and the nearby fort stealthily avoided.[NEWLINE][NEWLINE]Following the attacks on Maracaibo and Gibraltar, the Spanish sought to end the Jamaican threat. Morgan was appointed commander-in-chief of Jamaica’s navy and raided the coast of Cuba again, plundering its stores and destroying its ships. Following his successes in Cuba, Morgan sailed once more to Panama. After seizing the coastal fortress of San Lorenzo, Morgan marched across the isthmus to capture Panama City. Morgan’s men celebrated their victory over the Spanish soldiers guarding the city with drunken revelry, oblivious to the treasure galleon being loaded with the city’s wealth and escaping under inebriated noses. Failing to gain the wealth they desired, Morgan’s pirates left the city in flames and headed home.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HENRY_MORGAN_HEADING_5">
+			<Text>Later Years</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HENRY_MORGAN_TEXT_5">
+			<Text>Morgan’s career as a pirate ended when he returned from Panama. The attack had unknowingly violated a peace treaty signed by England and Spain earlier that year. Morgan was arrested and tried for this crime in England, but successfully proved he had not known of the peace treaty at the time. A few years later, in 1674, Morgan was knighted and sent back to the Caribbean as Lieutenant Governor of Jamaica, a post he held until 1681. That year, the new Governor removed him from the Jamaican Council. A drunken and rowdy retirement followed until his death in August of 1688.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HENRY_MORGAN_HEADING_6">
+			<Text>Judgment of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HENRY_MORGAN_TEXT_6">
+			<Text>Today Henry Morgan remains one of the most famous and iconic pirates to prey upon the Caribbean. Years of tensions between England and other European powers in the Caribbean allowed pirates like Morgan to flourish. Ranking among the ten wealthiest pirates, his success is not only measured in the treasure he plundered from his enemies; unlike so many pirates, Morgan evaded the hangman’s noose and lived to enjoy his wealth.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HENRY_MORGAN_FACTOID_HEADING">
+			<Text>Henry Morgan Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HENRY_MORGAN_FACTOID_TEXT">
+			<Text>While recruiting pirates for his expedition, Morgan famously wore lavish red silks and fine gold to advertise his prior success.[NEWLINE][NEWLINE]Morgan plunder has been estimated as the equivalent of $14.2 million, in modern US currency.[NEWLINE][NEWLINE] While Morgan was never captured by his enemies, he didn’t manage to avoid a watery grave. In 1692, the cemetery in which he was buried sank into the sea during an earthquake.</Text>
+		</Row>
+		<!--City List-->
+		<Row Tag="TXT_KEY_CITY_NAME_BUCCANEER_PORT_ROYAL">
+			<Text>Port Royal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BUCCANEER_TORTUGA">
+			<Text>Tortuga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BUCCANEER_NASSAU">
+			<Text>Nassau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BUCCANEER_PUERTO_CABELLO">
+			<Text>Puerto Cabello</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BUCCANEER_PETIT-GOAVE">
+			<Text>Petit-Goave</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BUCCANEER_LEOGANE">
+			<Text>Leogane</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BUCCANEER_CAMPECHE">
+			<Text>Campeche</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BUCCANEER_LA_HABANA">
+			<Text>La Habana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BUCCANEER_ST._KITTS">
+			<Text>St. Kitts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BUCCANEER_NEVIS">
+			<Text>Nevis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BUCCANEER_FLORIDA_KEYS">
+			<Text>Florida Keys</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BUCCANEER_SAN_JUAN">
+			<Text>San Juan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BUCCANEER_ST._EUSTATIUS">
+			<Text>St. Eustatius</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BUCCANEER_BRIDGETOWN">
+			<Text>Bridgetown</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BUCCANEER_CARTAGENA">
+			<Text>Cartagena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BUCCANEER_PORTOBELLO">
+			<Text>Portobello</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BUCCANEER_KINGSTON">
+			<Text>Kingston</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BUCCANEER_CURACAO">
+			<Text>Curacao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BUCCANEER_MARACAIBO">
+			<Text>Maracaibo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BUCCANEER_PORT-AU-PRINCE">
+			<Text>Port-au-Prince</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BUCCANEER_BELIZE">
+			<Text>Belize</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BUCCANEER_FREEPORT">
+			<Text>Freeport</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BUCCANEER_GEORGETOWN">
+			<Text>Georgetown</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BUCCANEER_CUMANA">
+			<Text>Cumana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BUCCANEER_CIUDAD_DEL_CARMEN">
+			<Text>Ciudad del Carmen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BUCCANEER_NUEVITAS">
+			<Text>Nuevitas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BUCCANEER_CIENFUEGOS">
+			<Text>Cienfuegos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BUCCANEER_BASSE-TERRE">
+			<Text>Basse-Terre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BUCCANEER_FORT-DE-FRANCE">
+			<Text>Fort-de-France</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BUCCANEER_CIUDAD_GUAYANA">
+			<Text>Ciudad Guayana</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

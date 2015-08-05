@@ -1329,3 +1329,10 @@ ContextPtr:LoadNewContext("CityInfoStack")
 ContextPtr:LoadNewContext("Oman Functions")
 ContextPtr:LoadNewContext("Napoleonic France Functions")
 ContextPtr:LoadNewContext("JFD_PapalFunctions")
+
+-- Nation - Buccaneers --
+ContextPtr:LoadNewContext("BuccaneerUA")
+ContextPtr:LoadNewContext("Civilization_StartNearResource")
+ContextPtr:LoadNewContext("CorsairCode")
+ContextPtr:LoadNewContext("Improvement_ProcessResourceTypes")
+ContextPtr:LoadNewContext("JFD_Buccaneer_Functions")

@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="163921fd-fbbd-49d1-83af-c119802d8245" version="1">
+  <Properties>
+    <Name>The Buccaneers</Name>
+    <Teaser>A name that struck fear into all within the Caribbean, the Buccaneers were the most feared pirates of the age of sail</Teaser>
+    <Description>A name that struck fear into all within the Caribbean, the Buccaneers were the most feared pirates of the age of sail</Description>
+    <Authors>Pouakai, Sukritact, janboruta, Leugi, Reedstilt, JFD</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="6DD315345E70ADF9A8AC57F79A5B8326" import="1">Art/Atlases/BuccaneerAlpha_128.dds</File>
+    <File md5="C8C822CA863AE22626FDD0DAD9C1A3DB" import="1">Art/Atlases/BuccaneerAlpha_16.dds</File>
+    <File md5="357FE0E0FAADAFAC71D3230CAB80B7A6" import="1">Art/Atlases/BuccaneerAlpha_24.dds</File>
+    <File md5="4270BCD31A4BBB9ADD57DC3F74D0C5B2" import="1">Art/Atlases/BuccaneerAlpha_256.dds</File>
+    <File md5="33600C4A5AF0D8E58AA2261CD564B6FE" import="1">Art/Atlases/BuccaneerAlpha_32.dds</File>
+    <File md5="273CB21D78F6B65366917764E3B7E1B2" import="1">Art/Atlases/BuccaneerAlpha_45.dds</File>
+    <File md5="9530EDC04B5852CDDA9D0CB5CCA07C3D" import="1">Art/Atlases/BuccaneerAlpha_48.dds</File>
+    <File md5="196397A393FA1A72A88B679DA5831AE8" import="1">Art/Atlases/BuccaneerAlpha_64.dds</File>
+    <File md5="4EBB91D02ED67F7C313BA0EA248718AE" import="1">Art/Atlases/BuccaneerAlpha_80.dds</File>
+    <File md5="EE3CDAB7A1E58A527208152BA1782252" import="1">Art/Atlases/Buccaneer_128.dds</File>
+    <File md5="C8E0CA9BD9272B29EBA50A0212FB7D7E" import="1">Art/Atlases/Buccaneer_16.dds</File>
+    <File md5="69BA0F5E08C1DB12C627EC9420A2E19A" import="1">Art/Atlases/Buccaneer_24.dds</File>
+    <File md5="B4BCE5210253535713CAB53352690B03" import="1">Art/Atlases/Buccaneer_256.dds</File>
+    <File md5="92E1710C7304CDC017E6D230B7182C39" import="1">Art/Atlases/Buccaneer_32.dds</File>
+    <File md5="30A234A4C7A154816429FC733C2C1842" import="1">Art/Atlases/Buccaneer_45.dds</File>
+    <File md5="B832ECF7F8CF558C5B2BF98723DEEC7B" import="1">Art/Atlases/Buccaneer_48.dds</File>
+    <File md5="D5C3A672123C9C4DF0014C3AB7E00101" import="1">Art/Atlases/Buccaneer_64.dds</File>
+    <File md5="669F8451F17F74B79B8B2C58DA9E1C48" import="1">Art/Atlases/Buccaneer_80.dds</File>
+    <File md5="6FC6C06B257242C3D469493911BF9BC8" import="1">Art/Fonticon/Rum_Fonticon.xml</File>
+    <File md5="E132B0B869C540CAAA1AF2D87FCD1F45" import="1">Art/Fonticon/Rum_fonticon.ggxml</File>
+    <File md5="C335CBEF807D6F34B8ACBF20290555A2" import="1">Art/Fonticon/Rum_fonticon.dds</File>
+    <File md5="D366037EEA60B8E596AF796F3D86D270" import="1">Art/Models/Corsair/corsair.fxsxml</File>
+    <File md5="CD8343014458B6FA5323F0990DBC67F8" import="1">Art/Models/Corsair/corsair.gr2</File>
+    <File md5="314C215CF8D1D4446355D2E9A26610C3" import="1">Art/Models/Corsair/corsair_diff.dds</File>
+    <File md5="1B2F4B510B34D5EAFE66C951B1DE175F" import="1">Art/Models/Corsair/flag_corsair.dds</File>
+    <File md5="C2308E8A5089677CC1F87EC6072E87E9" import="1">Art/Models/Corsair/sv_corsair.dds</File>
+    <File md5="DA0E6A8BC36499DFA88F4A1B10C5B332" import="1">Art/Models/Distillery/distillery.fxsxml</File>
+    <File md5="ECD234DEB1C0ED70EF5961EB2DA59F01" import="1">Art/Models/Distillery/distillery.gr2</File>
+    <File md5="2896194E5E9183C3447AA810810EB66C" import="1">Art/Models/Distillery/distillery_decal.dds</File>
+    <File md5="BB85AE665670B2B832D1E155A42E22E0" import="1">Art/Models/Distillery/distillery_diff.dds</File>
+    <File md5="AEC08B6FD7C62A85D2EE3468BF4AD9AB" import="1">Art/Models/Distillery/distillery_hb.fxsxml</File>
+    <File md5="4CFBB0B3ECBA294C84B3204B75056500" import="1">Art/Models/Distillery/distillery_hb.gr2</File>
+    <File md5="507E5770B323D61C94C81F96ABAC6B1F" import="1">Art/Models/Distillery/distillery_pl.fxsxml</File>
+    <File md5="3E34E6CEECFF2AA85ABBBE81115898D1" import="1">Art/Models/Distillery/distillery_pl.gr2</File>
+    <File md5="773F0EFC703922FF4E4B0FB0D27829CA" import="1">Art/Models/Distillery/distillery_pl_diff.dds</File>
+    <File md5="34312FAE4DAF47C3CDEC57D07086C61F" import="1">Art/Models/Distillery/distillery_pl_fx.ftsxml</File>
+    <File md5="901EC6A65AB0D266AC533518D286A714" import="1">Art/Models/Distillery/sv_distillery.dds</File>
+    <File md5="512DF51EC040AD25CBB1028202A0E59A" import="1">Art/Scenes/Buccaneer_Leaderhead.dds</File>
+    <File md5="1257FE0F7F361E2D4E9C11CD8F0F91DB" import="1">Art/Scenes/Buccaneer_DoM.dds</File>
+    <File md5="CE5CA080FB032D9BB83AB8D2D385D50F" import="1">Art/Scenes/Buccaneer_Map.dds</File>
+    <File md5="FA793048BD225034D3F2E8DFE2EAB5C0" import="0">Lua/BuccaneerUA.lua</File>
+    <File md5="7F76EDBAE6AD958359CBB1A58CD09B70" import="0">Lua/Civilization_StartNearResource.lua</File>
+    <File md5="0C1B4417692BB0A4C0B9A028DB5536A4" import="0">Lua/CorsairCode.lua</File>
+    <File md5="A78A6C6D42D9AA9735C6658DFDFF4418" import="1">Lua/Improvement_ProcessResourceTypes.lua</File>
+    <File md5="6A143316E2ED2F1C139E41F360E0F887" import="0">Lua/JFD_Buccaneer_Functions.lua</File>
+    <File md5="3B7B1EE92949FC3B7B9308074F036BEB" import="1">Lua/NewSaveUtils.lua</File>
+    <File md5="D63DC8BB6AA0F310DD55B264DB49C7E2" import="1">Lua/PlotIterators.lua</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">Lua/SaveUtils.lua</File>
+    <File md5="99F2A98D94FE32DE96344FD32C44CDD3" import="1">Sounds/HenryMorganPeace.mp3</File>
+    <File md5="D4EE72EA80A956BAEC8BB9AE51BE9B2D" import="1">Sounds/HenryMorganWar.mp3</File>
+    <File md5="95017B178D7639B4B2BBF570DA0F64F8" import="1">Sounds/BuccaneerDoM.mp3</File>
+    <File md5="83384D6E1120C2A930E2AEF6CE529DF5" import="0">SQL/Civilization_StartNearResource.sql</File>
+    <File md5="773EC0BD18029DBFE72504FC355C322A" import="0">SQL/CorsairDefine.sql</File>
+    <File md5="B80A994F2BE40090D265EE216FC771BF" import="0">SQL/DistilleryDefine.sql</File>
+    <File md5="34DE6AB3884853B81B16C700548AED03" import="0">SQL/Improvement_ProcessResourceTypes.sql</File>
+    <File md5="03535774473AB01BCD0381D25204863C" import="1">XML/Art/Buccaneer_Leaderhead.xml</File>
+    <File md5="A30047745F93BD7369DF496D2C345F6E" import="0">XML/Civilizations/Buccaneer_Civilizations.xml</File>
+    <File md5="E864870FD994EC2E7D0AF6CC7894AB09" import="0">XML/Civilizations/Buccaneer_Strategic.xml</File>
+    <File md5="DE935FCD93B4E9DF0BB0883C216D2AD2" import="0">XML/GameInfo/Buccaneer_IconTextureAtlases.xml</File>
+    <File md5="7CF6729E51EDA38447A940FD10967585" import="0">XML/GameInfo/Buccaneer_Sounds.xml</File>
+    <File md5="1365D1B06EAC04F9205523C44B97C941" import="0">XML/GameInfo/Buccaneer_Traits.xml</File>
+    <File md5="2C9AE036E9ADF0AA42FA44D26B1E2C19" import="0">XML/GameInfo/Buccaneer_TSL.xml</File>
+    <File md5="757A35C29A752A0EFF3E40F59B83050C" import="0">XML/Leader/Buccaneer_Leader.xml</File>
+    <File md5="B4B78F4C5E32DE6DBA03FADB53EF6FD9" import="0">XML/Terrain/Buccaneer_Improvements.xml</File>
+    <File md5="5438141E5586498EE4CB2DEF08ECB724" import="0">XML/Terrain/Rum.xml</File>
+    <File md5="0355CA10ED9432F0B208A7BD6241E40A" import="0">XML/Text/Buccaneer_Text.xml</File>
+    <File md5="5ACF0F7A98F99C77859D413E260B8788" import="0">XML/Unit/Buccaneer_UnitPromotions.xml</File>
+    <File md5="4508A37599CAE6CB782A49A4003304A4" import="0">XML/Unit/Buccaneer_Units.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/Fonticon/Rum_Fonticon.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Civilization_StartNearResource.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/CorsairDefine.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/DistilleryDefine.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Improvement_ProcessResourceTypes.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Buccaneer_Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Buccaneer_Strategic.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/Buccaneer_IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/Buccaneer_Sounds.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/Buccaneer_Traits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/Buccaneer_TSL.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader/Buccaneer_Leader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Art/Buccaneer_Leaderhead.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Unit/Buccaneer_UnitPromotions.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Unit/Buccaneer_Units.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Terrain/Rum.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Terrain/Buccaneer_Improvements.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Buccaneer_Text.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/BuccaneerUA.lua">
+      <Name>BuccaneerUA</Name>
+      <Description>Entering territory and potential loss for naval units</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Civilization_StartNearResource.lua">
+      <Name>Civilization_StartNearResource</Name>
+      <Description>Allows a civilization to start near a specific resource</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/CorsairCode.lua">
+      <Name>CorsairCode</Name>
+      <Description>Combat boost from trade pillaging</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Improvement_ProcessResourceTypes.lua">
+      <Name>Improvement_ProcessResourceTypes</Name>
+      <Description>Allows an improvement to change one resource type to another</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_Buccaneer_Functions.lua">
+      <Name>JFD_Buccaneer_Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Pouakai-->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_LETTER_OF_MARQUE</Type>
+			<Description>TXT_KEY_TRAIT_LETTER_OF_MARQUE</Description>
+			<ShortDescription>TXT_KEY_TRAIT_LETTER_OF_MARQUE_SHORT</ShortDescription>
+		</Row>
+	</Traits>
+	<Trait_FreePromotionUnitCombats>
+		<Row>
+			<TraitType>TRAIT_LETTER_OF_MARQUE</TraitType>
+			<UnitCombatType>UNITCOMBAT_NAVALMELEE</UnitCombatType>
+			<PromotionType>PROMOTION_LETTER_OF_MARQUE</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_LETTER_OF_MARQUE</TraitType>
+			<UnitCombatType>UNITCOMBAT_NAVALRANGED</UnitCombatType>
+			<PromotionType>PROMOTION_LETTER_OF_MARQUE</PromotionType>
+		</Row>
+	</Trait_FreePromotionUnitCombats>
+	<Policies>
+		<Row>
+			<Type>POLICY_JFD_BUCCANEER_GOLD_FROM_KILLS</Type>
+			<GoldFromKills>50</GoldFromKills>
+		</Row>
+	</Policies>
+</GameData>
