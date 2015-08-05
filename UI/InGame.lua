@@ -1350,6 +1350,11 @@ ContextPtr:LoadNewContext("JFD_Muscovy_Functions")
 -- Nation - Normandy --
 ContextPtr:LoadNewContext("JFD_Normandy_Functions")
 
+-- Nation - Turks --
+ContextPtr:LoadNewContext("JFD_Turks_Functions")
+ContextPtr:LoadNewContext("JFD_Ottomans_Functions")
+ContextPtr:LoadNewContext("JFD_TopPanelUpdated")
+
 -- Nation - Buccaneers --
 ContextPtr:LoadNewContext("BuccaneerUA")
 ContextPtr:LoadNewContext("Civilization_StartNearResource")
