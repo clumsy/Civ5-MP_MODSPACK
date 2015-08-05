@@ -1365,3 +1365,7 @@ ContextPtr:LoadNewContext("Civilization_StartNearResource")
 ContextPtr:LoadNewContext("CorsairCode")
 ContextPtr:LoadNewContext("Improvement_ProcessResourceTypes")
 ContextPtr:LoadNewContext("JFD_Buccaneer_Functions")
+
+-- Misc - Pontoon Bridge --
+ContextPtr:LoadNewContext("Pontoon Bridge Lua")
+
