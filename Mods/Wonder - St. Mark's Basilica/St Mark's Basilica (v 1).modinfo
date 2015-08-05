@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="188d831d-cf82-44ab-8100-722a6cae0096" version="1">
+  <Properties>
+    <Name>St Mark's Basilica</Name>
+    <Teaser>Located alongside Venice's Grand Canal, Saint Mark's Basilica</Teaser>
+    <Description>Located in the centre of Venice and alongside the Doge's Palace, Saint Mark's Basilica (Or Basilica Cattedrale Patriarcale di San Marco) is one of the most opulent churches in Northern Italy, and serves as a prime example of the fusion between Italian and Byzantine architectural styles. It is dedicated to Saint Mark, the patron saint of Venice, and is home to some of the most sacred and iconic artifacts of Venice, including the horses of Saint Mark and several sculptures, all within the mosaics and golden decorations of the Basilica. Ingame, St. Mark's Basilica provides 2 Great Work of Art slots, one of which is already filled by an artifact, and it requires Guilds.</Description>
+    <Authors>Pouakai, Sukritact, Janboruta</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="CA3CD5E1EBBFCF63568EDBB97E8368CD" import="1">Art/San_Marco_128.dds</File>
+    <File md5="95DB6BCBD6F1FB38A1B22D0CB310023A" import="1">Art/San_Marco_256.dds</File>
+    <File md5="552C09DB3CFE3554907F3CE3C91DF40A" import="1">Art/San_Marco_45.dds</File>
+    <File md5="99A4E12695D8C2EE453E369D01FF368A" import="1">Art/San_Marco_64.dds</File>
+    <File md5="15A29897244DE7C13969FF2E97AC45B6" import="1">Art/San_Marco_80.dds</File>
+    <File md5="5AE17944D8ED31762CC8D0CA73712E99" import="1">Art/San_Marco_splash.dds</File>
+    <File md5="98DDD20AC40DB259479046AAEACF1DEF" import="0">XML/Buildings/SanMarco_BuildingClasses.xml</File>
+    <File md5="44FD36C7C442B37F802D94689B8E3448" import="0">XML/Buildings/SanMarco_Buildings.xml</File>
+    <File md5="E0744EFB7F3411FE7BFB5F790EBFA879" import="0">XML/Civilizations/SanMarco_Civilizations.xml</File>
+    <File md5="17AB385BAC659E8A4909A33B7D0093B9" import="0">XML/GameInfo/SanMarco_IconTextureAtlases.xml</File>
+    <File md5="B8BD008708621DEFBB888C2BD34C515C" import="0">XML/Text/SanMarco_Text_en_US.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Buildings/SanMarco_BuildingClasses.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/SanMarco_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/SanMarco_Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/SanMarco_IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/SanMarco_Text_en_US.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

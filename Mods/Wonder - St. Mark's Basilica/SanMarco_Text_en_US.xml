@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_DECISIONS_STMARK">
+			<Text>Rescue the Relics of St. Mark</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_STMARK_DESC">
+			<Text>The body of St. Mark, our patron saint, has been discovered abroad. It is our sacred duty to return him to his rightful place in Venice![NEWLINE][NEWLINE]Requirement/Restrictions:[NEWLINE][ICON_BULLET]Player must be Venice[NEWLINE][ICON_BULLET]Must have a Trade Route with a City State[NEWLINE][ICON_BULLET]May only be enacted once per game[NEWLINE]Costs:[NEWLINE][ICON_BULLET]-30 [ICON_INFLUENCE] Influence with a random City State[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold[NEWLINE]Rewards:[NEWLINE][ICON_BULLET]Saint Mark's Basilica is built in the Capital</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_STMARK_ENACTED_DESC">
+			<Text>The body of St. Mark, our patron saint, has been discovered abroad. It is our sacred duty to return him to his rightful place in Venice![NEWLINE][NEWLINE]Rewards:[NEWLINE][ICON_BULLET]Saint Mark's Basilica is built in the Capital</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SAN_MARCO">
+			<Text>St Mark's Basilica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SAN_MARCO_HELP">
+			<Text>Contains a prebuilt Artifact in one of its 2 Great Work Slots.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SAN_MARCO_PEDIA">
+			<Text>The Patriarchal Cathedral Basilica of Saint Mark (officially known in Italian as the Basilica Cattedrale Patriarcale di San Marco and commonly known as Saint Mark's Basilica) is the cathedral church of the Roman Catholic Archdiocese of Venice, northern Italy. It is the most famous of the city's churches and one of the best known examples of Italo-Byzantine architecture. It lies at the eastern end of the Piazza San Marco, adjacent and connected to the Doge's Palace. Originally it was the chapel of the Doge, and has only been the city's cathedral since 1807, when it became the seat of the Patriarch of Venice, archbishop of the Roman Catholic Archdiocese of Venice, formerly at San Pietro di Castello.[NEWLINE][NEWLINE]For its opulent design, gold ground mosaics, and its status as a symbol of Venetian wealth and power, from the 11th century on the building has been known by the nickname Chiesa d'Oro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SAN_MARCO_QUOTE">
+			<Text>[NEWLINE]"It is the most splendid city I have ever seen, and the one which governs itself the most wisely." [NEWLINE]- Philippe de Commines[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_STMARK">
+			<Text>Relics of St. Mark</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAN_MARCO_THEMING_BONUS_HELP">
+			<Text>To maximize your bonus, make sure the Great Work Slots are all filled with Artifacts from the city owner.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_SAN_MARCO">
+			<Text>The Chiesa d'Oro</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_SAN_MARCO</Type>
+			<DefaultBuilding>BUILDING_SAN_MARCO</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_SAN_MARCO</Description>
+			<MaxGlobalInstances>1</MaxGlobalInstances>
+		</Row>
+	</BuildingClasses>
+</GameData>
