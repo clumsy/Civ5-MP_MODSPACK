@@ -1342,6 +1342,10 @@ ContextPtr:LoadNewContext("FreeBuildingonTech")
 ContextPtr:LoadNewContext("JFD_ByzantiumAlexios_Functions")
 ContextPtr:LoadNewContext("JFD_ByzantiumTheodora_Functions")
 
+-- Nation - Tuscany --
+ContextPtr:LoadNewContext("Tuscany_CoreFunctions")
+ContextPtr:LoadNewContext("BuildingYieldFromGreatWorksInCity")
+
 -- Nation - Muscovy --
 ContextPtr:LoadNewContext("CityInfoStack")
 ContextPtr:LoadNewContext("JFD_Muscovy_Sobor_CityInfo")
