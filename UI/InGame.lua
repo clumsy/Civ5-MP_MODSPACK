@@ -1347,6 +1347,9 @@ ContextPtr:LoadNewContext("Sukritact's MCIS")
 ContextPtr:LoadNewContext("JFD_Muscovy_Sobor_CityInfo")
 ContextPtr:LoadNewContext("JFD_Muscovy_Functions")
 
+-- Nation - Normandy --
+ContextPtr:LoadNewContext("JFD_Normandy_Functions")
+
 -- Nation - Buccaneers --
 ContextPtr:LoadNewContext("BuccaneerUA")
 ContextPtr:LoadNewContext("Civilization_StartNearResource")
