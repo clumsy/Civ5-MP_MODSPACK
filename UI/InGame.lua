@@ -1338,6 +1338,10 @@ ContextPtr:LoadNewContext("Akkad_Laputtu")
 ContextPtr:LoadNewContext("ChooseGPSpecialist")
 ContextPtr:LoadNewContext("Free Descamisado Slots")
 
+-- Nation - Byzantium --
+ContextPtr:LoadNewContext("JFD_ByzantiumAlexios_Functions")
+ContextPtr:LoadNewContext("JFD_ByzantiumTheodora_Functions")
+
 -- Nation - Buccaneers --
 ContextPtr:LoadNewContext("BuccaneerUA")
 ContextPtr:LoadNewContext("Civilization_StartNearResource")
