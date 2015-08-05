@@ -1366,6 +1366,10 @@ ContextPtr:LoadNewContext("CorsairCode")
 ContextPtr:LoadNewContext("Improvement_ProcessResourceTypes")
 ContextPtr:LoadNewContext("JFD_Buccaneer_Functions")
 
+-- Nation - CSA --
+ContextPtr:LoadNewContext("Sharpshooterdefense")
+ContextPtr:LoadNewContext("CSAFunctions")
+
 -- Misc - Pontoon Bridge --
 ContextPtr:LoadNewContext("Pontoon Bridge Lua")
 

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/30/2014 11:11:31 PM -->
+<GameData>
+	<Civilizations_YagemStartPosition>
+		<Row>
+			<Type>CIVILIZATION_CSA</Type>
+			<X>155</X>
+			<Y>61</Y>
+		</Row>
+	</Civilizations_YagemStartPosition>
+	<!-- +++++++++++++++++++++++++++++ -->
+	<!-- Earth Huge map start position -->
+	<!-- +++++++++++++++++++++++++++++ -->
+	<Civilizations_YahemStartPosition>
+		<Row>
+			<Type>CIVILIZATION_CSA</Type>
+			<X>29</X>
+			<Y>52</Y>
+		</Row>
+	</Civilizations_YahemStartPosition>
+	<!-- +++++++++++++++++++++++++++++++++++ -->
+	<!-- "Greatest Earth Map" start position -->
+	<!-- +++++++++++++++++++++++++++++++++++ -->
+	<Civilizations_GreatestEarthStartPosition>
+		<Row>
+			<Type>CIVILIZATION_CSA</Type>
+			<X>19</X>
+			<Y>47</Y>
+		</Row>
+	</Civilizations_GreatestEarthStartPosition>
+</GameData>

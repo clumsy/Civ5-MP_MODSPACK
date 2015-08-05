@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/23/2015 11:33:42 PM -->
+<GameData>
+	<Units>
+		<Row>
+			<Class>UNITCLASS_IRONCLAD</Class>
+			<Type>UNIT_DECISIONS_CSS_VIRGINIA</Type>
+			<PrereqTech>TECH_STEAM_POWER</PrereqTech>
+			<Combat>45</Combat>
+			<Cost>250</Cost>
+			<Moves>3</Moves>
+			<CombatClass>UNITCOMBAT_NAVALMELEE</CombatClass>
+			<Domain>DOMAIN_SEA</Domain>
+			<DefaultUnitAI>UNITAI_ATTACK_SEA</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_VIRGINIACSS</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_IRONCLAD_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_IRONCLAD_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_IRONCLAD</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<Mechanized>true</Mechanized>
+			<AdvancedStartCost>50</AdvancedStartCost>
+			<MinAreaSize>10</MinAreaSize>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_CONFEDERATE_IRONCLAD</UnitArtInfo>
+			<UnitFlagIconOffset>53</UnitFlagIconOffset>
+			<IconAtlas>CIVIL_WAR_UNIT_ATLAS</IconAtlas>
+			<PortraitIndex>3</PortraitIndex>
+			<MoveRate>BOAT</MoveRate>
+		</Row>
+	</Units>
+	<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_DECISIONS_CSS_VIRGINIA</UnitType>
+			<UnitAIType>UNITAI_ATTACK_SEA</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_DECISIONS_CSS_VIRGINIA</UnitType>
+			<UnitAIType>UNITAI_ESCORT_SEA</UnitAIType>
+		</Row>
+	</Unit_AITypes>
+	<Unit_Flavors>
+		<Row>
+			<UnitType>UNIT_DECISIONS_CSS_VIRGINIA</UnitType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>18</Flavor>
+		</Row>
+	</Unit_Flavors>
+	<Unit_FreePromotions>
+		<Row>
+			<UnitType>UNIT_DECISIONS_CSS_VIRGINIA</UnitType>
+			<PromotionType>PROMOTION_STEAM_POWERED</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_DECISIONS_CSS_VIRGINIA</UnitType>
+			<PromotionType>PROMOTION_FIRE_SUPPORT</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_DECISIONS_CSS_VIRGINIA</UnitType>
+			<PromotionType>PROMOTION_REBELMONSTER</PromotionType>
+		</Row>
+	</Unit_FreePromotions>
+	<Unit_ResourceQuantityRequirements>
+		<Row>
+			<UnitType>UNIT_DECISIONS_CSS_VIRGINIA</UnitType>
+			<ResourceType>RESOURCE_COAL</ResourceType>
+		</Row>
+	</Unit_ResourceQuantityRequirements>
+	<Unit_YieldFromKills>
+		<Row>
+			<UnitType>UNIT_DECISIONS_CSS_VIRGINIA</UnitType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>100</Yield>
+		</Row>
+	</Unit_YieldFromKills>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_REBELMONSTER</Type>
+			<Description>TXT_KEY_PROMOTION_REBELMONSTER</Description>
+			<Help>TXT_KEY_PROMOTION_REBELMONSTER_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<OrderPriority>1</OrderPriority>
+			<PortraitIndex>54</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_REBELMONSTER</PediaEntry>
+		</Row>
+	</UnitPromotions>
+	<UnitPromotions_Domains>
+		<Row>
+			<PromotionType>PROMOTION_REBELMONSTER</PromotionType>
+			<DomainType>DOMAIN_SEA</DomainType>
+			<Modifier>33</Modifier>
+		</Row>
+	</UnitPromotions_Domains>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_UNIT_VIRGINIACSS">
+			<Text>CSS Virginia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_REBELMONSTER">
+			<Text>Rebel Monster</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_REBELMONSTER_HELP">
+			<Text>33% Bonus vs Naval Units</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_DECISIONS_CSS_VIRGINIA">
+			<Text>Monitor and the Merrimac</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BUILDING_CSS_VIRGINIA">
+			<Text>CSS Virginia Memorial</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BUILDING_CSS_VIRGINIA_CIVILOPEDIA">
+			<Text>The CSS Virginia, the world's first true Ironclad and the pride of the Navy of the Confederate States, also known to her enemies as 'Merrimac' and 'the Rebel Monster', has been sunk. This memorial has been built to honor her legacy and that of her crew.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BUILDING_CSS_VIRGINIA_HELP">
+			<Text>Contains 1 slot for a Great Work of Art, and comes pre-filled with a unique Great Work of Art.</Text>
+		</Row>
+	</Language_en_US>
+	<GreatWorks>
+		<Row>
+			<Type>GREAT_WORK_DECISIONS_CSS_VIRGINIA</Type>
+			<GreatWorkClassType>GREAT_WORK_ART</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_DECISIONS_CSS_VIRGINIA</Description>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>MonitorandtheMerrimac.dds</Image>
+		</Row>
+	</GreatWorks>
+</GameData>

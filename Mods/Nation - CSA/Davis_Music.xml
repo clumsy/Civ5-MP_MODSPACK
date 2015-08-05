@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/18/2014 12:00:22 AM -->
+<GameData>
+	<Audio_Sounds>
+		<!--Davis Music-->
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_DAVIS_PEACE</SoundID>
+			<Filename>Davis_Peace</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_DAVIS_WAR</SoundID>
+			<Filename>Davis_War</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+	</Audio_Sounds>
+	<Audio_2DSounds>
+		<!--Davis Music For Audio Scripts-->
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_DAVIS_PEACE</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_DAVIS_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>80</MinVolume>
+			<MaxVolume>80</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_DAVIS_WAR</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_DAVIS_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>100</MinVolume>
+			<MaxVolume>100</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+	</Audio_2DSounds>
+</GameData>

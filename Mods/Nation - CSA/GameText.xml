@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/17/2014 10:12:36 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_CSA_ADJECTIVE">
+			<Text>Confederate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_CSA_DESC">
+			<Text>Confederate States of America</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_CSA_TEXT">
+			<Text>Greetings, Jefferson Davis! Under your esteemed leadership, the Confederate States of America sought to preserve their way of life under force of arms. In the face of overwhelming manpower and technology, your soldiers fought valiantly against their former countrymen, turned the bitterest of enemies. Your efforts following that terrible conflict helped reforge the bonds of brotherhood, allowing the descendents of your people to achieve the prosperity they enjoy today, with Southern pride and spirit unbroken to this day.[NEWLINE][NEWLINE]Mr. President, your people call for your services once again. Will you assume the mantle of leadership and preserve the ideals of the Confederate States? Will you help the South rise and lead the Confederacy to victory over its many rivals? Will you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_CSA_SHORT_DESC">
+			<Text>Confederate States</Text>
+		</Row>
+		<!--Jefferson Davis-->
+		<Row Tag="TXT_KEY_LEADER_DAVIS">
+			<Text>Jefferson Davis</Text>
+		</Row>
+		<!--Trait-->
+		<Row Tag="TXT_KEY_TRAIT_REBELYELL_SHORT">
+			<Text>Rebel Yell</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_REBELYELL">
+			<Text>Upon entering combat for the first time, Infantry units will receive a unique, random promotion. For 3 turns after the outbreak of war, all non-ranged units may force enemies to retreat.</Text>
+		</Row>
+		<!--UU-->
+		<Row Tag="TXT_KEY_UNIT_CSASHARPSHOOTER">
+			<Text>Sharpshooter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_CSASHARPSHOOTER">
+			<Text>Standard Confederate infantry unit of the Industrial era, the Sharpshooter may only be built by the Confederate States of America. Though it is weaker than the Rifleman it replaces, it will bombard enemies with a ranged attack before entering melee combat. Additionally, it receives a 20% defensive bonus when stationed on an Antebellum Manor improvement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CSASHARPSHOOTER_STRATEGY">
+			<Text>Standard Confederate infantry unit of the Industrial era, the Sharpshooter may only be built by the Confederate States of America. Though it is weaker than the Rifleman it replaces, it will bombard enemies with a ranged attack before entering melee combat. Vulnerable when defending, it receives a combat bonus when stationed on Antebellum Manor improvements, so position these units wisely.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_CSASHARPSHOOTER_TEXT">
+			<Text>A Sharpshooter, also known as a Marksman, is a soldier skilled in precision shooting, typically with a rifled firearm. During the American Civil War, sharpshooters saw limited action, as tacticians sought to avoid the heavy casualties inflicted through normal tactics, which involved close ranks of men at close ranges. Confederate sharpshooter units functioned as light infantry, with duties mostly composed of skirmishing and reconnaissance. These elite troops were well trained and experienced, and placed at the front of any column to first engage the enemy.[NEWLINE][NEWLINE]Confederate sharpshooters were typically more poorly-equipped than their Union counterparts, often using the Enfield Rifled Musket, or more uncommonly, a British-made Whitworth Rifle, as opposed to the breech-loading Sharps Rifle of the USA. Despite this, there were several recorded, rare one-on-one encounters between opposing marksmen throughout the war, such as when Pvt. Louis Leon of the 53rd North Carolina Regiment killed a Union sharpshooter. And not to be forgotten is the morbidly notable incident where Union General John Sedgwick was killed by a Confederate marksman at the Battle of Spotsylvania Courthouse, moments after assuring his men that "they couldn't hit an elephant at this distance".</Text>
+		</Row>
+		<!--Antebellum Manor-->
+		<Row Tag="TXT_KEY_IMPROVEMENT_ANTEBELLUM">
+			<Text>Antebellum Manor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_ANTEBELLUM">
+			<Text>Construct an Antebellum Manor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_ANTEBELLUM_HELP">
+			<Text>Unlocked with the discovery of Chivalry, and may only be built on flat lands.[NEWLINE][NEWLINE]The Antebellum Manor yields +1 [ICON_GOLD] Gold and +1 [ICON_CULTURE] Culture when built on a source of [ICON_RES_COTTON] Cotton,[ICON_RES_SUGAR] Sugar, or [ICON_RES_TOBACCO] Tobacco.[NEWLINE][NEWLINE]+1 [ICON_PRODUCTION] Production and +1 [ICON_CULTURE] Culture if built next to a city. While at war, all Antebellum Manors yield an additional +1 [ICON_PRODUCTION] Production and +1 [ICON_CULTURE] Culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_ANTEBELLUM_REC">
+			<Text>Building an Antebellum Manor will increase the [ICON_CULTURE] Culture and [ICON_GOLD] Gold yields of [ICON_RES_COTTON] Cotton,[ICON_RES_SUGAR] Sugar, and [ICON_RES_TOBACCO] Tobacco resources, or the [ICON_CULTURE] Culture and [ICON_PRODUCTION] Production of the empire if built next to a city!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_ANTEBELLUM_TEXT">
+			<Text>Antebellum architecture, (meaning "prewar", from the Latin words "ante" and "bellum" (literally "before war")), is the neoclassical architectural style characteristic of the Confederate States of America, especially the Old South. Characterized by neoclassical and Greek revival-style plantation houses, mansions, and manors, the style was mainly introduced by people of Celtic and Germanic descent who immigrated to the United States following the Louisiana Purchase. Though thinking of the classic antebellum plantation home can conjur up immediate images of the brutality of slavery, structures that survived the American Civil War remain important cultural icons (and tourist attractions) throughout the Southern United States.[NEWLINE][NEWLINE]Antebellum Manors can be built on most tiles, but provide no yield unless improved next to a city; or on [ICON_RES_COTTON] Cotton or [ICON_RES_SUGAR] Sugar resources. If the More Luxuries mod is active, it may also be built on a [ICON_RES_TOBACCO] Tobacco resource. Providing +1 [ICON_CULTURE] Culture and +1 [ICON_GOLD] Gold if built on one of the aforementioned resources, or +1 [ICON_CULTURE] Culture and +1 [ICON_PRODUCTION] Production if built next to a city, it will also yield an additional +1 [ICON_PRODUCTION] Production and [ICON_CULTURE] Culture while the civilization is at war.</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_CSA_9">
+			<Text>Wilkes Booth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_CSA_8">
+			<Text>Tara</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_CSA_7">
+			<Text>Ginnie</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_CSA_6">
+			<Text>Harrison</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_CSA_5">
+			<Text>Greenhow</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_CSA_4">
+			<Text>Antonia</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_CSA_3">
+			<Text>Mudd</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_CSA_2">
+			<Text>Dunwoody</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_CSA_1">
+			<Text>Lee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_CSA_0">
+			<Text>Belle</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--City Names-->
+		<Row Tag="TXT_KEY_CITY_NAME_CSA_1">
+			<Text>Richmond</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CSA_2">
+			<Text>Montgomery</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CSA_3">
+			<Text>New Orleans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CSA_4">
+			<Text>Atlanta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CSA_5">
+			<Text>Mobile</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CSA_6">
+			<Text>Memphis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CSA_7">
+			<Text>Savannah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CSA_8">
+			<Text>Charleston</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CSA_9">
+			<Text>Nashville</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CSA_10">
+			<Text>Norfolk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CSA_11">
+			<Text>Petersburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CSA_12">
+			<Text>Alexandria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CSA_13">
+			<Text>Augusta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CSA_14">
+			<Text>Columbus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CSA_15">
+			<Text>Wilmington</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CSA_16">
+			<Text>Macon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CSA_17">
+			<Text>Fredericksburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CSA_18">
+			<Text>Baton Rouge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CSA_19">
+			<Text>Jacksonville</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CSA_20">
+			<Text>Lynchburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CSA_21">
+			<Text>Raleigh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CSA_22">
+			<Text>Wheeling</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CSA_23">
+			<Text>Jackson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CSA_24">
+			<Text>Natchez</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CSA_25">
+			<Text>San Antonio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CSA_26">
+			<Text>Winchester</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CSA_27">
+			<Text>Austin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CSA_28">
+			<Text>Pensacola</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CSA_29">
+			<Text>Knoxville</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CSA_30">
+			<Text>Tallahassee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CSA_31">
+			<Text>El Paso</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CSA_32">
+			<Text>Chattanooga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CSA_33">
+			<Text>Santa Fe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CSA_34">
+			<Text>Staunton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CSA_35">
+			<Text>Algiers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CSA_36">
+			<Text>New Bern</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CSA_37">
+			<Text>Fayetteville</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CSA_38">
+			<Text>Tucson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CSA_39">
+			<Text>Vicksburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CSA_40">
+			<Text>Danville</Text>
+		</Row>
+		<!--Pedias-->
+		<Row Tag="TXT_KEY_CIV5_CSA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CSA_HEADING_2">
+			<Text>Geography and Climate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CSA_HEADING_3">
+			<Text>Southern Society</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CSA_HEADING_4">
+			<Text>The Road to Secession</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CSA_HEADING_5">
+			<Text>Civil War - Early Victories</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CSA_HEADING_6">
+			<Text>Civil War - Ultimate Defeat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CSA_HEADING_7">
+			<Text>Reconstruction</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CSA_HEADING_8">
+			<Text>The Confederate States Today</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CSA_TEXT_1">
+			<Text>The Confederate States of America were established in 1861, following the secession of seven Southern states from the United States. Four more followed, bringing the nation to eleven. The Confederate States also claimed Kentucky and Missouri, border states with "shadow" Confederate governments that did not secede, as well as the southern half of the New Mexico Territory and what is now Oklahoma. Though the Confederate States ceased to exist following their defeat in 1865, the southern states have continued to share a common identity and pride. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CSA_TEXT_2">
+			<Text>The Confederate States encompassed roughly the entire southeastern section of the United States, bordering the Atlantic Ocean and Gulf of Mexico. The country was bisected by the Mississippi River which served as its main interior trade network. Much of the Confederate interior featured arable farmland, on which tobacco and cotton, its main export, were grown. There were also hilly and mountainous regions along the southern Appalachian mountains and the Ozark Dome of Missouri and Arkansas, and areas of the western states, especially Texas, were desert. Most of the Confederate States had a humid, subtropical climate with mild winters and long, hot summers. Swamps were abundant along the coasts, allowing infectious diseases to flourish. More soldiers on both sides were lost to disease than were killed in combat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CSA_TEXT_3">
+			<Text>Though the United States won its independence from Great Britain in the American Revolution, strong feelings of regionalism continued to exist in the new nation. These differences were mainly a result of economic and political divisions resulting in "regional blocs" that had pursued and supported their own interests. The idea of states' rights found a considerable following in the South, who believed that most decisions should be made at the state, rather than federal, level.[NEWLINE][NEWLINE]The southern states were largely agricultural, a clear contrast with the rapidly industrializing northern states. Tobacco and cotton were their main exports, with European powers comprising their main markets. As a result, the southern states strongly opposed tariffs. These crops were also labor-intensive, resulting in a work force comprised mainly of slave labor. Tensions resulting from abolition movements in the northern states would fuel much of the fire that led to the Civil War.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CSA_TEXT_4">
+			<Text>Initially, the federal government had little to do with slavery. The importation of new slaves was banned in 1808, but the government did not interfere with the Southern state economies. As more states joined the Union, a balance was struck between free and slave states, the numbers of which would remain roughly equal. By 1820, it was clear that an imbalance of power loomed on the horizon; the climate that supported the Southern economy was geographically limited and the slave states felt their power would be undermined with the addition of more free states. Eventually, they felt, the balance of power would tip in their favor and allow the federal government to outlaw slavery in the South - a clear violation of a state's right to manage its own economy. Senator Henry Clay negotiated a compromise to the flash point that arose when Missouri sought admission as a slave state; it would enter as a slave state, while Maine, formerly a part of Massachusetts, would be admitted as a free state in order to preserve the balance of power. The federal government would not be allowed to interfere in the Southern economies, but no new slave states could be admitted north of Missouri's southern border.[NEWLINE][NEWLINE]The Missouri Compromise kept tensions low for a decade before Northern and Southern interests would again conflict, this time over tariffs. The South protested the new Tariff of 1832, claiming it would be detrimental to their economies. South Carolina went so far as to declare the law "null and void" within its borders and to threaten secession. President Andrew Jackson, a slave holder and Southern sympathizer, believed that nullification and secession were in violation of the Constitution and threatened to invade the state should it secede. The crisis was defused with the passage of another, milder, tariff in 1833, but it was clear that the North and South were on a collision course.[NEWLINE][NEWLINE]Tensions escalated following the annexation of Texas and the Mexican-American War. The slave states of the South were initially unable to create new slave states from the newly won territory and again felt their power was threatened. The Compromise of 1850 attempted to alleviate their concerns by allowing Texas to remain a slave state, while California joined as a free state. The Fugitive Slave Acts, which required the North to return runaway slaves to the South, were strengthened, and the New Mexico and Utah Territories were allowed to vote on whether to be free or slave states when they achieved statehood. The idea of allowing the territories to decide their own fate was known as popular sovereignty, and it would rise to the surface again during the bloody crisis in the Kansas-Nebraska Territory. The Kansas-Nebraska Act extended popular sovereignty to that territory as well, and a "civil war" broke out. Slaveowners and abolitionists both flocked to what is now Kansas, attacking each other and burning settlements. "Bleeding Kansas" would finally end with the admission of Kansas as a free state.[NEWLINE][NEWLINE]Abolitionists in the North were revolted by the violence in Kansas, and were even more shocked when the Supreme Court's ruling in the Dred Scott case determined that no individual of African ancestry was or could be a citizen of the United States. A new political party, the Republicans, formed on the basis of abolition and nominated presidential candidates in 1856 and 1860. The Southern states feared that their candidate in 1860, Abraham Lincoln, would abolish slavery if he won the election. In response to his victory that November, seven states - South Carolina, Georgia, Alabama, Mississippi, Louisiana, Texas and Florida - seceded before Lincoln took office, with four more - Virginia, North Carolina, Tennessee and Arkansas - seceding after the events at Fort Sumter. Kentucky and Missouri declared themselves officially neutral in the conflict, despite having separate Confederate governments, but never seceded. Maryland, which had many Confederate sympathizers, was placed under martial law by President Lincoln to ensure it remained in the Union; otherwise, the Union capital at Washington, DC would have been surrounded by enemy territory.[NEWLINE][NEWLINE]The Confederate States of America was officially established in Montgomery, Alabama, on February 4, 1861, with Jefferson Davis appointed and later elected as its first President. Montgomery served as the national capital until Virginia's secession and entry into the Confederate States, at which point President Davis transferred the capital to Richmond, less than 100 miles from Washington.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CSA_TEXT_5">
+			<Text>The Confederate States, which lacked the industry and manpower of the Union, fought a largely defensive war. They seized Federal forts and property in the South, which predicated the action at Fort Sumter, which fell after Confederate bombardment. President Lincoln called up Northern militias to put down the Southern "rebellion," but the Union Army was defeated in the First Battle of Bull Run, the first large-scale battle of the Civil War. Robert E. Lee was given command of the Confederate Army of Northern Virginia in June 1862 and fought off repeated Union invasions of Virginia. First, he turned back General McClellan's Peninsular Campaign in the Seven Days' Battles, beat General Pope at the Second Battle of Bull Run, then defeated General Burnside in the horrific Battle of Fredericksburg. Emboldened by these victories, President Davis authorized Lee's proposed invasion of the North, which was defeated by General McClellan at Antietam in September 1862.[NEWLINE][NEWLINE]In addition to the savage fighting in the east, there were several skirmishes and large-scale battles in the western theater. Confederate attempts to secure Kentucky and Missouri were both defeated by 1862, at Perryville and Pea Ridge, respectively. Though the Confederates claimed the southern half of the New Mexico Territory, naming the Arizona Territory, their control there was never firm. In the Indian Territory, the Confederates had allies in the Cherokee tribes, but the Union continued to control the area. A Union army under General Ulysses S. Grant pushed into Tennessee and defeated the Confederates at the Battle of Shiloh in April 1862. That same month, Union Admiral David Farragut captured the city of New Orleans, effectively closing off the Mississippi River from international trade. Despite their victories in the east thus far, these early setbacks in the west would ultimately doom the Confederate States.[NEWLINE][NEWLINE]The Confederate States sought foreign aid and intervention in their war for independence, especially from the European powers who benefitted from their cotton exports who were suffering under the Union blockade of Confederate ports. The Europeans were hesitant to support a slave-owning nation, having abolished slavery in their territories already. The failure of the Southern invasion at Antietam and the subsequent Emancipation Proclamation all but ended any hope of official recognition and aid. The Confederates would receive some outside aid, but by the end of the war, no foreign country had recognized their independence.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CSA_TEXT_6">
+			<Text>The year 1863 proved to be the turning point of the war. The Northern "Anaconda Plan," devised by famed general of the Mexican-American War Winfield Scott, sought to cut the Confederate States in half along the Mississippi River while crippling their international trade through a blockade of their major ports. The Union pressed their advantage in the west, laying siege to the city of Vicksburg, the last Confederate stronghold on the Mississippi River.[NEWLINE][NEWLINE]Though the war in the west continued to deteriorate, General Lee's leadership continued to give the Confederates hope in the east. At the Battle of Chancellorsville, Lee turned back an invasion by General Hooker, but lost trusted general Stonewall Jackson to friendly fire. Again with authorization by President Davis, Lee invaded the North a second time, hoping to wheel around Washington and cut it off, bringing about an end to the war.[NEWLINE][NEWLINE]July 1-4, 1863 saw the Confederate fortress at Vicksburg fall to General Grant and Lee's invasion of Pennsylvania defeated at Gettysburg by General Meade. The Confederate States were now cut in half. Lincoln transferred his successful General Grant to the eastern theater, where Grant began to use the Union manpower advantage in earnest. He hammered Lee and the Army of Northern Virginia in a series of attrition battles, waiting just long enough to be reinforced before pressing forward again. General Sherman, a trusted subordinate of Grant, now in command of the west, captured Chattanooga before taking Atlanta in September 1864. Sherman then pushed to Savannah, wrecking Southern infrastructure and farmland on his way during his infamous "March to the Sea." With Grant depleting their manpower and Sherman denying them valuable resources, the Confederates were pushed back. Richmond fell on April 3, 1865 and General Lee surrendered six days later, on April 9, effectively ending the Civil War.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CSA_TEXT_7">
+			<Text>President Lincoln had envisioned a Reconstruction policy based on reconciliation in contrast to many Northerners, who wanted revenge on the Southern states for precipitating the war. Lincoln was assassinated by Confederate sympathizer John Wilkes Booth on April 15, and Presiden Johnson took the reins of a decidedly harsher Reconstruction. The former Confederate States were placed under military rule, while Congress passed the 13th, 14th and 15th Amendments; the 13th abolished slavery, the 14th extended citizenship to African-Americans, and the 15th gave them the right to vote. Republican-led governments were set up throughout the South, often including former slaves, leading to resentment on the part of former slaveholders. In addition, the 14th Amendment prevented former Confederates from holding public office, and many prominent ex-Confederates found their citizenship revoked. Violence simmered throughout the South, often at the hands of the newly formed Ku Klux Klan, which was finally stamped out under President Grant's administration. Though Reconstruction was a difficult, contentious process, all eleven Confederate states were readmitted to the Union by 1870 and Reconstruction itself was officially ended in 1877 by President Hayes.[NEWLINE][NEWLINE]Despite the end of Reconstruction, racial inequality persisted in the South for nearly 100 years. Former slaves were subjected to "Jim Crow" laws and black codes that marginalized them and deprived them of their right to vote. Segregation continued to be constitutionally legal until 1954, and the Civil Rights Act of 1964 and Voting Rights Act of 1965 guaranteed equal treatment to all American citizens. Following the official end of Reconstruction, ex-Confederates were again appointed to several public offices in the South, and the Democrats regained control of Southern politics until the great political realignment of the 1960s, at which point the South became mostly Republican again. The final acts of reconciliation with the former Confederacy occurred in the 1970s, when General Robert E. Lee and President Jefferson Davis had their citizenship posthumously restored.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CSA_TEXT_8">
+			<Text>Today, the Southern states continue to display a very sectional identity. They still support states' rights as well as economic and religious conservatism. The Southern economy has become industrialized, but still continues to celebrate and promote its agricultural heritage. Many Southern cities are growing as a result of their generally favorable climate and the migration of major corporation headquarters to Southern urban areas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DAVIS_LIVED">
+			<Text>1807 - 1889 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DAVIS_NAME">
+			<Text>Jefferson Davis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DAVIS_SUBTITLE">
+			<Text>Leader of the Confederate States</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DAVIS_TITLES_1">
+			<Text>President of the Confederate States of America</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DAVIS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DAVIS_HEADING_2">
+			<Text>Early Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DAVIS_HEADING_3">
+			<Text>Early Military Career</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DAVIS_HEADING_4">
+			<Text>Private Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DAVIS_HEADING_5">
+			<Text>Mexican-American War</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DAVIS_HEADING_6">
+			<Text>Senator</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DAVIS_HEADING_7">
+			<Text>Secretary of War and Return to the Senate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DAVIS_HEADING_8">
+			<Text>President of the Confederate States of America</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DAVIS_HEADING_9">
+			<Text>After the War</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DAVIS_HEADING_10">
+			<Text>Judgement of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DAVIS_TEXT_1">
+			<Text>Jefferson Davis served as the first and only President of the Confederate States of America from 1861 to 1865. Under his administration, the Confederate States attempted to establish their independence from the United States. He served with distinction as an officer in the Mexican-American War and as a U.S. Senator prior to the war, and after the Confederate defeat, served as a symbol of reconciliation and Southen pride.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DAVIS_TEXT_2">
+			<Text>Davis was born in either 1807 or 1808 in Kentucky, the last of ten children to Samuel Emory Davis and Sarah Simpson, whose homestead established the community of Fairview. His exact birth year is uncertain; throughout his life, Davis switched between them, using one year for a period of time before settling on the other. In addition to his native Kentucky, Davis moved with his family to Louisiana and Mississippi. At one time, he was the only Protestant attending the Catholic school of Saint Thomas in Washington, Kentucky. He attended Jefferson College in Washington and Transylvania University in Lexington while these institutions were still roughly equivalent of modern high schools. He then studied at the United States Military Academy at West Point in 1824. While there, he was placed under house arrest following the Eggnog Riot of Christmas 1826, in which whiskey was smuggled into the then-dry academy to make eggnog. He graduated 23rd in a class of 33 in 1828.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DAVIS_TEXT_3">
+			<Text>After his graduation from West Point, Davis served under future U.S. President Zachary Taylor in the Wisconsin Territory. Though he was in Mississippi on furlough during the Black Hawk War, he was assigned to escort Chief Black Hawk to prison on his return to duty. The chief would note in his autobiography that Davis treated him "with much kindness" and empathy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DAVIS_TEXT_4">
+			<Text>Davis fell in love with General Taylor's daughter, Sarah Knox Taylor. Her father refused to allow them to marry, wanting to spare her a difficult life as a military wife on frontier border posts. Despite the general's objections, Davis resigned his commission and they married on June 17, 1835. While visiting his sister's Louisiana plantation later that year, both of them contracted malaria or yellow fever. Davis recovered, but Sarah died.[NEWLINE][NEWLINE]After the death of his first wife, Davis traveled to Havana, Cuba, with his only slave at the time, James Pemberton, and observed the Spanish fortifications there. He later traveled back to Brierfield, land given to him by his brother after his first marriage, developing it into a plantation. By 1860, Davis owned 113 slaves. He also used this time to study government and history.[NEWLINE][NEWLINE]In 1844, Davis met his second wife, Varina Banks Howell, granddaughter of New Jersey Governor Richard Howell. They married in February 1845, over her parents' objections. During this time, he had been convinced to run for the House of Representatives, winning his first government office. Together, Davis and Varina has six children; three of them died before adulthood. His youngest daughter died in 1898, having never married after her parents refused to let her marry into a northern abolitionist family. Davis himself would suffer from repeated bouts of malaria, injuries sustained in the Mexican-American War, a chronic eye infection that left him unable to tolerate bright light and trigeminal neuralgia, a nerve disorder that causes severe facial pain.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DAVIS_TEXT_5">
+			<Text>Upon the outbreak of the Mexican-American War, Davis resigned his seat in the House and formed a volunteer regiment with himself as its colonel. This unit was under the command of his former father-in-law, General Taylor. While most American units were armed with smoothbore weapons, Davis and President James K. Polk agreed that if Davis remained in Washington long enough for an important tariff vote, his unit would receive newly developed rifles. These rifles allowed Davis' unit to be particularly effective in combat, earning it the nickname "Mississippi Rifles" after their signature weapon. The agreement between President Polk and Davis also began a lifelong feud between Davis and General Winfield Scott.[NEWLINE][NEWLINE]Davis served with distinction during the war, leading a successful charge on the La Teneria fort during the Battle of Monterrey. He was shot in the foot during the Battle of Buena Vista; his actions during this battle prompted President Polk to offer him a federal commission to brigadier general and command of a militia brigade. Davis declined, believing that the Constitutional power to appoint militia officers rested with the states, not the federal government. After the battle, General Taylor is reputed to have said, "My daughter, sir, was a better judge of men than I was."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DAVIS_TEXT_6">
+			<Text>Davis was appointed to take the place of U.S. Senator Jesse Speight of Mississippi after the senator's death by Mississippi Governor Brown in recognition of his war service. He was later elected to serve the remaining two years of Speight's term in 1848. Davis served as a regent of the Smithsonian Institution and as a member of the Committee on Military Affairs and the Library Committee. He proposed an amendment to the Treaty of Guadalupe Hidalgo to annex most of northeastern Mexico, but the amendment failed. When Cuban revolutionaries attempted to forcibly liberate Cuba from Spanish rule, he was offered command of an expedition to the island, but declined, recommending Robert E. Lee in his place; Lee, too, would decline. The Senate named him chairman of the Committee on Military Affairs in December 1849 and later that month, he was elected to a full six-year term in the Senate by the Mississippi legislature. He opposed the Compromise of 1850 and ran against fellow Senator Henry Stuart Foote for governorship of Mississippi on the issue; Foote defeated him by 999 votes. Now without political office, Davis attended a convention on states' rights in 1852 and campaigned in the South in support of Franklin Pierce and William R. King.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DAVIS_TEXT_7">
+			<Text>Following Pierce's victory in the 1852 presidential election, Davis was appointed his Secretary of War. In this capacity, Davis ordered the Pacific Railroad Surveys to find possible routes for the proposed Transcontinental Railroad. He also supported the Gadsden Purchase of what is now southern Arizona because he believed it would provide an easier southern route for the railroad. With Congressional approval, he increased the salaries of the regular army for the first time in 25 years and added four regiments, increasing the size of the army from around 11,000 to around 15,000. He also introduced general use of the rifles that had made his unit so successful in Mexico. President Pierce also gave Davis responsibility for construction of the Washington Aqueduct and the expansion of the U.S Capitol. After Pierce lost the Democratic nomination to James Buchanan in 1857, Davis ran for the Senate, as his term as Secretary of War would end with Pierce's administration. He won, and re-entered the Senate on March 4, 1857.[NEWLINE][NEWLINE]The divisive issue of slavery dominated Davis' second run in the Senate. During this time, talk of Southern secession from the Union began. Following an 1858 illness that almost cost him his left eye, Davis urged the preservation of the Union during two speeches in Boston. Though he stated his belief that each state was sovereign and had the right to secede in his memoir, he urged the Southern states to remain in the Union because he believed the North would not allow them to leave peaceably. Also, as a result of his time as Secretary of War, he knew the South did not have the resources necessary to defend itself in a war. He remained in the Senate following Abraham Lincoln's election in 1860 as several Southern states, including Mississippi on January 9, 1861, seceded, until he recieved an official notification of Mississippi's secession on January 21. On what he called "the saddest day of my life," he gave a farewell speech to the Senate, resigned and returned to Mississippi.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DAVIS_TEXT_8">
+			<Text>Davis offered his services to Mississippi Governor John J. Pettus, who appointed him Major General of the Army of Mississippi on January 23. During a constitutional convention in February, Davis and Robert Toombs of Georgia were considered for the presidency of the newly formed Confederate States of America. With the support of six of the then-seven states, Davis was elected provisional Confederate President by acclamation and inaugurated on February 18, 1861. He attempted to negotiate the turnover of remaining Union forts in Confederate territory in return for cash payments and the Southern portion of the national debt, but President Lincoln refused to meet with his commissioners. Though informal negotiations with Secretary of State Seward and Supreme Court Justice John A. Campbell hinted that Fort Sumter would be evacuated, there was no guarantee; Davis placed General P.G.T. Beauregard in command of all Confederate troops in Charleston. When Lincoln attempted to resupply the fort, Davis was faced with the choice of allowing the fort to be reinforced or to interfere. Davis and his cabinet chose to attempt to prevent the ships from reaching the fort, which refused to surrender. General Beauregard opened fire on the fort and President Lincoln called up state militias to recapture Federal property in the South. The Civil War had begun.[NEWLINE][NEWLINE]Davis' first actions as the wartime Confederate President moved the capital to Richmond, Virginia, when that state joined the Confederate States and named General Robert E. Lee commander of the Army of Northern Virginia. He reserved the main strategic decisions for himself, with Lee's input, and decided that the Confederacy, with its limited resources, must fight a mostly defensive war. He allowed offensives when he thought Northern morale could be shaken and when peace movements could be strengthened, but each of them met with defeat; at Antietam in 1862, the Confederate Heartland Offensive in Kentucky in 1862, and Gettysburg in 1863.[NEWLINE][NEWLINE]President Davis emphasized representation from the various Confederate states in his Cabinet, even insisting upon Stephen Mallory of Florida's appointment to Secretary of the Navy despite his name not being put forward for the position. This policy became strained as more states joined the Confederacy; there were more states than Cabinet positions. He also realized that the Southern economy was dependent on the export of cotton and the slave labor that produced it. He attempted to solicit intervention from European powers, whose markets were fed by Confederate cotton, but Union successes and a reluctance to support a slave-owning society prevented official recognition and intervention. Though the Union blockade of Confederate ports starved the European powers of cotton, slavery and Confederate losses in the field convinced them that the South did not have the strength to win the war. He attempted to defend all Confederate territory with equal effort, diluting already limited resources. The armies of the east, which protected Richmond, were also favored over the heavily-pressured western armies.[NEWLINE][NEWLINE]Davis focused his attention on military strategy rather than on crises at home. The common citizens of the Confedercay began to resent what they saw as favoritism of the rich and powerful. Rather than rallying the citizens with speeches, he asked them to die for their new country. He only embarked on two trips across the new country, each lasting about one month, and only met a few hundred people. Few Confederates saw him, even in Richmond, where the president spent most of his time. Despite his support of states' rights, Davis' administration interfered heavily in the economy, to a much greater degree than in the Union. His government attempted to finance the war through bonds; though taxes were low, collection was inefficient and when bond sales and European investment did not meet demand, the government printed more money. Inflation grew from 60% in 1861 to 600% in 1864. Davis cracked down on food riots and looting in Richmond in April 1863. He fought consistently with his vice-president, Alexander Stephens, and with powerful state governors, who refused to release their militias for national use under states' rights doctrine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DAVIS_TEXT_9">
+			<Text>As the war came to a close, Davis ordered the enlistment of slaves into the Confederate Army in March 1865, with a promise of freedom for service. Few slaves were enlisted, and the war ended in April. He fled Richmond as Grant's army approached the Confederate capital, moving his government to Danville, Virginia, where he received word of Lee's surrender. On May 5, 1865, he convened the Confederate government for the last time and officially dissolved it. During this time, he was the subject of a Union search and was captured on May 10 in Georgia. He was imprisoned in Fortress Monroe in Virginia and was initially allowed no visitors. His health began to decline until he was given new quarters and allowed visitors; he even received correspondence from Pope Pius IX, himself a prisoner in the Vatican. Though indicted on charges of treason, no trial was ever held. He was released after two years of imprisonment on $100,000 bail and was released from liability via amnesty by President Johnson in December 1868.[NEWLINE][NEWLINE]Davis became president of the Carolina Life Insurance Company in Memphis, Tennessee in 1869 and was elected to the Senate for a third time in 1875. He was refused office due to provisions of the Fourteenth Amendment preventing former Confederate leaders from holding public office. He opposed Republican Reconstruction policy in the South and felt that military rule was unjustified. He completed two works, The Rise and Fall of the Confederate Government (1881) and A Short History of the Confederate States of America (1889), and was received warmly by many ex-Confederates. He urged Southerns to be loyal to the nation, stating "United you are now, and if the Union is ever to be broken, let the other side break it." He attended ceremonies honoring the "Lost Cause," and continued to believe in the legality of secession. In November 1889, he came down with a severe cold that developed into bronchitis. He died on December 5, at age 81.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DAVIS_TEXT_10">
+			<Text>Because Davis served in many roles during his life, his legacy is complex. He is remembered as a brave and resourceful soldier, as well as an active and accomplished politican, though he never fully completed any of his terms in office. As the President of the Confederacy, however, Davis is widely viewed as an ineffective wartime leader even in the face of the daunting task of defending the Confederate States against the much stronger Union. After the war, he simultaneously fostered reconciliation between the North and South, while remaining a symbol of Southern pride. As was the case with many prominent Confederates, Davis was stripped of his citizenship after the war and specifically included from several resolutions to restore citizenship to ex-Confederates. On October 17, 1978, President Jimmy Carter signed Senate Joint Resolution 16, posthumously restoring his citizenship. President Carter believed this to be the last act of reconcilication after the Civil War. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_GENERIC_CSA_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now whistling Dixie and threatening to secede. I worry the rest of the world will soon succumb to the influence of your culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CSA_GOLDEN_CIRCLE">
+			<Text>Establish The Golden Circle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CSA_GOLDEN_CIRCLE_DESC">
+			<Text>
+				A secret society, calling themselves the "Knights of The Golden Circle", has apparently gained significant power in our country, and they claim their ultimate motive is the transformation of several nearby city-states into slave-states, under the rulership of our proud nation. Shall we aid them?
+				[NEWLINE]
+				[NEWLINE]Requirements/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be The Confederate States
+				[NEWLINE][ICON_BULLET]Player must be at war with a City-State
+				[NEWLINE][ICON_BULLET]May not be enacted in the Ancient Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]500 [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]100 [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Military Units are 50% more effective at intimidating City-States
+				[NEWLINE][ICON_BULLET]Captured City-States experience no [ICON_RESISTANCE] Resistance time
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CSA_GOLDEN_CIRCLE_ENACTED_DESC">
+			<Text>
+				A secret society, calling themselves the "Knights of The Golden Circle", has apparently gained significant power in our country, and they claim their ultimate motive is the transformation of several nearby city-states into slave-states, under the rulership of our proud nation. Shall we aid them?
+				[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Military Units are 50% more effective at intimidating City-States
+				[NEWLINE][ICON_BULLET]Captured City-States experience no [ICON_RESISTANCE] Resistance time
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CSA_CSS_VIRGINIA">
+			<Text>Raise the CSS Virginia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CSA_CSS_VIRGINIA_DESC">
+			<Text>
+				Steamships are the favored topic of discussion amongst our admirals and sailors these days, and they all agree that we need one for our fleet. A recently-sunken Frigate may be the prime option for conversion into an "Ironclad" warship.
+				[NEWLINE]
+				[NEWLINE]Requirements/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be The Confederate States
+				[NEWLINE][ICON_BULLET]Player must have a Frigate stationed in a Coastal city
+				[NEWLINE][ICON_BULLET]Player must have access to [ICON_RES_COAL] Coal
+				[NEWLINE][ICON_BULLET]Player must have researched Industrialization
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]1000 [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 Frigate
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive a unique Ironclad that is 33% stronger when fighting other Naval units and gains [ICON_CULTURE] Culture from kills.
+				[NEWLINE][ICON_BULLET]If the unit is killed in battle, receive a free Great Work of Art
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CSA_CSS_VIRGINIA_ENACTED_DESC">
+			<Text>
+				Steamships are the favored topic of discussion amongst our admirals and sailors these days, and they all agree that we need one for our fleet. A recently-sunken Frigate may be the prime option for conversion into an "Ironclad" warship.
+				[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive a unique Ironclad that is 33% stronger when fighting other Naval units and gains [ICON_CULTURE] Culture from kills.
+				[NEWLINE][ICON_BULLET]If the unit is killed in battle, receive a free Great Work of Art
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

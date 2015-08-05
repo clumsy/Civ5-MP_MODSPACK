@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/18/2014 12:15:04 AM -->
+<GameData>
+	<Units>
+		<Row>
+			<Class>UNITCLASS_RIFLEMAN</Class>
+			<Type>UNIT_CSASHARPSHOOTER</Type>
+			<PrereqTech>TECH_RIFLING</PrereqTech>
+			<Combat>30</Combat>
+			<Cost>225</Cost>
+			<FaithCost>450</FaithCost>
+			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
+			<Moves>2</Moves>
+			<CombatClass>UNITCOMBAT_GUN</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_ATTACK</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_CSASHARPSHOOTER</Description>
+			<Civilopedia>TXT_KEY_CIV5_ANTIQUITY_CSASHARPSHOOTER_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_CSASHARPSHOOTER_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_CSASHARPSHOOTER</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<ObsoleteTech>TECH_REPLACEABLE_PARTS</ObsoleteTech>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_GREAT_WAR_INFANTRY</GoodyHutUpgradeUnitClass>
+			<AdvancedStartCost>30</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<Conscription>5</Conscription>
+			<UnitArtInfo>ART_DEF_UNIT_CONFEDERATE_CORPS</UnitArtInfo>
+			<MoveRate>BIPED</MoveRate>
+			<UnitFlagIconOffset>0</UnitFlagIconOffset>
+			<UnitFlagAtlas>CSA_FLAG_ATLAS</UnitFlagAtlas>
+			<IconAtlas>CIV_COLOR_ATLAS_CSA</IconAtlas>
+			<PortraitIndex>1</PortraitIndex>
+		</Row>
+	</Units>
+	<Unit_FreePromotions>
+		<Row>
+			<UnitType>UNIT_CSASHARPSHOOTER</UnitType>
+			<PromotionType>PROMOTION_SHARPSHOOT</PromotionType>
+		</Row>
+	</Unit_FreePromotions>
+	<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_CSASHARPSHOOTER</UnitType>
+			<UnitAIType>UNITAI_ATTACK</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CSASHARPSHOOTER</UnitType>
+			<UnitAIType>UNITAI_DEFENSE</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CSASHARPSHOOTER</UnitType>
+			<UnitAIType>UNITAI_EXPLORE</UnitAIType>
+		</Row>
+	</Unit_AITypes>
+	<Unit_ClassUpgrades>
+		<Row>
+			<UnitType>UNIT_CSASHARPSHOOTER</UnitType>
+			<UnitClassType>UNITCLASS_GREAT_WAR_INFANTRY</UnitClassType>
+		</Row>
+	</Unit_ClassUpgrades>
+	<Unit_Flavors>
+		<Row>
+			<UnitType>UNIT_CSASHARPSHOOTER</UnitType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>28</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CSASHARPSHOOTER</UnitType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>18</Flavor>
+		</Row>
+	</Unit_Flavors>
+	<UnitPromotions_UnitCombats>
+		<Row>
+			<PromotionType>PROMOTION_SHARPSHOOT</PromotionType>
+			<UnitCombatType>UNITCOMBAT_GUN</UnitCombatType>
+		</Row>
+	</UnitPromotions_UnitCombats>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_SHARPSHOOT</Type>
+			<Description>TXT_KEY_PROMOTION_SHARPSHOOT</Description>
+			<Help>TXT_KEY_PROMOTION_SHARPSHOOT_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<RangedSupportFire>true</RangedSupportFire>
+			<PortraitIndex>34</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<LostWithUpgrade>true</LostWithUpgrade>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PEDIA_PROMOTION_SHARPSHOOT</PediaEntry>
+		</Row>
+		<Row>
+			<Type>PROMOTION_SHARPSHOOTDEFENSE</Type>
+			<Description>TXT_KEY_PROMOTION_SHARPSHOOTDEFENSE</Description>
+			<Help>TXT_KEY_PROMOTION_SHARPSHOOTDEFENSE_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PortraitIndex>8</PortraitIndex>
+			<IconAtlas>EXPANSION2_PROMOTION_ATLAS</IconAtlas>
+			<LostWithUpgrade>true</LostWithUpgrade>
+			<DefenseMod>20</DefenseMod>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PEDIA_PROMOTION_SHARPSHOOTDEFENSE</PediaEntry>
+		</Row>
+	</UnitPromotions>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_PROMOTION_SHARPSHOOT">
+			<Text>Marksman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SHARPSHOOT_HELP">
+			<Text>Before entering melee combat, this unit will bombard the enemy unit with a ranged attack.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PROMOTION_SHARPSHOOT">
+			<Text>Marksman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SHARPSHOOTDEFENSE">
+			<Text>Fortified Manor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SHARPSHOOTDEFENSE_HELP">
+			<Text>+20% Defensive strength when stationed on an Antebellum Manor.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PROMOTION_SHARPSHOOTDEFENSE">
+			<Text>Fortified Manor</Text>
+		</Row>
+	</Language_en_US>
+	<ArtDefine_StrategicView>
+		<Row>
+			<StrategicViewType>ART_DEF_UNIT_CONFEDERATE_CORPS</StrategicViewType>
+			<TileType>Unit</TileType>
+			<Asset>sv_CSASharps.dds</Asset>
+		</Row>
+	</ArtDefine_StrategicView>
+</GameData>

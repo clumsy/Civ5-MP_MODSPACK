@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="e50f4fca-2e61-4d56-84c1-40bfffa26800" version="1">
+  <Properties>
+    <Name>[BNW] Confederate States of America</Name>
+    <Stability>Beta</Stability>
+    <Teaser>This mod adds the Confederate States of America to the game as a playable Civilization, and requires the Brave New World expans</Teaser>
+    <Description>This mod adds the Confederate States of America to the game as a playable Civilization, and requires the Brave New World expansion pack.</Description>
+    <Authors>Sasquatch (AKA Kramer), ViceVirtuoso, bouncymischa, Janboruta</Authors>
+    <SpecialThanks>DonStamos, DJSHenninger, TPangolin</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>0</AffectsSavedGames>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+    <Mod id="be2d13ee-d18d-410e-8f04-7cd19cd99a98" minversion="0" maxversion="999" title="More Luxuries" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events and Decisions" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Unique Cultural Influence" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+    <Mod id="d60c32bd-6826-4ca3-8161-2e37ebab5883" minversion="0" maxversion="999" title="Protestant Denominations" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD's Piety and Prestige" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="43868e8d-de88-48a1-a8d9-ce144e07f5e0" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="93F35BE121FA81B06416B2ED0E98A159" import="1">Art/Antebellum/fountain.dds</File>
+    <File md5="92982F0368CA76E62D478418E4CC19E6" import="1">Art/Antebellum/manor.dds</File>
+    <File md5="585483D3223957111B21757FB93E5221" import="1">Art/Antebellum/Manor.fxsxml</File>
+    <File md5="AAD5ECF6374AB54A67B7AD7AA8AB851A" import="1">Art/Antebellum/Manor1.gr2</File>
+    <File md5="14233948CFF100B6D08F7437BB6BFC29" import="1">Art/Antebellum/manor2.dds</File>
+    <File md5="E98BED4A16BF49E37999A8C50C8A73BD" import="1">Art/Antebellum/Manor_build.fxsxml</File>
+    <File md5="588327B068D0D2FAA9C940FC812D8CBD" import="1">Art/Antebellum/Manor_build.gr2</File>
+    <File md5="EAF5E5329D76A912C28F2A61B447337D" import="1">Art/Antebellum/Manor_PL.fxsxml</File>
+    <File md5="78D6552560564EDE4093D8B3B55884E5" import="1">Art/Antebellum/mod_farm.dds</File>
+    <File md5="AC41C06BA721315512F26433220FEDF7" import="1">Art/Antebellum/no_gloss.dds</File>
+    <File md5="E966E67EAE58168C0D92167E18337AAB" import="1">Art/Antebellum/ruins.dds</File>
+    <File md5="8581599B4AC3EBADB1C89A8CCAF4A532" import="1">Art/Antebellum/stonetiles.dds</File>
+    <File md5="591F7E770DE36459EFABFC025FA72204" import="1">Art/Antebellum/trees.dds</File>
+    <File md5="A447B1BE7FD7F72056770B745E801C17" import="1">Art/Atlases/Alpha/CSAAlpha_128.dds</File>
+    <File md5="37A7061BBFE5547A43583790E3E08C2A" import="1">Art/Atlases/Alpha/CSAAlpha_16.dds</File>
+    <File md5="5B1A4BCA4A2DF1F5966274DC540B9ED3" import="1">Art/Atlases/Alpha/CSAAlpha_24.dds</File>
+    <File md5="022970330229DCDCD5C78AE2252EE84B" import="1">Art/Atlases/Alpha/CSAAlpha_32.dds</File>
+    <File md5="140B338FBDA83EF2B28C1ADA6E6BA54B" import="1">Art/Atlases/Alpha/CSAAlpha_45.dds</File>
+    <File md5="381D3BB609B21C6412BC50E91980E94D" import="1">Art/Atlases/Alpha/CSAAlpha_48.dds</File>
+    <File md5="FBFE181A707996DE953765B0354EB4C0" import="1">Art/Atlases/Alpha/CSAAlpha_64.dds</File>
+    <File md5="DF7FC0B92BD558F147A3CF9C09646694" import="1">Art/Atlases/Alpha/CSAAlpha_80.dds</File>
+    <File md5="781708B251F319B494692400354905A2" import="1">Art/Atlases/CSAatlas128.dds</File>
+    <File md5="6B55690FCFCA9278DC020B1A442508F1" import="1">Art/Atlases/CSAatlas256.dds</File>
+    <File md5="AF0CEAA29BF6CBECEB5F40C80955CB62" import="1">Art/Atlases/CSAatlas32.dds</File>
+    <File md5="067A723B551525C7A29B53E21002706F" import="1">Art/Atlases/CSAatlas45.dds</File>
+    <File md5="D3491DF3F119D8B3CC6E60CD75B860A2" import="1">Art/Atlases/CSAatlas64.dds</File>
+    <File md5="0C9D056A3CB4AA9BD940413DBAFCBEF7" import="1">Art/Atlases/CSAatlas80.dds</File>
+    <File md5="73E4A1189DDA0123BA29392C16C3CA5C" import="1">Art/Atlases/csaicon128.dds</File>
+    <File md5="DCECBC3CE14E280830DE1C1CA5900767" import="1">Art/Atlases/csaicon256.dds</File>
+    <File md5="5CAFB9AB2FD93FBF0EE59A36E648CFCC" import="1">Art/Atlases/csaicon32.dds</File>
+    <File md5="98E284DC3F1B9D6CD56CE4FBC8886BAD" import="1">Art/Atlases/csaicon45.dds</File>
+    <File md5="C4DA7D3130189949AC23C032AA8B5B46" import="1">Art/Atlases/csaicon64.dds</File>
+    <File md5="C7720BEA62F76FC21B11587468BD77F7" import="1">Art/Atlases/csaicon80.dds</File>
+    <File md5="AC960CE0C511F66381428108B8F7277D" import="0">Art/Atlases/IconTextureAtlases.xml</File>
+    <File md5="A1CB281D0E6CC4571C4DC8BB33B93B79" import="1">Art/csamap.dds</File>
+    <File md5="E706FA08C07F773FB124707C0057970A" import="1">Art/DavisDOM.dds</File>
+    <File md5="994BBAC27B9C8768C216BD1230DE1181" import="1">Art/Davis_Diplo.dds</File>
+    <File md5="33BF44D2D1FCBCC2E7897F27017C5258" import="1">Art/MonitorandtheMerrimac.dds</File>
+    <File md5="A070B6974EA474C4BDD0E2E044384D22" import="1">Art/sharpshooterflag.dds</File>
+    <File md5="0FDBE5211A5D82C748331A1533B37AA1" import="1">Art/sv_Antebellum.dds</File>
+    <File md5="05889DE8162DD3DD3F8121016C80FD4C" import="1">Art/SV_CSASharps.dds</File>
+    <File md5="B8B4EC5087187C9658405ADC44F1F119" import="1">Lua/CSADecisions.lua</File>
+    <File md5="C2ED03FE7C9EECE9A44417DD32086AB5" import="0">Lua/CSADecisionsSupport.sql</File>
+    <File md5="52B2FE669F10EA38B592C0C6F137BF30" import="0">Lua/CSAFunctions.lua</File>
+    <File md5="E50F82C91C54C11E8A10B974AC899B9F" import="0">Lua/CSAOtherModSupport.sql</File>
+    <File md5="4D9EC383EC2C4952103747D2398A0352" import="0">Lua/CSASQL.sql</File>
+    <File md5="568F36B67F199DA842D9BE65B06FAA05" import="0">Lua/MapLabelsCSA.sql</File>
+    <File md5="F19AFA3EF8072AC10E5634EBB108FD54" import="0">Lua/Sharpshooterdefense.lua</File>
+    <File md5="54910303CFC76F998E991B582DC3AF74" import="1">Music/Davis_Peace.mp3</File>
+    <File md5="2D3413DFD3AD3B3BF02818BBC08859AA" import="1">Music/Davis_War.mp3</File>
+    <File md5="71D69ECC0452EDA6C22647F1B965D951" import="0">XML/Civilization/Civ_CSA.xml</File>
+    <File md5="3F785C9E3D3F2958832440D80DD173DF" import="0">XML/Civilization/CSANewTables.xml</File>
+    <File md5="EC5925FA6D8914EC718ED909E3A2D51F" import="0">XML/Civilization/CSA_TSL.xml</File>
+    <File md5="9EEF54751409DC26CFAB61813D9DF7EB" import="0">XML/Civilization/CSA_TSL_JFD.xml</File>
+    <File md5="F26F598EE59ABBD020E2C1702C7725A1" import="0">XML/Civilization/Trait_CSA.xml</File>
+    <File md5="0761CBEDFB1458DD26166F99B50607F6" import="0">XML/CSAHiddenStuff.xml</File>
+    <File md5="EB39A30F3E0DC44423C839BE9F1A9A4B" import="0">XML/Improvements/Antebellum.xml</File>
+    <File md5="A978FCC0C77218200D228F34AC7AA31F" import="0">XML/Leader/Davis_Music.xml</File>
+    <File md5="FE7D1F41B5485FF3B278A18640663D72" import="1">XML/Leader/Davis_Scene.xml</File>
+    <File md5="C4295B519CD5B9E9048D8E2032E381E5" import="0">XML/Leader/JeffersonDavis.xml</File>
+    <File md5="F7752EE5C6864092D24AD756AE6A29A7" import="0">XML/New Text/GameText.xml</File>
+    <File md5="BAC86274F46126E44D2148CFB98DE718" import="0">XML/Units/ConfederatePromotions.xml</File>
+    <File md5="124AB0E6D368A0127470119EB755F749" import="0">XML/Units/ConfederateSharpshooter.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Civilization/CSANewTables.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Improvements/Antebellum.xml</UpdateDatabase>
+      <UpdateDatabase>Lua/CSASQL.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Leader/Davis_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>Lua/MapLabelsCSA.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization/Civ_CSA.xml</UpdateDatabase>
+      <UpdateDatabase>XML/New Text/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader/JeffersonDavis.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader/Davis_Music.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/ConfederateSharpshooter.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization/Trait_CSA.xml</UpdateDatabase>
+      <UpdateDatabase>Art/Atlases/IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/ConfederatePromotions.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization/CSA_TSL.xml</UpdateDatabase>
+      <UpdateDatabase>XML/CSAHiddenStuff.xml</UpdateDatabase>
+      <UpdateDatabase>Lua/CSADecisionsSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Lua/CSAOtherModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization/CSA_TSL_JFD.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Sharpshooterdefense.lua">
+      <Name>sharpshooter defense</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/CSAFunctions.lua">
+      <Name>CSAFunctions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/18/2014 1:01:09 AM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_REBELYELL</Type>
+			<Description>TXT_KEY_TRAIT_REBELYELL</Description>
+			<ShortDescription>TXT_KEY_TRAIT_REBELYELL_SHORT</ShortDescription>
+		</Row>
+	</Traits>
+	<Trait_FreePromotionUnitCombats>
+		<Row>
+			<TraitType>TRAIT_REBELYELL</TraitType>
+			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+			<PromotionType>PROMOTION_CSAGREEN</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_REBELYELL</TraitType>
+			<UnitCombatType>UNITCOMBAT_GUN</UnitCombatType>
+			<PromotionType>PROMOTION_CSAGREEN</PromotionType>
+		</Row>
+	</Trait_FreePromotionUnitCombats>
+</GameData>
