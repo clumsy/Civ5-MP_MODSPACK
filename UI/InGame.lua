@@ -1382,6 +1382,12 @@ ContextPtr:LoadNewContext("JFD_NewZealand_CityInfo")
 -- Nation - Slavs --
 ContextPtr:LoadNewContext("GESlavicFunctions")
 
+-- Nation - Cuba --
+ContextPtr:LoadNewContext("CubaTraitScripts")
+ContextPtr:LoadNewContext("RevolucionarioAnarchies")
+ContextPtr:LoadNewContext("WarGeneral")
+ContextPtr:LoadNewContext("IndependenceScripts")
+
 -- Misc - Pontoon Bridge --
 ContextPtr:LoadNewContext("Pontoon Bridge Lua")
 

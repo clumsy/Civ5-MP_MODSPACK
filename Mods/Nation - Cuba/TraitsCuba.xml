@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/28/2014 12:06:40 PM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_DEMAJAGUA</Type>
+			<Description>TXT_KEY_TRAIT_DEMAJAGUA</Description>
+			<ShortDescription>TXT_KEY_TRAIT_DEMAJAGUA_SHORT</ShortDescription>
+			<NearbyImprovementCombatBonus>20</NearbyImprovementCombatBonus>
+			<NearbyImprovementBonusRange>1</NearbyImprovementBonusRange>
+			<CombatBonusImprovement>IMPROVEMENT_PLANTATION</CombatBonusImprovement>
+		</Row>
+	</Traits>
+<!-- Please note, the rest of the trait is made by Lua directly -->
+
+	<Policies>
+		<Row>
+			<Type>POLICY_CUBAN_GENERALS</Type>
+			<Description>TXT_KEY_POLICY_FREE_RELIGION</Description>
+			<Civilopedia>TXT_KEY_POLICY_FREERELIGION_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_FREE_RELIGION_HELP</Help>
+			<GridX>1000</GridX>
+			<GridY>1000</GridY>
+			<PortraitIndex>47</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+			<IncludesOneShotFreeUnits>true</IncludesOneShotFreeUnits>
+		</Row>
+	</Policies>
+	<Policy_FreeUnitClasses>
+		<Row>
+			<PolicyType>POLICY_CUBAN_GENERALS</PolicyType>
+			<UnitClassType>UNITCLASS_GREAT_GENERAL</UnitClassType>
+			<Count>2</Count>
+		</Row>
+	</Policy_FreeUnitClasses>
+</GameData>

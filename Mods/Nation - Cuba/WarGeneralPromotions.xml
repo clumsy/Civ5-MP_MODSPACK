@@ -1,0 +1,472 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/31/2013 1:03:47 PM -->
+<GameData>
+	<UnitPromotions>
+
+		<Replace>
+			<Type>PROMOTION_WAR_GENERAL</Type>
+			<Description>TXT_KEY_PROMOTION_WAR_GENERAL</Description>
+			<Help>TXT_KEY_PROMOTION_WAR_GENERAL_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<LostWithUpgrade>true</LostWithUpgrade>
+			<PortraitIndex>13</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<!-- Penalties for Generals-->
+			<NoCapture>true</NoCapture>
+			<CityAttack>-33</CityAttack>
+			<ExperiencePercent>-300</ExperiencePercent>
+			<IgnoreGreatGeneralBenefit>true</IgnoreGreatGeneralBenefit>
+			<HPHealedIfDestroyEnemy>-10</HPHealedIfDestroyEnemy>
+			<!-- Penalties for Generals-->
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_WAR_GENERAL</PediaEntry>
+		</Replace>
+		
+		
+		<Replace>
+			<Type>PROMOTION_WAR_GENERAL_0</Type>
+			<Description>TXT_KEY_PROMOTION_WAR_GENERAL_0</Description>
+			<Help>TXT_KEY_PROMOTION_WAR_GENERAL_0_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<LostWithUpgrade>true</LostWithUpgrade>
+			<PortraitIndex>44</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_WAR_GENERAL_0</PediaEntry>
+		</Replace>
+
+		<Replace>
+			<Type>PROMOTION_WAR_GENERAL_1</Type>
+			<Description>TXT_KEY_PROMOTION_WAR_GENERAL_1</Description>
+			<Help>TXT_KEY_PROMOTION_WAR_GENERAL_1_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<LostWithUpgrade>true</LostWithUpgrade>
+			<PortraitIndex>45</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_WAR_GENERAL_1</PediaEntry>
+		</Replace>
+
+		<Replace>
+			<Type>PROMOTION_WAR_GENERAL_2</Type>
+			<Description>TXT_KEY_PROMOTION_WAR_GENERAL_2</Description>
+			<Help>TXT_KEY_PROMOTION_WAR_GENERAL_2_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<LostWithUpgrade>true</LostWithUpgrade>
+			<PortraitIndex>46</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_WAR_GENERAL_2</PediaEntry>
+		</Replace>
+
+		<Replace>
+			<Type>PROMOTION_WAR_GENERAL_3</Type>
+			<Description>TXT_KEY_PROMOTION_WAR_GENERAL_3</Description>
+			<Help>TXT_KEY_PROMOTION_WAR_GENERAL_3_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<LostWithUpgrade>true</LostWithUpgrade>
+			<PortraitIndex>19</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_WAR_GENERAL_3</PediaEntry>
+		</Replace>
+
+		<Replace>
+			<Type>PROMOTION_WAR_GENERAL_4</Type>
+			<Description>TXT_KEY_PROMOTION_WAR_GENERAL_4</Description>
+			<Help>TXT_KEY_PROMOTION_WAR_GENERAL_4_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<LostWithUpgrade>true</LostWithUpgrade>
+			<PortraitIndex>20</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_WAR_GENERAL_4</PediaEntry>
+		</Replace>
+
+		<Replace>
+			<Type>PROMOTION_WAR_GENERAL_5</Type>
+			<Description>TXT_KEY_PROMOTION_WAR_GENERAL_5</Description>
+			<Help>TXT_KEY_PROMOTION_WAR_GENERAL_5_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<LostWithUpgrade>true</LostWithUpgrade>
+			<PortraitIndex>21</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_WAR_GENERAL_5</PediaEntry>
+		</Replace>
+
+		<Replace>
+			<Type>PROMOTION_WAR_GENERAL_6</Type>
+			<Description>TXT_KEY_PROMOTION_WAR_GENERAL_6</Description>
+			<Help>TXT_KEY_PROMOTION_WAR_GENERAL_6_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<LostWithUpgrade>true</LostWithUpgrade>
+			<PortraitIndex>16</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_WAR_GENERAL_6</PediaEntry>
+		</Replace>
+
+		<Replace>
+			<Type>PROMOTION_WAR_GENERAL_7</Type>
+			<Description>TXT_KEY_PROMOTION_WAR_GENERAL_7</Description>
+			<Help>TXT_KEY_PROMOTION_WAR_GENERAL_7_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<LostWithUpgrade>true</LostWithUpgrade>
+			<PortraitIndex>17</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_WAR_GENERAL_7</PediaEntry>
+		</Replace>
+
+		<Replace>
+			<Type>PROMOTION_WAR_GENERAL_8</Type>
+			<Description>TXT_KEY_PROMOTION_WAR_GENERAL_8</Description>
+			<Help>TXT_KEY_PROMOTION_WAR_GENERAL_8_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<LostWithUpgrade>true</LostWithUpgrade>
+			<PortraitIndex>18</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_WAR_GENERAL_8</PediaEntry>
+		</Replace>
+
+		<Replace>
+			<Type>PROMOTION_WAR_GENERAL_9</Type>
+			<Description>TXT_KEY_PROMOTION_WAR_GENERAL_9</Description>
+			<Help>TXT_KEY_PROMOTION_WAR_GENERAL_9_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<LostWithUpgrade>true</LostWithUpgrade>
+			<PortraitIndex>23</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_WAR_GENERAL_9</PediaEntry>
+		</Replace>
+	</UnitPromotions>
+
+
+
+	<!-- The following Improvement and Builds are to make the Tech Tree show the fancy Star things on techs that add a General Level-->
+	<Improvements>
+		<Replace>
+			<Type>IMPROVEMENT_CUBA_FAKE_WARGENERAL</Type>
+			<SpecificCivRequired>true</SpecificCivRequired>
+			<CivilizationType>CIVILIZATION_LEUGI_CUBA</CivilizationType>
+			<Description>TXT_KEY_IMPROVEMENT_CITY_RUINS</Description>
+			<Civilopedia>TXT_KEY_IMPROVEMENT_CITY_RUINS_PEDIA</Civilopedia>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>GENERIC_FUNC_ATLAS</IconAtlas>
+		</Replace>
+	</Improvements>
+	<Builds>
+		<Row>
+			<Type>BUILD_CUBA_GENERAL_LVL1</Type>
+			<PrereqTech>TECH_BRONZE_WORKING</PrereqTech>
+			<Time>900</Time>
+			<ImprovementType>IMPROVEMENT_CUBA_FAKE_WARGENERAL</ImprovementType>
+			<Description>TXT_KEY_BUILD_CUBA_GENERAL_LEVEL_UP</Description>
+			<HotKey>KB_A</HotKey>
+			<OrderPriority>1</OrderPriority>
+			<CtrlDown>1</CtrlDown>
+			<IconIndex>0</IconIndex>
+			<IconAtlas>GENERIC_FUNC_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>BUILD_CUBA_GENERAL_LVL2</Type>
+			<PrereqTech>TECH_IRON_WORKING</PrereqTech>
+			<Time>900</Time>
+			<ImprovementType>IMPROVEMENT_CUBA_FAKE_WARGENERAL</ImprovementType>
+			<Description>TXT_KEY_BUILD_CUBA_GENERAL_LEVEL_UP</Description>
+			<Help>TXT_KEY_BUILD_ROAD_HELP</Help>
+			<Recommendation>TXT_KEY_BUILD_ROAD_REC</Recommendation>
+			<HotKey>KB_A</HotKey>
+			<OrderPriority>1</OrderPriority>
+			<CtrlDown>1</CtrlDown>
+			<IconIndex>0</IconIndex>
+			<IconAtlas>GENERIC_FUNC_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>BUILD_CUBA_GENERAL_LVL3</Type>
+			<PrereqTech>TECH_STEEL</PrereqTech>
+			<Time>900</Time>
+			<ImprovementType>IMPROVEMENT_CUBA_FAKE_WARGENERAL</ImprovementType>
+			<Description>TXT_KEY_BUILD_CUBA_GENERAL_LEVEL_UP</Description>
+			<Help>TXT_KEY_BUILD_ROAD_HELP</Help>
+			<Recommendation>TXT_KEY_BUILD_ROAD_REC</Recommendation>
+			<HotKey>KB_A</HotKey>
+			<OrderPriority>1</OrderPriority>
+			<CtrlDown>1</CtrlDown>
+			<IconIndex>0</IconIndex>
+			<IconAtlas>GENERIC_FUNC_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>BUILD_CUBA_GENERAL_LVL4</Type>
+			<PrereqTech>TECH_GUNPOWDER</PrereqTech>
+			<Time>900</Time>
+			<ImprovementType>IMPROVEMENT_CUBA_FAKE_WARGENERAL</ImprovementType>
+			<Description>TXT_KEY_BUILD_CUBA_GENERAL_LEVEL_UP</Description>
+			<Help>TXT_KEY_BUILD_ROAD_HELP</Help>
+			<Recommendation>TXT_KEY_BUILD_ROAD_REC</Recommendation>
+			<HotKey>KB_A</HotKey>
+			<OrderPriority>1</OrderPriority>
+			<CtrlDown>1</CtrlDown>
+			<IconIndex>0</IconIndex>
+			<IconAtlas>GENERIC_FUNC_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>BUILD_CUBA_GENERAL_LVL5</Type>
+			<PrereqTech>TECH_RIFLING</PrereqTech>
+			<Time>900</Time>
+			<ImprovementType>IMPROVEMENT_CUBA_FAKE_WARGENERAL</ImprovementType>
+			<Description>TXT_KEY_BUILD_CUBA_GENERAL_LEVEL_UP</Description>
+			<Help>TXT_KEY_BUILD_ROAD_HELP</Help>
+			<Recommendation>TXT_KEY_BUILD_ROAD_REC</Recommendation>
+			<HotKey>KB_A</HotKey>
+			<OrderPriority>1</OrderPriority>
+			<CtrlDown>1</CtrlDown>
+			<IconIndex>0</IconIndex>
+			<IconAtlas>GENERIC_FUNC_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>BUILD_CUBA_GENERAL_LVL6</Type>
+			<PrereqTech>TECH_REPLACEABLE_PARTS</PrereqTech>
+			<Time>900</Time>
+			<ImprovementType>IMPROVEMENT_CUBA_FAKE_WARGENERAL</ImprovementType>
+			<Description>TXT_KEY_BUILD_CUBA_GENERAL_LEVEL_UP</Description>
+			<Help>TXT_KEY_BUILD_ROAD_HELP</Help>
+			<Recommendation>TXT_KEY_BUILD_ROAD_REC</Recommendation>
+			<HotKey>KB_A</HotKey>
+			<OrderPriority>1</OrderPriority>
+			<CtrlDown>1</CtrlDown>
+			<IconIndex>0</IconIndex>
+			<IconAtlas>GENERIC_FUNC_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>BUILD_CUBA_GENERAL_LVL7</Type>
+			<PrereqTech>TECH_PLASTIC</PrereqTech>
+			<Time>900</Time>
+			<ImprovementType>IMPROVEMENT_CUBA_FAKE_WARGENERAL</ImprovementType>
+			<Description>TXT_KEY_BUILD_CUBA_GENERAL_LEVEL_UP</Description>
+			<Help>TXT_KEY_BUILD_ROAD_HELP</Help>
+			<Recommendation>TXT_KEY_BUILD_ROAD_REC</Recommendation>
+			<HotKey>KB_A</HotKey>
+			<OrderPriority>1</OrderPriority>
+			<CtrlDown>1</CtrlDown>
+			<IconIndex>0</IconIndex>
+			<IconAtlas>GENERIC_FUNC_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>BUILD_CUBA_GENERAL_LVL8</Type>
+			<PrereqTech>TECH_MOBILE_TACTICS</PrereqTech>
+			<Time>900</Time>
+			<ImprovementType>IMPROVEMENT_CUBA_FAKE_WARGENERAL</ImprovementType>
+			<Description>TXT_KEY_BUILD_CUBA_GENERAL_LEVEL_UP</Description>
+			<Help>TXT_KEY_BUILD_ROAD_HELP</Help>
+			<Recommendation>TXT_KEY_BUILD_ROAD_REC</Recommendation>
+			<HotKey>KB_A</HotKey>
+			<OrderPriority>1</OrderPriority>
+			<CtrlDown>1</CtrlDown>
+			<IconIndex>0</IconIndex>
+			<IconAtlas>GENERIC_FUNC_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Type>BUILD_CUBA_GENERAL_LVL9</Type>
+			<PrereqTech>TECH_NANOTECHNOLOGY</PrereqTech>
+			<Time>900</Time>
+			<ImprovementType>IMPROVEMENT_CUBA_FAKE_WARGENERAL</ImprovementType>
+			<Description>TXT_KEY_BUILD_CUBA_GENERAL_LEVEL_UP</Description>
+			<Help>TXT_KEY_BUILD_ROAD_HELP</Help>
+			<Recommendation>TXT_KEY_BUILD_ROAD_REC</Recommendation>
+			<HotKey>KB_A</HotKey>
+			<OrderPriority>1</OrderPriority>
+			<CtrlDown>1</CtrlDown>
+			<IconIndex>0</IconIndex>
+			<IconAtlas>GENERIC_FUNC_ATLAS</IconAtlas>
+		</Row>
+	</Builds>
+	<Language_en_US>
+
+		<Replace Tag="TXT_KEY_BUILD_CUBA_GENERAL_LEVEL_UP">
+			<Text>Increased Combat Strength of Revolucionarios</Text>
+		</Replace>
+		
+		<Replace Tag="TXT_KEY_PROMOTION_WAR_GENERAL">
+			<Text>War General</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_PROMOTION_WAR_GENERAL_HELP">
+			<Text>This Great General may Attack and Defend itself, however it loses 10 HP for each unit killed and may not capture cities, also receives a penalty against cities.</Text>
+		</Replace>
+
+
+		<Replace Tag="TXT_KEY_PROMOTION_WAR_GENERAL_0">
+			<Text>War General [COLOR_YIELD_GOLD]Level 1[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_PROMOTION_WAR_GENERAL_0_HELP">
+			<Text>The unit gets the Combat Strength of Warriors.</Text>
+		</Replace>
+		
+		<Replace Tag="TXT_KEY_PROMOTION_WAR_GENERAL_1">
+			<Text>War General [COLOR_YIELD_GOLD]Level 2[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_PROMOTION_WAR_GENERAL_1_HELP">
+			<Text>Combat Bonus Boost after learning the secrets of Bronze Working</Text>
+		</Replace>
+
+		<Replace Tag="TXT_KEY_PROMOTION_WAR_GENERAL_2">
+			<Text>War General [COLOR_YIELD_GOLD]Level 3[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_PROMOTION_WAR_GENERAL_2_HELP">
+			<Text>Combat Bonus Boost after learning the secrets of Iron Working</Text>
+		</Replace>
+
+		<Replace Tag="TXT_KEY_PROMOTION_WAR_GENERAL_3">
+			<Text>War General [COLOR_YIELD_GOLD]Level 4[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_PROMOTION_WAR_GENERAL_3_HELP">
+			<Text>Combat Bonus Boost after learning the secrets of Steel</Text>
+		</Replace>
+
+
+		<Replace Tag="TXT_KEY_PROMOTION_WAR_GENERAL_4">
+			<Text>War General [COLOR_YIELD_GOLD]Level 5[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_PROMOTION_WAR_GENERAL_4_HELP">
+			<Text>Combat Bonus Boost after learning the secrets of Gunpowder</Text>
+		</Replace>
+
+		<Replace Tag="TXT_KEY_PROMOTION_WAR_GENERAL_5">
+			<Text>War General [COLOR_YIELD_GOLD]Level 6[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_PROMOTION_WAR_GENERAL_5_HELP">
+			<Text>Combat Bonus Boost after learning the secrets of Rifling</Text>
+		</Replace>
+
+
+		<Replace Tag="TXT_KEY_PROMOTION_WAR_GENERAL_6">
+			<Text>War General [COLOR_YIELD_GOLD]Level 7[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_PROMOTION_WAR_GENERAL_6_HELP">
+			<Text>Combat Bonus Boost after learning the secrets of Replaceable Parts</Text>
+		</Replace>
+
+		<Replace Tag="TXT_KEY_PROMOTION_WAR_GENERAL_7">
+			<Text>War General [COLOR_YIELD_GOLD]Level 8[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_PROMOTION_WAR_GENERAL_7_HELP">
+			<Text>Combat Bonus Boost after learning the secrets of Plastics</Text>
+		</Replace>
+
+		<Replace Tag="TXT_KEY_PROMOTION_WAR_GENERAL_8">
+			<Text>War General [COLOR_YIELD_GOLD]Level 9[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_PROMOTION_WAR_GENERAL_8_HELP">
+			<Text>Combat Bonus Boost after learning the secrets of Mobile Tactics</Text>
+		</Replace>
+
+
+		<Replace Tag="TXT_KEY_PROMOTION_WAR_GENERAL_9">
+			<Text>War General [COLOR_YIELD_GOLD]Elite[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_PROMOTION_WAR_GENERAL_9_HELP">
+			<Text>Combat Bonus Boost after learning the secrets of Nanotechnology. This is the final level.</Text>
+		</Replace>
+	</Language_en_US>
+
+	<Language_ES_ES>
+
+		<Replace Tag="TXT_KEY_BUILD_CUBA_GENERAL_LEVEL_UP">
+			<Text>El Combate de los Revolucionarios se Incrementará</Text>
+		</Replace>
+
+		<Replace Tag="TXT_KEY_PROMOTION_WAR_GENERAL">
+			<Text>General de Guerra</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_PROMOTION_WAR_GENERAL_HELP">
+			<Text>Este Gran General puede atacar y defenderse, pero pierde 10 de vida por cada unidad asesinada y no puede capturar ciudades</Text>
+		</Replace>
+
+		<Replace Tag="TXT_KEY_PROMOTION_WAR_GENERAL_0">
+			<Text>General de Guerra [COLOR_YIELD_GOLD]Nivel 1[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_PROMOTION_WAR_GENERAL_0_HELP">
+			<Text>El Gran General recibe combate en función a las tecnologías adquiridas</Text>
+		</Replace>
+
+		<Replace Tag="TXT_KEY_PROMOTION_WAR_GENERAL_1">
+			<Text>General de Guerra [COLOR_YIELD_GOLD]Nivel 2[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_PROMOTION_WAR_GENERAL_1_HELP">
+			<Text>El Gran General recibe combate en función a las tecnologías adquiridas</Text>
+		</Replace>
+
+		<Replace Tag="TXT_KEY_PROMOTION_WAR_GENERAL_2">
+			<Text>General de Guerra [COLOR_YIELD_GOLD]Nivel 3[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_PROMOTION_WAR_GENERAL_2_HELP">
+			<Text>El Gran General recibe combate en función a las tecnologías adquiridas</Text>
+		</Replace>
+
+		<Replace Tag="TXT_KEY_PROMOTION_WAR_GENERAL_3">
+			<Text>General de Guerra [COLOR_YIELD_GOLD]Nivel 4[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_PROMOTION_WAR_GENERAL_3_HELP">
+			<Text>El Gran General recibe combate en función a las tecnologías adquiridas</Text>
+		</Replace>
+
+
+		<Replace Tag="TXT_KEY_PROMOTION_WAR_GENERAL_4">
+			<Text>General de Guerra [COLOR_YIELD_GOLD]Nivel 5[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_PROMOTION_WAR_GENERAL_4_HELP">
+			<Text>El Gran General recibe combate en función a las tecnologías adquiridas</Text>
+		</Replace>
+
+		<Replace Tag="TXT_KEY_PROMOTION_WAR_GENERAL_5">
+			<Text>General de Guerra [COLOR_YIELD_GOLD]Nivel 6[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_PROMOTION_WAR_GENERAL_5_HELP">
+			<Text>El Gran General recibe combate en función a las tecnologías adquiridas</Text>
+		</Replace>
+
+
+		<Replace Tag="TXT_KEY_PROMOTION_WAR_GENERAL_6">
+			<Text>General de Guerra [COLOR_YIELD_GOLD]Nivel 7[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_PROMOTION_WAR_GENERAL_6_HELP">
+			<Text>El Gran General recibe combate en función a las tecnologías adquiridas</Text>
+		</Replace>
+
+		<Replace Tag="TXT_KEY_PROMOTION_WAR_GENERAL_7">
+			<Text>General de Guerra [COLOR_YIELD_GOLD]Nivel 8[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_PROMOTION_WAR_GENERAL_7_HELP">
+			<Text>El Gran General recibe combate en función a las tecnologías adquiridas</Text>
+		</Replace>
+
+		<Replace Tag="TXT_KEY_PROMOTION_WAR_GENERAL_8">
+			<Text>General de Guerra [COLOR_YIELD_GOLD]Nivel 9[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_PROMOTION_WAR_GENERAL_8_HELP">
+			<Text>El Gran General recibe combate en función a las tecnologías adquiridas</Text>
+		</Replace>
+
+
+		<Replace Tag="TXT_KEY_PROMOTION_WAR_GENERAL_9">
+			<Text>General de Guerra [COLOR_YIELD_GOLD]Élite[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_PROMOTION_WAR_GENERAL_9_HELP">
+			<Text>El Gran General recibe combate en función a las tecnologías adquiridas</Text>
+		</Replace>
+	</Language_ES_ES>
+</GameData>

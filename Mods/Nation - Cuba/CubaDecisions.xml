@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<DecisionsAddin_Support>
+		<Row>
+			<FileName>LeugiCubaDecisions.lua</FileName>
+		</Row>
+	</DecisionsAddin_Support>
+	<Language_en_US>
+		<!--Grito de Yara-->
+		<Row Tag="TXT_KEY_DECISIONS_LEUGI_GRITO_DE_YARA">
+			<Text>Grito de Yara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_LEUGI_GRITO_DE_YARA_DESC">
+			<Text>
+				The workers at the plantations suffer oppression from our enemies and are inspired by our revolutionary efforts. Inspiring them to join us in our battle will aid us in the process of revolution[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Cespedes
+				[NEWLINE][ICON_BULLET]Player must be at War
+				[NEWLINE][ICON_BULLET]Player must have at least 3 Plantations
+				[NEWLINE][ICON_BULLET]Player must be after reaching Renaissance
+				[NEWLINE][ICON_BULLET]Player must have at least one Revolucionario unit
+				[NEWLINE][ICON_BULLET]May only be enacted once
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE][ICON_BULLET]1 Revolucionario
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive an infantry unit for every plantation you own (up to 6 units)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_LEUGI_GRITO_DE_YARA_ENACTED_DESC">
+			<Text>
+				The workers at the plantations suffer oppression from our enemies and are inspired by our revolutionary efforts. Inspiring them to join us in our battle will aid us in the process of revolution[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive an infantry unit for every plantation you own 
+			</Text>
+		</Row>
+		<!--Cabildo de Reyes-->
+		<Row Tag="TXT_KEY_DECISIONS_LEUGI_CABILDO_DE_REYES">
+			<Text>Cabildo del dia de Reyes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_LEUGI_CABILDO_DE_REYES_DESC">
+			<Text>
+				Our Cabildos de la Nacion wish to celebrate their afro-cuban roots through a Dia de Reyes celebration. Our streets will be filled with african music and instruments. This, however, will also halt our production and generate some instability from those that don’t share the afro-cuban roots[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Cespedes
+				[NEWLINE][ICON_BULLET]May only be enacted after entering Renaissance
+				[NEWLINE][ICON_BULLET]Player must have a Cabildo de la Nacion in all its cities
+				[NEWLINE][ICON_BULLET]May only be enacted once per era
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate
+				[NEWLINE][ICON_BULLET]Cities enter in Resistance for 3 turns
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive a Great Musician
+				[NEWLINE][ICON_BULLET]Start a 10 turn [ICON_GOLDEN_AGE] Golden Age
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_LEUGI_CABILDO_DE_REYES_ENACTED_DESC">
+			<Text>
+				Our Cabildos de la Nacion wish to celebrate their afro-cuban roots through a Dia de Reyes celebration. Our streets will be filled with african music and instruments. This, however, will also halt our production and generate some instability from those that don’t share the afro-cuban roots[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive a Great Musician
+				[NEWLINE][ICON_BULLET]Start a 10 turn Golden Age
+			</Text>
+		</Row>
+	</Language_en_US>
+
+
+	<Language_ES_ES>
+		<!--Grito de Yara-->
+		<Row Tag="TXT_KEY_DECISIONS_LEUGI_GRITO_DE_YARA">
+			<Text>Grito de Yara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_LEUGI_GRITO_DE_YARA_DESC">
+			<Text>
+				Los trabajadores de las plantaciones de sufren opresión por parte de nuestros enemigos, y se encuentran inspirados por nuestra revolucion. Fomentarlos a unirsenos en batalla podrá ayudarnos en el proceso de la revolución[NEWLINE]
+				[NEWLINE]Requerimientos/Restrictiones:
+				[NEWLINE][ICON_BULLET]El jugador debe ser Cespedes
+				[NEWLINE][ICON_BULLET]El jugador debe estar en guerra
+				[NEWLINE][ICON_BULLET]El judador debe haber alcanzado el Renacimiento
+				[NEWLINE][ICON_BULLET]El jugador debe tener al menos un Revolucionario
+				[NEWLINE][ICON_BULLET]El jugador debe tener al menos 3 plantaciones
+				[NEWLINE][ICON_BULLET]Sólo puede declararse una vez
+				[NEWLINE]Costos:
+				[NEWLINE][ICON_BULLET]{1_Gold} de Oro[ICON_GOLD]
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrados
+				[NEWLINE][ICON_BULLET]1 Revolucionario
+				[NEWLINE]Recompensas:
+				[NEWLINE][ICON_BULLET]Cada plantación nos dará una unidad de infanteria (máximo 6)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_LEUGI_GRITO_DE_YARA_ENACTED_DESC">
+			<Text>
+				Los trabajadores de las plantaciones de nuestros enemigos sufren opresión, y se encuentran inspirados por nuestra revolucion. Fomentarlos a unirsenos en batalla podrá ayudarnos en el proceso de la revolución[NEWLINE]
+				[NEWLINE]Recompensas:
+				[NEWLINE][ICON_BULLET]Cada plantación nos dará una unidad de infanteria (máximo 6)
+			</Text>
+		</Row>
+		<!--Cabildo de Reyes-->
+		<Row Tag="TXT_KEY_DECISIONS_LEUGI_CABILDO_DE_REYES">
+			<Text>Cabildo del día de Reyes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_LEUGI_CABILDO_DE_REYES_DESC">
+			<Text>Nuestros Cabildos de la Nación desean celebrar sus raíces afro-cubanas a través de la celebración del Día de Reyes. Nuestras calles se llenaran de música e instrumentos africanos. Esto, sin embargo, también detendrá nuestra producción y generará inestabilidad.[NEWLINE]
+				[NEWLINE]Requerimientos/Restricciones:
+				[NEWLINE][ICON_BULLET]El jugador debe ser Cespedes
+				[NEWLINE][ICON_BULLET]El jugador debe haber llegado al Renacimiento
+				[NEWLINE][ICON_BULLET]El jugador debe tener un Cabildo de la Nación en todas sus ciudades
+				[NEWLINE][ICON_BULLET]Sólo puede declararse una vez cada era
+				[NEWLINE]Costos:
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrado
+				[NEWLINE][ICON_BULLET]Las ciudades entrarán en resistencia por 3 turnos
+				[NEWLINE]Recompensas:
+				[NEWLINE][ICON_BULLET]Crea un Gran Músico
+				[NEWLINE][ICON_BULLET]Empieza una edad de oro de 10 turnos
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_LEUGI_CABILDO_DE_REYES_ENACTED_DESC">
+			<Text>
+				Nuestros Cabildos de la Nación desean celebrar sus raíces afro-cubanas a través de la celebración del Día de Reyes. Nuestras calles se llenaran de música e instrumentos africanos. Esto, sin embargo, también detendrá nuestra producción y generará inestabilidad.[NEWLINE]
+				[NEWLINE]Recompensas:
+				[NEWLINE][ICON_BULLET]Crea un Gran Músico
+				[NEWLINE][ICON_BULLET]Empieza una edad de oro de 10 turnos
+			</Text>
+		</Row>
+	</Language_ES_ES>
+</GameData>
+

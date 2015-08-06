@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/4/2014 8:25:20 AM -->
+<GameData>
+	<Language_en_US>
+
+		<Replace Tag="TXT_KEY_SPY_NAME_LEUGI_CUBA_0">
+			<Text>Antonio Guerrero</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_SPY_NAME_LEUGI_CUBA_1">
+			<Text>Fernando González</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_SPY_NAME_LEUGI_CUBA_2">
+			<Text>Gerardo Hernández</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_SPY_NAME_LEUGI_CUBA_3">
+			<Text>Ramón Labañino</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_SPY_NAME_LEUGI_CUBA_4">
+			<Text>René González</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_SPY_NAME_LEUGI_CUBA_5">
+			<Text>Ernesto Lynch</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_SPY_NAME_LEUGI_CUBA_6">
+			<Text>Florentino Azpillaga</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_SPY_NAME_LEUGI_CUBA_7">
+			<Text>Juan Roque</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_SPY_NAME_LEUGI_CUBA_8">
+			<Text>Ana Montes</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_SPY_NAME_LEUGI_CUBA_9">
+			<Text>Carlos Alvarez</Text>
+			<Gender>feminine</Gender>
+		</Replace>
+
+
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_FIDEL_CASTRO">
+			<Text>Fidel Castro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_ERNESTO_GUEVARA">
+			<Text>Ernesto Guevara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_CAMILO_CIENFUEGOS">
+			<Text>Camilo Cienfuegos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_CELIA_SANCHEZ_MANDULEY">
+			<Text>Celia Sánchez Manduley</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_CARLOS_MANUEL_DE_CESPEDES">
+			<Text>Carlos Manuel de Cespedes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_JUAN_PRIM">
+			<Text>Juan Prim</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_VICENTE_AGUILERA">
+			<Text>Vicente Aguilera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_PEDRO_FIGUEREDO">
+			<Text>Pedro Figueredo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_JOSE_FORNARIS">
+			<Text>José Fornaris</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_FRANCISCO_MACEO_OSORIO">
+			<Text>Francisco Maceo Osorio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_ISAIAS_MASO">
+			<Text>Isaías Masó</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_JUAN_ACOSTA">
+			<Text>Juan Acosta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_DONATO_MARMOL">
+			<Text>Donato Mármol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_MODESTO_DIAZ">
+			<Text>Modesto Díaz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_EUTIMIO_MAMBI">
+			<Text>Eutimio Mambí</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_MAXIMO_GOMEZ">
+			<Text>Máximo Gómez</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_ANTONIO_MACEO">
+			<Text>Antonio Maceo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_GUILLERMO_MONCADA">
+			<Text>Guillermo Moncada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_MANUEL_ANTONIO_DE_VARONA">
+			<Text>Manuel Antonio de Varona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_JOSE_MARTI_PEREZ">
+			<Text>José Martí Pérez</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_CARLOS_ROLOFF_MIALOSKY">
+			<Text>Carlos Roloff Mialosky</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_JESUS_SABLON_MORENO">
+			<Text>Jesús Sablón Moreno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_SERAFIN_SANCHEZ_VALDIVIA">
+			<Text>Serafín Sánchez Valdivia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_JULIO_SANGUILY_Y_GARRITE">
+			<Text>Julio Sanguily y Garrite</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_MANUEL_SUAREZ_DELGADO">
+			<Text>Manuel Suárez Delgado</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_FRANCISCO_VARONA_GONZALEZ">
+			<Text>Francisco Varona González</Text>
+		</Row>
+
+
+	</Language_en_US>
+	<Language_ES_ES>
+
+		<Replace Tag="TXT_KEY_SPY_NAME_LEUGI_CUBA_0">
+			<Text>Antonio Guerrero</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_SPY_NAME_LEUGI_CUBA_1">
+			<Text>Fernando González</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_SPY_NAME_LEUGI_CUBA_2">
+			<Text>Gerardo Hernández</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_SPY_NAME_LEUGI_CUBA_3">
+			<Text>Ramón Labañino</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_SPY_NAME_LEUGI_CUBA_4">
+			<Text>René González</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_SPY_NAME_LEUGI_CUBA_5">
+			<Text>Ernesto Lynch</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_SPY_NAME_LEUGI_CUBA_6">
+			<Text>Florentino Azpillaga</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_SPY_NAME_LEUGI_CUBA_7">
+			<Text>Juan Roque</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_SPY_NAME_LEUGI_CUBA_8">
+			<Text>Ana Montes</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_SPY_NAME_LEUGI_CUBA_9">
+			<Text>Carlos Alvarez</Text>
+			<Gender>feminine</Gender>
+		</Replace>
+		
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_FIDEL_CASTRO">
+			<Text>Fidel Castro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_ERNESTO_GUEVARA">
+			<Text>Ernesto Guevara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_CAMILO_CIENFUEGOS">
+			<Text>Camilo Cienfuegos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_CELIA_SANCHEZ_MANDULEY">
+			<Text>Celia Sánchez Manduley</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_CARLOS_MANUEL_DE_CESPEDES">
+			<Text>Carlos Manuel de Cespedes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_JUAN_PRIM">
+			<Text>Juan Prim</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_VICENTE_AGUILERA">
+			<Text>Vicente Aguilera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_PEDRO_FIGUEREDO">
+			<Text>Pedro Figueredo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_JOSE_FORNARIS">
+			<Text>José Fornaris</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_FRANCISCO_MACEO_OSORIO">
+			<Text>Francisco Maceo Osorio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_ISAIAS_MASO">
+			<Text>Isaías Masó</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_JUAN_ACOSTA">
+			<Text>Juan Acosta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_DONATO_MARMOL">
+			<Text>Donato Mármol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_MODESTO_DIAZ">
+			<Text>Modesto Díaz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_EUTIMIO_MAMBI">
+			<Text>Eutimio Mambí</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_MAXIMO_GOMEZ">
+			<Text>Máximo Gómez</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_ANTONIO_MACEO">
+			<Text>Antonio Maceo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_GUILLERMO_MONCADA">
+			<Text>Guillermo Moncada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_MANUEL_ANTONIO_DE_VARONA">
+			<Text>Manuel Antonio de Varona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_JOSE_MARTI_PEREZ">
+			<Text>José Martí Pérez</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_CARLOS_ROLOFF_MIALOSKY">
+			<Text>Carlos Roloff Mialosky</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_JESUS_SABLON_MORENO">
+			<Text>Jesús Sablón Moreno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_SERAFIN_SANCHEZ_VALDIVIA">
+			<Text>Serafín Sánchez Valdivia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_JULIO_SANGUILY_Y_GARRITE">
+			<Text>Julio Sanguily y Garrite</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_MANUEL_SUAREZ_DELGADO">
+			<Text>Manuel Suárez Delgado</Text>
+		</Row>
+		<Row Tag="TXT_KEY_REVOLUCIONARIO_FRANCISCO_VARONA_GONZALEZ">
+			<Text>Francisco Varona González</Text>
+		</Row>
+	</Language_ES_ES>
+</GameData>

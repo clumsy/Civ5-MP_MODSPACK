@@ -1,0 +1,5 @@
+INSERT INTO Colors (TYPE, Red, Green, Blue, Alpha)
+VALUES ('COLOR_PLAYER_LEUGI_CUBA_ICON', 0.949,	0,	0,		1);
+
+INSERT INTO Colors (TYPE, Red, Green, Blue, Alpha)
+VALUES ('COLOR_PLAYER_LEUGI_CUBA_BACKGROUND', 0.2,	0.329,	0.725,		1);

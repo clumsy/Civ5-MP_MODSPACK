@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/4/2014 10:28:33 AM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV5_LEUGI_CUBA_TITLE">
+			<Text>Cuba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LEUGI_CUBA_STATBOX">
+			<Text>[NEWLINE]        Leader: Carlos Manuel de Céspedes[NEWLINE]        Unique Unit: Revolucionario[NEWLINE]        Unique Building: Cabildos de la Nación[NEWLINE][NEWLINE]</Text>
+		</Row>
+		
+		
+		<Row Tag="TXT_KEY_CIV5_LEUGI_CUBA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LEUGI_CUBA_TEXT_1">
+			<Text>The island of Cuba, located in the Caribbean Sea, has had a vastly turbulent history. The first outside contact with the island dates from times of Christopher Columbus, bringing Spanish settlers fourth to colonise the island. Though Cuba remained part of Spain for much of its history while their colonial neighbours were getting independence, Cuba later fought many revolutionary conflicts to end Spanish domination, and with help from the United States of America, they succeeded. However, all was not well in Cuba throughout the 20th century; the United States installed a succession of puppet dictators on the island, making the Cubans more and more unhappy. In the 1950s, the July the 26th movement ousted the US-backed dictators, coated in romanticism by the Argentine revolutionary Che Guevara. The leader of the revolution, Fidel Castro, effectively turned Cuba into a single-party Communist state, leading to a United States embargo and the failed Bay of Pigs invasion in 1962. Cuba played a massive part in the Cold War, as an ally of the Soviet Union. Ever since, Cuba has been able to do remarkably well despite the restrictions, receiving praise from many its Latin American brethren on its position.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_LEUGI_CUBA_HEADING_2">
+			<Text>Before Columbus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LEUGI_CUBA_TEXT_2">
+			<Text>
+				Prior to European contact in the 15th century, Cuba was inhabited by several groups of indigenous people. One of the first groups known to have inhabited Cuba was the Guanajatabey, who were pushed to the west of the island by inter-Caribbean migration, mainly from the Taino and the Ciboney, all of which were present when the Europeans arrived. The abundance of resources on Cuba made life relatively easy for the natives; the substantive crops of maize and sweet potato served as a primary food source, while cotton and tobacco were used for more recreational activities. Overall, the undisturbed lifestyle of the indigenous people left them better off than a lot of people around the world, despite them not straying too far from their homeland.
+
+				[NEWLINE][NEWLINE]Unfortunately for the natives, Queen Isabella of Spain had convinced her court to fund the Genoese explorer Christopher Columbus. The idea was to find a sea passage to the Orient over the Atlantic instead of having to go around Africa - Columbus was convinced this was the case, at least. The natives hadn’t got too much longer to enjoy their peace.
+			</Text>
+		</Row>
+
+				<Row Tag="TXT_KEY_CIV5_LEUGI_CUBA_HEADING_3">
+		<Text>Enter the Europeans</Text>
+	</Row>
+		<Row Tag="TXT_KEY_CIV5_LEUGI_CUBA_TEXT_3">
+			<Text>
+				The year 1492 is one remembered by most people as the year Columbus discovered America. While it’s debatable if he discovered the Americas, as opposed to the Vikings going there about five-hundred years before or even the natives who had been living there for millennia, it can at least be said Columbus opened up European interest in it. One of the first places in the Americas Columbus found for the Europeans was Cuba - an island which he allegedly named, and according to some, it points to a theory he was in fact Portuguese, as this would point to the town of Cuba in the Algarve. The typical story of Columbus involves either the noble Christian missionary or the brutal murder of the natives, possibly both, but regardless of which story you believe, harm was done. The so-called “Columbian Exchange” was a trade of European items for American ones - this was, for the most part, done by the Europeans colonising, and taking whatever they wanted back home. Cuba, with its sweet potatoes, cotton, maize and tobacco, already opened up a space for colonialists to make profit.
+				[NEWLINE][NEWLINE]Following the initial stages of colonisation, several towns were established by the Spanish, including Havana, the present-day capital, in 1514. The natives experienced great brutalities during the colonisation period in particular - the Taino chieftain, Hatuey, lead a three-year guerrilla campaign in Cuba against the Spanish, only to end up burnt alive along with his other conspirators. With the overwhelming Spanish domination of the island, Cuba soon became a principal market, and introduced several luxury items to the Europeans.
+			</Text>
+		</Row>
+
+				<Row Tag="TXT_KEY_CIV5_LEUGI_CUBA_HEADING_4">
+		<Text>Slavery and Plantations</Text>
+	</Row>
+		<Row Tag="TXT_KEY_CIV5_LEUGI_CUBA_TEXT_4">
+			<Text>
+				With the need to exploit as much from the island as possible, the Spanish were key in opening up the slave trade, by bringing over Africans to work the plantations on the island. The sugar, tobacco and coffee plantations in particular were very valuable - as a result, the Spanish were able to profit massively off Cuba. However, while Spain managed to get money off Cuba, the colonialists there got very little due to Spanish protectionism there, a state that was not lifted until the 1760s. After the Haitian Revolution in 1792, Spain was forced to rely more on Cuban produce to sustain its economy. Cuba had to switch to more modern refining methods in the 1800s due to increased resentment for slavery around the world - however, as much as the Cubans hated slavery themselves, banning it would potentially destroy their economy beyond repair. With an eventual switch to non-slavery methods, the Cubans managed to get an even better economy by building more infrastructure and better ethics in the workplace.
+			</Text>
+		</Row>
+
+				<Row Tag="TXT_KEY_CIV5_LEUGI_CUBA_HEADING_5">
+		<Text>The Revolution Part I - The 10 Years’ War</Text>
+	</Row>
+		<Row Tag="TXT_KEY_CIV5_LEUGI_CUBA_TEXT_5">
+			<Text>
+				In 1868, the plantation owner Carlos Céspedes issued the Cry of Yara, which both freed his slaves, and began a war over Spanish domination of the island. Under Spanish domination, the Cubans themselves controlled very little of the island’s wealth, giving them a good reason to fight against them. Though ill-equipped and fighting at roughly a 1:10 ratio in favour of Spain, the revolutionary forces on the island were able to inflict serious damage to the Spaniards. The Cubans adopted lethal tactics during the war, including the “machete charge”, in which the Spanish troops would be caught off-guard, and subsequently be cut down by the Cubans. However, another large factor in Cuba’s favour was the fact that they had childhood immunity to yellow fever - this was something the Spanish lacked, killing them off in great numbers. Many eventually grew dissatisfied with Céspedes, and he was deposed in 1873, and shot by the Spanish the following year. Slowly but surely, the Cubans lost the war - but by the end of it, they were on the verge of triggering the Spanish-American war, a defining factor in Cuba today.
+			</Text>
+		</Row>
+
+				<Row Tag="TXT_KEY_CIV5_LEUGI_CUBA_HEADING_6">
+		<Text>The Revolution Part II - Freedom and Independence</Text>
+	</Row>
+		<Row Tag="TXT_KEY_CIV5_LEUGI_CUBA_TEXT_6">
+			<Text>
+				Following the 10 Years’ War, a lot of change went on in Cuban society, depriving the native Cubans, while rewarding the victorious Spaniards. This lead to some dissatisfaction, though by 1895, war had broken out once more against Spain, but this time, with the support of the United States of America during the last three months. Both sides were looking at the possibility of US annexation of Cuba, and the war that followed resulted in mass divisions on Cuba’s position. The forces to gain Cuba’s independence from Spain were undoubtable the victors in the war, but there was one flaw in the plan - who owned Cuba? It was valuable to the United States for trade, but most Cubans prefered their independence over their domination. Much like the situation in the Philippines, the Cubans were effectively dominated by the United States once they became independent, a puppet dictator in control of Cuba on behalf of the United States.
+
+				[NEWLINE][NEWLINE]Quickly, the United States showed that they had no regard for the best interests of Cuba. They began to tear away rights without much reason, empowering the American officials in the process. With almost complete economic and legal control of the island, it was by no means independent. However, with assurance that the occupation of the island would be only temporary, full revolt did not break out in the island. Elections were held, though still heavily influenced by the United States. The Platt Amendment outlined the United States conditions for Cuba, including the use of Guantanamo Bay and the agreement that Cuba would not give up power to any other country than the United States, showing that Cuba was in lack of a lot of its sovereignty. To solve these problems, Cuba did what it did best - start another revolution!
+			</Text>
+		</Row>
+
+				<Row Tag="TXT_KEY_CIV5_LEUGI_CUBA_HEADING_7">
+		<Text>The Revolution Part III - Hasta la Victoria Siempre!</Text>
+	</Row>
+		<Row Tag="TXT_KEY_CIV5_LEUGI_CUBA_TEXT_7">
+			<Text>
+				Under United States domination, Cuba was doing very well in a lot of areas, including economics, education and equality. Well, to some extent. While Cuba was acting as a very good puppet of the United States, entering the First World War with them, it was yet to receive independence. Cuba managed to get some form of independent government in the 1920s, with Ramon Grau as their new president. He acted on behalf of Cuba’s poor, thus strengthening the nation’s economic boundaries. This was more or less the first point at which Cuba was independent; however, there was still a lot of American domination going on. Things got worse when the next president, Fulgencio Batista, came along. While the Communists liked him at first, he began to get closer to the United States and increasingly more and more dictatorial. Cuba’s independence was in jeopardy, and needed another revolution to finish what it started.
+
+				[NEWLINE][NEWLINE]In 1952, Fidel Castro was a promising young lawyer, and he started a petition about Batista’s regime, declaring it illegal. While the petition quickly gathered support, it was turned down by the court, and subsequently Castro decided to pursue this by other means. On the 26th of July 1953, Castro attacked the Moncada Barracks along with his supporters, though the attack failed and Castro was imprisoned. Two years later, he was sent into exile in Mexico. While he was there, he met Che Guevara, then an Argentine communist on a motorcycle trip. Taking an interest on Cuba, Castro and Guevara formed the 26th of July Movement, a revolutionary organisation to liberate Cuba.
+
+				[NEWLINE][NEWLINE]In 1956, Fidel Castro, Che Guevara, and Castro’s brother, Raul, entered Cuba once more. Almost immediately, they were found by the Batista regime, and were hunted down. However, they managed to escape to the mountains, taking heavy losses in the process. Growing resentment for Batista soon lead to chaos in the country, with uprisings happening everywhere. Castro attempted to get the workers to go on strike in 1958, but failed to do so. Amid the chaos of the revolution, Batista fled the country at the start of 1959, essentially leaving Cuba in Castro’s hands. Castro prosecuted those who disagreed with his regime in an attempt to stabilize the country, and surprisingly, it worked. Fidel Castro was now the undisputed leader of Cuba, the revolution symbolised by his companion Che Guevara. Castro, merging with like-minded parties, was able to create absolute rule for the Communist Party in Cuba.
+			</Text>
+		</Row>
+
+				<Row Tag="TXT_KEY_CIV5_LEUGI_CUBA_HEADING_8">
+		<Text>Pigs and Missiles</Text>
+	</Row>
+		<Row Tag="TXT_KEY_CIV5_LEUGI_CUBA_TEXT_8">
+			<Text>
+				For the United States, a communist Cuba was the end. An island just off their coast with the possibility of allying with the Soviet Union was beyond belief. However, that was exactly what happened. John F. Kennedy, the incumbent president, was adamant that Cuba could be liberated from its new regime. The Bay of Pigs invasion in 1961 involved pitting 1,500 Americans against 54,000 Cubans, a plan unlikely to work. Fortunately for Castro, the American plan failed miserably, and Cuba was left relatively unscarred by it. The next year, the world was on the verge of destruction due to another messed-up American plan. In an attempt to step up the game with the Soviet Union, missiles were sent to Turkey, one of the closest places to the Russian motherland that United States could use. The Soviet Union, knowing the American weakness in Cuba, decided to send nuclear missiles to Cuba, more or less pressing the red button for world destruction. The Americans decided to set up a blockade of Cuba to prevent the Russians from ever delivering the missiles, and not learning from the previous year, had plans to invade. However, what the United States did not know was that Cuba had already received nuclear missile imports from Russia, so if they had struck, it would have been world destruction.
+
+				[NEWLINE][NEWLINE]Fortunately for the world, JFK was able to convince Khrushchev not to give any more missiles to the Cubans. Unfortunately for JFK, Lee Harvey Oswald had never forgiven him over Cuba, and assassinated him the next year. For Cuba, they were doing fine, and it also made a great excuse to show how weak the Americans were.
+			</Text>
+		</Row>
+
+				<Row Tag="TXT_KEY_CIV5_LEUGI_CUBA_HEADING_9">
+		<Text>Modern History</Text>
+	</Row>
+		<Row Tag="TXT_KEY_CIV5_LEUGI_CUBA_TEXT_9">
+			<Text>
+				In the years following the revolution, the charismatic leader Castro held the majority of the power in this single-party state. Che Guevara went off first to Africa, then Bolivia, to stir revolt - however, he was executed in the latter. While in reality a dictatorship, a form of government not entirely supported by Cuba’s population, the single-party state has undeniably achieved a lot despite the United States hostilities. By taking roles in many international conflicts, including opposing the Apartheid regime in South Africa and French domination in Algeria, the Communist Party have a good image among many nations, and are at the forefront of socialism in Latin America. Despite the evil communist regime portrayed by the United States, the government has still helped their people in many ways; such as during one embargo, where transport systems were left redundant, the government issued bikes to the population as an alternative. After Castro’s resignation in 2006, Cuba became increasingly more liberal, and the embargo was relaxed, along with the hated restrictions on foreign travel. Despite a lot of resentment for the government, it would be wrong to say that they are depriving the Cuban people; perhaps of democracy, but not of stable governance.
+			</Text>
+		</Row>
+
+		<!-- Leader -->		
+		
+		<Row Tag="TXT_KEY_LEADER_CESPEDES">
+			<Text>Carlos Manuel de Céspedes</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CESPEDES_LIVED">
+			<Text>1819 - 1874</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CESPEDES_NAME">
+			<Text>Carlos Manuel Perfecto del Carmen de Céspedes y López del Castillo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CESPEDES_SUBTITLE">
+			<Text>President of the Cuban Republic in Arms</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CESPEDES_TITLES_1">
+			<Text>Padre de la Patria (Founding Father)</Text>
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_CIV5_CESPEDES_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CESPEDES_TEXT_1">
+			<Text>Carlos Manuel de Céspedes was a Cuban plantation owner and revolutionary, starting the 10 Years’ War against Spain, instrumental to Cuba’s independence. In starting the war, he was able to show that Cuba would no longer be faithful to any outside power that was oppressive - this was the first revolt of this scale to show this. Gathering friends from throughout the island, he went on to attack cities and grind down Spanish forces for years, until in a leadership struggle, Céspedes was deposed, and left to the Spanish. In 1874, Céspedes was killed by firing squad in the mountains of Cuba, though the revolution he had started was far from over, only a couple of years away from the date Cuba did cast off its Spanish overlords.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CESPEDES_HEADING_2">
+		<Text>Early Life</Text>
+	</Row>
+		<Row Tag="TXT_KEY_CIV5_CESPEDES_TEXT_2">
+			<Text>Born in Bayamo in 1819, Céspedes went to secondary school in Havana, and later went on to attend the University of Havana, though he later went to Spain to continue his studies, gaining both a Bachelor of Law Degree (from the University of Barcelona) and a Doctorate of Law (from the University of Madrid). Céspedes then travelled throughout Europe, and didn’t return to Cuba until 1844. He started a law practice and got into business, but he soon turned to politics, realizing the Spanish oppression of the island. He joined with the revolutionary Narciso López, who had formed an anti-Spanish movement, and started a revolt attempting to stop the Spanish control of the island. However, the revolt failed, and López was executed, though Céspedes got off with being arrested and subsequently banished from Bayamo. Céspedes, desperate for the revolution to continue, began to organise a war in Cuba’s east.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CESPEDES_HEADING_3">
+		<Text>The Cry of Yara</Text>
+	</Row>
+		<Row Tag="TXT_KEY_CIV5_CESPEDES_TEXT_3">
+			<Text>Given that Spain had been crippled by the so-called “Glorious Revolution”, Cespedes had both the knowledge that Spain was no longer the once-powerful entity it was, and the intention of starting a revolution of that scale against Spain. He purchased a plantation - La Demajagua - which would go on to become famous around the world. On the 10th of October 1868, Céspedes rang the slave bell, indicating the slaves should come to his courtyard like any normal day. However, it was here that Céspedes issued the Cry of Yara - he stated to his slaves that they were now free men, and that they were invited to join him against the Spanish government. As their plot was slowly being unveiled by the Spanish authorities, Céspedes knew he had to act - thus the revolution had started.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CESPEDES_HEADING_4">
+		<Text>Beginnings of the Revolution</Text>
+	</Row>
+		<Row Tag="TXT_KEY_CIV5_CESPEDES_TEXT_4">
+			<Text>Though Céspedes freeing his slaves started the revolution on a high note, the plan failed almost immediately. He attacked the town of Yara, but failed to do so; he quickly moved away and began to spread the revolt among the other conspirators and around Cuba. In April the following year, Céspedes was declared President of Cuba, and was even given the title “Father of the Country”. Céspedes initially rallied the east of Cuba, with significantly less slavery, against the plantation rich west, still filled with slaves working the plantations. Céspedes brutally managed to destroy the Spanish forces at several battles, showing he was serious about getting independence for Cuba. Within the first three days of the rebellion, the rebels had managed to occupy eight towns and had started enrollment into their military; by the end of October that year, they had managed to amass almost 12,000 recruits. The plan would surely hurt the Spanish.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CESPEDES_HEADING_5">
+		<Text>Guerilla Tactics</Text>
+	</Row>
+		<Row Tag="TXT_KEY_CIV5_CESPEDES_TEXT_5">
+			<Text>Acting on the advice of General Máximo Gómez, the rebel military formed brutal tactics to see off the Spanish. Though a high proportion of them were dying of yellow fever, the Spanish could be demoralised more - the machete charge, used by the Mambis, struck fear into the hearts of Spaniards who could not adapt very easily to the tactic. The Spanish were cut down in great numbers; however, they still overpowered the Cubans, technologically and in numbers, as well as having a stronghold in western Cuba. Though the Spanish certainly had the upper hand, the Cubans knew the land very well, and were able to use the terrain to their advantage to defeat the Spanish. As the war progressed, it became evident that neither side would truly be able to win, with both sides fighting equally ruthlessly. However, Spain was suffering from civil war at the time, so they were not able to fully enforce their ranks, giving Céspedes some good news. Continuing his campaign to free Cuba, he took several important towns, such as Bayamo, and was able to press on to fight the richer west of the island.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CESPEDES_HEADING_6">
+		<Text>Deposition and Execution</Text>
+	</Row>
+		<Row Tag="TXT_KEY_CIV5_CESPEDES_TEXT_6">
+			<Text>Though the rebellion was nearing its height in 1873, one of the major generals of the rebel military, Ignacio Agramonte, was killed by a stray bullet. As he was a supporter of Céspedes, this left him almost alone, as the Assembly of Cuba, the republican movement on the island, disagreed with him on multiple issues. The same year, they decided to depose Céspedes, who was no longer welcome to the rebels at all. Céspedes went into exile in the Cuban Mountains, hoping that he would be able to one day escape from the island. Sadly, this dream was not released, and he was caught by the Spanish in 1874, and subsequently shot and killed. Though he had wanted to get out of the country to the United States to plan for further rebellion, the Assembly was not in his favour, and only gave him a single escort around Cuba. After Céspedes’ death, the rebels decided to invade the west of the country, though the vast majority of slaves were unwilling to take up arms, which slowly lead to the demise of the rebellion for Cuba.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CESPEDES_HEADING_7">
+		<Text>Legacy</Text>
+	</Row>
+		<Row Tag="TXT_KEY_CIV5_CESPEDES_TEXT_7">
+			<Text>Though Céspedes may have failed to oust Spain from Cuba, he undoubtedly started the efforts to do so, and is hailed as a national hero today. Given his fairly left-wing political standpoint, the Communist government use him as a figurehead at least inside the country, though perhaps not as popular as other rebels. Céspedes’ defiance of anyone, whether it be the Spanish government or the Assembly, surely lead to his place in history as someone who stood up for their beliefs and was able to effectively fight for them. As the “Father of the Fatherland”, and the first sign of any independent leader of Cuba, there is no question why he is not hailed as such a great figure. At the end of the war he had set up, slavery had been abolished in Cuba; this was far from independence, but a strong start to Cuba’s self-rule, a lot of which is owed to Céspedes starting an uprising and freeing the slaves.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_LEADER_CESPEDES_FIRSTGREETING_1">
+			<Text>Greetings! I'm Carlos Manuel de Céspedes, and you're standing in the beautiful Republic in Arms of Cuba. Make yourself comfortable... just, not as much as our oppressors</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CESPEDES_FIRSTGREETING_2">
+			<Text>I'm Carlos Manuel Perfecto del Carmen de Céspedes y López del Castillo, though Carlos Manuel de Céspedes is enough. Welcome to Cuba, land of revolutions!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CESPEDES_FIRSTGREETING_3">
+			<Text>Welcome to Cuba, a land rich in plantations, music and revolution! Hopefully you'll join our cause, not slow it</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CESPEDES_DEFEATED_1">
+			<Text>I can't say I surrendered or left my position alone, I have not abandoned my people... But its over now</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CESPEDES_DEFEATED_2">
+			<Text>The revolution will never be dead! Soon you'll see new revolucionarios rise and recover Cuba's independence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CESPEDES_RESPONSE_REQUEST_1">
+			<Text>My revolution needs your help, will you provide?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CESPEDES_LUXURY_TRADE_1">
+			<Text>I think we can make an exchange, for the future of our countries</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CESPEDES_OPEN_BORDERS_EXCHANGE_1">
+			<Text>Cuba trusts you enough to let you in. Please don't deceive our trust</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CESPEDES_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Your continous expansion might be a treat to Cuba's independence, I must ask you to stop expanding so dangerously near the lands of my people</Text>
+		</Row>
+
+
+		<!-- Unit -->
+		
+		<Row Tag="TXT_KEY_CIV5_CUBAN_REVOLUCIONARIO_TEXT">
+			<Text>
+				Cuba has a long history of revolts and violent outbursts against foreign colonial masters, most of which have either been successful or been able to cripple the enemy enough for Cuba. Some of the earliest Revolucionarios Cuba has had were called “Mambis”, and were noted for their defiance of any outside rule, and managed to campaign for a free, independent Cuba. At times, these campaigns involved war against the Spanish, for example, the Ten Years’ War. The Mambis fought hard for Cuban independence; though come the 1950s, things got even more revolutionary. The face of the revolution, Che Guevara, came to symbolise romantic revolution, a concept not considered as much before, winning over many other revolutionary groups around the world in the process. Though Guevara is undoubtedly the most famous of the Cuban revolucionarios, he is very late in a long list of people who fought against colonial rule in Cuba.
+			</Text>
+		</Row>
+
+
+		<!-- Building -->
+
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_CUBAN_CABILDO_TEXT">
+			<Text>
+				In an attempt to relax the brutalness of slavery, groups called “Cabildos” were set up for the ethnically African population of Cuba, who used them as a recreational means. They were used to suppress any chance of slave revolt; thus, they were funded by slave owners to ensure they wouldn’t escape of rise against them. Close to a community of slaves, people were able to share medical support and other issues similar to that. The Cabildos also had a significant religious meaning - while most people would have been Christian, those who still followed traditional African religions were able to worship in peace there. Music was also developed there, and turned into a unique style known as “Afrocubism” - this was a unique blend of traditional African and Spanish music, with a mix of the native cultures in there. After a chain of slave revolts, the Cabildos were abandoned, though law came into force to require Cabildos to be licensed after slavery was abolished.
+			</Text>
+		</Row>
+
+		
+	</Language_en_US>
+	<Language_ES_ES>
+		<Row Tag="TXT_KEY_CIV5_LEUGI_CUBA_TITLE">
+			<Text>Cuba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LEUGI_CUBA_STATBOX">
+			<Text>[NEWLINE]        Líder: Carlos Manuel de Céspedes[NEWLINE]        Unidad Única: Revolucionario[NEWLINE]        Construcción Única: Cabildos de la Nación[NEWLINE][NEWLINE]</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_LEUGI_CUBA_HEADING_1">
+			<Text>Historia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LEUGI_CUBA_TEXT_1">
+			<Text>La isla de Cuba, que se encuentra en el Caribe, ha tenido una historia enormemente turbulante. El primer contacto con el exterior se tuvo en los tiempos de Cristobal Colon cuando se trajeron colonos españoles a la Isla. Si bien Cuba permaneció como parte de España por gran parte de su historia mientras sus vecinos coloniales ya habían logrado la independencia, Cuba lucho durante gran parte de su historia por lograr la suya y, gracias a la ayuda de los Estados Unidos, finalmente lo lograron. Sin embargo, esta victoria fue efímera, los Estados Unidos instalaron un dictador títere tras otro a través del siglo 20, haciendo que la libertad cubana no sea sino una ilusión. En los años 50, el movimiento 26 de Julio eliminó el último de esta larga lista de dictadores estadounidenses, acción rodeada del romanticismo del revolucionario argentino Che Guevara. El líder de la revolución, Fidel Castro, efectivamente tranformó Cuba en un estado Comunista de un solo partido, lo que llevó a un embargo por parte de Estados Unidos y la fallida invasión de la Bahía de Cochinos en 1962. Cuba tuvo una enorme participación en la guerra fría como aliada de la Unión Soviética. Desde entonces, Cuba ha logrado prosperar a pesar de las restricciones, obteniendo alabanzas de gran parte de sus hermanos latinoamericanos por su posición.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_LEUGI_CUBA_HEADING_2">
+			<Text>Antes de Colón</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LEUGI_CUBA_TEXT_2">
+			<Text>
+				Antes del contacto Europeo en el siglo 15, Cuba estaba habitada por gran cantidad de diversos grupos indígenas. Uno de estos grupos era conocido como los Guanajatabey, quienes fueron empujados hacia el oeste de la isla por la migración intercaribeña, más que nada por aquella de los Taino y los Ciboney, todos quienes estaban presentes a la llegada de los europeos. La abundancia de recursos en la isla hacía la vida fácil para los nativos; el cultivo de subsistencia de maíz y patata dulce servía como fuente alimenticia primaria, mientras que el algodón y el tabaco eran utilizados en actividades recreativas. Sobre todo, el estilo de vida indígena era mejor que el de gran parte de las personas en el mundo, a pesar de no alejarse mucho de su tierra natal. Desafortunadamente para los nativos, la Reina Isabel de España había convencido a su corte el financiar los viajes del explorador genovés Cristobal Colon. La idea era encontrar una ruta para viajar hacia el oriente a través del Atlántico en vez de tener que rodear África – Colón estaba convencido de que así sería al menos. Los nativos no disfrutarían de su paz por mucho.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_LEUGI_CUBA_HEADING_3">
+			<Text>Llegan los europeos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LEUGI_CUBA_TEXT_3">
+			<Text>
+				El año 1492 es recordado por muchos como el año en que Cristobal Colon descubrió América. Si bien es debatible si descubrió América, a diferencia de los vikingos que habían arribado unos 500 años antes o los nativos que llevaban en esta tierra por milenios, al menos se puede asegurar que Colón comenzó los intereses europeos en el continente. Uno de los primeros lugares que Colon encontró en las Américas para los europeos es Cuba – una isla que supuestamente nombró él mismo, lo que, de acuerdo a ciertas personas, comprueba su origen portugués, ya que sería una referencia al pueblo portugués de Cuba que se encuentra en la Algarve. La historia típica de Colón trata o bien del noble misionero cristiano o del despiadado asesino de indígenas, usualmente ambos pero, sin importar cual es la historia por la que uno se guíe, se hizo gran daño. El tal llamado “intercambio colombiano” – intercambio de productos americanos por productos europeos – era, en mayor parte, hecho por los colonos europeos, quienes tomaban lo que quisieran para llevarlo de vuelta a casa. Cuba, con sus patatas dulces, algodón, maíz y tabaco, ya era un lugar donde los colonos podrían obtener ganancias. Siguiendo los primeros pasos de la colonización, muchos pueblos fueron establecidos por los españoles, incluyendo la Havana, la actual capital, en 1514. Los nativos experimentaron indescriptibles brutalidades durante este periodo – el jefe Taíno, Hatuey, lideró una guerra de guerrilas durante 3 años contra los españoles, solo para terminar quemado vivo junto a sus seguidores. Con la inevitable dominación española en la isla, Cuba se volvió pronto un mercado importante e introdujo gran cantidad de artículos exóticos a Europa.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_LEUGI_CUBA_HEADING_4">
+			<Text>Esclavitud y Plantaciones</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LEUGI_CUBA_TEXT_4">
+			<Text>
+				Con la necesidad de explotar tanta tierra como fuese possible, los españoles fueron clave en comenzar el comercio de esclavos, al traer africanos para trabajar en las plantaciones de la isla. Las plantaciones de azúcar, tabaco y café fueron particularmente valiosas – como resultado, los españoles lograron obtener enormes ganancias de Cuba. A pesar de ello, mientras España obtenía dinero de Cuba, los colonos veían poco de este dado el proteccionismo español en la isla, situación que no cambió hasta la década de los 1760. Tras la revolución haitiana en 1792, España se vió forzada a valerse más en la producción cubana para mantener su economía. Cuba tuvo que cambiar a un modo de producción más moderno en el siglo 19 frente al sentimiento más negativo que se tenía de los esclavistas alrededor del mundo – sin embargo, por mucho que los cubanos mismos odiaran la esclavitud, prohibirla podría potencialmente destruir la economía sin posibilidad de recuperarse. Con el cambio eventual a métodos no esclavistas, los cubanos lograron tener una mejor economía a través de la construcción de mayor infraestructura y mejores éticas de trabajo.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_LEUGI_CUBA_HEADING_5">
+			<Text>La Revolución Parte I - La Guerra de los 10 Años</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LEUGI_CUBA_TEXT_5">
+			<Text>
+				En 1868 el propietario de plantación Carlos Céspedes lanzó el Grito de Yara, en donde liberó a sus esclavos y comenzó una guerra contra los españoles por la dominación de la isla. Bajo el yugo español, los cubanos controlaban una pequeña parte de la riqueza de la isla, dándoles una buena razón para luchar contra ellos. Si bien estaban mal equipados y superados en número 10 a 1, los revolucionarios de la isla pudieron causar serios daños entre los españoles. Los cubanos adoptaron tácticas letales en la guerra, incluyendo la “Carga del Machete”, en la cual las tropas españolas serían encontradas desprevenidas para así ser atacadas por los cubanos. Por otro lado otro factor a favor de Cuba era la inmunidad innata de sus originarios a la fiebre amarilla, inmunidad que los españoles no poseían, haciendo que cayeran en grandes números. Muchos eventualmente se volvieron disconformes con Céspedes y éste fue depuesto en 1873, siendo disparado por los españoles el siguiente año. Lenta, pero efectivamente los cubanos fueron perdiendo la guerra – al final de esta, estaban al borde de causar la guerra hispano-estadounidense, la cual es un factor definitivo de la Cuba actual.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_LEUGI_CUBA_HEADING_6">
+			<Text>La revolución parte II – Libertad e Independencia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LEUGI_CUBA_TEXT_6">
+			<Text>
+				Tras la Guerra de los 10 Años, hubo muchos cambios en la sociedad cubana, perjudicando a los cubanos a la vez que favorecía a los españoles. Esto llevó a aún mayor disatisfacción para con el gobierno español, hacia el año 1895, la guerra ya había estallado con España nuevamente, pero esta vez los cubanos recibieron ayuda de Estados Unidos en los últimos 3 meses de la guerra, la cual fue clave para su victoria. Ambos bandos estaban viendo la posibilidad de la inclusión de Cuba dentro de los Estados Unidos, y la guerra que siguió causó gran división dentro de la población cubana. Las fuerzas que ayudaron a la victoria cubana ciertamente fueron de gran ayuda, pero luego entró la pregunta ¿Quién controlaba Cuba realmente? Esta era valiosa para los Estados Unidos en su comercio, pero la mayoría de los cubanos preferían la independencia a la subyugación. Similar a la situación en las Filipinas, los cubanos fueron efectivamente dominados por los Estados Unidos una vez independientes de España, con un dictador títere controlando Cuba en nombre de los Estados Unidos.
+
+				[NEWLINE][NEWLINE]Rápidamente, los Estados Unidos demostraron no tener mayor interés en las necesidades de Cuba. Comenzaron a remover derechos sin mayor razón, potenciando los oficiales estadounidenses en el proceso. Con control económico y legal casi total sobre la isla, esta no era desde ningún punto de vista independiente. No obstante, con la aseguración de que la ocupación de la isla sería solo temporal, no hubo revueltas generalizadas. Se hicieron elecciones, aunque estas aún estuvieron fuertemente manipuladas por los Estados Unidos. La Enmienda Platt demarcó las condiciones que Estados Unidos imponía sobre Cuba, incluyendo el uso de la Bahía de Guantánamo y el acuerdo de que Cuba no entregaría el poder a ningún otro país que no fuesen los Estados Unidos, comprobando la falta de soberanía de la isla. Para resolver este problema, los cubanos decidieron hacer lo que saben hacer mejor – ¡comenzar otra revolución!
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_LEUGI_CUBA_HEADING_7">
+			<Text>
+				La Revolución Parte III – ¡Hasta la Victoria Siempre!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LEUGI_CUBA_TEXT_7">
+			<Text>
+				Bajo la dominación de los Estados Unidos, Cuba estaba bien en diversos aspectos, incluyendo educación, economía y equidad. Bueno, hasta cierto punto. Si bien Cuba era un buen títere de Estados Unidos, entrando a la primera guerra mundial con ellos, aún no recibía su independencia. Cuba logró tener cierto grado de independencia en los años 20 con Ramón Grau como presidente. Él actuó en favor de los pobres del país, reforzando la equidad dentro del país. Este fue, más o menos, el primer punto en que Cuba fue verdaderamente independiente; sin embargo, aún se notaba gran presencia de la dominación estadounidense en el país. Las cosas empeoraron con el gobierno del siguiente presidente, Fulgencio Batista. Si bien este era apreciado por los comunistas en un principio, este poco a poco comenzó a acercarse más a los Estados Unidos y volverse más dictatorial. La independencia de Cuba estaba en vilo, y necesitaba otra revolución para terminar lo que se había comenzado.
+				[NEWLINE][NEWLINE]En 1952, Fidel Castro era un prometedor joven abogado y comenzó una petición respecto al gobierno de Batista, declarándolo ilegal. Si bien la petición rápidamente recibió apoyo, esta fue rechazada por la corte, por lo que Castro decidió resolver el asunto por otros medios. El 26 de Julio de 1953, Castro atacó las Barracas de Moncada junto a quienes le apoyaban, el ataque falló y Castro terminó en prisión. Dos años después, fue exiliado a México. Mientras estuvo allí, este conoció a Ernesto “Che” Guevara, por aquel entonces un comunista argentino en un viaje en motocicleta. Tomando interés en Cuba, Castro y Guevara formaron el movimiento 26 de Julio, una organización revolucionaria enfocada en liberar Cuba.
+				[NEWLINE][NEWLINE]En 1956, Fidel Castro, Che Guevara y Raúl Castro, entre otros, regresaron a Cuba. De manera casi inmediata fueron encontrados por el régimen de Batista y atacados. Estos lograron escapara a las montañas y reagruparse, no sin antes perder gran cantidad de personas. Pronto comenzó a haber gran resquemor hacia el gobierno de Batista, con alzamientos en diversas zonas de la isla. Castro intentó hacer que los trabajadores se fueran a huelga en 1958, pero falló en esto. En medio del caos de la revolución, Batista huyó del país en 1958, dejándolo en manos de Castro. Este enjuició a aquellos que estuviesen en contra de su régimen en un intento de estabilizar el pais y, sorpresivamente, tuvo éxito en ello. Fidel Castro era ahora el líder indiscutido de Cuba, la revolución siendo simbolizada por su compañero Che Guevara. Castro, mezclándose con grupos que compartan su mentalidad, logró obtener dominio absoluto para el partido comunista de Cuba.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_LEUGI_CUBA_HEADING_8">
+			<Text>Misiles y Cochinos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LEUGI_CUBA_TEXT_8">
+			<Text>
+				Para los Estados Unidos, una Cuba comunista era el final. Una isla justo fuera de su costa con la posibilidad de aliarse a la Unión Soviética era más que increíble. No obstante, eso fue justo lo que pasó. John F. Kennedy, el president del momento, estaba seugro de que Cuba podía ser liberada de su nuevo régimen. La invasión de la Bahía de Cochinos en 1961 involucró poner 1500 estadounidense ante 54.000 cubanos, un plan que difícilmente funcionaria. Afortunadamente para Castro, el plan estadounidense fracasó rotundamente, y Cuba no se vió muy afectada por este. Al año siguiente, el mundo estaba al borde de la destrucción a causa de otro plan fallido de Estados Unidos. En un intento de aumentar su presencia ante la Unión Soviética, se enviaron misiles a Turquía, uno de los lugares más cercanos a la Madre Rusia que Estados Unidos podía utilizar. La Unión Soviétca, consciente de la debilidad estadounidense en Cuba, decidió enviar misiles a este país, acercando el umbral de la destrucción global. Los estadounidenses intentaron bloquear Cuba para evitar que los soviéticos enviaran los misiles y, sin haber aprendido de los sucesos del año anterior, hicieron planes para invadir. Sin embargo, lo que los Estados Unidos no previeron es que Cuba ya había recibido misiles nucleares desde la Unión Soviética, por lo que si hubiesen atacado, hubiese sido una catástrofe.
+				[NEWLINE][NEWLINE]Afortunadamente para el mundo, JFK pudo convencer a Khrushchev de no darle más misiles a los cubanos. Desafortunadamente para JFK, Lee Harvey Oswald jamás le había perdonado por lo de Cuba, y le asesinó al año siguiente. Para Cuba, todo iba bien, y esto sirvió como gran muestra de lo débiles que realmente eran los estadounidenses.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_LEUGI_CUBA_HEADING_9">
+			<Text>Historia Moderna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LEUGI_CUBA_TEXT_9">
+			<Text>
+				En los años que siguieron a la revolución, el carismático líder Castro tuvo la mayor parte del poder en un estado unipartitario. Che Guevara fue a África, luego a Bolivia, para causar revolución – sin embargo, fue ejecutado en el último intento. Si bien era una dictadura, un gobierno sin el apoyo de gran parte de la población cubana, el estado de un solo partido a logrado mucho a pesar del bloqueo estadounidense. Al tomar posición frente a muchos conflictos internacionales, incluyendo oponerse al Apartheid Sudafricano y la dominación francesa de Algeria, el partido comunista ha ganado una imagen positiva en gran parte del mundo, y se encuentra al frente del socialismo en Latinoamerica. A pesar del malvado régimen comunista que muestra la propaganda estadounidense, el gobierno ha ayudado a la gente de muchas maneras, como por ejemplo durante un embargo donde los sistemas de transporte quedaron inutilizados, el gobierno proveyó bicicletas para la población como alternativa. Tras la renuncia de Castro en 2006, Cuba se volvió un tanto más liberal, a la vez que el embargo se vió relajado, al igual que las restricciones al viaje al extranjero. A pesar de l resentimiento que se tenga al gobierno, sería erróneo decir que están privando a la gente cubana de lo que necesita, quizá democracia, pero ciertamente no de un gobierno estable
+			</Text>
+		</Row>
+
+		<!-- Leader -->
+
+		<Row Tag="TXT_KEY_LEADER_CESPEDES">
+			<Text>Carlos Manuel de Céspedes</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CESPEDES_LIVED">
+			<Text>1819 - 1874</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CESPEDES_NAME">
+			<Text>Carlos Manuel Perfecto del Carmen de Céspedes y López del Castillo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CESPEDES_SUBTITLE">
+			<Text>Presidente de la República de Cuba en Armas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CESPEDES_TITLES_1">
+			<Text>Padre de la Patria</Text>
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_CIV5_CESPEDES_HEADING_1">
+			<Text>Historia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CESPEDES_TEXT_1">
+			<Text>Carlos Manuel de Céspedes fue un propietario de plantación cubano y revolucionario, comenzando la guerra de los 10 años contra España, y siendo un personaje fundamental para la independencia de Cuba. Al comenzar la guerra, fue capaz de mostrar que Cuba no sería más fiel a cualquier poder extranjero que fuese opresivo – esta fue la primera revuelta a esta escala que lo demostrara. Juntando aliados a través de la isla, se enfocó en atacar ciudades y debilitar las fuerzas españolas por años, hasta que en una lucha de poderes, Céspedes fue depuesto y dejado a merced de los españoles. En 1874, Céspedes fue matado por fusilamiento en la montañas de Cuba, aunque la revolución que él comenzó estaba lejos de fructiferar, solo harían falta unos cuantos años más para que Cuba se deshiciera de sus opresores españoles.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CESPEDES_HEADING_2">
+			<Text>Juventud</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CESPEDES_TEXT_2">
+			<Text>Nacido en Bayamo en 1819, Céspedes asistió a la escuela secundaria en la Havana, y luego asistió a la Universidad de la Havana, aunque luego fue a España a continuar sus estudios, obteniendo un título en Leyes (de la Universidad de Barcelona) y un Doctorado en Leyes (de la Universidad de Madrid). Céspedes luego viajó a través de Europa, y no regresó hasta 1844. Comenzó a practicar y tuvo bastante éxito, aunque pronto cambiaría hacia la política, dándose cuenta de la opresión española en la isla. Se reunió con Narciso López, quien había formado un movimiento anti-hispano en la isla, y comenzó una revuelta intentando detener el control español de la isla. A pesar de ello, la revuelta fracaso y López fue ejecutado, aunque Céspedes logró salir sin ser arrestado y fue eventualmente vetado de Bayamo. Céspedes, desesperado por continuar la revolución, comenzó a organizar la guerra en el este de Cuba.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CESPEDES_HEADING_3">
+			<Text>El Grito de Yara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CESPEDES_TEXT_3">
+			<Text>Dado que España había sido ya debilitada por esta tan llamada “Revolución Gloriosa”, Céspedes tenía tanto el conocimiento de que España ya no era una entidad poderosa como lo solía ser, y la intención de comenzar una revolución de similar escala ante España. Compró una plantación – La Demajagua – que se convertiría famosa alrededor del mundo. El 10 de Octubre de 1868, Céspedes tañó la campanas de los esclavos, indicando que los esclavos deberían ir al patio como cualquier día. Sin embargo, esta vez Céspedes lo que proclamó fue el Grito de Yara – Le dijo a sus esclavos que ahora eran libres, y que estaban invitados a unírsele para enfrentar al gobierno español. Mientras su plan era lentamente revelado a las autoridades españolas, Céspedes planeaba cuidadosamente cada paso de su acto – la revolución había comenzado.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CESPEDES_HEADING_4">
+			<Text>Comienzos de una Revolución</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CESPEDES_TEXT_4">
+			<Text>Si bien el que Céspedes liberara sus esclavos hizo que la revolución partiera bien, el plan falló casi inmediatamente. Atacó la ciudad de Yara, pero falló en este ataque; rápidamente tuvo que retirarse y empezar a incitar la revuelta entre los otros conspiradores y alrededor de Cuba. En abril del siguiente año, Céspedes fue declarado Presidente de Cuba, e incluso fue nombrado “Padre de la Patria”. Céspedes inicialmente llamó al este de Cuba, donde había significantemente menos esclavitud, para luchar ante el oeste rico por las plantaciones, aún lleno de esclavos trabajando en las plantaciones. Céspedes logró brutalmente destruir las fuerzas españolas en diversas batallas, demostrando que él estaba seriamente enfocado en la independencia de Cuba. Dentro de los primeros 3 dias de la rebelión, los rebeldes ya habían logrado ocupar ocho poblados y habían comenzado a reclutar en su ejército; para el final de octubre del mismo año, ya tenían 12.000 reclutas. El plan ciertamente dañaría a los españoles.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CESPEDES_HEADING_5">
+			<Text>Tácticas de Guerrilla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CESPEDES_TEXT_5">
+			<Text>Actuando bajo los consejos del general Máximo Gómez, el ejército rebelde creo tácticas brutales para enfrentar a los españoles. Aunque gran parte de ellos moría por la fiebre amarilla, los españoles se vieron aún más desmoralizados – la carga al machete, usado por los Mambises, infundió el miedo en el corazón de los españoles que no podían adaptarse fácilmente a estas tácticas. Las fuerzas españolas se vieron diezmadas: no obstante, aún superaban a los cubanos, tanto en tecnología como en números, sin mencionar la fortaleza que aún poseían al oeste de Cuba. Aunque los españoles tenían la ventaja, los cubanos tenían muy buen conocimiento del territorio, y eran capaces de utilizar este conocimiento para su beneficio para derrotar a los españoles. A medida que progresaba la guerra, se hizo evidente que ningún bando sería verdaderamente capaz de ganar la guerra, con ambos lados luchando de manera igualmente despiadada. Sin embargo, España sufría de una guerra civil al mismo tiempo, por lo que no eran capaces de suplir debidamente sus fuerzas, dándole cierta ventaja a Céspedes. Continuando su campaña de liberación de Cuba, éste capturó varios poblados importantes, como Bayamo, y pudo continuar la presión hacia el oeste más rico de la isla.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CESPEDES_HEADING_6">
+			<Text>Deposición y Ejecución</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CESPEDES_TEXT_6">
+			<Text>Aunque la rebellion esta llegando su punto de culminación en 1873, uno de los más importantes generales del ejército rebelde, Ignacio Agramonte, murió a causa de una bala perdida. Como partidario de Céspedes, su muerte significó que éste estaba ahora prácticamente solo, ya que la Asamblea de Cuba, el movimiento republicano de la isla, estaba en desacuerdo con él en varias materias. El mismo año, se decidió deponer a Céspedes, quien ya no era bienvenido entre los rebeldes. Céspedes fue exiliado a las montañas de Cuba, con la esperanza de que algún día pudiese abandonar la isla. Lamentablemente, este no fue el caso, ya que fue capturado por los españoles en 1874, para ser luego fusilado. Si bien lo que él quería era abandonar el país para ir a los Estados Unidos y continuar sus planes para la rebelión, la Asamblea no estaba a su favo, y solo le dieron un único escolta alrededor de Cuba. Tras la muerte de Céspedes los rebeldes decidieron invadir el oeste del país, aunque la mayoría de los esclavos se rehusaron a levantarse en armas, lo que lentamente llevó al fin de la rebelión.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CESPEDES_HEADING_7">
+			<Text>Legado</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CESPEDES_TEXT_7">
+			<Text>
+				Aunque Céspedes falló en eliminar la presencia española en Cuba, indudablemente fue él quien comenzó los intentos de lograr esto, por lo que es considerado como héroe nacional en nuestros días. Dado su punto de vista bastante izquierdista, el gobierno comunista lo usa como figura al menos dentro del país, aunque no sea tan popular como los otros rebeldes. La oposición de Céspedes a cualquiera, ya sea el gobierno hispano o la Asamblea, ciertamente llevaron a su lugar en la historia como alguien que supo defender sus ideales y luchar por ellos. Como “Padre de la Patria”, y el primer símbolo de un líder independiente de Cuba, no cabe duda de que sea alabado como una gran figura. Al fin de la guerra que comenzó, la esclavitud se había visto abolida en Cuba; esta acción aún estaba lejos de una verdadera independencia, pero era un comienzo hacia una Cuba autogobernada, algo que es en gran parte gracias a que Céspedes comenzara una revuelta y liberara sus esclavos.
+			</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_LEADER_CESPEDES_FIRSTGREETING_1">
+			<Text>¡Saludos! Soy Carlos Manuel de Céspedes, y estás en la bella República en Armas de Cuba. Siéntete como en tu casa... sólo, no tanto como nuestros opresores</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CESPEDES_FIRSTGREETING_2">
+			<Text>Soy Carlos Manuel Perfecto del Carmen de Céspedes y López del Castillo, aunque Carlos Manuel de Céspedes es suficiente. Bienvenido a Cuba, ¡tierra de revoluciones!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CESPEDES_FIRSTGREETING_3">
+			<Text>Bienvenido a Cuba, una tierra rica en plantaciones, música y revolución. Espero te unas a nuestra causa, y que no la detengas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CESPEDES_DEFEATED_1">
+			<Text>No puedo decir que me rendí, o dejé mi puesto sólo, no abandoné a mi gente... Pero ahora ha terminado</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CESPEDES_DEFEATED_2">
+			<Text>¡La revolución nunca morirá! Pronto verás nuevos revolucionarios levantarse y recuperar la independencia de Cuba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CESPEDES_RESPONSE_REQUEST_1">
+			<Text>Mi revolución necesita to ayuda... ¿proveerás?</Text>
+			</Row>
+		<Row Tag="TXT_KEY_LEADER_CESPEDES_LUXURY_TRADE_1">
+			<Text>Creo que podemos hacer un intercambio, por el futuro de nuestros países</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CESPEDES_OPEN_BORDERS_EXCHANGE_1">
+			<Text>Cuba confía en usted lo suficiente para permitirte entrar. Por favor no decepciones nuestra confianza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CESPEDES_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Tu continua expansión puede ser una amenaza a la independencia de Cuba. Debo pedirte que dejes de expandirte tan peligrosamente cerca de las tierras de mi gente</Text>
+		</Row>
+
+
+		<!-- Unit -->
+
+		<Row Tag="TXT_KEY_CIV5_CUBAN_REVOLUCIONARIO_TEXT">
+			<Text>
+				Cuba ha tenido una larga historia de revueltas y alzamientos ante los capataces coloniales foráneos, los cuales en su mayoría han resultado victoriosas o al menos han logrado causar daños severos al enemigo de Cuba. Algunos de los primeros Revolucionarios que tuvo Cuba se llamaron “Mambis” y fueron notorios por su desafío a cualquier autoridad foránea, logrando hacer una campaña para una Cuba libre e independiente. En ciertos momentos, estas campañas involucraron guerra contra los españoles, por ejemplo en la guerra de los 10 años. Los Mambises lucharon ferozmente por la independencia cubana; sin embargo, al llegar los años 50, las cosas se volvieron aún más revolucionarias. El rostro de la revolución, Che Guevara, se volvió un símbolo romántico de la revolución, un concepto no considerado como tal antes, ganando muchos adeptos entre otros grupos revolucionarios alrededor del mundo. Si bien Guevara es indiscutiblemente el más famoso de estos revolucionarios, él no es sino uno de los últimos en una larga lista de personas que lucharon contra el poder colonial en Cuba.
+			</Text>
+		</Row>
+
+
+		<!-- Building -->
+
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_CUBAN_CABILDO_TEXT">
+			<Text>
+				En un intento de disminuir la brutalidad de la esclavitud, se crearon grupos llamados “Cabildos” para la población étnicamente africana de Cuba, los cuales estaban pensados para ser utilizados por ellos para usos recreacionales. Estos eran pensados para suprimir cualquier oportunidad de revuelta de esclavos; de esta manera, eran financiados por poseedores de esclavos para asegurar que estos no escaparían ni se alzarían ante ellos. Parecidos a comunidades de esclavos, la gente podía tener atención médica al igual que otros servicios similares. Los Cabildos tenían también un sentido religioso muy significativo – si bien la mayor parte de la población era cristiana, aquellos que aún seguían sus tradiciones cristianas podían tener su adoración en paz. La música también era desarrollada en estos lugares, tornándose en un estilo único que llegó a conocerse como “Afrocubanismo” – esta era una mezcla única de música tradicional africana y española, a la vez que también poseía influencia de las culturas nativas a la zona. Tras una serie de revueltas de esclavos, los Cabildos fueron abandonados, y la ley se ejerció con todo su peso para requerir que los Cabildos fuesen licenciados una vez que la esclavitud haya sido abolida.
+			</Text>
+		</Row>
+
+
+	</Language_ES_ES>
+</GameData>

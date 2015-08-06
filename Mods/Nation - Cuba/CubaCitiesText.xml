@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/29/2014 10:27:19 PM -->
+<GameData>
+	<Language_en_US>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_LA_HABANA">
+			<Text>La Habana</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_SANTIAGO_DE_CUBA">
+			<Text>Santiago de Cuba</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_BAYAMO">
+			<Text>Bayamo</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_CAMAGUEY">
+			<Text>Camagüey</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_HOLGUIN">
+			<Text>Holguín</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_GUANTANAMO">
+			<Text>Guantánamo</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_SANTA_CLARA">
+			<Text>Santa Clara</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_LAS_TUNAS">
+			<Text>Las Tunas</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_CIENFUEGOS">
+			<Text>Cienfuegos</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_PINAR_DEL_RIO">
+			<Text>Pinar del Río</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_MATANZAS">
+			<Text>Matanzas</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_CIEGO_DE_AVILA">
+			<Text>Ciego de Ávila</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_SANCTI_SPIRITUS">
+			<Text>Sancti Spíritus</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_MANZANILLO">
+			<Text>Manzanillo</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_CARDENAS">
+			<Text>Cárdenas</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_PALMA_SORIANO">
+			<Text>Palma Soriano</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_MOA">
+			<Text>Moa</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_MORON">
+			<Text>Morón</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_FLORIDA">
+			<Text>Florida</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_CONTRAMAESTRE">
+			<Text>Contramaestre</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_ARTEMISA">
+			<Text>Artemisa</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_NUEVA_GERONA">
+			<Text>Nueva Gerona</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_TRINIDAD">
+			<Text>Trinidad</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_COLON">
+			<Text>Colón</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_BARACOA">
+			<Text>Baracoa</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_PLACETAS">
+			<Text>Placetas</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_NUEVITAS">
+			<Text>Nuevitas</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_SAGUA_LA_GRANDE">
+			<Text>Sagua La Grande</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_SAN_JOSE_DE_LAS_LAJAS">
+			<Text>San José de las Lajas</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_BANES">
+			<Text>Banes</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_SAN_LUIS">
+			<Text>San Luis</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_PUERTO_PADRE">
+			<Text>Puerto Padre</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_SAN_ANTONIO_DE_LOS_BAÑOS">
+			<Text>San Antonio de los Baños</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_CAIBARIEN">
+			<Text>Caibarién</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_CABAIGUAN">
+			<Text>Cabaiguán</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_MAYARI">
+			<Text>Mayarí</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_SAN_CRISTOBAL">
+			<Text>San Cristóbal</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_VERTIENTES">
+			<Text>Vertientes</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_JAGUEY_GRANDE">
+			<Text>Jagüey Grande</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_CONSOLACION_DEL_SUR">
+			<Text>Consolación del Sur</Text>
+		</Replace>
+
+
+	</Language_en_US>
+	<Language_ES_ES>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_LA_HABANA">
+			<Text>La Habana</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_SANTIAGO_DE_CUBA">
+			<Text>Santiago de Cuba</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_BAYAMO">
+			<Text>Bayamo</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_CAMAGUEY">
+			<Text>Camagüey</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_HOLGUIN">
+			<Text>Holguín</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_GUANTANAMO">
+			<Text>Guantánamo</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_SANTA_CLARA">
+			<Text>Santa Clara</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_LAS_TUNAS">
+			<Text>Las Tunas</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_CIENFUEGOS">
+			<Text>Cienfuegos</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_PINAR_DEL_RIO">
+			<Text>Pinar del Río</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_MATANZAS">
+			<Text>Matanzas</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_CIEGO_DE_AVILA">
+			<Text>Ciego de Ávila</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_SANCTI_SPIRITUS">
+			<Text>Sancti Spíritus</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_MANZANILLO">
+			<Text>Manzanillo</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_CARDENAS">
+			<Text>Cárdenas</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_PALMA_SORIANO">
+			<Text>Palma Soriano</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_MOA">
+			<Text>Moa</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_MORON">
+			<Text>Morón</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_FLORIDA">
+			<Text>Florida</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_CONTRAMAESTRE">
+			<Text>Contramaestre</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_ARTEMISA">
+			<Text>Artemisa</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_NUEVA_GERONA">
+			<Text>Nueva Gerona</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_TRINIDAD">
+			<Text>Trinidad</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_COLON">
+			<Text>Colón</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_BARACOA">
+			<Text>Baracoa</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_PLACETAS">
+			<Text>Placetas</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_NUEVITAS">
+			<Text>Nuevitas</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_SAGUA_LA_GRANDE">
+			<Text>Sagua La Grande</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_SAN_JOSE_DE_LAS_LAJAS">
+			<Text>San José de las Lajas</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_BANES">
+			<Text>Banes</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_SAN_LUIS">
+			<Text>San Luis</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_PUERTO_PADRE">
+			<Text>Puerto Padre</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_SAN_ANTONIO_DE_LOS_BAÑOS">
+			<Text>San Antonio de los Baños</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_CAIBARIEN">
+			<Text>Caibarién</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_CABAIGUAN">
+			<Text>Cabaiguán</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_MAYARI">
+			<Text>Mayarí</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_SAN_CRISTOBAL">
+			<Text>San Cristóbal</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_VERTIENTES">
+			<Text>Vertientes</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_JAGUEY_GRANDE">
+			<Text>Jagüey Grande</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_CUBA_CONSOLACION_DEL_SUR">
+			<Text>Consolación del Sur</Text>
+		</Replace>
+
+
+	</Language_ES_ES>
+</GameData>

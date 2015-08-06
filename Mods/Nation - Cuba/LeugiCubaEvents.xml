@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- José Martí -->
+		<Row Tag="TXT_KEY_EVENT_CUBAN_JOSEMARTI">
+			<Text>José Marti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_CUBAN_JOSEMARTI_DESC">
+			<Text>José Martí Pérez, a man who dedicated his life to the promotion of liberty, independence created a newspaper called "Patria". Some of his works are inspiring our people on their calling to liberation. Right now he's recalling the heroism of our Ten Years' War, developing new basis to defend our independence and our rights. He wants to make a final and important gift for us, laying the grounds for the Cuban Revolutionary Party.[NEWLINE]
+			</Text>
+		</Row>
+		<!-- Jose Marti: Outcome 1 -->
+		<Row Tag="TXT_KEY_EVENT_CUBAN_JOSEMARTI_OUTCOME_1">
+			<Text>We must help publish his inspiring poems</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_CUBAN_JOSEMARTI_OUTCOME_RESULT_1">
+			<Text>
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Cost} [ICON_CULTURE] Culture[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Start a [ICON_GOLDEN_AGE] Golden Age[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_CUBAN_JOSEMARTI_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have helped José Martí publish his revolutionary poems and inspired our people!</Text>
+		</Row>
+		<!-- Jose Marti: Outcome 2 -->
+		<Row Tag="TXT_KEY_EVENT_CUBAN_JOSEMARTI_OUTCOME_2">
+			<Text>Adopt his political ideas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_CUBAN_JOSEMARTI_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Cost} [ICON_CULTURE] Culture[ENDCOLOR]
+			[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Receive a free Social Policy[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_CUBAN_JOSEMARTI_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have adopted José Martí's political ideas, hoping for a more independent Cuba!</Text>
+		</Row>
+		<!-- José Marti: Outcome 3 -->
+		<Row Tag="TXT_KEY_EVENT_CUBAN_JOSEMARTI_OUTCOME_3">
+			<Text>Let's have him join our Revolution</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_CUBAN_JOSEMARTI_OUTCOME_RESULT_3">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Cost} [ICON_CULTURE] Culture[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Receive a free Great Person of your choice[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_CUBAN_JOSEMARTI_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>We have convinced José Martí to join our revolution!</Text>
+		</Row>
+		<!-- José Marti: TEXTS -->
+		<Row Tag="TXT_KEY_EVENT_CUBAN_JOSEMARTI_OTHERS_ALERT">
+			<Text>José Martí, a cuban ideologist, was born</Text>
+		</Row>
+
+
+		<!-- ============================================================================================== -->
+
+		<!-- Destitucion -->
+		<Row Tag="TXT_KEY_EVENT_CUBAN_DESTITUTION">
+			<Text>Destitución</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_CUBAN_DESTITUTION_DESC">
+			<Text>Our Republic in Arms is in Crisis. After our decisions on the Guanámaro Assembly, the Cámara de Representantes decided to organize an assembly in the province of Oriente. The main decision to be made: expell you from Government. Should they be successful a dark time for our revolution will begin. What should we do?
+			</Text>
+		</Row>
+		<!-- Destitucion: Outcome 1 -->
+		<Row Tag="TXT_KEY_EVENT_CUBAN_DESTITUTION_OUTCOME_1">
+			<Text>We must face their decision</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_CUBAN_DESTITUTION_OUTCOME_RESULT_1">
+			<Text>
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]Start 10 turns of Anarchy[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_CUBAN_DESTITUTION_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>You have been removed from Cuba's government!</Text>
+		</Row>
+		<!-- Destitucion: Outcome 2 -->
+		<Row Tag="TXT_KEY_EVENT_CUBAN_DESTITUTION_OUTCOME_2">
+			<Text>Convince your dissidents</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_CUBAN_DESTITUTION_OUTCOME_RESULT_2">
+			<Text>
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Cost} [ICON_CULTURE] Culture[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Receive a free Revolucionario[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_CUBAN_DESTITUTION_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have adopted convinced the dissident Revolucionarios and kept our government alive!</Text>
+		</Row>
+		<!-- Destitucion: Outcome 3 -->
+		<Row Tag="TXT_KEY_EVENT_CUBAN_DESTITUTION_OUTCOME_3">
+			<Text>Keep your position regardless</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_CUBAN_DESTITUTION_OUTCOME_RESULT_3">
+			<Text>
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]Generate {1_Unhappiness} [ICON_HAPPINESS_4] eternal Unhappiness[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Receive a free Social Policy[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_CUBAN_DESTITUTION_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>You have not left your government in spite of the Camara de Representantes!</Text>
+		</Row>
+		<!-- Destitucion: TEXTS -->
+		<Row Tag="TXT_KEY_EVENT_CUBAN_DESTITUTION_OTHERS_ALERT">
+			<Text>Some Cuban representatives asked Carlos Manuel de Cespedes to leave his position!</Text>
+		</Row>
+
+		<Replace Tag="TXT_KEY_TP_UNHAPPINESS_UNITS">
+			<Text>{1_Num} generated by Policies, Units or other sources.</Text>
+		</Replace>
+		
+		
+		<!-- ============================================================================================== -->
+
+		<!-- Ajedrez -->
+		<Row Tag="TXT_KEY_EVENT_CUBAN_CHESS">
+			<Text>Laws of Chess</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_CUBAN_CHESS_DESC">
+			<Text>
+				Luis Charles de Labourdonnais wrote an impressive volume on Chess. As an important Chess Player in Cuba, you have been asked by the "El Redactor" newspaper to publish a translation for the people of Santiago de Cuba.
+			</Text>
+		</Row>
+		<!-- Ajedrez: Outcome 1 -->
+		<Row Tag="TXT_KEY_EVENT_CUBAN_CHESS_OUTCOME_1">
+			<Text>I'll do this gladly</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_CUBAN_CHESS_OUTCOME_RESULT_1">
+			<Text>
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Receive {1_Culture} [ICON_CULTURE] Culture[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_CUBAN_CHESS_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>You have been translated the Laws of Chess for the Cuban People!</Text>
+		</Row>
+
+		<!-- Ajedrez: Outcome 2 -->
+		<Row Tag="TXT_KEY_EVENT_CUBAN_CHESS_OUTCOME_2">
+			<Text>I have a revolution to lead</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_CUBAN_CHESS_OUTCOME_RESULT_2">
+			<Text>
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Receive {1_GApoints} [ICON_GOLDEN_AGE] Golden Age Points[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_CUBAN_CHESS_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>You have decided your revolution is more important than chess!</Text>
+		</Row>
+		<!-- Ajedrez: TEXTS -->
+		<Row Tag="TXT_KEY_EVENT_CUBAN_CHESS_OTHERS_ALERT">
+			<Text>Luis Charles de Labourdonnais wrote an impressive volume on Chess</Text>
+		</Row>
+
+
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/4/2014 12:31:54 PM -->
+<GameData>
+	<Language_en_US>
+		
+		<Row Tag="TXT_KEY_ANARCHY_ATTACK">
+			<Text>{1_name} has started a turn of [ICON_RESISTANCE] Resistance against {2_civname}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ANARCHY_RECEIVE">
+			<Text>{1_name} has started a turn of [ICON_RESISTANCE] Resistance against you!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEUGI_CUBA_SHORT_DESC">
+			<Text>Cuba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEUGI_CUBA_DESC">
+			<Text>Cuban Republic in Arms</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEUGI_CUBA_ADJECTIVE">
+			<Text>Cuban</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LEUGI_CUBA_DOM_TEXT">
+			<Text>Welcome, Carlos Manuel de Céspedes, Padre de la Patria and hero to the Cuban people! At the heart of the Caribbean, Cuba has always been a melting pot of cultures; an island nation with a rich history of music and literature. Yet, it is also a history filled with unrest and revolution as your people have continuously strived to shape their destiny. Great liberator, it was your October Manifesto that first lit the spark of independence for Cuba. From the steps of La Demajagua, you sought to unite your people in an effort to create lasting freedom. Bringing together white and black, free and slave, you led the Republic in Arms as your army utilized devastating guerilla tactics and machete charges against the wealthy plantation owners and peninsulares of Cuba's western provinces. Though your revolution ultimately failed against the might and resources of the Spanish, it was the start of the Ten Year's War and of a path which would lead to the birth of your proud nation.
+
+[NEWLINE][NEWLINE]Esteemed Céspedes, Cuba has finally lifted the yoke of the Spanish. No longer does a foreign crown exploit your national treasures and consume the product of your noble labour. Your people are free to create the nation that you envisioned so long ago. Can you lead Cuba into this new era? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		
+		
+		<!-- Trait-->
+		<Row Tag="TXT_KEY_TRAIT_DEMAJAGUA_SHORT">
+			<Text>La Demajagua</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TRAIT_DEMAJAGUA">
+			<Text>Increased [ICON_STRENGTH] Combat Strength on plantations. Adopting a Social Policy instantly grants [ICON_GREAT_PEOPLE] Points towards Revolucionarios. Upon adopting your first Ideological Tenet receive 2 Revolucionarios</Text>
+		</Row>
+
+		<!-- Building-->
+		<Row Tag="TXT_KEY_BUILDING_CUBAN_CABILDO">
+			<Text>Cabildo de la Nación|Cabildos de la Nación</Text>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CUBAN_CABILDO_HELP">
+			<Text>Replacement for Armory. Units produced by this city receive +15 XP. Receive +15 XP when the [ICON_GREAT_WORK] Great Work of Music Slot is filled. May be built without Barracks</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CUBAN_CABILDO_STRATEGY">
+			<Text>Cabildos de la Nación are the Cuban replacement for the Armory. If the player rushes to discovering Steel, it will both receive a bonus to Revolucionarios and the ability to build Cabildos. The cabildos may be built inmediatly, generating experience, which means, faster revolucionarios; and more so, if the slot is filled</Text>
+		</Row>
+		
+		<!-- Unit-->
+		<Row Tag="TXT_KEY_UNIT_CUBAN_REVOLUCIONARIO">
+			<Text>Revolucionario|Revolucionarios</Text>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CUBAN_REVOLUCIONARIO_HELP">
+			<Text>Cuban replacement for Great General. May attack and defend, receiving the [ICON_COMBAT] Combat Strength of the highest Infantry unit the owner may produce. Ignores Terrain Cost and May Move after Attacking. When next to an enemy city, it puts the enemy city in [ICON_RESISTANCE] Resistance. May not conquer cities or build citadels, and loses HP after killing an enemy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CUBAN_REVOLUCIONARIO_STRATEGY">
+			<Text>Revolucionarios are the main part of overall Cuban strategy. With their ability to defend and to generate resistance when inside enemies' territories, it proves to be a valuable tool towards domination, or even as a good way of making the enemy civilization step back in technology</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_ANARCHIST">
+			<Text>Rebel Inspiration</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ANARCHIST_HELP">
+			<Text>This unit adds a turn of Resistance while next to an enemy City, losing some HP in return</Text>
+		</Row>
+
+	</Language_en_US>
+
+	<Language_ES_ES>
+
+		<Row Tag="TXT_KEY_ANARCHY_ATTACK">
+			<Text>¡{1_name} ha empezado un turno de Resistencia[ICON_RESISTANCE] contra {2_civname}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ANARCHY_RECEIVE">
+			<Text>¡{1_name} ha empezado un turno de Resistencia[ICON_RESISTANCE] contra tí!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEUGI_CUBA_SHORT_DESC">
+			<Text>Cuba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEUGI_CUBA_DESC">
+			<Text>República en Armas de Cuba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEUGI_CUBA_ADJECTIVE">
+			<Text>cubano|cubana|cubanos|cubanas</Text>
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LEUGI_CUBA_DOM_TEXT">
+			<Text>
+				Bienvenido, Carlos Manuel de Céspedes, Padre de la Patria y heroe del pueblo cubano. En el corazón del Caribe, Cuba siempre fue una mezcla de culturas, una nación isleña con una historia basta de música y literatura. Sin embargo, también es una historia llena de rebelión y revolución ya que tu gente continuamente lucharon para dar forma a su destino. Gran revolucionario, fue tu Manifiesto de Octubre el que inición la chispa de la independencia de Cuba. Desde los primeros pasos de la Demajagua, buscaste unir a tu gente en un intento de crear una libertad duradera. Uniendo a blancos y negros, esclavos y libres, lideraste la República en Armas mientras tus tropas utilizaron devastadoras tácticas guerrilleras y avances de machete contra los opulentos dueños de plantaciones en las provincias de Cuba. Aunque tu revolución falló contra la fuerza y recursos del imperio español, fue el inicio de la guerra de los Diez Años y del camino que llevaría al nacimiento de tu orgullosa nación.
+				
+				[NEWLINE][NEWLINE]Estimado Céspedes, Cuba finalmente se libró del yugo de los españoles. Nunca más una corona extranjera explotaría tus recursos naturales y consumiría el producto de su noble labor. Tu gente se encuentra libre para crear la nación que tú imaginaste tiempo atrás. ¿Puedes liderar a Cuba en esta nueva era? ¿Puedes construir una civilización que resista el paso del tiempo?
+			</Text>
+		</Row>
+
+
+		<!-- Trait-->
+		<Row Tag="TXT_KEY_TRAIT_DEMAJAGUA_SHORT">
+			<Text>La Demajagua</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TRAIT_DEMAJAGUA">
+			<Text>Recibe mayor Fuerza de Combate[ICON_STRENGTH] en las plantaciones. Al adoptar una política social recibe inmediatamente puntos hacia la generación de Revolucionarios. Al adoptar una ideología recibe 2 Revolucionarios</Text>
+		</Row>
+
+		<!-- Building-->
+		<Row Tag="TXT_KEY_BUILDING_CUBAN_CABILDO">
+			<Text>Cabildo de la Nación|Cabildos de la Nación</Text>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CUBAN_CABILDO_HELP">
+			<Text>Reemplazo cubano de la armería. Las unidades producidas en esta ciudad reciben +15 de experiencia. +15 de experiencia más al llenar el espacio para una Gran Obra Musical. Puede construirse sin barracas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CUBAN_CABILDO_STRATEGY">
+			<Text>Reemplazo cubano de la armería. Las unidades producidas en esta ciudad reciben +15 de experiencia. +15 de experiencia más al llenar el espacio para una Gran Obra Musical. Puede construirse sin barracas</Text>
+		</Row>
+
+		<!-- Unit-->
+		<Row Tag="TXT_KEY_UNIT_CUBAN_REVOLUCIONARIO">
+			<Text>Revolucionario|Revolucionarios</Text>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CUBAN_REVOLUCIONARIO_HELP">
+			<Text>Reemplazo cubano del Gran General. Puede atacar y defenderse, recibiendo la fuerza de combate de la unidad de infantería más avanzada que el dueño pueda producir. Ignora el coste del terreno y puede moverse después de atacar. Al iniciar un turno al lado de una ciudad enemiga, inicia un turno de resistencia. No puede conquistar ciudades ni construir ciudadelas y pierde puntos de vida al iniciar revoluciones y al matar enemigos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CUBAN_REVOLUCIONARIO_STRATEGY">
+			<Text>Reemplazo cubano del Gran General. Puede atacar y defenderse, recibiendo la fuerza de combate de la unidad de infantería más avanzada que el dueño pueda producir. Ignora el coste del terreno y puede moverse después de atacar. Al iniciar un turno al lado de una ciudad enemiga, inicia un turno de resistencia. No puede conquistar ciudades ni construir ciudadelas y pierde puntos de vida al iniciar revoluciones y al matar enemigos</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_ANARCHIST">
+			<Text>Inspiración Rebelde</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ANARCHIST_HELP">
+			<Text>Esta unidad añade un turno de resistencia al empezar su turno al lado de una ciudad enemiga, perdiendo puntos de vida</Text>
+		</Row>
+
+	</Language_ES_ES>
+</GameData>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Independence -->
+		<Replace Tag="TXT_KEY_EVENT_LATIN_AMERICAN_INDEPENDENCE">
+			<Text>Independence!</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_EVENT_LATIN_AMERICAN_INDEPENDENCE_DESC">
+			<Text>For centuries our lands have depended on the European Colonial Powers, and all of our harvests and riches have helped them become powerful empires. Many attempts of rebellions were made, but none of them have been successful. But this can be no more. The Criollo-Mestizos of our lands have managed to achieve enough influence and power within the colonies, and they can now organize together to let us be independent. The situation in Europe is also critical because of constant struggles of power and control over our Patria Grande. The war has begun![NEWLINE]
+			</Text>
+		</Replace>
+		<!-- Independence: Outcome 1 -->
+		
+		<Replace Tag="TXT_KEY_EVENT_LATIN_AMERICAN_INDEPENDENCE_OUTCOME_1">
+			<Text>¡Viva la Patria! </Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_EVENT_LATIN_AMERICAN_INDEPENDENCE_OUTCOME_RESULT_1">
+			<Text>
+				[ICON_BULLET][COLOR_POSITIVE_TEXT]Start a 30 Turn [ICON_GOLDEN_AGE] Golden Age[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Receive a Free Libertador Unit[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]During this Golden Age, any enemy you kill will generate instant +10 [ICON_TOURISM] Tourism and conquering or liberating cities generate +100 [ICON_TOURISM] Tourism.[ENDCOLOR]
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_EVENT_LATIN_AMERICAN_INDEPENDENCE_OUTCOME_CUBA_RESULT_1">
+			<Text>
+				[ICON_BULLET][COLOR_POSITIVE_TEXT]Start a 30 Turn [ICON_GOLDEN_AGE] Golden Age[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Receive a Free Revolucionario Unit[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]During this Golden Age, any enemy you kill will generate instant +10 [ICON_TOURISM] Tourism and conquering or liberating cities generate +100 [ICON_TOURISM] Tourism. Both actions extend the Golden Age[ENDCOLOR]
+			</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_EVENT_LATIN_AMERICAN_INDEPENDENCE_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have started our campaign for Independence!</Text>
+		</Replace>
+	</Language_en_US>
+</GameData>
