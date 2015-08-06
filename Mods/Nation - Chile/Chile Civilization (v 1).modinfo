@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="2c467c22-22d6-4d1f-b834-980717ce925b" version="1">
+  <Properties>
+    <Name>Chile Civilization</Name>
+    <Teaser>Adds the Chile Civilization to the Game, with Bernardo Ohiggins as its Leader. Requires Gods and Kings.</Teaser>
+    <Description>Adds the Chile Civilization to the Game, with Bernardo Ohiggins as its Leader. Requires Gods and Kings.</Description>
+    <Authors>Leugi</Authors>
+    <SpecialThanks>Tomaketh, Irkalla</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+    <Teaser>Adds the Chile Civilization to the Game with Bernardo O'higgins as its leader!</Teaser>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="BAB44BF3ED13BA6ED98FD9EFD8527B8E" import="1">Art/ChileAlphaIcon128.dds</File>
+    <File md5="D4D940602C458B0A89D711CCD0E45373" import="1">Art/ChileAlphaIcon24.dds</File>
+    <File md5="BC3FFB31B3D581C3C8C0B317F95E2550" import="1">Art/ChileAlphaIcon256.dds</File>
+    <File md5="885F007813CFC5C50A52E320663233AD" import="1">Art/ChileAlphaIcon32.dds</File>
+    <File md5="9B790AA4A90204C2FA9649BCFE30AE0E" import="1">Art/ChileAlphaIcon45.dds</File>
+    <File md5="4549EA54E5708EE54F5C5AB0EFC66F87" import="1">Art/ChileAlphaIcon48.dds</File>
+    <File md5="A9B98C5CFC97B256811DEF7CD529807E" import="1">Art/ChileAlphaIcon64.dds</File>
+    <File md5="A1F27AFE4A03EB2B1BCD494EB67C718C" import="1">Art/ChileAlphaIcon80.dds</File>
+    <File md5="093DC85D181033CDA5B4C901C31C500F" import="1">Art/ChileDOM.dds</File>
+    <File md5="A2A7C67F051D2031B0066BDB42036CC9" import="1">Art/ChileIcons128.dds</File>
+    <File md5="08AE8B2F1FF62D3D2CDEB8F09B10A8C7" import="1">Art/ChileIcons256.dds</File>
+    <File md5="167FB7FFD4EBE20B3E2F0694D548256B" import="1">Art/ChileIcons32.dds</File>
+    <File md5="7770897CEBBBB83828E2C4C50477CA3D" import="1">Art/ChileIcons45.dds</File>
+    <File md5="C46955A5904C67ECF13EF64C3BD4154B" import="1">Art/ChileIcons64.dds</File>
+    <File md5="A79293E6BC1DE37BDF636E8F4CFC11DC" import="1">Art/ChileIcons80.dds</File>
+    <File md5="179265DA6910B53C7B32105BC534A17B" import="1">Art/ChileMap.dds</File>
+    <File md5="CA021A1AAE09A79F89573EE501DC1BAE" import="1">Art/escuadranacional.dds</File>
+    <File md5="82ADEC9A18B09014075BDB2930F26386" import="1">Art/escuadranacional.fxsxml</File>
+    <File md5="F2B75CC8F898402D334DB15FE51A0226" import="1">Art/escuadranacional.gr2</File>
+    <File md5="CA021A1AAE09A79F89573EE501DC1BAE" import="1">Art/escuadranacional_damage.dds</File>
+    <File md5="6E79240DD7A9BE6AB018F48ED65456FB" import="1">Art/escuadranacional_sref.dds</File>
+    <File md5="13818D07D9D502E62402C93FE6DFB9C2" import="1">Art/flag_escuadra_nacional.dds</File>
+    <File md5="C1E485A6CF75B2C41893110E3DDE591F" import="1">Art/Ohiggins.dds</File>
+    <File md5="8E5D2FD10A0A438DD079970A80DB0926" import="1">Art/sv_escuadra_nacional.dds</File>
+    <File md5="C3E938767E96BD9586A3E89B7FC22169" import="0">ChileMusic.txt</File>
+    <File md5="127EA09A7507B45E4BC15733FE4894F5" import="0">ChileMusicDefines.txt</File>
+    <File md5="FEC73A8C39DA87B48248D5A63F187EB2" import="0">Lua/AdmiralCityStates.lua</File>
+    <File md5="6695F77BDE7A2B3BA2BD926049CAB98C" import="0">MusicInstallInstructions.txt</File>
+    <File md5="FF0A7AE4BD961B29054137A666E7DCB7" import="0">SQL/ChileArtDefines.sql</File>
+    <File md5="DF8BE6F3022FE283D58036D4BD73B765" import="0">XML/Buildings/BuildingsChile.xml</File>
+    <File md5="861A8C08CF043A6AFEA5BF172A7B282F" import="0">XML/Civilization/ChileCivilization.xml</File>
+    <File md5="08AAD5F3726324F79AD1E651462B1A0C" import="0">XML/Civilization/ChileTrait.xml</File>
+    <File md5="02A9123C0FFE1E94A4420B43C8C0AEC6" import="0">XML/Icons/ChileIconAtlas.xml</File>
+    <File md5="2290CDF245FDF6B68E26FF0EE7316776" import="0">XML/Leader/LeaderOhiggins.xml</File>
+    <File md5="38D8E4B55284A7C07C3FE06A27AD9EB4" import="1">XML/Leader/OhigginsPeace.mp3</File>
+    <File md5="D9553069608D8EA21741E31925A4B355" import="1">XML/Leader/OhigginsWar.mp3</File>
+    <File md5="3D3859E2F3871C142879AD56D37F156D" import="1">XML/Leader/Ohiggins_Scene.xml</File>
+    <File md5="E9096D9EA7F46E9DB803FB615163BC1F" import="0">XML/Text/ChileText.xml</File>
+    <File md5="D4C7700787AADA3FC272DCDAA44F8CCE" import="0">XML/Units/UnitsChile.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>SQL/ChileArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization/ChileCivilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization/ChileTrait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader/LeaderOhiggins.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader/Ohiggins_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/BuildingsChile.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Icons/ChileIconAtlas.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/ChileText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/UnitsChile.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/AdmiralCityStates.lua">
+      <Name>Admiral from Friends</Name>
+      <Description>Admiral from Friends</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

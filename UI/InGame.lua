@@ -1382,6 +1382,9 @@ ContextPtr:LoadNewContext("JFD_NewZealand_CityInfo")
 -- Nation - Slavs --
 ContextPtr:LoadNewContext("GESlavicFunctions")
 
+-- Nation - Chile --
+ContextPtr:LoadNewContext("AdmiralCityStates")
+
 -- Nation - Cuba --
 ContextPtr:LoadNewContext("CubaTraitScripts")
 ContextPtr:LoadNewContext("RevolucionarioAnarchies")

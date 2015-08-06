@@ -1,0 +1,9 @@
+In order to install the Mod properly, so the Leader Music will be played you must do the following:
+
+1. In Chile's Mod Folder, search for the ChileMusic.txt and ChileMusicDefines.txt and open them.
+2. In your Civilization Install Directory search for the following:
+"(Install Directory)\assets\DLC\Expansion\Sounds\XML"
+3. Open Audio2DScriptsExpansion1.xml and AudioDefinesExpansion1.xml from that folder
+4. On Audio2DScriptsExpansion1.xml, paste the contents of ChileMusic.txt under <Script2DSounds>
+5. On AudioDefinesExpansion1.xml, paste the contents of ChileMusicDefines.txt under <SoundDatas>
+6. Save both files and enjoy your new civ with its own leader music.

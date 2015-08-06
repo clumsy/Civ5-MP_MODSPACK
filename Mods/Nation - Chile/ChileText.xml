@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/19/2013 1:20:28 PM -->
+<GameData>
+	<Language_en_US>
+
+		<!--Leader Speech -->
+		<!--Greeting (first time meeting) -->
+		<Row Tag="TXT_KEY_LEADER_OHIGGINS_FIRSTGREETING_1">
+			<Text>I'm Bernardo O'higgins Riquelme, Supreme Director of Chile, and hero to its independence. Welcome to Chile, here's hoping you are a friend, and not a foe.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OHIGGINS_FIRSTGREETING_2">
+			<Text>Greetings! Welcome to Chile, know that we will be the greatest nation, by reason or by force...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OHIGGINS_FIRSTGREETING_3">
+			<Text>This beautiful sea you see here is from the lands of Chile... I fought hard for its independency, and will fight again if needed...</Text>
+		</Row>
+
+		<!--Defeated and removed from game -->
+		<Row Tag="TXT_KEY_LEADER_OHIGGINS_DEFEATED_1">
+			<Text>When this war started, I said to my men: Lads! Live with honor, or die with glory! He who is brave, follow me!... And my men followed me, and we shall die with glory!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OHIGGINS_DEFEATED_2">
+			<Text>When this war started, I said to my men: Lads! Live with honor, or die with glory! He who is brave, follow me!... And my men followed me, and we shall die with glory!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_OHIGGINS_DEFEATED_3">
+			<Text>When this war started, I said to my men: Lads! Live with honor, or die with glory! He who is brave, follow me!... And my men followed me, and we shall die with glory!.</Text>
+		</Row>
+
+
+			<Row Tag="TXT_KEY_CITY_CHILE_01">
+				<Text>Santiago de Chile</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_CHILE_02">
+				<Text>Valparaiso</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_CHILE_03">
+				<Text>Iquique</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_CHILE_04">
+				<Text>Arica</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_CHILE_05">
+				<Text>Copiapo</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_CHILE_06">
+				<Text>La Serena</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_CHILE_07">
+				<Text>Rancagua</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_CHILE_08">
+				<Text>Talca</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_CHILE_09">
+				<Text>Concepcion</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_CHILE_10">
+				<Text>Temuco</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_CHILE_11">
+				<Text>Antofagasta</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_CHILE_12">
+				<Text>Valdivia</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_CHILE_13">
+				<Text>Puerto Mountt</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_CHILE_14">
+				<Text>Punta Arenas</Text>
+			</Row>
+
+			<Row Tag="TXT_KEY_CIV_CHILE_ADJECTIVE">
+				<Text>Chilean</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV_CHILE_DESC">
+				<Text>Chilean Empire</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV_CHILE_SHORT_DESC">
+				<Text>Chile</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_CHILE_HEADING_1">
+				<Text>History</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_CHILE_TEXT_1">
+				<Text>
+					Greetings to you, oh Great Captain, General and Admiral, Bernardo O'higgins Riquelme. You led the strong Chilean people to their independency against the Spanish Empire.
+					[NEWLINE][NEWLINE]Prior to the arrival of the Spanish in the 16th century, northern and central Chile was under Inca rule, while the independent Mapuche inhabited south-central Chile. Chile declared its independence from Spain on 12 February 1818. In the War of the Pacific (1879–83), Chile defeated Peru and Bolivia and won its current northern territory. It was not until the 1880s that the Mapuche were completely subjugated. In 1973 General Augusto Pinochet overthrew Chilean President Salvador Allende and instituted a 16-year-long military dictatorship (1973–90) that left more than 3,000 people dead or missing.[NEWLINE][NEWLINE]Today Chile is one of South America's most stable and prosperous nations, a recognized middle power and an emerging economy. It leads Latin American nations in human development, competitiveness, income per capita, globalization, state of peace, economic freedom, and low perception of corruption.
+					[NEWLINE][NEWLINE]Oh Great Admiral, your people still remember your deeds fondly, as a ways of inspiration. Will you lead them to prosperity? Can you build a civilization that will stand the test of time?
+				</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_OHIGGINS_HEADING_1">
+				<Text>History</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_OHIGGINS_TEXT_1">
+				<Text>
+					Sim&#243;n Riquelme y Goycolea, a member of the Chill&#225;n Cabildo, or council.
+					[NEWLINE][NEWLINE]
+					O'Higgins spent his early years with his mother's family in central-southern Chile, and later he lived with the Albano family, who were his father's commercial partners, in Talca. At age 15, O'Higgins was sent to Lima by his father. He had a distant relationship with Ambrosio, who supported him financially and was concerned with his education, but the two never met in person. It is unclear why Ambrosio did not marry Isabel. High-ranking Spanish government officials in The Americas were forbidden to marry locals, but at the time of O'Higgins' birth, Ambrosio O'Higgins was only a junior military officer. It has been suggested that Isabel's family would not have seen the match as advantageous at the time. Two years later, she married Don F&#233;lix Rodr&#237;guez, an old friend of her father's. O'Higgins used his mother's surname until the death of his father in 1801.
+					[NEWLINE][NEWLINE]
+					Ambrosio O'Higgins, Bernardo's father, continued his professional rise and became Viceroy of Peru; at seventeen Bernardo O'Higgins was sent to London to complete his studies. There, studying history and the arts, O'Higgins became acquainted with American ideas of independence and developed a sense of nationalist pride, coming to admire liberalism in the Georgian British model. He also met Francisco de Miranda, a Venezuelan idealist and believer in independence, and joined a Masonic Lodge established by Miranda, dedicated to achieving the independence of Latin America.
+					[NEWLINE][NEWLINE]
+					In 1798 O'Higgins went to Spain from England, his return to the Americas delayed by the French Revolutionary Wars. His father died in 1801, leaving O'Higgins a large piece of land, the Hacienda Las Canteras, near the Chilean city of Los &#225;ngeles. O'Higgins returned to Chile in 1802, adopted his father's surname, and began life as a gentleman farmer. In 1806 O'Higgins was appointed to the cabildo as the representative of Laja. Then, in 1808, Napoleon took control of Spain, triggering a sequence of events in South America. In Chile, the commercial and political elite decided to form an autonomous government to rule in the name of the imprisoned king Ferdinand VII; this was to be one of the first in a number of steps toward national independence, in which O'Higgins would play a leading role.
+				</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_OHIGGINS_LIVED">
+				<Text>1778–1842.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_OHIGGINS_NAME">
+				<Text>Bernardo O'Higgins Riquelme</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_OHIGGINS_SUBTITLE">
+				<Text>Chile's Founding Father</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_OHIGGINS">
+				<Text>Bernardo O'Higgins</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_OHIGGINS_TITLES_1">
+				<Text>Supreme Director</Text>
+			</Row>
+			<Row Tag="TXT_KEY_TRAIT_REASONFORCE">
+				<Text>
+					Coastal cities have reduced [ICON_CULTURE]Culture Cost for tile gaining. Units get a Combat Bonus on foreign territory. Friendly and Allied City-States generate [ICON_GREAT_PEOPLE]Points towards Great Admirals, which receive the Medic promotion.
+				</Text>
+			</Row>
+			<Row Tag="TXT_KEY_TRAIT_REASONFORCE_SHORT">
+				<Text>By Reason or By Force</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_CHILE_0">
+				<Text>Prieto</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_CHILE_1">
+				<Text>Allende</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_CHILE_2">
+				<Text>Ib&#225;&#241;ez</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_CHILE_3">
+				<Text>Montalva</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_CHILE_4">
+				<Text>Carrera</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_CHILE_5">
+				<Text>Prat</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_CHILE_6">
+				<Text>Valdivia</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_CHILE_7">
+				<Text>Aguirre</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_CHILE_8">
+				<Text>Godoy</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_CHILE_9">
+				<Text>Huidobro</Text>
+			</Row>
+
+
+			<Row Tag="TXT_KEY_PROMOTION_ESCUADRANACIONAL">
+				<Text>Primera Escuadra</Text>
+			</Row>
+			<Row Tag="TXT_PROMOTION_ESCUADRANACIONAL_HELP">
+				<Text>Increases experience gain by 50% , reduces upgrade cost and may capture enemy ships</Text>
+			</Row>
+
+			<Row Tag="TXT_KEY_BUILDING_CHILE">
+				<Text>Chilean Coastal Bonus</Text>
+			</Row>
+			<Row Tag="TXT_KEY_BUILDING_CHILE_DESC">
+				<Text>Chilean cities built on coast may expand its cultural borders faster.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_BUILDING_CHILE_STRATEGY">
+				<Text>Chile has the special ability to get a reduction of Culture cost for expansion in coastal cities, that grouped with the naval bonus makes Chile a Naval-Focused civilization.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_BUILDING_CHILE_HELP">
+				<Text>Culture Cost for Adquiring new tiles reduced in this city.</Text>
+			</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_MEDIALUNA">
+			<Text>Medialuna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MEDIALUNA_HELP">
+			<Text>Chilean replacement for the Circus. Each source of [ICON_RES_HORSE]Horses, [ICON_RES_COW]Cattle and [ICON_RES_SHEEP]Sheep worked by this City produces +1 [ICON_CULTURE]Culture. City must have at least one of these resources being worked.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MEDIALUNA_STRATEGY">
+			<Text>Grouped with Chile's reduction of culture cost for tiles, Medialunas help with expansion and also provides extra happiness to the empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_MEDIALUNA_TEXT">
+			<Text>
+				A medialuna (literally half moon) is crescent-shaped corral used for rodeos, the official sport in Chile. They are generally 64–66 meters in diameter. Chilean rodeos are not quite the same sport famous in the American West; they involve two riders on horseback trying to herd a calf around a circular arena, attempting to pin him against several large cushions.
+
+				[NEWLINE][NEWLINE]The main medialuna in Chile is the Medialuna Monumental de Rancagua. Located in the city of Rancagua, it currently seats 12,000 spectators. It is the home of the annual National Championship of Chilean Rodeo. It hosted the 2006 Davis Cup matches of Chile against Slovakia and the 2009 Davis Cup against Austria.
+
+				[NEWLINE][NEWLINE]In Osorno, Chile, the medialuna is known as La Medialuna de Osorno. The Medialuna de Osorno was the first covered medialuna in Chile, and is considered one of the highest quality. Rodeos are organized by the Club Osorno Ren&#233; Soriano B&#243;rquez. It boasts a 64-meter diameter arena, seating capacity of approximately 4,800, and an in-house cafeteria. In 2006, the medialuna was the qualifying arena for the Southern Region of the Campeonato Nacional de Rodeo, the nation-wide Rodeo competition.
+
+				[NEWLINE][NEWLINE]Rodeo is the second most popular sport in Chile after football it began in roughly the 16th century during the rule of Governor Garc&#237;a Hurtado de Mendoza. At the time, the cattle in Chile were not well identified and it was not uncommon for the animals to get lost. To help prevent the loss, Governor Hurtado proclaimed that, in Santiago, every 24th and 25 July, the commemoration of Saint Jacob - patron saint of the city -, the cattle would be gathered in the Plaza de Armas de Santiago to be branded and selected. This is basically how Chilean rodeo began..</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_CHILEAN_ESCUADRA">
+			<Text>Escuadra Nacional</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_CHILEAN_ESCUADRA">
+			<Text>Replacement for Privateer. Faster Experience bonus, cheaper  to upgrade, and may capture enemy ships. May be upgraded to Ironclad without losing its bonuses.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CHILEAN_ESCUADRA_STRATEGY">
+			<Text>The Experience bonus allows to increase the generation of Great Admirals, and in the case of Chile, Great Admirals also provide more longevity to the navy. The promotion isn't lost on upgrade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_CHILEAN_ESCUADRA_TEXT">
+			<Text>
+				Bernardo O'Higgins was a member of the O'Higgins family who was born in the Chilean city of Chill&#225;n in 1778, the illegitimate son of Ambrosio O'Higgins, 1st Marquis of Osorno, a Spanish officer born in County Sligo, Ireland, who became governor of Chile and later viceroy of Peru. His mother was Isabel Riquelme, a prominent local lady and daughter of Don The First Chilean Navy Squadron was the naval force that terminated Spanish colonial rule on the south-west coast of South America and protagonaized the most important naval actions in the Latin American wars of independence. The Chilean government organized the squadron in order to carry the war to the Viceroyalty of Per&#250;, then the center of Spanish power in South America, and thus secure the independence of Chile and Argentina.
+				[NEWLINE][NEWLINE]After the Battle of Chacabuco Bernardo O'Higgins remarked that "this triumph and a hundred more will be insignificant if we do not control the sea". Consequently the Chilean government, led by O'Higgins, on 20 November 1817 authorized privateers to engage as commerce raiders, interrupting the Spanish trade off the west coast of South America. Although Spanish commerce along the whole coast from Chile to Panama was interrupted, the military and naval achievements of the privateers were insignificant.
+				O'Higgins set out to create a Navy out of nothing. Jos&#233; Ignacio Zenteno was nominated as Minister of Marine and promulgated in November 1817 the Reglamento General de Marina, a legal framework for the new institution. Alvarez Condarco and Manuel Hermanegildo Aguirre were sent to respectively to London and New York to recruit men and to acquire warships.[NEWLINE][NEWLINE]A few days after the Battle of Chacabuco Chilean revolutionaries commissioned their first ship, the old US-smuggler ship Eagle, once captured by the Spaniards and now in the hand of the Chileans. Eagle was first renamed &#225;guila and then later Pueyrred&#243;n. The regular Chilean navy began to grow steadily and soon was able to man the East Indiaman Windham, which arrived at Valpara&#237;so in March 1818, and Cumberland, which arrived at Valpara&#237;so in May 1818. The Chileans had bought both in England and renamed and Lautaro and respective San Mart&#237;n. In July 1818 the Columbus, a US-origin 18-gun brig, reached Valpara&#237;so and was bought and renamed Araucano.
+				[NEWLINE][NEWLINE]As usual at the time all prizes and seized property was object of a sophisticated system of rules defining commissions and differences between property and ships captured afloat or in transit or at land.
+				On 19 October 1818 the first Commander of the Chilean Squadron Manuel Blanco Encalada was ordered to set sail with San Mart&#237;n, Lautaro, Chacabuco and Araucano in order to intercept the Spanish convoy. Later Galvarino and Intr&#233;pido (an Argentine ship) joint the flotilla off Talcahuano. On 28 October they found the Reina Mar&#237;a Isabel at anchor in Talcahuano. The crew of the Reina Mar&#237;a Isabel ran their vessel aground to render her useless to the Chileans, but they were able to take the frigate in a brisk action and to repair the damage. With the Spanish prize the squadron sailed to Santa Mar&#237;a Island, approximately 30 km south of Talcahuano, where they stayed for a week until, one by one, the Spanish transports Magdalena, Dolores, Carlota, Rosalia and Elena sailed innocently into their arms. Only four Spanish transports could disembark Captain Fausto del Hoyo and 500 men in Talcahuano and continue to Callao.
+				[NEWLINE][NEWLINE]The Reina Maria Isabel was renamed O'Higgins and added to the Chilean Squadron. With the loss of the Reina Maria Isabel, control of the sea passed to the insurgents, making the invasion of Peru itself an imminent danger.
+			</Text>
+		</Row>	
+		
+
+	</Language_en_US>
+</GameData>
