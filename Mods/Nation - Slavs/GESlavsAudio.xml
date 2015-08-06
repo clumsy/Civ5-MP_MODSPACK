@@ -1,0 +1,32 @@
+<GameData>
+	<Audio_Sounds>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_GE_NIKLOT_WAR</SoundID>
+			<Filename>GENiklotWar</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_GE_NIKLOT_PEACE</SoundID>
+			<Filename>GENiklotPeace</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+	</Audio_Sounds>
+	<Audio_2DSounds>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_GE_NIKLOT_WAR</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_GE_NIKLOT_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>70</MinVolume>
+			<MaxVolume>50</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_GE_NIKLOT_PEACE</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_GE_NIKLOT_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>70</MinVolume>
+			<MaxVolume>50</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+	</Audio_2DSounds>
+</GameData>

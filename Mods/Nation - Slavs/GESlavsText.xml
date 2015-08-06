@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/19/2013 1:20:28 PM -->
+<GameData>
+	<Language_en_US>
+			<Row Tag="TXT_KEY_CITY_GE_SLAVS_01">
+				<Text>Radogost</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_GE_SLAVS_02">
+				<Text>Gniezno</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_GE_SLAVS_03">
+				<Text>Hobolin</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_GE_SLAVS_04">
+				<Text>Arkona</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_GE_SLAVS_05">
+				<Text>Starogard</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_GE_SLAVS_06">
+				<Text>Kruszwica</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_GE_SLAVS_07">
+				<Text>Wologost</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_GE_SLAVS_08">
+				<Text>Glogow</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_GE_SLAVS_09">
+				<Text>Krakow</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_GE_SLAVS_10">
+				<Text>Wolin</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_GE_SLAVS_11">
+				<Text>Velegrad</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_GE_SLAVS_12">
+				<Text>Czerwien</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_GE_SLAVS_13">
+				<Text>Brenna</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_GE_SLAVS_14">
+				<Text>Przemysl</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_GE_SLAVS_15">
+				<Text>Lubusz</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_GE_SLAVS_16">
+				<Text>Giecz</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_GE_SLAVS_17">
+				<Text>Kalisz</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_GE_SLAVS_18">
+				<Text>Poznan</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_GE_SLAVS_19">
+				<Text>Kiev</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_GE_SLAVS_20">
+				<Text>Leczyca</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_GE_SLAVS_21">
+				<Text>Praha</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_GE_SLAVS_22">
+				<Text>Turov</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_GE_SLAVS_23">
+				<Text>Nemecha</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_GE_SLAVS_24">
+				<Text>Budisyn</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_GE_SLAVS_25">
+				<Text>Santok</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_GE_SLAVS_26">
+				<Text>Ostrow</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_GE_SLAVS_27">
+				<Text>Tum</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_GE_SLAVS_28">
+				<Text>Trzcinica</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_GE_SLAVS_29">
+				<Text>Santok</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_GE_SLAVS_30">
+				<Text>Ostrow</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_GE_SLAVS_31">
+				<Text>Tum</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_GE_SLAVS_32">
+				<Text>Trzcinica</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_GE_SLAVS_33">
+				<Text>Santok</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_GE_SLAVS_34">
+				<Text>Ostrow</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_GE_SLAVS_35">
+				<Text>Tum</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_GE_SLAVS_36">
+				<Text>Trzcinica</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_GE_SLAVS_37">
+				<Text>Santok</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_GE_SLAVS_38">
+				<Text>Ostrow</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_GE_SLAVS_39">
+				<Text>Tum</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_GE_SLAVS_40">
+				<Text>Trzcinica</Text>
+			</Row>
+		
+			<Row Tag="TXT_KEY_SPY_NAME_GE_SLAVS_0">
+				<Text>Siemowit</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_GE_SLAVS_1">
+				<Text>Mirmil</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_GE_SLAVS_2">
+				<Text>Czcibor</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_GE_SLAVS_3">
+				<Text>Pribislav</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_GE_SLAVS_4">
+				<Text>Mscigniew</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_GE_SLAVS_5">
+				<Text>Kokosz</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_GE_SLAVS_6">
+				<Text>Niemirka</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_GE_SLAVS_7">
+				<Text>Dobroniega</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_GE_SLAVS_8">
+				<Text>Jagna</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_GE_SLAVS_9">
+				<Text>Mojmira</Text>
+			</Row>
+		
+		<Row Tag="TXT_KEY_TRAIT_GE_SUN_GOD_SHORT">
+			<Text>When the Sun was God</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GE_SLAVS_DOM">
+			<Text>
+				Oh wise and great Niklot, pagan chief of the Obtrite Confederation, your people watch as your glory shines once more. Taking arms against the large Christian kingdoms threatening your kin, you saw off many waves of invaders, and began a rebellion to ensure the Slavs would be well established in Europe. This uprising struck fear into the heart of petty dukes and noble emperors alike, having seen nothing like it before. Although you died before your attack on these perpetrators had been duly completed, you were still able to create a land for your people for years to come, earning yourself a place in Slavic folklore and history alike.[NEWLINE][NEWLINE]Legendary ruler, cries of your name are heard throughout what was once your land. Can you reclaim this from foreign invaders? Can you battle off anyone who tries to oppress your people once more? Can you build a civilisation that will stand the test of time?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_GE_SUN_GOD">
+			<Text>
+				Cities with a garrison yield [ICON_PEACE] faith. Military units trained in cities that follow your pantheon belief receive additional XP, increased when a garrison is present.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_SLAVS_ADJECTIVE">
+			<Text>Slavic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_SLAVS_DESC">
+			<Text>Slavic Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_SLAVS_SHORT_DESC">
+			<Text>The Slavs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GE_NIKLOT">
+			<Text>Niklot</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_GE_SLAVS_OPOLE">
+			<Text>Opole</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GE_SLAVS_OPOLE_HELP">
+			<Text>Replaces Courthouse, cheaper to build and maintain and may be built anywhere. +5 city combat strength. Grants a World Congress delegate when built in conquered cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GE_SLAVS_OPOLE_STRATEGY">
+			<Text>As a more versatile replacement for the Courthouse, the Opole is perfect for all purposes. Given it is buildable in any city, their combat strength can be increased if needed, and at a lower cost to build. However, if it is built in a conquered city, you get the benifit of an extra World Congress delegate - this makes it far more useful than the regular courthouse.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_GE_SLAVS_OPOLE_TEXT">
+			<Text>In many Slavic kingdoms, most notably the Kingdom of Poland, the Opole was the name given to the system of land distribution. A specific Opole would be named after the largest settlement in the region; for example, an the Opole in modern-day Lesser Poland would be known as Krakow Opole. Prior to the Kingdom of Poland, the Opole system was used among Slavic tribes as a way of dividing their lands; this worked so well that it grew into the basis for later Slavic states. Within an Opole, the system set up a community within the land. Members of an Opole were required to pay tax to it, which was often refered to in itself as 'opole'. In their early days, Opoles were primarily tribal, so as they evolved, they became more population-based, with regions being created on basis of population density, so the land area varied from Opole to Opole. By the 15th century, the Opole system was on its way out, to be replaced by more feudal systems of government.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_GE_SLAVS_VOI">
+			<Text>Voi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GE_SLAVS_VOI_HELP">
+			<Text>Replaces Pikeman. Slightly weaker than normal Pikeman. Has a small Combat Bonus against cities, but gives a larger one to nearby units also sieging the city. Double plunder upon city capture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GE_SLAVS_VOI_STRATEGY">
+			<Text>Though weaker to regular attacks, the Voi is the bane of all cities that are not yet yours. By granting a large bonus against cities to nearby units, as well as a smaller one to itself, the Voi is made to capture cities. Once the city is yours, the Voi still has use - whenever it captures one, it takes double the normal amount of gold, so you can start to refill your treasury for the next war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GE_SLAVS_VOI_TEXT">
+			<Text>The Voy, or Voyi (the plural version), was an ancient Slavic militia that was based mainly in the Kievan Rus’, as the draft recruitment of the local populace. However, the term, or a variation on it, is used across the Slavic world to describe an army of sorts, mostly irregulars. The more widely-used term Voivode is almost an equivalent for general - the term “voi” here is loosely translated as “army”, and with the word “vode” being the verb “to lead”, it becomes all too obvious who’s in control. Militaries such as these had a fearsome reputation, given the term was used well before the Slavs calmed their military action at the end of the pagan kingdoms. The term was applied during the many wars they had with the Christian kingdoms, especially to the Wends. The only military better in the Rus’ was the druzina, the standing army of the state. Together, they composed most of its military, making the presumably larger Voi a vital part of Slavic military history.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_GE_PAGAN_WARRIORS">
+			<Text>Pagan Warriors</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GE_PAGAN_WARRIORS_HELP">
+			<Text>Grants a small combat bonus against cities, and a larger one to nearby units. Double gold from city capture.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_GE_NIKLOT_FIRSTGREETING_1">
+			<Text>Welcome to the Slavic lands, my friend. You would do yourself good not to bring any harm to us.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GE_NIKLOT_FIRSTGREETING_2">
+			<Text>Who goes there? I am Niklot, and unless you are a friend to the Slavs, begone. Otherwise, you may join us as we celebrate our freedom.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GE_NIKLOT_DEFEATED_1">
+			<Text>You've crushed our towns, our farms, our lands - but you will never crush the Slavic spirit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GE_NIKLOT_DEFEATED_2">
+			<Text>May your gods have mercy on you, for I won't. Crnobog can bring you down to his place for all I care!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GE_NIKLOT_DECLARE_WAR_1">
+			<Text>Perun shines his light upon me, and tells us to go forth and conquer! You have just been unlucky enough to get in the way.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GE_NIKLOT_DECLARE_WAR_2">
+			<Text>You've brought this war upon yourself. This is simply our revenge for damage delt.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GE_NIKLOT_ATTACKED_1">
+			<Text>What is this treason? You've brought hell upon yourself regardless of the cause. Slavs, to arms!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GE_NIKLOT_ATTACKED_2">
+			<Text>Wise guidance wins wars. Attacking us shows an extreme lack of it; the Slavs will crush you!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_GE_NIKLOT_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_GE_NIKLOT_TEXT_1">
+			<Text>A Wendish Slavic chief, Niklot rose to prominence when - after the death of a Christian Obrite prince, Henry - he converted back to the traditional Slavic pagan beliefs from the Christianity opposed upon him. This was only the start of his opposition to the conversion of his people. Niklot very quickly managed to start a rebellion to try and ensure that the Slavs would stick to their religion, making enemies of Christendom, though friends of those who were opposed to its influence and might. Niklot’s uprising against the counts and dukes of the lands west of his allowed for him to become a figurehead; he inspired many other Slavic tribes to also wage war against them. Slavic pirates attacked the Danish fortresses, and allies near to him allowed him to regain lost land when the Holy Roman Emperor decided to give a portion of his land to one of his other lords, the trigger for his open rebellion. Niklot also found allies in the Saxons, who opposed the HRE’s expansion; however, they subsequently turned against Niklot during the Wendish Crusades. The Danish king, noting that Niklot was an immediate threat, paid Henry the Lion and his Saxon band to kill him. They succeeded in killing him, though the pagan expanse had been increased by too much to stop.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_GE_NIKLOT_NAME">
+			<Text>Niklot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_GE_NIKLOT_SUBTITLE">
+			<Text>Leader of The Slavs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_GE_NIKLOT_TITLES_1">
+			<Text>Chief of the Obtrite Confederation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_GE_NIKLOT_LIVED">
+			<Text>1090 - 1160</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GE_SLAVS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GE_SLAVS_TEXT_1">
+			<Text>Following the collapse of the Roman Empire, a much larger gap opened up in the eastern wilderness of Europe where imperial presence was no longer seen. Out of this came several people - though perhaps most prominently, the Slavs, who continue to inhabit the land in eastern Europe to this day, a firmly established cultural group. However, for years, Slavic society was a tribal-based culture, rather than the nation-states we see today. They existed like this for centuries, and probably before their history was even recorded, though the tribal communities dispersed into kingdoms over time, dying out for good around the 14th century. The Slavs were a pagan people in these early days, and before the advent of Christianity and the Cyrillic script they had no means of recording anything, hence why a lot of their history is lost. However, a lot of western European records remain, so we still have insight into what Slavic society was like before states such as Poland and Russia.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

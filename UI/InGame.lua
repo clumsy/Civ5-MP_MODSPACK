@@ -1379,6 +1379,9 @@ ContextPtr:LoadNewContext("JFD_NewZealand_Functions")
 ContextPtr:LoadNewContext("CityInfoStack")
 ContextPtr:LoadNewContext("JFD_NewZealand_CityInfo")
 
+-- Nation - Slavs --
+ContextPtr:LoadNewContext("GESlavicFunctions")
+
 -- Misc - Pontoon Bridge --
 ContextPtr:LoadNewContext("Pontoon Bridge Lua")
 

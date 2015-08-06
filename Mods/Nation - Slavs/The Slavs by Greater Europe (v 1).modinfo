@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="cfc83cbf-8935-4769-a04f-d4b5081499ba" version="1">
+  <Properties>
+    <Name>The Slavs by Greater Europe</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>A mod that adds the Slavs to the game, with Niklot as their leader.</Teaser>
+    <Description>This mod adds the Slavs to the game as a playable civilisation, with Niklot as their leader.
+
+UA: When The Sun Was God 
+Cities with a garrison yield faith. Military units trained in cities that follow your pantheon belief receive additional XP, increased when a garrison is present. 
+
+UU: Voi
+Replaces Pikeman. Slightly weaker than normal Pikeman (Strength 14/15). Has a small Combat Bonus against cities, but gives a larger one to nearby units also sieging the city. Double plunder upon city capture. 
+
+UB: Opole
+Replaces Courthouse, cheaper to build and may be built anywhere. +5 city combat strength. Grants a World Congress delegate when built in conquered cities.</Description>
+    <Authors>Viregel, JanBoruta</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks>
+    <Mod id="Historical Religions" minversion="0" maxversion="999" title="8c101299-95c5-4b28-b7ed-4e0f774857ef " />
+  </Blocks>
+  <Files>
+    <File md5="C4EFCBB3E2222E624110DE6343BB16AB" import="1">Art/Graphics/sv_Voi.dds</File>
+    <File md5="717F1FDC153A503E688DBB3BB2E8A89C" import="1">Art/Graphics/voi_slavs.dds</File>
+    <File md5="57F1BA266BD0C2DD1E9C11C2B3D676A7" import="1">Art/Graphics/voi_slavs.fxsxml</File>
+    <File md5="C31342A2BEC3BF14FAC761FAA9FB4AA1" import="1">Art/Graphics/voi_slavs.gr2</File>
+    <File md5="4FCC7BD962B500DA65CC2216145AB408" import="1">Art/Graphics/voi_slavs_gloss.dds</File>
+    <File md5="19A6A54B3C419B666550E63201BFCCAE" import="1">Art/IconAtlas/Unit_Voi_Flag.dds</File>
+    <File md5="C2C1B0904ECFC3DBB4C0498D0884247A" import="1">Art/IconAtlas/GE_SlavsAlphaAtlas_128.dds</File>
+    <File md5="778321470A0F97CB9025B31311B92A13" import="1">Art/IconAtlas/GE_SlavsAlphaAtlas_16.dds</File>
+    <File md5="19CEA40F8A5390D514148F1463914534" import="1">Art/IconAtlas/GE_SlavsAlphaAtlas_22.dds</File>
+    <File md5="57C2004E5B467C83841DA204285FF487" import="1">Art/IconAtlas/GE_SlavsAlphaAtlas_24.dds</File>
+    <File md5="03D1558A067F73B8036AF3C6DA66930F" import="1">Art/IconAtlas/GE_SlavsAlphaAtlas_32.dds</File>
+    <File md5="8A35B06E9A3E9E3547CC7FB2DBFE9827" import="1">Art/IconAtlas/GE_SlavsAlphaAtlas_45.dds</File>
+    <File md5="D0BF27B812759F1BBBADE646CA197CD4" import="1">Art/IconAtlas/GE_SlavsAlphaAtlas_48.dds</File>
+    <File md5="9BBBEA32CFCCF6AC211835297B752788" import="1">Art/IconAtlas/GE_SlavsAlphaAtlas_64.dds</File>
+    <File md5="8A45A781733397827F8CCDAACA169A54" import="1">Art/IconAtlas/GE_SlavsAlphaAtlas_80.dds</File>
+    <File md5="7A7A13D05AA0B6B72F117AB830E1753E" import="1">Art/IconAtlas/GE_SlavsAtlas_128.dds</File>
+    <File md5="81506E3AD95E3913E98FE248F2558348" import="1">Art/IconAtlas/GE_SlavsAtlas_256.dds</File>
+    <File md5="27951928FB2EBE622078DFF6B1D63CA7" import="1">Art/IconAtlas/GE_SlavsAtlas_32.dds</File>
+    <File md5="A535A8A549D17676A9404DF396CFAAD9" import="1">Art/IconAtlas/GE_SlavsAtlas_45.dds</File>
+    <File md5="B47563725AA34A49C2A94A22CDF98B5A" import="1">Art/IconAtlas/GE_SlavsAtlas_64.dds</File>
+    <File md5="C69E928B877F3FF439638B964A9BE716" import="1">Art/IconAtlas/GE_SlavsAtlas_80.dds</File>
+    <File md5="BFC96180B4F87AFD4BA902444D78C824" import="1">Art/Leader/Niklot_Diplo.dds</File>
+    <File md5="382A7FF347B940699A5A68F13ADFC96E" import="1">Art/Leader/Niklot_DOM.dds</File>
+    <File md5="3688B822978249A2DA52B53F66A5EBBA" import="1">Art/Leader/SlavsMap512.dds</File>
+    <File md5="2745BB23286A6AADE89CE7F9C1501885" import="0">Historical Religions/HistoricalReligionsCompatibility.sql</File>
+    <File md5="598A80526BD7694671BA5DA3DB6F9FE2" import="0">Lua/GESlavicFunctions.lua</File>
+    <File md5="13DACF564214E093F9B4D74DB212DF03" import="0">Sounds/GESlavsAudio.xml</File>
+    <File md5="E380B8DE7972C669F36DFD55A6328BC4" import="1">Sounds/GENiklotPeace.mp3</File>
+    <File md5="8040BAF26A0696104FBDC3BBEFF2CB76" import="1">Sounds/GENiklotWar.mp3</File>
+    <File md5="361BF545D7DA300C0E54E601D42AF04D" import="0">XML/GESlavsAtlas.xml</File>
+    <File md5="B7D5356BE508C5C9371D2DFD3D61A627" import="0">XML/GESlavsBuildings.xml</File>
+    <File md5="1BDC62800D9669714F642FF6E95BDE6F" import="0">XML/GESlavsCivilisation.xml</File>
+    <File md5="54E0B5929E28BD914F51BFB3AAE8EC86" import="0">XML/GESlavsText.xml</File>
+    <File md5="385C823BDDD85975606D8A1FD269EBB1" import="0">XML/GESlavsTrait.xml</File>
+    <File md5="B688FEFE956EFD5C81DDE34A6FBC0818" import="0">XML/GESlavsUnits.xml</File>
+    <File md5="19B337A144ED6B1685F3574B799A0B9D" import="0">XML/GENiklotScene.xml</File>
+    <File md5="DB03C5DD7A4366B2F2431561782A0378" import="0">XML/GENiklot.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/GENiklot.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GENiklotScene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GESlavsAtlas.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GESlavsBuildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GESlavsCivilisation.xml</UpdateDatabase>
+      <UpdateDatabase>Sounds/GESlavsAudio.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GESlavsText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GESlavsTrait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GESlavsUnits.xml</UpdateDatabase>
+      <UpdateDatabase>Historical Religions/HistoricalReligionsCompatibility.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/GESlavicFunctions.lua">
+      <Name>GESlavsFunctions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>
