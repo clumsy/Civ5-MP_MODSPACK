@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/11/2014 4:24:32 PM -->
+<GameData>
+	<Table name="Trait_FreeBuildingDuringGoldenAge">
+		<Column name="TraitType" type="text" reference="Traits(Type)"/>
+		<Column name="BuildingType" type="text" reference="Buildings(Type)"/>
+	</Table>
+
+	<Table name="Trait_FreePolicyDuringGoldenAge">
+		<Column name="TraitType" type="text" reference="Traits(Type)"/>
+		<Column name="PolicyType" type="text" reference="Policies(Type)"/>
+	</Table>
+</GameData>

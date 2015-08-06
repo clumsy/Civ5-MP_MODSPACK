@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="90b292c6-c488-403f-9119-42923df473e8" version="1">
+  <Properties>
+    <Name>California Republic</Name>
+    <Teaser>This mod adds California, lead by William B. Ide, as a playable civilization!</Teaser>
+    <Description>This mod adds California as a playable civilization.</Description>
+    <Authors>Sasquatch (AKA Kramer), ViceVirtuoso</Authors>
+    <SpecialThanks>DonStamos, TPangolin, Deliverator</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <Homepage>http://forums.civfanatics.com/showthread.php?t=521885</Homepage>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+    <Mod id="be2d13ee-d18d-410e-8f04-7cd19cd99a98" minversion="0" maxversion="999" title="More Luxuries" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Cultural Influence" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+    <Mod id="6c52be67-b7da-4768-9873-1a9ce5011e8e" minversion="0" maxversion="999" title="Christian Denominations" />
+    <Mod id="d60c32bd-6826-4ca3-8161-2e37ebab5883" minversion="0" maxversion="999" title="Protestant Denominations" />
+    <Mod id="70823211-d0db-4f85-bee5-8de667a4567f" minversion="0" maxversion="999" title="Trading Posts grow into Towns" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events and Decisions" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="473EA1E08399BAE3150D6F8448D8E3D3" import="1">Art/Atlas/Alpha/CaliforniaAlpha_128.dds</File>
+    <File md5="E9B10C504D46D1E092B0E624299284E1" import="1">Art/Atlas/Alpha/CaliforniaAlpha_16.dds</File>
+    <File md5="026BCD8B66E8D0ABE7C56C2785CAB4B7" import="1">Art/Atlas/Alpha/CaliforniaAlpha_24.dds</File>
+    <File md5="21168CAEB3CD5073BF5868C7F80D1911" import="1">Art/Atlas/Alpha/CaliforniaAlpha_32.dds</File>
+    <File md5="B86F86B3E0B4968AB40C456697EF6B4B" import="1">Art/Atlas/Alpha/CaliforniaAlpha_45.dds</File>
+    <File md5="4D6F1029EB320DF0EA41102485058037" import="1">Art/Atlas/Alpha/CaliforniaAlpha_48.dds</File>
+    <File md5="01B1A64D357126D95E9A1C2705770622" import="1">Art/Atlas/Alpha/CaliforniaAlpha_64.dds</File>
+    <File md5="77438DFAEE8344E320649048EB41EA03" import="1">Art/Atlas/CaliforniaIcons128.dds</File>
+    <File md5="339854CDE34B07F5E9770E09F48BA132" import="1">Art/Atlas/CaliforniaIcons256.dds</File>
+    <File md5="3E5C783B058A1EC581F04AF6F989FCAD" import="1">Art/Atlas/CaliforniaIcons32.dds</File>
+    <File md5="5E8178F064C0D712041BEFB3903C7416" import="1">Art/Atlas/CaliforniaIcons45.dds</File>
+    <File md5="27D7B4D2D29AF11EAA8F51389B4FC134" import="1">Art/Atlas/CaliforniaIcons64.dds</File>
+    <File md5="2DEE46F8B56FB6C69B6BE8D366539FF8" import="1">Art/Atlas/CaliforniaIcons80.dds</File>
+    <File md5="FA369530494F741630A0E10ECCAD723F" import="0">Art/Atlas/IconTextureAtlasesCalifornia.xml</File>
+    <File md5="0C0AFF00A8E9EEEEA07B8371C78E08DE" import="1">Art/Atlas/ideicon128.dds</File>
+    <File md5="BF33E451B72E4795AD1DA8C6BB579210" import="1">Art/Atlas/ideicon256.dds</File>
+    <File md5="C5424DD3119CF044F7C76A6E550DF164" import="1">Art/Atlas/ideicon64.dds</File>
+    <File md5="980C28A326C0C2EBAC6BDE1FA316486F" import="1">Art/californiamap.dds</File>
+    <File md5="1F507E8173BE19472DF89D74781A4FC3" import="1">Art/filmmakerflag.dds</File>
+    <File md5="729B03B470596DA0DF2926FF5A4E7EF4" import="1">Art/FilmmakerSplash.dds</File>
+    <File md5="7EABE45F648779518D4985EE8BC463B1" import="1">Art/Ide_DOM.dds</File>
+    <File md5="C2332EEDEA2600E74BD5458659D7B30A" import="1">Art/ide_scene.dds</File>
+    <File md5="86601C5390F5E00A678F427508E43364" import="1">Art/Models/conquistador_musket_4.fxsxml</File>
+    <File md5="7AA7FA7158633FCB58A19B1E13B90C1D" import="1">Art/Models/conquistador_musket_4.gr2</File>
+    <File md5="BC6D7E5877D6E5CC9558AE060731ABA0" import="1">Art/Models/vet_conquistador_musketman.dds</File>
+    <File md5="D5E57428358F26751C30FC36FB71CB47" import="1">Art/Models/vet_conquistador_musketman_gloss.dds</File>
+    <File md5="3503D53DFF92C3FC470E3CB85E98F831" import="1">Art/Muir_DOM.dds</File>
+    <File md5="AA245DB2E62EB3E7285A27AA8356DA8B" import="1">Art/Muir_Scene.dds</File>
+    <File md5="BFA24C2399EE99BA10D3E6270ED1C50A" import="1">Art/sv_expeditionary.dds</File>
+    <File md5="ABCFB32BC17933CBCE391F28C361DA00" import="1">Art/sv_filmmaker.dds</File>
+    <File md5="77E75F6B15068FB4AFEEE1E1D156AF47" import="1">Lua/CaliforniaDecisionsSupport.lua</File>
+    <File md5="4D6738EE206874CDC0743911ADD8610B" import="0">Lua/GoldenAgeBonuses.lua</File>
+    <File md5="E927B55B0A9633102EA9D08005BD59EB" import="0">Lua/GreatWorkDummyBuildings.lua</File>
+    <File md5="0FB410611D865300A7DB54C4A12C0E26" import="0">Lua/GreatWorkDummyImplementation.sql</File>
+    <File md5="7752E291F7E0E75F0121B8316381AF37" import="1">Music/ide_dom.mp3</File>
+    <File md5="A3F76923BB6E0C8296A3CA83D70113C1" import="1">Music/Muir_Peace.mp3</File>
+    <File md5="3EDEE53EFC770E2D0BAC5DD8191228DD" import="1">Music/Muir_War.mp3</File>
+    <File md5="4B1DF523D283BC2859A5AFC37B8DCBF2" import="0">SQL/CaliforniaDecisionsSQL.sql</File>
+    <File md5="A694697D42882BBF917AE178E9591BDB" import="0">SQL/CaliforniaModSupport.sql</File>
+    <File md5="C5285292999DDFA7F5EC6740DD05080A" import="0">SQL/EurekaFunctions.sql</File>
+    <File md5="5C37DB740824569D2FE0509926B5878E" import="0">XML/Buildings/CaliforniaGoldAgeBuilding.xml</File>
+    <File md5="86D911334DC8E5238DA2AFADE3B3F7A7" import="0">XML/Civilizations/California_Trait.xml</File>
+    <File md5="CF4E3D8422DFB63539DDC4A47D48DD2B" import="0">XML/Civilizations/California_TSL.xml</File>
+    <File md5="96F4DF25C5FF527D30FAC36712D61D03" import="0">XML/Civilizations/Civ_California.xml</File>
+    <File md5="6E75CDFB31EA9864F347786655846D36" import="0">XML/Leaders/Ide.xml</File>
+    <File md5="F1BD3C22CED190B08EFF4BB23EFED55A" import="1">XML/Leaders/Ide_Scene.xml</File>
+    <File md5="3237165036A2673AAA4F2B3BAEFF0C5F" import="1">XML/Leaders/Muir_Scene.xml</File>
+    <File md5="EE3E31FF49A8D1B5A58D420ACF07F37B" import="1">XML/Leaders/Muir.xml</File>
+    <File md5="AE18E477E897CF1E47208AC2092A0FA4" import="1">XML/Leaders/Muir_Music.xml</File>
+    <File md5="DF984297A9B457353D0DF07397D3A471" import="1">XML/New Text/GameText.xml</File>
+    <File md5="7040B5C072B54F86D1F6C6493F881CE5" import="0">XML/NewXMLTables.xml</File>
+    <File md5="A690148C2E8D498F272CAFC32EA3FF01" import="1">XML/Units/CaliforniaExpeditionary.xml</File>
+    <File md5="0396A994620807E46DCAEB0A986D88F7" import="1">XML/Units/ExpeditionaryArtInfo.xml</File>
+    <File md5="AF1F620C90773044A6813929FD876159" import="0">XML/Units/GreatFilmmaker.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Lua/GreatWorkDummyImplementation.sql</UpdateDatabase>
+      <UpdateDatabase>XML/NewXMLTables.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/EurekaFunctions.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/CaliforniaModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/CaliforniaDecisionsSQL.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/California_Trait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Civ_California.xml</UpdateDatabase>
+      <UpdateDatabase>XML/New Text/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/Muir_Music.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/Muir.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/CaliforniaExpeditionary.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/GreatFilmmaker.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/Muir_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>Art/Atlas/IconTextureAtlasesCalifornia.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/ExpeditionaryArtInfo.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/California_TSL.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/CaliforniaGoldAgeBuilding.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/Ide.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/Ide_Scene.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/GreatWorkDummyBuildings.lua">
+      <Name>GreatWorkDummyBuildings</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/GoldenAgeBonuses.lua">
+      <Name>GoldenAgeBonuses</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

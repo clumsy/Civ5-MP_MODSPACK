@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/25/2014 1:05:55 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GENERIC_CALIFORNIA_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now buying your t-shirts and watching your films. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<!--California-->
+		<Row Tag="TXT_KEY_CIV_CALIFORNIA_ADJECTIVE">
+			<Text>Californian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_CALIFORNIA_DESC">
+			<Text>California Republic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_CALIFORNIA_SHORT_DESC">
+			<Text>California</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CALIFORNIA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CALIFORNIA_HEADING_2">
+			<Text>Geography and Climate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CALIFORNIA_HEADING_3">
+			<Text>Early History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CALIFORNIA_HEADING_4">
+			<Text>Pre-Columbian California</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CALIFORNIA_HEADING_5">
+			<Text>Spanish Colony</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CALIFORNIA_HEADING_6">
+			<Text>Mexico</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CALIFORNIA_HEADING_7">
+			<Text>The Bear Flag Republic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CALIFORNIA_HEADING_8">
+			<Text>The Gold Rush</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CALIFORNIA_HEADING_9">
+			<Text>The 31st State</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CALIFORNIA_TEXT_1">
+			<Text>Located on the West Coast, California is the most populous state in the United States of America, home to one out of every eight Americans. California enjoys a rich and diverse cultural history; parts of the state had been possessions of Spain, Mexico, Russia and even an independent Republic before statehood. It is also home to spectacular, wondrous and enchanting natural beauty, leading to several areas of the state being named and protected as national parks, such as Yosemite. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CALIFORNIA_TEXT_2">
+			<Text>California is home to a diverse range of ecosystems, including desert, mountains, chaparral and fertile valleys. The coastline is dominated by the Cascade mountain range, while the Sierra Nevada mountain range stretches along its eastern border with Nevada and Arizona. Between the two ranges is a basin, separated by the join of the Sacramento and San Joaquin Rivers. The northern section of the basin, the Sacramento Valley, feeds into its namesake river, while the San Joaquin Valley does the same in the south. Located along the boundary between the North American and Pacific tectonic plates as part of the Ring of Fire, the state is geologically active, home to several volcanos and fault lines. The most famous fault line, San Andreas, stretches along the coast and is responsible for several famous earthquakes, including the 1906 San Francisco, 1989 Loma Prieta and 1994 North Ridge earthquakes. Many of the deserts are concentrated in the rain shadow of the state's mountain ranges and include the Mojave Desert and Death Valley; the lowest, driest and hottest location on the North American continent.[NEWLINE][NEWLINE]The state's climate is just as diverse as its physical features. Much of the state enjoys a Mediterranean climate with cool, rainy winters and dry, hot summers. Its coastline, including the San Francisco, Los Angeles and San Diego metropolitan areas are cooled by the ocean and remain cooler than other cities on the East Coast that share their latitude, but temperatures increase quickly just a few miles inland. Roughly 45% of the state is covered with forest, an amount rivalled only by Alaska. Northern California recieves more rainfall annually than the southern part of the state, though the western slopes of its mountains receive the most precipitation. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CALIFORNIA_TEXT_3">
+			<Text>California was home to a diverse Native American population, estimated to range from 100,000 to 300,000. These groups included nomadic tribes, villages and even chiefdoms, such as those of the Chumash, Pomo and Salinian tribes. European exploration in the area began under Spanish captain Juan Rodriguez Cabrillo, though English explorer Francis Drake claimed an unknown part of the coast for England. Colonization began in earnest when the Spanish began to send missionaries into the area and establishing presidios (forts) and pueblos (small towns). Two of these pueblos, Los Angeles and San Jose, are now two of the most populous cities in the United States. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CALIFORNIA_TEXT_4">
+			<Text>The Spanish territories in the area were divided into two parts: Baja California and Alta California; Alta California, which began roughly at San Diego, included the current state as well as Arizona and much of Nevada, New Mexico and Utah. As missionary activity and settlement continued, the Californias were incorporated into the Viceroyalty of New Spain with Monterey as the capital. A dispute between Spanish King Charles III and the Jesuit order led to the expulsion of the Jesuits, responsible for founding many of the Californian missions, from the territory. The Jesuits were later allowed to return following the Seven Years' War that eliminated France as a colonizing power in North America; the Spanish feared that the British would claim the vacated areas as their own. The Spanish attempted to colonize and incorporate the Californias with as cheaply and with as little effort as they could. The territory at that time was remote, difficult to farm and subject to a plethora of Native uprisings against Spanish settlements. By the time Mexico won its independence from Spain, only six major pueblos existed in California: Los Angeles, San Diego, San Francisco, Santa Barbara, Villa de Branciforte (now Santa Cruz) and San Jose. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CALIFORNIA_TEXT_5">
+			<Text>When Mexico established its independence, California became one of three Mexican provinces north of the Rio Grande, with Texas and New Mexico. Monterey remained the capital under Mexican rule as well. Mexican jurisdiction of California continued as it had under the Spanish, with Alta California remaining largely remote and sparsely populated. Even as missions disappeared or were confiscated by the Mexican government, trade continued unabated thanks to the territory's abundant resources and superb natural harbors, despite several revolts against Mexican rule. American settlers began to enter the area, and would grow increasingly numerous and organized.[NEWLINE][NEWLINE]In 1839, John Sutter was given a large land grant close to present-day Sacramento, which he called "New Helvetia" (New Switzerland). When the Russians abandoned their Californian outpost of Fort Ross, he bought much of their equipment for use in his own fort, Sutter's Fort, the first non-Native American settlement in the Central Valley of California. His fort would serve as an important stop along the California and Oregon Trails, offering rest and provisions for the American settlers moving west. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CALIFORNIA_TEXT_6">
+			<Text>When tensions between Mexico and the United States erupted into war, California asserted its independence at Sonoma on June 14, 1846, with William B. Ide as the only president of the California Republic. Their short-lived and unrecognized republic was also known as the Bear Flag Republic because of the inclusion of a bear on the republic's flag. The California Republic lasted only a few weeks, when it was annexed by the United States on July 9; the capture of Alta California had been one of President James K. Polk's principal war aims. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CALIFORNIA_TEXT_7">
+			<Text>Though several engagements occurred in California following its annexation, there was relatively little resistance to American rule. Following the end of the war and the formal cessation of California to the United States in the Treaty of Guadalupe Hidalgo, settlers began to flock to the territory as a result of the discovery of gold deposits. Called Argonauts, these settlers hoped to strike it rich and find opportunities unavailable back east, especially for women. Shipping and trade boomed as the population rose, and San Francisco was designated as the territory's official port of entry. Agriculture spread as the new cities and towns of California grew, resulting in the eviction of Native Americans from their traditional lands. The gold mining also resulted in significant ecological damage as more invasive and labor-intensive methods began to be used when the easy gold deposits disappeared. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CALIFORNIA_TEXT_8">
+			<Text>As the population boomed, California began to organize itself for statehood. Though some Native American tribes in the northwest practiced slavery, it was outlawed in the state constitution of 1849. A year later, California entered the Union as a free state as part of the Compromise of 1850. The state was spared many of the horrors of the Civil War, and continued to be a focal point of economic development through the late 1800s. Its progress was further fueled by the completion of the Transcontinental Railroad, providing a direct link between the West and East Coasts. As the automobile grew into prominence during the early 1900s, famous roadways such as Route 66 were established. California would also feel the sting of labor disputes as unions grew on power, and the state would be a common destination for the newly disenfranchised of the Great Depression. The state's industry would benefit from the outbreak of World War II, as its coastal cities, particularly San Diego, boomed to construct the ships and other tools of war needed to fight the Axis. The growing movie industry would also settle in southern California, establishing a cultural nexus there. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CALIFORNIA_TEXT_9">
+			<Text>Today, California continues to serve as a center of industry, culture and tourism and its unique influence continues to grow. Immigration from within and without the United States continues to fuel tensions in the state. Even as California became the center of technological innovation as the home of Silicon Valley, the state struggles to solve mounting energy, water and ecological issues to preserve its own health and natural beauty. </Text>
+		</Row>
+		<!--Muir-->
+		<Row Tag="TXT_KEY_LEADER_MUIR">
+			<Text>John Muir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_MUIR_TEXT">
+			<Text>The great state of California greets you, John Muir, founder of its values and creator of the ideals it tries so hard to uphold. Born to Scots whose brutal, dogmatic approach to the world chafed with your youthful spirit, you eventually fled a life of drudgery and Bible-black, and your love of nature was spurred on by lessons in botany beneath a grand black lotus tree. Your true epiphany came, however, when you were almost blinded by a machine in a wagon wheel factory; after six weeks of darkness, you saw a new way for America with the first rays of the sun. Armed with this idea of oneness with nature, you travelled the length and breadth of the United States, wandered the woods of Yosemite, and made a new way through the wildest, leafiest, and least trodden path you could find for Californians to follow; a way that strove to save their souls from total surrender to materialism.[NEWLINE][NEWLINE]John, California once more has need of a free spirit, a free man to fight for the growing things and fend off the rapacious appetites of so-called high society. Who will care for the beautiful valleys and forest if not your people? Who will guard the wild places of the world if not your nation? Can you teach your way again, when so many follow the path of greed and savagery? Can you build a Civilization that will stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MUIR_HEADING_1">
+			<Text>Early Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MUIR_TEXT_1">
+			<Text>Muir was born on April 21, 1838 in Scotland, to Daniel Muir and Ann Gilrye. He had five sisters and two brothers. Even as a child, Muir was fascinated by nature; one of his childhood passions was hunting for birds' nests. The family emigrated to the United States in 1849, settling in Wisconsin, where they established a farm. As a result of his religious upbringing, by age 11, he could recite the entirety of the New Testament as well as most of the Old Testament. He attented the University of Wisconsin-Madison, where he recounted a lession under a black locust tree on the campus' North Mall as one of his most significant life experiences. He studied chemistry under and befriended Professor Ezra Carr, and though he never graduated, he took several geology and botany courses. In 1864, he relocated to Canada to avoid the draft, returning to the United States in 1866, where he worked in a wagon wheel factory until an accident nearly cost him his sight. After the accident, he swore to follow his dreams of exploration and botany. He walked from Indiana to Florida, describing his trip in his book A Thousand Mile Walk to the Gulf, at which point he left for California via New York.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MUIR_HEADING_2">
+			<Text>Yosemite</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MUIR_TEXT_2">
+			<Text>On his arrival in San Francisco, Muir immediately left for Yosemite Valley. He had only read about the valley and later stated that he was "overwhelmed" by the sheer natural beauty there. He climbed several of the mountains there, including Cathedral Peak, Mount Dana and hiked the trail from Bloody Canyon to Mono Lake. He quickly became associated with the valley, where he was convinced glaciers had shaped the valley's topography. Though established geologists such as Josiah Whitney, head of the California Geological Survey, ridiculed his ideas, the discovery of an active glacier under Merced Peak supported his conclusions. A later earthquake in the valley helped to disprove his critics, who largely believed Whitney's idea that the valley had been formed from an earthquake.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MUIR_HEADING_3">
+			<Text>Pacific Northwest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MUIR_TEXT_3">
+			<Text>Muir travelled to Alaska in 1879 and was the first Euro-American to explore Glacier Bay. He also explored the Stikine River in British Columbia, comparing its Grand Canyon to Yosemite and recording over 300 glaciers over the course of the river. He was later part of the expedition that claimed Wrangel Island for the United States. When his health began to decline, he returned to the United States and climbed Mt. Rainier in Washington.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MUIR_HEADING_4">
+			<Text>Activisim and the Sierra Club</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MUIR_TEXT_4">
+			<Text>Muir believed that the largest threat to pristine lands such as Yosemite and the Sierra Nevada was livestock, especially sheep, which he called "hoofed locusts." He gained a valuable ally in Robert Underwood Johnson, editor of Century magazine, who witnessed the devastation a herd of sheep could do while camping with Muir. Johnson agreed to publish anything Muir wrote on the subject and to introduce a bill to Congress to make Yosemite a national park like Yellowstone. In 1890, Congress would pass a bill following Muir's recommendations, but left Yosemite under state control.[NEWLINE][NEWLINE]Together with Professor Henry Senger of the University of California, Berkeley, Muir would found the Sierra Club. Muir would serve as its inaugural president until his death 22 years later. The Club opposed efforts to reduce the area of Yosemite National Park and began to discuss the formation of "national forest reservations," which would later be called National Forests. Muir acknowledged the need for timber and resources, but often stood at odds with those who took a more resource-oriented approach to nature. His friendship with Gifford Pinchot, head of the US Forest Service, would dissolve over one such dispute, despite both men opposing clear-cutting of forests. He opposed the dam project in the Hetch Hetchy Valley to provide water for the rapidly growing city of San Francisco, and was deeply saddened when President Woodrow Wilson authorized the dam project in 1913.[NEWLINE][NEWLINE]Muir married Louisa Strentzel in 1880 after returning from a trip to Alaska. He was a loyal, dedicated husband and father to his two daughters, but his wife recognized his need to explore and encouraged his forays, some of which included his daughters. He died in Los Angeles in 1914.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MUIR_HEADING_5">
+			<Text>Legacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MUIR_TEXT_5">
+			<Text>As a result of his efforts, Muir has been called the "patron saint of the American wilderness." The national parks he helped to found still exist today and remain popular destinations for hikers, especially Yosemite National Park. Numerous parks, trails and geologic features have been named in his honor, not least of which is Muir Glacier in Alaska. The state of California commemorates him every April 21 on John Muir Day, and he was featured on their state quarter. Today, the Sierra Club numbers over 1.3 million members. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MUIR_LIVED">
+			<Text>1838 - 1914 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MUIR_NAME">
+			<Text>John Muir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MUIR_SUBTITLE">
+			<Text>Leader of California</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MUIR_TITLES_1">
+			<Text>Founder of Sierra Club</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_IDE_HEADING_1">
+			<Text>Early Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_IDE_TEXT_1">
+			<Text>Ide was born on March 28, 1796 in Rutland, Massachusetts to Lemuel Ide, a member of the Vermont State Legiclature. He was a member of the Church of Latter-Day Saints, and was baptized in July 1837. He later assisted in Joseph Smith's campaign for the presidency in 1844. He was part of the first group of Mormons to enter California, and would later become arguably the first Mormon head-of-state as president of the California Republic.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_IDE_HEADING_2">
+			<Text>Moving Westward</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_IDE_TEXT_2">
+			<Text>In 1845, Ide sold his farm and moved west. He initially planned to go to Oregon, but decided to head to California instead on the advice of Caleb Greenwood. He arrived in Sutter's Fort on October 25, 1845, and worked for Peter Lassen on Rancho Bosquejo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_IDE_HEADING_3">
+			<Text>Bear Flag Republic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_IDE_TEXT_3">
+			<Text>Ide was one of the instigators of the Bear Flag Revolt, so named because of the bear on their flag. The revolt was a response to reports that the Mexican government was threatening to expel all settlers who weren't Mexican citizens as tensions with the United States over Texas mounted. On June 14, 1846, the uprising captured the pueblo (town) of Sonoma and captured Mariana Guadalupe Vallejo, the Mexican Commandante of Northern California who supported American annexation of Alto California. On June 17, the rebels proclaimed the new Californian Republic and raised the Bear Flag over the town. Ide was chosen to serve as the Republic's first president. The Republic lasted only 25 days, when Ide and the others joined with General Fremont and the US flag was raised over Sonoma, officially taking possession of Alto California.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_IDE_HEADING_4">
+			<Text>After the Republic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_IDE_TEXT_4">
+			<Text>Ide returned home just outside Red Bluff, California, where he was a successful miner. He was also a distinguised public servant, holding a variety of offices in Colousi County (now Colusa, Glenn and Shasta Counties). He died of smallpox in December 1852.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_IDE_HEADING_5">
+			<Text>Legacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_IDE_TEXT_5">
+			<Text>Ide's actions during the Mexican-American War led to the relatively peaceful transfer of power and territory of California from Mexico to the United States, sparing the territory the savage fighting seen in Texas and northern Mexico. His position in the Church of Latter-Day Saints and as president of the California Republic resulted in his unique position as the first Mormon head-of-state. The William B. Ide Adobe State Historic Park, near Red Bluff, commemorates his life and includes a restored adobe house, among other buildings. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_IDE_LIVED">
+			<Text>1796 - 1852 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_IDE_NAME">
+			<Text>William B. Ide</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_IDE_SUBTITLE">
+			<Text>Leader of California</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_IDE_TITLES_1">
+			<Text>Commander of the California Republic</Text>
+		</Row>
+		<!--Ide-->
+		<Row Tag="TXT_KEY_LEADER_IDE">
+			<Text>William B. Ide</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_IDE_TEXT">
+			<Text>Your people celebrate you, Commander William B. Ide, founder and hero of the California Republic! As an American in the Mexican province of Alta California, you and your compatriots reacted to rumors of the Mexican government planning to expel all Americans from the area by leading a swift revolt. United under your Bear Flag, the revolutionaries captured several towns and the Mexican Commandante of Northern California, declaring the Republic's independence from all powers. Several years later, in 1850, California became the 31st state of the growing United States of America. Today, in no small part due to the actions of you and your allies, it is the most-populated state in the union, idolized worldwide for its unique cultural influence, scientific progress, and economic power.[NEWLINE][NEWLINE]Commander Ide, in this brave new world, there will still be many foes standing in the path of California's progress. Can you once again forge a modern cultural powerhouse? Or will you not rest until all the world is united beneath the bear flag? Will you build a Civilization that can stand the test of time?</Text>
+		</Row>
+		<!--Trait-->
+		<Row Tag="TXT_KEY_TRAIT_CALIFORNIA_GOLD_SHORT">
+			<Text>Eureka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CALIFORNIA_GOLD">
+			<Text>During [ICON_GOLDEN_AGE] Golden Ages, all tiles that yield at least 1 [ICON_GOLD] Gold yield an additional +1 [ICON_RESEARCH] Science.</Text>
+		</Row>
+		<!--Expeditionary-->
+		<Row Tag="TXT_KEY_UNIT_EXPEDITIONARY">
+			<Text>Expeditionary</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_EXPEDITIONARY_HELP">
+			<Text>Unique Lancer available with Gunpowder that acts as a Reconaissance unit more skilled in scouting than combat. Only California may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_EXPEDITIONARY_STRATEGY">
+			<Text>Unique Lancer for California. Acts as a Recon unit, gaining +1 Sight, no movement penalty in rough terrain, and extra sight while Embarked that the standard Lancer does not have. At the cost of -1 Movement and -5 Combat Strength, this unit is also available earlier than the unit it replaces.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_EXPEDITIONARY_TEXT">
+			<Text>Many European and colonial nations have historically sent Expeditions to explore and colonize California, including Spain, Russia, Mexico and the United States of America. These vital operations were left to the hands of Expeditionaries, state-funded explorers, sailors, settlers and missionaries. In 1542, a Portuguese explorer working for the Spanish Empire, Juan Rodríguez Cabrillo, was the first European to set foot in the lands of California, though he was assuredly not the last. As affairs in Europe occupied the major maritime powers during the 17th century, European voyages and unbacked claims continued up and down the coast for another century. It was not until the late 18th century that major colonization and settlement took place on the Pacific coast, with a number of Spanish Missions set up to convert and pacify the native peoples. Exploration and mapping of the region continued on a large scale until shortly after the end of the Mexican-American war and the California Gold Rush, which brought California into the United States.</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_CALIFORNIA_9">
+			<Text>Harvey</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_CALIFORNIA_8">
+			<Text>Frémont</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_CALIFORNIA_7">
+			<Text>Huell</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_CALIFORNIA_6">
+			<Text>Feinstein</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_CALIFORNIA_5">
+			<Text>Schwarzenegger</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_CALIFORNIA_4">
+			<Text>Vallejo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_CALIFORNIA_3">
+			<Text>Leland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_CALIFORNIA_2">
+			<Text>Worthington</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_CALIFORNIA_1">
+			<Text>Reagan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_CALIFORNIA_0">
+			<Text>Bradley</Text>
+		</Row>
+		<!-- City Names-->
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_0">
+			<Text>Sacramento</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_1">
+			<Text>San Francisco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_2">
+			<Text>Los Angeles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_3">
+			<Text>San Diego</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_4">
+			<Text>San Jose</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_5">
+			<Text>Fresno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_6">
+			<Text>Monterey</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_7">
+			<Text>Eureka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_8">
+			<Text>Long Beach</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_9">
+			<Text>Oakland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_10">
+			<Text>Anaheim</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_11">
+			<Text>Fremont</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_12">
+			<Text>Bakersfield</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_13">
+			<Text>Modesto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_14">
+			<Text>Riverside</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_15">
+			<Text>Beverly Hills</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_16">
+			<Text>Redding</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_17">
+			<Text>San Bernardino</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_18">
+			<Text>Palm Springs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_19">
+			<Text>Oxnard</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_20">
+			<Text>Chula Vista</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_21">
+			<Text>Malibu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_22">
+			<Text>Oceanside</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_23">
+			<Text>Santa Rosa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_24">
+			<Text>Irvine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_25">
+			<Text>Berkeley</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_26">
+			<Text>Lake Tahoe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_27">
+			<Text>Santa Clarita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_28">
+			<Text>Garden Grove</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_29">
+			<Text>Rancho Cucamonga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_30">
+			<Text>Pasadena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_31">
+			<Text>Torrance</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_32">
+			<Text>Glendale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_33">
+			<Text>Ventura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_34">
+			<Text>Corona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_35">
+			<Text>Salinas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_36">
+			<Text>Pomona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_37">
+			<Text>Lake Tahoe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_38">
+			<Text>Santa Monica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_39">
+			<Text>Santa Cruz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_40">
+			<Text>Avalon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_41">
+			<Text>Alameda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_42">
+			<Text>Redondo Beach</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_43">
+			<Text>San Luis Obispo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_44">
+			<Text>San Juan Capistrano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_45">
+			<Text>Culver City</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_46">
+			<Text>Twentynine Palms</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_47">
+			<Text>Laguna Beach</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_48">
+			<Text>Sonoma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_49">
+			<Text>Sonora</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALIFORNIA_50">
+			<Text>Red Bluff</Text>
+		</Row>
+		<!--Decisions-->
+		<Row Tag="TXT_KEY_DECISIONS_CALIFORNIA_MINING">
+			<Text>Develop Hydraulic Mining</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CALIFORNIA_MINING_DESC">
+			<Text>
+				A crafty miner of ours named Edward Matteson has developed a system of mining involving the use of high-pressure jets of water aimed at gold-bearing hills, and we could greatly increase our mining profits if we research and fund its further development. It may unleash untold mayhem on the environment eventually, but just think of the gold rush!
+				[NEWLINE]
+				[NEWLINE]Requirements/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be California
+				[NEWLINE][ICON_BULLET]Player must be in the Industrial Era or later
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]800 [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]200 [ICON_RESEARCH] Science
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]California enters a [ICON_GOLDEN_AGE] Golden Age
+				[NEWLINE][ICON_BULLET]2-3 Sources of [ICON_RES_GOLD] Gold are revealed in your territory
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CALIFORNIA_MINING_ENACTED_DESC">
+			<Text>
+				A crafty miner of ours named Edward Matteson has developed a system of mining involving the use of high-pressure jets of water aimed at gold-bearing hills, and we could greatly increase our mining profits if we research and fund its further development. It may unleash untold mayhem on the environment eventually, but just think of the gold rush!
+				[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]California enters a [ICON_GOLDEN_AGE] Golden Age
+				[NEWLINE][ICON_BULLET]2-3 Sources of [ICON_RES_GOLD] Gold are revealed in your territory
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CALIFORNIA_HIGHWAY">
+			<Text>Build the Pacific Coast Highway</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CALIFORNIA_HIGHWAY_DESC">
+			<Text>
+				As our beach communities continue to grow and land-based methods of transport become more convenient than travel by ship, the idea of constructing a scenic highway along the ocean has grown popular in our engineers' heads. If we finance development of one, it could work wonders for both infrastructure and tourism.
+				[NEWLINE]
+				[NEWLINE]Requirements/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be California
+				[NEWLINE][ICON_BULLET]Player must have a Coastal city
+				[NEWLINE][ICON_BULLET]Player must have researched Dynamite
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]1000 [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 Great Engineer
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_GOLD] Gold in the Capital City for each city connected to it
+				[NEWLINE][ICON_BULLET]+1 [ICON_TOURISM] Tourism for each Road built adjacent to Coast in your territory.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CALIFORNIA_HIGHWAY_ENACTED_DESC">
+			<Text>
+				As our beach communities continue to grow and land-based methods of transport become more convenient than travel by ship, the idea of constructing a scenic highway along the ocean has grown popular in our engineers' heads. If we finance development of one, it could work wonders for both infrastructure and tourism.
+				[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_GOLD] Gold in the Capital City for each city connected to it
+				[NEWLINE][ICON_BULLET]+1 [ICON_TOURISM] Tourism for each Road built adjacent to Coast in your territory.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

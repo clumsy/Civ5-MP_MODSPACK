@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/29/2014 1:30:27 AM -->
+<GameData>
+  <!--Expeditionary-->
+	<Units>
+		<Row>
+			<Class>UNITCLASS_LANCER</Class>
+			<Type>UNIT_EXPEDITIONARY</Type>
+			<PrereqTech>TECH_GUNPOWDER</PrereqTech>
+			<Combat>20</Combat>
+			<Cost>185</Cost>
+			<FaithCost>370</FaithCost>
+			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
+			<Moves>3</Moves>
+			<CombatClass>UNITCOMBAT_RECON</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_EXPLORE</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_EXPEDITIONARY</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_EXPEDITIONARY_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_EXPEDITIONARY_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_EXPEDITIONARY_HELP</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<ObsoleteTech>TECH_COMBINED_ARMS</ObsoleteTech>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_ANTI_TANK_GUN</GoodyHutUpgradeUnitClass>
+			<AdvancedStartCost>30</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_CALIFORNIA_EXPEDITIONARY</UnitArtInfo>
+			<UnitFlagAtlas>EXPANSION2_UNIT_FLAG_ATLAS</UnitFlagAtlas>
+			<UnitFlagIconOffset>5</UnitFlagIconOffset>
+			<IconAtlas>CIV_COLOR_ATLAS_CALIFORNIA</IconAtlas>
+			<PortraitIndex>2</PortraitIndex>
+		</Row>
+	</Units>
+	<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_EXPEDITIONARY</UnitType>
+			<UnitAIType>UNITAI_FAST_ATTACK</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXPEDITIONARY</UnitType>
+			<UnitAIType>UNITAI_EXPLORE</UnitAIType>
+		</Row>
+	</Unit_AITypes>
+	<Unit_ResourceQuantityRequirements>
+		<Row>
+			<UnitType>UNIT_EXPEDITIONARY</UnitType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
+		</Row>
+	</Unit_ResourceQuantityRequirements>
+	<Unit_ClassUpgrades>
+		<Row>
+			<UnitType>UNIT_EXPEDITIONARY</UnitType>
+			<UnitClassType>UNITCLASS_ANTI_TANK_GUN</UnitClassType>
+		</Row>
+	</Unit_ClassUpgrades>
+	<Unit_Flavors>
+		<Row>
+			<UnitType>UNIT_EXPEDITIONARY</UnitType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXPEDITIONARY</UnitType>
+			<FlavorType>FLAVOR_RECON</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXPEDITIONARY</UnitType>
+			<FlavorType>FLAVOR_MOBILE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+	</Unit_Flavors>
+	<Unit_FreePromotions>
+		<Row>
+			<UnitType>UNIT_EXPEDITIONARY</UnitType>
+			<PromotionType>PROMOTION_EXTRA_SIGHT_I</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXPEDITIONARY</UnitType>
+			<PromotionType>PROMOTION_IGNORE_TERRAIN_COST</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXPEDITIONARY</UnitType>
+			<PromotionType>PROMOTION_EMBARKED_SIGHT</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXPEDITIONARY</UnitType>
+			<PromotionType>PROMOTION_CITY_PENALTY</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXPEDITIONARY</UnitType>
+			<PromotionType>PROMOTION_FORMATION_1</PromotionType>
+		</Row>
+	</Unit_FreePromotions>
+	<Unit_UniqueNames>
+		<Row>
+			<UnitType>UNIT_EXPEDITIONARY</UnitType>
+			<UniqueName>TXT_KEY_EXPEDITION_CABRILLO</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXPEDITIONARY</UnitType>
+			<UniqueName>TXT_KEY_EXPEDITION_DARIO_ARGUELLO</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXPEDITIONARY</UnitType>
+			<UniqueName>TXT_KEY_EXPEDITION_FREMONT</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXPEDITIONARY</UnitType>
+			<UniqueName>TXT_KEY_EXPEDITION_DRAKE</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXPEDITIONARY</UnitType>
+			<UniqueName>TXT_KEY_EXPEDITION_VANCOUVER</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXPEDITIONARY</UnitType>
+			<UniqueName>TXT_KEY_EXPEDITION_BIDWELL</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXPEDITIONARY</UnitType>
+			<UniqueName>TXT_KEY_EXPEDITION_REZANOV</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXPEDITIONARY</UnitType>
+			<UniqueName>TXT_KEY_EXPEDITION_SAVAGE</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXPEDITIONARY</UnitType>
+			<UniqueName>TXT_KEY_EXPEDITION_PORTOLA</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXPEDITIONARY</UnitType>
+			<UniqueName>TXT_KEY_EXPEDITION_GALAUP</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXPEDITIONARY</UnitType>
+			<UniqueName>TXT_KEY_EXPEDITION_FORBES</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXPEDITIONARY</UnitType>
+			<UniqueName>TXT_KEY_EXPEDITION_KUSKOV</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXPEDITIONARY</UnitType>
+			<UniqueName>TXT_KEY_EXPEDITION_SUTTER</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXPEDITIONARY</UnitType>
+			<UniqueName>TXT_KEY_EXPEDITION_JOSE_MORAGA</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXPEDITIONARY</UnitType>
+			<UniqueName>TXT_KEY_EXPEDITION_SKENE</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXPEDITIONARY</UnitType>
+			<UniqueName>TXT_KEY_EXPEDITION_SERRA</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXPEDITIONARY</UnitType>
+			<UniqueName>TXT_KEY_EXPEDITION_FAGES</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXPEDITIONARY</UnitType>
+			<UniqueName>TXT_KEY_EXPEDITION_SMITH</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXPEDITIONARY</UnitType>
+			<UniqueName>TXT_KEY_EXPEDITION_ANZA</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXPEDITIONARY</UnitType>
+			<UniqueName>TXT_KEY_EXPEDITION_NIDEVER</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXPEDITIONARY</UnitType>
+			<UniqueName>TXT_KEY_EXPEDITION_DE_NEVE</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXPEDITIONARY</UnitType>
+			<UniqueName>TXT_KEY_EXPEDITION_GARCES</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_EXPEDITIONARY</UnitType>
+			<UniqueName>TXT_KEY_EXPEDITION_VIZCAINO</UniqueName>
+		</Row>
+	</Unit_UniqueNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_EXPEDITION_CABRILLO">
+			<Text>Juan Rodríguez Cabrillo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPEDITION_DARIO_ARGUELLO">
+			<Text>José Darío Argüello</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPEDITION_FREMONT">
+			<Text>John C. Frémont</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPEDITION_DRAKE">
+			<Text>Francis Drake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPEDITION_VANCOUVER">
+			<Text>George Vancouver</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPEDITION_BIDWELL">
+			<Text>John Bidwell</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPEDITION_REZANOV">
+			<Text>Nikolai Rezanov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPEDITION_SAVAGE">
+			<Text>Jim Savage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPEDITION_PORTOLA">
+			<Text>Gaspar de Portolà</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPEDITION_GALAUP">
+			<Text>Jean-François de Galaup</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPEDITION_FORBES">
+			<Text>Alexander Forbes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPEDITION_KUSKOV">
+			<Text>Ivan Kuskov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPEDITION_SUTTER">
+			<Text>John Sutter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPEDITION_JOSE_MORAGA">
+			<Text>José Joaquín Moraga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPEDITION_SKENE">
+			<Text>Peter Skene Ogden</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPEDITION_SERRA">
+			<Text>Junípero Serra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPEDITION_FAGES">
+			<Text>Pedro Fages</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPEDITION_SMITH">
+			<Text>Jedediah Smith</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPEDITION_ANZA">
+			<Text>Juan Bautista de Anza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPEDITION_NIDEVER">
+			<Text>George Nidever</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPEDITION_DE_NEVE">
+			<Text>Felipe de Neve</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPEDITION_GARCES">
+			<Text>Francisco Garcés</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EXPEDITION_VIZCAINO">
+			<Text>Sebastián Vizcaíno</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

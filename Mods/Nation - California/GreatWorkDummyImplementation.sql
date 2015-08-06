@@ -1,0 +1,1 @@
+ALTER TABLE GreatWorks ADD COLUMN DummyBuilding TEXT DEFAULT NULL;

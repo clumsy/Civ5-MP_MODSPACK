@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/29/2014 1:43:10 AM -->
+<GameData>
+	<Units>
+		<Row>
+			<Class>UNITCLASS_WRITER</Class>
+			<Type>UNIT_HOLLYWOOD_FILMMAKER</Type>
+			<Cost>-1</Cost>
+			<Moves>2</Moves>
+			<CivilianAttackPriority>CIVILIAN_ATTACK_PRIORITY_HIGH</CivilianAttackPriority>
+			<Special>SPECIALUNIT_PEOPLE</Special>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_WRITER</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_HOLLYWOOD_FILMMAKER</Description>
+			<Civilopedia>TXT_KEY_CIV5_HOLLYWOOD_FILMMAKER_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_HOLLYWOOD_FILMMAKER_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_HOLLYWOOD_FILMMAKER</Help>
+			<AdvancedStartCost>-1</AdvancedStartCost>
+			<WorkRate>1</WorkRate>
+			<CombatLimit>0</CombatLimit>
+			<BaseCultureTurnsToCount>12</BaseCultureTurnsToCount>
+			<UnitArtInfo>ART_DEF_UNIT_ARTIST_LATE</UnitArtInfo>
+			<UnitFlagAtlas>ATLAS_FILMMAKER_FLAG</UnitFlagAtlas>
+			<UnitFlagIconOffset>0</UnitFlagIconOffset>
+			<IconAtlas>CIV_COLOR_ATLAS_CALIFORNIA</IconAtlas>
+			<PortraitIndex>3</PortraitIndex>
+			<MoveRate>BIPED</MoveRate>
+		</Row>
+	</Units>
+	<Unit_Flavors>
+		<Row>
+			<UnitType>UNIT_HOLLYWOOD_FILMMAKER</UnitType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>1</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_HOLLYWOOD_FILMMAKER</UnitType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>1</Flavor>
+		</Row>
+	</Unit_Flavors>
+	<Unit_UniqueNames>
+		<Row>
+			<UnitType>UNIT_HOLLYWOOD_FILMMAKER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_HWFM1</UniqueName>
+			<GreatWorkType>GREAT_WORK_HWFM1</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_HOLLYWOOD_FILMMAKER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_HWFM2</UniqueName>
+			<GreatWorkType>GREAT_WORK_HWFM2</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_HOLLYWOOD_FILMMAKER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_HWFM3</UniqueName>
+			<GreatWorkType>GREAT_WORK_HWFM3</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_HOLLYWOOD_FILMMAKER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_HWFM4</UniqueName>
+			<GreatWorkType>GREAT_WORK_HWFM4</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_HOLLYWOOD_FILMMAKER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_HWFM5</UniqueName>
+			<GreatWorkType>GREAT_WORK_HWFM5</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_HOLLYWOOD_FILMMAKER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_HWFM6</UniqueName>
+			<GreatWorkType>GREAT_WORK_HWFM6</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_HOLLYWOOD_FILMMAKER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_HWFM7</UniqueName>
+			<GreatWorkType>GREAT_WORK_HWFM7</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_HOLLYWOOD_FILMMAKER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_HWFM8</UniqueName>
+			<GreatWorkType>GREAT_WORK_HWFM8</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_HOLLYWOOD_FILMMAKER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_HWFM9</UniqueName>
+			<GreatWorkType>GREAT_WORK_HWFM9</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_HOLLYWOOD_FILMMAKER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_HWFM10</UniqueName>
+			<GreatWorkType>GREAT_WORK_HWFM10</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_HOLLYWOOD_FILMMAKER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_HWFM11</UniqueName>
+			<GreatWorkType>GREAT_WORK_HWFM11</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_HOLLYWOOD_FILMMAKER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_HWFM12</UniqueName>
+			<GreatWorkType>GREAT_WORK_HWFM12</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_HOLLYWOOD_FILMMAKER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_HWFM13</UniqueName>
+			<GreatWorkType>GREAT_WORK_HWFM13</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_HOLLYWOOD_FILMMAKER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_HWFM14</UniqueName>
+			<GreatWorkType>GREAT_WORK_HWFM14</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_HOLLYWOOD_FILMMAKER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_HWFM15</UniqueName>
+			<GreatWorkType>GREAT_WORK_HWFM15</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_HOLLYWOOD_FILMMAKER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_HWFM16</UniqueName>
+			<GreatWorkType>GREAT_WORK_HWFM16</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_HOLLYWOOD_FILMMAKER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_HWFM17</UniqueName>
+			<GreatWorkType>GREAT_WORK_HWFM17</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_HOLLYWOOD_FILMMAKER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_HWFM18</UniqueName>
+			<GreatWorkType>GREAT_WORK_HWFM18</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_HOLLYWOOD_FILMMAKER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_HWFM19</UniqueName>
+			<GreatWorkType>GREAT_WORK_HWFM19</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_HOLLYWOOD_FILMMAKER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_HWFM20</UniqueName>
+			<GreatWorkType>GREAT_WORK_HWFM20</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_HOLLYWOOD_FILMMAKER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_HWFM21</UniqueName>
+			<GreatWorkType>GREAT_WORK_HWFM21</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_HOLLYWOOD_FILMMAKER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_HWFM22</UniqueName>
+			<GreatWorkType>GREAT_WORK_HWFM22</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_HOLLYWOOD_FILMMAKER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_HWFM23</UniqueName>
+			<GreatWorkType>GREAT_WORK_HWFM23</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_HOLLYWOOD_FILMMAKER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_HWFM24</UniqueName>
+			<GreatWorkType>GREAT_WORK_HWFM24</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_HOLLYWOOD_FILMMAKER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_HWFM25</UniqueName>
+			<GreatWorkType>GREAT_WORK_HWFM25</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_HOLLYWOOD_FILMMAKER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_HWFM26</UniqueName>
+			<GreatWorkType>GREAT_WORK_HWFM26</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_HOLLYWOOD_FILMMAKER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_HWFM27</UniqueName>
+			<GreatWorkType>GREAT_WORK_HWFM27</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_HOLLYWOOD_FILMMAKER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_HWFM28</UniqueName>
+			<GreatWorkType>GREAT_WORK_HWFM28</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_HOLLYWOOD_FILMMAKER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_HWFM29</UniqueName>
+			<GreatWorkType>GREAT_WORK_HWFM29</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_HOLLYWOOD_FILMMAKER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_HWFM30</UniqueName>
+			<GreatWorkType>GREAT_WORK_HWFM30</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_HOLLYWOOD_FILMMAKER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_HWFM31</UniqueName>
+			<GreatWorkType>GREAT_WORK_HWFM31</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_HOLLYWOOD_FILMMAKER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_HWFM32</UniqueName>
+			<GreatWorkType>GREAT_WORK_HWFM32</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_HOLLYWOOD_FILMMAKER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_HWFM33</UniqueName>
+			<GreatWorkType>GREAT_WORK_HWFM33</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_HOLLYWOOD_FILMMAKER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_HWFM34</UniqueName>
+			<GreatWorkType>GREAT_WORK_HWFM34</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_HOLLYWOOD_FILMMAKER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_HWFM35</UniqueName>
+			<GreatWorkType>GREAT_WORK_HWFM35</GreatWorkType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_HOLLYWOOD_FILMMAKER</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_HWFM36</UniqueName>
+			<GreatWorkType>GREAT_WORK_HWFM36</GreatWorkType>
+		</Row>
+	</Unit_UniqueNames>
+	<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_HOLLYWOOD_FILMMAKER</UnitType>
+			<UnitAIType>UNITAI_WRITER</UnitAIType>
+		</Row>
+	</Unit_AITypes>
+	<GreatWorks>
+		<Row>
+			<Type>GREAT_WORK_HWFM1</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HWFM1</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_HWFM1</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>FilmmakerSplash.dds</Image>
+			<DummyBuilding>BUILDING_FILMDUMMYBUILDING</DummyBuilding>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_HWFM2</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HWFM2</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_HWFM2</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>FilmmakerSplash.dds</Image>
+			<DummyBuilding>BUILDING_FILMDUMMYBUILDING</DummyBuilding>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_HWFM3</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HWFM3</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_HWFM3</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>FilmmakerSplash.dds</Image>
+			<DummyBuilding>BUILDING_FILMDUMMYBUILDING</DummyBuilding>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_HWFM4</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HWFM4</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_HWFM4</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>FilmmakerSplash.dds</Image>
+			<DummyBuilding>BUILDING_FILMDUMMYBUILDING</DummyBuilding>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_HWFM5</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HWFM5</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_HWFM5</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>FilmmakerSplash.dds</Image>
+			<DummyBuilding>BUILDING_FILMDUMMYBUILDING</DummyBuilding>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_HWFM6</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HWFM6</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_HWFM6</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>FilmmakerSplash.dds</Image>
+			<DummyBuilding>BUILDING_FILMDUMMYBUILDING</DummyBuilding>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_HWFM7</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HWFM7</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_HWFM7</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>FilmmakerSplash.dds</Image>
+			<DummyBuilding>BUILDING_FILMDUMMYBUILDING</DummyBuilding>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_HWFM8</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HWFM8</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_HWFM8</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>FilmmakerSplash.dds</Image>
+			<DummyBuilding>BUILDING_FILMDUMMYBUILDING</DummyBuilding>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_HWFM9</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HWFM9</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_HWFM9</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>FilmmakerSplash.dds</Image>
+			<DummyBuilding>BUILDING_FILMDUMMYBUILDING</DummyBuilding>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_HWFM10</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HWFM10</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_HWFM10</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>FilmmakerSplash.dds</Image>
+			<DummyBuilding>BUILDING_FILMDUMMYBUILDING</DummyBuilding>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_HWFM11</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HWFM11</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_HWFM11</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>FilmmakerSplash.dds</Image>
+			<DummyBuilding>BUILDING_FILMDUMMYBUILDING</DummyBuilding>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_HWFM12</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HWFM12</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_HWFM12</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>FilmmakerSplash.dds</Image>
+			<DummyBuilding>BUILDING_FILMDUMMYBUILDING</DummyBuilding>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_HWFM13</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HWFM13</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_HWFM13</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>FilmmakerSplash.dds</Image>
+			<DummyBuilding>BUILDING_FILMDUMMYBUILDING</DummyBuilding>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_HWFM14</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HWFM14</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_HWFM14</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>FilmmakerSplash.dds</Image>
+			<DummyBuilding>BUILDING_FILMDUMMYBUILDING</DummyBuilding>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_HWFM15</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HWFM15</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_HWFM15</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>FilmmakerSplash.dds</Image>
+			<DummyBuilding>BUILDING_FILMDUMMYBUILDING</DummyBuilding>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_HWFM16</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HWFM16</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_HWFM16</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>FilmmakerSplash.dds</Image>
+			<DummyBuilding>BUILDING_FILMDUMMYBUILDING</DummyBuilding>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_HWFM17</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HWFM17</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_HWFM17</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>FilmmakerSplash.dds</Image>
+			<DummyBuilding>BUILDING_FILMDUMMYBUILDING</DummyBuilding>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_HWFM18</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HWFM18</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_HWFM18</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>FilmmakerSplash.dds</Image>
+			<DummyBuilding>BUILDING_FILMDUMMYBUILDING</DummyBuilding>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_HWFM19</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HWFM19</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_HWFM19</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>FilmmakerSplash.dds</Image>
+			<DummyBuilding>BUILDING_FILMDUMMYBUILDING</DummyBuilding>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_HWFM20</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HWFM20</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_HWFM20</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>FilmmakerSplash.dds</Image>
+			<DummyBuilding>BUILDING_FILMDUMMYBUILDING</DummyBuilding>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_HWFM21</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HWFM21</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_HWFM21</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>FilmmakerSplash.dds</Image>
+			<DummyBuilding>BUILDING_FILMDUMMYBUILDING</DummyBuilding>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_HWFM22</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HWFM22</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_HWFM22</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>FilmmakerSplash.dds</Image>
+			<DummyBuilding>BUILDING_FILMDUMMYBUILDING</DummyBuilding>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_HWFM23</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HWFM23</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_HWFM23</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>FilmmakerSplash.dds</Image>
+			<DummyBuilding>BUILDING_FILMDUMMYBUILDING</DummyBuilding>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_HWFM24</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HWFM24</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_HWFM24</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>FilmmakerSplash.dds</Image>
+			<DummyBuilding>BUILDING_FILMDUMMYBUILDING</DummyBuilding>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_HWFM25</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HWFM25</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_HWFM25</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>FilmmakerSplash.dds</Image>
+			<DummyBuilding>BUILDING_FILMDUMMYBUILDING</DummyBuilding>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_HWFM26</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HWFM26</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_HWFM26</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>FilmmakerSplash.dds</Image>
+			<DummyBuilding>BUILDING_FILMDUMMYBUILDING</DummyBuilding>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_HWFM27</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HWFM27</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_HWFM27</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>FilmmakerSplash.dds</Image>
+			<DummyBuilding>BUILDING_FILMDUMMYBUILDING</DummyBuilding>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_HWFM28</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HWFM28</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_HWFM28</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>FilmmakerSplash.dds</Image>
+			<DummyBuilding>BUILDING_FILMDUMMYBUILDING</DummyBuilding>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_HWFM29</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HWFM29</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_HWFM29</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>FilmmakerSplash.dds</Image>
+			<DummyBuilding>BUILDING_FILMDUMMYBUILDING</DummyBuilding>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_HWFM30</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HWFM30</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_HWFM30</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>FilmmakerSplash.dds</Image>
+			<DummyBuilding>BUILDING_FILMDUMMYBUILDING</DummyBuilding>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_HWFM31</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HWFM31</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_HWFM31</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>FilmmakerSplash.dds</Image>
+			<DummyBuilding>BUILDING_FILMDUMMYBUILDING</DummyBuilding>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_HWFM32</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HWFM32</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_HWFM32</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>FilmmakerSplash.dds</Image>
+			<DummyBuilding>BUILDING_FILMDUMMYBUILDING</DummyBuilding>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_HWFM33</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HWFM33</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_HWFM33</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>FilmmakerSplash.dds</Image>
+			<DummyBuilding>BUILDING_FILMDUMMYBUILDING</DummyBuilding>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_HWFM34</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HWFM34</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_HWFM34</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>FilmmakerSplash.dds</Image>
+			<DummyBuilding>BUILDING_FILMDUMMYBUILDING</DummyBuilding>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_HWFM35</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HWFM35</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_HWFM35</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>FilmmakerSplash.dds</Image>
+			<DummyBuilding>BUILDING_FILMDUMMYBUILDING</DummyBuilding>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_HWFM36</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HWFM36</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_HWFM36</Quote>
+			<Audio>AS2D_GREAT_ARTIST_ARTWORK</Audio>
+			<Image>FilmmakerSplash.dds</Image>
+			<DummyBuilding>BUILDING_FILMDUMMYBUILDING</DummyBuilding>
+		</Row>
+	</GreatWorks>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_UNIT_HOLLYWOOD_FILMMAKER">
+			<Text>Great Filmmaker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_HOLLYWOOD_FILMMAKER_TEXT">
+			<Text>Hollywood, California is the film capital of the world, and its works, widely distributed, play a major role in American cultural influence worldwide. The Film industry produces an estimated gross revenue of $10.2 Billion per year, and while films and their stars originate from all over the USA, many would say that they are what put California on the cultural map.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HOLLYWOOD_FILMMAKER_STRATEGY">
+			<Text>The Great Filmmaker's Great Works provide +1 [ICON_HAPPINESS_1] Happiness to the city it is housed in, and Political Treatises will provide 50% more [ICON_CULTURE] Culture than a standard Great Writer's.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_HOLLYWOOD_FILMMAKER">
+			<Text>This unit creates Great Works unique to California and can only be produced by California. Great Works of Literature by this unit provide +1 [ICON_HAPPINESS_1] Happiness, and Political Treatises by this unit produce 50% more [ICON_CULTURE] Culture than the Great Writer it replaces.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HWFM1">
+			<Text>Oliver Stone</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HWFM1">
+			<Text>Platoon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HWFM1">
+			<Text>"I think now, looking back, we did not fight the enemy; we fought ourselves. And the enemy was in us. The war is over for me now, but I will always be there, for the rest of my days..."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HWFM2">
+			<Text>Clint Eastwood</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HWFM2">
+			<Text>Sudden Impact</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HWFM2">
+			<Text>"Go ahead, make my day."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HWFM3">
+			<Text>Tony Kaye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HWFM3">
+			<Text>American History X</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HWFM3">
+			<Text>"So I guess this is where I tell you what I learned - my conclusion, right? Well, my conclusion is: Hate is baggage. Life's too short to be pissed off all the time. It's just not worth it."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HWFM4">
+			<Text>Francis Ford Coppola</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HWFM4">
+			<Text>Apocalypse Now</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HWFM4">
+			<Text>"I was going to the worst place in the world and I didn't even know it yet. Weeks away and hundreds of miles up a river that snaked through the war like a main circuit cable plugged straight into Kurtz. It was no accident that I got to be the caretaker of Colonel Walter E. Kurtz's memory any more than being back in Saigon was an accident. There is no way to tell his story without telling my own. And if his story really is a confession, then so is mine."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HWFM5">
+			<Text>Orson Welles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HWFM5">
+			<Text>Citizen Kane</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HWFM5">
+			<Text>"I can remember everything. That's my curse, young man. It's the greatest curse that's ever been inflicted on the human race: memory."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HWFM6">
+			<Text>Mario Puzo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HWFM6">
+			<Text>The Godfather</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HWFM6">
+			<Text>"Friendship is everything. Friendship is more than talent. It is more than the government. It is almost the equal of family."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HWFM7">
+			<Text>Victor Fleming</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HWFM7">
+			<Text>Gone With the Wind</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HWFM7">
+			<Text>"I'll think of it tomorrow, at Tara! I can stand it then. Tomorrow, I'll think of some way to get him back! After all, tomorrow is another day." </Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HWFM8">
+			<Text>Steven Spielberg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HWFM8">
+			<Text>Jaws</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HWFM8">
+			<Text>"You're going to need a bigger boat."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HWFM9">
+			<Text>Quentin Tarantino</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HWFM9">
+			<Text>Pulp Fiction</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HWFM9">
+			<Text>"See, now I'm thinking, maybe it means you're the evil man, and I'm the righteous man, and Mr. 9mm here, he's the shepherd protecting my righteous ass in the valley of darkness. Or it could mean you're the righteous man and I'm the shepherd and it's the world that's evil and selfish. I'd like that. But that shit ain't the truth. The truth is, you're the weak, and I'm the tyranny of evil men. But I'm trying, Ringo. I'm trying real hard to be the shepherd."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HWFM10">
+			<Text>Walt Disney</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HWFM10">
+			<Text>Snow White and the Seven Dwarfs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HWFM10">
+			<Text>"Once upon a time there lived a lovely little princess named Snow White. Her vain and wicked stepmother, the Queen, feared that some day Snow White's beauty would surpass her own. So she dressed the little princess in rags and forced her to work as a scullery maid. Each day the vain queen consulted her magic mirror, "Magic Mirror on the wall, who is the fairest one of all?"... and as long as the mirror answered, "You are the fairest of them all," Snow White was safe from the Queen's cruel jealousy..."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HWFM11">
+			<Text>George Lucas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HWFM11">
+			<Text>Star Wars</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HWFM11">
+			<Text>"Fear is the path to the dark side. Fear leads to anger. Anger leads to hate. Hate leads to suffering."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HWFM12">
+			<Text>Alfred Hitchcock</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HWFM12">
+			<Text>Psycho</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HWFM12">
+			<Text>"A boy's best friend is his mother."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HWFM13">
+			<Text>Mark Rydell</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HWFM13">
+			<Text>On Golden Pond</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HWFM13">
+			<Text>"Listen to me, mister. You're my knight in shining armor. Don't you forget it. You're going to get back on that horse, and I'm going to be right behind you, holding on tight, and away we're gonna go, go, go!"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HWFM14">
+			<Text>Joel Coen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HWFM14">
+			<Text>The Big Lebowski</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HWFM14">
+			<Text>"The Dude abides. I don't know about you but I take comfort in that. It's good knowin' he's out there. The Dude. Takin' 'er easy for all us sinners. Shoosh. ...I sure hope he makes the finals."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HWFM15">
+			<Text>John Huston</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HWFM15">
+			<Text>The Maltese Falcon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HWFM15">
+			<Text>"He looked rather pleasantly, like a blonde Satan."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HWFM16">
+			<Text>Frank Darabont</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HWFM16">
+			<Text>The Shawshank Redemption</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HWFM16">
+			<Text>"There's not a day goes by I don't feel regret. Not because I'm in here, or because you think I should. I look back on the way I was then: a young, stupid kid who committed that terrible crime. I want to talk to him. I want to try and talk some sense to him, tell him the way things are. But I can't. That kid's long gone and this old man is all that's left. I got to live with that. Rehabilitated? It's just a bullshit word."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HWFM17">
+			<Text>Frank Capra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HWFM17">
+			<Text>It's A Wonderful Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HWFM17">
+			<Text>"Strange, isn't it? Each man's life touches so many other lives. When he isn't around he leaves an awful hole, doesn't he?"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HWFM18">
+			<Text>Robert Zemeckis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HWFM18">
+			<Text>Forrest Gump</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HWFM18">
+			<Text>"Momma always said dyin' was a part of life. I sure wish it wasn't."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HWFM19">
+			<Text>Hunter S. Thompson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HWFM19">
+			<Text>Fear and Loathing in Las Vegas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HWFM19">
+			<Text>"No sympathy for the devil; keep that in mind. Buy the ticket, take the ride...and if it occasionally gets a little heavier than what you had in mind, well...maybe chalk it off to forced conscious expansion: Tune in, freak out, get beaten."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HWFM20">
+			<Text>Stanley Kubrick</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HWFM20">
+			<Text>A Clockwork Orange</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HWFM20">
+			<Text>"Oh, bliss! Bliss and heaven! Oh, it was gorgeousness and gorgeousity made flesh. It was like a bird of rarest-spun heaven metal or like silvery wine flowing in a spaceship, gravity all nonsense now. As I slooshied, I knew such lovely pictures!"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HWFM21">
+			<Text>Michael Curtiz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HWFM21">
+			<Text>Casablanca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HWFM21">
+			<Text>"If we stop breathing, we'll die. If we stop fighting our enemies, the world will die."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HWFM22">
+			<Text>Mike Nichols</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HWFM22">
+			<Text>The Graduate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HWFM22">
+			<Text>"Mrs. Robinson, you're trying to seduce me. Aren't you?"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HWFM23">
+			<Text>Groucho Marx</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HWFM23">
+			<Text>Animal Crackers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HWFM23">
+			<Text>"One morning, I shot an elephant in my pajamas. How he got in my pajamas, I don't know."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HWFM24">
+			<Text>James Cameron</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HWFM24">
+			<Text>The Terminator</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HWFM24">
+			<Text>"I'll be back."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HWFM25">
+			<Text>Sylvester Stallone</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HWFM25">
+			<Text>Rocky Balboa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HWFM25">
+			<Text>"Let me tell you something you already know. The world ain't all sunshine and rainbows. It's a very mean and nasty place, and I don't care how tough you are, it will beat you to your knees and keep you there permanently if you let it. You, me, or nobody is gonna hit as hard as life. But it ain't about how hard ya hit. It's about how hard you can get hit and keep moving forward."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HWFM26">
+			<Text>Martin Scorsese</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HWFM26">
+			<Text>Taxi Driver</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HWFM26">
+			<Text>"Some day a real rain will come and wash all this scum off the streets."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HWFM27">
+			<Text>Gene Kelly</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HWFM27">
+			<Text>Singin' In The Rain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HWFM27">
+			<Text>"Oh Donny! You couldn't kiss me like that and not mean it just a teensy bit!"[NEWLINE]"Meet the greatest actor in the world! I'd rather kiss a tarantula."[NEWLINE]"You don't mean that."[NEWLINE]"I don't-- Hey Joe, get me a tarantula!"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HWFM28">
+			<Text>Charlie Chaplin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HWFM28">
+			<Text>City Lights</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HWFM28">
+			<Text>"Tomorrow, the birds will sing."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HWFM29">
+			<Text>John Ford</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HWFM29">
+			<Text>The Searchers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HWFM29">
+			<Text>"Injun will chase a thing till he thinks he's chased it enough. Then he quits. Same way when he runs. Seems like he never learns there's such a thing as a critter that'll just keep comin' on. So we'll find 'em in the end, I promise you. We'll find 'em. Just as sure as the turnin' of the earth."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HWFM30">
+			<Text>Billy Wilder</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HWFM30">
+			<Text>Sunset Boulevard</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HWFM30">
+			<Text>"Norma, you're a woman of 50, now grow up. There's nothing tragic about being 50, not unless you try to be 25."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HWFM31">
+			<Text>George A. Romero</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HWFM31">
+			<Text>Night of the Living Dead</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HWFM31">
+			<Text>"They're coming to get you, Barbara!"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HWFM32">
+			<Text>Andy Wachowski</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HWFM32">
+			<Text>The Matrix</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HWFM32">
+			<Text>"This is your last chance. After this, there is no turning back. You take the blue pill - the story ends, you wake up in your bed and believe whatever you want to believe. You take the red pill - you stay in Wonderland and I show you how deep the rabbit hole goes."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HWFM33">
+			<Text>John McTiernan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HWFM33">
+			<Text>Die Hard</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HWFM33">
+			<Text>"But, you have me at a loss. You know my name, but who are you? Just another American who saw too many movies as a child? Another orphan of a bankrupt culture who thinks he's John Wayne? Rambo? Marshal Dillon? ...Do you really think you have a chance against us, Mr. Cowboy?"[NEWLINE][NEWLINE]"Yippee-ki-yay, motherfucker!"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HWFM34">
+			<Text>Brian Singer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HWFM34">
+			<Text>The Usual Suspects</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HWFM34">
+			<Text>"Nobody believed he was real. Nobody ever saw him or knew anybody that ever worked directly for him, but to hear Kobayashi tell it, anybody could have worked for Soze. You never knew. That was his power. The greatest trick the Devil ever pulled was convincing the world he didn't exist. And like that, poof. He's gone."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HWFM35">
+			<Text>Ridley Scott</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HWFM35">
+			<Text>Blade Runner</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HWFM35">
+			<Text>"I've seen things you people wouldn't believe. Attack ships on fire off the shoulder of Orion. I watched C-beams glitter in the dark near the Tannhauser gate. All those moments will be lost in time, like tears in rain... Time... to die."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_HWFM36">
+			<Text>Joel Schumacher</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_HWFM36">
+			<Text>The Lost Boys</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_HWFM36">
+			<Text>"The one thing about living in Santa Carla that I never could stomach... all the damn vampires!"</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

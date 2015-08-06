@@ -1370,6 +1370,10 @@ ContextPtr:LoadNewContext("JFD_Buccaneer_Functions")
 ContextPtr:LoadNewContext("Sharpshooterdefense")
 ContextPtr:LoadNewContext("CSAFunctions")
 
+-- Nation - California --
+ContextPtr:LoadNewContext("GreatWorkDummyBuildings")
+ContextPtr:LoadNewContext("GoldenAgeBonuses")
+
 -- Misc - Pontoon Bridge --
 ContextPtr:LoadNewContext("Pontoon Bridge Lua")
 
