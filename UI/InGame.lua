@@ -1374,6 +1374,11 @@ ContextPtr:LoadNewContext("CSAFunctions")
 ContextPtr:LoadNewContext("GreatWorkDummyBuildings")
 ContextPtr:LoadNewContext("GoldenAgeBonuses")
 
+-- Nation - New Zealand --
+ContextPtr:LoadNewContext("JFD_NewZealand_Functions")
+ContextPtr:LoadNewContext("CityInfoStack")
+ContextPtr:LoadNewContext("JFD_NewZealand_CityInfo")
+
 -- Misc - Pontoon Bridge --
 ContextPtr:LoadNewContext("Pontoon Bridge Lua")
 

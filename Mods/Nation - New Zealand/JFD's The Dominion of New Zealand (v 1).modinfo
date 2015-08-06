@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="e2c1842b-c584-4364-b449-80aa2f93a5aa" version="1">
+  <Properties>
+    <Name>JFD's The Dominion of New Zealand</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]The Dominion of New Zealand[ENDCOLOR] to the game with Richard Seddon.</Teaser>
+    <Description>Adds the [COLOR_POSITIVE_TEXT]The Dominion of New Zealand[ENDCOLOR] to the game with Richard Seddon.</Description>
+    <Authors>JFD, Pouakai, Janboruta, TarsicioCM</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety" />
+    <Mod id="d99bf7aa-51ac-4bef-bd88-d765b28e260e" minversion="0" maxversion="999" title="JFD’s Prestige" />
+    <Mod id="6676902b-b907-45f1-8db5-32dcb2135eee" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events &amp; Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack    " />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="0F2EC859610C2A1C5F6977AC0D792950" import="1">Art/Diplomacy/Seddon_Scene.xml</File>
+    <File md5="2133564991FCE5C48D375972F652B69D" import="1">Art/Diplomacy/Seddon_Diplo.dds</File>
+    <File md5="3379DA3F07A20B0199DFE011FCB9523B" import="1">Art/Graphics/ANZAC/brigw1.dds</File>
+    <File md5="810ED976507F523934F8AF623115CE94" import="1">Art/Graphics/ANZAC/brigw1.fxsxml</File>
+    <File md5="8656C4E19DC891E9444EE0B7E7C74048" import="1">Art/Graphics/ANZAC/brigw1.gr2</File>
+    <File md5="0C759F1CED95795CCFBE40C6BD9A963C" import="1">Art/Graphics/ANZAC/no_gloss.dds</File>
+    <File md5="D2BF3D200539EF92982AC7ECAE1FED8B" import="1">Art/Graphics/ANZAC/sv_ANZAC.dds</File>
+    <File md5="692387F04DBAB65AB28DE0891B691260" import="1">Art/Graphics/Defender/SMS_Tegetthoff.fxsxml</File>
+    <File md5="F45E0C4064295471259466D073F8D7BA" import="1">Art/Graphics/Defender/SMS_Tegetthoff.gr2</File>
+    <File md5="873D032734F14611AA9D3A4F36BF6A07" import="1">Art/Graphics/Defender/sv_Defender.dds</File>
+    <File md5="9493E253060010A5C78F2ADB8BE69AEA" import="1">Art/Graphics/Defender/tegetthoff_diff.dds</File>
+    <File md5="BC319C979FF0C8445FB3A50F26CB56DB" import="1">Art/Graphics/Defender/tegetthoff_sref.dds</File>
+    <File md5="48EC37944A8C94DF327A0A31ADC6BCDC" import="1">Art/IconAtlas/JFD_ANZACUnitFlag_32.dds</File>
+    <File md5="3F54DCBE0C2865B0D293706A0BE96EC6" import="1">Art/IconAtlas/JFD_DefenderUnitFlag_32.dds</File>
+    <File md5="5C206187C1260DEA24CC157432CB8448" import="1">Art/IconAtlas/JFD_NewZealandAlphaAtlas_128.dds</File>
+    <File md5="85BD53C748D96DA19D4E5636EBF6B04C" import="1">Art/IconAtlas/JFD_NewZealandAlphaAtlas_16.dds</File>
+    <File md5="7FB8BEA82D426343BC6E80CA4C102324" import="1">Art/IconAtlas/JFD_NewZealandAlphaAtlas_24.dds</File>
+    <File md5="F791A145B46FB456B3C263008BB302F1" import="1">Art/IconAtlas/JFD_NewZealandAlphaAtlas_32.dds</File>
+    <File md5="E65D2270DA449953FC3F2794B51D0F02" import="1">Art/IconAtlas/JFD_NewZealandAlphaAtlas_45.dds</File>
+    <File md5="E8F266A2265DC03EEC25691DA4A8747C" import="1">Art/IconAtlas/JFD_NewZealandAlphaAtlas_48.dds</File>
+    <File md5="4500F43EDEFACA33AE257D0B3D19B091" import="1">Art/IconAtlas/JFD_NewZealandAlphaAtlas_64.dds</File>
+    <File md5="166900B9351BFF9F002FFC9CE51C1DF7" import="1">Art/IconAtlas/JFD_NewZealandAlphaAtlas_80.dds</File>
+    <File md5="C799209BA3B3106509095EB76392B850" import="1">Art/IconAtlas/JFD_NewZealandAtlas_128.dds</File>
+    <File md5="0867805ACCBAB868F7528AEEAE74473D" import="1">Art/IconAtlas/JFD_NewZealandAtlas_256.dds</File>
+    <File md5="F604D736CD09B212094B3B43831AADDF" import="1">Art/IconAtlas/JFD_NewZealandAtlas_32.dds</File>
+    <File md5="80E54E96E3F4C0A7073E36811FF06BA2" import="1">Art/IconAtlas/JFD_NewZealandAtlas_45.dds</File>
+    <File md5="FEED069DAD4EB6B9A7CE38DDCB6D75AF" import="1">Art/IconAtlas/JFD_NewZealandAtlas_64.dds</File>
+    <File md5="AD2FAA020C429F6609472021CE6E2D4F" import="1">Art/IconAtlas/JFD_NewZealandAtlas_80.dds</File>
+    <File md5="B9CE149583A9CF9EA31F1EE87DC718B7" import="1">Art/Map/NewZealandMap512.dds</File>
+    <File md5="A278A510D929143C01E3BEF68E461B00" import="1">Art/Map/Seddon_DOM.dds</File>
+    <File md5="C78DB374DDDFE789293D195744FD5D66" import="1">Audio/Seddon_Peace.mp3</File>
+    <File md5="D456E9B914F894C44DAD390460D9A81D" import="1">Audio/Seddon_War.mp3</File>
+    <File md5="BFED1027C552A77A46D349E57E82E2E3" import="0">Core/JFD_NewZealand_ArtDefines.sql</File>
+    <File md5="15B808E197A0D66CCE50F2CEE8B1E6C4" import="0">Core/JFD_NewZealand_GameDefines.sql</File>
+    <File md5="227325F0580DEABC4B1546FB30A95020" import="0">Core/JFD_NewZealand_GameDefines_Diplomacy.sql</File>
+    <File md5="EDF79DCD420357285187C3A2415923BD" import="0">Core/JFD_NewZealand_GameDefines_ModSupport.sql</File>
+    <File md5="C30E2CC5822F20E24AB1D224EBDE0F77" import="0">Core/JFD_NewZealand_GameText.xml</File>
+    <File md5="9A576B32BDA3A9F47CF9590CB1533F32" import="0">Core/JFD_NewZealand_GameText_Diplomacy.xml</File>
+    <File md5="28F68B24FBF659BB87F917355E820766" import="0">Core/JFD_NewZealand_GameText_ModSupport.xml</File>
+    <File md5="3665EA7314EC7714D3F5520365D7702A" import="0">DeleteMissingReferences.xml</File>
+    <File md5="84A0422F3FAE9EECD89F0AAEFBBF9906" import="1">Lua/JFD_NewZealand_Decisions.lua</File>
+    <File md5="1BF93963C7571CE6392E29792D51640F" import="1">Lua/JFD_NewZealand_Events.lua</File>
+    <File md5="0156861A32DD35F1E041C7D940AF0337" import="0">Lua/JFD_NewZealand_Functions.lua</File>
+    <File md5="D63DC8BB6AA0F310DD55B264DB49C7E2" import="1">Lua/Utilities/PlotIterators.lua</File>
+    <File md5="86C1C3EDCE4699DE320A932C4E70E22C" import="0">Lua/Utilities/Sukritact's MCIS/CityInfoStack.lua</File>
+    <File md5="120EB71025973A8A48B38314241DD0B3" import="0">Lua/Utilities/Sukritact's MCIS/CityInfoStack.xml</File>
+    <File md5="AB8F2D5CBE7CC1B3376121D3C126B747" import="0">Lua/Utilities/Sukritact's MCIS/JFD_NewZealand_CityInfo.lua</File>
+    <File md5="6F9848BC45944D9CC4DB228760AC2A70" import="0">Lua/Utilities/Sukritact's MCIS/JFD_NewZealand_CityInfo.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/JFD_NewZealand_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_NewZealand_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_NewZealand_GameDefines_Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_NewZealand_GameDefines_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_NewZealand_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_NewZealand_GameText_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_NewZealand_GameText_ModSupport.xml</UpdateDatabase>
+      <UpdateDatabase>DeleteMissingReferences.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_NewZealand_Functions.lua">
+      <Name>JFD_NewZealand_Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Utilities/Sukritact's MCIS/CityInfoStack.lua">
+      <Name>Sukritact's MCIS</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Utilities/Sukritact's MCIS/JFD_NewZealand_CityInfo.lua">
+      <Name>JFD_NewZealand_CityInfo</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

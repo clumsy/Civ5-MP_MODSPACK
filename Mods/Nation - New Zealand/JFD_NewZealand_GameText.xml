@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- NEW ZEALAND-->
+		<Row Tag="TXT_KEY_CIV_JFD_NEW_ZEALAND_ADJECTIVE">
+			<Text>New Zealand</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_NEW_ZEALAND_DESC">
+			<Text>New Zealand Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_NEW_ZEALAND_SHORT_DESC">
+			<Text>New Zealand</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_NEW_ZEALAND_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_NEW_ZEALAND_TEXT_1">
+			<Text>Sweden and Norway or Sweden–Norway, officially the United Kingdoms of Sweden and Norway, was a personal union of the separate kingdoms of Sweden and Norway under a common monarch and common foreign policy from 1814 to 1905, before Sweden accepted Norway's leaving the union. Both states kept their separate constitutions, laws, legislatures, administrations, state churches, armed forces, and currencies; the kings mostly resided in Stockholm, where foreign diplomatic representations were located. The Norwegian government was initially presided over by viceroys: Swedes until 1829, Norwegians until 1856. That office was later vacant and then formally abolished in 1873. Foreign policy was conducted through the Swedish foreign ministry until the dissolution of the union in 1905.[NEWLINE][NEWLINE]Norway had previously been in a closer union with Denmark, but Denmark-Norway's alliance with Napoleonic France caused Great Britain and Russia to consent to Sweden's annexation of the realm as compensation for the loss of Finland in 1809 and as a reward for joining the alliance against Napoleon. By the 1814 Treaty of Kiel, the King of Denmark-Norway was forced to cede Norway to the King of Sweden. But Norway refused to submit to the treaty provisions, declared independence, and convoked a constituent assembly at Eidsvoll.[NEWLINE][NEWLINE]After the adoption of the new Constitution of Norway on 17 May 1814, Prince Christian Frederick was elected king. The ensuing Swedish-Norwegian War (1814) and the Convention of Moss compelled Christian Frederick to abdicate after calling an extraordinary session of the Norwegian Parliament, the Storting, to revise the Constitution in order to allow for a personal union with Sweden. On 4 November the Storting elected Charles XIII as the king of Norway, thereby confirming the Union. Continuing differences between the two realms led to a failed attempt to create a separate Norwegian consular service and then, on 7 June 1905, to a unilateral declaration of independence by the Storting. Sweden accepted the union's dissolution on 26 October. After a plebiscite confirming the election of Danish Prince Carl as the new king of Norway, he accepted the Storting's offer of the throne on 18 November and took the regnal name of Haakon VII.</Text>
+		</Row>
+		<!--City List-->
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_NEW_ZEALAND_1">
+			<Text>Wellington</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_NEW_ZEALAND_2">
+			<Text>Auckland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_NEW_ZEALAND_3">
+			<Text>Christchurch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_NEW_ZEALAND_4">
+			<Text>Hamilton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_NEW_ZEALAND_5">
+			<Text>Tauranga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_NEW_ZEALAND_6">
+			<Text>Dunedin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_NEW_ZEALAND_7">
+			<Text>Palmerston</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_NEW_ZEALAND_8">
+			<Text>Hastings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_NEW_ZEALAND_9">
+			<Text>Nelson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_NEW_ZEALAND_10">
+			<Text>Napier</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_NEW_ZEALAND_11">
+			<Text>Rotoura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_NEW_ZEALAND_12">
+			<Text>Whangari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_NEW_ZEALAND_13">
+			<Text>New Plymouth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_NEW_ZEALAND_14">
+			<Text>Invercargill</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_NEW_ZEALAND_15">
+			<Text>Wanganui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_NEW_ZEALAND_16">
+			<Text>Gisbourn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_NEW_ZEALAND_17">
+			<Text>Queenstown</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_NEW_ZEALAND_18">
+			<Text>Timaru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_NEW_ZEALAND_19">
+			<Text>Greymouth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_NEW_ZEALAND_20">
+			<Text>Dargaville</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_NEW_ZEALAND_21">
+			<Text>Paeroa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_NEW_ZEALAND_22">
+			<Text>Whangamata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_NEW_ZEALAND_23">
+			<Text>Masterton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_NEW_ZEALAND_24">
+			<Text>Otorohanga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_NEW_ZEALAND_25">
+			<Text>Ruapehu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_NEW_ZEALAND_26">
+			<Text>Hawera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_NEW_ZEALAND_27">
+			<Text>Pimmerton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_NEW_ZEALAND_28">
+			<Text>Porirua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_NEW_ZEALAND_29">
+			<Text>Stratford</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_NEW_ZEALAND_30">
+			<Text>Aorangi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_NEW_ZEALAND_31">
+			<Text>Motueka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_NEW_ZEALAND_32">
+			<Text>Balmoral</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_NEW_ZEALAND_33">
+			<Text>Cashmere</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_NEW_ZEALAND_34">
+			<Text>Gore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_NEW_ZEALAND_35">
+			<Text>Westport</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_NEW_ZEALAND_36">
+			<Text>Manly</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_NEW_ZEALAND_37">
+			<Text>Kingseat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_JFD_NEW_ZEALAND_38">
+			<Text>Dargaville</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NEW_ZEALAND_9">
+			<Text>Bilbo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NEW_ZEALAND_8">
+			<Text>Frodo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NEW_ZEALAND_7">
+			<Text>Winston Peters</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NEW_ZEALAND_6">
+			<Text>Aunt Dolly</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NEW_ZEALAND_5">
+			<Text>Russell</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NEW_ZEALAND_4">
+			<Text>Rebecca</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NEW_ZEALAND_3">
+			<Text>Michael Laws</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NEW_ZEALAND_2">
+			<Text>Cameron</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NEW_ZEALAND_1">
+			<Text>Corbin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_NEW_ZEALAND_0">
+			<Text>Chance</Text>
+		</Row>
+		<!-- Seddon -->
+		<Row Tag="TXT_KEY_LEADER_JFD_SEDDON">
+			<Text>Seddon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_SEDDON_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_SEDDON_TEXT_1">
+			<Text>Though born in England as the son of teachers, Richard Seddon emigrated to New Zealand as a young man, seeking new lands; he ended up getting caught up in politics, becoming the longest-serving Prime Minister of New Zealand. Despite his parents wanting to give him a more academic education, the young Seddon had more interest in engineering, and never performed very well at school. Seddon initially pursued a career in this, yet he found himself bored and too cramped in England; he decided to emigrate to Australia in search of new lands. He worked for railway companies to start off with, but with the latest surge in the Gold Rushes’ popularity, Seddon tried mining for gold, but to no great avail. Seddon later moved again to New Zealand, where he established a pub and ran a small, yet prosperous, business there for a few years.[NEWLINE][NEWLINE]Seddon initially got into politics on a local level, heavily involved on miners’ and workers’ rights. In 1874, he won his first position on the Westland Province Council, which he served on up until these provinces were abolished in 1876. Following this, Seddon ran for the mayorship of Kumara, a goldmining town in the South Island. Seddon again won this election, and moved his pub there too to better run it. Seddon had ambitions out of local politics, however - in 1876, he had tried and failed to run for the House of Representatives, but in 1879, he ran again successfully, becoming the Member for Hokitika. He went on to change his constituency a further two times over the course of his career.[NEWLINE][NEWLINE]In politics, Seddon was defined by his firm stance against the wealthy; he was a believer in the lower classes having a greater stake in society. These views may have been shaped by his education, the quality of which was comparatively poorer than other members of the house, but also by the views of his constituents; as an independent MP, he was primarily concerned with representing the views of his constituents in Parliament, and thus did what he could to secure the support of his primarily rural constituency. In parliament, Seddon was on the Goldfields Committee, even chairing it at one point. As there was an increasing popularity in gold mining in the West Coast, Seddon was again in a position to get a better deal for his area; after Hokitika was abolished, he represented the new Kumara constituency instead, which was also concerned with gold mining. [NEWLINE][NEWLINE]Initially, Seddon had few allies in parliament; he had allied himself with George Grey, a former Governor General and Premier of New Zealand. However, he was often mocked by other MPs for his accent, and tendency to drop the letter “h” from words. In 1890, Seddon took up a role in the Liberal Party, on a platform of fairer laws concerning land and workers. The following year, the Liberals were able to command the confidence of the house, and Seddon was subsequently sworn into his first ministerial position. Seddon advocated a contract system for public services while he was in the cabinet. Ideologically, Seddon refused to align with any; the party’s leader, John Ballance, had a commitment to classical liberalism, though Seddon fought more on a populist platform, intent on winning votes from the middle and lower classes as a champion of the working man. With a staunch opposition to elitism, Seddon was able to become more popular with New Zealanders by advocating generally popular policies, though faced harsh criticism from opponents due to his unsophisticated outlook on society. Despite his popularity, many of his party colleagues thought that he had abandoned principal for populism; yet as his following grew, it became hard to disagree with him. Seddon had normally championed class issues, so John Ballance’s focus on expanded rights for women and the indigenous Maori did not sit so well with Seddon.[NEWLINE][NEWLINE]John Ballance fell ill in 1892, so Richard Seddon ascended to become acting Leader of the House. After his death, Seddon was asked to form a new ministry, despite not having been backed by the House of Representatives. Despite some Liberal dissenters, Seddon was able to establish this ministry, indefinitely postponing leadership contests. However, this dissent would not go away; when the Conservatives proposed a bill to expand women’s suffrage, a lot of Liberals voted for it despite the leader’s staunch opposition. When he saw that the bill was going to pass, Seddon decided instead to back it, as the “champion of the common man”, yet tried to delay the bill as much as possible by getting the Upper House to do so. Some Liberals voted for the bill in protest of these actions, despite opposing it. The bill was eventually passed, and despite Seddon’s actions, he was returned as Premier in the next election, even increasing his majority.[NEWLINE][NEWLINE]For the rest of his thirteen-year long premiership, Seddon remained a charismatic figure, always eager to point out the problems with the upper class. Unusually, he took on a number of posts in the cabinet himself as Premier, enabling him to sort out a lot of problems very quickly, albeit without much democratic assent. With his Old Age Pensions act, Seddon was able to establish the basis of the welfare state in New Zealand, which has endured to this day, fitting in well with his advocacy of helping the common man. Although he had lived abroad for a good part of his life, Seddon was always a strong supporter of the British Empire, believing that New Zealand should also try to reach out to other islands in an imperialist fashion as well. This seemingly bizarre combination of policies does not fit anywhere on the political spectrum today, but Seddon’s skill as a leader was able to command New Zealand’s support up until his death. Seddon passed away returning from Australia, amidst massive public mourning upon hearing the news. A genuinely popular leader, Seddon was good at winning electoral support, yet remains a controversial figure in some circles for his apparent neglect for the good of the Maori, and his lack of support for women’s rights.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_SEDDON_NAME">
+			<Text>Seddon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_SEDDON_SUBTITLE">
+			<Text>Leader of New Zealand</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_SEDDON_TITLES_1">
+			<Text>Prime Minister of New Zealand</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_SEDDON_LIVED">
+			<Text>1845 - 1906</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_NEW_ZEALAND_TEXT">
+			<Text>Greetings, Richard Seddon, Prime Minister of New Zealand at His Majesty's pleasure. Like her forefathers, New Zealand is an island nation. Colonised in 1840 by agents of the British Crown, New Zealand boasts one of the earliest histories of social liberty and one of the most remarkable landscapes on the earth. As her leader during the late 19th century, you sought to cultivate a nation that was both prosperous and autonomous, and your legacy as an imperialist and a social liberal set the stage for the creation of an independent realm the envy of the post-colonial world.[NEWLINE][NEWLINE]Stalwart premier, the people of New Zealand call for your leadership to raise their nation to new heights of imperial and economic greatness. Can you achieve for them a standard of wealth and power for which old empires can only dream? Can you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!-- BRITAIN OF THE SOUTH SEAS -->
+		<Row Tag="TXT_KEY_TRAIT_JFD_NEW_ZEALAND_SHORT">
+			<Text>Britain of the South Seas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_NEW_ZEALAND">
+			<Text>City [ICON_FOOD] Growth increased by 10% for each Trade Route with a different civ or City-State (max 30% per city). With at least one defensive pact, New Zealand gains two additional Trade Routes whilst their partner gains one.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_NEW_ZEALAND_CITY_VIEW_HELP">
+			<Text>[NEWLINE]+{1_Num} extra Trade Routes from Defensive Pacts with other civilizations[NEWLINE][NEWLINE][ICON_FOOD] Food Stored from [ICON_INTERNATIONAL_TRADE] International Trade Routes:[NEWLINE]----------------------{2_TradeRouteList}----------------------[NEWLINE][COLOR_POSITIVE_TEXT]+{3_Total}% [ICON_FOOD] Food Total[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_NEW_ZEALAND_GROWTH">
+			<Text>JFD: New Zealand Growth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_NEW_ZEALAND_GROWTH_HELP">
+			<Text>Store 10% [ICON_FOOD] Food after growth.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_NEW_ZEALAND_TRADE">
+			<Text>JFD: New Zealand Trade Routes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_NEW_ZEALAND_TRADE_HELP">
+			<Text>+1 Trade Route</Text>
+		</Row>
+		<!-- ANZAC -->
+		<Row Tag="TXT_KEY_UNIT_JFD_ANZAC">
+			<Text>ANZAC</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_JFD_ANZAC">
+			<Text>Standard Infantry Unit of the Modern era. Heals extra damage each turn when outside your borders, depending upon it's distance from the [ICON_CAPITAL] Capital. Only New Zealand may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_ANZAC_STRATEGY">
+			<Text>The ANZAC is one of New Zealand's unique units, replacing the Great War Infantry. This unit excels at fighting in foreign lands. When beginning its turn outside your borders, this unit heals more damage the further it is from the capital (up to 30 damage). It also possesses a slight combat bonus when fighting outside your borders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_ANZAC_TEXT">
+			<Text>The Australian and New Zealand Army Corps (ANZAC) was a First World War army corps of the Mediterranean Expeditionary Force that was formed in Egypt in 1915 and operated during the Battle of Gallipoli. General William Birdwood commanded the corps, which comprised troops from the First Australian Imperial Force and 1st New Zealand Expeditionary Force. The corps was disbanded in 1916 following the Allied evacuation of the Gallipoli peninsula and the formation of I Anzac Corps and II Anzac Corps.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ANZAC">
+			<Text>ANZAC</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ANZAC_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Heals[ENDCOLOR] additional damage each turn when outside your borders, depending upon distance from the [ICON_CAPITAL] Capital. +10% [ICON_STRENGTH] Combat Strength outside your borders.</Text>
+		</Row>
+		<!-- DEFENDER -->
+		<Row Tag="TXT_KEY_UNIT_JFD_DEFENDER">
+			<Text>Defender</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_JFD_DEFENDER">
+			<Text>Powerful, Industrial era naval meele unit, the Defender ignores enemy Zone of Control and gains additional [ICON_STRENGTH] Combat Strength when within 3 tiles of a friendly city. Has an additional Sight, but does not begin with a bonus to attacking cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_DEFENDER_STRATEGY">
+			<Text>A unique replacement for the Ironclad for New Zealand, the Defender ignores an enemy's zone of control and gains +25% additional combat strength whenever it is within 3 tiles of a friendly city (including those belonging to civilizations with whom you have a Defensive Pact). It also possesses an additional sight, making it an effective defense force for your coasts. However, it does not begin with a bonus to attacking cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_DEFENDER_TEXT">
+			<Text>The colonial service Defender-class torpedo boats were designed by Thornycroft & Company for the defence of New Zealand, built at Chiswick in 1883 and shipped to New Zealand. They were quickly obsolete and were left to deteriorate in situ. The remains of Defender are preserved at the Lyttelton Torpedo Boat Museum.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DEFENDER">
+			<Text>Coast Guard</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DEFENDER_INFO_HELP">
+			<Text>Ignores enemy Zone of Control and gains +33% [ICON_STRENGTH] Combat Strength when within two tiles of a friendly city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DEFENDER_HELP">
+			<Text>Ignores enemy Zone of Control and +33% [ICON_STRENGTH] Combat Strength.</Text>
+		</Row>
+		<!-- MINOR CIVS -->
+		<!-- Port Vila -->
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_PORT_VILA_DESC">
+			<Text>Port Vila</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_PORT_VILA_ADJECTIVE">
+			<Text>Port Vila</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_JFD_PORT_VILA_SHORT_DESC">
+			<Text>Port Vila</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_PORT_VILA_TEXT_1">
+			<Text>Port Vila is the capital and largest city of Vanuatu and is located on the island of Efate. The area occupied by Port Vila has been inhabited by Melanesian people for thousands of years. In Autumn of 2004, an archaeological expedition known as Teouma discovered a burial site of 25 tombs containing three dozen skeletons of members of the Lapita culture. Pieces of ceramics found at the site were dated to the 13th century BC. In May of 1606, the first Europeans arrived at the island, led by the Portuguese explorers Pedro Fernandes de Queirós and Luis Vaz de Torres.[4] In the 19th century when the islands were known as the New Hebrides, the British possessed economic control of the zone, though by the end of 1880, the economic balance began to favour the French; this transition can be seen in its nickel mines of New Caledonia and plantations. French citizen Ferdinand Chevillard began buying and clearing land around Port Vila to be converted into the largest French plantation on the island. Instead, it was converted into the municipality of Franceville, which declared independence on August 9, 1889, though this only lasted until June of the following year.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

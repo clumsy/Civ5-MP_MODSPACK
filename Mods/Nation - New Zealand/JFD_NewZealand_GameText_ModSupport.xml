@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--JFD'S EXPLORATION CONTINUED EXPANDED-->
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_NEW_ZEALAND_01">
+			<Text>Avarua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_NEW_ZEALAND_02">
+			<Text>Alofi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_NEW_ZEALAND_03">
+			<Text>Waitangi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_NEW_ZEALAND_04">
+			<Text>Raoul Island Station</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_NEW_ZEALAND_05">
+			<Text>Scott Base</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_NEW_ZEALAND_06">
+			<Text>McMurdo Station</Text>
+		</Row>
+		<!-- RYOGA's UNIQUE CULTURAL INFLUENCE -->
+		<Row Tag="TXT_KEY_GENERIC_JFD_NEW_ZEALAND_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now reading your Nobel Prize-winning literature and listening to your romantic compositions. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<!-- SUKRITACT's DECISIONS -->
+		<!--Commemorate the ANZACS-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_NEW_ZEALAND_COMMEMORATE_ANZACS">
+			<Text>Commemorate the ANZACS</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_NEW_ZEALAND_COMMEMORATE_ANZACS_DESC">
+			<Text>In honour of our brave soldiers, the Australian and New Zealand Army Corps, we commemorate their service to this nation and her allies by signing into law a national holiday marking a day upon which we pay respect to their sacrifices.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be New Zealand
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Modern Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Cities with a Military garrison gain +1 [ICON_HAPPINESS_1] Happiness
+				[NEWLINE][ICON_BULLET]All units with the 'ANZAC' promotion gain 10 XP
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_NEW_ZEALAND_COMMEMORATE_ANZACS_ENACTED_DESC">
+			<Text>In honour of our brave soldiers, the Australian and New Zealand Army Corps, we commemorate their service to this nation and her allies by signing into law a national holiday marking a day upon which we pay respect to their sacrifices.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Cities with a Military garrison gain +1 [ICON_HAPPINESS_1] Happiness
+				[NEWLINE][ICON_BULLET]All units with the 'ANZAC' promotion gain 10 XP
+			</Text>
+		</Row>
+		<!--Promulgate Imperial Ambitions-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_NEW_ZEALAND_PROMULGATE_IMPERIAL_PLANS">
+			<Text>Promulgate Imperial Plans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_NEW_ZEALAND_PROMULGATE_IMPERIAL_PLANS_DESC">
+			<Text>It is in our blood to rule; our forefathers were imperialists, and so we should be, too. Let us then establish an imperial realm with which to carve a place of strength for us on the international stage.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be New Zealand
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Industrial Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Naval Units gain a 33% bonus vs cities
+				[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]Note: The [ICON_CULTURE] Culture cost is equal to the cost of your next Social Policy[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_NEW_ZEALAND_PROMULGATE_IMPERIAL_PLANS_ENACTED_DESC">
+			<Text>
+				It is in our blood to rule; our forefathers were imperialists, and so we should be, too. Let us then establish an imperial realm with which to carve a place of strength for us on the international stage.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Naval Units gain a 33% bonus vs cities
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NZ_EMPIRE">
+			<Text>Imperial Ambitions</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NZ_EMPIRE_HELP">
+			<Text>+33% Bonus vs. Cities</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_NEW_ZEALAND_TOURISM">
+			<Text>JFD: NZ Tourism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_NEW_ZEALAND_TOURISM_HELP">
+			<Text>+3 [ICON_TOURISM] Tourism</Text>
+		</Row>
+		<!-- SUKRITACT's EVENTS -->
+		<!-- World Heritage Site -->
+		<Row Tag="TXT_KEY_EVENT_JFD_NEW_ZEALAND_WORLD_HERITAGE_SITE">
+			<Text>World Heritage Site</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NEW_ZEALAND_WORLD_HERITAGE_SITE_DESC">
+			<Text>An international committe has recently voted to declare {1_CityName} a world heritage site, because of its environmental significance. Such a status will surely bring in many new tourists to our visit our country.[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NEW_ZEALAND_WORLD_HERITAGE_SITE_OUTCOME_1">
+			<Text>Excellent. Charge them exorbitant rates to see it!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NEW_ZEALAND_WORLD_HERITAGE_SITE_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]{1_CityName} yields +2 [ICON_TOURISM] Tourism and +3 [ICON_GOLD] Gold[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NEW_ZEALAND_WORLD_HERITAGE_SITE_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have decided to monetize the World Heritage status bestown upon one of our cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NEW_ZEALAND_WORLD_HERITAGE_SITE_OUTCOME_2">
+			<Text>Wonderful. We must cherish this site for future generations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NEW_ZEALAND_WORLD_HERITAGE_SITE_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]{1_CityName} yields +2 [ICON_TOURISM] Tourism and +2 [ICON_CULTURE] Culture[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NEW_ZEALAND_WORLD_HERITAGE_SITE_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have decided to protect the World Heritage status bestown upon one of our cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_NEW_ZEALAND_WORLD_HERITAGE_SITE">
+			<Text>An international committe has declared the New Zealand city of {1_CityName} to be a World Heritage Site.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_NEW_ZEALAND_WORLD_HERITAGE_GOLD">
+			<Text>World Heritage Site</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_NEW_ZEALAND_WORLD_HERITAGE_CULTURE">
+			<Text>World Heritage Site</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_NEW_ZEALAND_WORLD_HERITAGE_GOLD_HELP">
+			<Text>+2 [ICON_TOURISM] Tourism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_NEW_ZEALAND_WORLD_HERITAGE_CULTURE_HELP">
+			<Text>+2 [ICON_TOURISM] Tourism</Text>
+		</Row>
+		<!-- Naval Invasion -->
+		<Row Tag="TXT_KEY_EVENT_JFD_NEW_ZEALAND_NAVAL_INVASION">
+			<Text>Naval Invasion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NEW_ZEALAND_NAVAL_INVASION_DESC">
+			<Text>The independent paper 'Southern Cross' has reported of the sudden declaration of war between the {2_CivName} and the {1_CivName}. With {3_CivName} a stern ally of ours, the paper has reported that it can only be too long before {4_CivName} seeks an invasion by sea of New Zealand.[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NEW_ZEALAND_NAVAL_INVASION_OUTCOME_1">
+			<Text>We must bolster the defense of our coasts!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NEW_ZEALAND_NAVAL_INVASION_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLD] Gold[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Receive a free {2_UnitName} for each coastal city in the empire[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NEW_ZEALAND_NAVAL_INVASION_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have dismissed the claim of an impending naval invasion as a hoax.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NEW_ZEALAND_NAVAL_INVASION_OUTCOME_2">
+			<Text>This is clearly a hoax. What nonsense.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NEW_ZEALAND_NAVAL_INVASION_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Nothing[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_NEW_ZEALAND_NAVAL_INVASION_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>In light of news of an impending invasion by sea, we have paid to bolster the coastal defenses of New Zealand.</Text>
+		</Row>
+		<!-- VICEVIRTUOSO's WISH FOR THE WORLD -->
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_JFD_NEW_ZEALAND">
+			<Text>Louisa Jane Spotswood</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
