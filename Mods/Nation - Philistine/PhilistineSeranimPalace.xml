@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/2/2014 9:30:20 PM -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_SERANIM_PALACE</Type>
+			<DefaultBuilding>BUILDING_SERANIM_PALACE</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_SERANIM_PALACE</Description>
+		</Row>
+	</BuildingClasses>
+	<Buildings>
+		<Replace>
+			<Type>BUILDING_SERANIM_PALACE</Type>
+			<BuildingClass>BUILDINGCLASS_SERANIM_PALACE</BuildingClass>
+			<Cost>-1</Cost>
+			<Description>TXT_KEY_BUILDING_SERANIM_PALACE</Description>
+			<Help>TXT_KEY_BUILDING_SERANIM_PALACE_HELP</Help>
+			<Civilopedia>TXT_KEY_BUILDING_SERANIM_PALACE_TEXT</Civilopedia>
+			<ArtDefineTag>TEMPLE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>53</PortraitIndex>
+		</Replace>
+	</Buildings>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_SERANIM_PALACE</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SERANIM_PALACE</BuildingType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SERANIM_PALACE</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SERANIM_PALACE</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<Building_DomainFreeExperiences>
+		<Row>
+			<BuildingType>BUILDING_SERANIM_PALACE</BuildingType>
+			<DomainType>DOMAIN_LAND</DomainType>
+			<Experience>10</Experience>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SERANIM_PALACE</BuildingType>
+			<DomainType>DOMAIN_SEA</DomainType>
+			<Experience>10</Experience>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SERANIM_PALACE</BuildingType>
+			<DomainType>DOMAIN_AIR</DomainType>
+			<Experience>10</Experience>
+		</Row>
+	</Building_DomainFreeExperiences>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_SERANIM_PALACE">
+			<Text>Seranim Palace</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SERANIM_PALACE_HELP">
+			<Text>May only be acquired by enacting the Philistine Pentapolis. +10 XP for units trained in this city</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SERANIM_PALACE_TEXT">
+			<Text>
+				The Philistines formed a league of five major cities (a Pentapolis): Gaza,Ashkelon, Ashdod, Ekron, and Gath, each of which was ruled by a "lord" (Hebrew seranim, which is perhaps better rendered as "tyrant," a Greek concept).
+
+				[NEWLINE][NEWLINE]Now being the majority people in the area, it did not take the Philistines long to ignore Egyptian overrule (Egypt had been weakened and exhausted by its conflict with the Sea Peoples) and to carve out their own nation between the desert buffer of Sinai and the weak, disunited, hill-country Israelite tribes. Their rise to power began in the early- to mid-twelfth century BC (for instance, the Philistines conquered Ashkelon in about 1175 bc), contemporaneous with the end of Deborah's judgeship and the length of Gideon's. By the days of Jephthah, Samson, and Samuel in the early eleventh century, the Philistines dominated most of the land of Canaan from Sinai to Galilee, especially in the areas closer to the coast. Until their defeat by David, the Philistine cities were ruled by seranim, “lords,” who acted in council for the common good of the nation. After their defeat, the seranim were replaced by kings.
+
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEUGI_PHILISTINE_SHORT_DESC_ENACTED">
+			<Text>Philistia</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

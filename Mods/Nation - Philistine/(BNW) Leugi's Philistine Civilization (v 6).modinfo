@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="b37e3c61-7f56-441b-800a-a099606047e6" version="6">
+  <Properties>
+    <Name>(BNW) Leugi's Philistine Civilization</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]Philistine Civilization[ENDCOLOR] to Brave New World with Abimelech as its leader!</Teaser>
+    <Description>Adds the [COLOR_POSITIVE_TEXT]Philistine Civilization[ENDCOLOR] to Brave New World with Abimelech as its leader!</Description>
+    <Authors>Leugi, Viregel, Tomatekh, Regalman</Authors>
+    <SpecialThanks>SushiSquid</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>0</AffectsSavedGames>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact's Events and Decisions" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="CDD25632D41311F285048695FDD91770" import="1">Art/Icons/MishkehNotification80.dds</File>
+    <File md5="621BCAB7D32F0232DCAA9F218EFDC4C8" import="1">Art/Icons/PhilistiaIcons128.dds</File>
+    <File md5="1D204E52E21E714AD17D1BD5D16CFE11" import="1">Art/Icons/PhilistiaIcons16.dds</File>
+    <File md5="E42260746A4D0A0CFAA19A3FD08F36E9" import="1">Art/Icons/PhilistiaIcons24.dds</File>
+    <File md5="2C0FE7D81178C37063FA67FC7D61B755" import="1">Art/Icons/PhilistiaIcons256.dds</File>
+    <File md5="892F2AD19E87922F5D29D8F6CAE71EF8" import="1">Art/Icons/PhilistiaIcons32.dds</File>
+    <File md5="A9F769D7BCC810BC6F326EA18CD6DDFD" import="1">Art/Icons/PhilistiaIcons45.dds</File>
+    <File md5="AEF6CB9926985EE16E31F3F63D3385BB" import="1">Art/Icons/PhilistiaIcons48.dds</File>
+    <File md5="72E0DFBA4D2DCE4A07395401820F2B62" import="1">Art/Icons/PhilistiaIcons64.dds</File>
+    <File md5="A4BF682E796D1A0773CAE161951DD903" import="1">Art/Icons/PhilistiaIcons80.dds</File>
+    <File md5="C86FC124E23D7F98ED86D5DB72E49CE4" import="1">Art/Main/Abimelech.dds</File>
+    <File md5="44A926841F356DBAD11072DFB2599B93" import="1">Art/Main/AbimelechDOM.dds</File>
+    <File md5="452B884FACA0D74BC9C6073478F4B832" import="1">Art/Main/PhilistiaMap.dds</File>
+    <File md5="447CB88D85EAEC20C340EB9C59C8EB4B" import="1">Art/Music/AbimelechPeace.mp3</File>
+    <File md5="5AF89C9B25983992504A2B6D46072FF1" import="1">Art/Music/AbimelechWar.mp3</File>
+    <File md5="D83A1AB58AA6CC18AE65A273BE7BC405" import="1">Art/Peleset/flag_peleset.dds</File>
+    <File md5="4D2FB3631B053ACFB19E22BB21D993F6" import="1">Art/Peleset/peleset.fxsxml</File>
+    <File md5="1C2E8041C746BE717304B33DC3F9EB83" import="1">Art/Peleset/peleset.gr2</File>
+    <File md5="DB546798DB5607D4E0BF60A49562976F" import="1">Art/Peleset/peleset_diff.dds</File>
+    <File md5="8FA2167B0C40DAA9C5F27830ECFB899D" import="1">Art/Peleset/sv_peleset.dds</File>
+    <File md5="AA92B2330D8B918BF3349BB5FEA1CF58" import="0">Compatibility/Decisions/AddPhilistineDecisions.sql</File>
+    <File md5="74707C88DFACD4DDEDF469EFE961904C" import="0">Compatibility/Decisions/ChangingNameonLoadPh.lua</File>
+    <File md5="D0A7D738871579C5593CA9451F5E79B9" import="0">Compatibility/Decisions/PhilistineDecisions.xml</File>
+    <File md5="5F42AF7926AB614B397703386775AC55" import="1">Compatibility/Decisions/PhilistineDecisionScriptsLeugi.lua</File>
+    <File md5="F2CE652CE5D8C7B9ABE4365B0C48C7A5" import="0">Compatibility/Decisions/PhilistineSeranimPalace.xml</File>
+    <File md5="90B418877EA1C6004C9E5C8E4745E2F8" import="0">Compatibility/Events/AddPhilistineEvents.sql</File>
+    <File md5="A80447F7963DFB83A51D078E536F3969" import="0">Compatibility/Events/PhilistineEvents.xml</File>
+    <File md5="48070359C51243F0425ECFDA3BD23416" import="1">Compatibility/Events/PhilistineEventScriptsLeugi.lua</File>
+    <File md5="3B3507B5E8E9BA259FB77A6417E33907" import="0">Compatibility/Map Labels/PhilistineCulture.sql</File>
+    <File md5="AEDE65974628E1C595F63AEBB4E2AE26" import="0">Compatibility/Piety/PhilistinePietyFlavour.sql</File>
+    <File md5="383E18DA8B7E1D66B91585306EBBD6C6" import="0">Compatibility/Religions/PhilistineReligion.sql</File>
+    <File md5="DE2474E9EC4C5673EEBDD3F459F7CF6E" import="0">Compatibility/TSL/PhilistineYNAEMP.sql</File>
+    <File md5="71942AC0CECE8CAD30A243F6C3A2A80D" import="0">Lua/ConquerFeast.lua</File>
+    <File md5="2F6C42362C513882B8A3A996007D7077" import="0">Lua/MishkehFeastScript.lua</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">Lua/SaveUtils.lua</File>
+    <File md5="F82814A6A5F509C519DC401120B0EA5A" import="0">sql/PelesetDefine.sql</File>
+    <File md5="A12BE16D35C9E530637224D42CD05CF3" import="0">XML/Atlas/IconAtlasPhilistine.xml</File>
+    <File md5="67F32BD4CA4A0A7189BE58C6BDA26E68" import="0">XML/Buildings/BuildingsPhilistine.xml</File>
+    <File md5="D97662856767F95706244FC23BB92A86" import="0">XML/Civilization/CitiesPhilistine.xml</File>
+    <File md5="327B46864D6816F97F04EBD06A4F6152" import="0">XML/Civilization/CivPhilistine.xml</File>
+    <File md5="54D33C24782D926A51D1F9911F342883" import="0">XML/Civilization/TraitsPhilistine.xml</File>
+    <File md5="F10DB96F3113E1CB5BBD2D5001BFAB9B" import="0">XML/Leader/AbimelechMusic.xml</File>
+    <File md5="0ED49889C9977CDD6642A48B9AB69FD3" import="1">XML/Leader/AbimelechScene.xml</File>
+    <File md5="C7BD3C6972369CCCEAAB32BCBBBA8AF3" import="0">XML/Leader/LeaderAbimelech.xml</File>
+    <File md5="CB386982A496FC150979D3805347E1EF" import="0">XML/Text/PhilistineCitiesText.xml</File>
+    <File md5="8C0D2851713C19E933AEBDB004B1AB77" import="0">XML/Text/PhilistineInfoText.xml</File>
+    <File md5="B7DE12D476B19E74FA1B7E0F986B1899" import="0">XML/Text/PhilistinePedias.xml</File>
+    <File md5="6C4F841E527AE34BF828604B3FF6114A" import="0">XML/Units/PhilistineUnits.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>sql/PelesetDefine.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Atlas/IconAtlasPhilistine.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/BuildingsPhilistine.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization/CitiesPhilistine.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization/CivPhilistine.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization/TraitsPhilistine.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader/AbimelechMusic.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader/LeaderAbimelech.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/PhilistineCitiesText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/PhilistineInfoText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/PhilistinePedias.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/PhilistineUnits.xml</UpdateDatabase>
+      <UpdateDatabase>Compatibility/Map Labels/PhilistineCulture.sql</UpdateDatabase>
+      <UpdateDatabase>Compatibility/Religions/PhilistineReligion.sql</UpdateDatabase>
+      <UpdateDatabase>Compatibility/TSL/PhilistineYNAEMP.sql</UpdateDatabase>
+      <UpdateDatabase>Compatibility/Decisions/PhilistineSeranimPalace.xml</UpdateDatabase>
+      <UpdateDatabase>Compatibility/Decisions/PhilistineDecisions.xml</UpdateDatabase>
+      <UpdateDatabase>Compatibility/Decisions/AddPhilistineDecisions.sql</UpdateDatabase>
+      <UpdateDatabase>Compatibility/Events/AddPhilistineEvents.sql</UpdateDatabase>
+      <UpdateDatabase>Compatibility/Events/PhilistineEvents.xml</UpdateDatabase>
+      <UpdateDatabase>Compatibility/Piety/PhilistinePietyFlavour.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Compatibility/Decisions/ChangingNameonLoadPh.lua">
+      <Name>Change Philistia name on Load</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/ConquerFeast.lua">
+      <Name>Movement while Happy</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/MishkehFeastScript.lua">
+      <Name>Mishkeh Feast Scripts</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

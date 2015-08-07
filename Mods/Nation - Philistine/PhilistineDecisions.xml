@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+
+	<Language_en_US>
+		<!--Sea Peoples-->
+		<Row Tag="TXT_KEY_DECISIONS_LEUGI_SEA_PEOPLES">
+			<Text>Start the Sea People Invasion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_LEUGI_SEA_PEOPLES_DESC">
+			<Text>
+				The Peleset can allow us to conquer and expand through the sea, and our enemies are not prepared for such a threat. No land will stand before our arms!
+				[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Philistines
+				[NEWLINE][ICON_BULLET]Player must have discovered Bronze Working
+				[NEWLINE][ICON_BULLET]Must be enacted before reaching Medieval Era
+				[NEWLINE][ICON_BULLET]May only be enacted once
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]1[ICON_MAGISTRATES]Magistrate
+				[NEWLINE][ICON_BULLET]750[ICON_GOLD]Gold
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive a Maintenance Free Peleset unit for every city you own (up to 4 Peleset)
+				[NEWLINE][ICON_BULLET]Already trained Peleset and those gifted receive a bonus against cities
+				[NEWLINE]
+				[NEWLINE][COLOR_POSITIVE_TEXT]Right Click for more Information on Peleset[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_LEUGI_SEA_PEOPLES_ENACTED_DESC">
+			<Text>
+				The invasion of the Sea Peoples has begun, and our empire will now reach its well deserved glory![NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Received 2 Free Peleset units for every city you owned upon enacting
+				[NEWLINE][ICON_BULLET]Peleset units got a bonus against cities
+			</Text>
+		</Row>
+		<!--Pentapolis-->
+		<Row Tag="TXT_KEY_DECISIONS_LEUGI_PENTAPOLIS">
+			<Text>Establish the Philistine Pentapolis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_LEUGI_PENTAPOLIS_DESC">
+			<Text>
+				After immigration from different tribes it is time for us to establish our empire. To do this, we can set up a Pentapolis in our five most important cities, allowing us to create a land called Philistia[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Philistines
+				[NEWLINE][ICON_BULLET]Player must have at least 5 cities
+				[NEWLINE][ICON_BULLET]Must be enacted after reaching the Classical Era
+				[NEWLINE][ICON_BULLET]May only be enacted once
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2[ICON_MAGISTRATES]Magistrates
+				[NEWLINE][ICON_BULLET]1000[ICON_GOLD]Gold
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Each of your first five cities receive a Seranim Palace
+				[NEWLINE][ICON_BULLET]Start a [ICON_GOLDEN_AGE]Golden Age
+				[NEWLINE][ICON_BULLET]Your civilization will be known as Philistia
+				[NEWLINE]
+				[NEWLINE][COLOR_POSITIVE_TEXT]Right Click for more Information on Seranim Palaces[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_LEUGI_PENTAPOLIS_ENACTED_DESC">
+			<Text>
+				We have established the Pentapolis, and our empire has grown more powerful[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Each of your first five cities received a Seranim Palace
+				[NEWLINE][ICON_BULLET]A Golden Age was started
+				[NEWLINE][ICON_BULLET]Your civilization is now known as Philistia
+			</Text>
+		</Row>
+	</Language_en_US>
+
+
+	<Language_ES_ES>
+	
+	</Language_ES_ES>
+</GameData>
+

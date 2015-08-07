@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/29/2014 10:27:19 PM -->
+<GameData>
+	<Language_en_US>
+		<Replace Tag="TXT_KEY_CITY_NAME_ASHDOD">
+			<Text>Ashdod</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_ASHKELON">
+			<Text>Ashkelon</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_GAZA">
+			<Text>Gaza</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_EKRON">
+			<Text>Ekron</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_GATH">
+			<Text>Gath</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_YURZA">
+			<Text>Yurza</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_GERAR">
+			<Text>Gerar</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_ZIKLAG">
+			<Text>Ziklag</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_SHARUHEN">
+			<Text>Sharuhen</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_AZEKETH">
+			<Text>Azeketh</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_TEL_QASILA">
+			<Text>Tel Qasila</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_APHEK">
+			<Text>Aphek</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_AZOR">
+			<Text>Azor</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_GIBBETHON">
+			<Text>Gibbethon</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_TIMNAH">
+			<Text>Timnah</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_JOPPA">
+			<Text>Joppa</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_ELTEKEH">
+			<Text>Eltekeh</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_LACHISH">
+			<Text>Lachish</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_LIBNAH">
+			<Text>Libnah</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_ASHDOD-YAM">
+			<Text>Ashdod-Yam</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_DOR">
+			<Text>Dor</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_GEDEROTH">
+			<Text>Gederoth</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_GIZMO">
+			<Text>Gizmo</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_GOLIATH">
+			<Text>Goliath</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_JABNEH">
+			<Text>Jabneh</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_RAMAT_MATRED">
+			<Text>Ramat Matred</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_EGLON">
+			<Text>Eglon</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_RAPHA">
+			<Text>Rapha</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CITY_NAME_BET_SHEMESH_">
+			<Text>Bet Shemesh </Text>
+		</Replace>
+	</Language_en_US>
+</GameData>

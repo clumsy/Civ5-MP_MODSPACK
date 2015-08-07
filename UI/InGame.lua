@@ -1379,6 +1379,11 @@ ContextPtr:LoadNewContext("JFD_NewZealand_Functions")
 ContextPtr:LoadNewContext("CityInfoStack")
 ContextPtr:LoadNewContext("JFD_NewZealand_CityInfo")
 
+-- Nation - Philistine --
+ContextPtr:LoadNewContext("ChangingNameonLoadPh")
+ContextPtr:LoadNewContext("ConquerFeast")
+ContextPtr:LoadNewContext("MishkehFeastScript")
+
 -- Nation - Slavs --
 ContextPtr:LoadNewContext("GESlavicFunctions")
 

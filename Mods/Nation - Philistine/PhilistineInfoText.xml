@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/4/2014 12:31:54 PM -->
+<GameData>
+	<Language_en_US>
+		
+		<Row Tag="TXT_KEY_FEAST_NOTIFICATION_TITLE">
+			<Text>Mishkeh Feast!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEAST_CONQUEST_SINGLECITY_NOTIFICATION">
+			<Text>After conquering a city your Capital has started a Mishkeh Feast granting you {1_gold}[ICON_GOLD] and {2_Faith}[ICON_PEACE]!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEAST_CONQUEST_NOTIFICATION">
+			<Text>After conquering a city your first {1_numcities} Cities have started a Mishkeh Feast granting you {2_gold}[ICON_GOLD] and {3_Faith}[ICON_PEACE] each!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEAST_RESOURCE_SINGLECITY_NOTIFICATION">
+			<Text>Your acquisition of {1_res} has started a Mishkeh Feast on your Capital, granting you {2_gold}[ICON_GOLD] and {3_Faith}[ICON_PEACE]!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEAST_RESOURCE_NOTIFICATION">
+			<Text>Your acquisition of {1_res} has started a Mishkeh Feast on your first {2_numcities} Cities, granting you {3_gold}[ICON_GOLD] and {4_Faith}[ICON_PEACE] each!</Text>
+		</Row>
+		
+		
+		<Row Tag="TXT_KEY_LEUGI_PHILISTINE_SHORT_DESC">
+			<Text>The Philistines</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEUGI_PHILISTINE_DESC">
+			<Text>Philistia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEUGI_PHILISTINE_ADJECTIVE">
+			<Text>Philistine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LEUGI_PHILISTINE_DOM_TEXT">
+			<Text>
+				May Dagon watch over thee and give thee welfare, noble Achish, King of Gath! Though their origins have been lost to time, connected to the mystery of the enigmatic Sea Peoples, the Philistines built a mighty Pentapolis in the southern Levant; developing a vibrant culture equally renowned for its indomitable warriors and joyous feasts. Yet, its location also placed the Philistines as bitter rivals to the emerging Kingdom of Israel. Amidst this constant warfare, it was you, Son of Maoch, who offered peace and hospitality to David as he fled the suspicions of Saul. Your guidance would lead the Philistine army to victory over Saul's forces, paving the way for David's ascension to the throne of Judah, and helping to secure Philistine control of southern Canaan. Yet, in just a few short centuries, even the mighty Pentapolis would fall as Assyria began its march across the ancient Middle East.
+
+				[NEWLINE][NEWLINE]Abimelech, much of the legacy and culture of your people has been lost. What is known has been maligned and tarnished through the stories of your enemies. It is time to return, to settle a new homeland and raise your drinks in praise to the gods once more. Can you forge a new empire whose history shall never be forgotten? Can you build a civilization that will stand the test of time?
+			</Text>
+		</Row>
+
+		
+		<!-- Trait-->
+		<Row Tag="TXT_KEY_TRAIT_MISHKEH_FEAST_SHORT">
+			<Text>Mishkeh Feasts</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TRAIT_MISHKEH_FEAST">
+			<Text>Whenever a new city is conquered or a new luxury resource is connected to the empire, the first 5 cities receive an instant amount of [ICON_PEACE] Faith and [ICON_GOLD] Gold</Text>
+		</Row>
+
+		<!-- Building-->
+		<Row Tag="TXT_KEY_BUILDING_PHILISTINE_BREWERY">
+			<Text>Brewery</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PHILISTINE_BREWERY_HELP">
+			<Text>Philistine replacement for Colosseum. Costs no manteinance. +1 [ICON_PEACE] Faith and [ICON_GOLD] Gold on [ICON_RES_WINE] Wine and [ICON_RES_WHEAT] Wheat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PHILISTINE_BREWERY_STRATEGY">
+			<Text>The Brewery not only grants more happiness, but also more gold to be used for trading for more luxury resources or buying units</Text>
+		</Row>
+		
+		<!-- Unit-->
+		<Row Tag="TXT_KEY_UNIT_PHILISTINE_PELESET">
+			<Text>Peleset</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PHILISTINE_PELESET_HELP">
+			<Text>Philistine replacement for Spearman. May embark, receiving an extra move while embarked and starts with the Amphibious promotion. Earns [ICON_GOLD] Gold upon attacking a city.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PHILISTINE_PELESET_STRATEGY">
+			<Text>Peleset are the main invading force for the Philistines. Being able to embark before Navigation, the Peleset are useful both for exploring and raiding. Earning gold upon attacking cities ensures you will keep your empire financed while waging wars</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_PHILISTINE_BREWERY">
+			<Text>Festive Motivation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PHILISTINE_BREWERY_HELP">
+			<Text>This unit receives extra movement while the empire is happy!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_LEUGI_PHILISTINE_0">
+			<Text>Goliath</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LEUGI_PHILISTINE_1">
+			<Text>Delilah</Text>
+			<Gender>femenine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LEUGI_PHILISTINE_2">
+			<Text>Achisch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LEUGI_PHILISTINE_3">
+			<Text>Elhanan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LEUGI_PHILISTINE_4">
+			<Text>Bedan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LEUGI_PHILISTINE_5">
+			<Text>Saph</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LEUGI_PHILISTINE_6">
+			<Text>Seranim</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LEUGI_PHILISTINE_7">
+			<Text>Ishbi-Benob</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LEUGI_PHILISTINE_8">
+			<Text>Timmah</Text>
+			<Gender>femenine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LEUGI_PHILISTINE_9">
+			<Text>Lahmi</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

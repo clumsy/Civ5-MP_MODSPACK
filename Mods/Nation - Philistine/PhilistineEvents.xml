@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Goliath the General -->
+		<Row Tag="TXT_KEY_EVENT_PHILISTINE_GOLIATH">
+			<Text>Goliath of Gath</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PHILISTINE_GOLIATH_DESC">
+			<Text>Our troops have been battling with our enemies on the Valley of Elah. As our customs demand, we need a Champion to decide the outcome of battles in single combat and so terrify our opponents. A Champion of Dagon, our great god, must arise against our weak and febble enemies. A man of Tell es-Safi, called Goliath, has proven to be strong nd terrifying, as well as unusually tall, he could get rid of every enemy with a single hit of his sword.[NEWLINE]
+			</Text>
+		</Row>
+		<!-- Goliath: Outcome 1 -->
+		<Row Tag="TXT_KEY_EVENT_PHILISTINE_GOLIATH_OUTCOME_1">
+			<Text>Let's get him the blessing of Dagon our God</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PHILISTINE_GOLIATH_OUTCOME_RESULT_1">
+			<Text>
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_GoldCost} [ICON_GOLD] Gold and {2_FaithCost} [ICON_PEACE] Faith[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain a free stronger Peleset Unit, that earns faith from kills and terrifies nearby oponents.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PHILISTINE_GOLIATH_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have given Goliath the blessing of Dagon, and he shall be his champion in this battle!</Text>
+		</Row>
+		<!-- Goliath: Outcome 2 -->
+		<Row Tag="TXT_KEY_EVENT_PHILISTINE_GOLIATH_OUTCOME_2">
+			<Text>Let's hope no stones are thrown at him</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PHILISTINE_GOLIATH_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Cost} [ICON_GOLD] Gold[ENDCOLOR]
+			[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain a free stronger Peleset Unit that terrifies nearby oponents but may not be upgraded[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PHILISTINE_GOLIATH_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have hired Goliath as the champion of our empire, hoping he won't be defeated eventually</Text>
+		</Row>
+		<!-- Goliath: Outcome 3 -->
+		<Row Tag="TXT_KEY_EVENT_PHILISTINE_GOLIATH_OUTCOME_3">
+			<Text>Our troops shall suffice against this enemy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PHILISTINE_GOLIATH_OUTCOME_RESULT_3">
+			<Text>[ICON_BULLET]Nothing happens</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PHILISTINE_GOLIATH_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>We have decided Goliath is not needed</Text>
+		</Row>
+		<!-- Goliath: TEXTS -->
+		<Row Tag="TXT_KEY_EVENT_PHILISTINE_GOLIATH_OTHERS_ALERT">
+			<Text>Rumor has it a man called Goliath has asked to join the Philistine army</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GOLIATH">
+			<Text>Goliath</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
