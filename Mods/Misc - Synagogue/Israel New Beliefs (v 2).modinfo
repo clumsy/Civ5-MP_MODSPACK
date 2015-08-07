@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="25c5315d-c679-44d9-8584-982949d9b650" version="2">
+  <Properties>
+    <Name>Israel New Beliefs</Name>
+    <Teaser>Adds 2 New Beliefs related to Judaism (Holy Temple, and Synagogues)</Teaser>
+    <Description>Adds 2 New Beliefs related to Judaism (Holy Temple, and Synagogues), requires Brave New World.</Description>
+    <Authors>Leugi</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>0</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="8CF5AB1A9485289741CC4EB5662F7328" import="1">Art/SynagogueIcon128.dds</File>
+    <File md5="83C1DB0255D8E582D2A510D620005AA1" import="1">Art/SynagogueIcon64.dds</File>
+    <File md5="F2AA63DF84491F465CFD38DED5DC2512" import="1">Art/SynagogueIcon256.dds</File>
+    <File md5="502CF438359F7F0F0F32EAC924E6A501" import="1">Art/SynagogueIcon32.dds</File>
+    <File md5="6ED6750E99D7A62AE06CECFB370949C8" import="1">Art/SynagogueIcon45.dds</File>
+    <File md5="B82EA0B2B4A04468B71868BFA1E5385B" import="1">Art/SynagogueIcon80.dds</File>
+    <File md5="EB93B4576BFFBA209EADBB6392C699BD" import="1">XML/Art/IconTextureAtlasesSynagogue.xml</File>
+    <File md5="6341BBD64E37FBE0676CB3890B48A9C7" import="0">XML/Beliefs/SynagogueNewBeliefs.xml</File>
+    <File md5="AEED6EA4EB9105C705C8E02F2F1FDBD0" import="0">XML/Beliefs/TXTNewBeliefs.xml</File>
+    <File md5="B733E1AA566E654B57EB964D9466FF46" import="0">XML/Buildings/NewBuildingsSynagogue.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Art/IconTextureAtlasesSynagogue.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Beliefs/SynagogueNewBeliefs.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/NewBuildingsSynagogue.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Beliefs/TXTNewBeliefs.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

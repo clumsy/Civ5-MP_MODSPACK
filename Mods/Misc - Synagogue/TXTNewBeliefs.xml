@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/3/2013 10:32:52 AM -->
+<GameData>
+	<Language_en_US>
+		
+		<Row Tag="TXT_KEY_BUILDING_SYNAGOGUE">
+			<Text>Synagogue</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SYNAGOGUE_STRATEGY">
+			<Text>Synagogues enhancements to culture make it a very useful building, allowing policies in exchange of faith.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SYNAGOGUE_HELP">
+			<Text> </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SYNAGOGUE_DESC">
+			<Text>
+				A synagogue, is a Jewish or Samaritan house of prayer that emerged at first essentially within the context of Hellenistic Judaism in the diasporas of Greece and the Hellenized regions of the MENA area (Cilicia, Syria and Alexandria) in the second half of the Second Temple period, then progressively became the typical place of Jewish worship and education after 70 CE, when Roman persecutions accelerated the geographic dispersion process that accompanied the abrupt ending of Temple worship and priestly rituals and traditions.
+				[NEWLINE][NEWLINE]
+				Synagogues have a large hall for prayer (the main sanctuary) with an Ark holding Torah scrolls, and can also have smaller rooms for study and sometimes a social hall for occasions as well as offices for bookkeeping. Some have a separate room for Torah study, called the beit midrash (Sfard) "beis midrash (Ashkenaz)—(House of Studying).
+				[NEWLINE][NEWLINE]
+				Synagogues are consecrated spaces intended for the purpose of prayer; however, a synagogue is not necessary for worship. Communal Jewish worship can be carried out wherever ten Jews (a minyan) assemble. Worship can also be carried out alone or with fewer than ten people assembled together. However, there are certain prayers that are communal prayers and therefore can be recited only by a minyan. Except in Reform Judaism, a synagogue is not viewed as replacing the long-since destroyed Temple in Jerusalem.
+				[NEWLINE][NEWLINE]
+				Israelis use the Hebrew term bet knesset (house of assembly). Jews of Ashkenazi descent have traditionally used the Yiddish term "shul" (cognate with the German Schule, school) in everyday speech. Spanish and Portuguese Jews call the synagogue an esnoga. Persian Jews and Karaite Jews use the term kenesa, which is derived from Aramaic, and some Arabic-speaking Jews use knis. Some Reform and Conservative Jews use temple.The Greek word synagogue is a good all-around term, used in English (and German and French), to cover the preceding possibilities.
+				[NEWLINE][NEWLINE]
+				Synagogues often take on a broader role in modern Jewish communities and may include additional facilities such as a catering hall, kosher kitchen, religious school, library, day care center and a smaller chapel for daily services.
+			</Text>
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_BELIEF_SYNAGOGUES_SHORT">
+			<Text>Synagogues</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_SYNAGOGUES">
+			<Text>Use [ICON_PEACE] Faith to purchase Synagogues (+2 [ICON_PEACE] Faith, +3 [ICON_CULTURE] Culture, +1 [ICON_HAPPINESS_1] Happiness).</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BELIEF_HOLY_TEMPLE_SHORT">
+			<Text>Holy Temple</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_HOLY_TEMPLE">
+			<Text>Grand Temple generates +2[ICON_HAPPINESS_1]Happiness, +3[ICON_CULTURE]Culture and +4[ICON_TOURISM] Tourism</Text>
+		</Row>
+
+	</Language_en_US>
+</GameData>

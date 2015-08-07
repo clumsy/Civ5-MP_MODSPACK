@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/18/2013 3:04:49 PM -->
+<GameData>
+	<BuildingClasses>
+		<!-- Religion Buildings -->
+		<Row>
+			<Type>BUILDINGCLASS_SYNAGOGUE</Type>
+			<DefaultBuilding>BUILDING_SYNAGOGUE</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_SYNAGOGUE</Description>
+		</Row>
+		
+	</BuildingClasses>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_SYNAGOGUE</Type>
+			<BuildingClass>BUILDINGCLASS_SYNAGOGUE</BuildingClass>
+			<MaxStartEra>ERA_RENAISSANCE</MaxStartEra>
+			<Cost>-1</Cost>
+			<FaithCost>200</FaithCost>
+			<UnlockedByBelief>true</UnlockedByBelief>
+			<GoldMaintenance>0</GoldMaintenance>
+			<Help>TXT_KEY_BUILDING_SYNAGOGUE_HELP</Help>
+			<Description>TXT_KEY_BUILDING_SYNAGOGUE</Description>
+			<Civilopedia>TXT_KEY_BUILDING_SYNAGOGUE_DESC</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_SYNAGOGUE_STRATEGY</Strategy>
+			<Happiness>1</Happiness>
+			<ArtDefineTag>TEMPLE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<CapturePlunderModifier>100</CapturePlunderModifier>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>CIV_COLOR_ATLAS_SYNAGOGUE</IconAtlas>
+			<PortraitIndex>2</PortraitIndex>
+		</Row>
+		
+	</Buildings>
+
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_SYNAGOGUE</BuildingType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SYNAGOGUE</BuildingType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		
+	</Building_Flavors>
+	
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_SYNAGOGUE</BuildingType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SYNAGOGUE</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>3</Yield>
+		</Row>
+	
+	</Building_YieldChanges>
+	
+</GameData>

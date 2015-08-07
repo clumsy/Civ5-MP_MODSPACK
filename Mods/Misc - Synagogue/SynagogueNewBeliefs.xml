@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/24/2013 11:50:18 AM -->
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>CIV_COLOR_ATLAS_SYNAGOGUE</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>SynagogueIcon256.dds</Filename>
+			<IconsPerRow>2</IconsPerRow>
+			<IconsPerColumn>2</IconsPerColumn>
+		</Row>
+
+		<Row>
+			<Atlas>CIV_COLOR_ATLAS_SYNAGOGUE</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>SynagogueIcon128.dds</Filename>
+			<IconsPerRow>2</IconsPerRow>
+			<IconsPerColumn>2</IconsPerColumn>
+		</Row>
+
+		<Row>
+			<Atlas>CIV_COLOR_ATLAS_SYNAGOGUE</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>SynagogueIcon64.dds</Filename>
+			<IconsPerRow>2</IconsPerRow>
+			<IconsPerColumn>2</IconsPerColumn>
+		</Row>
+
+		<Row>
+			<Atlas>CIV_COLOR_ATLAS_SYNAGOGUE</Atlas>
+			<IconSize>32</IconSize>
+			<Filename>SynagogueIcon32.dds</Filename>
+			<IconsPerRow>2</IconsPerRow>
+			<IconsPerColumn>2</IconsPerColumn>
+		</Row>
+
+
+
+		<Row>
+			<Atlas>CIV_COLOR_ATLAS_SYNAGOGUE</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>SynagogueIcon80.dds</Filename>
+			<IconsPerRow>2</IconsPerRow>
+			<IconsPerColumn>2</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+	<Beliefs>
+		<Row>
+			<Type>BELIEF_HOLY_TEMPLE</Type>
+			<Description>TXT_KEY_BELIEF_HOLY_TEMPLE</Description>
+			<ShortDescription>TXT_KEY_BELIEF_HOLY_TEMPLE_SHORT</ShortDescription>
+			<Enhancer>true</Enhancer>
+		</Row>
+		<Row>
+			<Type>BELIEF_SYNAGOGUES</Type>
+			<Description>TXT_KEY_BELIEF_SYNAGOGUES</Description>
+			<ShortDescription>TXT_KEY_BELIEF_SYNAGOGUES_SHORT</ShortDescription>
+			<Follower>true</Follower>
+		</Row>
+	</Beliefs>
+	<Belief_BuildingClassFaithPurchase>
+
+		<Row>
+			<BeliefType>BELIEF_SYNAGOGUES</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_SYNAGOGUE</BuildingClassType>
+		</Row>
+	</Belief_BuildingClassFaithPurchase>
+	<Belief_BuildingClassYieldChanges>
+		<Row>
+			<BeliefType>BELIEF_HOLY_TEMPLE</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_GRAND_TEMPLE</BuildingClassType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<YieldChange>3</YieldChange>
+		</Row>
+	</Belief_BuildingClassYieldChanges>
+	<Belief_BuildingClassTourism>
+		<Row>
+			<BeliefType>BELIEF_HOLY_TEMPLE</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_GRAND_TEMPLE</BuildingClassType>
+			<Tourism>4</Tourism>
+		</Row>
+	</Belief_BuildingClassTourism>
+	<Belief_BuildingClassHappiness>
+		<Row>
+			<BeliefType>BELIEF_HOLY_TEMPLE</BeliefType>
+			<BuildingClassType>BUILDINGCLASS_GRAND_TEMPLE</BuildingClassType>
+			<Happiness>2</Happiness>
+		</Row>
+	</Belief_BuildingClassHappiness>
+</GameData>
