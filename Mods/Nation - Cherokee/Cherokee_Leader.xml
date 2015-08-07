@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/19/2015 10:43:18 PM -->
+<GameData>
+
+	<Leaders>
+		<Row>
+			<Type>LEADER_RJOHN_ROSS</Type>
+
+			<Description>TXT_KEY_LEADER_RJOHN_ROSS</Description>
+
+			<Civilopedia>TXT_KEY_LEADER_RJOHN_ROSS_PEDIA</Civilopedia>
+
+			<CivilopediaTag>TXT_KEY_CIVILOPEDIA_LEADERS_RJOHN_ROSS</CivilopediaTag>
+
+			<ArtDefineTag>Cherokee_Scene.xml</ArtDefineTag>
+
+			<VictoryCompetitiveness>4</VictoryCompetitiveness>
+			<WonderCompetitiveness>5</WonderCompetitiveness>
+			<MinorCivCompetitiveness>6</MinorCivCompetitiveness>
+			<Boldness>6</Boldness>
+			<DiploBalance>6</DiploBalance>
+			<WarmongerHate>8</WarmongerHate>
+			<WorkAgainstWillingness>3</WorkAgainstWillingness>
+			<WorkWithWillingness>8</WorkWithWillingness>
+			<DenounceWillingness>3</DenounceWillingness>
+			<DoFWillingness>7</DoFWillingness>
+			<Loyalty>7</Loyalty>
+			<Neediness>7</Neediness>
+			<Forgiveness>7</Forgiveness>
+			<Chattiness>7</Chattiness>
+			<Meanness>2</Meanness>
+			<IconAtlas>RCHEROKEE_ICON_ATLAS</IconAtlas>
+			<PortraitIndex>1</PortraitIndex>
+
+		</Row>
+	</Leaders>
+
+	<Leader_MajorCivApproachBiases>
+		<Row>
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_WAR</MajorCivApproachType>
+			<Bias>5</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_HOSTILE</MajorCivApproachType>
+			<Bias>3</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_DECEPTIVE</MajorCivApproachType>
+			<Bias>3</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_GUARDED</MajorCivApproachType>
+			<Bias>4</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_AFRAID</MajorCivApproachType>
+			<Bias>7</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_FRIENDLY</MajorCivApproachType>
+			<Bias>7</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_NEUTRAL</MajorCivApproachType>
+			<Bias>8</Bias>
+		</Row>
+	</Leader_MajorCivApproachBiases>
+
+	<Leader_MinorCivApproachBiases>
+		<Row>
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_IGNORE</MinorCivApproachType>
+			<Bias>3</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_FRIENDLY</MinorCivApproachType>
+			<Bias>7</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_PROTECTIVE</MinorCivApproachType>
+			<Bias>5</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_CONQUEST</MinorCivApproachType>
+			<Bias>3</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_BULLY</MinorCivApproachType>
+			<Bias>3</Bias>
+		</Row>
+	</Leader_MinorCivApproachBiases>
+
+	<Leader_Flavors>
+		<Row>
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+			<FlavorType>FLAVOR_RECON</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+			<FlavorType>FLAVOR_RANGED</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+			<FlavorType>FLAVOR_MOBILE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_RECON</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_GROWTH</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_TILE_IMPROVEMENT</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+			<FlavorType>FLAVOR_AIR</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+			<FlavorType>FLAVOR_TILE_IMPROVEMENT</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+			<FlavorType>FLAVOR_INFRASTRUCTURE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+			<FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+			<FlavorType>FLAVOR_DIPLOMACY</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+			<FlavorType>FLAVOR_SPACESHIP</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+			<FlavorType>FLAVOR_WATER_CONNECTION</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+			<FlavorType>FLAVOR_NUKE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+			<FlavorType>FLAVOR_USE_NUKE</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+			<FlavorType>FLAVOR_ESPIONAGE</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+			<FlavorType>FLAVOR_ANTIAIR</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+			<FlavorType>FLAVOR_AIR_CARRIER</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+			<FlavorType>FLAVOR_ARCHAEOLOGY</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+			<FlavorType>FLAVOR_I_LAND_TRADE_ROUTE</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+			<FlavorType>FLAVOR_I_SEA_TRADE_ROUTE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+			<FlavorType>FLAVOR_I_TRADE_ORIGIN</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+			<FlavorType>FLAVOR_I_TRADE_DESTINATION</FlavorType>
+			<Flavor>9</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+			<FlavorType>FLAVOR_AIRLIFT</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+	</Leader_Flavors>
+
+
+
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_RJOHN_ROSS">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_RJOHN_ROSS_FIRSTGREETING_%</Response>
+		</Row>
+		<Row LeaderType="LEADER_RJOHN_ROSS">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_RJOHN_ROSS_DEFEATED_%</Response>
+		</Row>
+		<Row LeaderType="LEADER_RJOHN_ROSS">
+			<ResponseType>RESPONSE_EXPANSION_SERIOUS_WARNING</ResponseType>
+			<Response>TXT_KEY_RJOHN_ROSS_EXPANSION_SERIOUS_WARNING%</Response>
+		</Row>
+	</Diplomacy_Responses>
+
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_RJOHN_ROSS">
+			<Text>John Ross</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RJOHN_ROSS_PEDIA">
+			<Text>John Ross</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RJOHN_ROSS">
+			<Text>Test text.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RJOHN_ROSS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RJOHN_ROSS_TEXT_1">
+			<Text>In the first half of the 19th century, the Cherokee had formed a nation state, lost their ancestral homelands, endured removal to the Indian Territory, and suffered defeat in the American Civil War (due to an early alliance of the majority with the Confederacy). During this period, one dominant political figure in the Cherokee Nation was John Ross. His mother was mixed-race Cherokee and belonged to the tribe; as the people were matrilineal, Ross belonged to her Bird Clan. By ancestry, he was one-eighth Cherokee and seven-eighths Scots, and he grew up in both Cherokee and frontier American environments. Educated in English by white men, he was a poor speaker of the Cherokee language, but his bi-cultural background allowed him to represent the Cherokee to the United States government. He became one of the wealthiest men of The Nation.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RJOHN_ROSS_HEADING_2">
+			<Text>Early Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RJOHN_ROSS_TEXT_2">
+			<Text>
+				Ross spent his childhood with his parents in the area of Lookout Mountain. He saw much of Cherokee society as he encountered the full-blood Cherokee who frequented his father's trading company. As a child, Ross participated in tribal events, such as the Green Corn Festival. The elder Ross was determined that John also receive a rigorous classical education. After being educated at home, Ross pursued higher studies with the Reverend Gideon Blackburn, who established two schools in southeast Tennessee for Cherokee children. Classes were in English and students were mostly of mixed race, like Ross. The young Ross finished his education at an academy in South West Point, Tennessee.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RJOHN_ROSS_HEADING_3">
+			<Text>Rise to leadership</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RJOHN_ROSS_TEXT_3">
+			<Text>
+				The years 1811 to 1827 were a period of political apprenticeship for Ross. He learned how to conduct negotiations with the United States and the skills required to run a national government. After 1814, Ross's political career as a Cherokee legislator and diplomat progressed with the support of individuals such as the Principal Chief Pathkiller,[14] Assistant Principal Chief Charles R. Hicks, and Casey Holmes, an elder statesman of the Cherokee Nation, as well as the women elders of his clan. By 1813, as relations with the United States became more complex, older, uneducated chiefs such as Pathkiller could not effectively defend Cherokee interests. The ascendancy of Ross indicated Cherokee recognition that an educated, English-speaking leadership was of national importance. Both Pathkiller and Hicks believed Ross could be a future leader of the Cherokee Nation, and they trained him for this work. Ross served as clerk to Pathkiller and Hicks, where he worked on all financial and political matters of the nation. They also steeped him in Cherokee tradition. In a series of letters to Ross, Hicks outlined what was known of Cherokee traditions. In 1816, the chief's council named Ross to his first delegation to Washington. The delegation of 1816 was directed to resolve the sensitive issues of national boundaries, land ownership, and white encroachment on Cherokee land. Of the delegates, only Ross was fluent in English, making him the central figure in the negotiations. This was a unique position for a young man in Cherokee society, which traditionally favored older leaders.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RJOHN_ROSS_HEADING_4">
+			<Text>Diplomacy with the US</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RJOHN_ROSS_TEXT_4">
+			<Text>
+				In 1819, the Council sent Ross to Washington, D.C.. He assumed a larger leadership role. The purpose of the delegation was to clarify the provisions of the Treaty of 1817. The delegation had to negotiate the limits of the ceded lands and hope to clarify the Cherokee's right to the remaining lands. John C. Calhoun, the Secretary of War, pressed Ross to cede large tracts of land in Tennessee and Georgia. Such pressure from the US government continued and intensified. In October 1822, Calhoun requested that the Cherokee relinquish their land claimed by Georgia, in fulfillment of the United States' obligation under the Compact of 1802. Before responding to Calhoun's proposition, Ross first ascertained the sentiment of the Cherokee people. They were unanimously opposed to further cession of land. In January 1824, Ross traveled to Washington to defend the Cherokee possession of their land. Calhoun offered two solutions to the Cherokee delegation: either relinquish title to their lands and remove west, or accept denationalization and become citizens of the United States. Rather than accept Calhoun's ultimatum, Ross directly petitioned Congress for the Cherokee cause on April 15, 1824. This fundamentally altered the traditional relationship between an Indian nation and the US government. Never before had an Indian nation petitioned Congress with grievances. In Ross' correspondence, what had previously been the tone of petitions by submissive Indians was replaced by assertive defenders. Ross was able to argue subtle points about legal responsibilities as well as whites. This change was apparent to individuals in Washington, including future president John Quincy Adams.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RJOHN_ROSS_HEADING_5">
+			<Text>Principal Chief of the Cherokee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RJOHN_ROSS_TEXT_5">
+			<Text>
+				In January 1827, Pathkiller, the Cherokee's principal chief and last hereditary chief, and, two weeks later, Charles R. Hicks, Ross's mentor, both died. Ross, as president of the National Committee and Major Ridge, as speaker of the National Council, were responsible for the affairs of the tribe. In a letter dated February 23, 1827, to Colonel Hugh Montgomery, the Cherokee agent, Ross wrote that with the death of Hicks, he had assumed responsibility for all public business of The Nation. Charles Hicks' brother William served briefly as interim chief until a permanent chief could be elected. Although he believed he was the natural heir to his brother's position, William Hicks had not impressed the tribe with his abilities. A majority of the people knew that during the year Ross, not Hicks, had taken care of all of the mundane business of the tribe. On October 17, 1828 the Cherokee elected John Ross as principal chief. The Cherokee Council passed a series of laws creating a bicameral national government. In 1822 they created the Cherokee Supreme Court, capping the creation of a three-branch government. In May 1827, Ross was elected to the twenty-four member constitutional committee. It drafted a constitution calling for a principal chief, a council of the principal chiefs, and a National Committee, which together would form the General Council of the Cherokee Nation, a constitutional republic. Although the constitution was ratified in October 1827, it did not take effect until October 1828, at which point Ross was elected principal chief. He was repeatedly reelected and held this position until his death in 1866. He was very popular, among both full-bloods, who comprised three-fourths of the population, and mixed-bloods.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RJOHN_ROSS_HEADING_6">
+			<Text>Cherokee vs Georgia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RJOHN_ROSS_TEXT_6">
+			<Text>
+				On December 8, 1829, President Andrew Jackson made a speech announcing his intention to pass a bill through Congress by the following spring requiring Indian tribes living in the Southeastern states to move west of the Mississippi. On December 19, 1829, the Georgia legislature, enacted a series of laws which confiscated a large section of Cherokee land, nullified Cherokee law within the confiscated area, banned further meetings of the Cherokee government in Georgia, declared contracts between Indians and whites null and void unless witnessed by two whites, disallowed Indians from testifying against a white person in court and forbade Cherokee to dig for gold on their own lands. The laws were made effective June 1, 1830. These were calculated to force the Cherokee to move. In May 1830, Congress endorsed Jackson's policy of removal by passing the Indian Removal Act. Jackson signed the Act on May 23. It authorized the president to set aside lands west of the Mississippi to exchange for the lands of the Indian nations in the Southeast. In the summer of 1830, Jackson urged the Cherokee, Chickasaw, Choctaw and Creek to sign individual treaties accepting removal from their homelands. The Cherokee refused to attend a meeting in Nashville that Jackson proposed. The other tribes signed off on Jackson's terms. When Ross and the Cherokee delegation failed in their efforts to protect Cherokee lands through dealings with the executive branch and Congress, Ross took the radical step of defending Cherokee rights through the U.S. courts. In June 1830, at the urging of Senator Webster and Senator Frelinghuysen, the Cherokee delegation selected William Wirt, US Attorney General in the Monroe and Adams administrations, to defend Cherokee rights before the U.S. Supreme Court. Wirt argued two cases on behalf of the Cherokee: Cherokee Nation v. Georgia and Worcester v. Georgia. In Cherokee Nation v. Georgia,' Chief Justice John Marshall acknowledged that the Cherokee were a sovereign nation, stating, "[T]he Cherokees as a state, as a distinct political society, separated from others, capable of managing its own affairs and governing itself, has, in the opinion of a majority of the judges, been completely successful." But he did not compel President Jackson to take action that would defend the Cherokee from Georgia's laws, because he did not find that the U.S. Supreme Court had original jurisdiction over a case in which a tribe was a party. In 1832, the Supreme Court further defined the relation of the federal government and the Cherokee Nation. In Worcester v. Georgia, the Court found that Georgia could not extend its laws to the Cherokee Nation because that was a power of the federal government. Marshall stated that "the acts of Georgia are repugnant to the Constitution, laws and treaties of the United States. They interfere forcibly with the relations established between the United States and the Cherokee nation, the regulation of which, according to the settled principles of our Constitution, are committed exclusively to the government of the Union." The Cherokee were considered sovereign enough to legally resist the government of Georgia, and they were encouraged to do so.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RJOHN_ROSS_HEADING_7">
+			<Text>The Ridge party</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RJOHN_ROSS_TEXT_7">
+			<Text>
+				In a meeting in May 1832, Supreme Court Justice John McLean spoke with the Cherokee delegation to offer his views on their situation. McLean's advice was to "remove and become a Territory with a patent in fee simple to the nation for all its lands, and a delegate in Congress, but reserving to itself the entire right of legislation and selection of all officers." He agreed to send Ross a letter explaining his views. Ross was furious, believing that this was a form of treachery. McLean's advice precipitated a split within the Cherokee leadership as John Ridge and Elias Boudinot began to doubt Ross's leadership. John Ridge introduced a resolution at the national council meeting in October, 1832 to send a delegation to Washington to discuss a removal treaty with President Jackson. The council rejected Ridge's proposal and instead selected Joseph Vann, John Baldridge, Richard Taylor and John Ross to represent the Cherokee. In February 1833, Ridge wrote Ross advocating that the delegation dispatched to Washington that month should begin removal negotiations with Jackson. Ridge and Ross did not have irreconcilable worldviews; neither believed that the Cherokee could fend off Georgian usurpation of Cherokee land. However, Ridge was furious that Ross had refused to consider Jackson's offer to pay the Cherokee $3,000,000 for all their lands in Georgia, Alabama and Tennessee. In this environment, Ross led a delegation to Washington in March 1834 to try to negotiate alternatives to removal. Ross made several proposals; however, the Cherokee Nation may not have approved any of Ross's plans, nor was there reasonable expectation that Jackson would settle for any agreement short of removal. These offers, coupled with the lengthy cross-continental trip, indicated that Ross's strategy was to prolong negotiations on removal indefinitely.  Ross's strategy was flawed because it was susceptible to the United States' making a treaty with a minority faction. On May 29, 1834, Ross received word from John H. Eaton, that a new delegation, including Major Ridge, John Ridge, Elias Boudinot, and Ross' younger brother Andrew, collectively called the "Ridge Party" or "Treaty Party", had arrived in Washington with the goal of signing a treaty of removal. The two sides attempted reconciliation, but by October 1834 still had not come to an agreement. In January 1835 the factions were again in Washington. Pressured by the presence of the Ridge Party, Ross agreed on February 25, 1835, to exchange all Cherokee lands east of the Mississippi for land west of the Mississippi and 20 million dollars. He made it contingent on the General Council's accepting the terms. Lewis Cass, Secretary of War, believing that this was yet another ploy to delay action on removal for an additional year, threatened to sign the treaty with John Ridge. On December 29, 1835, the Treaty Party signed the Treaty of New Echota with the U.S. This action was against the will of the majority of Cherokee. Ross was unsuccessful in his attempts to stop enforcement of the treaty.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RJOHN_ROSS_HEADING_8">
+			<Text>The trail of tears</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RJOHN_ROSS_TEXT_8">
+			<Text>
+				Returning to his home at Head of Coosa late at night, Ross saw a man he did not recognize at his house. He told the man to feed his horse and put him away for the night. Instead, the man followed him to the door. The stranger, who identified himself as Stephen Carter, then told Ross that he, Carter, was now the homeowner and that he had papers to prove it. Ross then learned Carter had been given possession of the house earlier in the week by agents of Georgia, and that his family had been turned out earlier in the week. Ross had been dispossessed by Georgia and was now homeless. The next day, Ross found that Quatie had been given refuge by some other family members. Those Cherokee who did not emigrate to the Indian Territory by 1838 were forced to do so by General Winfield Scott. This forced removal came to be known as the Trail of Tears. Accepting defeat, Ross convinced General Scott to allow him to supervise much of the removal process. On the Trail of Tears, Ross lost his wife, Quatie." According to one of the soldiers escorting the group, she had given her coat to a child that was crying because of the cold. A few days later, she died of pneumonia near Little Rock on the Arkansas River. Knowing that the cession of the common lands was a capital crime under Cherokee law, opponents of the treaty chose to assassinate Boudinot, Major Ridge and John Ridge after the migration to Indian Territory. Stand Watie, Boudinot's brother, was also attacked but he survived. The assassins were never publicly identified nor tried in court. General Matthew Arbuckle, commander of Fort Gibson, claimed he knew their identities but never tried to arrest them. Some Cherokee, particularly those tied to the pro-treaty party, claimed that Chief John Ross knew about the assassinations beforehand. Many years later, Chief Ross's son Allen, wrote that this was not so. Allen's letter, is said to be in the possession of the Oklahoma State Historical Society. Afterward, there were years of violence between the two factions.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RJOHN_ROSS_HEADING_9">
+			<Text>Efforts to maintain unity</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RJOHN_ROSS_TEXT_9">
+			<Text>
+				Dissent was exacerbated during the Civil War, in which at first the majority of the Cherokee people supported the Confederacy. Fearing that joining the Confederacy would void the Cherokee earlier treaties with the United States, Ross tried to persuade his people to remain neutral in the conflict, but eventually most chose sides. Full-bloods tended to favor maintaining relations with the United States. This group included over two thousand members of a traditionalist and abolitionist society, the Keetoowah Society. Members of this group were called "Pins" by non-members because they wore an emblem of crossed pins on their shirts. Ross advocated that the Cherokee Nation remain neutral. It was a losing argument. At a general assembly on August 21, 1861, Ross ended his speech by announcing that in the interests of tribal and inter-Indian unity it was time to agree on an alliance with the Confederate States of America. Many of the well-armed mixed bloods, especially the wealthy led by Stand Watie, supported the Confederacy. Traditionalists and Cherokee who opposed the institution of slavery remained loyal to the Union. However, the majority of Cherokee may not have understood the nature of the new treaty. After Ross departed to meet with President Lincoln in Washington, traditionalist Cherokee helped maneuver the election of Ross supporter Thomas Pegg as Acting Principal Chief. Three or four of Ross's own sons fought for the Union. However, Ross's nephew by marriage, John Drew, had organized and served as Colonel of the 1st Cherokee Mounted Rifles in the Confederate Army. Most of Drew's regiment would later twice desert in reaction to Confederate orders to kill other Indians. Many leaders of the northern faction, still led by Ross, went to Fort Leavenworth, Kansas for the duration of the war. By 1863, the flight of many Cherokee voters to refuge in Kansas and Texas provided the pro-Confederate Treaty Party an opportunity to elect Stand Watie as principal chief without them. Pro-Union National Council members declared the election invalid. Watie that fall raided Ross's home, Rose Cottage. The home was looted and burned. Ross lost all his belongings. Ross's daughter Jane and her husband, Andrew Nave, were living at Rose Cottage at the time. Nave was shot and killed. Only the prior intervention of Watie's wife seems to have prevented the killing of additional Ross relatives. Ross's oldest son, James, who had gone to Park Hill searching for supplies, was captured and sent to prison in the Confederacy, where he died. Ross remained in exile. However, within a week of the burning, the National Council convened and restored Ross as principal chief. Ross took his wife Mary and the children to Philadelphia so she could see her family. Ross returned to Washington, where he had an inconclusive meeting with President Lincoln and other supporters. When he returned for Mary in 1865, he found her gravely ill with what was diagnosed as "lung congestion" (likely tuberculosis). She could not travel, so he remained with her for more than a month. Mary died of her illness on July 20, 1865. She was buried in her native Delaware. Ross returned to Indian Territory after her funeral. After the war, the two factions of the Cherokee tried to negotiate separately with the US government Southern Treaty Commission. The commissioner of Indian Affairs, Dennis N. Cooley, was persuaded to believe allegations by Stand Watie and Elias Cornelius Boudinot that Ross was a dictator who did not truly represent the Cherokee people. Even though his health was worsening, Ross left Park Hill, where he was staying with his niece, on November 9, 1865, to meet with President Andrew Johnson. Johnson instructed Cooley to reopen negotiations with the Cherokee and to meet only with the pro-Union faction, headed by John Ross. Ross died on August 1, 1866 in Washington, D.C. while still negotiating a final treaty with the federal government. However, Ross had by then persuaded Johnson to reject a particularly harsh treaty version favored by Cooley.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RJOHN_ROSS_HEADING_10">
+			<Text>Legacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RJOHN_ROSS_TEXT_10">
+			<Text>John Ross is perhaps the most significant and influential figure in Cherokee history and politics. For over 40 years he dominated politics, and constantly strived to protect his people's rights, while preventing factional politics from tearing the nation apart. Overseeing the greatest disasters of the Cherokee nation, he has been nicknamed 'The Cherokee Moses'. It has been suggested that a bust of John Ross sould be featured on the $20 bill.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RJOHN_ROSS_SUBTITLE">
+			<Text>Leader of the Cherokee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RJOHN_ROSS_NAME">
+			<Text>John Ross</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RJOHN_ROSS_LIVED">
+			<Text>1790 - 1866 AD</Text>
+		</Row>
+
+			-<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RJOHN_ROSS_TITLES_1">
+
+				<Text>Principal Chief of the Cherokee</Text>
+
+			</Row>
+		<Row Tag="TXT_KEY_LEADER_RJOHN_ROSS_FIRSTGREETING_1">
+			<Text>I, Principal Chief of the Cherokee, welcome you to our lands. Please make yourself at home.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RJOHN_ROSS_FIRSTGREETING_2">
+			<Text>The peaceful and noble Cherokee wish for a long and prosperous relationship with you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RJOHN_ROSS_FIRSTGREETING_3">
+			<Text>Greetings foreigners, I am Guwisguwi, the guiding hand of the Cherokee. You may however refer to me as John Ross for now.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RJOHN_ROSS_DEFEATED_1">
+			<Text>Where will my people go now?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RJOHN_ROSS_DEFEATED_2">
+			<Text>You may do what you want with me, but please spare my people!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RJOHN_ROSS_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Our hearts are sickened by your cruelty and ambitions.</Text>
+		</Row>
+	</Language_en_US>
+
+	-<Leader_Traits>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_RJOHN_ROSS</LeaderType>
+
+			<TraitType>TRAIT_ACCULTURATION</TraitType>
+
+		</Row>
+
+	</Leader_Traits>
+
+</GameData>
+  

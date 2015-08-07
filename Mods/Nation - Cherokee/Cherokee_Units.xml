@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/19/2015 8:30:54 PM -->
+<GameData>
+
+
+	-<Units>
+
+
+		-<Row>
+
+			<Type>UNIT_RANIWINA</Type>
+
+			<Description>TXT_KEY_UNIT_RANIWINA</Description>
+
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_RANIWINA_TEXT</Civilopedia>
+
+			<Strategy>TXT_KEY_UNIT_RANIWINA_STRATEGY</Strategy>
+
+			<Help>TXT_KEY_UNIT_HELP_RANIWINA</Help>
+
+			<Combat>22</Combat>
+
+			<Cost>150</Cost>
+
+			<FaithCost>300</FaithCost>
+
+			<RequiresFaithPurchaseEnabled>1</RequiresFaithPurchaseEnabled>
+
+			<Moves>3</Moves>
+
+			<BaseSightRange>2</BaseSightRange>
+
+			<Class>UNITCLASS_MUSKETMAN</Class>
+
+			<CombatClass>UNITCOMBAT_GUN</CombatClass>
+
+			<Domain>DOMAIN_LAND</Domain>
+
+			<DefaultUnitAI>UNITAI_ATTACK</DefaultUnitAI>
+
+			<MilitarySupport>1</MilitarySupport>
+
+			<MilitaryProduction>1</MilitaryProduction>
+
+			<Pillage>1</Pillage>
+
+			<PrereqTech>TECH_GUNPOWDER</PrereqTech>
+
+			<ObsoleteTech>TECH_RIFLING</ObsoleteTech>
+
+			<GoodyHutUpgradeUnitClass>UNITCLASS_RIFLEMAN</GoodyHutUpgradeUnitClass>
+
+			<AdvancedStartCost>25</AdvancedStartCost>
+
+			<MinAreaSize>-1</MinAreaSize>
+			
+			<CombatLimit>100</CombatLimit>
+
+			<XPValueAttack>3</XPValueAttack>
+
+			<XPValueDefense>3</XPValueDefense>
+
+			<Conscription>4</Conscription>
+
+			<UnitArtInfo>ART_DEF_UNIT_RANIWINA</UnitArtInfo>
+
+			<MoveRate>BIPED</MoveRate>
+
+			<UnitFlagIconOffset>0</UnitFlagIconOffset>
+
+			<PortraitIndex>2</PortraitIndex>
+
+			<IconAtlas>RCHEROKEE_ICON_ATLAS</IconAtlas>
+
+			<UnitFlagAtlas>RANIWINA_ALPHA</UnitFlagAtlas>
+
+		</Row>
+
+	</Units>
+
+	-<Unit_FreePromotions>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RANIWINA</UnitType>
+
+			<PromotionType>PROMOTION_RCHEROKEE_ZOC</PromotionType>
+
+		</Row>
+
+		-<Row>
+
+			<UnitType>UNIT_RANIWINA</UnitType>
+
+			<PromotionType>PROMOTION_WITHDRAW_BEFORE_MELEE</PromotionType>
+
+		</Row>
+
+
+</Unit_FreePromotions>
+
+
+	-<Unit_AITypes>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RANIWINA</UnitType>
+
+			<UnitAIType>UNITAI_ATTACK</UnitAIType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RANIWINA</UnitType>
+
+			<UnitAIType>UNITAI_DEFENSE</UnitAIType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RANIWINA</UnitType>
+
+			<UnitAIType>UNITAI_EXPLORE</UnitAIType>
+
+		</Row>
+
+	</Unit_AITypes>
+
+	
+
+
+
+	-<Unit_ClassUpgrades>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RANIWINA</UnitType>
+
+			<UnitClassType>UNITCLASS_RIFLEMAN</UnitClassType>
+
+		</Row>
+
+	</Unit_ClassUpgrades>
+
+
+
+
+
+	-<Unit_Flavors>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RANIWINA</UnitType>
+
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+
+			<Flavor>4</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RANIWINA</UnitType>
+
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+
+			<Flavor>9</Flavor>
+
+		</Row>
+
+	</Unit_Flavors>
+
+
+
+	-<UnitGameplay2DScripts>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RANIWINA</UnitType>
+
+			<SelectionSound>AS2D_SELECT_MUSKETMAN</SelectionSound>
+
+			<FirstSelectionSound>AS2D_BIRTH_MUSKETMAN</FirstSelectionSound>
+
+		</Row>
+
+	</UnitGameplay2DScripts>
+
+	<UnitPromotions>
+
+		-<Row>
+
+			<Type>PROMOTION_RCHEROKEE_ZOC</Type>
+
+			<Description>TXT_KEY_PROMOTION_RCHEROKEE_ZOC</Description>
+
+			<Help>TXT_KEY_PROMOTION_RCHEROKEE_ZOC_HELP</Help>
+
+			<Sound>AS2D_IF_LEVELUP</Sound>
+
+			<CannotBeChosen>true</CannotBeChosen>
+
+			<OrderPriority>1</OrderPriority>
+
+			<PortraitIndex>59</PortraitIndex>
+
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+
+			<PediaEntry>TXT_KEY_PROMOTION_RCHEROKEE_ZOC</PediaEntry>
+
+			<IgnoreZOC>true</IgnoreZOC>
+
+		</Row>
+		
+	</UnitPromotions>
+
+
+	-<Language_en_US>
+
+
+		-<Row Tag="TXT_KEY_UNIT_RANIWINA">
+
+			<Text>Aniwina</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RANIWINA_TEXT">
+
+
+			-<Text>A notable feature of Cherokee military tactics is the use of guerrilla warfare and ambushes. Skilled hunters, Cherokee warriors applied their hunting skills to the battlefield, proving themselves to be effective fighters able to ambush enemies with ease.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_UNIT_RANIWINA_STRATEGY">
+
+			<Text>Despite being weaker than the musketman, the Aniwina is a fast and versatile unit that is able to pass enemy units unhindered, and retreat if things get tough. Though they are not very effective during a siege, the Aniwina is still capable of launching ambushes while remaining relatively unscathed, a force to be reckoned with for any would be invaders!</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_UNIT_HELP_RANIWINA">
+
+			<Text>Replaces the Musketman; Weaker, but has extra movement. May retreat from enemy attacks and ignores zone of control.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_PROMOTION_RCHEROKEE_ZOC">
+
+			<Text>Kanati's teachings</Text>
+
+			<Gender>neuter:an</Gender>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_PROMOTION_RCHEROKEE_ZOC_HELP">
+
+			<Text>Ignore Enemy Zone of Control</Text>
+
+		</Row>
+
+	</Language_en_US>
+
+  
+</GameData>

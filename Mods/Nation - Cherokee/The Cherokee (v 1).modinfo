@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="e9bc29c3-31ec-4207-9656-48908ebbbf71" version="1">
+  <Properties>
+    <Name>The Cherokee</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>A mod adding the Cherokee as a playable civilisation</Teaser>
+    <Description>A mod adding the Cherokee as a playable civilisation</Description>
+    <Authors>ryanjames</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>0</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="25DC896877D6FCF95C962F02A734930E" import="1">Assets/AmazingGrace.mp3</File>
+    <File md5="3934FAB1EE4EC863EC370CEAC0AB2D1E" import="1">Assets/CherokeeDOM.dds</File>
+    <File md5="751C9668005685B70FE4830964F7AB0D" import="1">Assets/CherokeeLS.dds</File>
+    <File md5="015DB810FD862A6970A37DC34ED93471" import="1">Assets/CherokeeMap.dds</File>
+    <File md5="4F6EE2533B92EA90A42F43B6E29FF9DA" import="1">Assets/HallowedBeThyName.mp3</File>
+    <File md5="6EF7A5F7E2482D9C0216B30BD84833F9" import="1">Assets/Icons folder/AniwinaFlag128.dds</File>
+    <File md5="255056304320E26A5BCFC3C02A4CEE6C" import="1">Assets/Icons folder/AniwinaFlag256.dds</File>
+    <File md5="2FBC08876328E7E8716A76E19B5CA88F" import="1">Assets/Icons folder/AniwinaFlag32.dds</File>
+    <File md5="77F0FED03313E5673E25E8EC917801EB" import="1">Assets/Icons folder/AniwinaFlag45.dds</File>
+    <File md5="2D2AD332D76A86AC85CAC37ADD204575" import="1">Assets/Icons folder/AniwinaFlag64.dds</File>
+    <File md5="DFBB3E7D6B808CE4BAC283C7C47A4A3E" import="1">Assets/Icons folder/AniwinaFlag80.dds</File>
+    <File md5="8EA1FAB6BE5926FC22F34D2A116B417F" import="1">Assets/Icons folder/CherokeeAlpha128.dds</File>
+    <File md5="3B415380D5FE9461D4CF8F1C068173B4" import="1">Assets/Icons folder/CherokeeAlpha16.dds</File>
+    <File md5="D5D05B8239711274FBE4B7F931473A89" import="1">Assets/Icons folder/CherokeeAlpha24.dds</File>
+    <File md5="A2162EC7FF5E76D1D621B635084DDFB9" import="1">Assets/Icons folder/CherokeeAlpha256.dds</File>
+    <File md5="87FD1C533ACE5C5CF183C80B6FE41603" import="1">Assets/Icons folder/CherokeeAlpha32.dds</File>
+    <File md5="2D942EB6B00104F1439095935CB1C826" import="1">Assets/Icons folder/CherokeeAlpha45.dds</File>
+    <File md5="EF3D5DD1500EE71D0DF73B2F646F6797" import="1">Assets/Icons folder/CherokeeAlpha48.dds</File>
+    <File md5="CA5F1D431AA37BFEB66680FD133485D9" import="1">Assets/Icons folder/CherokeeAlpha64.dds</File>
+    <File md5="B6F481C5790E392E71F494695A362377" import="1">Assets/Icons folder/CherokeeAlpha80.dds</File>
+    <File md5="6F33DA87825CE9445B1007E5707CE862" import="1">Assets/Icons folder/CherokeeAtlas128.dds</File>
+    <File md5="BF388170F51BFDA14052B73382528FC1" import="1">Assets/Icons folder/CherokeeAtlas256.dds</File>
+    <File md5="6A1B5596A823AB57B37AD6AEC1BECD8A" import="1">Assets/Icons folder/CherokeeAtlas32.dds</File>
+    <File md5="BACE48F556427FA4681B09C515095EE0" import="1">Assets/Icons folder/CherokeeAtlas45.dds</File>
+    <File md5="C41B5862756EE52A699FCEB9089DE7BE" import="1">Assets/Icons folder/CherokeeAtlas64.dds</File>
+    <File md5="0EF9E06D403C66121DDD682A7B8E925E" import="1">Assets/Icons folder/CherokeeAtlas80.dds</File>
+    <File md5="6CE49639A6D8C67A3DDF5EB878CE60F7" import="1">Assets/Unit skins/Cherokee Skin 1/civ5_irogwi1.fxsxml</File>
+    <File md5="F4D7042166A6FABD557A4C3377D099C1" import="1">Assets/Unit skins/Cherokee Skin 1/civ5_irogwi1.gr2</File>
+    <File md5="B089D567D510005C1AADBB6BB54615E4" import="1">Assets/Unit skins/Cherokee Skin 1/irogwi1.dds</File>
+    <File md5="C215A2A64D99D3EB60058FFBE086CEEA" import="1">Assets/Unit skins/Cherokee Skin 1/irogwi1I.blend</File>
+    <File md5="490C6D3814F24C7C4E96F4FE8DE4033D" import="1">Assets/Unit skins/Cherokee Skin 1/irogwi1_sref.dds</File>
+    <File md5="D77B3FC9130DEF6A76F8E18AD73A2841" import="0">Lua/Cherokee_Trait.lua</File>
+    <File md5="4486E05E92C6A1829D1BD4FC8EAB80DE" import="1">Lua/CultureOverview.lua</File>
+    <File md5="2F455D5D29CE09C9E0F2CE849C821B3E" import="0">SQL/Cherokee_Leader_Traits.sql</File>
+    <File md5="E525E41C3ACA35E27BD81FC039A53766" import="0">SQL/Cherokee_Piety_Prestige.sql</File>
+    <File md5="808266577BF3EC70DCA661C245BF8D56" import="0">SQL/Cherokee_RED.sql</File>
+    <File md5="C1B3A9136BBC0E7754A56E1E5C743FE1" import="0">SQL/Cheroke_Cult_diversity.sql</File>
+    <File md5="541B0B6BA0EF693659F0781112097877" import="0">XML/Cherokee_Buildings.xml</File>
+    <File md5="CCE73168EFD6032925B20CA2648035B0" import="0">XML/Cherokee_Civilisation.xml</File>
+    <File md5="924AAB1A334CFB0898C8378FD315B883" import="0">XML/Cherokee_Icon_Atlas.xml</File>
+    <File md5="B4BEBEB4DE724A847C55F50D04B1BF0A" import="0">XML/Cherokee_Leader.xml</File>
+    <File md5="3EFE8D03E70D205834BFDB8EA7C0A5E5" import="0">XML/Cherokee_Music.xml</File>
+    <File md5="A9867C93EB13042322B53662BABF1DF8" import="1">XML/Cherokee_Scene.xml</File>
+    <File md5="E3C96448EC764F3BE2C9D4EA08CBB1EA" import="0">XML/Cherokee_Trait.xml</File>
+    <File md5="0FACEF8B90B38AB7ECFC3D837BC43AFC" import="0">XML/Cherokee_UCI.xml</File>
+    <File md5="4CE4DF02179D8D2E60EBEFA4A5B5194A" import="0">XML/Cherokee_Units.xml</File>
+    <File md5="0788E1ED598C99EA491D518E9FC3E2D8" import="0">XML/Cherokee_Unit_Skin.xml</File>
+    <File md5="0F844599B7261DAB9B1A5C51E17B0F2A" import="0">XML/Cherokee_YNAEMP.xml</File>
+    <File md5="BF85D174CA9D4F2EC2AD7E3FBB6C0D6D" import="1">XML/CultureOverview.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Cherokee_Civilisation.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Cherokee_Trait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Cherokee_Leader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Cherokee_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Cherokee_Units.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Cherokee_Music.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Cherokee_RED.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Cheroke_Cult_diversity.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Cherokee_Leader_Traits.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Cherokee_Piety_Prestige.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Cherokee_UCI.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Cherokee_Unit_Skin.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Cherokee_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Cherokee_Icon_Atlas.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Cherokee_YNAEMP.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Cherokee_Trait.lua">
+      <Name>Cherokee trait</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

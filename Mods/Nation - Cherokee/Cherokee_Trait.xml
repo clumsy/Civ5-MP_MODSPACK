@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/19/2015 10:46:28 PM -->
+<GameData>
+
+
+	-<Traits>
+
+
+		-<Row>
+
+			<Type>TRAIT_ACCULTURATION</Type>
+
+			<Description>TXT_KEY_TRAIT_ACCULTURATION</Description>
+
+			<ShortDescription>TXT_KEY_TRAIT_ACCULTURATION_SHORT</ShortDescription>
+
+		</Row>
+
+	</Traits>
+
+
+	-<Language_en_US>
+
+
+	-<Row Tag="TXT_KEY_TRAIT_ACCULTURATION">
+
+		<Text>Gain 5% of the [ICON_RESEARCH] science generated in a foreign city you have a [ICON_INTERNATIONAL_TRADE] trade route connected to. Scientists yield +2 [ICON_GREAT_PEOPLE] great writer points, and [ICON_GREAT_WRITER] great works of literature yield +2 [ICON_RESEARCH] science. </Text>
+
+	</Row>
+
+
+	-<Row Tag="TXT_KEY_TRAIT_ACCULTURATION_SHORT">
+
+		<Text>Acculturation</Text>
+
+	</Row>
+
+</Language_en_US>
+
+</GameData>

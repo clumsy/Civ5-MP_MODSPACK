@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/3/2015 11:36:28 AM -->
+<GameData>
+
+
+	-<Civilizations_YagemStartPosition>
+		- -
+
+		-<Row>
+
+			<Type>CIVILIZATION_RCHEROKEE</Type>
+
+			<X>149</X>
+
+			<Y>59</Y>
+
+		</Row>
+
+	</Civilizations_YagemStartPosition>
+	- -
+
+	-<Civilizations_YahemStartPosition>
+		- -
+
+		-<Row>
+
+			<Type>CIVILIZATION_RCHEROKEE</Type>
+
+			<X>26</X>
+
+			<Y>52</Y>
+
+		</Row>
+
+	</Civilizations_YahemStartPosition>
+	- -
+
+	-<Civilizations_CordiformStartPosition>
+		- -
+
+		-<Row>
+
+			<Type>CIVILIZATION_RCHEROKEE</Type>
+
+			<X>11</X>
+
+			<Y>32</Y>
+
+		</Row>
+
+	</Civilizations_CordiformStartPosition>
+  
+</GameData>

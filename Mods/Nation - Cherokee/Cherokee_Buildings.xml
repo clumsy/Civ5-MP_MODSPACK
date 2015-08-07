@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/19/2015 2:09:23 PM -->
+<GameData>
+
+	<Buildings>
+
+		<Row>
+			<Type>BUILDING_SYLLABARY_SCHOOL</Type>
+			<BuildingClass>BUILDINGCLASS_PUBLIC_SCHOOL</BuildingClass>
+			<Cost>300</Cost>
+			<GoldMaintenance>3</GoldMaintenance>
+			<PrereqTech>TECH_SCIENTIFIC_THEORY</PrereqTech>
+			<FaithCost>200</FaithCost>
+			<UnlockedByBelief>true</UnlockedByBelief>
+			<Help>TXT_KEY_BUILDING_SYLLABARY_SCHOOL_HELP</Help>
+			<Description>TXT_KEY_BUILDING_SYLLABARY_SCHOOL</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_SYLLABARY_SCHOOL_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_SYLLABARY_SCHOOL_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_PUBLIC_SCHOOL</ArtDefineTag>
+			<SpecialistType>SPECIALIST_SCIENTIST</SpecialistType>
+			<SpecialistCount>1</SpecialistCount>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<HurryCostModifier>0</HurryCostModifier>
+			<IconAtlas>RCHEROKEE_ICON_ATLAS</IconAtlas>
+			<PortraitIndex>3</PortraitIndex>
+			<GreatWorkSlotType>GREAT_WORK_SLOT_LITERATURE</GreatWorkSlotType>
+			<GreatWorkCount>2</GreatWorkCount>
+		</Row>
+
+		-<Row>
+
+			<Type>BUILDING_RCHEROKEE_DUMMY_1</Type>
+
+			<BuildingClass>BUILDINGCLASS_RCHEROKEE_DUMMY_1</BuildingClass>
+
+			<Cost>-1</Cost>
+
+			<FaithCost>-1</FaithCost>
+
+			<PrereqTech>NULL</PrereqTech>
+
+			<GreatWorkCount>-1</GreatWorkCount>
+
+			<ArtDefineTag>NONE</ArtDefineTag>
+
+			<MinAreaSize>-1</MinAreaSize>
+
+			<NeverCapture>true</NeverCapture>
+
+			<HurryCostModifier>-1</HurryCostModifier>
+
+			<PortraitIndex>0</PortraitIndex>
+
+			<IconAtlas>CIV_COLOR_ATLAS</IconAtlas>
+
+			<GreatPeopleRateChange>2</GreatPeopleRateChange>
+
+			<SpecialistType>SPECIALIST_WRITER</SpecialistType>
+
+		</Row>
+
+		-<Row>
+
+			<Type>BUILDING_WRITER_RCHEROKEE_DUMMY_2</Type>
+
+			<BuildingClass>BUILDINGCLASS_WRITER_RCHEROKEE_DUMMY_2</BuildingClass>
+
+			<Cost>-1</Cost>
+
+			<FaithCost>-1</FaithCost>
+
+			<PrereqTech>NULL</PrereqTech>
+
+			<GreatWorkCount>-1</GreatWorkCount>
+
+			<ArtDefineTag>NONE</ArtDefineTag>
+
+			<MinAreaSize>-1</MinAreaSize>
+
+			<NeverCapture>true</NeverCapture>
+
+			<HurryCostModifier>-1</HurryCostModifier>
+
+			<PortraitIndex>0</PortraitIndex>
+
+			<IconAtlas>CIV_COLOR_ATLAS</IconAtlas>
+
+			<GreatPeopleRateChange>2</GreatPeopleRateChange>
+
+			<SpecialistType>SPECIALIST_WRITER</SpecialistType>
+
+		</Row>
+
+		-<Row>
+
+			<Type>BUILDING_WRITER_RCHEROKEE_DUMMY_3</Type>
+
+			<BuildingClass>BUILDINGCLASS_WRITER_RCHEROKEE_DUMMY_3</BuildingClass>
+
+			<Cost>-1</Cost>
+
+			<FaithCost>-1</FaithCost>
+
+			<PrereqTech>NULL</PrereqTech>
+
+			<GreatWorkCount>-1</GreatWorkCount>
+
+			<ArtDefineTag>NONE</ArtDefineTag>
+
+			<MinAreaSize>-1</MinAreaSize>
+
+			<NeverCapture>true</NeverCapture>
+
+			<HurryCostModifier>-1</HurryCostModifier>
+
+			<PortraitIndex>0</PortraitIndex>
+
+			<IconAtlas>CIV_COLOR_ATLAS</IconAtlas>
+
+			<GreatPeopleRateChange>2</GreatPeopleRateChange>
+
+			<SpecialistType>SPECIALIST_WRITER</SpecialistType>
+
+		</Row>
+
+		-<Row>
+
+			<Type>BUILDING_WRITER_RCHEROKEE_DUMMY_4</Type>
+
+			<BuildingClass>BUILDINGCLASS_WRITER_RCHEROKEE_DUMMY_4</BuildingClass>
+
+			<Cost>-1</Cost>
+
+			<FaithCost>-1</FaithCost>
+
+			<PrereqTech>NULL</PrereqTech>
+
+			<GreatWorkCount>-1</GreatWorkCount>
+
+			<ArtDefineTag>NONE</ArtDefineTag>
+
+			<MinAreaSize>-1</MinAreaSize>
+
+			<NeverCapture>true</NeverCapture>
+
+			<HurryCostModifier>-1</HurryCostModifier>
+
+			<PortraitIndex>0</PortraitIndex>
+
+			<IconAtlas>CIV_COLOR_ATLAS</IconAtlas>
+
+			<GreatPeopleRateChange>2</GreatPeopleRateChange>
+
+			<SpecialistType>SPECIALIST_WRITER</SpecialistType>
+
+		</Row>
+
+		-<Row>
+
+			<Type>BUILDING_WRITER_RCHEROKEE_DUMMY_5</Type>
+
+			<BuildingClass>BUILDINGCLASS_WRITER_RCHEROKEE_DUMMY_5</BuildingClass>
+
+			<Cost>-1</Cost>
+
+			<FaithCost>-1</FaithCost>
+
+			<PrereqTech>NULL</PrereqTech>
+
+			<GreatWorkCount>-1</GreatWorkCount>
+
+			<ArtDefineTag>NONE</ArtDefineTag>
+
+			<MinAreaSize>-1</MinAreaSize>
+
+			<NeverCapture>true</NeverCapture>
+
+			<HurryCostModifier>-1</HurryCostModifier>
+
+			<PortraitIndex>0</PortraitIndex>
+
+			<IconAtlas>CIV_COLOR_ATLAS</IconAtlas>
+
+			<GreatPeopleRateChange>2</GreatPeopleRateChange>
+
+			<SpecialistType>SPECIALIST_WRITER</SpecialistType>
+
+		</Row>
+
+		-<Row>
+
+			<Type>BUILDING_RCHEROKEE_DUMMY_2</Type>
+
+			<BuildingClass>BUILDINGCLASS_RCHEROKEE_DUMMY_2</BuildingClass>
+
+			<Cost>-1</Cost>
+
+			<FaithCost>-1</FaithCost>
+
+			<PrereqTech>NULL</PrereqTech>
+
+			<GreatWorkCount>-1</GreatWorkCount>
+
+			<ArtDefineTag>NONE</ArtDefineTag>
+
+			<MinAreaSize>-1</MinAreaSize>
+
+			<NeverCapture>true</NeverCapture>
+
+			<HurryCostModifier>-1</HurryCostModifier>
+
+			<PortraitIndex>0</PortraitIndex>
+
+			<IconAtlas>CIV_COLOR_ATLAS</IconAtlas>
+
+			<GreatPeopleRateModifier>10</GreatPeopleRateModifier>
+
+		</Row>
+
+		-<Row>
+
+			<Type>BUILDING_RCHEROKEE_DUMMY_3</Type>
+
+			<BuildingClass>BUILDINGCLASS_RCHEROKEE_DUMMY_3</BuildingClass>
+
+			<Cost>-1</Cost>
+
+			<FaithCost>-1</FaithCost>
+
+			<PrereqTech>NULL</PrereqTech>
+
+			<GreatWorkCount>-1</GreatWorkCount>
+
+			<ArtDefineTag>NONE</ArtDefineTag>
+
+			<MinAreaSize>-1</MinAreaSize>
+
+			<NeverCapture>true</NeverCapture>
+
+			<HurryCostModifier>-1</HurryCostModifier>
+
+			<PortraitIndex>0</PortraitIndex>
+
+			<IconAtlas>CIV_COLOR_ATLAS</IconAtlas>
+			
+			
+
+		</Row>
+
+		-<Row>
+
+			<Type>BUILDING_WRITING_SCIENCE_DUMMY</Type>
+
+			<BuildingClass>BUILDINGCLASS_WRITING_SCIENCE_DUMMY</BuildingClass>
+
+			<Cost>-1</Cost>
+
+			<FaithCost>-1</FaithCost>
+
+			<PrereqTech>NULL</PrereqTech>
+
+			<GreatWorkCount>-1</GreatWorkCount>
+
+			<ArtDefineTag>NONE</ArtDefineTag>
+
+			<MinAreaSize>-1</MinAreaSize>
+
+			<NeverCapture>true</NeverCapture>
+
+			<HurryCostModifier>-1</HurryCostModifier>
+
+			<PortraitIndex>0</PortraitIndex>
+
+			<IconAtlas>CIV_COLOR_ATLAS</IconAtlas>
+
+
+
+		</Row>
+
+	</Buildings>
+
+
+	<BuildingClasses>
+
+		<Row>
+			<Type>BUILDINGCLASS_RCHEROKEE_DUMMY_1</Type>
+			<DefaultBuilding>BUILDING_RCHEROKEE_DUMMY_1</DefaultBuilding>
+		</Row>
+
+		<Row>
+			<Type>BUILDINGCLASS_RCHEROKEE_DUMMY_2</Type>
+			<DefaultBuilding>BUILDING_RCHEROKEE_DUMMY_2</DefaultBuilding>
+		</Row>
+
+		<Row>
+			<Type>BUILDINGCLASS_RCHEROKEE_DUMMY_3</Type>
+			<DefaultBuilding>BUILDING_RCHEROKEE_DUMMY_3</DefaultBuilding>
+		</Row>
+
+		<Row>
+			<Type>BUILDINGCLASS_WRITING_SCIENCE_DUMMY</Type>
+			<DefaultBuilding>BUILDING_WRITING_SCIENCE_DUMMY</DefaultBuilding>
+		</Row>
+
+		<Row>
+			<Type>BUILDINGCLASS_WRITER_RCHEROKEE_DUMMY_2</Type>
+			<DefaultBuilding>BUILDING_WRITER_RCHEROKEE_DUMMY_2</DefaultBuilding>
+		</Row>
+
+		<Row>
+			<Type>BUILDINGCLASS_WRITER_RCHEROKEE_DUMMY_3</Type>
+			<DefaultBuilding>BUILDING_WRITER_RCHEROKEE_DUMMY_3</DefaultBuilding>
+		</Row>
+
+		<Row>
+			<Type>BUILDINGCLASS_WRITER_RCHEROKEE_DUMMY_4</Type>
+			<DefaultBuilding>BUILDING_WRITER_RCHEROKEE_DUMMY_4</DefaultBuilding>
+		</Row>
+
+		<Row>
+			<Type>BUILDINGCLASS_WRITER_RCHEROKEE_DUMMY_5</Type>
+			<DefaultBuilding>BUILDING_WRITER_RCHEROKEE_DUMMY_5</DefaultBuilding>
+		</Row>
+
+	</BuildingClasses>
+
+	-<Building_ClassesNeededInCity>
+
+
+		-<Row>
+
+			<BuildingType>BUILDING_SYLLABARY_SCHOOL</BuildingType>
+
+			<BuildingClassType>BUILDINGCLASS_UNIVERSITY</BuildingClassType>
+
+		</Row>
+
+	</Building_ClassesNeededInCity>
+
+	<Building_Flavors>
+
+		<Row>
+			<BuildingType>BUILDING_SYLLABARY_SCHOOL</BuildingType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>65</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SYLLABARY_SCHOOL</BuildingType>
+			<FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+			<Flavor>40</Flavor>
+		</Row>
+		
+	</Building_Flavors>
+
+
+	<Building_YieldChanges>
+
+		<Row>
+			<BuildingType>BUILDING_SYLLABARY_SCHOOL</BuildingType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>3</Yield>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_RCHEROKEE_DUMMY_3</BuildingType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_WRITING_SCIENCE_DUMMY</BuildingType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		
+	</Building_YieldChanges>
+
+	<Building_YieldChangesPerPop>
+
+		<Row>
+			<BuildingType>BUILDING_SYLLABARY_SCHOOL</BuildingType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>50</Yield>
+		</Row>
+		
+	</Building_YieldChangesPerPop>
+
+
+	-<Language_en_US>
+		-
+
+		-<Row Tag="TXT_KEY_BUILDING_SYLLABARY_SCHOOL">
+
+			<Text>Syllabary School</Text>
+
+			<Gender>neuter:the</Gender>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_CIV5_BUILDINGS_SYLLABARY_SCHOOL_TEXT">
+
+			<Text>The Cherokee syllabary was developed at the beginning of the 19th century by a Cherokee man named Sequoyah, who based it off Latin and other scripts. It rapidly gained acceptance among the Cherokee, and to this day is still taught in Cherokee schools. As Cherokee culture became europeanised, there was a surge in interest in schooling, many Cherokee children were sent to schools, sometimes abroad in the US. Famous and influential Cherokee such as John Ross and Major ridge were once students at such institutions. Some schools of the modern Cherokee nation teach their syllabuses in the Cherokee language and use the syllabary, promoting and ensuring the existene of Cherokee heritage</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_BUILDING_SYLLABARY_SCHOOL_STRATEGY">
+
+			<Text>The Syllabary School is capable of greatly increasing great person generation in your main trade cities. As a result, you can achieve maximum effectiveness by sending trade routes from your cultural cities that contain guilds and other specialists. It also has extra great work of literature slots to ensure you never run out of space for your great works of literature!</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_BUILDING_SYLLABARY_SCHOOL_HELP">
+
+			<Text>Replaces the public school; Has two slots for [ICON_GREAT_WRITER] great works of writing and increases [ICON_GREAT_PEOPLE] great person generation in the city by 10% per outgoing [ICON_INTERNATIONAL_TRADE] trade route. (max 30%).</Text>
+
+		</Row>
+
+	</Language_en_US>
+</GameData>

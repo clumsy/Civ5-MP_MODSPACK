@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/26/2015 5:15:23 PM -->
+<GameData>
+
+	-<IconTextureAtlases>
+		-
+
+		-<Row>
+
+			<Atlas>RCHEROKEE_ICON_ATLAS</Atlas>
+
+			<IconSize>256</IconSize>
+
+			<Filename>CherokeeAtlas256.dds</Filename>
+
+			<IconsPerRow>8</IconsPerRow>
+
+			<IconsPerColumn>8</IconsPerColumn>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<Atlas>RCHEROKEE_ICON_ATLAS</Atlas>
+
+			<IconSize>128</IconSize>
+
+			<Filename>CherokeeAtlas128.dds</Filename>
+
+			<IconsPerRow>8</IconsPerRow>
+
+			<IconsPerColumn>8</IconsPerColumn>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<Atlas>RCHEROKEE_ICON_ATLAS</Atlas>
+
+			<IconSize>80</IconSize>
+
+			<Filename>CherokeeAtlas80.dds</Filename>
+
+			<IconsPerRow>8</IconsPerRow>
+
+			<IconsPerColumn>8</IconsPerColumn>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<Atlas>RCHEROKEE_ICON_ATLAS</Atlas>
+
+			<IconSize>64</IconSize>
+
+			<Filename>CherokeeAtlas64.dds</Filename>
+
+			<IconsPerRow>8</IconsPerRow>
+
+			<IconsPerColumn>8</IconsPerColumn>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<Atlas>RCHEROKEE_ICON_ATLAS</Atlas>
+
+			<IconSize>45</IconSize>
+
+			<Filename>CherokeeAtlas45.dds</Filename>
+
+			<IconsPerRow>8</IconsPerRow>
+
+			<IconsPerColumn>8</IconsPerColumn>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<Atlas>RCHEROKEE_ICON_ATLAS</Atlas>
+
+			<IconSize>32</IconSize>
+
+			<Filename>CherokeeAtlas32.dds</Filename>
+
+			<IconsPerRow>8</IconsPerRow>
+
+			<IconsPerColumn>8</IconsPerColumn>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<Atlas>RCHEROKEE_ALPHA_ATLAS</Atlas>
+
+			<IconSize>256</IconSize>
+
+			<Filename>CherokeeAlpha256.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<Atlas>RCHEROKEE_ALPHA_ATLAS</Atlas>
+
+			<IconSize>128</IconSize>
+
+			<Filename>CherokeeAlpha128.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<Atlas>RCHEROKEE_ALPHA_ATLAS</Atlas>
+
+			<IconSize>80</IconSize>
+
+			<Filename>CherokeeAlpha80.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<Atlas>RCHEROKEE_ALPHA_ATLAS</Atlas>
+
+			<IconSize>64</IconSize>
+
+			<Filename>CherokeeAlpha64.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<Atlas>RCHEROKEE_ALPHA_ATLAS</Atlas>
+
+			<IconSize>48</IconSize>
+
+			<Filename>CherokeeAlpha48.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<Atlas>RCHEROKEE_ALPHA_ATLAS</Atlas>
+
+			<IconSize>45</IconSize>
+
+			<Filename>CherokeeAlpha45.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<Atlas>RCHEROKEE_ALPHA_ATLAS</Atlas>
+
+			<IconSize>32</IconSize>
+
+			<Filename>CherokeeAlpha32.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<Atlas>RCHEROKEE_ALPHA_ATLAS</Atlas>
+
+			<IconSize>24</IconSize>
+
+			<Filename>CherokeeAlpha24.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<Atlas>RCHEROKEE_ALPHA_ATLAS</Atlas>
+
+			<IconSize>16</IconSize>
+
+			<Filename>CherokeeAlpha16.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<Atlas>RANIWINA_ALPHA</Atlas>
+
+			<IconSize>256</IconSize>
+
+			<Filename>AniwinaFlag256.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<Atlas>RANIWINA_ALPHA</Atlas>
+
+			<IconSize>128</IconSize>
+
+			<Filename>AniwinaFlag128.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<Atlas>RANIWINA_ALPHA</Atlas>
+
+			<IconSize>80</IconSize>
+
+			<Filename>AniwinaFlag80.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<Atlas>RANIWINA_ALPHA</Atlas>
+
+			<IconSize>64</IconSize>
+
+			<Filename>AniwinaFlag64.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<Atlas>RANIWINA_ALPHA</Atlas>
+
+			<IconSize>45</IconSize>
+
+			<Filename>AniwinaFlag45.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<Atlas>RANIWINA_ALPHA</Atlas>
+
+			<IconSize>32</IconSize>
+
+			<Filename>AniwinaFlag32.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+
+	</IconTextureAtlases>
+	
+</GameData>

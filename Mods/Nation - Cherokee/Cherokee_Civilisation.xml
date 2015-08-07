@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/19/2015 2:01:14 PM -->
+<GameData>
+
+	<Civilizations>
+
+
+		<Row>
+
+			<Type>CIVILIZATION_RCHEROKEE</Type>
+
+			<Description>TXT_KEY_CIV_RCHEROKEE_DESC</Description>
+
+			<Civilopedia>TXT_KEY_CIV5_RCHEROKEE_PEDIA</Civilopedia>
+
+			<CivilopediaTag>TXT_KEY_CIV5_RCHEROKEE</CivilopediaTag>
+
+			<Strategy/>
+
+			<Playable>1</Playable>
+
+			<AIPlayable>1</AIPlayable>
+
+			<ShortDescription>TXT_KEY_CIV_RCHEROKEE_SHORT_DESC</ShortDescription>
+
+			<Adjective>TXT_KEY_CIV_RCHEROKEE_ADJECTIVE</Adjective>
+
+			<DefaultPlayerColor>PLAYERCOLOR_RCHEROKEE</DefaultPlayerColor>
+
+			<ArtDefineTag>ART_DEF_CIVILIZATION_IROQUOIS</ArtDefineTag>
+
+			<ArtStyleType>ARTSTYLE_SOUTH_AMERICA</ArtStyleType>
+
+			<ArtStyleSuffix>_AMER</ArtStyleSuffix>
+
+			<ArtStylePrefix>AMERICAN</ArtStylePrefix>
+
+			<PortraitIndex>0</PortraitIndex>
+
+			<IconAtlas>RCHEROKEE_ICON_ATLAS</IconAtlas>
+
+			<AlphaIconAtlas>RCHEROKEE_ALPHA_ATLAS</AlphaIconAtlas>
+
+			<MapImage>CherokeeMap.dds</MapImage>
+
+			<DawnOfManQuote>TXT_KEY_CIV5_DAWN_RCHEROKEE_TEXT</DawnOfManQuote>
+
+			<DawnOfManImage>CherokeeDOM.dds</DawnOfManImage>
+
+			<DawnOfManAudio></DawnOfManAudio>
+
+			<SoundtrackTag>Iroquois</SoundtrackTag>
+
+		</Row>
+
+	</Civilizations>
+
+	<Civilization_BuildingClassOverrides>
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RCHEROKEE</CivilizationType>
+
+			<BuildingClassType>BUILDINGCLASS_PUBLIC_SCHOOL</BuildingClassType>
+
+			<BuildingType>BUILDING_SYLLABARY_SCHOOL</BuildingType>
+
+		</Row>
+
+	</Civilization_BuildingClassOverrides>
+
+
+	<Civilization_CityNames>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RCHEROKEE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RCHEROKEE_0</CityName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RCHEROKEE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RCHEROKEE_1</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RCHEROKEE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RCHEROKEE_2</CityName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RCHEROKEE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RCHEROKEE_3</CityName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RCHEROKEE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RCHEROKEE_4</CityName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RCHEROKEE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RCHEROKEE_5</CityName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RCHEROKEE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RCHEROKEE_6</CityName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RCHEROKEE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RCHEROKEE_7</CityName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RCHEROKEE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RCHEROKEE_8</CityName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RCHEROKEE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RCHEROKEE_9</CityName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RCHEROKEE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RCHEROKEE_10</CityName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RCHEROKEE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RCHEROKEE_11</CityName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RCHEROKEE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RCHEROKEE_12</CityName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RCHEROKEE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RCHEROKEE_13</CityName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RCHEROKEE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RCHEROKEE_14</CityName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RCHEROKEE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RCHEROKEE_15</CityName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RCHEROKEE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RCHEROKEE_16</CityName>
+
+		</Row>
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RCHEROKEE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RCHEROKEE_17</CityName>
+
+		</Row>
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RCHEROKEE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RCHEROKEE_18</CityName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RCHEROKEE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RCHEROKEE_19</CityName>
+
+		</Row>
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RCHEROKEE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RCHEROKEE_20</CityName>
+
+		</Row>
+
+
+
+	</Civilization_CityNames>
+
+
+	<Civilization_FreeBuildingClasses>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RCHEROKEE</CivilizationType>
+
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+
+		</Row>
+
+	</Civilization_FreeBuildingClasses>
+
+
+	<Civilization_FreeTechs>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RCHEROKEE</CivilizationType>
+
+			<TechType>TECH_AGRICULTURE</TechType>
+
+		</Row>
+
+	</Civilization_FreeTechs>
+
+
+	<Civilization_FreeUnits>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RCHEROKEE</CivilizationType>
+
+			<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+
+			<UnitAIType>UNITAI_SETTLE</UnitAIType>
+
+			<Count>1</Count>
+
+		</Row>
+
+	</Civilization_FreeUnits>
+
+
+	<Civilization_Leaders>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RCHEROKEE</CivilizationType>
+
+			<LeaderheadType>LEADER_RJOHN_ROSS</LeaderheadType>
+
+		</Row>
+
+	</Civilization_Leaders>
+
+
+	<Civilization_Religions>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RCHEROKEE</CivilizationType>
+
+			<ReligionType>RELIGION_PROTESTANTISM</ReligionType>
+
+		</Row>
+
+	</Civilization_Religions>
+
+
+	<Civilization_SpyNames>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RCHEROKEE</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RCHEROKEE_0</SpyName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RCHEROKEE</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RCHEROKEE_1</SpyName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RCHEROKEE</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RCHEROKEE_2</SpyName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RCHEROKEE</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RCHEROKEE_3</SpyName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RCHEROKEE</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RCHEROKEE_4</SpyName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RCHEROKEE</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RCHEROKEE_5</SpyName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RCHEROKEE</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RCHEROKEE_6</SpyName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RCHEROKEE</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RCHEROKEE_7</SpyName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RCHEROKEE</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RCHEROKEE_8</SpyName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RCHEROKEE</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RCHEROKEE_9</SpyName>
+
+		</Row>
+
+	</Civilization_SpyNames>
+
+
+	<Civilization_UnitClassOverrides>
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RCHEROKEE</CivilizationType>
+
+			<UnitClassType>UNITCLASS_MUSKETMAN</UnitClassType>
+
+			<UnitType>UNIT_RANIWINA</UnitType>
+
+		</Row>
+
+	</Civilization_UnitClassOverrides>
+	
+
+	-<Civilization_Start_Region_Priority>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RCHEROKEE</CivilizationType>
+
+			<RegionType>REGION_FOREST</RegionType>
+
+		</Row>
+
+	</Civilization_Start_Region_Priority>
+
+
+	<PlayerColors>
+
+
+		<Row>
+
+			<Type>PLAYERCOLOR_RCHEROKEE</Type>
+
+			<PrimaryColor>COLOR_PLAYER_RCHEROKEE_ICON</PrimaryColor>
+
+			<SecondaryColor>COLOR_PLAYER_RCHEROKEE_BACKGROUND</SecondaryColor>
+
+			<TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+
+		</Row>
+
+	</PlayerColors>
+
+
+	<Colors>
+
+
+		<Row>
+
+			<Type>COLOR_PLAYER_RCHEROKEE_ICON</Type>
+
+			<Red>0.9961</Red>
+
+			<Green>0.5742</Green>
+
+			<Blue>0.1914</Blue>
+
+			<Alpha>1.0</Alpha>
+
+		</Row>
+
+		<Row>
+
+			<Type>COLOR_PLAYER_RCHEROKEE_BACKGROUND</Type>
+
+			<Red>0.4883</Red>
+
+			<Green>0.3438</Green>
+
+			<Blue>0.2383</Blue>
+
+			<Alpha>1.0</Alpha>
+
+		</Row>
+
+	</Colors>
+
+
+	<Language_en_US>
+
+
+		<Row Tag="TXT_KEY_CIV_RCHEROKEE_DESC">
+
+			<Text>Cherokee Empire</Text>
+
+			<Gender>neuter:an</Gender>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_RCHEROKEE_FACTOID_HEADING">
+
+			<Text>Cherokee factoid</Text>
+
+		</Row>
+
+		-<Row Tag="TXT_KEY_CIV5_RCHEROKEE_FACTOID_TEXT">
+			-
+			<Text>The Cherokee syllabary is the only writing system in the world created from scratch by an illiterate people[NEWLINE][NEWLINE]The syllabary became so popular in the early 19th century that Cherokee literacy rates were higher than their white counterparts in the surrounding US territories.[NEWLINE][NEWLINE]It was John Ross who technically founded the US city of Chattanooga, he founded a trading post known as "Ross' landing"[NEWLINE][NEWLINE]The Cherokee phoneix was the first Native American newspaper[NEWLINE][NEWLINE]The famous hymn 'Amazing Grace' is considered a Cherokee anthem.</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_RCHEROKEE_TEXT">
+
+
+			<Text>Summary</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_RCHEROKEE_HEADING_1">
+
+			<Text>History</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_RCHEROKEE_HEADING_2">
+
+			<Text>Geography and Climate</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_RCHEROKEE_HEADING_3">
+
+			<Text>Origins</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_RCHEROKEE_HEADING_4">
+
+			<Text>Spanish contact</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_RCHEROKEE_HEADING_5">
+
+			<Text>The English and the fur trade</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_RCHEROKEE_HEADING_6">
+
+			<Text>Wars of the 18th century</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_RCHEROKEE_HEADING_7">
+
+			<Text>Birth of a nation</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_RCHEROKEE_HEADING_8">
+
+			<Text>Removal era and the eastern band</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_RCHEROKEE_HEADING_9">
+
+			<Text>Civil war and reconstruction</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_RCHEROKEE_HEADING_10">
+
+			<Text>The Cherokee today</Text>
+
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_CIV5_RCHEROKEE_TEXT_1">
+
+
+			<Text>The Cherokee are the largest federally recognised tribe of native Americans, with some 310'000 members, along with another 820'000 claiming Cherokee descent. The Cherokee are notable for their adoption and intergration of european culture and technology, forming a nation state with its own industry, schools and public buildings in the early 19th century.</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_RCHEROKEE_TEXT_2">
+
+
+			<Text>The Cherokee were situated in southern appalachia, near Georgia and Tennessee. Unlike neighboring tribes, the Cherokee language is Iroquoian, giving us some indication of their origins. Following the Indian removal act, the Cherokee were relocated to Oklahoma where many remain today, with the nation's capital at Tahlequah.</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_RCHEROKEE_TEXT_3">
+
+
+			<Text>Two theories potsulate the origins of the Cherokee. As they spoke an Iroquoian language unlike neighboring tribes, they may have migrated from the great lakes around the 12th or 13th centuries, moving into Creek territories. Cherokee elders recall a great journey from the north in their mythology, supporting this theory. It has also been proposed that the Cherokee have inhabited the region for thousands of years, cultivating local plants and building mounds.</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_RCHEROKEE_TEXT_4">
+
+
+			<Text>
+				The first known Cherokee contact with Europeans was in late May 1540, when a Spanish expedition led by Hernando de Soto passed through Cherokee country near present-day Embreeville, Tennessee, which the Spaniards referred to as Guasili. De Soto's expedition visited many of the Georgia and Tennessee villages later identified as Cherokee, but recorded them as then ruled by the Coosa chiefdom, while a Chalaque nation was recorded as living around the Keowee River where North Carolina, South Carolina and Georgia meet. Diseases brought by the Spaniards and their animals decimated the Cherokee and other Eastern tribes. A second Spanish expedition came through Cherokee country in 1567 led by Juan Pardo. Spanish troops built six forts in the interior southeast. They visited the Cherokee towns Nikwasi, Estatoe, Tugaloo, Conasauga, and Kituwa, but ultimately failed to gain dominion over the region and retreated to the coast.
+			</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_RCHEROKEE_TEXT_5">
+
+
+			<Text>
+				In 1673, two Englishmen, James Needham and Garbiel Arthur were sent to Overhill Cherokee county in 1673 by fur-trader Abraham Wood from Fort Henry (modern Petersburg, Virginia). Wood hoped to forge a direct trading connection with the Cherokee to bypass the Occaneechi Indians, who were serving as middlemen on the Trading Path. The two colonial Virginians probably did make contact with the Cherokees. Wood called them Rickohockens in his book on the expedition. The map accompanying the book, showed the Rickohockens occupying all of present day southwestern Virginia, southeastern Kentucky, northwestern North Carolina and the northeastern tip of Tennessee.Needham departed with a guide nicknamed 'Indian John' while Arthur was left behind to learn the Cherokee language. On his journey, Needham engaged in an argument with 'Indian John', resulting in his death. 'Indian John' then tried to encourage his tribe to kill Arthur but the chief prevented this. Arthur, disguised as a Cherokee, accompanied the chief of the Cherokee tribe at Chota on raids of Spanish settlements in Florida, Indian communities on the east coast, and Shawnee towns on the Ohio River. However, in 1674 he was captured by the Shawnee Indians who discovered that under his disguise of clay and ash he was a white man. The Shawnee did not kill Arthur but alternatively allowed him to return to Chota. In June 1674, the chief escorted Arthur back to his English settlement in Virginia. By the late 17th century, colonial traders from both Virginia and South Carolina were making regular journeys to Cherokee lands, but few wrote about their experiences. Of the southeastern Indian confederacies of the late 17th and early 18th centuries (Creek, Chickasaw, Choctaw, etc.), the Cherokee were one of the most populous and powerful. They were relatively isolated by their hilly and mountainous homeland. A small-scale trading system was established with Virginia in the late 17th century. In the 1690s, the Cherokee had founded a much stronger and important trade relationship with the colony of South Carolina, based in Charles Town. By the 18th century, this overshadowed the Virginia relationship.
+			</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_RCHEROKEE_TEXT_6">
+
+
+			<Text>
+				The Cherokees gave sanctuary to a band of Shawnee in the 1660s, but from 1710 to 1715 the Cherokee and Chickasaw, allied with the British, fought Shawnee, who were allied with the French, and forced them to move north. Cherokees fought, along with the Yamasee, Catawba, and British in late 1712 and early 1713, against the Tuscarora in the Second Tuscarora War. The Tuscarora War marked the beginning of an English-Cherokee relationship that, despite breaking down on occasion, remained strong for much of the 18th century. In January 1716, a delegation of Muscogee Creek leaders was murdered at the Cherokee town of Tugaloo, marking the Cherokee's entry into the Yamasee War, which ended in 1717 with peace treaties between South Carolina and the Creeks. Hostility and sporadic raids between the Cherokee and Creek continued for decades. These raids came to a head at the Battle of Taliwa in 1755 (in present-day Ball Ground, Georgia) resulting in the defeat of the Muscogee. In 1721, the Cherokee ceded lands to South Carolina. In 1730, at Nikwasi, a manipulative Britain, Sir Alexander Cumming, convinced Cherokees to crown Moytoy of Tellico as "Emperor." Moytoy agreed to recognize King George II of Great Britain as the Cherokee protector. Seven prominent Cherokee, including Attakullakulla, traveled with Cuming back to London, England. The Cherokee delegation signed the Treaty of Whitehall with the British. Moytoy's son, Amo-sgasite (Dreadful Water) attempted to succeed him as "Emperor" in 1741, but the Cherokees elected their own leader, Standing Turkey of Chota (or, sometimes, Echota). Political power among Cherokees remained decentralized with towns acting autonomously. In 1735 the Cherokee were estimated to have sixty-four towns and villages and 6000 fighting men. A significant interaction between European and American peoples was embodied in the assimilation of Gottlieb Priber into Cherokee society, a German radical who advocated for a trans-tribal region-wide Indian confederation to oppose European colonization of Native land. In 1738 and 1739 smallpox epidemics broke out among the Cherokee, who had no natural immunity. Nearly half their population died within a year. Many Cherokee people also committed suicide due to disfigurement from the disease. From 1753 to 1755, battles broke out between the Cherokee and Muscogee over disputed hunting grounds in North Georgia. Cherokees were victorious in the Battle of Taliwa. British soldiers built forts in Cherokee country to confront the French, including Fort Loudoun, near Chota. In 1756 the Cherokees fought alongside the British in the French and Indian War; however, serious misunderstandings between the two allies arose quickly, resulting in the 1760 Anglo-Cherokee War. The Royal Proclamation of 1763 issued by King George III forbade British settlements west of the Appalachian crest, attempting to afford some temporary protection from colonial encroachment to the Cherokee, but it proved difficult to enforce. In 1769–72, predominantly Virginian settlers squatting on Cherokee lands in Tennessee, formed the Watauga Association.[19] In "Kentuckee", Daniel Boone and his party tried to create a settlement in what would become the Transylvania colony, but the Shawnee, Delaware, Mingo, and some disgruntled Cherokee attacked a scouting and foraging party that included Boone’s son. This sparked the beginning of what was known as Dunmore's War (1773–1774). In 1776, allied with the Shawnee and led by Cornstalk, Cherokees attacked settlers in South Carolina, Georgia, Virginia, the Washington District and North Carolina in the Second Cherokee War. An Overhill Cherokee, Nancy Ward (a niece of Dragging Canoe), warned settlers of the impending aggression. European-American militias retaliated, destroying over 50 Cherokee towns. In 1777, most of the surviving Cherokee town leaders signed treaties with the states. Dragging Canoe and his band, however, moved to the area near present day Chattanooga, Tennessee, establishing 11 new towns. Chickamauga was his headquarters and his entire band was known as the Chickamaugas. From here he fought a guerrilla-style war, the Chickamauga Wars (1776-1794). The Treaty of Tellico Blockhouse, signed 7 November 1794, ended the Chickamauga wars.
+			</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_RCHEROKEE_TEXT_7">
+
+
+			<Text>With a greatly reduced population and territory, the Cherokee set out to forge a nation state. With help from the US government, the adopted new technologies, established industries and organised a national government. Thanks to the efforts of charismatic chiefs such as Little Turkey and Pathkiller, Cherokee society was reborn within a couple decades. Cherokee parents began sending their children to proper schools, which resulted in a new political generation that would greatly shape the nation's history.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_RCHEROKEE_TEXT_8">
+
+
+			<Text>This prosperity was not meant to last however. Despite the efforts of the Cherokee Principal Chief, John Ross, the Cherokee were forced out of their remaining lands in the 1830s, much to the disgust of many US citizens and Andrew Jackon's political opponents. Approximately 2-6000 Cherokee perished on the way, including the wife of John Ross. Some Cherokee evaded relocation and became the eastern band of the Cherokee, which is today federally recognised as a seperate tribe from the Cherokee nation.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_RCHEROKEE_TEXT_9">
+
+
+			<Text>Many Cherokee were resentful for the suffering of the trail of tears and the loss of their land, and as they had cultural similarities with southerners, many advocated war against the union. Despite the best efforts of John Ross, who advocated neutralism, the Cherokee declared war against the Union. Figures such as Stand Watie organised troops and hassled Union soldiers. After the war, Cherokee land was confiscated and John Ross was painted by his enemies as a traitor, ultimately leaving the nation even more divided. The tribe also experienced discrimination under the Jim Crow laws, and were only recognised as legal citizens after the 1960s civil rights movement.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_RCHEROKEE_TEXT_10">
+
+			<Text>Today the Cherokee are a federally recognised tribe. The old Cherokee nation was dismantled in the late 19th century, but eventually, along with other tribes, they were given the rights to create constitutions and establish civic institutions that lasted to this very day. The modern nation oversaw major economic expansion and reform aswell as the development of welfare. In more recent times there has been a focus to preserve Cherokee culture, some schools treat the Cherokee language and the syllabary as their first language in order to immerse youth in their heritage. Today the Syllabary, and formerly declining rituals and aspects of Cherokee culture have been revived and are becoming more popular, bringing this fantastic heritage to a wider audience.</Text>
+
+		</Row>
+
+
+
+
+		<Row Tag="TXT_KEY_CIV5_RCHEROKEE_TITLE">
+
+			<Text>Cherokee</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV_RCHEROKEE_SHORT_DESC">
+
+			<Text>The Cherokee</Text>
+
+			<Plurality>2</Plurality>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV_RCHEROKEE_ADJECTIVE">
+
+			<Text>Cherokee</Text>
+
+			<Gender>neuter:an</Gender>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_DAWN_RCHEROKEE_TEXT">
+
+			<Text>Greetings most esteemed Guwisguwi, Principal Chief of the clever and creative Cherokee people! The Cherokee are a Native American people that today reside in the US states of Oklahoma and North Carolina. Hardy and ingenious, the Cherokee endured a series of disasters and in the late 18th century and yet forged a powerful, progressive nation modelled on the newly born United States of America. They established newspapers, industry, schools and even a phonetic writing system, while keeping their ancient traditions alive.[NEWLINE][NEWLINE]From this, a new generation of Cherokee people was born, defined by figures such as yourself, John Ross. From the beginning of your political career, you constantly championed Cherokee rights in your role as diplomat and later as Cherokee Chief, declaring to the US government the first list of Grievances of a Native people. You guided your people through the sorrowful trail of tears and the tumultuous events of the American civil war, earning you the nickname 'The Cherokee Moses'.[NEWLINE][NEWLINE]John Ross, your people beseech to you once more to deliver them from oppression! Will you return to the ways of old? Or will you champion the spirit of progression and compromise? Can you build a civilization to stand the test of time?</Text>
+
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_RCHEROKEE_0">
+
+			<Text>Chota</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_RCHEROKEE_1">
+
+			<Text>Tahlequah</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_RCHEROKEE_2">
+
+			<Text>New Echota</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_RCHEROKEE_3">
+
+			<Text>Tanasi</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_RCHEROKEE_4">
+
+			<Text>Great Tellico</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_RCHEROKEE_5">
+
+			<Text>Tallassee</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_RCHEROKEE_6">
+
+			<Text>Mialoquo</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_RCHEROKEE_7">
+
+			<Text>Tuskegee</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_RCHEROKEE_8">
+
+			<Text>Great Hiwassee</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_RCHEROKEE_9">
+
+			<Text>Settaco</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_RCHEROKEE_10">
+
+			<Text>Chilhowee</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_RCHEROKEE_11">
+
+			<Text>Tomotley</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_RCHEROKEE_12">
+
+			<Text>Toqua</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_RCHEROKEE_13">
+
+			<Text>Chattanooga</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_RCHEROKEE_14">
+
+			<Text>Seneca</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_RCHEROKEE_15">
+
+			<Text>Nununyi</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_RCHEROKEE_16">
+
+			<Text>Selikwayi</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_RCHEROKEE_17">
+
+			<Text>Keowee</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_RCHEROKEE_18">
+
+			<Text>Isunigu</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_RCHEROKEE_19">
+
+			<Text>Kituwa</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_RCHEROKEE_20">
+
+			<Text>Tugaloo</Text>
+
+		</Row>
+
+
+
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_RCHEROKEE_0">
+
+			<Text>Sequoyah</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_RCHEROKEE_1">
+
+			<Text>Gallegina</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_RCHEROKEE_2">
+
+			<Text>Ganundalegi</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_RCHEROKEE_3">
+
+			<Text>Dragging Canoe</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_RCHEROKEE_4">
+
+			<Text>Attakullakulla</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_RCHEROKEE_5">
+
+			<Text>Yonaguska</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_RCHEROKEE_6">
+
+			<Text>Nancy Ward</Text>
+
+			<Gender>feminine</Gender>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_RCHEROKEE_7">
+
+			<Text>Ghigau</Text>
+
+			<Gender>feminine</Gender>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_RCHEROKEE_8">
+
+			<Text>Ayita</Text>
+
+			<Gender>feminine</Gender>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_RCHEROKEE_9">
+
+			<Text>Inola</Text>
+
+			<Gender>feminine</Gender>
+
+		</Row>
+
+	</Language_en_US>
+
+
+</GameData>
+  

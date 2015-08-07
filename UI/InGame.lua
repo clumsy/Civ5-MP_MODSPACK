@@ -1385,6 +1385,9 @@ ContextPtr:LoadNewContext("GESlavicFunctions")
 -- Nation - Chile --
 ContextPtr:LoadNewContext("AdmiralCityStates")
 
+-- Nation - Cherokee --
+ContextPtr:LoadNewContext("Cherokee_Trait")
+
 -- Nation - Cuba --
 ContextPtr:LoadNewContext("CubaTraitScripts")
 ContextPtr:LoadNewContext("RevolucionarioAnarchies")
