@@ -1387,6 +1387,9 @@ ContextPtr:LoadNewContext("MishkehFeastScript")
 -- Nation - Slavs --
 ContextPtr:LoadNewContext("GESlavicFunctions")
 
+-- Nation - Israel --
+ContextPtr:LoadNewContext("PolicyReligion")
+
 -- Nation - Chile --
 ContextPtr:LoadNewContext("AdmiralCityStates")
 

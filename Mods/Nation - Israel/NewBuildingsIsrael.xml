@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/18/2013 3:04:49 PM -->
+<GameData>
+	
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_ISRAEL</Type>
+			<DefaultBuilding>BUILDING_ISRAEL</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_ISRAEL</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_ISRAEL_POLICY</Type>
+			<DefaultBuilding>BUILDING_ISRAEL_POLICY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_ISRAEL</Description>
+		</Row>
+
+
+	</BuildingClasses>
+	<Buildings>
+	
+	
+		<Row>
+			<Type>BUILDING_ISRAEL</Type>
+			<BuildingClass>BUILDINGCLASS_ISRAEL</BuildingClass>
+			<Cost>-1</Cost>
+			<GoldMaintenance>0</GoldMaintenance>
+			<Help>TXT_KEY_BUILDING_ISRAEL_HELP</Help>
+			<Description>TXT_KEY_BUILDING_ISRAEL</Description>
+			<Civilopedia>TXT_KEY_BUILDING_ISRAEL_DESC</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_ISRAEL_STRATEGY</Strategy>
+			<Happiness>1</Happiness>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<ArtDefineTag>MONUMENT</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<CapturePlunderModifier>0</CapturePlunderModifier>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>CIV_COLOR_ATLAS_ISRAEL</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+		</Row>
+		<Row>
+			<Type>BUILDING_ISRAEL_POLICY</Type>
+			<BuildingClass>BUILDINGCLASS_ISRAEL_POLICY</BuildingClass>
+			<Cost>-1</Cost>
+			<GoldMaintenance>0</GoldMaintenance>
+			<Help>TXT_KEY_BUILDING_ISRAEL_HELP</Help>
+			<Description>TXT_KEY_BUILDING_ISRAEL</Description>
+			<Civilopedia>TXT_KEY_BUILDING_ISRAEL_DESC</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_ISRAEL_STRATEGY</Strategy>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<ArtDefineTag>MONUMENT</ArtDefineTag>
+			<NukeImmune>true</NukeImmune>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>100</ConquestProb>
+			<FreePolicies>1</FreePolicies>
+			<IconAtlas>CIV_COLOR_ATLAS_ISRAEL</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+		</Row>
+	</Buildings>
+
+
+
+	
+</GameData>

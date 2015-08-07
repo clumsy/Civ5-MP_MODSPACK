@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/5/2014 6:53:30 PM -->
+<GameData>
+	<BuildingClasses>
+		<Replace>
+			<Type>BUILDINGCLASS_LEUGI_JERUSALEM_TEMPLE</Type>
+			<DefaultBuilding>BUILDING_LEUGI_JERUSALEM_TEMPLE</DefaultBuilding>
+			<Description>TXT_KEY_LEUGI_JERUSALEM_TEMPLED</Description>
+			<MaxGlobalInstances>1</MaxGlobalInstances>
+		</Replace>
+	</BuildingClasses>
+	<Buildings>
+		<Replace>
+			<Type>BUILDING_LEUGI_JERUSALEM_TEMPLE</Type>
+			<BuildingClass>BUILDINGCLASS_LEUGI_JERUSALEM_TEMPLE</BuildingClass>
+			<Cost>-1</Cost>
+			<Help>TXT_KEY_BUILDING_LEUGI_JERUSALEM_TEMPLE_HELP</Help>
+			<Description>TXT_KEY_BUILDING_LEUGI_JERUSALEM_TEMPLE</Description>
+			<Civilopedia>TXT_KEY_BUILDING_LEUGI_JERUSALEM_TEMPLE_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_LEUGI_JERUSALEM_TEMPLE_STRATEGY</Strategy>
+			<Quote>TXT_KEY_WONDER_LEUGI_JERUSALEM_TEMPLE_QUOTE</Quote>
+			<ArtDefineTag>TEMPLE</ArtDefineTag>
+			<EnhancedYieldTech>TECH_AGRICULTURE</EnhancedYieldTech>
+			<TechEnhancedTourism>4</TechEnhancedTourism>
+			<Happiness>1</Happiness>
+			<GoldenAge>true</GoldenAge>
+			<NukeImmune>true</NukeImmune>
+			<ReligiousPressureModifier>100</ReligiousPressureModifier>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<MinAreaSize>-1</MinAreaSize>
+			<NeverCapture>true</NeverCapture>
+			<IconAtlas>JERUSALEM_TEMPLE_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+			<WonderSplashImage>TempleofJerusalemSplash.dds</WonderSplashImage>
+			<WonderSplashAudio>AS2D_MINOR_CIV_JERUSALEM</WonderSplashAudio>
+		</Replace>
+	</Buildings>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_LEUGI_JERUSALEM_TEMPLE</BuildingType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>4</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_LEUGI_JERUSALEM_TEMPLE</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>4</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<!-- ICON -->
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>JERUSALEM_TEMPLE_ATLAS</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>TempleJerusalemIcon256.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>JERUSALEM_TEMPLE_ATLAS</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>TempleJerusalemIcon128.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>JERUSALEM_TEMPLE_ATLAS</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>TempleJerusalemIcon80.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>JERUSALEM_TEMPLE_ATLAS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>TempleJerusalemIcon64.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>JERUSALEM_TEMPLE_ATLAS</Atlas>
+			<IconSize>48</IconSize>
+			<Filename>TempleJerusalemIcon48.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>JERUSALEM_TEMPLE_ATLAS</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>TempleJerusalemIcon45.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>JERUSALEM_TEMPLE_ATLAS</Atlas>
+			<IconSize>32</IconSize>
+			<Filename>TempleJerusalemIcon32.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+	<!-- TEXT -->
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_LEUGI_JERUSALEM_TEMPLE">
+			<Text>Temple of Jerusalem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LEUGI_JERUSALEM_TEMPLE_HELP">
+			<Text>May only be acquired through the "Build Temple of Jerusalem" decision. 
+			[NEWLINE]Starts a [ICON_GOLDEN_AGE] Golden Age
+[NEWLINE]Increases religious pressure emanating from this city by 100%. 
+[NEWLINE]The Temple of Jerusalem is lost upon capture, but may be rebuilt by re-enacting the decision.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LEUGI_JERUSALEM_TEMPLE_STRATEGY">
+			<Text>The Temple of Jerusalem is a powerful religious wonder. Not only does it increase your religious pressure but grants faith and tourism as well, which can help leading to a cultural victory through religion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_LEUGI_JERUSALEM_TEMPLE_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"Even them will I bring to My holy mountain, and make joyful in My house of prayer, their burnt-offerings and their sacrifices shall be acceptable upon Mine altar, for my house shall be called a house of prayer for all peoples."[NEWLINE][TAB][TAB] - Isaiah[NEWLINE][TAB]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LEUGI_JERUSALEM_TEMPLE_TEXT">
+			<Text>
+				The Temple in Jerusalem or Holy Temple was one of a series of structures which were located on the Temple Mount in the Old City of Jerusalem, the current site of the Dome of the Rock. These successive temples stood at this location and functioned as a site of ancient Israelite and later Jewish worship.[NEWLINE][NEWLINE]
+				The Hebrew Bible reports that the First Temple was built in 957 BCE by King Solomon (reigned c. 970-c. 930 BCE). According to Deuteronomy, as the sole place of Jewish sacrifice (Deuteronomy 12), the Temple replaced the portable sanctuary (aka The Tabernacle) constructed in the Sinai Desert under the auspices of Moses, as well as local sanctuaries, and altars in the hills. This temple was however sacked a few decades later by Sheshonk I, Pharaoh of Egypt. However, according to 1 Kings 12, after the northern secession from Judah ca. 930 BCE to establish the independent kingdom of Israel, King Jeroboam built new temples at Bethel (on Israel’s southern border) and at Dan (on the northern border). At each of these shrines, he set up a golden bull calf, calling them Elohim.[NEWLINE][NEWLINE]
+				Although efforts were made at partial reconstruction, it was only in 835 BCE when Jehoash, King of Judah in the second year of his reign invested considerable sums in reconstruction, only to have it stripped again for Sennacherib, King of Assyria c. 700 BCE. The First Temple was totally destroyed by the Babylonians in 586 BCE when they sacked the city.[NEWLINE][NEWLINE]
+				According to the Book of Ezra, construction of the Second Temple was authorized by Cyrus the Great and began in 538 BCE, after the fall of the Babylonian Empire the year before. It was completed 23 years later, on the third day of Adar, in the sixth year of the reign of Darius the Great (12 March 515 BCE), dedicated by the Jewish governor Zerubbabel. Despite the fact that the new temple was not as extravagant or imposing as its predecessor, it still dominated the Jerusalem skyline and remained an important structure throughout the time of Persian suzerainty. The temple narrowly avoided being destroyed again in 332 BCE when the Jews refused to acknowledge the deification of Alexander the Great of Macedonia. Alexander was allegedly “turned from his anger” at the last minute by astute diplomacy and flattery. After the death of Alexander on 13 June 323 BCE, and the dismembering of his empire, the Ptolemies came to rule over Judea and the Temple. Under the Ptolemies, the Jews were given many civil liberties and lived content under their rule. However, when the Ptolemaic army was defeated at Panium by Antiochus III of the Seleucids in 198 BCE, this policy changed. Antiochus wanted to Hellenize the Jews, attempting to introduce the Greek pantheon into the temple. A rebellion ensued and was brutally crushed, but no further action by Antiochus was taken. When Antiochus died in 187 BCE at Luristan, his son Seleucus IV Philopator succeeded him. However, his policies never took effect in Judea, since he was assassinated the year after his ascension.[NEWLINE][NEWLINE]
+				Antiochus IV Epiphanes succeeded his older brother to the Seleucid throne and immediately adopted his father's previous policy of universal Hellenisation. The Jews rebelled again and Antiochus, in a rage, retaliated in force. Considering the previous episodes of discontent, the Jews became incensed when the religious observances of Sabbath and circumcision were officially outlawed. When Antiochus erected a statue of Zeus in their temple and Hellenic priests began sacrificing pigs (the usual sacrifice offered to the Greek gods in the Hellenic religion) their anger began to spiral. When a Greek official ordered a Jewish priest to perform a Hellenic sacrifice, the priest (Mattathias) killed him. In 167 BCE the Jews rose up en masse behind Mattathias and his five sons to fight and win their freedom from Seleucid authority. Mattathias' son Judas Maccabeus, now called "The Hammer", re-dedicated the temple in 165 BCE and the Jews celebrate this event to this day as a major part of the festival of Hanukkah.[NEWLINE][NEWLINE]
+				The temple was rededicated under Judas Maccabaeus in 164 BCE. During the Roman era, Pompey entered (and thereby desecrated) the Holy of Holies in 63 BCE, but left the Temple intact.[7][8][9] In 54 BCE, Crassus looted the Temple treasury, only for him to die the year after at the Battle of Carrhae against Parthia. When news of this reached the Jews, they revolted again, only to be put down in 43 BCE. Around 20 BCE, the building was renovated by Herod the Great, and became known as Herod's Temple. During the Roman occupation of Judea, the Temple remained under control of the Jewish people. It was later destroyed by the Romans in 70 CE during the Siege of Jerusalem. During the last revolt of the Jews against the Romans in 132–135 CE, Simon bar Kokhba and Rabbi Akiva wanted to rebuild the Temple, but bar Kokhba's revolt failed and the Jews were banned from Jerusalem (except for Tisha B'Av) by the Roman Empire. The emperor Julian failed to have the Temple rebuilt in 363 CE.[NEWLINE][NEWLINE]
+				After the Muslim conquest of Jerusalem in the 7th century, Umayyad Caliph Abd al-Malik ibn Marwan ordered the construction of an Islamic shrine, the Dome of the Rock, on the site of the Temple. The shrine has stood on the mount since 691 CE; the al-Aqsa Mosque, from roughly the same period, also stands in the Temple courtyard.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

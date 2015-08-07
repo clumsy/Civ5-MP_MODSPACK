@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/18/2013 1:17:48 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_ISRAEL_POLICY_FAITH">
+			<Text>Adopting a Social Policy has granted you [COLOR_CYAN]{1_iFaith} [ICON_PEACE] Faith[ENDCOLOR]!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ISRAEL_01">
+			<Text>Jerusalem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ISRAEL_02">
+			<Text>Hebron</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ISRAEL_03">
+			<Text>Gaza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ISRAEL_04">
+			<Text>Jericho</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ISRAEL_05">
+			<Text>Bethlehem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ISRAEL_06">
+			<Text>Nazareth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ISRAEL_07">
+			<Text>Meggido</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ISRAEL_08">
+			<Text>Beer-Sheba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ISRAEL_09">
+			<Text>Judah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ISRAEL_10">
+			<Text>Hazor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ISRAEL_11">
+			<Text>Michmash</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ISRAEL_12">
+			<Text>Caesarea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ISRAEL_13">
+			<Text>Emmaus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ISRAEL_14">
+			<Text>Tirzah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ISRAEL_15">
+			<Text>Gilgal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ISRAEL_16">
+			<Text>Joppa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ISRAEL_17">
+			<Text>Shiloh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ISRAEL_18">
+			<Text>Ashdod</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ISRAEL_19">
+			<Text>Ashkelton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ISRAEL_20">
+			<Text>Samara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ISRAEL_21">
+			<Text>Gezer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ISRAEL_22">
+			<Text>Gibeon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ISRAEL_23">
+			<Text>Tamar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ISRAEL_24">
+			<Text>Beth-horon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ISRAEL_25">
+			<Text>Geba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ISRAEL_26">
+			<Text>Gath</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ISRAEL_27">
+			<Text>Avaris</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ISRAEL_28">
+			<Text>Jabesh-Gilead</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ISRAEL_29">
+			<Text>Dan</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_CIV_ISRAEL_ADJECTIVE">
+			<Text>Israelite</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ISRAEL_DESC">
+			<Text>Israelite Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ISRAEL_SHORT_DESC">
+			<Text>Israel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ISRAEL_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ISRAEL_TEXT_1">
+			<Text>
+				Blessings of God towards you, honorable King David of the Kingdom of Israel. [NEWLINE][NEWLINE]You succeeded in truly unifying the Israelite tribes, and set up a monarchical government. Embarked on successful military campaigns against Israel's enemies, you defeated nearby regional entities such as the Philistines, thus creating secure borders for Israel. Under your holy guidance, Israel grew into a regional power. Under your House, the united Kingdom of Israel achieved prosperity and superiority over its neighbours.  [NEWLINE][NEWLINE]Your people still lie scattered through the world, longing for a King to truly unite them. Will you listen their clamor? Will you build a civilization that will stand the test of time?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_DAVID_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_DAVID_TEXT_1">
+			<Text>
+				David, according to the Hebrew Bible, was the second king of the United Kingdom of Israel, and according to the New Testament Gospels of Matthew and Luke, an ancestor of Jesus. His life is conventionally dated to c. 1040–970 BCE, his reign over Judah c. 1010–1002 BCE, and his reign over the United Kingdom of Israel c. 1002–970 BCE.[NEWLINE][NEWLINE]The Books of Samuel, 1 Kings, and 1 Chronicles are the only sources of information on David, although the Tel Dan stele (dated c.850–835 BCE) contains the phrase bytdwd, read as "House of David", which most scholars take as confirmation of the existence in the mid-9th century BCE of a Judean royal dynasty called the House of David.[NEWLINE]He is depicted as a righteous king, although not without faults, as well as an acclaimed warrior, musician, and poet, traditionally credited for composing many of the psalms contained in the Book of Psalms.[NEWLINE]David is very important to Jewish, Christian, Islamic and Baha'i doctrine and culture. Biblical tradition maintains that a direct descendant of David will be the Messiah. In Islam he is considered to be a prophet and the king of a nation.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_DAVID_LIVED">
+			<Text>1040–970 BCE.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_DAVID_NAME">
+			<Text>King David</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_DAVID_SUBTITLE">
+			<Text>King of the Kingdom of Israel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DAVID">
+			<Text>David</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_DAVID_TITLES_1">
+			<Text>The Psalmist</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CHOSEN_PEOPLE">
+			<Text>+1 [ICON_CULTURE] Culture on Pastures. Great Prophets grant a [ICON_STRENGTH]Combat bonus to adjacent units. Upon adopting Social Policies receive an amount of [ICON_PEACE] Faith.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CHOSEN_PEOPLE_SHORT">
+			<Text>Chosen People</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ISRAEL_MACCABEE">
+			<Text>Maccabee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_MACCABEE">
+			<Text>The Maccabee receives a bonus on flanking attacks, unlike the Swordsman which it replaces. Every kill made by the Maccabee yields [ICON_PEACE] Faith.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_ISRAEL_MACCABEE_TEXT">
+			<Text>
+				Much is known about the miracle of Chanukah and its subsequent impact on Jewish life. However, little is known about the battles that were fought by Judah the Maccabee and his sons. The Maccabean revolt began in 167 BCE and were at a time that there was no organized Jewish force that had engaged in any warfare. Judah the Maccabee used his genius in a manner radically different from his predecessors.
+				[NEWLINE][NEWLINE]
+				In order to fully understand the genius of Judah the Maccabee, we must understand the state of warfare which was used in those times. Greek and Roman armies were powerful, well trained, well financed, and disciplined. The Jews in that time period were basically farmers, they had lived in relative peace and had not resorted to any form of an army. Yet, after a decree was made that pigs be slaughter, offered to the Greek gods, and eaten, the revolt ensued. Mattisyahu, the Jewish priest was ordered to perform this sacrifice and to eat from the pig. Instead, with fury, he and his sons slew the Jewish traitors (who supported the Greeks) and Greek unit that had come to enforce the decree against the Jews. The Jews took refuge in the hills and mountain sides of the Modiin region, some 25 miles distant from Jerusalem. There a small group, estimated at 200 organized as a guerrilla group.
+				[NEWLINE][NEWLINE]
+				This small group reaffirmed the principles of Judaism with willingness to sacrifice themselves for the sake of their G-d. In what they lacked in supplies and training, they made up with there devotion. They worked on strengthening their contacts among the Jewish settlements, maintaining supplies and intelligence gathering. Soon, Judah, the son of Mattisyahu, was designated as the leader.
+				[NEWLINE][NEWLINE]
+				The Greek army was well trained, well organized and tried in battle. Their ranks were composed of heavy and light infantry, heavy and light cavalry, chariots, elephant units and engines for hurling huge stones. Their weapons included swords, javelins, spears bows, slings and battering rams. The Jews small group had such home made primitive weapons such as the sling and the mace. Here is where Judah’s genius came to even the sides.
+				[NEWLINE][NEWLINE]
+				The Greeks enjoyed the overwhelming superiority in manpower and arms. However they were trained for battle in a conventional fighting form. The core of the Greek army was the tactical infantry formation, a group of soldiers drawn up in close order. The troops advanced towards the enemy in a tight mass. The men in each rank shoulder to shoulder and close on the heels of the rank in front. This company comprised of some 250 men. They would march toward the enemy in close quarter with 16 men is each row and sixteen rows. Four such units comprised some one thousand men. This was the smallest fighting group that the Greeks employed.
+				[NEWLINE][NEWLINE]
+				As the unit approached the enemy force, the first five rows held their spears horizontally towards the enemy. The remaining rows held them vertically. Their large shields protected them from all sides and overhead. All men of that unit were ready to engage the enemy not as independent warriors, but as a tightly knit war machine. The entire unit would press against the enemy once battle was joined. The thundering forward crush, demolished every thing in its path. This infantry unit was protected on the flanks by cavalry and light forces which skirmished before the main forces. Judah saw that to engage the Greeks head on was insane. He realized that that the weakness in this method of warfare was in the cumbersome conventional movement of the organized units. Due to their ridged discipline and the tight internal organization of the warring units, they could not employ the element of surprise. The progress of a marching unit was powerful, yet slow and tedious. When two forces met in battle, both sides were in full view of the other. When battle was enjoined, it was in accordance to certain fixed tactical principles. The concept of using original tactics did not exist.
+				[NEWLINE][NEWLINE]
+				Judah saw the advantages to be gained from refusing to allow the enemy to dictate the field and style of battle. The Greeks were no match if challenged on flat land in a direct battle during the daylight hours. Yehuda’s strength was in the agility of his men to move quickly, quietly and independently and their desire to prevail. They possessed intimate knowledge of the local terrain therefore attacks could be carried out at night. He therefore chose to utilize the rocky and hilly slopes of the Modiin region, together with the element of surprise.
+				[NEWLINE][NEWLINE]
+				Judah decided to attack the Greeks as they were marching thought a narrow pass that winds uphill for several miles. With one group who would meet the Greeks head on, Judah split his men into other groups. One group was assigned the task of sealing off the narrow pass to prevent retreat. Two other groups hid on the hill side and waited for the first group to engage in battle. As the Greeks met the surprise attack from the front and directed their attention to the certain slaughter of these renegades, the second group attacked from one side. Turning to ward off this surprise, and as their attention was caught between two sides, they were attacked from the third side. Untrained for battle in a non-orthodox form, they were unaware of the trick that was being unfolded upon them. The Jewish warriors swept down from the sides and decimated the Greek troops. The entire Greek force was totally destroyed. The Jews wasted no time in collecting the enemy’s weapons and equipment.
+				[NEWLINE][NEWLINE]
+				This surprise victory had electrifying effects on the whole of Israel. The popular support that the Maccabean warriors had enjoyed was increased dramatically. The disgraced Greek army was forced to withdraw. Yet although the Greek army tried several times again to battle the small Jewish army, each time increasing the Greek army, they lost in a most profound manner. Judah’s genius manifest itself in utilizing the natural elements that were given to his side, and by utilizing his natural G-d given talents. He refusing to accept the enemy’s dictation of battle in any mode of conflict. We too, can learn from this, as we must deal with our enemies. We do not have to accept other modes of thought as the given, nor do we have to fight with them in their chosen conventional form (which they choose to use). Rather, we must utilize that natural and native Jewish intelligence which G-d has given us. That, together with our devotion, will help us succeed in all of our battles.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ISRAEL_MACCABEE_STRATEGY">
+			<Text>The flanking bonus the Maccabees have allows for interesting army strategies, face to face combat is not recommended, for the bonus will not apply.</Text>
+		</Row>
+	
+		
+
+		<Row Tag="TXT_KEY_SPY_NAME_ISRAEL_0">
+			<Text>Josue</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ISRAEL_1">
+			<Text>Esther</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ISRAEL_2">
+			<Text>Judas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ISRAEL_3">
+			<Text>Rut</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ISRAEL_4">
+			<Text>Shammua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ISRAEL_5">
+			<Text>Shaphat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ISRAEL_6">
+			<Text>Caleb</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ISRAEL_7">
+			<Text>Joshua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ISRAEL_8">
+			<Text>Ammiel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ISRAEL_9">
+			<Text>Geuel</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_PROMOTION_MACCABEEFLANK">
+			<Text>Flanking Bonus</Text>
+		</Row>
+		<Row Tag="TXT_PROMOTION_MACCABEEFLANK_HELP">
+			<Text>Increases Combat Strength by 20 on Flanking Attacks</Text>
+		</Row>
+
+	
+
+		<Row Tag="TXT_KEY_BUILDING_ISRAEL">
+			<Text>Rabbi Slot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ISRAEL_DESC">
+			<Text>Israelite Cities receive one Rabbi Specialist.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ISRAEL_STRATEGY">
+			<Text>Israel is the only civilization which can uses Rabbis, to produce Great Prophets, this allows them to keep a more controlled production of Great Prophets.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ISRAEL_HELP">
+			<Text>Rabbi Slot for Israel. Rabbis generate [ICON_PEACE] Faith and work towards Great Prophets.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_IMPROVEMENT_KIBBUTZ">
+		<Text>Kibbutz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_KIBBUTZ_HELP">
+			<Text>Only Israel may build it. May only be built on farms and never adjacent to another Kibbutz. +2 [ICON_CULTURE] Culture after the discovery of Radio.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_KIBBUTZ_TEXT">
+			<Text>
+				A kibbutz is a collective community in Israel that was traditionally based on agriculture. The first kibbutz, established in 1909, was Degania. Today, farming has been partly supplanted by other economic branches, including industrial plants and high-tech enterprises.Kibbutzim began as utopian communities, a combination of socialism and Zionism. In recent decades, some kibbutzim have been privatized and changes have been made in the communal lifestyle. A member of a kibbutz is called a kibbutznik.
+				In 2010, there were 270 kibbutzim in Israel. Their factories and farms account for 9% of Israel’s industrial output, worth US$8 billion, and 40% of its agricultural output, worth over $1.7 billion. Some Kibbutzes had also developed substantial high-tech and military industries. For example, in 2010, Kibbutz Sasa, containing some 200 members, generated $850 million in annual revenue from its military-plastics industry.
+				The kibbutzim were founded by members of the Bilu movement who emigrated to Palestine. Like the members of the First Aliya who came before them, most members of the Second Aliya wanted to be farmers. Joseph Baratz, one of the pioneers of the kibbutz movement, wrote a book about his experiences..
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_KIBBUTZ">
+			<Text>Establish a [LINK=IMPROVEMENT_KIBBUTZ]Kibbutz[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_KIBBUTZ_HELP">
+			<Text>Only Israel may build it. May only be built on farms and never adjacent to another Kibbutz. +2 [ICON_CULTURE] Culture after the discovery of Radio.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_KIBBUTZ_REC">
+			<Text>Establishing a Kibbutz will increase [ICON_FOOD]Food, [ICON_PEACE]Faith and [ICON_CULTURE]Culture!</Text>
+		</Row>
+
+	</Language_en_US>
+</GameData>

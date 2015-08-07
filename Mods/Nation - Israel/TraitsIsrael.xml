@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/18/2013 3:41:06 PM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_CHOSEN_PEOPLE</Type>
+			<Description>TXT_KEY_TRAIT_CHOSEN_PEOPLE</Description>
+			<ShortDescription>TXT_KEY_TRAIT_CHOSEN_PEOPLE_SHORT</ShortDescription>
+		</Row>
+	</Traits>
+	<Units>
+
+		<Update>
+			<Set CombatClass="UNITCOMBAT_PROPHET"/>
+			<Where Type="UNIT_PROPHET"/>
+
+		</Update>
+	</Units>
+	<Trait_FreePromotionUnitCombats>
+		<Row>
+			<TraitType>TRAIT_CHOSEN_PEOPLE</TraitType>
+			<UnitCombatType>UNITCOMBAT_PROPHET</UnitCombatType>
+			<PromotionType>PROMOTION_GREAT_GENERAL</PromotionType>
+		</Row>	
+	</Trait_FreePromotionUnitCombats>
+	<UnitCombatInfos>
+	<Row>
+		<Type>UNITCOMBAT_PROPHET</Type>
+		<Description>TXT_KEY_UNITCOMBAT_RECON</Description>
+	</Row>
+	</UnitCombatInfos>
+	<Trait_ImprovementYieldChanges>
+		<Row>
+			<TraitType>TRAIT_CHOSEN_PEOPLE</TraitType>
+			<ImprovementType>IMPROVEMENT_PASTURE</ImprovementType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Trait_ImprovementYieldChanges>
+</GameData>

@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="35e27828-cf22-4aec-b087-08169fa4e429" version="7">
+  <Properties>
+    <Name>(BNW) Leugi's Israel Civilization</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]Israel Civilization[ENDCOLOR] with King David as its leader. Requires Brave New World.</Teaser>
+    <Description>Adds the Israel Civilization with King David as its leader. This mod features a 3D leaderscene thanks to Ekmek!</Description>
+    <Authors>Leugi,</Authors>
+    <SpecialThanks>Ekmek, danrell, framedarchitecture, JanBoruta</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>0</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde31" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Packs" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events and Decisions" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD's Piety and Prestige" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="FBDE0A704324AFE39B3AEB3ED837EFAB" import="1">Art/3D Leaderscene/david_audio_triggers.ftsxml</File>
+    <File md5="BC3525D047AA82AC5534A848D0D8F8C9" import="1">Art/3D Leaderscene/david_cloth_diff.dds</File>
+    <File md5="94EEFC8E3ACE252EBA4F1714B1CC5D99" import="1">Art/3D Leaderscene/david_cloth_norm.dds</File>
+    <File md5="E1204DA12BF90C16A7426F2A3A810990" import="1">Art/3D Leaderscene/david_cloth_sref.dds</File>
+    <File md5="EAD2BA15FAA0080C57E34DADCBA4FB75" import="1">Art/3D Leaderscene/david_hair_diff.dds</File>
+    <File md5="B4810A72A80DC6084DF0E9A9FB9DE692" import="1">Art/3D Leaderscene/DAVID_SCENE.fxsxml</File>
+    <File md5="FC1C9F33FF7052193180E778EFBCD529" import="1">Art/3D Leaderscene/david_scene.gr2</File>
+    <File md5="48793D922E743C64E0D9F41183C4EA53" import="1">Art/3D Leaderscene/David_Scene_DDS.dds</File>
+    <File md5="483E6048118F8161287A9BDB062ACF71" import="1">Art/3D Leaderscene/david_skin_diff.dds</File>
+    <File md5="7A27E1F83232B16A9CD9DD8A1AA6EFBC" import="1">Art/3D Leaderscene/persia_darius_DAVID.fxsxml</File>
+    <File md5="8EEDB5B25B7F748ECE00DAC8420A7984" import="1">Art/3D Leaderscene/persia_darius_DAVID.gr2</File>
+    <File md5="B6AA9F82756F84FC15E22C3C5015F483" import="1">Art/David.dds</File>
+    <File md5="80AB7263276926FD9811BB27C48FE5DF" import="1">Art/DavidDOM.dds</File>
+    <File md5="983D2AD6332A8EAA1301188441BCAB04" import="1">Art/Icons/AlphaIsraelIcon128.dds</File>
+    <File md5="7340CB053E46521E4548A389A5BD86AC" import="1">Art/Icons/AlphaIsraelIcon16.dds</File>
+    <File md5="8886C0C990ED3F4ECAD98B6643AFC488" import="1">Art/Icons/AlphaIsraelIcon24.dds</File>
+    <File md5="42CC8F5CB5C83A0D30ECA00FD8603553" import="1">Art/Icons/AlphaIsraelIcon32.dds</File>
+    <File md5="3DE1DCFBB979EE01AE02167834A15A4E" import="1">Art/Icons/AlphaIsraelIcon48.dds</File>
+    <File md5="C609F675FD0CA7D26A49D520740E3C09" import="1">Art/Icons/AlphaIsraelIcon64.dds</File>
+    <File md5="0DBF74756A180F6CAB39DF66B4AAC6E4" import="1">Art/Icons/IsraelIcons128.dds</File>
+    <File md5="C4B2D3D754CDB73D3E637ACEA3BC9CAC" import="1">Art/Icons/IsraelIcons24.dds</File>
+    <File md5="DA4E8A4782A5324940C1FD7E1A3BA8BE" import="1">Art/Icons/IsraelIcons256.dds</File>
+    <File md5="6045C77D70D22824340EAFAE1D754546" import="1">Art/Icons/IsraelIcons32.dds</File>
+    <File md5="41676F377BA2FE02BF762B3A8B009053" import="1">Art/Icons/IsraelIcons45.dds</File>
+    <File md5="2D1F601288D4770C545033D3187752ED" import="1">Art/Icons/IsraelIcons48.dds</File>
+    <File md5="5C9AD377B57FA556324D9027A858B0A0" import="1">Art/Icons/IsraelIcons64.dds</File>
+    <File md5="4E42CB1B215C77323915ED87F566C531" import="1">Art/Icons/IsraelIcons80.dds</File>
+    <File md5="BB9C530340C300DC1DF6137EADAEAC55" import="0">Art/Icons/SynagogueIcon256.dds</File>
+    <File md5="E77D040A87246326C9D9E1B951F6A435" import="1">Art/IsraelMap.dds</File>
+    <File md5="58C7181A0FC3E57B05FDBB6B89A3FC72" import="1">Art/Kibbutz/fx_kibbutz_smoke.ftsxml</File>
+    <File md5="4F8FCDD29363A361A5C987B980EFABF7" import="1">Art/Kibbutz/kibbutz.fxsxml</File>
+    <File md5="0ADE99C6CD683377D76A7D42C325CBBF" import="1">Art/Kibbutz/Kibbutz.gr2</File>
+    <File md5="23A3B0222C5885E09F39318E29C4504F" import="1">Art/Kibbutz/Kibbutz2.gr2</File>
+    <File md5="B230465407F22855B6A9205853B714FE" import="1">Art/Kibbutz/Kibbutz2_hb.gr2</File>
+    <File md5="E47AF5B0A3742B5E5376AA4ED0A01D15" import="1">Art/Kibbutz/Kibbutzim.gr2</File>
+    <File md5="308B5158813004783F4FD86BE551254A" import="1">Art/Kibbutz/kibbutz_decal.dds</File>
+    <File md5="B110E81FF00230A5007E9858CEAFFEDB" import="1">Art/Kibbutz/kibbutz_diff.dds</File>
+    <File md5="01B49D5AB83FFECF7A02357B49F9FB8F" import="1">Art/Kibbutz/kibbutz_hb.fxsxml</File>
+    <File md5="1EB6AB9615163AB23CBBEEA30BE781DA" import="1">Art/Kibbutz/kibbutz_pl.fxsxml</File>
+    <File md5="437CDB74C4F704DE5371E6EA3C33137B" import="1">Art/Kibbutz/Kibbutz_PL.gr2</File>
+    <File md5="C420E845208D79CFCC89771FFE9207BD" import="1">Art/Maccabee/Maccabee.dds</File>
+    <File md5="AFBD135153EEC951A76D56376CAD5124" import="1">Art/Maccabee/Maccabee.fxsxml</File>
+    <File md5="BE7259404859B5F877915A69AA2325DC" import="1">Art/Maccabee/Maccabee.gr2</File>
+    <File md5="AC8C3ED1DB9379F10ED3689E43BB605A" import="1">Art/Maccabee/MaccabeeFlag.dds</File>
+    <File md5="58B3D9E9CE102F4EC0EDADD303FB8D92" import="1">Art/Maccabee/Maccabee_gloss.dds</File>
+    <File md5="A099E64ECD4A1C5244501BDC22F80E0C" import="1">Art/Maccabee/sv_maccabee.dds</File>
+    <File md5="7F473F7213DC6262F688AFDF80BB17BE" import="1">Art/sv_kibbutz.dds</File>
+    <File md5="7BBE265CD10192C37EA7D1E33AB47035" import="0">Compatibility/Decisions/AddIsraelDecisions.sql</File>
+    <File md5="D84B710FA280C188C6D8EC99469DD0E4" import="1">Compatibility/Decisions/Art/TempleJerusalemIcon128.dds</File>
+    <File md5="A20DE2D7FBDA2C863A56F4669EF316FE" import="1">Compatibility/Decisions/Art/TempleJerusalemIcon256.dds</File>
+    <File md5="B917D17E8AA7A4AB507A587698895A56" import="1">Compatibility/Decisions/Art/TempleJerusalemIcon32.dds</File>
+    <File md5="A6BB2F5D84C41F91F0E8939CA802DB08" import="1">Compatibility/Decisions/Art/TempleJerusalemIcon45.dds</File>
+    <File md5="0E6DBD79CC690B77177488C37E29720B" import="1">Compatibility/Decisions/Art/TempleJerusalemIcon48.dds</File>
+    <File md5="17AC6FB336608508DA6FCA95D2631F64" import="1">Compatibility/Decisions/Art/TempleJerusalemIcon64.dds</File>
+    <File md5="1D501D55EF5E5E5A2A802029A002E332" import="1">Compatibility/Decisions/Art/TempleJerusalemIcon80.dds</File>
+    <File md5="F47BB0D479070E2EF7927B52A5141472" import="1">Compatibility/Decisions/Art/TempleofJerusalemSplash.dds</File>
+    <File md5="5DBAF4B9FC425CB75E462BE45938A43D" import="0">Compatibility/Decisions/IsraelDecisions.xml</File>
+    <File md5="FD4527F4B592E05F911972A36ECD7DFB" import="1">Compatibility/Decisions/IsraelDecisionScriptsLeugi.lua</File>
+    <File md5="0BDD665F145F3CF5164989EACFD7E90F" import="0">Compatibility/Decisions/JerusalemTempleBuilding.xml</File>
+    <File md5="D170A6B1D998571FF970BEDB586B7D0B" import="0">Compatibility/Diversity/IsraelCulture.sql</File>
+    <File md5="DC750E7379C83809588B9D70DACC70F4" import="0">Compatibility/Events/AddLeugiIsraelEvents.sql</File>
+    <File md5="91FB6A37BDCB9C0E75B077A92D76F632" import="1">Compatibility/Events/IsraelEventScriptsLeugi.lua</File>
+    <File md5="4A1AE1D80678F411AD2AF412AA6B5185" import="0">Compatibility/Events/LeugiIsraelEvents.xml</File>
+    <File md5="0B7B15335D2F83620C8E3BE7929B15B5" import="0">Compatibility/Piety/LeugIsraelPietyFlavour.sql</File>
+    <File md5="E1A595013D64E6B7522098101A55609C" import="1">DavidPeace.mp3</File>
+    <File md5="6C1A2BA44DB7C8A4D6B452FAC47133D3" import="1">DavidWar.mp3</File>
+    <File md5="ACE343F71A2C85038FDD71930751BF53" import="1">Incompatibility/CityBannerManager.lua</File>
+    <File md5="8DD5D845C291E80198170C1A82388CE8" import="0">Incompatibility/Disclaimer.txt</File>
+    <File md5="7EBB0C1FADB08992A861343EA82F3254" import="1">IsraelMusic.xml</File>
+    <File md5="5BAE5A51ACE483771C32E20466CE283D" import="0">LUA/PolicyReligion.lua</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">LUA/SaveUtils.lua</File>
+    <File md5="B7A5465996476C94586BBA5D6724D0B8" import="1">SQL/IsraelArtDefines.sql</File>
+    <File md5="26ADEFAF26FDB22DB2D0EE9565AC522A" import="0">SQL/TSL.sql</File>
+    <File md5="472F19ABC6EF24E65556150F53154446" import="0">XML/Art/IconTextureAtlasesIsrael.xml</File>
+    <File md5="54411989E7062F72BB04560575793B75" import="0">XML/Buildings/NewBuildingsIsrael.xml</File>
+    <File md5="ECF42ACA7EF71B75660186694CAD66C3" import="0">XML/Civilization/CivIsrael.xml</File>
+    <File md5="6114CC2A9DDF6F056C42C95899A7936C" import="0">XML/Civilization/BalkhCS.xml</File>
+    <File md5="03C96E70260AD9CB573E0E0679D62766" import="0">XML/Civilization/TraitsIsrael.xml</File>
+    <File md5="DDC9A2BCF10BAA614C689D55545C243E" import="0">XML/Improvements/KibbutzImprovement.xml</File>
+    <File md5="6B971DD9A0573D4650A5B4C281704A21" import="0">XML/Leader/DavidDiplomaticResponses.xml</File>
+    <File md5="8D188E4943D15D289D45427C431C90F8" import="1">XML/Leader/David_Scene.xml</File>
+    <File md5="3C929E2A0A6375F8DEE084E08764BC12" import="0">XML/Leader/Leader_David.xml</File>
+    <File md5="D1FD0C4ACE9E71D186E40C34295A7BD4" import="0">XML/Text/DavidSpeech.xml</File>
+    <File md5="6CD3C2A961146406E5CFC0019165C8E1" import="0">XML/Text/GameTextIsrael.xml</File>
+    <File md5="8F401413C5F5AA2A6927E563EC28CEEC" import="0">XML/Units/NewUnitsIsrael.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML\Civilization\CivIsrael.xml</UpdateDatabase>
+      <UpdateDatabase>XML\Civilization\TraitsIsrael.xml</UpdateDatabase>
+      <UpdateDatabase>XML\Leader\David_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>XML\Leader\DavidDiplomaticResponses.xml</UpdateDatabase>
+      <UpdateDatabase>XML\Leader\Leader_David.xml</UpdateDatabase>
+      <UpdateDatabase>XML\Buildings\NewBuildingsIsrael.xml</UpdateDatabase>
+      <UpdateDatabase>XML\Units\NewUnitsIsrael.xml</UpdateDatabase>
+      <UpdateDatabase>XML\Text\DavidSpeech.xml</UpdateDatabase>
+      <UpdateDatabase>XML\Text\GameTextIsrael.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization/BalkhCS.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Improvements/KibbutzImprovement.xml</UpdateDatabase>
+      <UpdateDatabase>IsraelMusic.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Art/IconTextureAtlasesIsrael.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/IsraelArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/TSL.sql</UpdateDatabase>
+      <UpdateDatabase>Compatibility/Decisions/IsraelDecisions.xml</UpdateDatabase>
+      <UpdateDatabase>Compatibility/Decisions/AddIsraelDecisions.sql</UpdateDatabase>
+      <UpdateDatabase>Compatibility/Decisions/JerusalemTempleBuilding.xml</UpdateDatabase>
+      <UpdateDatabase>Compatibility/Diversity/IsraelCulture.sql</UpdateDatabase>
+      <UpdateDatabase>Compatibility/Events/LeugiIsraelEvents.xml</UpdateDatabase>
+      <UpdateDatabase>Compatibility/Events/AddLeugiIsraelEvents.sql</UpdateDatabase>
+      <UpdateDatabase>Compatibility/Piety/LeugIsraelPietyFlavour.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="LUA/PolicyReligion.lua">
+      <Name>Israel Unique Attributes</Name>
+      <Description>Israel Unique Attributes</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>
