@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/6/2012 8:28:07 AM -->
+<GameData>
+	<Civilization_SpyNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_FLANDERS</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_FLANDERS_0</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FLANDERS</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_FLANDERS_1</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FLANDERS</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_FLANDERS_2</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FLANDERS</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_FLANDERS_3</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FLANDERS</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_FLANDERS_4</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FLANDERS</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_FLANDERS_5</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FLANDERS</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_FLANDERS_6</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FLANDERS</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_FLANDERS_7</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FLANDERS</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_FLANDERS_8</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_FLANDERS</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_FLANDERS_9</SpyName>
+		</Row>
+	</Civilization_SpyNames>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_SPY_NAME_FLANDERS_0">
+			<Text>Pieter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FLANDERS_1">
+			<Text>Jan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FLANDERS_2">
+			<Text>Eddy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FLANDERS_3">
+			<Text>Gaston</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FLANDERS_4">
+			<Text>Hugo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FLANDERS_5">
+			<Text>Jerom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FLANDERS_6">
+			<Text>Kamiel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FLANDERS_7">
+			<Text>Korneel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FLANDERS_8">
+			<Text>Omer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FLANDERS_9">
+			<Text>Sidonie</Text>
+			<Gender>feminine</Gender>
+		</Row>
+	</Language_en_US>
+
+	<Civilization_Religions>
+		<Row>
+			<CivilizationType>CIVILIZATION_FLANDERS</CivilizationType>
+			<ReligionType>RELIGION_CHRISTIANITY</ReligionType>
+		</Row>
+	</Civilization_Religions>
+
+	<Leader_Flavors>
+		<Row>
+			<LeaderType>LEADER_ROBERT</LeaderType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROBERT</LeaderType>
+			<FlavorType>FLAVOR_ESPIONAGE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROBERT</LeaderType>
+			<FlavorType>FLAVOR_ANTIAIR</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROBERT</LeaderType>
+			<FlavorType>FLAVOR_AIR_CARRIER</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROBERT</LeaderType>
+			<FlavorType>FLAVOR_NUKE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROBERT</LeaderType>
+			<FlavorType>FLAVOR_USE_NUKE</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+	</Leader_Flavors>
+</GameData>

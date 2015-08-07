@@ -1388,6 +1388,9 @@ ContextPtr:LoadNewContext("AdmiralCityStates")
 -- Nation - Cherokee --
 ContextPtr:LoadNewContext("Cherokee_Trait")
 
+-- Nation - Flemish --
+ContextPtr:LoadNewContext("flemishUA")
+
 -- Nation - Cuba --
 ContextPtr:LoadNewContext("CubaTraitScripts")
 ContextPtr:LoadNewContext("RevolucionarioAnarchies")

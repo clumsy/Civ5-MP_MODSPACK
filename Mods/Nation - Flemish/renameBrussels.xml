@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/27/2012 9:11:27 AM -->
+<GameData>
+	<Language_en_US>
+		<Update>
+			<Where Tag="TXT_KEY_CITYSTATE_BRUSSELS"/>
+			<Set Text="Luxembourg"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CITYSTATE_BRUSSELS_ADJ"/>
+			<Set Text="Luxembourgish"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CIV5_BRUSSELS_TEXT"/>
+			<Set Text="Luxembourg is a landlocked country in western Europe, bordered by Belgium, France, and Germany. The city of Luxembourg, the largest and capital city, is the seat of several institutions and agencies of the EU, including the European Court of Justice, the European Court of Auditors, the Secretariat of the European Parliament, the European Investment Bank, and the European Investment Fund.[NEWLINE][NEWLINE]The city, because of its location and natural geography, has through history been a place of strategic military significance. Luxembourg Castle, established by the Franks in the Early Middle Ages, was repeatedly strengthened so that by the 16th century, Luxembourg itself was one of the strongest fortifications in Europe. Nevertheless it subsequently was conquered frequently. Luxembourg became truly independent in 1890."/>
+		</Update>
+	</Language_en_US>
+  
+</GameData>

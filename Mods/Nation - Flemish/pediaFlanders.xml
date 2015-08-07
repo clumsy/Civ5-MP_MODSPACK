@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/18/2011 12:17:36 PM -->
+<GameData>
+	
+	<!-- city names -->
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITY_NAME_FL1">
+			<Text>Ghent</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FL2">
+			<Text>Bruges</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FL3">
+			<Text>Antwerp</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FL4">
+			<Text>Leuven</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FL5">
+			<Text>Mechelen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FL6">
+			<Text>Brussels</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FL7">
+			<Text>Tournai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FL8">
+			<Text>Tongeren</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FL9">
+			<Text>Ypres</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FL10">
+			<Text>Kortrijk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FL11">
+			<Text>Lier</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FL12">
+			<Text>Oudenaarde</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FL13">
+			<Text>Aalst</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FL14">
+			<Text>Dendermonde</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FL15">
+			<Text>Vilvoorde</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FL16">
+			<Text>Sint-Truiden</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FL17">
+			<Text>Diksmuide</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FL18">
+			<Text>Nieuwpoort</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FL19">
+			<Text>Damme</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FL20">
+			<Text>Ostend</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FL21">
+			<Text>Dunkirk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FL22">
+			<Text>Gravelines</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FL23">
+			<Text>Cassel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FL24">
+			<Text>Roeselare</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FL25">
+			<Text>Hasselt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FL26">
+			<Text>Diest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FL27">
+			<Text>Borgloon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FL28">
+			<Text>Genk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FL29">
+			<Text>Turnhout</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FL30">
+			<Text>Herentals</Text>
+		</Row>
+	</Language_en_US>
+	
+	<!-- civilopedia -->
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_FLANDERS_DESC">
+			<Text>Flemish Community</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_FLANDERS_SHORT_DESC">
+			<Text>Flanders</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_FLANDERS_ADJECTIVE">
+			<Text>Flemish</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ROBERT_NAME">
+			<Text>Robrecht III</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ROBERT_LIVED">
+			<Text>1249 - 1322 CE</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ROBERT_SUBTITLE">
+			<Text>The Lion of Flanders</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ROBERT">
+			<Text>Robrecht III</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ROBERT_HEADING_1">
+			<Text>Biography</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ROBERT_TEXT_1">
+			<Text>Robrecht (or Robert in English) was the oldest son of Guy of Dampierre from his first marriage with Matilda of Béthune. His father essentially transferred the reign of Flanders to him in November 1299, during his war with Philip IV of France.[NEWLINE][NEWLINE]Robert of Béthune gained military fame in Italy, when he fought at the side of his father-in-law, Charles I of Sicily, against the last Hohenstaufens. Together with his father he took part in 1270 in the Eighth Crusade, led by Saint Louis. After his return from the Crusade he continued to be a loyal aid for his father, politically and militarily, in the fight against the attempts of the French King Philip IV the Fair to add Flanders to the French crown lands.[NEWLINE][NEWLINE]Guy of Dampierre broke all feudal bonds with the French king in 1297, mainly under his influence. When in 1300 the resistance seemed hopeless Robert allowed himself to be taken prisoner, together with his father and brother, and taken to the French King. Shortly before that he had become the de facto ruler of Flanders. He was locked in the castle of Chinon. Contrary to popular belief, and the romantic portrayal by Hendrik Conscience in his novel "The Lion of Flanders", he did not take part in the Battle of the Golden Spurs. The novel however made him a symbol of Flemish nationalism.[NEWLINE][NEWLINE]In 1305, after the Treaty of Athis-sur-Orge was signed, he was allowed to return to his county. His father had died in captivity a few months before. The terms of the treaty included loss of territory and a heavy fine, but ensured his continued rule over an autonomous Flanders. The execution of the treaty would mark the rule of Count Robert. Initially he achieved some success in moving the countryside and the cities to fulfill their financial duties. However, in 1310 he started to radically resist the French, with support of his subjects and his family.[NEWLINE][NEWLINE]He managed to make a stand against the French King both diplomatically and militarily. When in 1319 he marched to Lille, which had been lost by terms of the treaty, the militia from Ghent refused to cross the Leie with him. When his grandson Louis I of Nevers pressured him as well, Robert gave up the battle and went to Paris in 1320 to restore feudal bonds with the French King. But even after that, he would hamper the execution of the Treaty of Athis-sur-Orge. Robert died in 1322, two months after his oldest son. He was buried in Flanders in Saint Martin's Cathedral in Ypres, as was his explicit wish to be buried on Flemish soil.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_DAWN_FLANDERS_TEXT">
+			<Text>
+				Hail Robrecht III, The Lion of Flanders! You rule the populous and prosperous Flemish cities, whose cloth and paintings are exported to all corners of Europe. You are the defender of Flemish independence, standing up to a much larger enemy. Oh great warrior, who fought both in the Holy Land and on your native soil, may your spirit be with us always![NEWLINE][NEWLINE]In the face of many opponents, can you again make Flanders the center of the world's economy? Create an environment for artists to thrive and produce their finest works of art? Can you build a civilization that will stand the test of time?
+			</Text>
+		</Row>
+				
+		<Row Tag="TXT_KEY_CIV5_FLANDERS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FLANDERS_TEXT_1">
+			<Text>
+				Antwerp, 1585. After 14 months of siege the city falls to the Spanish army. Only a couple of decades before it had been the richest city in Europe, accounting for 40% of world trade, and one of the most populous. Now over half its population - including many skilled tradesmen - migrate north, laying the commercial foundation for the subsequent Dutch Golden Age. The Dutch fleet, originally involved in attempts to end the siege, starts a blockade that would last for centuries to come. And so foreign rule continued for the Southern Netherlands, whose Dutch-speaking territories are nowadays known as the Flemish Community, comprising the north of Belgium.[NEWLINE][NEWLINE]In the Middle Ages, this region consisted of the county of Flanders, the duchy of Brabant and the county of Loon. It has been a wealthy region for most of its history. Due to this and its central position, the area was strongly contested by Europe's great powers. Struggles for greater autonomy and to protect the local culture and language are a common theme throughout the history of Flanders.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FLANDERS_HEADING_2">
+			<Text>The County of Flanders</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FLANDERS_TEXT_2">
+			<Text>
+				The County of Flanders was one of the original secular fiefs of France and for centuries was one of the most affluent regions in Europe. The first count of Flanders was Baldwin I, appointed in 862 by the Frankish king. Initially this was meant to secure the safety of the northern French border from Viking invasions. But soon the counts extended their influence by incorporating the surrounding territories into the county.[NEWLINE][NEWLINE]In the second half of the 12th century, the county went through a period of great prosperity. Flanders' flourishing trading towns made it one of the most urbanised parts of Europe. After Paris, Ghent was the biggest city north of the Alps. Then the king of France wanted to definitively annex Flanders, and started the Franco-Flemish War in 1297. The territory's autonomous urban centres were instrumental in stopping the French invasion attempt, defeating the French at the Battle of the Golden Spurs in 1302. Subsequent Flemish campaigning was less succesful, but the county managed to remain independent until the start of Burgundian rule in 1369.[NEWLINE][NEWLINE]During the Burgundian period, Flanders became an area of intellectual and artistic free thought, noted for crafts and the production of luxury goods. Painters in the wider region were collectively referred to as the "Flemish Primitives," among them Robert Campin, Jan van Eyck and Rogier van der Weyden. These artists made significant advances in natural representation and illusionism, and their work often features complex iconography. Aided by the workshop system, high-end panels were mass produced both for sale on the open market and on commission, being spread all over Europe.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FLANDERS_HEADING_3">
+			<Text>The Duchy of Brabant</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FLANDERS_TEXT_3">
+			<Text>
+				The Duchy of Brabant was officially established within the Holy Roman Empire in 1183, but its origins lie with the County of Leuven, which emerged about a century before. It rapidly increased in size and power, acquiring great influence and more titles over time. After the Battle of Worringen in 1288, duke Jan I of Brabant, supported by Arnold V of Loon, also acquired the Duchy of Limburg. In 1430 both Duchies are inherited by the house of Burgundy and incorporated into the Burgundian Netherlands. After a tumultuous succession, the Netherlands then passed to the house of Habsburg, and later to Spain.[NEWLINE][NEWLINE]At the end of the 15th century, Antwerp, the biggest city in Brabant, gained importance due to the decline of Bruges. In the 16th century it experienced several economic booms. At its height, it is estimated that the port of Antwerp was earning the Spanish crown seven times more revenues than the Americas. The university of Leuven helped shape men like Gerardus Mercator, whose projection world map set the standard we still use today. Anatomist and physician Andreas Vesalius became author of one of the most influential books on human anatomy, "De humani corporis fabrica". Brussels served as the capital for the whole of the Netherlands, containing the magnificent Palace of Coudenberg, renowned througout Europe. Thus Brabant formed the heart of the Netherlands until it was divided after the Dutch revolt.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FLANDERS_HEADING_4">
+			<Text>Division and Decline</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FLANDERS_TEXT_4">
+			<Text>
+				In the 16th century religious trouble was brewing all over Europe. The iconoclasm of the Beeldenstorm swept northward through the Netherlands and two years later open revolt against the Spanish broke loose. It initially started in the north, but the Dutch-speaking cities in the Southern Netherlands joined the revolt. The Francophone part - French Flanders and current Wallonia - supported the Spanish king. This Eighty Years War lead to the founding of the Dutch Republic. Attempts to regain the south were undertaken, but in the end were abandoned due to changes in the political and economic situation. During the last attempt a deep division between the now firmly Catholic south and Calvinist north had also became apparent. The exodus northwards continued though, and while the Southern Netherlands went into decline, the mass emigration became an important driving force behind the Dutch Golden Age. The arts however remained at a relatively impressive level for another century with painters such as Peter Paul Rubens and Anthony van Dyck.[NEWLINE][NEWLINE]In later centuries the Flemish Community rode on the waves of history. The War of the Spanish Succession ravaged the land and the Southern Netherlands were passed on to Austrian rule. Under the reign of empress Maria-Theresia in the 18th century, the lands economically flourished again, but large-scale reforms by her successor caused a rebellion, leading to the short-lived United States of Belgium. The rebellion was crushed, but the political idea of the state of Belgium was born.[NEWLINE][NEWLINE]Then came Napoleon, who abolished the Ancien Régime in 1795, meaning the official end to the counties and duchies comprising the Flemish Community. Heavy fighting took place in the Peasants' War as a reaction against French occupation. During the Congress of Vienna in 1815, France had to give up its rule of the Southern Netherlands which moved to the Dutch Republic, creating the United Kingdom of the Netherlands. This too, which short-lived, when the Belgian Revolution erupted in Brussels in 1830. Reasons for the revolt include the lack of representation and religious differences. Dutch attempts to regain the territory were stopped with French aid.[NEWLINE][NEWLINE]The creating of Belgium however did not mean complete freedom for the Flemish, as French became the kingdom's sole official language. A citation ascribed to Charles Rogier, one of the leaders of the revolution, goes: "La Belgique sera Latine ou elle ne sera pas" - "Belgium will be Latin or it won't be". Education, and all public life, in Flanders became Francophone.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FLANDERS_HEADING_5">
+			<Text>The Flemish Movement</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FLANDERS_TEXT_5">
+			<Text>
+				The first reactions against Francophone dominance came from artistic circles, with writers such as Conscience, Rodenbach and Gezelle on the forefront. In 1870 the movement became wider, with students becoming a driving force. Feelings of resentment were so strong that during the First World War a group called the Activists even collaborated with their "Germanic brothers" in the hope to advance the Flemish cause, though most of the population disproved of this.[NEWLINE][NEWLINE]During the interbellum, the Flemish Movement became more socially oriented through the Frontbeweging, an organization of Flemish soldiers who complained about the lack of consideration for their language in the army, and in Belgium in general. A persisting rumour is that many Dutch-speaking soldiers were slaughtered because they could not understand orders given to them in French by Francophone officers. A yearly pilgrimage to the IJzertoren, which remembers the Flemish soldiers who died during the First World War, is still held to this day. The Frontbeweging became a political movement, dedicated to peace, tolerance and autonomy.[NEWLINE][NEWLINE]In the 1960s the Flemish movement once more gathered momentum and, in 1962, the linguistic borders within Belgium were finally drawn up, with Brussels being designated as a bilingual city. Also, in 1967 an official Dutch version of the Belgian Constitution was adopted. For more than 130 years, the Dutch version of the Belgian constitution had been only a translation without legal value. The late 1960s saw all major Belgian political parties splitting up into either Flemish or Francophone wings. In 1968 a student revolt succeeded in splitting the university of Leuven; a new Francophone branch was constructed south of the language barrier.[NEWLINE][NEWLINE]Today many consider the Francophone "threat" far from over, especially in the towns around Brussels, where many Francophones working in the capital have settled. Laws to protect the Flemish culture and language have been enacted, and are often seen as discriminatory by foreigners who lack knowledge of the historical context. The actuality of the tensions could be seen in the 2010 federal elections, when the New Flemish Alliance political party gained a substantial plurality in Flanders.[NEWLINE][NEWLINE]Another aspect though is Flemish prosperity driving demands for greater autonomy, like many times in the past. The so-called "Flemish Diamond", one of the larger European metropolitan regions with a population density of more than 800 per square kilometer, has been a centre of economic innovation for centuries. A strong urban network has been attested between the separate cities from the 12th century onwards. In 1835, the first railroad of the European continent was built within the Flemish Diamond. Today, the Port of Antwerp is the second-largest in Europe. Flanders in general, and the Flemish Diamond in particular, counts among the most productive and wealthiest regions in Europe.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FLANDERS_HEADING_6">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FLANDERS_TEXT_6">
+			<Text>
+				The Flemish Westvleteren 12 Trappist beer was rated "best beer in the world" in 2012, as many times before. Flanders is also home to InBev, the world's largest brewery company.
+			</Text>
+		</Row>
+	</Language_en_US>
+	
+</GameData>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/28/2012 11:52:14 AM -->
+<GameData>
+	<Language_en_US>
+		<Update>
+			<Where Tag="TXT_KEY_CITYSTATE_ANTWERP"/>
+			<Set Text="Lübeck"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CITYSTATE_ANTWERP_ADJ"/>
+			<Set Text="Hanseatic"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CIV5_ANTWERP_TEXT"/>
+			<Set Text="Lübeck was the capital city of the Hanseatic League, an economic alliance of trading cities and their guilds that dominated trade along the coast of Northern Europe in the later Middle Ages. It stretched from the Baltic to the North Sea and inland during the 13th to 17th centuries. The Hanseatic cities had their own legal system and furnished their own protection and mutual aid, and thus established a sort of political autonomy and in some cases created political entities of their own."/>
+		</Update>
+	</Language_en_US>
+  
+</GameData>

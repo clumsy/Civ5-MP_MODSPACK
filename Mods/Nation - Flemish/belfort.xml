@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/28/2012 12:19:37 PM -->
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_BELFORT</Type>
+			<BuildingClass>BUILDINGCLASS_CASTLE</BuildingClass>
+			<PrereqTech>TECH_MACHINERY</PrereqTech>
+			<FreeStartEra>ERA_FUTURE</FreeStartEra>
+			<Cost>100</Cost>
+			<Culture>2</Culture>
+			<Help>TXT_KEY_BUILDING_BELFORT_HELP</Help>
+			<Description>TXT_KEY_BUILDING_BELFORT</Description>
+			<Civilopedia>TXT_KEY_BUILDING_BELFORT_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_BELFORT_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_CASTLE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<AllowsRangeStrike>true</AllowsRangeStrike>
+			<Defense>300</Defense>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>ATLAS_FLANDERS</IconAtlas>
+			<PortraitIndex>1</PortraitIndex>
+		</Row>
+	</Buildings>
+
+	<Building_ClassesNeededInCity>
+		<Row>
+			<BuildingType>BUILDING_BELFORT</BuildingType>
+			<BuildingClassType>BUILDINGCLASS_WALLS</BuildingClassType>
+		</Row>
+	</Building_ClassesNeededInCity>
+
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_BELFORT</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Building_YieldChanges>
+	
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_BELFORT</BuildingType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_BELFORT</BuildingType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_BELFORT</BuildingType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+	</Building_Flavors>
+
+	<Civilization_BuildingClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_FLANDERS</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_CASTLE</BuildingClassType>
+			<BuildingType>BUILDING_BELFORT</BuildingType>
+		</Row>
+	</Civilization_BuildingClassOverrides>
+	
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_BELFORT">
+			<Text>Belfort</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BELFORT_HELP">
+			<Text>City must have Walls.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BELFORT_BNW_HELP">
+			<Text>Trade routes other players make to a city with a Belfort will generate an extra 2 [ICON_GOLD] Gold for both the city owner and the trade route owner.[NEWLINE][NEWLINE]City must have Walls.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BELFORT_STRATEGY">
+			<Text>The Belfort is a Flemish unique building, replacing the Castle. It offers less defense than the Castle, but it is cheaper to construct. Building Walls is a prerequisite for building the Belfort.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BELFORT_PEDIA">
+			<Text>
+				The belfort is a medieval urban watchtower, containing the city bells. More specifically the name is given to towers in the Southern Netherlands, often attached to the city hall or a commercial cloth hall. During the Middle Ages trade, especially the cloth trade, flourished in Flanders. Because of this, the bourgeoisie in the cities became rich and their influence increased. The belfort became a symbol of the urban liberty and power; before only kings and the church had the means to finance such grand constructions.[NEWLINE][NEWLINE]The belfort was the safest place in the city and often housed the city archives, vaults, and sometimes the prison. Because of its height the tower was used to timely spot enemies approaching, or to discover city fires. This, among other occasions, would cause the bell to be rung.[NEWLINE][NEWLINE]From the 16th century onwards, carillons were installed in many of the towers. The carillon is an instrument consisting of at least 23 cast bronze, cup-shaped bells, which are played serially to play a melody, or sounded together to play a chord. The first was constructed in the Flemish city of Oudenaarde. The technique then spread to neighbouring territories and beyond. Like the belfort itself, they were symbols of civic pride and status.[NEWLINE][NEWLINE]No less than 56 of the belforts in Belgium and Northern France are inscribed on the UNESCO World Heritage list.
+			</Text>
+		</Row>
+	</Language_en_US>
+	
+</GameData>

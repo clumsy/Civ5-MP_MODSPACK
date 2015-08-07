@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="03129c66-526e-4ac4-aa34-b26c4f3bcce3" version="6">
+  <Properties>
+    <Name>Flemish Community</Name>
+    <Teaser>Adds Flanders as a playable civilization.</Teaser>
+    <Description>Adds Flanders as a playable civilization.</Description>
+    <Authors>Moriboe, janboruta</Authors>
+    <SpecialThanks>eazyseeker</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>6</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="7A76F612D426C8972C34FF6B0D95BD78" import="1">Art/AtlasFlanders128.dds</File>
+    <File md5="65E78B7E2E3F822578A12E4610338543" import="1">Art/AtlasFlanders256.dds</File>
+    <File md5="7723F6060422C1006E29A40BBE80E891" import="1">Art/AtlasFlanders32.dds</File>
+    <File md5="23B87739CDF9C5D36167F535F0FF42AE" import="1">Art/AtlasFlanders45.dds</File>
+    <File md5="A7185DCC51D903D0FCC838EAE23AC1CA" import="1">Art/AtlasFlanders64.dds</File>
+    <File md5="D7A6CC61115F66C944882958A6811D9D" import="1">Art/AtlasFlanders80.dds</File>
+    <File md5="4C62BC6B0242A63A5D07F35CB387DF58" import="1">Art/DiploFlanders.dds</File>
+    <File md5="647077616ECA149641871AAEEC1CEA86" import="1">Art/DOM_Flanders.dds</File>
+    <File md5="E52E4EAA2DB1FCE019D3C7B4183697DB" import="1">Art/FlandersIcon128.dds</File>
+    <File md5="E4D5E9FA4FD01D2576C491B45F887436" import="1">Art/FlandersIcon256.dds</File>
+    <File md5="8A958161ACED19EE54A168DAB154E176" import="1">Art/FlandersIcon32.dds</File>
+    <File md5="51CC27AEA847348B617AC1B386E32E2E" import="1">Art/FlandersIcon45.dds</File>
+    <File md5="30C536736B7CB4CF955A26EB398BA826" import="1">Art/FlandersIcon64.dds</File>
+    <File md5="2482C5D3E808D8A61B2B71F146BD7B70" import="1">Art/FlandersIcon80.dds</File>
+    <File md5="FFF95CDFC367C5AEB1E75A86AA34AE5A" import="1">Art/Flandersw128.dds</File>
+    <File md5="34F3A42CA4E0BE53608EE16E9D999C8E" import="1">Art/Flandersw16.dds</File>
+    <File md5="BE43509B0E132DF7F9A2002CC1FF2CB0" import="1">Art/Flandersw24.dds</File>
+    <File md5="B2281DDEAC9B13DE9B9CCB07D52BCB55" import="1">Art/Flandersw32.dds</File>
+    <File md5="1E49BA8B72C8B5C22040497B07F783F6" import="1">Art/Flandersw45.dds</File>
+    <File md5="FC746C811F99BD110DE5D9AF0A20C448" import="1">Art/Flandersw64.dds</File>
+    <File md5="ED58912CF5C3C26C57053E8214A9D087" import="1">Art/Flandersw80.dds</File>
+    <File md5="F2BE0905CEF821E39B86D6B057E84E5C" import="1">Art/flanders_scene.xml</File>
+    <File md5="156712637427FF2006EB31FBE92F8634" import="1">Art/MapFlanders.dds</File>
+    <File md5="4B7BD3572FFD32BFEF797C8271BCC103" import="0">Civ/beguinage.xml</File>
+    <File md5="79CF7B398879540BFF3EF50890BE9AA4" import="0">Civ/belfort.xml</File>
+    <File md5="9171D501465664A21A0D0C2D40EFD6B9" import="0">Civ/civFlanders.xml</File>
+    <File md5="6550B150786FF5A83746D9FEC925EE92" import="0">Civ/spies.xml</File>
+    <File md5="5600D5AFF720C74CAF3525A381A35F10" import="0">Civ/pediaFlanders.xml</File>
+    <File md5="E52CDC9D9C14E665380F142836B791E0" import="0">Civ/atlasesFlanders.xml</File>
+    <File md5="86A81CFEE0386C30AE45C22DA904A2E4" import="0">Civ/leaderRobert.xml</File>
+    <File md5="76471184755CECE64A2EF88D5E39FD9D" import="0">Compatibility/bnwComp.sql</File>
+    <File md5="1676BAC7B5FB1B42E6401E40081105B3" import="0">Compatibility/g+kComp.sql</File>
+    <File md5="F0328185B02E02162FF729BB051DEF92" import="0">Compatibility/vanillaComp.sql</File>
+    <File md5="E670065CEB595B5F37C4EC92CF4E017B" import="0">Minors/renameAntwerp.xml</File>
+    <File md5="9DA4ACBA21E0257AC28B93C37D078BF0" import="0">Minors/renameBrussels.xml</File>
+    <File md5="EF4D63F36CDFF43C8CC10304FD16D8AC" import="0">UA/flemishUA.lua</File>
+    <File md5="15F27615E00D63A15CD0F22E814CA4D0" import="0">UA/flemishUA.sql</File>
+    <File md5="60D9021462644E9F357897F31CBA084A" import="0">UA/flemishUA.xml</File>
+    <File md5="7D7C7C138F74DDAA169B227A4B12E83B" import="0">Unit/addGraphics.sql</File>
+    <File md5="11FD65A4A87D3F137045A64F94E1F839" import="1">Unit/Art/Maceman.fxsxml</File>
+    <File md5="EFD79F783DDE85981C98E9F460967078" import="1">Unit/Art/Maceman.gr2</File>
+    <File md5="3F0A8A4223FB7E25551E93171585A124" import="1">Unit/Art/Maceman_diff512.dds</File>
+    <File md5="3A0746745503128823EC521B3691E59F" import="1">Unit/Art/Maceman_sref512.dds</File>
+    <File md5="60D9C10D920748B2168F032A9478216A" import="0">Unit/cityMilitia.xml</File>
+    <File md5="12A092FAFC17376B1399B27080984144" import="0">Unit/graphicsBNW.sql</File>
+    <File md5="A665F6A77096B341D7FC0197594E538A" import="0">Unit/graphicsVanillaG+K.sql</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Civ/civFlanders.xml</UpdateDatabase>
+      <UpdateDatabase>Civ/leaderRobert.xml</UpdateDatabase>
+      <UpdateDatabase>Civ/beguinage.xml</UpdateDatabase>
+      <UpdateDatabase>Civ/belfort.xml</UpdateDatabase>
+      <UpdateDatabase>Civ/pediaFlanders.xml</UpdateDatabase>
+      <UpdateDatabase>Civ/atlasesFlanders.xml</UpdateDatabase>
+      <UpdateDatabase>Civ/spies.xml</UpdateDatabase>
+      <UpdateDatabase>Minors/renameBrussels.xml</UpdateDatabase>
+      <UpdateDatabase>Minors/renameAntwerp.xml</UpdateDatabase>
+      <UpdateDatabase>UA/flemishUA.sql</UpdateDatabase>
+      <UpdateDatabase>UA/flemishUA.xml</UpdateDatabase>
+      <UpdateDatabase>Unit/cityMilitia.xml</UpdateDatabase>
+      <UpdateDatabase>Unit/addGraphics.sql</UpdateDatabase>
+      <UpdateDatabase>Unit/graphicsBNW.sql</UpdateDatabase>
+      <UpdateDatabase>Unit/graphicsVanillaG+K.sql</UpdateDatabase>
+      <UpdateDatabase>Compatibility/vanillaComp.sql</UpdateDatabase>
+      <UpdateDatabase>Compatibility/g+kComp.sql</UpdateDatabase>
+      <UpdateDatabase>Compatibility/bnwComp.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="UA/flemishUA.lua">
+      <Name>flemishUA</Name>
+      <Description>adds building to 4 most populous cities, updated each turn</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

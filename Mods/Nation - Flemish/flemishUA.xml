@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/28/2012 1:51:36 PM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_FL_HERITAGE</Type>
+			<Description>TXT_KEY_TRAIT_FL_HERITAGE</Description>
+			<ShortDescription>TXT_KEY_TRAIT_FL_HERITAGE_SHORT</ShortDescription>
+			<FourLargestBonus>true</FourLargestBonus>
+		</Row>
+	</Traits>
+
+	<Buildings>
+		<Row>
+			<Type>BUILDING_FLEMISH_PALACE</Type>
+			<BuildingClass>BUILDINGCLASS_PALACE</BuildingClass>
+			<Cost>0</Cost>
+			<SpecialistExtraCulture>1</SpecialistExtraCulture>
+			<Help>TXT_KEY_BUILDING_PALACE_HELP</Help>
+			<Description>TXT_KEY_BUILDING_FLEMISH_PALACE</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_PALACE_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_PALACE_STRATEGY</Strategy>
+			<ArtDefineTag>PALACE</ArtDefineTag>
+			<Capital>true</Capital>
+			<NukeImmune>true</NukeImmune>
+			<MinAreaSize>-1</MinAreaSize>
+			<!--<Culture>1</Culture> handled by sql-->
+			<Defense>250</Defense>
+			<ArtInfoCulturalVariation>true</ArtInfoCulturalVariation>
+			<DisplayPosition>32</DisplayPosition>
+			<NeverCapture>true</NeverCapture>
+			<IconAtlas>ATLAS_FLANDERS</IconAtlas>
+			<PortraitIndex>2</PortraitIndex>
+		</Row>
+		<Row>
+			<Type>BUILDING_GROTE_MARKT</Type>
+			<BuildingClass>BUILDINGCLASS_GRAND_PLACE</BuildingClass>
+			<Cost>0</Cost>
+			<Description>TXT_KEY_BUILDING_GROTE_MARKT</Description>
+			<Help>TXT_KEY_BUILDING_GROTE_MARKT_HELP</Help>
+			<ArtDefineTag>ART_DEF_BUILDING_MARKET</ArtDefineTag>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<MinAreaSize>-1</MinAreaSize>
+			<NeverCapture>true</NeverCapture>
+			<IconAtlas>ATLAS_FLANDERS</IconAtlas>
+			<PortraitIndex>5</PortraitIndex>
+		</Row>
+	</Buildings>
+
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_GRAND_PLACE</Type>
+			<DefaultBuilding>BUILDING_GROTE_MARKT</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_GROTE_MARKT</Description>
+			<MaxPlayerInstances>0</MaxPlayerInstances>
+		</Row>
+	</BuildingClasses>
+	
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_FLEMISH_PALACE</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_FLEMISH_PALACE</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_FLEMISH_PALACE</BuildingType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>3</Yield>
+		</Row>
+	</Building_YieldChanges>
+
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_FLEMISH_PALACE</BuildingType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_FLEMISH_PALACE</BuildingType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_FLEMISH_PALACE</BuildingType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+	</Building_Flavors>
+
+	<Civilization_BuildingClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_FLANDERS</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+			<BuildingType>BUILDING_FLEMISH_PALACE</BuildingType>
+		</Row>
+	</Civilization_BuildingClassOverrides>
+	
+	<Language_en_US>
+		<Row Tag="TXT_KEY_TRAIT_FL_HERITAGE_SHORT">
+			<Text>Urban Prosperity</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_FL_HERITAGE">
+			<Text>+1 [ICON_GOLD] Gold in your 4 largest cities for each Policy Branch with at least one Policy adopted. Bonus doubled after researching Currency. Can also build the Belfort, an additional unique building.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_FL_HERITAGE_BNW">
+			<Text>+1 [ICON_GOLD] Gold in your 4 largest cities for each Policy Branch with at least one Policy adopted. Bonus doubled after researching Guilds. Can also build the Belfort, an additional unique building.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_FLEMISH_PALACE">
+			<Text>Coudenberg Palace</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GROTE_MARKT">
+			<Text>Grote Markt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GROTE_MARKT_HELP">
+			<Text>Indicates that this is one of your largest cities.</Text>
+		</Row>
+	</Language_en_US>
+	
+</GameData>

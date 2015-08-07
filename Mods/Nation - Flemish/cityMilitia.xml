@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/18/2012 7:18:49 PM -->
+<GameData>
+	<Units>
+		<Row>
+			<Class>UNITCLASS_PIKEMAN</Class>
+			<Type>UNIT_GOEDENDAG</Type>
+			<PrereqTech>TECH_CIVIL_SERVICE</PrereqTech>
+			<Combat>11</Combat>
+			<Cost>90</Cost>
+			<Moves>2</Moves>
+			<CombatClass>UNITCOMBAT_MELEE</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_COUNTER</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_GOEDENDAG</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_GOEDENDAG_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_GOEDENDAG_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_GOEDENDAG</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<ObsoleteTech>TECH_RIFLING</ObsoleteTech>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_RIFLEMAN</GoodyHutUpgradeUnitClass>
+			<AdvancedStartCost>20</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<Conscription>3</Conscription>
+			<UnitArtInfo>ART_DEF_UNIT_GOEDENDAG</UnitArtInfo>
+			<UnitFlagIconOffset>32</UnitFlagIconOffset>
+			<IconAtlas>ATLAS_FLANDERS</IconAtlas>
+			<PortraitIndex>3</PortraitIndex>
+		</Row>
+	</Units>
+
+	<ArtDefine_StrategicView>
+		<Row>
+			<StrategicViewType>ART_DEF_UNIT_GOEDENDAG</StrategicViewType>
+			<TileType>Unit</TileType>
+			<Asset>SV_pikeman.dds</Asset>
+		</Row>
+	</ArtDefine_StrategicView>
+	
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_GOEDENDAG</Type>
+			<Description>TXT_KEY_PROMOTION_GOEDENDAG</Description>
+			<Help>TXT_KEY_PROMOTION_GOEDENDAG</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_GOEDENDAG</PediaEntry>
+		</Row>
+		<Row>
+			<Type>PROMOTION_MINOR_ANTI_MOUNTED</Type>
+			<Description>TXT_KEY_PROMOTION_MINOR_ANTI_MOUNTED</Description>
+			<Help>TXT_KEY_PROMOTION_MINOR_ANTI_MOUNTED</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>59</PortraitIndex>
+			<LostWithUpgrade>true</LostWithUpgrade>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_MINOR_ANTI_MOUNTED</PediaEntry>
+		</Row>
+	</UnitPromotions>
+
+	<UnitPromotions_Features>
+		<Row>
+			<PromotionType>PROMOTION_GOEDENDAG</PromotionType>
+			<FeatureType>FEATURE_MARSH</FeatureType>
+			<Defense>33</Defense>
+			<Attack>33</Attack>
+		</Row>
+	</UnitPromotions_Features>
+	
+	<UnitPromotions_UnitCombatMods>
+		<Row>
+			<PromotionType>PROMOTION_MINOR_ANTI_MOUNTED</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+			<Modifier>33</Modifier>
+		</Row>
+	</UnitPromotions_UnitCombatMods>
+	
+	<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_GOEDENDAG</UnitType>
+			<UnitAIType>UNITAI_ATTACK</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_GOEDENDAG</UnitType>
+			<UnitAIType>UNITAI_DEFENSE</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_GOEDENDAG</UnitType>
+			<UnitAIType>UNITAI_COUNTER</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_GOEDENDAG</UnitType>
+			<UnitAIType>UNITAI_EXPLORE</UnitAIType>
+		</Row>
+	</Unit_AITypes>
+
+	<!--<Unit_ClassUpgrades>
+		<Row>
+			<UnitType>UNIT_GOEDENDAG</UnitType>
+			<UnitClassType>UNITCLASS_RIFLEMAN</UnitClassType>
+		</Row>
+	</Unit_ClassUpgrades> done by sql-->
+
+	<Unit_Flavors>
+		<Row>
+			<UnitType>UNIT_GOEDENDAG</UnitType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_GOEDENDAG</UnitType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+	</Unit_Flavors>
+
+	<Unit_FreePromotions>
+		<Row>
+			<UnitType>UNIT_GOEDENDAG</UnitType>
+			<PromotionType>PROMOTION_GOEDENDAG</PromotionType>
+		</Row>
+	</Unit_FreePromotions>
+
+	<Civilization_UnitClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_FLANDERS</CivilizationType>
+			<UnitClassType>UNITCLASS_PIKEMAN</UnitClassType>
+			<UnitType>UNIT_GOEDENDAG</UnitType>
+		</Row>
+	</Civilization_UnitClassOverrides>
+
+	<Language_en_US>
+		<Row>
+			<Tag>TXT_KEY_UNIT_GOEDENDAG</Tag>
+			<Text>City Militia</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_HELP_GOEDENDAG</Tag>
+			<Text>The City Militia is the Flemish unique unit, replacing the Pikeman. The City Militia is deadly in Marsh terrain and against mounted units like Knights.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_UNIT_GOEDENDAG_STRATEGY</Tag>
+			<Text>The City Militia is a more powerful Spearman. It receives a bonus when fighting against mounted units and in marsh terrain, which makes it pretty much the only unit that can hope to stand up against a rampaging Knight. A City Militia fortified in defensive terrain is a Knight's worst nightmare.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_GOEDENDAG_TEXT</Tag>
+			<Text>
+				The militias of Medieval Flanders in the 14th century famously used the "goedendag" as a weapon. It was essentially a combination of a club with a spear. The name "goedendag" derives from Dutch, usually taken in English sources to have meant "good day," with reference to the revolt of Bruges in 1302, at which the guildsmen of Bruges purportedly took over the city by greeting people in the streets, and murdering anyone who answered with a French accent. The weapon was used to great effect by the guildsmen of Flanders' wealthy cities against the French knights during the Battle of the Golden Spurs, near Kortrijk.[NEWLINE][NEWLINE]Exactly how the weapon was used is a source of debate. Contemporary illustrations show it being used as a club, but the chronicles suggest it was first used as a spear to meet a charge, then a club as the enemy was halted. One illustration shows men with goedendags standing behind a line of men with pikes.
+			</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_PROMOTION_GOEDENDAG</Tag>
+			<Text>Combat Bonus in Marsh (33)</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_PROMOTION_MINOR_ANTI_MOUNTED</Tag>
+			<Text>Combat Bonus VS Mounted (33)</Text>
+		</Row>
+	</Language_en_US>
+
+</GameData>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/28/2012 12:19:28 PM -->
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_BEGIJNHOF</Type>
+			<BuildingClass>BUILDINGCLASS_GARDEN</BuildingClass>
+			<Cost>120</Cost>
+			<GoldMaintenance>1</GoldMaintenance>
+			<Happiness>1</Happiness>
+			<Flat>true</Flat>
+			<PrereqTech>TECH_THEOLOGY</PrereqTech>
+			<Description>TXT_KEY_BUILDING_BEGIJNHOF</Description>
+			<Civilopedia>TXT_KEY_BUILDING_BEGIJNHOF_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_BEGIJNHOF_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_BEGIJNHOF_HELP</Help>
+			<ArtDefineTag>ART_DEF_BUILDING_GARDEN</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<GreatPeopleRateModifier>25</GreatPeopleRateModifier>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>ATLAS_FLANDERS</IconAtlas>
+			<PortraitIndex>4</PortraitIndex>
+		</Row>
+	</Buildings>
+
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_BEGIJNHOF</BuildingType>
+			<FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+			<Flavor>30</Flavor>
+		</Row>
+	</Building_Flavors>
+
+	<Civilization_BuildingClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_FLANDERS</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_GARDEN</BuildingClassType>
+			<BuildingType>BUILDING_BEGIJNHOF</BuildingType>
+		</Row>
+	</Civilization_BuildingClassOverrides>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_BEGIJNHOF">
+			<Text>Beguinage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BEGIJNHOF_HELP">
+			<Text>+25% [ICON_GREAT_PEOPLE] Great People generation in this City.[NEWLINE][NEWLINE]City must not be built on Hills.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BEGIJNHOF_STRATEGY">
+			<Text>The Beguinage increases the speed at which [ICON_GREAT_PEOPLE] Great People are generated in the city by 25%. City must not be built on Hills.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BEGIJNHOF_PEDIA">
+			<Text>A beguinage or begijnhof is a collection of small buildings used by beguines. These were various lay sisterhoods of the Roman Catholic Church, founded in the 13th century all over the Netherlands, comprising religious women who sought to serve God without retiring from the world. A béguinage comprises a courtyard surrounded by small dwellings. It is often encircled by a wall and secluded from the town proper by one or two gates. Their success was due to a surplus of women occasioned by violence, war, military and semi-military operations, which took the lives of many men. Great numbers of women had no option but to unite and collectively secure the aid of rich benefactors.[NEWLINE][NEWLINE]The beguinages of Flanders are inscribed on the UNESCO World Heritage list.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
