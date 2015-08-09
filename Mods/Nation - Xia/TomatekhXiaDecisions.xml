@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<Language_en_US>
+		<!--Yellow River-->
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_XIA_YELLOW_RIVER">
+			<Text>Tame the Yellow River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_XIA_YELLOW_RIVER_DESC">
+			<Text>The flooding of the great river is plaguing the smaller villages and destroying their crops. We should commission a series of dikes and canals to help control the waters.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Xia
+				[NEWLINE][ICON_BULLET]Must have at least one City settled adjacent to a River
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Building an Improvement adjacent to a River will provide a [ICON_FOOD] Food boost in the nearest City
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_XIA_YELLOW_RIVER_ENACTED_DESC">
+			<Text>The flooding of the great river is plaguing the smaller villages and destroying their crops. We should commission a series of dikes and canals to help control the waters.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Building an Improvement adjacent to a River will provide a [ICON_FOOD] Food boost in the nearest City
+			</Text>
+		</Row>
+		<!--Bronze Work-->
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_XIA_BRONZES">
+			<Text>Cast Ceremonial Dings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_XIA_BRONZES_DESC">
+			<Text>We should cast additional vessels so that we may present proper offerings of food and drink to our ancestors.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Xia
+				[NEWLINE][ICON_BULLET]Must have constructed 2 Foundries
+				[NEWLINE][ICON_BULLET]Must have an available Great Work of Art or Artifact slot
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_PEACE] Faith from Foundries
+				[NEWLINE][ICON_BULLET]Receive a free Great Artifact
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_XIA_BRONZES_ENACTED_DESC">
+			<Text>We should cast additional vessels so that we may present proper offerings of food and drink to our ancestors.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_PEACE] Faith from Foundries
+				[NEWLINE][ICON_BULLET]Receive a free Great Artifact
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_XIA_NINE_TRIPOD_CAULDRONS">
+			<Text>Nine Tripod Cauldrons</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DECISIONS_XIA_YU">
+			<Text>Yu the Great</Text>
+		</Row>	
+		<!--Chopsticks-->
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_XIA_CHOPSTICKS">
+			<Text>Invent Chopsticks</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_XIA_CHOPSTICKS_DESC">
+			<Text>Eating with one's hands is unhygienic and, more importantly, waiting for food to cool wastes time that could be better spent. Let us invent an eating utensil that is versatile and easy to produce.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Shang
+				[NEWLINE][ICON_BULLET]Must have built at least 4 Farms
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_RESEARCH] Science
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]A Worker appears by the [ICON_CAPITAL] Capital
+				[NEWLINE][ICON_BULLET]Tile improvement construction speed increased by 20%
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_XIA_CHOPSTICKS_ENACTED_DESC">
+			<Text>Eating with one's hands is unhygienic and, more importantly, waiting for food to cool wastes time that could be better spent. Let us invent an eating utensil that is versatile and easy to produce.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]A Worker appears by the [ICON_CAPITAL] Capital
+				[NEWLINE][ICON_BULLET]Tile improvement construction speed increased by 20%
+			</Text>
+		</Row>
+		<!--Shell and Bone Script-->
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_XIA_SHANG_CHINESE_WRITING">
+			<Text>Develop the Oracle Bone Script</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_XIA_SHANG_CHINESE_WRITING_DESC">
+			<Text>My Lord, the scribes have developed a system of pictograms to aid in communication and commerce. If we adapt these symbols to our divination practices we could better discern the will of our ancestors.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Shang
+				[NEWLINE][ICON_BULLET]Must have researched Writing
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]The [ICON_PEACE] Faith bonus when sacrificing a Pasture based Resource is doubled
+				[NEWLINE][ICON_BULLET]+2 [ICON_RESEARCH] Science on sources of [ICON_RES_HORSE] Horse [ICON_RES_SHEEP] Sheep and [ICON_RES_COW] Cattle
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_XIA_SHANG_CHINESE_WRITING_ENACTED_DESC">
+			<Text>My Lord, the scribes have developed a system of pictograms to aid in communication and commerce. If we adapt these symbols to our divination practices we could better discern the will of our ancestors.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]The [ICON_PEACE] Faith bonus when sacrificing a Pasture based Resource is doubled
+				[NEWLINE][ICON_BULLET]+2 [ICON_RESEARCH] Science on sources of [ICON_RES_HORSE] Horse [ICON_RES_SHEEP] Sheep and [ICON_RES_COW] Cattle
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

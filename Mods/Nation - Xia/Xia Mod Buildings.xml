@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh-->
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_XIA_MOD_BRONZE_WOKRSHOP</Type>
+			<BuildingClass>BUILDINGCLASS_BARRACKS</BuildingClass>
+			<FreeStartEra>ERA_INDUSTRIAL</FreeStartEra>
+			<Cost>75</Cost>
+			<GoldMaintenance>1</GoldMaintenance>
+			<PrereqTech>TECH_BRONZE_WORKING</PrereqTech>
+			<Help>TXT_KEY_BUILDING_XIA_MOD_BRONZE_WORKSHOP_HELP</Help>
+			<Description>TXT_KEY_BUILDING_XIA_MOD_BRONZE_WORKSHOP</Description>
+			<Civilopedia>TXT_KEY_BUILDING_XIA_MOD_BRONZE_WORKSHOP_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_XIA_MOD_BRONZE_WORKSHOP_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_BARRACKS</ArtDefineTag>
+			<GreatWorkSlotType>GREAT_WORK_SLOT_ART_ARTIFACT</GreatWorkSlotType>
+			<GreatWorkCount>1</GreatWorkCount>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<NeverCapture>true</NeverCapture>
+			<IconAtlas>XIA_ATLAS_MOD</IconAtlas>
+			<PortraitIndex>3</PortraitIndex>
+		</Row>	
+		<!-- Dynasty Dummies -->
+		<Row>
+			<Type>BUILDING_XIA_DYNASTY_DUMMY</Type>
+			<BuildingClass>BUILDINGCLASS_XIA_DYNASTY_DUMMY</BuildingClass>
+			<!-- -->
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!-- -->
+			<Description>TXT_KEY_BUILDING_XIA_DYNASTY_DUMMY_DESC</Description>
+			<Civilopedia>TXT_KEY_BUILDING_XIA_DYNASTY_DUMMY_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_XIA_DYNASTY_DUMMY_STRATEGY</Strategy>
+			<ArtDefineTag>FORBIDDEN CITY</ArtDefineTag>
+			<DisplayPosition>1</DisplayPosition>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<ConquestProb>100</ConquestProb>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_2</IconAtlas>
+			<PortraitIndex>14</PortraitIndex>
+		</Row>
+		<Row>
+			<Type>BUILDING_SHANG_DYNASTY_DUMMY</Type>
+			<BuildingClass>BUILDINGCLASS_SHANG_DYNASTY_DUMMY</BuildingClass>
+			<!-- -->
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!-- -->
+			<Help>TXT_KEY_BUILDING_SHANG_DYNASTY_DUMMY_HELP</Help>
+			<Description>TXT_KEY_BUILDING_SHANG_DYNASTY_DUMMY_DESC</Description>
+			<Civilopedia>TXT_KEY_BUILDING_XIA_DYNASTY_DUMMY_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_XIA_DYNASTY_DUMMY_STRATEGY</Strategy>
+			<ArtDefineTag>COURTHOUSE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_2</IconAtlas>
+			<PortraitIndex>14</PortraitIndex>
+		</Row>
+		<Row>
+			<Type>BUILDING_ZHOU_DYNASTY_DUMMY</Type>
+			<BuildingClass>BUILDINGCLASS_ZHOU_DYNASTY_DUMMY</BuildingClass>
+			<!-- -->
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!-- -->
+			<Help>TXT_KEY_BUILDING_ZHOU_DYNASTY_DUMMY_HELP</Help>
+			<Description>TXT_KEY_BUILDING_ZHOU_DYNASTY_DUMMY_DESC</Description>
+			<Civilopedia>TXT_KEY_BUILDING_XIA_DYNASTY_DUMMY_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_XIA_DYNASTY_DUMMY_STRATEGY</Strategy>
+			<ArtDefineTag>COURTHOUSE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_2</IconAtlas>
+			<PortraitIndex>14</PortraitIndex>
+		</Row>
+		<Row>
+			<Type>BUILDING_TANG_DYNASTY_DUMMY</Type>
+			<BuildingClass>BUILDINGCLASS_TANG_DYNASTY_DUMMY</BuildingClass>
+			<!-- -->
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!-- -->
+			<Help>TXT_KEY_BUILDING_TANG_DYNASTY_DUMMY_HELP</Help>
+			<Description>TXT_KEY_BUILDING_TANG_DYNASTY_DUMMY_DESC</Description>
+			<Civilopedia>TXT_KEY_BUILDING_XIA_DYNASTY_DUMMY_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_XIA_DYNASTY_DUMMY_STRATEGY</Strategy>
+			<ArtDefineTag>COURTHOUSE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_2</IconAtlas>
+			<PortraitIndex>14</PortraitIndex>
+		</Row>
+		<Row>
+			<Type>BUILDING_SONG_DYNASTY_DUMMY</Type>
+			<BuildingClass>BUILDINGCLASS_SONG_DYNASTY_DUMMY</BuildingClass>
+			<!-- -->
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!-- -->
+			<Help>TXT_KEY_BUILDING_SONG_DYNASTY_DUMMY_HELP</Help>
+			<Description>TXT_KEY_BUILDING_SONG_DYNASTY_DUMMY_DESC</Description>
+			<Civilopedia>TXT_KEY_BUILDING_XIA_DYNASTY_DUMMY_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_XIA_DYNASTY_DUMMY_STRATEGY</Strategy>
+			<ArtDefineTag>COURTHOUSE</ArtDefineTag>
+			<FreeTechs>1</FreeTechs>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_2</IconAtlas>
+			<PortraitIndex>14</PortraitIndex>
+		</Row>
+		<Row>
+			<Type>BUILDING_SUI_DYNASTY_DUMMY</Type>
+			<BuildingClass>BUILDINGCLASS_SUI_DYNASTY_DUMMY</BuildingClass>
+			<!-- -->
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!-- -->
+			<Help>TXT_KEY_BUILDING_SUI_DYNASTY_DUMMY_HELP</Help>
+			<Description>TXT_KEY_BUILDING_SUI_DYNASTY_DUMMY_DESC</Description>
+			<Civilopedia>TXT_KEY_BUILDING_XIA_DYNASTY_DUMMY_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_XIA_DYNASTY_DUMMY_STRATEGY</Strategy>
+			<ArtDefineTag>COURTHOUSE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_2</IconAtlas>
+			<PortraitIndex>14</PortraitIndex>
+		</Row>
+		<Row>
+			<Type>BUILDING_CHINA_EVER_OWNED_DUMMY</Type>
+			<BuildingClass>BUILDINGCLASS_CHINA_EVER_OWNED_DUMMY</BuildingClass>
+			<!-- -->
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!-- -->
+			<Description>TXT_KEY_BUILDING_CHINA_EVER_OWNED_DUMMY_DESC</Description>
+			<Civilopedia>TXT_KEY_BUILDING_XIA_DYNASTY_DUMMY_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_XIA_DYNASTY_DUMMY_STRATEGY</Strategy>
+			<ArtDefineTag>COURTHOUSE</ArtDefineTag>
+			<ConquestProb>100</ConquestProb>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_2</IconAtlas>
+			<PortraitIndex>14</PortraitIndex>
+		</Row>
+		<Row>
+			<Type>BUILDING_CHINA_EVER_OWNED_DUMMY_TWO</Type>
+			<BuildingClass>BUILDINGCLASS_CHINA_EVER_OWNED_DUMMY_TWO</BuildingClass>
+			<!-- -->
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!-- -->
+			<Description>TXT_KEY_BUILDING_CHINA_EVER_OWNED_DUMMY_TWO_DESC</Description>
+			<Civilopedia>TXT_KEY_BUILDING_XIA_DYNASTY_DUMMY_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_XIA_DYNASTY_DUMMY_STRATEGY</Strategy>
+			<ArtDefineTag>COURTHOUSE</ArtDefineTag>
+			<ConquestProb>100</ConquestProb>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_2</IconAtlas>
+			<PortraitIndex>14</PortraitIndex>
+		</Row>	
+		<!-- Dynasty Dummies -->
+		<!-- UB Dummy -->
+		<Row>
+			<Type>BUILDING_XIA_RITUAL_BRONZE_DUMMY</Type>
+			<BuildingClass>BUILDINGCLASS_XIA_RITUAL_BRONZE_DUMMY</BuildingClass>
+			<!-- -->
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!-- -->
+			<Help>TXT_KEY_BUILDING_XIA_RITUAL_BRONZE_DUMMY_HELP</Help>
+			<Description>TXT_KEY_BUILDING_XIA_RITUAL_BRONZE_DUMMY_DESC</Description>
+			<Civilopedia>TXT_KEY_BUILDING_XIA_DYNASTY_DUMMY_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_XIA_DYNASTY_DUMMY_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_FORGE</ArtDefineTag>
+			<CultureRateModifier>2</CultureRateModifier>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>2</PortraitIndex>
+		</Row>
+		<!-- UB Dummy -->
+		<!-- Decision Dummy -->
+		<Row>
+			<Type>BUILDING_XIA_RITUAL_BRONZE_DECISION_DUMMY</Type>
+			<BuildingClass>BUILDINGCLASS_XIA_RITUAL_BRONZE_DECISION_DUMMY</BuildingClass>
+			<!-- -->
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!-- -->
+			<Help>TXT_KEY_BUILDING_XIA_RITUAL_BRONZE_DECISIONS_DUMMY_HELP</Help>
+			<Description>TXT_KEY_BUILDING_XIA_RITUAL_BRONZE_DECISION_DUMMY_DESC</Description>
+			<Civilopedia>TXT_KEY_BUILDING_XIA_DYNASTY_DUMMY_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_XIA_DYNASTY_DUMMY_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_FORGE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>2</PortraitIndex>
+		</Row>
+		<!-- Decision Dummies -->
+	</Buildings>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_XIA_MOD_BRONZE_WOKRSHOP</BuildingType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_XIA_MOD_BRONZE_WOKRSHOP</BuildingType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_XIA_MOD_BRONZE_WOKRSHOP</BuildingType>
+			<FlavorType>FLAVOR_ARCHAEOLOGY</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+	</Building_Flavors>
+	<Building_DomainFreeExperiences>
+		<Row>
+			<BuildingType>BUILDING_XIA_MOD_BRONZE_WOKRSHOP</BuildingType>
+			<DomainType>DOMAIN_LAND</DomainType>
+			<Experience>15</Experience>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_XIA_MOD_BRONZE_WOKRSHOP</BuildingType>
+			<DomainType>DOMAIN_SEA</DomainType>
+			<Experience>15</Experience>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_XIA_MOD_BRONZE_WOKRSHOP</BuildingType>
+			<DomainType>DOMAIN_AIR</DomainType>
+			<Experience>15</Experience>
+		</Row>
+	</Building_DomainFreeExperiences>
+	<!-- Dynasty Dummies -->
+	<Building_ResourceYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_SHANG_DYNASTY_DUMMY</BuildingType>
+			<ResourceType>RESOURCE_SHEEP</ResourceType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SHANG_DYNASTY_DUMMY</BuildingType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SHANG_DYNASTY_DUMMY</BuildingType>
+			<ResourceType>RESOURCE_COW</ResourceType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>2</Yield>
+		</Row>		
+	</Building_ResourceYieldChanges>
+	<Building_YieldChangesPerReligion>
+		<Row>
+			<BuildingType>BUILDING_TANG_DYNASTY_DUMMY</BuildingType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>100</Yield>
+		</Row>
+	</Building_YieldChangesPerReligion>
+	<!-- Dynasty Dummies -->
+	<!-- Decision Dummies -->
+	<Building_BuildingClassYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_XIA_RITUAL_BRONZE_DECISION_DUMMY</BuildingType>
+			<BuildingClassType>BUILDINGCLASS_BARRACKS</BuildingClassType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+	</Building_BuildingClassYieldChanges>
+	<!-- Decision Dummies -->
+</GameData>

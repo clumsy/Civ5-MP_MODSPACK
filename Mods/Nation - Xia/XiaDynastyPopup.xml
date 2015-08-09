@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Context>
+	<Box ID="XiaDynastyUIBG"  Style="BGBlock_ClearTopBar" Hidden="1"/>
+	<Grid  ID="XiaDynastyUI" Size="600,360" Anchor="C,C" Offset="0,0" Padding="30,30" Style="Grid9DetailFive140" Hidden="1">
+		<!-- Upper Treatment -->
+		<Image Anchor="C,T" AnchorSide="I.O" Size="256,64" Offset="0,-14"  Texture="assets\UI\Art\Icons\Top512IconTrim.dds" >
+			<Image ID="CivIcon" Size="64,64" Offset="0,0"  Anchor="C,C" Texture="ChinesePalaceUI.dds" />
+		</Image>
+
+		<!-- Side treatments -->
+		<Box Style="MenuLeftSideTreatment"/>
+		<Box Style="MenuRightSideTreatment"/>
+
+		<Label  Anchor="C,T" Size="300,24" Offset="0,15" String="TXT_KEY_DYNASTY_TITLE" ID="Title" ColorSet="Beige_Black"  Font="TwCenMT22" />
+		<Stack Anchor="C,T" Offset="0,70" Padding="12" StackGrowth="Bottom" ID="ButtonStack">
+			<Label Anchor="C,T" Offset="0,0" ColorSet="Beige_Black" Font="TwCenMT20" FontStyle="Shadow" String="TXT_KEY_DYNASTY_MESSAGE" ID="Help" WrapWidth="570" LeadingOffset="-8"/>
+			<Image Anchor="C,C" Offset="0,0" Texture="bar340x2.dds" Size="340.1"/>
+			<Label Anchor="C,T" Offset="0,0" ColorSet="Beige_Black" Font="TwCenMT20" FontStyle="Shadow" String="TXT_KEY_DYNASTY_MESSAGE_TWO" ID="Summary" WrapWidth="570" LeadingOffset="-8"/>
+			<GridButton Style="BaseButton"  ID="Button1" Size="180,36" Anchor="C,T" Offset="0,20"  Hidden="0">
+				<Label Anchor="C,C" Offset="0,0" String="Continue" ColorSet="Beige_Black" Font="TwCenMT22" FontStyle="Shadow" ID="Button1Text" />
+			</GridButton>
+		</Stack>
+	</Grid>
+</Context>

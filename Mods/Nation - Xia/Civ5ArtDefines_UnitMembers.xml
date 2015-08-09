@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<UnitMemberArtInfos>
+	<UnitMemberArtInfo>
+		<Type>ART_DEF_UNIT_MEMBER_XIA_CHARIOT</Type>
+		<fScale>0.13</fScale>
+		<Granny>XiaChariot.fxsxml</Granny>
+		<Combat>
+			<Defaults>ART_DEF_TEMPLATE_MOUNTED</Defaults>
+			<bReformBeforeCombat>1</bReformBeforeCombat>
+			<bHasShortRangedAttack>1</bHasShortRangedAttack>
+			<bHasLongRangedAttack>1</bHasLongRangedAttack>
+			<bHasStationaryMelee>1</bHasStationaryMelee>
+			<Weapon>
+				<WeaponTypeTag>ARROW</WeaponTypeTag>
+				<WeaponTypeSoundOverrideTag>ARROW</WeaponTypeSoundOverrideTag>
+				<fMissTargetSlopRadius>10.0</fMissTargetSlopRadius>
+			</Weapon>
+			<Weapon>
+				<Usage>Vs_City</Usage>
+				<fVisKillStrengthMin>10.0</fVisKillStrengthMin>
+				<fVisKillStrengthMax>20.0</fVisKillStrengthMax>
+				<WeaponTypeTag>FLAMING_ARROW</WeaponTypeTag>
+				<fMissTargetSlopRadius>10.0</fMissTargetSlopRadius>
+			</Weapon>
+		</Combat>
+		<MaterialTypeTag>CLOTH</MaterialTypeTag>
+		<MaterialTypeSoundOverrideTag>WOODSM</MaterialTypeSoundOverrideTag>
+	</UnitMemberArtInfo>
+	<UnitMemberArtInfo>
+		<Type>ART_DEF_MEMBER_XIA_MING_DYNASTY_CARGO</Type>
+		<fScale>0.09</fScale>
+		<Granny>WarJunk.fxsxml</Granny>
+		<Domain>Sea</Domain>
+		<Combat>
+			<Defaults>ART_DEF_TEMPLATE_SHIP</Defaults>
+			<bHasShortRangedAttack>1</bHasShortRangedAttack>
+			<bHasLeftRightAttack>1</bHasLeftRightAttack>
+			<bHasIndependentWeaponFacing>1</bHasIndependentWeaponFacing>
+			<Weapon>
+				<fVisKillStrengthMin>0.0</fVisKillStrengthMin>
+				<fVisKillStrengthMax>0.0</fVisKillStrengthMax>
+				<HitEffect>ART_DEF_VEFFECT_CANNON_IMPACT_$(TERRAIN)</HitEffect>
+				<WeaponTypeTag>EXPLOSIVE</WeaponTypeTag>
+				<WeaponTypeSoundOverrideTag>EXPLOSION6POUND</WeaponTypeSoundOverrideTag>
+			</Weapon>
+		</Combat>
+		<MaterialTypeTag>WOOD</MaterialTypeTag>
+		<MaterialTypeSoundOverrideTag>WOODLRG</MaterialTypeSoundOverrideTag>
+	</UnitMemberArtInfo>
+</UnitMemberArtInfos>

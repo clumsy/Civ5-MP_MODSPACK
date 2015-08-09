@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_XIA_BANNER_ARMY</Type>
+			<Description>TXT_KEY_PROMOTION_XIA_BANNER_ARMY</Description>
+			<Help>TXT_KEY_PROMOTION_XIA_BANNER_ARMY_DESC</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PortraitIndex>1</PortraitIndex>
+			<IconAtlas>XIA_PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_XIA_BANNER_ARMY</PediaEntry>
+		</Row>
+		<Row>
+			<Type>PROMOTION_SHANG_NOBLE_BIRTH</Type>
+			<Description>TXT_KEY_PROMOTION_SHANG_CHARIOT</Description>
+			<Help>TXT_KEY_PROMOTION_XIA_CHARIOT_DESC</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<ExperiencePercent>25</ExperiencePercent>
+			<CannotBeChosen>true</CannotBeChosen>
+			<LostWithUpgrade>true</LostWithUpgrade>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>XIA_PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_XIA_CHARIOT_DESC</PediaEntry>
+		</Row>
+		<Row>
+			<Type>PROMOTION_SHANG_PATRONAGE_0</Type>
+			<Description>TXT_KEY_PROMOTION_SHANG_PATRONAGE_0</Description>
+			<Help>TXT_KEY_PROMOTION_XIA_PATRONAGE_0_DESC</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>		
+			<ExperiencePercent>25</ExperiencePercent>		
+			<CannotBeChosen>true</CannotBeChosen>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>XIA_PROMOTION_ATLAS</IconAtlas>
+			<PediaType>NULL</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_XIA_PATRONAGE_0_DESC</PediaEntry>
+		</Row>
+	</UnitPromotions>
+</GameData>

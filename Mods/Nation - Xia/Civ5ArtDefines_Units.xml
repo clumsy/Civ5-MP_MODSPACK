@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<UnitArtInfos>
+	<UnitArtInfo>
+		<Type>ART_DEF_UNIT_XIA_CHARIOT</Type>
+		<Formation>ChariotElephant</Formation>
+		<DamageStates>1</DamageStates>
+		<UnitMemberArt>
+			<MemberType>ART_DEF_UNIT_MEMBER_XIA_CHARIOT</MemberType>
+			<MemberCount>1</MemberCount>
+		</UnitMemberArt>
+	</UnitArtInfo>
+	<UnitArtInfo>
+		<Type>ART_DEF_UNIT_XIA_MING_DYNASTY_CARGO</Type>
+		<Formation>LooseCivilian</Formation>
+		<DamageStates>3</DamageStates>
+		<UnitMemberArt>
+			<MemberType>ART_DEF_MEMBER_XIA_MING_DYNASTY_CARGO</MemberType>
+			<MemberCount>2</MemberCount>
+		</UnitMemberArt>
+	</UnitArtInfo>
+</UnitArtInfos>

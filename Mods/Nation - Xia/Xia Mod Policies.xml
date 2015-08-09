@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<Policies>
+		<Row>
+			<Type>POLICY_ZHOU_DYNASTY_DUMMY</Type>
+			<Description>TXT_KEY_POLICY_ZHOU_DYNASTY_DUMMY</Description>
+			<Civilopedia>TXT_KEY_POLICY_ZHOU_DYNASTY_DUMMY_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_ZHOU_DYNASTY_DUMMY_HELP</Help>
+			<GridX>1000</GridX>
+			<GridY>1000</GridY>
+			<GreatPeopleRateModifier>10</GreatPeopleRateModifier>
+			<PortraitIndex>47</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+		</Row>
+		<Row>
+			<Type>POLICY_HAN_DYNASTY_DUMMY</Type>
+			<Description>TXT_KEY_POLICY_HAN_DYNASTY_DUMMY</Description>
+			<Civilopedia>TXT_KEY_POLICY_HAN_DYNASTY_DUMMY_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_HAN_DYNASTY_DUMMY_HELP</Help>
+			<GridX>1000</GridX>
+			<GridY>1000</GridY>
+			<PortraitIndex>47</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+		</Row>
+		<Row>
+			<Type>POLICY_QING_DYNASTY_DUMMY</Type>
+			<Description>TXT_KEY_POLICY_QING_DYNASTY_DUMMY</Description>
+			<Civilopedia>TXT_KEY_POLICY_QING_DYNASTY_DUMMY_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_QING_DYNASTY_DUMMY_HELP</Help>
+			<GridX>1000</GridX>
+			<GridY>1000</GridY>
+			<BaseFreeUnits>8</BaseFreeUnits>
+			<PortraitIndex>47</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+		</Row>
+		<Row>
+			<Type>POLICY_CHINA_DYNASTY_DUMMY</Type>
+			<Description>TXT_KEY_POLICY_CHINA_DYNASTY_DUMMY</Description>
+			<Civilopedia>TXT_KEY_POLICY_CHINA_DYNASTY_DUMMY_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_CHINA_DYNASTY_DUMMY_HELP</Help>
+			<GridX>1000</GridX>
+			<GridY>1000</GridY>
+			<PortraitIndex>47</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+		</Row>
+		<Row>
+			<Type>POLICY_ORACLE_BONE_DUMMY</Type>
+			<Description>TXT_KEY_POLICY_ORACLE_BONE_DUMMY</Description>
+			<Civilopedia>TXT_KEY_POLICY_ORACLE_BONE_DUMMY_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_ORACLE_BONE_DUMMY_HELP</Help>
+			<GridX>1000</GridX>
+			<GridY>1000</GridY>
+			<PortraitIndex>47</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+		</Row>
+	</Policies>
+	<Policy_YieldModifiers>
+		<Row>
+			<PolicyType>POLICY_CHINA_DYNASTY_DUMMY</PolicyType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>10</Yield>
+		</Row>
+	</Policy_YieldModifiers>
+	<Policy_BuildingClassCultureChanges>
+		<Row>
+			<PolicyType>POLICY_HAN_DYNASTY_DUMMY</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_CHINA_EVER_OWNED_DUMMY_TWO</BuildingClassType>
+			<CultureChange>2</CultureChange>
+		</Row>
+	</Policy_BuildingClassCultureChanges>
+	<Policy_ImprovementYieldChanges>
+		<Row>
+			<PolicyType>POLICY_ORACLE_BONE_DUMMY</PolicyType>
+			<ImprovementType>IMPROVEMENT_FARM</ImprovementType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Policy_ImprovementYieldChanges>	
+	<Language_en_US>
+		<Row Tag="TXT_KEY_POLICY_ZHOU_DYNASTY_DUMMY">
+			<Text>Zhou Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_ZHOU_DYNASTY_DUMMY_TEXT">
+			<Text>Zhou Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_ZHOU_DYNASTY_DUMMY_HELP">
+			<Text>+10% [ICON_GREAT_PEOPLE] Great People generation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_HAN_DYNASTY_DUMMY">
+			<Text>Han Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_HAN_DYNASTY_DUMMY_TEXT">
+			<Text>Han Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_HAN_DYNASTY_DUMMY_HELP">
+			<Text>Cities Settled or Annexed by the Xia generate +2 [ICON_CULTURE] Culture for their current owner.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_QING_DYNASTY_DUMMY">
+			<Text>Qing Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_QING_DYNASTY_DUMMY_TEXT">
+			<Text>Qing Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_QING_DYNASTY_DUMMY_HELP">
+			<Text>8 Units are maintenance free.</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_POLICY_CHINA_DYNASTY_DUMMY">
+			<Text>China Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CHINA_DYNASTY_DUMMY_TEXT">
+			<Text>China Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CHINA_DYNASTY_DUMMY_HELP">
+			<Text>+10% [ICON_PRODUCTION] Production in all Cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_ORACLE_BONE_DUMMY">
+			<Text>Oracle Bone Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_ORACLE_BONE_DUMMY_TEXT">
+			<Text>Oracle Bone Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_ORACLE_BONE_DUMMY_HELP">
+			<Text>+1 [ICON_FOOD] Food from Farms.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

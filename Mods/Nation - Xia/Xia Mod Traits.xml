@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_DYNASTIC_CYCLE</Type>
+			<Description>TXT_KEY_TRAIT_DYNASTIC_CYCLE</Description>
+			<ShortDescription>TXT_KEY_TRAIT_DYNASTIC_CYCLE_SHORT</ShortDescription>
+		</Row>
+	</Traits>
+</GameData>

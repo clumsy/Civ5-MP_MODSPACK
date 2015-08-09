@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<ArtDefine_StrategicView>
+		<Replace>
+			<StrategicViewType>ART_DEF_UNIT_XIA_CHARIOT</StrategicViewType>
+			<TileType>Unit</TileType>
+			<Asset>sv_Xia_Chariot.dds</Asset>
+		</Replace>
+	</ArtDefine_StrategicView>
+</GameData>

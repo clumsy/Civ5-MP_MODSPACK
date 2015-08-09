@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="6c5e9dbc-b718-4b21-9a19-6b818d920ade" version="38">
+  <Properties>
+    <Name>Xia - Erlitou (Brave New World)</Name>
+    <Teaser>Adds Xia to the base game. Requires the Brave New World expansion.</Teaser>
+    <Description>Adds [b]Xia[/b] to the base game. 
+[NEWLINE]
+[NEWLINE]~~~ 
+[NEWLINE]
+[NEWLINE]Note: 
+[NEWLINE]- This civilization requires the Brave New World expansion. 
+[NEWLINE]- Updates to the Mod will most likely break save games. Please do not update until you are ready to begin a new game. 
+[NEWLINE]
+[NEWLINE]~~~ 
+[NEWLINE]
+[NEWLINE]Leader: Yu
+[NEWLINE]UA: Dynastic Cycle
+[NEWLINE]UU: Tu Mao
+[NEWLINE]UB: Foundry</Description>
+    <Authors>Tomatekh</Authors>
+    <SpecialThanks>JFD</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <Homepage>http://forums.civfanatics.com/showthread.php?t=472751</Homepage>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>38</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events and Decisions" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="Cultural Diversity" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Cultural Influence" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Traits" />
+    <Mod id="43868e8d-de88-48a1-a8d9-ce144e07f5e0" minversion="0" maxversion="999" title="ExCE" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="C Patch" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="C Balance Patch" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D." />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="Piety" />
+    <Mod id="d99bf7aa-51ac-4bef-bd88-d765b28e260e" minversion="0" maxversion="999" title="Prestige" />
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="D8781F2B5AC5D0894766DD628D12A9E1" import="1">Art/Alpha/Civ/XiaAlphaAtlas128.dds</File>
+    <File md5="826A756F502B67FA939600DB71C59CF5" import="1">Art/Alpha/Civ/XiaAlphaAtlas16.dds</File>
+    <File md5="00B3B9AAEF9715D8AA51B0F16C4EF86B" import="1">Art/Alpha/Civ/XiaAlphaAtlas24.dds</File>
+    <File md5="9B460E0228F09D852BF344D6385079DE" import="1">Art/Alpha/Civ/XiaAlphaAtlas32.dds</File>
+    <File md5="53AFEA1F11434EF895A398716BD67A97" import="1">Art/Alpha/Civ/XiaAlphaAtlas48.dds</File>
+    <File md5="5F30F44771C5376721E4EEEC4A775275" import="1">Art/Alpha/Civ/XiaAlphaAtlas64.dds</File>
+    <File md5="9F46CBDCE8B3A845F22EC999DD0364CB" import="1">Art/Atlas/XiaAtlas128.dds</File>
+    <File md5="6D6B2685A862C066847560B599FE5425" import="1">Art/Atlas/XiaAtlas214.dds</File>
+    <File md5="862A89D39F4E73E5F5BFD981BF4AC5D9" import="1">Art/Atlas/XiaAtlas256.dds</File>
+    <File md5="D5E7CB44CF6BA41F315F2996CA3183D6" import="1">Art/Atlas/XiaAtlas32.dds</File>
+    <File md5="C104619FCDC52451A2E828441797E00E" import="1">Art/Atlas/XiaAtlas45.dds</File>
+    <File md5="98115D3AF44DDA9C41FF77B778BEF911" import="1">Art/Atlas/XiaAtlas64.dds</File>
+    <File md5="6DDC1469CAAC147A20F3AF36EB282440" import="1">Art/Atlas/XiaAtlas80.dds</File>
+    <File md5="13B798476BC8EBA2914712ABEEEDAE54" import="1">Art/GreatWork/NineTripods.dds</File>
+    <File md5="3682220F81FFF43DBE50FA2867C29AEF" import="1">Art/GreatWork/OracleBone1.dds</File>
+    <File md5="D86147EF48779290EF2CEDF6072A4D55" import="1">Art/GreatWork/OracleBone2.dds</File>
+    <File md5="EA177ECBB05E608E737557F22E5348E5" import="1">Art/GreatWork/OracleBone3.dds</File>
+    <File md5="A9F1AE9459DAAAC7DF75C543841DCB67" import="1">Art/Interface/ChinesePalaceUI.dds</File>
+    <File md5="450974E4003CB9E3411EDCCBA31AB918" import="1">Art/Interface/OracleBoneSymbols.dds</File>
+    <File md5="EB6D402E80B23828E8EA72549AAC35D2" import="1">Art/Interface/OracleSacrificeUI.dds</File>
+    <File md5="C43BB47D04620FB40C7B5B56AFCD5ED8" import="1">Art/Units/Action/XiaShangSacrifice45.dds</File>
+    <File md5="3EE4E4E4C0FFD8D852FD69D6374BB3AD" import="1">Art/Units/Action/XiaShangSacrifice64.dds</File>
+    <File md5="D3D60376A65D6744B3AFBABF998A83FB" import="1">Art/Units/Action/XiaShangSacrificeGold45.dds</File>
+    <File md5="505E6CD1A8FB15C1E9007942C78F99C7" import="1">Art/Units/Action/XiaShangSacrificeGold64.dds</File>
+    <File md5="FE2ABB3656F32B54058BCBA9E885765D" import="1">Art/Units/Alpha/sv_Xia_Chariot.dds</File>
+    <File md5="65C0F7BCDE496B6B583E5375421E9B4B" import="1">Art/Units/Alpha/sv_Xia_Chariot_GG.dds</File>
+    <File md5="94D86AB89DF799E25A0FAAFD85EAC932" import="1">Art/Units/Alpha/XiaChariotAlpha.dds</File>
+    <File md5="5A580836015F9C850AB35F55E2B6E160" import="1">Art/Units/Cargo/WarJunk.fxsxml</File>
+    <File md5="9055CFE68543E265F5F097FD57516888" import="1">Art/Units/Cargo/WarJunk.gr2</File>
+    <File md5="3DDD2A5C7896AA05B89E7E97D7C2A94C" import="1">Art/Units/Cargo/WarJunk.png</File>
+    <File md5="7038C2D91B8CFDBE084AE650311D0165" import="1">Art/Units/Cargo/WarJunk_diff.dds</File>
+    <File md5="A0259BA1FB1B544F89BBD5A07BE8B90F" import="1">Art/Units/Cargo/WarJunk_sref.dds</File>
+    <File md5="DEEA02500C25799E7FB67CDBF28930B5" import="1">Art/Units/Model/XiaChariot.fxsxml</File>
+    <File md5="DDA5F78A2AE1753C0AE52D23B0691D67" import="1">Art/Units/Model/XiaChariot.gr2</File>
+    <File md5="175766E5FE30E47D87A9624BEA0C8388" import="1">Art/Units/Model/XiaChariot_diff.dds</File>
+    <File md5="7D8A463648C0D6DFCE0BA85D66848F16" import="1">Art/Units/Promotion/XiaPromotion256.dds</File>
+    <File md5="FE507460CA3EDF2446AA4FA1700AB683" import="1">Art/Units/Promotion/XiaPromotion32.dds</File>
+    <File md5="BC6CAE8ABDC9480C58F053CF1699AAE0" import="1">Art/Units/Promotion/XiaPromotion45.dds</File>
+    <File md5="2712CF73C2F4DB27C5AB156013AC52ED" import="1">Art/Units/Promotion/XiaPromotion64.dds</File>
+    <File md5="A34FDC61872F3574625DD9F2274DA491" import="1">Art/XiaDiplo.dds</File>
+    <File md5="BD946F01A9A5525ABFE6BBCC032A53C4" import="1">Art/XiaDoMMod.dds</File>
+    <File md5="7B3651CC5BD4A55F25819C8534C675AF" import="1">Art/XiaMapMod.dds</File>
+    <File md5="CA9B2E4F6994E6AACD1ABE450C671A5E" import="1">Art/XiaShangDoMMod.dds</File>
+    <File md5="8D5063C71E380459E37F2DD3FB15253B" import="1">Art/XiaShangMapMod.dds</File>
+    <File md5="0D9E1D8CCCCD2F1FB1FF5FCAA465AFB3" import="1">Decisions/TomatekhXiaDecisions.lua</File>
+    <File md5="062AFA9ADF72B41F061E8E6E81B572AF" import="0">Decisions/TomatekhXiaDecisions.xml</File>
+    <File md5="796D2D8CC5806143E4DCAC66CEFBDD84" import="0">Decisions/XiaGreatWorkDecisionSupport.sql</File>
+    <File md5="4486E05E92C6A1829D1BD4FC8EAB80DE" import="1">LUA/Interface/CultureOverview.lua</File>
+    <File md5="BF85D174CA9D4F2EC2AD7E3FBB6C0D6D" import="1">LUA/Interface/CultureOverview.xml</File>
+    <File md5="732553EB0EE56B3BD8AE8CCCEDC4FE8F" import="1">LUA/Interface/Xia Panel Edits.lua</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">LUA/SaveUtils.lua</File>
+    <File md5="CE8B35462EB1ACC61FE0E87AC6A2548E" import="0">LUA/Shang Updates/Shang Mod Check.lua</File>
+    <File md5="4615AEFFD6DC54742F20D61002F5E3EB" import="1">LUA/Shang Updates/Shang Mod Check.xml</File>
+    <File md5="FECAEC2115236A95DD3B3A623101E3B5" import="1">LUA/Shang Updates/Shang Mod Scripts.lua</File>
+    <File md5="79B28DC9CA46A76971D6228E61E6EF8B" import="0">LUA/Shang Updates/ShangOraclePopup.lua</File>
+    <File md5="70DBCDB21DDE8CEAECCC508A60B6E09B" import="0">LUA/Shang Updates/ShangOraclePopup.xml</File>
+    <File md5="2297E5454ADB350F79D37075856FF6D6" import="1">LUA/UniqueDiplomacyUtils.lua</File>
+    <File md5="C1255E33C2475FF7475DDDA719B8C475" import="0">LUA/Xia Mod Check.lua</File>
+    <File md5="1E6AD73B98E453828DA9BF0EAA6D5BEF" import="1">LUA/Xia Mod Check.xml</File>
+    <File md5="1B1EDFDFD60790DBBD7D23FB41AEE5D6" import="1">LUA/Xia Mod Dynasty Scripts.lua</File>
+    <File md5="EBD241CF494B22D87FBA9996CD402D67" import="0">LUA/XiaCapturePopup.lua</File>
+    <File md5="2823BEDCC1C1C51042E72AD19C9A4D50" import="0">LUA/XiaCapturePopup.xml</File>
+    <File md5="34E954BEE4D8CA02A79FBBD5235E312B" import="0">LUA/XiaDynastyPopup.lua</File>
+    <File md5="432219B81861C8484F949E7C8B02A111" import="0">LUA/XiaDynastyPopup.xml</File>
+    <File md5="78C29138FAF644288F724AD15BA75827" import="0">Shang Switch.sql</File>
+    <File md5="3B142EDC2577FA225FCEBB74457CCD7C" import="1">Sounds/ShangBianzhong.mp3</File>
+    <File md5="B8553B48D0C7D5C206D8E25259BE2A45" import="1">Sounds/XiaDoM.mp3</File>
+    <File md5="1F5D224A79FE6E2F568B7112DE1EB810" import="1">Sounds/XiaPeace.mp3</File>
+    <File md5="3FC2371E6E99F12D56D59EF9C3B6302D" import="1">Sounds/XiaWar.mp3</File>
+    <File md5="8DD0D14AE85B78CDDDDCA0FA63D155E4" import="0">SQL/Shang Updates/Xia to Shang Updates.sql</File>
+    <File md5="AFDD59F02F9289348B94831C3B046C7D" import="0">SQL/Xia Misc.sql</File>
+    <File md5="8C873BE4DEA4D6CD0F2A77FC5C5B253A" import="0">SQL/Xia Mod Support.sql</File>
+    <File md5="2F18701B8B16F6130B292260F9BADF01" import="0">SQL/Xia YnAMEP Support.sql</File>
+    <File md5="04F4F797009FE834B5C2AD6B4927B8BE" import="1">XML/Art/Civ5ArtDefines_UnitMembers.xml</File>
+    <File md5="C786335923A02E274A25793DC1883613" import="1">XML/Art/Civ5ArtDefines_Units.xml</File>
+    <File md5="2C60720519EE0EE78B6C284F765AAAFF" import="0">XML/Art/Xia Mod Atlas.xml</File>
+    <File md5="0EB3842A1028E34B3C40843602539E08" import="0">XML/Art/Xia Strategic View.xml</File>
+    <File md5="0458089642627DA80886D4DB49E493BF" import="0">XML/Art/Xia Unit SQL.sql</File>
+    <File md5="B9011254D0B171E36AD29A059E839DF0" import="1">XML/Art/Xia_Leader_Scene_Mod.xml</File>
+    <File md5="5E473CAFB48E220729BFB4CAD27B61C9" import="0">XML/Buildings/Xia Mod Buildingclass.xml</File>
+    <File md5="48F97D97E51BB988D64DA9335D17CAED" import="0">XML/Buildings/Xia Mod Buildings.xml</File>
+    <File md5="924C96E2D989547A648E6A9109830547" import="0">XML/Civilizations/Xia Mod Leader.xml</File>
+    <File md5="15969C6DD566342729C422CC28CD0BDF" import="0">XML/Civilizations/Xia Mod Civilization.xml</File>
+    <File md5="CECD999CB1DBC74015E93D6C6F106B1B" import="0">XML/Civilizations/Xia Mod Traits.xml</File>
+    <File md5="825F3602CED22E7D1DB941ACC4D0C200" import="0">XML/Diplomacy/Xia Mod Diplomacy.xml</File>
+    <File md5="892CDC376AACC82725EDD6395CB89C6D" import="0">XML/Gameinfo/Xia Mod Policies.xml</File>
+    <File md5="87B70EEFFBF4EE03D239C2E3E3266CB3" import="0">XML/Sounds/Xia Mod Sound.xml</File>
+    <File md5="1EB8AA0EC6EAB0819DC29925BE54B07D" import="0">XML/Text/Non English XML Tags/Xia Game Text DE_DE.xml</File>
+    <File md5="AA8EEB540E9DB6BA1591576AC0096CC3" import="0">XML/Text/Non English XML Tags/Xia Game Text ES_ES.xml</File>
+    <File md5="27D4BC2110BB978F4C0A6D207B5B9265" import="0">XML/Text/Non English XML Tags/Xia Game Text FR_FR.xml</File>
+    <File md5="D4E6E59F71C5C5106DBFC9146CC86174" import="0">XML/Text/Non English XML Tags/Xia Game Text IT_IT.xml</File>
+    <File md5="8E00C39002D644831B0EAC2DB01AC22B" import="0">XML/Text/Non English XML Tags/Xia Game Text JA_JP.xml</File>
+    <File md5="EDDB33935A1013C4914CA6962EF81F60" import="0">XML/Text/Non English XML Tags/Xia Game Text KO_KR.xml</File>
+    <File md5="9868FEBE5D309DF34DE6536F696BC13C" import="0">XML/Text/Non English XML Tags/Xia Game Text PL_PL.xml</File>
+    <File md5="B42BE06A6E566759157A1FAB9BD17A70" import="0">XML/Text/Non English XML Tags/Xia Game Text RU_RU.xml</File>
+    <File md5="6A26E45AFCB3C3D3C3889CA26EE318B6" import="0">XML/Text/Xia Mod Text.xml</File>
+    <File md5="0D950A3699D881998A1DAC3CB6176B1C" import="0">XML/Units/Xia Mod Promotions.xml</File>
+    <File md5="2831F202C9450A58BA7D898FEFCC00E6" import="0">XML/Units/Xia Mod Unitclass.xml</File>
+    <File md5="8DFC0E7D84E541687F460CFDC03073A1" import="0">XML/Units/Xia Mod Units GG.xml</File>
+    <File md5="96C6ED8966D451D175A33673DAA13D44" import="0">XML/Units/Xia Mod Units.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Art/Xia Mod Atlas.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Xia Mod Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Xia Mod Traits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Xia Mod Leader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Sounds/Xia Mod Sound.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Diplomacy/Xia Mod Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/Xia Mod Unitclass.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/Xia Mod Units.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Art/Xia Unit SQL.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Art/Xia Strategic View.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/Xia Mod Promotions.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Gameinfo/Xia Mod Policies.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Xia Mod Buildingclass.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Xia Mod Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Xia Misc.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Xia Mod Text.xml</UpdateDatabase>
+      <UpdateDatabase>Decisions/XiaGreatWorkDecisionSupport.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Xia YnAMEP Support.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Xia Mod Support.sql</UpdateDatabase>
+      <UpdateDatabase>Decisions/TomatekhXiaDecisions.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Xia Game Text DE_DE.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Xia Game Text ES_ES.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Xia Game Text FR_FR.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Xia Game Text IT_IT.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Xia Game Text JA_JP.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Xia Game Text KO_KR.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Xia Game Text PL_PL.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Xia Game Text RU_RU.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Shang Updates/Xia to Shang Updates.sql</UpdateDatabase>
+      <UpdateDatabase>Shang Switch.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="LUA/Xia Mod Check.lua">
+      <Name>Dynasty</Name>
+      <Description>Dynasty</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="LUA/XiaDynastyPopup.lua">
+      <Name>Pop</Name>
+      <Description>Pop</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="LUA/XiaCapturePopup.lua">
+      <Name>Pop2</Name>
+      <Description>Pop2</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="LUA/Shang Updates/Shang Mod Check.lua">
+      <Name>Shang</Name>
+      <Description>Shang</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="LUA/Shang Updates/ShangOraclePopup.lua">
+      <Name>Pop3</Name>
+      <Description>Pop3</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

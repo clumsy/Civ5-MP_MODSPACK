@@ -1,0 +1,800 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh-->
+<GameData>
+	<Language_en_US>
+		<!-- -->
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE_SHORT">
+			<Text>Dynastic Cycle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DYNASTIC_CYCLE">
+			<Text>Losing your [ICON_CAPITAL] Capital, constructing a Courthouse in a conquered foreign [ICON_CAPITAL] Capital, or completing a Social Policy tree starts a new Dynasty and provides a new cumulative bonus (requires an Annexed or Settled City).</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_ERLITOU_MOD_TEXT">
+			<Text>Divine and honourable Yu, revered founder of the Xia Dynasty, we humbly beseech your wisdom and guidance. The world's oldest continuous civilization, China has stood as a beacon of civility and progress throughout time. Yet, much of her origins lay shrouded in myth. As the Three Sovereigns and Five Emperors imparted their knowledge onto man, so too did Han culture begin to coalesce along the Yellow River. The palatial estates and complex bronze work of Erlitou would set the cultural foundation for the later Shang state and usher in the beginning of Chinese civilization. At this intersection of fact and legend, the Xia Dynasty emerges as a symbol of identity and empire; the start of a dynastic chain stretching across history to forever leave its mark on Eastern Asia.[NEWLINE][NEWLINE]Esteemed Ancestor, your virtue and moral conduct served to inspire the great emperors of the East throughout time. In legend, you sacrificed body and forsook the comfort of family to tame the Yellow River. Once again the peoples of the Middle Kingdom need your help. Will you heed their call to return? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_LEADER_XIA_YU_MOD_FIRST_GREETING_1">
+			<Text>Welcome! I am Yu, leader of the Huaxia. I seek only to aid my people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_YU_MOD_FIRST_GREETING_2">
+			<Text>Know that I have been tasked to this role by my lord Shun. You shall not sway me from my purpose.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHINA_YU_MOD_FIRST_GREETING_DYNASTY_1">
+			<Text>It brings shame to see my descendant falsely claim the approval of Heaven. May you yet prove yourself a just and noble ruler.</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_LEADER_XIA_YU_MOD_DEFEATED_1">
+			<Text>My son shall carry on my dynasty and honour his father, as I have honoured my father and his father before him.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_YU_MOD_DEFEATED_2">
+			<Text>Even in defeat, I rest easy knowing my great work is accomplished and the land made prosperous for my people.</Text>	
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHINA_YU_MOD_DEFEATED_DYNASTY_1">
+			<Text>To think that one as unjust and dishonorable as you would be named by Heaven!</Text>
+		</Row>		
+		<!-- -->
+		<Row Tag="TXT_KEY_LEADER_XIA_YU_MOD_DESC">
+			<Text>Yu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_YU_MOD_LIVED">
+			<Text>c. 2200 - 2100 BC ?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_YU_MOD_NAME">
+			<Text>Yu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_YU_MOD_SUBTITLE">
+			<Text>Leader of Xia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_YU_MOD_TITLES_1">
+			<Text>The Great</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_YU_MOD_TITLES_2">
+			<Text>Founder of the Xia Dynasty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_YU_MOD_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_YU_MOD_TEXT_1">
+			<Text>Yu the Great was a legendary ruler in ancient China famed for his introduction of flood control, inaugurating dynastic rule in China, and his upright moral character. As the founder of the Xia Dynasty, Yu is understood as the first ruler of the dynastic cycle; an important political theory in Chinese history which represents China as a single continuous civilization ruled by a succession of different dynasties. Because of the mythic nature of the Xia dynasty and the lack of written records from Erlitou archaeological sites, it is impossible to judge the veracity of Yu's rule. However, the myth surrounding the figure of Yu continues to be an influential force on Chinese rulers and culture up to the modern day.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_YU_MOD_HEADING_2">
+			<Text>Legend</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_YU_MOD_TEXT_2">
+			<Text>The dates proposed for Yu's reign precede the oldest known written records in China, the oracle bones of the late Shang dynasty, by nearly a millennium. Stories about his life and reign were transmitted orally in various areas of China, and first recorded in texts from the Western Zhou period (c. 1045-771 BC).[NEWLINE][NEWLINE]Yu is said to have been the 8th great-grandson of the Yellow Emperor. He was born at Mount Wen, but moved by his father, Gun, to the Central Plain during childhood. Yu grew up on the slopes of Mount Song, just south of the Yellow River, and eventually married the Lady Tushan and fathered a son named Qi.[NEWLINE][NEWLINE]During the reign of king Yao, the Chinese heartland was frequently plagued by floods that prevented further economic and social development. Yu's father, was tasked with devising a system to control the flooding. He spent more than nine years building a series of dikes and dams along the riverbanks, but all of this was ineffective, despite the great number and the use of a special self-expanding soil. As an adult, Yu continued his father's work and made a careful study of the river systems in an attempt to learn why his father's great efforts had failed.[NEWLINE][NEWLINE]Collaborating with Houji, a semi-mythical agricultural master about whom little is concretely known, Yu successfully devised a system of flood controls that were crucial in establishing the prosperity of the Chinese heartland. Instead of directly damming the rivers' flow, Yu made a system of irrigation canals which relieved floodwater into fields, as well as spending great effort dredging the riverbeds. Yu is said to have eaten and slept with the common workers and spent most of his time personally assisting the work of dredging the silty beds of the rivers for the thirteen years the projects took to complete. The dredging and irrigation were successful, and allowed ancient Chinese culture to flourish along the Yellow River.[NEWLINE][NEWLINE]King Shun, who reigned after Yao, was so impressed by Yu's engineering work and diligence that he passed the throne to Yu instead of to his own son. Yu is said to have initially declined the throne, but was so popular with other local lords and chiefs that he agreed to become the new emperor, at the age of fifty-three. He established a capital at Anyi and founded what would be called the Xia Dynasty, traditionally considered China's first dynasty. Yu ruled the Xia Dynasty for forty-five years until eventually succumbing to an illness. Yu was succeeded by his son Qi.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_YU_MOD_HEADING_3">
+			<Text>Verdict of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_YU_MOD_TEXT_3">
+			<Text>It is impossible to pass judgment on such a legendary figure. Yu and the other sage-kings of ancient China were lauded for their virtues and morals by Confucius and other teachers. Additionally, a number of emperors in imperial times travelled to Yu's tomb to perform ceremonies in his honor; most notably Qin Shi Huang. As the founder of China's first dynasty, Yu remains a key figure in the national myth of the Chinese people, and a subject continuously referenced in historiography and pop culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_YU_MOD_HEADING_4">
+			<Text>Factoid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_YU_MOD_TEXT_4">
+			<Text>Yu is one of the few Chinese rulers posthumously honored with the epithet "The Great".</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_XIA_MOD_DESC">
+			<Text>Xia Dynasty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_SHORT_DESC">
+			<Text>Xia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD_ADJECTIVE">
+			<Text>Xia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_MOD">
+			<Text>Xia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_MOD_TITLE">
+			<Text>Xia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_MOD_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_MOD_TEXT_1">
+			<Text>The Erlitou culture of China's central plain marks the decisive shift out of East Asia's Neolithic period, ushering in the beginning of Chinese civilization. Although Erlitou was occupied as early as 3500 BC, it was from 1900-1600 BC that the culture evolved to form the first state-level society of China. During its heyday the Erlitou archeological site included an area of almost 300 hectares. Palatial buildings, royal tombs, bronze foundries, paved roads, and rammed earth foundations attest to the complexity and importance of this central site. During the Erligang period (1600-1250 BC), the site decreased in importance and was abandoned.[NEWLINE][NEWLINE]Because of temporal and geographic overlap, the culture is often assumed to correlate to the Xia Dynasty; however, this has not been proven through archeological evidence. Even if true, the details concerning the Xia Dynasty (first recorded more than a millennium later during the Western Zhou period) are largely understood to be mythical; serving as a counterpoint to the subsequent Shang Dynasty and ultimately to justify the Chinese dynastic cycle. Continued archeological surveys of Erlitou sites are needed in order to form a more complete picture of China's first state.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_MOD_HEADING_2">
+			<Text>Climate and Terrain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_MOD_TEXT_2">
+			<Text>The Loess Plateau and North Central Plain were highly fertile and easy to farm in ancient times, which contributed to the development of early Chinese civilization around the Yellow River. Centuries of deforestation and over-grazing, exacerbated by China's population increase, however, have resulted in degenerated ecosystems and desertification in the modern era. The Yellow River has also historically been known for frequent devastating floods and course changes produced by the continual elevation of the river bed, sometimes above the level of its surrounding farm fields. Overcoming the flooding plays a central role in the myths surrounding Yu the Great.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_MOD_HEADING_3">
+			<Text>Erlitou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_MOD_TEXT_3">
+			<Text>Discovered in 1959, Erlitou is the largest site associated with the Erlitou Culture; characterized by its palace buildings and bronze smelting workshops. Erlitou monopolized the production of ritual bronze vessels, including the earliest recovered dings. The culture is divided into four phases, each of roughly a century.[NEWLINE][NEWLINE]The earliest occupations at Erlitou date to the Neolithic Yangshao culture (3500-3000 BC), and Longshan culture (3000-2500 BC) followed by a 600 year period of abandonment. During this initial phase, Erlitou was a rapidly growing regional center, but not yet an urban civilization. The Erlitou settlement began again around 1900 BC. The city rose steadily in importance, becoming the primary center in in the region by about 1800 BC.[NEWLINE][NEWLINE]At its peak, Erlitou may have had a population of between 18,000 and 30,000. At around 1600 BC, a walled city was built at Yanshi, about 6 kilometers northeast of Erlitou, which also coincided with the rise of the Erligang period (1600-1250 BC). During the Erligang period, Erlitou decreased in importance and all palaces were abandoned. There is no evidence of destruction by fire or war, and habitation continued albeit significant reduced from its height of around 300 hectares to about 30 hectares.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_MOD_HEADING_4">
+			<Text>Characteristics</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_MOD_TEXT_4">
+			<Text>Erlitou has eight identified palaces - large scale buildings with elite architecture and artifacts - three of which have been fully excavated. Excavations indicate that the city was planned with specialized buildings, a ceremonial area, attached workshops, and a central palatial complex enclosing two rammed-earth foundation palaces. Elite burials were placed within the courtyards of these palaces, accompanied by grave goods such as bronzes, jades, turquoise, and lacquer wares. Other tombs were discovered scattered throughout the site rather than in a cemetery precinct.[NEWLINE][NEWLINE]Erlitou also had a planned grid of roads. An intact section of parallel wagon tracks, 1 meter wide and 5 meters long, is the earliest known evidence of a wagon in China. Other parts of the city contain the remains of smaller dwellings, craft workshops, pottery kilns and tombs. Important craft areas include a bronze casting foundry and a turquoise workshop.[NEWLINE][NEWLINE]Erlitou is known for its bronzes: the earliest bronze vessels cast in China were made in the foundries at Erlitou. The first bronze vessels were made expressly for the ritual consumption of wine, which was probably based on rice or wild grape.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_MOD_HEADING_5">
+			<Text>Historicity</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_MOD_TEXT_5">
+			<Text>A major goal of archaeology in China has been the search for the capitals of the Xia and Shang Dynasties described in traditional accounts as inhabiting the Yellow River valley. These originally oral traditions were recorded much later in histories such as the Bamboo Annals (c. 300 BC) and the Records of the Grand Historian (1st century BC), and their historicity, particularly regarding the Xia, is doubted by many scholars.[NEWLINE][NEWLINE]According to the traditional chronology based upon calculations by Liu Xin, the Xia ruled between 2205-1766 BC; according to the chronology based upon the Bamboo Annals, it ruled between 1989-1558 BC. The tradition of tracing Chinese political history from heroic early emperors to the Xia to succeeding dynasties comes from the idea of the Mandate of Heaven, in which only one legitimate dynasty can exist at any given time, and was promoted by the Confucian school in the Eastern Zhou period, later becoming the basic position of imperial historiography and ideology. Although the Xia Dynasty is an important element in early Chinese history, reliable information on the history of China before 13th century BC can only come from archaeological evidence since China's first established written system on a durable medium did not exist until the Shang Dynasty.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_MOD_HEADING_6">
+			<Text>Xia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_MOD_TEXT_6">
+			<Text>According to ancient Chinese texts, before the Xia Dynasty was established, battles were frequent between the Xia and Li tribes. The Xia tribe slowly developed around the time of Zhuanxu, one of the legendary Five Emperors. The Records of the Grand Historian and the Classic of Rites say that Yu the Great is the grandson of Zhuanxu.[NEWLINE][NEWLINE]Gun, the father of Yu the Great, is the earliest recorded member of the Xia clan. When the Yellow River flooded, many tribes united together to control and stop the flooding. Gun was appointed by Yao to stop the flooding. He ordered the construction of large blockades to block the path of the water. The attempt of Gun to stop the flooding lasted for nine years, but it was a failure because the floods became stronger. After nine years, Yao had already given his throne to Shun. Gun was ordered to be executed by Shun at Yushan.[NEWLINE][NEWLINE]Yu was highly trusted by Shun, so Shun appointed him to finish his father's work, which was to stop the flooding. Yu's method was different from his father's: he organized people from different tribes and ordered them to help him build canals in all the major rivers that were flooding and lead the water out to the sea. Yu was dedicated to his work. People praised his perseverance and were inspired, so much so that other tribes joined in the work. Legend says that in the 13 years it took him to successfully complete the work to stop the floods, he never went back to his home village to stop and rest, even though he passed by his house three times.[NEWLINE][NEWLINE]The Xia tribe's power increased and Yu became the leader of the surrounding tribes. Soon afterwards Shun sent Yu to lead an army to suppress the Sanmiao tribe, which continuously abused the border tribes. After defeating them, he exiled them south to the Han River area. This victory strengthened the Xia tribe's power even more. As Shun aged, he thought of a successor and relinquished the throne to Yu, whom he deemed worthy. Yu's succession marks the start of the Xia dynasty. As Yu neared death he passed the throne to his son, Qi, instead of passing it to the most capable candidate, thus setting the precedent for dynastic rule.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_MOD_HEADING_7">
+			<Text>Decline</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_MOD_TEXT_7">
+			<Text>The Xia Dynasty lasted until Jie (1728-1675 BC), the 17th and last ruler of Xia. Jie is said to have been a tyrant, known to have lived a lavish lifestyle with slaves and treated his people with extreme cruelty. His style of ruling was reckless and filled with sex, luxury and entertainment. He generally disliked people who criticized him, and many were indeed afraid of him.[NEWLINE][NEWLINE]The Xia Dynasty held suzerainty over a number of kingdoms, one of which was the Kingdom of Shang. During Jie's reign, Shang grew in power, initially at the expense of Xia's other vassals. A person by the name of Shang Tang was able to win many supporters from as many as 40 smaller kingdoms. Shang Tang recognized that Jie mistreated the people and used this as a way to convince other supporters. In one speech Shang Tang said that creating chaos is not something he wanted, but given the terror of Jie, he has to follow the Mandate of Heaven and use this opportunity to overthrow Xia. [NEWLINE][NEWLINE]In the 31st year of Jie's reign, Shang Tang dispatched troops from Er and fought Jie's forces in the Battle of Mingtiao, in a heavy thunder storm, and defeated the Xia army. Jie himself escaped and fled to Sanzong. The Shang forces, under their general Wuzi, pursued Jie to Cheng, captured him at Jiaomen and deposed him, bringing the Xia dynasty to an end. Eventually, Jie was released in Nanchao and died of illness. Shang Tang succeeded as king by Tang, who inaugurated the Shang Dynasty.[NEWLINE][NEWLINE]After the defeat of Xia by Shang, the imperial descendants scattered and were absorbed by the nearby clans. Tradition states some members of the royal family survived as the Qi (Henan) state until 445 BC.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_MOD_HEADING_8">
+			<Text>Relationship with Shang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_MOD_TEXT_8">
+			<Text>Scholarly debate continues concerning whether Erlitou is best considered from the Xia or Shang Dynasties. In fact, Erlitou is central to the discussion concerning whether the Xia Dynasty exists at all. The discovery of writing in the form of oracle bones at Yinxu in Anyang definitively established the site as the last capital of the Shang, but such evidence is unavailable for earlier sites.[NEWLINE][NEWLINE]The earliest known bronzes in China were cast in Erlitou; and its complexity argues that it had a state level of organization. Xia is listed in Zhou Dynasty records as being the first of the bronze age societies, but scholars are divided as to whether this culture existed as a separate entity from the earliest Shang or was a political myth created by the Zhou dynasty leaders to cement their control.[NEWLINE][NEWLINE]The details of Xia recorded in these histories are largely understood to be mythical. Xia is portrayed as a dark place filled with corrupt princes to contrast the Shang and emphasize the emergence of the morally just succeeding dynasties. However, politically motivated fiction does not discount the possibility of the existence of a previous state.[NEWLINE][NEWLINE]Alternatively, Xia, or at least the Erlitou polity, could have co-existed for a period as a rival state to the west of the Shang. It was rare for one dynasty to change peacefully into the next; the dynastic states were often established before the overthrow of an existing reign or continued for a time after they had been defeated.[NEWLINE][NEWLINE]It falls to continued archeological surveys to fully explore the relationship between Erlitou and the Erligang cultures as well as the Xia and Shang Dynasties.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_MOD_STATBOX">
+			<Text>[NEWLINE]        Leader: Yu[NEWLINE]        Unique Unit: Tuo Ma[NEWLINE]        Unique Building: Foundry[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_MOD_FACTOID_HEADING">
+			<Text>Xia Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_MOD_FACTOID_TEXT">
+			<Text>Although concrete archeological evidence for the Xia Dynasty has yet to be found, Erlitou and similar sites prove the existence of at least a contemporaneous Chinese civilization within the larger cultural milieu from which the Shang Dynasty evolved. The relationship between Erlitou and Xia is ultimately a question of if historical accounts written during the Zhou Dynasty were entirely a form of political fiction to justify Zhou rule in light of the Mandate of Heaven or, at least in part, based on actual historical data. Zhou historians could have created the idea of the Xia Dynasty without any knowledge of the actual Erlitou culture which existed along the Yellow River before the Shang period.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_CITY_NAME_XIA_MOD_ERLITOU">
+			<Text>Erlitou</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_SPY_NAME_XIA_MOD_0">
+			<Text>Xiang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_XIA_MOD_1">
+			<Text>Zhu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_XIA_MOD_2">
+			<Text>Huai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_XIA_MOD_3">
+			<Text>Mang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_XIA_MOD_4">
+			<Text>Jie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_XIA_MOD_5">
+			<Text>Nuxi</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_XIA_MOD_6">
+			<Text>Xihe</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_XIA_MOD_7">
+			<Text>Matsu</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_XIA_MOD_8">
+			<Text>Longmu</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_XIA_MOD_9">
+			<Text>Heng'e</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_BUILDING_XIA_MOD_BRONZE_WORKSHOP">
+			<Text>Foundry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_XIA_MOD_BRONZE_WORKSHOP_HELP">
+			<Text>+15 XP for all Units.[NEWLINE][NEWLINE]Contains 1 slot for a Great Work of Art or Artifact which, when filled, increases the [ICON_CULTURE] Culture output of this City by +2% for every Dynasty progressed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_XIA_MOD_BRONZE_WORKSHOP_STRATEGY">
+			<Text>The Xia Foundry provides experience for military units constructed in the city. It also has a slot for a Great Work of Art or Artifact which, when filled, increases the [ICON_CULTURE] Culture output of this City by +2% for every Dynasty progressed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_XIA_MOD_BRONZE_WORKSHOP_TEXT">
+			<Text>Early Chinese bronze casting and pottery was primarily used for ritually significant items rather than primarily utilitarian or military purposes. This production required a large labor force that could handle the mining, refining, and transportation of the necessary copper, tin, and lead ores. This in turn created a need for official managers that could oversee both hard-laborers and skilled artisans and craftsmen. Aristocrats also required a vast amount of different bronze vessels for various ceremonial purposes and events of religious divination.[NEWLINE][NEWLINE]Archeological surveys have unearthed numerous bronze foundries near palatial complexes at Erlitou sites, with Erlitou monopolizing the production of ritual bronze vessels, including the earliest recovered dings, in the area. Production of bronzes and other elite goods ceased at the end of Erlitou Phase IV (ca. 1560-1500 BC); the same time as the Erligang city of Zhengzhou was established 85 km to the east. There is a direct continuation between early bronze work technique and design, including the taotie motif, between the Erlitou and later Erligang culture of the Shang Dynasty. The relationship between Erlitou bronzes and those produced earlier at Qijia in Gansu remains unclear.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_UNIT_SHANG_CHARIOT_MOD">
+			<Text>Tuo Ma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SHANG_CHARIOT_MOD_HELP">
+			<Text>Mobile command Unit. The Tuo Ma increases the amount of experience earned by nearby land Units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SHANG_CHARIOT_MOD_STRATEGY">
+			<Text>The Tuo Ma is a powerful ranged unit, deadly on open terrain. Although slightly slower than the standard Chariot Archer, the Tuo Ma has the unique ability to increase the amount of experience earned by nearby land units. Use this ability to support your army and make sure to keep a Tuo Ma nearby when engaging enemy civilizations or hunting barbarians. Unlike the Chariot Archer, the Tuo Ma does not require horses.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SHANG_CHARIOT_MOD_TEXT">
+			<Text>Traditional sources attribute the invention of the chariot to the Xia Dynasty minister Xi Zhong, and say they were used at the Battle of Gan in the 21st century BC. However, archeological evidence shows that small scale use of the chariot began around 1200 BC in the late Shang Dynasty primarily as mobile command vehicles.[NEWLINE][NEWLINE]Because horses provided crucial motive power, the ma or "horse officer" seems to have been entrusted with proportionately greatly authority. To the extent that chariots formed a core component of the army, the tuo ma ("chief ma") appears to have controlled contingents of the standing army; assumed a command role on the battlefield, being deputed on campaigns to attack enemy states; been entrusted with defensive responsibilities that extended to the ruler; and also directed the royal hunt on occasion.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_PROMOTION_SHANG_CHARIOT">
+			<Text>Mobile Command</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_XIA_CHARIOT_DESC">
+			<Text>Nearby land Units earn experience toward promotions 25% faster.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SHANG_PATRONAGE_0">
+			<Text>Field Orders</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_XIA_PATRONAGE_0_DESC">
+			<Text>Earns experience toward promotions 25% faster.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_XIA_BANNER_ARMY">
+			<Text>Banner Army</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_XIA_BANNER_ARMY_DESC">
+			<Text>Requires no [ICON_GOLD] Gold maintenance.</Text>
+		</Row>
+		<!-- -->
+		<!--
+		<Row Tag="TXT_KEY_XIA_XI_ZHONG">
+			<Text>Xi Zhong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_XI_JIANG_ZIYA">
+			<Text>Jiang Ziya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_FU_HAO">
+			<Text>Fu Hao</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_WUZI">
+			<Text>Wuzi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_PENGBO">
+			<Text>Pengbo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_WUXIAN">
+			<Text>Wuxian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_GAOYU">
+			<Text>Gaoyu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_WEIBO">
+			<Text>Weibo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_FEN">
+			<Text>Fen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_TANG">
+			<Text>Tang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_ZI_XIAO">
+			<Text>Zi Xiao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_KOUFU">
+			<Text>Koufu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_ZI_LIANG">
+			<Text>Zi Liang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_JILI">
+			<Text>Jili</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_WU">
+			<Text>Wu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_GUAN_SHU">
+			<Text>Guan Shu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_SHU_DU">
+			<Text>Shu Du</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_HUO_SHU">
+			<Text>Huo Shu</Text>
+		</Row>
+		-->
+		<!-- -->
+		<Row Tag="TXT_KEY_UNIT_XIA_DYNASTY_DUMMY_DESC">
+			<Text>Xia Unit Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_XIA_DYNASTY_DUMMY_DESC">
+			<Text>Xia Base Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_XIA_DYNASTY_DUMMY_STRATEGY">
+			<Text>This building cannot be constructed but rather facilitates Erlitou's unique abilities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_XIA_DYNASTY_DUMMY_TEXT">
+			<Text>The dynastic cycle is an important political theory in Chinese history. According to this theory, each dynasty rises to a political, cultural, and economic peak and then, because of moral corruption, declines, loses the Mandate of Heaven, and falls, only to be replaced by a new dynasty. The cycle then repeats. This theory sees a continuity in Chinese history from early times to the present by looking at the succession of empires or dynasties, implying that there is little basic development or change in social or economic structures.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SHANG_DYNASTY_DUMMY_DESC">
+			<Text>Shang Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SHANG_DYNASTY_DUMMY_HELP">
+			<Text>+2 [ICON_SCIENCE] Science on sources of [ICON_RES_HORSE] Horse [ICON_RES_SHEEP] Sheep and [ICON_RES_COW] Cattle.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ZHOU_DYNASTY_DUMMY_DESC">
+			<Text>Zhou Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ZHOU_DYNASTY_DUMMY_HELP">
+			<Text>Xia; Specialists generate +1 [ICON_GOLDEN_AGE] Golden Age Points. Shang; Count.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUI_DYNASTY_DUMMY_DESC">
+			<Text>Sui Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUI_DYNASTY_DUMMY_HELP">
+			<Text>[ICON_CAPITAL] Dynastic Capitals reduce total Building Maintenance of nearby non-Puppet Cities by 20%.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TANG_DYNASTY_DUMMY_DESC">
+			<Text>Tang Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TANG_DYNASTY_DUMMY_HELP">
+			<Text>+1 [ICON_PEACE] Faith for each Religion that has at least 1 follower in the City.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SONG_DYNASTY_DUMMY_DESC">
+			<Text>Song Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SONG_DYNASTY_DUMMY_HELP">
+			<Text>1 Free Technology.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MING_DYNASTY_DUMMY_DESC">
+			<Text>Ming Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CHINA_EVER_OWNED_DUMMY_DESC">
+			<Text>Xia Owned Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CHINA_EVER_OWNED_DUMMY_TWO_DESC">
+			<Text>Xia Owned Dummy 2</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MING_DYNASTY_DUMMY_HELP">
+			<Text>Naval Trade Route Length increased by 33%.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_BUILDING_XIA_RITUAL_BRONZE_DUMMY_DESC">
+			<Text>Xia Offering</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_XIA_RITUAL_BRONZE_DUMMY_HELP">
+			<Text>Xia; Increase the [ICON_CULTURE] Culture output of this City by 2% for every Dynasty progressed. Shang; Increases the religious pressure emanating from this City by 25%.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_XIA_RITUAL_BRONZE_DECISION_DUMMY_DESC">
+			<Text>Xia Bronze</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_XIA_RITUAL_BRONZE_DECISIONS_DUMMY_HELP">
+			<Text>+1 [ICON_PEACE] Faith from Foundries.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_XIA_CHOPSTICK_DECISION_DUMMY_DESC">
+			<Text>Xia Chopsticks</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_XIA_CHOPSTICK_DECISION_DUMMY_HELP">
+			<Text>Tile improvement construction speed increased by 15%.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_XIA_ART_HOLDER_DESC">
+			<Text>Xia Art Holder</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_TP_XIA_GA_PLUS">
+			<Text>{1_Num} is added per turn from your Specialists.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_XIA_NAME">
+			<Text>Huaxia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_TT">
+			<Text>Settle your [ICON_CAPITAL] Capital to found a Dynasty.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_TOMATEKH_BUTTON_1_TEXT">
+			<Text>Continue</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_XIA_ERLITOU_GREAT_PERSON">
+			<Text>Divine Ancestor</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_GENERIC_ERLITOU_MOD_INFLUENTIAL_ON_AI_1">
+			<Text>The price of exotic bronzeware has skyrocketed as my people continue to demand new styles of jue and dings. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<!-- -->
+		<!--
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_XIA_YU_MOD">
+			<Text>Tushan-shi</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		-->
+		<!-- -->
+		<!-- -->
+		<!-- -->
+		<!-- -->
+		<Row Tag="TXT_KEY_BUILDING_XIA_SHANG_SWITCH_DESC">
+			<Text>Xia-Shang Switch</Text>
+		</Row>
+		<!-- -->
+		<!-- -->
+		<!-- -->
+		<!-- -->
+		<Row Tag="TXT_KEY_TRAIT_SHANG_DYNASTIC_CYCLE_SHORT">
+			<Text>Oracle Bones</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SHANG_DYNASTIC_CYCLE">
+			<Text>Great People may sacrifice a Pasture based Resource to receive a random bonus effect and create a Great Artifact (this consumes both the Unit and the Resource).</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_ERLITOU_SHANG_MOD_TEXT">
+			<Text>Revered and auspicious Wu Ding, Shaman King of the Shang Dynasty, may the blessing of Heaven forever approve of your reign! As the scattered tribes of the Yellow River began to enter into history, the Shang Dynasty emerged as a cornerstone of Chinese civilization. A pious and warlike state, the Shang quickly united much of the North China Plain. Yet, under their rule writing, science, and art would flourish. The complex bronze work first seen at Erlitou would evolve and join intricate workings of jade, while the first extensive corpus of Chinese writing would develop as kings attempted to divine the heavens. Yet, the dynastic cycle was ever turning. As the Zhou state began to grow in power to the West, the golden age of the Shang Dynasty would soon fade into legend.[NEWLINE][NEWLINE]Gaozong, the bones that were cast have cracked favorably! It is the will of Heaven that you return and once more lead the Huaxia to greatness. Can you restore the glory of your fallen dynasty? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_LEADER_XIA_SHANG_WU_MOD_FIRST_GREETING_1">
+			<Text>Greeting! I am Wu, King of Yin. Let us cast bones and divine if Heaven approves of this meeting.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_SHANG_WU_MOD_FIRST_GREETING_2">
+			<Text>I am Wu Ding, leader of the Huaxia and King of the Shang! What business do barbarians have in my kingdom?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_SHANG_WU_MOD_DEFEATED_1">
+			<Text>A turtle shell foretold of this defeat! It was foolish to think I could defy the will of Heaven.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_SHANG_WU_MOD_DEFEATED_2">
+			<Text>To think I would lose the approval of Heaven to one as unjust and dishonorable as yourself!</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_LEADER_XIA_SHANG_WU_MOD_DESC">
+			<Text>Wu Ding</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_SHANG_WU_MOD_LIVED">
+			<Text>c. 1250 - 1192 BC</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_SHANG_WU_MOD_NAME">
+			<Text>Wu Ding</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_SHANG_WU_MOD_SUBTITLE">
+			<Text>Leader of Shang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_SHANG_WU_MOD_TITLES_1">
+			<Text>King of Yin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_SHANG_WU_MOD_TITLES_2">
+			<Text>Leader of the Shamans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_SHANG_WU_MOD_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_SHANG_WU_MOD_TEXT_1">
+			<Text>Wu Ding was the 21st or 23rd king of the Shang Dynasty, living around 1200 BC. His reign was both the longest of the Shang kings and the earliest verifiable Chinese kingship for which there is both documentary and archaeological evidence. Ruling for 59 years, he demonstrated concern for the people while respecting and recruiting virtuous and capable people for his administration, paving the way for the heyday of the Shang dynasty. He is praised as a leader of dynastic revival and as a model for the enlightened ruler found in later Confucian thought. Wu Ding is widely regarded as one of the greatest kings of the Shang Dynasty.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_SHANG_WU_MOD_HEADING_2">
+			<Text>Reign</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_SHANG_WU_MOD_TEXT_2">
+			<Text>The "Records of the Grand Historian" state that Wu Ding succeeded his brother Xiao Yi in the year of Dingwei and moved the Shang capital to Yin. His personal name was Zhao, and despite his noble birth, Wu Ding was raised among the common folk and therefore knew the hardships faced by peasants. For much of his reign he is said to have demonstrated concern for the common people while respecting and recruiting virtuous and capable people for his administration.[NEWLINE][NEWLINE]Wu Ding was a great general and warrior and was able to defeat the Guifang in the north, the Qiangfang in the west, and the Jingman in the south. These campaigns enlarged the territory of the Shang considerably and helped transformed the Shang kingdom from a citystate to a territorial state. According to oracle bone inscriptions, the average size of the Shang armies was 3,000 or 5,000 troops. During these campaigns, the Shang would capture enemy troops and use them as slaves or for human sacrifice. His armies went on to conquer Dapeng in the forty-third year of his reign, and Tunwei in the fiftieth year of his reign.[NEWLINE][NEWLINE]Wu Ding’s extreme religiosity and superstition are also noteworthy. Although, in general, the king of Shang China was regarded as the authority in religious matters and exercised ultimate control over ritual matters (one of the most important political activities of the day), Wu Ding seems to have exceeded his predecessors. Sima Qian's "Annals of the Yin" even refers to Wu Ding as the "Leader of the Shamans". This has been corroborated by numerous oracle bone fragments recovered at Anyang which were inscribed with Wu Ding’s signature.[NEWLINE][NEWLINE]Wu Ding died in the fifty-ninth year of his reign according to all the sources available. He was later posthumously entitled Gaozong, meaning "Lofty Ancestor".</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_SHANG_WU_MOD_HEADING_3">
+			<Text>Lady Hao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_SHANG_WU_MOD_TEXT_3">
+			<Text>Lady Hao was a favored consort of King Wu Ding. Although not recorded in later historical texts, records of Lady Hao found on oracle bones had already made a name for her by the end of the Qing dynasty. It was common for the Shang king to cultivate allegiances by marrying women from neighboring tribes. Hao entered the royal household through such a marriage and took advantage of the semi-matriarchal slave society to rise through the ranks.[NEWLINE][NEWLINE]In these inscriptions she is shown to have led numerous military campaigns. The Fang had fought against the Shang for generations until they were finally defeated by Hao in a single decisive battle. Further campaigns against the neighboring Yi, Qiang, and Ba followed; the latter is particularly remembered as the earliest recorded large-scale ambush in Chinese history. With up to 13,000 soldiers and important generals Zhi and Hou Gao serving under her, she was the most powerful military leader of her time.[NEWLINE][NEWLINE]Although the Shang king exercised ultimate control over ritual matters, which were the most important political activity of the day, oracle bone inscriptions show that Wu Ding repeatedly instructed Hao to conduct special rituals and offer sacrifices. This was unusual for a woman of that time, and sacrificial bronze vessels and tortoise shells discovered in her tomb further evidence her status as high priestess and oracle caster.[NEWLINE][NEWLINE]Lady Hao also controlled her own fiefdom on the borders of the empire, and was the mother of Prince Jie. She died before Wu Ding, and he constructed a tomb for her on the edge of the royal cemetery at his capital Yin. King Wu Ding and Lady Hao serve nowadays as an exemplary couple in the history of Chinese rulers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_SHANG_WU_MOD_HEADING_4">
+			<Text>Verdict of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_SHANG_WU_MOD_TEXT_4">
+			<Text>Even before archeological excavations at Anyang corroborated Wu Ding's reign, he was considered an important part of Chinese folklore and regarded as an early model for the enlightened ruler which later emerged in Confucian thought. The discovery of the oracle bone inscriptions helped to confirm many of the legendary aspects of his kingship. It appears the Shang Dynasty was, in fact, in a state of decline before Wu Ding inherited the throne and that he helped restore the dynasty to its former glory. The oracle bone inscriptions also list his numerous military victories as well as confirm his religious devotion, also mentioned in the Sima Qian's "Annals of the Yin". It's no wonder that Wu Ding is now widely considered one of the greatest kings of Shang era China.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_SHANG_WU_MOD_HEADING_5">
+			<Text>Factoid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_XIA_SHANG_WU_MOD_TEXT_5">
+			<Text>Wu Ding is the earliest figure in Chinese history whose existence has been confirmed by contemporary records.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_XIA_SHANG_MOD_DESC">
+			<Text>Shang Dynasty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_SHANG_MOD_SHORT_DESC">
+			<Text>Shang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_SHANG_MOD_ADJECTIVE">
+			<Text>Shang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_XIA_SHANG_MOD">
+			<Text>Shang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_SHANG_MOD_TITLE">
+			<Text>Shang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_SHANG_MOD_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_SHANG_MOD_TEXT_1">
+			<Text>The first recorded Chinese dynasty for which there is both documentary and archaeological evidence, the Shang or Yin Dynasty was the reputed successor to semi-legendary Xia Dynasty. The period of the dynasty's rule has traditionally been dated 1766 - 1122 BC; however, more recent archaeological work place these dates closer to 1600 - 1046 BC. It was in this period that Chinese writing began to develop as well as the advancement of the calendar for both lunar and solar cycles. Pottery, jade carvings, and bronze work are among the most notable surviving artifacts, the latter primarily serving a ceremonial function.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_SHANG_MOD_HEADING_2">
+			<Text>Climate and Terrain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_SHANG_MOD_TEXT_2">
+			<Text>According to traditional accounts, the Shang Dynasty ruled the Yellow River valley in the second millennium BC. Before modern dams came to China, the Yellow River was extremely prone to flooding; having flooded an estimated 1,600 times and shifted course 26 times in the last 2,500 years. Although responsible for several deadly natural disasters, the flooding also contributed to the fertility of the surrounding soil, a driving factor in the emergence of Chinese civilization. The Yellow River is generally less suitable for aquaculture than the rivers of central and southern China, such as the Yangtze or the Pearl River, although soft shelled turtles have been a traditional resource of the river.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_SHANG_MOD_HEADING_3">
+			<Text>Traditional Origins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_SHANG_MOD_TEXT_3">
+			<Text>Sima Qian's "Annals of the Yin" begins by describing the predynastic founder of the Shang lineage, Xie as having been miraculously conceived when Jiandi, a wife of Emperor Ku, swallowed an egg dropped by a black bird. Xie is said to have helped Yu the Great to control the Great Flood and for his service to have been granted a place called Shang as a fief.[NEWLINE][NEWLINE]Sima Qian relates that the dynasty itself was founded 13 generations later, when Xie's descendant Tang overthrew the impious and cruel final Xia ruler in the Battle of Mingtiao. The Records recount events from the reigns of Tang, Tai Jia, Tai Wu, Pan Geng, Wu Ding, Wu Yi and the depraved final king Di Xin, but the rest of the Shang rulers are merely mentioned by name. According to the Records, the Shang moved their capital five times, with the final move to Yin in the reign of Pan Geng inaugurating the golden age of the dynasty.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_SHANG_MOD_HEADING_4">
+			<Text>Archeology</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_SHANG_MOD_TEXT_4">
+			<Text>The Erligang culture is a Bronze Age urban civilization and archaeological culture in China that existed from approximately 1500 to 1300 BC. The primary site was discovered at Erligang, within the modern city of Zhengzhou, Henan, in 1951.[NEWLINE][NEWLINE]The culture was centered in the Yellow River valley. In its early years, it expanded rapidly, reaching the Yangtze River, as evidenced by the large site at Panlongcheng in Hubei. Since Zhengzhou lacked access to local bronze metals, sites like Panlongcheng were probably used to secure distant metal resources. The culture then gradually shrank from its early peak. Many Chinese archaeologists believe that the ancient city of Zhengzhou was one of the early capitals of the Shang dynasty mentioned in traditional histories. However many scholars and Western archaeologists have pointed out unlike the later Anyang settlement, no written records have been found at Erligang to link the archaeological remains with the official history.[NEWLINE][NEWLINE]Investigations showed that the Erligang site was part of an ancient city surrounded by a roughly rectangular wall exhibiting techniques dating back to Chinese Neolithic sites of the Longshan culture (c. 3000 - 2000 BC). Large workshops were located outside the city walls, including a bone workshop, a pottery workshop and two bronze vessel workshops. Erligang bronzes developed from the style and techniques of the earlier Erlitou culture, centered 85 km to the west of Zhengzhou. Erligang was the first archaeological culture in China to show widespread use of bronze vessel castings. Bronze vessels became much more widely used and uniform in style than at Erlitou.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_SHANG_MOD_HEADING_5">
+			<Text>Government</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_SHANG_MOD_TEXT_5">
+			<Text>The kings of the Shang are believed to have occupied several capitals one after another, one of them possibly at modern Zhengzhou, where there are rich archaeological finds, but they settled at Anyang in the 14th century BC. The king appointed local governors, and there was an established class of nobles as well as the masses, whose chief labour was in agriculture. The king also served a priestly function, being the prime officer of sacrifice and divination. Oracle bone divinations most frequently contain questions concerning rainfall and flooding.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_SHANG_MOD_HEADING_6">
+			<Text>Culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_SHANG_MOD_TEXT_6">
+			<Text>The architects of the Shang period built houses of timber over rammed-earth floors, with walls of wattle and daub and roofs of thatch. Tombs were dug in clay, and their walls show traces of paintings that strongly resemble some of the ornamentation and animal shapes reflected in the outstanding bronzework of the period. The earliest bronzes of the Shang were primitive, but a course of development is evident that culminates in elegant ceremonial objects as well as a substantial range of cooking and serving dishes and various utensils and ornaments.[NEWLINE][NEWLINE]Pottery objects were abundant, and Shang potters made fired-clay sectional molds for casting bronzes. They also used clay molds to imprint decorations into clay vessels (whose shapes in many cases clearly inspired designs in bronze). Some of the pottery gives evidence of possibly having been shaped on a potter's wheel. Pottery included dishes and bowls in a white glaze for ceremonial and ritual use, as well as black pottery and a rich brown glaze for more mundane purposes.[NEWLINE][NEWLINE]Jade carving became quite advanced during the Shang dynasty; ceremonial weapons of jade were made, as well as jade fittings for actual weapons. Jade figurines included both human and animal shapes, carved in the round in careful detail. Many of these have been found in tombs of the period. Other funerary art ran a gamut in size from tiny objects of jade or carved bone and ivory (sometimes inlaid with turquoise) to chariots of lacquered wood. Larger sculptures in marble followed animal motifs.[NEWLINE][NEWLINE]No literature as such survives from the Shang, but quite numerous records and ceremonial inscriptions and family or clan names exist, carved into or brushed onto bone or tortoise shells. Three kinds of characters were used, pictographs, ideograms, and phonograms, and these records are the earliest of writing in China.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_SHANG_MOD_HEADING_7">
+			<Text>Oracle Bones</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_SHANG_MOD_TEXT_7">
+			<Text>The oracle bones are pieces of turtle shell or bone, normally from ox scapulae or turtle plastrons, which were used for pyromancy in ancient China during the late Shang dynasty. Diviners would submit questions to deities regarding future weather, crop planting, the fortunes of members of the royal family, military endeavors, and other similar topics. Often these were directed to Shangdi, a sky god and head of the ancient Chinese pantheon. These questions were carved onto the bone or shell in oracle bone script using a sharp tool. Intense heat was then applied with a metal rod until the bone or shell cracked due to thermal expansion. The diviner would then interpret the pattern of cracks and write the prognostication upon the piece as well.[NEWLINE][NEWLINE]The oracle bones bear the earliest known significant corpus of ancient Chinese writing and contain important historical information such as the complete royal genealogy of the Shang dynasty. When they were discovered and deciphered in the early twentieth century, these records confirmed the existence of the Shang, which some scholars had until then doubted.[NEWLINE][NEWLINE]The oracle bone script of the late Shang appears pictographic, as does its contemporary, the Shang writing on bronzes. The earliest oracle bone script appears even more so than examples from late in the period (thus some evolution did occur over the roughly 200-year period). Comparing oracle bone script to both Shang and early Western Zhou period writing on bronzes, oracle bone script is clearly greatly simplified, and rounded forms are often converted to rectilinear ones; this is thought to be due to the difficulty of engraving the hard, bony surfaces, compared with the ease of writing them in the wet clay of the molds the bronzes were cast from. The more detailed and more pictorial style of the bronze graphs is thus thought to be more representative of typical Shang writing than the oracle bone script forms, and this typical style continued to evolve into the Zhou period writing and then into the seal script of the Qin in the late Zhou period.[NEWLINE][NEWLINE]It is certain that Shang-lineage writing underwent a period of development before the Anyang oracle bone script, because of its mature nature. However, no significant quantity of clearly identifiable writing from before or during the early to middle Shang cultural period has been discovered. The few Neolithic symbols found on pottery, jade, or bone at a variety of cultural sites in China are very controversial, and there is no consensus that any of them are directly related to the Shang oracle bone script.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_SHANG_MOD_HEADING_8">
+			<Text>Military</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_SHANG_MOD_TEXT_8">
+			<Text>Bronze weapons were an integral part of Shang society. Shang infantry were armed with a variety of stone and bronze weaponry, including spears, pole-axes, dagger-axes, composite bows, and bronze or leather helmets. The chariot first appeared in China during the reign of Wu Ding. Oracle bone inscriptions suggest that the western enemies of the Shang used limited numbers of chariots in battle, but the Shang themselves used them only as mobile command vehicles and in royal hunts. It is little doubt that the chariot entered China through the Central Asia and the Northern Steppe, possibly indicating some form of contact with the Indo-Europeans. Recent archaeological finds have shown that the late Shang practiced horse burials that are similar to the steppe peoples to the west. A crucial factor in the Zhou conquest of the Shang may have been their more effective use of chariots.[NEWLINE][NEWLINE]Although the Shang depended upon the military skills of their nobility, Shang rulers could mobilize the masses of town-dwelling and rural commoners as conscript laborers and soldiers for both campaigns of defense and conquest. Aristocrats and other state rulers were obligated to furnish their local garrisons with all necessary equipment, armor, and armaments. The Shang king maintained a force of about a thousand troops at his capital and would personally lead this force into battle. A rudimentary military bureaucracy was also needed in order to muster forces ranging from three to five thousand troops for border campaigns to thirteen thousand troops for suppressing rebellions against Shang dynasty.</Text>
+		</Row>		
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_SHANG_MOD_HEADING_9">
+			<Text>Decline</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_SHANG_MOD_TEXT_9">
+			<Text>Di Xin, the last Shang king, is said to have committed suicide after his army was defeated by Wu of Zhou. Legends say that his army and his equipped slaves betrayed him by joining the Zhou rebels in the decisive Battle of Muye. According to the Yi Zhou Shu and Mencius the battle was very bloody. The classic, Ming-era novel Fengshen Yanyi retells the story of the war between Shang and Zhou as a conflict where rival factions of gods supported different sides in the war.[NEWLINE][NEWLINE]After the Shang were defeated, King Wu allowed Di Xin's son Wu Geng to rule the Shang as a vassal kingdom. However, Zhou Wu sent three of his brothers and an army to ensure that Wu Geng would not rebel. After Zhou Wu's death, the Shang joined the Rebellion of the Three Guards against the Duke of Zhou, but the rebellion collapsed after three years, leaving Zhou in control of Shang territory. Afterwards, Zhou's rulers forcibly relocated Yin loyalists and scattered them throughout Zhou territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_SHANG_MOD_HEADING_10">
+			<Text>Mandate of Heaven</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_SHANG_MOD_TEXT_10">
+			<Text>The Mandate of Heaven is an ancient Chinese belief and philosophical idea that tian (heaven) granted emperors the right to rule based on their ability to govern well and fairly. Chinese historians interpreted a successful revolt as evidence that the Mandate of Heaven had passed. A successful rebellion was interpreted by Chinese historians as evidence of that divine approval had passed on to the successive dynasty.[NEWLINE][NEWLINE]The concept of the Mandate of Heaven was first used to support the rule of the kings of the Zhou dynasty, and their overthrow of the earlier Shang dynasty. The Zhou explained their right to assume rule as coming from the will of heaven. They believed that the Shang ruling house had become morally corrupt, and that the Shang leaders' loss of virtue entitled their own house to take over. The overthrow of the Shang Dynasty, they said, was in accordance with the mandate given by Heaven.</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_SHANG_MOD_STATBOX">
+			<Text>[NEWLINE]        Leader: Wu Ding[NEWLINE]        Unique Unit: Tuo Ma[NEWLINE]        Unique Building: Foundry[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_SHANG_MOD_FACTOID_HEADING">
+			<Text>Shang Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_XIA_SHANG_MOD_FACTOID_TEXT">
+			<Text>Although traditional accounts place the Shang as the second Chinese dynasty following the Xia, the Shang Dynasty remains the oldest verifiable dynasty according to historical record. Shang itself was long thought to be legend until the discovery of oracle bone fragments in the early 1900s. Recent excavations have attempted to correlate the Xia Dynasty with Erlitou archeological sites, but, as these sites pre-date Chinese writing (at least on a non-perishable medium), such claims are unlikely to be corroborated.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_CITY_NAME_XIA_SHANG_MOD_YIN">
+			<Text>Yin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XIA_SHANG_MOD_BO">
+			<Text>Bo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XIA_SHANG_MOD_FAN">
+			<Text>Fan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XIA_SHANG_MOD_XIAO">
+			<Text>Xiao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XIA_SHANG_MOD_DISHI">
+			<Text>Dishi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XIA_SHANG_MOD_BI">
+			<Text>Bi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XIA_SHANG_MOD_YANSHI">
+			<Text>Yanshi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XIA_SHANG_MOD_XIANG">
+			<Text>Xiang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XIA_SHANG_MOD_SHANGQIU">
+			<Text>Shangqiu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XIA_SHANG_MOD_PUGU">
+			<Text>Pugu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XIA_SHANG_MOD_AO">
+			<Text>Ao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XIA_SHANG_MOD_GENG">
+			<Text>Geng</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XIA_SHANG_MOD_BEIMENG">
+			<Text>Beimeng</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XIA_SHANG_MOD_MO">
+			<Text>Mo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XIA_SHANG_MOD_CHAOGE">
+			<Text>Chaoge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XIA_SHANG_MOD_SHIXIANGGOU">
+			<Text>Shixianggou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XIA_SHANG_MOD_YAN">
+			<Text>Yan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XIA_SHANG_MOD_PANLONGCHENG">
+			<Text>Panlongcheng</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XIA_SHANG_MOD_HUANBEI">
+			<Text>Huanbei</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XIA_SHANG_MOD_ZHENGZHOU">
+			<Text>Zhengzhou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XIA_SHANG_MOD_XINGAN">
+			<Text>Xingan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XIA_SHANG_MOD_DANSHAN">
+			<Text>Danshan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XIA_SHANG_MOD_MINGTIAO">
+			<Text>Mingtiao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XIA_SHANG_MOD_MUYE">
+			<Text>Muye</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_BUILDING_XIA_SHANG_MOD_BRONZE_WORKSHOP_HELP">
+			<Text>+15 XP for all Units.[NEWLINE][NEWLINE]Contains 1 slot for a Great Work of Art or Artifact which, when filled, increases the religious pressure emanating from this City by 25%.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_XIA_SHANG_MOD_BRONZE_WORKSHOP_STRATEGY">
+			<Text>The Xia Foundry provides experience for military units constructed in the city. It also has a slot for a Great Work of Art or Artifact which, when filled, increases the religious pressure emanating from this City by 25%.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_DECISIONS_XIA_SHANG_DA_YI">
+			<Text>Da Yi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DECISIONS_XIA_SHANG_DA_DING">
+			<Text>Da Ding</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DECISIONS_XIA_SHANG_DA_JIA">
+			<Text>Da Jia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DECISIONS_XIA_SHANG_DA_GENG">
+			<Text>Da Geng</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DECISIONS_XIA_SHANG_DA_WU">
+			<Text>Da Wu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DECISIONS_XIA_SHANG_ZHONG_DING">
+			<Text>Zhong Ding</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DECISIONS_XIA_SHANG_ZU_YI">
+			<Text>Zu Yi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DECISIONS_XIA_SHANG_ZU_XIN">
+			<Text>Zu Xin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DECISIONS_XIA_SHANG_ZU_DING">
+			<Text>Zu Ding</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DECISIONS_XIA_SHANG_XIAO_YI">
+			<Text>Xiao Yi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DECISIONS_XIA_SHANG_ZU_JIA">
+			<Text>Zu Jia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DECISIONS_XIA_SHANG_KANG_DING">
+			<Text>Kang Ding</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DECISIONS_XIA_SHANG_WU_JIA">
+			<Text>Wu Jia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DECISIONS_XIA_SHANG_WEN_WU_DING">
+			<Text>Wen Wu Ding</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DECISIONS_XIA_SHANG_DI_YI">
+			<Text>Di Yi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DECISIONS_XIA_SHANG_DI_XIN">
+			<Text>Di Xin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DECISIONS_XIA_SHANG_BU_BING">
+			<Text>Bu Bing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DECISIONS_XIA_SHANG_LU_JI">
+			<Text>Lu Ji</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DECISIONS_XIA_SHANG_QIANG_JIA">
+			<Text>Qiang Jia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DECISIONS_XIA_SHANG_NAN_GENG">
+			<Text>Nan Geng</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DECISIONS_XIA_SHANG_BU_REN">
+			<Text>Bu Ren</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DECISIONS_XIA_SHANG_LIN_XIN">
+			<Text>Lin Xin</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_GREAT_WORK_XIA_SHANG_DA_YI">
+			<Text>Oracle Bone</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_XIA_SHANG_DA_DING">
+			<Text>Cracked Dragon Bone</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_XIA_SHANG_DA_JIA">
+			<Text>Dragon Bone</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_XIA_SHANG_DA_GENG">
+			<Text>Turtle Shell</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_XIA_SHANG_DA_WU">
+			<Text>Cracked Turtle Shell</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_XIA_SHANG_ZHONG_DING">
+			<Text>Ox Scapula</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_XIA_SHANG_ZU_YI">
+			<Text>Cracked Ox Scapula</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_XIA_SHANG_ZU_XIN">
+			<Text>Turtle Plastron</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_XIA_SHANG_ZU_DING">
+			<Text>Cracked Turtle Plastron</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_XIA_SHANG_XIAO_YI">
+			<Text>Ox Rib</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_XIA_SHANG_ZU_JIA">
+			<Text>Cracked Ox Rib</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_XIA_SHANG_KANG_DING">
+			<Text>Deer Skull</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_XIA_SHANG_WU_JIA">
+			<Text>Sheep Scapula</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_XIA_SHANG_WEN_WU_DING">
+			<Text>Horse Scapula</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_XIA_SHANG_DI_YI">
+			<Text>Boar Scapula</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_XIA_SHANG_DI_XIN">
+			<Text>Ox Skull</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_XIA_SHANG_BU_BING">
+			<Text>Deer Scapula</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_XIA_SHANG_LU_JI">
+			<Text>Cracked Deer Skull</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_XIA_SHANG_QIANG_JIA">
+			<Text>Cracked Horse Scapula</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_XIA_SHANG_NAN_GENG">
+			<Text>Cracked Boar Scapula</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_XIA_SHANG_BU_REN">
+			<Text>Cracked Sheep Scapula</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_XIA_SHANG_LIN_XIN">
+			<Text>Cracked Ox Skull</Text>
+		</Row>				
+		<!-- -->
+		<Row Tag="TXT_KEY_XIA_SHANG_GREAT_PERSON">
+			<Text>Shaman King</Text>
+		</Row>
+		<!-- -->
+		<!--
+		<Row Tag="TXT_KEY_GENERIC_ERLITOU_MOD_INFLUENTIAL_ON_AI_1">
+			<Text>My people have become obsessed with pyromancy and refuse to make a decision unless turtle shells crack a certain way... I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		-->
+		<!-- -->
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_XIA_YU_MOD">
+			<Text>Fu Hao</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- -->
+	</Language_en_US>	
+</GameData>

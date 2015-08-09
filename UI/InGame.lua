@@ -1415,6 +1415,13 @@ ContextPtr:LoadNewContext("RevolucionarioAnarchies")
 ContextPtr:LoadNewContext("WarGeneral")
 ContextPtr:LoadNewContext("IndependenceScripts")
 
+-- Nation - Xia --
+ContextPtr:LoadNewContext("Xia Mod Check")
+ContextPtr:LoadNewContext("XiaDynastyPopup")
+ContextPtr:LoadNewContext("XiaCapturePopup")
+ContextPtr:LoadNewContext("Shang Mod Check")
+ContextPtr:LoadNewContext("ShangOraclePopup")
+
 -- Nation - Canada --
 ContextPtr:LoadNewContext("BonusTradeVoyageurs")
 ContextPtr:LoadNewContext("CanadianBrotherhoodScript")

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<UnitClasses>
+		<Row>
+			<Type>UNITCLASS_XIA_DYNASTY_DUMMY</Type>
+			<Description>TXT_KEY_UNIT_XIA_DYNASTY_DUMMY_DESC</Description>
+			<DefaultUnit>UNIT_XIA_DYNASTY_DUMMY</DefaultUnit>
+		</Row>
+	</UnitClasses>
+	<Civilization_UnitClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<UnitClassType>UNITCLASS_XIA_DYNASTY_DUMMY</UnitClassType>
+			<UnitType/>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MINOR</CivilizationType>
+			<UnitClassType>UNITCLASS_XIA_DYNASTY_DUMMY</UnitClassType>
+			<UnitType/>
+		</Row>
+	</Civilization_UnitClassOverrides>
+</GameData>
