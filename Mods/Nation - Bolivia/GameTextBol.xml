@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/18/2013 1:17:48 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_NOTIFICATION_ENTRADA">
+			<Text>Entrada Folklórica!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_ENTRADA_DESC">
+			<Text>The people of {1_City} are celebrating a [COLOR_POSITIVE_TEXT]"We Love the King Day"[ENDCOLOR] dancing a {2_Dance}!</Text>
+		</Row>
+<Row Tag="TXT_KEY_CAUDILLO_01">	
+	<Text>José Ballivián</Text>
+</Row>	
+<Row Tag="TXT_KEY_CAUDILLO_02">	
+	<Text>Mariano Melgarejo</Text>
+</Row>	
+<Row Tag="TXT_KEY_CAUDILLO_03">	
+	<Text>José María de Achá</Text>
+</Row>	
+<Row Tag="TXT_KEY_CAUDILLO_04">	
+	<Text>Plácido Yañez</Text>
+</Row>	
+<Row Tag="TXT_KEY_CAUDILLO_05">	
+	<Text>Gregorio Pérez</Text>
+</Row>	
+<Row Tag="TXT_KEY_CAUDILLO_06">	
+	<Text>Mariano Melgarejo</Text>
+</Row>	
+<Row Tag="TXT_KEY_CAUDILLO_07">	
+	<Text>Mariano Melgarejo</Text>
+</Row>	
+<Row Tag="TXT_KEY_CAUDILLO_08">	
+	<Text>Jorge Córdova</Text>
+</Row>	
+<Row Tag="TXT_KEY_CAUDILLO_09">	
+	<Text>Agustín Morales</Text>
+</Row>	
+<Row Tag="TXT_KEY_CAUDILLO_10">	
+	<Text>Mariano Melgarejo</Text>
+</Row>	
+
+		<Row Tag="TXT_KEY_CIV_BOLIVIA_ADJECTIVE">
+			<Text>Bolivian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_BOLIVIA_DESC">
+			<Text>Bolivia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_BOLIVIA_SHORT_DESC">
+			<Text>Bolivia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BOLIVIA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BOLIVIA_TEXT_1">
+			<Text>
+				Greetings to you, Manuel Isidoro Belzu. You led the multitudinary Bolivian civilization and were part of the armies that secured the Independency of South America.
+				[NEWLINE][NEWLINE]Bolivia is a country with deep diversity, both cultural and geographical. This setting, however, led to many clashes between every culture and social class in the land, making Bolivia a land both of revolutions and discrimination. However, it also led to many unions, represented by the religious syncretism and the folklorical festivities. [NEWLINE][NEWLINE]In your time, you managed to give a blow against the discrimination of the ruling oligarchy, by giving the native people rights they lacked even after. Bolivia still lives in the conflicts of class and racial discrimination, and humble people still have to fight for their rights. But they still call for a leader. Will you grant them the chance to live well together? Will you build a civilization that will stand the test of time?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_BELZU_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_BELZU_TEXT_1">
+			<Text>
+				Manuel Isidoro Belzu Humerez (14 April 1808 – 23 March 1865) was president of Bolivia from 1848 to 1855. Born in La Paz, Bolivia to humble mestizo parents, Belzu was educated by Franciscan friars. He joined the wars of independence in his youth, fighting under Andres de Santa Cruz at Zepita (1823) when he was 17. After serving as an aide to Agustin Gamarra, he left the Peruvian army when the latter entered Bolivia in 1828. Assigned as garrison commander to Tarija, Belzu married "up" in class by wedding a beautiful and intellectual Argentine lady, Juana Manuela Gorriti, who resided there with her family. [NEWLINE][NEWLINE]
+				Belzu fought in the battles of the Peru-Bolivian Confederacy, during which he was promoted to the post of Army commander by President Jose Ballivian. He had fought bravely under his orders at the Battle of Ingavi (1841).[NEWLINE][NEWLINE]Originally a close friend and supporter of President Ballivian, Belzu turned against him about 1845. Ballivian had reportedly attempted to seduce Belzu's wife in his own Oruro home. Surprising the President there, Belzu shot at him and barely missed. The event sealed an undying enmity between the two that would never abate. Political ambitions—typical of upper-level Bolivian military officers at the time—may have played a role in addition to the personal reasons. Belzu decided at that point to try to topple the "Hero of Ingavi" from the presidency. Withdrawing to the countryside (orders for his arrest for the attempted murder of the President had been issued), Belzu never ceased to conspire against his former friend.[NEWLINE][NEWLINE]Belzu's political stance became more populist as he embraced his mestizo heritage, railed against the power of the "white" oligarchy, and vowed to advance the cause of the poor and the Indian should he come to the presidency. In his travels as a fugitive, Belzu had seen the deplorable conditions under which most of the population lived, with scarcely any improvements or public works by the government. His position established a strong base of support among the peasants, who came to know him as "Tata (Father, or Protector) Belzu."[NEWLINE][NEWLINE]Another, more conventional anti-Ballivian insurgent group was commanded by the ambitious former president, Jose Miguel de Velasco. As a warlord, he led his army in competition with that of Belzu in the race to topple the President. The embattled Ballivian found the country ungovernable, and in December 1847 he fled to exile abroad. He left the government in the hands of General Eusebio Guilarte, head of the Council of State and legally second-in-line to the presidency.[NEWLINE][NEWLINE]At this point Belzu made a pact with Velasco to support the latter's accession to the Presidency while Belzu took the position of Minister of War. Belzu quickly betrayed Velasco and had his troops proclaim him as President. A bloody counter-coup by General Velasco had to be put down, with Belzu's commanding the troops that crushed Velasco's. By the end of the year, Belzu had destroyed the opposition (both Ballivian and Velasco) and consolidated his power as the sole de facto president of Bolivia.	[NEWLINE][NEWLINE]As promised, Belzu led his government in undertaking populist measures, but he also wanted to maintain strong control over power. Most of Belzu's reforms were cosmetic, although his political statements were more liberal than any president's had been since Sucre. capitalizing on his relative popularity, Belzu managed to legitimize his rule by becoming democratically elected. He faced constant opposition and rebellions from the pro-Ballivian camp, from ambitious fellow military warlords, and later, from the pro-Linares faction that coalesced as a united front against military caudillism. Belzu's protectionist economic policies were opposed by Great Britain and the United States, and isolated Bolivia from the global economy and ongoing intellectual trends. Although popular with the masses due to his statist policies (contrary to prevailing notions), Belzu never lacked enemies among the powerful, whose interests he threatened. He barely survived a well-planned assassination attempt in Sucre, carried out by Agustin Morales, then an obscure mid-ranking officer but one who would later become president.[NEWLINE][NEWLINE]By the early 1850s, Belzu dispensed with any pretense of democratic norms and ruled despotically. Following a prolonged, 7-year rule, in 1855 a weary Belzu decided to "retire". He ran elections in which he sponsored the candidacy of his loyal son-in-law, General Jorge Cordova. The latter was duly elected over Jose Maria Linares (perhaps with the help of at least some degree of official fraud), and for two years ruled Bolivia as a virtual proxy of the powerful former president. During this time, Belzu served as his country's Plenipotentiary in Europe.[NEWLINE][NEWLINE]Cordova was overthrown in an 1857 coup d'etat. Still acting as Belzu's proxy, he was murdered after being caught plotting against President Jose Maria de Acha in 1862. This galvanized Belzu despite his age, who returned to Bolivia and raised an army, with the hope of returning to the presidency and avenging the death of his son-in-law. Never flagging in his campaign, Belzu came close to becoming President for a second time in 1864 when Acha finally fled Bolivia. Another general, Mariano Melgarejo, preceded Belzu's forces to the government palace of La Paz, by then the country's largest city and the defacto seat of government. Belzu tried to besiege the city, but Melgarejo, also a mestizo, became as popular as the "Tata."[NEWLINE][NEWLINE]Purportedly to avoid bloodshed, Melgarejo sent an emissary to Belzu, and invited him to the Government Palace to make a pact to share power in his administration. He reportedly offered to cede power to the former President in exchange for some concessions. Trusting Melgarejo, Belzu arrived at the Palace and was assassinated in January 1865 on its grounds, presumably at the hands of the new dictator and caudillo.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_BELZU_LIVED">
+			<Text>14 April 1808 – 23 March 1865 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_BELZU_NAME">
+			<Text>Manuel Isidoro Belzu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_BELZU_SUBTITLE">
+			<Text>Populist President</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BELZU">
+			<Text>Belzu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_BELZU_TITLES_1">
+			<Text>President of the Republic of Bolivia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_BELZU_TITLES_2">
+			<Text>"Tata" Belzu</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TRAIT_SYNCRETISM">
+			<Text>Cities generate +1 [ICON_CULTURE] Culture and +2 [ICON_GREAT_PEOPLE] Great Musician points for every religion being followed. During "We Love the King" days they generate +2 [ICON_HAPPINESS_1] Happiness and +2 [ICON_TOURISM] Tourism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SYNCRETISM_SHORT">
+			<Text>Religiosidad Popular</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BOLIVIA_COLORADO">
+			<Text>Colorado</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_COLORADO">
+			<Text>The Colorado receives no penalty from hills or jungles, unlike the Rifleman which it replaces. They also earn extra combat if the empire is happy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_COLORADO_TEXT">
+			<Text>
+				The arms is round with a picture of a kneeling soldier of the Colorados in full dress uniform in the middle, with a rainbow above him. The new regimental colour guidon (since 2010) has the arms in the center, in the middle of the national colors of the Wiphala, the new colour of the Bolivian Armed Forces, and also has the regiment's foundation date (and the year of the new guidon when it was received) in white lettering below the heraldic arms. The regiment's second guidons (for companies) is in red with the standard arms of Bolivian infantry regiments: a Stahlhelm with the national flag (and nowadays a sticker of the Wiphala) on top in the middle of two crossed sabres, with the regiment's title surrounding it, written in white lettering.[NEWLINE][NEWLINE]The 1st Regiment of Foot Infantry "Bolivian Colorados" National Presidential Escort Regiment (Regimiento 1ro. de Infanteria "Colorados de Bolivia") of the Bolivian Army, formerly the 39th Line Infantry Battalion "Colorados" is one of the Army's oldest and most prestigious infantry regiments. It is headquartered in La Paz's Miraflores District, and is under the direct supervision of Bolivian Army headquarters.[NEWLINE][NEWLINE]Established in 1821, this regiment is mostly a ceremonial unit, being the escort security regiment of the President of Bolivia. This is the Bolivian Army's most represented unit, having a close connection with the Bolivian people, whatever their race, and has a contribution to national history. [NEWLINE][NEWLINE]The Regiment was raised in 1821 as the nation, then as part of the both the Viceroy of Lima and the then United Provinces of the Rio del Plata, was fighting the Spanish American wars of independence as guerrilla units siding with the Buenos Aires and Lima independent governments then.[NEWLINE][NEWLINE]In 1821, the Colorados Regiment's first references were to a militia unit led by the Upper Peru guerrilla leader Jose Miguel Lanza and had among its rosters future national heroes of Bolivia like Jose Ballivian, Mariano Torrelio and Manuel Deheza, who were fighting for Upper Peru's independence from Spain.[NEWLINE][NEWLINE]It was in 1857 when the Colorados made their appearance as the 39th Line Infantry Battalion "Colorados" under the leadership of then regimental commander Placido Yanez. It was the Bolivian Army's elite infantry unit, and was known then for its extreme discipline. Col. Yanez made the regiment's famous slogan: "The love of the arms enters the heart".[NEWLINE][NEWLINE]By then, the battalion would begin to be the principal unit of the Bolivian Army, and under the administration of President Hilarion Daza it became the presidential escort and security unit. It would later earn the nickname "Daza's Colorados" for this reason alone. It was then composed of 570 personnel. Most of them were his friends and relatives, all but sometimes members of the Bolivian Army as enlisted personnel and non-commissioned officers while only a few were officers.[NEWLINE][NEWLINE]During the War of the Pacific Bolivia alongside Peru fought for their respective nations' mining interests against the Chilean forces. Bolivia's contributions to the war included 2 cavalry squadrons, an artillery battery and three infantry battalions, all equipped with fusils and rifles, among them being the Bolivian Colorados. They formed the Bolivian Army under President Daza's leadership as Commander in Chief.[NEWLINE][NEWLINE]As part of the combined Bolivian-Peruvian Allied Army, the Bolivian Colorados contributed their hard work to bring victory to the combined armies, at the cost of their lives. The Colorados were in action in some of the great battles of the war, including the Battle of Dolores where the Camarones betrayal happened, and the Battle of Tacna, where it was listed and then renamed as the 1st Alliance Infantry Battalion, now part of the forces under the new army chief President Narciso Campero. Most of the time however, before the fighting in Tacna, it was always on the reserve, due to the belated formations of infantry battalions.[NEWLINE][NEWLINE]May 26 is Infantry Day in Bolivia in recognition of the Colorados' bravery throughout the whole battle of Tacna, led by regimental commander Colonel Ildefonso Murguia Anze and regimental drummer Juan Pinto. This battle was where the Colorados shouted their battle cry: Temblad rotos, que aqui entran los Colorados de Bolivia! (Rotos, be shaken, because the Colorados of Bolivia have come!) and formed a gallant defense alongside their Peruvian allies. Every year (except in 2009) the Colorados come back to the place of their glorious exploits to commemorate the Bolivians' gallantry and courage seen in this battle.[NEWLINE][NEWLINE]In 2004, through Law 2922 of President of Bolivia Carlos Mesa, the Regiment's actions in Tacna were rewarded with all who were in the Regiment in that battle serving under the colors were officially declared as National Heroes of Bolivia.[NEWLINE][NEWLINE]As part of the National Army of Bolivia in 1903 (led by President of Bolivia Jose Manuel Pando), it fought in the Acre War for Bolivian control of that region.[NEWLINE][NEWLINE]Its second act of bravery to the flag was, when in the Battle of Cañada Strongest during the Chaco War, the Bolivian Colorados, now a full regiment of infantry, fought against the Paraguayan army and came out in triumph, having captured the 3rd Btn., Lomas Valentinas Regiment of the Paraguayan Army. It also took part in other Bolivian actions during the war.[NEWLINE][NEWLINE]As one of the Bolvian Army's missions is for internal security, it is no wonder that the Colorados were involved in anti-guerrilla operations, supported by the United States, against the guerrillas led by Che Guevara in 1967 in places like Nancahuazu, Ovelo, El Espino, and many others.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BOLIVIA_COLORADO_STRATEGY">
+			<Text>Colorados are best suited for defense. It's important to use them to protect luxury resources, so no happiness is lost.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_COMPARSA_FOLKLORICA">
+			<Text>Comparsa Folklórica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_COMPARSA_FOLKLORICA_TEXT">
+			<Text>
+				Bolivia is one of the richest countries in traditions, rites, costumes, dances and customs maintained since the colonial days until our days.
+
+				[NEWLINE][NEWLINE]The traditions of the former populations mingled with the traditions of the Spanish colonizers to achieve the half-breed customs and traditions that since then they are kept by a part of the population and they are revived in the folkloric feasts of the country, among which the following are outstanding:
+
+				[NEWLINE][NEWLINE]In these festivities dancing groups, like La Diablada (Devil's dance). Morenada (Colonial Black Foremen dances), The Inkas, the Pujllay, the Caporales (the harsh Foremen, the Saya Afro-Boliviana the Llamarada (the llama-drivers dance), the Ahuatiris (the water carriers), the Tarqueada (a typical flute group of players and dancers), the Tinkus (native fighter-dancer), the Suri and many others.
+
+				[NEWLINE][NEWLINE]The festivities present hundreds of dancers in a spree of colors and merriment in a strange mingles of paganism and Catholicism.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_COMPARSA_FOLKLORICA_STRATEGY">
+			<Text>Bolivian replacement for Great Musicians. Aside from creating Great Works of Music and performing tours, the Comparsa may be expended by moving it into a city's tile, starting a 10 turn "We Love the King" Day </Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BOLIVIA_0">
+			<Text>Olañeta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BOLIVIA_1">
+			<Text>Ayala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BOLIVIA_2">
+			<Text>Ballivián</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BOLIVIA_3">
+			<Text>Pinto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BOLIVIA_4">
+			<Text>Paredes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BOLIVIA_5">
+			<Text>Lanza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BOLIVIA_6">
+			<Text>Pérez</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BOLIVIA_7">
+			<Text>Azurduy</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BOLIVIA_8">
+			<Text>Pacheco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BOLIVIA_9">
+			<Text>Morales</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SUBORDINATIONCONSTANCE">
+			<Text>Animosity</Text>
+		</Row>
+		<Row Tag="TXT_PROMOTION_SUBORDINATIONCONSTANCE_HELP">
+			<Text>Receives extra Combat while the empire is happy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FESTIVE">
+			<Text>Festive</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FESTIVE_HELP">
+			<Text>This unit may start a "We love the King Day" when going into a city's tile!</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_BUILDING_BOLIVIAN_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BOLIVIAN">
+			<Text>Free Great Work Slots</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

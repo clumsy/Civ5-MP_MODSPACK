@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/18/2013 1:17:48 PM -->
+<GameData>
+	<Language_en_US>
+<Row Tag="TXT_KEY_NOTIFICATION_ENTRADA">
+			<Text>Entrada Folklórica!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_ENTRADA_DESC">
+			<Text>La gente de {1_City} están celebrando una entrada bailando {2_Dance}!</Text>
+		</Row>
+<Row Tag="TXT_KEY_CAUDILLO_01">	
+	<Text>José Ballivián</Text>
+</Row>	
+<Row Tag="TXT_KEY_CAUDILLO_02">	
+	<Text>Mariano Melgarejo</Text>
+</Row>	
+<Row Tag="TXT_KEY_CAUDILLO_03">	
+	<Text>José María de Achá</Text>
+</Row>	
+<Row Tag="TXT_KEY_CAUDILLO_04">	
+	<Text>Plácido Yañez</Text>
+</Row>	
+<Row Tag="TXT_KEY_CAUDILLO_05">	
+	<Text>Gregorio Pérez</Text>
+</Row>	
+<Row Tag="TXT_KEY_CAUDILLO_06">	
+	<Text>Mariano Melgarejo</Text>
+</Row>	
+<Row Tag="TXT_KEY_CAUDILLO_07">	
+	<Text>Mariano Melgarejo</Text>
+</Row>	
+<Row Tag="TXT_KEY_CAUDILLO_08">	
+	<Text>Jorge Córdova</Text>
+</Row>	
+<Row Tag="TXT_KEY_CAUDILLO_09">	
+	<Text>Agustín Morales</Text>
+</Row>	
+<Row Tag="TXT_KEY_CAUDILLO_10">	
+	<Text>Mariano Melgarejo</Text>
+</Row>	
+
+
+		<Row Tag="TXT_KEY_LEADER_BELZU_FIRSTGREETING_1">
+			<Text>¡Bienvenido a Bolivia! Espero que tú no seas como los cerdos oligarcas que tenemos por aquí</Text>
+		</Row>
+
+		<!--Defeated and removed from game -->
+		<Row Tag="TXT_KEY_LEADER_BELZU_DEFEATED_1">
+			<Text>
+				Ah vaya, este trabajo se ha vuelto muy molesto... Bolivia se ha tornado ingobernable...
+			</Text>
+		</Row>
+
+	
+
+		<Row Tag="TXT_KEY_CIV_BOLIVIA_ADJECTIVE">
+			<Text>boliviano|boliviana|bolivianos|bolivianas</Text>
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_BOLIVIA_DESC">
+			<Text>Bolivia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_BOLIVIA_SHORT_DESC">
+			<Text>Bolivia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BOLIVIA_HEADING_1">
+			<Text>Historia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BOLIVIA_TEXT_1">
+			<Text>
+				Saludos a ti, Manuel Isidoro, el Tata Belzu. Lideraste al multitudinario país de Bolivia, y fuiste parte de las armadas que aseguraron la independencia de Sud América.
+				[NEWLINE][NEWLINE]Bolivia es un país con una profunda diversidad, tanto geográfica como cultural. Este ambiente, sin embargo, llevó a muchos choques entre distintas clases sociales e identidades culturales, haciendo de Bolivia un país de revoluciones y discriminaciones. Pero esto también llevó a muchas uniones, representadas especialmente por el sincretismo religioso y las festividades folklóricas.
+				[NEWLINE][NEWLINE]En tu tiempo, lograste dar un golpe en contra de la discriminación de la oligarquía dominante, al dar derechos a los nativos y artesanos que incluso después no tuvieron. Bolivia aún vive en medio de conflictos raciales y sociales, y la gente humilde aún lucha por sus derechos. Pero ellos buscan un líder. ¿Les darás la chance de vivir bien juntos? ¿Construirás una civilización que soporte las pruebas del tiempo?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_BELZU_HEADING_1">
+			<Text>Historia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_BELZU_TEXT_1">
+			<Text>
+				Manuel Isidoro Belzú Humerez (La Paz, 4 de abril de 1808 - La Paz, 23 de marzo de 1865), fue militar y Presidente de Bolivia de 1848 a 1855. Ejerció un gran ascendiente sobre la gran masa de indios y mestizos, lo que le permitió subir al poder. Estuvo casado con la escritora argentina Juana Manuela Gorriti.
+
+				[NEWLINE][NEWLINE]Nacido en una familia humilde, cursó estudios en el convento de San Francisco de La Paz. En 1823, cuando contaba con quince años, se unió al ejército patriota del general Andrés de Santa Cruz, durante la Primera Campaña de Intermedios. Participó en la batalla de Zepita y en la desordenada retirada hacia la costa. Tomado prisionero por los españoles, fue devuelto a su hogar en consideración de su corta edad. En 1825 marchó nuevamente al Perú y se incorporó como soldado en el ejército peruano, llegando a ser ayudante de Francisca Zubiaga y Bernales, la famosa “mariscala”. Regresó a Bolivia antes de producirse la invasión peruana de Bolivia de 1828 e ingresó al ejército boliviano.
+
+				[NEWLINE][NEWLINE]Su valía personal y su coraje le proporcionaron una rápida promoción en su carrera militar. Participó en las guerras de la Confederación Perú-Boliviana, y ascendió a comandante en 1835, tras la batalla de Yanacocha. Derribada la Confederación, organizó motines y revueltas contra el presidente José Ballivián. Apoyó la revolución de 1847 encabezada por el general José Miguel de Velasco y fue ascendido a general.
+
+				[NEWLINE][NEWLINE]Después de participar en el golpe de estado que derrocó a José Ballivián en 1847, comenzó a ejercer un ascendiente casi místico sobre las grandes masas de población indígena. Velasco, ya en el poder, lo nombró ministro de Guerra.
+
+				[NEWLINE][NEWLINE]En 1848, el pueblo llano se rebeló saqueando la casa de los ricos de La Paz y atacando al propio ejército. Belzú, que se impuso en ese mismo año en la batalla de Yamparáez, fue declarado presidente provisional y, con la promulgación de la Constitución de 1851 fue consagrado como Presidente Constitucional. Su mandato estuvo marcado por contiendas internas y los atentados contra su vida: en septiembre de ese mismo año resultó gravemente herido. La multitud enardecida se apiñó entonces en torno suyo profiriendo gritos de elogio hacia su persona. A consecuencia incrementó su poder y persiguió implacablemente a sus enemigos. Cansado de luchar contra sus opositores (en total debió debelar 33 revoluciones), dimitió en 1855 y viajó a Europa.
+
+				[NEWLINE][NEWLINE]En el aspecto internacional, afrontó un conflicto con el Perú en 1853, cuyo origen estuvo en la invasión de la moneda feble boliviana en el sur peruano, moneda de baja ley que causaba graves perturbaciones en el comercio local. Ante los reclamos presentados por el representante del Perú en La Paz, Belzú respondió expulsando a dicho diplomático. Ante tal ofensa, cundió en el Perú el estado de guerra contra Bolivia. El Congreso peruano dio al presidente José Rufino Echenique facultades extraordinarias y el ejército peruano se movilizó a la frontera. Pero la guerra no se produjo porque el gobierno de Echenique debió enfrentar poco después una revolución liberal en su contra, que desembocó en una sangrienta guerra civil (1854).
+
+				[NEWLINE][NEWLINE]Tras una estancia de diez años en Europa, en donde desempeñó funciones diplomáticas, Belzú se alzó contra el general Mariano Melgarejo, que se aprestaba a tomar el poder (1864). Apoyado por el pueblo, obtuvo una victoria sobre las fuerzas gubernamentales, pero, en la confusión de la batalla, Melgarejo logró entrar a la presidencia, donde se encontraba Belzú y lo asesinó. Su muerte generó gran consternación entre indígenas y mestizos.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_BELZU_LIVED">
+			<Text>14 de Abril 1808 – 23 de Marzo 1865 d.C.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_BELZU_NAME">
+			<Text>Manuel Isidoro Belzu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_BELZU_SUBTITLE">
+			<Text>Presidente Populista</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BELZU">
+			<Text>Belzu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_BELZU_TITLES_1">
+			<Text>President de la República de Bolivia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_BELZU_TITLES_2">
+			<Text>"Tata" Belzu</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TRAIT_SYNCRETISM">
+			<Text>+2 de Felicidad[ICON_HAPPINESS_1] y +2 de Turismo[ICON_TOURISM] durante los días de 'Amamos al Rey'. +1 de Cultura[ICON_CULTURE] por cada religión seguida en cada ciudad. Cada ciudad adquiere un espacio para Gran Obra de Música gratis.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SYNCRETISM_SHORT">
+			<Text>Sincretismo Festivo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BOLIVIA_COLORADO">
+			<Text>Colorado</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_COLORADO">
+			<Text>El Colorado no recibe penalidades por el terreno, y recibe +1 de Combate por cada 5 puntos de felicidad en el imperio a diferencia del Riflero al cual reemplaza.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_COLORADO_TEXT">
+			<Text>
+				El Regimiento de infantería RI-1 Colorados de Bolivia es una unidad militar del Ejército Boliviano que se constituye como regimiento escolta presidencial cuya misión específica es resguardar la seguridad e integridad física del Presidente del estado plurinacional y a cuyo cargo se encuentra la custodia del Palacio de Gobierno y Residencia Presidencial.
+
+				[NEWLINE][NEWLINE]Cuenta con dos batallones de infantería que son el BI-201 y BI-202 con sus respectivos cuarteles. El cuartel central Calama, ubicado en la calle del mismo nombre donde funcionan las oficinas centrales de la unidad y el centro de reclutamiento. El cuartel Mirador con asiento en el cerro de Quilli Quilli, zona de Villa Pavón, es un centro de adiestramiento en diversas áreas de especialización como asalto, apoyo, protección de personas, primeros auxilios, etc. Este regimiento es considerado como el más representativo del Ejército boliviano, por sus gestas libradas y el significado que tiene en la memoria histórica del pueblo boliviano.
+
+				[NEWLINE][NEWLINE]Este cuerpo militar tiene sus orígenes en 1821,2 año en que el guerrillero altoperuano José Miguel Lanza organizó una milicia independentista en los territorios que hoy son parte de República de Bolivia. En sus filas figuraron algunos personajes que posteriormente serían importantes en la historia boliviana entre otros José Ballivián, Mariano Torrelio y Manuel Deheza.
+
+				[NEWLINE][NEWLINE]La primera referencia a este cuerpo aparece en 1857 cuando figura como Batallón "Colorados" 39 de Línea convirtiéndose desde entonces en una unidad de élite del ejército boliviano. El ideólogo de este cuerpo de infantería fue el entonces coronel Plácido Yáñez, el que fuera responsable de la Matanza del Loreto (23 de octubre de 1861), quien impuso una disciplina férrea en extremo. Se recuerda muchas veces que él fue quien dispuso la prohibición de salir con permiso durante el primer mes de instrucción.
+
+				[NEWLINE][NEWLINE]Yáñez tenía como lema El amor a las armas entra con sangre, lo que le servía para justificar incluso la muerte de quienes pedían su baja o morían en el transcurso del adiestramiento. Fue mediante este duro aprendizaje y disciplina que se formó una unidad de tipo pretoriana que luego pondría en el poder o mantendría en él a varios caudillos militares desde Belzu hasta Daza, que lo sostuvieron como un cuerpo profesional y permanente dándole tratos prefenciales. Contando con el apoyo de los Colorados, Hilarión Daza derrocó al presidente Agustín Morales en 1876 asumiendo en adelante la presidencia de Bolivia. Los Colorados se convirtieron desde entonces en el brazo armado que mantuvo a Daza en el poder. La mayoría de sus miembros eran compadres o ahijados del mismo. De sus 593 plazas, 370 ostentaban un grado superior al de soldado y recibían la paga de comandantes. Por este motivo eran conocidos popularmente como los Colorados de Daza.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BOLIVIA_COLORADO_STRATEGY">
+			<Text>El Colorado no recibe penalidades por el terreno, y recibe +1 de Combate por cada 5 puntos de felicidad en el imperio.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_COMPARSA_FOLKLORICA">
+			<Text>Comparsa Folklórica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_COMPARSA_FOLKLORICA_TEXT">
+			<Text>
+				Bolivia es uno de los países más ricos en tradiciones, ritos, vestimentas, bailes y costumbres conservados desde la colonia hasta nuestros días. Las tradiciones de los pueblos anteriores a la colonia se mezclaron con las tradiciones de los colonizadores españoles para lograr el mestizaje de la vestimenta y tradiciones que desde entonces son conservadas por una parte de la población y revividas en las festividades folklóricas del país, entre las que destacan: El famoso Carnaval de Oruro. La Entrada del Gran Poder en la ciudad de La Paz. La Entrada de la Virgen de Urkupiña de la ciudad de Cochabamba. La festividad de Los Chutillos en Potosí. 
+
+[NEWLINE][NEWLINE]En estas festividades se muestran conjuntos de danzas como la Diablada, Morenada, Los Incas, Los Pujllay, Los Caporales, Los Negritos, La Llamerada, Los Ahuatiris, La Tarqueada, Los Tinkus, Los Suri y muchas otras.
+
+[NEWLINE][NEWLINE]En cada danza se representan personajes de la época colonial y seres místicos como el diablo de los socavones (Supay) y los ángeles.
+
+[NEWLINE][NEWLINE]Estas festividades presentan centenares de danzantes en un derroche de colores y alegría, en una extraña mezcla entre paganismo y catolicismo.
+
+[NEWLINE][NEWLINE]Otro aspecto del folklore boliviano es la característica de sus instrumentos nativos. Al son de sus melodías los danzarines cantan y bailan haciendo las delicias de propios y extraños. Entre los instrumentos que más se destacan podemos mencionar los Instrumentos Musicales de Bolivia
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_COMPARSA_FOLKLORICA_STRATEGY">
+			<Text>Esta Gran Unidad puede empezar un Día de Amamos al Rey en la primera ciudad en la que termine un turno. Además, las ciudades pueden generar puntos para esta unidad por cada religión presente en la misma..</Text>
+		</Row>
+
+
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_BOLIVIA_0">
+			<Text>Olañeta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BOLIVIA_1">
+			<Text>Ayala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BOLIVIA_2">
+			<Text>Ballivián</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BOLIVIA_3">
+			<Text>Pinto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BOLIVIA_4">
+			<Text>Paredes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BOLIVIA_5">
+			<Text>Lanza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BOLIVIA_6">
+			<Text>Pérez</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BOLIVIA_7">
+			<Text>Azurduy</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BOLIVIA_8">
+			<Text>Pacheco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BOLIVIA_9">
+			<Text>Morales</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_PROMOTION_SUBORDINATIONCONSTANCE">
+			<Text>Amenidad</Text>
+		</Row>
+		<Row Tag="TXT_PROMOTION_SUBORDINATIONCONSTANCE_HELP">
+			<Text>Recibe puntos de combate por cada 5 puntos de felicidad en el imperio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FESTIVE">
+			<Text>Festivo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FESTIVE_HELP">
+			<Text>Esta unidad puede iniciar un día de "Amamos al Rey" al pasar por una ciudad!</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_BUILDING_BOLIVIAN_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BOLIVIAN">
+			<Text>Espacios para Grandes Obras (Gratis)</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

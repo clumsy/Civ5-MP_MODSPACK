@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/16/2014 8:21:10 PM -->
+<GameData>
+	<Units>
+		<Replace>
+			<Class>UNITCLASS_GREAT_GENERAL</Class>
+			<Type>UNIT_LIBERTADOR</Type>
+			<Cost>-1</Cost>
+			<Moves>2</Moves>
+			<CivilianAttackPriority>CIVILIAN_ATTACK_PRIORITY_HIGH</CivilianAttackPriority>
+			<Special>SPECIALUNIT_PEOPLE</Special>
+			<Domain>DOMAIN_LAND</Domain>
+			<BaseCultureTurnsToCount>8</BaseCultureTurnsToCount>
+			<DefaultUnitAI>UNITAI_GENERAL</DefaultUnitAI>
+			<Description>TXT_KEY_CIV5_LIBERTADOR</Description>
+			<Civilopedia>TXT_KEY_CIV5_LIBERTADOR_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_CIV5_LIBERTADOR_STRATEGY</Strategy>
+			<Help>TXT_KEY_CIV5_LIBERTADOR_HELP</Help>
+			<AdvancedStartCost>-1</AdvancedStartCost>
+			<WorkRate>1</WorkRate>
+			<CombatLimit>0</CombatLimit>
+			<DontShowYields>true</DontShowYields>
+			<UnitArtInfo>ART_DEF_UNIT_LIBERTADOR</UnitArtInfo>
+			<IconAtlas>CIV_COLOR_ATLAS_LIBERTADOR</IconAtlas>
+			<UnitFlagAtlas>LIBERTADOR_FLAG</UnitFlagAtlas>
+			<UnitFlagIconOffset>0</UnitFlagIconOffset>
+			<PortraitIndex>3</PortraitIndex>
+			<MoveRate>GREAT_PERSON</MoveRate>
+		</Replace>
+	</Units>
+	<Unit_AITypes>
+		<Replace>
+			<UnitType>UNIT_LIBERTADOR</UnitType>
+			<UnitAIType>UNITAI_GENERAL</UnitAIType>
+		</Replace>
+		<Replace>
+			<UnitType>UNIT_LIBERTADOR</UnitType>
+			<UnitAIType>UNITAI_WRITER</UnitAIType>
+		</Replace>
+		<Replace>
+			<UnitType>UNIT_LIBERTADOR_2</UnitType>
+			<UnitAIType>UNITAI_GENERAL</UnitAIType>
+		</Replace>
+		<Replace>
+			<UnitType>UNIT_LIBERTADOR_2</UnitType>
+			<UnitAIType>UNITAI_WRITER</UnitAIType>
+		</Replace>
+	</Unit_AITypes>
+	<Unit_Builds>
+		<Replace>
+			<UnitType>UNIT_LIBERTADOR</UnitType>
+			<BuildType>BUILD_CITADEL</BuildType>
+		</Replace>
+	</Unit_Builds>
+	<Unit_Flavors>
+		<Replace>
+			<UnitType>UNIT_LIBERTADOR</UnitType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>10</Flavor>
+		</Replace>
+		<Replace>
+			<UnitType>UNIT_LIBERTADOR</UnitType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>10</Flavor>
+		</Replace>
+		<Replace>
+			<UnitType>UNIT_LIBERTADOR</UnitType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>1</Flavor>
+		</Replace>
+	</Unit_Flavors>
+	<Unit_FreePromotions>
+		<Replace>
+			<UnitType>UNIT_LIBERTADOR</UnitType>
+			<PromotionType>PROMOTION_GREAT_GENERAL</PromotionType>
+		</Replace>
+		<Replace>
+			<UnitType>UNIT_LIBERTADOR</UnitType>
+			<PromotionType>PROMOTION_LIBERATIONIST</PromotionType>
+		</Replace>
+	</Unit_FreePromotions>
+	<Unit_UniqueNames>
+		<Replace>
+			<UnitType>UNIT_LIBERTADOR</UnitType>
+			<UniqueName>TXT_KEY_LIBERTADOR_01</UniqueName>
+		</Replace>
+		<Replace>
+			<UnitType>UNIT_LIBERTADOR</UnitType>
+			<UniqueName>TXT_KEY_LIBERTADOR_02</UniqueName>
+		</Replace>
+		<Replace>
+			<UnitType>UNIT_LIBERTADOR</UnitType>
+			<UniqueName>TXT_KEY_LIBERTADOR_03</UniqueName>
+		</Replace>
+		<Replace>
+			<UnitType>UNIT_LIBERTADOR</UnitType>
+			<UniqueName>TXT_KEY_LIBERTADOR_04</UniqueName>
+		</Replace>
+		<Replace>
+			<UnitType>UNIT_LIBERTADOR</UnitType>
+			<UniqueName>TXT_KEY_LIBERTADOR_05</UniqueName>
+		</Replace>
+		<Replace>
+			<UnitType>UNIT_LIBERTADOR</UnitType>
+			<UniqueName>TXT_KEY_LIBERTADOR_06</UniqueName>
+		</Replace>
+		<Replace>
+			<UnitType>UNIT_LIBERTADOR</UnitType>
+			<UniqueName>TXT_KEY_LIBERTADOR_07</UniqueName>
+		</Replace>
+		<Replace>
+			<UnitType>UNIT_LIBERTADOR</UnitType>
+			<UniqueName>TXT_KEY_LIBERTADOR_08</UniqueName>
+		</Replace>
+		<Replace>
+			<UnitType>UNIT_LIBERTADOR</UnitType>
+			<UniqueName>TXT_KEY_LIBERTADOR_09</UniqueName>
+		</Replace>
+		<Replace>
+			<UnitType>UNIT_LIBERTADOR</UnitType>
+			<UniqueName>TXT_KEY_LIBERTADOR_10</UniqueName>
+		</Replace>
+		<Replace>
+			<UnitType>UNIT_LIBERTADOR</UnitType>
+			<UniqueName>TXT_KEY_LIBERTADOR_11</UniqueName>
+		</Replace>
+		<Replace>
+			<UnitType>UNIT_LIBERTADOR</UnitType>
+			<UniqueName>TXT_KEY_LIBERTADOR_12</UniqueName>
+		</Replace>
+		<Replace>
+			<UnitType>UNIT_LIBERTADOR</UnitType>
+			<UniqueName>TXT_KEY_LIBERTADOR_13</UniqueName>
+		</Replace>
+		<Replace>
+			<UnitType>UNIT_LIBERTADOR</UnitType>
+			<UniqueName>TXT_KEY_LIBERTADOR_14</UniqueName>
+		</Replace>
+		<Replace>
+			<UnitType>UNIT_LIBERTADOR</UnitType>
+			<UniqueName>TXT_KEY_LIBERTADOR_15</UniqueName>
+		</Replace>
+		<Replace>
+			<UnitType>UNIT_LIBERTADOR</UnitType>
+			<UniqueName>TXT_KEY_LIBERTADOR_16</UniqueName>
+		</Replace>
+	</Unit_UniqueNames>
+	<UnitPromotions>
+		<Replace>
+			<Type>PROMOTION_LIBERATIONIST</Type>
+			<Description>TXT_KEY_PROMOTION_LIBERATIONIST</Description>
+			<Help>TXT_KEY_PROMOTION_LIBERATIONIST_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PortraitIndex>8</PortraitIndex>
+			<IconAtlas>EXPANSION2_PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<Sapper>true</Sapper>
+			<PediaEntry>TXT_KEY_PROMOTION_LIBERATIONIST</PediaEntry>
+		</Replace>
+	</UnitPromotions>
+
+	<Language_en_US>
+		<Update>
+			<Set Text="Supported against cities"/>
+			<Where Tag="TXT_KEY_EUPANEL_CITY_SAPPED"/>
+		</Update>
+
+		<Replace Tag="TXT_KEY_LIBERTADOR_01">
+			<Text>Jose de San Martín</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_LIBERTADOR_02">
+			<Text>Ramón Castilla</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_LIBERTADOR_03">
+			<Text>Andrés de Santa Cruz</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_LIBERTADOR_04">
+			<Text>Manuel Belgrano</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_LIBERTADOR_05">
+			<Text>Santander</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_LIBERTADOR_06">
+			<Text>Francisco de Miranda</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_LIBERTADOR_07">
+			<Text>Mariano Moreno</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_LIBERTADOR_08">
+			<Text>Bernardo O'Higgins</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_LIBERTADOR_09">
+			<Text>Antonio Jose de Sucre</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_LIBERTADOR_10">
+			<Text>Jose Miguel Lanza</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_LIBERTADOR_11">
+			<Text>Manuel Ascencio Padilla</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_LIBERTADOR_12">
+			<Text>Eustaquio Mendez</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_LIBERTADOR_13">
+			<Text>Manuel Piar</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_LIBERTADOR_14">
+			<Text>Jose Felix Ribas</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_LIBERTADOR_15">
+			<Text>Santander</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_LIBERTADOR_16">
+			<Text>Arenales</Text>
+		</Replace>
+
+		<Replace Tag="TXT_KEY_CIV5_LIBERTADOR_HEADING">
+			<Text>Libertador</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV5_LIBERTADOR">
+			<Text>Libertador</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV5_LIBERTADOR_TEXT">
+			<Text>
+				Indpendists, known as Libertadores ("Liberators") were the principal leaders of the Latin American wars of independence from Spain and Portugal. They are named that way in contrast with the Conquistadors, who were so far the only Spanish/Portuguese peoples recorded in the South American history.
+				[NEWLINE][NEWLINE]
+				They were largely bourgeois, criollos (local-born people of European, mostly of Spanish or Portuguese, ancestry) influenced by liberalism and in most cases with military training in the metropole (mother country).
+			</Text>
+		</Replace>
+
+		<Replace Tag="TXT_KEY_CIV5_LIBERTADOR_HELP">
+			<Text>The Libertador grants a bonus against cities when adjacent to a city. It can also write a political treatise, which generates a big ammount of [ICON_CULTURE] Culture.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_CIV5_LIBERTADOR_STRATEGY">
+			<Text>As a replacement for the Great Generals, the Libertadores get an important advantage, as the extra combat strenght near cities can prove handy when conquering or liberating cities.</Text>
+		</Replace>
+
+		<Replace Tag="TXT_KEY_PROMOTION_LIBERATIONIST">
+			<Text>Liberation Campaign</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_PROMOTION_LIBERATIONIST_HELP">
+			<Text>Gives +50% bonus vs. Cities to all friendly units within 2 tiles, but not on the same tile, of the Libertador when adjacent to a city.</Text>
+		</Replace>
+	</Language_en_US>
+
+	<IconTextureAtlases>
+		<Replace>
+			<Atlas>CIV_COLOR_ATLAS_LIBERTADOR</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>GranColombiaIcon256.dds</Filename>
+			<IconsPerRow>2</IconsPerRow>
+			<IconsPerColumn>2</IconsPerColumn>
+		</Replace>
+		<Replace>
+			<Atlas>CIV_COLOR_ATLAS_LIBERTADOR_ALPHA</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>AlphaGranColombiaIcon256.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Replace>
+
+		<Replace>
+			<Atlas>CIV_COLOR_ATLAS_LIBERTADOR</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>GranColombiaIcon128.dds</Filename>
+			<IconsPerRow>2</IconsPerRow>
+			<IconsPerColumn>2</IconsPerColumn>
+		</Replace>
+		<Replace>
+			<Atlas>CIV_COLOR_ATLAS_LIBERTADOR_ALPHA</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>AlphaGranColombiaIcon128.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Replace>
+
+
+		<Replace>
+			<Atlas>CIV_COLOR_ATLAS_LIBERTADOR</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>GranColombiaIcon64.dds</Filename>
+			<IconsPerRow>2</IconsPerRow>
+			<IconsPerColumn>2</IconsPerColumn>
+		</Replace>
+		<Replace>
+			<Atlas>CIV_COLOR_ATLAS_LIBERTADOR_ALPHA</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>AlphaGranColombiaIcon64.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Replace>
+
+
+		<Replace>
+			<Atlas>CIV_COLOR_ATLAS_LIBERTADOR</Atlas>
+			<IconSize>32</IconSize>
+			<Filename>GranColombiaIcon32.dds</Filename>
+			<IconsPerRow>2</IconsPerRow>
+			<IconsPerColumn>2</IconsPerColumn>
+		</Replace>
+		<Replace>
+			<Atlas>CIV_COLOR_ATLAS_LIBERTADOR_ALPHA</Atlas>
+			<IconSize>32</IconSize>
+			<Filename>AlphaGranColombiaIcon32.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Replace>
+
+
+		<Replace>
+			<Atlas>CIV_COLOR_ATLAS_LIBERTADOR</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>GranColombiaIcon45.dds</Filename>
+			<IconsPerRow>4</IconsPerRow>
+			<IconsPerColumn>4</IconsPerColumn>
+		</Replace>
+		<Replace>
+			<Atlas>CIV_COLOR_ATLAS_LIBERTADOR_ALPHA</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>AlphaGranColombiaIcon45.dds</Filename>
+			<IconsPerRow>4</IconsPerRow>
+			<IconsPerColumn>4</IconsPerColumn>
+		</Replace>
+		<Replace>
+			<Atlas>CIV_COLOR_ATLAS_LIBERTADOR_ALPHA</Atlas>
+			<IconSize>48</IconSize>
+			<Filename>AlphaGranColombiaIcon48.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Replace>
+
+		<Replace>
+			<Atlas>CIV_COLOR_ATLAS_LIBERTADOR_ALPHA</Atlas>
+			<IconSize>16</IconSize>
+			<Filename>AlphaGranColombiaIcon16.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Replace>
+
+		<Replace>
+			<Atlas>CIV_COLOR_ATLAS_LIBERTADOR_ALPHA</Atlas>
+			<IconSize>24</IconSize>
+			<Filename>AlphaGranColombiaIcon24.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Replace>
+
+
+		<Replace>
+			<Atlas>CIV_COLOR_ATLAS_LIBERTADOR</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>GranColombiaIcon80.dds</Filename>
+			<IconsPerRow>2</IconsPerRow>
+			<IconsPerColumn>2</IconsPerColumn>
+		</Replace>
+		<Replace>
+			<Atlas>CIV_COLOR_ATLAS_LIBERTADOR_ALPHA</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>AlphaGranColombiaIcon80.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Replace>
+
+		<Replace>
+			<Atlas>LIBERTADOR_FLAG</Atlas>
+			<IconSize>32</IconSize>
+			<Filename>IndependistFlag.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Replace>
+	</IconTextureAtlases>
+</GameData>

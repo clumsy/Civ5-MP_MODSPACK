@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/25/2014 10:57:48 PM -->
+<GameData>
+	<Language_en_US>
+	<Replace Tag="TXT_KEY_CITY_NAME_SUCRE">
+		<Text>Sucre</Text>
+	</Replace>
+	<Replace Tag="TXT_KEY_CITY_NAME_LA_PAZ">
+		<Text>La Paz</Text>
+	</Replace>
+	<Replace Tag="TXT_KEY_CITY_NAME_SANTA_CRUZ">
+		<Text>Santa Cruz</Text>
+	</Replace>
+	<Replace Tag="TXT_KEY_CITY_NAME_COCHABAMBA">
+		<Text>Cochabamba</Text>
+	</Replace>
+	<Replace Tag="TXT_KEY_CITY_NAME_ORURO">
+		<Text>Oruro</Text>
+	</Replace>
+	<Replace Tag="TXT_KEY_CITY_NAME_POTOSI">
+		<Text>Potosí</Text>
+	</Replace>
+	<Replace Tag="TXT_KEY_CITY_NAME_TARIJA">
+		<Text>Tarija</Text>
+	</Replace>
+	<Replace Tag="TXT_KEY_CITY_NAME_ANTOFAGASTA">
+		<Text>Antofagasta</Text>
+	</Replace>
+	<Replace Tag="TXT_KEY_CITY_NAME_MONTERO">
+		<Text>Montero</Text>
+	</Replace>
+	<Replace Tag="TXT_KEY_CITY_NAME_TRINIDAD">
+		<Text>Trinidad</Text>
+	</Replace>
+	<Replace Tag="TXT_KEY_CITY_NAME_RIBERALTA">
+		<Text>Riberalta</Text>
+	</Replace>
+	<Replace Tag="TXT_KEY_CITY_NAME_WARNES">
+		<Text>Warnes</Text>
+	</Replace>
+	<Replace Tag="TXT_KEY_CITY_NAME_LA_GUARDIA">
+		<Text>La Guardia</Text>
+	</Replace>
+	<Replace Tag="TXT_KEY_CITY_NAME_VIACHA">
+		<Text>Viacha</Text>
+	</Replace>
+	<Replace Tag="TXT_KEY_CITY_NAME_CALAMA">
+		<Text>Calama</Text>
+	</Replace>
+	<Replace Tag="TXT_KEY_CITY_NAME_YACUIBA">
+		<Text>Yacuíba</Text>
+	</Replace>
+	<Replace Tag="TXT_KEY_CITY_NAME_COBIJA">
+		<Text>Cobija</Text>
+	</Replace>
+	<Replace Tag="TXT_KEY_CITY_NAME_CAMIRI">
+		<Text>Camiri</Text>
+	</Replace>
+	<Replace Tag="TXT_KEY_CITY_NAME_GUAYARAMERIN">
+		<Text>Guayaramerín</Text>
+	</Replace>
+	<Replace Tag="TXT_KEY_CITY_NAME_VILLAZON">
+		<Text>Villazón</Text>
+	</Replace>
+	<Replace Tag="TXT_KEY_CITY_NAME_VILLAMONTES">
+		<Text>Villamontes</Text>
+	</Replace>
+	<Replace Tag="TXT_KEY_CITY_NAME_BERMEJO">
+		<Text>Bermejo</Text>
+	</Replace>
+	<Replace Tag="TXT_KEY_CITY_NAME_TUPIZA">
+		<Text>Tupiza</Text>
+	</Replace>
+	<Replace Tag="TXT_KEY_CITY_NAME_LLALLAGUA">
+		<Text>Llallagua</Text>
+	</Replace>
+	<Replace Tag="TXT_KEY_CITY_NAME_SAN_JULIAN">
+		<Text>San Julián</Text>
+	</Replace>
+	<Replace Tag="TXT_KEY_CITY_NAME_HUANUNI">
+		<Text>Huanuni</Text>
+	</Replace>
+	<Replace Tag="TXT_KEY_CITY_NAME_PUNATA">
+		<Text>Punata</Text>
+	</Replace>
+	<Replace Tag="TXT_KEY_CITY_NAME_UYUNI">
+		<Text>Uyuni</Text>
+	</Replace>
+	<Replace Tag="TXT_KEY_CITY_NAME_MEJILLONES">
+		<Text>Mejillones</Text>
+	</Replace>
+	</Language_en_US>
+</GameData>

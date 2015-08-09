@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Carnaval de Oruro -->
+		<Row Tag="TXT_KEY_EVENT_BOLIVIAN_CARNAVAL">
+			<Text>Carnaval de Oruro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_BOLIVIAN_CARNAVAL_DESC">
+			<Text>Our festive lands celebrate each year the colorful Carnaval de Oruro. Each year thousands of dancers and Comparsas Folklóricas dance through the streets of Oruro, towards the Virgen del Socavón. The UNESCO are deciding to declare it an Intangible Cultural Heritage.[NEWLINE]
+			</Text>
+		</Row>
+		<!-- JCarnaval de Oruro: Outcome 1 -->
+		<Row Tag="TXT_KEY_EVENT_BOLIVIAN_CARNAVAL_OUTCOME_1">
+			<Text>Excellent, lets use this chance to improve our diplomacy!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_BOLIVIAN_CARNAVAL_OUTCOME_RESULT_1">
+			<Text>
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_NumMag} [ICON_RES_MAGISTRATE] Magistrates[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Receive a free Comparsa Folklórica unit
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Receive 2 free delegates
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_BOLIVIAN_CARNAVAL_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have used the chance for getting more international influence through our Carnival!</Text>
+		</Row>
+		<!-- JCarnaval de Oruro: Outcome 2 -->
+		<Row Tag="TXT_KEY_EVENT_BOLIVIAN_CARNAVAL_OUTCOME_2">
+			<Text>Lets improve the quality and infraestructure of our Carnaval before</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_BOLIVIAN_CARNAVAL_OUTCOME_RESULT_2">
+			<Text>
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Culture} [ICON_CULTURE] Culture[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Receive a free Great Engineer
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_BOLIVIAN_CARNAVAL_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have decided to improve our infraestructure before our next Carnaval</Text>
+		</Row>
+		<!-- JCarnaval de Oruro: Outcome 3 -->
+		<Row Tag="TXT_KEY_EVENT_BOLIVIAN_CARNAVAL_OUTCOME_3">
+			<Text>Lets celebrate!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_BOLIVIAN_CARNAVAL_OUTCOME_RESULT_3">
+			<Text>
+				[ICON_BULLET][COLOR_POSITIVE_TEXT]Receive a free Comparsa Folklórica!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_BOLIVIAN_CARNAVAL_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>We are celebrating our Carnaval now!</Text>
+		</Row>
+		
+		<!-- Carnaval de Oruro: TEXTS -->
+		<Row Tag="TXT_KEY_EVENT_BOLIVIAN_CARNAVAL_OTHERS_ALERT">
+			<Text>The Carnaval de Oruro has been declared "Intangible World Heritage" by the UNESCO</Text>
+		</Row>
+
+
+		
+		
+		<!-- ============================================================================================== -->
+
+		<!-- Uprising -->
+		<Row Tag="TXT_KEY_EVENT_BOLIVIAN_UPRISING">
+			<Text>Oligarchic Uprising</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_BOLIVIAN_UPRISING_DESC">
+			<Text>"Tata" Belzu, your populist policies that favour the artisans are generating unrest within the oligarchy. Some of their Caudillos have decided to start a revolt against you. This will rise your popularity within the lower classes, allowing you to enact more policies[NEWLINE]
+			</Text>
+		</Row>
+		<!-- Uprising: Outcome 1 -->
+		<Row Tag="TXT_KEY_EVENT_BOLIVIAN_UPRISING_OUTCOME_1">
+			<Text>We'll not fall before our evil enemies!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_BOLIVIAN_UPRISING_OUTCOME_RESULT_1">
+			<Text>
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]Barbarian Units appear near your capital with a Great General[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Receive {1_Culture} [ICON_CULTURE] Culture!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_BOLIVIAN_UPRISING_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>The Oligarchy has started an uprising against you!</Text>
+		</Row>
+
+		
+
+		<!-- Carnaval de Oruro: TEXTS -->
+		<Row Tag="TXT_KEY_EVENT_BOLIVIAN_UPRISING_OTHERS_ALERT">
+			<Text>An uprising against Belzu has started within Bolivia</Text>
+		</Row>
+
+
+		<!-- ============================================================================================== -->
+
+		<!-- The Peruvian Diplomat -->
+		<Row Tag="TXT_KEY_EVENT_BOLIVIAN_DIPLOMAT">
+			<Text>The Peruvian Diplomat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_BOLIVIAN_DIPLOMAT_DESC">
+			<Text>The coin we're using within our country has created a conflict with our neighbors. The "Moneda Feble" has entered their lands generating economical problems to them. A Diplomat sent by {1_Leader} has come with the mission of dealing with this, so to enhance their own economy[NEWLINE]
+			</Text>
+		</Row>
+		<!-- Peruvian Diplomat: Outcome 1 -->
+		<Row Tag="TXT_KEY_EVENT_BOLIVIAN_DIPLOMAT_OUTCOME_1">
+			<Text>Change your coin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_BOLIVIAN_DIPLOMAT_OUTCOME_RESULT_1">
+			<Text>
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose all your [ICON_GOLD] Gold Reserves[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_BOLIVIAN_DIPLOMAT_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>You have decided to listen to the will of your neighbors!</Text>
+		</Row>
+
+		<!-- Peruvian Diplomat: Outcome 1 -->
+		<Row Tag="TXT_KEY_EVENT_BOLIVIAN_DIPLOMAT_OUTCOME_2">
+			<Text>Expell the Diplomat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_BOLIVIAN_DIPLOMAT_OUTCOME_RESULT_2">
+			<Text>
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]Instantly declare war to {1_Leader}[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Receive {2_Culture} [ICON_CULTURE] Culture
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_BOLIVIAN_DIPLOMAT_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>You have decided to expel the foreign diplomat!</Text>
+		</Row>
+
+
+
+		<!-- Peruvian Diplomat: TEXTS -->
+		<Row Tag="TXT_KEY_EVENT_BOLIVIAN_DIPLOMAT_OTHERS_ALERT">
+			<Text>A Diplomat has been sent to a dangerous quest to Bolivia</Text>
+		</Row>
+
+
+		<!-- ============================================================================================== -->
+
+
+	</Language_en_US>
+</GameData>

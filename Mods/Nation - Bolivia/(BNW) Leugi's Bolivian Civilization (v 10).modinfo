@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="3afd31eb-ac1c-459f-90ed-f26a65921ecd" version="10">
+  <Properties>
+    <Name>(BNW) Leugi's Bolivian Civilization</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]Bolivia Civilization[ENDCOLOR] to Brave New World with Manuel Isidoro Belzu as its leader.</Teaser>
+    <Description>This mod will add the Bolivia Civilization to the Game, with Manuel Isidoro Belzu as its leader. Requires Brave New World
+
+Special thanks to Moriboe for the UA's code, and Tomatekh for the Comparsa's code.</Description>
+    <Authors>Miguel Angel Soliz (Leugi), Moriboe, Tomatekh</Authors>
+    <SpecialThanks>Moriboe, Tomatekh</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>0</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Packs" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events and Decisions" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="6C1FADEFE44FD8D14F0123EFCFA199D7" import="1">BolArtDefines.sql</File>
+    <File md5="F0C0EE9647F8D502F630BF46D953D073" import="0">Compatibility/Decisions/AddBoliviaDecisions.sql</File>
+    <File md5="E57BAC6C88386D927E34A51CF293F401" import="0">Compatibility/Decisions/BoliviaDecisions.xml</File>
+    <File md5="FE0E92C2375792DD382F2F3B1C98CE51" import="1">Compatibility/Decisions/BoliviaDecisionScriptsLeugi.lua</File>
+    <File md5="B539800D63120D94E7B9BCD8CE1E35DB" import="0">Compatibility/Events/AddLeugiBoliviaEvents.sql</File>
+    <File md5="9A7C0559276F3CE9E23ED61E7BEB7EA2" import="1">Compatibility/Events/BoliviaEventScriptsLeugi.lua</File>
+    <File md5="7E64D9AF318D7D86D6A989EBC24B3736" import="0">Compatibility/Events/EventDummyBuildings.xml</File>
+    <File md5="8F4C77650F24450493A28DEC8F14E8D0" import="0">Compatibility/Events/LeugiBoliviaEvents.xml</File>
+    <File md5="6BFAF74DE3EF9E34E59E758716B37111" import="0">Compatibility/LatinAmericanEvent/AddLatinAmericanEvent.sql</File>
+    <File md5="DBC84FCB78C26D9AC33E39E6B23C04C6" import="0">Compatibility/LatinAmericanEvent/ArtDefineLibertador.sql</File>
+    <File md5="22D9F26D4BE88AF1B1AFD00C5F88CEFC" import="0">Compatibility/LatinAmericanEvent/Art/AlphaGranColombiaIcon128.dds</File>
+    <File md5="FEBF2A633764256D5C5D2E451F917CDD" import="0">Compatibility/LatinAmericanEvent/Art/AlphaGranColombiaIcon16.dds</File>
+    <File md5="C10A4E3B61C87DE41B877640D6C6B91A" import="0">Compatibility/LatinAmericanEvent/Art/AlphaGranColombiaIcon24.dds</File>
+    <File md5="7DCD3773A6E0685A29A1D91FB4890039" import="0">Compatibility/LatinAmericanEvent/Art/AlphaGranColombiaIcon256.dds</File>
+    <File md5="6294916E5071FA239A971A81AEDCAC1B" import="0">Compatibility/LatinAmericanEvent/Art/AlphaGranColombiaIcon32.dds</File>
+    <File md5="189E5BA7A81F56D7CAB6DB7B6DAB464E" import="0">Compatibility/LatinAmericanEvent/Art/AlphaGranColombiaIcon45.dds</File>
+    <File md5="C14BE2A9EA4BCB95E11299603AEC2B3A" import="0">Compatibility/LatinAmericanEvent/Art/AlphaGranColombiaIcon48.dds</File>
+    <File md5="F208983269C42B0DAFC618AE887E534D" import="0">Compatibility/LatinAmericanEvent/Art/AlphaGranColombiaIcon64.dds</File>
+    <File md5="714E4D94D26924E1CB4EF90747DF6BCB" import="0">Compatibility/LatinAmericanEvent/Art/AlphaGranColombiaIcon80.dds</File>
+    <File md5="7DC1C7FA3C63D715630284460B8383FE" import="0">Compatibility/LatinAmericanEvent/Art/GranColombiaIcon128.dds</File>
+    <File md5="3C8AB0B66D761EB69BE10A2B9EBB0E9F" import="0">Compatibility/LatinAmericanEvent/Art/GranColombiaIcon256.dds</File>
+    <File md5="235B2C9B5AE4578307B80E7E91538305" import="0">Compatibility/LatinAmericanEvent/Art/GranColombiaIcon32.dds</File>
+    <File md5="1005BD1ADBF27FCE454F53C0AAE9DA4F" import="0">Compatibility/LatinAmericanEvent/Art/GranColombiaIcon45.dds</File>
+    <File md5="7BD6AF50295D85BEB99C524B3646E6E8" import="0">Compatibility/LatinAmericanEvent/Art/GranColombiaIcon64.dds</File>
+    <File md5="29E2682297E965C30B8A21B2E2AABA1A" import="0">Compatibility/LatinAmericanEvent/Art/GranColombiaIcon80.dds</File>
+    <File md5="24D84754D3628B04B8BB118621559478" import="0">Compatibility/LatinAmericanEvent/Art/independist.dds</File>
+    <File md5="FE7666ECDC2A1FDD80F349FCC9330E2F" import="0">Compatibility/LatinAmericanEvent/Art/independist.fxsxml</File>
+    <File md5="D735CCCFED34E2DC13627563938EA35E" import="0">Compatibility/LatinAmericanEvent/Art/independist.gr2</File>
+    <File md5="BD467F348BCF580603E14BBB47D7054C" import="0">Compatibility/LatinAmericanEvent/Art/IndependistFlag.dds</File>
+    <File md5="265FCEB3E3AF30BD8632A237868F631F" import="0">Compatibility/LatinAmericanEvent/Art/independist_sref.dds</File>
+    <File md5="AC41C06BA721315512F26433220FEDF7" import="0">Compatibility/LatinAmericanEvent/Art/no_gloss.dds</File>
+    <File md5="5BEC7DCF0941A714060641DFCD453B7F" import="1">Compatibility/LatinAmericanEvent/IndependenceEventScriptsBOL.lua</File>
+    <File md5="14F76055D35697878DE4A26C94245396" import="0">Compatibility/LatinAmericanEvent/IndependenceEventText.xml</File>
+    <File md5="D41D8CD98F00B204E9800998ECF8427E" import="0">Compatibility/LatinAmericanEvent/IndependenceScripts.lua</File>
+    <File md5="0EA76873C3173488D5249B8565557C32" import="0">Compatibility/LatinAmericanEvent/LatinAmericanIndependencePolicies.xml</File>
+    <File md5="A4458E54F24D7F4A5714A9DAECE0F936" import="0">Compatibility/LatinAmericanEvent/LatinAmericanIndependenceUnits.xml</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">Compatibility/LatinAmericanEvent/SaveUtils.lua</File>
+    <File md5="81E60330984D81C0C8B4A75F05C0934F" import="0">Compatibility/Piety/LeugiBoliviaPietyFlavour.sql</File>
+    <File md5="8F6C300ED8D5D2CED948D324C154BA2A" import="0">Compatibility/TSL/BoliviaYNAEMP.sql</File>
+    <File md5="FB9BEB98D3BC89E53EA491787F9BAA8A" import="1">Icons/AlphaBoliviaIcon128.dds</File>
+    <File md5="4E8EF196DD4B17ABA247851DCF6B21B0" import="1">Icons/AlphaBoliviaIcon24.dds</File>
+    <File md5="B567390F6DEBF11DE1D3BE272BB35560" import="1">Icons/AlphaBoliviaIcon256.dds</File>
+    <File md5="14962B8B9ADB32CB1B1A23ED4AFA0E27" import="1">Icons/AlphaBoliviaIcon32.dds</File>
+    <File md5="9F8387390B3DCDAA2C7F97E2B5A8AF6E" import="1">Icons/AlphaBoliviaIcon45.dds</File>
+    <File md5="FAA30F133A92D2945B6C42A2ADF53FA1" import="1">Icons/AlphaBoliviaIcon48.dds</File>
+    <File md5="7A75775475820F1E7CD6D9E8DEA2D3A0" import="1">Icons/AlphaBoliviaIcon64.dds</File>
+    <File md5="DE2339460AC032E449502AA3AEB0A31E" import="1">Icons/AlphaBoliviaIcon80.dds</File>
+    <File md5="92C38BD27F0DDA949A829FF678226F0A" import="1">Icons/BoliviaIcon128.dds</File>
+    <File md5="F5528E007BD65825BCFC8C08BA103A60" import="1">Icons/BoliviaIcon256.dds</File>
+    <File md5="A492745CF68CB3AD0D2D6132672A79E5" import="1">Icons/BoliviaIcon32.dds</File>
+    <File md5="BED7002794B72A91107E073B550B9CDD" import="1">Icons/BoliviaIcon45.dds</File>
+    <File md5="4B5F46DFB4414CEDBA500965F04A507D" import="1">Icons/BoliviaIcon64.dds</File>
+    <File md5="FFEC6795A8AE041BA6AC235B5929CA6B" import="1">Icons/BoliviaIcon80.dds</File>
+    <File md5="A1EB8D4355927986D6BCACD0C2767131" import="1">Icons/ColoradoFlag.dds</File>
+    <File md5="7323887919D6DA72D906AE005347951F" import="1">Icons/comparsa_flag.dds</File>
+    <File md5="608B5999AD2A699016CC6B7102632872" import="1">Icons/sv_colorado.dds</File>
+    <File md5="7E6D9A5DAABA5652E01C9505D8B00302" import="1">Icons/sv_comparsa.dds</File>
+    <File md5="4486E05E92C6A1829D1BD4FC8EAB80DE" import="1">Lua/CultureOverview.lua</File>
+    <File md5="BF85D174CA9D4F2EC2AD7E3FBB6C0D6D" import="1">Lua/CultureOverview.xml</File>
+    <File md5="D3D15435042176B55276ACF6F993D17E" import="0">Lua/FestiveUnit.lua</File>
+    <File md5="C7438D5387CDAFB846E0DC040F2609BB" import="0">Lua/FolkloreScript.lua</File>
+    <File md5="F7212FBADABE26A9ACAB236CE91EB485" import="1">Models/BelzuScene.dds</File>
+    <File md5="989440883A0BD5D1D9B5C2397B47474A" import="1">Models/Bombo/comparsa_bigdrummer.gr2</File>
+    <File md5="B2DB5FAF0313F72731C32D8717660396" import="1">Models/Bombo/comparsa_bombo_diff.dds</File>
+    <File md5="59ECCDF3807AF815537687FD998A2B67" import="1">Models/Bombo/comparsa_bombo.fxsxml</File>
+    <File md5="603FEBE195FF345A7A0667708BF3D102" import="1">Models/Diablada/comparsa_diablo.dds</File>
+    <File md5="7E075066D45AA393E6B72F6CA10495D6" import="1">Models/Diablada/comparsa_diablo_sref.dds</File>
+    <File md5="E5DF1CB3C0AE2BAB57D36AED7E0FC39C" import="1">Models/Diablada/comparsa_diablada.fxsxml</File>
+    <File md5="AD3166D0F2060B3F74EB6A3589240248" import="1">Models/Diablada/diablo.gr2</File>
+    <File md5="A29D7918C1A1E6522C70D5207D0217F5" import="1">Models/Tambor/comparsa_drummer.gr2</File>
+    <File md5="3787A64165EA04B0E9FDD85F0D028024" import="1">Models/Tambor/comparsa_tambor_diff.dds</File>
+    <File md5="CD484FA60479A974B1CF893EFBCA8903" import="1">Models/Tambor/comparsa_tambor.fxsxml</File>
+    <File md5="C3D280D33A80E4B43CA62A4616C0D48C" import="1">Models/colorado.fxsxml</File>
+    <File md5="9402EE68197B194229A2CB31E4E4E2BC" import="1">Models/u_colorado.gr2</File>
+    <File md5="DBC06A21EA1B7E60011F02F9D33C2852" import="1">Models/u_colorado_diff.dds</File>
+    <File md5="63AF76D5D3BB51D0BCF4CD8B0B15A662" import="1">Models/u_colorado_sref.dds</File>
+    <File md5="6B2FA8C616F3B8A1B00AD96D2D10AA24" import="1">XML/Art/BoliviaDOM.dds</File>
+    <File md5="08F0A24C08FAB3BC6E617FAA3CCE0103" import="1">XML/Art/BoliviaMap.dds</File>
+    <File md5="00B83199102DFE8893A69DCA82DB05A2" import="0">XML/Art/IconTextureAtlasesBolivia.xml</File>
+    <File md5="B6A38EC690611D19E62D491B1673DD8F" import="0">XML/Buildings/NewBuildingsBol.xml</File>
+    <File md5="09682B412F79840C315AD9651877B8EA" import="0">XML/Civilization/CitiesBolivia.xml</File>
+    <File md5="1742583B2BF9DAEFDB857D1AA4846679" import="0">XML/Civilization/CivBolivia.xml</File>
+    <File md5="0E12CB56DD1A266286896DE5EF926525" import="0">XML/Civilization/TraitsBol.xml</File>
+    <File md5="0BB3C614DC40A8558ED602F2361621DF" import="1">XML/GreatWorksComparsa/auquiauqui01.mp3</File>
+    <File md5="A4947FFD362369429E591870323B25BD" import="1">XML/GreatWorksComparsa/caporales01.mp3</File>
+    <File md5="A09F468398739A5CA1DAB3BB8034B4AE" import="1">XML/GreatWorksComparsa/caporales02.mp3</File>
+    <File md5="135BEB5D27302FACC30F3263661E8557" import="1">XML/GreatWorksComparsa/caporales03.mp3</File>
+    <File md5="D495A53A11EA419F46F43F8E50457AD1" import="0">XML/GreatWorksComparsa/carnavalito01.mp3</File>
+    <File md5="626552710A5CD0FCAF2EC3754C439283" import="1">XML/GreatWorksComparsa/carnavalito02.mp3</File>
+    <File md5="390E34CCC4AAA104D0F8B3F852BA5494" import="0">XML/GreatWorksComparsa/ComparsaGreatWorks.xml</File>
+    <File md5="C6857023003F1EA06E256240AC4DE631" import="1">XML/GreatWorksComparsa/cueca01.mp3</File>
+    <File md5="46A8D3832B8BA3A9BB552323C8A74EB6" import="1">XML/GreatWorksComparsa/cueca02.mp3</File>
+    <File md5="8DA873899B4D2E36A622E49D5267974F" import="1">XML/GreatWorksComparsa/cueca03.mp3</File>
+    <File md5="25BF67ADD05CDD55CF69A75DE073E16C" import="1">XML/GreatWorksComparsa/cueca04.mp3</File>
+    <File md5="94AAB65618E51D8727B257DCE60C4DF8" import="1">XML/GreatWorksComparsa/diablada01.mp3</File>
+    <File md5="695C54C02F547E2C2EF4A35C82A9B513" import="1">XML/GreatWorksComparsa/diablada02.mp3</File>
+    <File md5="E0106C3F9F2448D873CC260EA6E46726" import="1">XML/GreatWorksComparsa/huayno01.mp3</File>
+    <File md5="C4C30E93CAA8A83878307DFD8B3E911A" import="1">XML/GreatWorksComparsa/huayno02.mp3</File>
+    <File md5="A428EE95CB6A7DA1F0159666929F8234" import="1">XML/GreatWorksComparsa/morenada01.mp3</File>
+    <File md5="55F2E77C425E95FB524ACE9BB93CAE64" import="1">XML/GreatWorksComparsa/morenada02.mp3</File>
+    <File md5="09175B4FF3FC2C32840A40A3275E5149" import="1">XML/GreatWorksComparsa/morenada03.mp3</File>
+    <File md5="F6D713559DEF410F013173EB3DF1AB20" import="1">XML/GreatWorksComparsa/saya01.mp3</File>
+    <File md5="7DE6AB5E59620B5C206345E5552C45EB" import="1">XML/GreatWorksComparsa/taquirari01.mp3</File>
+    <File md5="792BBECCAC572B0598E67817A1402123" import="1">XML/GreatWorksComparsa/taquirari02.mp3</File>
+    <File md5="1F35EFFB55B56451CD5FEDD3075AB4AE" import="1">XML/GreatWorksComparsa/tinku01.mp3</File>
+    <File md5="8CE816EA9A0E0DD35E0D190B2CD2CF23" import="1">XML/GreatWorksComparsa/tinku02.mp3</File>
+    <File md5="20D07E56804D97342D53240547FBACD0" import="1">XML/GreatWorksComparsa/wakawaka01.mp3</File>
+    <File md5="B9BD496E961956A5A2E1B29FF6330C4D" import="0">XML/Leaders/BelzuDiplomaticResponses.xml</File>
+    <File md5="6BBEAD6D063D5A2CFF7CB2048F06DBB9" import="1">XML/Leaders/BelzuPeace.mp3</File>
+    <File md5="FF2307A7686361DB6095031BDFCC38F6" import="1">XML/Leaders/BelzuWar.mp3</File>
+    <File md5="8F36C623224314128B039221C058BFEC" import="1">XML/Leaders/Belzu_Scene.xml</File>
+    <File md5="12D2859194EC0D6C10A2544ED21139DE" import="0">XML/Leaders/Leader_Belzu.xml</File>
+    <File md5="DADE905945A3A467C54C234FB1962EFA" import="0">XML/Music/BolivianMusicDefines.xml</File>
+    <File md5="63B793F61A525956A4D34F9282C0CB1F" import="0">XML/Text/BelzuSpeech.xml</File>
+    <File md5="34CFEBB51659F0AA8DDCC511C11B2435" import="0">XML/Text/CityNames.xml</File>
+    <File md5="03E4185A025478B61FC9E5A0C6F7FF94" import="0">XML/Text/GameTextBol.xml</File>
+    <File md5="2933082BD659880D99A3E4156593DCB2" import="0">XML/Text/GameTextoBolES.xml</File>
+    <File md5="01D4473D26568CAECCBCF4355E778AAA" import="0">XML/Units/NewUnitsBol.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Art/IconTextureAtlasesBolivia.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/NewBuildingsBol.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization/CivBolivia.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization/TraitsBol.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/Belzu_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/BelzuDiplomaticResponses.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/Leader_Belzu.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/BelzuSpeech.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/GameTextBol.xml</UpdateDatabase>
+      <UpdateDatabase>BolArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Units/NewUnitsBol.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GreatWorksComparsa/ComparsaGreatWorks.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Music/BolivianMusicDefines.xml</UpdateDatabase>
+      <UpdateDatabase>Compatibility/Decisions/AddBoliviaDecisions.sql</UpdateDatabase>
+      <UpdateDatabase>Compatibility/Decisions/BoliviaDecisions.xml</UpdateDatabase>
+      <UpdateDatabase>Compatibility/Events/AddLeugiBoliviaEvents.sql</UpdateDatabase>
+      <UpdateDatabase>Compatibility/Events/EventDummyBuildings.xml</UpdateDatabase>
+      <UpdateDatabase>Compatibility/Events/LeugiBoliviaEvents.xml</UpdateDatabase>
+      <UpdateDatabase>Compatibility/LatinAmericanEvent/AddLatinAmericanEvent.sql</UpdateDatabase>
+      <UpdateDatabase>Compatibility/LatinAmericanEvent/ArtDefineLibertador.sql</UpdateDatabase>
+      <UpdateDatabase>Compatibility/LatinAmericanEvent/IndependenceEventText.xml</UpdateDatabase>
+      <UpdateDatabase>Compatibility/LatinAmericanEvent/LatinAmericanIndependencePolicies.xml</UpdateDatabase>
+      <UpdateDatabase>Compatibility/LatinAmericanEvent/LatinAmericanIndependenceUnits.xml</UpdateDatabase>
+      <UpdateDatabase>Compatibility/Piety/LeugiBoliviaPietyFlavour.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization/CitiesBolivia.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/CityNames.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/FestiveUnit.lua">
+      <Name>Festive Unit</Name>
+      <Description>Festive Unit</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/FolkloreScript.lua">
+      <Name>Second Pantheon Belief</Name>
+      <Description>Second Pantheon Belief</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

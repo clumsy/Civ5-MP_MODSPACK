@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/24/2013 8:55:17 AM -->
+<GameData>
+	<GreatWorks>
+		<Row>
+			<Type>GREAT_WORK_AUQUIAUQUI_01</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_AUQUIAUQUI_01</Description>
+			<Audio>AS2D_AUQUIAUQUI_01</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		
+		
+		<Row>
+			<Type>GREAT_WORK_CAPORALES_01</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CAPORALES_01</Description>
+			<Audio>AS2D_CAPORALES_01</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_CAPORALES_02</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CAPORALES_02</Description>
+			<Audio>AS2D_CAPORALES_02</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_CAPORALES_03</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CAPORALES_03</Description>
+			<Audio>AS2D_CAPORALES_03</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		
+		
+		<Row>
+			<Type>GREAT_WORK_CARNAVALITO_01</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CARNAVALITO_01</Description>
+			<Audio>AS2D_CARNAVALITO_01</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_CARNAVALITO_02</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CARNAVALITO_02</Description>
+			<Audio>AS2D_CARNAVALITO_02</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+
+		
+		<Row>
+			<Type>GREAT_WORK_CUECA_01</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CUECA_01</Description>
+			<Audio>AS2D_CUECA_01</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_CUECA_02</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CUECA_02</Description>
+			<Audio>AS2D_CUECA_02</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_CUECA_03</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CUECA_03</Description>
+			<Audio>AS2D_CUECA_03</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_CUECA_04</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_CUECA_04</Description>
+			<Audio>AS2D_CUECA_04</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+
+
+		<Row>
+			<Type>GREAT_WORK_DIABLADA_01</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_DIABLADA_01</Description>
+			<Audio>AS2D_DIABLADA_01</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_DIABLADA_02</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_DIABLADA_02</Description>
+			<Audio>AS2D_DIABLADA_02</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+
+
+		<Row>
+			<Type>GREAT_WORK_HUAYNO_01</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HUAYNO_01</Description>
+			<Audio>AS2D_HUAYNO_01</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_HUAYNO_02</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_HUAYNO_02</Description>
+			<Audio>AS2D_HUAYNO_02</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+
+
+		<Row>
+			<Type>GREAT_WORK_MORENADA_01</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_MORENADA_01</Description>
+			<Audio>AS2D_MORENADA_01</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_MORENADA_02</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_MORENADA_02</Description>
+			<Audio>AS2D_MORENADA_02</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_MORENADA_03</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_MORENADA_03</Description>
+			<Audio>AS2D_MORENADA_03</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+
+
+		<Row>
+			<Type>GREAT_WORK_SAYA_01</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_SAYA_01</Description>
+			<Audio>AS2D_SAYA_01</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+
+		
+		<Row>
+			<Type>GREAT_WORK_TAQUIRARI_01</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_TAQUIRARI_01</Description>
+			<Audio>AS2D_TAQUIRARI_01</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_TAQUIRARI_02</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_TAQUIRARI_02</Description>
+			<Audio>AS2D_TAQUIRARI_02</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+
+
+		<Row>
+			<Type>GREAT_WORK_TINKU_01</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_TINKU_01</Description>
+			<Audio>AS2D_TINKU_01</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_TINKU_02</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_TINKU_02</Description>
+			<Audio>AS2D_TINKU_02</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+
+		
+		<Row>
+			<Type>GREAT_WORK_WAKAWAKA_01</Type>
+			<GreatWorkClassType>GREAT_WORK_MUSIC</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_WAKAWAKA_01</Description>
+			<Audio>AS2D_WAKAWAKA_01</Audio>
+			<Image>GreatMusician_Background.dds</Image>
+		</Row>
+	</GreatWorks>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_WORK_AUQUIAUQUI_01">
+			<Text>Auqui Auqui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_NAME_AUQUIAUQUI_01">
+			<Text>Auqui Auqui</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GREAT_WORK_CAPORALES_01">
+			<Text>Jilguero Flores (Pacha)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_NAME_CAPORALES_01">
+			<Text>Caporales</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GREAT_WORK_CAPORALES_02">
+			<Text>Negrita (Pacha)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_NAME_CAPORALES_02">
+			<Text>Caporales</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GREAT_WORK_CAPORALES_03">
+			<Text>Recuerdos (Banda Juvenil Centralista)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_NAME_CAPORALES_03">
+			<Text>Caporales</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GREAT_WORK_CARNAVALITO_01">
+			<Text>Guapurú (Pan de Arroz)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_NAME_CARNAVALITO_01">
+			<Text>Carnavalito</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GREAT_WORK_CARNAVALITO_02">
+			<Text>Jumechi (Sapo Pinto)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_NAME_CARNAVALITO_02">
+			<Text>Carnavalito</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GREAT_WORK_CUECA_01">
+			<Text>Cueca para Curar (Música de Maestros)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_NAME_CUECA_01">
+			<Text>Cueca</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GREAT_WORK_CUECA_02">
+			<Text>Kantutita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_NAME_CUECA_02">
+			<Text>Cueca</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GREAT_WORK_CUECA_03">
+			<Text>Tempestad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_NAME_CUECA_03">
+			<Text>Cueca</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GREAT_WORK_CUECA_04">
+			<Text>Tierra Lejana (Savia Andina)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_NAME_CUECA_04">
+			<Text>Cueca</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GREAT_WORK_DIABLADA_01">
+			<Text>La Auténtica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_NAME_DIABLADA_01">
+			<Text>Diablada</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GREAT_WORK_DIABLADA_02">
+			<Text>Chiru Chiru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_NAME_DIABLADA_02">
+			<Text>Diablada</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GREAT_WORK_HUAYNO_01">
+			<Text>Tanto te Amé</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_NAME_HUAYNO_01">
+			<Text>Huayño</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GREAT_WORK_HUAYNO_02">
+			<Text>Yerbas del Olvido</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_NAME_HUAYNO_02">
+			<Text>Huayño</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GREAT_WORK_MORENADA_01">
+			<Text>Brujita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_NAME_MORENADA_01">
+			<Text>Morenada</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GREAT_WORK_MORENADA_02">
+			<Text>Castillito de Arena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_NAME_MORENADA_02">
+			<Text>Morenada</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GREAT_WORK_MORENADA_03">
+			<Text>Morenada de Carnaval</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_NAME_MORENADA_03">
+			<Text>Morenada</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GREAT_WORK_SAYA_01">
+			<Text>Ritmo Caliente</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_NAME_SAYA_01">
+			<Text>Saya Afro-Boliviana</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GREAT_WORK_TAQUIRARI_01">
+			<Text>El Carretero</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_NAME_TAQUIRARI_01">
+			<Text>Taquirari</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_GREAT_WORK_TAQUIRARI_02">
+			<Text>Viva Santa Cruz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_NAME_TAQUIRARI_02">
+			<Text>Taquirari</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GREAT_WORK_TINKU_01">
+			<Text>Tinku Huajcha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_NAME_TINKU_01">
+			<Text>Tinku</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GREAT_WORK_TINKU_02">
+			<Text>Tinkus de Bolivia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_NAME_TINKU_02">
+			<Text>Tinku</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GREAT_WORK_WAKAWAKA_01">
+			<Text>Waka Tokori</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_NAME_WAKAWAKA_01">
+			<Text>Waka Waka</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

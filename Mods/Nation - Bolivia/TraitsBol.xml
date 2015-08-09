@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/18/2013 3:41:06 PM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_SYNCRETISM</Type>
+			<Description>TXT_KEY_TRAIT_SYNCRETISM</Description>
+			<ShortDescription>TXT_KEY_TRAIT_SYNCRETISM_SHORT</ShortDescription>
+			<FreeBuilding>BUILDING_BOLIVIAN</FreeBuilding>
+		</Row>
+	</Traits>
+	<Policies>
+		<Row>
+			<Type>POLICY_SYNCRETISM</Type>
+			<Description>TXT_KEY_POLICY_FREE_RELIGION</Description>
+			<Civilopedia>TXT_KEY_POLICY_FREERELIGION_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_FREE_RELIGION_HELP</Help>
+			<OneShot>true</OneShot>
+			<GridX>1000</GridX>
+			<GridY>1000</GridY>
+			<PortraitIndex>47</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+			<SecondReligionPantheon>true</SecondReligionPantheon>
+		</Row>
+		
+		
+		<Row>
+			<Type>POLICY_TRADITION_SYNCRETISM</Type>
+			<Description>TXT_KEY_POLICY_TRADITION</Description>
+			<Civilopedia>TXT_KEY_CIV5_POLICY_TRADITION_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_TRADITION_HELP</Help>
+			<PlotCultureExponentModifier>-25</PlotCultureExponentModifier>
+			<PortraitIndex>54</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+			<SecondReligionPantheon>true</SecondReligionPantheon>
+			
+		</Row>
+		<Row>
+			<Type>POLICY_LIBERTY_SYNCRETISM</Type>
+			<Description>TXT_KEY_POLICY_BRANCH_LIBERTY</Description>
+			<Civilopedia>TXT_KEY_CIV5_POLICY_LIBERTY_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_LIBERTY_HELP</Help>
+			<CulturePerCity>1</CulturePerCity>
+			<PortraitIndex>24</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+			<SecondReligionPantheon>true</SecondReligionPantheon>
+			
+		</Row>
+		<Row>
+			<Type>POLICY_HONOR_SYNCRETISM</Type>
+			<Description>TXT_KEY_POLICY_BRANCH_HONOR</Description>
+			<Civilopedia>TXT_KEY_POLICY_HONOR_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICTY_HONOR_HELP</Help>
+			<BarbarianCombatBonus>33</BarbarianCombatBonus>
+			<AlwaysSeeBarbCamps>true</AlwaysSeeBarbCamps>
+			<CultureFromBarbarianKills>100</CultureFromBarbarianKills>
+			<PortraitIndex>18</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+			<SecondReligionPantheon>true</SecondReligionPantheon>
+			
+		</Row>
+		<Row>
+			<Type>POLICY_PIETY_SYNCRETISM</Type>
+			<Description>TXT_KEY_POLICY_BRANCH_PIETY</Description>
+			<Civilopedia>TXT_KEY_POLICY_PIETY_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_PIETY_HELP</Help>
+			<PortraitIndex>42</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+			<SecondReligionPantheon>true</SecondReligionPantheon>
+			
+		</Row>
+		<Row>
+			<Type>POLICY_PATRONAGE_SYNCRETISM</Type>
+			<Description>TXT_KEY_POLICY_BRANCH_PATRONAGE</Description>
+			<Civilopedia>TXT_KEY_POLICY_PATRONAGE_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_BRANCH_PATRONAGE_HELP</Help>
+			<MinorFriendshipDecayMod>-25</MinorFriendshipDecayMod>
+			<PortraitIndex>36</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+			<SecondReligionPantheon>true</SecondReligionPantheon>
+			
+		</Row>
+		<Row>
+			<Type>POLICY_AESTHETICS_SYNCRETISM</Type>
+			<Description>TXT_KEY_POLICY_AESTHETICS</Description>
+			<Civilopedia>TXT_KEY_POLICY_AESTHETICS_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_BRANCH_AESTHETICS_HELP</Help>
+			<GreatWriterRateModifier>25</GreatWriterRateModifier>
+			<GreatArtistRateModifier>25</GreatArtistRateModifier>
+			<GreatMusicianRateModifier>25</GreatMusicianRateModifier>
+			<PortraitIndex>6</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+			<SecondReligionPantheon>true</SecondReligionPantheon>
+			
+		</Row>
+		<Row>
+			<Type>POLICY_EXPLORATION_SYNCRETISM</Type>
+			<Description>TXT_KEY_POLICY_BRANCH_EXPLORATION</Description>
+			<Civilopedia>TXT_KEY_POLICY_EXPLORATION_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_BRANCH_EXPLORATION_HELP</Help>
+			<PortraitIndex>6</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+			<SecondReligionPantheon>true</SecondReligionPantheon>
+			
+		</Row>
+		<Row>
+			<Type>POLICY_COMMERCE_SYNCRETISM</Type>
+			<Description>TXT_KEY_POLICY_BRANCH_COMMERCE</Description>
+			<Civilopedia>TXT_KEY_POLICY_COMMERCE_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_COMMERCE_HELP</Help>
+			<PortraitIndex>6</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+			<SecondReligionPantheon>true</SecondReligionPantheon>
+			
+		</Row>
+		<Row>
+			<Type>POLICY_RATIONALISM_SYNCRETISM</Type>
+			<Description>TXT_KEY_POLICY_BRANCH_RATIONALISM</Description>
+			<Civilopedia>TXT_KEY_POLICY_RATIONALISM_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_RATIONALISM_HELP</Help>
+			<HappinessToScience>10</HappinessToScience>
+			<PortraitIndex>48</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+			<SecondReligionPantheon>true</SecondReligionPantheon>
+			
+		</Row>
+	</Policies>
+	<Policy_CapitalYieldModifiers>
+		<Row>
+			<PolicyType>POLICY_COMMERCE_SYNCRETISM</PolicyType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>25</Yield>
+		</Row>
+	</Policy_CapitalYieldModifiers>
+	<Policy_BuildingClassProductionModifiers>
+		<Row>
+			<PolicyType>POLICY_PIETY_SYNCRETISM</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_SHRINE</BuildingClassType>
+			<ProductionModifier>100</ProductionModifier>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_PIETY_SYNCRETISM</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_TEMPLE</BuildingClassType>
+			<ProductionModifier>100</ProductionModifier>
+		</Row>
+	</Policy_BuildingClassProductionModifiers>
+	<Policy_BuildingClassCultureChanges>
+		<Row>
+			<PolicyType>POLICY_TRADITION_SYNCRETISM</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+			<CultureChange>3</CultureChange>
+		</Row>
+	</Policy_BuildingClassCultureChanges>
+</GameData>

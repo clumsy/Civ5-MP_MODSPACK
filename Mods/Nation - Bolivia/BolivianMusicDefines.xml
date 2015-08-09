@@ -1,0 +1,386 @@
+<GameData>
+	<Audio_Sounds>
+		<!--Belzu Music for AudioDefines-->
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_BELZU_PEACE</SoundID>
+			<Filename>BelzuPeace</Filename>
+
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_BELZU_WAR</SoundID>
+			<Filename>BelzuWar</Filename>
+
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<!--Belzu Music-->
+		<!--Great Work Music for AudioDefines-->
+		<Row>
+			<SoundID>SND_AUQUIAUQUI_01</SoundID>
+			<Filename>auquiauqui01</Filename>
+
+
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_CAPORALES_01</SoundID>
+			<Filename>caporales01</Filename>
+
+
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_CAPORALES_02</SoundID>
+			<Filename>caporales02</Filename>
+
+
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_CAPORALES_03</SoundID>
+			<Filename>caporales03</Filename>
+
+
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_CARNAVALITO_01</SoundID>
+			<Filename>carnavalito01</Filename>
+
+
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_CARNAVALITO_02</SoundID>
+			<Filename>carnavalito02</Filename>
+
+
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_CUECA_01</SoundID>
+			<Filename>cueca01</Filename>
+
+
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_CUECA_02</SoundID>
+			<Filename>cueca02</Filename>
+
+
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_CUECA_03</SoundID>
+			<Filename>cueca03</Filename>
+
+
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_CUECA_04</SoundID>
+			<Filename>cueca04</Filename>
+
+
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_DIABLADA_01</SoundID>
+			<Filename>diablada01</Filename>
+
+
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_DIABLADA_02</SoundID>
+			<Filename>diablada02</Filename>
+
+
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_HUAYNO_01</SoundID>
+			<Filename>huayno01</Filename>
+
+
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_HUAYNO_02</SoundID>
+			<Filename>huayno02</Filename>
+
+
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_MORENADA_01</SoundID>
+			<Filename>morenada01</Filename>
+
+
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_MORENADA_02</SoundID>
+			<Filename>morenada02</Filename>
+
+
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_MORENADA_03</SoundID>
+			<Filename>morenada03</Filename>
+
+
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_SAYA_01</SoundID>
+			<Filename>saya01</Filename>
+
+
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_TAQUIRARI_01</SoundID>
+			<Filename>taquirari01</Filename>
+
+
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_TAQUIRARI_02</SoundID>
+			<Filename>taquirari02</Filename>
+
+
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_TINKU_01</SoundID>
+			<Filename>tinku01</Filename>
+
+
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_TINKU_02</SoundID>
+			<Filename>tinku02</Filename>
+
+
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_WAKAWAKA_01</SoundID>
+			<Filename>wakawaka01</Filename>
+
+
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<!--Great Work Music-->
+		
+	</Audio_Sounds>
+	<Audio_2DSounds>
+		<!--Belzu Music For Audio Scripts-->
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_BELZU_PEACE</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_BELZU_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MaxVolume>40</MaxVolume>
+			<MinVolume>40</MinVolume>
+			<IsMusic>True</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_BELZU_WAR</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_BELZU_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MaxVolume>40</MaxVolume>
+			<MinVolume>40</MinVolume>
+			<IsMusic>True</IsMusic>
+		</Row>
+		<!--Belzu Music-->
+		<!--Great Works For Audio Scripts-->
+		<Row>
+			<ScriptID>AS2D_AUQUIAUQUI_01</ScriptID>
+			<SoundID>SND_AUQUIAUQUI_01</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<MaxVolume>50</MaxVolume>
+			<MinVolume>50</MinVolume>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_CAPORALES_01</ScriptID>
+			<SoundID>SND_CAPORALES_01</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<MaxVolume>50</MaxVolume>
+			<MinVolume>50</MinVolume>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_CAPORALES_02</ScriptID>
+			<SoundID>SND_CAPORALES_02</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<MaxVolume>50</MaxVolume>
+			<MinVolume>50</MinVolume>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_CAPORALES_03</ScriptID>
+			<SoundID>SND_CAPORALES_03</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<MaxVolume>50</MaxVolume>
+			<MinVolume>50</MinVolume>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_CARNAVALITO_01</ScriptID>
+			<SoundID>SND_CARNAVALITO_01</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<MaxVolume>50</MaxVolume>
+			<MinVolume>50</MinVolume>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_CARNAVALITO_02</ScriptID>
+			<SoundID>SND_CARNAVALITO_02</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<MaxVolume>50</MaxVolume>
+			<MinVolume>50</MinVolume>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_CUECA_01</ScriptID>
+			<SoundID>SND_CUECA_01</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<MaxVolume>50</MaxVolume>
+			<MinVolume>50</MinVolume>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_CUECA_02</ScriptID>
+			<SoundID>SND_CUECA_02</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<MaxVolume>50</MaxVolume>
+			<MinVolume>50</MinVolume>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_CUECA_03</ScriptID>
+			<SoundID>SND_CUECA_03</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<MaxVolume>50</MaxVolume>
+			<MinVolume>50</MinVolume>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_CUECA_04</ScriptID>
+			<SoundID>SND_CUECA_04</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_DIABLADA_01</ScriptID>
+			<SoundID>SND_DIABLADA_01</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<MaxVolume>50</MaxVolume>
+			<MinVolume>50</MinVolume>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_DIABLADA_02</ScriptID>
+			<SoundID>SND_DIABLADA_02</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<MaxVolume>50</MaxVolume>
+			<MinVolume>50</MinVolume>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_HUAYNO_01</ScriptID>
+			<SoundID>SND_HUAYNO_01</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<MaxVolume>50</MaxVolume>
+			<MinVolume>50</MinVolume>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_HUAYNO_02</ScriptID>
+			<SoundID>SND_HUAYNO_02</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<MaxVolume>50</MaxVolume>
+			<MinVolume>50</MinVolume>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_MORENADA_01</ScriptID>
+			<SoundID>SND_MORENADA_01</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<MaxVolume>50</MaxVolume>
+			<MinVolume>50</MinVolume>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_MORENADA_02</ScriptID>
+			<SoundID>SND_MORENADA_02</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_MORENADA_03</ScriptID>
+			<SoundID>SND_MORENADA_03</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<MaxVolume>50</MaxVolume>
+			<MinVolume>50</MinVolume>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_SAYA_01</ScriptID>
+			<SoundID>SND_SAYA_01</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<MaxVolume>50</MaxVolume>
+			<MinVolume>50</MinVolume>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_TAQUIRARI_01</ScriptID>
+			<SoundID>SND_TAQUIRARI_01</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<MaxVolume>50</MaxVolume>
+			<MinVolume>50</MinVolume>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_TAQUIRARI_02</ScriptID>
+			<SoundID>SND_TAQUIRARI_02</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<MaxVolume>50</MaxVolume>
+			<MinVolume>50</MinVolume>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_TINKU_01</ScriptID>
+			<SoundID>SND_TINKU_01</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<MaxVolume>50</MaxVolume>
+			<MinVolume>50</MinVolume>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_TINKU_02</ScriptID>
+			<SoundID>SND_TINKU_02</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<MaxVolume>50</MaxVolume>
+			<MinVolume>50</MinVolume>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_WAKAWAKA_01</ScriptID>
+			<SoundID>SND_WAKAWAKA_01</SoundID>
+			<SoundType>GAME_MUSIC_STINGS</SoundType>
+			<MaxVolume>50</MaxVolume>
+			<MinVolume>50</MinVolume>
+			<TaperSoundtrackVolume>0.0</TaperSoundtrackVolume>
+		</Row>
+		<!--Great Works Music-->
+	</Audio_2DSounds>
+
+
+</GameData>

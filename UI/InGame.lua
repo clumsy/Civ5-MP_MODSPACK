@@ -1374,6 +1374,10 @@ ContextPtr:LoadNewContext("CSAFunctions")
 ContextPtr:LoadNewContext("GreatWorkDummyBuildings")
 ContextPtr:LoadNewContext("GoldenAgeBonuses")
 
+-- Nation - Bolivia --
+ContextPtr:LoadNewContext("FestiveUnit")
+ContextPtr:LoadNewContext("FolkloreScript")
+
 -- Nation - New Zealand --
 ContextPtr:LoadNewContext("JFD_NewZealand_Functions")
 ContextPtr:LoadNewContext("CityInfoStack")
