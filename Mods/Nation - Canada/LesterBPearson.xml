@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/15/2013 7:45:01 PM -->
+<GameData>
+	<Leaders>
+		<Row>
+			<Type>LEADER_LESTERBPEARSON</Type>
+			<Description>TXT_KEY_LEADER_LESTERBPEARSON</Description>
+			<Civilopedia>TXT_KEY_LEADER_LESTERBPEARSON_PEDIA</Civilopedia>
+			<CivilopediaTag>TXT_KEY_CIVILOPEDIA_LEADERS_LESTERBPEARSON</CivilopediaTag>
+			<ArtDefineTag>LesterBPearson_Scene.xml</ArtDefineTag>
+			<VictoryCompetitiveness>4</VictoryCompetitiveness>
+			<WonderCompetitiveness>4</WonderCompetitiveness>
+			<MinorCivCompetitiveness>8</MinorCivCompetitiveness>
+			<Boldness>8</Boldness>
+			<DiploBalance>9</DiploBalance>
+			<WarmongerHate>5</WarmongerHate>
+			<WorkAgainstWillingness>3</WorkAgainstWillingness>
+			<WorkWithWillingness>7</WorkWithWillingness>
+			<DenounceWillingness>4</DenounceWillingness>
+			<DoFWillingness>8</DoFWillingness>
+			<Loyalty>8</Loyalty>
+			<Neediness>3</Neediness>
+			<Forgiveness>6</Forgiveness>
+			<Chattiness>5</Chattiness>
+			<Meanness>2</Meanness>
+			<PortraitIndex>0</PortraitIndex>
+			<!-- Not right-->
+			<IconAtlas>COLONIALCANADA_ICON</IconAtlas>
+			<PackageID/>
+		</Row>
+	</Leaders>
+	<Leader_MajorCivApproachBiases>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_WAR</MajorCivApproachType>
+			<Bias>2</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_HOSTILE</MajorCivApproachType>
+			<Bias>2</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_DECEPTIVE</MajorCivApproachType>
+			<Bias>3</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_GUARDED</MajorCivApproachType>
+			<Bias>5</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_AFRAID</MajorCivApproachType>
+			<Bias>2</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_FRIENDLY</MajorCivApproachType>
+			<Bias>6</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_NEUTRAL</MajorCivApproachType>
+			<Bias>8</Bias>
+		</Row>
+	</Leader_MajorCivApproachBiases>
+	<Leader_MinorCivApproachBiases>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_IGNORE</MinorCivApproachType>
+			<Bias>4</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_FRIENDLY</MinorCivApproachType>
+			<Bias>8</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_PROTECTIVE</MinorCivApproachType>
+			<Bias>7</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_CONQUEST</MinorCivApproachType>
+			<Bias>5</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_BULLY</MinorCivApproachType>
+			<Bias>3</Bias>
+		</Row>
+	</Leader_MinorCivApproachBiases>
+	<Leader_Flavors>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<FlavorType>FLAVOR_RECON</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<FlavorType>FLAVOR_RANGED</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<FlavorType>FLAVOR_MOBILE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_RECON</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_GROWTH</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_TILE_IMPROVEMENT</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<FlavorType>FLAVOR_AIR</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<FlavorType>FLAVOR_TILE_IMPROVEMENT</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<FlavorType>FLAVOR_INFRASTRUCTURE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>9</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<FlavorType>FLAVOR_DIPLOMACY</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<FlavorType>FLAVOR_SPACESHIP</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<FlavorType>FLAVOR_WATER_CONNECTION</FlavorType>
+			<Flavor>9</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<FlavorType>FLAVOR_NUKE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<FlavorType>FLAVOR_USE_NUKE</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<FlavorType>FLAVOR_ESPIONAGE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<FlavorType>FLAVOR_ANTIAIR</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<FlavorType>FLAVOR_AIR_CARRIER</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<FlavorType>FLAVOR_ARCHAEOLOGY</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<FlavorType>FLAVOR_I_LAND_TRADE_ROUTE</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<FlavorType>FLAVOR_I_SEA_TRADE_ROUTE</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<FlavorType>FLAVOR_I_TRADE_ORIGIN</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<FlavorType>FLAVOR_I_TRADE_DESTINATION</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<FlavorType>FLAVOR_AIRLIFT</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+	</Leader_Flavors>
+	<Leader_Traits>
+		<Row>
+			<LeaderType>LEADER_LESTERBPEARSON</LeaderType>
+			<TraitType>TRAIT_KEEPERSOFTHEPEACE</TraitType>
+		</Row>
+	</Leader_Traits>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_LESTERBPEARSON">
+			<Text>Lester B. Pearson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LESTERBPEARSON_LIVED">
+			<Text>1897 - 1972</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LESTERBPEARSON_NAME">
+			<Text>Lester "Mike" Bowles Pearson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LESTERBPEARSON_SUBTITLE">
+			<Text>Leader of Canada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LESTERBPEARSON_TITLES_1">
+			<Text>Prime Minister of Canada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LESTERBPEARSON_HEADING_1">
+			<Text>Early Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LESTERBPEARSON_HEADING_2">
+			<Text>Diplomacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LESTERBPEARSON_HEADING_3">
+			<Text>United Nations</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LESTERBPEARSON_HEADING_4">
+			<Text>Politics of Canada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LESTERBPEARSON_HEADING_5">
+			<Text>Judgement of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LESTERBPEARSON_TEXT_1">
+			<Text>On the 23rd of April 1897, Lester Bowles Pearson was born in Toronto. Aged 16, he graduated from Hamilton Colligaite and went to Victoria Collage. Pearson was soon involved heavily in sports, and excelled in basketball and rugby, as well as playing golf, baseball and ice hockey. When the First World War broke out in 1914, Pearson joined the Canadian Army, and fought in Egypt and Greece, and even spent some time serving along with the Serbians. In 1917, he joined the Air Force, and was subsequently given the nickname "Mike", as "Lester" was considered too mild for an airman. From then on, friends and family always knew him as Mike. In 1918, Pearson was transferred back to Canada after being hit by a bus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LESTERBPEARSON_TEXT_2">
+			<Text>After the war, Pearson received his Bachelor of the Arts degree, and soon went on to work in the meat-packing industry, which he soon left. Pearson later got a  degree in history, and want on to become a history teacher at the University of Toronto, where he also coached a hockey team. Soon enough, though, Pearson got into the Canadian Foreign Affairs department, and was assigned to London. He stayed there for half of the Second World War, and soon managed to get a job in the Canadian Embassy in Washington D.C. In 1944, he became the Canadian Ambassador to the United States, but he left this job in 1946 to go into the wider diplomatic service. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LESTERBPEARSON_TEXT_3">
+			<Text>Lester B. Pearson had a large part in the founding of NATO and the UN. Pearson did a lot with these organisations, and almost became the first UN Secretary General, but this was vetoed by the Soviet Union. Due to Pearson's good political skill, William Mackenzie King (the Canadian Prime Minister) tried to recruit him into the government, but Pearson refused due to dislike of King's policies. In 1948, he got a seat in the Canadian parliament, but he still continued his role with the United Nations. In 1956, the Suez Crisis broke out over Nasser's plans to nationalise the waterway. Britain and France, along with an Israeli army, attacked the region, even though Egypt was backed by the Soviet Union. Pearson was sent in to keep the peace, and before long, he had resolved the crisis for the most part. It is for this that he is considered "the father of modern peacekeeping"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LESTERBPEARSON_TEXT_4">
+			<Text>In 1956, Pearson was elected leader of the Canadian Liberal Party. He became Leader of the Opposition, and in his first Parliamentary session, he told the Prime Minister to give power back to the Liberals due to a recent economic fault. However, this soon backfired on Pearson, and the next election cost the Liberals over half their seats in parliament. However, Pearson did some planning for the next election over a few significant meetings, and in 1963 he was elected Prime Minister, mainly due to some mistakes made by the government. Pearson's time as Prime Minister saw a vast amount of changes in social welfare, including national health care, a minimum wage, pension plans and student loans, among other things. [NEWLINE][NEWLINE] Pearson's time in power was overall dedicated to equality, as people had equal health care, immigrants were not given any advantage or disadvantage based on their race, and French was even made an official language. Pearson retired from politics in 1967, but continued to be an effective voice. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LESTERBPEARSON_TEXT_5">
+			<Text>Lester B. Pearson's legacy is mostly about the vast amount of policies he implemented to make Canada a better state, and overall, the country it is today. Even before he was in the post of Prime Minister, he was doing Peacekeeping missions, and today a prize, the "Pearson Medal of Peace", is given out to recognise a Canadian that has contributed greatly to international society, like Pearson, who made significant progress in Canadian - American relations. Pearson serves as an example to a lot of people, shown by his Nobel Peace Prize that he was awarded after solving the Suez crisis. Pearson's legacy truly lies in his ability to communicate with all, and to generally make the world a better place. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LESTERBPEARSON_FACTOID_HEADING">
+			<Text>Lester B. Pearson Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LESTERBPEARSON_FACTOID_TEXT">
+			<Text>The current Canadian flag (the one with the maple leaf and the two red stripes at the side and the white stripe down the middle) was designed by Lester B. Pearson as part of his policies, and was later implemented while he was in government.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

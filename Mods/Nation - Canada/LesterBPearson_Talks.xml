@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/15/2013 8:13:43 PM -->
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_LESTERBPEARSON">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_LESTERBPEARSON_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_LESTERBPEARSON">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_LESTERBPEARSON_DEFEATED%</Response>
+		</Row>
+		<Row LeaderType="LEADER_LESTERBPEARSON">
+			<ResponseType>RESPONSE_GREETING_POLITE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_LESTERBPEARSON_POLITE_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_LESTERBPEARSON">
+			<ResponseType>RESPONSE_GREETING_NEUTRAL_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_LESTERBPEARSON_NEUTRAL_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_LESTERBPEARSON">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_LESTERBPEARSON_HOSTILE_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_LESTERBPEARSON">
+			<ResponseType>RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_LESTERBPEARSON_HOSTILE_AGGRESSIVE_MILITARY_WARNING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_LESTERBPEARSON">
+			<ResponseType>RESPONSE_EXPANSION_SERIOUS_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_LESTERBPEARSON_EXPANSION_SERIOUS_WARNING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_LESTERBPEARSON">
+			<ResponseType>RESPONSE_REQUEST</ResponseType>
+			<Response>TXT_KEY_LEADER_LESTERBPEARSON_RESPONSE_REQUEST%</Response>
+		</Row>
+		<Row LeaderType="LEADER_LESTERBPEARSON">
+			<ResponseType>RESPONSE_LUXURY_TRADE</ResponseType>
+			<Response>TXT_KEY_LEADER_LESTERBPEARSON_RESPONSE_LUXURY_TRADE%</Response>
+		</Row>
+		<Row LeaderType="LEADER_LESTERBPEARSON">
+			<ResponseType>RESPONSE_OPEN_BORDERS_EXCHANGE</ResponseType>
+			<Response>TXT_KEY_LEADER_LESTERBPEARSON_OPEN_BORDERS_EXCHANGE%</Response>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<!--General phrases -->
+		<!--Greeting (first time meeting) -->
+		<Row Tag="TXT_KEY_LEADER_LESTERBPEARSON_FIRSTGREETING_1">
+			<Text>Of all our dreams today there is none more important - or so hard to realise - than that of peace in the world. We pray that you have the resolve to do everything that can be done to convert it one day into reality.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LESTERBPEARSON_FIRSTGREETING_2">
+			<Text>I am grateful for the opportunity for us to meet, as representatives of our respective countries. It is my aim that we will develop a strong devotion to the cause of peace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LESTERBPEARSON_FIRSTGREETING_3">
+			<Text>It is my desire to promote a fraternity between all nations. I hope that you will choose peace, for the only other option will be eventual extinction.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LESTERBPEARSON_DEFEATED_1">
+			<Text>Extinction is the only possible result of the course of your actions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LESTERBPEARSON_DEFEATED_2">
+			<Text>We know now that in our warfare, fought on any considerable scale, there can be no possible gain for any side. You have brought nothing but waste and destruction.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LESTERBPEARSON_DEFEATED_3">
+			<Text>Your betrayal of the cause of peace is systemic and destructive.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LESTERBPEARSON_POLITE_HELLO_1">
+			<Text>Welcome! Come, let us work together towards the path of peace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LESTERBPEARSON_POLITE_HELLO_2">
+			<Text>The more we meet, the more our dream of peace comes closer to reality.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LESTERBPEARSON_POLITE_HELLO_3">
+			<Text>I cordially greet you, and value this chance to work closely with you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LESTERBPEARSON_NEUTRAL_HELLO_1">
+			<Text>Welcome, let us work together.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LESTERBPEARSON_NEUTRAL_HELLO_2">
+			<Text>Let me convince you to walk farther along the path of peace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LESTERBPEARSON_NEUTRAL_HELLO_3">
+			<Text>Hello again, friend.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LESTERBPEARSON_HOSTILE_HELLO_1">
+			<Text>Your actions lead straight to war. We must avoid it at all costs. Turn your ways back.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LESTERBPEARSON_HOSTILE_HELLO_2">
+			<Text>Your systemic destruction of the ways of peace brings unlimited distress to all who speak with you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LESTERBPEARSON_HOSTILE_HELLO_3">
+			<Text>The stark and unyielding truth is that your actions lead directly to total war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LESTERBPEARSON_HOSTILE_AGGRESSIVE_MILITARY_WARNING">
+			<Text>The grim fact is that we prepare for war like precocious giants, and you are the worst of these foolish giants.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LESTERBPEARSON_EXPANSION_SERIOUS_WARNING">
+			<Text>The land we have is ours by right, we own all of the land the flows into the sea. It will strongly damage the cause of peace if you try to take it from us, because, trust me, we will act to shelter our people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LESTERBPEARSON_REQUEST">
+			<Text>Sometimes, for the cause of peace, we need to make sacrifices. I am asking you to make one for the greater good of our people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LESTERBPEARSON_LUXURY_TRADE">
+			<Text>Your generosity will help to pave the way of peace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LESTERBPEARSON_OPEN_BORDERS_EXCHANGE">
+			<Text>Canada prides herself as a land that is open to all. Let us trade this boon freely between us.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

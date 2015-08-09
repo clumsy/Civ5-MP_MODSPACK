@@ -1415,6 +1415,14 @@ ContextPtr:LoadNewContext("RevolucionarioAnarchies")
 ContextPtr:LoadNewContext("WarGeneral")
 ContextPtr:LoadNewContext("IndependenceScripts")
 
+-- Nation - Canada --
+ContextPtr:LoadNewContext("BonusTradeVoyageurs")
+ContextPtr:LoadNewContext("CanadianBrotherhoodScript")
+ContextPtr:LoadNewContext("CanadianRCMPCaptureScript")
+ContextPtr:LoadNewContext("CanadianRCMPHappiness")
+ContextPtr:LoadNewContext("GarrisonArtilleryScript")
+ContextPtr:LoadNewContext("GivesHorses")
+
 -- Misc - Pontoon Bridge --
 ContextPtr:LoadNewContext("Pontoon Bridge Lua")
 

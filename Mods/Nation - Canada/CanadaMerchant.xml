@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/11/2013 8:36:01 AM -->
+<GameData>
+	<Units>
+		<Row>
+			<Class>UNITCLASS_MERCHANT</Class>
+			<Type>UNIT_CANADIANVOYAGEUR</Type>
+			<Cost>-1</Cost>
+			<Moves>2</Moves>
+			<CivilianAttackPriority>CIVILIAN_ATTACK_PRIORITY_HIGH</CivilianAttackPriority>
+			<Special>SPECIALUNIT_PEOPLE</Special>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_MERCHANT</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_CANADIANVOYAGEUR</Description>
+			<Civilopedia>TXT_KEY_CIV5_CANADIANVOYAGEUR_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_CANADIANVOYAGEUR_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_CANADIANVOYAGEUR</Help>
+			<AdvancedStartCost>-1</AdvancedStartCost>
+			<WorkRate>1</WorkRate>
+			<CombatLimit>0</CombatLimit>
+			<UnitArtInfo>ART_DEF_UNIT_CANADIANVOYAGEUR</UnitArtInfo>
+			<UnitArtInfoEraVariation>false</UnitArtInfoEraVariation>
+			<IconAtlas>COLONIALCANADA_ICON</IconAtlas>
+			<PortraitIndex>2</PortraitIndex>
+			<UnitFlagAtlas>VOYAGEUR_FLAG</UnitFlagAtlas>
+			<UnitFlagIconOffset>0</UnitFlagIconOffset>
+			<MoveRate>GREAT_PERSON</MoveRate>
+			<Trade>true</Trade>
+		</Row>
+	</Units>
+	<Unit_UniqueNames>
+		<Row>
+			<UnitType>UNIT_CANADIANVOYAGEUR</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CAVOYAGEUR1</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CANADIANVOYAGEUR</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CAVOYAGEUR2</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CANADIANVOYAGEUR</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CAVOYAGEUR3</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CANADIANVOYAGEUR</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CAVOYAGEUR4</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CANADIANVOYAGEUR</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CAVOYAGEUR5</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CANADIANVOYAGEUR</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CAVOYAGEUR6</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CANADIANVOYAGEUR</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CAVOYAGEUR7</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CANADIANVOYAGEUR</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CAVOYAGEUR8</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CANADIANVOYAGEUR</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CAVOYAGEUR9</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CANADIANVOYAGEUR</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CAVOYAGEUR10</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CANADIANVOYAGEUR</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CAVOYAGEUR11</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CANADIANVOYAGEUR</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CAVOYAGEUR12</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CANADIANVOYAGEUR</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CAVOYAGEUR13</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CANADIANVOYAGEUR</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CAVOYAGEUR14</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CANADIANVOYAGEUR</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CAVOYAGEUR15</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CANADIANVOYAGEUR</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CAVOYAGEUR16</UniqueName>
+		</Row>
+	</Unit_UniqueNames>
+	<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_CANADIANVOYAGEUR</UnitType>
+			<UnitAIType>UNITAI_MERCHANT</UnitAIType>
+		</Row>
+	</Unit_AITypes>
+	<Unit_Builds>
+		<Row>
+			<UnitType>UNIT_CANADIANVOYAGEUR</UnitType>
+			<BuildType>BUILD_HUNTFORFURS</BuildType>
+		</Row>
+	</Unit_Builds>
+	<Builds>
+		<Row>
+			<Type>BUILD_HUNTFORFURS</Type>
+			<ImprovementType>IMPROVEMENT_HUNTFORFURS</ImprovementType>
+			<Description>TXT_KEY_BUILD_HUNTFORFURS</Description>
+
+			<Help>TXT_KEY_BUILD_CONSUMED_HELP</Help>
+			<Kill>1</Kill>
+			<EntityEvent>ENTITY_EVENT_MINE</EntityEvent>
+			<HotKey>KB_F</HotKey>
+			<OrderPriority>96</OrderPriority>
+			<IconIndex>25</IconIndex>
+			<IconAtlas>RESOURCE_ATLAS</IconAtlas>
+		</Row>
+	</Builds>
+	<UnitPromotions_CivilianUnitType>
+		<Row>
+			<PromotionType>PROMOTION_CAN_MOVE_IMPASSABLE</PromotionType>
+			<UnitType>UNIT_CANADIANVOYAGEUR</UnitType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_ALLWATER_EMBARKATION</PromotionType>
+			<UnitType>UNIT_CANADIANVOYAGEUR</UnitType>
+		</Row>
+	</UnitPromotions_CivilianUnitType>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_UNIT_CANADIANVOYAGEUR">
+			<Text>Great Voyageur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CANADIANVOYAGEUR_TEXT">
+			<Text>The Voyageurs were people who engaged in the transporting of furs by canoe during the fur trade era. Voyageur is a French word, which literally means "traveler".</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CANADIANVOYAGEUR_STRATEGY">
+			<Text>Voyageurs are capable of creating Fur resources, which you can trade to your allies or to make more allies. They can also work as Caravans. If you have reached your maximum number of trade routes, the Voyageur will allow you to exceed it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_CANADIANVOYAGEUR">
+			<Text>Consume this unit to turn it into a Caravan (if you have maxed out your trade routes, this will allow you to exceed it) or to discover new sources of Furs. The Voyageur can also instantly move between your cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CAVOYAGEUR1">
+			<Text>Étienne Brûlé</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CAVOYAGEUR2">
+			<Text>Jean Nicolet de Belleborne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CAVOYAGEUR3">
+			<Text>Médard Chouart des Groseilliers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CAVOYAGEUR4">
+			<Text>Pierre-Esprit Radisson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CAVOYAGEUR5">
+			<Text>Daniel Greysolon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CAVOYAGEUR6">
+			<Text>Jean-Baptiste Antaya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CAVOYAGEUR7">
+			<Text>Francois Ainsse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CAVOYAGEUR8">
+			<Text>Ambroise Allard</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CAVOYAGEUR9">
+			<Text>Alexis Baudry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CAVOYAGEUR10">
+			<Text>Pierre Hamel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CAVOYAGEUR11">
+			<Text>Joseph LaBelle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CAVOYAGEUR12">
+			<Text>Louis Laviolette</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CAVOYAGEUR13">
+			<Text>Joseph Leger Dit Parisien</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CAVOYAGEUR14">
+			<Text>Gabriel Mabrien</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CAVOYAGEUR15">
+			<Text>Louis Martin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CAVOYAGEUR16">
+			<Text>Antoine Villeneuve</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_HUDSONSBAYTRADINGPOST">
+			<Text>Hudson's Bay Company Trading House</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_HUNTFORFURS">
+			<Text>Spend a turn to hunt for Furs</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

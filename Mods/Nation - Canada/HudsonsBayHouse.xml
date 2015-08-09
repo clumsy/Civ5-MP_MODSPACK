@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/19/2013 2:27:35 PM -->
+<GameData>
+	<Improvements>
+		<Row>
+			<Type>IMPROVEMENT_HUNTFORFURS</Type>
+			<Description>TXT_KEY_IMPROVEMENT_HUNTFORFURS</Description>
+			<Civilopedia>TXT_KEY_CIV5_IMPROVEMENTS_HUNTFORFURS_TEXT</Civilopedia>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_CAMP</ArtDefineTag>
+			<BuildableOnResources>false</BuildableOnResources>
+			<ImprovementPillage>IMPROVEMENT_HUNTFORFURS</ImprovementPillage>
+			<PillageGold>0</PillageGold>
+			<CreatedByGreatPerson>true</CreatedByGreatPerson>
+			<PortraitIndex>25</PortraitIndex>
+			<IconAtlas>RESOURCE_ATLAS</IconAtlas>
+			<SpecificCivRequired>true</SpecificCivRequired>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+		</Row>
+	</Improvements>
+	<Improvement_ValidTerrains>
+		<Row>
+			<ImprovementType>IMPROVEMENT_HUNTFORFURS</ImprovementType>
+			<TerrainType>TERRAIN_GRASS</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_HUNTFORFURS</ImprovementType>
+			<TerrainType>TERRAIN_PLAINS</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_HUNTFORFURS</ImprovementType>
+			<TerrainType>TERRAIN_DESERT</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_HUNTFORFURS</ImprovementType>
+			<TerrainType>TERRAIN_TUNDRA</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_HUNTFORFURS</ImprovementType>
+			<TerrainType>TERRAIN_SNOW</TerrainType>
+		</Row>
+	</Improvement_ValidTerrains>
+	<Improvement_ValidFeatures>
+		<Row>
+			<ImprovementType>IMPROVEMENT_HUNTFORFURS</ImprovementType>
+			<FeatureType>FEATURE_FOREST</FeatureType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_HUNTFORFURS</ImprovementType>
+			<FeatureType>FEATURE_JUNGLE</FeatureType>
+		</Row>
+	</Improvement_ValidFeatures>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_IMPROVEMENT_HUNTFORFURS">
+			<Text>Hunting for Furs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_HUNTFORFURS_TEXT">
+			<Text>The Voyageur hunts the area for sources of Furs, and sets up a workiong relationship with any indiginous groups to provide those furs.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

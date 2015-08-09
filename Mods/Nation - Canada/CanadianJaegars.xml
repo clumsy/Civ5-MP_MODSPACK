@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/1/2013 7:12:08 PM -->
+<GameData>
+	<Units>
+		<Row>
+			<Class>UNITCLASS_MECH</Class>
+			<Type>UNIT_CANADIANJAEGER</Type>
+			<PrereqTech>TECH_NUCLEAR_FUSION</PrereqTech>
+			<Combat>150</Combat>
+			<Cost>550</Cost>
+			<FaithCost>1100</FaithCost>
+			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
+			<Moves>5</Moves>
+			<CombatClass>UNITCOMBAT_ARMOR</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_ATTACK</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_MECH</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_MODERN_CANADIANJAEGER_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_MECH_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_MECH</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<Mechanized>true</Mechanized>
+			<AdvancedStartCost>80</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_MECH</UnitArtInfo>
+			<UnitFlagIconOffset>83</UnitFlagIconOffset>
+			<IconAtlas>UNIT_ATLAS_2</IconAtlas>
+			<PortraitIndex>36</PortraitIndex>
+			<MoveRate>ROBOT</MoveRate>
+			<ShowInPedia>false</ShowInPedia>
+		</Row>
+	</Units>
+	<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_CANADIANJAEGER</UnitType>
+			<UnitAIType>UNITAI_ATTACK</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CANADIANJAEGER</UnitType>
+			<UnitAIType>UNITAI_FAST_ATTACK</UnitAIType>
+		</Row>
+	</Unit_AITypes>
+	<Unit_Flavors>
+		<Row>
+			<UnitType>UNIT_CANADIANJAEGER</UnitType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>25</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CANADIANJAEGER</UnitType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CANADIANJAEGER</UnitType>
+			<FlavorType>FLAVOR_MOBILE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+	</Unit_Flavors>
+	<Unit_FreePromotions>
+		<Row>
+			<UnitType>UNIT_CANADIANJAEGER</UnitType>
+			<PromotionType>PROMOTION_NO_DEFENSIVE_BONUSES</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CANADIANJAEGER</UnitType>
+			<PromotionType>PROMOTION_CAN_MOVE_AFTER_ATTACKING</PromotionType>
+		</Row>
+	</Unit_FreePromotions>
+	<Unit_ResourceQuantityRequirements>
+		<Row>
+			<UnitType>UNIT_CANADIANJAEGER</UnitType>
+			<ResourceType>RESOURCE_URANIUM</ResourceType>
+		</Row>
+	</Unit_ResourceQuantityRequirements>
+	<Unit_UniqueNames>
+		<Row>
+			<UnitType>UNIT_CANADIANJAEGER</UnitType>
+			<UniqueName>TXT_KEY_UNIT_CANADIANJAEGER1</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CANADIANJAEGER</UnitType>
+			<UniqueName>TXT_KEY_UNIT_CANADIANJAEGER2</UniqueName>
+		</Row>
+	</Unit_UniqueNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MODERN_CANADIANJAEGER_TEXT">
+			<Text>Whether you've got to fight the Huns, the Greeks, or possibly aliens from the deep, sometimes you just need to break out one of these bad boys.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CANADIANJAEGER1">
+			<Text>Brawler Yukon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CANADIANJAEGER2">
+			<Text>Chrome Brutus</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

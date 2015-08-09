@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/15/2014 8:13:40 AM -->
+<GameData>
+	<ArtDefine_UnitInfos>
+		<Row>
+			<Type>ART_DEF_UNIT_CANADIANVOYAGEUR</Type>
+			<DamageStates>1</DamageStates>
+			<Formation>ThreeInLine</Formation>
+		</Row>
+	</ArtDefine_UnitInfos>
+	<ArtDefine_UnitInfoMemberInfos>
+		<Row>
+			<UnitInfoType>ART_DEF_UNIT_CANADIANVOYAGEUR</UnitInfoType>
+			<UnitMemberInfoType>ART_DEF_UNIT_MEMBER_SCOUT</UnitMemberInfoType>
+			<NumMembers>1</NumMembers>
+		</Row>
+		<Row>
+			<UnitInfoType>ART_DEF_UNIT_CANADIANVOYAGEUR</UnitInfoType>
+			<UnitMemberInfoType>ART_DEF_UNIT_MEMBER_EUROMALE20</UnitMemberInfoType>
+			<NumMembers>2</NumMembers>
+		</Row>
+	</ArtDefine_UnitInfoMemberInfos>
+</GameData>

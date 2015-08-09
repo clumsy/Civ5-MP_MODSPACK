@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/19/2013 2:20:49 PM -->
+<GameData>
+	<Units>
+		<Row>
+			<Class>UNITCLASS_CANNON</Class>
+			<Type>UNIT_GARRISONARTILLERY</Type>
+			<PrereqTech>TECH_CHEMISTRY</PrereqTech>
+			<Combat>14</Combat>
+			<RangedCombat>20</RangedCombat>
+			<Cost>185</Cost>
+			<FaithCost>370</FaithCost>
+			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
+			<Moves>2</Moves>
+			<Range>2</Range>
+			<CombatClass>UNITCOMBAT_SIEGE</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_DEFENSE</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_GARRISONARTILLERY</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_GARRISONARTILLERY_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_GARRISONARTILLERY_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_GARRISONARTILLERY</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<IgnoreBuildingDefense>false</IgnoreBuildingDefense>
+			<ObsoleteTech>TECH_DYNAMITE</ObsoleteTech>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_ARTILLERY</GoodyHutUpgradeUnitClass>
+			<AdvancedStartCost>30</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_CONFEDERATE_ARTILLERY_NAPOLEON</UnitArtInfo>
+			<UnitFlagAtlas>GARRISONART_FLAG</UnitFlagAtlas>
+			<UnitFlagIconOffset>0</UnitFlagIconOffset>
+			<IconAtlas>COLONIALCANADA_ICON</IconAtlas>
+			<PortraitIndex>4</PortraitIndex>
+			<MoveRate>ARTILLERY</MoveRate>
+			<WorkRate>100</WorkRate>
+		</Row>
+	</Units>
+	<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_GARRISONARTILLERY</UnitType>
+			<UnitAIType>UNITAI_DEFENSE</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_GARRISONARTILLERY</UnitType>
+			<UnitAIType>UNITAI_RANGED</UnitAIType>
+		</Row>
+	</Unit_AITypes>
+	<Unit_ClassUpgrades>
+		<Row>
+			<UnitType>UNIT_GARRISONARTILLERY</UnitType>
+			<UnitClassType>UNITCLASS_ARTILLERY</UnitClassType>
+		</Row>
+	</Unit_ClassUpgrades>
+	<Unit_Flavors>
+		<Row>
+			<UnitType>UNIT_GARRISONARTILLERY</UnitType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_GARRISONARTILLERY</UnitType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_GARRISONARTILLERY</UnitType>
+			<FlavorType>FLAVOR_RANGED</FlavorType>
+			<Flavor>9</Flavor>
+		</Row>
+	</Unit_Flavors>
+	<Unit_FreePromotions>
+		<Row>
+			<UnitType>UNIT_GARRISONARTILLERY</UnitType>
+			<PromotionType>PROMOTION_ONLY_DEFENSIVE</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_GARRISONARTILLERY</UnitType>
+			<PromotionType>PROMOTION_CANADASIEGE</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_GARRISONARTILLERY</UnitType>
+			<PromotionType>PROMOTION_MUST_SET_UP</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_GARRISONARTILLERY</UnitType>
+			<PromotionType>PROMOTION_SIGHT_PENALTY</PromotionType>
+		</Row>
+	</Unit_FreePromotions>
+	<Unit_Builds>
+		<Row>
+			<UnitType>UNIT_GARRISONARTILLERY</UnitType>
+			<BuildType>BUILD_FORT</BuildType>
+		</Row>
+	</Unit_Builds>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_UNIT_GARRISONARTILLERY">
+			<Text>Garrison Artillery</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_GARRISONARTILLERY_TEXT">
+			<Text>The Garrison Artillery was a key component of the British military. It served cities and forts, and defended them in times of need. They were used a lot in Canada, as Britain had a large amount of forts than needed defence, making the Garrison Artillery even more useful. They were effectively fixed in place while in forts or other settlements, and would simply bombard anyone who tried to come near. They were particularly effective as they were fairly strong and very hard to take down while in a fort, so invaders would have a hard time getting past them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GARRISONARTILLERY_STRATEGY">
+			<Text>Garrison Artillery are rather bad a sieging cities, but deal double damage when placed inside Forts and Citadels. Build extra forts and place Garrison Artillery there to gain a distinct defensive advantage.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_GARRISONARTILLERY">
+			<Text>Deals double damage from within Forts and Citadels and can repair damaged improvements and build Forts, unlike the Cannon which it replaces.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

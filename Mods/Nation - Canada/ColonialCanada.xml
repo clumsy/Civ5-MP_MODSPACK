@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/6/2013 9:47:06 PM -->
+<GameData>
+	<Civilizations>
+		<Row>
+			<Type>CIVILIZATION_COLONIALCANADA</Type>
+			<Description>TXT_KEY_CIV_COLONIALCANADA_DESC</Description>
+			<Civilopedia/>
+			<CivilopediaTag>TXT_KEY_CIV5_COLONIALCANADA</CivilopediaTag>
+			<Strategy/>
+			<Playable>1</Playable>
+			<AIPlayable>1</AIPlayable>
+			<ShortDescription>TXT_KEY_CIV_COLONIALCANADA_SHORT_DESC</ShortDescription>
+			<Adjective>TXT_KEY_CIV_COLONIALCANADA_ADJECTIVE</Adjective>
+			<DefaultPlayerColor>PLAYERCOLOR_COLONIALCANADA</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_ENGLAND</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+			<ArtStyleSuffix>_EURO</ArtStyleSuffix>
+			<ArtStylePrefix>EUROPEAN</ArtStylePrefix>
+			<DerivativeCiv/>
+			<PortraitIndex>1</PortraitIndex>
+			<!--not really -->
+			<IconAtlas>COLONIALCANADA_ICON</IconAtlas>
+			<AlphaIconAtlas>COLONIALCANADA_ALPHA</AlphaIconAtlas>
+			<MapImage>ColonialCanada_Map.dds</MapImage>
+			<DawnOfManQuote>TXT_KEY_CIV5_DAWN_COLONIALCANADA_TEXT</DawnOfManQuote>
+			<DawnOfManImage>ColonialCanadaDOM.dds</DawnOfManImage>
+			<DawnOfManAudio>AS2D_DOM_SPEECH_COLONIALCANADA</DawnOfManAudio>
+			<!-- Will change? -->
+			<PackageID/>
+			<SoundtrackTag>ENGLAND</SoundtrackTag>
+			<!-- Will change?-->
+		</Row>
+	</Civilizations>
+	<Civilization_CityNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_COLONIALCANADA_0</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_COLONIALCANADA_1</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_COLONIALCANADA_2</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_COLONIALCANADA_3</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_COLONIALCANADA_4</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_COLONIALCANADA_5</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_COLONIALCANADA_6</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_COLONIALCANADA_7</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_COLONIALCANADA_8</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_COLONIALCANADA_9</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_COLONIALCANADA_10</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_COLONIALCANADA_11</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_COLONIALCANADA_12</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_COLONIALCANADA_13</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_COLONIALCANADA_14</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_COLONIALCANADA_15</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_COLONIALCANADA_16</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_COLONIALCANADA_17</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_COLONIALCANADA_18</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_COLONIALCANADA_19</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_COLONIALCANADA_20</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_COLONIALCANADA_21</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_COLONIALCANADA_22</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_COLONIALCANADA_23</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_COLONIALCANADA_24</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_COLONIALCANADA_25</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_COLONIALCANADA_26</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_COLONIALCANADA_27</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_COLONIALCANADA_28</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_COLONIALCANADA_29</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_COLONIALCANADA_30</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_COLONIALCANADA_31</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_COLONIALCANADA_32</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_COLONIALCANADA_33</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_COLONIALCANADA_34</CityName>
+		</Row>
+	</Civilization_CityNames>
+	<!-- Civilization_DisableTechs -->
+	<Civilization_FreeBuildingClasses>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+		</Row>
+	</Civilization_FreeBuildingClasses>
+	<Civilization_FreeTechs>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<TechType>TECH_AGRICULTURE</TechType>
+		</Row>
+	</Civilization_FreeTechs>
+	<Civilization_FreeUnits>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+			<UnitAIType>UNITAI_SETTLE</UnitAIType>
+			<Count>1</Count>
+		</Row>
+	</Civilization_FreeUnits>
+	<Civilization_Leaders>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<LeaderheadType>LEADER_LESTERBPEARSON</LeaderheadType>
+		</Row>
+	</Civilization_Leaders>
+	<Civilization_Religions>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<ReligionType>RELIGION_PROTESTANTISM</ReligionType>
+		</Row>
+	</Civilization_Religions>
+	<Civilization_SpyNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_COLONIALCANADA_0</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_COLONIALCANADA_1</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_COLONIALCANADA_2</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_COLONIALCANADA_3</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_COLONIALCANADA_4</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_COLONIALCANADA_5</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_COLONIALCANADA_6</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_COLONIALCANADA_7</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_COLONIALCANADA_8</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_COLONIALCANADA_9</SpyName>
+		</Row>
+	</Civilization_SpyNames>
+	<Civilization_UnitClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<UnitClassType>UNITCLASS_MERCHANT</UnitClassType>
+			<UnitType>UNIT_CANADIANVOYAGEUR</UnitType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<UnitClassType>UNITCLASS_CANNON</UnitClassType>
+			<UnitType>UNIT_GARRISONARTILLERY</UnitType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<UnitClassType>UNITCLASS_FIGHTER</UnitClassType>
+			<UnitType>UNIT_EEAVROARROW</UnitType>
+		</Row>
+	</Civilization_UnitClassOverrides>
+	<Civilization_Start_Region_Priority>
+		<Row>
+			<CivilizationType>CIVILIZATION_COLONIALCANADA</CivilizationType>
+			<RegionType>REGION_TUNDRA</RegionType>
+		</Row>
+	</Civilization_Start_Region_Priority>
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_COLONIALCANADA</Type>
+			<PrimaryColor>COLOR_PLAYER_COLONIALCANADA_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_COLONIALCANADA_BACKGROUND</SecondaryColor>
+			<TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_COLONIALCANADA_ICON</Type>
+			<Red>0.961</Red>
+			<Green>0.871</Green>
+			<Blue>0.600</Blue>
+			<Alpha>1.0</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_COLONIALCANADA_BACKGROUND</Type>
+			<Red>0.898</Red>
+			<Green>0.102</Green>
+			<Blue>0.159</Blue>
+			<Alpha>1.0</Alpha>
+		</Row>
+	</Colors>
+	<MinorCivilizations>
+		<Update>
+			<Set Description="TXT_KEY_CITYSTATE_STJOHNSNEWF" ShortDescription="TXT_KEY_CITYSTATE_STJOHNSNEWF" Adjective="TXT_KEY_CITYSTATE_STJOHNSNEWF_ADJ" Civilopedia="TXT_KEY_CIV5_STJOHNSNEWF_TEXT" ArtStyleType="ARTSTYLE_EUROPEAN" ArtStyleSuffix="_EURO" ArtStylePrefix="EURO "/>
+			<Where Type="MINOR_CIV_VANCOUVER"/>
+		</Update>
+		<Update>
+			<Set Description="TXT_KEY_CITYSTATE_NUUK" ShortDescription="TXT_KEY_CITYSTATE_NUUK" Adjective="TXT_KEY_CITYSTATE_NUUK_ADJ" Civilopedia="TXT_KEY_CIV5_NUUK_TEXT" ArtDefineTag="ART_DEF_CIVILIZATION_MINOR" ArtStyleType="ARTSTYLE_EUROPEAN" ArtStyleSuffix="_EURO" ArtStylePrefix="EURO "/>
+			<Where Type="MINOR_CIV_QUEBEC_CITY"/>
+		</Update>
+	</MinorCivilizations>
+	<MinorCivilization_CityNames>
+		<Update>
+			<Set CityName="TXT_KEY_CITYSTATE_STJOHNSNEWF"/>
+			<Where MinorCivType="MINOR_CIV_VANCOUVER"/>
+		</Update>
+		<Update>
+			<Set CityName="TXT_KEY_CITYSTATE_NUUK"/>
+			<Where MinorCivType="MINOR_CIV_QUEBEC_CITY"/>
+		</Update>
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_COLONIALCANADA_DESC">
+			<Text>Canada</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_COLONIALCANADA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_COLONIALCANADA_HEADING_2">
+			<Text>Climate and Terrain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_COLONIALCANADA_HEADING_3">
+			<Text>Colonization</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_COLONIALCANADA_HEADING_4">
+			<Text>New France</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_COLONIALCANADA_HEADING_5">
+			<Text>The Struggle for Canada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_COLONIALCANADA_HEADING_6">
+			<Text>War of 1812</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_COLONIALCANADA_HEADING_7">
+			<Text>Industrialisation and Immigration</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_COLONIALCANADA_HEADING_8">
+			<Text>Independence and World Wars</Text>
+		</Row>
+		<Row tag="TXT_KEY_CIV5_COLONIALCANADA_HEADING_9">
+			<text>Modern Canada</text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_COLONIALCANADA_STATBOX">
+			<Text>[NEWLINE]        Leader: Lester B. Pearson[NEWLINE]        Unique Unit: Garrison Artillery[NEWLINE]        Unique Unit: Voyageur[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_COLONIALCANADA_TEXT_1">
+			<Text>Canada's history is several thousand years old, but in the past thousand years or so, more people have arrived and prospered in the nation than ever before. Leif Ericsson discovered Canada around 1000 AD, making it the first part of America to have been discovered from outside. Years passed, and Ericsson's settlements were no more. In 1492, Columbus rediscovered America, and soon enough, the major European powers were ready to get a spot there. France quickly colonised Quebec and renamed the area to New France, but soon they got wrecked by British Imperialism and lost the province, although a lot of Quebecoises still want independence (just not enough to actually get it). Canada remained a major British colony, and even when the United States got independence, Canada remained with Britain. Even through the World Wars, they remained a loyal ally. Canada today is one of the best devoloped countries in the world. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_COLONIALCANADA_TEXT_2">
+			<Text>Canada is the second-largest country in the world, and also has the longest coastline. Most of Northern Canada is uninhabitable due to the vast amount of tundra and snow, so the population is mainly focused in the south, although the world's most northern settlement is in Canada. There are a lot of volcanoes in Canada, and it is generally very geologically active. Canada also yields the most lakes in the world, and several mountain ranges run throughought the country. Canada's temperature varies considerably, especially in the east coast, where the winters are very cold, and summers are very warm. This is to do with sea currents, as none of them affect Canadian weather there directly, making it snow quite often during the winter months. During this time, Canadians have to find the best method of transport, as cars may no longer be a viable option.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_COLONIALCANADA_TEXT_3">
+			<Text>Before the British came to colonise Canada, there were many tribes there, which I won't go into detail about because that means less material for the First Nations civs. Anyway, the French managed to get a couple of colonies around the place, while England decided to found St John's on Newfoundland. The French established new colonies in Canada and did some fur trading, while the English decided to colonise a ton of stuff south of Canada, and what do you know, that became the USA. England became the British Empire, and they decided to focus more on their colonies. By this time, Newfoundland was looking pretty good, and they had a good couple of colonies around the place. However, they wanted more. Looking over the ocean, they saw the French, happily building away at their colonies, and creating New France. The instant destruction of it was now required for the glory of the British Empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_COLONIALCANADA_TEXT_4">
+			<Text>New France was effectively founded by Jacques Cartier when he decided to claim pretty much the whole of Canada for the French. He stuck a cross in the ground, saying "Long Live the King of France", and that was about it. Soon enough, French fur traders were thriving in the region, known now as "Voyageurs". They had explored most of the Hudson Bay, the Great Lakes, and even Louisiana. They even made some gains in the Beaver Wars (more about the fur trade and not so much about beavers). French Canada, unquestionable, right? [NEWLINE][NEWLINE] Well, nope. Soon enough, Britain wanted their own parts of the landmass. War broke out soon enough, in 1689. And three more times, before Britain and France decided that France would get Quebec, and Britain could have pretty much everything else. It continued this way for some time. Then Britain decided that they might as well have Quebec as well.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_COLONIALCANADA_TEXT_5">
+			<Text>In 1756, the Seven Years' War properly broke out between Britain, France, and their allies. At the start, it was mainly focused in Europe, but spread to the colonies over - wait for it -  fur trade. Yup. Yet again, the French wanted to keep their fur trade stock open, so they started another war. Most of the settlements that Britain and France had in the colonies were forts, rendering them somewhat hard to take. However, there was a third group - the Iroquois. They were getting pretty annoyed with the French and British settling their lands, but instead of fighting them, they just got them really mad at each other so that they would be too busy fighting each other to fight the Iroquois, giving them the title of "Diplo Master Supreme". Back in the day, George Washington was in the British army, and lead several raids to destroy French settlements. A few years later, in 1759, General Wolfe managed to take Quebec. He died in the process, but aside from that, he effectively claimed Quebec as British land.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_COLONIALCANADA_TEXT_6">
+			<Text>George Washington decided that the United States was better off independent, so eventually a ton of stuff happened and we're left with the USA, which is important because they invaded Canada in 1812, perhaps part of the reason why the conflict is now known as the "War of 1812". The US troops crossed the border into Canada, having previously signed a Declaration of War against Britain. They attacked a couple of forts, and a couple of British ships, but aside from that, they mostly did nothing. As the Napoleonic Wars were raging in Europe, Britain didn't do much either and left the Canadians to hold out. Once Britain had finished with Napoleon, they decided to come over to the USA. Instead of just fighting them, they fought them and burnt down the White House, due in no small part to Canada. It's painted white today just to cover up the burns. The war is more widely remembered in Canada than Britain, as they had some more important stuff (Napoleon) to worry about.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_COLONIALCANADA_TEXT_7">
+			<Text>Over the 19th century, Canada expanded throughout the plains, and soon became the largest British colony. The Canadian Pacific Railway was constructed, giving far better access to Canada's Pacific coast than ever before. During this time, merchants still prospered from the fur trade, and better yet, Canada's population was growing due to a new influx of European immigrants, especially from the British Isles. Soon enough, a lot of the land was settled for farming use, and the nation was at its best - an industrialised, yet rural nation. While most Canadian land isn't used, they have a lower population than most states to support, thus rendering it unnecessary to have a large industrial workforce, although the eastern provinces did become a lot more industrialised than the ones in the west. The Mounted Police Force was also set up in this time to keep order in the more rural areas of the nation. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_COLONIALCANADA_TEXT_8">
+			<Text>Canada got its interdependence in 1901, and John A. MacDonald was elected the first Prime Minister. Canada was doing fantastic, but they still had very close ties to Britain. When the First World War came, Canada joined on Britain's side almost immediately, and began forming units to serve with the Brits. Canada saw action at the Somme, and eventually forced the Germans away from Belgium. This helped to put the new state onto the world stage. During the 1930s, Canada suffered from the Great Depression. However, Canada was able to persevere through this, and came out an altogether better state. In 1939, Canada declared war of Germany three days after Britain, and the first of their troops arrived in Britain just two months later. Canada helped largely in the war, and at D-Day, they made the furthest advancements at their beach-head, beating Britain and the USA. Soon enough, Canadian troops marched on Berlin to free the people from facism.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_COLONIALCANADA_TEXT_9">
+			<Text>Today, Canada is one of the most developed countries in the world. It has a mostly free healthcare service, a very high standard of living, and is so much so that it is often rated the best country in the world, or at least very highly, in opinion polls. It is still a democratic state, although the head of state is still Queen Elisabeth II of the United Kingdom. Canada also participates in the Commonwealth Games, along with other former British colonies, such as Australia, New Zealand and India, also having hosted it several times. Internationally, Canadians are widely stereotyped, often for apologising a lot, holding doors open and for saying "Eh?" as well, although most Canadians deny the stereotypes. Throughout the years, Canada has grown, prospered and become one of the greatest states in the world, being internationally recognised through organisations such as the UN and G8 as a large player in world affairs. Canada has strived for the best for the people at all times, and should they continue this, Canada should for evermore prosper.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_COLONIALCANADA_FACTOID_TEXT">
+			<Text>In Churchill, next to Hudson Bay, people leave their cars unlocked most of the time. This isn't just forgetful or lazy; it's because if a polar bear comes to the town, people's best chance is to get in a car to escape.[NEWLINE][NEWLINE]Although Canada is often treated as a "peaceful" nation, especially compared to its neighbour, the United States of America, it entered both World Wars before it and has also taken part in most major conflicts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_COLONIALCANADA_TITLE">
+			<Text>Dominon of Canada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_COLONIALCANADA_SHORT_DESC">
+			<Text>Canada</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_COLONIALCANADA_ADJECTIVE">
+			<Text>Canadian</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_COLONIALCANADA_TEXT">
+			<Text>
+				Greetings, Right Honourable Lester B. Pearson. You are considered one of the greatest and most influential of all the Canadian leaders. As Prime Minister, your efforts to bring about peace for your nation set the tone of Canada on the world stage. Under your guidance, Canada adopted universal healthcare, ended the death penalty, and became the first country in the world to allow race-free immigration. Your experience fighting in the World Wars led you to champion the cause of peace and, after avoiding the Vietnam War and helping end the Suez Canal crisis, you were awarded with the Nobel Prize for Peace in 1957. You had literally saved the world.[NEWLINE][NEWLINE]Now, Right Honourable Prime Minister, your people look to you for leadership. The world is a violent place, filled with ambitious leaders with unscrupulous tactics. We need a leader who understands the realities of war and peace, who will push for diplomatic solutions whenever it is possible. Unify our allies, stymie our enemies, and forge a civilization that can stand the test of time!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COLONIALCANADA_0">
+			<Text>Ottawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COLONIALCANADA_1">
+			<Text>Kingston</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COLONIALCANADA_2">
+			<Text>Montreal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COLONIALCANADA_3">
+			<Text>Toronto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COLONIALCANADA_4">
+			<Text>Quebec City</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COLONIALCANADA_5">
+			<Text>Charlottetown</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COLONIALCANADA_6">
+			<Text>Halifax</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COLONIALCANADA_7">
+			<Text>Saint John</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COLONIALCANADA_8">
+			<Text>Sherbrooke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COLONIALCANADA_9">
+			<Text>Fort Rouille</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COLONIALCANADA_10">
+			<Text>Sarnia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COLONIALCANADA_11">
+			<Text>St. Catharines</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COLONIALCANADA_12">
+			<Text>London</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COLONIALCANADA_13">
+			<Text>Hamilton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COLONIALCANADA_14">
+			<Text>Victoria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COLONIALCANADA_15">
+			<Text>Oshawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COLONIALCANADA_16">
+			<Text>Kitchener</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COLONIALCANADA_17">
+			<Text>Windsor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COLONIALCANADA_18">
+			<Text>Winnipeg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COLONIALCANADA_19">
+			<Text>Calgary</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COLONIALCANADA_20">
+			<Text>Regina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COLONIALCANADA_21">
+			<Text>Saskatoon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COLONIALCANADA_22">
+			<Text>Vancouver</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COLONIALCANADA_23">
+			<Text>Edmonton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COLONIALCANADA_24">
+			<Text>Granville</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COLONIALCANADA_25">
+			<Text>Stanley Park</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COLONIALCANADA_26">
+			<Text>Whitehorse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COLONIALCANADA_27">
+			<Text>Yellowknife</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COLONIALCANADA_28">
+			<Text>Iqaluit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COLONIALCANADA_29">
+			<Text>Fredericton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COLONIALCANADA_30">
+			<Text>Charlottetown</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COLONIALCANADA_31">
+			<Text>Kelowna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COLONIALCANADA_32">
+			<Text>Enderby</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COLONIALCANADA_33">
+			<Text>Lethbridge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COLONIALCANADA_34">
+			<Text>Medicine Hat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_COLONIALCANADA_0">
+			<Text>Intrepid</Text>
+			<gender>masculine</gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_COLONIALCANADA_1">
+			<Text>Dudley</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_COLONIALCANADA_2">
+			<Text>Hugo</Text>
+			<gender>masculine</gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_COLONIALCANADA_3">
+			<Text>Igor Gouzenko</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_COLONIALCANADA_4">
+			<Text>Archie</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_COLONIALCANADA_5">
+			<Text>Guy</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_COLONIALCANADA_6">
+			<Text>Terrance</Text>
+			<gender>masculine</gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_COLONIALCANADA_7">
+			<Text>Jim</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_COLONIALCANADA_8">
+			<Text>Bill</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_COLONIALCANADA_9">
+			<Text>Fadden</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NUUK">
+			<Text>Nuuk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NUUK_ADJ">
+			<Text>Greenlandish</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NUUK_TEXT">
+			<Text>Nuuk is the capital and largest city in Greenland.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_STJOHNSNEWF">
+			<Text>St. John's</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_STJOHNSNEWF_ADJ">
+			<Text>Newfie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_STJOHNSNEWF_TEXT">
+			<Text>St. John's, Newfoundland, is the provicial capital of Newfoundland. Newfoundland did not become a province of Canada until the end of World War II, far after the age of Canada as a Colonial entity.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

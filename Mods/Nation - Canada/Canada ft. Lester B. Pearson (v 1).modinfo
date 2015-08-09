@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="f9507e9b-077f-4718-9389-87f7cb509ae5" version="1">
+  <Properties>
+    <Name>[BNW] Colonialist Legacies - Canadian Dominion
+</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Brings the diplomatic knowhow and understanding of the great white North to the Game in the form of a Canadian civ!</Teaser>
+    <Description>Brings the diplomatic knowhow and financial understanding of the great white North to the Game in the form of a Canadian civ!</Description>
+    <Authors>TPangolin, Neirai</Authors>
+    <SpecialThanks>Bamington</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="50C54139A8C570F1ED036C03A3C54736" import="1">Art/CanadaDiploScreen.dds</File>
+    <File md5="864114EA1E963FB3C85D0D7F0337CC12" import="1">Art/CanadaIcon128.dds</File>
+    <File md5="6DEDE86F561E59F08FBFFBB93890FB6B" import="1">Art/CanadaIcon16.dds</File>
+    <File md5="D7D3B79E3933203D1D9619B950241E80" import="1">Art/CanadaIcon24.dds</File>
+    <File md5="20B172794A8AE4EE5F9401EA78E42222" import="1">Art/CanadaIcon256.dds</File>
+    <File md5="4D217ACA7DF0AEC46D0F66B732FCFF16" import="1">Art/CanadaIcon32.dds</File>
+    <File md5="E30797D21ADF796B962BA238A82894CB" import="1">Art/CanadaIcon45.dds</File>
+    <File md5="6C32274BAE4B54D9400891F2567B4CDB" import="1">Art/CanadaIcon48.dds</File>
+    <File md5="B31BD4746E1B33602A31651C4A8ABBE0" import="1">Art/CanadaIcon64.dds</File>
+    <File md5="4AE364A31353B3F41F93333143F7FA5C" import="1">Art/CanadaIcon80.dds</File>
+    <File md5="956DC751280E99B96F79EB8F7B0B29A5" import="1">Art/CanadianAtlases.xml</File>
+    <File md5="F26D9A3D31A16D56B9FB9010268F9628" import="1">Art/ColonialCanadaDOM.dds</File>
+    <File md5="98B5E07C2A91339304369F8B99A36EC2" import="1">Art/ColonialCanada_Map.dds</File>
+    <File md5="108FB03E3226AB93EBDBF6293C3B8C19" import="1">Art/GarrisonFlag.dds</File>
+    <File md5="E0056909A6530303B501D39CDEEDBA8E" import="1">Art/VoyageurFlag.dds</File>
+    <File md5="7715D4E91985B536857E3FB2E610E2D0" import="1">Civ/LesterDOM.mp3</File>
+    <File md5="9362567CE1F28AF8930E96B4E46343C7" import="1">UnitArt/arrow_diff.dds</File>
+    <File md5="B8E09C64B3EDCA84485E36747B308996" import="1">UnitArt/arrow_sref.dds</File>
+    <File md5="0577CC5B2172F805CA41DBBC9526221A" import="1">UnitArt/AvroArrow.fxsxml</File>
+    <File md5="705B1A78E34DC7123EE80C2D455A31D6" import="1">UnitArt/AvroArrow.gr2</File>
+    <File md5="C705E5D6C098FB0C3340B8841FD126CD" import="1">UnitArt/AvroArrow.png</File>
+    <File md5="8608EB2C555BFDF8CC32C79DC936E0DC" import="1">UnitArt/fx_triggers_arrow.ftsxml</File>
+    <File md5="AC41C06BA721315512F26433220FEDF7" import="1">UnitArt/no_gloss.dds</File>
+    <File md5="7ADA4CDB30251B68BB80F2813D41D179" import="1">UnitArt/Scout_Mongol.blend</File>
+    <File md5="853A0D7D26B9EAEFABC05E3F91C78CC7" import="1">UnitArt/Scout_Mongol.dds</File>
+    <File md5="C5FDAA44797E1655083FD5F7BFC74D7E" import="1">UnitArt/Scout_Mongol.fxsxml</File>
+    <File md5="E2D55483B9E3EB1DC325F61E6E06A507" import="1">UnitArt/Scout_Mongol.gr2</File>
+    <File md5="F56C575B6ADB9DE2D157BF7F93925BAD" import="0">Civ/ColonialCanada.xml</File>
+    <File md5="E250054D8EDF1D3823109814295DE84C" import="0">Civ/CanadianTrait.xml</File>
+    <File md5="00EFE84D26E82BE078E3B487D469B89B" import="1">Civ/ColonialCanadaPeace.mp3</File>
+    <File md5="A863C7D972FF62D18766F322D0E4531C" import="1">Civ/ColonialCanadaWar.mp3</File>
+    <File md5="7CD632D793666DA1FA78E8A5FE5EF046" import="0">Civ/ColonialCanadaMusic.xml</File>
+    <File md5="E575CDF3FEC0650755D089B95B38C2B9" import="0">Civ/LesterBPearson_Talks.xml</File>
+    <File md5="E8A7DB5568638116B9BB9CBF285CD1CF" import="1">Civ/LesterBPearson_Scene.xml</File>
+    <File md5="699CBC79F7F5BFAF1E7D5DE20D238EDF" import="0">Civ/LesterBPearson.xml</File>
+    <File md5="158D53337A2D84C2DEF99AD9FA78FFFE" import="0">Lua/CanadianRCMPCaptureScript.lua</File>
+    <File md5="545FEE9304648A355BB01692562E7391" import="0">Lua/CanadianRCMPHappiness.lua</File>
+    <File md5="5E55BBD39385CA41C9890E7E8AE09880" import="0">Lua/CanadianBrotherhoodScript.lua</File>
+    <File md5="4C318141BCF5A0709C040858D33C43C6" import="0">Lua/BonusTradeVoyageurs.lua</File>
+    <File md5="17F65D4278FC55257667C7C531EF0925" import="0">Lua/GarrisonArtilleryScript.lua</File>
+    <File md5="CE092E5732297F4E61D5F0DA4BB8DFCF" import="0">Lua/GivesHorses.lua</File>
+    <File md5="E86AF5434B67EDA6CB190FE1CC63F2DB" import="0">Units/CanadianJaegars.xml</File>
+    <File md5="9581F4C84DC49D011E71B7D465F53A33" import="0">Units/CanadaPromotions.xml</File>
+    <File md5="E8B6BEF7C123FC44F5FFA876CB5D623D" import="0">Units/CanadaMerchant.xml</File>
+    <File md5="74E093AB53AC5E72CD57A20192AFC9EA" import="0">Units/CanadaMerchantArt.xml</File>
+    <File md5="BA3524D82715FC641010FE9B866440B3" import="0">Units/AvroArrowArt.xml</File>
+    <File md5="0BC7F8196437964CC25977C102CD65FB" import="0">Units/EEAvroArrow.xml</File>
+    <File md5="3C3D9C9B1023F0E32F4318BC21859E3B" import="0">Units/HudsonsBayHouse.xml</File>
+    <File md5="D221FFEA7ADBCFEBC2EB8F713095828E" import="0">Units/GarrisonArtillery.xml</File>
+    <File md5="68FE0330C457639EC31903D0E36F1757" import="0">Units/TraitBuilding.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Units/AvroArrowArt.xml</UpdateDatabase>
+      <UpdateDatabase>Units/TraitBuilding.xml</UpdateDatabase>
+      <UpdateDatabase>Units/CanadaPromotions.xml</UpdateDatabase>
+      <UpdateDatabase>Art/CanadianAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>Units/CanadianJaegars.xml</UpdateDatabase>
+      <UpdateDatabase>Units/GarrisonArtillery.xml</UpdateDatabase>
+      <UpdateDatabase>Units/HudsonsBayHouse.xml</UpdateDatabase>
+      <UpdateDatabase>Units/CanadaMerchantArt.xml</UpdateDatabase>
+      <UpdateDatabase>Units/CanadaMerchant.xml</UpdateDatabase>
+      <UpdateDatabase>Units/EEAvroArrow.xml</UpdateDatabase>
+      <UpdateDatabase>Civ/CanadianTrait.xml</UpdateDatabase>
+      <UpdateDatabase>Civ/LesterBPearson_Talks.xml</UpdateDatabase>
+      <UpdateDatabase>Civ/LesterBPearson.xml</UpdateDatabase>
+      <UpdateDatabase>Civ/ColonialCanada.xml</UpdateDatabase>
+      <UpdateDatabase>Civ/ColonialCanadaMusic.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/BonusTradeVoyageurs.lua">
+      <Name>BonusTradeVoyageurs</Name>
+      <Description>Allows Canada to have extra trade routes for Voyageurs</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/CanadianBrotherhoodScript.lua">
+      <Name>BrotherhoodofNations</Name>
+      <Description>Gives Bonus Delegates to Canada and her Friends</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/CanadianRCMPCaptureScript.lua">
+      <Name>RCMP Capture Script</Name>
+      <Description>Credits: LastSword. Allows Canadian mounted units to capture territory.</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/CanadianRCMPHappiness.lua">
+      <Name>RCMP Happiness</Name>
+      <Description>Garrisoned Mounted Units will give Canada bonus Happiness!</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/GarrisonArtilleryScript.lua">
+      <Name>Garrison Artillery Script</Name>
+      <Description>Causes Garrison Artillery to do double damage when parked in Forts.</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/GivesHorses.lua">
+      <Name>Gives Horses</Name>
+      <Description>Gives Canada a guaranteed Source of Horses</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

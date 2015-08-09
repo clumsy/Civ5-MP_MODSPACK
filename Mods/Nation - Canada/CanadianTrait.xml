@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/14/2013 11:52:51 PM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_KEEPERSOFTHEPEACE</Type>
+			<Description>TXT_KEY_TRAIT_KEEPERSOFTHEPEACE</Description>
+			<ShortDescription>TXT_KEY_TRAIT_KEEPERSOFTHEPEACE_SHORT</ShortDescription>
+		</Row>
+	</Traits>
+	<Trait_FreePromotionUnitCombats>
+		<Row>
+			<TraitType>TRAIT_KEEPERSOFTHEPEACE</TraitType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+			<PromotionType>PROMOTION_ROYALCANADIANMOUNTIES</PromotionType>
+		</Row>
+	</Trait_FreePromotionUnitCombats>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_TRAIT_KEEPERSOFTHEPEACE">
+			<Text>
+				Mounted Units can temporarily claim neutral land and generate +2[ICON_HAPPINESS_1]	Happiness if garrisoned. Upon declaring friendship, Canada and their friend gain +1 Delegate to the World Congress.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_KEEPERSOFTHEPEACE_SHORT">
+			<Text>Keepers of the Peace</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

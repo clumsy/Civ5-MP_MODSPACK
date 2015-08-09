@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/17/2013 7:40:23 AM -->
+<GameData>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_ROYALCANADIANMOUNTIES</Type>
+			<Description>TXT_KEY_PROMOTION_ROYALCANADIANMOUNTIES</Description>
+			<Help>TXT_KEY_PROMOTION_ROYALCANADIANMOUNTIES_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_SHARED</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_ROYALCANADIANMOUNTIES</PediaEntry>
+		</Row>
+		<Row>
+			<Type>PROMOTION_CANADASIEGE</Type>
+			<Description>TXT_KEY_PROMOTION_CANADASIEGE</Description>
+			<Help>TXT_KEY_PROMOTION_CANADASIEGE_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>59</PortraitIndex>
+			<LostWithUpgrade>true</LostWithUpgrade>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PEDIA_PROMOTION_PROMOTION_CANADASIEGE</PediaEntry>
+		</Row>
+		<Row>
+			<Type>PROMOTION_STRONGRANGED</Type>
+			<Description>TXT_KEY_PROMOTION_STRONGRANGED</Description>
+			<Help>TXT_KEY_PROMOTION_STRONGRANGED_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<RangedAttackModifier>200</RangedAttackModifier>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PEDIA_PROMOTION_STRONGRANGED</PediaEntry>
+		</Row>
+	</UnitPromotions>
+	<Language_en_US>
+		<Row Tag ="TXT_KEY_PROMOTION_ROYALCANADIANMOUNTIES">
+			<Text>Mounted Police</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_PROMOTION_ROYALCANADIANMOUNTIES_HELP">
+			<Text>Temporarily captures unclaimed territory. Gives +2 Happiness when garrisoned in a city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CANADASIEGE">
+			<Text>Garrison Artillery</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CANADASIEGE_HELP">
+			<Text>When placed in a Fort or a Citadel, gain On Guard For Thee, which causes this unit to deal double damage.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_STRONGRANGED">
+			<Text>On Guard For Thee!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_STRONGRANGED_HELP">
+			<Text>Cannonades deal double damage!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
