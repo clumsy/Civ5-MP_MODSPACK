@@ -1400,6 +1400,9 @@ ContextPtr:LoadNewContext("AdmiralCityStates")
 -- Nation - Thebes --
 ContextPtr:LoadNewContext("ThebesFunctions")
 
+-- Nation - Romania --
+ContextPtr:LoadNewContext("GERomaniaFunctions")
+
 -- Nation - Cherokee --
 ContextPtr:LoadNewContext("Cherokee_Trait")
 

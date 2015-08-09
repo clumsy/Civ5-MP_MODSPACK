@@ -1,0 +1,34 @@
+<GameData>
+	<Audio_Sounds>
+
+		<!--Ohiggins Music-->
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_GE_CAROL_PEACE</SoundID>
+			<Filename>GECarolPeace</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_GE_CAROL_WAR</SoundID>
+			<Filename>GECarolWar</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+	</Audio_Sounds>
+	<Audio_2DSounds>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_GE_CAROL_PEACE</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_GE_CAROL_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_GE_CAROL_WAR</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_GE_CAROL_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>50</MinVolume>
+			<MaxVolume>50</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+	</Audio_2DSounds>
+</GameData>

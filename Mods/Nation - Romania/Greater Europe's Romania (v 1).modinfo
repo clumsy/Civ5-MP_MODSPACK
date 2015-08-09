@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="f116b61a-416b-44fe-bb34-1822ca4698bb" version="1">
+  <Properties>
+    <Name>Greater Europe's Romania</Name>
+    <Teaser>Adds the Kingdom of Romania, lead by Carol I, to the game. Requires BNW. 
+
+UA: Nihil Sine Deo
+Religious Buildings contribute</Teaser>
+    <Description>Adds the Kingdom of Romania, lead by Carol I, to the game. Requires BNW. 
+
+[QUOTE]UA: Nihil Sine Deo
+Religious Buildings contribute Culture. During Golden Ages, cities gain Culture equal to 50% of their Faith per Turn. 
+UU: Danube Infantry
+A replacement of the Rifleman, the Danube Infantry ignores terrain cost. Gains +2XP from every city that follows a religion (up to 20 XP). This activates upon upgrade as well as training.
+UB: Painted Monastary
+Unlike the Garden it replaces, the Painted Monastary yields +2 Faith and Culture. It also contains a Great Work of Art slot, and while this is filled, it generates Golden Age points.[/QUOTE]
+
+[QUOTE]Credits:
+Viregel: XML, Art
+Leugi: Lua (First part of the UA)
+JFD: Lua (Second part of the UA)
+Irkalla: Lua (UU adapted from Sumer)
+Janboruta: Art (Danube Infantry Alpha)
+Sukritact: Help with Lua
+Neirai the Forgiven: Help with Lua
+Bane_: Help with Lua
+Hypereon: Help with Lua
+bernie14: Unit Model[/QUOTE]
+
+(You may have noticed I needed a lot of help with Lua; thanks guys!)</Description>
+    <Authors>Viregel</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="EFDC3777FA71E35307F0AD900816D029" import="1">Art/Icons/FlagIcon_DanubeInfantry_32.dds</File>
+    <File md5="11524E43F184F3FB1EE87F353DE79456" import="1">Art/Icons/GE_RomaniaAlphaAtlas_128.dds</File>
+    <File md5="AA7503BB317869288CEA77CEA91FFD66" import="1">Art/Icons/GE_RomaniaAlphaAtlas_16.dds</File>
+    <File md5="AE15E1A7EC55502C5B848C8E4619E14A" import="1">Art/Icons/GE_RomaniaAlphaAtlas_32.dds</File>
+    <File md5="B12C4059E4BCF616F1BD6D01914CA52D" import="1">Art/Icons/GE_RomaniaAlphaAtlas_45.dds</File>
+    <File md5="B4436DB440D3C9FE8B43F6421DC7FF41" import="1">Art/Icons/GE_RomaniaAlphaAtlas_48.dds</File>
+    <File md5="B095224D803D95A51BDD60C3AF30CC83" import="1">Art/Icons/GE_RomaniaAlphaAtlas_64.dds</File>
+    <File md5="D580A1C77CBCBB8C5DC90279775DE28E" import="1">Art/Icons/GE_RomaniaAlphaAtlas_80.dds</File>
+    <File md5="1A30B623E0E4347BA65BF3C1EBFD4ECC" import="1">Art/Icons/GE_RomaniaAtlas_128.dds</File>
+    <File md5="0AA29E63EB2CA9D8BCB63D47BB6E919F" import="1">Art/Icons/GE_RomaniaAtlas_256.dds</File>
+    <File md5="508E65D55508B178EC0B967C336A1083" import="1">Art/Icons/GE_RomaniaAtlas_32.dds</File>
+    <File md5="681C390E2766D7C816E551454DAE1DC2" import="1">Art/Icons/GE_RomaniaAtlas_45.dds</File>
+    <File md5="8D47D8ED6BDECBA01D45A9CE5429846E" import="1">Art/Icons/GE_RomaniaAtlas_64.dds</File>
+    <File md5="B309E33E9DDD378424ECB11C70C067E7" import="1">Art/Icons/GE_RomaniaAtlas_80.dds</File>
+    <File md5="4E9D7065A12AABEA0E7D306EA3D9EE7D" import="1">Art/Icons/sv_DanubeInfantry.dds</File>
+    <File md5="AEE77B94C7132BE5A086D3154C4E6F3F" import="1">Art/Leader/GECarol_Diplo.dds</File>
+    <File md5="99ACC497431BBD80E39643B2E7AC69EC" import="1">Art/Leader/GECarol_DOM.dds</File>
+    <File md5="A0A6AF97C9C7CF1CFAA010353C832EB1" import="1">Art/Leader/RomaniaMap512.dds</File>
+    <File md5="02D07ECB010E90438D3F91D46A5AF08D" import="0">Art/Models/ArtDefines.sql</File>
+    <File md5="4B28788877D9C27F64B772DA7FA833DE" import="1">Art/Models/danube_infantry_romania.fxsxml</File>
+    <File md5="4626F88D81D0FA23D2E5C74C5FD05D0B" import="1">Art/Models/danube_infantry_romania.gr2</File>
+    <File md5="22A5EF2ED3031BE4719A59C1721491C9" import="1">Art/Models/danube_infantry_romania_diff.dds</File>
+    <File md5="9E66D0F9CE524F43A57BED75CB1DACAD" import="1">Art/Models/danube_infantry_romania_sref.dds</File>
+    <File md5="7B4EC40A6F04470C5061BE3BE00061EB" import="0">Compatibility/JFD's Cultural Diversity.sql</File>
+    <File md5="AD3B6B23160F83D1185FDE3875962105" import="0">Compatibility/YnAEMP.sql</File>
+    <File md5="1941D9C657E4F8D6A796FD72599D287B" import="0">Lua/GERomaniaFunctions.lua</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">Lua/SaveUtils.lua</File>
+    <File md5="558A34F766E6E66E5A48BC2E4E9C1A52" import="1">Sounds/GECarolPeace.mp3</File>
+    <File md5="5D68CCE9A05DFB7FA51C2B4D7FAA59C5" import="1">Sounds/GECarolWar.mp3</File>
+    <File md5="94CB46F6939CE36BFA4161CDAB8E2BF4" import="0">Sounds/GERomaniaAudio.xml</File>
+    <File md5="CCCDE6FBC72CD5FABB8DA7A9777446FC" import="0">XML/GECarol.xml</File>
+    <File md5="CB1C20A54276F27ABFBADCC2B291F999" import="1">XML/GECarolScene.xml</File>
+    <File md5="EA26A1EDA6163663AC90828F2E26F156" import="0">XML/GERomaniaAtlas.xml</File>
+    <File md5="0D57F453C418E28870DCB4A73F2E461B" import="0">XML/GERomaniaBuildings.xml</File>
+    <File md5="75D6A81876BDB0034D2BE475C8CC3583" import="0">XML/GERomaniaCivilisation.xml</File>
+    <File md5="BDAFC74815D43E4D30B454CC983BD5B9" import="0">XML/GERomaniaText.xml</File>
+    <File md5="D7E2FB7BEED7927B27CEAA3A0F1EADC1" import="0">XML/GERomaniaTrait.xml</File>
+    <File md5="D05EDC1C99976EDBEDD0DC4F194FB61F" import="0">XML/GERomaniaUnits.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Sounds/GERomaniaAudio.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GECarol.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GECarolScene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GERomaniaAtlas.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GERomaniaBuildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GERomaniaCivilisation.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GERomaniaText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GERomaniaTrait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GERomaniaUnits.xml</UpdateDatabase>
+      <UpdateDatabase>Art/Models/ArtDefines.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/GERomaniaFunctions.lua">
+      <Name>Romania Functions </Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>
