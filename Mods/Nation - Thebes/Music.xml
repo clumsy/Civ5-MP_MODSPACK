@@ -1,0 +1,47 @@
+<GameData>
+	<Audio_Sounds>
+
+		<!--THEBES Music-->
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_EPAMINONDAS_PEACE</SoundID>
+			<Filename>Thebes Peace</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_EPAMINONDAS_WAR</SoundID>
+			<Filename>Thebes War</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<!--THEBES Music-->
+	</Audio_Sounds>
+	<Audio_2DSounds>
+		<!--THEBES Music For Audio Scripts-->
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_EPAMINONDAS_PEACE</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_EPAMINONDAS_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>120</MinVolume>
+			<MaxVolume>120</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_EPAMINONDAS_WAR</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_EPAMINONDAS_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>80</MinVolume>
+			<MaxVolume>80</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_AMBIENCE_LEADER_THEBES_AMBIENCE</ScriptID>
+			<SoundID>SND_AMBIENCE_COAST_BED</SoundID>
+			<SoundType>GAME_SFX</SoundType>
+			<Looping>true</Looping>
+			<MinVolume>60</MinVolume>
+			<MaxVolume>60</MaxVolume>
+		</Row>
+		<!--THEBES Music-->
+	</Audio_2DSounds>
+
+
+</GameData>

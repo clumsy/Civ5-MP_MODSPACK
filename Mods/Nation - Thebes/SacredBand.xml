@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Units>
+    <Row>
+      <Type>UNIT_SACRED_BAND</Type>
+      <Description>TXT_KEY_UNIT_SACRED_BAND</Description>
+      <Civilopedia>TXT_KEY_CIV5_ANTIQUITY_SACRED_BAND_TEXT</Civilopedia>
+      <Strategy>TXT_KEY_UNIT_SACRED_BAND_STRATEGY</Strategy>
+      <Help>TXT_KEY_UNIT_HELP_SACRED_BAND</Help>
+      <Requirements></Requirements>
+      <Combat>14</Combat>
+      <Cost>66</Cost>
+      <FaithCost>112</FaithCost>
+      <RequiresFaithPurchaseEnabled>1</RequiresFaithPurchaseEnabled>
+      <Moves>2</Moves>
+      <BaseSightRange>2</BaseSightRange>
+      <Class>UNITCLASS_SPEARMAN</Class>
+      <CombatClass>UNITCOMBAT_MELEE</CombatClass>
+      <Domain>DOMAIN_LAND</Domain>
+      <DefaultUnitAI>UNITAI_COUNTER</DefaultUnitAI>
+      <MilitarySupport>1</MilitarySupport>
+      <MilitaryProduction>1</MilitaryProduction>
+      <Pillage>1</Pillage>
+      <PrereqTech>TECH_BRONZE_WORKING</PrereqTech>
+      <ObsoleteTech>TECH_CIVIL_SERVICE</ObsoleteTech>
+      <GoodyHutUpgradeUnitClass>UNITCLASS_PIKEMAN</GoodyHutUpgradeUnitClass>
+      <AdvancedStartCost>15</AdvancedStartCost>
+      <MinAreaSize>-1</MinAreaSize>
+      <NukeDamageLevel>-1</NukeDamageLevel>
+      <CombatLimit>100</CombatLimit>
+      <XPValueAttack>3</XPValueAttack>
+      <XPValueDefense>3</XPValueDefense>
+      <Conscription>2</Conscription>
+      <UnitArtInfo>ART_DEF_UNIT_U_SACRED_BAND</UnitArtInfo>
+      <ShowInPedia>1</ShowInPedia>
+      <MoveRate>BIPED</MoveRate>
+      <UnitFlagIconOffset>0</UnitFlagIconOffset>
+      <PortraitIndex>1</PortraitIndex>
+      <IconAtlas>THEBES_ATLAS</IconAtlas>
+      <UnitFlagAtlas>SACRED_BAND_FLAG</UnitFlagAtlas>
+    </Row>
+  </Units>
+
+  <Unit_AITypes>
+    <Row>
+      <UnitType>UNIT_SACRED_BAND</UnitType>
+      <UnitAIType>UNITAI_COUNTER</UnitAIType>
+    </Row>
+    <Row>
+      <UnitType>UNIT_SACRED_BAND</UnitType>
+      <UnitAIType>UNITAI_DEFENSE</UnitAIType>
+    </Row>
+    <Row>
+      <UnitType>UNIT_SACRED_BAND</UnitType>
+      <UnitAIType>UNITAI_EXPLORE</UnitAIType>
+    </Row>
+  </Unit_AITypes>
+  <!-- Unit_Buildings -->
+  <!-- Unit_BuildingClassRequireds -->
+  <!-- Unit_ProductionModifierBuildings -->
+  <!-- Unit_Builds -->
+  <Unit_ClassUpgrades>
+    <Row>
+      <UnitType>UNIT_SACRED_BAND</UnitType>
+      <UnitClassType>UNITCLASS_PIKEMAN</UnitClassType>
+    </Row>
+  </Unit_ClassUpgrades>
+  <Unit_FreePromotions>
+    <Row>
+      <UnitType>UNIT_SACRED_BAND</UnitType>
+      <PromotionType>PROMOTION_ANTI_MOUNTED_I</PromotionType>
+    </Row>
+  </Unit_FreePromotions>
+  <Unit_Flavors>
+    <Row>
+      <UnitType>UNIT_SACRED_BAND</UnitType>
+      <FlavorType>FLAVOR_OFFENSE</FlavorType>
+      <Flavor>2</Flavor>
+    </Row>
+    <Row>
+      <UnitType>UNIT_SACRED_BAND</UnitType>
+      <FlavorType>FLAVOR_DEFENSE</FlavorType>
+      <Flavor>4</Flavor>
+    </Row>
+  </Unit_Flavors>
+  <!-- Unit_GreatPersons -->
+  <!-- Unit_ResourceQuantityRequirements -->
+  <!-- Unit_UniqueNames -->
+  <!-- Unit_YieldFromKills -->
+  <!-- Unit_NotAITypes -->
+  <!-- Unit_ProductionTraits -->
+  <!-- Unit_TechTypes -->
+  <!-- UnitPromotions_CivilianUnitType -->
+  <UnitGameplay2DScripts>
+    <Row>
+      <UnitType>UNIT_SACRED_BAND</UnitType>
+      <SelectionSound>AS2D_SELECT_PIKEMAN</SelectionSound>
+      <FirstSelectionSound>AS2D_BIRTH_PIKEMAN</FirstSelectionSound>
+    </Row>
+  </UnitGameplay2DScripts>
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_UNIT_SACRED_BAND">
+      <Text>Sacred Band</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_ANTIQUITY_SACRED_BAND_TEXT">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_UNIT_SACRED_BAND_STRATEGY">
+      <Text>The Sacred Band is a unique spearman replacement for Thebes that fights at the strength of Swordsman and gains double experience. However, it is more expensive.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_UNIT_HELP_SACRED_BAND">
+      <Text>The Sacred Band is a Theban unique spearman that fights stronger and gains experience faster.</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

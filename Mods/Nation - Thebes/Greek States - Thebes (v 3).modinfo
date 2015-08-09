@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="b3170837-4c3b-49c4-a33e-9f134ce1e6de" version="3">
+  <Properties>
+    <Name>Greek States - Thebes</Name>
+    <Stability>Beta</Stability>
+    <Teaser>Adds Thebes, led by the great Epaminondas - General and Statesman.</Teaser>
+    <Description>Epaminondas (Boeotian League) 
+During War, each city state ally increases Military production by 10% (50% max) in the Capital, During Peace each city state ally increases culture by 10% (50% max) in the Capital.
+
+Sacred Band (Spearman): Stronger and slightly more expensive. Gains experience twice as fast. 
+
+Cadmea (Castle): Must be built in the Capital. Castle that makes Every 2 Citizens yield +1 gold, increases gold by +33% and has a Merchant specialist. Has more Defense. (Available at Masonry instead) 
+
+---------------------------------------------------------------------------------------------------------------------- 
+
+Custom Music! 
+
+Compatibilities 
+JFD's Cultural Diversity (Core) 
+JFD’s Piety 
+Yet (not) Another Earth Map Pack 
+Map Labels 
+Ethnic Units 
+R.E.D. Modpack 
+Community Balance Patch 
+Civ IV Leader Traits in Civ V 
+JFD's Exploration Continued Expanded 
+Historical Religions Complete 
+
+----------------------------------------------------------------------------------------------------- 
+
+Credits: 
+Firebug - Coding, Concept 
+TPangolin - Leaderscreen 
+DJSHenninger - Icons and Code 
+JFD - Coding and Compatibilities</Description>
+    <Authors>Firebug</Authors>
+    <SpecialThanks>JFD, DJSHenninger and TPangolin</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id=" 31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core) " />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack  " />
+    <Mod id=" e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels   " />
+    <Mod id=" 7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units   " />
+    <Mod id=" 8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack      " />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch  " />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V  " />
+    <Mod id=" 6676902b-b907-45f1-8db5-32dcb2135eee" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id=" 6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete " />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="3850ACC0E50CA88D08A3E9EF3F022509" import="1">Art/SacredBandFlag.dds</File>
+    <File md5="3E8D8B3ED0B802000DDE6CD4B877EA63" import="1">Art/ThebesAtlases.xml</File>
+    <File md5="D98AFB981DF9D731ECD5949D6C766164" import="1">Art/ThebesAlpha128.dds</File>
+    <File md5="38F3BCE919EC6F05BD30308FCF71C562" import="1">Art/ThebesAlpha16.dds</File>
+    <File md5="BFC1E7E799C6C03E34744EDC87064AE3" import="1">Art/ThebesAlpha24.dds</File>
+    <File md5="86BAD0466F7A5E3574D0B53CD95FF944" import="1">Art/ThebesAlpha32.dds</File>
+    <File md5="DEAD282715529CCF5BC2218B4CF1C48D" import="1">Art/ThebesAlpha48.dds</File>
+    <File md5="4CA12920319D16CF883785743FF22A98" import="1">Art/ThebesAlpha64.dds</File>
+    <File md5="5DB8CABF047625E91226C81A194648E6" import="1">Art/ThebesAlpha80.dds</File>
+    <File md5="66DBCC5B64C85124F6DA3A8D6CC521BB" import="1">Art/ThebesAtlas128.dds</File>
+    <File md5="AF23772CE47D41110830BA1C9ED72FAD" import="1">Art/ThebesAtlas16.dds</File>
+    <File md5="4C61D3E908701C0E50B06338CA12D05B" import="1">Art/ThebesAtlas24.dds</File>
+    <File md5="6BCE98077412CEAC5A92180FF1A89311" import="1">Art/ThebesAtlas256.dds</File>
+    <File md5="B5856650808356811674809C4910320E" import="1">Art/ThebesAtlas32.dds</File>
+    <File md5="65E6BDBF83711A3A6745BE4EBB0E053A" import="1">Art/ThebesAtlas45.dds</File>
+    <File md5="2B38E3CBCCE50FECDB2A2923D34A8639" import="1">Art/ThebesAtlas48.dds</File>
+    <File md5="EFAF84392B793DB050D4370262C2A941" import="1">Art/ThebesAtlas64.dds</File>
+    <File md5="F1922B55D353C4E96AAF2925DB660708" import="1">Art/ThebesAtlas80.dds</File>
+    <File md5="E3E41D2B5A06580B53F583404759641E" import="1">Art/ThebesDOM.dds</File>
+    <File md5="57A946F711986F5E6463BA171D3AAE1C" import="1">Art/ThebesLeader.dds</File>
+    <File md5="F725A3208E9FD3131F493D6742FD750B" import="1">Art/ThebesMap.dds</File>
+    <File md5="CA98729A24E635D4AF94B17EF01C3846" import="0">Compatibility/ThebesCompatibility.sql</File>
+    <File md5="2A2F264AEBB94B8C1536B23A759D0D4A" import="0">Lua/ThebesFunctions.lua</File>
+    <File md5="04D9A0501F4D2904485C2BA00F4029DC" import="1">Music/Thebes War.mp3</File>
+    <File md5="BC9E2B7911581AFF926480B2457A8F9A" import="0">Music/Music.xml</File>
+    <File md5="CB1AEC0FC46B1DE6A2817AA1633DD8DB" import="1">Music/Thebes Peace.mp3</File>
+    <File md5="C67EEAADF774653D456AEE86D67A8719" import="1">ThebesUnitArt/SacredBandArt.xml</File>
+    <File md5="BF2EEBCF57C70CA84C38BA90E26D0260" import="1">ThebesUnitArt/Spearman_Greece_v3.blend</File>
+    <File md5="78B3A8DF5193FEC4E12399695A6BB95A" import="1">ThebesUnitArt/Spearman_Greece_v3.dds</File>
+    <File md5="CEED1A9518A99E66A2EE6E744DF398B3" import="1">ThebesUnitArt/Spearman_Greece_v3.fxsxml</File>
+    <File md5="E19511BDB36CB66D3A90A804047F0F80" import="1">ThebesUnitArt/Spearman_Greece_v3.gr2</File>
+    <File md5="786AC15EB132478E97833C4082C467F4" import="1">ThebesUnitArt/Spearman_Greece_v3_gloss.dds</File>
+    <File md5="F5795F6B235D8DD65434F3E230EA3E6C" import="0">XML/Building/Cadmea.xml</File>
+    <File md5="BFE82C4AF94BBFBA0128261043830E44" import="0">XML/Building/Traitbuilding.xml</File>
+    <File md5="F6A7E0E1398E32B4A00AF7EEF30E3121" import="0">XML/Civilization/Civilization.xml</File>
+    <File md5="5DD736D217CA93B69F513EECAA2C4E3F" import="0">XML/Leader/DiplomacyResponses.xml</File>
+    <File md5="721EC5858E8D37BA0EFAB7EA9A744412" import="0">XML/Leader/Leader.xml</File>
+    <File md5="5872BB5C3EA834F49F909301166A78CF" import="0">XML/Leader/Epaminondas_Scene.xml</File>
+    <File md5="A5A0E7DAD220A51019ACAC7635075C12" import="0">XML/Leader/Trait.xml</File>
+    <File md5="E8E77D78809149DDDC871028C3F08EE5" import="0">XML/Units/DevotionPromotion.xml</File>
+    <File md5="A17990DE99B7DAD33B3606FED3D179A9" import="0">XML/Units/SacredBand.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Building/Cadmea.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Building/Traitbuilding.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization/Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader/DiplomacyResponses.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader/Epaminondas_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader/Leader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader/Trait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/SacredBand.xml</UpdateDatabase>
+      <UpdateDatabase>Compatibility/ThebesCompatibility.sql</UpdateDatabase>
+      <UpdateDatabase>Music/Music.xml</UpdateDatabase>
+      <UpdateDatabase>Art/ThebesAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/DevotionPromotion.xml</UpdateDatabase>
+      <UpdateDatabase>ThebesUnitArt/SacredBandArt.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/ThebesFunctions.lua">
+      <Name>Function</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

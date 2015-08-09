@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_THEBES_PEACE_CULTURE</Type>
+			<BuildingClass>BUILDINGCLASS_THEBES_PEACE_CULTURE</BuildingClass>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<Capital>1</Capital>
+			<ArtDefineTag>NONE</ArtDefineTag>
+			<CultureRateModifier>10</CultureRateModifier>
+			<MinAreaSize>-1</MinAreaSize>
+			<NeverCapture>true</NeverCapture>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>THEBES_ATLAS</IconAtlas>
+		</Row>
+	</Buildings>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_THEBES_PEACE_CULTURE</Type>
+			<DefaultBuilding>BUILDING_THEBES_PEACE_CULTURE</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_THEBES_PEACE_CULTURE</Description>
+		</Row>
+	</BuildingClasses>
+
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_THEBES_PEACE_CULTURE">
+			<Text>Thebes Peace</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_THEBES_PEACE_CULTURE_TEXT">
+			<Text>Thebes Peace</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_THEBES_PEACE_CULTURE_STRATEGY">
+			<Text>Thebes Peace</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_THEBES_PEACE_CULTURE_HELP">
+			<Text>Thebes Peace</Text>
+		</Row>
+	</Language_en_US>
+
+	----------------------------------------------------------------------------------------------
+
+	<Buildings>
+		<Row>
+			<Type>BUILDING_THEBES_WAR_MILITARY</Type>
+			<BuildingClass>BUILDINGCLASS_THEBES_WAR_MILITARY</BuildingClass>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<Capital>1</Capital>
+			<ArtDefineTag>NONE</ArtDefineTag>
+			<MilitaryProductionModifier>10</MilitaryProductionModifier>
+			<MinAreaSize>-1</MinAreaSize>
+			<NeverCapture>true</NeverCapture>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>THEBES_ATLAS</IconAtlas>
+		</Row>
+	</Buildings>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_THEBES_WAR_MILITARY</Type>
+			<DefaultBuilding>BUILDING_THEBES_WAR_MILITARY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_THEBES_WAR_MILITARY</Description>
+		</Row>
+	</BuildingClasses>
+
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_THEBES_WAR_MILITARY">
+			<Text>Thebes War</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_THEBES_WAR_MILITARY_TEXT">
+			<Text>Thebes War</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_THEBES_WAR_MILITARY_STRATEGY">
+			<Text>Thebes War</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_THEBES_WAR_MILITARY_HELP">
+			<Text>Thebes War</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

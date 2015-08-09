@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Buildings>
+    <Row>
+      <Type>BUILDING_CADMEA</Type>
+      <Description>TXT_KEY_BUILDING_CADMEA</Description>
+      <Civilopedia>TXT_KEY_CIV5_BUILDINGS_CADMEA_TEXT</Civilopedia>
+      <Strategy>TXT_KEY_BUILDING_CADMEA_STRATEGY</Strategy>
+      <Help>TXT_KEY_BUILDING_CADMEA_HELP</Help>
+      <MutuallyExclusiveGroup>-1</MutuallyExclusiveGroup>
+      <NeverCapture>1</NeverCapture>
+      <Cost>160</Cost>
+      <HurryCostModifier>25</HurryCostModifier>
+      <MinAreaSize>-1</MinAreaSize>
+      <AllowsRangeStrike>1</AllowsRangeStrike>
+      <Defense>900</Defense>
+		<Capital>1</Capital>
+      <ExtraCityHitPoints>35</ExtraCityHitPoints>
+      <BuildingClass>BUILDINGCLASS_CASTLE</BuildingClass>
+		<SpecialistType>SPECIALIST_MERCHANT</SpecialistType>
+		<SpecialistCount>1</SpecialistCount>
+      <ArtDefineTag>CASTLE</ArtDefineTag>
+      <PrereqTech>TECH_MASONRY</PrereqTech>
+      <DisplayPosition>1</DisplayPosition>
+      <PortraitIndex>2</PortraitIndex>
+      <IconAtlas>THEBES_ATLAS</IconAtlas>
+    </Row>
+  </Buildings>
+
+  <!-- Building_AreaYieldModifiers -->
+  <!-- Building_BuildingClassHappiness -->
+  <!-- Building_BuildingClassYieldChanges -->
+  <Building_ClassesNeededInCity>
+    <Row>
+      <BuildingType>BUILDING_CADMEA</BuildingType>
+      <BuildingClassType>BUILDINGCLASS_WALLS</BuildingClassType>
+    </Row>
+  </Building_ClassesNeededInCity>
+  <!-- Building_FreeUnits -->
+  <!-- Building_DomainFreeExperiences -->
+  <!-- Building_DomainFreeExperiencePerGreatWork -->
+  <!-- Building_DomainProductionModifiers -->
+  <!-- Building_FreeSpecialistCounts -->
+  <Building_Flavors>
+    <Row>
+      <BuildingType>BUILDING_CADMEA</BuildingType>
+      <FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+      <Flavor>25</Flavor>
+    </Row>
+	  <Row>
+		  <BuildingType>BUILDING_MARKET</BuildingType>
+		  <FlavorType>FLAVOR_GOLD</FlavorType>
+		  <Flavor>25</Flavor>
+	  </Row>
+	  <Row>
+		  <BuildingType>BUILDING_MARKET</BuildingType>
+		  <FlavorType>FLAVOR_I_TRADE_ORIGIN</FlavorType>
+		  <Flavor>25</Flavor>
+	  </Row>
+	  <Row>
+		  <BuildingType>BUILDING_MARKET</BuildingType>
+		  <FlavorType>FLAVOR_I_TRADE_DESTINATION</FlavorType>
+		  <Flavor>25</Flavor>
+	  </Row>
+	  <Row>
+		  <BuildingType>BUILDING_MARKET</BuildingType>
+		  <FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+		  <Flavor>2</Flavor>
+	  </Row>
+  </Building_Flavors>
+  <!-- Building_GlobalYieldModifiers -->
+  <!-- Building_HurryModifiers -->
+  <!-- Building_LocalResourceAnds -->
+  <!-- Building_LocalResourceOrs -->
+  <!-- Building_LockedBuildingClasses -->
+  <!-- Building_PrereqBuildingClasses -->
+  <!-- Building_ResourceQuantity -->
+  <!-- Building_ResourceQuantityRequirements -->
+  <!-- Building_ResourceYieldModifiers -->
+  <!-- Building_ResourceCultureChanges -->
+  <!-- Building_ResourceFaithChanges -->
+  <!-- Building_RiverPlotYieldChanges -->
+  <!-- Building_SeaPlotYieldChanges -->
+  <!-- Building_LakePlotYieldChanges -->
+  <!-- Building_SeaResourceYieldChanges -->
+  <!-- Building_ResourceYieldChanges -->
+  <!-- Building_FeatureYieldChanges -->
+  <!-- Building_TerrainYieldChanges -->
+  <!-- Building_SpecialistYieldChanges -->
+  <!-- Building_UnitCombatFreeExperiences -->
+  <!-- Building_UnitCombatProductionModifiers -->
+  <!-- Building_TechAndPrereqs -->
+	<Building_YieldChangesPerPop>
+		<Row>
+			<BuildingType>BUILDING_CADMEA</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>50</Yield>
+		</Row>
+	</Building_YieldChangesPerPop>
+  <!-- Building_YieldChangesPerReligion -->
+  <!-- Building_TechEnhancedYieldChanges -->
+	<Building_YieldModifiers>
+		<Row>
+			<BuildingType>BUILDING_CADMEA</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>33</Yield>
+		</Row>
+	</Building_YieldModifiers>
+  <!-- Building_ThemingBonuses -->
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_BUILDING_CADMEA">
+      <Text>Cadmea</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_BUILDINGS_CADMEA_TEXT">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_CADMEA_STRATEGY">
+      <Text>Early Castle replacement that needs to be built in the Capital. Gives Thebes an early defense boost. Every 2 Citizens yield +1 gold, increases gold in the city by 15% and has a Merchant specialist.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_CADMEA_HELP">
+      <Text>City must have Walls and be in the Capital. Gives an early defense boost and gold boost. Every 2 Citizens yield +1 gold, increases gold in the city by 25% and has a Merchant specialist.</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

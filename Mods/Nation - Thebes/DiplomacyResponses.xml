@@ -1,0 +1,121 @@
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_THEBES">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_THEBES_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_THEBES">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_THEBES_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_THEBES">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_THEBES_DEFEATED%</Response>
+		</Row>
+		<Row LeaderType="LEADER_THEBES">
+			<ResponseType>RESPONSE_GREETING_POLITE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_THEBES_POLITE_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_THEBES">
+			<ResponseType>RESPONSE_GREETING_NEUTRAL_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_THEBES_NEUTRAL_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_THEBES">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_THEBES_HOSTILE_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_THEBES">
+			<ResponseType>RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_THEBES_HOSTILE_AGGRESSIVE_MILITARY_WARNING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_THEBES">
+			<ResponseType>RESPONSE_EXPANSION_SERIOUS_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_THEBES_EXPANSION_SERIOUS_WARNING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_THEBES">
+			<ResponseType>RESPONSE_REQUEST</ResponseType>
+			<Response>TXT_KEY_LEADER_THEBES_RESPONSE_REQUEST%</Response>
+		</Row>
+		<Row LeaderType="LEADER_THEBES">
+			<ResponseType>RESPONSE_LUXURY_TRADE</ResponseType>
+			<Response>TXT_KEY_LEADER_THEBES_RESPONSE_LUXURY_TRADE%</Response>
+		</Row>
+		<Row LeaderType="LEADER_THEBES">
+			<ResponseType>RESPONSE_OPEN_BORDERS_EXCHANGE</ResponseType>
+			<Response>TXT_KEY_LEADER_THEBES_OPEN_BORDERS_EXCHANGE%</Response>
+		</Row>
+		<Row LeaderType="LEADER_THEBES">
+			<ResponseType>RESPONSE_ATTACKED_BETRAYED</ResponseType>
+			<Response>TXT_KEY_LEADER_THEBES_ATTACKED_BETRAYED</Response>
+		</Row>
+		<Row LeaderType="LEADER_THEBES">
+			<ResponseType>RESPONSE_ATTACKED_EXCITED</ResponseType>
+			<Response>TXT_KEY_LEADER_THEBES_ATTACKED_EXCITED</Response>
+		</Row>
+		<Row LeaderType="LEADER_THEBES">
+			<ResponseType>RESPONSE_ATTACKED_HOSTILE</ResponseType>
+			<Response>TXT_KEY_LEADER_THEBES_ATTACKED_HOSTILE</Response>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<!--General phrases -->
+		<!--Greeting (first time meeting) -->
+		<Row Tag="TXT_KEY_LEADER_THEBES_FIRSTGREETING_1">
+			<Text>Welcome friend! I am Epaminondas, Statesman and General of Thebes. I hope you come as friend, rather then foe. Maybe you would like to join the Boeotian League?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEBES_DEFEATED_1">
+			<Text>You have brought the Thebans to their knees. Do with us as you wish.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEBES_POLITE_HELLO_1">
+			<Text>Welcome back to Thebes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEBES_POLITE_HELLO_2">
+			<Text>Good Day.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEBES_POLITE_HELLO_3">
+			<Text>What do you want to talk about?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEBES_NEUTRAL_HELLO_1">
+			<Text>Hello.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEBES_NEUTRAL_HELLO_2">
+			<Text>Yes?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEBES_NEUTRAL_HELLO_3">
+			<Text>Go on?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEBES_HOSTILE_HELLO_1">
+			<Text>You're back? Talk.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEBES_HOSTILE_HELLO_2">
+			<Text>Talk now.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEBES_HOSTILE_HELLO_3">
+			<Text>Talk.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEBES_HOSTILE_AGGRESSIVE_MILITARY_WARNING">
+			<Text>You should fear the Theban people. Our walls are thick, and our spear tips are sharp.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEBES_EXPANSION_SERIOUS_WARNING">
+			<Text>We shall need to take back the lands that you dare to take from us, if you continue on your path of expansion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEBES_REQUEST">
+			<Text>The League would benefit from this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEBES_LUXURY_TRADE">
+			<Text>This would be for the good of the people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEBES_OPEN_BORDERS_EXCHANGE">
+			<Text>All lands should be free to walk.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEBES_ATTACKED_BETRAYED">
+			<Text>You have betrayed not only me, but your people. They will be killed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEBES_ATTACKED_EXCITED">
+			<Text>I was ready for this!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_THEBES_ATTACKED_HOSTILE">
+			<Text>I will meet you on the battlefield!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

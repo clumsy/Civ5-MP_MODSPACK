@@ -1397,6 +1397,9 @@ ContextPtr:LoadNewContext("PolicyReligion")
 -- Nation - Chile --
 ContextPtr:LoadNewContext("AdmiralCityStates")
 
+-- Nation - Thebes --
+ContextPtr:LoadNewContext("ThebesFunctions")
+
 -- Nation - Cherokee --
 ContextPtr:LoadNewContext("Cherokee_Trait")
 

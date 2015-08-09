@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_SACRED_DEVOTION</Type>
+			<Description>TXT_KEY_PROMOTION_SACRED_DEVOTION</Description>
+			<Help>TXT_KEY_PROMOTION_SACRED_DEVOTION_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<LostWithUpgrade>true</LostWithUpgrade>
+			<CannotBeChosen>true</CannotBeChosen>
+			<CombatPercent>15</CombatPercent>
+			<OrderPriority>7</OrderPriority>
+			<PortraitIndex>23</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTE</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_SACRED_DEVOTION</PediaEntry>
+		</Row>
+	</UnitPromotions>				
+
+	<UnitPromotions_UnitCombats>
+		<Row>
+			<PromotionType>PROMOTION_SACRED_DEVOTION</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+		</Row>
+		</UnitPromotions_UnitCombats>
+<Language_en_US>
+	<Row Tag="TXT_KEY_PROMOTION_SACRED_DEVOTION">
+		<Text>Devotion</Text>
+	</Row>
+	<Row Tag="TXT_KEY_PROMOTION_SACRED_DEVOTION_HELP">
+		<Text>+15% combat strength</Text>
+	</Row>
+</Language_en_US>
+</GameData>
+			

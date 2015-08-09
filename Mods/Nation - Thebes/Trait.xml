@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Traits>
+    <Row>
+      <Type>TRAIT_THEBES_LEAGUE</Type>
+      <Description>TXT_KEY_TRAIT_THEBES_LEAGUE</Description>
+      <ShortDescription>TXT_KEY_TRAIT_THEBES_LEAGUE_SHORT</ShortDescription>
+		<Freebuilding>BUILDING_THEBES_LEAGUE</Freebuilding>
+	</Row>
+  </Traits>
+	<Language_en_US>
+    <Row Tag="TXT_KEY_TRAIT_THEBES_LEAGUE">
+      <Text>During War, each [ICON_CITY_STATE] City State ally increases Military [ICON_PRODUCTION] Production by 10% (50% max), During Peace each [ICON_CITY_STATE] City State Ally increases [ICON_CULTURE] Culture by 10% (50% max). (Can't build Settlers or Annex Cities)</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_THEBES_LEAGUE_SHORT">
+      <Text>Boeotian League</Text>
+    </Row>
+  </Language_en_US>
+</GameData>
