@@ -1,0 +1,343 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh-->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITY_NAME_CHAMPA_MOD_INDRAPURA">
+			<Text>Indrapura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHAMPA_MOD_VIJAYA">
+			<Text>Vijaya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHAMPA_MOD_PANDURANGA">
+			<Text>Panduranga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHAMPA_MOD_KUATHARA">
+			<Text>Kauthara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHAMPA_MOD_AMARAVATI">
+			<Text>Amaravati</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHAMPA_MOD_MY_SON">
+			<Text>Mý So'n</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHAMPA_MOD_LAM_AP_PHO">
+			<Text>Lâm Ap Pho</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHAMPA_MOD_SIMHAPURA">
+			<Text>Simhapura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHAMPA_MOD_THI_LI_BI_NAI">
+			<Text>Thi Li Bi Nai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHAMPA_MOD_MANG_LY">
+			<Text>Mang Lý</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHAMPA_MOD_KANDARAPAPURA">
+			<Text>Kandarpapura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHAMPA_MOD_TRIVAKRAMAPURA">
+			<Text>Trivakramapura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHAMPA_MOD_HAMU_LITHIT">
+			<Text>Hamu Lithit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHAMPA_MOD_BALONGA">
+			<Text>Balonga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHAMPA_MOD_EATRAN">
+			<Text>Eatran</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHAMPA_MOD_VISHNUPURA">
+			<Text>Vishnupura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHAMPA_MOD_DAKNAN">
+			<Text>Daknan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHAMPA_MOD_TUY_HOA">
+			<Text>Tuy Hòa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHAMPA_MOD_DONG_HOI">
+			<Text>Dông Hoi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHAMPA_MOD_AYA_RU">
+			<Text>Aya Ru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHAMPA_MOD_BINGI">
+			<Text>Bingi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHAMPA_MOD_MALITHIT">
+			<Text>Malithit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHAMPA_MOD_HVE">
+			<Text>Hve</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHAMPA_MOD_KON_TRUM">
+			<Text>Kon Tum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHAMPA_MOD_YANG_PRONG">
+			<Text>Yang Prong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHAMPA_MOD_BUON_MATHUOI">
+			<Text>Buon Mathuoi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHAMPA_MOD_0">
+			<Text>Binasuor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHAMPA_MOD_1">
+			<Text>Khai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHAMPA_MOD_2">
+			<Text>Saut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHAMPA_MOD_3">
+			<Text>Bhadravarman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHAMPA_MOD_4">
+			<Text>Dau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHAMPA_MOD_5">
+			<Text>Leiou</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHAMPA_MOD_6">
+			<Text>Nagar</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHAMPA_MOD_7">
+			<Text>Soma</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHAMPA_MOD_8">
+			<Text>Matsu</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHAMPA_MOD_9">
+			<Text>Uma</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CHAMPA_MOD_DESC">
+			<Text>Cham Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHAMPA_MOD_SHORT_DESC">
+			<Text>Champa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHAMPA_MOD_ADJECTIVE">
+			<Text>Cham</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHAMPA_MOD">
+			<Text>Champa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_CHAMPA_MOD_TITLE">
+			<Text>Champa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_CHAMPA_MOD_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_CHAMPA_MOD_TEXT_1">
+			<Text>The Cham ruled a collection of Hindu kingdoms that controlled what is today central and southern Vietnam from approximately the 7th century through to 1832, although historical accounts place the direct predecessor of Champa as early as AD 192 in the region. They were unique among the kingdoms of the Indochinese peninsula for being an Austronesian people, and their position on the coast made them integral in mediating international sea trade with China. However, necessity also created an economy supplanted by frequent pirating and raiding of the neighboring Khmer and Vietnamese kingdoms. Reaching its height in the tenth century, Champa then began a gradual decline under pressure from the Dai Viet until its final territories were fully conquered and annexed in 1832.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_CHAMPA_MOD_HEADING_2">
+			<Text>Climate and Terrain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_CHAMPA_MOD_TEXT_2">
+			<Text>Cham territory consisted of two main regions, coastal lowlands and mountainous hinterlands. The coastal lowlands form an extensive river mouth system on which the Cham original settled forming an extensive temple network linking local populations. This area is also the primary source of agriculture for the reason; however, it is notable that this region is not as fertile as corollary regions within Khmer and Dai Viet territory. The hinterlands, although not as extensive as those of Java or Angkor, provided a main source of resources for international trade, especially with China. Of particular not are Champa's exports of Eaglewood.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_CHAMPA_MOD_HEADING_3">
+			<Text>Prehistory</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_CHAMPA_MOD_TEXT_3">
+			<Text>Linguistic comparison shows that the Cham arrived by sea, probably from Borneo, near the end of the first millennium BC; and they settled near the mouths of larger rivers flowing out of the highlands from which came valuable products exportable, first of all, to China. Their language, as one of the Austronesian language family, is most closely related to Malay and Achenese. The mainland area in which the Cham settled was already occupied by speakers of Mon-Khmer languages.[NEWLINE][NEWLINE]The Sa Huynh Culture of the central coast is believed to be the first material evidence of the Cham, although it is probable that there was more than a single landfall by the first seaborne Cham. As such, from about AD 200, the central coast of Vietnam was inhabited by the Chams, who had already adopted elements of Indian political and religious culture. Some early Cham also undoubtedly settled in what is modern day Cambodia, and later migrations into Khmer territory were probably because of the pre-existing ancient Cham presence.[NEWLINE][NEWLINE]Cham tradition claims that the founder of the Cham people was Lady Po Nagar. She originated from Khanh Hoa province, in a peasant family in the mountains of Dai An. Spirits assisted her when she sailed on a drift piece of sandalwood to China, where she married a Chinese crown prince, the son of the Emperor of China, with whom she had two children, and then became Queen of Champa. When she returned to Champa to visit her family, the Prince refused to let her go, but she flung the sandalwood into the ocean, disappeared with her children and reappeared at Nha Trang to her family. When the Chinese prince tried to follow her back to Nha Trang, she was furious, and turned him and his fleet into stone.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_CHAMPA_MOD_HEADING_4">
+			<Text>Lin Yi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_CHAMPA_MOD_TEXT_4">
+			<Text>Chinese official histories treating the region of future central and northern Vietnam give exclusive attention from the third to the mid eighth centuries to a polity named Lin Yi which in earlier western scholarship was believed to have been Champa, extending throughout the entire length of the known Cham territories. Lin Yi was certainly not so extensive. It was situated to the north of the Cham areas, and it was described in the Chinese histories as constantly hostile, attacking northward into the Chinese areas of modern northern Vietnam. It may even have been non-Cham. Eventually, however, Champa expansion northward may have resulted in the name Lin Yi being applied to the Champa Thu Bon valley and its city Simhapura at the turn of the sixth and seventh centuries. The Chinese knowledge of Tchan-p'o ("Champa") in the writings of the Buddhist scholars Hiuan Tsang and Yi Tsing would seem to indicate that it was distinct from the Lin Yi recognized by official China.[NEWLINE][NEWLINE]One preconception of early Cham scholarship, but for the most part no longer in favor, was that throughout its history from the second century, Lin Yi or Champa, had been a single kingdom extending from what is now northern Vietnam to at least Kauthara. The various major centers of Cham culture, although maintaining close ties linguistically, culturally, and in terms of trade, were never unified into a single state or kingdom. Panduranga remained quite separate from Vijaya which in turn remained quite separate from Indrapura. The separate character of these regions can even be seen in their architecture and sculpture. Each of these centers called itself "Champa", and thus it is not always possible to know which Champa is meant when referred to in Vietnamese or Chinese histories and chronicles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_CHAMPA_MOD_HEADING_5">
+			<Text>Indrapura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_CHAMPA_MOD_TEXT_5">
+			<Text>Champa reached its peak in the civilization of Indrapura centered in the region of Dong Duong and Mý So'n. Factors contributing to the decline of Champa over the next several centuries include its enviable position along the trade routes, its relatively small population base, and its frequently antagonistic relations with its closest neighbors; the Viet to the north and the Khmer to the west.[NEWLINE][NEWLINE]In 944 and 945, Khmer troops from Cambodia invaded the region of Kauthara. Around 950, the Khmer pillaged the temple of Po Nagar and carried off the statue of the goddess. In the latter half 10th century, the kings of Indrapura waged war against the Dai Viet of what is now northern Vietnam. The Viet had spent the better part of the century securing their independence from Chinese rule. Following the defeat of the Chinese fleet by Ngo Quyen in the Battle of Bạch Dang in 938, the country had gone through a period of internal turmoil until its final reunification by the Dinh Dynasty in 968 under the name Dai Co Viet, and the establishment of a capital at Hoa Lu near modern Hanoi.[NEWLINE][NEWLINE]In 979, the Cham King Parameshvaravarman I sent a fleet to attack Hoa Lu. The ill-fated expedition was however scuttled by a tempest. In 982, King Le Hoan of the Dai Viet sent three ambassadors to Indrapura. When the ambassadors were detained, Le Hoan decided to go on the offensive. Viet troops sacked Indrapura and killed King Parameshvaravarman. They carried off Cham dancers and musicians who subsequently came to influence the development of the arts in Dai Viet. As a result of these setbacks, the Cham abandoned Indrapura around 1000 AD. The center of Champa was relocated south to Vijaya in modern Binh Dinh.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_CHAMPA_MOD_HEADING_6">
+			<Text>Vijaya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_CHAMPA_MOD_TEXT_6">
+			<Text>Between the mid twelfth and thirteenth centuries, Champa culture centered around the city of Vijaya. This period is also marked by near continuous warfare with the Khmer. This war was most likely precipitated by the Khmer king Suryavarman II who pursued a policy of eastward expansion in order to gain lucrative sea ports and better integrate Khmer into the maritime networks of China. During this period, back and forth defeats and victories existed on both sides. Khmer managed to claim Cham territory and then was driven back. On the Cham side is the claim of a conquest and occupation of Angkor in 1177, although the accuracy of these reports is muddled by conflicting Chinese, Cambodian, and Vietnamese records.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_CHAMPA_MOD_HEADING_7">
+			<Text>Pirate Economy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_CHAMPA_MOD_TEXT_7">
+			<Text>The Chinese court was always trying in vain to compel Cham monarchs to assume responsibility for the behavior of their coastal populations; judging from the frequency of Chinese demands, it would seem that this coastal population was only marginally under the Cham monarch's control. Cham coast piracy was widely known among the international trade community. International voyagers were often warned to avoid the Cham coast when traveling from the Melaka Straits region to China. This weakened the appeal of Cham ports to international traders. However, despite this, Cham continued to play a crucial role mediating sea trade routes to and from China and derived a significant portion of their economy taxing international routes.[NEWLINE][NEWLINE]While some of Champa's piracy was motivated by sea populations acting on their own, some of it may also have been organized directly by the Cham state as part of a self-sustaining economy of plunder. Being unable to secure sufficient revenue income from their subordinate river valley agricultural communities or consistent income return from internal or external trade, Cham monarchs had to seek alternative sources to finance the alliance networks that were critical to their sovereignty. This was heightened due to Champa's weaker agricultural potential as compared to the Dai Viet or the Khmer. Plundering raids were therefore waged on a regular basis both against rival river mouth population centers on the Cham coast and also against Champa's neighbors.[NEWLINE][NEWLINE]Not only did this plunder, in the form of goods and captured labor, help bind together the internal realm, it also provided a source of external income, for Cham ports were widely known as a major source of slaves; that is, war captives, who were traded there to various international buyers. Furthermore, in addition to helping the Cham monarchs validate their local cultural images as the source of their subject's well-being, successful plundering expeditions provided the practical resources for rewarding warriors and other key participants, who in turn strengthened the temple networks.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_CHAMPA_MOD_HEADING_8">
+			<Text>Mongol Invasion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_CHAMPA_MOD_TEXT_8">
+			<Text>When the Chinese Song dynasty fell to the Mongols, its loyalists fled to Champa where they plotted the reconquest of China. In 1283, Mongol troops of the Yuan Dynasty under General Sogetu invaded Champa and occupied Vijaya. In the 1270s, Kublai Khan had established his capital and dynasty at Beijing and had toppled the southern Chinese Song Dynasty. By 1280, he would turn his attention to the Cham and Viet kingdoms. A series of Mongol assaults on Dai Viet were, however, unsuccessful, resulting in severe setbacks such as the Battle of Bach Dang. Similarly, the invasion of Champa had little lasting effect. Rather than engage the invaders directly, the Cham king and his troops retreated from the coast to the mountains and fought as guerrillas. The Mongol army was eventually defeated by the Vietnamese in 1287. From then on and little by little, the Vietnamese became master of all the land north of Hai Van pass by 1306. From 1313 on, the Vietnamese only allowed their puppets on the Cham throne.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_CHAMPA_MOD_HEADING_9">
+			<Text>The Red King</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_CHAMPA_MOD_TEXT_9">
+			<Text>The last strong king of the Cham was Chê Bông Nga (Po Binasuor), who ruled from 1360 until 1390. Chê Bông Nga managed to unite the remaining Cham lands under his rule and was strong enough to resist and attack Vietnam from the sea. His Cham forces raided the Vietnamese city of Thang Long (modern Hanoi) three times in 1371, 1377, and 1383.[NEWLINE][NEWLINE]A final attack in 1388 was checked by the Vietnamese General Ho Quy Ly, future founder of the Ho Dynasty. Chê Bông Nga died two years later in 1390. This was the last serious offensive by the Cham against Dai Viet, but it also helped spell the end of the Vietnamese Tran Dynasty.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_CHAMPA_MOD_HEADING_10">
+			<Text>Decline</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_CHAMPA_MOD_TEXT_10">
+			<Text>In 1470, the Dai Viet, led by the emperor Le Thanh Tong, again invaded Champa. The Dai Viet army at that time was well organized and had large numbers of gunpowder weapons. By contrast the Cham were particularly vulnerable to gun warfare. Vijaya was captured after four days of fighting on 21 March 1471. The Cham king Tra-Toan was captured and died not long thereafter. The capital of Vijaya was obliterated. As a result of the victory, Le Thanh Tong annexed the principalities of Amaravati and Vijaya. This defeat caused the first major Cham emigration, particularly to Cambodia and Malacca. Those who emigrated to Hainan would become known as the Utsul.[NEWLINE][NEWLINE]What remained of historical Champa was the southern principality of Panduranga. Under the protection of Dai Viet, it preserved some of its independence. The limited Cham rule in Panduranga officially came to an end in 1832, when the Emperor Minh Mạng annexed the area. The decline of Champa was roughly contemporaneous with that of Angkor.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_CHAMPA_MOD_STATBOX">
+			<Text>[NEWLINE]        Leader: Chê Bông Nga[NEWLINE]        Unique Unit: Ballista Elephant[NEWLINE]        Unique Improvement: Square Well[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_CHAMPA_MOD_FACTOID_HEADING">
+			<Text>Cham Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_CHAMPA_MOD_FACTOID_TEXT">
+			<Text>Unlike the other major powers of the Indo-China peninsula, the Cham were a Malayo-Polynesian people and spoke an Austronesian language.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHAMPA_PO_BINASUOR_MOD_DESC">
+			<Text>Chê Bông Nga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHAMPA_PO_BINASUOR_MOD_LIVED">
+			<Text>c. ? - 1390</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHAMPA_PO_BINASUOR_MOD_NAME">
+			<Text>Chê Bông Nga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHAMPA_PO_BINASUOR_MOD_SUBTITLE">
+			<Text>Leader of Champa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHAMPA_PO_BINASUOR_MOD_TITLES_1">
+			<Text>The Red King</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHAMPA_PO_BINASUOR_MOD_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHAMPA_PO_BINASUOR_MOD_TEXT_1">
+			<Text>Chê Bông Nga, or Po Binasuor, is widely considered the last great Cham king. A brilliant general and tactician, he united the remaining Cham territories and fiercely resisted Dai Viet rule. Raiding the Red River delta, Chê Bông Nga managed to sack and pillage the Vietnamese capital of Thang Long (Ha Noi) three times in 1371, 1377, and 1383.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHAMPA_PO_BINASUOR_MOD_HEADING_2">
+			<Text>The Red King</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHAMPA_PO_BINASUOR_MOD_TEXT_2">
+			<Text>Much like most of Cham history, little is known of Chê Bông Nga's life outside of foreign accounts, particularly that of Champa's enemies; the Dai Viet.[NEWLINE][NEWLINE]For three decades Chê Bông Nga launched about ten invasions, large and small, against the Dai Viet, and the Vietnamese capital fell three times (in 1371, 1377, and 1383). During this period, Champa was a defeated and despoiled country reduced to its southern provinces from Tourane to Baria. The northern territories had long been lost and subject to Dai Viet vassalage. Champa was stuck fighting a defensive war and plagued by numerous military defeats.[NEWLINE][NEWLINE]It is a testament to Chê Bông Nga's abilities that he was able to unite and lead the tattered remains of the Cham people, outnumbered six to one. By 1389 a series of domestic revolts preceded another full-scale Cham invasion. Champa is largely understood to have held the upper hand at this point, and occupation by Cham troops of Dai Viet territory seemed a certainty. However, a low ranking Cham officer defected and helped the Vietnamese identify Chê Bông Nga's warship. A concentration of firepower from the Vietnamese took the life of the Cham King, and the Cham troops retreated. However, more so than the betrayal by the Cham officer, without the recent introduction of gunpowder to the Dai Viet military, the outcome (and the continued existence of the Dai Viet state itself) would have been extremely uncertain. The combined effect of the newly introduced firearms and the death of Chê Bông Nga caused psychological chaos among the Cham soldiers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHAMPA_PO_BINASUOR_MOD_HEADING_3">
+			<Text>Verdict of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHAMPA_PO_BINASUOR_MOD_TEXT_3">
+			<Text>Chê Bông Nga is understood to have been a brilliant tactician and general and remembered as the last great king of the Cham people. The year of Chê Bông Nga's death, 1390, marks a significant shift in the balance of power between the Dai Viet and Champa. The events of Chê Bông Nga's reign also spelled the end of the Tran Dynasty in Vietnam.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHAMPA_PO_BINASUOR_MOD_HEADING_4">
+			<Text>Factoid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CHAMPA_PO_BINASUOR_MOD_TEXT_4">
+			<Text>"Bông Nga" is likely a transcription of the Malay "bonguor", meaning flower.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_CHAMPA_MOD_TEXT">
+			<Text>Greetings, Po Binasuor, last great king of Champa! Your enemies have never ceased to tremble at your legend! An Austronesian people, the Cham came to occupy a key position on the Indochinese coast mediating international sea trade with China. Yet, lacking the fertile rice fields of their neighbors, Champa grew to exploit these lucrative waters and developed a unique plunder based economy; gaining notoriety throughout the region for piracy. Champa would represent a melting-pot of Southeast Asia: introducing technology from China, trading with merchants from Indonesia, intermarrying with the kings of the Khmer, and building unforgettable temples to the gods of ancient India. Yet, seemingly always at war, Champa fell broken and desolate to conquerors from the north.[NEWLINE][NEWLINE]Red King, it was you who reunited the tattered remains of your people and, outnumbered six to one, almost claimed victory over your bitter enemies; the Dai Viêt! Will you now return to reclaim your lost homeland? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PO_BINASUOR_MOD_FIRST_GREETING_1">
+			<Text>You approach Po Binasuor, the great Red King of Champa! What business do you have?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PO_BINASUOR_MOD_FIRST_GREETING_2">
+			<Text>Ah! Merchants and traders are always welcome in Champa! And I promise, almost all of your money will still be there when you leave...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PO_BINASUOR_MOD_DEFEATED_1">
+			<Text>Humph! Victory was mine! You only won by the betrayal of cowards and dirt!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PO_BINASUOR_MOD_DEFEATED_2">
+			<Text>Take your victory! I've already burnt your cities and stole your gold!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CHAM_PIRATES_MOD_SHORT">
+			<Text>Pirates of the South Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CHAM_PIRATES_MOD">
+			<Text>Steal [ICON_GOLD] Gold from rival Civilizations you are at war with (bonus increases for every enemy City under Blockade) and from Cargo Ships in your territory whose owner does not have an active Trade Route to Champa.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHAMPA_MOD_WELL">
+			<Text>Square Well</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_CHAMPA_MOD_WELL_HELP">
+			<Text>The Cham Square Well provides [ICON_FOOD] Food on coastal tiles. It may also be built along coastal trade routes to generate [ICON_GOLDEN_AGE] Golden Age Points.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_CHAMPA_MOD_WELL_TEXT">
+			<Text>As a basic tile improvement, the Cham Square Well increases the [ICON_FOOD] Food output of coastal flatland tiles by two. This bonus outpaces farms until the discovery of Fertilizer, allowing for an early game growth advantage. After Navigation is researched, the Cham Square Well also provides +1 [ICON_GOLD] Gold.[NEWLINE][NEWLINE]Unlike most other tile improvements, the Cham Square Well may also be built in unclaimed neutral territory. Any time a Cargo Ship not owned by Champa passes within two tiles of a Square Well, Champa receives points towards their next [ICON_GOLDEN_AGE] Golden Age. This bonus is applied regardless of if the Well currently resides in friendly, foreign, or neutral territory. If the Well resides in the territory of another civilization, that civilization will also receive a boost to their next [ICON_GOLDEN_AGE] Golden Age in addition to Champa. [NEWLINE][NEWLINE]The Square Well may only be built on flatland coastal tiles and cannot be built on a resource tile or adjacent to another Square Well. Try to scout out key shipping lanes and establish a network of wells early to make the most of this unique improvement.[NEWLINE][NEWLINE]The Arab trader Sulayman commented that there were only two products of note for which traders should stop in Champa. The first was eaglewood, also mentioned by Marco Polo, and the second was fresh water. In contrast to the Dai Viet, Champa's economy was not based on agriculture. As a seafaring people, the Cham were highly mobile and established a network of trade including not only major ports but also extending into the mountainous hinterland. Maritime trade was facilitated by a network of wells that provided fresh water to the Cham as well as foreign ships along the coast.[NEWLINE][NEWLINE]These wells were easily recognizable by their distinctive square shape, and serviced passing travellers. However, what was perhaps most remarkable about these wells was their penchant in providing fresh water. So much so, they were said to have never run dry, even during prolonged droughts, and, in fact, many are still used today by local villages and farmers in rural areas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CHAMPA_MOD_WELL">
+			<Text>Construct a [LINK=IMPROVEMENT_CHAMPA_MOD_WELL]Square Well[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CHAMPA_MOD_WELL_HELP">
+			<Text>The Cham Square Well provides [ICON_FOOD] Food on coastal tiles. It may also be built along coastal trade routes to generate [ICON_GOLDEN_AGE] Golden Age Points.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CHAMPA_MOD_WELL_REC">
+			<Text>The Cham Square Well provides [ICON_FOOD] Food on coastal tiles. It may also be built along coastal trade routes to generate [ICON_GOLDEN_AGE] Golden Age Points.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CHAMPA_MOD">
+			<Text>Ballista Elephant</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_TCHAMPA_MOD">
+			<Text>Hulking Siege Weapon capable of quickly attacking Cities. Only Champa may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CHAMPA_MOD_STRATEGY">
+			<Text>Unlike other Siege Weapons, the Cham Ballista Elephant does not need to set up to attack, making the unit much more mobile when attacking cities. However, it receives a smaller attack bonus versus Cities than the standard Trebuchet. Additionally, the Ballista Elephant has increased defense versus Mounted Units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_CHAMPA_MOD_TEXT">
+			<Text>The use of multibow siege crossbows is unique to East Asia. The very first arcuballistae were understandably single bow crossbows, emerging in the Warring States period of China. The technology was introduced into Indochina in AD 1171 when an emissary from the Song Dynasty travelled to Champa to trade the technology in exchange for privileges along the many trade routes Champa controlled in the South Sea. The Cham applied this technological innovation in siege warfare by mounting the arcuballistae on the backs of elephants.[NEWLINE][NEWLINE]Not long after this date, double-bow arcuballistae appear in 13th century Khmer bas-relief sculptures on the walls of Bayon and at Banteay Chmar. The Khmer adopted the technology from Champa either through a later trade agreement or from captured Cham soldiers and ballista elephant during their many wars for supremacy over the Indochina region. Siege crossbows, both standalone and mounted, were frequently used by both the Khmer and Champa in their wars with each other.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CITY_SIEGE_MINOR_MOD">
+			<Text>Bonus vs Cities (100)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CITY_SIEGE_MINOR_MOD_HELP">
+			<Text>+100% Bonus vs Cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CHAM_MOUNTED_DEFENSE">
+			<Text>Defense vs Mounted (50)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CHAM_MOUNTED_DEFENSE_HELP">
+			<Text>+50% Defense vs Mounted Units</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CHAMPA_DUMMY_DESC">
+			<Text>Cham GA Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CHAMPA_GOLD_DUMMY_DESC">
+			<Text>Cham Gold Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CHAMPA_TOTAL_DUMMY_DESC">
+			<Text>Cham Total Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CHAMPA_DUMMY_DECISIONS_DESC">
+			<Text>Cham Decision Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CHAMPA_DUMMY_STRATEGY">
+			<Text>This building cannot be constructed but rather facilitates Champa's unique abilities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CHAMPA_DUMMYE_TEXT">
+			<Text>The Arab trader Sulayman commented that there were only two products of note for which traders should stop in Champa. The first was eaglewood, also mentioned by Marco Polo, and the second was fresh water. In contrast to the Dai Viet, Champa's economy was not based on agriculture. As a seafaring people, the Cham were highly mobile and established a network of trade including not only the major ports at Hoi An and Thi Nai, but also extending into the mountainous hinterland. Maritime trade was facilitated by a network of wells that provided fresh water to the Cham as well as foreign ships along the coast of Champa and the islands of Cu Lao Cham and Ly Son.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHAM_UNIT_GOLD_DUMMY_DESC">
+			<Text>Cham Golden Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHAM_UNIT_PIRATE_DUMMY_DESC">
+			<Text>Cham Pirate Dummy</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_GENERIC_CHAMPA_MOD_INFLUENTIAL_ON_AI_1">
+			<Text>Merchants are purposefully overpricing to recoup from the so-called "Champa Tax"... I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<!-- Top Panel -->
+		<Row Tag="TXT_KEY_TP_CHAMPA_GA_EDIT">
+			<Text>Your Square Wells generated an additional {1_Num} [ICON_GOLDEN_AGE] Golden Age Points from International [ICON_TURNS_REMAINING] Trade Routes this turn.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_CHAMPA_PO_BINASUOR_MOD">
+			<Text>Leiou Ye</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- -->
+	</Language_en_US>
+</GameData>

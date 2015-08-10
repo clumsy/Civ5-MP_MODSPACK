@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<UnitClasses>
+		<Row>
+			<Type>UNITCLASS_CHAM_PIRATE_DUMMY</Type>
+			<Description>TXT_KEY_CHAM_UNIT_PIRATE_DUMMY_DESC</Description>
+			<DefaultUnit>UNIT_CHAM_PIRATE_DUMMY</DefaultUnit>
+		</Row>
+	</UnitClasses>
+	<Civilization_UnitClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<UnitClassType>UNITCLASS_CHAM_PIRATE_DUMMY</UnitClassType>
+			<UnitType/>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MINOR</CivilizationType>
+			<UnitClassType>UNITCLASS_CHAM_PIRATE_DUMMY</UnitClassType>
+			<UnitType/>
+		</Row>		
+	</Civilization_UnitClassOverrides>
+</GameData>

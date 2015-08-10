@@ -1415,6 +1415,9 @@ ContextPtr:LoadNewContext("Kievan Rus Check")
 -- Nation - Sumer --
 ContextPtr:LoadNewContext("Sumer Mod Check")
 
+-- Nation - Champa --
+ContextPtr:LoadNewContext("Champa Check")
+
 -- Nation - Caral --
 ContextPtr:LoadNewContext("Norte Chico Mod Check")
 ContextPtr:LoadNewContext("Caral Coastal Imports")

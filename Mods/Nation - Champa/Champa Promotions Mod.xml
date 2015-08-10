@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_CITY_SIEGE_MINOR_MOD</Type>
+			<Description>TXT_KEY_PROMOTION_CITY_SIEGE_MINOR_MOD</Description>
+			<Help>TXT_KEY_PROMOTION_CITY_SIEGE_MINOR_MOD_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CityAttack>100</CityAttack>
+			<CannotBeChosen>true</CannotBeChosen>
+			<LostWithUpgrade>true</LostWithUpgrade>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PEDIA_PROMOTION_CITY_SIEGE</PediaEntry>
+		</Row>
+		<Row>
+			<Type>PROMOTION_CHAM_MOUNTED_DEFENSE</Type>
+			<Description>TXT_KEY_PROMOTION_CHAM_MOUNTED_DEFENSE</Description>
+			<Help>TXT_KEY_PROMOTION_CHAM_MOUNTED_DEFENSE_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<LostWithUpgrade>true</LostWithUpgrade>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_CHAM_MOUNTED_DEFENSE</PediaEntry>
+		</Row>
+	</UnitPromotions>
+	<UnitPromotions_UnitClasses>
+		<Row>
+			<PromotionType>PROMOTION_CHAM_MOUNTED_DEFENSE</PromotionType>
+			<UnitClassType>UNITCLASS_CAVALRY</UnitClassType>
+			<Defense>50</Defense>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_CHAM_MOUNTED_DEFENSE</PromotionType>
+			<UnitClassType>UNITCLASS_LANCER</UnitClassType>
+			<Defense>50</Defense>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_CHAM_MOUNTED_DEFENSE</PromotionType>
+			<UnitClassType>UNITCLASS_KNIGHT</UnitClassType>
+			<Defense>50</Defense>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_CHAM_MOUNTED_DEFENSE</PromotionType>
+			<UnitClassType>UNITCLASS_HORSEMAN</UnitClassType>
+			<Defense>50</Defense>
+		</Row>
+	</UnitPromotions_UnitClasses>
+</GameData>

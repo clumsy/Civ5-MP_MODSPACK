@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<Language_en_US>	
+		<!--Pirate Fleet-->
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_CHAMPA_FLEET">
+			<Text>Develop Basketwork Hulls</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_CHAMPA_FLEET_DESC">
+			<Text>Our Austronesian heritage has provided us with many indigenous ship building techniques not found amongst the neighboring kingdoms. Although primarily suited for fishing, innovations such as basketwork hulls and retractable keels and rudders can be adapted for warship construction to greatly increase the size and durability of our fleet.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Champa
+				[NEWLINE][ICON_BULLET]Player must have constructed at least 2 Harbors
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+15% [ICON_PRODUCTION] Production when building Naval Units
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_CHAMPA_FLEET_ENACTED_DESC">
+			<Text>Our Austronesian heritage has provided us with many indigenous ship building techniques not found amongst the neighboring kingdoms. Although primarily suited for fishing, innovations such as basketwork hulls and retractable keels and rudders can be adapted for warship construction to greatly increase the size and durability of our fleet.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+15% [ICON_PRODUCTION] Production when building Naval Units
+			</Text>
+		</Row>	
+		<!--Eaglewood-->
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_CHAMPA_EAGLEWOOD">
+			<Text>Export Eaglewood</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_CHAMPA_EAGLEWOOD_DESC">
+			<Text>The cities in our hinterlands have become known for their fragrant eaglewood, attracting the attention of foreign merchants. We should leverage this interest to boost our economy.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Champa
+				[NEWLINE][ICON_BULLET]Must have at least 1 Inland City
+				[NEWLINE][ICON_BULLET]Must have met at least 1 Civilization
+				[NEWLINE][ICON_BULLET]Must have researched Calendar
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]+2 [ICON_RES_INCENSE] Incense
+				[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: The amount of [ICON_GOLD] Gold received increases with every Game Era.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_CHAMPA_EAGLEWOOD_ENACTED_DESC">
+			<Text>The cities in our hinterlands have become known for their fragrant eaglewood, attracting the attention of foreign merchants. We should leverage this interest to boost our economy.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+2 [ICON_RES_INCENSE] Incense
+				[NEWLINE][ICON_BULLET]Lump sum of [ICON_GOLD] Gold
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
