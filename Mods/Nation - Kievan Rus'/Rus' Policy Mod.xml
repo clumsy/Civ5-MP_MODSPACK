@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/13/2014 12:47:13 AM -->
+<GameData>
+	<Policies>
+		<Row>
+			<Type>POLICY_DNIEPER_TRADE</Type>
+			<Description>TXT_KEY_POLICY_DNIEPER_TRADE</Description>
+			<Civilopedia>TXT_KEY_POLICY_DNIEPER_TRADE_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_DNIEPER_TRADE_HELP</Help>
+			<GridX>1000</GridX>
+			<GridY>1000</GridY>
+			<PortraitIndex>47</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+			<ProtectedMinorPerTurnInfluence>200</ProtectedMinorPerTurnInfluence>
+		</Row>
+	</Policies>
+</GameData>

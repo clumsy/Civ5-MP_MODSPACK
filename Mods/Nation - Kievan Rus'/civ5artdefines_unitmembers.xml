@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<UnitMemberArtInfos>
+	<UnitMemberArtInfo>
+		<Type>ART_DEF_UNIT_MEMBER_RUS_DRUZHINA_MOD</Type>
+		<fScale>0.14</fScale>
+		<Granny>Druzhina.fxsxml</Granny>
+		<Combat>
+			<Defaults>ART_DEF_TEMPLATE_SOLDIER</Defaults>
+			<Weapon>
+				<WeaponTypeTag>METAL</WeaponTypeTag>
+				<WeaponTypeSoundOverrideTag>SWORD</WeaponTypeSoundOverrideTag>
+			</Weapon>
+			<Weapon>
+				<Usage>Vs_City ShortRange</Usage>
+				<fVisKillStrengthMin>10.0</fVisKillStrengthMin>
+				<fVisKillStrengthMax>20.0</fVisKillStrengthMax>
+				<WeaponTypeTag>FLAMING_ARROW</WeaponTypeTag>
+				<fMissTargetSlopRadius>10.0</fMissTargetSlopRadius>
+			</Weapon>
+		</Combat>
+		<MaterialTypeTag>ARMOR</MaterialTypeTag>
+		<MaterialTypeSoundOverrideTag>ARMOR</MaterialTypeSoundOverrideTag>
+	</UnitMemberArtInfo>
+</UnitMemberArtInfos>	

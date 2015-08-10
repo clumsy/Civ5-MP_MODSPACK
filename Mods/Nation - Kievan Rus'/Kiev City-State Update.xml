@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<MinorCivilizations>
+		<Update>
+			<Where Type="MINOR_CIV_KIEV"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_MOD_MINSK</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_MOD_MINSK</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_MOD_MINSK_ADJ</Adjective>
+				<Civilopedia>TXT_KEY_CITYSTATE_MOD_MINSK_PEDIA</Civilopedia>
+			</Set>
+		</Update>
+	</MinorCivilizations>
+	<MinorCivilization_CityNames>
+		<Delete MinorCivType="MINOR_CIV_KIEV" CityName="TXT_KEY_CITYSTATE_KIEV"/>
+		<Row>
+			<MinorCivType>MINOR_CIV_KIEV</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_MOD_MINSK</CityName>
+		</Row>
+	</MinorCivilization_CityNames>
+</GameData>

@@ -1,0 +1,378 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh-->
+<GameData>
+	<Language_en_US>
+		<!-- -->
+		<Row Tag="TXT_KEY_UNIT_KIEVAN_RUS_MOD">
+			<Text>Druzhina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_KIEVAN_RUS_MOD_HELP">
+			<Text>Resilient medieval infantry capable of providing additional defense for your empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_KIEVAN_RUS_MOD_STRATEGY">
+			<Text>The Druzhina are the Kievan Rus' unique unit, replacing the Longswordsman. They are much more resilient than the standard Longswordsman - receiving a +20% Defense modifier against all attacks - and have an additional +1 Visibility Range.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNIT_KIEVAN_RUS_MOD_TEXT">
+			<Text>In early Rus' history, Druzhina helped the prince administer his principality and constituted the area's military force. The first members of a Druzhina in the Rus' Khaganate were the Varangians, whose princes established control in the 9th century. Soon members of the local Slavic aristocracy (as well as adventurers of a variety of other nationalities) became Druzhinniki. The Druzhina organization varied with time and survived in one form or another until the 16th century.[NEWLINE][NEWLINE]The Druzhina were composed of two groups: the senior members, later known as boyars, and the junior members. The boyars were the prince's closest advisers who also performed higher state functions. The junior members constituted the prince's personal bodyguard and were common soldiers. Members were dependent upon their prince for financial support, but they served the prince freely and had the right to leave him and join the Druzhina of another prince. As a result, a prince was inclined to seek the good-will of his Druzhina by paying the Druzhinniki wages, sharing his war booty and taxes with them, and eventually rewarding the boyars with landed estates complete with the right to tax and administer justice to the local population.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_PROMOTION_KIEVEN_RUS_DEFENSE_MOD">
+			<Text>Varangian Guard</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_KIEVEN_RUS_DEFENSE_MOD_HELP">
+			<Text>+20% Defense</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_BUILDING_KIEVAN_RUS_MOD">
+			<Text>Veche Hall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KIEVAN_RUS_MOD_HELP">
+			<Text>+25% [ICON_GREAT_PEOPLE] Great People generation in this City.[NEWLINE][NEWLINE]Requires no [ICON_GOLD] Gold maintenance. Reduces the total Building Maintenance of this City by 20%.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KIEVAN_RUS_MOD_STRATEGY">
+			<Text>The Veche Hall is the Kievan Rus' unique building, replacing the Garden. In addition to increasing the speed at which [ICON_GREAT_PEOPLE] Great People are generated in the city, the Veche Hall reduces the total Building Maintenance of the City by 20%. The Veche Hall does not have the fresh water requirement of the Garden.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KIEVAN_RUS_MOD_TEXT">
+			<Text>A Veche was a popular assembly in medieval Slavic countries. The East Slavic Veche is thought to have originated in tribal assemblies of Eastern Europe, thus predating the Rus' state. The earliest mentions of Veche in East European chronicles refer to examples in Belgorod Kievsky in 997, Novgorod the Great in 1016, and in Kiev in 1068. The assemblies discussed matters of war and peace, adopted laws, and called for and expelled rulers. In Kiev, the Veche was summoned in front of the Cathedral of St. Sophia.[NEWLINE][NEWLINE]It was in Novgorod where the Veche acquired the greatest prominence. The Veche was the highest legislature and judicial authority in the Republic of Novgorod until 1478, after the Massacre of Novgorod by Grand Prince Ivan III. The Novgorod assembly could be presumably summoned by anyone who rung the Veche Bell, although it is more likely that the common procedure was more complex. The whole population of the city (boyars, merchants, and common citizens) then gathered at Yaroslav's Court or in front of the Cathedral of Holy Wisdom. The Veche Bell became a symbol of republican sovereignty and independence and for this reason, Ivan III carted it off to Moscow when he took control of the city.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_TRAIT_JUSTICE_OF_RUS_MOD_SHORT">
+			<Text>From the Varangians to the Greeks</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JUSTICE_OF_RUS_MOD">
+			<Text>Trade Routes with City-States generate +2 [ICON_INFLUENCE] Influence per turn (bonus scales with game speed). Rivers extend the length of land trade routes as if they were roads.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_SPY_NAME_KIEVAN_RUS_MOD_0">
+			<Text>Iziaslav</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KIEVAN_RUS_MOD_1">
+			<Text>Zdravko</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KIEVAN_RUS_MOD_2">
+			<Text>Yuriy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KIEVAN_RUS_MOD_3">
+			<Text>Vsevolod</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KIEVAN_RUS_MOD_4">
+			<Text>Volyn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KIEVAN_RUS_MOD_5">
+			<Text>Rada</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KIEVAN_RUS_MOD_6">
+			<Text>Vera</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KIEVAN_RUS_MOD_7">
+			<Text>Sobena</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KIEVAN_RUS_MOD_8">
+			<Text>Agnes</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KIEVAN_RUS_MOD_9">
+			<Text>Elisaveta</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_CITY_NAME_KIEVAN_RUS_MOD_KIEV">
+			<Text>Kiev</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KIEVAN_RUS_MOD_NOVGOROD">
+			<Text>Novgorod</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KIEVAN_RUS_MOD_POLOTSK">
+			<Text>Polotsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KIEVAN_RUS_MOD_VITEBSK">
+			<Text>Vitebsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KIEVAN_RUS_MOD_LYUBECH">
+			<Text>Lyubech</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KIEVAN_RUS_MOD_TUROV">
+			<Text>Turov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KIEVAN_RUS_MOD_CHERNIGOV">
+			<Text>Chernigov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KIEVAN_RUS_MOD_BELGOROD">
+			<Text>Belgorod Kievsky</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KIEVAN_RUS_MOD_PEREYASLAVL">
+			<Text>Pereyaslavl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KIEVAN_RUS_MOD_VOLODIMIR">
+			<Text>Volodimir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KIEVAN_RUS_MOD_GALICH">
+			<Text>Galich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KIEVAN_RUS_MOD_SMOLENSK">
+			<Text>Smolensk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KIEVAN_RUS_MOD_KURSK">
+			<Text>Kursk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KIEVAN_RUS_MOD_KOZELSK">
+			<Text>Kozelsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KIEVAN_RUS_MOD_RYAZAN">
+			<Text>Ryazan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KIEVAN_RUS_MOD_LADOGA">
+			<Text>Ladoga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KIEVAN_RUS_MOD_BELO_OZERO">
+			<Text>Beloozero</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KIEVAN_RUS_MOD_MUROM">
+			<Text>Murom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KIEVAN_RUS_MOD_AZOV">
+			<Text>Azov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KIEVAN_RUS_MOD_TMUTARAKAN">
+			<Text>Tmutarakan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KIEVAN_RUS_MOD_NOVGOROD_SEVERSKY">
+			<Text>Novgorod Seversky</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KIEVAN_RUS_MOD_BERESTYE">
+			<Text>Berestye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KIEVAN_RUS_MOD_CHERVEN">
+			<Text>Yaroslavl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KIEVAN_RUS_MOD_TEREBOVL">
+			<Text>Izborsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KIEVAN_RUS_MOD_TOROPETS">
+			<Text>Toropets</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KIEVAN_RUS_MOD_OLESHYE">
+			<Text>Oleshye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KIEVAN_RUS_MOD_GERTSIKE">
+			<Text>Gorodische</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KIEVAN_RUS_MOD_PERESECHEN">
+			<Text>Peresechen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KIEVAN_RUS_MOD_HALYCH">
+			<Text>Halych</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KIEVAN_RUS_MOD_SHARUKAN">
+			<Text>Pleskov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KIEVAN_RUS_MOD_KOLYVAN">
+			<Text>Vyshgorod</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_KIEVAN_RUS_MOD_DESC">
+			<Text>Kievan Rus' Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KIEVAN_RUS_MOD_SHORT_DESC">
+			<Text>Kievan Rus'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KIEVAN_RUS_MOD_ADJECTIVE">
+			<Text>Kievan Rus'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KIEVAN_RUS_MOD">
+			<Text>Kievan Rus'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_KIEVAN_RUS_MOD_TITLE">
+			<Text>Kievan Rus'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_KIEVAN_RUS_MOD_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_KIEVAN_RUS_MOD_TEXT_1">
+			<Text>Kievan Rus' was a medieval polity and historical precedent to the modern Russian, Ukrainian, and Belarusian peoples. Although a loose federation of independent principalities for most of its existence, it was briefly united under the rules of Vladimir the Great and his son Yaroslav the Wise, with political power centered in Kiev (in modern Ukraine). At its greatest height it stretched from the Baltic to the Black seas and served as a a major trade center between Scandinavia and Byzantium, as well as the Germans and the Asian steppes. Kievan Rus' lasted from the late 9th to the mid-13th century when it was invaded by the Golden Horde.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_KIEVAN_RUS_MOD_HEADING_2">
+			<Text>Climate and Terrain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_KIEVAN_RUS_MOD_TEXT_2">
+			<Text>Eastern Europe is primarily a temperate arid highland, home to the Ural and Caucas mountains, dissected plateaus in the Balkans, as well plains and tundra regions. It contains several major rivers including the Ob, Volga, Danube, and Dnieper, all of which have been important historically as major trade routes. Both timber and coal are plentiful and serve as the primary natural resources of the region.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_KIEVAN_RUS_MOD_HEADING_3">
+			<Text>The Rus' Khaganate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_KIEVAN_RUS_MOD_TEXT_3">
+			<Text>The origins of the Rus' Khaganate are unclear. The first Norse settlers of the region arrived in the lower basin of the Volkhov River in the mid-8th century. The country comprising the present-day Saint-Petersburg, Novgorod, Tver, Yaroslavl, and Smolensk regions became known in Old Norse sources as "Gardarike", the land of forts. Around 860, Rus', a group of Vikings perhaps from Roden, Sweden, began to rule the area under their leader Rurik. Gradually, Norse warlords, known to the Turkic-speaking steppe peoples as "sea-kings", came to dominate some of the region's Finno-Ugric and Slavic peoples, particularly along the Volga trade route linking the Baltic Sea with the Caspian Sea and Serkland.[NEWLINE][NEWLINE]Most historians agree that the title "khagan" was borrowed by the Rus' from the Khazars, but there is considerable dispute over the circumstances of this borrowing. The possible Khazar connection to early Rus' monarchs is supported by the use of a stylized trident tamga, or seal, by later Rus' rulers such as Sviatoslav I of Kiev; similar tamgas are found in ruins that are definitively Khazar in origin. The genealogical connection between the 9th-century Khagans of Rus' and the later Rurikid rulers, if any, is unknown at this time.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_KIEVAN_RUS_MOD_HEADING_4">
+			<Text>The Kievan State</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_KIEVAN_RUS_MOD_TEXT_4">
+			<Text>The Kingdom of the Kievan Rus' was officially founded by Prince Oleg around AD 880. The territory of his state was much smaller than the later state of Yaroslav the Wise. During the next 35 years, Oleg and his warriors subdued the various Eastern Slavic and Finnic tribes. In 882, Oleg deposed Askold and Dir subordinating Kiev directly to himself and choosing it as the capital city. In 883, Oleg conquered the Drevlians imposing a fur tribute on them. By 884 he managed to subjugate the Polians, Drevlians, Severians, Vyatichs, and Radimichs while at war with the Tivertsi and the Ulichs. The latter were located in the area known among the Greek historians as the Great Scythia (lands of lower Dniester and Dnieper rivers). In 907, Oleg led an attack against Constantinople with 80,000 warriors transported by 2,000 ships, leaving Igor, son of Rurik in Kiev. Through a treaty, Oleg managed to impose a tribute upon Greeks of no less than one million grivna. In 911, he signed a commercial treaty with the Byzantine Empire as an equal partner. After the death of Oleg later in 912, the Drevlians managed to break away, but were conquered again by Igor. In 914, Igor concluded a peace treaty with the Pechenegs, a nomadic tribe that was passing through Rus' towards the Danube River in order to attack the Byzantine Empire.[NEWLINE][NEWLINE]The new Kievan state prospered because it had an abundant supply of furs, beeswax and honey for export and because it controlled three main trade routes of Eastern Europe: the Volga trade route from the Baltic Sea to the Orient, the Dnieper trade route from the Baltic Sea to the Black Sea, and the trade route from the Khazars to the Germans.[NEWLINE][NEWLINE]Following the death of Grand Prince Igor in 945, his wife Olga ruled as regent in Kiev until their son Sviatoslav reached maturity (ca. 963).] His decade-long reign over Rus' was marked by rapid expansion through the conquest of the Khazars of the Pontic steppe, and Invasion of the Balkans. By the end of his short life, Sviatoslav carved out for himself the largest state in Europe, eventually moving his capital from Kiev to Pereyaslavets on the Danube in 969. In contrast with his mother's conversion to Christianity, Sviatoslav, like his druzhina remained a staunch pagan. Due to his abrupt death in ambush, Sviatoslav's conquests, for the most part, were not consolidated into a functioning empire, while his failure to establish a stable succession led to fratricidal feud among his sons.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_KIEVAN_RUS_MOD_HEADING_5">
+			<Text>Vladimir the Great</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_KIEVAN_RUS_MOD_TEXT_5">
+			<Text>It is not clearly documented when the title of the Grand Duke was first introduced, but the importance of the Kiev principality was recognized after the death of Sviatoslav I with the struggle between Vladimir the Great and Yaropolk I. The region of Kiev dominated the state of Kievan Rus' for the next two centuries. The Grand Prince Kiev controlled the lands around the city, and his formally subordinate relatives ruled the other cities and paid him tribute. The zenith of the state's power came during the reigns of Prince Vladimir the Great and Prince Yaroslav the Wise. Both rulers continued the steady expansion of Kievan Rus' that had begun under Oleg.[NEWLINE][NEWLINE]Vladimir rose to power in Kiev after the death of his father Sviatoslav I in 972. Vladimir was forced to flee to Scandinavia in 976 after his half-brother Yaropolk had murdered his other brother Oleg and taken control Rus. In Scandinavia with the help from his relative Earl Hakon Sigurdsson, ruler of Norway, Vladimir assembled a Viking army and reconquered Novgorod and Kiev from Yaropolk. As Prince of Kiev, Vladimir's most notable achievement was the Christianization of Kievan Rus', a process that began in 988.[NEWLINE][NEWLINE]Vladimir's choice of Eastern Christianity may have reflected his close personal ties with Constantinople, which dominated the Black Sea and hence trade on Kiev's most vital commercial route, the River Dnieper. Adherence to the Eastern Church had long-range political, cultural, and religious consequences. The church had a liturgy written in Cyrillic and a corpus of translations from Greek that had been produced for the Slavic peoples. The existence of this literature facilitated the conversion to Christianity of the Eastern Slavs and introduced them to rudimentary Greek philosophy, science, and historiography without the necessity of learning Greek. There were, however, some merchants who did business with Greeks that would likely have had an understanding of contemporary business Greek. In contrast, educated people in medieval Western and Central Europe learned Latin. Enjoying independence from the Roman authority and free from tenets of Latin learning, the East Slavs developed their own literature and fine arts, quite distinct from those of other Eastern Orthodox countries. Following the Great Schism of 1054, the Rus' church maintained communion with both Rome and Constantinople for some time, but along with most of the Eastern churches eventually split to go with the Eastern Orthodox. That being said, unlike other parts of the Greek world, Kievan Rus' did not have a strong hostility to the Western world.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_KIEVAN_RUS_MOD_HEADING_6">
+			<Text>Yaroslav the Wise</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_KIEVAN_RUS_MOD_TEXT_6">
+			<Text>Yaroslav the Wise struggled for power with his brothers. A son of Vladimir the Great, he was vice-regent of Novgorod at the time of his father's death in 1015. Subsequently, his eldest surviving brother, Svyatopolk the Accursed, killed three of his other brothers and seized power in Kiev. Yaroslav, with the active support of the Novgorodians and the help of Viking mercenaries, defeated Svyatopolk and became the grand prince of Kiev in 1019. Although he first established his rule over Kiev in 1019, he did not have uncontested rule of all of Kievan Rus' until 1036. Like Vladimir, Yaroslav was eager to improve relations with the rest of Europe, especially the Byzantine Empire. Yaroslav's granddaughter, Eupraxia the daughter of his son Vsevolod I, Prince of Kiev, was married to Henry III, Holy Roman Emperor. Yaroslav also arranged marriages for his sister and three daughters to the kings of Poland, France, Hungary and Norway. Yaroslav promulgated the first East Slavic law code, Pravda Rus'skaya; built Saint Sophia Cathedral in Kiev and Saint Sophia Cathedral in Novgorod; patronized local clergy and monasticism; and is said to have founded a school system. Yaroslav's sons developed the great Kiev Pechersk Lavra, which functioned in Kievan Rus' as an ecclesiastical academy.[NEWLINE][NEWLINE]In the centuries that followed the state's foundation, Rurik's descendants shared power over Kievan Rus'. Princely succession moved from elder to younger brother and from uncle to nephew, as well as from father to son. Junior members of the dynasty usually began their official careers as rulers of a minor district, progressed to more lucrative principalities, and then competed for the coveted throne of Kiev. In the 11th century and the 12th century, the princes and their retinues, which were a mixture of Slavic and Scandinavian elites, dominated the society of Kievan Rus'. Leading soldiers and officials received income and land from the princes in return for their political and military services. Kievan society lacked the class institutions and autonomous towns that were typical of Western European feudalism. Nevertheless, urban merchants, artisans and labourers sometimes exercised political influence through a city assembly, the veche (council), which included all the adult males in the population. In some cases, the veche either made agreements with their rulers or expelled them and invited others to take their place. At the bottom of society was a stratum of slaves. More important was a class of tribute-paying peasants, who owed labour duty to the princes. The widespread personal serfdom characteristic of Western Europe did not exist in Kievan Rus'.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_KIEVAN_RUS_MOD_HEADING_7">
+			<Text>Fragmentation and Decline</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_KIEVAN_RUS_MOD_TEXT_7">
+			<Text>The gradual disintegration of the Kievan Rus' began in the 11th century, after the death of Yaroslav the Wise. The position of the Grand Prince of Kiev was weakened by the growing influence of regional clans. Unconventional power succession system where the power was transferred not from father to son, but to the eldest member of the ruling dynasty, i.e. in most cases to the eldest brother of the ruler, bred constant hatred and rivalry within the royal family. Familicide was a rather common way to obtain power. [NEWLINE][NEWLINE]The decline of Constantinople, a main trading partner of Kievan Rus', played a significant role in the decline of the Kievan Rus'. The trade route from the Varangians to the Greeks, along which the goods were moving from the Black Sea (mainly Byzantine) through Eastern Europe to the Baltic, was a cornerstone of Kiev wealth and prosperity. Kiev was the main power and initiator in this relationship, once the Byzantine Empire fell into turmoil and the supplies became erratic, profits dried out, and Kiev lost its appeal.[NEWLINE][NEWLINE]The last ruler to maintain some sort of united kingdom was Mstislav the Great. After his death in 1132, Kievan Rus' fell into recession and a rapid decline, and Mstislav's successor Yaropolk II of Kiev instead of focussing on the external threat of the Cumans was embroiled in conflicts with the growing power of the Novgorod Republic. In 1169, as the Kievan Rus' state was full of internal conflict, Andrei Bogolyubsky of Vladimir sacked the city of Kiev. The sack of the city fundamentally changed the perception of Kiev and was evidence of the fragmentation of the Kievan Rus'. By the end of the 12th century, the Kievan state became even further fragmented and had been divided into roughly twelve different principalities.[NEWLINE][NEWLINE]The state finally disintegrated under the pressure of the Mongol invasion of Rus'. The state fragmented into successor principalities, tributary to the Golden Horde (the so-called Tatar Yoke). In the late 15th century the Grand Duchy of Moscow began taking over former Kievan territories and claimed themselves to be the sole legal successors of the Kievan principality according to the logic of the medieval theory of translatio imperii. In the western periphery, the Kievan Rus' was succeeded by the Principality of Galicia-Volhynia. Later, as these lands along with the territories of modern central Ukraine and Belarus fell to the Gediminids, the powerful, largely Ruthenized Grand Duchy of Lithuania, drew heavily on Rus' cultural and legal traditions. Due to the fact that the economic and cultural core of Rus' was located on the territory of modern Ukraine some Ukrainian historians and scholars consider Kievan Rus' to be a founding Ukrainian state. On the northeastern periphery of Kievan Rus' traditions were adapted in the Vladimir-Suzdal Principality that gradually gravitated towards Moscow. In the very north, the Novgorod and Pskov Feudal Republics carried on a separate and less autocratic version of Rus' legacy into the 16th century until they were absorbed by the Grand Duchy of Moscow.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_KIEVAN_RUS_MOD_STATBOX">
+			<Text>[NEWLINE]        Leader: Yaroslav[NEWLINE]        Unique Unit: Druzhina[NEWLINE]        Unique Building: Veche Hall[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_KIEVAN_RUS_MOD_FACTOID_HEADING">
+			<Text>Kievan Rus' Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_KIEVAN_RUS_MOD_FACTOID_TEXT">
+			<Text>The modern East Slavic states of Belarus, Ukraine and Russia all derive their identity from the early medieval state.[NEWLINE][NEWLINE]In spite of great influence of Byzantine legislation on the contemporary world, and in spite of great cultural and commercial ties between Byzantium and Kievan Rus', the Pravda Rus'skaya bears no similarity whatsoever to the legal code of the Byzantine Empire.[NEWLINE][NEWLINE]Kievan Rus' controlled three main trade routes of Eastern Europe: the Volga trade route from the Baltic Sea to the Orient, the Dnieper trade route from the Baltic Sea to the Black Sea, and trade between the Khazars and the Germans.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_KIEVAN_RUS_MOD_TEXT">
+			<Text>Oh Wise and Pious Yaroslav, Grand Prince of Novgorod and Kiev, your people once again seek your guidance. Descended from the Varangian Vikings, the Land of the Rus' was liberated from the nomadic Khazars at the center of mighty empires. Controlling the trade along the Volga between the Baltic and the Orient, along the Dnieper between Byzantium and the Nords, and between the Khazar Horde and the Germanic Tribes, your people grew to prominence. Your father, Vladimir the Great, consolidated the realm and baptized Kievan Rus', under God, into Christianity. Under your rule, you helped establish the first East Slavic written legal code, the Pravda Rus'skaya, and ushered Kievan Rus' into its cultural and military zenith. Yet, Byzantium fell and with them the trade that sustained your land. The Golden Horde arrived as the Mongols rampaged across Eastern Europe. Kiev began to weaken as the influence of regional factions grew.[NEWLINE][NEWLINE]Noble Prince, once before you led your people into a mighty golden age that would forever leave its mark on Eurasia. It is time to return and reestablish the justice and truth that has become your namesake. Do you have the wisdom to lead your people into a new era of greatness? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_LEADER_YAROSLAV_MOD_DESC">
+			<Text>Yaroslav</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YAROSLAV_MOD_LIVED">
+			<Text>AD 978 - 1054</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YAROSLAV_MOD_NAME">
+			<Text>Yaroslav</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YAROSLAV_MOD_SUBTITLE">
+			<Text>Leader of Kievan Rus'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YAROSLAV_MOD_TITLES_1">
+			<Text>The Wise</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YAROSLAV_MOD_TITLES_2">
+			<Text>Grand Prince of Novgorod, Rostov, and Kiev</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YAROSLAV_MOD_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YAROSLAV_MOD_TEXT_1">
+			<Text>Yaroslav the Wise was thrice Grand Prince of Novgorod and Kiev, uniting the two principalities for a time under his rule. A son of the Varangian Viking, Vladimir the Great, Yaroslav was vice-regent of Novgorod at the time of his father's death in 1015. Subsequently, his eldest surviving brother, Svyatopolk the Accursed, killed his three other brothers and seized power in Kiev.[NEWLINE][NEWLINE]Yaroslav, with the active support of the Novgorodians and with the help of Varangian mercenaries, defeated Svyatopolk and became the Grand Prince of Kiev in 1019. Under Yaroslav the codification of legal customs and princely enactments was begun, and this work served as the basis for a law code called the Pravda Rus'skaya ("Justice of Rus'"). During Yaroslav's lengthy reign, Kievan Rus' reached its cultural and military zenith.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YAROSLAV_MOD_HEADING_2">
+			<Text>Rise to the Throne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YAROSLAV_MOD_TEXT_2">
+			<Text>The early years of Yaroslav's life are shrouded in mystery. He was one of the numerous sons of Vladimir the Great, presumably his second by Rogneda of Polotsk, although his actual age would place him among the youngest children of Volodymyr. It has been suggested that he was a child begotten out of wedlock after Volodymyr's divorce from Rogneda and marriage to Anna Porphyrogeneta, or even that he was a child of Anna Porphyrogeneta herself. Yaroslav figures prominently in the Norse Sagas under the name of Jarisleif the Lame; his legendary lameness (probably resulting from an arrow wound) was corroborated by scientists who have examined his remains. In his youth, Yaroslav was sent by his father to rule the northern lands around Rostov but was transferred to Novgorod, as befitted a senior heir to the throne, in 1010. While living there, he founded the town of Yaroslavl on the Volga. His relations with his father were apparently strained, and grew only worse on the news that Volodymyr bequeathed the Kievan throne to his younger son, Boris. In 1014 Yaroslav refused to pay tribute to Kiev and only Volodymyr's death prevented a war.[NEWLINE][NEWLINE]During the next four years Yaroslav waged a complicated and bloody war for Kiev against his half-brother Sviatopolk, who was supported by his father-in-law, Duke Bolesław I Chrobry of Poland. During the course of this struggle, several other brothers (Boris, Gleb, and Svyatoslav) were brutally murdered. The Primary Chronicle accused Svyatopolk of planning those murders, while the Saga of Eymund is often interpreted as recounting the story of Boris's assassination by the Varangians in the service of Yaroslav.[NEWLINE][NEWLINE]Yaroslav defeated Svyatopolk in their first battle, in 1016, and Svyatopolk fled to Poland. But Svyatopolk returned with Polish troops furnished by his father-in-law, seized Kiev and pushed Yaroslav back into Novgorod. Yaroslav at last prevailed over Svyatopolk, and in 1019 firmly established his rule over Kiev. One of his first actions as a grand prince was to confer on the loyal Novgorodians (who had helped him to gain the Kievan throne), numerous freedoms and privileges. Thus, the foundation of the Novgorodian republic was laid. For their part, the Novgorodians respected Yaroslav more than they did other Kievan princes; and the princely residence in their city, next to the marketplace (and where the Veche often convened) was named Yaroslavovo Dvorishche ("Yaroslav's Court") after him. It probably was during this period that Yaroslav promulgated the first code of laws in the East Slavic lands, Pravda Yaroslavichey or "Yaroslav's Justice" which would later be incorporated into the Pravda Rus'skaya.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YAROSLAV_MOD_HEADING_3">
+			<Text>Reign</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YAROSLAV_MOD_TEXT_3">
+			<Text>Russian historians often present Yaroslav as a model of virtue, styling him 'the Wise'. Yaroslav was a notable patron of book culture and learning. In 1051, he had a Russian monk Ilarion proclaimed the metropolitan of Kiev, thus challenging old Byzantine tradition of placing Greeks on the episcopal sees. Ilarion's discourse on Yaroslav and his father Vladimir is frequently cited as the first work of Old Russian literature.[NEWLINE][NEWLINE]A less appealing side of his personality is revealed by his having imprisoned his younger brother Sudislav for life. Yet another brother, Mstislav of Tmutarakan, whose distant realm bordered the Northern Caucasus and the Black Sea, hastened to Kiev and, despite reinforcements led by Yaroslav's brother-in-law King Anund Jacob of Sweden, inflicted a heavy defeat on Yaroslav in 1024. Yaroslav and Mstislav then divided Kievan Rus' between them: the area stretching left from the Dnieper, with the capital at Chernihiv, was ceded to Mstislav until his death in 1036.[NEWLINE][NEWLINE]In his foreign policy, Yaroslav relied on the Scandinavian alliance and attempted to weaken the Byzantine influence on Kiev. In 1030, he re-conquered Red Rus' from the Poles and concluded an alliance with King Casimir I of Poland, sealed by the latter's marriage to Yaroslav's sister Maria. In another successful military raid the same year, he founded Yuryev and forced the surrounding province of Ugaunia to pay annual tribute.[NEWLINE][NEWLINE]In 1043, Yaroslav staged a naval raid against Constantinople led by his son Vladimir and general Vyshata. Although the Rus' navy was defeated, Yaroslav managed to conclude the war with a favourable treaty and prestigious marriage of his son Vsevolod to the emperor's daughter. It has been suggested that the peace was so advantageous because the Kievans had succeeded in taking a key Byzantine possession in Crimea, Chersones.[NEWLINE][NEWLINE]To defend his state from the Pechenegs and other nomadic tribes threatening it from the south he constructed a line of forts, composed of Yuriev, Boguslav, Kaniv, Korsun, and Pereyaslav. To celebrate his decisive victory over the Pechenegs in 1036 (who thereupon never were a threat to Kiev) he sponsored the construction of the Saint Sophia Cathedral in 1037. Other celebrated monuments of his reign, such as the Golden Gates of Kiev, have since perished.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YAROSLAV_MOD_HEADING_4">
+			<Text>Death and Aftermath</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YAROSLAV_MOD_TEXT_4">
+			<Text>The gradual disintegration of the Kievan Rus' began in the 11th century. After the death of Yaroslav in 1054, his sons divided the empire into warring factions. The position of the Grand Prince of Kiev was subsequently weakened by the growing influence of regional clans.[NEWLINE][NEWLINE]The unconventional system of succession where power was transferred not from father to son, but to the eldest member of the ruling dynasty, i.e. in most cases to the eldest brother of the ruler, bred constant hatred and rivalry within the royal family. Familicide was a rather common way to obtain power. This in particular can be traced to the rule of Yaroslav's sons when the established rota system was skipped, establishing Vladimir II Monomakh as the Grand Prince of Kiev in turn creating feuds between Rus' princes.[NEWLINE][NEWLINE]The most prominent struggle for power was the conflict that erupted after the death of Yaroslav the Wise. The rivaling Principality of Polotsk was contesting the power of the Grand Prince by occupying Novgorod, while Rostislav Vladimirovich was fighting for the Black Sea port of Tmutarakan belonging to Chernigov. Three of Yaroslav's sons that first allied together found themselves fighting each other especially after their defeat to the Cuman forces in 1068 at the Battle of the Alta River. At the same time an uprising took place in Kiev, bringing to power Vseslav of Polotsk who supported the traditional Slavic paganism. The ruling Grand Prince Iziaslav fled to Poland asking for support and in couple of years returned to establish the order. The affairs became even more complicated by the end of the 11th century driving the state into chaos and constant warfare. On the initiative of Vladimir II Monomakh in 1097 the first federal council of Kievan Rus took place near Chernigov in the city of Liubech with the main intention to find an understanding among the fighting sides.[NEWLINE][NEWLINE]The last ruler to maintain some sort of united empire was Mstislav the Great. After his death in 1132, the Kievan Rus fell into recession and a rapid decline, and Mstislav's successor Yaropolk II of Kiev instead of focussing on the external threat of the Cumans was embroiled in conflicts with the growing power of the Novgorod Republic. In 1169, as the Kievan Rus' state was full of internal conflict, Andrei Bogolyubsky of Vladimir sacked the city of Kiev. The sack of the city fundamentally changed the perception of Kiev and was evidence of the fragmentation of the Kievan Rus'. By the end of the 12th century, the Kievan state became even further fragmented and had been divided into roughly twelve different principalities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YAROSLAV_MOD_HEADING_5">
+			<Text>Factoid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YAROSLAV_MOD_TEXT_5">
+			<Text>The sarcophagus of Yaroslav the Wise is known to reside in St. Sophia Cathedral. When opened in 1939 it contained the skeletal remains of a woman but with the skull replaced with that of a man (probably Yaroslav's son). However, when it was next opened, it was discovered that the skeleton had been stolen and currently the tomb remains empty.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_LEADER_YAROSLAV_MOD_FIRST_GREETING_1">
+			<Text>Welcome to the Land of the Rus! If you come in peace, through God, both our lands will prosper. If you come in strife, the land of your father and grandfather shall perish.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YAROSLAV_MOD_FIRST_GREETING_2">
+			<Text>Let there be no feud between us. I do not doubt that in our future dealings you will find my judgment both wise and honorable.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YAROSLAV_MOD_DEFEATED_1">
+			<Text>If you should live in hatred, in strife and at war with one another, then you yourselves shall perish, and you will ruin the land of your father and of your grandfather.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_YAROSLAV_MOD_DEFEATED_2">
+			<Text>I hereby entrust the throne of Kiev to my eldest son. Hearken to him as you have hearkened to me. May he be for you in place of me.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_BUILDING_KIEVAN_RUS_KING_DAY_DUMMY_BUILDING">
+			<Text>Rus' Count Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KIEVAN_RUS_KING_DAY_DUMMY_BUILDING_COUNT">
+			<Text>Rus' Count Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KIEVAN_RUS_KING_DAY_DUMMY_BUILDING_POLICY">
+			<Text>Rus' Decision Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_KIEVAN_RUS_KING_DAY_DUMMY_BUILDING_TEXT">
+			<Text>A popular or people's assembly is a gathering called to address issues of importance to participants. Assemblies tend to be freely open to participation and operate by direct democracy. Some assemblies are of people from a location, some from a given workplace, industry or educational establishment others are called to address a specific issue. Sometimes assemblies are created to form an alternative power structure, other times they work with other forms of government.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KIEVAN_RUS_KING_DAY_DUMMY_BUILDING_STRATEGY">
+			<Text>This building cannot be constructed but rather facilitates Kievan Rus's unique abilities.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_CITYSTATE_MOD_MINSK">
+			<Text>Minsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MOD_MINSK_ADJ">
+			<Text>Minsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MOD_MINSK_PEDIA">
+			<Text>Minsk is the capital and largest city of Belarus, situated on the Svislach and Nyamiha rivers. The earliest historical references to Minsk date to AD 1067, when it was noted as a provincial city within the principality of Polotsk. Since then, the city has often changed hands as part of Lithuania, Poland, the Russian Empire, and the USSR, often serving as the capital of its specific administrative region. During the first half of 1944, Minsk was the centre of German resistance to the Soviet advance and saw heavy fighting. Factories, municipal buildings, power stations, bridges, most roads and 80% of the houses were reduced to rubble. The city leveled, Minsk's population was reduced to a mere 50,000. [NEWLINE][NEWLINE]After World War II, Minsk was rebuilt, but not reconstructed. Throughout the 1990s, after the fall of communism, the city continued to change. As the capital of a newly independent country, Minsk quickly acquired the attributes of a major city and today Minsk stands as the major cultural centre of Belarus. The city represents a melting pot of Eastern European languages and cultures, housing numerous theatres, universities, and museums. It is home to the world famous Belarusian ballet and a symbol of the continued perseverance of the Belarusian people.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_CITY_NAME_KIEVAN_RUS_MOD_PEREMYSHL">
+			<Text>Peremyshl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KIEVAN_RUS_MOD_KHERSON">
+			<Text>Chersonesos</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_POLICY_DNIEPER_TRADE">
+			<Text>Dnieper Trade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DNIEPER_TRADE_TEXT">
+			<Text>Dnieper Trade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DNIEPER_TRADE_HELP">
+			<Text>Gain 2 more [ICON_INFLUENCE] Influence per turn (at Standard speed) with City-States you have a trade route with.</Text>
+		</Row>
+		<!-- -->
+		<Update>
+			<Where Tag="TXT_KEY_CITY_NAME_SUZDAL"/>
+			<Set Text="Suzdal"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CITY_NAME_YAROSLAVI"/>
+			<Set Text="Yaroslavl"/>
+		</Update>
+		<!-- -->
+		<Row Tag="TXT_KEY_BUILDING_VECHE_DUMMY_UNIT">
+			<Text>Veche Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KIEVAN_DUMMY_OPENER">
+			<Text>Rus' Opener Dummy</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_GENERIC_KIEVAN_RUS_MOD_INFLUENTIAL_ON_AI_1">
+			<Text>My people now fancy your tall bearskin caps and lavish coats and drink your vile horilka. I worry the rest of the world will soon succumb to your culture... and to liver failure.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_KIEVAN_RUS_YAROSLAV_MOD">
+			<Text>Ingegerd</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- -->
+	</Language_en_US>	
+</GameData>

@@ -1409,6 +1409,9 @@ ContextPtr:LoadNewContext("Cherokee_Trait")
 -- Nation - Flemish --
 ContextPtr:LoadNewContext("flemishUA")
 
+-- Nation - Kievan Rus' --
+ContextPtr:LoadNewContext("Kievan Rus Check")
+
 -- Nation - Cuba --
 ContextPtr:LoadNewContext("CubaTraitScripts")
 ContextPtr:LoadNewContext("RevolucionarioAnarchies")

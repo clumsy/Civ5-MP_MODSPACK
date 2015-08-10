@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<Language_en_US>
+		<!--Justice of the Rus'-->
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_KIEVAN_JUSTICE">
+			<Text>Write the Pravda Rus'skaya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_KIEVAN_JUSTICE_DESC">
+			<Text>Your subjects are settling disputes with archaic blood feuds and extorting the lower classes with outrageous fines. We should draft a new legal code to help reform the feudal system.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Kievan Rus'
+				[NEWLINE][ICON_BULLET]Must have completed at least 1 Social Policy tree
+				[NEWLINE][ICON_BULLET]Must have researched Civil Service
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]The [ICON_CULTURE] Culture cost of adopting new Policies will be reduced by 10%
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_KIEVAN_JUSTICE_ENACTED_DESC">
+			<Text>Your subjects are settling disputes with archaic blood feuds and extorting the lower classes with outrageous fines. We should draft a new legal code to help reform the feudal system.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET][ICON_CULTURE] Culture cost of adopting new Policies will be reduced by 10%
+			</Text>
+		</Row>
+		<!--Baptism of the Rus'-->
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_KIEVAN_FAITH">
+			<Text>Baptize the Rus'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_KIEVAN_FAITH_DESC">
+			<Text>Your boyars urge you to unify your people under one faith and thereby secure alliances against our pagan neighbors.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Kievan Rus'
+				[NEWLINE][ICON_BULLET]Must have {1_ReligionPrereq}
+				[NEWLINE][ICON_BULLET]Must have researched Theology
+				[NEWLINE][ICON_BULLET]May only be enacted before the Industrial Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{2_Cost} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Your Cities will be fully converted to {3_ReligionReward}
+				[NEWLINE][ICON_BULLET]A Cathedral will be constructed in your [ICON_CAPITAL] Capital or first available City
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_KIEVAN_FAITH_ENACTED_DESC">
+			<Text>Your boyars urge you to unify your people under one faith and thereby secure alliances against our pagan neighbors.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Your Cities will be fully converted to {1_ReligionReward}
+				[NEWLINE][ICON_BULLET]A Cathedral will be constructed in your [ICON_CAPITAL] Capital or first available City
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TOMATEKH_KIEVAN_FAITH_RELIGION_PREREQ">
+			<Text>founded a Religion or have a religious majority in the [ICON_CAPITAL] Capital</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TOMATEKH_KIEVAN_FAITH_RELIGION_REWARD">
+			<Text>your founded Religion or the religious majority of your [ICON_CAPITAL] Capital</Text>
+		</Row>
+		<!-- Mongol Invasion -->
+		<Row Tag="TXT_KEY_EVENT_TOMATEKH_MONGOL_RUS_INVASION">
+			<Text>The Golden Horde</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TOMATEKH_MONGOL_RUS_INVASION_DESC">
+			<Text>The Cumans have sent word that terrible men on horseback have taken their country. The boyars fear that tomorrow the Golden Horde will be at our doorstep and urge us to prepare an army to help repel these invaders.[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TOMATEKH_MONGOL_RUS_INVASION_OUTCOME_1">
+			<Text>Defend our way of life!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TOMATEKH_MONGOL_RUS_INVASION_OUTCOME_2">
+			<Text>Submit and pay tribute</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TOMATEKH_MONGOL_RUS_INVASION_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]A Barbarian Khan, two Barbarian Horsemen, and a Barbarian Keshik will spawn inside our borders[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]All existing land combat units will earn experience 50% faster[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TOMATEKH_MONGOL_RUS_INVASION_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLD] Gold[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOMATEKH_MONGOL_RUS_INVASION_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>The Golden Horde is invading!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOMATEKH_MONGOL_RUS_INVASION_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have paid tribute to the Golden Horde.</Text>
+		</Row>
+		<!-- Varangian Mercenaries -->
+		<Row Tag="TXT_KEY_EVENT_TOMATEKH_VARANGIAN_MERCENARIES">
+			<Text>Varangian Mercenaries</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TOMATEKH_VARANGIAN_MERCENARIES_DESC">
+			<Text>The City-State of {1_Minor} has heard of our famed warriors and is requesting two swordsmen to serve as royal bodyguards. Sending our men would surely help us secure a strategic alliance.[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TOMATEKH_VARANGIAN_MERCENARIES_OUTCOME_1">
+			<Text>Send help</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TOMATEKH_VARANGIAN_MERCENARIES_OUTCOME_2">
+			<Text>We have our own problems!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TOMATEKH_VARANGIAN_MERCENARIES_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose 2 Swordsmen or Druzhina[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain 100 [ICON_INFLUENCE] Influence with {1_Reward}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TOMATEKH_VARANGIAN_MERCENARIES_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose 25 [ICON_INFLUENCE] Influence with {1_Minor}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOMATEKH_VARANGIAN_MERCENARIES_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have sent aid to our City-State allies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOMATEKH_VARANGIAN_MERCENARIES_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We were unable to help our City-State allies.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

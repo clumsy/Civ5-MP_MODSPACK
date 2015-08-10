@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_KIEVEN_RUS_DEFENSE_MOD</Type>
+			<Description>TXT_KEY_PROMOTION_KIEVEN_RUS_DEFENSE_MOD</Description>
+			<Help>TXT_KEY_PROMOTION_KIEVEN_RUS_DEFENSE_MOD_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<DefenseMod>20</DefenseMod>
+			<PortraitIndex>10</PortraitIndex>
+			<IconAtlas>EXPANSION2_PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_KIEVEN_RUS_DEFENSE_MOD</PediaEntry>
+		</Row>
+	</UnitPromotions>
+</GameData>

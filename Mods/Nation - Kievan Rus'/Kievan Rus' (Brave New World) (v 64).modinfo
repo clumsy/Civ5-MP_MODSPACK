@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="fb32237f-8e78-42ac-aaff-21af31dc415a" version="64">
+  <Properties>
+    <Name>Kievan Rus' (Brave New World)</Name>
+    <Teaser>Adds Kievan Rus' to the base game. Requires the Brave New World expansion.</Teaser>
+    <Description>Adds Kievan Rus' to the base game.
+[NEWLINE][NEWLINE]~~~
+[NEWLINE][NEWLINE]Note: 
+[NEWLINE]- This civilization requires the Brave New World expansion.
+[NEWLINE]- Updates to the Mod will most likely break save games. Please do not update until you are ready to begin a new game.
+[NEWLINE][NEWLINE]~~~
+[NEWLINE][NEWLINE]Leader: Yaroslav the Wise
+[NEWLINE][NEWLINE]UA: From the Varangians to the Greeks
+[NEWLINE][NEWLINE]UU: Druzhina
+[NEWLINE][NEWLINE]UB: Veche Hall</Description>
+    <Authors>Tomatekh</Authors>
+    <SpecialThanks>Leugi, JanBoruta, Andrew Holt</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <Homepage>http://forums.civfanatics.com/showthread.php?t=472751</Homepage>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>64</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events and Decisions" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="Cultural Diversity" />
+    <Mod id="43868e8d-de88-48a1-a8d9-ce144e07f5e0" minversion="0" maxversion="999" title="ExCE" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Cultural Influence" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="C. Patch" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="C. Balance Patch" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D." />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="Piety" />
+    <Mod id="d99bf7aa-51ac-4bef-bd88-d765b28e260e" minversion="0" maxversion="999" title="Prestige" />
+  </References>
+  <Blocks>
+    <Mod id="2626e6a3-a0fd-478d-a5ab-0d9dee67ed0a" minversion="0" maxversion="999" title="YnAEMP Patch" />
+  </Blocks>
+  <Files>
+    <File md5="BFC1A9B2662E28774007E51B51AEFCB8" import="1">Art/Kievan Rus Alpha Mod/KievanRusAlphaAtlas128.dds</File>
+    <File md5="D0BD1742192BDB5597B73B3D6691FC7A" import="1">Art/Kievan Rus Alpha Mod/KievanRusAlphaAtlas16.dds</File>
+    <File md5="841A4012C97331834913D6A2B4D82287" import="1">Art/Kievan Rus Alpha Mod/KievanRusAlphaAtlas24.dds</File>
+    <File md5="E618756DF223CB5BCCB7E93A23762FF6" import="1">Art/Kievan Rus Alpha Mod/KievanRusAlphaAtlas32.dds</File>
+    <File md5="3ACE6F60703CBB5EF4CB61DDB9CB95FF" import="1">Art/Kievan Rus Alpha Mod/KievanRusAlphaAtlas48.dds</File>
+    <File md5="20D10290B86B5B0A2F7D2EFCE656E37F" import="1">Art/Kievan Rus Alpha Mod/KievanRusAlphaAtlas64.dds</File>
+    <File md5="E015A2C434B9D7D341D3A29D212F817B" import="1">Art/Kievan_Rus_DOM_Mod.dds</File>
+    <File md5="14929A758FA1E9D4917C37C25F69D3C3" import="1">Art/Kievan Rus Atlas Mod/KievanRusAtlas128.dds</File>
+    <File md5="315956DED55B10B1CB31F59A81D73DDB" import="1">Art/Kievan Rus Atlas Mod/KievanRusAtlas214.dds</File>
+    <File md5="48801DFED165030820537266A26FCF83" import="1">Art/Kievan Rus Atlas Mod/KievanRusAtlas256.dds</File>
+    <File md5="0142AB58E6FB1FDFB79264C924D9D44A" import="1">Art/Kievan Rus Atlas Mod/KievanRusAtlas32.dds</File>
+    <File md5="2C557C53BA5D4107B0BC0B08CA6FEE1F" import="1">Art/Kievan Rus Atlas Mod/KievanRusAtlas45.dds</File>
+    <File md5="AD8426607878FE81952E1D32137D8989" import="1">Art/Kievan Rus Atlas Mod/KievanRusAtlas64.dds</File>
+    <File md5="8D1A7DEBF89C9DCC1F337446F9C4C81D" import="1">Art/Kievan Rus Atlas Mod/KievanRusAtlas80.dds</File>
+    <File md5="F346FF59FC2172A690557EC4C51C2BD6" import="1">Art/Kievan_Rus_Map_Mod.dds</File>
+    <File md5="46431969C3F87CFA31A905AC87ED93BB" import="1">Art/Kievan_Rus_Yaroslav_Diplo_Mod.dds</File>
+    <File md5="A258B106C5D092F53051371035FBCA68" import="1">Art/Unit/Alpha/RusUnitAlphaAtlas.dds</File>
+    <File md5="CF7668AC79B57E111E63C66265CAA0BB" import="1">Art/Unit/Alpha/sv_RusUnitMod.dds</File>
+    <File md5="14553F567DA3620932870A1F61A430AC" import="1">Art/Unit/Reskin/Druzhina.dds</File>
+    <File md5="BADA0CCBAF161BA2B70AFB72FE42A50D" import="1">Art/Unit/Reskin/Druzhina.fxsxml</File>
+    <File md5="86CE69DBF401C2EB195C1F074DD6339F" import="1">Art/Unit/Reskin/Druzhina.gr2</File>
+    <File md5="70E701EF6D947C9E6C6D8C05DC38E8ED" import="1">Art/Unit/Reskin/Druzhina_gloss.dds</File>
+    <File md5="BA29633D30FE98262031CB9C59C7F16D" import="0">Decisions/Kievan Decisions SQL.sql</File>
+    <File md5="D1BCCDCA66F839BCC5404D3076FD2869" import="0">Decisions/Kievan Decisions Support.xml</File>
+    <File md5="B4CC9C0AF72891FC56E4220DFF029B4B" import="1">Decisions/TomatekhKievanDecisions.lua</File>
+    <File md5="0892FE0EAE5C94190779D319449BEB44" import="1">Decisions/TomatekhKievanEvents.lua</File>
+    <File md5="CFE7A26A49E47502FD93BAD684C037BF" import="0">LUA/Kievan Rus Check.lua</File>
+    <File md5="D24573FEDBBC33B32AE166DABA1FAB64" import="1">LUA/Rus Lua Edits.lua</File>
+    <File md5="6825E9DF95FE975791E39F8E23097485" import="1">LUA/Rus Lua Scripts.lua</File>
+    <File md5="F6743A1188A68ABA84760B59D5075A64" import="1">Sounds/AltYaroslavWar.mp3</File>
+    <File md5="340565A983A3E6CBD87AB4F2F01DC14D" import="1">Sounds/YaroslavDoM.mp3</File>
+    <File md5="71930ADD2BB65F7AA6C697AF118BB58E" import="1">Sounds/YaroslavPeace.ogg</File>
+    <File md5="039B03E71502C7D735E11C7D423C8E7B" import="1">Sounds/Znamenny.mp3</File>
+    <File md5="84CB6BD1BC34B3A4694E6D37204A63AC" import="0">SQL/Kievan Rus' Unit Skin.sql</File>
+    <File md5="ACE41E5BF6733A8C02927CC2A61499AB" import="0">SQL/Rus Mod Support.sql</File>
+    <File md5="4F18E48F913C4BF8BAB01BBB08B83B8A" import="1">XML/Art/civ5artdefines_unitmembers.xml</File>
+    <File md5="760FAFDCA223DF3016FBFB4ABAEF2E6D" import="1">XML/Art/civ5artdefines_units.xml</File>
+    <File md5="78B5EAE62E805EAD9A8F436CE597F402" import="1">XML/Art/Kievan_Rus_Leader_Scene_Mod.xml</File>
+    <File md5="09BA9EF90427811136079376CF5FEF97" import="0">XML/Art/Kievan Rus Atlas Mod.xml</File>
+    <File md5="F820138E6E2D8D2D3363FDFE7F9B3FC3" import="0">XML/Art/Kievan Rus Strategic View Mod.xml</File>
+    <File md5="3AB6BCBA67C5BE60C1EE61583EE3C7F9" import="0">XML/Buildings/Kievan Rus Buildingclass Mod.xml</File>
+    <File md5="E38E72190268C05A97BC5C404A0E99C0" import="0">XML/Buildings/Kievan Rus Buildings Mod.xml</File>
+    <File md5="7A7BB0CF277D8CC46D261E233D1358FC" import="0">XML/City-State Update/Kiev City-State Update.xml</File>
+    <File md5="02F9BC5EC61E0EB77FF88F7C29A69972" import="0">XML/Civilizations/Kievan Rus Civilizations Mod.xml</File>
+    <File md5="EB22F50A20600DFE6805905EF803D78F" import="0">XML/Civilizations/Kievan Rus Leader Mod.xml</File>
+    <File md5="7B780F7AEFFAC1360BCCAD39D1C609B4" import="0">XML/Civilizations/Kievan Rus Traits Mod.xml</File>
+    <File md5="19FA819D9680463EC4D8EC16BE7E0B89" import="0">XML/Diplomacy/Kievan Rus Diplomacy Mod.xml</File>
+    <File md5="986F47AB21950014A49A09722324A55D" import="0">XML/Game Info/Rus' Policy Mod.xml</File>
+    <File md5="CBC0E82719DA8621015F32432B42A58A" import="0">XML/Sounds/Kievan Rus Sound Mod.xml</File>
+    <File md5="CF8F0E325E995D9834C6BB5D764633A7" import="0">XML/Text/Kievan Rus Game Text Mod.xml</File>
+    <File md5="CEDB8FD5CC0669B324374D6335F71E83" import="0">XML/Text/Non English XML Tags/Kievan Rus Game Text GR_GR.xml</File>
+    <File md5="715D95F74E196E33E5F87CD6F9D00D17" import="0">XML/Text/Non English XML Tags/Kievan Rus Game Text CS_CS.xml</File>
+    <File md5="3BF6596E2617A939DBC05C04FA14E0BB" import="0">XML/Text/Non English XML Tags/Kievan Rus Game Text DE_DE.xml</File>
+    <File md5="3E27EA57CC6041193E3FC71A754D4372" import="0">XML/Text/Non English XML Tags/Kievan Rus Game Text ES_ES.xml</File>
+    <File md5="8154091DACBB808071F412AC1DF70853" import="0">XML/Text/Non English XML Tags/Kievan Rus Game Text FR_FR.xml</File>
+    <File md5="B18EF2F990F89A2F45D7CEB5C3755215" import="0">XML/Text/Non English XML Tags/Kievan Rus Game Text IT_IT.xml</File>
+    <File md5="6966D2D20128A10E8A4D91F676B490C3" import="0">XML/Text/Non English XML Tags/Kievan Rus Game Text JA_JP.xml</File>
+    <File md5="BCC45DC244C0088A1EFB2F7C247260F3" import="0">XML/Text/Non English XML Tags/Kievan Rus Game Text KO_KR.xml</File>
+    <File md5="7BC7F6A23F74D580CFE81C8BA11E674D" import="0">XML/Text/Non English XML Tags/Kievan Rus Game Text PL_PL.xml</File>
+    <File md5="1FFA7DF68835D18D79EDEC6515449473" import="0">XML/Text/Non English XML Tags/Kievan Rus Game Text RU_RU.xml</File>
+    <File md5="A523CC7EACD095F5F97017F7C7EB9170" import="0">XML/Units/Kievan Rus Promotions Mod.xml</File>
+    <File md5="6A3EC702B06160273C6169ABFA3B5E65" import="0">XML/Units/Kievan Rus Units Mod.xml</File>
+    <File md5="958624949EC2FF6361CF512EE0AC106A" import="0">YnAEMP/Rus' YnAEMP Compatability.sql</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>SQL/Kievan Rus' Unit Skin.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Units/Kievan Rus Units Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Kievan Rus Buildings Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/Kievan Rus Promotions Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Kievan Rus Leader Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Diplomacy/Kievan Rus Diplomacy Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Kievan Rus Buildingclass Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Art/Kievan Rus Atlas Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Art/Kievan Rus Strategic View Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Kievan Rus Traits Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/City-State Update/Kiev City-State Update.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Kievan Rus Civilizations Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Game Info/Rus' Policy Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Sounds/Kievan Rus Sound Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Kievan Rus Game Text Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Kievan Rus Game Text DE_DE.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Kievan Rus Game Text ES_ES.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Kievan Rus Game Text FR_FR.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Kievan Rus Game Text IT_IT.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Kievan Rus Game Text JA_JP.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Kievan Rus Game Text KO_KR.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Kievan Rus Game Text PL_PL.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Kievan Rus Game Text RU_RU.xml</UpdateDatabase>
+      <UpdateDatabase>YnAEMP/Rus' YnAEMP Compatability.sql</UpdateDatabase>
+      <UpdateDatabase>Decisions/Kievan Decisions SQL.sql</UpdateDatabase>
+      <UpdateDatabase>Decisions/Kievan Decisions Support.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Rus Mod Support.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Kievan Rus Game Text CS_CS.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Kievan Rus Game Text GR_GR.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="LUA/Kievan Rus Check.lua">
+      <Name>Rus Cap</Name>
+      <Description>Rus Cap</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

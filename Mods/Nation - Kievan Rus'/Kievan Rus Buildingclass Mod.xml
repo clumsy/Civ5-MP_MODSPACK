@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_KIEVAN_RUS_TRAIT_DUMMY_BUILDING</Type>
+			<DefaultBuilding>BUILDING_KIEVAN_RUS_TRAIT_DUMMY_BUILDING</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_KIEVAN_RUS_TRAIT_DUMMY_BUILDING</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_KIEVAN_RUS_TRAIT_DUMMY_BUILDING_POLICY</Type>
+			<DefaultBuilding>BUILDING_KIEVAN_RUS_TRAIT_DUMMY_BUILDING_POLICY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_KIEVAN_RUS_KING_DAY_DUMMY_BUILDING_POLICY</Description>
+		</Row>
+	</BuildingClasses>
+	<Civilization_BuildingClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_KIEVAN_RUS_TRAIT_DUMMY_BUILDING</BuildingClassType>
+			<BuildingType/>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MINOR</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_KIEVAN_RUS_TRAIT_DUMMY_BUILDING</BuildingClassType>
+			<BuildingType/>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_KIEVAN_RUS_TRAIT_DUMMY_BUILDING_POLICY</BuildingClassType>
+			<BuildingType/>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MINOR</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_KIEVAN_RUS_TRAIT_DUMMY_BUILDING_POLICY</BuildingClassType>
+			<BuildingType/>
+		</Row>
+	</Civilization_BuildingClassOverrides>
+</GameData>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_KIEVAN_RUS_MOD</Type>
+			<BuildingClass>BUILDINGCLASS_GARDEN</BuildingClass>
+			<Cost>140</Cost>
+			<PrereqTech>TECH_THEOLOGY</PrereqTech>
+			<Description>TXT_KEY_BUILDING_KIEVAN_RUS_MOD</Description>
+			<Civilopedia>TXT_KEY_BUILDING_KIEVAN_RUS_MOD_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_KIEVAN_RUS_MOD_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_KIEVAN_RUS_MOD_HELP</Help>
+			<ArtDefineTag>ART_DEF_BUILDING_GARDEN</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<GreatPeopleRateModifier>25</GreatPeopleRateModifier>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>KIEVAN_RUS_ATLAS</IconAtlas>
+			<PortraitIndex>3</PortraitIndex>
+		</Row>		
+		<!-- Dummy -->
+		<Row>
+			<Type>BUILDING_KIEVAN_RUS_TRAIT_DUMMY_BUILDING</Type>
+			<BuildingClass>BUILDINGCLASS_KIEVAN_RUS_TRAIT_DUMMY_BUILDING</BuildingClass>
+			<!-- Invisible Buildings -->
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!-- Invisible Buildings -->
+			<Description>TXT_KEY_BUILDING_KIEVAN_RUS_KING_DAY_DUMMY_BUILDING</Description>
+			<Civilopedia>TXT_KEY_CIVLOPEDIA_KIEVAN_RUS_KING_DAY_DUMMY_BUILDING_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_KIEVAN_RUS_KING_DAY_DUMMY_BUILDING_STRATEGY</Strategy>
+			<ArtDefineTag>COURTHOUSE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>KIEVAN_RUS_ATLAS</IconAtlas>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<PortraitIndex>4</PortraitIndex>
+		</Row>
+		<Row>
+			<Type>BUILDING_KIEVAN_RUS_TRAIT_DUMMY_BUILDING_POLICY</Type>
+			<BuildingClass>BUILDINGCLASS_KIEVAN_RUS_TRAIT_DUMMY_BUILDING_POLICY</BuildingClass>
+			<!-- Invisible Buildings -->
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!-- Invisible Buildings -->
+			<Description>TXT_KEY_BUILDING_KIEVAN_RUS_KING_DAY_DUMMY_BUILDING_POLICY</Description>
+			<Civilopedia>TXT_KEY_CIVLOPEDIA_KIEVAN_RUS_KING_DAY_DUMMY_BUILDING_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_KIEVAN_RUS_KING_DAY_DUMMY_BUILDING_STRATEGY</Strategy>
+			<PolicyCostModifier>-10</PolicyCostModifier>
+			<ArtDefineTag>COURTHOUSE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>KIEVAN_RUS_ATLAS</IconAtlas>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<PortraitIndex>4</PortraitIndex>
+		</Row>		
+	</Buildings>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_KIEVAN_RUS_MOD</BuildingType>
+			<FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+			<Flavor>30</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_KIEVAN_RUS_MOD</BuildingType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>30</Flavor>
+		</Row>
+	</Building_Flavors>
+</GameData>
