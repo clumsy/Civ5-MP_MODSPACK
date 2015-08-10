@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<UnitMemberArtInfos>
+	<UnitMemberArtInfo>
+		<Type>ART_DEF_UNIT_MEMBER_NORTE_CHICO_WORKER</Type>
+		<fScale>0.140000000596046</fScale>
+		<Granny>worker_andes.fxsxml</Granny>
+		<Combat>
+			<Defaults>ART_DEF_UNIT_MEMBER_WORKER_EURO</Defaults>
+			<EnableActions>Idle Death BombardDefend Run</EnableActions>
+			<HasRefaceAfterCombat>1</HasRefaceAfterCombat>
+		</Combat>
+		<MaterialTypeTag>CLOTH</MaterialTypeTag>
+		<MaterialTypeSoundOverrideTag>FLESH</MaterialTypeSoundOverrideTag>
+	</UnitMemberArtInfo>
+</UnitMemberArtInfos>
+
+

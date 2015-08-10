@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/13/2014 12:47:13 AM -->
+<GameData>
+	<Policies>
+		<Row>
+			<Type>POLICY_CARAL_AI_HANDICAP</Type>
+			<Description>TXT_KEY_POLICY_CARAL_AI_HANDICAP</Description>
+			<Civilopedia>TXT_KEY_POLICY_CARAL_AI_HANDICAP_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_CARAL_AI_HANDICAP_HELP</Help>
+			<InternalTradeRouteYieldModifier>25</InternalTradeRouteYieldModifier>
+			<GridX>1000</GridX>
+			<GridY>1000</GridY>
+			<PortraitIndex>47</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+		</Row>
+	</Policies>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_POLICY_CARAL_AI_HANDICAP">
+			<Text>Caral</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CARAL_AI_HANDICAP_TEXT">
+			<Text>Caral</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_CARAL_AI_HANDICAP_HELP">
+			<Text>Internal trade routes provide 25% more [ICON_FOOD] Food or [ICON_PRODUCTION] Production.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

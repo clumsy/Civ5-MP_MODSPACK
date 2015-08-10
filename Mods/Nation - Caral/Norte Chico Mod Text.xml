@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh-->
+<GameData>
+	<Language_en_US>
+		<!-- -->
+		<Row Tag="TXT_KEY_TRAIT_NORTE_CHICO_MOD_SHORT">
+			<Text>Maritime Foundation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_NORTE_CHICO_MOD">
+			<Text>Inland Cities receiving a Trade Route from a Coastal City also receive the base yields of all improved Sea Resources worked by that City. Building a Plantation provides a [ICON_PRODUCTION] Production boost in all Coastal Cities.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_CARAL_UA_INTRO">
+			<Text>[COLOR_POSITIVE_TEXT]Coastal Imports[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CARAL_UA_NO_IMPORTS">
+			<Text>[NEWLINE][COLOR_NEGATIVE_TEXT]No Coastal Imports</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CARAL_UA_DESCRIPTION">
+			<Text>{1_CityName} is currently receiving {2_Num} Trade Routes from Coastal Cities. The base yields of improved Sea Resources worked by these Cities are also added to {1_CityName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CARAL_UA_DESCRIPTION_NEGATIVE">
+			<Text>{1_CityName} is not importing any Sea Resources. Send a Trade Route to {1_CityName} from a Coastal City working improved Sea Resources to receive bonus yields.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_UNIT_NORTE_CHICO_MOD">
+			<Text>Fisher</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NORTE_CHICO_MOD_HELP">
+			<Text>Versatile Worker Unit capable of improving both land and water tiles. Only Caral may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NORTE_CHICO_MOD_STRATEGY">
+			<Text>The Fisher is unique in replacing both the Worker and the Work Boat for the Caral civilization. As such, it is capable of improving both land and water tiles. Unlike the standard Work Boat, the Fisher is not consumed after building coastal improvements and it may also build Fishing Boats prior to researching Sailing (connecting Sea Resources to your trading network still requires researching Sailing). The Fisher maintains the same movement when embarked as a standard Work Boat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NORTE_CHICO_MOD_TEXT">
+			<Text>Norte Chico potentially represents a unique reliance on maritime food sources in absence of a staple cereal. This thesis of a maritime foundation was contrary to the general scholarly consensus that the rise of civilization was based on intensive agriculture. Although this theory is largely based on early fieldwork done in the region of Aspero, it has continued to hold sway as the full scope and inter-connectedness of the several sites of the civilization has been realized. Although, current studies stress the role of agriculture in supporting industry and augmenting diet, the Norte Chico civilization still relied much more on maritime food sources than the other cradle civilizations (even if not as the primary source of sustenance). The remaining question is which of the areas, coastal or inland, developed first and created a template for subsequent development.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_PROMOTION_CARAL_FISHER">
+			<Text>Maritime Economy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CARAL_FISHER_HELP">
+			<Text>Can embark onto and improve Coastal Tiles. +2 [ICON_MOVES] Movement when embarked.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_BUILDING_NORTE_CHICO_MOD">
+			<Text>Shicra Pyramid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NORTE_CHICO_MOD_HELP">
+			<Text>Allows [ICON_FOOD] Food and [ICON_PRODUCTION] Production to be moved from this city along trade routes inside your civilization.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NORTE_CHICO_MOD_STRATEGY">
+			<Text>The Caral replacement for the Monument, the Shicra Pyramid, increases the [ICON_CULTURE] Culture and [ICON_PRODUCTION] Production output of the City in which it's constructed. Additionally, it allows a City to trade [ICON_FOOD] Food and [ICON_PRODUCTION] Production along domestic trade routes prior to constructing a Granary or Workshop. Use this advantage to make the most of Caral's unique ability, Maritime Foundation, when establishing cities in the early game.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NORTE_CHICO_MOD_TEXT">
+			<Text>The monumental architecture found throughout Norte Chico sites was constructed with quarried stone and river cobbles. Workers would gather a long, durable grass known as shicra in the highlands above the city, tie the grass strands into loosely meshed bags, fill the bags with boulders, and then pack the trenches behind each successive retaining wall of the step pyramids with the stone-filled bags. In this way, the people of Norte Chico achieved formidable architectural success. The largest of the platforms mounds at Caral, the Piramide Mayor, measures 160 by 150 m and rises 18 m high.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_LEADER_NORTE_CHICO_MOD_DESC">
+			<Text>Qhapaq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NORTE_CHICO_MOD_LIVED">
+			<Text>c. 2400 BC ?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NORTE_CHICO_MOD_NAME">
+			<Text>Qhapaq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NORTE_CHICO_MOD_SUBTITLE">
+			<Text>Leader of Caral</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NORTE_CHICO_MOD_TITLES_1">
+			<Text>Great One</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NORTE_CHICO_MOD_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NORTE_CHICO_MOD_TEXT_1">
+			<Text>As an isolated preceramic culture with only the quipu as a potential form of proto-writing, little is known about Norte Chico government and there are no king lists naming any individual. However, architectural patterns are indicative of an advanced degree of centralized authority.[NEWLINE][NEWLINE]"Qhapaq" is not the name of any one specific leader but a Quechuan term meaning "Great or Mighty One". It and similar cognates were applied by the Incan and other Andean peoples as an expression of reverence and power, e.g. Huayna Capac and the Qhapaq Nan. Here the term is being extended to a hypothetical leader of ancient Caral; a prototypical ancestor of the Andean culture. Ancestor veneration played a key role in the belief systems of several Andean peoples.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NORTE_CHICO_MOD_HEADING_2">
+			<Text>Norte Chico Government</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NORTE_CHICO_MOD_TEXT_2">
+			<Text>The labor mobilization patterns revealed by archaeological evidence at Norte Chico sites potentially point to a unique emergence of human government, one of two alongside Sumer.[NEWLINE][NEWLINE]The Norte Chico polities were likely theocratic. Construction areas show possible evidence of feasting, which would have included music and likely alcohol, suggesting an elite able to both mobilize and reward the population. The degree of centralized authority is difficult to ascertain, but architectural construction patterns are indicative of an elite that, at least in certain places at certain times, wielded considerable power. While some of the monumental architecture was constructed incrementally, other buildings, such as the two main platform mounds at Caral, appear to have been constructed in one or two intense construction phases. The remains of large stone warehouses found at Upaca provide further evidence of centralized control as emblematic of authorities able to control vital resources such as cotton.[NEWLINE][NEWLINE]In the Supe Valley there are indicators of social division, hierarchized strata, and the unequal distribution of the surplus produced. This includes houses differentiated by their location in the city, their size, and the materials used to build them; the work of specialists evidenced by geoglyphs, the quipu, and agricultural technology; the design and planned construction of the city; and the organization of multifunctional activities (social, economic, political, and religious), burials of children, differentiated by the social positions of their families. One sector of the population, benefiting from the trading, consolidated its power and leadership through religion, the production of knowledge, and the rendering of services.[NEWLINE][NEWLINE]There is a distinct absence of any suggestion of physical bases of power, such as defensive construction. There is no evidence of warfare of any kind or at any level during the preceramic Period. Mutilated bodies, burned buildings, and other tell-tale signs of violence are absent, and settlement patterns are completely non-defensive. The evidence of the development of complex government in the absence of warfare is in marked contrast to archaeological theory, which suggests that human beings move away from kin-based groups to larger units resembling states for mutual defense of often scarce resources. A vital resource was present: arable land generally, and the cotton crop specifically, but the move to greater complexity was apparently not driven by the need for defense or warfare.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NORTE_CHICO_MOD_HEADING_3">
+			<Text>Verdict of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NORTE_CHICO_MOD_TEXT_3">
+			<Text>It is impossible to properly judge Norte Chico leadership; next to nothing is known concerning any one individual. For a preceramic culture they left behind impressive monumental and ceremonial architecture. Caral became an outstanding expression of urbanism. Not only was its political hegemony felt in its immediate surroundings, but it can also be inferred in architectural patterns present from the Chao Valley in the north to the Chill'n in the south. The disappearance of the Norte Chico culture is generally attributed more to its success than any specific source of decline. The cultural climate fostered the development of new irrigation techniques which allowed the inhabitants of the Caral-Super valley to move on to more fertile land better suited for advanced agriculture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NORTE_CHICO_MOD_HEADING_4">
+			<Text>Factoid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NORTE_CHICO_MOD_TEXT_4">
+			<Text>Archaeologists in the Supe valley have found over 150 unbaked clay figurines. They provide invaluable information regarding dress and daily life in the Caral-Super valley.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_NORTE_CHICO_MOD_TEXT">
+			<Text>Mighty father, honoured ancestor of the Sacred City of Caral, we come seeking your wisdom and guidance. Developing in the Andean rain shadow, Norte Chico would arise out of seemingly impossible conditions. Lacking fertile ground for agriculture and having yet to discover ceramics or writing, it nevertheless emerged as the first civilization of the Americas and established a culture that would continue to influence the great Andean empires to come. The city of Caral, in particular, would represent an outstanding expression of urbanism; a political hegemony felt not only in its immediate surroundings but also inferred in architectural patterns present from the Chao to the Chill'n Valleys. Yet, as your people grew, great leader, they would depart from the Peruvian coast and seek more arable land in the mountainous interior; abandoning the monumental cities which would be their legacy.[NEWLINE][NEWLINE]Qhapaq, long lost to the passage of time, there is still much not known about your people. We continue to marvel at your great pyramids and wonder at your success on the arid coast. Can you reclaim your forgotten glory? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_CITY_NAME_NORTE_CHICO_MOD_CARAL">
+			<Text>Caral</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTE_CHICO_MOD_ASPERO">
+			<Text>Aspero</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTE_CHICO_MOD_HUARICANGA">
+			<Text>Huaricanga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTE_CHICO_MOD_CABALLETE">
+			<Text>Caballete</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTE_CHICO_MOD_PORVENIR">
+			<Text>Porvenir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTE_CHICO_MOD_UPACA">
+			<Text>Upaca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTE_CHICO_MOD_CERRO_BLANCO">
+			<Text>Cerro Blanco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTE_CHICO_MOD_POTAO">
+			<Text>Potao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTE_CHICO_MOD_CARRETERIA">
+			<Text>Carreteria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTE_CHICO_MOD_HUAYTO">
+			<Text>Huayto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTE_CHICO_MOD_PIEDRA_PARADA">
+			<Text>Piedra Parada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTE_CHICO_MOD_LUSIHUASI">
+			<Text>Lusihuasi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTE_CHICO_MOD_MIRAYA">
+			<Text>Miraya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTE_CHICO_MOD_ALPACOTO">
+			<Text>Alpacoto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTE_CHICO_MOD_PENICO">
+			<Text>Penico</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTE_CHICO_MOD_HUACACHI">
+			<Text>Huacachi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTE_CHICO_MOD_CERRO_LAMPAY">
+			<Text>Cerro Lampay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTE_CHICO_MOD_SHAURA">
+			<Text>Shaura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTE_CHICO_MOD_VINTO_ALTO">
+			<Text>Vinto Alto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTE_CHICO_MOD_HUAURAL">
+			<Text>Huaural</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTE_CHICO_MOD_PUEBLO_NUEVO">
+			<Text>Pueblo Nuevo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTE_CHICO_MOD_BERMEJO">
+			<Text>Bermejo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTE_CHICO_MOD_CERRO_DE_LA_CRUZ">
+			<Text>Cerro de la Cruz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTE_CHICO_MOD_BANDURRIA">
+			<Text>Bandurria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTE_CHICO_MOD_PUNTA_Y_SUELA">
+			<Text>Punta y Suela</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_SPY_NAME_NORTE_CHICO_MOD_0">
+			<Text>T'ulu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NORTE_CHICO_MOD_1">
+			<Text>Wakt'a</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NORTE_CHICO_MOD_2">
+			<Text>Patak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NORTE_CHICO_MOD_3">
+			<Text>K'utha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NORTE_CHICO_MOD_4">
+			<Text>Q'uruta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NORTE_CHICO_MOD_5">
+			<Text>Cal'wa</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NORTE_CHICO_MOD_6">
+			<Text>Wal'qa</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NORTE_CHICO_MOD_7">
+			<Text>Tiya</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NORTE_CHICO_MOD_8">
+			<Text>Luc'u</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NORTE_CHICO_MOD_9">
+			<Text>Mayl'a</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_NORTE_CHICO_MOD_DESC">
+			<Text>Caral Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NORTE_CHICO_MOD_SHORT_DESC">
+			<Text>Caral</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NORTE_CHICO_MOD_ADJECTIVE">
+			<Text>Caral</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NORTE_CHICO_MOD">
+			<Text>Caral</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_NORTE_CHICO_MOD_TITLE">
+			<Text>Caral</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_NORTE_CHICO_MOD_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_NORTE_CHICO_MOD_TEXT_1">
+			<Text>The Norte Chico culture, more formally referred to as the Caral-Supe Civilization, was a pre-Columbian culture that developed on the north-central coast of what is today Peru. It has been established as the oldest known civilization in the Americas, flourishing between 3200-1800 BC, and one of the six sites where civilization independently originated in the ancient world. Norte Chico potentially represents a unique reliance on maritime food sources in absence of a staple cereal; however, current studies also stress the role of agriculture in supporting industry and augmenting diet. It is likely that Norte Chico was the cultural predecessor for many of the great subsequent Andean civilizations, such as the Chavin and Inca. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_NORTE_CHICO_MOD_HEADING_2">
+			<Text>Climate and Terrain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_NORTE_CHICO_MOD_TEXT_2">
+			<Text>The discovery of Norte Chico has shifted focus away from the highland areas of the Andes and lowlands adjacent to the mountains, where the Chavin and Inca had their major centers, to the Peruvian coast. This area would seem an unlikely candidate for the development of civilization compared to the other major cradle centers; the Peruvian coast is extremely arid, bounded by two rain shadows. However, the region is punctuated by more than fifty rivers that carry Andean snowmelt. The development of widespread irrigation from these water sources is seen as decisive in the emergence of Norte Chico, since all of the monumental architecture at various sites has been found close to irrigation channels.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_NORTE_CHICO_MOD_HEADING_3">
+			<Text>Urbanization</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_NORTE_CHICO_MOD_TEXT_3">
+			<Text>Radiocarbon analysis of samples taken in the Pativilca and Fortaleza areas provides limited indication of human settlement during the Pre-Columbian Early Archaic era as early as 9210 BC. Two dates of 3700 BC are associated with communal architecture, but are likely to be anomalous. It is from 3200 BC onward that large-scale human settlement and communal construction are clearly apparent. The earliest date securely associated with a city is 3500 BC, at Huaricanga, in the Fortaleza area of the north.[NEWLINE][NEWLINE]Norte Chico sites are notable for exceptional collective density, as well as individual size. The density of sites in such a small area is globally unique for such a nascent civilization. During the third millennium BC, Norte Chico may have been the most densely populated area of the world.[NEWLINE][NEWLINE]Data suggest that the development of coastal and inland sites occurred in parallel. But, from 2500 to 2000 BC, during the period of greatest expansion, the population and development decisively shifted toward the inland sites. All development apparently occurred at large interior sites such as Caral, though they remained dependent on fish and shellfish from the coast.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_NORTE_CHICO_MOD_HEADING_4">
+			<Text>Maritime Foundation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_NORTE_CHICO_MOD_TEXT_4">
+			<Text>The primary academic debate regarding Norte Chico is the degree to which the civilization was dependent on maritime food resources and the exact relationship this implies between the coastal and inland sites.[NEWLINE][NEWLINE]A broad outline of the Norte Chico diet suggests edible domesticated crops such as squash, beans, lucuma, guava, pacay, and camote. There was also a significant seafood component at both coastal and inland sites, with animal remains (the primary protein source) almost exclusively marine life. The anchovy fish, in particular, was a significant commodity at inland sites, while shellfish, sea mammals, and seaweed do not appear to have been significant portions of the diet at non-maritime sites.[NEWLINE][NEWLINE]The role of seafood in the Norte Chico diet has aroused significant debate. Early fieldwork was primarily done in the region of Aspero on the coast, before the full scope and inter-connectedness of the several sites of the civilization were realized.[NEWLINE][NEWLINE]The thesis of a maritime foundation, that a maritime subsistence economy had been the basis of the society and its early flourishing, is contrary to the general scholarly consensus that the rise of civilization was based on intensive agriculture, particularly of at least one cereal. The production of agricultural surpluses has long been seen as essential in promoting population density and the emergence of complex society. Concomitant to the maritime subsistence hypothesis was an implied dominance of sites immediately adjacent to the coast over other centers. This idea was shaken by the realization of the magnitude of Caral, an inland site.[NEWLINE][NEWLINE]Research then shifted from Aspero to Caral. New theories emphasized the dominance of agriculture and also suggested that Caral was the oldest urban center in Peru (and the entire Americas). It deprecated the idea that civilization might have begun adjacent to the coast and then moved inland. Rather than coastal antecedents to monumental inland sites, coastal settlements were now understood as satellite villages to monumental inland sites. However, though Caral was the largest and most complex preceramic site, it is not the oldest. Supporters of the maritime theory admitted the importance of agriculture to industry and to augment diet, while broadly affirming the formative role of marine resources in early Andean civilization.[NEWLINE][NEWLINE]Scholars now agree that the inland sites did have significantly greater populations, and were therefore dominant. The remaining question is which of the areas developed first and created a template for subsequent development.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_NORTE_CHICO_MOD_HEADING_5">
+			<Text>Cotton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_NORTE_CHICO_MOD_TEXT_5">
+			<Text>Cotton likely provided the basis for dominance of inland sites over coastal. Though not edible, it was the most important product of irrigation in the Norte Chico, vital to the production of fishing nets (that in turn provided maritime resources) as well as to textiles and textile technology. Control over cotton would allow a ruling elite to provide the benefit of cloth for clothing, bags, wraps, and adornment.[NEWLINE][NEWLINE]This would indicate a form of mutual dependence between the coastal and inland sites. The residents of the Norte Chico needed maritime resources for protein and the fishermen needed the cotton to make the nets to catch the fish. However, identifying cotton as a vital resource produced in the inland does not by itself resolve the issue of whether the inland centers were a progenitor for the coast or vice versa. The exact relationship between food resources and political organization remains unresolved.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_NORTE_CHICO_MOD_HEADING_6">
+			<Text>Absent Technologies</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_NORTE_CHICO_MOD_TEXT_6">
+			<Text>When compared to the common Eurasian models of the development of civilization, Norte Chico's differences are striking. A total lack of ceramics persists across the period; Norte Chico's people would have roasted their various crops, with no pots to boil them. The lack of pottery was accompanied by a lack of archaeologically apparent art; no sculpture, no carving or bas-relief, almost no painting or drawing with building interiors completely bare.[NEWLINE][NEWLINE]While the absence of ceramics appears anomalous, the presence of textiles is intriguing. As quipu, string-based recording devices, have been found at Caral, this suggests a writing, or proto-writing, system at Norte Chico. The exact use of quipu in this and later Andean cultures has been widely debated. Originally it was believed to be simply a mnemonic used to record numeric information, such as a count of items bought and sold. Evidence has emerged that the quipu may also have recorded logographic information in the same way writing does.[NEWLINE][NEWLINE]Other finds at Norte Chico have proved suggestive. While visual arts appear absent, the people may have played instrumental music: thirty-two flutes, crafted from pelican bone, have been discovered. The image of the Staff God on a gourd is another artifact that awaits explanation. While still fragmentary, such archaeological evidence corresponds to the patterns of later Andean civilization and may indicate that Norte Chico served as a template.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_NORTE_CHICO_MOD_HEADING_7">
+			<Text>Decline</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_NORTE_CHICO_MOD_TEXT_7">
+			<Text>Circa 1800 BC, the Norte Chico civilization began to decline, with more powerful centers appearing to the south and north along the coast, and to the east inside the belt of the Andes. Norte Chico's success at irrigation-based agriculture may have contributed to its being eclipsed, as it is only during the decline of the Norte Chico phase that we begin to find extensive canals farther north. People were moving to more fertile ground to take better advantage of their knowledge of irrigation. It would be a thousand years before the rise of the next great Peruvian culture, the Chavin.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_NORTE_CHICO_MOD_STATBOX">
+			<Text>[NEWLINE]        Leader: Qhapaq[NEWLINE]        Unique Unit: Fisher[NEWLINE]        Unique Building: Shicra Pyramid[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_NORTE_CHICO_MOD_FACTOID_HEADING">
+			<Text>Caral Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_NORTE_CHICO_MOD_FACTOID_TEXT">
+			<Text>Although archaeologists have been aware of the vast number of Norte Chico sites since at least the 1940s (with Aspero identified as early as 1905), if was not until the late 1990s that Peruvian archaeologists provided the first extensive documentation of the civilization with work at Caral.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_LEADER_NORTE_CHICO_MOD_FIRST_GREETING_1">
+			<Text>Welcome, traveler! Let us trade goods as a sign of peace and friendship.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NORTE_CHICO_MOD_FIRST_GREETING_2">
+			<Text>Welcome to the Sacred City of Caral! You wouldn't happen to have any anchovies to trade?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NORTE_CHICO_MOD_DEFEATED_1">
+			<Text>Watch as the children of these mountains continue to build and worship as we have. Our mark cannot so easily be erased.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NORTE_CHICO_MOD_DEFEATED_2">
+			<Text>To be honest, this was a horrible place to build a civilization anyway. You can have it!</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_GENERIC_NORTE_CHICO_MOD_INFLUENTIAL_ON_AI_1">
+			<Text>Your taste in anchovies has... unfortunately... caught on with my people. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_CARAL_DUMMY_TRIBUTE">
+			<Text>Caral Production</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CARAL_DUMMY_TRIBUTE_FOOD">
+			<Text>Caral Food</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CARAL_DUMMY_TRIBUTE_GOLD">
+			<Text>Caral Gold</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CARAL_DUMMY_TRIBUTE_CULT">
+			<Text>Caral Culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CARAL_DUMMY_TRIBUTE_SCIE">
+			<Text>Caral Science</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CARAL_DUMMY_TRIBUTE_FAIT">
+			<Text>Caral Faith</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NORTE_CHICO_DECISION_DUMMY">
+			<Text>Caral Decision</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NORTE_CHICO_CULTURE_DUMMY">
+			<Text>Caral Shicra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NORTE_CHICO_CULTURE_DUMMY_INTERFACE">
+			<Text>Caral City</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NORTE_CHICO_CULTURE_DUMMY_MINUS">
+			<Text>Caral Minus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NORTE_CHICO_COAST_CHECK">
+			<Text>Caral Check</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NORTE_CHICO_SEA_RESOURCES_STRATEGY">
+			<Text>This building cannot be constructed but rather facilitates Caral's unique abilities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NORTE_CHICO_SEA_RESOURCES_TEXT">
+			<Text>Norte Chico potentially represents a unique reliance on maritime food sources in absence of a staple cereal. This thesis of a maritime foundation was contrary to the general scholarly consensus that the rise of civilization was based on intensive agriculture. Although this theory is largely based on early fieldwork done in the region of Aspero, it has continued to hold sway as the full scope and inter-connectedness of the several sites of the civilization has been realized. Although, current studies stress the role of agriculture in supporting industry and augmenting diet, the Norte Chico civilization still relied much more on maritime food sources than the other cradle civilizations (even if not as the primary source of sustenance). The remaining question is which of the areas, coastal or inland, developed first and created a template for subsequent development.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_FEATURE_CARAL_MOD_FOSSIL_WATER">
+			<Text>Aquifer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_CARAL_MOD_FOSSIL_WATER_TEXT">
+			<Text>An aquifer is an underground layer of water-bearing permeable rock or unconsolidated materials (gravel, sand, or silt) which acts as a reservoir for groundwater. Aquifers are filled with water from rain or melted snow that drains into the ground until it reaches a layers of less permeable rock. Wells drilled into aquifers provide water for drinking, agriculture, and industrial uses. However, aquifers can dry up if drained faster than they can naturally refill from precipitation.[NEWLINE][NEWLINE]Fossil Water is groundwater that has remained sealed in an aquifer for a long period of time. Water can rest underground in aquifers for thousands or even millions of years. When changes in the surrounding geology seal the aquifer off from further replenishment, the water becomes trapped within and is known as fossil water. Fossil water is, by definition, a non-renewable resource. Whereas most aquifers are naturally replenished by infiltration of water from precipitation, fossil aquifers are those that get little or no recharge.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_CARAL_MOD_FOSSIL_WATER_MOD">
+			<Text>Fossil Water</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_CARAL_MOD_FOSSIL_WATER_MOD_TEXT">
+			<Text>Fossil Water is groundwater that has remained sealed in an aquifer for a long period of time. Water can rest underground in aquifers for thousands or even millions of years. When changes in the surrounding geology seal the aquifer off from further replenishment, the water becomes trapped within and is known as fossil water.[NEWLINE][NEWLINE]Fossil water is, by definition, a non-renewable resource. Whereas most aquifers are naturally replenished by infiltration of water from precipitation, fossil aquifers are those that get little or no recharge. The extraction of water from such non-replenishing groundwater reserves (known as low safe-yield reserves) is known in hydrology as water mining.[NEWLINE][NEWLINE]The Nubian Sandstone Aquifer System is among the most notable of fossil water reserves. Fossil aquifers also exist in the Sahara, the Kalahari, and the Ogallala underlying the US Great Plains. A further potential store of ancient water is Lake Vostok, a subglacial lake in Antarctica.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_CARAL_MOD_FOSSIL_WATER_HELP">
+			<Text>Provides Fresh Water to all adjacent Tiles.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_NORTE_CHICO_MOD">
+			<Text>Pachamama</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- -->
+	</Language_en_US>
+</GameData>

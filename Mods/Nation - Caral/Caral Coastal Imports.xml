@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Context>
+
+	<Image ID="IconFrame" Anchor="L,T" Offset="216,90" Texture="IconFrame64.dds" Size="64,64" ToolTipType='CaralTooltip' Hidden='1' >
+		<Image ID="IconImage" Size="64,64" Anchor="C,C" Texture="CivSymbolsColor512.dds"/>
+	</Image>
+
+	<ToolTipType Name="CaralTooltip" >
+		<Grid Size="280,90" Offset="8.0" Padding="8,8" Style="GridBlack8" NoClip="1" ID='Box'>
+
+			<Image Anchor="C,T" AnchorSide="I.O" Size="256,64" Offset="0,-10"  Texture="assets\UI\Art\Icons\Top512IconTrim.dds">
+				<Image ID="Icon" Size="64,64" Anchor="C,C" Texture="CivSymbolsColor512.dds"/>
+			</Image>
+
+			<Label Anchor="C,T" Offset="0,15" ID="Heading" String="Brief description" LeadingOffset="-5" WrapWidth="268" Font="TwCenMT16" ColorSet="Beige_Black" />
+			<Label Offset="12,35" ID="Body" String="Brief description" LeadingOffset="-5" WrapWidth="268" Font="TwCenMT16" ColorSet="Beige_Black" />
+		</Grid>
+	</ToolTipType>
+
+</Context>

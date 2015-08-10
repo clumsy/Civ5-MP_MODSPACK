@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_NORTE_CHICO_MOD</Type>
+			<Description>TXT_KEY_TRAIT_NORTE_CHICO_MOD</Description>
+			<ShortDescription>TXT_KEY_TRAIT_NORTE_CHICO_MOD_SHORT</ShortDescription>
+			<FreeBuilding>BUILDING_NORTE_CHICO_COAST_CHECK</FreeBuilding>
+		</Row>
+	</Traits>
+	<Trait_NoTrain>
+		<Row>
+			<TraitType>TRAIT_NORTE_CHICO_MOD</TraitType>
+			<UnitClassType>UNITCLASS_WORKBOAT</UnitClassType>
+		</Row>
+	</Trait_NoTrain>
+</GameData>

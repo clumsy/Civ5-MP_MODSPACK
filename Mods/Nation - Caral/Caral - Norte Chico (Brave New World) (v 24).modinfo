@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="2a8162c9-57cb-4e92-a459-8722c2a3d7bf" version="24">
+  <Properties>
+    <Name>Caral - Norte Chico (Brave New World)</Name>
+    <Teaser>Adds Caral to the base game. Requires the Brave New World expansion.</Teaser>
+    <Description>Adds Caral to the base game. Requires the Brave New World expansion.
+[NEWLINE][NEWLINE]~~~
+[NEWLINE][NEWLINE]Note: 
+[NEWLINE]- Requires the Brave New World expansion .
+[NEWLINE]- Updates to the Mod will most likely break save games. Please do not update until you are ready to begin a new game.
+[NEWLINE][NEWLINE]~~~
+[NEWLINE][NEWLINE]Leader: Qhapaq
+[NEWLINE][NEWLINE]UA: Matitime Foundation
+[NEWLINE]UU: Fisher
+[NEWLINE]UB: Shicra Pyramid</Description>
+    <Authors>Tomatekh</Authors>
+    <SpecialThanks>Leugi, Sukritact</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <Homepage>http://forums.civfanatics.com/showthread.php?t=472751</Homepage>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>24</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events and Decisions" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="Cultural Diversity" />
+    <Mod id="40b2f19b-236b-4699-88dd-72025ea1080d" minversion="0" maxversion="999" title="Nazca" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Cultural Influence" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Traits" />
+    <Mod id="43868e8d-de88-48a1-a8d9-ce144e07f5e0" minversion="0" maxversion="999" title="ExCE" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="C. Patch" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="C. Balance Patch" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D." />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="Piety" />
+    <Mod id="d99bf7aa-51ac-4bef-bd88-d765b28e260e" minversion="0" maxversion="999" title="Prestige" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="AB98C0D5A63FD0E67434F94A96BC14FD" import="1">Art/Alpha/NorteChicoAlphaAtlas128.dds</File>
+    <File md5="74C742985FBB99B6CB9262BB9695012C" import="1">Art/Alpha/NorteChicoAlphaAtlas16.dds</File>
+    <File md5="2868ED646BF2DE397469BC483258C686" import="1">Art/Alpha/NorteChicoAlphaAtlas24.dds</File>
+    <File md5="7831A581BDA29D048EB5A06C9B1B90F0" import="1">Art/Alpha/NorteChicoAlphaAtlas32.dds</File>
+    <File md5="D1A23DFA20C4A2A2FE8D19EECB60AB76" import="1">Art/Alpha/NorteChicoAlphaAtlas48.dds</File>
+    <File md5="E6B4AA487F5F169A8AF9056F58A04366" import="1">Art/Alpha/NorteChicoAlphaAtlas64.dds</File>
+    <File md5="1B40B8398F9C2617850D583789BAD419" import="1">Art/Atlas/NorteChicoAtlas128.dds</File>
+    <File md5="82F6E222D181EBC33B4916A968FFB683" import="1">Art/Atlas/NorteChicoAtlas214.dds</File>
+    <File md5="DFD15F86FE729F8403A742005038A483" import="1">Art/Atlas/NorteChicoAtlas256.dds</File>
+    <File md5="9409ACE197340F12F4005CBE796CF132" import="1">Art/Atlas/NorteChicoAtlas32.dds</File>
+    <File md5="9877204BE219838E6A1B5983D2B16822" import="1">Art/Atlas/NorteChicoAtlas45.dds</File>
+    <File md5="E23FC5097DFE8C883D59438469789488" import="1">Art/Atlas/NorteChicoAtlas64.dds</File>
+    <File md5="4307E3D10F6420E96161018B0D47D777" import="1">Art/Atlas/NorteChicoAtlas80.dds</File>
+    <File md5="ECE744847C989ECD134A35126F9D2F70" import="1">Art/NorteChicoDiploMod.dds</File>
+    <File md5="E87AAB913227547D6B6303F1116612F0" import="1">Art/NorteChicoDoMMod.dds</File>
+    <File md5="69DE8BA4B1FF51FB9B58901CDDF6FAFC" import="1">Art/NorteChicoMapMod.dds</File>
+    <File md5="F8647E68D3820A397FFDDD32680892F9" import="1">Art/Units/Alpha/CaralUnitAlphaAtlas.dds</File>
+    <File md5="9372538B8360E05918BE23014E3EB9EB" import="1">Art/Units/Alpha/sv_caral_mod.dds</File>
+    <File md5="8EC903D65299CFA85BE780B57D650886" import="1">Art/Units/Embark/andes_cargo_ship.fxsxml</File>
+    <File md5="EE8FCC8F250027B68E0186B7BDF5027D" import="1">Art/Units/Embark/andes_cargo_ship.gr2</File>
+    <File md5="B456D229AD12DFFE844C36D312BA50F1" import="1">Art/Units/Embark/andes_cargo_ship_diff.dds</File>
+    <File md5="773212A88FA99CD755CFCE20A3F494B9" import="1">Art/Units/Embark/andes_cargo_ship_sref.dds</File>
+    <File md5="B3002B22D2B70A5D7EC9E22DA6451483" import="1">Art/Units/Worker/native_warrior_128.dds</File>
+    <File md5="9862FAF7293C4CCA86AD7FBB5B58CB15" import="1">Art/Units/Worker/native_warrior_gloss_128.dds</File>
+    <File md5="737AEB177966F81CCCC803336B9B3BA8" import="1">Art/Units/Worker/worker_andes.fxsxml</File>
+    <File md5="1005395756714F941EFDE3D5C626BCE7" import="1">Art/Units/Worker/worker_andes.gr2</File>
+    <File md5="B1EA4C5AEA13264216BA4A2D58F63F2F" import="0">Decisions/Norte Chico Decisions Support.xml</File>
+    <File md5="67C6857F2D4DDC8C48F4AF5BC2C54394" import="1">Decisions/TomatekhNorteChicoDecisions.lua</File>
+    <File md5="0BF1275F615BC60B4AB7A5754195A764" import="0">Lua/Norte Chico Mod Check.lua</File>
+    <File md5="26A8C04C341B023846290ED202E5C3FF" import="1">Lua/Norte Chico Mod Scripts.lua</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">Lua/SaveUtils.lua</File>
+    <File md5="1A49B356939B86A2058DDA07B4B349DE" import="0">Lua/UA Trade Interface/Caral Coastal Imports Dummy.sql</File>
+    <File md5="CC031B2F065782336529E30A021ABB59" import="0">Lua/UA Trade Interface/Caral Coastal Imports.lua</File>
+    <File md5="2FDFCE1E370FEAC181F36A2016B7F755" import="0">Lua/UA Trade Interface/Caral Coastal Imports.xml</File>
+    <File md5="39DF86E05A4E8B60EA584AE2E211B4EF" import="1">Sounds/CaralDoM.mp3</File>
+    <File md5="771EE8BD9115F5319EFCFF8A8FEE3926" import="1">Sounds/CaralPeace.mp3</File>
+    <File md5="1827D832C8BA18965C20F1037B8E455E" import="1">Sounds/CaralWar.mp3</File>
+    <File md5="EAB92EEE059B4605505B5B5F6A2ABFEA" import="0">SQL/Norte Chico Mod Support.sql</File>
+    <File md5="6240F8257391F57F9BE3D0D729BD48CA" import="0">SQL/Norte Chico Unit Mod.sql</File>
+    <File md5="E539B8288B252D8559F2C7B39996C1F5" import="0">SQL/Norte Chico YnAEMP Mod.sql</File>
+    <File md5="E7EB811E3E3E1539ED02FB4779393226" import="1">XML/Art/Civ5ArtDefines_UnitMembers.xml</File>
+    <File md5="66B8627ABC316D792D83A3B233B97332" import="1">XML/Art/Civ5ArtDefines_Units.xml</File>
+    <File md5="D1C6F5B06764909C27DF78C2534FDDDC" import="0">XML/Art/Norte Chico Atlas Mod.xml</File>
+    <File md5="15C9786BB49C12A90C76F7601EC17FB5" import="1">XML/Art/Norte_Chico_Leader_Scene_Mod.xml</File>
+    <File md5="E9A57AACF42EDF7DFA5FE20B7D239D58" import="0">XML/Buildings/Norte Chico Buildingclass Mod.xml</File>
+    <File md5="60F7BE84730BD70488CB67E87F70281B" import="0">XML/Buildings/Norte Chico Buildings Mod.xml</File>
+    <File md5="8D505546C99A547640B00F614932952F" import="0">XML/Civilizations/Norte Chico Civilization Mod.xml</File>
+    <File md5="45131F20352A6E089FF87F4177FFD161" import="0">XML/Civilizations/Norte Chico Leader Mod.xml</File>
+    <File md5="58C4B0542B6D7D3EDCD9B9657BE8C47F" import="0">XML/Civilizations/Norte Chico Trait Mod.xml</File>
+    <File md5="64BFF77F040200525F70CD31CFB3A42D" import="0">XML/Diplomacy/Norte Chico Diplomacy Mod.xml</File>
+    <File md5="B64613F0FE98A7F733C46BB249C49B87" import="0">XML/GameInfo/Caral Policy Mod.xml</File>
+    <File md5="51051BD2DE6BBF9A0F0B602799841498" import="0">XML/Sounds/Caral Sound Mod.xml</File>
+    <File md5="644B77FB34841E88D1858FDA5CB7AD87" import="0">XML/Text/Non English XML Tags/Norte Chico Game Text DE_DE.xml</File>
+    <File md5="59B779904DCC01B9CD416575757F9409" import="0">XML/Text/Non English XML Tags/Norte Chico Game Text ES_ES.xml</File>
+    <File md5="DEC4E7DC8618761F4ED3302469B42EA7" import="0">XML/Text/Non English XML Tags/Norte Chico Game Text FR_FR.xml</File>
+    <File md5="A56738AC903C06EBCF11FF322CD9BDE2" import="0">XML/Text/Non English XML Tags/Norte Chico Game Text IT_IT.xml</File>
+    <File md5="FCF2046633810238D21E5E01FF94CC46" import="0">XML/Text/Non English XML Tags/Norte Chico Game Text JA_JP.xml</File>
+    <File md5="B42A5223A7447CC9D083BB28E36F4E2D" import="0">XML/Text/Non English XML Tags/Norte Chico Game Text KO_KR.xml</File>
+    <File md5="F05EB85E10EEFCC56DC29D470A5C9792" import="0">XML/Text/Non English XML Tags/Norte Chico Game Text PL_PL.xml</File>
+    <File md5="4962BD3C9C17604CECEC988A0DECF68A" import="0">XML/Text/Non English XML Tags/Norte Chico Game Text RU_RU.xml</File>
+    <File md5="2B914688B3A4929DEAB0DA05372A662D" import="0">XML/Text/Norte Chico Mod Text.xml</File>
+    <File md5="CEC3CD6C519DA57D3C4A5CFA043D25D1" import="0">XML/Units/Norte Chico Promotions Mod.xml</File>
+    <File md5="6FBD9D854D406BC38EAAB9B46FB2B125" import="0">XML/Units/Norte Chico Unit Mod.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Units/Norte Chico Promotions Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Norte Chico Civilization Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Norte Chico Leader Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Diplomacy/Norte Chico Diplomacy Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Norte Chico Trait Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Norte Chico Buildingclass Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Norte Chico Buildings Mod.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Norte Chico Unit Mod.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Units/Norte Chico Unit Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Art/Norte Chico Atlas Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Sounds/Caral Sound Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Norte Chico Mod Text.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Norte Chico Game Text DE_DE.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Norte Chico Game Text ES_ES.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Norte Chico Game Text FR_FR.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Norte Chico Game Text IT_IT.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Norte Chico Game Text JA_JP.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Norte Chico Game Text KO_KR.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Norte Chico Game Text PL_PL.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Norte Chico Game Text RU_RU.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Norte Chico YnAEMP Mod.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Norte Chico Mod Support.sql</UpdateDatabase>
+      <UpdateDatabase>Decisions/Norte Chico Decisions Support.xml</UpdateDatabase>
+      <UpdateDatabase>Lua/UA Trade Interface/Caral Coastal Imports Dummy.sql</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/Caral Policy Mod.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Norte Chico Mod Check.lua">
+      <Name>Norte Chico</Name>
+      <Description>Norte Chico</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/UA Trade Interface/Caral Coastal Imports.lua">
+      <Name>Trade Interface</Name>
+      <Description>Trade Interface</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

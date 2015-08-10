@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_NORTE_CHICO_SEA_RESOURCES</Type>
+			<DefaultBuilding>BUILDING_NORTE_CHICO_DECISION_DUMMY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_NORTE_CHICO_DECISION_DUMMY</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_NORTE_CHICO_COAST_CHECK</Type>
+			<DefaultBuilding>BUILDING_NORTE_CHICO_COAST_CHECK</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_NORTE_CHICO_COAST_CHECK</Description>
+		</Row>
+	</BuildingClasses>
+	<Civilization_BuildingClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_NORTE_CHICO_SEA_RESOURCES</BuildingClassType>
+			<BuildingType/>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MINOR</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_NORTE_CHICO_SEA_RESOURCES</BuildingClassType>
+			<BuildingType/>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_NORTE_CHICO_COAST_CHECK</BuildingClassType>
+			<BuildingType/>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MINOR</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_NORTE_CHICO_COAST_CHECK</BuildingClassType>
+			<BuildingType/>
+		</Row>		
+	</Civilization_BuildingClassOverrides>
+</GameData>

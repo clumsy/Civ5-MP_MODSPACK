@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh-->
+<GameData>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_CARAL_FISHER</Type>
+			<Description>TXT_KEY_PROMOTION_CARAL_FISHER</Description>
+			<Help>TXT_KEY_PROMOTION_CARAL_FISHER_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<AllowsEmbarkation>true</AllowsEmbarkation>
+			<ExtraNavalMovement>2</ExtraNavalMovement>
+			<PortraitIndex>5</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_CARAL_FISHER</PediaEntry>
+		</Row>
+	</UnitPromotions>
+</GameData>
