@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_AKKADIAN_MOD_ZIGGURAT</Type>
+			<BuildingClass>BUILDINGCLASS_TEMPLE</BuildingClass>
+			<MaxStartEra>ERA_RENAISSANCE</MaxStartEra>
+			<Cost>100</Cost>
+			<GoldMaintenance>2</GoldMaintenance>
+			<PrereqTech>TECH_CALENDAR</PrereqTech>
+			<Description>TXT_KEY_BUILDING_AKKADIAN_MOD_ZIGGURAT_DESC</Description>
+			<Civilopedia>TXT_KEY_CIVLOPEDIA_BUILDING_AKKADIAN_MOD_ZIGGURAT_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_AKKADIAN_MOD_ZIGGURAT_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_AKKADIAN_MOD_ZIGGURAT_HELP</Help>
+			<ArtDefineTag>TEMPLE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>0</ConquestProb>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>SUMER_ATLAS_MOD</IconAtlas>
+			<PortraitIndex>3</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_ClassesNeededInCity>
+		<Row>
+			<BuildingType>BUILDING_AKKADIAN_MOD_ZIGGURAT</BuildingType>
+			<BuildingClassType>BUILDINGCLASS_SHRINE</BuildingClassType>
+		</Row>
+	</Building_ClassesNeededInCity>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_AKKADIAN_MOD_ZIGGURAT</BuildingType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>50</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_AKKADIAN_MOD_ZIGGURAT</BuildingType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>30</Flavor>
+		</Row>
+	</Building_Flavors>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_AKKADIAN_MOD_ZIGGURAT</BuildingType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<Building_YieldModifiers>
+		<Row>
+			<BuildingType>BUILDING_AKKADIAN_MOD_ZIGGURAT</BuildingType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>10</Yield>
+		</Row>
+	</Building_YieldModifiers>
+</GameData>

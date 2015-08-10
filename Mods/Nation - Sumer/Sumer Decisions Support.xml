@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<Language_en_US>
+		<!--Sages-->
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_SUMER_SAGES">
+			<Text>Honour the Abgal Sages</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_SUMER_SAGES_DESC">
+			<Text>The gods have sent a great sage to help guide our fledgling civilization. Let us welcome him into the capital and learn from his divine wisdom.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Sumer
+				[NEWLINE][ICON_BULLET]Must have constructed a Ziggurat
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_PEACE] Faith
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive a random Great Person
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_SUMER_SAGES_ENACTED_DESC">
+			<Text>The gods have sent a great sage to help guide our fledgling civilization. Let us welcome him into the capital and learn from his divine wisdom.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive a random Great Person
+			</Text>
+		</Row>				
+		<!--Cuneiform-->
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_SUMER_CUNEIFORM">
+			<Text>Develop Cuneiform</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_SUMER_CUNEIFORM_DESC">
+			<Text>Our scribes have developed a more efficient method of writing than our current system of pictographs. We should encourage this innovation and adopt its use for courtly documents.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Sumer
+				[NEWLINE][ICON_BULLET]Must have researched Writing
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+2 [ICON_RESEARCH] Science from Specialists
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_SUMER_CUNEIFORM_ENACTED_DESC">
+			<Text>Our scribes have developed a more efficient method of writing than our current system of pictographs. We should encourage this innovation and adopt its use for courtly documents.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+2 [ICON_RESEARCH] Science from Specialists
+			</Text>
+		</Row>
+		<!--Agriculture-->
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_SUMER_AGRICULTURE">
+			<Text>Develop Plough Agriculture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_SUMER_AGRICULTURE_DESC">
+			<Text>Our farmers have developed a scratch plough to be pulled by oxen. Adopting this innovation will allow us to till much larger fields and support our emerging cities.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Sumer
+				[NEWLINE][ICON_BULLET]Must have built at least one Pasture
+				[NEWLINE][ICON_BULLET]May only be enacted before the Renaissance Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Construct Granaries 20% faster
+				[NEWLINE][ICON_BULLET]An improved source of [ICON_RES_WHEAT] Wheat appears near your [ICON_CAPITAL] Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_SUMER_AGRICULTURE_ENACTED_DESC">
+			<Text>Our farmers have developed a scratch plough to be pulled by oxen. Adopting this innovation will allow us to till much larger fields and support our emerging cities.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Construct Granaries 20% faster
+				[NEWLINE][ICON_BULLET]An improved source of [ICON_RES_WHEAT] Wheat appears near your [ICON_CAPITAL] Capital
+			</Text>
+		</Row>
+		<!--Dummy Policy-->
+		<Row Tag="TXT_KEY_POLICY_SUMER_AGRICULTURE">
+			<Text>Plough Agriculture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_SUMER_AGRICULTURE_TEXT">
+			<Text>Plough Agriculture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_SUMER_AGRICULTURE_HELP">
+			<Text>Construct Granaries 20% faster</Text>
+		</Row>
+		<!-- Sages -->
+		<Row Tag="TXT_KEY_EVENT_TOMATEKH_MESOPOTAMIAN_SAGES">
+			<Text>Abgal Sages</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TOMATEKH_MESOPOTAMIAN_SAGES_DESC">
+			<Text>The gods have sent a great sage to help guide our fledgling civilization. Let us welcome him into the capital and learn from his divine wisdom.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TOMATEKH_MESOPOTAMIAN_SAGES_OUTCOME_1">
+			<Text>We have been blessed by the heavens!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TOMATEKH_MESOPOTAMIAN_SAGES_OUTCOME_1_DESC">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Receive a random Great Person</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TOMATEKH_MESOPOTAMIAN_SAGES_OUTCOME_1_NOTIFICATION">
+			<Text>A divine sage has endowed us with great wisdom!</Text>
+		</Row>	
+	</Language_en_US>
+	<Policies>
+		<Row>
+			<Type>POLICY_SUMER_AGRICULTURE</Type>
+			<Description>TXT_KEY_POLICY_SUMER_AGRICULTURE</Description>
+			<Civilopedia>TXT_KEY_POLICY_SUMER_AGRICULTURE_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_SUMER_AGRICULTURE_HELP</Help>
+			<GridX>1000</GridX>
+			<GridY>1000</GridY>
+			<PortraitIndex>47</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+		</Row>
+	</Policies>
+	<Policy_BuildingClassProductionModifiers>
+		<Row>
+			<PolicyType>POLICY_SUMER_AGRICULTURE</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_GRANARY</BuildingClassType>
+			<ProductionModifier>20</ProductionModifier>
+		</Row>
+	</Policy_BuildingClassProductionModifiers>	
+</GameData>

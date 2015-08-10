@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<Language_en_US>
+		<!-- -->
+		<Row Tag="TXT_KEY_TRAIT_CRADLE_OF_CIVILIZATION_SHORT">
+			<Text>Cradle of Civilization</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CRADLE_OF_CIVILIZATION">
+			<Text>Newly founded Cities start with +1 [ICON_CITIZEN] Population. Bonus increases to +2 [ICON_CITIZEN] Population after the Classical Era. Always start near a River.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_UNIT_AKKADIAN_MOD_VULTURE">
+			<Text>Vulture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_AKKADIAN_MOD_VULTURE_TEXT">
+			<Text>The Vulture was not a specific type of troop within the Sumerian army, but rather a symbol. Warfare was a fact of life between the city-states of lower Mesopotamia, but it was during a battle between the King of Lagash and the King of Umma in 2525 BC that something exceptional occurred. After a resounding victory over the King of Umma, the King of Lagash erected a stele to commemorate the occasion. In commissioning this monument, the King of Lagash created the first known depiction of war ever created by humanity. The stele's carvings display the troops of Lagash: spearmen arranged in a phalanx formation, with eight men to a row, six rows deep. Elsewhere on the stele, vultures can be seen carrying away the heads of the fallen Umman warriors. As a result, these Sumerian soldiers have become known as the "Vultures of Sumer."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AKKADIAN_MOD_VULTURE_STRATEGY">
+			<Text>The Vulture is the Sumerian unique unit, replacing the Warrior. It ignores terrain costs when moving along and across rivers and begins with a bonus +10 XP; enough to choose your first promotion. Although still fairly weak early-game, the Vulture allows you quickly defend your fledgling empire and amass a well-trained core army before unlocking the Barracks at Bronze Working.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AKKADIAN_MOD_VULTURE_HELP">
+			<Text>Battle-hardened Ancient Era unit. The Vulture moves quickly along Rivers and starts with additional XP. Only Sumer may build it.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_BUILDING_AKKADIAN_MOD_ZIGGURAT_DESC">
+			<Text>Ziggurat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_BUILDING_AKKADIAN_MOD_ZIGGURAT_TEXT">
+			<Text>A hallmark of Sumerian, Babylonian, and Assyrian construction efforts, the Ziggurat evolved from early temple designs that were built upon elevated platforms (probably to avoid flooding). The colossal Ziggurats typically featured large shrines on the highest level, to be viewed only by priests and other religious figures. Predominantly featured as part of larger overall temple complexes, the exact purpose of the Ziggurats remains a mystery today.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AKKADIAN_MOD_ZIGGURAT_STRATEGY">
+			<Text>The Ziggurat is the Sumerian unique building, replacing the Temple. It is available earlier and provides +10% [ICON_RESEARCH] Science in addition to the standard [ICON_PEACE] Faith bonus of the Temple.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AKKADIAN_MOD_ZIGGURAT_HELP">
+			<Text>The Ziggurat is available sooner than the Temple, which it replaces. Only Sumer may build it.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_AKKADIAN_MOD_DESC">
+			<Text>Sumerian Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AKKADIAN_MOD_SHORT_DESC">
+			<Text>Sumer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AKKADIAN_MOD_ADJECTIVE">
+			<Text>Sumerian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AKKADIAN_MOD">
+			<Text>Sumer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_AKKADIAN_MOD_TITLE">
+			<Text>Sumer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_AKKADIAN_MOD_HEADING_1">
+			<Text>History</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CIVLOPEDIA_AKKADIAN_MOD_TEXT_1">
+			<Text>Often touted as the world's first civilization, Sumer developed along the banks of the Tigris and Euphrates Rivers, in modern day Iraq, coalescing into a distinct civilization by 3000 BC (though habitation of the area dates much earlier). The surplus of storable food created by consistent agriculture allowed the population of this region to settle in one place, instead of migrating as hunter gatherers. The greater population density, in turn, required a more extensive labor force and the division of labor into specialized arts. Sumer also developed one of the world's earliest writing systems, cuneiform, progressing from a stage of proto-writing in the mid-4th millennium BC to writing proper in the 3rd millennium BC.</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CIVLOPEDIA_AKKADIAN_MOD_HEADING_2">
+			<Text>Climate and Terrain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_AKKADIAN_MOD_TEXT_2">
+			<Text>As crucial as rivers and marshlands were to the rise of civilization in the Fertile Crescent, they were not the only factor in the area's precocity. The area is important as the bridge between Africa and Eurasia. This bridging role has allowed the Fertile Crescent to retain a greater amount of biodiversity than either Europe or North Africa.[NEWLINE][NEWLINE]The Fertile Crescent has also borne the brunt of the tectonic divergence between the African and Arabian plates and the converging Arabian and Eurasian plates, which has made the region a very diverse zone of high snow-covered mountains, fertile broad alluvial basins, and desert plateaus (which has also further increased its biodiversity and enabled the survival of species not found elsewhere into historic times).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_AKKADIAN_MOD_HEADING_3">
+			<Text>Urbanization</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_AKKADIAN_MOD_TEXT_3">
+			<Text>The Sumerian people were organized into a series of carefully irrigated city-states, each with its own ruler and local deities. The surplus of wheat grown from the verdant fertility of the Tigris and Euphrates allowed the Sumerians to create an exceptional urban civilization. Never numbering more than a dozen or so, the cities of Sumer were major centers of commerce, culture and defense, and the Sumerians were the first truly metropolitan population. In fact, the Sumerian creation myth states that first there was nothing; then there was a city, Eridu.[NEWLINE][NEWLINE]Sumerian cities were seas of sun-cooked brick, rushing irrigation ditches, and mountainous ziggurats (the Sumerian temples to the gods). Facing near-constant warfare, each city was defined by a series of intimidating walls and well-placed canals. Indeed, the Sumerians are the first people known to employ a professional army, necessary to fight the perpetual skirmishes that characterized Sumerian daily life.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_AKKADIAN_MOD_HEADING_4">
+			<Text>The Sumerian and Akkadian Empires</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_AKKADIAN_MOD_TEXT_4">
+			<Text>Unity in Sumer was only established at the end of a spear. The first Sumerian King to lay claim over a number of cities was Eannatum of Lagash. Starting as a border dispute with the city of Umma (Lagash's ancient rival), Eannatum would follow his victory with a continued campaign of expansion; ultimately conquering the remaining of Sumerian city-states. An uprising within Umma would later shatter this new empire, but a mutual treaty would eventually return the area to peace.[NEWLINE][NEWLINE]However, the Sumerians were not alone in the Fertile Crescent. Their competitors included the Akkadians, a Semetic people to the North. In 2334 BC, Sargon, a highly skilled military strategist, was born in Akkadia. Upon reaching maturity, Sargon would found his own dynasty, the Akkadian Empire, bringing all the peoples of the Fertile Crescent under his rule.[NEWLINE][NEWLINE]In roughly 2250 BC, a new people, the Gutians, thundered into the Fertile Crescent, deposing the Akkadians and establishing themselves as the new rulers of the land. But the rigors of invasion severely weakened the new overlords of Mesopotamia, allowing the long-dominated Sumerians the chance for rebellion. With the rise of a new leader, Utu-khegal, the Sumerians threw off their Gutian overlords and reestablished the supremacy of Sumerian culture throughout the Fertile Crescent.[NEWLINE][NEWLINE]Under Ur-Nammu, a successor of Utu-khegal, order was restored in the fractured state, and the period of the Third Dynasty of Ur began. Ur-Nammu was a reformer and builder as well as a warrior, and he created roads and walls throughout his new empire. This golden age would last until 2004 BC, when internal feuding fractured the Sumerian nation decisively.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_AKKADIAN_MOD_HEADING_5">
+			<Text>Legacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_AKKADIAN_MOD_TEXT_5">
+			<Text>The story of Sumer comes to us through the many cuneiform tablets that have been discovered. Unfortunately, many of these tablets aren't especially evocative: tireless record-keepers, the Sumerians would just as often record the season's flock of sheep as the reign of ancient kings. Several tablets, though, have been of a religious nature and have provided great insight into the foundation of later Abrahamic belief.[NEWLINE][NEWLINE]Although the first great empire vanished from history, Sumerian culture would survive to influence the next great civilization to spring from the Tigris-Euphrates Valley; Babylon.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_AKKADIAN_MOD_FACTOID_HEADING">
+			<Text>Sumerian Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_AKKADIAN_MOD_FACTOID_TEXT">
+			<Text>The Sumerians were a non-Semitic people, and spoke a language isolate. The names of some of Sumer's major cities are also not Sumerian, revealing a language substrate and possible influence from earlier inhabitants.[NEWLINE][NEWLINE]There is considerable evidence that the Sumerians loved music, which seems to have been an important part of religious and civic life in Sumer. In particular, lyres were popular in Sumer.[NEWLINE][NEWLINE]There was no organized set of gods; each city-state had its own patrons, temples, and priest-kings. The Sumerians were probably the first to write down their beliefs, which were the inspiration for much of later Mesopotamian mythology, religion, and astrology.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_CIVLOPEDIA_AKKADIAN_MOD_STATBOX">
+			<Text>[NEWLINE]        Leader: Eannatum[NEWLINE]        Unique Unit: Vulture[NEWLINE]        Unique Building: Ziggurat[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_AKKADIAN_MOD_TEXT">
+			<Text>Praise to you, mighty Eannatum, God-King of Lagash! Of all the peoples to till the earth and carve her stone into cities, yours were the first. The Sumerian city-states emerged along the banks of the Tigris and Euphrates rivers; the rich flood plains of the Fertile Crescent proving ready ground for the birth of civilization. There, Ensi-Lugal, your people would develop music, discover new technologies, and build towering temples to the gods. Yet, they remained divided. As the cities of lower Mesopotamia descended into war, you took on the sacred duty of unifying the known world. Though short lived, your kingdom accomplished the impossible and established the world's first empire.[NEWLINE][NEWLINE]Divine King, the great flood has passed and time has destroyed all that man could not. The ancient kingdoms that once bowed to your name have faded as new civilizations have risen to follow your example and carve the world into empires. Yet, will you allow your own glory to be forgotten? It is time for Sumer to return and echo your deeds beyond the reach of Ir-Kalla. Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_AKKADIAN_MOD_GILGAMESH_DESC">
+			<Text>Eannatum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AKKADIAN_MOD_GILGAMESH_LIVED">
+			<Text>c. 2470 - 2425 BC</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AKKADIAN_MOD_GILGAMESH_NAME">
+			<Text>Eannatum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AKKADIAN_MOD_GILGAMESH_SUBTITLE">
+			<Text>Leader of Sumer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AKKADIAN_MOD_GILGAMESH_TITLES_1">
+			<Text>King of Lagash</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AKKADIAN_MOD_GILGAMESH_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AKKADIAN_MOD_GILGAMESH_TEXT_1">
+			<Text>A successful general and statesman, Eannatum was a Sumerian king of Lagash who ruled around 2450 BC. What started as a border dispute between Lagash and the city of Umma, Eannatum's campaign of expansion would eventually unite the various Sumerian city-states as well as parts of neighboring Kish, Akkad, and Elam. Although ultimately short lived, this union is often cited as the first verifiable empire in history. One of the most famous Sumerian monuments, the Stele of the Vultures, was erected to celebrate the victory of Eannatum over Umma.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AKKADIAN_MOD_GILGAMESH_HEADING_2">
+			<Text>Early Years</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AKKADIAN_MOD_GILGAMESH_TEXT_2">
+			<Text>Eannatum (whose name might be interpreted as "worthiness of a temple sanctuary") was from a noble family. His grandfather was Ur-Nanshe, who commissioned many building projects and was the founder of the First Dynasty of Lagash. After Ur-Nanshe's death Eannatum's father, Akurgal, sat on the throne. Not much is known about Eannatum during this period of his life, but it can be assumed that it was during this time that he served as a military leader of some sort, else he shouldn't have had the skills necessary to build an empire.[NEWLINE][NEWLINE]Upon Akurgal's death in 2454 BC, Eannatum became the Ensi, or governor, of Lagash. Like his father and grandfather before him - and for that matter every ensi of Lagash - Eannatum had to deal with Umma and the almost perpetual bickering over the Gu'edena, a fertile stretch of farmland between Umma and Lagash. Fortunately for Eannatum, Lagash was in a such a strong position as to dictate terms to Umma.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AKKADIAN_MOD_GILGAMESH_HEADING_3">
+			<Text>War with Umma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AKKADIAN_MOD_GILGAMESH_TEXT_3">
+			<Text>Eannatum divided the Gu'edena between Umma and Lagash, with a no-man's land to separate them. A tax was levied upon the Ummaites for use of their partition of the Gu'edena. The leader of Umma was forced to swear an oath to the gods that his people would not incurse.[NEWLINE][NEWLINE]At some point or another, the agreement had been broken and Eannatum personally led his forces towards Umma. The Ummaites were beaten back to their home, and were defeated. Umma was made a tributary to Lagash, and Lagash took control of all of the Gu'edena. Having such fertile farmland with which to feed his army and a longstanding enemy in the west subdued, Eannatum, having taken an arrow in the battle, was able yet to turn his attentions to the east - to Elam.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AKKADIAN_MOD_GILGAMESH_HEADING_4">
+			<Text>Conquest of Elam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AKKADIAN_MOD_GILGAMESH_TEXT_4">
+			<Text>An ancient foe of the Sumerians since time immemorial, the foreign land of Elam was not particularly powerful at this point in time (though the Elamites would eventually sack Ur 550 years later) and Eannatum moved upon it. It is assumed that it was a rather trivial task for Eannatum to destroy, among other cities, Susa, the capital of the Elamites and to force into tribute the others - it was not recorded to be such a monumental event as was the subjugation of Umma.[NEWLINE][NEWLINE]As a bit of a running score tally: Eannatum was now collecting tribute from Umma and various Elamite cities, and had the fertile fields of the Gu'edena to support a large army. These two factors in addition to Eannatum's own ambition would turn him to his next conquest in the south: Sumer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AKKADIAN_MOD_GILGAMESH_HEADING_5">
+			<Text>Unification of Sumer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AKKADIAN_MOD_GILGAMESH_TEXT_5">
+			<Text>Eannatum's conquest of Sumer was nowhere near as bloody as his previous or future campaigns. After his subjugation of Umma and conquest of Elam, many of the Sumerian city-states were willing to agree to terms should Eannatum have even looked in their city's general direction. However, two notable city states decided to fight to retain their independence: Ur and Uruk.[NEWLINE][NEWLINE]Ur, Uruk, and the other Sumerian holdouts were not able to stave off Lagash for long. However, Ur and Uruk were not destroyed in the fighting - Eannatum's presence on the Standard of Ur suggests he personally ruled over Ur, at least - and came out of the ordeal much better than the Elamites did. Given that the history of Sumer and their neighbours to the north, the Akkadians, were very much intertwined with each other and the level of cultural exchange between the two nations, it wasn't a matter of if more than it was when Eannatum would march on the Akkadians.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AKKADIAN_MOD_GILGAMESH_HEADING_6">
+			<Text>King of Kish</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AKKADIAN_MOD_GILGAMESH_TEXT_6">
+			<Text>Eannatum began his Akkadian campaign by marching on Kish. Despite Kish's best efforts and having the armies of Akshak and Mari fighting alongside them, Eannatum was able to take the city and subsequently subjugate Akshak and Mari as well. Ruling over both Sumer and Akkad, Eannatum gained the title King of Kish, which was a title used for a ruler that had united Sumer and Akkad and ruled over them both - this title is similar to King of Kings, or Emperor.[NEWLINE][NEWLINE]Controlling his homeland, Sumer, and the foreign territories of Elam and Akkad, this made Eannatum ruler of the first known empire in history. Although a small empire by today's standards, Eannatum had conquered the world that was known to him. Having an empire stretching from Ur on the Persian Gulf to Mari, then the furthest reaches of Mesopotamian culture, in the north, Eannatum was now at the peak of his power and was the most powerful ruler Mesopotamia had yet known.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AKKADIAN_MOD_GILGAMESH_HEADING_7">
+			<Text>Statesman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AKKADIAN_MOD_GILGAMESH_TEXT_7">
+			<Text>After his conquest of Mesopotamia and Elam, a period of peace followed - something largely unknown to a region replete with warfare between city-states, proudly defending at all costs their independence. During this time Eannatum engaged in various peacetime projects: building temples for various gods, continuing Ur-Nanshe's building projects, and founding cities, such as Ningin.[NEWLINE][NEWLINE]As well, in a region who was unfamiliar with peace or political co-operation between states, Eannatum attempted, unsuccessfully, to politically coalesce the cities of Akkad and Sumer into a cohesive entity. Eannatum conquered less for power and personal gain, and more to strengthen and unite his people. It is for this reason that Eannatum can also be considered one of the world's first statesmen. Despite his best efforts, however, the peace did not last for long.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AKKADIAN_MOD_GILGAMESH_HEADING_8">
+			<Text>Uprisings and Death</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AKKADIAN_MOD_GILGAMESH_TEXT_8">
+			<Text>The Elamites rose up against Eannatum, forcing a pitched battle which he was barely able to come out victorious. Zuzu of Akshak then led a coalition of Kish and Akshak against Eannatum in which he narrowly came out victorious yet again. This was followed by another attack from Elam, which was also put down. Zuzu once again rallied the Akkadian city-states, leading yet another attack - this time from the combined armies of Kish, Akshak, Mari, and possibly Elam again. In two extremely pitched battles not in his favor, Eannatum managed to come out victorious. It is written that Eannatum not just destroyed, but obliterated Akshak - this might entail that the city was dismantled brick by brick until there was no city left.[NEWLINE][NEWLINE]Another period of peace followed these uprisings, but Eannatum would not enjoy it for very long: He abruptly died in 2425 BC. His brother, Enanatum I would succeed him as the ruler of Lagash. The suddenness of his death might suggest that he fell in battle, perhaps part of yet another uprising. Regardless of the circumstances of Eannatum's death, Lagash would never again reach the prominence it did during his reign, and Mesopotamia would not be united again until Sargon the Great would reunite it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AKKADIAN_MOD_GILGAMESH_HEADING_9">
+			<Text>Judgment of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AKKADIAN_MOD_GILGAMESH_TEXT_9">
+			<Text>While it may be difficult to judge such a legendary figure, it can be said that Eannatum's legacy as an empire builder, successful conqueror, statesman in a time of perpetual war, and superb military leader will be remembered in history for all time. A fierce and brutal military leader in fierce and brutal times, Eannatum fought to bring an end to the perpetual state of warfare amongst his people that had plagued them for centuries. Ultimately he earned the respect of his contemporaries and is admired to this day.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AKKADIAN_MOD_GILGAMESH_HEADING_10">
+			<Text>Factoid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AKKADIAN_MOD_GILGAMESH_TEXT_10">
+			<Text>"Eannatum, the ruler of Lagash: Nominated by Enlil, given strength by Ningirsu, chosen by the heart of Nanshe, fed wholesome milk by Ninhursag, called a good name by Inanna, given wisdom by Enki, beloved of Tammuz, trusted by Hendursag, beloved friend of Lugalurub, son of Akurgal, the ruler of Lagash."[NEWLINE][TAB]- Eannatum Boulder</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_LEADER_AKKADIAN_MOD_GILGAMESH_FIRST_GREETING_1">
+			<Text>Welcome, stranger! I am Eannatum, divine Lord of Sumer. What business might you have here?</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_LEADER_AKKADIAN_MOD_GILGAMESH_FIRST_GREETING_2">
+			<Text>You are truly blessed to enter into my divine presence. I assume that you've brought tribute?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AKKADIAN_MOD_GILGAMESH_DEFEATED_1">
+			<Text>When the gods created man they allotted to him death, but life they retained in their own keeping.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AKKADIAN_MOD_GILGAMESH_DEFEATED_2">
+			<Text>We were the first, how foolish to think we would also be the last.</Text>
+		</Row>	
+		<!-- -->
+		<Row Tag="TXT_KEY_SPY_NAME_AKKADIAN_MOD_0">
+			<Text>Akalamdug</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AKKADIAN_MOD_1">
+			<Text>Ekur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AKKADIAN_MOD_2">
+			<Text>Mesanepada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AKKADIAN_MOD_3">
+			<Text>Naram-Sin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AKKADIAN_MOD_4">
+			<Text>Shulgi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AKKADIAN_MOD_5">
+			<Text>Ashusikildigir</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AKKADIAN_MOD_6">
+			<Text>Ninbanda</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AKKADIAN_MOD_7">
+			<Text>Puabi</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AKKADIAN_MOD_8">
+			<Text>Enanatuma</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_AKKADIAN_MOD_9">
+			<Text>Shagshag</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_CITY_NAME_AKKADIAN_MOD_URUK">
+			<Text>Uruk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AKKADIAN_MOD_ERIDU">
+			<Text>Eridu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AKKADIAN_MOD_KISH">
+			<Text>Kish</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AKKADIAN_MOD_LAGASH">
+			<Text>Lagash</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AKKADIAN_MOD_UR">
+			<Text>Ur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AKKADIAN_MOD_NIBRU">
+			<Text>Nibru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AKKADIAN_MOD_BAD_TIBIRA">
+			<Text>Bad-Tibira</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AKKADIAN_MOD_ZIMBIR">
+			<Text>Zimbir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AKKADIAN_MOD_SHURUPPAK">
+			<Text>Shuruppak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AKKADIAN_MOD_UMMA">
+			<Text>Umma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AKKADIAN_MOD_LARSA">
+			<Text>Larsa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AKKADIAN_MOD_ISIN">
+			<Text>Isin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AKKADIAN_MOD_GIRSU">
+			<Text>Girsu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AKKADIAN_MOD_ADAB">
+			<Text>Adab</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AKKADIAN_MOD_ZABALAM">
+			<Text>Zabalam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AKKADIAN_MOD_AKSHAK">
+			<Text>Akshak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AKKADIAN_MOD_LARAK">
+			<Text>Larak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AKKADIAN_MOD_KISIGA">
+			<Text>Kisiga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AKKADIAN_MOD_NINA">
+			<Text>Nina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AKKADIAN_MOD_DILBAT">
+			<Text>Dilbat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AKKADIAN_MOD_KUTU">
+			<Text>Kutu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AKKADIAN_MOD_MARAD">
+			<Text>Marad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AKKADIAN_MOD_ENEGI">
+			<Text>Enegi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AKKADIAN_MOD_ABU_SALABIKH">
+			<Text>Abu Salabikh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AKKADIAN_MOD_KI_AN">
+			<Text>Ki-an</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AKKADIAN_MOD_PAZURISH_DAGAN">
+			<Text>Pazurish-Dagan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AKKADIAN_MOD_DABRUM">
+			<Text>Dabrum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AKKADIAN_MOD_KISSURA">
+			<Text>Kissura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AKKADIAN_MOD_KUTALLU">
+			<Text>Kutallu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AKKADIAN_MOD_NAGSU">
+			<Text>Nagsu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AKKADIAN_MOD_KESH">
+			<Text>Kesh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AKKADIAN_MOD_ARATTA">
+			<Text>Aratta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AKKADIAN_MOD_DER">
+			<Text>Der</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AKKADIAN_MOD_HAMAZI">
+			<Text>Hamazi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AKKADIAN_MOD_APISADA">
+			<Text>Apisada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AKKADIAN_MOD_JEMDET_NASR">
+			<Text>Jemdet Nasr</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_PROMOTION_AKKADIAN_MOD_VULTURE">
+			<Text>Phalanx Formation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AKKADIAN_MOD_VULTURE_HELP">
+			<Text>+10% [ICON_STRENGTH] Combat Strength when adjacent to a friendly Unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VULTURE_XP_BONUS">
+			<Text>Legacy of Lagash</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VULTURE_XP_BONUS_HELP">
+			<Text>Starts with additional XP.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VULTURE_MOD_RIVERMOVEMENT">
+			<Text>River Scout</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VULTURE_MOD_RIVERMOVEMENT_HELP">
+			<Text>Ignores Terrain Cost when moving along or across [COLOR_POSITIVE_TEXT]Rivers[ENDCOLOR].</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_CITYSTATE_MOD_LIYAN">
+			<Text>Liyan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MOD_LIYAN_ADJ">
+			<Text>Liyan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MOD_LIYAN_PEDIA">
+			<Text>An ancient city on the coast of the Persian Gulf, Liyan served as a major port for the Elamite Empire and was the patron city of Elam's chief goddess, Kiririsha, whose temple in the city was said to protect the state from naval attacks. Liyan's earliest date of habitation is unknown; however, it was already the primary outlet to the Persian Gulf for the kingdom of Anshan, and later gained renewed prominence during the Middle Elamite period (1500-1100 BC) under the combined kingdoms of Anshan and Susa. Liyan functioned as the gulf coast hub for trade between the Elamite hinterlands, the Sumerian city-states, Dilmun (likely the eastern gulf coast of modern Saudi Arabia), Magan (modern Oman), and potentially even Meluhha (possibly the Indus Valley Civilization).[NEWLINE][NEWLINE]Liyan's strategic position ensured its continued importance well beyond the Elamite period. Over time, the settlement moved gradually north with the modern city of Bushehr, renamed after the first king of the Sassanid dynasty, resting not 10 kilometers north of the ruins of Liyan. Bushehr served as one of the most important ports for the Sassanid navy and later served as the seat of the Nestorian Christian expansion into southern Iran. The city garnered renewed interest as various European powers sought to gain naval supremacy and control trade in the Persian Gulf during the early modern period. The city was conquered by the Portuguese in 1506, and both the Dutch and British East India Companies opened posts in the city during the 1700s. Britain in particular used the city as a base for the Royal Navy well into the 18th century and continued to govern and occupy the area intermittingly until 1913. Today, Bushehr continues as Iran's primary seaport in the northern Gulf.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_GENERIC_AKKADIAN_MOD_INFLUENTIAL_ON_AI_1">
+			<Text>My country's school system has suddenly decided to drop the alphabet in favour of cuneiform... I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_AKKADIAN_MOD_GILGAMESH">
+			<Text>Baba</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- -->
+	</Language_en_US>
+</GameData>

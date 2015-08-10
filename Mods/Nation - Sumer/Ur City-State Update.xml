@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<!--
+	<Civilization_CityNames>
+		<Delete CivilizationType="CIVILIZATION_ARABIA" CityName="TXT_KEY_CITY_NAME_MUSCAT"/>
+	</Civilization_CityNames>
+	<MinorCivilizations>
+		<Update>
+			<Where Type="MINOR_CIV_UR"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_MOD_OMAN</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_MOD_OMAN</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_MOD_OMAN_ADJ</Adjective>
+				<Civilopedia>TXT_KEY_CITYSTATE_MOD_OMAN_PEDIA</Civilopedia>
+			</Set>
+		</Update>
+	</MinorCivilizations>
+	<MinorCivilization_CityNames>
+		<Delete MinorCivType="MINOR_CIV_UR" CityName="TXT_KEY_CITYSTATE_UR"/>
+		<Row>
+			<MinorCivType>MINOR_CIV_UR</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_MOD_OMAN</CityName>
+		</Row>
+	</MinorCivilization_CityNames>	
+	-->
+	<MinorCivilizations>
+		<Update>
+			<Where Type="MINOR_CIV_UR"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_MOD_LIYAN</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_MOD_LIYAN</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_MOD_LIYAN_ADJ</Adjective>
+				<Civilopedia>TXT_KEY_CITYSTATE_MOD_LIYAN_PEDIA</Civilopedia>
+			</Set>
+		</Update>
+	</MinorCivilizations>
+	<MinorCivilization_CityNames>
+		<Delete MinorCivType="MINOR_CIV_UR" CityName="TXT_KEY_CITYSTATE_UR"/>
+		<Row>
+			<MinorCivType>MINOR_CIV_UR</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_MOD_LIYAN</CityName>
+		</Row>
+	</MinorCivilization_CityNames>
+</GameData>

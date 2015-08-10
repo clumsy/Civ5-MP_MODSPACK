@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_MOD_XP_BONUS</Type>
+			<Description>TXT_KEY_PROMOTION_VULTURE_XP_BONUS</Description>
+			<Help>TXT_KEY_PROMOTION_VULTURE_XP_BONUS_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_VULTURE_XP_BONUS</PediaEntry>
+		</Row>
+		<Row>
+			<Type>PROMOTION_VULTURE_MOD_RIVERMOVEMENT</Type>
+			<Description>TXT_KEY_PROMOTION_VULTURE_MOD_RIVERMOVEMENT</Description>
+			<Help>TXT_KEY_PROMOTION_VULTURE_MOD_RIVERMOVEMENT_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>33</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>NULL</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_VULTURE_MOD_RIVERMOVEMENT</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+		</Row>
+		<Row>
+			<Type>PROMOTION_VULTURE_MOD_RIVERMOVEMENT_II</Type>
+			<Description>TXT_KEY_PROMOTION_VULTURE_MOD_RIVERMOVEMENT</Description>
+			<Help>TXT_KEY_PROMOTION_VULTURE_MOD_RIVERMOVEMENT_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>33</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_VULTURE_MOD_RIVERMOVEMENT</PediaEntry>
+			<IgnoreTerrainCost>true</IgnoreTerrainCost>
+			<CannotBeChosen>true</CannotBeChosen>
+		</Row>		
+	</UnitPromotions>
+</GameData>

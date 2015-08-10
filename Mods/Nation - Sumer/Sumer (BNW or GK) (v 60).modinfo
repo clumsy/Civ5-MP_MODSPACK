@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="7dbedfbe-cce4-49cd-a2ac-3507e38f4bd4" version="60">
+  <Properties>
+    <Name>Sumer (BNW or GK)</Name>
+    <Teaser>Adds Sumer to the base game. Requires either the Brave New World or Gods and Kings expansions.</Teaser>
+    <Description>Adds Sumer to the base game.
+[NEWLINE][NEWLINE]~~~
+[NEWLINE][NEWLINE]Note: 
+[NEWLINE]- Requires either the Brave New World or Gods and Kings expansions.
+[NEWLINE]- Updates to the Mod will most likely break save games. Please do not update until you are ready to begin a new game.
+[NEWLINE][NEWLINE]~~~
+[NEWLINE][NEWLINE]Leader: Gilgamesh
+[NEWLINE][NEWLINE]UA: Cradle of Civilization
+[NEWLINE]UU: Vulture
+[NEWLINE]UB: Ziggurat</Description>
+    <Authors>Tomatekh</Authors>
+    <SpecialThanks>Ambrox62, Janboruta, JFD, Sukritact, Leugi, Irkalla, Pouakai, Chrissifniotis</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <Homepage>http://forums.civfanatics.com/showthread.php?t=472751</Homepage>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>60</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+    <Dlc id="BBB0D085-A0B1-4475-B007-3E549CF3ADC3" minversion="0" maxversion="999" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events and Decisions" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="Cultural Diversity" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Cultural Influence" />
+    <Mod id="43868e8d-de88-48a1-a8d9-ce144e07f5e0" minversion="0" maxversion="999" title="ExCE" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="C. Patch" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="C. Balance Patch" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D." />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="Piety" />
+    <Mod id="d99bf7aa-51ac-4bef-bd88-d765b28e260e" minversion="0" maxversion="999" title="Prestige" />
+  </References>
+  <Blocks>
+    <Mod id="2626e6a3-a0fd-478d-a5ab-0d9dee67ed0a" minversion="0" maxversion="999" title="YnAEMP Patch" />
+  </Blocks>
+  <Files>
+    <File md5="780386975A12D715ED55CC3AC8337F48" import="1">Art/Project Civ/Atlas/SumerModAtlas128.dds</File>
+    <File md5="CB6AA9F6919BEC928C53323EDF1F709B" import="1">Art/Project Civ/Atlas/SumerModAtlas214.dds</File>
+    <File md5="D6DAEBB83AECFF4C27F6E2BA3E4C5726" import="1">Art/Project Civ/Atlas/SumerModAtlas256.dds</File>
+    <File md5="AEB966E8A149F53FAE7840395BF278C0" import="1">Art/Project Civ/Atlas/SumerModAtlas32.dds</File>
+    <File md5="821F1D17B2C02D1AFD4E95ECCC090DA0" import="1">Art/Project Civ/Atlas/SumerModAtlas45.dds</File>
+    <File md5="82361810052212C142EEEB3B11D55247" import="1">Art/Project Civ/Atlas/SumerModAtlas64.dds</File>
+    <File md5="EE6721EB721696F9D1B92469574FB715" import="1">Art/Project Civ/Atlas/SumerModAtlas80.dds</File>
+    <File md5="E567999F81D0F5D64C75ACF50FA29F5B" import="1">Art/Project Civ/SumerDiploMod.dds</File>
+    <File md5="8B4D996CB90A24C5CCE560CBB8FC0DA4" import="1">Art/Project Civ/SumerDOMMod.dds</File>
+    <File md5="EC36180294414E2A04AF72FDF983E045" import="1">Art/Project Civ/SumerMapMod.dds</File>
+    <File md5="2F50A34F44247CD1B769E4B1BBEBA4B9" import="1">Art/SumerAlphaAtlas/SumerAlphaAtlas128.dds</File>
+    <File md5="B67963E016E6FF8B760CD1C65788523A" import="1">Art/SumerAlphaAtlas/SumerAlphaAtlas16.dds</File>
+    <File md5="3A5DB98C6FA87B736128EE531B7D1EC5" import="1">Art/SumerAlphaAtlas/SumerAlphaAtlas24.dds</File>
+    <File md5="2ACDAC6E67FB57EF2D1AC8B4C0385F1D" import="1">Art/SumerAlphaAtlas/SumerAlphaAtlas32.dds</File>
+    <File md5="AD94F2609915BFCF38274B49431F10DB" import="1">Art/SumerAlphaAtlas/SumerAlphaAtlas48.dds</File>
+    <File md5="4206BB62CC9F1A329D2CF441BC78939B" import="1">Art/SumerAlphaAtlas/SumerAlphaAtlas64.dds</File>
+    <File md5="4B8F21A3FFD7305DB0E2A43E9E6E5966" import="1">Art/SumerUnit/SumerUnitAtlas/SumerUnitAlphaAtlas.dds</File>
+    <File md5="D65456D54E41ACE1AFF2C8F4677F53E7" import="1">Art/SumerUnit/SumerUnitAtlas/sv_SumerUnitMod.dds</File>
+    <File md5="8201ED39C4D4646D34A2181644B12334" import="1">Art/SumerUnit/vulture.fxsxml</File>
+    <File md5="EFAB666C1AB8EBA10C87885C617A5A94" import="1">Art/SumerUnit/vulture.gr2</File>
+    <File md5="9E658095B4D33003732E1553BC52AA26" import="1">Art/SumerUnit/vulture2.fxsxml</File>
+    <File md5="2DD63C149DF6C660BC3CDF50BF887151" import="1">Art/SumerUnit/vulture2.gr2</File>
+    <File md5="7160D05858C62272CAD8A8D92A370DB6" import="1">Art/SumerUnit/vulture2_diff.dds</File>
+    <File md5="DFE7BBB33622172BD3896EB140EDA52A" import="1">Art/SumerUnit/vulture2_sref.dds</File>
+    <File md5="DFA3C337191B10805911DC8E471DE92B" import="0">BNW/Sumer BNW Edits.xml</File>
+    <File md5="30988ABDC8B02504DD85A6EE59ADA1A4" import="0">Decisions/Sumer Decisions SQL.sql</File>
+    <File md5="4DF0A19A32DA5934A9D3C9A51177BA53" import="0">Decisions/Sumer Decisions Support.xml</File>
+    <File md5="96222254BABBC7693C8375812FC1B0C3" import="1">Decisions/TomatekhSumerDecisions.lua</File>
+    <File md5="9577055F40482A2EE8EBFCE4E524EC13" import="1">Decisions/TomatekhSumerEvents.lua</File>
+    <File md5="0783D529B76DE7DC331BB6D951C7FD7C" import="0">LUA/Sumer Mod Check.lua</File>
+    <File md5="208647D330C22D462ABB8F83A9492BA1" import="1">LUA/Sumer Pop Script.lua</File>
+    <File md5="089F1987E1A4C5E3FDDA9CB91446AF4C" import="1">Sounds/GilgameshPeace.ogg</File>
+    <File md5="119F28BB688C7419A07FB5A8547E679F" import="1">Sounds/GilgameshWar.mp3</File>
+    <File md5="27688CAC85B0BBE22357E666A9D9BCD5" import="1">Sounds/SumerDoM.mp3</File>
+    <File md5="782779DBABAD502E0B6FD2688CEEDBF9" import="1">SQL/Sumer Unit Skin Mod.sql</File>
+    <File md5="FA07B0139D99ADA797B0F779DC10E026" import="0">SQL/Sumer Mod Support.sql</File>
+    <File md5="9A4F149CBFF9E997CE30DF64A184DE99" import="1">XML/Art/Akkadian_Leader_Scene_Mod.xml</File>
+    <File md5="8A4061D3E8A2AFE181CEED65DB3CE4D2" import="0">XML/Art/Sumer Atlas Mod.xml</File>
+    <File md5="3B53AAB05A40801BCF8DD03BF8D068E3" import="0">XML/Buildings/Akkadian Building Mod.xml</File>
+    <File md5="AF6E024B703EC1F09115CB1384929DDB" import="0">XML/City-State Update/Ur City-State Update.xml</File>
+    <File md5="271C6A7B5398D12A15EEC6CAA4F2C9C8" import="0">XML/Civilizations/Akkadian Civ Mod.xml</File>
+    <File md5="420C29B5242BA734257D5BC74C7BAFA1" import="0">XML/Civilizations/Akkadian Leader Mod.xml</File>
+    <File md5="3EF1E83D37D1ABDAAAA9744361ECD447" import="0">XML/Civilizations/Akkadian Traits Mod.xml</File>
+    <File md5="9995D913C2C22638DF6449BD31EB2B27" import="0">XML/Diplomacy/Akkadian Diplomacy Mod.xml</File>
+    <File md5="A4155850629465E573200325E0E904D7" import="0">XML/Sounds/Akkadian Sound Mod.xml</File>
+    <File md5="99703B956FFCF7BED7038968744AE9FA" import="0">XML/Text/Akkadian Game Text Mod.xml</File>
+    <File md5="5FD55AFC3393B630E603D0CFC9AE2C14" import="0">XML/Text/Non English XML Tags/Akkadian Game Text DE_DE.xml</File>
+    <File md5="CC7DB1E69EEBA77A888259C28B2AF5C7" import="0">XML/Text/Non English XML Tags/Akkadian Game Text ES_ES.xml</File>
+    <File md5="4604E55C74CCAFFA54285258217F0B59" import="0">XML/Text/Non English XML Tags/Akkadian Game Text FR_FR.xml</File>
+    <File md5="A7E49CF4294B9D933DF0AE910838CD63" import="0">XML/Text/Non English XML Tags/Akkadian Game Text IT_IT.xml</File>
+    <File md5="CD824CBB6094A3D4B16867F0EE26FC70" import="0">XML/Text/Non English XML Tags/Akkadian Game Text JA_JP.xml</File>
+    <File md5="1594BC0201C828DBA1DC3903370499F6" import="0">XML/Text/Non English XML Tags/Akkadian Game Text KO_KR.xml</File>
+    <File md5="6B259A22D0313848AE8BD36C455345FE" import="0">XML/Text/Non English XML Tags/Akkadian Game Text PL_PL.xml</File>
+    <File md5="6EF215976ECC53CFD6529D019F6C667A" import="0">XML/Text/Non English XML Tags/Akkadian Game Text RU_RU.xml</File>
+    <File md5="460DC454408F5F6A1DD75DD7901F579A" import="0">XML/Units/Akkadian Promotions Mod.xml</File>
+    <File md5="469B9E41ED35F277B1C4B4F6994AB981" import="0">XML/Units/Akkadian Units Mod.xml</File>
+    <File md5="C9D36A389F9CE9A53E44095C65B8AF3A" import="0">YnAEMP/Sumer YnAEMP Compatability.sql</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>SQL/Sumer Unit Skin Mod.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Art/Sumer Atlas Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Akkadian Building Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/City-State Update/Ur City-State Update.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Akkadian Civ Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Akkadian Leader Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Akkadian Traits Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Diplomacy/Akkadian Diplomacy Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/Akkadian Units Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/Akkadian Promotions Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Sounds/Akkadian Sound Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Akkadian Game Text Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Akkadian Game Text DE_DE.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Akkadian Game Text ES_ES.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Akkadian Game Text FR_FR.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Akkadian Game Text IT_IT.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Akkadian Game Text JA_JP.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Akkadian Game Text KO_KR.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Akkadian Game Text PL_PL.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Akkadian Game Text RU_RU.xml</UpdateDatabase>
+      <UpdateDatabase>BNW/Sumer BNW Edits.xml</UpdateDatabase>
+      <UpdateDatabase>YnAEMP/Sumer YnAEMP Compatability.sql</UpdateDatabase>
+      <UpdateDatabase>Decisions/Sumer Decisions SQL.sql</UpdateDatabase>
+      <UpdateDatabase>Decisions/Sumer Decisions Support.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Sumer Mod Support.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="LUA/Sumer Mod Check.lua">
+      <Name>Pop</Name>
+      <Description>Pop</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

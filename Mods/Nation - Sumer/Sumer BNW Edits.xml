@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_SUMER_DUMMY</Type>
+			<BuildingClass>BUILDINGCLASS_SUMER_DUMMY</BuildingClass>
+			<!-- Invisible Buildings -->
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!-- Invisible Buildings -->
+			<Description>TXT_KEY_BUILDING_SUMER_DUMMY_DESC</Description>
+			<Civilopedia>TXT_KEY_CIVLOPEDIA_SUMER_DUMMY_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_SUMER_DUMMY_STRATEGY</Strategy>
+			<ArtDefineTag>TEMPLE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>NEB_BW_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+		</Row>
+		<Row>
+			<Type>BUILDING_AKKADIAN_MOD_ZIGGURAT_DUMMY</Type>
+			<BuildingClass>BUILDINGCLASS_AKKADIAN_MOD_ZIGGURAT_DUMMY</BuildingClass>
+			<!-- Invisible Buildings -->
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!-- Invisible Buildings -->
+			<Description>TXT_KEY_BUILDING_SUMER_DUMMY_DESC_TWO</Description>
+			<Civilopedia>TXT_KEY_CIVLOPEDIA_SUMER_DUMMY_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_SUMER_DUMMY_STRATEGY</Strategy>
+			<ArtDefineTag>TEMPLE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>NEB_BW_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+		</Row>
+		<Row>
+			<Type>BUILDING_AKKADIAN_MOD_ZIGGURAT_DECISIONS_DUMMY</Type>
+			<BuildingClass>BUILDINGCLASS_AKKADIAN_MOD_DECISIONS_DUMMY</BuildingClass>
+			<!-- Invisible Buildings -->
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!-- Invisible Buildings -->
+			<Description>TXT_KEY_BUILDING_SUMER_DUMMY_DECISIONS_DESC_TWO</Description>
+			<Civilopedia>TXT_KEY_CIVLOPEDIA_SUMER_DUMMY_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_SUMER_DUMMY_STRATEGY</Strategy>
+			<ArtDefineTag>TEMPLE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>NEB_BW_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+		</Row>
+		<Update>
+			<Where Type="BUILDING_AKKADIAN_MOD_ZIGGURAT"/>
+			<Set>
+				<PrereqTech>TECH_PHILOSOPHY</PrereqTech>
+				<Strategy>TXT_KEY_BUILDING_AKKADIAN_MOD_ZIGGURAT_STRATEGY_EDIT</Strategy>
+				<Help>TXT_KEY_BUILDING_AKKADIAN_MOD_ZIGGURAT_HELP_EDIT</Help>
+				<SpecialistType>SPECIALIST_SCIENTIST</SpecialistType>
+				<SpecialistCount>1</SpecialistCount>
+				<ConquestProb>66</ConquestProb>
+			</Set>
+		</Update>
+	</Buildings>
+	<Units>
+		<Row>
+			<Class>UNITCLASS_SUMER_WHEAT_DUMMY</Class>
+			<Type>UNIT_SUMER_WHEAT_DUMMY</Type>
+			<Moves>0</Moves>
+			<Cost>-1</Cost>
+			<Description>TXT_KEY_UNIT_SUMER_WHEAT_DUMMY_DESC</Description>
+			<ShowInPedia>false</ShowInPedia>
+			<CombatLimit>0</CombatLimit>
+			<UnitArtInfo>ART_DEF_UNIT__SETTLER</UnitArtInfo>
+			<UnitFlagIconOffset>82</UnitFlagIconOffset>
+			<PortraitIndex>6</PortraitIndex>
+			<IconAtlas>RESOURCE_ATLAS</IconAtlas>
+		</Row>
+	</Units>
+	<UnitClasses>
+		<Row>
+			<Type>UNITCLASS_SUMER_WHEAT_DUMMY</Type>
+			<Description>TXT_KEY_UNIT_SUMER_WHEAT_DUMMY_DESC</Description>
+			<DefaultUnit>UNIT_SUMER_WHEAT_DUMMY</DefaultUnit>
+		</Row>
+	</UnitClasses>
+	<Civilization_UnitClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<UnitClassType>UNITCLASS_SUMER_WHEAT_DUMMY</UnitClassType>
+			<UnitType/>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MINOR</CivilizationType>
+			<UnitClassType>UNITCLASS_SUMER_WHEAT_DUMMY</UnitClassType>
+			<UnitType/>
+		</Row>
+	</Civilization_UnitClassOverrides>
+	<Building_YieldModifiers>
+		<Delete BuildingType="BUILDING_AKKADIAN_MOD_ZIGGURAT"/>
+	</Building_YieldModifiers>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_SUMER_DUMMY</BuildingType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<Building_SpecialistYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_AKKADIAN_MOD_ZIGGURAT_DUMMY</BuildingType>
+			<SpecialistType>SPECIALIST_SCIENTIST</SpecialistType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<!-- --> 
+		<Row>
+			<BuildingType>BUILDING_AKKADIAN_MOD_ZIGGURAT_DUMMY</BuildingType>
+			<SpecialistType>SPECIALIST_ARTIST</SpecialistType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_AKKADIAN_MOD_ZIGGURAT_DUMMY</BuildingType>
+			<SpecialistType>SPECIALIST_MERCHANT</SpecialistType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_AKKADIAN_MOD_ZIGGURAT_DUMMY</BuildingType>
+			<SpecialistType>SPECIALIST_ENGINEER</SpecialistType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_AKKADIAN_MOD_ZIGGURAT_DUMMY</BuildingType>
+			<SpecialistType>SPECIALIST_WRITER</SpecialistType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_AKKADIAN_MOD_ZIGGURAT_DUMMY</BuildingType>
+			<SpecialistType>SPECIALIST_MUSICIAN</SpecialistType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_AKKADIAN_MOD_ZIGGURAT_DUMMY</BuildingType>
+			<SpecialistType>SPECIALIST_JFD_MONK</SpecialistType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<!-- -->
+		<!-- Decisions -->
+		<Row>
+			<BuildingType>BUILDING_AKKADIAN_MOD_ZIGGURAT_DECISIONS_DUMMY</BuildingType>
+			<SpecialistType>SPECIALIST_ARTIST</SpecialistType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_AKKADIAN_MOD_ZIGGURAT_DECISIONS_DUMMY</BuildingType>
+			<SpecialistType>SPECIALIST_SCIENTIST</SpecialistType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_AKKADIAN_MOD_ZIGGURAT_DECISIONS_DUMMY</BuildingType>
+			<SpecialistType>SPECIALIST_MERCHANT</SpecialistType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_AKKADIAN_MOD_ZIGGURAT_DECISIONS_DUMMY</BuildingType>
+			<SpecialistType>SPECIALIST_ENGINEER</SpecialistType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_AKKADIAN_MOD_ZIGGURAT_DECISIONS_DUMMY</BuildingType>
+			<SpecialistType>SPECIALIST_WRITER</SpecialistType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_AKKADIAN_MOD_ZIGGURAT_DECISIONS_DUMMY</BuildingType>
+			<SpecialistType>SPECIALIST_MUSICIAN</SpecialistType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_AKKADIAN_MOD_ZIGGURAT_DECISIONS_DUMMY</BuildingType>
+			<SpecialistType>SPECIALIST_JFD_MONK</SpecialistType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<!-- -->		
+	</Building_SpecialistYieldChanges>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_SUMER_DUMMY</Type>
+			<DefaultBuilding>BUILDING_SUMER_DUMMY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_SUMER_DUMMY_DESC</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_AKKADIAN_MOD_ZIGGURAT_DUMMY</Type>
+			<DefaultBuilding>BUILDING_AKKADIAN_MOD_ZIGGURAT_DUMMY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_SUMER_DUMMY_DESC_TWO</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_AKKADIAN_MOD_DECISIONS_DUMMY</Type>
+			<DefaultBuilding>BUILDING_AKKADIAN_MOD_ZIGGURAT_DECISIONS_DUMMY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_SUMER_DUMMY_DECISIONS_DESC_TWO</Description>
+		</Row>
+	</BuildingClasses>
+	<Civilization_BuildingClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_SUMER_DUMMY</BuildingClassType>
+			<BuildingType/>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MINOR</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_SUMER_DUMMY</BuildingClassType>
+			<BuildingType/>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_AKKADIAN_MOD_ZIGGURAT_DUMMY</BuildingClassType>
+			<BuildingType/>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MINOR</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_AKKADIAN_MOD_ZIGGURAT_DUMMY</BuildingClassType>
+			<BuildingType/>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_AKKADIAN_MOD_DECISIONS_DUMMY</BuildingClassType>
+			<BuildingType/>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MINOR</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_AKKADIAN_MOD_DECISIONS_DUMMY</BuildingClassType>
+			<BuildingType/>
+		</Row>
+	</Civilization_BuildingClassOverrides>
+	<UnitPromotions>
+		<Update>
+			<Where Type="PROMOTION_MOD_XP_BONUS"/>
+			<Set>
+				<PortraitIndex>6</PortraitIndex>
+				<IconAtlas>EXPANSION2_PROMOTION_ATLAS</IconAtlas>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="PROMOTION_AKKADIAN_MOD_VULTURE"/>
+			<Set>
+				<PortraitIndex>12</PortraitIndex>
+				<IconAtlas>EXPANSION2_PROMOTION_ATLAS</IconAtlas>
+			</Set>
+		</Update>
+	</UnitPromotions>
+	<Language_en_US>
+		<Update>
+			<Where Tag="TXT_KEY_TRAIT_CRADLE_OF_CIVILIZATION"/>
+			<Set Text="Newly founded Cities start with +1 [ICON_CITIZEN] Population. Bonus increases to +2 [ICON_CITIZEN] Population if the City is settled adjacent to a River."/>
+		</Update>
+		<Row Tag="TXT_KEY_BUILDING_SUMER_DUMMY_DESC">
+			<Text>Sumer Faith Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUMER_DUMMY_DESC_TWO">
+			<Text>Sumer Interface Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUMER_DUMMY_DECISIONS_DESC_TWO">
+			<Text>Summer Decision Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SUMER_WHEAT_DUMMY_DESC">
+			<Text>Summer Wheat Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SUMER_DUMMY_TEXT">
+			<Text>The Abgal are seven Sumerian sages, demigods who are said to have been created by the god Enki to establish culture and give civilization to mankind. They served as priests of Enki and as advisors or sages to the earliest rulers of Sumer before the flood. They are credited with giving mankind the Me (moral code), the crafts, and the arts. They were seen as fish-like men who emerged from the sweet water Abzu. They are commonly represented as having the lower torso of a fish, or dressed as a fish.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUMER_DUMMY_STRATEGY">
+			<Text>This building cannot be constructed but rather facilitates Sumer's unique abilities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AKKADIAN_MOD_ZIGGURAT_HELP_EDIT">
+			<Text>+1 [ICON_PEACE] Faith from Specialists in this City.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AKKADIAN_MOD_ZIGGURAT_STRATEGY_EDIT">
+			<Text>The Ziggurat is the Sumerian unique building, replacing the Temple. Its primarily benefit is in providing one Scientist Specialist slot. Additionally, all Specialists within the City will also generate [ICON_PEACE] Faith once the Ziggurat is constructed.</Text>
+		</Row>
+	</Language_en_US>
+	<Language_RU_RU>
+		<Update>
+			<Where Tag="TXT_KEY_TRAIT_CRADLE_OF_CIVILIZATION"/>
+			<Set Text="Newly founded Cities start with +1 [ICON_CITIZEN] Population. Bonus increases to +2 [ICON_CITIZEN] Population if the City is settled adjacent to a River."/>
+		</Update>
+		<Row Tag="TXT_KEY_BUILDING_SUMER_DUMMY_DESC">
+			<Text>Sumer Faith Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUMER_DUMMY_DESC_TWO">
+			<Text>Sumer Interface Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUMER_DUMMY_DECISIONS_DESC_TWO">
+			<Text>Summer Decision Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SUMER_WHEAT_DUMMY_DESC">
+			<Text>Summer Wheat Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SUMER_DUMMY_TEXT">
+			<Text>The Abgal are seven Sumerian sages, demigods who are said to have been created by the god Enki to establish culture and give civilization to mankind. They served as priests of Enki and as advisors or sages to the earliest rulers of Sumer before the flood. They are credited with giving mankind the Me (moral code), the crafts, and the arts. They were seen as fish-like men who emerged from the sweet water Abzu. They are commonly represented as having the lower torso of a fish, or dressed as a fish.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUMER_DUMMY_STRATEGY">
+			<Text>This building cannot be constructed but rather facilitates Sumer's unique abilities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AKKADIAN_MOD_ZIGGURAT_HELP_EDIT">
+			<Text>+1 [ICON_PEACE] Faith from Specialists in this City.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AKKADIAN_MOD_ZIGGURAT_STRATEGY_EDIT">
+			<Text>The Ziggurat is the Sumerian unique building, replacing the Temple. Its primarily benefit is in providing one Scientist Specialist slot. Additionally, all Specialists within the City will also generate [ICON_PEACE] Faith once the Ziggurat is constructed.</Text>
+		</Row>
+	</Language_RU_RU>
+	<Language_PL_PL>
+		<Update>
+			<Where Tag="TXT_KEY_TRAIT_CRADLE_OF_CIVILIZATION"/>
+			<Set Text="Newly founded Cities start with +1 [ICON_CITIZEN] Population. Bonus increases to +2 [ICON_CITIZEN] Population if the City is settled adjacent to a River."/>
+		</Update>
+		<Row Tag="TXT_KEY_BUILDING_SUMER_DUMMY_DESC">
+			<Text>Sumer Faith Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUMER_DUMMY_DESC_TWO">
+			<Text>Sumer Interface Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUMER_DUMMY_DECISIONS_DESC_TWO">
+			<Text>Summer Decision Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SUMER_WHEAT_DUMMY_DESC">
+			<Text>Summer Wheat Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SUMER_DUMMY_TEXT">
+			<Text>The Abgal are seven Sumerian sages, demigods who are said to have been created by the god Enki to establish culture and give civilization to mankind. They served as priests of Enki and as advisors or sages to the earliest rulers of Sumer before the flood. They are credited with giving mankind the Me (moral code), the crafts, and the arts. They were seen as fish-like men who emerged from the sweet water Abzu. They are commonly represented as having the lower torso of a fish, or dressed as a fish.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUMER_DUMMY_STRATEGY">
+			<Text>This building cannot be constructed but rather facilitates Sumer's unique abilities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AKKADIAN_MOD_ZIGGURAT_HELP_EDIT">
+			<Text>+1 [ICON_PEACE] Faith from Specialists in this City.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AKKADIAN_MOD_ZIGGURAT_STRATEGY_EDIT">
+			<Text>The Ziggurat is the Sumerian unique building, replacing the Temple. Its primarily benefit is in providing one Scientist Specialist slot. Additionally, all Specialists within the City will also generate [ICON_PEACE] Faith once the Ziggurat is constructed.</Text>
+		</Row>
+	</Language_PL_PL>
+	<Language_KO_KR>
+		<Update>
+			<Where Tag="TXT_KEY_TRAIT_CRADLE_OF_CIVILIZATION"/>
+			<Set Text="Newly founded Cities start with +1 [ICON_CITIZEN] Population. Bonus increases to +2 [ICON_CITIZEN] Population if the City is settled adjacent to a River."/>
+		</Update>
+		<Row Tag="TXT_KEY_BUILDING_SUMER_DUMMY_DESC">
+			<Text>Sumer Faith Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUMER_DUMMY_DESC_TWO">
+			<Text>Sumer Interface Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUMER_DUMMY_DECISIONS_DESC_TWO">
+			<Text>Summer Decision Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SUMER_WHEAT_DUMMY_DESC">
+			<Text>Summer Wheat Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SUMER_DUMMY_TEXT">
+			<Text>The Abgal are seven Sumerian sages, demigods who are said to have been created by the god Enki to establish culture and give civilization to mankind. They served as priests of Enki and as advisors or sages to the earliest rulers of Sumer before the flood. They are credited with giving mankind the Me (moral code), the crafts, and the arts. They were seen as fish-like men who emerged from the sweet water Abzu. They are commonly represented as having the lower torso of a fish, or dressed as a fish.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUMER_DUMMY_STRATEGY">
+			<Text>This building cannot be constructed but rather facilitates Sumer's unique abilities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AKKADIAN_MOD_ZIGGURAT_HELP_EDIT">
+			<Text>+1 [ICON_PEACE] Faith from Specialists in this City.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AKKADIAN_MOD_ZIGGURAT_STRATEGY_EDIT">
+			<Text>The Ziggurat is the Sumerian unique building, replacing the Temple. Its primarily benefit is in providing one Scientist Specialist slot. Additionally, all Specialists within the City will also generate [ICON_PEACE] Faith once the Ziggurat is constructed.</Text>
+		</Row>
+	</Language_KO_KR>
+	<Language_JA_JP>
+		<Update>
+			<Where Tag="TXT_KEY_TRAIT_CRADLE_OF_CIVILIZATION"/>
+			<Set Text="Newly founded Cities start with +1 [ICON_CITIZEN] Population. Bonus increases to +2 [ICON_CITIZEN] Population if the City is settled adjacent to a River."/>
+		</Update>
+		<Row Tag="TXT_KEY_BUILDING_SUMER_DUMMY_DESC">
+			<Text>Sumer Faith Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUMER_DUMMY_DESC_TWO">
+			<Text>Sumer Interface Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUMER_DUMMY_DECISIONS_DESC_TWO">
+			<Text>Summer Decision Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SUMER_WHEAT_DUMMY_DESC">
+			<Text>Summer Wheat Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SUMER_DUMMY_TEXT">
+			<Text>The Abgal are seven Sumerian sages, demigods who are said to have been created by the god Enki to establish culture and give civilization to mankind. They served as priests of Enki and as advisors or sages to the earliest rulers of Sumer before the flood. They are credited with giving mankind the Me (moral code), the crafts, and the arts. They were seen as fish-like men who emerged from the sweet water Abzu. They are commonly represented as having the lower torso of a fish, or dressed as a fish.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUMER_DUMMY_STRATEGY">
+			<Text>This building cannot be constructed but rather facilitates Sumer's unique abilities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AKKADIAN_MOD_ZIGGURAT_HELP_EDIT">
+			<Text>+1 [ICON_PEACE] Faith from Specialists in this City.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AKKADIAN_MOD_ZIGGURAT_STRATEGY_EDIT">
+			<Text>The Ziggurat is the Sumerian unique building, replacing the Temple. Its primarily benefit is in providing one Scientist Specialist slot. Additionally, all Specialists within the City will also generate [ICON_PEACE] Faith once the Ziggurat is constructed.</Text>
+		</Row>
+	</Language_JA_JP>
+	<Language_IT_IT>
+		<Update>
+			<Where Tag="TXT_KEY_TRAIT_CRADLE_OF_CIVILIZATION"/>
+			<Set Text="Newly founded Cities start with +1 [ICON_CITIZEN] Population. Bonus increases to +2 [ICON_CITIZEN] Population if the City is settled adjacent to a River."/>
+		</Update>
+		<Row Tag="TXT_KEY_BUILDING_SUMER_DUMMY_DESC">
+			<Text>Sumer Faith Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUMER_DUMMY_DESC_TWO">
+			<Text>Sumer Interface Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUMER_DUMMY_DECISIONS_DESC_TWO">
+			<Text>Summer Decision Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SUMER_WHEAT_DUMMY_DESC">
+			<Text>Summer Wheat Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SUMER_DUMMY_TEXT">
+			<Text>The Abgal are seven Sumerian sages, demigods who are said to have been created by the god Enki to establish culture and give civilization to mankind. They served as priests of Enki and as advisors or sages to the earliest rulers of Sumer before the flood. They are credited with giving mankind the Me (moral code), the crafts, and the arts. They were seen as fish-like men who emerged from the sweet water Abzu. They are commonly represented as having the lower torso of a fish, or dressed as a fish.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUMER_DUMMY_STRATEGY">
+			<Text>This building cannot be constructed but rather facilitates Sumer's unique abilities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AKKADIAN_MOD_ZIGGURAT_HELP_EDIT">
+			<Text>+1 [ICON_PEACE] Faith from Specialists in this City.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AKKADIAN_MOD_ZIGGURAT_STRATEGY_EDIT">
+			<Text>The Ziggurat is the Sumerian unique building, replacing the Temple. Its primarily benefit is in providing one Scientist Specialist slot. Additionally, all Specialists within the City will also generate [ICON_PEACE] Faith once the Ziggurat is constructed.</Text>
+		</Row>
+	</Language_IT_IT>
+	<Language_FR_FR>
+		<Update>
+			<Where Tag="TXT_KEY_TRAIT_CRADLE_OF_CIVILIZATION"/>
+			<Set Text="Newly founded Cities start with +1 [ICON_CITIZEN] Population. Bonus increases to +2 [ICON_CITIZEN] Population if the City is settled adjacent to a River."/>
+		</Update>
+		<Row Tag="TXT_KEY_BUILDING_SUMER_DUMMY_DESC">
+			<Text>Sumer Faith Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUMER_DUMMY_DESC_TWO">
+			<Text>Sumer Interface Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUMER_DUMMY_DECISIONS_DESC_TWO">
+			<Text>Summer Decision Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SUMER_WHEAT_DUMMY_DESC">
+			<Text>Summer Wheat Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SUMER_DUMMY_TEXT">
+			<Text>The Abgal are seven Sumerian sages, demigods who are said to have been created by the god Enki to establish culture and give civilization to mankind. They served as priests of Enki and as advisors or sages to the earliest rulers of Sumer before the flood. They are credited with giving mankind the Me (moral code), the crafts, and the arts. They were seen as fish-like men who emerged from the sweet water Abzu. They are commonly represented as having the lower torso of a fish, or dressed as a fish.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUMER_DUMMY_STRATEGY">
+			<Text>This building cannot be constructed but rather facilitates Sumer's unique abilities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AKKADIAN_MOD_ZIGGURAT_HELP_EDIT">
+			<Text>+1 [ICON_PEACE] Faith from Specialists in this City.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AKKADIAN_MOD_ZIGGURAT_STRATEGY_EDIT">
+			<Text>The Ziggurat is the Sumerian unique building, replacing the Temple. Its primarily benefit is in providing one Scientist Specialist slot. Additionally, all Specialists within the City will also generate [ICON_PEACE] Faith once the Ziggurat is constructed.</Text>
+		</Row>
+	</Language_FR_FR>
+	<Language_ES_ES>
+		<Update>
+			<Where Tag="TXT_KEY_TRAIT_CRADLE_OF_CIVILIZATION"/>
+			<Set Text="Newly founded Cities start with +1 [ICON_CITIZEN] Population. Bonus increases to +2 [ICON_CITIZEN] Population if the City is settled adjacent to a River."/>
+		</Update>
+		<Row Tag="TXT_KEY_BUILDING_SUMER_DUMMY_DESC">
+			<Text>Sumer Faith Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUMER_DUMMY_DESC_TWO">
+			<Text>Sumer Interface Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUMER_DUMMY_DECISIONS_DESC_TWO">
+			<Text>Summer Decision Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SUMER_WHEAT_DUMMY_DESC">
+			<Text>Summer Wheat Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SUMER_DUMMY_TEXT">
+			<Text>The Abgal are seven Sumerian sages, demigods who are said to have been created by the god Enki to establish culture and give civilization to mankind. They served as priests of Enki and as advisors or sages to the earliest rulers of Sumer before the flood. They are credited with giving mankind the Me (moral code), the crafts, and the arts. They were seen as fish-like men who emerged from the sweet water Abzu. They are commonly represented as having the lower torso of a fish, or dressed as a fish.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUMER_DUMMY_STRATEGY">
+			<Text>This building cannot be constructed but rather facilitates Sumer's unique abilities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AKKADIAN_MOD_ZIGGURAT_HELP_EDIT">
+			<Text>+1 [ICON_PEACE] Faith from Specialists in this City.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AKKADIAN_MOD_ZIGGURAT_STRATEGY_EDIT">
+			<Text>The Ziggurat is the Sumerian unique building, replacing the Temple. Its primarily benefit is in providing one Scientist Specialist slot. Additionally, all Specialists within the City will also generate [ICON_PEACE] Faith once the Ziggurat is constructed.</Text>
+		</Row>
+	</Language_ES_ES>
+	<Language_DE_DE>
+		<Update>
+			<Where Tag="TXT_KEY_TRAIT_CRADLE_OF_CIVILIZATION"/>
+			<Set Text="Newly founded Cities start with +1 [ICON_CITIZEN] Population. Bonus increases to +2 [ICON_CITIZEN] Population if the City is settled adjacent to a River."/>
+		</Update>
+		<Row Tag="TXT_KEY_BUILDING_SUMER_DUMMY_DESC">
+			<Text>Sumer Faith Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUMER_DUMMY_DESC_TWO">
+			<Text>Sumer Interface Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUMER_DUMMY_DECISIONS_DESC_TWO">
+			<Text>Summer Decision Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SUMER_WHEAT_DUMMY_DESC">
+			<Text>Summer Wheat Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SUMER_DUMMY_TEXT">
+			<Text>The Abgal are seven Sumerian sages, demigods who are said to have been created by the god Enki to establish culture and give civilization to mankind. They served as priests of Enki and as advisors or sages to the earliest rulers of Sumer before the flood. They are credited with giving mankind the Me (moral code), the crafts, and the arts. They were seen as fish-like men who emerged from the sweet water Abzu. They are commonly represented as having the lower torso of a fish, or dressed as a fish.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SUMER_DUMMY_STRATEGY">
+			<Text>This building cannot be constructed but rather facilitates Sumer's unique abilities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AKKADIAN_MOD_ZIGGURAT_HELP_EDIT">
+			<Text>+1 [ICON_PEACE] Faith from Specialists in this City.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_AKKADIAN_MOD_ZIGGURAT_STRATEGY_EDIT">
+			<Text>The Ziggurat is the Sumerian unique building, replacing the Temple. Its primarily benefit is in providing one Scientist Specialist slot. Additionally, all Specialists within the City will also generate [ICON_PEACE] Faith once the Ziggurat is constructed.</Text>
+		</Row>
+	</Language_DE_DE>
+</GameData>

@@ -1412,6 +1412,9 @@ ContextPtr:LoadNewContext("flemishUA")
 -- Nation - Kievan Rus' --
 ContextPtr:LoadNewContext("Kievan Rus Check")
 
+-- Nation - Sumer --
+ContextPtr:LoadNewContext("Sumer Mod Check")
+
 -- Nation - Cuba --
 ContextPtr:LoadNewContext("CubaTraitScripts")
 ContextPtr:LoadNewContext("RevolucionarioAnarchies")
