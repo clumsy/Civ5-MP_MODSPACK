@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_HARAPPA_SUPPLY_TRAIN</Type>
+			<Description>TXT_KEY_PROMOTION_HARAPPA_SUPPLY_TRAIN</Description>
+			<Help>TXT_KEY_PROMOTION_HARAPPA_SUPPLY_TRAIN_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<LostWithUpgrade>true</LostWithUpgrade>
+			<PortraitIndex>11</PortraitIndex>
+			<IconAtlas>EXPANSION2_PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_HARAPPA_SUPPLY_TRAIN</PediaEntry>
+		</Row>
+	</UnitPromotions>
+</GameData>

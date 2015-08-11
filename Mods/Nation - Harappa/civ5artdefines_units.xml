@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<!-- Cart and Worker Model Together -->
+	<UnitArtInfo>
+		<Type>ART_DEF_UNIT_HARAPPA_BULLOCK_CART</Type>
+		<Formation>LooseCivilian</Formation>
+		<DamageStates>1</DamageStates>
+		<UnitMemberArt>
+			<MemberType>ART_DEF_UNIT_MEMBER_HARAPPA_WORKER</MemberType>
+			<MemberCount>5</MemberCount>
+		</UnitMemberArt>
+		<UnitMemberArt>
+			<UnitMemberInfoType>ART_DEF_UNIT_MEMBER_HARAPPA_CART</UnitMemberInfoType>
+			<NumMembers>1</NumMembers>
+		</UnitMemberArt>
+	</UnitArtInfo>
+	<!-- Cart Model Alone-->
+	<!--
+	<UnitArtInfo>
+		<Type>ART_DEF_UNIT_HARAPPA_CART</Type>
+		<DamageStates>1</DamageStates>
+		<UnitMemberArt>
+			<UnitMemberInfoType>ART_DEF_UNIT_MEMBER_HARAPPA_CART</UnitMemberInfoType>
+			<NumMembers>1</NumMembers>
+		</UnitMemberArt>
+	</UnitArtInfo>
+	-->
+	<!-- Worker Model Alone-->
+	<!--
+	<UnitArtInfo>
+		<Type>ART_DEF_UNIT_HARAPPA_WORKER</Type>
+		<Formation>LooseCivilian</Formation>
+		<DamageStates>1</DamageStates>
+		<UnitMemberArt>
+			<MemberType>ART_DEF_UNIT_MEMBER_HARAPPA_WORKER</MemberType>
+			<MemberCount>8</MemberCount>
+		</UnitMemberArt>
+	</UnitArtInfo>
+	-->
+</GameData>

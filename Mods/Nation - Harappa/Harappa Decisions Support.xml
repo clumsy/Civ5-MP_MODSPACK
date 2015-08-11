@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<Language_en_US>	
+		<!--Great Bath-->
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_HARAPPA_BATH">
+			<Text>Construct the Great Bath</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_HARAPPA_BATH_DESC">
+			<Text>Our priests have proposed the construction of a ceremonial public bath just north of the western citadel. We should fire brick and collect bitumen to aid them in their efforts.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Harappa
+				[NEWLINE][ICON_BULLET]Player must have constructed a Sewer
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Your [ICON_CAPITAL] Capital acts as a source of Fresh Water
+				[NEWLINE][ICON_BULLET]Cities settled adjacent to a River generate +1 [ICON_PEACE] Faith
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_HARAPPA_BATH_ENACTED_DESC">
+			<Text>Our priests have proposed the construction of a ceremonial public bath just north of the western citadel. We should fire brick and collect bitumen to aid them in their efforts.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Your [ICON_CAPITAL] Capital acts as a source of Fresh Water
+				[NEWLINE][ICON_BULLET]Cities settled adjacent to a River generate +1 [ICON_PEACE] Faith
+			</Text>
+		</Row>
+		<!-- Indus Script -->
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_HARAPPA_INDUS_WRITING">
+			<Text>Develop the Indus Script</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_HARAPPA_INDUS_WRITING_DESC">
+			<Text>Our merchants have adapted our system of logograms for use as a trade script. We should encourage this innovation and develop a more complex library of symbols.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Harappa
+				[NEWLINE][ICON_BULLET]Must have researched Writing
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Caravans generate [ICON_CULTURE] Culture when in Foreign Territory
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_HARAPPA_INDUS_WRITING_ENACTED_DESC">
+			<Text>Our merchants have adapted our system of logograms for use as a trade script. We should encourage this innovation and develop a more complex library of symbols.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Caravans generate [ICON_CULTURE] Culture when in Foreign Territory
+			</Text>
+		</Row>				
+		<!-- Vedic Aryans -->
+		<Row Tag="TXT_KEY_EVENT_TOMATEKH_ARYAN_INVASION">
+			<Text>Aryan Invasion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TOMATEKH_ARYAN_INVASION_DESC">
+			<Text>Strange men on horseback have appeared in the mountainous hinterlands to our west. Our elders warn they may intend to conquer and settle our river valleys. However, they may also simply be peaceful migrants looking for a new home.[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TOMATEKH_ARYAN_INVASION_OUTCOME_1">
+			<Text>Defend our way of life!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TOMATEKH_ARYAN_INVASION_OUTCOME_2">
+			<Text>Integrate them into our culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TOMATEKH_ARYAN_INVASION_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Two Barbarian Horsemen and a Barbarian Brute will spawn inside our borders[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]A Castle is constructed in your [ICON_CAPITAL] Capital[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]All existing land combat units will earn experience 50% faster[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TOMATEKH_ARYAN_INVASION_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+2 [ICON_RES_HORSE] Horse[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Stables will provide +1 [ICON_PEACE] Faith[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOMATEKH_ARYAN_INVASION_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>The Vedic Aryans are invading the Punjab!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOMATEKH_ARYAN_INVASION_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>The Vedic Aryans have begun to settle the Punjab.</Text>
+		</Row>
+		<!--Dummy Policy-->
+		<Row Tag="TXT_KEY_POLICY_ARYAN_INVASION_MOD_MOD">
+			<Text>Aryan Invasion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_ARYAN_INVASION_MOD_TEXT">
+			<Text>Aryan Invasion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_ARYAN_INVASION_MOD_HELP">
+			<Text>+1 [ICON_PEACE] Faith from Stables.</Text>
+		</Row>
+	</Language_en_US>
+	<Features>
+		<InsertOrAbort>
+			<Type>FEATURE_ANCIENT_LIBYAN_MOD_FOSSIL_WATER</Type>
+			<Description>TXT_KEY_FEATURE_HARAPPA_MOD_FOSSIL_WATER</Description>
+			<Civilopedia>TXT_KEY_FEATURE_HARAPPA_MOD_FOSSIL_WATER_TEXT</Civilopedia>
+			<Help>TXT_KEY_FEATURE_HARAPPA_MOD_FOSSIL_WATER_HELP</Help>
+			<ArtDefineTag>ART_DEF_FEATURE_OASIS</ArtDefineTag>
+			<Movement>1</Movement>
+			<AddsFreshWater>true</AddsFreshWater>
+			<YieldNotAdditive>true</YieldNotAdditive>
+			<WorldSoundscapeAudioScript>ASSS_AMBIENCE_JUNGLE</WorldSoundscapeAudioScript>
+			<EffectTypeTag>WATER</EffectTypeTag>
+			<IconAtlas>HARAPPA_ATLAS_MOD</IconAtlas>
+			<PortraitIndex>5</PortraitIndex>
+		</InsertOrAbort>
+	</Features>
+	<Feature_HillsYieldChanges>
+		<Delete FeatureType="FEATURE_ANCIENT_LIBYAN_MOD_FOSSIL_WATER"/>
+		<Replace>
+			<FeatureType>FEATURE_ANCIENT_LIBYAN_MOD_FOSSIL_WATER</FeatureType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>2</Yield>
+		</Replace>
+	</Feature_HillsYieldChanges>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_HARAPPA_DECISIONS_MOD</Type>
+			<DefaultBuilding>BUILDING_HARAPPA_DECISIONS_MOD</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_HARAPPA_DUMMY_TRADE_WATER_DESC</Description>
+		</Row>
+	</BuildingClasses>
+	<Civilization_BuildingClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_HARAPPA_DECISIONS_MOD</BuildingClassType>
+			<BuildingType/>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MINOR</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_HARAPPA_DECISIONS_MOD</BuildingClassType>
+			<BuildingType/>
+		</Row>
+	</Civilization_BuildingClassOverrides>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_HARAPPA_DECISIONS_MOD</Type>
+			<BuildingClass>BUILDINGCLASS_HARAPPA_DECISIONS_MOD</BuildingClass>
+			<!-- -->
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!-- -->
+			<Description>TXT_KEY_BUILDING_HARAPPA_DUMMY_TRADE_WATER_DESC</Description>
+			<Civilopedia>TXT_KEY_BUILDING_HARAPPA_DUMMY_TRADE_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_HARAPPA_DUMMY_TRADE_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_GRANARY</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>HARAPPA_ATLAS_MOD</IconAtlas>
+			<PortraitIndex>6</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_HARAPPA_DECISIONS_MOD</BuildingType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<Policies>
+		<Row>
+			<Type>POLICY_ARYAN_INVASION_MOD</Type>
+			<Description>TXT_KEY_POLICY_ARYAN_INVASION_MOD_MOD</Description>
+			<Civilopedia>TXT_KEY_POLICY_ARYAN_INVASION_MOD_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_ARYAN_INVASION_MOD_HELP</Help>
+			<GridX>1000</GridX>
+			<GridY>1000</GridY>
+			<PortraitIndex>47</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+		</Row>
+	</Policies>
+	<Policy_BuildingClassYieldChanges>
+		<Row>
+			<PolicyType>POLICY_ARYAN_INVASION_MOD</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_STABLE</BuildingClassType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<YieldChange>1</YieldChange>
+		</Row>
+	</Policy_BuildingClassYieldChanges>
+</GameData>

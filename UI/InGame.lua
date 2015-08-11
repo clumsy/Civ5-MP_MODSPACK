@@ -1418,6 +1418,9 @@ ContextPtr:LoadNewContext("Sumer Mod Check")
 -- Nation - Champa --
 ContextPtr:LoadNewContext("Champa Check")
 
+-- Nation - Harappa --
+ContextPtr:LoadNewContext("Harappa Lua Check")
+
 -- Nation - Caral --
 ContextPtr:LoadNewContext("Norte Chico Mod Check")
 ContextPtr:LoadNewContext("Caral Coastal Imports")

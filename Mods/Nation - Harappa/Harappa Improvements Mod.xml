@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<Improvements>
+		<Row>
+			<Type>IMPROVEMENT_INDUS_EXPORT</Type>
+			<Description>TXT_KEY_INDUS_EXPORT</Description>
+			<Civilopedia>TXT_KEY_INDUS_EXPORT_TEXT</Civilopedia>
+			<Help>TXT_KEY_INDUS_EXPORT_HELP</Help>
+			<DestroyedWhenPillaged>true</DestroyedWhenPillaged>
+			<PortraitIndex>7</PortraitIndex>
+			<IconAtlas>HARAPPA_ATLAS_MOD</IconAtlas>
+			<GraphicalOnly>true</GraphicalOnly>
+			<OutsideBorders>true</OutsideBorders>
+		</Row>
+	</Improvements>
+	<Builds>
+		<Row>
+			<Type>BUILD_INDUS_EXPORT</Type>
+			<Time>500</Time>
+			<ImprovementType>IMPROVEMENT_INDUS_EXPORT</ImprovementType>
+			<Description>TXT_KEY_BUILD_INDUS_EXPORT</Description>
+			<Help>TXT_KEY_BUILD_INDUS_EXPORT_HELP</Help>
+			<Recommendation>TXT_KEY_BUILD_INDUS_EXPORT_REC</Recommendation>
+			<EntityEvent>ENTITY_EVENT_BUILD</EntityEvent>
+			<OrderPriority>1</OrderPriority>
+			<CtrlDown>1</CtrlDown>		
+			<IconIndex>0</IconIndex>
+			<IconAtlas>HARAPPA_BUILD_ATLAS</IconAtlas>	
+			<ShowInPedia>false</ShowInPedia>
+			<ShowInTechTree>false</ShowInTechTree>
+		</Row>
+	</Builds>
+	<Unit_Builds>
+		<Row>
+			<UnitType>UNIT_HARAPPA_BULLOCK_CART</UnitType>
+			<BuildType>BUILD_INDUS_EXPORT</BuildType>
+		</Row>
+	</Unit_Builds>
+</GameData>

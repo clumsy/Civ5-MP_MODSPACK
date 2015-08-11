@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_TRADE_SEALS</Type>
+			<Description>TXT_KEY_TRAIT_TRADE_SEALS</Description>
+			<ShortDescription>TXT_KEY_TRAIT_TRADE_SEALS_SHORT</ShortDescription>
+		</Row>
+	</Traits>
+</GameData>

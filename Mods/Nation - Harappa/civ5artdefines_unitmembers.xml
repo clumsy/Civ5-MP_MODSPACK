@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<UnitMemberArtInfos>
+	<!-- Cart Model -->
+	<UnitMemberArtInfo>
+		<Type>ART_DEF_UNIT_MEMBER_HARAPPA_CART</Type>
+		<fScale>0.11</fScale>
+		<Granny>SupplyTrainV2.fxsxml</Granny>
+		<Combat>
+			<Defaults>ART_DEF_TEMPLATE_DEFENSELESS_BASE</Defaults>
+			<EnableActions>Idle Death BombardDefend Run</EnableActions>
+			<HasRefaceAfterCombat>1</HasRefaceAfterCombat>
+		</Combat>
+		<MaterialTypeTag>CLOTH</MaterialTypeTag>
+		<MaterialTypeSoundOverrideTag>FLESH</MaterialTypeSoundOverrideTag>
+	</UnitMemberArtInfo>
+	<!-- Worker Model -->
+	<UnitMemberArtInfo>
+		<Type>ART_DEF_UNIT_MEMBER_HARAPPA_WORKER</Type>
+		<fScale>0.140000000596046</fScale>
+		<Granny>worker_buddhist.fxsxml</Granny>
+		<Combat>
+			<Defaults>ART_DEF_UNIT_MEMBER_WORKER_EURO</Defaults>
+			<EnableActions>Idle Death BombardDefend Run</EnableActions>
+			<HasRefaceAfterCombat>1</HasRefaceAfterCombat>
+		</Combat>
+		<MaterialTypeTag>CLOTH</MaterialTypeTag>
+		<MaterialTypeSoundOverrideTag>FLESH</MaterialTypeSoundOverrideTag>
+	</UnitMemberArtInfo>
+</UnitMemberArtInfos>

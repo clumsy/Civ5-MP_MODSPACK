@@ -1,0 +1,466 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<Language_en_US>
+		<!-- -->
+		<Row Tag="TXT_KEY_HARAPPA_MOD_DESC">
+			<Text>Harappan Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HARAPPA_MOD_SHORT_DESC">
+			<Text>Harappa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HARAPPA_MOD_ADJECTIVE">
+			<Text>Harappan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HARAPPA_MOD">
+			<Text>Harappa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HARAPPA_MOD_TITLE">
+			<Text>Harappa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HARAPPA_MOD_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HARAPPA_MOD_TEXT_1">
+			<Text>The Harappan culture, more formally referred to as the Indus Valley Civilization, was a Bronze Age civilization that developed along the Indus and Sarasvati (Ghaggar-Hakra) river valleys. It was the largest out of all the contemporaneous Bronze Age civilizations; viz., Sumer along the Tigris and Euphrates, Egypt along the Nile, and China along the Yellow river. Indus Valley cities also exhibited sophisticated levels of urban planning and sanitation far more advanced than many of their contemporaries. The Indus Valley Civilization is perhaps best known today for the multitude of trade seals recovered among archeological sites. It was known to have engaged in an extensive trading network, with seals having been found in Mesopotamia, Oman, Persia, Afghanistan, and north and west India.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HARAPPA_MOD_HEADING_2">
+			<Text>Climate and Terrain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HARAPPA_MOD_TEXT_2">
+			<Text>Historical accounts indicate a vastly different climate during the Harappan phase of the Indus River valley compared to today. The region was once covered with extensive forests and fertile riverbeds. The Ghaggar-Hakra river, identified with the Vedic Sarasvati, was free flowing, forming a two-river system, and the Rann of Kutch was fully submerged under water. It's possible that the Thar Desert was also fertile land instead of the arid conditions found today.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HARAPPA_MOD_HEADING_3">
+			<Text>Mehrgarh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HARAPPA_MOD_TEXT_3">
+			<Text>Mehrgarh is one of the most important Neolithic sites in archaeology, showing continuous habitation from 7000-2500 BC. It lies on the Kacchi Plain of Balochistan, and is one of the earliest sites with evidence of farming and herding in South Asia. The oldest ceramic figurines in South Asia were also found at Mehrgarh. The chalcolithic people of Mehrgarh had contacts with contemporaneous cultures in northern Afghanistan, northeastern Iran, and southern central Asia.[NEWLINE][NEWLINE]Mehrgarh is now seen as a precursor to the Indus Valley Civilization. The discovery of Mehrgarh significantly changed the modern conception of the Indus Valley Civilization. It allowed modern archeologists to establish a continuous sequence of dwelling sites within the Indian subcontinent from 7000-500 BC.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HARAPPA_MOD_HEADING_4">
+			<Text>Early Harappan Culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HARAPPA_MOD_TEXT_4">
+			<Text>The early Harappan period lasted roughly from 3300-2600 BC. It is this period that the earliest examples of the Indus Script are found, dating to around 3000 BC. The early phase also exhibits the development of Harappan urbanization with the citadel representing centralized authority and an increasingly urban quality of life. Trade networks linked this culture with related regional cultures and distant sources of raw materials, including lapis lazuli and other materials for bead-making. Villagers had, by this time, domesticated numerous crops, including peas, sesame seeds, dates, and cotton, as well as animals, including the water buffalo. There is also evidence that dentistry was developed during this phase. Most early Harappan communities turned to large urban centers by 2600 BC.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HARAPPA_MOD_HEADING_5">
+			<Text>Mature Harappan Culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HARAPPA_MOD_TEXT_5">
+			<Text>By 2600 BC, the early Harappan communities had been turned into large urban centers. Such urban centers include Harappa, Ganeriwala, Mohenjo-Daro in modern day Pakistan, and Dholavira, Kalibangan, Rakhigarhi, Rupar, and Lothal in modern day India. In total, more than 1,052 cities and settlements have been found, mainly in the general region of the Indus rivers and their tributaries.[NEWLINE][NEWLINE]A sophisticated and technologically advanced urban culture is evident during this phase making the Indus Valley cities the first urban centers of the region. The quality of municipal town planning suggests the knowledge of urban planning and efficient municipal governments which placed a high priority on hygiene, or, alternatively, accessibility to the means of religious ritual.[NEWLINE][NEWLINE]Most city dwellers appear to have been traders or artisans, who lived with others pursuing the same occupation in well-defined neighborhoods. Materials from distant regions were used in the cities for constructing seals, beads and other objects.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HARAPPA_MOD_HEADING_6">
+			<Text>Urban Planning</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HARAPPA_MOD_TEXT_6">
+			<Text>One of the most distinguishing features of Indus Valley cities was its urban planning. Most cities were organized in a grid-like pattern; the orientation of streets and buildings conforming to cardinal directions. The main streets intersected at right angles, dividing the city into several large rectangular blocks. This rectangular town planning was a unique feature not found in either Mesopotamia or Egypt.[NEWLINE][NEWLINE]The layout of most cities consisted of a fortified citadel to the west, usually built on a hill or raised ground. Below the citadel, to the east, was the lower town containing brick houses and inhabited by common people. Houses were usually multiple stories centered around a courtyard. The purpose of the citadel remains debated. In sharp contrast to this civilization's contemporaries, Mesopotamia and Ancient Egypt, no large monumental structures were built. There is no conclusive evidence of palaces or temples. Some structures are thought to have been granaries.[NEWLINE][NEWLINE]Although the citadels were walled, and in some cases (such as in Lothal) the entire city, it is not clear if this was strictly for defensive purposes. Walled segments of the city also helped to divert flood waters.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HARAPPA_MOD_HEADING_7">
+			<Text>Sanitation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HARAPPA_MOD_TEXT_7">
+			<Text>The ancient Indus systems of sewerage and drainage that were developed and used in cities throughout the Indus region were far more advanced than any found in contemporary urban sites in the Middle East and even more efficient than those in many areas of Pakistan and India today. It also indicates the presence of a civic administration responsible for the sanitary requirements of the entire town.[NEWLINE][NEWLINE]Many houses had private wells and almost all houses had proper sanitation systems with the facility of sewage drains which connected through chutes to street drains. These street drains were aligned to the margin of the streets and equipped with manholes. Public wells could be found throughout the city as well as several baths.[NEWLINE][NEWLINE]The Great Bath of Mohenjo-Daro is the most famous example of the enormous well-built public baths found at larger Indus sites. Their purpose may have been for ritual or hygiene or both.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HARAPPA_MOD_HEADING_8">
+			<Text>Trade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HARAPPA_MOD_TEXT_8">
+			<Text>The Indus civilization's economy appears to have depended significantly on trade, which was facilitated by major advances in mathematics and transport technology. The Indus Valley Civilization developed great accuracy in measuring length, mass, and time. They were among the first to develop a system of uniform weights and measures. They may also have been the first civilization to use wheeled transport, including bullock carts that are identical to those seen throughout South Asia today, as well as boats. Most of these boats were probably small, flat-bottomed craft, perhaps driven by sail, similar to those one can see on the Indus River today; however, there is secondary evidence of seagoing craft. Archaeologists have also discovered a massive, dredged canal and what they regard as a docking facility at the coastal city of Lothal.[NEWLINE][NEWLINE]Archeological evidence recovering Indus seals depict a massive trading network extending into parts of Mesopotamia, Oman, Persia, Afghanistan, and north and west India. There is also some evidence that trade contacts extended to Crete and possibly to Egypt.[NEWLINE][NEWLINE]Over 2000 seals have been discovered within Indus Valley cities. These seals are regarded as the most notable artistic achievement of the Indus Valley Civilization. They depict animals both living and extinct, and sometimes mythical as seen with presence of a "unicorn" on several seals. The standard seal was square shaped and made of steatite, although ones made of stone and copper have been recovered. Their primary purpose was most likely to mark ownership and facilitate trade.[NEWLINE][NEWLINE]Many seals also depict human figures, possibly gods. The famous Pasupati, or Proto-Siva, seal is argued to depict a primitive version of the Vedic Rudra/Indian Siva. Although evidence of lingam worship has been found at Indus sites, most scholars no longer believe that the Pasupati seal is a depiction of Siva.[NEWLINE][NEWLINE]The Indus trade seals are also the chief archeological source of the Indus Script.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HARAPPA_MOD_HEADING_9">
+			<Text>Indus Script</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HARAPPA_MOD_TEXT_9">
+			<Text>The term Indus script refers to short strings of found on Indus artifacts and signposts. It is not generally accepted that these symbols form a script used to record a language, and the subject remains controversial. In spite of many attempts at decipherments and claims, it is as yet un-deciphered, and no underlying language has been identified.[NEWLINE][NEWLINE]The writing system is largely pictorial but includes many abstract signs as well. The script is thought to have been mostly written from right to left, but sometimes follows a boustrophedonic style. The number of principal signs is about 400-600, comparable to the typical sign inventory of a logo-syllabic script. The prevailing scholarly view maintains that structural analysis indicates that the language is agglutinative, like the Dravidian languages.[NEWLINE][NEWLINE]As the Indus script has not yet been deciphered, the Indus Valley language is also unknown. Hypothesis regarding its nature are reduced to purported loanwords and substratum influence, notably the substratum in Vedic Sanskrit and a few terms recorded in Sumerian cuneiform, in conjunction with analyses of the un-deciphered Indus script. The question has some political significance in Indian politics, with a potential Dravidian or Indo-European relationship embraced by Dravidian and Hindu nationalists, respectively. The Elamo-Dravidian hypothesis also places it in the vicinity of either Elamite or Dravidian, perhaps identical with Proto-Dravidian itself.[NEWLINE][NEWLINE]After 1900 BC, the systematic use of the symbols ended, coinciding with the final stage of the Mature Harappan civilization. However, a few Harappan signs have been claimed to date as late as 1100 BC.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HARAPPA_MOD_HEADING_10">
+			<Text>Late Harappan Culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HARAPPA_MOD_TEXT_10">
+			<Text>Around 1800 BC, signs of a gradual decline began to emerge, and by around 1700 BC, most Indus cities were abandoned. Previously, it was also believed that the decline of the Harappan civilization led to an interruption of urban life in the Indian subcontinent. However, the Indus Valley Civilization did not disappear suddenly, and many elements of the Indus Civilization can be found in later cultures. Current archaeological data suggest that material culture classified as Late Harappan may have persisted until at least 1000-900 BC and was partially contemporaneous with the Painted Grey Ware culture. The late Harappan settlement of Pirak, may have also thrived continuously from 1800 BC to the time of the invasion of Alexander the Great in 325 BC. Recent archaeological excavations indicate that the decline of Harappa drove people eastward.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HARAPPA_MOD_HEADING_11">
+			<Text>Decline</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HARAPPA_MOD_TEXT_11">
+			<Text>The Aryan invasion/migration theory is a theory based primarily on linguistics and the Kurgan hypothesis which suggests that the proto-Indo-Aryan people of South Asia were settlers from Central Asia who migrated to northern part of the Indian subcontinent more than two millennia ago. Models of this theory discuss scenarios of prehistoric migrations of Indo-Aryans to their historically attested areas of settlement in the northwest of the Indian subcontinent, postulated to have started around 1500 BC. The influx of Aryan peoples is contemporaneous with the final phase of decline of the Indus Valley Civilization. Scholars have theories ranging from invasion to displacement. However, it is possible the historical Vedic culture is the result of an amalgamation of the immigrating Indo-Aryans with the remnants of the indigenous Indus civilization.[NEWLINE][NEWLINE]A possible natural reason for the Indus Valley Civilization's decline is connected with climate change that is also signaled for the neighboring areas of the Middle East; the Indus valley climate grew significantly cooler and drier from about 1800 BC, linked to a general weakening of the monsoon at that time. Alternatively, a crucial factor may have been the disappearance of substantial portions of Sarasvati (Ghaggar-Hakra) river system. A tectonic event may have diverted the system's sources toward the Ganges Plain, though there is complete uncertainty about the date of this event, as most settlements inside Ghaggar-Hakra river beds have not yet been dated.[NEWLINE][NEWLINE]The actual reason for decline might be any combination of these factors.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HARAPPA_MOD_FACTOID_HEADING">
+			<Text>Harappan Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HARAPPA_MOD_FACTOID_TEXT">
+			<Text>It is believed that the Sumerian trading partner known as Meluhha is referring to the Indus Valley civilization. This would make Meluhha a likely linguistic cognate to the Sanskrit "mleccha", meaning "barbarian", and the Dravidian "mel akam", meaning "high place".[NEWLINE][NEWLINE]The sanitation system of the Indus Valley civilization includes the world's earliest known system of flush toilets.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAPPA_MOD_HARAPPA">
+			<Text>Harappa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAPPA_MOD_MOHENJO_DARO">
+			<Text>Mohenjo-daro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAPPA_MOD_LOTHAL">
+			<Text>Lothal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAPPA_MOD_GANERIWALA">
+			<Text>Ganeriwala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAPPA_MOD_DHOLAVIRA">
+			<Text>Dholavira</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAPPA_MOD_SUTKAGEN_DOR">
+			<Text>Sutkagan-dor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAPPA_MOD_MEHRGARH">
+			<Text>Mehrgarh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAPPA_MOD_KALIBANGAN">
+			<Text>Kalibangan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAPPA_MOD_RAKHIGARHI">
+			<Text>Rakhigarhi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAPPA_MOD_BANWALI">
+			<Text>Banwali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAPPA_MOD_SURKOTDA">
+			<Text>Surkotda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAPPA_MOD_RUPAR">
+			<Text>Rupar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAPPA_MOD_AMRI">
+			<Text>Amri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAPPA_MOD_CHANHU_DARO">
+			<Text>Chanhu-daro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAPPA_MOD_SHORTUGAI">
+			<Text>Shortugai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAPPA_MOD_RANGPUR">
+			<Text>Rangpur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAPPA_MOD_BHAGWANPURA">
+			<Text>Bhagwanpura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAPPA_MOD_JALILPUR">
+			<Text>Jalilpur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAPPA_MOD_TARKHANAWALA_DERA">
+			<Text>Tarkhanawala Dera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAPPA_MOD_KOT_DIKI">
+			<Text>Kot Diki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAPPA_MOD_BALAKOT">
+			<Text>Balakot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAPPA_MOD_ALLAHDINO">
+			<Text>Allahdino</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAPPA_MOD_DASALPUR">
+			<Text>Dasalpur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAPPA_MOD_NAUSHARO">
+			<Text>Nausharo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAPPA_MOD_SARAI_KHOLA">
+			<Text>Sarai Khola</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAPPA_MOD_RAHMAN_DHERI">
+			<Text>Rahman Dheri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAPPA_MOD_RANA_GUNDAI">
+			<Text>Rana Ghundai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAPPA_MOD_MIRI_KALAT">
+			<Text>Miri Kalat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAPPA_MOD_NINDOWARI">
+			<Text>Nindowari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAPPA_MOD_ALAMGIRPUR">
+			<Text>Alamgirpur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAPPA_MOD_BHAGATRAV">
+			<Text>Bhagatrav</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAPPA_MOD_LAKHUEEN_JO_DARO">
+			<Text>Lakhueen-jo-daro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAPPA_MOD_BHIRRANA">
+			<Text>Bhirrana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAPPA_MOD_FARMANA">
+			<Text>Farmana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAPPA_MOD_GOLA_DHORO">
+			<Text>Gola-dhoro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAPPA_MOD_MITATHAL">
+			<Text>Mitathal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAPPA_MOD_HULAS">
+			<Text>Hulas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAPPA_MOD_KERALA_NO_DHORO">
+			<Text>Kerala-no-dhoro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAPPA_MOD_KOT_BALI">
+			<Text>Kot Bali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAPPA_MOD_KUNTASI">
+			<Text>Kuntasi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAPPA_MOD_LOTESWAR">
+			<Text>Loteswar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAPPA_MOD_MALWAN">
+			<Text>Malwan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAPPA_MOD_SOTHI">
+			<Text>Sothi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAPPA_MOD_MUNDIGAK">
+			<Text>Mundigak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAPPA_MOD_ROJDI">
+			<Text>Rojdi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAPPA_MOD_REHMAN_DHERI">
+			<Text>Rehman-dheri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAPPA_MOD_PIR_SHAH_JURIO">
+			<Text>Pir Shah Jurio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAPPA_MOD_ONGAR">
+			<Text>Ongar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HARAPPA_MOD_SANAULI">
+			<Text>Sanauli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HARAPPA_MOD_0">
+			<Text>Kat-ac</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HARAPPA_MOD_1">
+			<Text>Pampu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HARAPPA_MOD_2">
+			<Text>Cir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HARAPPA_MOD_3">
+			<Text>Katti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HARAPPA_MOD_4">
+			<Text>Kur-utu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HARAPPA_MOD_5">
+			<Text>Wel</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HARAPPA_MOD_6">
+			<Text>Ay</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HARAPPA_MOD_7">
+			<Text>Pan-i</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HARAPPA_MOD_8">
+			<Text>Yatu</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HARAPPA_MOD_9">
+			<Text>Pur-utu</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_HARAPPA_MOD_TEXT">
+			<Text>Oh ruler of the high house, lord of the western citadel, king whose name and exploits have been lost to time, we humbly praise and greet you! The people of the valleys of the Indus and Sarasvati rivers were one of the world's earliest urban civilizations. They surpassed Sumer, Egypt, and Xia in sheer size - stretching from the Iranian coast, to the base of the Himalayas, to the shores of western India - and their cities displayed a level of sophistication and urban planning unmatched in the ancient world. Indus traders connected distant empires, leaving their seals across the Middle-East and Southern Asia. Yet, as with all things lost to time, it was not meant to be. The climate changed, the Sarasvati dried up, the Vedic Aryans arrived to forever change the face of the Indian subcontinent.[NEWLINE][NEWLINE]High One, will you let your people be forgotten? It is time to return, to fill the great baths and reestablish the trade routes that once sustained your mighty cities. Can you reclaim the land of the seven rivers? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HARAPPA_MOD_STATBOX">
+			<Text>[NEWLINE]        Leader: Went-Antu[NEWLINE]        Unique Unit: Bullock Cart[NEWLINE]        Unique Building: Sewer[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HARAPPA_MOD_ANTU_DESC">
+			<Text>Went-Antu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HARAPPA_MOD_ANTU_LIVED">
+			<Text>c. 2250 BC ?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HARAPPA_MOD_ANTU_NAME">
+			<Text>Went-Antu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HARAPPA_MOD_ANTU_SUBTITLE">
+			<Text>Leader of Harappa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HARAPPA_MOD_ANTU_TITLES_1">
+			<Text>High One</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HARAPPA_MOD_ANTU_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HARAPPA_MOD_ANTU_TEXT_1">
+			<Text>As the Indus script has not yet been deciphered and there are no foreign extant documents which extensively refer to the Indus civilization, little is known about Indus government and there are no king lists naming any individual. However, the sophistication and uniformity of their urban planning indicate an advanced degree of civic administration and formalized government.[NEWLINE][NEWLINE]"Went-Antu" is not the name of any one specific individual, but a reconstructed pro-Dravidian title indicating kingship. Words for chief/king/lord in proto-Dravidian most often are cognates translating to "high one". For example, the word for a local administrator, "per-kata", translates to "the one in a high place". This lines up with theories regarding the name Meluhha being linguistically related to the Dravidian "mel akam" meaning "high country". It is possible this in turn was a reference to the citadel found in most large Indus sites, which itself was often constructed on a raised mound of earth.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HARAPPA_MOD_ANTU_HEADING_2">
+			<Text>Harappan Government</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HARAPPA_MOD_ANTU_TEXT_2">
+			<Text>Given the sheer size of the Harappan culture, significantly larger than the contemporaneous Mesopotamian, Egyptian, or Chinese cultures, a single unified empire is extremely unlikely. However, a completely localized government would not account for the remarkably high uniformity across all Indus cities in regard to urban planning and sanitation systems, nor for the existence of organized distant trading colonies, such as Shortugai, which also exhibited this same level of uniformity.[NEWLINE][NEWLINE]If the Indus language is related to proto-Dravidian, even more clues regarding their government are possible. Proto-Dravidian has words for both a town, "ur", and smaller hamlet; "pall-i". However, proto-Dravidian also has descriptors for large territorial units, "natu", which can refer to a province or organized state.[NEWLINE][NEWLINE]The most likely scenario, then, is several large city-states, such as Harappa and Mohenjo-daro, which also administered smaller surrounding towns and maintained extensive contact with another through trade. It should be noted that going from pre to early to late Harappan culture, the urban centers gradually move more eastward, perhaps conforming to changes in climate and river tectonics. The citadel found in almost all Indus sites provides a logical administrative center, although modern scholarship has tended to deemphasize the role of the citadel.[NEWLINE][NEWLINE]Although the concept of priest-kings was popular in early Indus scholarship, it has generally fallen out of favor and believed to be an over eagerness in early scholarship to conform Indus to Mesopotamian culture. However, a ritual element is still largely associated with the various great baths. Given their prominence in Indus cities, it is still entirely possibly that the religious elite held some sway in administrative matters. As trade was a cornerstone of Indus economy, a merchant elite also cannot be ruled out.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HARAPPA_MOD_ANTU_HEADING_3">
+			<Text>Priest-King</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HARAPPA_MOD_ANTU_TEXT_3">
+			<Text>The so called "Priest-King" is an intricately carved and colored bust recovered at Mohenjo-daro. It is one of the most prized artifacts of the Indus Valley Civilization. Despite its name, there is no archeological evidence to indicate that the individual represented was either a priest or a king. However, due the Indus people's close contact with Mesopotamia through trade, they would certainly have been familiar with the concept of priestly or divine kingship. The "Priest-King" and similar artifacts were all found broken. It was most likely deliberate, occurring near the end of the Indus period.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HARAPPA_MOD_ANTU_HEADING_4">
+			<Text>Rig Veda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HARAPPA_MOD_ANTU_TEXT_4">
+			<Text>Some scholars argue that the Indus civilization is mentioned within the Rig Veda. These debates surround references to "Hariyupiyah", usually associated with the Drsadvati river, and "dasa", originally referring to barbarians or enemy countrymen. These terms have been proposed to refer to Harappa and the Indus people, respectively. If this is the case, then the names of some Harappan rulers may have survived. Notably, the dasa king Shambara is said to have stiffly resisted the Aryans. A hymn to the god Indra notes how Indra shattered the ninety-nine cities of Shambara. Ultimately, however, Shambara was defeated and thrown off a mountain.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HARAPPA_MOD_ANTU_HEADING_5">
+			<Text>Judgment of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HARAPPA_MOD_ANTU_TEXT_5">
+			<Text>It is impossible to properly judge Harappan leadership; next to nothing is known concerning any one individual. What is known is that Indus cities were remarkably organized and maintained pointing to an advanced degree of civic administration. The fall of the Indus civilization is generally believed to have resulted from outside influences - migrants, invasion, seasonal and tectonic shifts - and not from any mismanagement or overextension on the part of local rulers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HARAPPA_MOD_ANTU_HEADING_6">
+			<Text>Factoid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HARAPPA_MOD_ANTU_TEXT_6">
+			<Text>Modern analysis through the use of ultraviolet light has revealed that the floral pattern on the Mohenjo-daro "Priest-King" bust was originally painted red.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HARAPPA_MOD_FIRST_GREETING_1">
+			<Text>Welcome traveller! We have traded with many great lands, but none as distant as yours.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HARAPPA_MOD_FIRST_GREETING_2">
+			<Text>Welcome to the high country! Do you bring goods to trade? Could I interest you in some lapis lazuli or teak wood?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HARAPPA_MOD_DEFEATED_1">
+			<Text>Better write this down! I'd hate for people to forget what happened to us.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HARAPPA_MOD_DEFEATED_2">
+			<Text>Who will there be left to trade with when you've conquered the world?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TRADE_SEALS_SHORT">
+			<Text>Trade Seals</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TRADE_SEALS">
+			<Text>Start with the location of all nearby Civilization and City-State [ICON_CAPITAL] Capitals (this does not establish contact). +1 Trade Route and a free Caravan after you settle your first City.</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_UNIT_HARAPPA_BULLOCK_CART">
+			<Text>Bullock Cart</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HARAPPA_BULLOCK_CART_HELP">
+			<Text>Fast Worker Unit. Only Harappa may build it. The Bullock Cart earns [ICON_GOLD] Gold for improving Luxury Resources.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HARAPPA_BULLOCK_CART_STRATEGY">
+			<Text>The Bullock Cart is the Harappan replacement for the Worker. Like all Workers, the Bullock Cart can construct roads, railroads, and build improvements. Its extra movement also allows it to move and carry out an action on the same turn (even into rough terrain), while also providing a minor benefit to exploration.[NEWLINE][NEWLINE]However, the Bullock Cart's true potential is in its unique build action, Trade Luxury Goods, which may be performed on any Luxury Resource tile in Friendly or Neutral Territory. Trading Luxury Goods does not improve the tile but rather awards a small amount of [ICON_GOLD] Gold determined by the tile's distance from your closest City. This action may also be used to satisfy 'We Love the King Day' resource requests from Luxury Resources located in Neutral Territory (provided you have researched the appropriate technology).[NEWLINE][NEWLINE]These effects may only trigger once per map tile. If a tile has previously been traded or improved by a Bullock Cart, it cannot be used to earn [ICON_GOLD] Gold or satisfy resource requests. Improving a tile within your own territory with its standard improvement will automatically award [ICON_GOLD] Gold at a greater rate than Trading Luxury Goods, provided you have not previously earned [ICON_GOLD] Gold from the tile.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_HARAPPA_BULLOCK_CART_TEXT">
+			<Text>The Indus Valley Civilization was potentially the first civilization to use wheeled transport. This advance in travel technology greatly facilitated the Indus civilization's economy and reliance on trade. Bullock carts were the chief means of conveyance. In addition to the models of carts found at Mohenjo-daro similar to the farm carts commonly used today in the Sind and Punjab, a copper specimen has been found at Harappa which resembles an "ekka" complete with a canopy for protection from the sun and rain. The Indus civilization also used a type of bullock cart, likewise found in the Sind today, which had a gabled roof over a wooden frame and was drawn by two animals yoked to a pole.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HARAPPA_DRAIN">
+			<Text>Sewer</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_BUILDING_HARAPPA_DRAIN_HELP">
+			<Text>40% of [ICON_FOOD] Food is carried over after a new [ICON_CITIZEN] Citizen is born.[NEWLINE][NEWLINE]No [ICON_GOLD] Gold maintenance if built adjacent to a River.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HARAPPA_DRAIN_STRATEGY">
+			<Text>Like the standard Aqueduct, the Harappan Sewer decreases the amount of [ICON_FOOD] Food a City needs to increase in size by 40%. However, the Sewer has no technology prerequisite, allowing you to construct it before researching Engineering, and is 50% cheaper to construct. Build it to gain a significant head start in population growth over rival civilizations.</Text>
+		</Row>		
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_HARAPPA_DRAIN_TEXT">
+			<Text>The ancient Indus systems of sewerage and drainage that were developed and used in cities throughout the Indus region were far more advanced than any found in contemporary urban sites in the Middle East and even more efficient than those in many areas of Pakistan and India today. Many houses had private wells and almost all houses had proper sanitation systems with the facility of sewage drains which connected through chutes to street drains. These street drains were aligned to the margin of the streets and equipped with manholes. Public wells could be found throughout the city as well as several baths. City walls served an additional function as a barrier against floods.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HARAPPA_SUPPLY_TRAIN">
+			<Text>Indus Trader</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HARAPPA_SUPPLY_TRAIN_HELP">
+			<Text>Earns [ICON_GOLD] Gold for improving Luxury Resources.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_TRADE_SEALS">
+			<Text>Trade Seals</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_TRADE_SEALS_TEXT">
+			<Text>Trade Seals</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_TRADE_SEALS_HELP">
+			<Text>Trade Seals</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_HARAPPA_MOD_FOSSIL_WATER">
+			<Text>Aquifer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_HARAPPA_MOD_FOSSIL_WATER_TEXT">
+			<Text>An aquifer is an underground layer of water-bearing permeable rock or unconsolidated materials (gravel, sand, or silt) which acts as a reservoir for groundwater. Aquifers are filled with water from rain or melted snow that drains into the ground until it reaches a layers of less permeable rock. Wells drilled into aquifers provide water for drinking, agriculture, and industrial uses. However, aquifers can dry up if drained faster than they can naturally refill from precipitation.[NEWLINE][NEWLINE]Fossil Water is groundwater that has remained sealed in an aquifer for a long period of time. Water can rest underground in aquifers for thousands or even millions of years. When changes in the surrounding geology seal the aquifer off from further replenishment, the water becomes trapped within and is known as fossil water. Fossil water is, by definition, a non-renewable resource. Whereas most aquifers are naturally replenished by infiltration of water from precipitation, fossil aquifers are those that get little or no recharge.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_HARAPPA_MOD_FOSSIL_WATER_MOD">
+			<Text>Fossil Water</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_HARAPPA_MOD_FOSSIL_WATER_MOD_TEXT">
+			<Text>Fossil Water is groundwater that has remained sealed in an aquifer for a long period of time. Water can rest underground in aquifers for thousands or even millions of years. When changes in the surrounding geology seal the aquifer off from further replenishment, the water becomes trapped within and is known as fossil water.[NEWLINE][NEWLINE]Fossil water is, by definition, a non-renewable resource. Whereas most aquifers are naturally replenished by infiltration of water from precipitation, fossil aquifers are those that get little or no recharge. The extraction of water from such non-replenishing groundwater reserves (known as low safe-yield reserves) is known in hydrology as water mining.[NEWLINE][NEWLINE]The Nubian Sandstone Aquifer System is among the most notable of fossil water reserves. Fossil aquifers also exist in the Sahara, the Kalahari, and the Ogallala underlying the US Great Plains. A further potential store of ancient water is Lake Vostok, a subglacial lake in Antarctica.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_HARAPPA_MOD_FOSSIL_WATER_HELP">
+			<Text>Provides Fresh Water to all adjacent Tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HARAPPA_DUMMY_TRADE_DESC">
+			<Text>Harappa Trade Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HARAPPA_DUMMY_TRADE_FOOD_DESC">
+			<Text>Harappa Growth Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HARAPPA_DUMMY_TRADE_HAPPY_DESC">
+			<Text>Harappa Happy Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HARAPPA_DUMMY_TRADE_WATER_DESC">
+			<Text>Harappa Faith Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HARAPPA_DUMMY_TRADE_TWO_DESC">
+			<Text>Harappa Luxury Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HARAPPA_KING_DAY_DUMMY_DESC">
+			<Text>Harappa King Day Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HARAPPA_DUMMY_TRADE_STRATEGY">
+			<Text>This building cannot be constructed but rather facilitates Harappa's unique abilities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HARAPPA_DUMMY_TRADE_TEXT">
+			<Text>The Indus Valley Civilization is perhaps best known today for the multitude of trade seals recovered among archeological sites.  It was known to have engaged in an extensive trading network, with seals having been found in Mesopotamia, Oman, Persia, Afghanistan, and north and west India.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_INDUS_EXPORT">
+			<Text>Trade Luxury Goods</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INDUS_EXPORT_TEXT">
+			<Text>The Harappan Bullock Cart may perform this action on any Luxury Resource tile in Friendly or Neutral Territory. Trading Luxury Goods does not improve the tile but rather awards a small amount of [ICON_GOLD] Gold determined by the tile's distance from your closest City. This action may also be used to satisfy 'We Love the King Day' resource requests with Luxury Resources located in Neutral Territory (provided you have researched the appropriate technology).[NEWLINE][NEWLINE]These effects may only trigger once per map tile. If a tile has previously been traded or improved by a Bullock Cart, it cannot be used to earn [ICON_GOLD] Gold or satisfy resource requests. Trading Luxury Resources in Neutral Territory does not permanently connect the resource to your trading network.[NEWLINE][NEWLINE]Using a Bullock Cart to improve a tile within your own territory with its standard improvement will automatically award [ICON_GOLD] Gold at a greater rate than Trading Luxury Goods, provided you have not previously earned [ICON_GOLD] Gold from the tile.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INDUS_EXPORT_HELP">
+			<Text>The Harappan Bullock Cart may trade Luxury Resources in Friendly or Neutral territory to earn [ICON_GOLD] Gold and satisfy 'We Love the King Day' resource requests. This will not permanently connect the resource to your trading network and [ICON_GOLD] Gold may only be earned once per map tile.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_INDUS_EXPORT_HELP">
+			<Text>The Harappan Bullock Cart may trade Luxury Resources in Friendly or Neutral territory to earn [ICON_GOLD] Gold and satisfy 'We Love the King Day' resource requests. This will not permanently connect the resource to your trading network and [ICON_GOLD] Gold may only be earned once per map tile.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_INDUS_EXPORT_REC">
+			<Text>The Harappan Bullock Cart may trade Luxury Resources in Friendly or Neutral territory to earn [ICON_GOLD] Gold and satisfy 'We Love the King Day' resource requests. This will not permanently connect the resource to your trading network and [ICON_GOLD] Gold may only be earned once per map tile.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_INDUS_EXPORT">
+			<Text>[LINK=IMPROVEMENT_INDUS_EXPORT]Trade Luxury Goods[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_INDUS_TRADE_DUMMY_DESC">
+			<Text>Indus Export</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_GENERIC_HARAPPA_MOD_INFLUENTIAL_ON_AI_1">
+			<Text>My people have started bathing four, five times a day... I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<!-- -->
+		<!-- Hospital Edit -->
+		<Row Tag="TXT_KEY_BUILDING_HOSPITAL_STRATEGY_HARAPPA_EDIT">
+			<Text>The Hospital is an Industrial-era building. It's useful when you want to create a large city, fast.[NEWLINE][NEWLINE]City must have an Aqueduct or Sewer.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_HARAPPA_MOD">
+			<Text>Puja</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- -->
+	</Language_en_US>
+</GameData>

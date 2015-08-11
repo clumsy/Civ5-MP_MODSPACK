@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="222d2cdf-a40c-41f2-a220-904c5ce81343" version="40">
+  <Properties>
+    <Name>Harappa - Indus Valley (Brave New World)</Name>
+    <Teaser>Adds Harappa to the base game. Requires the Brave New World expansion pack.</Teaser>
+    <Description>Adds [b]Harappa[/b] to the base game. 
+[NEWLINE]
+[NEWLINE]~~~ 
+[NEWLINE]
+[NEWLINE]Note: 
+[NEWLINE]- This civilization requires the Brave New World expansion. 
+[NEWLINE]- Updates to the Mod will most likely break save games. Please do not update until you are ready to begin a new game. 
+[NEWLINE]- If you finish the Tradition Social Policy tree, the game will display a free Aqueduct instead of a free Sewer in Harappan cities. This is an aesthetic problem only, and you will still get the bonuses of the Sewer UB (+Happiness on Rivers, etc.). 
+[NEWLINE]
+[NEWLINE]~~~ 
+[NEWLINE]
+[NEWLINE]Leader: Went-Antu
+[NEWLINE]UA: Trade Seals
+[NEWLINE]UU: Bullock Cart
+[NEWLINE]UB: Sewer</Description>
+    <Authors>Tomatekh</Authors>
+    <SpecialThanks>Leugi, Sukritact, Janboruta, Wolfdog, Djarhun, JFD</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <Homepage>http://forums.civfanatics.com/showthread.php?t=472751</Homepage>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>40</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events and Decisions" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="Cultural Diversity" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Cultural Influence" />
+    <Mod id="43868e8d-de88-48a1-a8d9-ce144e07f5e0" minversion="0" maxversion="999" title="ExCE" />
+    <Mod id="40b2f19b-236b-4699-88dd-72025ea1080d" minversion="0" maxversion="999" title="Nazca" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="C. Patch" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="C. Balance Patch" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D." />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="Piety" />
+    <Mod id="d99bf7aa-51ac-4bef-bd88-d765b28e260e" minversion="0" maxversion="999" title="Prestige" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="4FAFA6A39AE25DEDE69EB6E1ABC3D664" import="1">Art/Alpha/HarappaAlphaAtlas128.dds</File>
+    <File md5="7FED1813A54A8895AEDC5A4500A03B22" import="1">Art/Alpha/HarappaAlphaAtlas16.dds</File>
+    <File md5="A025DBE70F089B064FE8F7BB7AE4BDC5" import="1">Art/Alpha/HarappaAlphaAtlas24.dds</File>
+    <File md5="4CCF6F2F2869C17F44C9546A3ECB2ECC" import="1">Art/Alpha/HarappaAlphaAtlas32.dds</File>
+    <File md5="7BF73591030725D620F8D81305AD1B9A" import="1">Art/Alpha/HarappaAlphaAtlas48.dds</File>
+    <File md5="C2B47A1044059A6097460E0AD569B176" import="1">Art/Alpha/HarappaAlphaAtlas64.dds</File>
+    <File md5="1CCBF72D43CB65B365F166D5F0F24EE8" import="1">Art/Atlas/HarappaModAtlas128.dds</File>
+    <File md5="7637151F6AD59920113EDDD66AE91177" import="1">Art/Atlas/HarappaModAtlas214.dds</File>
+    <File md5="B1E2E6016B757E3665E78C2ACB5999C9" import="1">Art/Atlas/HarappaModAtlas256.dds</File>
+    <File md5="ADE7DE01E94F6075188845FF8E97BEA0" import="1">Art/Atlas/HarappaModAtlas32.dds</File>
+    <File md5="87F8E0476194FADCD073374A86CBAC99" import="1">Art/Atlas/HarappaModAtlas45.dds</File>
+    <File md5="D82F6A040E795858A2CD0BE53AAEF1D7" import="1">Art/Atlas/HarappaModAtlas64.dds</File>
+    <File md5="75F92298204CB33EBA31C40F5FA7A4C2" import="1">Art/Atlas/HarappaModAtlas80.dds</File>
+    <File md5="380D3BE64F84113D00F5441050CB8B0A" import="1">Art/Build Atlas/Harappa_Build_45.dds</File>
+    <File md5="9B8B6C3184EDB56BF6F81DC807E8FCBB" import="1">Art/Build Atlas/Harappa_Build_64.dds</File>
+    <File md5="A5CCBCD1B265C0E857781417181BEA79" import="1">Art/Build Atlas/Harappa_Gold_Build_45.dds</File>
+    <File md5="1F4C9470A19A962BB3A8C856A9923C73" import="1">Art/Build Atlas/Harappa_Gold_Build_64.dds</File>
+    <File md5="04288BD556A3A8F933BD19687730070E" import="1">Art/HarappaDoMMod.dds</File>
+    <File md5="B2FAA26C2548024CA792257DE10A70B3" import="1">Art/HarappaMapMod.dds</File>
+    <File md5="90F6C1CB784BF81CD608720EE5D240FF" import="1">Art/HarrappanDiplo.dds</File>
+    <File md5="D9219FAE56DF582496AC705D7A2F8320" import="1">Art/Unit/Alpha/HarappaUnitAlphaAtlas.dds</File>
+    <File md5="DDD264BFD41A9937142355EDAD6FA643" import="1">Art/Unit/Alpha/sv_harappa_mod.dds</File>
+    <File md5="3D7C5F548A1B0838C43FD9F6D2F0BB47" import="1">Art/Unit/Cart/Cart_diff.dds</File>
+    <File md5="67ADF07E916FD76FE60CB5733F958601" import="1">Art/Unit/Cart/Cart_sref.dds</File>
+    <File md5="33B670793E455A38389C5199B9B277C5" import="1">Art/Unit/Cart/Oxen_00_sref.dds</File>
+    <File md5="154F4D0C8487298A3DB4D184465D352D" import="1">Art/Unit/Cart/Oxen_01_diff.dds</File>
+    <File md5="ABBF4FE3E3C1B62B90E00D84F00C7956" import="1">Art/Unit/Cart/Oxen_02_diff.dds</File>
+    <File md5="25DEADCB3B4E20D7524513A528D96651" import="1">Art/Unit/Cart/SupplyDriver_diff.dds</File>
+    <File md5="D5964F323A7C30EFE328F4E515067A31" import="1">Art/Unit/Cart/SupplyDriver_sref.dds</File>
+    <File md5="581E5D3BCE541C78FFE99B92F1B66068" import="1">Art/Unit/Cart/SupplyTrainV2.fxsxml</File>
+    <File md5="DAD47E0402EBEFF16492CBF059E81D1B" import="1">Art/Unit/Cart/SupplyTrainV2.gr2</File>
+    <File md5="05C9067AA85E73B1BC0ED738EE11D3C8" import="1">Art/Unit/Worker/buddhist_worker.gr2</File>
+    <File md5="43CC6D2500615841E7FBF5AEAE413BD9" import="1">Art/Unit/Worker/worker_buddhist.fxsxml</File>
+    <File md5="8ECC753C38D38BD0EB23BAC0BAEFF25E" import="1">Art/Unit/Worker/worker_buddhist_diff.dds</File>
+    <File md5="BC8E37AEEDED114480A4B01A55AD2ABC" import="1">Art/Unit/Worker/worker_buddhist_sref.dds</File>
+    <File md5="4801119469B18379304A1A7AD0EA7516" import="0">Decisions/Harappa Decisions Support.xml</File>
+    <File md5="38FBAFC08C96F614496FCD1D900CD7A8" import="1">Decisions/TomatekhHarappaEvents.lua</File>
+    <File md5="54D626C31A0BDE0685D48E87557577DA" import="1">Decisions/TomatekhHarappaDecisions.lua</File>
+    <File md5="43E5239FCEB10E4D0018DF21BC603804" import="0">Lua/Harappa Lua Check.lua</File>
+    <File md5="0B41DCF16C9E7E7477CF6EB824DE84C8" import="1">Lua/Harappa Lua Scripts.lua</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">Lua/SaveUtils.lua</File>
+    <File md5="9788FBCEEAE0373581B738E4B5133170" import="1">Sounds/HarappaWar.mp3</File>
+    <File md5="6E84E93D7D2187D50B5A5AC1EE709D4D" import="1">Sounds/WentAntuDoM.mp3</File>
+    <File md5="F1620CE9C07BFFEC74B010B5442E578C" import="1">Sounds/WentAntuPeace.mp3</File>
+    <File md5="B1F5A3E1A4267BD672C0D4EFBB630245" import="0">SQL/Harappa Mod Support.sql</File>
+    <File md5="6672159BAB6E8DCD4C300F06BBB9E5B7" import="0">SQL/Harappa Unit Skin Mod.sql</File>
+    <File md5="BCC88A5F764BDC285A07E36E7F07EC12" import="1">XML/Art/civ5artdefines_unitmembers.xml</File>
+    <File md5="EBC06E908EB9EEBF0C4F9D50F16BF39F" import="1">XML/Art/civ5artdefines_units.xml</File>
+    <File md5="CDC624365A0E850D15118AAE4136F0F9" import="0">XML/Art/Harappa Atlas Mod.xml</File>
+    <File md5="FD20B7865B6EE4D25B4CB7C699FA22BD" import="1">XML/Art/Harappa_Leader_Scene_Mod.xml</File>
+    <File md5="D39EE58D2F474F73AFB9CF417D599B14" import="0">XML/Buildings/Harappa Buildingclass Mod.xml</File>
+    <File md5="5FE797D96BF4F4CF74C11728822ADB85" import="0">XML/Buildings/Harappa Buildings Mod.xml</File>
+    <File md5="A8E42C52786F0428E589C559AAAB01A6" import="0">XML/Civilizations/Harappa Civilization Mod.xml</File>
+    <File md5="F34CF7ABFABA038901B9EA9ECE8DB01D" import="0">XML/Civilizations/Harappa Leader Mod.xml</File>
+    <File md5="A764A5DF37014C76ACCF26242C25A684" import="0">XML/Civilizations/Harappa Traits Mod.xml</File>
+    <File md5="DE6F373699E31FD74E36BAC49A1EC0DD" import="0">XML/Diplomacy/Harappa Dilpomacy Mod.xml</File>
+    <File md5="BD2C24130134A80E54747E98CFB8E16B" import="0">XML/Sounds/Harappa Sound Mod.xml</File>
+    <File md5="2C1FC7C0ECA8618D6E6087ADBE95C9C6" import="0">XML/Terrain/Harappa Improvements Mod.xml</File>
+    <File md5="F84E1A86ED9D342DC4C1910D14976F03" import="0">XML/Text/Harappa Text Mod.xml</File>
+    <File md5="62C0975B0B8F326C608C6E9089E314FA" import="0">XML/Text/Non English XML Tags/Harappa Game Text DE_DE.xml</File>
+    <File md5="4AB5DAB4A3C76BA28CD0DAD566222323" import="0">XML/Text/Non English XML Tags/Harappa Game Text ES_ES.xml</File>
+    <File md5="945D6BD3D8EE432341B588DDEEADED42" import="0">XML/Text/Non English XML Tags/Harappa Game Text FR_FR.xml</File>
+    <File md5="046E61DFD393981E87DB64D4F201D7C7" import="0">XML/Text/Non English XML Tags/Harappa Game Text IT_IT.xml</File>
+    <File md5="BA7CDA3D14A9440A9E41FF39623FB7D8" import="0">XML/Text/Non English XML Tags/Harappa Game Text JA_JP.xml</File>
+    <File md5="2E022A33D0FB78BAD36E766F24104419" import="0">XML/Text/Non English XML Tags/Harappa Game Text KO_KR.xml</File>
+    <File md5="63678FBA97C4D2C581CAB4EF7BF082AF" import="0">XML/Text/Non English XML Tags/Harappa Game Text PL_PL.xml</File>
+    <File md5="3B1DA502AEC38DA556913800D3BC13A2" import="0">XML/Text/Non English XML Tags/Harappa Game Text RU_RU.xml</File>
+    <File md5="11AB33A94CCBF2D006E6E84C1D6D26D8" import="0">XML/Unit/Harappa Promotion Mod.xml</File>
+    <File md5="34A3A7E8C2B3B15483B5BC8956EFEF94" import="0">XML/Unit/Harappa Unit Mod.xml</File>
+    <File md5="0F623789C68FECC9FE0A54F953F01436" import="0">XML/Unit/Harappa Unitclass Mod.xml</File>
+    <File md5="093C60A43724B223DEE38B10A46B1DD1" import="0">YnAEMP/Harappa YnAEMP Compatability.sql</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Civilizations/Harappa Civilization Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Harappa Text Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Art/Harappa Atlas Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Harappa Traits Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Harappa Leader Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Diplomacy/Harappa Dilpomacy Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Unit/Harappa Promotion Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Unit/Harappa Unitclass Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Unit/Harappa Unit Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Harappa Buildingclass Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Sounds/Harappa Sound Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Harappa Buildings Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Harappa Game Text DE_DE.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Harappa Game Text ES_ES.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Harappa Game Text FR_FR.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Harappa Game Text IT_IT.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Harappa Game Text JA_JP.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Harappa Game Text KO_KR.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Harappa Game Text PL_PL.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Harappa Game Text RU_RU.xml</UpdateDatabase>
+      <UpdateDatabase>YnAEMP/Harappa YnAEMP Compatability.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Harappa Mod Support.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Harappa Unit Skin Mod.sql</UpdateDatabase>
+      <UpdateDatabase>Decisions/Harappa Decisions Support.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Terrain/Harappa Improvements Mod.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Harappa Lua Check.lua">
+      <Name>Harappa</Name>
+      <Description>Scripts</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>
