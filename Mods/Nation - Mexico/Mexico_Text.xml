@@ -1,0 +1,361 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Pouakai -->
+<GameData>
+	<Language_en_US>
+		<!--Unique Unit-->
+		<Row Tag="TXT_KEY_UNIT_MEXICAN_RURALES">
+			<Text>Rurales</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MEXICAN_RURALES_HELP">
+			<Text>Rifleman replacement, unique to Mexico. When stationed in a city, provides +2 [ICON_HAPPINESS] Happiness. Recieves +10% Combat strength when fighting in friendly territory</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MEXICAN_RURALES_STRATEGY">
+			<Text>Rurales are a Mexican Unique Unit with strong incentives to remain at home, within the empire. While garrisoned in a city, they contribute +2 [ICON_HAPPINESS] Happiness to the empire. In addition to this, they recieve a +10% combat boost when fighting in friendly territory</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MEXICAN_RURALES_CIVILOPEDIA">
+			<Text>The Rurales (officially the Guardia Rural, or Rural Guard), began as a unit of rural policemen which were tasked with the	elimination of crime, particularly banditry, from the less developed regions of Mexico in the middle of the 19th century. Over subsequent decades, the force became more organised and militaristic, until becomming part of the Mexican army. During the French Intervention, the Rurales fought alongisde the revolutionary army, becomming a Mexican icon in the process. As such, the name lives on to this day in small, localised defensive groups established in rural communities across Mexico to defend the region against threats, both foreign and domestic.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MEXICAN_ZAPATISTA">
+			<Text>Zapatista</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MEXICAN_ZAPATISTA_HELP">
+			<Text>Light infantry primarily focused on guerrilla warfare. Only Mexico can build it. Ignores Terrain costs, and recieves a bonus when fighting in rough terrain. The Zapatista also recieves a bonus when fighting on a pillaged improvement and is a melee unit, unlike the Gatling Gun which is replaces.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MEXICAN_ZAPATISTA_STRATEGY">
+			<Text>The Zapatista is a unique Mexican replacement for the Gatling Gun. It is a light infantry melee unit, and recieves bonuses relating to guerrilla warfare. In particular, the Zapatista can ignore terrain costs, and starts with the Drill 1 promotion, giving it a bonus when fighting in rough terrain. They also recieve a 20% combat boost when fighting on pillaged tile improvements</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MEXICAN_ZAPATISTA_CIVILOPEDIA">
+			<Text>Formed as part of the Mexican Revolution in the early twentieth century, the Zapatistas were an armed group who supported Emiliano Zapata in ousting the Mexican dictator Porfirio Diaz.  The Zapatistas were hardy a modern army by any standards.  Rather, they were a collective militia who rallied around the anti-Porfirio regime in Mexico in order to redistribute the land and wealth evenly.  It consisted mostly of the impoverished peasantry, many of whom did not serve the army for more than a few months before returning to their homes to tend to their farms, families, and crops.  The militia served until 1920, around the end of the Mexican Revolution, though today its name lives on in another political group in southern Mexico bearing the same name.</Text>
+		</Row>
+		<!--Promotion Tags-->
+		<Row Tag="TXT_KEY_PROMOTION_RURAL_HAPPINESS">
+			<Text>Happiness while Garrisoned</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RURAL_HAPPINESS_HELP">
+			<Text>Provides +2 [ICON_HAPPINESS] Happiness when garrisoned.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BONUS_IN_FRIENDLY">
+			<Text>Bonus in Friendly (10)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BONUS_IN_FRIENDLY_HELP">
+			<Text>10% Combat Strength increase when fighting in friendly territory</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PILLAGE_BONUS">
+			<Text>Bonus on Pillaged Tile (20)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PILLAGE_BONUS_HELP">
+			<Text>+20% Combat Strength when fighting on a pillaged tile</Text>
+		</Row>
+		<!--Unique Ability-->
+		<Row Tag="TXT_KEY_TRAIT_PLAN_OF_IGUALA_SHORT">
+			<Text>Plan of Iguala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_PLAN_OF_IGUALA">
+			<Text>Artifacts in your empire provide +2 [ICON_CULTURE] Culture in the capital. Borders expand 20% quicker.</Text>
+		</Row>
+		<!--Spy Names-->
+		<Row Tag="TXT_KEY_SPY_NAME_MEXICO_0">
+			<Text>Fernando</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MEXICO_1">
+			<Text>Miguel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MEXICO_2">
+			<Text>Carlos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MEXICO_3">
+			<Text>Javier</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MEXICO_4">
+			<Text>Jose</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MEXICO_5">
+			<Text>Roman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MEXICO_6">
+			<Text>Ana</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MEXICO_7">
+			<Text>Dora</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MEXICO_8">
+			<Text>Gabriella</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MEXICO_9">
+			<Text>Maria</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--Denonyms-->
+		<Row Tag="TXT_KEY_MEXICO_DESC">
+			<Text>Mexican Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEXICO_SHORT_DESC">
+			<Text>Mexico</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEXICO_ADJECTIVE">
+			<Text>Mexican</Text>
+		</Row>
+		<!--Civilopedias-->
+		<Row Tag="TXT_KEY_MEXICO">
+			<Text>Mexico</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MEXICO_TITLE">
+			<Text>Mexican Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MEXICO_HEADING_1">
+			<Text>Early History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MEXICO_TEXT_1">
+			<Text>Before the arrival of Europeans, Mexico was a country that supported a diverse and rich blend of cultural groups, ranging from the Chichimec hunter-gathers of the arid northern desert to the Guatemalan Highland groups in the southern jungles. Power between these various groups shifted throughout the centuries, and by the time of the Spaniards arrival the Aztec, a large and powerful empire dominating the extensive Valley of Mexico, were the dominate civilization in the area. However, their rule only lasted some nearly two hundred years before succumbing to not only the invasion of the Spanish and their advanced weaponry as well as the diseases they carried, but also due in part to the fifty thousand or so natives that assisted the Conquistadors in conquering the Aztec, a sort of payback for the taxation and harsh treatment of tribute nations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MEXICO_HEADING_2">
+			<Text>Climate and Terrain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MEXICO_TEXT_2">
+			<Text>The climate of Mexico is primarily defined by a dry and arid north that is dominated by the Sonoran Desert, and the tropical wet-humid southern lands.  This is caused in party by Mexico being essentially divided by the Tropic of Cancer, letting the land north of that experience mild seasonal weather, while what lies below it remaining at roughly the same temperature year round with variations depending on altitude and other geographical factors.  Mexico has pronounced dry and wet seasons, with June to October being the rainy season while the other months receive far less rain on average.  The highest point in Mexico is the volcano Pico de Orizaba volcano, standing 5,700 meters tall.  Natural hazards of the country include tsunamis on the Pacific side, earthquakes and volcanic activity in various parts of the country, and hurricanes and flooding on the eastern part of the country bordering the Gulf of Mexico and Caribbean Sea.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MEXICO_HEADING_3">
+			<Text>Colonial Era</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MEXICO_TEXT_3">
+			<Text>After the fall of the Aztec, the Spanish quickly took an interest in the new lands littered with gold, silver, and other materials that the Spanish Crown found of value, sending colonists from their Caribbean colonies and Spain to these new lands as they decreed the conquered lands The Viceroy of New Spain. The Viceroy of Spain would remain the most valuable and prosperous colony of the kingdom for centuries to come as they supplied and funded Spain with rich raw materials. Taking the lands of the Natives for themselves, they initially divided them amongst colonists using the system of encomiendas, or tribute grants, before later switching over to the haciendas system, or land grants. [NEWLINE][NEWLINE]Meanwhile, as African slaves and European settlers moved into the area, the former Native population that had reportedly numbered in the tens of millions was decimated by the introduction of small pox and other European disease for which they had no natural immunity to, leaving the Spanish with only minor problems in maintain control of the colony with the Yucatan Peninsula and less maintained north-north western areas being the main centers of resistance. This system of haciendas, exploiting the land for the benefit of Spain rather than the colony, slavery, and ravishment of the natives would continue from the time that Hernan Cortes conquered the Aztec until the independence movement in 1821.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MEXICO_HEADING_4">
+			<Text>The Mexican Revolution</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MEXICO_TEXT_4">
+			<Text>For reasons similar to other colonies owned by over-seas European powers, Mexico and other Spanish colonies sought to establish their sovereignty from their mother country in the early 1800s as tens of thousands armed themselves to fight for their freedom, with many popular figures in Mexican history coming about during this time. One figure in particular was a Catholic priest by the name of Father Miguel Hidalgo y Costilla, who rang his church's bells on the 16th of September in 1810, urging the local natives to "...Recover from the Spaniards the land stolen from your forefathers..." and is the date that Mexicans celebrate their independence. After Hidalgo was hanged by the Spaniards in 1811, he was succeeded by another priest, Jose Maria Morelos y Pavon, who was a much more able leader than his predecessor. Morels summoned a nation congress on November the 6th of 1812 that officially declared Mexico as a sovereign entity that was separate from Spain.[NEWLINE][NEWLINE] Although executed in 1815, his army of nationalists would be led by General Vicente Guerreo and would carry on the fight for six more years until 1821. Due to the conflicting ideas amongst royalist leaders in Mexico and their other various weaknesses, the revolutionary movement continued to garner strength as royalists defected to the side of the nationalists. One such officer, Agustin de Iturbide, joined forces with Guerrero to write the Plan of Iguala, which provided for national independence under a constitutional monarchy, henceforth named The Mexican Empire. While Iturbide was established as the first Emperor of the Empire, his reign was short lived as he was exiled from Mexico within less than a year of his leadership, being executed after returning to the country years later. In his wake, a new Mexican Republic was born under the leadership of its first president, Guadalupe Victoria. Victoria would see many reforms in Mexico ranging from education to establishing diplomatic relationships with the United States, Great Britain, France, and other major world powers at the time. During his reign, however, General Santa Anna maintained status as one of the dominant politicians in the new Empire, despite significant losses suffered by Mexico during the Texan secessionist movement and the proceeding Mexican-American war of 1846, in which Mexico lost Texas and most of its north western territory to the United States.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MEXICO_HEADING_5">
+			<Text>The Diaz Years and the French Occupation of Mexico</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MEXICO_TEXT_5">
+			<Text>For nearly half a century after their independence, Mexico continued to stagnate and remained static economically and politically as the commoners continued to feel the brunt of the meager economy and unstable political system. Benito Juarez became president in 1858, and made significant progress to remove the power the Catholic Church had over Mexico by issuing the Ley Lerdo, effectively separating the church and state and abolishing much of the control the church held on the country while subsequently nationalizing church property in an attempt to give the peasantry something to gain. Unfortunately, much of this property was quickly purchased by the ruling elite, giving the natives and peasants little new opportunity for prosperity and growth. Years of a destitute economy finally lead to the suspension of payment on foreign loans and in 1861 the French, Spanish, and British forces occupied the port city of Veracruz to collect debts the nation owed them. While the British and Spanish quickly withdrew, the French stayed and by 1864 had overthrown the Mexican government, appointing Maximilian I of Austria as the emperor. [NEWLINE][NEWLINE] During his war against the French invasion, the Mexican armies won a major battle against the tactically superior French forces on May 5th 1862, which become the well-known Cinco de Mayo celebrated by Mexicans today. While the United States was unable to assist Mexico during this time in accords to the Monroe Doctrine due to its Civil War, the US threatened to send troops after the Union victory in order to maintain the Doctrine, and the French forces left Mexico and Maximilian was executed by the Mexicans in 1867. The void of power left by the forced abdication of Maximilian saw several difficult years of political upheaval before the rise of President Porfirio Diaz in 1877. His rule brought about great expansion of both Mexican infrastructure and the economy, as well as attracting the interest of foreign investors to the country. However, Diaz was also a tyrant, ruling Mexico with an iron fist dictatorship for all but four years during his time as president, allocating large swaths of land to foreign speculators and his inner circle of friends and allies while the vast majority of the Mexican people remained destitute and without land to call their own, indebted to the government.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MEXICO_HEADING_6">
+			<Text>The Second Mexican Revolution</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MEXICO_TEXT_6">
+			<Text>Diaz’s tight grip on Mexico caused Mexicans outside of his inner circle to have essentially no chance of advancing their place in society, even Mexicans from upper-middle class families hardly had a chance to further themselves. In the wake of this inequality, a man by the name of Francisco Madero, son of a wealthy family, is credited with starting the Mexican Revolution in 1910 after fraudulent elections. By 1911, Diaz had been forced out of office and Madero had become president of Mexico, with goals to lead the nation through his idealisms. Madero however was rather politically inept, and as a result his presidency was short lived as the nephew of Porfirio, Felix Diaz, and General Victoriano Huerta banded together in a rebellion that ousted Madero, who was executed along with his vice president in February of 1913. During this time, two new revolutionary groups formed in Mexico. The Zapatistas in the south were led by Emiliano Zapata and sought land and liberty for the peasants, while in the north Governor Venustiano Carranza, Poncho Villa, and General Alvaro Obregon sought to simply regain the power that Madero supporters such as themselves had lost. The next few years that followed were a chaotic time in Mexican history, with fighting breaking out between the Zapatistas and Carranza’s supporters, and Diaz’s supporters. [NEWLINE][NEWLINE] In 1915 Carranza managed to overthrow Huerta and became president, but distanced himself from Villa and his other supporters. Zapata was killed shortly after Carranza came to power, although his platform of agrarian reform became the ideal of the revolution. It was during this time that Villa returned to the state of Chihuahua where he raided border towns in the American southwest that resulted in a number of deaths from American civilians. This prompted the United States to send General John J. Perishing to Mexico in order to apprehend Poncho Villa, although his attempts were unsuccessful. While Poncho Villa was leading these raids, Carranza achieved what could be called his greatest achievement of creating the Mexican Constitution of 1917 that ended the nearly four hundred year grip that feudalism had held in Mexico.[NEWLINE][NEWLINE]Carranza was assassinated in 1920, with General Obregon taking his place as president. A strong man with character to show, Obregon was able to and willing to push needed social reforms in Mexico during his presidency. He was succeeded in 1924 by General Plutarco Elias Calles, with whom Obregon was a longtime political ally. Calles was vehemently antichurch and had a distaste for foreign capital investment, and only after much persuasion did he reopen churches and lessen hostilities to foreign governments he had angered. Obregon was elected to a second term in 1928, and was subsequently assassinated the same year, with Calles controlling the nation afterwards for six years with three puppet presidents under the Institutional Revolutionary Party.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MEXICO_HEADING_7">
+			<Text>Democratic Reform and Post-Modernism Politics</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MEXICO_TEXT_7">
+			<Text>The election of General Lazaro Cardenas in 1934 changed the nation and its politics permanently, with Cardenas expelling Calles and initiating a six-year plan to modernize Mexico. He redistributed more land than all previous Mexican heads of state combined, built schools in the more rural parts of the country, and nationalized the oil industry while strengthening the nations unions. His successor, Miguel Aleman Valdes, was elected president in 1946 and was responsible for massive public-works projects that included irrigation constructions in the northwest and hydroelectric power plants in the south. Luis Alvarez was elected in 1970 and served as president until 1976. However, during his presidency he devalued the peso after nearly a quarter of a century of parity with the US Dollar. His successor, Jose Lopez Portillo headed the country during a massive economic growth due in part to a boom in the oil industry. Miguel de la Madrid Hurtado was elected president in 1982 and inherited an economy that suffered from decreased oil prices as the boom ended while also dealing with for sizeable foreign debt. In 1988 Carlos Salinas de Gortari was elected president in an election that many cried out as fraudulent. He ordered the closing of Ciudad de Mexico’s oil refinery in 1991 in an effort to combat the air pollution crisis the city faced. Salinas was succeeded by Ernesto Zedillo Ponce de Leon in 1994, whose election was won by an ill-fated stroke of luck due to his opponent, Luis Donaldo Colosio, being assassinated. In 1996 Zedillo and other leaders in the Mexico signed a political reform agreement that limited the amount of campaign spending as well as the Institutional Revolutionary Party’s control of the election procedures and ballot counting, as well as adding 17 new amendments to the constitution of Mexico. It was shortly after this that in 1997 the Party’s sixty-eight year rule came to an end with the National Action party and Party of the Democratic Revolution winning a combined total of 57% of the legislative votes in lieu of the Institutional Revolutionary Party. This marked a notable change of Mexico moving away from a near one party rule toward a multiparty democracy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MEXICO_HEADING_8">
+			<Text>Modern Mexico</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MEXICO_TEXT_8">
+			<Text>Even with these improvements within the country, Mexico is still a nation that is plagued with challenge. Compared to their northern neighbors of the United States and Canada, the country falls behind in western standards of infrastructure and political stability. Politics are corrupt at various levels, with powerful drug lords running Cartels bribing or intimidating the Mexican leaders and authorities into turning a blind eye towards their illegal drug smuggling as the civilians suffer from this increase in crime and lack of true law enforcement. Just as well, Mexico is experiencing emigration problems as thousands defect each year into the United States in search of work, housing, and opportunity that they cannot find in Mexico. Yet despite these problems, Mexicans manage to maintain a strong love for their countrymen, culture, and nation in the wake of criticism from the west. Their ability to overcome adversity from internal and external threats, constant change and reform, and violence and crime while still maintaining their heritage and lifestyle makes them a people who are truly strong, durable, and able to overcome the odds against them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MEXICO_STATBOX">
+			<Text>[NEWLINE]        Leader: Guadalupe Victoria[NEWLINE]        Unique Units: Rurales[NEWLINE]        Zapatista[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MEXICO_FACTOID_HEADING">
+			<Text>Ayyubid Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MEXICO_FACTOID_TEXT">
+			<Text>Despite the ongoing war with the Crusaders, it did not prevent the development of good commercial relations with Europe. The major factor to this was the new interests the Europeans developed when coming into contact with the Muslims. Everything from commodities to new fashions and furnishings, and eastern works of art.</Text>
+		</Row>
+		<!--City List-->
+		<Row Tag="TXT_KEY_CITY_NAME_MEXICO_CIDUAD_DE_MEXICO">
+			<Text>Ciudad de México</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEXICO_ECATEPEC">
+			<Text>Ecatepec</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEXICO_GUADALAJARA">
+			<Text>Guadalajara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEXICO_VERACRUZ">
+			<Text>Veracruz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEXICO_MONTERREY">
+			<Text>Monterrey</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEXICO_PUEBLA">
+			<Text>Puebla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEXICO_LEÓN">
+			<Text>León</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEXICO_JUÁREZ">
+			<Text>Juárez</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEXICO_TIJUANA">
+			<Text>Tijuana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEXICO_ZAPOPAN">
+			<Text>Zapopan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEXICO_SANTA_FE">
+			<Text>Santa Fe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEXICO_CHIHUAHUA">
+			<Text>Chihuahua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEXICO_NAUCALPAN">
+			<Text>Naucalpan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEXICO_MÉRIDA">
+			<Text>Mérida</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEXICO_SAN_LUIS_POTOSÍ">
+			<Text>San Luis Potosí</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEXICO_AGUASCALIENTES">
+			<Text>Aguascalientes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEXICO_HERMOSILLO">
+			<Text>Hermosillo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEXICO_SALTILLO">
+			<Text>Saltillo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEXICO_MEXICALI">
+			<Text>Mexicali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEXICO_CULIACÁN">
+			<Text>Culiacán</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEXICO_GUADALUPE">
+			<Text>Guadalupe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEXICO_ACAPULCO">
+			<Text>Acapulco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEXICO_TLALNEPANTLA">
+			<Text>Tlalnepantla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEXICO_CANCÚN">
+			<Text>Cancún</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEXICO_QUERÉTARO">
+			<Text>Querétaro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEXICO_CHIMALHUACÁN">
+			<Text>Chimalhuacán</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEXICO_TORREÓN">
+			<Text>Torreón</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEXICO_MORELIA">
+			<Text>Morelia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEXICO_REYNOSA">
+			<Text>Reynosa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEXICO_TLAQUEPAQUE">
+			<Text>Tlaquepaque</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEXICO_TUXTLA_GUTIÉRREZ">
+			<Text>Tuxtla Gutiérrez</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEXICO_DURANGO">
+			<Text>Durango</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEXICO_TOLUCA">
+			<Text>Toluca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEXICO_CIUDAD_LÓPEZ_MATEOS">
+			<Text>Ciudad López Mateos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEXICO_CUAUTITLÁN_IZCALLI">
+			<Text>Cuautitlán Izcalli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEXICO_APODACA">
+			<Text>Apodaca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEXICO_SAN_ANTONIO">
+			<Text>San Antonio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEXICO_SAN_NICOLÁS">
+			<Text>San Nicolás</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEXICO_XALAPA">
+			<Text>Xalapa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEXICO_TONALÁ">
+			<Text>Tonalá</Text>
+		</Row>
+		<!-- Leader Civlopedia Text -->
+		<Row Tag="TXT_KEY_LEADER_GUADALUPE_DESC">
+			<Text>Guadalupe Victoria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUADALUPE_LIVED">
+			<Text>1786 - 1843</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUADALUPE_NAME">
+			<Text>Guadalupe Victoria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUADALUPE_SUBTITLE">
+			<Text>President of Mexico</Text>
+		</Row>
+		<!--<Row Tag="TXT_KEY_LEADER_GUADALUPE_TITLES_1">
+			<Text>El Presidente</Text>
+		</Row>-->
+		<Row Tag="TXT_KEY_LEADER_GUADALUPE_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUADALUPE_TEXT_1">
+			<Text>Born Jose Miguel Ramon Aduacto Fernandez y Felix, Guadalupe Victoria was a politician and military officer who served the nationalists during the Mexican War of Independence against Spain. He was a member of the Supreme Executive Power, a provisional government for Mexico, a deputy in the Mexican Chamber of Deputies for Durango, and served to be Mexico’s first President. His term as president is noted for his abolition of slavery, clarifying the border with the United States, and establishing diplomatic relations with many of the great European and American powers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUADALUPE_HEADING_2">
+			<Text>Early Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUADALUPE_TEXT_2">
+			<Text>Victoria was born on the 29th of September in 1786 in Tamazula in New Spain, now the state of Durango. Early on in his life his parents both died, leaving him to be baptized and adopted by his uncle, Agustin Fernandez. He studied at the Durango Seminary and made a living by creating copies of Latin grammar texts to sell to the other students for two reales. In 1807 he left for Ciudad de Mexico, enrolling in the college of San Ildefonso to obtain degrees in Civil and Canon Law. He studied hard and vigorously, and kept himself in line in the tight atmosphere of the militarized school. He graduated with a Bachelor of Laws on the 24th of April, 1811.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUADALUPE_HEADING_3">
+			<Text>The Revolution</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUADALUPE_TEXT_3">
+			<Text>In the beginning of the Mexican Revolution in 1812, he joined the insurgent forces lead by Hermenegild Galeana, fighting in the Siege of Cuautla with Jose Morelos. He also served a part in the siege of Oaxaca, later joining the troops of Nicolas Bravo in Veracruz. He put forth quite a bit of time and effort into raiding military convoys while defending the passage of El Puente del Rey until his defeat in 1815. He retreated to the town of Nautla and for a number of years continued his raids on the Spaniards while going back and forth between losing and gaining towns and territory. By 1817, his loses had disgraced him to the point that his men abandoned him, and that rebel leaders wished to persecute him. He fled to the jungle. He survived by eating herbs, fruits, and animals while also developing epilepsy, all while denying a pardon from the Viceroy for his insurgent actions. He stayed in the jungle for nearly four years before once again emerging to join forces with Agustin de Iturbide and Vicente Guerrero in 1821, helping the final push for independence and ultimately helping to create the Plan of Iguala that would directly lead to the signing of the Declaration of Independence of the Mexican Empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUADALUPE_HEADING_4">
+			<Text>The Mexican Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUADALUPE_TEXT_4">
+			<Text>With the formation of the Mexican Empire, Victoria sought to get Iturbide to fully comply with the Plan of Iguala by letting an unmarried insurgent who had not accepted a pardon marry a native Guatemalan woman in order to unify both Mexico and the Central American states. Iturbide declined and proclaimed himself to be Emperor of Mexico, creating a rift between himself and Victoria. Iturbide’s disbanding of the Mexican Congress within the first year of his reign would ultimately be his downfall as Mexicans quickly became fed up with his actions and promptly dethroning him by 1823 after brief fighting with his forces against those of Victoria and Guerrero. When the dust had settled and Iturbide had abdicated the throne, the role of power was filled by a triumvirate called the Supreme Executive Powers, on which he would serve based in Veracruz until the presidential elections.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUADALUPE_HEADING_5">
+			<Text>Presidency</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUADALUPE_TEXT_5">
+			<Text> In 1826, Victoria was elected to be the first President of Mexico, and appointed Nicolo Bravo as his vice president. The early years of his presidency were characterized by the need to defend against the threat of a Spanish attempt at retaking Mexico, to which he responded by increasing spending on the military, rebuilding damaged infrastructure, and garrisoning the Yucatan in the event of an invasion via Cuba. Victoria is also well known for establishing the National Bank of Mexico to help improve the economy, and even more so for abolishing slavery in Mexico. It was also during his term that he established diplomatic relationships with major world powers such as France, Spain, the United Kingdom, and the United States of America.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUADALUPE_HEADING_6">
+			<Text>Post Presidency</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUADALUPE_TEXT_6">
+			<Text>After serving his full term as president, Victoria promptly retired from a public lifestyle to manage his own affairs, living at his hacienda in Veracruz while he gave the presidency to General Vicente Guerrero. He was briefly appointed military command of Veracruz in 1836, but resigned only a month after being given the position. Even in his retirement, Victoria still assisted the government in handling a few diplomatic affairs, and did so until his death on March 21st 1843.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUADALUPE_HEADING_7">
+			<Text>Verdict of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUADALUPE_TEXT_7">
+			<Text>History views Guadalupe Victoria in a nominally good light. He stood for independence for an oppressed people, fighting against a number of odds in order to see the Mexican Revolution through until a successful end while benefiting the country all the while. His building of the National Bank, educational reforms, and abolition of slavery are by far his most renowned accomplishments, and it is these things that earned him a rightful place in history as one of the greatest leaders Mexico has ever had, and one of the better men of his time.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUADALUPE_FIRST_GREETING_1">
+			<Text>Welcome to Mexico. Tell me, what foreign nation do you hail from, and when shall we establish our relations?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUADALUPE_FIRST_GREETING_2">
+			<Text>Welcome to the glorious new republic of Mexico.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUADALUPE_DEFEATED_1">
+			<Text>You are not the first to conquer us, nor will you be the last. We will forever emerge to fight again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GUADALUPE_DEFEATED_2">
+			<Text>What's this? A new empire from across the seas seeks to eliminate us? How quaint. Enjoy your victory, for your days are numbered. </Text>
+		</Row>
+		<!-- DOM Text-->
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_MEXICO_TEXT">
+			<Text>Greetings, Guadalupe Victoria! It was your leadership which first helped the Mexican people to freedom from their colonial oppressors, a feat for which you were rewarded with the Presidency. It was during your rule that Mexico forged foundations for her future growth, not least among which was your establishment of diplomatic relations with several foreign powers. Mexico grew strong in the years after your death, forging proud military and cultural heritage through a unique fusion of native and colonial beliefs, all the while securing her borders from foreign threats.[NEWLINE][NEWLINE]Guadalupe, your people look to you for guidance. Can you re-ignite the passion of the revolution which won you the hearts and minds of your fellow countrymen? Can you unite Mexico under your banner and lead them boldly into regions unknown? Can you build a civilization that can stand the test of time?</Text>
+		</Row>
+	</Language_en_US>	
+</GameData>

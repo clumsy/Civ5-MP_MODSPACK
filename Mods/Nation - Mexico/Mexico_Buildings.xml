@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Pouakai-->
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_RURAL_HAPPINESS</Type>
+			<BuildingClass>BUILDINGCLASS_RURAL_HAPPINESS</BuildingClass>
+			<Cost>-1</Cost>
+			<PrereqTech>NULL</PrereqTech>
+			<MinAreaSize>-1</MinAreaSize>
+			<Happiness>2</Happiness>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<FaithCost>-1</FaithCost>
+			<IconAtlas>MEXICO_ATLAS</IconAtlas>
+			<PortraitIndex>2</PortraitIndex>
+		</Row>
+		<Row>
+			<Type>BUILDING_MEXICO_UA</Type>
+			<BuildingClass>BUILDINGCLASS_MEXICO_UA</BuildingClass>
+			<Cost>-1</Cost>
+			<PrereqTech>NULL</PrereqTech>
+			<MinAreaSize>-1</MinAreaSize>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<FaithCost>-1</FaithCost>
+			<IconAtlas>MEXICO_ATLAS</IconAtlas>
+			<PortraitIndex>2</PortraitIndex>
+			<GlobalPlotCultureCostModifier>-20</GlobalPlotCultureCostModifier>
+		</Row>
+	</Buildings>
+	<Building_YieldFromArtifacts>
+		<Row>
+			<BuildingType>BUILDING_MEXICO_UA</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Building_YieldFromArtifacts>
+</GameData>

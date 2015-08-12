@@ -1425,6 +1425,11 @@ ContextPtr:LoadNewContext("Harappa Lua Check")
 ContextPtr:LoadNewContext("Norte Chico Mod Check")
 ContextPtr:LoadNewContext("Caral Coastal Imports")
 
+-- Nation - Mexico --
+ContextPtr:LoadNewContext("BonusOnPillaged")
+ContextPtr:LoadNewContext("BuildingYieldFromArtifact")
+ContextPtr:LoadNewContext("MexicoScripts")
+
 -- Nation - Cuba --
 ContextPtr:LoadNewContext("CubaTraitScripts")
 ContextPtr:LoadNewContext("RevolucionarioAnarchies")

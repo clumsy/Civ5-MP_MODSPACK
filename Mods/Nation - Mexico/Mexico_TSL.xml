@@ -1,0 +1,53 @@
+<!-- Created by JFD -->
+<GameData>
+	<!-- ++++++++++++++++++++++++++++++ -->
+	<!-- Earth Giant map start position -->
+	<!-- ++++++++++++++++++++++++++++++ -->
+	<Civilizations_YagemStartPosition>
+		<Row>
+			<Type>CIVILIZATION_MEXICO</Type>
+			<X>142</X>
+			<Y>48</Y>
+		</Row>
+	</Civilizations_YagemStartPosition>
+	<!-- +++++++++++++++++++++++++++++ -->
+	<!-- Earth Huge map start position -->
+	<!-- +++++++++++++++++++++++++++++ -->
+	<Civilizations_YahemStartPosition>
+		<Row>
+			<Type>CIVILIZATION_MEXICO</Type>
+			<X>23</X>
+			<Y>42</Y>
+		</Row>
+	</Civilizations_YahemStartPosition>
+	<!-- ++++++++++++++++++++++++++++++++++ -->
+	<!-- Earth Cordiform map start position -->
+	<!-- ++++++++++++++++++++++++++++++++++ -->
+	<Civilizations_CordiformStartPosition>
+		<Row>
+			<Type>CIVILIZATION_MEXICO</Type>
+			<X>5</X>
+			<Y>27</Y>
+		</Row>
+	</Civilizations_CordiformStartPosition>
+	<!-- +++++++++++++++++++++++++++++++++++ -->
+	<!-- "Greatest Earth Map" start position -->
+	<!-- +++++++++++++++++++++++++++++++++++ -->
+	<Civilizations_GreatestEarthStartPosition>
+		<Row>
+			<Type>CIVILIZATION_MEXICO</Type>
+			<X>15</X>
+			<Y>32</Y>
+		</Row>
+	</Civilizations_GreatestEarthStartPosition>
+	<Language_en_US>
+		<Update>
+			<Set Text="Veracruz"/>
+			<Where Tag="TXT_KEY_CITY_NAME_MEXICO_CIDUAD_DE_MEXICO"/>
+		</Update>
+		<Update>
+			<Set Text="Ciudad de México"/>
+			<Where Tag="TXT_KEY_CITY_NAME_VERACRUZ"/>
+		</Update>
+	</Language_en_US>
+</GameData>
