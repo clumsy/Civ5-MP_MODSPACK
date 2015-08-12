@@ -1446,6 +1446,10 @@ ContextPtr:LoadNewContext("CanadianRCMPHappiness")
 ContextPtr:LoadNewContext("GarrisonArtilleryScript")
 ContextPtr:LoadNewContext("GivesHorses")
 
+-- Nation - Resources --
+ContextPtr:LoadNewContext("HNR_Main")
+--ContextPtr:LoadNewContext("OnHNRLoad")
+
 -- Misc - Pontoon Bridge --
 ContextPtr:LoadNewContext("Pontoon Bridge Lua")
 

@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/21/2011 8:45:55 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_RESOURCE_APPLE">
+			<Text>Apple</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_APPLE_TEXT">
+			<Text>The apple tree (Malus domestica) is a deciduous tree in the rose family best known for its sweet, pomaceous fruit, the apple. It is cultivated worldwide as a fruit tree.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_APPLE_HELP">
+			<Text>+1 [ICON_PRODUCTION] Production and +1 [ICON_FOOD] Food from Plantations.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_RESOURCE_BLUEBERRY">
+			<Text>Blueberry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_BLUEBERRY_TEXT">
+			<Text>Blueberries are perennial flowering plants with indigo-colored berries. Blueberries are usually erect. Prostrate shrubs can vary in size from 10 centimeters (3.9 in) to 4 meters (13 ft) in height.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_BLUEBERRY_HELP">
+			<Text>+2 [ICON_FOOD] Food from Plantations.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_RESOURCE_EMERALD">
+			<Text>Emerald</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_EMERALD_TEXT">
+			<Text>Emerald is a gemstone and a variety of the mineral beryl colored green by trace amounts of chromium and sometimes vanadium. Beryl has a hardness of 7.5–8 on the Mohs scale. Most emeralds are highly included, so their toughness (resistance to breakage) is classified as generally poor.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_EMERALD_HELP">
+			<Text>+1 [ICON_GOLD] Gold from Mines.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_RESOURCE_HOPS">
+			<Text>Hops</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_HOPS_TEXT">
+			<Text>Hops are the female flowers (also called seed cones or strobiles) of the hop plant, Humulus lupulus. They are used primarily as a flavoring and stability agent in beer, to which they impart a bitter, tangy flavor, though hops are also used for various purposes in other beverages and herbal medicine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_HOPS_HELP">
+			<Text>+1 [ICON_GOLD] Gold from Farms.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_RESOURCE_LAVENDER">
+			<Text>Lavender</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_LAVENDER_TEXT">
+			<Text>Lavandula (common name lavender) is a genus of 39 known species of flowering plants in the mint family, Lamiaceae. It is native to the Old World and is found from Cape Verde and the Canary Islands, southern Europe across to northern and eastern Africa, the Mediterranean, southwest Asia to southeast India.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_LAVENDER_HELP">
+			<Text>+1 [ICON_GOLD] Gold from Plantations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_LEAD">
+			<Text>Lead</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_LEAD_TEXT">
+			<Text>Lead is a chemical element in the carbon group with symbol Pb (from Latin: plumbum) and atomic number 82. Lead is a soft, malleable and heavy post-transition metal. Metallic lead has a bluish-white color after being freshly cut, but it soon tarnishes to a dull grayish color when exposed to air. Lead has a shiny chrome-silver luster when it is melted into a liquid. It is also the heaviest non-radioactive element.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_LEAD_HELP">
+			<Text>+1 [ICON_PRODUCTION] Production from Mines.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_NICKEL">
+			<Text>Nickel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_NICKEL_TEXT">
+			<Text>Nickel is a chemical element with symbol Ni and atomic number 28. It is a silvery-white lustrous metal with a slight golden tinge. Nickel belongs to the transition metals and is hard and ductile. Pure nickel shows a significant chemical activity that can be observed when nickel is powdered to maximize the exposed surface area on which reactions can occur, but larger pieces of the metal are slow to react with air at ambient conditions due to the formation of a protective oxide surface.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_NICKEL_HELP">
+			<Text>+1 [ICON_PRODUCTION] Production from Mines.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_OATS">
+			<Text>Oats</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_OATS_TEXT">
+			<Text>The oat (Avena sativa), sometimes called the common oat, is a species of cereal grain grown for its seed, which is known by the same name (usually in the plural, unlike other cereals and pseudocereals). While oats are suitable for human consumption as oatmeal and rolled oats, one of the most common uses is as livestock feed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_OATS_HELP">
+			<Text>+2 [ICON_FOOD] Food from Farms.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_PEANUT">
+			<Text>Peanut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_PEANUT_TEXT">
+			<Text>The peanut or groundnut (Arachis hypogaea) is a species in the legume or "bean" family (Fabaceae). The peanut was probably first domesticated and cultivated in the valleys of Paraguay. It is an annual herbaceous plant growing 30 to 50 cm (1.0 to 1.6 ft) tall. The leaves are opposite, pinnate with four leaflets (two opposite pairs; no terminal leaflet); each leaflet is 1 to 7 cm (⅜ to 2¾ in) long and 1 to 3 cm (⅜ to 1 inch) across.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_PEANUT_HELP">
+			<Text>+2 [ICON_FOOD] Food from Plantations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_PINE">
+			<Text>Pine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_PINE_TEXT">
+			<Text>Pines are evergreen, coniferous resinous trees (or rarely shrubs) growing 3–80 m tall, with the majority of species reaching 15–45 m tall.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_PINE_HELP">
+			<Text>+1 [ICON_PRODUCTION] Production from Lumbermills.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_CLAY">
+			<Text>Clay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_CLAY_TEXT">
+			<Text>Clay is a fine-grained natural rock or soil material that combines one or more clay minerals with traces of metal oxides and organic matter. Clays are plastic due to their water content and become hard, brittle and non–plastic upon drying or firing.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_CLAY_HELP">
+			<Text>+1 [ICON_PRODUCTION] Production from Mines.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_PINEAPPLE">
+			<Text>Pineapple</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_PINEAPPLE_TEXT">
+			<Text>The pineapple (Ananas comosus) is a tropical plant with edible multiple fruit consisting of coalesced berries, and the most economically significant plant in the Bromeliaceae family. Pineapples may be cultivated from a crown cutting of the fruit, possibly flowering in 20–24 months and fruiting in the following six months. Pineapple does not ripen significantly post-harvest.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_PINEAPPLE_HELP">
+			<Text>+2 [ICON_FOOD] Food from Plantations.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_RESOURCE_PLATINUM">
+			<Text>Platinum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_PLATINUM_TEXT">
+			<Text>Platinum is a chemical element with symbol Pt and atomic number 78. It is a dense, malleable, ductile, highly unreactive, precious, gray-white transition metal. Its name is derived from the Spanish term platina, which is literally translated into "little silver".</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_PLATINUM_HELP">
+			<Text>+1 [ICON_GOLD] Gold from Mines.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_RESOURCE_POTATOE">
+			<Text>Potato</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_POTATOE_TEXT">
+			<Text>The potato is a starchy, tuberous crop from the perennial nightshade Solanum tuberosum L. The word "potato" may refer either to the plant itself or the edible tuber. In the Andes, where the species is indigenous, there are some other closely related cultivated potato species. Potatoes were introduced outside the Andes region approximately four centuries ago, and have since become an integral part of much of the world's food supply. It is the world's fourth-largest food crop, following maize, wheat, and rice.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_POTATOE_HELP">
+			<Text>+2 [ICON_FOOD] Food from Farms.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_RESOURCE_RUBY">
+			<Text>Ruby</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_RUBY_TEXT">
+			<Text>A ruby is a pink to blood-red colored gemstone, a variety of the mineral corundum (aluminium oxide). The red color is caused mainly by the presence of the element chromium. Its name comes from ruber, Latin for red. Other varieties of gem-quality corundum are called sapphires. The ruby is considered one of the four precious stones, together with the sapphire, the emerald and the diamond.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_RUBY_HELP">
+			<Text>+1 [ICON_GOLD] Gold from Mines.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_RESOURCE_SAPPHIRE">
+			<Text>Sapphire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_SAPPHIRE_TEXT">
+			<Text>Sapphire is a gemstone variety of the mineral corundum, an aluminium oxide. Trace amounts of elements such as iron, titanium, chromium, copper, or magnesium can give corundum respectively blue, yellow, purple, orange, or green color. Chromium impurities in corundum yield pink or red tint, the latter being called ruby.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_SAPPHIRE_HELP">
+			<Text>+1 [ICON_GOLD] Gold from Mines.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_RESOURCE_SOYBEAN">
+			<Text>Soybean</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_SOYBEAN_TEXT">
+			<Text>The soybean or soya bean is a species of legume native to East Asia, widely grown for its edible bean which has numerous uses. The plant is classed as an oilseed rather than a pulse.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_SOYBEAN_HELP">
+			<Text>+2 [ICON_FOOD] Food from Plantations.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_RESOURCE_SUNFLOWER">
+			<Text>Sunflower</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_SUNFLOWER_TEXT">
+			<Text>Sunflowers are usually tall annuals, that grow to a height of 50–390 centimetres (20–154 in). The rough and hairy stem is branched in the upper part in wild plants but is usually unbranched in domesticated cultivars. The petiolate leaves are dentate and often sticky. The lower leaves are opposite, ovate or often heart-shaped. The upper leaves are alternate and narrower. Produces highly nutritious seeds.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_SUNFLOWER_HELP">
+			<Text>+2 [ICON_FOOD] Food from Plantations.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_RESOURCE_MANGO">
+			<Text>Mango Trees</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_MANGO_TEXT">
+			<Text>The mango is a fleshy stone fruit belonging to the genus Mangifera, consisting of numerous tropical fruiting trees in the flowering plant family Anacardiaceae. The mango is native to South Asia, from where it has been distributed worldwide to become one of the most cultivated fruits in the tropics. While other Mangifera species (e.g. horse mango, M. foetida) are also grown on a more localized basis, Mangifera indica – the 'common mango' or 'Indian mango' – is the only mango tree commonly cultivated in many tropical and subtropical regions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_MANGO_HELP">
+			<Text>+2 [ICON_FOOD] Food from Plantations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_BARLEY">
+			<Text>Barley</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_BARLEY_TEXT">
+			<Text>Barley, a member of the grass family, is a major cereal grain. Important uses include use as animal fodder, as a source of fermentable material for beer and certain distilled beverages, and as a component of various health foods. It is used in soups and stews, and in barley bread of various cultures. Barley grains are commonly made into malt in a traditional and ancient method of preparation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_BARLEY_HELP">
+			<Text>+2 [ICON_FOOD] Food from Farms.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_TOBACCO">
+			<Text>Tobacco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_TOBACCO_TEXT">
+			<Text>Tobacco is an agricultural product processed from the leaves of plants in the genus Nicotiana. It can be consumed, used as a pesticide and, in the form of nicotine tartrate, used in some medicines.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_TOBACCO_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_CORN">
+			<Text>Maize</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_CORN_TEXT">
+			<Text>Maize, known in some English-speaking countries as corn, is a large grain plant domesticated by indigenous peoples in Mesoamerica in prehistoric times. The leafy stalk produces ears which contain the grain, which are seeds called kernels. Maize kernels are used in cooking as a starch. The Olmec and Mayans cultivated it in numerous varieties throughout Mesoamerica, cooked, ground or processed through nixtamalization. Beginning about 2500 BC, the crop spread through much of the Americas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_CORN_HELP">
+			<Text>+2 [ICON_FOOD] Food from Farms.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_JADE">
+			<Text>Jade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_JADE_TEXT">
+			<Text>Jade is an ornamental stone. The term jade is applied to two different metamorphic rocks that are made up of different silicate minerals Nephrite and Jadeite.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_JADE_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_COCONUT">
+			<Text>Coconut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_COCONUT_TEXT">
+			<Text>Found throughout the tropic and subtropic area, the coconut is known for its great versatility as seen in the many domestic, commercial, and industrial uses of its different parts. Coconuts are part of the daily diet of many people. Coconuts are different from any other fruits because they contain a large quantity of "water" and when immature they are known as tender-nuts or jelly-nuts and may be harvested for drinking. When mature they still contain some water and can be used as seednuts or processed to give oil from the kernel, charcoal from the hard shell and coir from the fibrous husk.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_COCONUT_HELP">
+			<Text>+2 [ICON_FOOD] Food from Plantations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_RUBBER">
+			<Text>Rubber</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_RUBBER_TEXT">
+			<Text>Hevea brasiliensis, the Pará rubber tree, sharinga tree, or, most commonly, the rubber tree, is a tree belonging to the family Euphorbiaceae. It is the most economically important member of the genus Hevea. It is of major economic importance because the milky latex extracted from the tree is the primary source of natural rubber.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_RUBBER_HELP">
+			<Text>+1 [ICON_PRODUCTION] Production from Plantations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_TEA">
+			<Text>Tea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_TEA_TEXT">
+			<Text>Tea is an aromatic beverage commonly prepared by pouring hot or boiling water over cured leaves of the tea plant, Camellia sinensis.[3] After water, tea is the most widely consumed beverage in the world.[4] It has a cooling, slightly bitter, and astringent flavour that many people enjoy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_TEA_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_WOOD">
+			<Text>Exotic Hardwood</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_WOOD_TEXT">
+			<Text>Hardwoods are employed in a large range of applications including: fuel, tools, construction, boat building, furniture making, musical instruments, flooring, cooking, barrels, manufacture of charcoal, etc. Solid hardwood joinery tends to be expensive compared to softwood. In the past, tropical hardwoods were easily available but the supply of some species such as Burma teak, and mahogany is now becoming scarce due to over-exploitation. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_WOOD_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_OAK">
+			<Text>Lumber</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_OAK_TEXT">
+			<Text>Oaks are a typical source for lumber, they have spirally arranged leaves, with lobed margins in many species; some have serrated leaves or entire leaves with smooth margins. Many deciduous species are marcescent, not dropping dead leaves until spring. The flowers are catkins, produced in spring. The fruit is a nut called an acorn, borne in a cup-like structure known as a cupule; each acorn contains one seed (rarely two or three) and takes 6–18 months to mature, depending on species.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_OAK_HELP">
+			<Text>+1 [ICON_PRODUCTION] Production when worked by a City.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_COFFEE">
+			<Text>Coffee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_COFFEE_TEXT">
+			<Text>Coffee is a brewed beverage with a bitter flavor prepared from the roasted seeds of the coffee plant.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_COFFEE_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_POPPY">
+			<Text>Poppy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_POPPY_TEXT">
+			<Text>Most species of poppies are attractive and are cultivated as ornamental plants. A few species have other uses, principally as sources of drugs and foods.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_POPPY_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_TITANIUM">
+			<Text>Titanium</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_TITANIUM_TEXT">
+			<Text>A metallic element, titanium is recognized for its high strength-to-weight ratio. It is a strong metal with low density that is quite ductile (especially in an oxygen-free environment), lustrous, and metallic-white in color. The relatively high melting point (more than 1,650 °C or 3,000 °F) makes it useful as a refractory metal. It is paramagnetic and has fairly low electrical and thermal conductivity.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_TITANIUM_HELP">
+			<Text>+2 [ICON_PRODUCTION] Production when worked by a City.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_ALOE_VERA">
+			<Text>Aloe Vera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_ALOE_VERA_TEXT">
+			<Text>Aloe vera is a species of succulent plant that probably originated in northern Africa. The species does not have any naturally occurring populations, although closely related aloes do occur in northern Africa. The species is frequently cited as being used in herbal medicine since the beginning of the first century AD.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_ALOE_VERA_HELP">
+			<Text>+1 [ICON_GOLD] Gold from Plantations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_MANGANESE">
+			<Text>Manganese</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_MANGANESE_TEXT">
+			<Text>Manganese is a silvery-gray metal resembling iron. It is hard and very brittle, difficult to fuse, but easy to oxidize.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_MANGANESE_HELP">
+			<Text>+1 [ICON_PRODUCTION] Production from Mines.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_AMBER">
+			<Text>Amber</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_AMBER_TEXT">
+			<Text>Amber is fossilized tree resin (not sap), which has been appreciated for its color and natural beauty since Neolithic times. Amber is used as an ingredient in perfumes, as a healing agent in folk medicine, and as jewelry.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_AMBER_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_TIN">
+			<Text>Tin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_TIN_TEXT">
+			<Text>This silvery, malleable post-transition metal is not easily oxidized in air and is used to coat other metals to prevent corrosion. The first alloy, used in large scale since 3000 BC, was bronze, an alloy of tin and copper.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_TIN_HELP">
+			<Text>+1 [ICON_PRODUCTION] Gold from Mines.</Text>
+		</Row>	
+		<!-- Additions -->
+		<Row Tag="TXT_KEY_RESOURCE_BERRIES">
+			<Text>Wild Berries</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_BERRIES_TEXT">
+			<Text>The botanical definition of a berry is a fleshy fruit produced from a single ovary. Grapes are an example. The berry is the most common type of fleshy fruit in which the entire ovary wall ripens into an edible pericarp. They may have one or more carpels with a thin covering and fleshy interiors. The seeds are usually embedded in the flesh of the ovary.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_BERRIES_HELP">
+			<Text>+1 [ICON_FOOD] Food from Plantations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_FLAX">
+			<Text>Flax</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_FLAX_TEXT">
+			<Text>Flax is a member of the genus Linum in the family Linaceae. It is a food and fibre crop that is grown in cooler regions of the world. Flax fibres are taken from the stem of the plant and are two to three times as strong as those of cotton. As well, flax fibers are naturally smooth and straight. Europe and North America depended on flax for cloth until the nineteenth century, when cotton overtook flax as the most common plant used for making linen paper. Flax is grown on the Canadian Praires for linseed oil, which is used as a drying oil in paints and varnish and in products such as linoleum and printing inks.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_FLAX_HELP">
+			<Text>+1 [ICON_PRODUCTION] Production from Plantations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_CACAO">
+			<Text>Cacao Trees</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_CACAO_TEXT">
+			<Text>A cocoa pod (fruit) has a rough and leathery rind about 3 cm thick (this varies with the origin and variety of pod). It is filled with sweet, mucilaginous pulp (called 'baba de cacao' in South America) enclosing 30 to 50 large seeds that are fairly soft and white to a pale lavender color. While seeds are usually white, they become violet or reddish brown during the drying process. The exception is rare varieties of white cacao, in which the seeds remain white.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_CACAO_HELP">
+			<Text></Text>
+		</Row>
+	</Language_en_US>
+	<HNRDebugTableCheck>
+		<Row Num="23" FileName="ResourceText.xml"/>
+	</HNRDebugTableCheck>
+</GameData>

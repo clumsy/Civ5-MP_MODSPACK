@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/14/2013 11:25:45 AM -->
+<GameData>
+	<Buildings>
+		<Update>
+			<Where Type="BUILDING_TEMPLE"/>
+			<Set Help="TXT_KEY_BUILDING_TEMPLE_HELP"/>
+		</Update>
+		<Update>
+			<Where Type="BUILDING_AMPHITHEATER"/>
+			<Set Help="TXT_KEY_BUILDING_AMPHITHEATER_HELP"/>
+		</Update>
+	</Buildings>
+	<Language_en_US>
+		<Update>
+			<Set Text ="Forms a [ICON_CONNECTED] City Connection with the [ICON_CAPITAL] Capital over water (if they're not already [ICON_CONNECTED] connected by land). Sea trade routes originating from this city have a 50% increase in range and produce an additional 1 [ICON_GOLD] Gold when connecting to another civilization.[NEWLINE][NEWLINE]City must be built on the coast.[NEWLINE][NEWLINE]Each source of [ICON_RES_PEANUT] Peanut, [ICON_RES_PINEAPPLE] Pineapple and [ICON_RES_SOYBEAN] Soybean worked by this City produce +1 [ICON_FOOD] Food."/>
+			<Where Tag="TXT_KEY_BUILDING_HARBOR_HELP"/>
+		</Update>
+		<Update>
+			<Set Text ="City must have Walls.[NEWLINE][NEWLINE]Each source of [ICON_RES_POTATOE] Potatoe and [ICON_RES_OATS] Oats worked by this City produce +1 [ICON_FOOD] Food"/>
+			<Where Tag="TXT_KEY_BUILDING_CASTLE_HELP"/>
+		</Update>
+		<Update>
+			<Set Text ="Provides 1 extra copy of each improved luxury resource near this City.  Each source of [ICON_RES_OIL] Oil and each Oasis provides +2 [ICON_GOLD] Gold. Trade routes other players make to a city with a Bazaar will generate an extra 1 [ICON_GOLD] Gold for the city owner and the trade route owner gains an additional 1 [ICON_GOLD] Gold for the trade route.[NEWLINE][NEWLINE]Each source of [ICON_RES_TEA]Tea, [ICON_RES_COFFEE] Coffee, [ICON_RES_TOBACCO] Tobacco worked by this City produce +1 [ICON_GOLD] Gold.[NEWLINE Each source of [ICON_RES_MANGO] Mango worked by this City produce +1 [ICON_FOOD] Food."/>
+			<Where Tag="TXT_KEY_BUILDING_BAZAAR_HELP"/>
+		</Update>
+		<Update>
+			<Set Text ="+25% [ICON_GREAT_PEOPLE] Great People generation in this City.[NEWLINE][NEWLINE]City must be built next to a River or Lake.[NEWLINE][NEWLINE]Each source of [ICON_RES_SUNFLOWER] Sunflower, [ICON_RES_APPLE] Apple and [ICON_RES_BLUEBERRY] Blueberry worked by this City produce +1 [ICON_FOOD] Food."/>
+			<Where Tag="TXT_KEY_BUILDING_GARDEN_HELP"/>
+		</Update>
+		<Update>
+			<Set Text ="Each source of [ICON_RES_SAPPHIRE] Sapphire, [ICON_RES_RUBY] Ruby, [ICON_RES_EMERALD] Emerald, [ICON_RES_GOLD] Gold and [ICON_RES_SILVER] Silver worked by this City produces +2 [ICON_GOLD] Gold.[NEWLINE][NEWLINE]City must have at least one of these resources mined nearby."/>
+			<Where Tag="TXT_KEY_BUILDING_MINT_HELP"/>
+		</Update>
+		<Update>
+			<Set Text ="Each source of [ICON_RES_INCENSE] Incense and [ICON_RES_WINE] Wine worked by this City produce +1 [ICON_PEACE] Faith and +1 [ICON_CULTURE] Culture.[NEWLINE][NEWLINE]Each source of [ICON_RES_LAVENDER] Lavender and [ICON_RES_HOPS] Hops worked by this City produce +1 [ICON_CULTURE] Culture."/>
+			<Where Tag="TXT_KEY_BUILDING_MONASTERY_HELP"/>
+		</Update>
+		<Update>
+			<Set Text ="+15% [ICON_PRODUCTION] Production when building Land Units.[NEWLINE][NEWLINE]Each source of [ICON_RES_IRON] Iron [ICON_RES_TIN] Tin [ICON_RES_MANGANESE] Manganese worked by this City produces +1 [ICON_PRODUCTION] Production.[NEWLINE][NEWLINE]City must have a mined source of Iron nearby."/>
+			<Where Tag ="TXT_KEY_BUILDING_FORGE_HELP"/>
+		</Update>
+		<Update>
+			<Set Text ="Each source of [ICON_RES_WHEAT] Wheat, [ICON_RES_BANANA] Banana, [ICON_RES_DEER] Deer, [ICON_RES_BARLEY] Barley, [ICON_RES_CORN] Corn worked by this City produce +1 [ICON_FOOD] Food.[NEWLINE][NEWLINE]Allows [ICON_FOOD] Food to be moved from this city along trade routes inside your civilization."/>
+			<Where Tag ="TXT_KEY_BUILDING_GRANARY_HELP"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BUILDING_MARKET_HELP"/>
+			<Set Text="Land trade routes originating from this city have a 50% increase in range and produce an additional 2 [ICON_GOLD] Gold when connecting to another civilization.[NEWLINE][NEWLINE]Each source of [ICON_RES_TEA]Tea, [ICON_RES_COFFEE]Coffee, [ICON_RES_TOBACCO] Tobacco worked by this City produce +1 [ICON_GOLD] Gold.[NEWLINE Each source of [ICON_RES_MANGO] Mango worked by this City produce +1 [ICON_FOOD] Food."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_BUILDING_FACTORY_HELP"/>
+			<Set Text="Requires 1 [ICON_RES_COAL] Coal.[NEWLINE][NEWLINE]Each source of [ICON_RES_TITANIUM] worked by this City + 2 [ICON_PRODUCTION] Production."/>
+		</Update>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_AMPHITHEATER_HELP</Tag>
+			<Text>Each source of [ICON_RES_FLAX] Flax worked by this City produce +1 [ICON_CULTURE] Culture.</Text>
+		</Row>
+		<Row>
+			<Tag>TXT_KEY_BUILDING_TEMPLE_HELP</Tag>
+			<Text>Each source of [ICON_RES_ALOEVERA] worked by this City produce +1 [ICON_GOLD] Gold.</Text>
+		</Row>
+	</Language_en_US>
+	<HNRDebugTableCheck>
+		<Row Num="22" FileName="BuildingsText.xml"/>
+	</HNRDebugTableCheck>
+
+</GameData>

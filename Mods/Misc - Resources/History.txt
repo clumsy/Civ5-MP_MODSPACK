@@ -1,0 +1,49 @@
+-- History
+-- Author: Horem
+-- DateCreated: 1/4/2015 10:30:27 PM
+--------------------------------------------------------------
+ Version 10
+
+ Fix Tin, now grants the +1 gold not +1 production.
+
+ Version 9
+
+ Fixed Apple text.
+ Fixed Soybean giving Gold instead of Food.
+ Updated from Alpha to Beta.
+
+ Version 8
+
+ Fixed Apple.
+ Fixed Lavender text.
+ Fixed Tech Requirements for resources that were missing them.
+
+ Version 7
+
+ Fixed Soybean only providing 1 food instead of 2.
+ Added Clay(Salt reskin). (It is not placed on the map due to a lighting issue)
+ Fixed heavy Lumber been invisible.
+ Re-aligned Icons.
+ Adjusted resource scales.
+ Removed Cacao Trees. (Art and Defines still included)
+
+ Version 6
+
+ Fix for Lumber.
+
+ Version 5
+
+ Lavender text fix.
+ Starting with free resources fixed.
+ Wild Berries removed. (Art and Defines still included)
+ Pine/Lumber mix up fixed.
+
+ Version 4
+
+ Added Strategic view icons and defines.
+ Decided to rebalance the Happiness introduced by the new luxuries. All Luxuries now only give +3.
+ Some minor bug fixes.
+
+ Version 3
+
+ First public release.

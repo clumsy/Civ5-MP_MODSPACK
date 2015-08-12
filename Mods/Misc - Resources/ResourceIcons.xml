@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>HNR_RESOURCE_A_ATLAS</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>HNR_Resources_A_2048.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>HNR_RESOURCE_A_ATLAS</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>HNR_Resources_A_640.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>HNR_RESOURCE_A_ATLAS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>HNR_Resources_A_512.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>HNR_RESOURCE_A_ATLAS</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>HNR_Resources_A_360.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		
+		<Row>
+			<Atlas>HNR_RESOURCE_B_ATLAS</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>HNR_Resources_B_2048.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>HNR_RESOURCE_B_ATLAS</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>HNR_Resources_B_640.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>HNR_RESOURCE_B_ATLAS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>HNR_Resources_B_512.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>HNR_RESOURCE_B_ATLAS</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>HNR_Resources_B_360.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+	<HNRDebugTableCheck>
+		<Row Num="21" FileName="ResourceIcons.xml"/>
+	</HNRDebugTableCheck>
+
+</GameData>

@@ -1,0 +1,18 @@
+<Asset>
+  <Mesh file="MED_Mine_Clay.gr2" source="Max" />
+  <Texture file="Clay_Dirt_Rubble_DIFF.dds" source="Max" />
+  <Texture file="Clay_Dirt_Rubble_SREF.dds" source="Max" />
+  <Texture file="Generic_Grey_8.dds" source="Max" />
+  <Texture file="MID_Mine_Hill_DIFF.dds" source="Max" />
+  <Texture file="MID_Mine_Hill_SREF.dds" source="Max" />
+  <Texture file="Clay_Mine_Decal_S.dds" source="Max" />
+  <Texture file="Plantation_MID_DIFF.dds" source="Max" />
+  <Texture file="Plantation_MID_SREF.dds" source="Max" />
+  <Texture file="HNR_Resource_Irradiance.dds" source="Max" />
+  <Texture file="R_Rubble_SREF.dds" source="Max" />
+  <Texture file="resource_Environment_Sharp.dds" source="Max" />
+  <Texture file="resources_Environment_Dull.dds" source="Max" />
+  <Texture file="Mine_Decal_Clay_H.dds" source="Max" />
+  <Texture file="Mine_Clay_Decal_D.dds" source="Max" />
+  <Texture file="Clay_Rubble_DIFF.dds" source="Max" />
+</Asset>

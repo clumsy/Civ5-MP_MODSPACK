@@ -1,0 +1,901 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="8274ac09-4d52-4c0f-9e1a-9e93f785601e" version="10">
+  <Properties>
+    <Name>HNR</Name>
+    <Stability>Beta</Stability>
+    <Teaser>36 New Luxury, Strategic and Bonus Resources</Teaser>
+    <Description>Horem's New Resources. Adds 36 Resources[NEWLINE][NEWLINE]
+
+11 New Luxury:-[NEWLINE]
+Amber, Tobacco, Poppy, Coffee, Mahogany, Cacao Tree, Tea, Emerald, Sapphire, Ruby and Platinum. All Luxuries only give +3 Happiness.[NEWLINE][NEWLINE]
+
+2 New Strategic:-[NEWLINE]
+Titanium and Lumber[NEWLINE][NEWLINE]
+
+22 New Bonus:-[NEWLINE]
+Aloe Vera, Tin, Manganese, Barley, Mango Trees, Flax, Cocout, Rubber, Corn, Pine, Pineapple, Apple, Blueberry, Hops, Oats, Potatoe, Sunflower, Lavender, Lead, Nickel, Peanut, Soybean and Clay.[NEWLINE][NEWLINE]
+
+This is a combined mod of all my past and current works. This mod will CONFLICT with 90% of mods that adds new resources and any mods that include my Art plus included Artdefines(this mainly goes for the seperate art only files released to the civfanatics community).[NEWLINE][NEWLINE]
+
+Issues:-[NEWLINE]
+Clay is not placed on the map, has a graphical glitch.[NEWLINE][NEWLINE]
+
+Version's 1 and 2 were not released to the public.</Description>
+    <Authors>Horem</Authors>
+    <SpecialThanks>CivFanatics Community</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <Homepage>http://forums.civfanatics.com/showthread.php?t=473505</Homepage>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>0</SupportsMultiplayer>
+    <SupportsHotSeat>0</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="8BC4ABE6930084E8B0DDB41B985170F8" import="1">Art/Aloe Vera/aloevera_diff.dds</File>
+    <File md5="77A93473DF230209DCEC1093B09B3E3A" import="1">Art/Aloe Vera/aloevera_sref.dds</File>
+    <File md5="4D81C03D51217728CDED5128A3952D0C" import="1">Art/Aloe Vera/hb_plantation_ind_aloevera.fxsxml</File>
+    <File md5="3F2024A5BBC4A3E2BE18EE754A7A9226" import="1">Art/Aloe Vera/hb_plantation_ind_aloevera.gr2</File>
+    <File md5="446D96EAF3BE409717433609B05B752D" import="1">Art/Aloe Vera/hb_plantation_mid_aloevera.fxsxml</File>
+    <File md5="FD694A2C103F8FA5EA1DE49211F9A6A4" import="1">Art/Aloe Vera/hb_plantation_mid_aloevera.gr2</File>
+    <File md5="26C304EEDA6186DD90A2C374EFEDFA45" import="1">Art/Aloe Vera/plantation_ind_aloevera.fxsxml</File>
+    <File md5="33E648E2A6CE0487652701E89083778A" import="1">Art/Aloe Vera/plantation_ind_aloevera.gr2</File>
+    <File md5="80A39668652ABF1C92983AD4754BDAFE" import="1">Art/Aloe Vera/plantation_mid_aloevera.fxsxml</File>
+    <File md5="834EBF25BF112FF83BF8157B2AB6C749" import="1">Art/Aloe Vera/plantation_mid_aloevera.gr2</File>
+    <File md5="B07DCD485170F751DFC7560EDBA59CEA" import="1">Art/Aloe Vera/pl_aloevera_diff.dds</File>
+    <File md5="A12E14ACC01C8D77180D4248955B9923" import="1">Art/Aloe Vera/pl_plantation_ind_aloevera.fxsxml</File>
+    <File md5="B39C2E328DF612CF9804889FD684363B" import="1">Art/Aloe Vera/pl_plantation_ind_aloevera.gr2</File>
+    <File md5="9046A2E7E51CC597B4E487BA01F8F963" import="1">Art/Aloe Vera/pl_plantation_mid_aloevera.fxsxml</File>
+    <File md5="E774C71C3C7F829C2331ACF63BDD96B7" import="1">Art/Aloe Vera/pl_plantation_mid_aloevera.gr2</File>
+    <File md5="F40B6A36ED600B18A7344CC55CE3B806" import="1">Art/Aloe Vera/resource_aloevera.fxsxml</File>
+    <File md5="6F619E0E52A40E0F75FFB28D0A4ED103" import="1">Art/Aloe Vera/resource_aloevera.gr2</File>
+    <File md5="19FAB3576490D322F7E06893C139BF8F" import="1">Art/Aloe Vera/SV_Aloevera.dds</File>
+    <File md5="F78C29E0A6B906A82F90AC72B0626572" import="1">Art/Amber/amber.fxsxml</File>
+    <File md5="86B125031834599D43247569919A20B8" import="1">Art/Amber/amber.gr2</File>
+    <File md5="25CEF7B91F29F47B27F8CFCA5DDB4636" import="1">Art/Amber/amber_decal_diff.dds</File>
+    <File md5="14EF1BCEF9A13548A4C5AC6171229B69" import="1">Art/Amber/amber_ore_diff.dds</File>
+    <File md5="779F11DEF78BA1903B838CA0870A0011" import="1">Art/Amber/amber_ore_sref.dds</File>
+    <File md5="85810E352B71AA44E3F4E96E9A74D964" import="1">Art/Amber/amber_rubble_diff.dds</File>
+    <File md5="34312FAE4DAF47C3CDEC57D07086C61F" import="1">Art/Amber/fx_triggers_pl_ind_mine_amber.ftsxml</File>
+    <File md5="34312FAE4DAF47C3CDEC57D07086C61F" import="1">Art/Amber/fx_triggers_pl_med_mine_amber.ftsxml</File>
+    <File md5="3DD42228C7C00EA658E3F4179BCD8A7F" import="1">Art/Amber/hb_ind_amber_mine.fxsxml</File>
+    <File md5="32E2D7DE503E4AECD5D6FD5A7807069E" import="1">Art/Amber/hb_ind_amber_mine.gr2</File>
+    <File md5="AD8C66EA287DF48484407BA6C37E360A" import="1">Art/Amber/hb_med_amber_mine.fxsxml</File>
+    <File md5="509FCBF587976B70F1B4C068B64A5861" import="1">Art/Amber/hb_med_amber_mine.gr2</File>
+    <File md5="8E0A9102F69DFC0FD871831B301908A7" import="1">Art/Amber/ind_mine_amber.fxsxml</File>
+    <File md5="68B7AB7EB0CFED4E1D78C9C3ACA86F73" import="1">Art/Amber/ind_mine_amber.gr2</File>
+    <File md5="C02576D0735178C5F607779404D5643E" import="1">Art/Amber/med_amber_mine.fxsxml</File>
+    <File md5="FDBFEB8F2346ACDCF0FEAE0253CC7057" import="1">Art/Amber/med_amber_mine.gr2</File>
+    <File md5="42EF9AC3B421A84E99DC56185F6CAFB3" import="1">Art/Amber/med_mine_amber.fxsxml</File>
+    <File md5="E75EFA730C94C3DFD17864A068ABA086" import="1">Art/Amber/med_mine_amber.gr2</File>
+    <File md5="BD1EF410DEE1022A24765096A764F0BF" import="1">Art/Amber/mine_amber_decal_d.dds</File>
+    <File md5="484851DC74A98A68887FD3D6EAB8E11C" import="1">Art/Amber/pl_ind_mine_amber.fxsxml</File>
+    <File md5="207D798FC2F701AA2B8A5BDBB38F1C2E" import="1">Art/Amber/pl_ind_mine_amber.gr2</File>
+    <File md5="AFFFB1D4EC8E78344915EDD63F0FC73C" import="1">Art/Amber/pl_med_mine_amber.fxsxml</File>
+    <File md5="1602B2DC5740FE74D71CBDE0B5F24B79" import="1">Art/Amber/pl_med_mine_amber.gr2</File>
+    <File md5="C2B1AB3E548E148359C965DF5EBF2EAC" import="1">Art/Amber/pl_mine_amber_decal_d.dds</File>
+    <File md5="70418406810887ECF83BA95BB713E991" import="1">Art/Amber/SV_Amber.dds</File>
+    <File md5="E3EB65BFBB5E0AD7589E74DD2B972BEE" import="1">Art/Apple/appletrees.fxsxml</File>
+    <File md5="C431D756C1A5707B9A46320E3E690D27" import="1">Art/Apple/appletrees.gr2</File>
+    <File md5="8B096FED0E35D8E6004949BCFF8D0A37" import="1">Art/Apple/apple_trees_diff.dds</File>
+    <File md5="DAC369C8345E5182782CEF7D4AD1DEE9" import="1">Art/Apple/apple_trees_pil_diff.dds</File>
+    <File md5="7CFCF9EEF601ADF57A5BCF529A7171DB" import="1">Art/Apple/apple_trees_sref.dds</File>
+    <File md5="7AEE2A31DC66EC2474D3CA32C1A2DCA8" import="1">Art/Apple/plantation_ind_appletrees.fxsxml</File>
+    <File md5="38D4447C644B031D34C34AA483554871" import="1">Art/Apple/plantation_ind_appletrees.gr2</File>
+    <File md5="1D2F8F0055049A13447573375C685F61" import="1">Art/Apple/plantation_ind_appletrees_hb.fxsxml</File>
+    <File md5="95491DCAC2BFAB9878F61628D9175606" import="1">Art/Apple/plantation_ind_appletrees_hb.gr2</File>
+    <File md5="E178AB54F259975033FD27EC0C64F527" import="1">Art/Apple/plantation_ind_appletrees_pil.fxsxml</File>
+    <File md5="B12C459FB6605A42D58E49D6E7B52A26" import="1">Art/Apple/plantation_ind_appletrees_pil.gr2</File>
+    <File md5="0B5EE7BBCBE5FAADA58AE36053F8B9C3" import="1">Art/Apple/plantation_mid_appletrees.fxsxml</File>
+    <File md5="4EF8F48749E5D41B407FB5DDBB1825C1" import="1">Art/Apple/plantation_mid_appletrees.gr2</File>
+    <File md5="ED9518D92C06B4FB84676C0B4134748B" import="1">Art/Apple/plantation_mid_appletrees_hb.fxsxml</File>
+    <File md5="3698F342A17F59ABCE8B4313DA4DE518" import="1">Art/Apple/plantation_mid_appletrees_hb.gr2</File>
+    <File md5="3E5D5E614BD99CB29AAEBF2CD025FF0C" import="1">Art/Apple/plantation_mid_appletrees_pil.fxsxml</File>
+    <File md5="26F0FB3980111C370F2ACB352938A09C" import="1">Art/Apple/plantation_mid_appletrees_pil.gr2</File>
+    <File md5="5295FEDD94D410ACD742313C146DEC9B" import="1">Art/Apple/sv_apple.dds</File>
+    <File md5="439BF9B783F3ED9C0F1AE49929164BE8" import="1">Art/Barley/barley_diff.dds</File>
+    <File md5="D8495FE9542831D985227CA296F6AB34" import="1">Art/Barley/barley_sref.dds</File>
+    <File md5="108508C2888AA9BDBDB5FEEB860359BD" import="1">Art/Barley/hb_plantation_ind_barley.fxsxml</File>
+    <File md5="FC31F7CFF713EBD338BFD2AE451D71C8" import="1">Art/Barley/hb_plantation_ind_barley.gr2</File>
+    <File md5="0C28364ED1E10C688600D7B8A693377F" import="1">Art/Barley/hb_plantation_mid_barley.fxsxml</File>
+    <File md5="1C78ADE7960B0702AAC4288699AA9E74" import="1">Art/Barley/hb_plantation_mid_barley.gr2</File>
+    <File md5="4F237A8E8F69DC5658CD5FC3EF3A78AA" import="1">Art/Barley/plantation_ind_barley.fxsxml</File>
+    <File md5="AB7636B8FA879EC4DF22FA106B792290" import="1">Art/Barley/plantation_ind_barley.gr2</File>
+    <File md5="2282E70782B148BAB528D6A24072B486" import="1">Art/Barley/plantation_mid_barley.fxsxml</File>
+    <File md5="F5B008B0CF783F54D16A3B0772E3CFC4" import="1">Art/Barley/plantation_mid_barley.gr2</File>
+    <File md5="7E645B171AF0A530161239FF7B3CC741" import="1">Art/Barley/pl_barley_diff.dds</File>
+    <File md5="765C642C6FF0A4BAD9046E028600F52A" import="1">Art/Barley/pl_plantation_ind_barley.fxsxml</File>
+    <File md5="2BC7993151C18982639C6A7EA03DC08B" import="1">Art/Barley/pl_plantation_ind_barley.gr2</File>
+    <File md5="BF00D81F56C1FDD24CC313844AE736D4" import="1">Art/Barley/pl_plantation_mid_barley.fxsxml</File>
+    <File md5="ACBFBB1C282E3042BCABA8FCCBC2B4EA" import="1">Art/Barley/pl_plantation_mid_barley.gr2</File>
+    <File md5="33733C9B82544189329B946613701884" import="1">Art/Barley/resource_barley.fxsxml</File>
+    <File md5="002C2CF5BC9F348891CEEDE08298B307" import="1">Art/Barley/resource_barley.gr2</File>
+    <File md5="8B2254F4CE6F34AA07A36725193A838B" import="1">Art/Barley/sv_barley.dds</File>
+    <File md5="CAFC3CEBC9C5A3E615E413EE2905C37C" import="1">Art/Blueberry/blueberry_diff.dds</File>
+    <File md5="88B356D6E232F0B71BF80F222330F9F6" import="1">Art/Blueberry/blueberry_sref.dds</File>
+    <File md5="CDB269B1D1BA1111372FBD772FBD5D82" import="1">Art/Blueberry/hb_plantation_ind_blueberry.fxsxml</File>
+    <File md5="D0222E3B628C860C3B48418C4E69A79B" import="1">Art/Blueberry/hb_plantation_ind_blueberry.gr2</File>
+    <File md5="C0600C6BDB1047131C8DD442A28BB60D" import="1">Art/Blueberry/hb_plantation_mid_blueberry.fxsxml</File>
+    <File md5="C44FB6A7FDEC2D1DD7A3AEEC11DB98C7" import="1">Art/Blueberry/hb_plantation_mid_blueberry.gr2</File>
+    <File md5="FF1730FAB093228BA6B57ECA3D3A333D" import="1">Art/Blueberry/plantation_ind_blueberry.fxsxml</File>
+    <File md5="72D44C4F555193CFFC7E273AA23DD912" import="1">Art/Blueberry/plantation_ind_blueberry.gr2</File>
+    <File md5="61490FC263E1C521F6B3CBE5C3DAEB87" import="1">Art/Blueberry/plantation_mid_blueberry.fxsxml</File>
+    <File md5="92CCBF70BCB9FE3DECF87BB7888C4A19" import="1">Art/Blueberry/plantation_mid_blueberry.gr2</File>
+    <File md5="96C750B62DC1716EE9EDEB4CF494EB85" import="1">Art/Blueberry/pl_blueberry_diff.dds</File>
+    <File md5="8715921A294DBC140C62CD567FE0791E" import="1">Art/Blueberry/pl_plantation_ind_blueberry.fxsxml</File>
+    <File md5="C93C9FBB111365C1893B016D807640D7" import="1">Art/Blueberry/pl_plantation_ind_blueberry.gr2</File>
+    <File md5="365DAEB9FBC9FB52A250C79488B62CB0" import="1">Art/Blueberry/pl_plantation_mid_blueberry.fxsxml</File>
+    <File md5="EF0A2516BC62067E5C951D4B9D63314E" import="1">Art/Blueberry/pl_plantation_mid_blueberry.gr2</File>
+    <File md5="1903860518D2ECCB0C70B66D47CC9CBA" import="1">Art/Blueberry/resource_blueberry.fxsxml</File>
+    <File md5="B31D6466F4A82934E3F7E7B7ECB49F7C" import="1">Art/Blueberry/resource_blueberry.gr2</File>
+    <File md5="06B32B14CD6728C0F49D73F1D957EE8A" import="1">Art/Blueberry/sv_blueberry.dds</File>
+    <File md5="6B0560125034F6A7C45517C270EDF225" import="1">Art/Cacao/cacaotrees.fxsxml</File>
+    <File md5="024346A442AB1DC928CF816222EA7FFB" import="1">Art/Cacao/cacaotrees.gr2</File>
+    <File md5="A7D2AAF2D007A64F737D609C213BE363" import="1">Art/Cacao/cacao_trees_diff.dds</File>
+    <File md5="379C51A666DDF3D82D748E7EE502CC80" import="1">Art/Cacao/cacao_trees_pil_diff.dds</File>
+    <File md5="74CE13F48BE5F3F431154C9A1168B3E7" import="1">Art/Cacao/cacao_trees_sref.dds</File>
+    <File md5="6596066F77AEAD8197D16CE1BCA556D8" import="1">Art/Cacao/plantation_ind_cacaotrees.fxsxml</File>
+    <File md5="FD730AEDA434BF9C0A586431AA8EA1C3" import="1">Art/Cacao/plantation_ind_cacaotrees.gr2</File>
+    <File md5="1A7EE7052FB6A04683B73E29117C0B8E" import="1">Art/Cacao/plantation_ind_cacaotrees_hb.fxsxml</File>
+    <File md5="EDD4879C68EC85B773EB6117165B3905" import="1">Art/Cacao/plantation_ind_cacaotrees_hb.gr2</File>
+    <File md5="4A999D205B7245FBA1D7E3FA0D039194" import="1">Art/Cacao/plantation_ind_cacaotrees_pil.fxsxml</File>
+    <File md5="E734289AEADF8CB09B842343308DB3DC" import="1">Art/Cacao/plantation_ind_cacaotrees_pil.gr2</File>
+    <File md5="38CFB0BD8B7FE8311C6EF2E7FFDA6CB7" import="1">Art/Cacao/plantation_mid_cacaotrees.fxsxml</File>
+    <File md5="B2C88A319EBA7D000AAC133D08B745CA" import="1">Art/Cacao/plantation_mid_cacaotrees.gr2</File>
+    <File md5="01F86E1B8C51966CA6D68DDB93E926F0" import="1">Art/Cacao/plantation_mid_cacaotrees_hb.fxsxml</File>
+    <File md5="65EEB8231E3667E2E9E0821C2CF7C6A5" import="1">Art/Cacao/plantation_mid_cacaotrees_hb.gr2</File>
+    <File md5="009B2FF512B3633669CFAF0C2D1F41AB" import="1">Art/Cacao/plantation_mid_cacaotrees_pil.fxsxml</File>
+    <File md5="5538007E7FC7CE7BE6E7F1439ACA4E59" import="1">Art/Cacao/plantation_mid_cacaotrees_pil.gr2</File>
+    <File md5="126EFCC7144E21B803E89ED27BDE5D41" import="1">Art/Cacao/SV_Cacao.dds</File>
+    <File md5="A5A9645E84A8F663BFB58D40517DCF40" import="1">Art/Clay/clay.fxsxml</File>
+    <File md5="553DD453AEF49ACA27DCFB2584AFDEF6" import="1">Art/Clay/clay.gr2</File>
+    <File md5="30FE4FBEF13B1C1CCF4C8D4E46BB85AB" import="1">Art/Clay/clay_dirt_rubble_diff.dds</File>
+    <File md5="687981284925C064871A200779059C27" import="1">Art/Clay/clay_dirt_rubble_sref.dds</File>
+    <File md5="D7C8BCC1EA5F1A3E2E2D10EB6657908F" import="1">Art/Clay/clay_mine_decal_s.dds</File>
+    <File md5="EC1E5C97CD9C321FE22252A59E16775D" import="1">Art/Clay/clay_ore_decal_diff.dds</File>
+    <File md5="55D9ACF0BFFC9ED5C692AC4C09FDEAC0" import="1">Art/Clay/clay_ore_decal_h.dds</File>
+    <File md5="AA153950379B7E7FC6DBA5D37C7A330E" import="1">Art/Clay/clay_ore_diff.dds</File>
+    <File md5="9AE67AC6BA658ECBF3E88C69919DB175" import="1">Art/Clay/clay_ore_sref.dds</File>
+    <File md5="0939C897EA77B2BE1405CC299F3E45F4" import="1">Art/Clay/clay_rubble_diff.dds</File>
+    <File md5="3F63560A6AFF6F1313FFE49F67BFC75B" import="1">Art/Clay/hb_med_clay_mine.fxsxml</File>
+    <File md5="07E450AA7FE0D6E948EF9D57C7A4F936" import="1">Art/Clay/hb_med_clay_mine.gr2</File>
+    <File md5="1BFB5A15AF9BC6616B3C08AEEF383496" import="1">Art/Clay/med_mine_clay.fxsxml</File>
+    <File md5="0C2F9F9A76D23666E45C86F9F4B6C19F" import="1">Art/Clay/med_mine_clay.gr2</File>
+    <File md5="BA656CDE4AD9274B98BFB006AA7829F0" import="1">Art/Clay/mine_clay_decal_d.dds</File>
+    <File md5="08DF54657416DDF7790C141792055822" import="1">Art/Clay/mine_decal_clay_h.dds</File>
+    <File md5="99D7134ECB31CC185B12A2DC313222C9" import="1">Art/Clay/pl_med_mine_clay.fxsxml</File>
+    <File md5="58D5F71A70150778A4E28DA024E82EBF" import="1">Art/Clay/pl_med_mine_clay.gr2</File>
+    <File md5="49C331EC8C486B042424C7F07F89035F" import="1">Art/Clay/pl_mine_clay_decal_d.dds</File>
+    <File md5="4208BDFD4DEF3ADE9A89B1F94F558380" import="1">Art/Clay/r_rubble_sref.dds</File>
+    <File md5="CD805D0871114F2000B9DBC463FA1B46" import="1">Art/Clay/sv_clay.dds</File>
+    <File md5="89C96CAD07AED21E2AB19C74DDC7B8B6" import="1">Art/Coconut/coconuttrees.fxsxml</File>
+    <File md5="462DA6F51B4DD4CBB22095F4D8B8C6B5" import="1">Art/Coconut/coconuttrees.gr2</File>
+    <File md5="5E9C57DC2F40AA16E8C66F3C4FF3A951" import="1">Art/Coconut/coconut_trees_diff.dds</File>
+    <File md5="A73661E173D2860F01F885D936C393D3" import="1">Art/Coconut/coconut_trees_pill_diff.dds</File>
+    <File md5="CB23F3F40A29D0083DC43ECE8BF6A214" import="1">Art/Coconut/coconut_trees_sref.dds</File>
+    <File md5="A3A58FB23B86DB0539B7506B4604130B" import="1">Art/Coconut/plantation_ind_coconuttrees.fxsxml</File>
+    <File md5="8B079B153C488331A48E5BFCC5EAFEC9" import="1">Art/Coconut/plantation_ind_coconuttrees.gr2</File>
+    <File md5="FBA4AB6F4C19F2E2B904C15462634142" import="1">Art/Coconut/plantation_ind_coconuttrees_hb.fxsxml</File>
+    <File md5="8C122EEA78E1EE7F364606DFB83C22A1" import="1">Art/Coconut/plantation_ind_coconuttrees_hb.gr2</File>
+    <File md5="281DBADAE59764BB8A09367F619085A6" import="1">Art/Coconut/plantation_ind_coconuttrees_pil.fxsxml</File>
+    <File md5="EE6C0FDFEF0101200B18C930854DF9D1" import="1">Art/Coconut/plantation_ind_coconuttrees_pil.gr2</File>
+    <File md5="7CA63FD1ACE1CF987AE3630B8DEDAEB9" import="1">Art/Coconut/plantation_mid_coconuttrees.fxsxml</File>
+    <File md5="18186B35E46A6499CE32AA8BEDE71E79" import="1">Art/Coconut/plantation_mid_coconuttrees.gr2</File>
+    <File md5="C4E840A7FDBE403C04000BA9FEF04544" import="1">Art/Coconut/plantation_mid_coconuttrees_hb.fxsxml</File>
+    <File md5="961636826DB7893BAA31170F24B87504" import="1">Art/Coconut/plantation_mid_coconuttrees_hb.gr2</File>
+    <File md5="ED7103CF6A14E38B47AA74837CFA32C8" import="1">Art/Coconut/plantation_mid_coconuttrees_pil.fxsxml</File>
+    <File md5="7A369C5AE57F47D1EBE04CC61AF77B71" import="1">Art/Coconut/plantation_mid_coconuttrees_pil.gr2</File>
+    <File md5="A51495817B99A61A646C41AE42B868DD" import="1">Art/Coconut/SV_Coconut.dds</File>
+    <File md5="8B619BAF7374C89038831150110481E8" import="1">Art/Coffee/coffee_diff.dds</File>
+    <File md5="A0E9843D7972E2734B82F346BB2414D6" import="1">Art/Coffee/coffee_sref.dds</File>
+    <File md5="975A3E67B14BF508645028C975F442B3" import="1">Art/Coffee/hb_plantation_ind_coffee.fxsxml</File>
+    <File md5="56F5E41CAA7FE31F6FF5F7F345EC8DB7" import="1">Art/Coffee/hb_plantation_ind_coffee.gr2</File>
+    <File md5="96806A81A056899999547D19E2D89043" import="1">Art/Coffee/hb_plantation_mid_coffee.fxsxml</File>
+    <File md5="E54004B48F8EF555605AD80F64A31FA0" import="1">Art/Coffee/hb_plantation_mid_coffee.gr2</File>
+    <File md5="EA74BD0DBDE9AB6886266C2152FF4707" import="1">Art/Coffee/plantation_ind_coffee.fxsxml</File>
+    <File md5="E5ED042E7DBA478754373C7D043FE25D" import="1">Art/Coffee/plantation_ind_coffee.gr2</File>
+    <File md5="1DCA94A4E7E6F9297D4BBB1082F82010" import="1">Art/Coffee/plantation_mid_coffee.fxsxml</File>
+    <File md5="6381E3DAACFB132A996B757FC143F51E" import="1">Art/Coffee/plantation_mid_coffee.gr2</File>
+    <File md5="63C4EDBFF23441368A81BBD9EF77BA27" import="1">Art/Coffee/pl_coffee_diff.dds</File>
+    <File md5="A2FC920AB9B09A54E17AB31BB0EE4E8C" import="1">Art/Coffee/pl_plantation_ind_coffee.fxsxml</File>
+    <File md5="B42C16761F758BE4812015536992E918" import="1">Art/Coffee/pl_plantation_ind_coffee.gr2</File>
+    <File md5="374EE5334781140718165DF32D4B64FB" import="1">Art/Coffee/pl_plantation_mid_coffee.fxsxml</File>
+    <File md5="03ED7F6153A2C6F7BD12CFC1CDD9BB8F" import="1">Art/Coffee/pl_plantation_mid_coffee.gr2</File>
+    <File md5="05E995A77509237EDF1DD72BAAF9A5A8" import="1">Art/Coffee/resource_coffee.fxsxml</File>
+    <File md5="6B8EAB9D08292B2EC243DC8D9BEA4116" import="1">Art/Coffee/resource_coffee.gr2</File>
+    <File md5="8CF0B92C28967E1E5C6A15CF4CBF88FA" import="1">Art/Coffee/SV_CoffeeBean.dds</File>
+    <File md5="1CFBD762FDFA089954A27BC951F1C5DF" import="1">Art/Corn/corn_diff.dds</File>
+    <File md5="36E6CBB6DAC2D609E081D4C9F0E32F70" import="1">Art/Corn/corn_sref.dds</File>
+    <File md5="C7FA2498670A8B9337F9A20147179FDB" import="1">Art/Corn/hb_plantation_ind_corn.fxsxml</File>
+    <File md5="188985796B3744AA605BE80823A7B400" import="1">Art/Corn/hb_plantation_ind_corn.gr2</File>
+    <File md5="6CB48DAACFF0A51342E6620CDAE25E70" import="1">Art/Corn/hb_plantation_mid_corn.fxsxml</File>
+    <File md5="B76191A386DF87E98840741BA7A9B359" import="1">Art/Corn/hb_plantation_mid_corn.gr2</File>
+    <File md5="72975482A0CF2060DD4E246B56F80550" import="1">Art/Corn/plantation_ind_corn.fxsxml</File>
+    <File md5="2E5F02992591EB5526963E449E6D9CFC" import="1">Art/Corn/plantation_ind_corn.gr2</File>
+    <File md5="F20BC35C118B79E528323704F92507AF" import="1">Art/Corn/plantation_mid_corn.fxsxml</File>
+    <File md5="F9D0725098A2E2EA768655152E495EAD" import="1">Art/Corn/plantation_mid_corn.gr2</File>
+    <File md5="1CB89B3AD4DB9B1C178D5CE364C43688" import="1">Art/Corn/pl_corn_diff.dds</File>
+    <File md5="D5932D9FCE3758905B23DC0D78D28612" import="1">Art/Corn/pl_plantation_ind_corn.fxsxml</File>
+    <File md5="95488E2CB4F5E6041A9253BD0D2159F8" import="1">Art/Corn/pl_plantation_ind_corn.gr2</File>
+    <File md5="24D72BC1ADBA90EA831F511B25245C82" import="1">Art/Corn/pl_plantation_mid_corn.fxsxml</File>
+    <File md5="4F02026270F8B88267BCC8B48758C668" import="1">Art/Corn/pl_plantation_mid_corn.gr2</File>
+    <File md5="34D060351C42DFC4D8C1EF1AC8F2D532" import="1">Art/Corn/resource_corn.fxsxml</File>
+    <File md5="4493BC26EBE541576E160EE582AD458A" import="1">Art/Corn/resource_corn.gr2</File>
+    <File md5="905A4CDEEA832FA80C9BBF8355A932D6" import="1">Art/Corn/SV_Corn.dds</File>
+    <File md5="A191CDBA4A28B37D99DAB4AB00D62204" import="1">Art/Emerald/emerald.fxsxml</File>
+    <File md5="6A0547E8FEFE7B963C8B7BEA3414F18F" import="1">Art/Emerald/emerald.gr2</File>
+    <File md5="7C7B30C3109A6A4096860FEAD9217BB2" import="1">Art/Emerald/emerald_ore_diff.dds</File>
+    <File md5="20E057A6661A10B094FB950883E48364" import="1">Art/Emerald/emerald_rubble_diff.dds</File>
+    <File md5="349D9ADA991DD765E4E31DFD922267A0" import="1">Art/Emerald/hb_ind_mine_emerald.fxsxml</File>
+    <File md5="2B900766150DF1950F515E5FC01AFBDD" import="1">Art/Emerald/hb_ind_mine_emerald.gr2</File>
+    <File md5="3095C11CDF8EC866623C444A3514224E" import="1">Art/Emerald/hb_med_mine_emerald.fxsxml</File>
+    <File md5="7A9294FAE20B93B8A6D0859E99DB9F18" import="1">Art/Emerald/hb_med_mine_emerald.gr2</File>
+    <File md5="E2CC79C8E484A05C3743E6B4F203250A" import="1">Art/Emerald/ind_mine_emerald.fxsxml</File>
+    <File md5="F4E80925F383192DC0DDDA57A689B768" import="1">Art/Emerald/ind_mine_emerald.gr2</File>
+    <File md5="E86EAF0D29CC5164F5AB202C2D0791EF" import="1">Art/Emerald/med_mine_emerald.fxsxml</File>
+    <File md5="D08F23012B1802056851EE3214040E07" import="1">Art/Emerald/med_mine_emerald.gr2</File>
+    <File md5="378229808B428E8E00FF4288A29EF841" import="1">Art/Emerald/mine_emerald_decal_d.dds</File>
+    <File md5="49DB1687DB7E454FBD9473CBF84E360D" import="1">Art/Emerald/pl_ind_mine_emerald.fxsxml</File>
+    <File md5="85712203600A031E48148EFBF58DAF50" import="1">Art/Emerald/pl_ind_mine_emerald.gr2</File>
+    <File md5="88FBBA85B656DDA9CE7B07F41298460E" import="1">Art/Emerald/pl_med_mine_emerald.fxsxml</File>
+    <File md5="669C97468D590538F192FCAC4058929B" import="1">Art/Emerald/pl_med_mine_emerald.gr2</File>
+    <File md5="3F4964D7790FDB906C1752C05D79B04D" import="1">Art/Emerald/pl_mine_emerald_decal_d.dds</File>
+    <File md5="05F0432C5E1A79FFEAECD68055A7ABFD" import="1">Art/Emerald/sv_emerald.dds</File>
+    <File md5="6776B65C9A9E0AC62BFE329629A9CE29" import="1">Art/Flax/flax_diff.dds</File>
+    <File md5="B16B35B08444DDBF6D62DD15598B3839" import="1">Art/Flax/flax_sref.dds</File>
+    <File md5="EFF84F10F96B7CA32ED6FBA2CDB64BD3" import="1">Art/Flax/hb_plantation_ind_flax.fxsxml</File>
+    <File md5="5969B672714D4367DB4ACC4821CAC24A" import="1">Art/Flax/hb_plantation_ind_flax.gr2</File>
+    <File md5="AB701548004FD6DB334ACF78519472AC" import="1">Art/Flax/hb_plantation_mid_flax.fxsxml</File>
+    <File md5="56D043AC0128CD0C2AD7A870AAC86ED7" import="1">Art/Flax/hb_plantation_mid_flax.gr2</File>
+    <File md5="E9A93DEED3E99598A36AB186D9FE7703" import="1">Art/Flax/plantation_ind_flax.fxsxml</File>
+    <File md5="9E058BEA063EA92FE3FAFB3062B1CD82" import="1">Art/Flax/plantation_ind_flax.gr2</File>
+    <File md5="F443FA615611BE085A644D9DA414FB7A" import="1">Art/Flax/plantation_mid_flax.fxsxml</File>
+    <File md5="364309FF6A987EFDE285E0900569E378" import="1">Art/Flax/plantation_mid_flax.gr2</File>
+    <File md5="592CFAB2C712470F0FF79643E320305B" import="1">Art/Flax/pl_flax_diff.dds</File>
+    <File md5="75AFB529E396F8C7F65370141388FC59" import="1">Art/Flax/pl_plantation_ind_flax.fxsxml</File>
+    <File md5="D2BF02E7720BB95835FA86EEBB61FE08" import="1">Art/Flax/pl_plantation_ind_flax.gr2</File>
+    <File md5="E1BC2CFCC7D8BF3CA7DAA864C024F075" import="1">Art/Flax/pl_plantation_mid_flax.fxsxml</File>
+    <File md5="ADFF4D272BACEED93A769819F6EEB4CA" import="1">Art/Flax/pl_plantation_mid_flax.gr2</File>
+    <File md5="E07D5BEBBFA9A485227BACC88961F72E" import="1">Art/Flax/resource_flax.fxsxml</File>
+    <File md5="1472967E39E6AC73BB28F3E120B5B5EB" import="1">Art/Flax/resource_flax.gr2</File>
+    <File md5="C9F189C38668A86E1DDFACF46A7CF430" import="1">Art/Flax/SV_Flax.dds</File>
+    <File md5="52A8D0C311BADCF2CB4B8E326E783D96" import="1">Art/Goat/goat_diff.dds</File>
+    <File md5="FFB3054D3A4554BB086D1E56895C89BC" import="1">Art/Goat/goat_sref.dds</File>
+    <File md5="DD2F1E2B9C0621EEADE30855A98C426E" import="1">Art/Goat/hb_plantation_ind_goat.fxsxml</File>
+    <File md5="10D7D497298EFBD97DF1C1B29747A8B1" import="1">Art/Goat/hb_plantation_ind_goat.gr2</File>
+    <File md5="42AFA5D36C3BBE8C6F06DEE6F80A7B39" import="1">Art/Goat/hb_plantation_mid_goat.fxsxml</File>
+    <File md5="DBEE9FC0BCC36B84F098FC43469E4BF3" import="1">Art/Goat/hb_plantation_mid_goat.gr2</File>
+    <File md5="A29AAD2358A80A61A729B71528FD2CB2" import="1">Art/Goat/plantation_ind_goat.fxsxml</File>
+    <File md5="AEA427E539FC36752FAAA7139F27EE00" import="1">Art/Goat/plantation_ind_goat.gr2</File>
+    <File md5="322EA6CF0BEFF5792E6CD8BD2973654C" import="1">Art/Goat/plantation_mid_goat.fxsxml</File>
+    <File md5="DF1000DB408B199CF970CDD90466282A" import="1">Art/Goat/plantation_mid_goat.gr2</File>
+    <File md5="DCC839CFA7B18148E04806D1BD11CD4E" import="1">Art/Goat/pl_goat_diff.dds</File>
+    <File md5="9F9003CDD7F22BEAC0E70904CC8200FF" import="1">Art/Goat/pl_plantation_ind_goat.fxsxml</File>
+    <File md5="FFC5ED40442F75E87DECB65538591A79" import="1">Art/Goat/pl_plantation_ind_goat.gr2</File>
+    <File md5="811BF2BFB23C0755A283BD2A2FDBF2AA" import="1">Art/Goat/pl_plantation_mid_goat.fxsxml</File>
+    <File md5="4D465A6FB538C8C87BD12AA7D29E91B6" import="1">Art/Goat/pl_plantation_mid_goat.gr2</File>
+    <File md5="2E9035165EED42D0069E4DBC18036BAE" import="1">Art/Goat/resource_goat.fxsxml</File>
+    <File md5="74744C3084C6972E69CC816544439DA4" import="1">Art/Goat/resource_goat.gr2</File>
+    <File md5="385301276211C227C375DAAD03CB6E77" import="1">Art/Hops/hb_plantation_ind_hops.fxsxml</File>
+    <File md5="01CFBAD1F45D9552904A056D9C62A8D7" import="1">Art/Hops/hb_plantation_ind_hops.gr2</File>
+    <File md5="5749CD6CAFB04C5CD0286704972667A4" import="1">Art/Hops/hb_plantation_mid_hops.fxsxml</File>
+    <File md5="EEE7ED5BFCFE4B3B90F2B7A46E68875B" import="1">Art/Hops/hb_plantation_mid_hops.gr2</File>
+    <File md5="DEF0D3969884A8B8CF445F5A36E75B68" import="1">Art/Hops/hops_diff.dds</File>
+    <File md5="EC29FF16F937257D13CAC634BFC0EABB" import="1">Art/Hops/hops_sref.dds</File>
+    <File md5="452771B6FCD0AC9E1FE436AF41303E07" import="1">Art/Hops/plantation_ind_hops.fxsxml</File>
+    <File md5="D8F42B8684D94B48C740F507E9D771BF" import="1">Art/Hops/plantation_ind_hops.gr2</File>
+    <File md5="34D93E315C1777C7D305467113AF87E7" import="1">Art/Hops/plantation_mid_hops.fxsxml</File>
+    <File md5="51CDFAC8E484274E50561EC47551D33F" import="1">Art/Hops/plantation_mid_hops.gr2</File>
+    <File md5="AADE46F6E9D55BBFD128E8AFB41DE73F" import="1">Art/Hops/pl_hops_diff.dds</File>
+    <File md5="43976D731E5AF8BD3CD2577341C51A75" import="1">Art/Hops/pl_plantation_ind_hops.fxsxml</File>
+    <File md5="A1EB91AD0D7929904B34304257457220" import="1">Art/Hops/pl_plantation_ind_hops.gr2</File>
+    <File md5="4DBB7F18622C636FBF9FF3F6540CA857" import="1">Art/Hops/pl_plantation_mid_hops.fxsxml</File>
+    <File md5="F11A365E8CBB06F088EEB3469EFCCEA8" import="1">Art/Hops/pl_plantation_mid_hops.gr2</File>
+    <File md5="A551E14F16FA494CA87AE04E51D0C354" import="1">Art/Hops/resource_hops.fxsxml</File>
+    <File md5="7203E6307CFCC7F559FED8FCE36BF284" import="1">Art/Hops/resource_hops.gr2</File>
+    <File md5="18F33648F81FAAB5B6E8484553EA334D" import="1">Art/Hops/sv_hops.dds</File>
+    <File md5="8EFDD788072729DF5E8BE40140E4FE25" import="1">Art/Kelp/kelp_diff.dds</File>
+    <File md5="1D29F6F59BABD05B6FE36E1D32755480" import="1">Art/Kelp/kelp_sref.dds</File>
+    <File md5="DF513CE742CED35D037A8C3CE89D204E" import="1">Art/Kelp/kelp.fxsxml</File>
+    <File md5="722DF37CC7BC92C5E873AD6A4611BF14" import="1">Art/Kelp/kelp.gr2</File>
+    <File md5="F791CB5763F15091FF94F8523E4746CF" import="1">Art/Lavender/hb_plantation_ind_lavender.fxsxml</File>
+    <File md5="FC64F85C0549A5DC55A735B56915A6B2" import="1">Art/Lavender/hb_plantation_ind_lavender.gr2</File>
+    <File md5="832E4EF0BE664C27691749091648E52A" import="1">Art/Lavender/hb_plantation_mid_lavender.fxsxml</File>
+    <File md5="6CBA3E4FE5A5A8FE13E944A40E172938" import="1">Art/Lavender/hb_plantation_mid_lavender.gr2</File>
+    <File md5="DDF5B0D5C9DD6AAAD6A9BABE038D2F2C" import="1">Art/Lavender/lavender_diff.dds</File>
+    <File md5="787515D487F4F43265AECB980E8FE2B9" import="1">Art/Lavender/lavender_sref.dds</File>
+    <File md5="D0DDC1BD7198D9141711316D5803055C" import="1">Art/Lavender/plantation_ind_lavender.fxsxml</File>
+    <File md5="8F6879E53269B6BC57BEB8C5DA1791AE" import="1">Art/Lavender/plantation_ind_lavender.gr2</File>
+    <File md5="68AD9D2F020610E3B0BA52889FA2EE00" import="1">Art/Lavender/plantation_mid_lavender.fxsxml</File>
+    <File md5="CF3E4F2FDE1D383703DF1D301AA304EB" import="1">Art/Lavender/plantation_mid_lavender.gr2</File>
+    <File md5="0AAA596EA21986C8FDF30C89BE6D0A04" import="1">Art/Lavender/pl_lavender_diff.dds</File>
+    <File md5="7D65CBF14F575B366D2807D8B5791254" import="1">Art/Lavender/pl_plantation_ind_lavender.fxsxml</File>
+    <File md5="C821519868D427770ACD11EDF34926BD" import="1">Art/Lavender/pl_plantation_ind_lavender.gr2</File>
+    <File md5="2B4052E4748B9A1C646C7E2291123C7D" import="1">Art/Lavender/pl_plantation_mid_lavender.fxsxml</File>
+    <File md5="1D517695747C6F2FCBC402A568BBEAA1" import="1">Art/Lavender/pl_plantation_mid_lavender.gr2</File>
+    <File md5="092BBFBC053FC725AEF141AA7BB816B5" import="1">Art/Lavender/resource_lavender.fxsxml</File>
+    <File md5="8A9E4C8ED897D11209B22B9C216E5011" import="1">Art/Lavender/resource_lavender.gr2</File>
+    <File md5="7F3954052FC2B8AE31F514A00AC9EE44" import="1">Art/Lavender/sv_lavender.dds</File>
+    <File md5="762A82273ACD241371AE84DAF5833689" import="1">Art/Lead/hb_ind_mine_lead.fxsxml</File>
+    <File md5="A65E0157B5D2374820C4A8AF7A07C19E" import="1">Art/Lead/hb_ind_mine_lead.gr2</File>
+    <File md5="E37BB2CA04D4A111F3F7E6E16568C8A1" import="1">Art/Lead/hb_med_mine_lead.gr2</File>
+    <File md5="F26124A5AC46230E4532CA9EE7870E42" import="1">Art/Lead/ind_mine_lead.fxsxml</File>
+    <File md5="F19CE6643A539C0FF395D8B1CF029758" import="1">Art/Lead/ind_mine_lead.gr2</File>
+    <File md5="4E36858285914728F1CA5E08E3E3509B" import="1">Art/Lead/lead.fxsxml</File>
+    <File md5="23D4333C91A7F7F36B8B6411FBE61BBB" import="1">Art/Lead/lead.gr2</File>
+    <File md5="F0134D9C7DF795DC280CAC80FF8D935E" import="1">Art/Lead/lead_diff.dds</File>
+    <File md5="E7B05EB586CD76CC0F678893E76EEDF1" import="1">Art/Lead/lead_mine_decal_d.dds</File>
+    <File md5="967FA87E76FDCCD89A7CCE99537B00DA" import="1">Art/Lead/lead_rubble_diff.dds</File>
+    <File md5="B94FB2D8F3D28849D3CA643F457AFD59" import="1">Art/Lead/med_mine_lead.fxsxml</File>
+    <File md5="BE7ECB52E77C4C3BF506EE9799603DFA" import="1">Art/Lead/med_mine_lead.gr2</File>
+    <File md5="AA1E04D0D3001AAD367D2D1171163FF7" import="1">Art/Lead/pl_ind_mine_lead.fxsxml</File>
+    <File md5="09203D5F7302634398024791250EE72E" import="1">Art/Lead/pl_ind_mine_lead.gr2</File>
+    <File md5="D85AA5D50E0B53C8D4F22F99EC55C29B" import="1">Art/Lead/pl_lead_mine_decal_d.dds</File>
+    <File md5="30AEFAABAED952E6CB6CE5B55493BC83" import="1">Art/Lead/pl_med_mine_lead.fxsxml</File>
+    <File md5="26120A0224CF4B0862717DB4ADACE84E" import="1">Art/Lead/pl_med_mine_lead.gr2</File>
+    <File md5="69013299E1AD1A255226E7B29D09AE6F" import="1">Art/Lead/pl_super_lead_mine_decal_d.dds</File>
+    <File md5="4D32C4C37B447762ADC0A15206D92390" import="1">Art/Lead/super_lead_mine_decal_d.dds</File>
+    <File md5="CE000FE41C00244F26E86736C7673B92" import="1">Art/Lead/sv_lead.dds</File>
+    <File md5="FC5C0AFE50D862452C59D9F506AFE3A8" import="1">Art/Lumber/lumbermill_lumbertrees.gr2</File>
+    <File md5="78C20155F8AB2A967806B8492F0C977E" import="1">Art/Lumber/lumbermill_lumbertrees_hb.gr2</File>
+    <File md5="BB0D4D732880D388FAE2BF36A9C81ADA" import="1">Art/Lumber/lumbermill_lumbertrees_pil.gr2</File>
+    <File md5="C9E443E73DBC4F64A2C69FA386E09935" import="1">Art/Lumber/lumbermill_mid_lumbertrees.fxsxml</File>
+    <File md5="515729D01119C69A197669496A564F3E" import="1">Art/Lumber/lumbermill_mid_lumbertrees_hb.fxsxml</File>
+    <File md5="A746B34F4886ACD577CF4DFB8AD501BD" import="1">Art/Lumber/lumbermill_mid_lumbertrees_pil.fxsxml</File>
+    <File md5="842911CF123F89E2E6A50624DA631647" import="1">Art/Lumber/lumbertrees.fxsxml</File>
+    <File md5="34697933881E50A127DFAC2075887EA2" import="1">Art/Lumber/lumbertrees.gr2</File>
+    <File md5="043C2F8D03684607C5ED0A3DB83F559F" import="1">Art/Lumber/lumber_trees_diff.dds</File>
+    <File md5="EDD72511A7232E7156576EDC6F4CCD38" import="1">Art/Lumber/lumber_trees_pil_diff.dds</File>
+    <File md5="FEAC8E23696F56A7D384BD25358B9A73" import="1">Art/Lumber/lumber_trees_sref.dds</File>
+    <File md5="D8CD02F1972557C2B9C81FE838F58CE2" import="1">Art/Lumber/sv_lumber.dds</File>
+    <File md5="1E2B8DB35671342E6CDD844D41CC3B27" import="1">Art/Mahogany/lumbermill_mahogany.gr2</File>
+    <File md5="AF505986EED6D84280F8254675718198" import="1">Art/Mahogany/lumbermill_mahogany_hb.gr2</File>
+    <File md5="453D3AB059CC3FD5A2F3D6B30BA3A051" import="1">Art/Mahogany/lumbermill_mahogany_pil.gr2</File>
+    <File md5="D687283CF91779AC8017EF2580DBC5EA" import="1">Art/Mahogany/mahogany.fxsxml</File>
+    <File md5="C2F7365FC8B27A3C5919ECDE57D16B19" import="1">Art/Mahogany/mahogany.gr2</File>
+    <File md5="59ECAFABCFCFAA0B37364795964791D4" import="1">Art/Mahogany/mahogany_diff.dds</File>
+    <File md5="F700B52E71F8DCC5C83B660C9A8BA7BB" import="1">Art/Mahogany/mahogany_pill_diff.dds</File>
+    <File md5="B06EC6877CC3F8891EDCBD29FFB7CEBE" import="1">Art/Mahogany/mahogany_sref.dds</File>
+    <File md5="37FFBF9B6F8E94E68AB86548007D1E74" import="1">Art/Mahogany/lumbermill_mid_mahogany.fxsxml</File>
+    <File md5="C85F6AB304172B5FDB3B23B10D074FF7" import="1">Art/Mahogany/lumbermill_mid_mahogany_hb.fxsxml</File>
+    <File md5="743E642E86727937D8DCB8B082E9A5CC" import="1">Art/Mahogany/lumbermill_mid_mahogany_pil.fxsxml</File>
+    <File md5="82A10229E061B4B4E9162A244DE925DF" import="1">Art/Mahogany/sv_mahogany.dds</File>
+    <File md5="C57987D15D3E59A4747A5F95A97FC411" import="1">Art/Manganese/fx_triggers_hb_ind_mine_manganese_01.ftsxml</File>
+    <File md5="EED20482965EB3C957D1C29E38A223A2" import="1">Art/Manganese/fx_triggers_hb_ind_mine_manganese_02.ftsxml</File>
+    <File md5="4C3B18E777A1876465E4A20A2F2E9BC1" import="1">Art/Manganese/fx_triggers_hb_ind_mine_manganese_03.ftsxml</File>
+    <File md5="8A95A5D365E2B8E3C147D66BCEE1CFF2" import="1">Art/Manganese/fx_triggers_hb_med_mine_manganese_01.ftsxml</File>
+    <File md5="EED20482965EB3C957D1C29E38A223A2" import="1">Art/Manganese/fx_triggers_hb_med_mine_manganese_02.ftsxml</File>
+    <File md5="4C3B18E777A1876465E4A20A2F2E9BC1" import="1">Art/Manganese/fx_triggers_hb_med_mine_manganese_03.ftsxml</File>
+    <File md5="53513209684B4BBDEBE8844945BFA011" import="1">Art/Manganese/fx_triggers_hb_med_mine_manganese_04.ftsxml</File>
+    <File md5="4D7774ACC9E31EF437D39ECBA1716654" import="1">Art/Manganese/fx_triggers_ind_mine_manganese_01.ftsxml</File>
+    <File md5="A5516604663D3C44DED47C547D671B6E" import="1">Art/Manganese/fx_triggers_ind_mine_manganese_03.ftsxml</File>
+    <File md5="DCA3227A28F33F4D4A761962E1DC9858" import="1">Art/Manganese/fx_triggers_ind_mine_manganese_04.ftsxml</File>
+    <File md5="E9D2F4B2FCCBD350DCB1A45AB30540B2" import="1">Art/Manganese/fx_triggers_ind_mine_manganese_05.ftsxml</File>
+    <File md5="8A95A5D365E2B8E3C147D66BCEE1CFF2" import="1">Art/Manganese/fx_triggers_manganese_01.ftsxml</File>
+    <File md5="EED20482965EB3C957D1C29E38A223A2" import="1">Art/Manganese/fx_triggers_manganese_02.ftsxml</File>
+    <File md5="4C3B18E777A1876465E4A20A2F2E9BC1" import="1">Art/Manganese/fx_triggers_manganese_03.ftsxml</File>
+    <File md5="53513209684B4BBDEBE8844945BFA011" import="1">Art/Manganese/fx_triggers_manganese_04.ftsxml</File>
+    <File md5="DCA3227A28F33F4D4A761962E1DC9858" import="1">Art/Manganese/fx_triggers_med_mine_manganese_04.ftsxml</File>
+    <File md5="E9D2F4B2FCCBD350DCB1A45AB30540B2" import="1">Art/Manganese/fx_triggers_med_mine_manganese_05.ftsxml</File>
+    <File md5="CC837EE1A3E08C47C9812B6BECE08AEC" import="1">Art/Manganese/fx_triggers_med_mine_manganese_06.ftsxml</File>
+    <File md5="BB3AE7DE141C4BCD75BA77DF86C23E84" import="1">Art/Manganese/fx_triggers_med_mine_manganese_08.ftsxml</File>
+    <File md5="577EF72CBF5DE34C59A79AE2805AF0C0" import="1">Art/Manganese/fx_triggers_pl_ind_mine_manganese.ftsxml</File>
+    <File md5="4D7774ACC9E31EF437D39ECBA1716654" import="1">Art/Manganese/fx_triggers_pl_ind_mine_manganese_01.ftsxml</File>
+    <File md5="A5516604663D3C44DED47C547D671B6E" import="1">Art/Manganese/fx_triggers_pl_ind_mine_manganese_03.ftsxml</File>
+    <File md5="577EF72CBF5DE34C59A79AE2805AF0C0" import="1">Art/Manganese/fx_triggers_pl_med_mine_manganese.ftsxml</File>
+    <File md5="DCA3227A28F33F4D4A761962E1DC9858" import="1">Art/Manganese/fx_triggers_pl_med_mine_manganese_04.ftsxml</File>
+    <File md5="2095865480822F3D505F346C6485B741" import="1">Art/Manganese/fx_triggers_pl_med_mine_manganese_05.ftsxml</File>
+    <File md5="C6054CA06EFDBEB159807885441C5CB6" import="1">Art/Manganese/hb_ind_mine_manganese.fxsxml</File>
+    <File md5="B68C10179F42824C628724BA16094171" import="1">Art/Manganese/hb_ind_mine_manganese.gr2</File>
+    <File md5="9EC45685A4E56CDC36017704A6B51446" import="1">Art/Manganese/hb_med_mine_manganese.fxsxml</File>
+    <File md5="45F7934514539908AA72D242FBF62937" import="1">Art/Manganese/hb_med_mine_manganese.gr2</File>
+    <File md5="BB2855C36B39FB433575244CADF5D2DC" import="1">Art/Manganese/ind_mine_manganese.fxsxml</File>
+    <File md5="47018D1DBF7DD5F065292EDF9F20CB3D" import="1">Art/Manganese/ind_mine_manganese.gr2</File>
+    <File md5="0DD872B8D7A27DD676AD5F9097CBD682" import="1">Art/Manganese/manganese.fxsxml</File>
+    <File md5="91726D99122A44EAA3E6F507755D283D" import="1">Art/Manganese/manganese.gr2</File>
+    <File md5="465F0E17603018ABC56539AA08F7BC28" import="1">Art/Manganese/manganese_decal_diff.dds</File>
+    <File md5="9285AD7483CDF1E34EFF3CF27C3002AE" import="1">Art/Manganese/manganese_ore_decal_h.dds</File>
+    <File md5="4E9C408C589A262EE5653E7C0A542E9A" import="1">Art/Manganese/manganese_ore_diff.dds</File>
+    <File md5="EB4E0F7C101C1636D48D633E595687C0" import="1">Art/Manganese/manganese_ore_sref.dds</File>
+    <File md5="F396639747718A448A0209E94C3CD800" import="1">Art/Manganese/manganese_rubble_diff.dds</File>
+    <File md5="1476FC27D2CD830786EF6031EF16ED3B" import="1">Art/Manganese/med_mine_manganese.fxsxml</File>
+    <File md5="135724F57771A739A5F073657DA52B87" import="1">Art/Manganese/med_mine_manganese.gr2</File>
+    <File md5="FBCED5ACFFA4E9AEA22F188E00470AC8" import="1">Art/Manganese/mine_manganese_decal_d.dds</File>
+    <File md5="AFFF6F5213193C2D7A2AD4A41693E089" import="1">Art/Manganese/pl_ind_mine_manganese.fxsxml</File>
+    <File md5="72055B03D34817342AC5F3071B3FC41D" import="1">Art/Manganese/pl_ind_mine_manganese.gr2</File>
+    <File md5="8E8E936F81B133F262EE310640C26FCF" import="1">Art/Manganese/pl_med_mine_manganese.fxsxml</File>
+    <File md5="2AA5FB7150598FA50DAF34220CFFECC2" import="1">Art/Manganese/pl_med_mine_manganese.gr2</File>
+    <File md5="8AE2814D1BFB57F7C2C086947E58126C" import="1">Art/Manganese/pl_mine_manganese_decal.dds</File>
+    <File md5="7DBD0708FBF06E93ED7443758E447A26" import="1">Art/Manganese/SV_Manganese.dds</File>
+    <File md5="D6973D5228F96F03BB33DCF72C40E9AB" import="1">Art/Mango/mangotrees.fxsxml</File>
+    <File md5="95B5DE6304AE2AA318B94D102E336EE2" import="1">Art/Mango/mangotrees.gr2</File>
+    <File md5="CBE04B82FB7A8CFA37BC3A3304213BC7" import="1">Art/Mango/mango_trees_diff.dds</File>
+    <File md5="A8B39112D4C8CAAF2CEBF63FC3345C92" import="1">Art/Mango/mango_trees_pill_diff.dds</File>
+    <File md5="B4A07FB1BC62BA869922BEAABE7851CD" import="1">Art/Mango/mango_trees_sref.dds</File>
+    <File md5="69236EE43F4A22812872D3B27BB189C3" import="1">Art/Mango/plantation_ind_mangotrees.fxsxml</File>
+    <File md5="BB11F0BD3E69EDFC2825CCCCFE1C23A5" import="1">Art/Mango/plantation_ind_mangotrees.gr2</File>
+    <File md5="733DE151102D483E267DCAA3335793C3" import="1">Art/Mango/plantation_ind_mangotrees_hb.fxsxml</File>
+    <File md5="7FA6155D875B24C8112798740A62BA15" import="1">Art/Mango/plantation_ind_mangotrees_hb.gr2</File>
+    <File md5="1590273664C52CD9317A766A9A9DBD20" import="1">Art/Mango/plantation_ind_mangotrees_pil.fxsxml</File>
+    <File md5="8CBE53E4E1EAD90303141B06C30B8961" import="1">Art/Mango/plantation_ind_mangotrees_pil.gr2</File>
+    <File md5="A349157865C6194B41614F9493241F54" import="1">Art/Mango/plantation_mid_mangotrees.fxsxml</File>
+    <File md5="AA3EE022CBA8E461ACFA5D236B17963C" import="1">Art/Mango/plantation_mid_mangotrees.gr2</File>
+    <File md5="F5B818491C9081DFA91DDCA4AB02518E" import="1">Art/Mango/plantation_mid_mangotrees_hb.fxsxml</File>
+    <File md5="AFD864FB5BA152C0554ACDBF99C084DB" import="1">Art/Mango/plantation_mid_mangotrees_hb.gr2</File>
+    <File md5="30BC18225353BD69BF1F4FC059B32BEB" import="1">Art/Mango/plantation_mid_mangotrees_pil.fxsxml</File>
+    <File md5="32A5CB098408238CDA168A2CCCA58777" import="1">Art/Mango/plantation_mid_mangotrees_pil.gr2</File>
+    <File md5="C24DD850C0DB96B5D7B897601598FF04" import="1">Art/Mango/SV_Mango.dds</File>
+    <File md5="B144F3293D4339E45EFDC83CF42C3CA2" import="1">Art/Nickel/hb_ind_mine_nickel.fxsxml</File>
+    <File md5="0BE029065C705FA21054EE032572880D" import="1">Art/Nickel/hb_ind_mine_nickel.gr2</File>
+    <File md5="D9FD869A1B5031580B947CE68AD44AC2" import="1">Art/Nickel/hb_med_mine_nickel.fxsxml</File>
+    <File md5="6B2DB3691443F83BA7550B5790F9CDC4" import="1">Art/Nickel/hb_med_mine_nickel.gr2</File>
+    <File md5="07B8628311B231A9D23687028C77570B" import="1">Art/Nickel/ind_mine_nickel.fxsxml</File>
+    <File md5="8FDD95AF7B2C9EBE5DE7776A0D949733" import="1">Art/Nickel/ind_mine_nickel.gr2</File>
+    <File md5="A00B0399BF2F5AF6831BBE106E178D54" import="1">Art/Nickel/med_mine_nickel.fxsxml</File>
+    <File md5="F3431CDE6ABDEC5CF6220A0303354AA9" import="1">Art/Nickel/med_mine_nickel.gr2</File>
+    <File md5="DCAB6E9FECCBEE72854D5A082FBE4628" import="1">Art/Nickel/nickel.fxsxml</File>
+    <File md5="AC3A73C1C386492DF1EFB353BA02C249" import="1">Art/Nickel/nickel.gr2</File>
+    <File md5="981AAFC308FC244B964B9B28786FE215" import="1">Art/Nickel/nickel_diff.dds</File>
+    <File md5="0D815813D6CE0FD02F286955BED04DD0" import="1">Art/Nickel/nickel_mine_decal_d.dds</File>
+    <File md5="2E8759BCFAA2F430847D7C1157495769" import="1">Art/Nickel/nickel_rubble_diff.dds</File>
+    <File md5="677FF00FFE9BDF7971E7745900615B07" import="1">Art/Nickel/pl_ind_mine_nickel.fxsxml</File>
+    <File md5="A4BE18F7366673C99F2181D88D6A0A18" import="1">Art/Nickel/pl_ind_mine_nickel.gr2</File>
+    <File md5="0EBA71E4C862F8F9185E7F2F225C9D32" import="1">Art/Nickel/pl_med_mine_nickel.fxsxml</File>
+    <File md5="A5AA27343127D00F6358B3EB3EB47605" import="1">Art/Nickel/pl_med_mine_nickel.gr2</File>
+    <File md5="19596698E9DD331B5445A0FF1008A14E" import="1">Art/Nickel/pl_nickel_mine_decal_d.dds</File>
+    <File md5="72B9F6A6BE97D01E600BE312C50072A8" import="1">Art/Nickel/pl_super_nickel_mine_decal_d.dds</File>
+    <File md5="DC3C9A060611B64027028135BA518E13" import="1">Art/Nickel/super_nickel_mine_decal_d.dds</File>
+    <File md5="8364CAED6637F17868FA3B13AF6357C7" import="1">Art/Nickel/sv_nickel.dds</File>
+    <File md5="CFCF86E199787276DD219E17B8704960" import="1">Art/Oats/hb_plantation_ind_oats.fxsxml</File>
+    <File md5="C9A42D4B1C7A40ECED2BE30EFDF808D2" import="1">Art/Oats/hb_plantation_ind_oats.gr2</File>
+    <File md5="2A7A6E70AEDCEEBFD53BED4D5E1FB612" import="1">Art/Oats/hb_plantation_mid_oats.fxsxml</File>
+    <File md5="1E7B217BD9C3E8B4B1A71114AF023511" import="1">Art/Oats/hb_plantation_mid_oats.gr2</File>
+    <File md5="1C508E2126E284A5501C236D754BD0C8" import="1">Art/Oats/oats_diff.dds</File>
+    <File md5="A26923FAAC515B11C35E673DADFD0A8F" import="1">Art/Oats/oats_sref.dds</File>
+    <File md5="A72651A3E724EB6D6DEB299F70883DBE" import="1">Art/Oats/plantation_ind_oats.fxsxml</File>
+    <File md5="70413C53CD888C117BAB7D7CF95EDE39" import="1">Art/Oats/plantation_ind_oats.gr2</File>
+    <File md5="D86F8C9C2F76F03E22E46AEEB5496931" import="1">Art/Oats/plantation_mid_oats.fxsxml</File>
+    <File md5="56109500E1A117A98175C291627F41A1" import="1">Art/Oats/plantation_mid_oats.gr2</File>
+    <File md5="B19D7A9CC4BD303B74E06EB5E676DAF3" import="1">Art/Oats/pl_oats_diff.dds</File>
+    <File md5="7086E8D81B5DF2FF6E05FF3FC9E1D197" import="1">Art/Oats/pl_plantation_ind_oats.fxsxml</File>
+    <File md5="C8DA323BC695A73507E247DE5B96690D" import="1">Art/Oats/pl_plantation_ind_oats.gr2</File>
+    <File md5="7F0D8280FEA42B62DC701E29E8C0B457" import="1">Art/Oats/pl_plantation_mid_oats.fxsxml</File>
+    <File md5="6FFD465F9D68890D6FF96B61ADE69135" import="1">Art/Oats/pl_plantation_mid_oats.gr2</File>
+    <File md5="04964BE1ACDF906F79D4B9C1288A044F" import="1">Art/Oats/resource_oats.fxsxml</File>
+    <File md5="F250495D10682700AC7880C88531CAA0" import="1">Art/Oats/resource_oats.gr2</File>
+    <File md5="8AFB1F63CE5E967F33CB4F4A3431F140" import="1">Art/Oats/sv_oats.dds</File>
+    <File md5="9ADD37796B0AE089EA671A616439F7A3" import="1">Art/Peanut/hb_plantation_ind_peanut.fxsxml</File>
+    <File md5="BD4FFC66EBD2860C4B9C854FB5ADC6D2" import="1">Art/Peanut/hb_plantation_ind_peanut.gr2</File>
+    <File md5="0F75F2292CF1016A78A1BB17BBD43D44" import="1">Art/Peanut/hb_plantation_mid_peanut.fxsxml</File>
+    <File md5="FCAC36FFC7B98A05570B2D2456384384" import="1">Art/Peanut/hb_plantation_mid_peanut.gr2</File>
+    <File md5="12BE4F495D9E269EA034A2503CB7716F" import="1">Art/Peanut/peanut_diff.dds</File>
+    <File md5="F40912A2773F954466445D8981847025" import="1">Art/Peanut/peanut_sref.dds</File>
+    <File md5="96FEB0FAA93C2EF615C20E08C259B0DD" import="1">Art/Peanut/plantation_ind_peanut.fxsxml</File>
+    <File md5="3BBFB379710A5CACC5BC27D515082E7A" import="1">Art/Peanut/plantation_ind_peanut.gr2</File>
+    <File md5="BF0316760027C79319DE422FBA8F7781" import="1">Art/Peanut/plantation_mid_peanut.fxsxml</File>
+    <File md5="56D8ED1A3F6F35D701E9E32612FC5C05" import="1">Art/Peanut/plantation_mid_peanut.gr2</File>
+    <File md5="2E2AFE805A0063C3C0EEEE116EF35C7A" import="1">Art/Peanut/pl_peanut_diff.dds</File>
+    <File md5="0A90E30EBBC71E3C0AB5886FCAADEF31" import="1">Art/Peanut/pl_plantation_ind_peanut.fxsxml</File>
+    <File md5="88A3A36E863ECB4B6F9E5806A4FAF57A" import="1">Art/Peanut/pl_plantation_ind_peanut.gr2</File>
+    <File md5="3412BFA3448BD748E56CBB7488DE6C39" import="1">Art/Peanut/pl_plantation_mid_peanut.fxsxml</File>
+    <File md5="EC2055672D9C729076D827AABFC6D7D7" import="1">Art/Peanut/pl_plantation_mid_peanut.gr2</File>
+    <File md5="135197FC8604030B369647B06425FA75" import="1">Art/Peanut/resource_peanut.fxsxml</File>
+    <File md5="9950F6F552A6D93BFF66C46FF41F554A" import="1">Art/Peanut/resource_peanut.gr2</File>
+    <File md5="480851CCCF81BF4FE397F4B5DBA6117B" import="1">Art/Peanut/sv_peanut.dds</File>
+    <File md5="6E4E68703BBD0775F046C18DB11403DE" import="1">Art/Pineapple/hb_plantation_ind_pineapple.fxsxml</File>
+    <File md5="38BABD6654EA2DDAE3E8BBC467A12C4E" import="1">Art/Pineapple/hb_plantation_ind_pineapple.gr2</File>
+    <File md5="6F233A96A5F9C967AB956789B7FD1155" import="1">Art/Pineapple/hb_plantation_mid_pineapple.fxsxml</File>
+    <File md5="2053CE326C260F18AC3FFB29B5608DB8" import="1">Art/Pineapple/hb_plantation_mid_pineapple.gr2</File>
+    <File md5="AE86C6AF11F1573B1BF6F9864DC6A74D" import="1">Art/Pineapple/pineapple_diff.dds</File>
+    <File md5="D76D0BE34361F732222FFD009E2A5AE2" import="1">Art/Pineapple/pineapple_sref.dds</File>
+    <File md5="B7E2AF94BA9A98064D1E9038B97B75E1" import="1">Art/Pineapple/plantation_ind_pineapple.fxsxml</File>
+    <File md5="11E79D7697430D5323D227F757F6F080" import="1">Art/Pineapple/plantation_ind_pineapple.gr2</File>
+    <File md5="C51CB81A29CF1043694714479E4860D2" import="1">Art/Pineapple/plantation_mid_pineapple.fxsxml</File>
+    <File md5="E653A4322A5C8DD17A9A2BAD19EF6485" import="1">Art/Pineapple/plantation_mid_pineapple.gr2</File>
+    <File md5="E6A0A49B7962AF48B68FB7C06DB4A7D7" import="1">Art/Pineapple/pl_pineapple_diff.dds</File>
+    <File md5="6F0454589ABB5CACCAB57859D854BFB0" import="1">Art/Pineapple/pl_plantation_ind_pineapple.fxsxml</File>
+    <File md5="AB33CA9325BA5E9E0B869DB958F2851C" import="1">Art/Pineapple/pl_plantation_ind_pineapple.gr2</File>
+    <File md5="91DC213E9513A3A9F4AECC7D4FDE981D" import="1">Art/Pineapple/pl_plantation_mid_pineapple.fxsxml</File>
+    <File md5="7FEC232F905BECDCB9C38F23A65EFE2E" import="1">Art/Pineapple/pl_plantation_mid_pineapple.gr2</File>
+    <File md5="B19102905450DB72331F7028548504F1" import="1">Art/Pineapple/resource_pineapple.fxsxml</File>
+    <File md5="28DA118A89A95F0E811F1D01886604DA" import="1">Art/Pineapple/resource_pineapple.gr2</File>
+    <File md5="CDE71FA3BDFF434A7BC0EF7C6757438E" import="1">Art/Pineapple/sv_pineapple.dds</File>
+    <File md5="2551F607CDE9554D848A4B226793D105" import="1">Art/Pine/lumbermill_pinetrees.gr2</File>
+    <File md5="7A9451EC538E6D956FD8E341A077FF29" import="1">Art/Pine/lumbermill_pinetrees_hb.gr2</File>
+    <File md5="A4C1FD1257E4370AF8C774600994B667" import="1">Art/Pine/lumbermill_pinetrees_pil.gr2</File>
+    <File md5="186A13CB538E58A1FCC43CEDB2452AF4" import="1">Art/Pine/pinetrees.fxsxml</File>
+    <File md5="F39E5F6A01CCE8971590BAA97C3AE84B" import="1">Art/Pine/pinetrees.gr2</File>
+    <File md5="2AD56813BBDCAA3670E957705F3A9ABA" import="1">Art/Pine/pine_trees_diff.dds</File>
+    <File md5="72BBDB1CE9F400C1B3478D093BB2A63D" import="1">Art/Pine/pine_trees_pil_diff.dds</File>
+    <File md5="9D560DBBDFC52541BE9E738461AB1B38" import="1">Art/Pine/pine_trees_sref.dds</File>
+    <File md5="1F104AAA6A9A03064F9A8C400298262D" import="1">Art/Pine/lumbermill_mid_pinetrees.fxsxml</File>
+    <File md5="FF04C0B1CC483409D4D374143DCF52F3" import="1">Art/Pine/lumbermill_mid_pinetrees_hb.fxsxml</File>
+    <File md5="86164F118C533528CB60A9E0EB8D9AD1" import="1">Art/Pine/lumbermill_mid_pinetrees_pil.fxsxml</File>
+    <File md5="7C7889ED09FA723AEEE7921CDB8EEC22" import="1">Art/Pine/sv_pine.dds</File>
+    <File md5="84614703D6AAF89ECE40122D6390E6F3" import="1">Art/Platinum/hb_ind_mine_platinum.fxsxml</File>
+    <File md5="508A0856E2AEE023A7284CD2A23E4489" import="1">Art/Platinum/hb_ind_mine_platinum.gr2</File>
+    <File md5="E742A99BF72E31C893554C42AAF70916" import="1">Art/Platinum/hb_med_mine_platinum.fxsxml</File>
+    <File md5="725517D3B30649348FCD752E19779571" import="1">Art/Platinum/hb_med_mine_platinum.gr2</File>
+    <File md5="5F699013D09DA5AA72A57F44082D36FD" import="1">Art/Platinum/ind_mine_platinum.fxsxml</File>
+    <File md5="DE46449A492542B2E65D28ACAB6F4559" import="1">Art/Platinum/ind_mine_platinum.gr2</File>
+    <File md5="3CE9FD1EBB9B09795D9BD054CA1D59C5" import="1">Art/Platinum/med_mine_platinum.fxsxml</File>
+    <File md5="2DD21769307FEE9A31AD6AF0EA0B702B" import="1">Art/Platinum/med_mine_platinum.gr2</File>
+    <File md5="41E317FAEBBE8FD4AC6533A98954241F" import="1">Art/Platinum/platinum.fxsxml</File>
+    <File md5="7C90D6022F15AC93CD0C9B5775E9DEDA" import="1">Art/Platinum/platinum.gr2</File>
+    <File md5="D9E317977499B2D679838944AC7D2C29" import="1">Art/Platinum/platinum_diff.dds</File>
+    <File md5="FC8CCC38FB4822DB4F14FC42CD097225" import="1">Art/Platinum/platinum_mine_decal_d.dds</File>
+    <File md5="504AE0B84E1E28E05910DC055E262680" import="1">Art/Platinum/platinum_rubble_diff.dds</File>
+    <File md5="B9CD77D43ABCAF32386640D86BB4AB8C" import="1">Art/Platinum/pl_ind_mine_platinum.fxsxml</File>
+    <File md5="51F7802F6959A4B27F7257EDE6E52FC8" import="1">Art/Platinum/pl_ind_mine_platinum.gr2</File>
+    <File md5="2E36CDCE90D4556F01981A3BACDDBB53" import="1">Art/Platinum/pl_med_mine_platinum.fxsxml</File>
+    <File md5="EDB914E60E80146C24AE165F730212A2" import="1">Art/Platinum/pl_med_mine_platinum.gr2</File>
+    <File md5="4EF6BD27B2A2C11F858A36BBA530B56F" import="1">Art/Platinum/pl_platinum_mine_decal_d.dds</File>
+    <File md5="B9AD91B27EB9CFE89598001777FD6AA2" import="1">Art/Platinum/pl_super_platinum_mine_decal_d.dds</File>
+    <File md5="BEF5D8264C1EC4968921649FFC3387E8" import="1">Art/Platinum/super_platinum_mine_decal_d.dds</File>
+    <File md5="0C7AF1B704B1CDC5FB61757608C467DE" import="1">Art/Platinum/sv_platinum.dds</File>
+    <File md5="F9F96F5B5E9EEBFA5598F371EEF4C3E0" import="1">Art/Poppy/hb_plantation_ind_poppy.fxsxml</File>
+    <File md5="B724838F4B23B7D9095533CD2A1936E6" import="1">Art/Poppy/hb_plantation_ind_poppy.gr2</File>
+    <File md5="A11327E177CBBF1433F29CA2BF2584B8" import="1">Art/Poppy/hb_plantation_mid_poppy.fxsxml</File>
+    <File md5="EA2BA6BBC752CED89FE253D4399F575C" import="1">Art/Poppy/hb_plantation_mid_poppy.gr2</File>
+    <File md5="9C943287F7C9606E45727850695C10E8" import="1">Art/Poppy/plantation_ind_poppy.fxsxml</File>
+    <File md5="F4FEB878514C45017E34CB39E3E01FA3" import="1">Art/Poppy/plantation_ind_poppy.gr2</File>
+    <File md5="EF6AE3E9492AE0FF6C73AAB87191FC24" import="1">Art/Poppy/plantation_mid_poppy.fxsxml</File>
+    <File md5="1918D6069BB3FD4ACE76557E72FA2456" import="1">Art/Poppy/plantation_mid_poppy.gr2</File>
+    <File md5="6B290FFDE38A538F5B9764627E539211" import="1">Art/Poppy/pl_plantation_ind_poppy.fxsxml</File>
+    <File md5="BD65F25AF121718D274BFDA1A504B634" import="1">Art/Poppy/pl_plantation_ind_poppy.gr2</File>
+    <File md5="6659BD6F87F965AA14483185487F5935" import="1">Art/Poppy/pl_plantation_mid_poppy.fxsxml</File>
+    <File md5="DD4344E73D50D675FEFB31B587ED7256" import="1">Art/Poppy/pl_plantation_mid_poppy.gr2</File>
+    <File md5="1352CE40DEA154ECC677C9A7F40A3D95" import="1">Art/Poppy/pl_poppy_diff.dds</File>
+    <File md5="096D079A752A8FCE971D3C53CF3ABF99" import="1">Art/Poppy/poppy_diff.dds</File>
+    <File md5="4F398A62419D4C397912A6C86FDBA77D" import="1">Art/Poppy/poppy_sref.dds</File>
+    <File md5="6DEA3D78C832F37CA19FDC149523C50D" import="1">Art/Poppy/resource_poppy.fxsxml</File>
+    <File md5="B360F648EFE20A0D27F2F57F1B3CD844" import="1">Art/Poppy/resource_poppy.gr2</File>
+    <File md5="BD590FE05991A85A8DAB632FC6E6F52F" import="1">Art/Poppy/SV_Poppy.dds</File>
+    <File md5="151678423CE7414755FD1650EA54C3AF" import="1">Art/Potatoe/hb_plantation_ind_potatoe.fxsxml</File>
+    <File md5="1366F189FD82FC86AAF99173AA3D02AE" import="1">Art/Potatoe/hb_plantation_ind_potatoe.gr2</File>
+    <File md5="572D6C0BB0759E9F5990C461A1EAF209" import="1">Art/Potatoe/hb_plantation_mid_potatoe.fxsxml</File>
+    <File md5="CF61223CF29DE2AB38EFB567D7E53B12" import="1">Art/Potatoe/hb_plantation_mid_potatoe.gr2</File>
+    <File md5="57121B7E7657E9CF0D13A9D68BFE3D06" import="1">Art/Potatoe/plantation_ind_potatoe.fxsxml</File>
+    <File md5="3E764B12B2F1931387688428091446F4" import="1">Art/Potatoe/plantation_ind_potatoe.gr2</File>
+    <File md5="97927AF47CF9B3B1BD3BE9DE2E179E5C" import="1">Art/Potatoe/plantation_mid_potatoe.fxsxml</File>
+    <File md5="9D9A754C1D3917098B788A2269900D9D" import="1">Art/Potatoe/plantation_mid_potatoe.gr2</File>
+    <File md5="BE65FD4D0008803E1A1E55D7ECA87ABA" import="1">Art/Potatoe/pl_plantation_ind_potatoe.fxsxml</File>
+    <File md5="52838E2C079D3FBB9F8CC136D934994E" import="1">Art/Potatoe/pl_plantation_ind_potatoe.gr2</File>
+    <File md5="319DF4518AA34B2CDBCA67BAFE9F4E27" import="1">Art/Potatoe/pl_plantation_mid_potatoe.fxsxml</File>
+    <File md5="E5E89F9BB41685B77F57CB36734774B7" import="1">Art/Potatoe/pl_plantation_mid_potatoe.gr2</File>
+    <File md5="486F41BC3407F87C0996A3413223FD1F" import="1">Art/Potatoe/pl_potatoe_diff.dds</File>
+    <File md5="CED0758F2FAC6FD4001DE1D7BF7438C6" import="1">Art/Potatoe/potatoe_diff.dds</File>
+    <File md5="B4155C8E1A583534DA340BE1EBD114A9" import="1">Art/Potatoe/potatoe_sref.dds</File>
+    <File md5="C23CE10600C2340F0C3FBBA1DF6B3424" import="1">Art/Potatoe/resource_potatoe.fxsxml</File>
+    <File md5="4B72EEAFFBB0FC0943162A0878AE189D" import="1">Art/Potatoe/resource_potatoe.gr2</File>
+    <File md5="8CCB617F04B53E665AD1FE8A5E1C73C1" import="1">Art/Potatoe/sv_potatoe.dds</File>
+    <File md5="0EADF175621905B9F2C585E4AEECC6E6" import="1">Art/Red Berries/berries_diff.dds</File>
+    <File md5="4273D3311E60CDB70DD92F35163C63D2" import="1">Art/Red Berries/berries_sref.dds</File>
+    <File md5="94111E954179DD5A5FFC88E2DBCEA9C9" import="1">Art/Red Berries/hb_plantation_ind_berries.fxsxml</File>
+    <File md5="8D86B7B2068C0BDA520ABF67FC2522BF" import="1">Art/Red Berries/hb_plantation_ind_berries.gr2</File>
+    <File md5="5B61580BA946E77946314EF057CA2B04" import="1">Art/Red Berries/hb_plantation_mid_berries.fxsxml</File>
+    <File md5="D96507A53CC01C7146AA447AE333DC1E" import="1">Art/Red Berries/hb_plantation_mid_berries.gr2</File>
+    <File md5="0B2A95FF15B3E5943AE3ACC7B6226527" import="1">Art/Red Berries/plantation_ind_berries.fxsxml</File>
+    <File md5="A407CCB0EA7B937A7229685BC9AC0AF6" import="1">Art/Red Berries/plantation_ind_berries.gr2</File>
+    <File md5="DE010F3F902FD66A6F28492EDAF691B5" import="1">Art/Red Berries/plantation_mid_berries.fxsxml</File>
+    <File md5="DBFEB16069BE0C06E6A8FD6327A0AA51" import="1">Art/Red Berries/plantation_mid_berries.gr2</File>
+    <File md5="9A06D18DEE7B5315C22DE66AE12233F2" import="1">Art/Red Berries/pl_berries_diff.dds</File>
+    <File md5="2423807258B0E431E196FC1C8A7B7B54" import="1">Art/Red Berries/pl_plantation_ind_berries.fxsxml</File>
+    <File md5="5F0EE85D790855E95D9ABD6FC14D1D7E" import="1">Art/Red Berries/pl_plantation_ind_berries.gr2</File>
+    <File md5="E0EE70D4688E42565C901F6045FBAC7C" import="1">Art/Red Berries/pl_plantation_mid_berries.fxsxml</File>
+    <File md5="F4D8C0DD45D333C4A7473D9EB0290D62" import="1">Art/Red Berries/pl_plantation_mid_berries.gr2</File>
+    <File md5="CE08874F581855D3EDED3EF6E25DED32" import="1">Art/Red Berries/resource_berries.fxsxml</File>
+    <File md5="FA947B1356447250B9A7B00C6C91A157" import="1">Art/Red Berries/resource_berries.gr2</File>
+    <File md5="52DEF16A07FAE2956ABE3E91155B9D30" import="1">Art/Red Berries/SV_Berries.dds</File>
+    <File md5="F44C2CA1FD032912A94BE603DBA9DC47" import="1">Art/Reef/sea_stones.fxsxml</File>
+    <File md5="50AA1032CF5AD64F3D89845B49D29CB5" import="1">Art/Reef/sea_stones.gr2</File>
+    <File md5="6BFDF0512487E24685810524C5083617" import="1">Art/Reef/sea_stones_decal_d.dds</File>
+    <File md5="F90E1EE41E1D75466074F2A69465CBED" import="1">Art/Reef/sea_stones_decal_h.dds</File>
+    <File md5="A1B3C076FEFE490705CE19DC1A92982F" import="1">Art/Reef/sea_stones_diff.dds</File>
+    <File md5="74E414B7A61E8482F7CD803F0295E906" import="1">Art/Reef/sea_stones_grey_8.dds</File>
+    <File md5="337EED7A8B9EF222F8F089DECE169B65" import="1">Art/Reef/sea_stones_rock_d.dds</File>
+    <File md5="2DC9BC4FF390F64F47BE0163D95526BE" import="1">Art/Reef/sea_stones_rock_s.dds</File>
+    <File md5="D41400FF949B709195A0C6A9E9AEA421" import="1">Art/Reef/sea_stones_sref.dds</File>
+    <File md5="D9704B2159FF562562B5FD554FFFFCCF" import="1">Art/Rubber/plantation_ind_rubbertrees.fxsxml</File>
+    <File md5="A1EA900A3038E8A9F14E7059BFABF91D" import="1">Art/Rubber/plantation_ind_rubbertrees.gr2</File>
+    <File md5="CCDDD3C4938052C801F5C3EA7A34D952" import="1">Art/Rubber/plantation_ind_rubbertrees_hb.fxsxml</File>
+    <File md5="779BCEBB5A4829C91ADFA4250A7989FA" import="1">Art/Rubber/plantation_ind_rubbertrees_hb.gr2</File>
+    <File md5="807255FA66432097A5A6EB889735FE33" import="1">Art/Rubber/plantation_ind_rubbertrees_pil.fxsxml</File>
+    <File md5="7AE1359BDE4FE4DCB8535985B138945D" import="1">Art/Rubber/plantation_ind_rubbertrees_pil.gr2</File>
+    <File md5="75F865810FF029F61AD5B26BFD43C209" import="1">Art/Rubber/plantation_mid_rubbertrees.fxsxml</File>
+    <File md5="E6DBA07BD46E10A77978B036C10DB143" import="1">Art/Rubber/plantation_mid_rubbertrees.gr2</File>
+    <File md5="EFE2979CA55EF8DDBC85E7C0DAC4550C" import="1">Art/Rubber/plantation_mid_rubbertrees_hb.fxsxml</File>
+    <File md5="078A26AD1A1B267199BF21757AE043AC" import="1">Art/Rubber/plantation_mid_rubbertrees_hb.gr2</File>
+    <File md5="72D7422E35702F32E653CCAE4D72CA71" import="1">Art/Rubber/plantation_mid_rubbertrees_pil.fxsxml</File>
+    <File md5="FABE04A27DDC2E536CEF7E429896D3F3" import="1">Art/Rubber/plantation_mid_rubbertrees_pil.gr2</File>
+    <File md5="170543CD663B225B841AC6B825D7DD13" import="1">Art/Rubber/rubbertrees.fxsxml</File>
+    <File md5="164164C670AC9DCF6748BA582EE42D87" import="1">Art/Rubber/rubbertrees.gr2</File>
+    <File md5="83488DB553B9772BCA98E3CEC598E48E" import="1">Art/Rubber/rubber_trees_diff.dds</File>
+    <File md5="D270CD7A8D1F682B579D1D33C9EDB73B" import="1">Art/Rubber/rubber_trees_pill_diff.dds</File>
+    <File md5="E19F9B63374B5461D0F7974EFCE94D23" import="1">Art/Rubber/rubber_trees_sref.dds</File>
+    <File md5="0D85D664A8B6B78332D52D861A3895FD" import="1">Art/Rubber/SV_Rubber.dds</File>
+    <File md5="87A6068CC9A0AB2FFAF58D07B8D8DCDC" import="1">Art/Ruby/hb_ind_mine_ruby.fxsxml</File>
+    <File md5="53FDD7498067F9FD19DE7FB508CB4374" import="1">Art/Ruby/hb_ind_mine_ruby.gr2</File>
+    <File md5="9EE206C21D23166B927059DDCCE5C1DE" import="1">Art/Ruby/hb_med_mine_ruby.fxsxml</File>
+    <File md5="4ADFD1D1AE4B47BBE97B9897725A80ED" import="1">Art/Ruby/hb_med_mine_ruby.gr2</File>
+    <File md5="783BD00046418F8098349D7358EFECD1" import="1">Art/Ruby/ind_mine_ruby.fxsxml</File>
+    <File md5="C3C8853D9BFFC3E9612AE60C19682FBC" import="1">Art/Ruby/ind_mine_ruby.gr2</File>
+    <File md5="7A88A8C93A1F8C2E374A8B6ABD2560C4" import="1">Art/Ruby/med_mine_ruby.fxsxml</File>
+    <File md5="19E77DD9F824DF60EA86258370AE11A4" import="1">Art/Ruby/med_mine_ruby.gr2</File>
+    <File md5="A5A8A486111853EBA097C63CD4EB9EB7" import="1">Art/Ruby/mine_ruby_decal_d.dds</File>
+    <File md5="EC5D629194F5D11B7B5BD046DC006991" import="1">Art/Ruby/pl_ind_mine_ruby.fxsxml</File>
+    <File md5="6C06BA1F38FA825ED09938A2AF2DC732" import="1">Art/Ruby/pl_ind_mine_ruby.gr2</File>
+    <File md5="21BA50493037A98EF872B58DE8A67212" import="1">Art/Ruby/pl_med_mine_ruby.fxsxml</File>
+    <File md5="1FE4EFCC8D966AC5C640EBC71E1F0398" import="1">Art/Ruby/pl_med_mine_ruby.gr2</File>
+    <File md5="AE06BE439FD70F0E78F6DA1C6477AD62" import="1">Art/Ruby/pl_mine_ruby_decal_d.dds</File>
+    <File md5="4D5BB928654750F0664C5BD87B93E63F" import="1">Art/Ruby/ruby.fxsxml</File>
+    <File md5="61DACF912942FC3C0F65F098D3D9E776" import="1">Art/Ruby/ruby.gr2</File>
+    <File md5="E297CB7B6F06F86FBBD1EA126C38B5A3" import="1">Art/Ruby/ruby_ore_diff.dds</File>
+    <File md5="DA6920FDF5161A9BB2E0D4EA5896CF0D" import="1">Art/Ruby/ruby_rubble_diff.dds</File>
+    <File md5="6F6E7F4EFFCEE5951D7FFFB61C802080" import="1">Art/Ruby/sv_ruby.dds</File>
+    <File md5="8137FCA7D545F661255EC18B10EF3E45" import="1">Art/Sapphire/hb_ind_mine_sapphire.fxsxml</File>
+    <File md5="3409CCEEA5845FA82CDFA3A3AC203215" import="1">Art/Sapphire/hb_ind_mine_sapphire.gr2</File>
+    <File md5="9756C91C7F8913690038BF66EA09FD68" import="1">Art/Sapphire/hb_med_mine_sapphire.fxsxml</File>
+    <File md5="DE2E098A7CFC02D7D0E974ECCDA61BB5" import="1">Art/Sapphire/hb_med_mine_sapphire.gr2</File>
+    <File md5="DA0A882A874658765942DE92B45EF3AC" import="1">Art/Sapphire/ind_mine_sapphire.fxsxml</File>
+    <File md5="7671D3E84A5E2AEC7A642D9389FCF400" import="1">Art/Sapphire/ind_mine_sapphire.gr2</File>
+    <File md5="9935C28A53909D3ECC322C25B113D7BA" import="1">Art/Sapphire/med_mine_sapphire.fxsxml</File>
+    <File md5="DC5FF1089418C3B587F69CCC7D2714C7" import="1">Art/Sapphire/med_mine_sapphire.gr2</File>
+    <File md5="963BC9CB8260BD219448DBA05E63ECB7" import="1">Art/Sapphire/mine_sapphire_decal_d.dds</File>
+    <File md5="3366BE461882160FFD9E66CC4414878C" import="1">Art/Sapphire/pl_ind_mine_sapphire.fxsxml</File>
+    <File md5="FF868FE0EF9DE14ED60AABCC18533552" import="1">Art/Sapphire/pl_ind_mine_sapphire.gr2</File>
+    <File md5="87884DD5ADFF2B2E35F1C16992348EBD" import="1">Art/Sapphire/pl_med_mine_sapphire.fxsxml</File>
+    <File md5="1B844996CC0F9669A3B16BB0A8DA4A7B" import="1">Art/Sapphire/pl_med_mine_sapphire.gr2</File>
+    <File md5="EAA86F5274B4458E72CD3F015AFA6ED2" import="1">Art/Sapphire/pl_mine_sapphire_decal_d.dds</File>
+    <File md5="A0E59C8DCA49001559D206AB92D5F404" import="1">Art/Sapphire/sapphire.fxsxml</File>
+    <File md5="F72886FD8F47270DBE8B63C9495B3E8C" import="1">Art/Sapphire/sapphire.gr2</File>
+    <File md5="17C637EECB12B6148081264C4BF6949E" import="1">Art/Sapphire/sapphire_ore_diff.dds</File>
+    <File md5="0DF968D5F4E3F49261680BBE0CCE75D4" import="1">Art/Sapphire/sapphire_rubble_diff.dds</File>
+    <File md5="645EA9C4EB99970B3E6980C007CC8AE5" import="1">Art/Sapphire/sv_sapphire.dds</File>
+    <File md5="40CAAD8E53B29984535260E967A85A89" import="1">Art/Shared/custom_resource_irradiance.dds</File>
+    <File md5="1D0EDD9E8EB5FBBE05341B17E01A4E93" import="1">Art/Shared/farmbuilding_diff.dds</File>
+    <File md5="EC5F7E433817CFBBF99C10B55715A548" import="1">Art/Shared/farmbuilding_ind_diff.dds</File>
+    <File md5="239F16653580D74DA4E9533F55A8DC83" import="1">Art/Shared/hb_farmbuilding_ind_diff.dds</File>
+    <File md5="2D36936A2FE2BC544C7603335C52963D" import="1">Art/Shared/hb_farmbuilding_diff.dds</File>
+    <File md5="224E43D6F5204B2C6258750F49FF5E0F" import="1">Art/Shared/pl_farmbuilding_ind_diff.dds</File>
+    <File md5="F64869DFBAFE7E9253465634709568FA" import="1">Art/Shared/pl_farmbuilding_diff.dds</File>
+    <File md5="8F58873855A42CC5C48CFB2E3395B31D" import="1">Art/Soybean/hb_plantation_ind_soybean.fxsxml</File>
+    <File md5="39ECE961E98CDCCEC065C479DD2E8BA3" import="1">Art/Soybean/hb_plantation_ind_soybean.gr2</File>
+    <File md5="17C6D734DEE0A93C3A620F19E55BBD81" import="1">Art/Soybean/hb_plantation_mid_soybean.fxsxml</File>
+    <File md5="58094AC1B6F3131C6E0FBF5E64DA4F50" import="1">Art/Soybean/hb_plantation_mid_soybean.gr2</File>
+    <File md5="5F67D38F86DD4E383BE639BCC1B1D3C7" import="1">Art/Soybean/plantation_ind_soybean.fxsxml</File>
+    <File md5="89933DE55C029976CD376EE8FAD31287" import="1">Art/Soybean/plantation_ind_soybean.gr2</File>
+    <File md5="964CA49F8C73CE8A706B85A8C717B29A" import="1">Art/Soybean/plantation_mid_soybean.fxsxml</File>
+    <File md5="4EE2FE4DCD2A65402972D280640F877C" import="1">Art/Soybean/plantation_mid_soybean.gr2</File>
+    <File md5="6CA94A759830FAD40799F1A5E048C32D" import="1">Art/Soybean/pl_plantation_ind_soybean.fxsxml</File>
+    <File md5="4B070CB2ADAD2BEB47883F4200607599" import="1">Art/Soybean/pl_plantation_ind_soybean.gr2</File>
+    <File md5="BD56672166F1D4C8472C561FC59C0111" import="1">Art/Soybean/pl_plantation_mid_soybean.fxsxml</File>
+    <File md5="03D9B5EEFA64D9AE98804EC0E02EF3D4" import="1">Art/Soybean/pl_plantation_mid_soybean.gr2</File>
+    <File md5="BD17F0D83E3321A0F9DA9BCCFC2150D8" import="1">Art/Soybean/pl_soybean_diff.dds</File>
+    <File md5="04097879E5B21DE404CF9D3E0F8E0FE4" import="1">Art/Soybean/resource_soybean.fxsxml</File>
+    <File md5="30F68C3E3247DBC17DA9601813B85D55" import="1">Art/Soybean/resource_soybean.gr2</File>
+    <File md5="35BDAA673B2241231ED8A137EC41915D" import="1">Art/Soybean/soybean_diff.dds</File>
+    <File md5="A70C011CA77EE6141B3A5E1118491347" import="1">Art/Soybean/soybean_sref.dds</File>
+    <File md5="135343187C4178A18EC5D11FB4A065F1" import="1">Art/Soybean/sv_soybean.dds</File>
+    <File md5="5904C1154CE9867D1FCD7BFD4973C22F" import="1">Art/Sunflower/hb_plantation_ind_sunflower.fxsxml</File>
+    <File md5="C59915F0DD572A9A05F3EC5FD7694D73" import="1">Art/Sunflower/hb_plantation_ind_sunflower.gr2</File>
+    <File md5="5E3A8DCDAF32B05C0D4E86B864CB900A" import="1">Art/Sunflower/hb_plantation_mid_sunflower.fxsxml</File>
+    <File md5="B9BD9FE685CF96477AD613EADD9527CD" import="1">Art/Sunflower/hb_plantation_mid_sunflower.gr2</File>
+    <File md5="82DDFDA9DFB791DD75F53CCC1F3BB50D" import="1">Art/Sunflower/plantation_ind_sunflower.fxsxml</File>
+    <File md5="82FFE14DD03C5A219C41EC14CC93F027" import="1">Art/Sunflower/plantation_ind_sunflower.gr2</File>
+    <File md5="35A2AE5EEC594A3EACBF86B0073AC54D" import="1">Art/Sunflower/plantation_mid_sunflower.fxsxml</File>
+    <File md5="2722A63438F05C9662E33B248CE10FDE" import="1">Art/Sunflower/plantation_mid_sunflower.gr2</File>
+    <File md5="B67BA7C93D96409F035465FF71054777" import="1">Art/Sunflower/pl_plantation_ind_sunflower.fxsxml</File>
+    <File md5="F316A28E28EF450A54DB2E25EB5D8459" import="1">Art/Sunflower/pl_plantation_ind_sunflower.gr2</File>
+    <File md5="A513385BF41FB140D3EE24408D7641D8" import="1">Art/Sunflower/pl_plantation_mid_sunflower.fxsxml</File>
+    <File md5="FC6730F4E3799B88B9706A6D558E4B07" import="1">Art/Sunflower/pl_plantation_mid_sunflower.gr2</File>
+    <File md5="7A2579FDC67488CB1EF23811F9689377" import="1">Art/Sunflower/pl_sunflower_diff.dds</File>
+    <File md5="85AD98E3E5A76B7A9DAE0D1E6B5D6381" import="1">Art/Sunflower/resource_sunflower.fxsxml</File>
+    <File md5="D9A37653E4913734238457122EA83ACE" import="1">Art/Sunflower/resource_sunflower.gr2</File>
+    <File md5="4F4D57167A6612398E004BE254C1D882" import="1">Art/Sunflower/sunflower_diff.dds</File>
+    <File md5="4D58DBE17392638EDEE15D09CF00E81F" import="1">Art/Sunflower/sunflower_sref.dds</File>
+    <File md5="ADD0BCC112471B018AF4D1F10E266A4C" import="1">Art/Sunflower/sv_sunflower.dds</File>
+    <File md5="E3958E9A6BA45A6180D73D613936A4C3" import="1">Art/Tea/hb_plantation_ind_tea.fxsxml</File>
+    <File md5="A4949042514254123BD619773AA3DC3E" import="1">Art/Tea/hb_plantation_ind_tea.gr2</File>
+    <File md5="25852925D31A40625648425F5D03D935" import="1">Art/Tea/hb_plantation_mid_tea.fxsxml</File>
+    <File md5="8ACC5071974AC93EB3B2802D6B8B0858" import="1">Art/Tea/hb_plantation_mid_tea.gr2</File>
+    <File md5="AA0499042DAE4E4D04B8D3ECB6F2EDF5" import="1">Art/Tea/plantation_ind_tea.fxsxml</File>
+    <File md5="1948018B2030810F7DB07D8BE6FE670B" import="1">Art/Tea/plantation_ind_tea.gr2</File>
+    <File md5="D3AF346EB963929393578CAE50759C7F" import="1">Art/Tea/plantation_mid_tea.fxsxml</File>
+    <File md5="83DAAE9AE656301446D1C77572E8FA83" import="1">Art/Tea/plantation_mid_tea.gr2</File>
+    <File md5="C9F2BFC35670AC1FE86BC8E10E02A88B" import="1">Art/Tea/pl_plantation_ind_tea.fxsxml</File>
+    <File md5="152FCA8227B229EAB91E8A54BF7F6D98" import="1">Art/Tea/pl_plantation_ind_tea.gr2</File>
+    <File md5="864E98A792A707233130DC890A6C3C41" import="1">Art/Tea/pl_plantation_mid_tea.fxsxml</File>
+    <File md5="8EE1A4EC2E4A8984870030DC95B5D411" import="1">Art/Tea/pl_plantation_mid_tea.gr2</File>
+    <File md5="01B33FD6CE6143699C43647EB4455124" import="1">Art/Tea/pl_tea_diff.dds</File>
+    <File md5="3A87CF9BA1F8A98F8C18E6D7B6C6E366" import="1">Art/Tea/resource_tea.fxsxml</File>
+    <File md5="D710F51C2D3DFD991F172C5E299BB057" import="1">Art/Tea/resource_tea.gr2</File>
+    <File md5="1845F6C3873F88E98FACB0523BE456BD" import="1">Art/Tea/SV_Tea.dds</File>
+    <File md5="A12C74266804082B9506F85E39D4A41E" import="1">Art/Tea/tea_diff.dds</File>
+    <File md5="BED6A58114B0449DFFE25E6D60E3A97A" import="1">Art/Tea/tea_sref.dds</File>
+    <File md5="22F37805D9878A10BEFF056F873C9A37" import="1">Art/Shared/lumbermill_extra_diff.dds</File>
+    <File md5="34312FAE4DAF47C3CDEC57D07086C61F" import="1">Art/Tin/fx_triggers_pl_ind_mine_tin.ftsxml</File>
+    <File md5="34312FAE4DAF47C3CDEC57D07086C61F" import="1">Art/Tin/fx_triggers_pl_med_mine_tin.ftsxml</File>
+    <File md5="23E94CFCF213DB5AF8766FAF458B56E2" import="1">Art/Tin/hb_ind_tin_mine.fxsxml</File>
+    <File md5="7A4BEAE6304C2D1EBE293CAF1FD45E26" import="1">Art/Tin/hb_ind_tin_mine.gr2</File>
+    <File md5="CFED48E0FFC858DD0912CB2F2B9171EB" import="1">Art/Tin/hb_med_tin_mine.fxsxml</File>
+    <File md5="1CB33DB9DA3A035A31C28A34E144381D" import="1">Art/Tin/hb_med_tin_mine.gr2</File>
+    <File md5="74520142D4FE4C6ACDD30B9154B30AD8" import="1">Art/Tin/ind_mine_tin.fxsxml</File>
+    <File md5="B6E8F30CAD596A461575A509429B78E7" import="1">Art/Tin/ind_mine_tin.gr2</File>
+    <File md5="87D5A4F7B042326AD0AE4E355AD4E97C" import="1">Art/Tin/med_mine_tin.fxsxml</File>
+    <File md5="B5F479710A8719A05CF082029F1083E4" import="1">Art/Tin/med_mine_tin.gr2</File>
+    <File md5="821AC036FB0B72A372E9CC957C06ACA0" import="1">Art/Tin/med_tin_mine.fxsxml</File>
+    <File md5="841282A4E01B73EF5FDA3171F415EF15" import="1">Art/Tin/med_tin_mine.gr2</File>
+    <File md5="0F2ACF18D488811C9B38D533A4A118B9" import="1">Art/Tin/mine_tin_decal_d.dds</File>
+    <File md5="624229BD642A7B257350D996911297B3" import="1">Art/Tin/pl_ind_mine_tin.fxsxml</File>
+    <File md5="7D2DB7C5B73FF0D797433F2E4E14A127" import="1">Art/Tin/pl_ind_mine_tin.gr2</File>
+    <File md5="EF5B45B6ADEAA1D5DB77E7BB97F818E4" import="1">Art/Tin/pl_med_mine_tin.fxsxml</File>
+    <File md5="6B41F1F32F3C944A2AF5BB299F47B944" import="1">Art/Tin/pl_med_mine_tin.gr2</File>
+    <File md5="AD15688810BCC67705EB28D107D1B7F7" import="1">Art/Tin/pl_mine_tin_decal_d.dds</File>
+    <File md5="295A7065EF31ECD34A24DA5B7AB5CD69" import="1">Art/Tin/SV_Tin.dds</File>
+    <File md5="CAA4B7538CF9F3CCF966227CEAEFC841" import="1">Art/Tin/tin.fxsxml</File>
+    <File md5="1E2EC62DE1FCB97CB57D38C12D5676D2" import="1">Art/Tin/tin.gr2</File>
+    <File md5="EA87E0E2415978E8653EF04938CB2D11" import="1">Art/Tin/tin_decal_diff.dds</File>
+    <File md5="CDD43C0F6C12ECACB64B2139437CA03B" import="1">Art/Tin/tin_ore_diff.dds</File>
+    <File md5="0D0C597147130E080911BA4A4668A0C8" import="1">Art/Tin/tin_ore_sref.dds</File>
+    <File md5="33469B1560D243D4ABE82CE829B61633" import="1">Art/Tin/tin_rubble_diff.dds</File>
+    <File md5="577EF72CBF5DE34C59A79AE2805AF0C0" import="1">Art/Titanium/fx_triggers_pl_ind_mine_titanium.ftsxml</File>
+    <File md5="577EF72CBF5DE34C59A79AE2805AF0C0" import="1">Art/Titanium/fx_triggers_pl_ind_mine_titanium_heavy.ftsxml</File>
+    <File md5="577EF72CBF5DE34C59A79AE2805AF0C0" import="1">Art/Titanium/fx_triggers_pl_med_mine_titanium.ftsxml</File>
+    <File md5="577EF72CBF5DE34C59A79AE2805AF0C0" import="1">Art/Titanium/fx_triggers_pl_med_mine_titanium_heavy.ftsxml</File>
+    <File md5="0DBEAAD3D3A23E9CFDF2E08C6351EA8D" import="1">Art/Titanium/hb_ind_mine_titanium.fxsxml</File>
+    <File md5="3F71AEBB74BE8DC1334F19DEC28D59F2" import="1">Art/Titanium/hb_ind_mine_titanium.gr2</File>
+    <File md5="E26B4B3B2A9383CBDEEA92122F49A55A" import="1">Art/Titanium/hb_ind_mine_titanium_heavy.fxsxml</File>
+    <File md5="A28CBCD0D580F0E75D5196527951550D" import="1">Art/Titanium/hb_ind_mine_titanium_heavy.gr2</File>
+    <File md5="3736E3371E3BFCF1BB189D0DA8FCA81A" import="1">Art/Titanium/hb_med_mine_titanium.fxsxml</File>
+    <File md5="885DCF877CE702CA2D843341EC67E6C5" import="1">Art/Titanium/hb_med_mine_titanium.gr2</File>
+    <File md5="47FA2BF1A0B50095258C9570DBA87206" import="1">Art/Titanium/hb_med_mine_titanium_heavy.fxsxml</File>
+    <File md5="2B5D3A567544964394A18F7541EA6D32" import="1">Art/Titanium/hb_med_mine_titanium_heavy.gr2</File>
+    <File md5="A71186EFF99FB96D00D0A216E0A70F69" import="1">Art/Titanium/ind_mine_titanium.fxsxml</File>
+    <File md5="9EDAD2C293E1BA67F94B68DEDB1DC5F7" import="1">Art/Titanium/ind_mine_titanium.gr2</File>
+    <File md5="45E927D152DD7D99711E142492B64F14" import="1">Art/Titanium/ind_mine_titanium_heavy.fxsxml</File>
+    <File md5="B2774DC86B3752103A6B3D52D57B3B6B" import="1">Art/Titanium/ind_mine_titanium_heavy.gr2</File>
+    <File md5="54F0E6DCA0A229881B0DA5AA9376D868" import="1">Art/Titanium/med_mine_titanium.fxsxml</File>
+    <File md5="97C7A74845B94F5DE2DF35B612E94F60" import="1">Art/Titanium/med_mine_titanium.gr2</File>
+    <File md5="CDE85CAF8D5540E11C5A44CAC458B9D4" import="1">Art/Titanium/med_mine_titanium_heavy.fxsxml</File>
+    <File md5="98457E462A535F666EA163D74C29057A" import="1">Art/Titanium/med_mine_titanium_heavy.gr2</File>
+    <File md5="089BB204A9869D1B407B4E69D19FD5D6" import="1">Art/Titanium/mine_titanium_decal_d.dds</File>
+    <File md5="818D22FE9C33F959A2AE5B076C0F84E8" import="1">Art/Titanium/pl_ind_mine_titanium.fxsxml</File>
+    <File md5="F7FE96C794BEF41F47B436FE5E279CF1" import="1">Art/Titanium/pl_ind_mine_titanium.gr2</File>
+    <File md5="91CDE2DD0A34A3A2A922EBB13766CE6B" import="1">Art/Titanium/pl_ind_mine_titanium_heavy.fxsxml</File>
+    <File md5="71940F56834B1C08DA72159C2733F140" import="1">Art/Titanium/pl_ind_mine_titanium_heavy.gr2</File>
+    <File md5="2F2395EFD29FD8094BD26307DBA36370" import="1">Art/Titanium/pl_med_mine_titanium.fxsxml</File>
+    <File md5="12D9D64362973214E5033047E3E1C3BD" import="1">Art/Titanium/pl_med_mine_titanium.gr2</File>
+    <File md5="AB71CAB8764BF36810C6F490A0451E9B" import="1">Art/Titanium/pl_med_mine_titanium_heavy.fxsxml</File>
+    <File md5="727D0A05EC66E15A01ECD07BDF724449" import="1">Art/Titanium/pl_med_mine_titanium_heavy.gr2</File>
+    <File md5="291BE703021AE05347CAF927C062EA58" import="1">Art/Titanium/pl_mine_titanium_decal_d.dds</File>
+    <File md5="BEDA54BA87F6EB787DED6CCC8B7079AA" import="1">Art/Titanium/pl_super_titanium_mine_decal.dds</File>
+    <File md5="DE740737FEF0D271449903359094591F" import="1">Art/Titanium/super_titanium_mine_decal_d.dds</File>
+    <File md5="D2C44E6F958E20FF591B77023244BEF9" import="1">Art/Titanium/sv_titanium.dds</File>
+    <File md5="E549573E3B0009DEB50D65AF04856CDD" import="1">Art/Titanium/titanium.fxsxml</File>
+    <File md5="8FFA662484B9CAB59B9511C191D16B15" import="1">Art/Titanium/titanium.gr2</File>
+    <File md5="E806AB3F9F99D17DCDF335CCE9DAD6A7" import="1">Art/Titanium/titanium_decal_diff.dds</File>
+    <File md5="69A734C1DCB05474EBA3C71CF208976A" import="1">Art/Titanium/titanium_decal_h.dds</File>
+    <File md5="D4CF73BCA9ECA29249E009632DDA5E8A" import="1">Art/Titanium/titanium_heavy.fxsxml</File>
+    <File md5="EDEE0DEAFF7827CF7E896FE006199B33" import="1">Art/Titanium/titanium_heavy.gr2</File>
+    <File md5="C3439094BB1FE74A1F8AE4EF37C685AD" import="1">Art/Titanium/titanium_heavy_decal_diff.dds</File>
+    <File md5="9ED9F2164CB24B064AAFC86EB3011E51" import="1">Art/Titanium/titanium_heavy_marsh.fxsxml</File>
+    <File md5="29AF20F5E0282F966791CF3B32724DDD" import="1">Art/Titanium/titanium_heavy_marsh.gr2</File>
+    <File md5="7B0DAA1A7D0E12F0D6016C81D5EBFAE5" import="1">Art/Titanium/titanium_marsh.fxsxml</File>
+    <File md5="6ADC30E8EAC9ABBF11CE8D75DFB20B8E" import="1">Art/Titanium/titanium_marsh.gr2</File>
+    <File md5="DF7ACC876225019CB3F87A4AB7D32B8A" import="1">Art/Titanium/titanium_marsh_decal_d.dds</File>
+    <File md5="1C0B002BB4AD23DA7EA29116FC06ADFE" import="1">Art/Titanium/titanium_marsh_heavy_decal_d.dds</File>
+    <File md5="04CA53D6BD0131E032FE9623099DEC16" import="1">Art/Titanium/titanium_ore_decal_h.dds</File>
+    <File md5="CCE08AB0CD0E764BF88F21AA82FFE7EF" import="1">Art/Titanium/titanium_ore_diff.dds</File>
+    <File md5="6CFF6B52C886CB8398D8354FDED4205C" import="1">Art/Titanium/titanium_ore_heavy_decal_h.dds</File>
+    <File md5="25498B4B12345895E56E7631C2C548C4" import="1">Art/Titanium/titanium_ore_sref.dds</File>
+    <File md5="42CEFA5BE2C4D705252DF3D37278158B" import="1">Art/Titanium/titanium_rubble_diff.dds</File>
+    <File md5="8261FEC2C4A460886246E4C9B864056D" import="1">Art/Tobacco/hb_plantation_ind_tobacco.fxsxml</File>
+    <File md5="EC4241D78F6976DD85C3D9337A01BC11" import="1">Art/Tobacco/hb_plantation_ind_tobacco.gr2</File>
+    <File md5="F37CA5B96F1EF6030CFA247D45B21443" import="1">Art/Tobacco/hb_plantation_mid_tobacco.fxsxml</File>
+    <File md5="B8A6F11FF01D1E84867729BBF6FBE0EF" import="1">Art/Tobacco/hb_plantation_mid_tobacco.gr2</File>
+    <File md5="2FA4F804D1286AF73068C16B2F55FB08" import="1">Art/Tobacco/plantation_ind_tobacco.fxsxml</File>
+    <File md5="C3B2ACBBDCDAB1F924DEF70BC07CDDB1" import="1">Art/Tobacco/plantation_ind_tobacco.gr2</File>
+    <File md5="B9FEBD71F29EDC2A527C77006BABAAAF" import="1">Art/Tobacco/plantation_mid_tobacco.fxsxml</File>
+    <File md5="20AF6A59AAD6EF78CAADCACC6CE2A390" import="1">Art/Tobacco/plantation_mid_tobacco.gr2</File>
+    <File md5="67A69243A06C10305EB36113C5D4C4F5" import="1">Art/Tobacco/pl_plantation_ind_tobacco.fxsxml</File>
+    <File md5="0BC6262DC79F1355CC613AA30F4872BD" import="1">Art/Tobacco/pl_plantation_ind_tobacco.gr2</File>
+    <File md5="0B0164F1CC3E7B4430FA47937DC9806A" import="1">Art/Tobacco/pl_plantation_mid_tobacco.fxsxml</File>
+    <File md5="845B111838AFE2042247879A812BACFB" import="1">Art/Tobacco/pl_plantation_mid_tobacco.gr2</File>
+    <File md5="A1546A4C79E80155352F247FD63E00B1" import="1">Art/Tobacco/pl_tobacco_diff.dds</File>
+    <File md5="39B5BB9B82EF081F68FC04C4C12CE1A2" import="1">Art/Tobacco/resource_tobacco.fxsxml</File>
+    <File md5="BA40B9D39A662757E2E879E1CD37FD36" import="1">Art/Tobacco/resource_tobacco.gr2</File>
+    <File md5="28668C6C737A553D988D026F74C8CED8" import="1">Art/Tobacco/SV_Tobacco.dds</File>
+    <File md5="C32DF955A5492731C633D38A9BD78759" import="1">Art/Tobacco/tobacco_diff.dds</File>
+    <File md5="E6C10058B1FA7B469496C95168F38A56" import="1">Art/Tobacco/tobacco_sref.dds</File>
+    <File md5="3FA18CEBDD2F90563E788D27CDC073B8" import="0">Description.txt</File>
+    <File md5="4B0267B66D4A6EA34A3D798800F62985" import="1">Font Icons/HNRFontIconAtlas.dds</File>
+    <File md5="E622CFFB353B28894D924DF1604554EA" import="1">Font Icons/HNRFontIconAtlas.ggxml</File>
+    <File md5="958474915700E78F703A0AC5A8C2AF9D" import="0">History.txt</File>
+    <File md5="E4255B61E4A1DB069DCFC76972ADBA86" import="1">Icons/HNR_Resources_A_2048.dds</File>
+    <File md5="844E2C9F33D33CE770E8E5492A7DB880" import="1">Icons/HNR_Resources_A_360.dds</File>
+    <File md5="6A9AF09010F01EA7B7FDC08AE2462F19" import="1">Icons/HNR_Resources_A_512.dds</File>
+    <File md5="7E05122EAD06D0C08372F97640B037D0" import="1">Icons/HNR_Resources_A_640.dds</File>
+    <File md5="B3DB88C947576C6F27AD9BA4F6B1B590" import="1">Icons/HNR_Resources_B_2048.dds</File>
+    <File md5="B5EA6082E7FFAB9CED471513C6FD53DF" import="1">Icons/HNR_Resources_B_360.dds</File>
+    <File md5="AC1012279D2ABCAC10AE6C181FFD2D6B" import="1">Icons/HNR_Resources_B_512.dds</File>
+    <File md5="EC4C5DDB52B2AB0E3E45B3CF82670CC7" import="1">Icons/HNR_Resources_B_640.dds</File>
+    <File md5="10F36F41D0498962BD1F14255A359B5C" import="1">Lua/AddNewResources.lua</File>
+    <File md5="597583941D9C8882436D03BE335FCB51" import="0">Lua/Debug/DebugTable.sql</File>
+    <File md5="4DF1D2A915FF6F945470D984BA01EA46" import="0">Lua/Debug/OnHNRLoad.lua</File>
+    <File md5="874193CD07A0FD88EC0B2656C98AC342" import="0">Lua/HNR_Main.lua</File>
+    <File md5="E92F0587455AF4841A964B6E65C9555C" import="1">Lua/ResNewGenerator.lua</File>
+    <File md5="A35C20892C7C522814E5BC26A8CF671F" import="1">Lua/ResNewGeneratorFunctions.lua</File>
+    <File md5="0111E19AF8DBD0A42AC3F72ADA796105" import="0">SQL/Art Defines/ArtDefines_Animals.sql</File>
+    <File md5="267672920A7E542B880E6957CE490D89" import="0">SQL/Art Defines/ArtDefines_Cereals.sql</File>
+    <File md5="DAFAA33EDD89824D4F182C14F3E78EC0" import="0">SQL/Art Defines/ArtDefines_Flowers.sql</File>
+    <File md5="1F97CA70CC7FC5573837F0A724AABD2B" import="0">SQL/Art Defines/ArtDefines_Gems.sql</File>
+    <File md5="F21680EE14AA9A5B6D941204FA387CB5" import="0">SQL/Art Defines/ArtDefines_Misc.sql</File>
+    <File md5="360E4C64A77DDD13067344F7EFEEB5A1" import="0">SQL/Art Defines/ArtDefines_Ores.sql</File>
+    <File md5="4625B69CC88FEBFDA9C23B1EC862683C" import="0">SQL/Art Defines/ArtDefines_Shrubs.sql</File>
+    <File md5="1F8A5FF730410710C581CA5BB9EAAD6A" import="0">SQL/Art Defines/ArtDefines_Trees.sql</File>
+    <File md5="21B73F32D32831B82215C226FD6F5597" import="0">SQL/Buildings/Update Buildings.sql</File>
+    <File md5="59AD7EF545FD0DA189B0BFC74DB21ED1" import="0">SQL/Improvements/Improvement_ResourceTypes.sql</File>
+    <File md5="527356B8DF827E5669B8C0D904EAD672" import="0">SQL/Improvements/Improvement_ResourceType_Yields.sql</File>
+    <File md5="DA4BB6D509A2B24516C8B1F148279C6B" import="0">SQL/Resources/HappinessBalance.sql</File>
+    <File md5="843A0D74E2A719868C056CD26633DAD4" import="0">SQL/Resources/Resources.sql</File>
+    <File md5="4CD2C70C87F26420AB16FED860F777B1" import="0">SQL/Resources/Resource_FeatureBooleans.sql</File>
+    <File md5="B9FCC16C2878B63C4DC03DC7A5E82632" import="0">SQL/Resources/Resource_FeatureTerrainBooleans.sql</File>
+    <File md5="D884CAF57E50030B0556566DE155D8F3" import="0">SQL/Resources/Resource_Flavors.sql</File>
+    <File md5="1DF7E7B2C4D1AC63EBC67CA73687985C" import="0">SQL/Resources/Resource_QuantityTypes.sql</File>
+    <File md5="AE76240E0E96DA3BF56CA95CBB20A4A1" import="0">SQL/Resources/Resource_TerrainBooleans.sql</File>
+    <File md5="EEAC5B92522C95015EBD66DC3F6D8A3D" import="0">SQL/Resources/Resource_YieldChanges.sql</File>
+    <File md5="80D81B7B5FFDD5FBD01683EBA0C4DA1A" import="0">SQL/Units/UpdateUnits.sql</File>
+    <File md5="B0E4EFD0E8CEA939B4F98FD7D7644966" import="0">XML/Icons/FontIconAtlas.xml</File>
+    <File md5="AB64B50A7149C7F153ED0DA9CB3B1701" import="0">XML/Icons/ResourceIcons.xml</File>
+    <File md5="929BC269C3C7D6A41F29E4ED55D87AEA" import="0">XML/Text/BuildingsText.xml</File>
+    <File md5="82C1D2E1D50215EC74CD929E43F4743E" import="0">XML/Text/ResourceText.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Lua/Debug/DebugTable.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Art Defines/ArtDefines_Misc.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Art Defines/ArtDefines_Animals.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Art Defines/ArtDefines_Cereals.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Art Defines/ArtDefines_Flowers.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Art Defines/ArtDefines_Gems.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Art Defines/ArtDefines_Ores.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Art Defines/ArtDefines_Shrubs.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Art Defines/ArtDefines_Trees.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Icons/FontIconAtlas.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Icons/ResourceIcons.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/BuildingsText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/ResourceText.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Resources/Resources.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Resources/Resource_YieldChanges.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Resources/Resource_QuantityTypes.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Resources/Resource_TerrainBooleans.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Resources/Resource_FeatureTerrainBooleans.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Resources/Resource_FeatureBooleans.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Resources/Resource_Flavors.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Improvements/Improvement_ResourceTypes.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Improvements/Improvement_ResourceType_Yields.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Buildings/Update Buildings.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Units/UpdateUnits.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Resources/HappinessBalance.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/HNR_Main.lua">
+      <Name>Resource Generator</Name>
+      <Description>Generates the new resources on random maps.</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Debug/OnHNRLoad.lua">
+      <Name>Debug</Name>
+      <Description>Debug</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>
