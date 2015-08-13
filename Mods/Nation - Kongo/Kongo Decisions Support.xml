@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<Language_en_US>
+		<!--Monetize Raffia-->
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_KONGO_RAFFIA">
+			<Text>Monetize Raffia Cloth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_KONGO_RAFFIA_DESC">
+			<Text>Our rivals have begun to expand into coastal areas making our current nzimbu shell currency unreliable. We should monetize raffia cloth to help stabilize our economy and safeguard it from external influences.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Kongo
+				[NEWLINE][ICON_BULLET]Must have constructed at least 3 Raffia Mills
+				[NEWLINE][ICON_BULLET]Must have researched Economics
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Raffia Mills generate +10% [ICON_GOLD] Gold and provide 1 additional copy of the [ICON_RES_RAFIA] Raffia resource
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_KONGO_RAFFIA_ENACTED_DESC">
+			<Text>Our rivals have begun to expand into coastal areas making our current nzimbu shell currency unreliable. We should monetize raffia cloth to help stabilize our economy and safeguard it from external influences.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Raffia Mills generate +10% [ICON_GOLD] Gold and provide 1 additional copy of the [ICON_RES_RAFIA] Raffia resource
+			</Text>
+		</Row>
+		<!--Slave Trade-->
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_KONGO_SLAVERY">
+			<Text>Support the Slave Markets</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_KONGO_SLAVERY_DESC">
+			<Text>During our wars of expansion, it was tradition to capture our enemies and force them into servitude. We developed a lucrative market selling these men to our vassals and the neighboring kingdoms. However, now the foreign kings wish for us to expand the market and subject the trade to foreign law. If we agree it could prove profitable, but our citizens will not be happy.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Kongo
+				[NEWLINE][ICON_BULLET]Must have at least 1 City with a [ICON_CITIZEN] Population of 2 or more
+				[NEWLINE][ICON_BULLET]Must have met at least 2 other Civilizations
+				[NEWLINE][ICON_BULLET]May not be enacted in the Ancient Era
+				[NEWLINE][ICON_BULLET]May be enacted once per era before the Modern Era
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]-1 [ICON_CITIZEN] Population in all Cities (with 2 or more)
+				[NEWLINE][ICON_BULLET]1 turn of [ICON_RESISTANCE] Resistance per [ICON_CITIZEN] Population sold in the [ICON_CAPITAL] Capital (up to a max of 4)
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]50 [ICON_GOLD] Gold for each point of [ICON_CITIZEN] Population sold
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_KONGO_SLAVERY_ENACTED_DESC">
+			<Text>During our wars of expansion, it was tradition to capture our enemies and force them into servitude. We developed a lucrative market selling these men to our vassals and the neighboring kingdoms. However, now the foreign kings wish for us to expand the market and subject the trade to foreign law. If we agree it could prove profitable, but our citizens will not be happy.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Lump sum of [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET][ICON_RESISTANCE] Resistance in the [ICON_CAPITAL] Capital
+			</Text>
+		</Row>
+		<!--Conscript Bowmen-->
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_KONGO_ARCHERS">
+			<Text>Repel the Jagas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_KONGO_ARCHERS_DESC">
+			<Text>Our scouts are reporting Jaga mercenaries from the east within the enemy camp. We should institute advanced training drills to help prepare for this new threat.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Kongo
+				[NEWLINE][ICON_BULLET]Player must be at War
+				[NEWLINE][ICON_BULLET]Must have researched Construction
+				[NEWLINE][ICON_BULLET]May only be enacted before the Industrial Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Archery Units gain the Woodsman promotion
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_KONGO_ARCHERS_ENACTED_DESC">
+			<Text>Our scouts are reporting Jaga mercenaries from the east within the enemy camp. We should institute advanced training drills to help prepare for this new threat.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Archery Units gain the Woodsman promotion
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

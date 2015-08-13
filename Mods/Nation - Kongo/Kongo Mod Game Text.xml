@@ -1,0 +1,341 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh-->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_RESOURCE_RAFIA_MOD">
+			<Text>Raffia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_RAFIA_MOD_HELP">
+			<Text>Raffia is only available through Kongolese Cities that have constructed the Raffia Mill.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_RAFIA_MOD_TEXT">
+			<Text>Raffia palms are a genus of twenty species of palms native to tropical regions of Africa, especially Madagascar, with one species also occurring in Central and South America. They grow up to 16 m tall and are remarkable for their compound pinnate leaves, the longest in the plant kingdom; leaves up to 25.11 m long and 3 m wide are known. The plants are either monocarpic, flowering once and then dying after the seeds are mature, or hapaxanthic, with individual stems dying after fruiting but the root system remaining alive and sending up new stems.[NEWLINE][NEWLINE]Raffia fibers have many uses, especially in the area of textiles and in construction. In their local environments, they are used for ropes, sticks and supporting beams, and various roof coverings are made out of its fibrous branches and leaves. The membrane on the underside of each individual frond leaf is taken off to create a long thin fiber which can be dyed and woven as a textile into products ranging from hats to shoes to decorative mats. Plain raffia fibers are exported and used as garden ties or as a "natural" string in many countries.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KONGO_MOD_RAFFIA_MILL">
+			<Text>Raffia Mill</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_KONGO_MOD_RAFFIA_MILL_TEXT">
+			<Text>Raffia fibers have many uses, especially in the area of textiles and in construction. In their local environments, they are used for ropes, sticks and supporting beams, and various roof coverings are made out of its fibrous branches and leaves. The membrane on the underside of each individual frond leaf is taken off to create a long thin fiber which can be dyed and woven as a textile into products ranging from hats to shoes to decorative mats. Plain raffia fibers are exported and used as garden ties or as a "natural" string in many countries.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KONGO_MOD_RAFFIA_MILL_STRATEGY">
+			<Text>The Raffia Mill functions differently than the standard Mint, which it replaces. Instead of a resource based [ICON_GOLD] Gold bonus, the Raffia Mill's main advantage is in providing 1 [ICON_RES_RAFIA] Raffia resource. Similarly, the building's Terrain Requirement has changed from requiring specific resources within the City Radius to requiring at least one Jungle Tile adjacent to the City.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDINGKONGO_MOD_RAFFIA_MILL_HELP">
+			<Text>Each source of [ICON_RES_DYE] Dye worked by this City produces +2 [ICON_GOLD] Gold.[NEWLINE][NEWLINE]Provides 1 [ICON_RES_RAFIA] Raffia.[NEWLINE][NEWLINE]City must be built adjacent to at least one Jungle Tile. If all Jungle Tiles adjacent to the City are removed, the Raffia Mill will be destroyed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_KONGO_POMBO_MOD">
+			<Text>Pombo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_KONGO_POMBO_MOD_HELP">
+			<Text>Agile skirmisher unit specialized in defeating Mounted Units. Only Kongo may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_KONGO_POMBO_MOD_STRATEGY">
+			<Text>The Pombo is the Kongolese unique unit, replacing the Pikeman. It begins its turn with the same number of movement points as an adjacent Mounted Unit, providing the Pombo with unique mobility options. It also receives a defensive bonus against Ranged Attacks in addition to a bonus when fighting Mounted Units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_KONGO_POMBO_MOD_TEXT">
+			<Text>The Kongo region exhibited a number of indigenous military systems, particularly by such kingdoms as Kongo and Ndongo. The bulk of the fighting hosts were made of up general purpose levies and volunteers, but most Kongo polities maintained a small core of dedicated soldiers. Special detachments and commands called lucanzos were also used for various missions. Other special troops sometimes used included elite scouting units, the pombos, who ran with, and kept up with horses when they were used in the region. The pombos also performed pursuit duties.[NEWLINE][NEWLINE]Light and heavy troop types were recognized. The light troops were far more numerous, and relied more on individual skill and technique (dodging spears for example). The heavies were more disciplined and relied on stronger defensive weapons and formations. A limited number of such types operated in the Kingdom of Kongo, and were armed with shields, unlike other forces. They were reputedly the best soldiers in the country.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ANTI_MOUNTED_KONGO_MOD">
+			<Text>Bonus vs Mounted (33)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ANTI_MOUNTED_KONGO_MOD_HELP">
+			<Text>33% Bonus vs Mounted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_KONGO_HORSE_MOD">
+			<Text>Runner</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_KONGO_HORSE_MOD_HELP">
+			<Text>Begins its turn with the same number of movement points as an adjacent Mounted Unit.</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_TRAIT_GLORY_OF_THE_MANIKONGO">
+			<Text>Units ignore terrain costs when moving in any tile adjacent to a River and suffer no attack penalty when fighting across Rivers. Archery Units train 10% faster.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_GLORY_OF_THE_MANIKONGO_SHORT">
+			<Text>Glory of the Manikongo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BENIN_RIVER_ATTACK_KONGO">
+			<Text>River Warfare</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BENIN_RIVER_ATTACK_HELP_KONGO">
+			<Text>Eliminates combat penalty for attacking over a river.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NZINGA_MOD_FIRST_GREETING_1">
+			<Text>Greetings, great ruler! I am Nzinga, Muchino a Muhatu of the Ndongo and Matamba. Come, let us form an alliance against any that may threaten our shores.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NZINGA_MOD_FIRST_GREETING_2">
+			<Text>Welcome to my lands, great ruler! Do not look down upon me or dismiss me as a woman. I am the equal of any King, both in governance and in battle.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NZINGA_MOD_DEFEATED_1">
+			<Text>Foreign devil! It was you who lied and broke our treaties! You who sold my people! You do not deserve to own this great land!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NZINGA_MOD_DEFEATED_2">
+			<Text>I seem to have been fighting with your kingdom my entire life. I am tired of this great battle and wish now only to find peace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KONGO_MOD_0">
+			<Text>Lukeni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KONGO_MOD_1">
+			<Text>Mpanzu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KONGO_MOD_2">
+			<Text>Ngola</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KONGO_MOD_3">
+			<Text>Kibwe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KONGO_MOD_4">
+			<Text>Mvemba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KONGO_MOD_5">
+			<Text>Abena</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KONGO_MOD_6">
+			<Text>Asha</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KONGO_MOD_7">
+			<Text>Kifunji</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KONGO_MOD_8">
+			<Text>Mukambu</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KONGO_MOD_9">
+			<Text>Tanginika</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_KONGO_MOD_DESC">
+			<Text>Kongolese Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KONGO_MOD_SHORT_DESC">
+			<Text>Kongo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KONGO_MOD_ADJECTIVE">
+			<Text>Kongolese</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KONGO_MOD">
+			<Text>Kongo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_KONGO_MOD_TITLE">
+			<Text>Kongo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_KONGO_MOD_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_KONGO_MOD_TEXT_1">
+			<Text>The Kingdom of Kongo (KiKongo: "Wene wa Kongo") was an African kingdom located in west central Africa in what is now northern Angola, Cabinda, the Republic of the Congo, and the western portion of the Democratic Republic of the Congo. At its greatest extent, it reached from the Atlantic Ocean in the west to the Kwango River in the east, and from the Congo River in the north to the Kwanza River in the south. The kingdom consisted of several core provinces ruled by the Manikongo, but its sphere of influence extended to neighboring kingdoms, such as Ngoyo, Kakongo, Ndongo and Matamba.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_KONGO_MOD_HEADING_2">
+			<Text>Climate and Terrain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_KONGO_MOD_TEXT_2">
+			<Text>The Congo River is the deepest river in the world and third largest river in the world by volume of water discharged. The Congo gets its name from the ancient Kingdom of Kongo which inhabited the lands at the mouth of the river. The river and its tributaries flow through the Congo rainforest, the second largest rain forest area in the world, second only to the Amazon Rainforest in South America. The rainforests transition to a forest-savanna mosaic; a mix of drier forests, savannas, and grasslands.[NEWLINE][NEWLINE]The coastal region is rich in oil palms and mangroves and fauna includes the lion, leopard, cheetah, elephant, giraffe, rhinoceros, hippopotamus, buffalo, zebra, kudu and many other kinds of antelope, wild-pig, ostrich and crocodile. Like the rest of tropical Africa, the Kingdom of Kongo experienced distinct, alternating rainy and dry seasons.[NEWLINE][NEWLINE]By the time of the first recorded contact with the Europeans, the Kingdom of Kongo was a highly developed state at the center of an extensive trading network. Apart from natural resources and ivory, the country manufactured and traded copperware, ferrous metal goods, raffia cloth, and pottery. The Kongo people spoke in the Kikongo language. The eastern regions, especially that part known as the Seven Kingdoms of Kongo dia Nlaza, were particularly famous for the production of cloth.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_KONGO_MOD_HEADING_3">
+			<Text>Early History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_KONGO_MOD_TEXT_3">
+			<Text>According to traditional accounts, the kingdom was founded by Lukeni lua Nimi about AD 1390. Originally, it was probably a loose federation of small polities, but, as the kingdom expanded, conquered territories were integrated as a royal patrimony. Soyo and Mbata were the two most powerful provinces of the original federation; other provinces included Nsundi, Mpangu, Mbamba, and Mpemba.[NEWLINE][NEWLINE]The capital of the kingdom was Mbanza Kongo. The capital and its surrounding area were densely settled—more so than other towns in and near the kingdom. This allowed the manikongo (king of Kongo) to keep close at hand the manpower and supplies necessary to wield impressive power and centralize the state. Historical accounts prior to the arrival of the Portuguese are scarce. By the time of the first recorded contact with Europeans, the Kingdom of Kongo was a highly developed state at the center of an extensive trading network.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_KONGO_MOD_HEADING_4">
+			<Text>The Arrival of Europe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_KONGO_MOD_TEXT_4">
+			<Text>When Portuguese arrived in Kongo in 1483, Nzinga a Nkuwu was the manikongo. In 1491 both he and his son, Mvemba a Nzinga, were baptized and assumed Christian names; João I Nzinga a Nkuwu and Afonso I Mvemba a Nzinga, respectively. Afonso, who became manikongo ca. 1509, extended Kongo's borders, centralized administration, and forged strong ties between Kongo and Portugal. He eventually faced problems with the Portuguese community that settled in Kongo regarding their handling of Atlantic trade (in particular, the slave trade). As a result, in 1526 Afonso organized the administration of the slave trade in an attempt to ensure that people were not illegally enslaved and exported.[NEWLINE][NEWLINE]Kongo's system of manikongo succession was often prone to disputes, frequently between sons or between sons and brothers of former kings, and at times the rivals would form factions, some of which were long-lived. Significant struggles over succession took place after Afonso's death in 1542 and many times after that. In 1568, possibly as a result of such a struggle, Kongo was temporary overrun by rival warriors from the east known as the Jagas, and Álvaro I Nimi a Lukeni (reigned 1568-87) was able to restore Kongo only with Portuguese assistance.[NEWLINE][NEWLINE]In exchange, he allowed them to settle in at Luanda (a Kongo territory) and create the Portuguese colony that became Angola. Relations with Angola soon soured and then worsened when Angola's governor briefly invaded southern Kongo in 1622. Later, Garcia II Nkanga a Lukeni (reigned 1641-61) sided with the Dutch against Portugal when the former country seized portions of Angola from 1641 to 1648. Further disputes between Kongo and Portugal over joint claims in the region led to skirmishes in the small district of Mbwila, culminating in the Battle of Mbwila (or Ulanga) on Oct. 29, 1665. The Portuguese were victorious and killed the reigning manikongo, António I Nvita a Nkanga, during the battle. Although Kongo continued to exist, from this point on it ceased to function as a unified kingdom.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_KONGO_MOD_HEADING_5">
+			<Text>Civil War</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_KONGO_MOD_TEXT_5">
+			<Text>After the Battle of Mbwila and the death of the manikongo, the Kimpanzu and Kinlaza—two rival factions that had formed earlier in Kongo's history—disputed the kingship. Unresolved, the civil war dragged on for most of the remainder of the 17th century, destroying the countryside and resulting in the enslavement and transport of thousands of Kongo subjects. These factions created several bases throughout the region, partitioning the kingdom among them. Pedro IV Agua Rosada Nsamu a Mvemba of Kibangu (reigned 1696-1718) engineered an agreement that recognized the integrity of the territorial bases while rotating kingship among them. During these negotiations, the abandoned capital of Mbanza Kongo (renamed São Salvador in the late 16th century) was taken by the Antonians (a religious movement, named after Saint Anthony, whose goal was to create a new Christian Kongo kingdom), led by Beatriz Kimpa Vita. Pedro subsequently tried and executed Beatriz as a heretic and then reoccupied the capital and restored the kingdom in 1709.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_KONGO_MOD_HEADING_6">
+			<Text>Angola</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_KONGO_MOD_TEXT_6">
+			<Text>The rotational system of kingship worked moderately well in the 18th century, producing the long reign of Manuel II Nimi a Vuzi of the Kimpanzu (reigned 1718-43), followed by Garcia IV Nkanga a Mvandu of the Kinlaza (reigned 1743-52). Factional fighting continued on a smaller scale, and rotational succession was sometimes contested, as it was by José I Mpazi za Nkanga (reigned 1778-85), resulting in a weak monarchy. Portugal intervened in the succession dispute that followed the death of Henrique II Mpanzu a Nzindi (reigned 1842-57) and assisted Pedro V Agua Rosada Lelo (reigned 1859-91) in his installation. Eventually Pedro V ceded his territory to Portugal as a part of Angola in exchange for increased royal powers over outlying areas. A revolt against Portuguese rule and complicity of the kings led by Álvaro Buta in 1913-14 was suppressed but triggered the collapse of the Kongo kingdom, which was then fully integrated into the Portuguese colony of Angola.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_KONGO_MOD_STATBOX">
+			<Text>[NEWLINE]        Leader: Nzinga Mbande[NEWLINE]        Unique Unit: Pombo[NEWLINE]        Unique Building: Raffia Mill[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_KONGO_MOD_FACTOID_HEADING">
+			<Text>Kongolese Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_KONGO_MOD_FACTOID_TEXT">
+			<Text>The universal currency in Kongo and just about all of Central Africa was shell money known locally as nzimbu. One hundred nzimbu could purchase a hen; 300 a garden hoe and 2000 a goat. Slaves, which were always a part of Kongo's economy but increased in trade after contact with Portugal were also bought in nzimbu. A female slave could be purchased (or sold) for 20,000 nzimbu and male slave for 30,000. Nzimbu shells were fished from the island of Luanda and kept as a royal monopoly. The smaller shells were filtered out so that only the large shells entered the marketplace as currency.[NEWLINE][NEWLINE]The Bundu dia Kongo political party favors reviving the Kingdom of Kongo through secession from Angola, the Republic of the Congo, the Democratic Republic of the Congo, and Gabon.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MBANZA_KONGO_MOD">
+			<Text>M'banza-Kongo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KAVANGA_MOD">
+			<Text>Kavanga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LOANGO_MOD">
+			<Text>Loango</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KABASA_MOD">
+			<Text>Kabasa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NKUNA_MOD">
+			<Text>Nkuna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MPINDA_MOD">
+			<Text>Mpinda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KAKONGO_MOD">
+			<Text>KaKongo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NSI_KWILU_MOD">
+			<Text>Kwilu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KONGO_DIA_NLAZA_MOD">
+			<Text>Kongo dia Nlaza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANZIKU_MOD">
+			<Text>Anziku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MATAMBA_MOD">
+			<Text>Matamba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SONGO_MOD">
+			<Text>Songo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NGOYO_MOD">
+			<Text>Ngoyo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MOD_INCUSSU">
+			<Text>Incussu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MOD_DINGI">
+			<Text>Dingi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MOD_DEMBO_AMULASSA">
+			<Text>Dembo Amulassa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MOD_BUKAMEALA">
+			<Text>Bukameala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MOD_WAMBA">
+			<Text>Wamba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MOD_OVANDO">
+			<Text>Ovando</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MOD_POMBA_SAMBA">
+			<Text>Pomba Samba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MOD_OUMA">
+			<Text>Ouma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MOD_BOKIAN">
+			<Text>Bokian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MOD_MANNEBACANI">
+			<Text>Mannebacani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MOD_KINASSO">
+			<Text>Kinasso</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MOD_MOSSULA">
+			<Text>Mossula</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MOD_MANI_IMBUILA">
+			<Text>Mani Imbuila</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MOD_NGANDA">
+			<Text>Nganda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MOD_AMBRIZ">
+			<Text>Ambriz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KONGO_NZINGA_MOD_DESC">
+			<Text>Nzinga</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_KONGO_NZINGA_MOD_LIVED">
+			<Text>ca. AD 1583 - 1663</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KONGO_NZINGA_MOD_NAME">
+			<Text>Nzinga</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_KONGO_NZINGA_MOD_SUBTITLE">
+			<Text>Leader of Kongo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KONGO_NZINGA_MOD_TITLES_1">
+			<Text>Queen of Ndongo and Matamba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KONGO_NZINGA_MOD_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KONGO_NZINGA_MOD_TEXT_1">
+			<Text>Nzinga Mbande was a 17th century queen of the Ndongo and Matamba Kingdoms of the Mbundu people in southwestern Africa. She is one of Africa's best documented early-modern rulers. She is noted for entering into the first African-European alliance against another European nation, an example of her shrewd diplomatic acumen, as well as her military success against the Portuguese.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KONGO_NZINGA_MOD_HEADING_2">
+			<Text>Early Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KONGO_NZINGA_MOD_TEXT_2">
+			<Text>Nzinga Mbande was born as a Princess among the Mbundu (Ambundu) group of the Ndongo Kingdom in the central west Africa region now known as Angola. According to tradition, she was named Nzingha because her umbilical cord was wrapped around her neck. It was said to be an omen that Nzingha would be proud and haughty, and a wise woman told her mother that Nzingha would one day be queen. According to her recollections later in life, she was greatly favoured by her father, who allowed her to witness as he governed his kingdom, and who carried her with him to war. She also had a brother, Mbandi, and two sisters, Kifunji and Mukambu. She lived during a period when the Atlantic slave trade and the consolidation of power by the Portuguese in the region were growing rapidly.[NEWLINE][NEWLINE]Nzinga first appears in historical records as the envoy of her brother, the ngiolssa Ngola Mbande, at a peace conference with the Portuguese governor João Correia de Sousa in Luanda in 1599.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KONGO_NZINGA_MOD_HEADING_3">
+			<Text>Rise to Power</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KONGO_NZINGA_MOD_TEXT_3">
+			<Text>The Mbundu tradition prohibited women rulers. Nzinga initially served as envoy for her brother, Ngola Mbande, attempting to get the Portuguese to withdraw from the fortress of Ambaca that had been built on her brother's land in 1618, return some of his subjects who had been taken captive during Portuguese campaigns between 1617 and 1621), and persuade the governor to stop the marauding of Imbangala mercenaries in Portuguese service. Nzinga's efforts were successful. The governor, João Correia de Sousa, never gained the advantage at the meeting and agreed to her terms, which resulted in a treaty on equal terms.[NEWLINE][NEWLINE]Nzinga converted to Christianity, possibly in order to strengthen the peace treaty with the Portuguese, and adopted the name Dona Anna de Sousa in honour of the governor's wife when she was baptised, who was also her godmother. She sometimes used this name in her correspondence (or just Anna). The Portuguese never honoured the treaty however, neither withdrawing Ambaca, nor returning the subjects, who they held were slaves captured in war, and they were unable to restrain the Imbangala.[NEWLINE][NEWLINE]Nzinga's brother committed suicide following this diplomatic impasse, convinced that he would never have been able to recover what he had lost in the war. Rumours were also afoot that Nzinga had actually poisoned him, and these rumours were repeated by the Portuguese as grounds for not honouring her right to succeed her brother. Nzinga assumed control as regent of his young son,Kaza, who was then residing with the Imbangala. Nzinga sent to have the boy in her charge. The son returned, who she is alleged to have killed for his impudence. She then assumed the powers of ruling in Ndongo. In her correspondence in 1624 she fancifully styled herself "Lady of Andongo" (senhora de Andongo), but in a letter of 1626 she now called herself "Queen of Andongo" (rainha de Andongo), a title which she bore from then on.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KONGO_NZINGA_MOD_HEADING_4">
+			<Text>Dutch Alliance</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KONGO_NZINGA_MOD_TEXT_4">
+			<Text>In 1641, the Dutch, working in alliance with the Kingdom of Kongo, seized Luanda. Nzinga soon sent them an embassy and concluded an alliance with them against the Portuguese who continued to occupy the inland parts of their colony. Hoping to recover lost lands with Dutch help, she moved her capital to Kavanga in the northern part of Ndongo's former domains. In 1644 she defeated the Portuguese army at Ngoleme, but was unable to follow up. Then, in 1646, she was defeated by the Portuguese at Kavanga and, in the process, her sister was captured, along with her archives, which revealed her alliance with Kongo. These archives also showed that her captive sister had been in secret correspondence with Nzinga and had revealed coveted Portuguese plans to her. As a result of the woman's spying, the Portuguese reputedly drowned the sister in the Kwanza River.[NEWLINE][NEWLINE]The Dutch in Luanda now sent Nzinga reinforcements, and with their help, Nzinga routed a Portuguese army in 1647. Nzinga then laid siege to the Portuguese capital of Masangano. The Portuguese recaptured Luanda with a Brazilian-based assault led by Salvador Correia de Sá, and in 1648, Nzinga retreated to Matamba and continued to resist Portugal. She resisted the Portuguese well into her sixties, personally leading troops into battle.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KONGO_NZINGA_MOD_HEADING_5">
+			<Text>Final Years</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KONGO_NZINGA_MOD_TEXT_5">
+			<Text>In 1657, weary from the long struggle, Nzinga signed a peace treaty with Portugal. After the wars with Portugal ended, she attempted to rebuild her nation, which had been seriously damaged by years of conflict and over-farming. She was anxious that Njinga Mona's Imbangala not succeed her as ruler of the combined kingdom of Ndongo and Matamba, and inserted language in the treaty that bound Portugal to assist her family to retain power. Lacking a son to succeed her, she tried to vest power in the Ngola Kanini family and arranged for her sister to marry João Guterres Ngola Kanini and to succeed her. This marriage, however, was not allowed, as priests maintained that João had a wife in Ambaca. She returned to the Christian church to distance herself ideologically from the Imbangala, and took a Kongo priest Calisto Zelotes dos Reis Magros as her personal confessor. She permitted Capuchin missionaries, first Antonio da Gaeta and the Giovanni Antonio Cavazzi da Montecuccolo to preach to her people. Both wrote lengthy accounts of her life, kingdom, and strong will.[NEWLINE][NEWLINE]She devoted her efforts to resettling former slaves and allowing women to bear children. Despite numerous efforts to dethrone her, especially by Kasanje, whose Imbangala band settled to her south, Nzinga would die a peaceful death at age eighty on 17 December 1663 in Matamba. Matamba went through a civil war in her absence, but Francisco Guterres Ngola Kanini eventually carried on the royal line in the kingdom. Her death accelerated the Portuguese occupation of the interior of South West Africa, fueled by the massive expansion of the Portuguese slave trade. Portugal would not have control of the interior until the 20th century.[NEWLINE][NEWLINE]Today, Nzinga Mbande is remembered in Angola for her political and diplomatic acumen, great wit and intelligence, as well as her brilliant military tactics. In time, Portugal and most of Europe would come to respect her. A major street in Luanda is named after her, and a statue of her stands in Kinaxixi. Angolan women are often married near the statue, especially on Thursdays and Fridays.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KONGO_NZINGA_MOD_HEADING_6">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_KONGO_NZINGA_MOD_TEXT_6">
+			<Text>A famous story recounts that when meeting with the Portuguese governor João Correia de Sousa, de Sousa did not offer Nzinga Mbande a chair to sit on during negotiations. Instead, he had placed a mat on the floor for her to sit, which, in Mbundu custom, was appropriate only for subordinates. Not willing to accept this degradation, Nzinga Mbande ordered one of her servants to get down on the ground and sat on the servant's back during the negotiations. By doing so, Nzinga Mbande asserted her status as equal to that of the governor.[NEWLINE][NEWLINE]According to the Marquis de Sade's 'Philosophy in the Boudoir', Nzinga was a woman who "immolated her lovers." De Sade's reference for this comes from 'History of Zangua, Queen of Angola'. It claims that after becoming queen, she obtained a large, all male harem at her disposal. Her men fought to the death in order to spend the night with her and, after a single night of lovemaking, were put to death.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_KONGO_MOD_TEXT">
+			<Text>Greetings brave Nzinga, Queen of the Ndongo and Matamba, your beauty is matched only by your cunning. Your Kingdom is part of the great Kingdom of Kongo, situated at the mouth of the mighty Congo River in central Africa. You defied tradition by claiming two thrones and are remembered for standing bravely against the onslaught of Imperialism. When the Portuguese invaded your lands you escaped death and shrewdly manipulated the Dutch into sending you aid. Together you turned back the army of the Portuguese at the Battle of Kombi. Yet, ever faced with threats both inside and out, the never-ending war took its toll. In the end, not even your bravery could stop the march of foreign crowns.[NEWLINE][NEWLINE]Mighty Queen, your people have been captured and sold into slavery. Yet, your old alliances stand firm and await your call. It is time for you to return, to instill your strength and spirit and lead your people into battle once more. Can you restore your war-torn land? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KONGO_ARCHERY_DUMMY_DESC">
+			<Text>Kongo Conscription Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KONGO_ARCHERY_DUMMY_STRATEGY">
+			<Text>This building cannot be constructed but rather facilitates Kongo's unique abilities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KONGO_ARCHERY_DUMMY_TEXT">
+			<Text>The kingdom's army consisted of a mass levy of archers drawn from the general male population, forming the bulk of Kongo's infantry forces, and a smaller corps of heavy infantry, who fought with swords and carried shields for protection. When the Portuguese arrived in Kongo they were immediately added as a mercenary force, probably under their own commander, and used special-purpose weapons, like crossbows and muskets, to add force to the normal Kongo order of battle.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KONGO_RAFFIA_DUMMY_DESC">
+			<Text>Kongo Raffia Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LUBA_MOD">
+			<Text>Kabongo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_LUBA_ADJ_MOD">
+			<Text>Kabongo</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CIV5_LUBA_TEXT_MOD">
+			<Text>The Luba first appeared as a people in the 5th Century AD in the area around the Upemba Depression near the present-day town of Kabongo within the Democratic Republic of the Congo. Starting in the 1580s, the Luba expanded rapidly from their city under the leadership of a series of able chieftains, overrunning neighboring tribes and securing their copper mines, fishing grounds, and palm oil production. A pre-colonial state, it made good use of the marshy grassland to develop a society based on agriculture and pastoralism.[NEWLINE][NEWLINE]The peak of the kingdom was reached under the rule of King Kongolo Maniema and his successor Kalala Ilunda at the end of the 16th century. The decline of the Lube Empire was brought about by the influx of Muslim slave traders from the east in the 1870s, and pressure from encroaching Europeans. The Luba went into decline, finally being forcibly incorporated into the Belgian Congo in 1885. The Luba rose in rebellion in 1895, but were virtually annihilated in the Belgian suppression of the revolt.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_GENERIC_KONGO_MOD_INFLUENTIAL_ON_AI_1">
+			<Text>My people are obsessed with drinking ogogoro and wearing raffia weaved hats. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_NZINGA_MOD">
+			<Text>Nkuwu</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- -->		
+	</Language_en_US>
+</GameData>

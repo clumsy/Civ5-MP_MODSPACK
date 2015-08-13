@@ -1415,6 +1415,9 @@ ContextPtr:LoadNewContext("Kievan Rus Check")
 -- Nation - Sumer --
 ContextPtr:LoadNewContext("Sumer Mod Check")
 
+-- Nation - Kongo --
+ContextPtr:LoadNewContext("Kongo_Scripts_Check_3")
+
 -- Nation - Champa --
 ContextPtr:LoadNewContext("Champa Check")
 
@@ -1457,4 +1460,3 @@ ContextPtr:LoadNewContext("HNR_Main")
 
 -- Misc - Pontoon Bridge --
 ContextPtr:LoadNewContext("Pontoon Bridge Lua")
-

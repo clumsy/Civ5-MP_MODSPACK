@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<MinorCivilizations>
+		<Update>
+			<Where Type="MINOR_CIV_MBANZA_KONGO"/>
+			<Set>
+				<Description>TXT_KEY_CITYSTATE_LUBA_MOD</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_LUBA_MOD</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_LUBA_ADJ_MOD</Adjective>
+				<Civilopedia>TXT_KEY_CIV5_LUBA_TEXT_MOD</Civilopedia>
+			</Set>
+		</Update>
+	</MinorCivilizations>
+	<MinorCivilization_CityNames>
+		<Delete MinorCivType="MINOR_CIV_MBANZA_KONGO" CityName="TXT_KEY_CITYSTATE_MBANZA_KONGO"/>
+		<Row>
+			<MinorCivType>MINOR_CIV_MBANZA_KONGO</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_LUBA_MOD</CityName>
+		</Row>
+	</MinorCivilization_CityNames>
+</GameData>

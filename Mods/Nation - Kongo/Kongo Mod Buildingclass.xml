@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_KONGO_ARCHERY_DUMMY</Type>
+			<DefaultBuilding>BUILDING_KONGO_ARCHERY_DUMMY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_KONGO_ARCHERY_DUMMY_DESC</Description>
+		</Row>
+	</BuildingClasses>
+	<Civilization_BuildingClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_KONGO_ARCHERY_DUMMY</BuildingClassType>
+			<BuildingType/>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MINOR</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_KONGO_ARCHERY_DUMMY</BuildingClassType>
+			<BuildingType/>
+		</Row>
+	</Civilization_BuildingClassOverrides>
+</GameData>

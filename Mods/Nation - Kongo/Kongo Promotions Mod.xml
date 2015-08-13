@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh-->
+<GameData>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_ANTI_MOUNTED_KONGO_MOD</Type>
+			<Description>TXT_KEY_PROMOTION_ANTI_MOUNTED_KONGO_MOD</Description>
+			<Help>TXT_KEY_PROMOTION_ANTI_MOUNTED_KONGO_MOD_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PortraitIndex>59</PortraitIndex>
+			<LostWithUpgrade>true</LostWithUpgrade>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_ANTI_MOUNTED_KONGO_MOD</PediaEntry>
+		</Row>
+		<Row>
+			<Type>PROMOTION_KONGO_HORSE_MOD</Type>
+			<Description>TXT_KEY_PROMOTION_KONGO_HORSE_MOD</Description>
+			<Help>TXT_KEY_PROMOTION_KONGO_HORSE_MOD_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<LostWithUpgrade>true</LostWithUpgrade>
+			<PortraitIndex>33</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_KONGO_HORSE_MOD</PediaEntry>
+		</Row>
+		<Row>
+			<Type>PROMOTION_KONGO_RIVER_ATTACK</Type>
+			<Description>TXT_KEY_PROMOTION_BENIN_RIVER_ATTACK_KONGO</Description>
+			<Help>TXT_KEY_PROMOTION_BENIN_RIVER_ATTACK_HELP_KONGO</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<River>true</River>
+			<PortraitIndex>5</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_BENIN_RIVER_ATTACK_KONGO</PediaEntry>
+		</Row>
+		<Update>
+			<Where Type="PROMOTION_AMPHIBIOUS"/>
+			<Set PromotionPrereqOr5="PROMOTION_KONGO_RIVER_ATTACK"/>
+		</Update>
+	</UnitPromotions>
+	<UnitPromotions_UnitCombatMods>
+		<Row>
+			<PromotionType>PROMOTION_ANTI_MOUNTED_KONGO_MOD</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+			<Modifier>33</Modifier>
+		</Row>
+	</UnitPromotions_UnitCombatMods>
+</GameData>

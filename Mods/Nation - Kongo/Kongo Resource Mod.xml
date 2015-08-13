@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh-->
+<GameData>
+	<Resources>
+		<Row>
+			<Type>RESOURCE_RAFIA</Type>
+			<Happiness>4</Happiness>
+			<Description>TXT_KEY_RESOURCE_RAFIA_MOD</Description>
+			<Civilopedia>TXT_KEY_CIV5_RESOURCE_RAFIA_MOD_TEXT</Civilopedia>
+			<Help>TXT_KEY_RESOURCE_RAFIA_MOD_HELP</Help>
+			<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+			<ArtDefineTag>ART_DEF_RESOURCE_SILK</ArtDefineTag>
+			<PlacementOrder>3</PlacementOrder>
+			<ConstAppearance>50</ConstAppearance>
+			<MinAreaSize>1500</MinAreaSize>
+			<MaxLatitude>90</MaxLatitude>
+			<RandApp1>25</RandApp1>
+			<RandApp2>25</RandApp2>
+			<Player>67</Player>
+			<Flatlands>true</Flatlands>
+			<IconString>[ICON_RES_RAFIA]</IconString>
+			<PortraitIndex>4</PortraitIndex>
+			<IconAtlas>KONGO_MOD_ATLAS</IconAtlas>
+		</Row>
+	</Resources>	
+</GameData>

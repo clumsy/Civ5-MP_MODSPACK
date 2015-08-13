@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_KONGO_RIVER_MOD</Type>
+			<Description>TXT_KEY_TRAIT_GLORY_OF_THE_MANIKONGO</Description>
+			<ShortDescription>TXT_KEY_TRAIT_GLORY_OF_THE_MANIKONGO_SHORT</ShortDescription>
+			<FasterAlongRiver>true</FasterAlongRiver>
+			<!-- Dummy Building Start -->
+			<FreeBuilding>BUILDING_KONGO_ARCHERY_DUMMY</FreeBuilding>
+			<!-- Dummy Building End -->
+		</Row>
+	</Traits>
+	<Trait_FreePromotionUnitCombats>
+		<Row>
+			<TraitType>TRAIT_KONGO_RIVER_MOD</TraitType>
+			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+			<PromotionType>PROMOTION_KONGO_RIVER_ATTACK</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_KONGO_RIVER_MOD</TraitType>
+			<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
+			<PromotionType>PROMOTION_BENIN_RIVER_ATTACK</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_KONGO_RIVER_MOD</TraitType>
+			<UnitCombatType>UNITCOMBAT_RECON</UnitCombatType>
+			<PromotionType>PROMOTION_KONGO_RIVER_ATTACK</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_KONGO_RIVER_MOD</TraitType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+			<PromotionType>PROMOTION_KONGO_RIVER_ATTACK</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_KONGO_RIVER_MOD</TraitType>
+			<UnitCombatType>UNITCOMBAT_SIEGE</UnitCombatType>
+			<PromotionType>PROMOTION_KONGO_RIVER_ATTACK</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_KONGO_RIVER_MOD</TraitType>
+			<UnitCombatType>UNITCOMBAT_GUN</UnitCombatType>
+			<PromotionType>PROMOTION_KONGO_RIVER_ATTACK</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_KONGO_RIVER_MOD</TraitType>
+			<UnitCombatType>UNITCOMBAT_ARMOR</UnitCombatType>
+			<PromotionType>PROMOTION_KONGO_RIVER_ATTACK</PromotionType>
+		</Row>
+	</Trait_FreePromotionUnitCombats>
+</GameData>
