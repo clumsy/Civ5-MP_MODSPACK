@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="b04a3a59-94f8-40fb-a1ec-a92834a70862" version="1">
+  <Properties>
+    <Name>The Kalmar Union by Greater Europe</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>A personal union between the Scandinavian crowns, the Kalmar Union lasted for just over a century, dominating the North Sea in t</Teaser>
+    <Description>A personal union between the Scandinavian crowns, the Kalmar Union lasted for just over a century, dominating the Baltic Sea in that time.
+
+This mod requires Brave New World, but not the Denmark DLC. 
+
+[IMG]http://i.imgur.com/WuKst7v.png[/IMG]
+
+[QUOTE]
+[B]UA: The Nordic Crowns[/B]
+During Golden Ages, Gold is increased by 50% in Coastal Cities. Coastal Cities have no Unhappiness penalty from founding. 
+
+[B]UU: Baltic Warship[/B]
+Replaces Galleass. Has a Combat Bonus in friendly territory, and increases border expansion rate while garrisoned. Earns Golden Age points from kills.
+
+[B]UB: Round Church[/B]
+A replacement for the Garden, the Round Church provides +2  Faith and Happiness, as well as granting a Gold bonus on naval trade routes from the city.
+[/QUOTE]
+
+[QUOTE]
+Credits:
+Code and most art: Viregel
+LH Art: TarcisioCM
+Icon Atlases: JFD
+Lua Assistance: Ryoga, BouncyMischa, LeeS and LastSword
+Screenshots/Balance: TPangolin, DJSHenninger, JanBoruta
+Peace Music: Europa Universalis IV, Land of Glory
+War Music: Crusader Kings, Deus Vult; Voices of War 
+[/QUOTE]
+
+[QUOTE]
+Has support for JFD's Piety and Prestige and Cultural Diversity. 
+[/QUOTE]</Description>
+    <Authors>Viregel, TarcisioCM</Authors>
+    <SpecialThanks>JFD, Ryoga, BouncyMischa, LeeS, LastSword, TPangolin, DJSHenninger, JanBoruta</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="E7D8D5D9F7AC9ECDE5B5989DCD5DD2B5" import="1">Art/GEBalticWarshipFlag.dds</File>
+    <File md5="0FE5FF598CA47151349499F14C6C27FF" import="1">Art/GE_KalmarUnionAtlas_128.dds</File>
+    <File md5="0CDCF8CE5F80D042ADCAC3066AF50561" import="1">Art/GE_KalmarUnionAtlas_256.dds</File>
+    <File md5="B7A2DE773DD6A6E0028ECF1E6FFF9173" import="1">Art/GE_KalmarUnionAtlas_32.dds</File>
+    <File md5="02AE6B15056336059EFA5AC9A2A4B0E9" import="1">Art/GE_KalmarUnionAtlas_45.dds</File>
+    <File md5="8B7A1BA2FCDFCFB6945FEBE97821912E" import="1">Art/GE_KalmarUnionAtlas_64.dds</File>
+    <File md5="F93105E2B964AE42C6144FB112F18CC7" import="1">Art/GE_KalmarUnionAtlas_80.dds</File>
+    <File md5="08AE8B2F1FF62D3D2CDEB8F09B10A8C7" import="1">Art/GE_KalmarUnionIcons256.dds</File>
+    <File md5="BFD7616B98C19342981281E5375B7181" import="1">Art/GE_KalmarUnionAlpha_128.dds</File>
+    <File md5="7C73831111A94686642A11AA3CD69635" import="1">Art/GE_KalmarUnionAlpha_256.dds</File>
+    <File md5="042388215B3233DCB458B81BDA9B4A70" import="1">Art/GE_KalmarUnionAlpha_32.dds</File>
+    <File md5="BCA81283A8C76E5014015E4ABE4370C3" import="1">Art/GE_KalmarUnionAlpha_45.dds</File>
+    <File md5="C41A4B421117D3FF4FC7CC30C0746399" import="1">Art/GE_KalmarUnionAlpha_48.dds</File>
+    <File md5="85056D2DD886BC2E4BD2B909E4B003F8" import="1">Art/GE_KalmarUnionAlpha_64.dds</File>
+    <File md5="E2A6EF3420029F6B9F8970047154B87D" import="1">Art/GE_KalmarUnionAlpha_80.dds</File>
+    <File md5="91375863851A5E677C12681B7C267855" import="1">Art/GE_KalmarUnionAlpha_24.dds</File>
+    <File md5="A16521093CA3A7E9EBB0A7C9175D3490" import="1">Art/KalmarUnionMap.dds</File>
+    <File md5="E4C2BE1CFF52160583920326148E264A" import="1">Art/Margaret.dds</File>
+    <File md5="730EE85496FD59AC84F563D66570AAA5" import="1">Art/MargaretDOM.dds</File>
+    <File md5="9CE97827CA284AD570B8F71FE33D8CAA" import="1">Art/WarGalleonDanish.fxsxml</File>
+    <File md5="ACAB3AF4E8D87D6D489DEDB84755768D" import="1">Art/WarGalleonDanish.gr2</File>
+    <File md5="5E52F63DCB6CF83FD588F17F27A82F73" import="1">Art/war_galleon_danish_diff.dds</File>
+    <File md5="E2D814EE028E35CCDC44B44F2BDA4C41" import="1">Art/war_galleon_sref.dds</File>
+    <File md5="4D46BA494EBF0039864839084C9AAFFF" import="0">Lua/KalmarUnionFunctions.lua</File>
+    <File md5="706A5890D77A4363EE9AD0DA4E0F35F6" import="0">XML/Buildings/KalmarUnionBuildings.xml</File>
+    <File md5="FC7F0302F8AD6748A04B339C0C318CA9" import="0">XML/Civilization/KalmarUnionCivilisation.xml</File>
+    <File md5="83F5C0F4FCD77E4815B375D94DEB27CF" import="0">XML/Civilization/KalmarUnionTrait.xml</File>
+    <File md5="068D4438C63E371237C6875EDAA718C1" import="1">XML/Icons/KalmarUnionAtlas.xml</File>
+    <File md5="95D58CA8378FABF42A1243FD5FC74EE8" import="0">XML/Leader/LeaderMargaret.xml</File>
+    <File md5="C8CDEFAED62A272E3A0D5DFD3857FD60" import="1">XML/Leader/MargaretPeace.mp3</File>
+    <File md5="3EBF0506064B05D9C13CE56800BFB16C" import="1">XML/Leader/MargaretWar.mp3</File>
+    <File md5="D47B9B83A17E70B7B173A9A1D08334F7" import="1">XML/Leader/MargaretScene.xml</File>
+    <File md5="E5511E60620DEAE61630DF329BEADBF1" import="0">XML/Mod Support/CulDivSupport.sql</File>
+    <File md5="0B8FBBAEB0E19C9F2B4C64C00FBEE6C7" import="0">XML/Mod Support/PietyAndPrestigeSupport.sql</File>
+    <File md5="15508138E22C4DFEB9185B87AD804E82" import="0">XML/Music/KalmarUnionAudio.xml</File>
+    <File md5="47E247C0125911488F8CCD4133900938" import="0">XML/Text/KalmarUnionText.xml</File>
+    <File md5="EE9487D108259EF633ADB22B43A5E62D" import="0">XML/Units/ArtDefines.sql</File>
+    <File md5="4B2E0D16A5BF0441F8C46D0B4B1F8B5C" import="0">XML/Units/KalmarUnionUnits.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Buildings/KalmarUnionBuildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization/KalmarUnionCivilisation.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization/KalmarUnionTrait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Icons/KalmarUnionAtlas.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader/LeaderMargaret.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader/MargaretScene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Music/KalmarUnionAudio.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/KalmarUnionText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/KalmarUnionUnits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Mod Support/CulDivSupport.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Mod Support/PietyAndPrestigeSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/KalmarUnionFunctions.lua">
+      <Name>Kalmar Union Functions </Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

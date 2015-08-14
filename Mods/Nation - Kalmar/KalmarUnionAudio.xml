@@ -1,0 +1,39 @@
+<GameData>
+	<Audio_Sounds>
+
+
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_GE_MARGARET_PEACE</SoundID>
+			<Filename>MargaretPeace</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_GE_MARGARET_WAR</SoundID>
+			<Filename>MargaretWar</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+
+	</Audio_Sounds>
+	<Audio_2DSounds>
+		<!--Ohiggins Music For Audio Scripts-->
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_GE_MARGARET_PEACE</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_GE_MARGARET_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_GE_MARGARET_WAR</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_GE_MARGARET_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>50</MinVolume>
+			<MaxVolume>50</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<!--Ohiggins Music-->
+	</Audio_2DSounds>
+	
+
+</GameData>

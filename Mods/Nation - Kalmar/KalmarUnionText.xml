@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/19/2013 1:20:28 PM -->
+<GameData>
+	<Language_en_US>
+		<!--Leader Speech -->
+		<!--Greeting (first time meeting) -->
+		<Row Tag="TXT_KEY_LEADER_GE_MARGARET_FIRSTGREETING_1">
+			<Text>Welcome to the North, stranger. I am Margaret, Queen of the Kalmar Union, and protector of the Scandinavian peoples.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GE_MARGARET_DEFEATED_1">
+			<Text>The union may be shattered, but the spirit will never die. The North shall rise once more!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GE_MARGARET_DECLARE_WAR_1">
+			<Text>I have had enough of your wicked kind. Our union of crowns will surely be enough to put an end to your satanic lands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GE_MARGARET_ATTACKED_1">
+			<Text>Though I knew it was coming, I'd have thought you'd have reconsidered your position first. We will end you!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_GE_KALMAR_UNION_01">
+			<Text>Copenhagen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_KALMAR_UNION_02">
+			<Text>Stockholm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_KALMAR_UNION_03">
+			<Text>Oslo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_KALMAR_UNION_04">
+			<Text>Vassa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_KALMAR_UNION_05">
+			<Text>Aarhus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_KALMAR_UNION_06">
+			<Text>Malmo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_KALMAR_UNION_07">
+			<Text>Bergen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_KALMAR_UNION_08">
+			<Text>Turku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_KALMAR_UNION_09">
+			<Text>Ribe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_KALMAR_UNION_10">
+			<Text>Sigtuna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_KALMAR_UNION_11">
+			<Text>Trondheim</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_KALMAR_UNION_12">
+			<Text>Porvoo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_KALMAR_UNION_13">
+			<Text>Rokside</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_KALMAR_UNION_14">
+			<Text>Gothenburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_KALMAR_UNION_15">
+			<Text>Gothenburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_KALMAR_UNION_16">
+			<Text>Stavanger</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_KALMAR_UNION_17">
+			<Text>Rauma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_KALMAR_UNION_18">
+			<Text>Aalborg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_KALMAR_UNION_19">
+			<Text>Visby</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_KALMAR_UNION_20">
+			<Text>Odense</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_KALMAR_UNION_21">
+			<Text>Vanaja</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_KALMAR_UNION_22">
+			<Text>Tonsberg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_KALMAR_UNION_23">
+			<Text>Kiel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_KALMAR_UNION_24">
+			<Text>Viborg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_KALMAR_UNION_25">
+			<Text>Uppsala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_KALMAR_UNION_26">
+			<Text>Kristiansand</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_KALMAR_UNION_27">
+			<Text>Viipuri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_KALMAR_UNION_28">
+			<Text>Reykjavik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_KALMAR_UNION_29">
+			<Text>Vaxjo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_KALMAR_UNION_30">
+			<Text>Moss</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_KALMAR_UNION_31">
+			<Text>Tulleshoy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_KALMAR_UNION_32">
+			<Text>Torshavn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_KALMAR_UNION_33">
+			<Text>Kirkwall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_KALMAR_UNION_34">
+			<Text>Lerwik</Text>
+		</Row>
+		
+
+
+
+		<Row Tag="TXT_KEY_CIV_GE_KALMAR_UNION_ADJECTIVE">
+			<Text>Scandinavian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_KALMAR_UNION_DESC">
+			<Text>The Kalmar Union</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_KALMAR_UNION_SHORT_DESC">
+			<Text>Kalmar Union</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GE_KALMAR_UNION_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GE_KALMAR_UNION_TEXT_1">
+			<Text>The Kalmar Union was a personal union between the kingdoms of Norway, Denmark and Sweden that presevered throughout the 15th century; in effect, a pan-Scandinavian union. Though it had many opponents, the Kalmar Union was successful in its origanal purpose of destroying the influence of the Hanseatic Leauge; after this, it was able to start on its way to Baltic domination, an aim not achieved by the Kalmar Union, but by the breakaway Swedish Empire instead. Many pan-Nordic nationalists look to the Kalmar Union as an ideal to repeat, as a remarkable collection of kingdoms bonded together in an effort to defeat all foes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GE_KALMAR_UNION_DOM">
+			<Text>God be with you, oh great and wise Margaret, fair queen of Denmark, Sweden and Norway. During your reign, you were able to accomplish what many men of great ambition had failed to do both before and after your reign - to create a Scandinavian Union. In an attempt to destroy the influence of the Hanseatic Leauge to the south, you engineered this political complex, solidified at the town of Kalmar, after which your political masterpiece is named. This union of the crowns managed to stand united to crush her enemies and allow for a stronger north; Scandinavia truly prospered under your rule![NEWLINE][NEWLINE]Margaret, the north calls for you once more. Can you rebuild a union that will last and stun for years to come? Can you protect your people from foreign competitors and influence? Can you build a civilisation that will stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_GE_MARGARET_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_GE_MARGARET_TEXT_1">
+			<Text>The founder of the Kalmar Union, Queen Margaret defied the custom in Europe, and became the queen of Denmark - and soon Sweden and Norway as well. This was the creation of the most successful pan-Scandinavian union to date, covering territories in Finland to Iceland. With the treaty signed in Kalmar Castle, Margaret solidified an ever-closer Scandinavian union, which was well able to provide defence and security from the influence of their Germanic and Livonian neighbours. Margaret's leadership was probably able to prevent the Hanse from becoming all to dominant in the North, robbing them of their sovereignty altogether; not even Margaret proposed the union of parliment of all three Scandinavian states. All in all, Margaret is described as one of the best leaders Denmark ever had - as the harbringer of Scandinavian power, it is no suprise she is well respected.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_GE_MARGARET_LIVED">
+			<Text>1353 - 1412</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_GE_MARGARET_NAME">
+			<Text>Margaret Valdemarsdatter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_GE_MARGARET_SUBTITLE">
+			<Text>Queen of the Kalmar Union</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GE_MARGARET">
+			<Text>Margaret</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_GE_MARGARET_TITLES_1">
+			<Text>Queen of Denmark, Sweden and Norway</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_NORDIC_CROWNS">
+			<Text>
+				During [ICON_GOLDEN_AGE] Golden Ages, [ICON_GOLD] Gold is increased by 50% in Coastal Cities. Coastal Cities have no [ICON_HAPPINESS_4] Unhappiness penalty from founding. 
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_NORDIC_CROWNS_SHORT">
+			<Text>The Nordic Crowns</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GE_KALMAR_UNION_0">
+			<Text>Sven</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GE_KALMAR_UNION_1">
+			<Text>Bjorn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GE_KALMAR_UNION_2">
+			<Text>Anders</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GE_KALMAR_UNION_3">
+			<Text>Benny</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GE_KALMAR_UNION_4">
+			<Text>Henning</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GE_KALMAR_UNION_5">
+			<Text>Anni-Frid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GE_KALMAR_UNION_6">
+			<Text>Agnetha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GE_KALMAR_UNION_7">
+			<Text>Birgit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GE_KALMAR_UNION_8">
+			<Text>Astrid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GE_KALMAR_UNION_9">
+			<Text>Maja</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_GE_KALMAR_UNION_ROUND_CHURCH">
+			<Text>Round Church</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GE_KALMAR_UNION_ROUND_CHURCH_HELP">
+			<Text>A replacement for the Garden, the Round Church provides +2 [ICON_FAITH] Faith and [ICON_HAPPINESS_1] Happiness, as well as granting a [ICON_GOLD] Gold bonus on naval trade routes from the city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GE_KALMAR_UNION_ROUND_CHURCH_STRATEGY">
+			<Text>A replacement for the Garden, the Round Church provides +2 [ICON_FAITH] Faith and [ICON_HAPPINESS_1] Happiness, as well as granting a [ICON_GOLD] Gold bonus on naval trade routes from the city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_GE_KALMAR_UNION_ROUND_CHURCH_TEXT">
+			<Text>Throughout Denmark, churches built in circular shapes are a common sight; their original purpose was to ensure that no raiders or invaders would be able to take over the building, but their distinctive look has made them almost an icon of Danish architecture. During the Christianisation of Denmark and the years that followed, attacks by various raiders, be it Vikings, Germans or all manner of other people, these churches were able to serve as a safe place of worship and refuge. With their lookout points over the flat Danish countryside, these churches helped medevial communities in Denmark feel safe against the foreigners and other raiders.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_GE_KALMAR_UNION_BALTIC_WARSHIP">
+			<Text>Baltic Warship</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GE_KALMAR_UNION_BALTIC_WARSHIP_HELP">
+			<Text>Replaces Galleass. Has a Combat Bonus in friendly territory, and increases border expansion rate while garrisoned. Earns [ICON_GOLDEN_AGE] Golden Age points from kills.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GE_KALMAR_UNION_BALTIC_WARSHIP_STRATEGY">
+			<Text>Replaces Galleass. Has a Combat Bonus in friendly territory, and increases border expansion rate while garrisoned. Earns [ICON_GOLDEN_AGE] Golden Age points from kills.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GE_KALMAR_UNION_BALTIC_WARSHIP_TEXT">
+			<Text>During the various wars over the control of the Baltic Sea, the Kalmar Union had a suprisingly small naval force, as most of the battles were fought on land; however, they still played a vital contribution to the union and the subsuquent state of Denmark-Norway. Though the Kalmar Union's navy was only formalised towards the end of the union, it prevented the new Swedish Empire from getting a decisive grip on the Baltic for years, though massive ships for use in the Baltic Sea were used by the Swedes as well, the Gustav Vasa warship as an example. This navy was able to see of the threats of the Hanseatic Leauge, preventing it from becoming a powerful enough force to destroy the Scandinavian union; however, the Swedes were able to tilt the balance of the fleet in their favour for Baltic dominance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GE_BALTIC_SEA_DOMINION">
+			<Text>Dominium Maris Baltici</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GE_BALTIC_SEA_DOMINION_HELP">
+			<Text>+15% Combat Strength in Friendly Territory.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

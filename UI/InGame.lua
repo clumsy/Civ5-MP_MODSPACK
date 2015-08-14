@@ -1457,6 +1457,9 @@ ContextPtr:LoadNewContext("BoerUniqueBuilding")
 ContextPtr:LoadNewContext("CommandoDefense")
 ContextPtr:LoadNewContext("BoerCivilianMovement")
 
+-- Nation - Kalmar --
+ContextPtr:LoadNewContext("KalmarUnionFunctions")
+
 -- Nation - Xia --
 ContextPtr:LoadNewContext("Xia Mod Check")
 ContextPtr:LoadNewContext("XiaDynastyPopup")
