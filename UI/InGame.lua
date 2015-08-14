@@ -1452,6 +1452,11 @@ ContextPtr:LoadNewContext("HonourGrowthAndCulture")
 ContextPtr:LoadNewContext("VietCongPromotions")
 ContextPtr:LoadNewContext("DefenseFromGreatWorks")
 
+-- Nation - Boers --
+ContextPtr:LoadNewContext("BoerUniqueBuilding")
+ContextPtr:LoadNewContext("CommandoDefense")
+ContextPtr:LoadNewContext("BoerCivilianMovement")
+
 -- Nation - Xia --
 ContextPtr:LoadNewContext("Xia Mod Check")
 ContextPtr:LoadNewContext("XiaDynastyPopup")

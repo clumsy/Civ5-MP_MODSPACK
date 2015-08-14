@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/7/2014 9:58:14 AM -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_BOER_GROWTHDUMMY</Type>
+			<DefaultBuilding>BUILDING_BOER_GROWTHDUMMY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_BOER_GROWTHDUMMY</Description>
+			<NoLimit>true</NoLimit>
+		</Row>
+	</BuildingClasses>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_BOER_GROWTHDUMMY</Type>
+			<BuildingClass>BUILDINGCLASS_BOER_GROWTHDUMMY</BuildingClass>
+			<PrereqTech>NULL</PrereqTech>
+			<FaithCost>-1</FaithCost>
+			<Cost>-1</Cost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<Description>TXT_KEY_BUILDING_BOER_GROWTHDUMMY</Description>
+			<ArtDefineTag>ART_DEF_BUILDING_CASTLE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<NukeImmune>true</NukeImmune>
+			<NeverCapture>true</NeverCapture>
+		</Row>
+	</Buildings>
+	<Building_YieldModifiers>
+		<Row>
+			<BuildingType>BUILDING_BOER_GROWTHDUMMY</BuildingType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_YieldModifiers>
+</GameData>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/9/2014 4:36:46 PM -->
+<GameData>
+	<Units>
+		<Row>
+			<Class>UNITCLASS_GATLINGGUN</Class>
+			<Type>UNIT_BOERCOMMANDO</Type>
+			<PrereqTech>TECH_RIFLING</PrereqTech>
+			<Combat>28</Combat>
+			<RangedCombat>28</RangedCombat>
+			<Cost>200</Cost>
+			<FaithCost>400</FaithCost>
+			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
+			<Moves>2</Moves>
+			<Range>1</Range>
+			<CombatClass>UNITCOMBAT_ARCHER</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_RANGED</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_BOER_COMMANDO</Description>
+			<Civilopedia>TXT_KEY_CIV5_ANTIQUITY_BOER_COMMANDO_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_BOER_COMMANDO_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_BOER_COMMANDO</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<ObsoleteTech>TECH_REPLACEABLE_PARTS</ObsoleteTech>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_GREAT_WAR_INFANTRY</GoodyHutUpgradeUnitClass>
+			<AdvancedStartCost>30</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_BOER_COMMANDO</UnitArtInfo>
+			<UnitFlagAtlas>KOMMANDO_FLAG_ATLAS</UnitFlagAtlas>
+			<UnitFlagIconOffset>0</UnitFlagIconOffset>
+			<IconAtlas>CIV_COLOR_ATLAS_BOER</IconAtlas>
+			<PortraitIndex>2</PortraitIndex>
+		</Row>
+	</Units>
+	<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_BOERCOMMANDO</UnitType>
+			<UnitAIType>UNITAI_RANGED</UnitAIType>
+		</Row>
+	</Unit_AITypes>
+	<Unit_ClassUpgrades>
+		<Row>
+			<UnitType>UNIT_BOERCOMMANDO</UnitType>
+			<UnitClassType>UNITCLASS_MACHINE_GUN</UnitClassType>
+		</Row>
+	</Unit_ClassUpgrades>
+	<Unit_Flavors>
+		<Row>
+			<UnitType>UNIT_BOERCOMMANDO</UnitType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BOERCOMMANDO</UnitType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BOERCOMMANDO</UnitType>
+			<FlavorType>FLAVOR_RANGED</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+	</Unit_Flavors>
+	<Unit_FreePromotions>
+		<Row>
+			<UnitType>UNIT_BOERCOMMANDO</UnitType>
+			<PromotionType>PROMOTION_ONLY_DEFENSIVE</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BOERCOMMANDO</UnitType>
+			<PromotionType>PROMOTION_EXTRA_MOVES_I</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BOERCOMMANDO</UnitType>
+			<PromotionType>PROMOTION_CAN_MOVE_AFTER_ATTACKING</PromotionType>
+		</Row>
+	</Unit_FreePromotions>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_BOERRETREAT</Type>
+			<Description>TXT_KEY_PROMOTION_BOERRETREAT</Description>
+			<Help>TXT_KEY_PROMOTION_BOERRETREAT_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<OrderPriority>2</OrderPriority>
+			<ExtraWithdrawal>100</ExtraWithdrawal>
+			<PortraitIndex>51</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_BOERRETREAT</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+		</Row>
+		<Row>
+			<Type>PROMOTION_BOER_UU_PROMOTION</Type>
+			<Description>TXT_KEY_PROMOTION_BOER_UU_PROMOTION</Description>
+			<Help>TXT_KEY_PROMOTION_BOER_UU_PROMOTION_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<OrderPriority>2</OrderPriority>
+			<PortraitIndex>14</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_BOER_UU_PROMOTION</PediaEntry>
+			<DefenseMod>25</DefenseMod>
+			<CannotBeChosen>true</CannotBeChosen>
+		</Row>
+		<Row>
+			<Type>PROMOTION_BOER_MOVEMENT</Type>
+			<Description>TXT_KEY_PROMOTION_BOER_MOVEMENT</Description>
+			<Help>TXT_KEY_PROMOTION_BOER_MOVEMENT_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<OrderPriority>2</OrderPriority>
+			<MovesChange>1</MovesChange>
+			<PortraitIndex>33</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_BOER_MOVEMENT</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+		</Row>
+	</UnitPromotions>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_PROMOTION_BOERRETREAT">
+			<Text>Cannot be Captured</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BOERRETREAT_HELP">
+			<Text>Unit will Withdraw if attacked by an enemy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BOER_UU_PROMOTION">
+			<Text>Boer Commando</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BOER_UU_PROMOTION_HELP">
+			<Text>+25% Defensive strength when situated on a Farm.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BOER_MOVEMENT">
+			<Text>Great Trek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BOER_MOVEMENT_HELP">
+			<Text>+1 Movement.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

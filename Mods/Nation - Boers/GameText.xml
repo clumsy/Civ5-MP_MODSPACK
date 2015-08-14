@@ -1,0 +1,318 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/8/2014 9:26:17 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_BOER_ADJECTIVE">
+			<Text>Boer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_BOER_DESC">
+			<Text>Boer Republic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_BOER_TEXT">
+			<Text>Greetings, and may God be with you, President Paul Kruger, leader of the Boer people! The Boers are a brave and expansive culture, seeking a land to call their own in defiance of imperial aggression, and with disregard for native empires. Setting out into the tribal wilderness of South Africa, two Boer Republics resisted British Rule throughout the Scramble for Africa: Transvaal, over which you ruled, and the Orange Free State. Following the annexation of Transvaal by the British Empire, you lead a resistance movement, leading to the First Boer War. The Boers proved victorious, your skillful negotiations securing Transvaal's independence under British suzerainty. Elected President of the newly-united South African Republic 4 times, your bold diplomacy and characteristic image cemented Boer culture in Africa, and in history![NEWLINE][NEWLINE]Uncle Paul, your people are in need of guidance once again. Will you once again unite the Boers of the world and lead them to power and glory? Can you prove that the heart of a Boer spans further than any earthly empire's borders? Will you build a Civilization to stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_BOER_SHORT_DESC">
+			<Text>The Boers</Text>
+			<Gender>neuter:an</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<!--Kruger-->
+		<Row Tag="TXT_KEY_LEADER_KRUGER">
+			<Text>Paul Kruger</Text>
+		</Row>
+		<!--Trait-->
+		<Row Tag="TXT_KEY_TRAIT_GREAT_TREK_SHORT">
+			<Text>The Great Trek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_GREAT_TREK">
+			<Text>+1 [ICON_MOVES] Movement for Workers, Settlers, and Great People, and Settlers may withdraw when attacked by a Melee unit . +25% [ICON_STRENGTH] Defense to any unit stationed on a Farm.</Text>
+		</Row>
+		<!--Commando-->
+		<Row Tag="TXT_KEY_UNIT_BOER_COMMANDO">
+			<Text>Commando</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_BOER_COMMANDO">
+			<Text>Unique Boer Gatling Gun. At the cost of lower strength, this unit is faster than the Gatling Gun it replaces and can move after attacking. Additionally, it is unlocked with the discovery of Rifling, as opposed to Industrialization, and upgrades into Great War Infantry instead of the Machine Gun.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BOER_COMMANDO_STRATEGY">
+			<Text>Unique Boer Gatling Gun. At the cost of lower strength, this unit is faster than the Gatling Gun it replaces and can move after attacking. Mass-produce it to effectively defend your farms and lands with hit-and-run tactics, and prepare a Modern army.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_BOER_COMMANDO_TEXT">
+			<Text>The Boer Commando was the basic unit of organisation of Boer militias during the Boer Wars and various native conflicts. In 1658, war erupted between the Dutch settlers at Cape Colony and the native Khoi-khoi. In order to protect the settlement, all able-bodied men were conscripted. After the conclusion of this war, all men in the colony were liable for military service and were expected to be ready on short notice. Light, mobile commandos were undeniably better-suited than the slow-moving columns of imperial troops for warfare in the rough frontier mountains of South Africa. During the Great Trek, this system was used and remained in use in the Boer republics. Both republics issued commando laws, making commando service mandatory in times of need for all male citizens between the ages of 16 and 60. During the Anglo-Boer War (1899–1902) the Boer commando formed the backbone of the Boer forces. Commandos were issued with firearms by the government of the day, and were obliged to keep those weapons serviceable and ready at all times, the most common rifles aquired by these units being German Mauser rifles and British Martini-Henry rifles. After the declaration of peace in 1902, the commandos were disbanded. In 1912, the commandos were reformed as an Active Citizen Force in the Union Defence Force of South Africa. This system was in operation until 2005, when all commandos were disbanded again.</Text>
+		</Row>
+		<!--Settler-->
+		<Row Tag="TXT_KEY_UNIT_BOERSETTLER">
+			<Text>Voortrekker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_BOERSETTLER">
+			<Text>A unique Settler for The Boers, this unit can be used to found new cities, and will retreat if attacked by an enemy.[NEWLINE][NEWLINE][ICON_FOOD]Growth of the city is stopped while this unit is being produced. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BOERSETTLER_STRATEGY">
+			<Text>Use this unit to found new cities and expand your empire. It cannot be captured or killed, as it will always retreat if attacked by an enemy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_BOERSETTLER_TEXT">
+			<Text>The Voortrekkers (Afrikaans or Dutch for "pioneers" or literally, "those who pull ahead") were European farmers and settlers who set out from the Cape Colony into the unclaimed lands of South Africa, in search of land to call their own. Mostly Dutch in origin, the bravery of Voortrekkers and the hardships they faced at the hands of the British Empire and hostile native peoples are greatly emphasized in Boer and South African history. Today, the Voortrekkers, their legacy, and their culture are honored by a large monument on Monument Hill in Pretoria, South Africa.</Text>
+		</Row>
+		<!--Staatsmuseum-->
+		<Row Tag="TXT_KEY_BUILDING_BOERSTAATSMUSEUM">
+			<Text>Staatsmuseum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BOERSTAATSMUSEUM_STRATEGY">
+			<Text>The Staatsmuseum is the Boer unique building. It contains 2 slots for Great Works of Art or Artifacts, and unlike the Museum it replaces, provides +2% [ICON_FOOD] Growth for every 2 [ICON_TOURISM] Tourism produced by this city, to a maximum of 20%, as well as providing points towards the civilization's next [ICON_GOLDEN_AGE] Golden Age for every Farm worked by the city. Unlocked with the discovery of Industrialization as opposed to Archaeology.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BOER_GROWTHDUMMY">
+			<Text>Growth From Tourism</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_BOER_9">
+			<Text>Pretorius</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_BOER_8">
+			<Text>De La Rey</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_BOER_7">
+			<Text>Beyers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_BOER_6">
+			<Text>Willem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_BOER_5">
+			<Text>MacBride</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_BOER_4">
+			<Text>Theron</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_BOER_3">
+			<Text>Jooste</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_BOER_2">
+			<Text>Hindon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_BOER_1">
+			<Text>Duquesne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIV_BOER_0">
+			<Text>Johanna</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- City Names-->
+		<Row Tag="TXT_KEY_CITY_NAME_BOER_0">
+			<Text>Pretoria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BOER_1">
+			<Text>Johannesburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BOER_2">
+			<Text>Bloemfontein</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BOER_3">
+			<Text>Pietersburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BOER_4">
+			<Text>Boksburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BOER_5">
+			<Text>Pietermaritzburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BOER_6">
+			<Text>Klerksdorp</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BOER_7">
+			<Text>Benoni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BOER_8">
+			<Text>Ermelo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BOER_9">
+			<Text>Potchefstroom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BOER_10">
+			<Text>Kroonstad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BOER_11">
+			<Text>Krugersdorp</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BOER_12">
+			<Text>Rustenburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BOER_13">
+			<Text>Middelburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BOER_14">
+			<Text>Wolfmaransstad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BOER_15">
+			<Text>Harrismith</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BOER_16">
+			<Text>Ficksburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BOER_17">
+			<Text>Vereeniging </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BOER_18">
+			<Text>Heidelberg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BOER_19">
+			<Text>Bethal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BOER_20">
+			<Text>Standerton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BOER_21">
+			<Text>Nylstroom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BOER_22">
+			<Text>Vryburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BOER_23">
+			<Text>Bethlehem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BOER_24">
+			<Text>Hartingsburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BOER_25">
+			<Text>Klein Vrystaat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BOER_26">
+			<Text>Messina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BOER_27">
+			<Text>Virginia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BOER_28">
+			<Text>Bloemhof</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BOER_29">
+			<Text>Lichtenburg</Text>
+		</Row>
+		<!--Unique Dialogue-->
+		<Row Tag="TXT_KEY_LEADER_KRUGER_FIRST_GREETING_1">
+			<Text>Welcome, traveler, to the fertile lands of the Boer people. How do you do? </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KRUGER_FIRST_GREETING_2">
+			<Text>Greetings, foreign dignitary, and welcome to the glorious Transvaal. My name is Paul Kruger, though you may call me Uncle Paul. Tell me, are you a friend or a foe? </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KRUGER_FIRST_GREETING_3">
+			<Text>Welcome to the land of the Boers, the most fertile and sacred in all the world! Be warned, this land is ours alone, and we will tolerate no imperialist aggression. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KRUGER_DEFEATED_1">
+			<Text>You may destroy our homes, pillage our lands, and take our lives, but the burning spirit of the Boer shall never be extinguished! </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KRUGER_DEFEATED_2">
+			<Text>...Is it too late for negotations? I presume suzerainty is out of the question... </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KRUGER_DEFEATED_3">
+			<Text>Your imperialist forces have bested our bravest men, and I have no option but to concede defeat. I bid you farewell. </Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIV5_BOER_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BOER_HEADING_2">
+			<Text>Geography and Climate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BOER_HEADING_3">
+			<Text>Ethnogenesis of the Boers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BOER_HEADING_4">
+			<Text>The Dutch Cape Colony</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BOER_HEADING_5">
+			<Text>The British Conquest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BOER_HEADING_6">
+			<Text>The Great Trek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BOER_HEADING_7">
+			<Text>The Boer Republics</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BOER_HEADING_8">
+			<Text>Boer Wars</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BOER_HEADING_9">
+			<Text>Union of South Africa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BOER_HEADING_10">
+			<Text>Present-day South Africa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BOER_HEADING_11">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BOER_TEXT_1">
+			<Text>The term "Boer" refers to the descendants of the Dutch settlers of the Cape Colony in South Africa. Notorious for its treatment of the native Khoisan and Bantu population, the Boers resisted the transfer of the colony from Dutch to British hands and the abolition of the slave trade by embarking on the Great Trek. The Boers form a part of today's Afrikaaner population in South Africa, a relatively recent ethnicity synthesizing Dutch and English settler cultures with some elements of the native and other immigrant populations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BOER_TEXT_2">
+			<Text>South Africa's location was crucial for the European ventures to East Africa and Asia.  The land is largely a plateau.  In the northwest, it gives way to the Kalahari Desert.  The Highveld, located in the central area of the country, is the richest land in the country and today contains its most populous city, Johannesburg.  The Great Escarpment forms the edge of the interior plateau. The narrow seaside region extends all of the country's long coastlines,  is not as arable as the Highveld and the plateau, but is home to a large amount of big game, seen as exotic by Europeans.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BOER_TEXT_3">
+			<Text>"Boer" is simply the Dutch word for farmer; the Cape Colony settlers were largely pastoralists.  While the Boers can largely trace their heritage back to the Netherlands, the Cape Colony and further settlements attracted a wide variety immigrants, including an influx of Hugenots and even some Jews.  Other more prominent immigrant influences on the Boer identity Yinclude Germans, French, and later, inevitably, English.[NEWLINE][NEWLINE]As the settlers departed further and further from Dutch rule, the Afrikaaner identity was created, which still is used to represent the portion of the white population of South Africa that speaks Afrikaans (as opposed to English).  The Afrikaans language evolved from Dutch thanks to the influence of local populations like the Khoikhoi and also the influence of other migrant and colonial groups like Germans, Portugese, and migrants (and slaves) from other Dutch colonies at Malaya. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BOER_TEXT_4">
+			<Text>The first European settlement in the modern South Africa was at the site of what is now the metropolis of Cape Town.  The location was first discovered by shipwrecked sailors, who found it to be a favorable location.  Formally established in 1652 as a refreshment post for Dutch East India Company ventures making the long journey to Asia, Cape Town slowly expanded from a garden a mere garden and fort. [NEWLINE][NEWLINE]Conflict began quickly with the indigenous populations in the Cape area.  The Khoikoi, referred to by the Boers as the Hottentot, and the San, referred to as the Bushmen, were decimated by violence and smallpox.  The Boer settlements continually expanded across the good, arable land throughout the 17th and 18th centuries, pushing the Khoisan peoples (the ethnicity that the Khoikhoi and San belonged to) further into the unlivable Kalahari Desert.  These settlers included trekboers, who were nomadic pastoralists that expanded even further inland and into further conflict with natives.  Notably, these trekboers were resistant to the organized and quite authoritarian Dutch East India Company rule.  Eventually, the Khoikhoi tribal society broke down, and they became the primary source of labor in the Cape Colony.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BOER_TEXT_5">
+			<Text>The British conquest of South Africa in 1795 can be connected to the French Revolutionary period and the Napoleonic Wars in Europe.  After the French occupied the Netherlands in that year, the British sought to block any French attempt to get to India by taking the Dutch territory at the Cape.  The British easily and handily overwhelmed the Dutch forces.  However, the Dutch East India Company maintained their claim to the land, as a part of the French vassal state known as the Batavian Republic.[NEWLINE][NEWLINE]While the British ceded the Colony back to the Batavian Republic as the conflict in Europe cooled down around the turn of the 19th century, it was finally and conclusively seized by the British at the Battle of Blaauwberg in 1806.  This was done upon the resuming of hostilities between Napoleonic France and the British, and again was used to contain Napoleon's conquests outside of Europe.  The British formally established a colony in 1806, and the Dutch formally recognized the cessation of the colony in 1814. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BOER_TEXT_6">
+			<Text>The notion of the trekboers of the earlier century still remained important throughout the 19th.  These frontiersmen, with deep anti-government sentiments,  had expanded colonial territory to the Fish River, where they had come into conflict with the Bantu tribes.  These Boer settlers did not appreciate British control any more than Dutch East India Company rule.  Additionally, the influx of missionaries from the London Missionary Society, who advocated for the freedom of the Khoikhoi and the abolition of slavery, escalated these tensions.[NEWLINE][NEWLINE]The Great Trek was a large-scale migration of trekboers, now known as Voortrekkers (pioneers), northeast away from Cape Town.  The motivations for the trek are not precisely clear, but they are at least partially a continuation of dissatisfaction with being subject to colonial rule, the influence of the Anglican Church and the abolition of slavery throughout the British Empire.  Additionally, the lack of attention paid to Xhosa raids in the border regions exacerbated these tensions. [NEWLINE][NEWLINE]The Voortrekkers traveled to Natal, deep in Zulu territory, in 1838.  This inevitably led to conflict.  The Zulu resisted the Boers much more effectively than the Khoikhoi had, and even more than the Xhosa had at the borders of the Cape Colony.  The Battle of Blood River, in late 1838, demonstrated the technological superiority of the Voortrekkers.  500 Vortrekkers won the battle against at least 15,000 Zulu, under king Dingane, with only 3 men being wounded and killing 3,000 Zulu.  After a treaty was finally made, the short-lived Natalia Republic was established in 1839. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BOER_TEXT_7">
+			<Text>While the Natalia Republic was quickly annexed by by the British colonial authorities, its successor republics persisted much longer.  The Transvaal republics thrived in the wake of the destabilization of the Zulu kingdom, easily wresting control of the lands.  It evolved into the South African Republic, and gained its independence from Britain in 1854.  Founded by the son of the commander of the Voortrekkers at Blood River,  the republic maintained its independence until the Boers lost the Sceond Boer War in 1800.[NEWLINE][NEWLINE]Another Boer republic, the Orange Free State, was recognized after the South African Republic was granted independence in 1854.  Both of these colonies were economically succesfull, profiting greatly from gold and diamond rushes.  Notably, the Boer republics did not carry out the practice of slavery but policies institutionalizing racial segregation and separation were commonplace. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BOER_TEXT_8">
+			<Text>The first Boer War, taking place in 1880, arose from the annexation of the Transvaal in 1877, ostensibly as a threat against the resurgent Zulu under Cetshwayo.  After the Zulu were defeated, the Boers revolted against continuing British annexation.  The war was relatively small in scale, but the Boers badly beat the British with a larger and more lethal force.  Rather than sending reinforcements, the British concluded a peace treaty with resistance leader Paul Kruger in 1881.[NEWLINE][NEWLINE]The second Boer War began in 1899, and is much more well-known.  The Jameson Raid, in 1895, was a failed attempt by British colonial powers (including industrialist Cecil Rhodes) to spark an uprising among British expatriates in the Transvaal, which was now led by President Paul Kruger.  After Kruger repulsed these incursions, the German Kaiser Wilhelm II congratulated Kruger and appeared to recognize Boer independence.  This deeply worsened Anglo-Boer relations. [NEWLINE][NEWLINE]The Transvaal and the Orange Free State created an alliance in 1897, against perceived British imperialism.  This alliance declared war on the British by invading the Cape Colony in 1899.  The Boer  organized their armies in militia-type formations, allowing them to avoid issues with mobilization.  Despite this, the British defeated the Boers.  South Africa was devastated, both by the scorched earth policy utilized by the British and the lethally poor conditions in refugee camps established for Boers and black Africans.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BOER_TEXT_9">
+			<Text>South Africa was finally politically united in 1909 by the South Africa Act, which created the Union of South Africa from the Cape of Good Hope colony, Transvaal, the Orange Free State, and Natal.  A dominion of the British Empire, the Union lasted until 1961, where it gained independence as the Republic of South Africa.[NEWLINE][NEWLINE]South Africa's notorious apartheid policy was established in 1948 with the election of the National Party.  This institutionalized segregation ensured a Western-style standard of living for whites and forced black South Africans into terrible conditions.  Segregation had started earlier Blacks were prevented from buying land outside of reserves by the Natives Land Act of  1913, and were confined to townships, forced to be an urban working poor. [NEWLINE][NEWLINE]After 1948, resistance to apartheid became increasingly bold.  Violence like sabotage and bombing was complemented by strikes and protest.  The Sharpeville Massacre in 1960, during which dozens of black protestors were gunned down by South African police, can be seen as a turning point.  After this point, South Africa's apartheid policies were widely denounced internationally.   They persisted until the early 1990s, when President F.W. de Klerk, who suddenly released black activist Nelson Mandela from prison soon after being selected as president.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BOER_TEXT_10">
+			<Text>The election of Nelson Mandela to the presidency of South Africa signaled the end of South African apartheid.  White South Africans still compose a significant proportion of the population of South Africa.  Even though apartheid is no more, vast socioeconomic differences still exist between whites and blacks in South Africa.  The nation has embraced the multiculturalism brought upon it by the history of the past few centuries; while this multiculturalism is not entirely peaceful, today's South Africa is regarded as a regional power in Africa and is a functioning republic. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BOER_TEXT_11">
+			<Text>The diamond discovery at Kimberley in 1866 led to the fortune of notable merchant Cecil Rhodes (the namesake for Rhodesia, now Zimbabwe) and the foundation of the De Beers diamond company.[NEWLINE][NEWLINE]South Africa is the only nation in the world to have initiated the development of nuclear weapons, openly acknowledged the existence of its program, and completely dismantled said program.[NEWLINE][NEWLINE]The “click consonants,” often thought of a stereotype for African tongues, is a part of the Khoisan languages, spoken by the natives that the first Boers came into conflict with.  These languages have no relation to any other language family.[NEWLINE][NEWLINE]Khaki fabric was first utilized by the British in northwest India and Afghanistan, but one of the first times where it was adopted as a uniform was for the second Boer War. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_KRUGER_LIVED">
+			<Text>1825 - 1904 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_KRUGER_NAME">
+			<Text>Paul Kruger</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_KRUGER_SUBTITLE">
+			<Text>Leader of the Boers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_KRUGER_TITLES_1">
+			<Text>President of the Transvaal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_KRUGER_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_KRUGER_HEADING_2">
+			<Text>Early Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_KRUGER_HEADING_3">
+			<Text>Rise to Prominence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_KRUGER_HEADING_4">
+			<Text>Second Boer War</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_KRUGER_HEADING_5">
+			<Text>Judgement of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_KRUGER_TEXT_1">
+			<Text>Paul Kruger was an influential figure during and between both Boer Wars,  First, he served as the head of the resistance against the British annexation of the Transvaal.  He was elected president of that republic after negotiating the end of the first Boer War, and remained president until the republics were annexed after the second Boer War.  </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_KRUGER_TEXT_2">
+			<Text>Kruger was born in 1825, in part of what was once the Cape Colony.  He received very little formal education, but learned essential life skills from his frontier upbringing.  When he became of age, he chose a farm for himself and married.  After the death of his first wife, he married again.  Kruger would have sixteen children.  Kruger was extremely religious.  He was one of the first members of the Dutch Reformed Church, and helped found the Gereformeerde Kerche, or South African Reformed Churches.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_KRUGER_TEXT_3">
+			<Text>Kruger entered public service through the military.  Initially serving as a field cornet (similar to a lieutenant), he rose through the ranks and became Commandant-General of the South African Republic, also known as the Transvaal.  He became involved in politics with his appointment to the Volksraad parliament tasked with writing the nascent republic's constitution.[NEWLINE][NEWLINE]Kruger resigned from service in 1873, but the mark he had made upon Transvaal politics was significant – in 1874, he was elected to be the vice president of the Transvaal.  nSoon after, in 1877, the British annexed the Transvaal in the face of a rising threat from the Zulu.  Kruger led the movement resisting this annexation.[NEWLINE][NEWLINE]The first Boer War erupted in 1880, and ended a year later with a Boer victory.  Kruger was instrumental in the peace treaty negotiations.  Just before the New Year in 1881, Kruger was elected President of the Transvaal, and he would hold the position until the end of the Boer Republics in 1900, winning four elections in total. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_KRUGER_TEXT_4">
+			<Text>The Second Boer War broke out in 1899. This conflict did not go nearly as well for the Boers. He fled Pretoria to exile in rural Transvaal. He left his wife behind and fled to Mozambique, where he boarded a Dutch ship that was sent for him. In Europe, he lived in France and the Netherlands before moving to Switzerland, where he died in 1904. He was initially buried in the Netherlands but was reburied in Pretoria. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_KRUGER_TEXT_5">
+			<Text>Kruger was well-regarded in his day.  In 1883, he visited Europe and was received by the Belgians, Dutch and especially the Germans.  He spoke at length with Emperor Wilhelm I and Otto von Bismarck.  However, after his exile, he was not received by Wilhelm II.  Decades later, his German heritage was utilized as part of a Nazi German propaganda film.  Today, a number of institutions bear Kruger's name, most significantly Kruger National Park.  While many white South African leaders have been judged negatively by history due to the apartheid era, it appears that Kruger has avoided these sentiments. </Text>
+		</Row>
+	</Language_en_US>
+</GameData>

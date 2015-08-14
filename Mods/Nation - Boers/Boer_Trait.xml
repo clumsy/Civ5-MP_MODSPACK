@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/8/2014 10:22:57 PM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_GREAT_TREK</Type>
+			<Description>TXT_KEY_TRAIT_GREAT_TREK</Description>
+			<ShortDescription>TXT_KEY_TRAIT_GREAT_TREK_SHORT</ShortDescription>
+		</Row>
+	</Traits>
+</GameData>

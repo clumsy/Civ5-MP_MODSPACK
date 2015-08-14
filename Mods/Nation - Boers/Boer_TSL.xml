@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/12/2014 6:50:28 PM -->
+<GameData>
+	<Civilizations_YagemStartPosition>
+		<Row>
+			<Type>CIVILIZATION_BOER</Type>
+			<X>30</X>
+			<Y>12</Y>
+		</Row>
+	</Civilizations_YagemStartPosition>
+	<!-- +++++++++++++++++++++++++++++ -->
+	<!-- Earth Huge map start position -->
+	<!-- +++++++++++++++++++++++++++++ -->
+	<Civilizations_YahemStartPosition>
+		<Row>
+			<Type>CIVILIZATION_BOER</Type>
+			<X>69</X>
+			<Y>18</Y>
+		</Row>
+	</Civilizations_YahemStartPosition>
+	<!-- ++++++++++++++++++++++++++++++++++ -->
+	<!-- Earth Cordiform map start position -->
+	<!-- ++++++++++++++++++++++++++++++++++ -->
+	<Civilizations_CordiformStartPosition>
+		<Row>
+			<Type>CIVILIZATION_BOER</Type>
+			<X>39</X>
+			<Y>4</Y>
+		</Row>
+	</Civilizations_CordiformStartPosition>
+	<!-- +++++++++++++++++++++++++++++++++++ -->
+	<!-- "Greatest Earth Map" start position -->
+	<!-- +++++++++++++++++++++++++++++++++++ -->
+	<Civilizations_GreatestEarthStartPosition>
+		<Row>
+			<Type>CIVILIZATION_BOER</Type>
+			<X>56</X>
+			<Y>7</Y>
+		</Row>
+	</Civilizations_GreatestEarthStartPosition>
+</GameData>

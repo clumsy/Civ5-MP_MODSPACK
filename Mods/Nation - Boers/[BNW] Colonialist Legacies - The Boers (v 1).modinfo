@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="4e043f94-14bd-4dad-b7a8-03d67ac751d5" version="1">
+  <Properties>
+    <Name>[BNW] Colonialist Legacies - The Boers</Name>
+    <Stability>Beta</Stability>
+    <Teaser>Adds the Boers to the game under the guidance of Paul Kruger.</Teaser>
+    <Description>Adds the Boers to the game under the guidance of Paul Kruger.
+
+Credits/Special Thanks:
+XML: Sasquatch (AKA Kramer)
+Lua: ViceVirtuoso
+Dawn of Man Voiceover: CharlatanAlley
+Icons: TPangolin
+Leader scene: Wodhann + TPangolin
+Pedia Entries: Boers and Kruger by SuperWaffle247, Commando by Sasquatch
+Commando models: bernie14</Description>
+    <Authors>Sasquatch (AKA Kramer), TPangolin, ViceVirtuoso</Authors>
+    <SpecialThanks>Wodhann, SuperWaffle247, bernie14, CharlatanAlley</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <Homepage>http://forums.civfanatics.com/showthread.php?t=512802</Homepage>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="127B2376546137A3EA032513EAAA8BC9" import="1">Art/boermap.dds</File>
+    <File md5="EF6E7CF4688118EB5F5C95474EF8208D" import="1">Art/IconAtlases/Alpha/BoerAlpha_128.dds</File>
+    <File md5="E65941BA737A0D3131172FC845083F90" import="1">Art/IconAtlases/Alpha/BoerAlpha_16.dds</File>
+    <File md5="9857DADF1922A1C61A78CF6BE59B7351" import="1">Art/IconAtlases/Alpha/BoerAlpha_24.dds</File>
+    <File md5="8A96AB14E061D0182DFB610A0377C360" import="1">Art/IconAtlases/Alpha/BoerAlpha_256.dds</File>
+    <File md5="AD6F41783696E57F7573F76D73792B73" import="1">Art/IconAtlases/Alpha/BoerAlpha_32.dds</File>
+    <File md5="CC89FB7086B4DBE7BF7B110FA6E063B2" import="1">Art/IconAtlases/Alpha/BoerAlpha_45.dds</File>
+    <File md5="311A03F1E6EAB33AD2C67FF5958DB588" import="1">Art/IconAtlases/Alpha/BoerAlpha_48.dds</File>
+    <File md5="595F13BC4E6A297764B66C8147094054" import="1">Art/IconAtlases/Alpha/BoerAlpha_64.dds</File>
+    <File md5="CEFE2B9BA7E555DBECAF72C27C5BD4D2" import="1">Art/IconAtlases/BoerIcons128.dds</File>
+    <File md5="86DA9A2E7FA5B50CA788FE69D2F445CF" import="1">Art/IconAtlases/BoerIcons256.dds</File>
+    <File md5="0B4BE2ADE54FB63E55C5A65A86E93B0F" import="1">Art/IconAtlases/BoerIcons32.dds</File>
+    <File md5="9D621C073D66CDCD4AD2CFAC602F5605" import="1">Art/IconAtlases/BoerIcons45.dds</File>
+    <File md5="5AA9C370DE3FA8F1F32030111C446869" import="1">Art/IconAtlases/BoerIcons64.dds</File>
+    <File md5="EFD51CCF77BEF4C3580726478CF2D4D5" import="1">Art/IconAtlases/BoerIcons80.dds</File>
+    <File md5="6116212799807F5884D3A319237D84CF" import="1">Art/IconAtlases/IconTextureAtlasesBoer.xml</File>
+    <File md5="45FB0EB3BEB21D2B160E338E61A72C70" import="1">Art/IconAtlases/voortrekker128.dds</File>
+    <File md5="104613EB30CD7893EA0CBA455DC3CD22" import="1">Art/IconAtlases/voortrekker256.dds</File>
+    <File md5="8124FCD0C9161C368A26D75CF8F0CE49" import="1">Art/IconAtlases/voortrekker45.dds</File>
+    <File md5="487E92D83586A0430A1D0E0EAA630B2C" import="1">Art/IconAtlases/voortrekker64.dds</File>
+    <File md5="675B5B82B8ED6A3A509B7CDC2EAF1E57" import="1">Art/IconAtlases/voortrekker80.dds</File>
+    <File md5="C1AE329D9C9754EB415ED92EFA0F838A" import="1">Art/kommandoflag.dds</File>
+    <File md5="F31908AAE0B283B94139B581BC5112FC" import="1">Art/KrugerScene.dds</File>
+    <File md5="EC4348F6BAA8441836306574A462893B" import="1">Art/Kruger_DOM.dds</File>
+    <File md5="B6B64F89C53D56ACF72B07BCA9772546" import="1">Art/Models/aztrm3.dds</File>
+    <File md5="8B973B27D2D734E0FDF501CB47151B19" import="1">Art/Models/aztrm3_sref.dds</File>
+    <File md5="018443E06F8973523885EAC57331202C" import="1">Art/Models/civ5_aztrm3.blend</File>
+    <File md5="272D4CD893A8E1B10210898BDDC9F65C" import="1">Art/Models/civ5_aztrm3.fbx</File>
+    <File md5="80ED946466915AC5295242161890BF3A" import="1">Art/Models/civ5_aztrm3.fxsxml</File>
+    <File md5="973000459B88C56DFA7A4632F2A81816" import="1">Art/Models/civ5_aztrm3.gr2</File>
+    <File md5="18C3A8EAC7C5F272EBD6866BF852D582" import="1">Art/Models/civ5_sparm2.blend</File>
+    <File md5="DA3170B1D9A9DD088E9B499B15206212" import="1">Art/Models/civ5_sparm2.fbx</File>
+    <File md5="28CB9C56B93D4EFFF21EF6ABC3D28FB6" import="1">Art/Models/civ5_sparm2.fxsxml</File>
+    <File md5="4EFE82F08B7CBD17A436DA27CBDA50C4" import="1">Art/Models/civ5_sparm2.gr2</File>
+    <File md5="2FAD648F8F47F66AA119BB4A388CE615" import="1">Art/Models/sparm2.dds</File>
+    <File md5="9519526BD3A1E146C57FC4FFE9138BBC" import="1">Art/Models/sparm2_sref.dds</File>
+    <File md5="028C6CC1CC968FA30BCCF8987F9951DA" import="1">Art/sv_kommando.dds</File>
+    <File md5="3B4B7279AC1114F10CE634C3AFE85D30" import="0">Lua/BoerCivilianMovement.lua</File>
+    <File md5="19D52D8518C979C2BF2D271F9FA17289" import="0">Lua/BoerUniqueBuilding.lua</File>
+    <File md5="91C52AB91AC7633133E4A24B5AB48E69" import="0">Lua/CommandoDefense.lua</File>
+    <File md5="E2D810A64491A5C6F2CB4058644CB310" import="1">Music/KrugerAmbience.mp3</File>
+    <File md5="E286776FC886EE90799C9D697040C441" import="1">Music/Kruger_DOM.mp3</File>
+    <File md5="50BCF75D270A24DAFD375E02B4730E2E" import="1">Music/Kruger_Peace.mp3</File>
+    <File md5="F2598F6765D66B8560330E743B9F3E69" import="1">Music/Kruger_War.mp3</File>
+    <File md5="7FE12AADAF10F2508C9E08ED32FBAFD1" import="0">XML/Buildings/BoerGrowthBuilding.xml</File>
+    <File md5="8D8DF5B1217C378A85FF5245485B7EA6" import="0">XML/Buildings/Staatsmuseum.xml</File>
+    <File md5="F3772687853B5AD9316C43721F0B6B34" import="0">XML/Civilizations/Boer_Trait.xml</File>
+    <File md5="74D50B46844C399E889336636C983240" import="0">XML/Civilizations/Boer_TSL.xml</File>
+    <File md5="0F379538A49402CFF42CCFA42F90B8EA" import="1">XML/Civilizations/Civ_Boer.xml</File>
+    <File md5="30811D68DB9DF4E515D84DB01B115739" import="0">XML/Improvements/BoerFarm.xml</File>
+    <File md5="267420ABF1388C338A95150B0F4C25C2" import="0">XML/Leader/Kruger.xml</File>
+    <File md5="FAA2050F12B4185AB7FA8DF0AEB76130" import="1">XML/Leader/Kruger_Music.xml</File>
+    <File md5="B3570990577B58AB6B7231EF8969AEA3" import="1">XML/Leader/Kruger_Scene.xml</File>
+    <File md5="2D85C4B9CF1402AD748D63EAF490C084" import="0">XML/New Text/GameText.xml</File>
+    <File md5="370BB9F3E3887CAB4E5BA5381D77718E" import="0">XML/Units/BoerCommando.xml</File>
+    <File md5="3975737E142E05D67623F4CA8A935133" import="1">XML/Units/BoerCommandoArtDefines.xml</File>
+    <File md5="9DFDE7432B4B3D3113DD860C62B3EDBF" import="0">XML/Units/OtherBoerUnits.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Civilizations/Boer_Trait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Civ_Boer.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader/Kruger.xml</UpdateDatabase>
+      <UpdateDatabase>XML/New Text/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/BoerCommando.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Staatsmuseum.xml</UpdateDatabase>
+      <UpdateDatabase>Art/IconAtlases/IconTextureAtlasesBoer.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader/Kruger_Music.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/BoerCommandoArtDefines.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/OtherBoerUnits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Boer_TSL.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader/Kruger_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Improvements/BoerFarm.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/BoerGrowthBuilding.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/BoerUniqueBuilding.lua">
+      <Name>Boer Unique Building</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/CommandoDefense.lua">
+      <Name>Commando Promotion</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/BoerCivilianMovement.lua">
+      <Name>Boer Civilian Movement</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>
