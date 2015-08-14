@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Leaders>
+    <Row>
+      <Type>LEADER_TRUNG_SISTERS</Type>
+      <Description>TXT_KEY_LEADER_TRUNG_SISTERS</Description>
+      <Civilopedia>TXT_KEY_LEADER_TRUNG_SISTERS_PEDIA</Civilopedia>
+      <CivilopediaTag>TXT_KEY_CIVILOPEDIA_LEADERS_TRUNGSISTERS</CivilopediaTag>
+      <ArtDefineTag>Trung_Scene.xml</ArtDefineTag>
+      <VictoryCompetitiveness>3</VictoryCompetitiveness>
+      <WonderCompetitiveness>5</WonderCompetitiveness>
+      <MinorCivCompetitiveness>7</MinorCivCompetitiveness>
+      <Boldness>7</Boldness>
+      <DiploBalance>6</DiploBalance>
+      <WarmongerHate>5</WarmongerHate>
+      <WorkAgainstWillingness>0</WorkAgainstWillingness>
+      <WorkWithWillingness>0</WorkWithWillingness>
+      <DenounceWillingness>7</DenounceWillingness>
+      <DoFWillingness>4</DoFWillingness>
+      <Loyalty>3</Loyalty>
+      <Neediness>6</Neediness>
+      <Forgiveness>4</Forgiveness>
+      <Chattiness>6</Chattiness>
+      <Meanness>7</Meanness>
+      <PortraitIndex>1</PortraitIndex>
+      <IconAtlas>VIETNAM_ICON</IconAtlas>
+      <PackageID></PackageID>
+    </Row>
+  </Leaders>
+
+  <Leader_MajorCivApproachBiases>
+    <Row>
+      <LeaderType>LEADER_TRUNG_SISTERS</LeaderType>
+      <MajorCivApproachType>MAJOR_CIV_APPROACH_WAR</MajorCivApproachType>
+      <Bias>4</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_TRUNG_SISTERS</LeaderType>
+      <MajorCivApproachType>MAJOR_CIV_APPROACH_HOSTILE</MajorCivApproachType>
+      <Bias>6</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_TRUNG_SISTERS</LeaderType>
+      <MajorCivApproachType>MAJOR_CIV_APPROACH_DECEPTIVE</MajorCivApproachType>
+      <Bias>7</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_TRUNG_SISTERS</LeaderType>
+      <MajorCivApproachType>MAJOR_CIV_APPROACH_GUARDED</MajorCivApproachType>
+      <Bias>7</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_TRUNG_SISTERS</LeaderType>
+      <MajorCivApproachType>MAJOR_CIV_APPROACH_AFRAID</MajorCivApproachType>
+      <Bias>5</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_TRUNG_SISTERS</LeaderType>
+      <MajorCivApproachType>MAJOR_CIV_APPROACH_FRIENDLY</MajorCivApproachType>
+      <Bias>7</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_TRUNG_SISTERS</LeaderType>
+      <MajorCivApproachType>MAJOR_CIV_APPROACH_NEUTRAL</MajorCivApproachType>
+      <Bias>5</Bias>
+    </Row>
+  </Leader_MajorCivApproachBiases>
+  <Leader_MinorCivApproachBiases>
+    <Row>
+      <LeaderType>LEADER_TRUNG_SISTERS</LeaderType>
+      <MinorCivApproachType>MINOR_CIV_APPROACH_IGNORE</MinorCivApproachType>
+      <Bias>4</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_TRUNG_SISTERS</LeaderType>
+      <MinorCivApproachType>MINOR_CIV_APPROACH_FRIENDLY</MinorCivApproachType>
+      <Bias>6</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_TRUNG_SISTERS</LeaderType>
+      <MinorCivApproachType>MINOR_CIV_APPROACH_PROTECTIVE</MinorCivApproachType>
+      <Bias>7</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_TRUNG_SISTERS</LeaderType>
+      <MinorCivApproachType>MINOR_CIV_APPROACH_CONQUEST</MinorCivApproachType>
+      <Bias>5</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_TRUNG_SISTERS</LeaderType>
+      <MinorCivApproachType>MINOR_CIV_APPROACH_BULLY</MinorCivApproachType>
+      <Bias>4</Bias>
+    </Row>
+  </Leader_MinorCivApproachBiases>
+  <Leader_Flavors>
+    <Row>
+      <LeaderType>LEADER_TRUNG_SISTERS</LeaderType>
+      <FlavorType>FLAVOR_OFFENSE</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_TRUNG_SISTERS</LeaderType>
+      <FlavorType>FLAVOR_DEFENSE</FlavorType>
+      <Flavor>7</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_TRUNG_SISTERS</LeaderType>
+      <FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_TRUNG_SISTERS</LeaderType>
+      <FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+      <Flavor>4</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_TRUNG_SISTERS</LeaderType>
+      <FlavorType>FLAVOR_RECON</FlavorType>
+      <Flavor>4</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_TRUNG_SISTERS</LeaderType>
+      <FlavorType>FLAVOR_RANGED</FlavorType>
+      <Flavor>7</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_TRUNG_SISTERS</LeaderType>
+      <FlavorType>FLAVOR_MOBILE</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_TRUNG_SISTERS</LeaderType>
+      <FlavorType>FLAVOR_NAVAL</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_TRUNG_SISTERS</LeaderType>
+      <FlavorType>FLAVOR_NAVAL_RECON</FlavorType>
+      <Flavor>4</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_TRUNG_SISTERS</LeaderType>
+      <FlavorType>FLAVOR_NAVAL_GROWTH</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_TRUNG_SISTERS</LeaderType>
+      <FlavorType>FLAVOR_NAVAL_TILE_IMPROVEMENT</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_TRUNG_SISTERS</LeaderType>
+      <FlavorType>FLAVOR_AIR</FlavorType>
+      <Flavor>3</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_TRUNG_SISTERS</LeaderType>
+      <FlavorType>FLAVOR_EXPANSION</FlavorType>
+      <Flavor>6</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_TRUNG_SISTERS</LeaderType>
+      <FlavorType>FLAVOR_GROWTH</FlavorType>
+      <Flavor>8</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_TRUNG_SISTERS</LeaderType>
+      <FlavorType>FLAVOR_TILE_IMPROVEMENT</FlavorType>
+      <Flavor>4</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_TRUNG_SISTERS</LeaderType>
+      <FlavorType>FLAVOR_INFRASTRUCTURE</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_TRUNG_SISTERS</LeaderType>
+      <FlavorType>FLAVOR_PRODUCTION</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_TRUNG_SISTERS</LeaderType>
+      <FlavorType>FLAVOR_GOLD</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_TRUNG_SISTERS</LeaderType>
+      <FlavorType>FLAVOR_SCIENCE</FlavorType>
+      <Flavor>8</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_TRUNG_SISTERS</LeaderType>
+      <FlavorType>FLAVOR_CULTURE</FlavorType>
+      <Flavor>6</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_TRUNG_SISTERS</LeaderType>
+      <FlavorType>FLAVOR_HAPPINESS</FlavorType>
+      <Flavor>6</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_TRUNG_SISTERS</LeaderType>
+      <FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+      <Flavor>6</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_TRUNG_SISTERS</LeaderType>
+      <FlavorType>FLAVOR_WONDER</FlavorType>
+      <Flavor>6</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_TRUNG_SISTERS</LeaderType>
+      <FlavorType>FLAVOR_RELIGION</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_TRUNG_SISTERS</LeaderType>
+      <FlavorType>FLAVOR_DIPLOMACY</FlavorType>
+      <Flavor>3</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_TRUNG_SISTERS</LeaderType>
+      <FlavorType>FLAVOR_SPACESHIP</FlavorType>
+      <Flavor>8</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_TRUNG_SISTERS</LeaderType>
+      <FlavorType>FLAVOR_WATER_CONNECTION</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_TRUNG_SISTERS</LeaderType>
+      <FlavorType>FLAVOR_NUKE</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_TRUNG_SISTERS</LeaderType>
+      <FlavorType>FLAVOR_USE_NUKE</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_TRUNG_SISTERS</LeaderType>
+      <FlavorType>FLAVOR_ANTIAIR</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_TRUNG_SISTERS</LeaderType>
+      <FlavorType>FLAVOR_AIR_CARRIER</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_TRUNG_SISTERS</LeaderType>
+      <FlavorType>FLAVOR_ESPIONAGE</FlavorType>
+      <Flavor>7</Flavor>
+    </Row>
+  </Leader_Flavors>
+  <Leader_Traits>
+    <Row>
+      <LeaderType>LEADER_TRUNG_SISTERS</LeaderType>
+      <TraitType>TRAIT_ETERNAL_VIETNAM</TraitType>
+    </Row>
+  </Leader_Traits>
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_LEADER_TRUNG_SISTERS">
+      <Text>Trung Sisters</Text>
+      <Gender>feminine</Gender>
+    </Row>
+	  <Row Tag="TXT_KEY_LEADER_TRUNG_SISTERS_PEDIA">
+		  <Text>
+		  </Text>
+	  </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TRUNGSISTERS_HEADING_1">
+      <Text>History</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TRUNGSISTERS_HEADING_2">
+      <Text>Chinese Domination</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TRUNGSISTERS_HEADING_3">
+      <Text>Early Life</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TRUNGSISTERS_HEADING_4">
+      <Text>Queens of Vietnam</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TRUNGSISTERS_HEADING_5">
+      <Text>End of the Rebellion</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TRUNGSISTERS_HEADING_6">
+      <Text>Judgment of History</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TRUNGSISTERS_LIVED">
+      <Text>c. 12 AD - 43 AD</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TRUNGSISTERS_NAME">
+      <Text>Trung Sisters</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TRUNGSISTERS_SUBTITLE">
+      <Text>Leaders of Vietnam</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TRUNGSISTERS_TEXT_1">
+      <Text>In Vietnam women have always been in the forefront in resisting foreign domination. Two of the most popular national heroines are the Trung sisters: Trung Trac and Trung Nhị (c. 12 – c. AD 43). The Vietnamese had been annexed by the Han empire and had been suffering under the harsh rule of Chinese governors. The Trungs gathered an army of 80,000 people to help drive the Chinese from their lands. From among those who came forward to fight the Chinese, the Trung sisters chose thirty-six women, including their mother, and trained them to be generals. These women led a people's army of 80,000 which drove the Chinese out of Viet Nam in 40 A.D. The Trung sisters - of whom Nhi proved to be the better warrior - liberated six-five fortresses. After their victory, the people proclaimed Trung Trac to be their ruler and renamed her "Trung Vuong" or "She-king Trung." For the next three years the Trung sisters engaged in constant battles with the Chinese government in Vietnam. Outnumbered, their troops were badly defeated in 43 A.D. and the Trung Sisters committed suicide. However, their actions in liberation made them national heroes of Vietnamese history and an immortal symbol of independence.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TRUNGSISTERS_TEXT_2">
+      <Text> Beginning in 111 BCE, Han China sought to impose political and cultural control over northern Vietnam. The Chinese assigned their own governors, who oversaw the existing local leadership.[NEWLINE][NEWLINE]Despite the relatively loose control, cultural differences made relations between the Vietnamese and their Chinese conquerors tense. In particular, Han China followed the strictly hierarchical and patriarchal system espoused by Confucius (Kong Fuzi), whereas the Vietnamese social structure was based on more equal status between the sexes. Unlike those in China, women in Vietnam could serve as judges, soldiers, and even rulers. They also had equal rights to inherit land and other property.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TRUNGSISTERS_TEXT_3">
+      <Text>The Trung sisters were born in a rural Vietnamese village, into a military family. Trung Trac was the elder; Trung Nhi, her constant companion, the younger. Their father was a prefect of Me Linh, therefore the sisters grew up in a house well-versed in the martial arts. Sisters also witnessed the cruel treatment of the Vietnamese by their Chinese overlords. The Trung sisters spent much time studying the art of warfare, as well as learning fighting skills. When a neighbouring prefect came to visit Me Linh, he brought with him his son, Thi Sach. Thi Sach met and fell in love with Trung Trac during the visit, and they were soon married.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TRUNGSISTERS_TEXT_4">
+      <Text>With Chinese rule growing extremely exacting, and the policy of forcible assimilation into the Chinese mold during their expansion southward, Trung Trac's husband - Thi Sach - made a stand against the Chinese. The Chinese responded by executing Thi Sach as a warning to all those who contemplated rebellion. His death spurred his wife to take up his cause and the flames of insurrection spread.[NEWLINE][NEWLINE]The Trungs, after defeating small Chinese unit in their own village, gathered an army of 80,000 people to help drive the Chinese from their lands. From among those who came forward to fight the Chinese, the Trung sisters chose thirty-six women - including their mother. They trained them to be generals. Many names of leaders of the uprising recorded in temples dedicated to Trung Trac are women. The Trung sisters - of whom Nhi proved to be the better warrior - liberated six-five fortresses and completely liberated Vietnam.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TRUNGSISTERS_TEXT_5">
+      <Text>Finally, in 43 CE, General Ma Yuan defeated the Trung sisters and their army. Vietnamese records insist that the queens committed suicide by jumping into a river, once their defeat was inevitable, in order to save their honor.[NEWLINE][NEWLINE]Once the Trung sisters' rebellion was put down, Ma Yuan and the Han Chinese clamped down hard on Vietnam. Thousands of the Trungs' supporters were executed, and many Chinese soldiers remained in the area to insure China's dominance over the lands around Hanoi.[NEWLINE][NEWLINE]However, through the ages there were many more rebellions inspired by the Vietnamese, among which there was another great woman known as Lady Trieu, managing, for a time, to successfully resist the Chinese state of Eastern Wu during its occupation of Vietnam.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TRUNGSISTERS_TEXT_6">
+      <Text>China controlled Vietnam until 939 CE. It succeeded in impressing many aspects of Chinese culture upon the Vietnamese, including the civil service exam system and ideas based on Confucian theory. However, the people of Vietnam refused to lose their culture or forget the heroic Trung sisters, despite nine centuries of foreign rule of the most powerful empire in the world.[NEWLINE][NEWLINE]Even during the decades-long struggles for Vietnamese independence in the 20th century - first against the French colonists, and then in the Vietnam War against the United States - the story of the Trung sisters inspired ordinary Vietnamese. Indeed, the persistence of pre-Confucian Vietnamese attitudes about women may help to account for the large number of female soldiers who participated in the Vietnam War. To this day, the people of Vietnam perform memorial ceremonies for the sisters every year at a Hanoi temple named for them. The Trung Sisters are highly revered in Vietnam, as they led the first resistance movement against the occupying Chinese after 247 years of domination. Many temples are dedicated to them, and a yearly holiday, occurring in February, to commemorate their deaths is observed by many Vietnamese. A district in Hanoi called the Hai Ba Trung District is named after them. In addition, numerous large streets in major cities and many schools are named after them.[NEWLINE][NEWLINE]Even though the Trung Sisters' revolt against the Chinese was almost 2,000 years ago, its legacy in Vietnam remains. The two sisters are considered to be a national symbol in Vietnam, they represent Vietnam's independence and they are often depicted as two women riding two giant war elephants. Many a times, they are seen leading their followers into battle against the Chinese. The Trưng sisters were more than two sisters that gave their life up for their country, they are powerful symbols of Vietnamese resistance and freedom.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TRUNGSISTERS_TITLES_1">
+      <Text>Queens of Vietnam</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

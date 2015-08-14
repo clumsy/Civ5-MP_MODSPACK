@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/13/2014 8:11:06 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_NANMADOL">
+			<Text>Nan Madol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NANMADOL_DESC">
+			<Text>Nan Madol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NANMADOL_SHORT_DESC">
+			<Text>Nan Madol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_NANMADOL_ADJECTIVE">
+			<Text>Nan Madolese</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NANMADOL_TEXT_1">
+			<Text>Nan Madol was the ceremonial and political seat of the Saudeleur dynasty, which united Pohnpei's estimated 25,000 people until about 1628.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

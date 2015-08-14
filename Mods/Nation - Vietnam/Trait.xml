@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Traits>
+    <Row>
+      <Type>TRAIT_ETERNAL_VIETNAM</Type>
+      <Description>TXT_KEY_TRAIT_ETERNAL_VIETNAM</Description>
+      <ShortDescription>TXT_KEY_TRAIT_ETERNAL_VIETNAM_SHORT</ShortDescription>
+    </Row>
+  </Traits>
+  <Language_en_US>
+    <Row Tag="TXT_KEY_TRAIT_ETERNAL_VIETNAM">
+      <Text>Defensive structures within a city increases the spawn rate of [ICON_GREAT_PEOPLE] Great Writers, Artists and Musicians. Receive +5% [ICON_CULTURE] Culture and +5% [ICON_FOOD] Food in each city for each Social Policy adopted in the Honor Tree.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_ETERNAL_VIETNAM_SHORT">
+      <Text>The Ascending Dragon</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

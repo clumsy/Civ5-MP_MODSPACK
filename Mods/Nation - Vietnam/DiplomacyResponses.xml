@@ -1,0 +1,117 @@
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_TRUNG_SISTERS">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_TRUNG_SISTERS_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_TRUNG_SISTERS">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_TRUNG_SISTERS_DEFEATED%</Response>
+		</Row>
+		<Row LeaderType="LEADER_TRUNG_SISTERS">
+			<ResponseType>RESPONSE_GREETING_POLITE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_TRUNG_SISTERS_POLITE_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_TRUNG_SISTERS">
+			<ResponseType>RESPONSE_GREETING_NEUTRAL_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_TRUNG_SISTERS_NEUTRAL_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_TRUNG_SISTERS">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_TRUNG_SISTERS_HOSTILE_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_TRUNG_SISTERS">
+			<ResponseType>RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_TRUNG_SISTERS_HOSTILE_AGGRESSIVE_MILITARY_WARNING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_TRUNG_SISTERS">
+			<ResponseType>RESPONSE_EXPANSION_SERIOUS_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_TRUNG_SISTERS_EXPANSION_SERIOUS_WARNING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_TRUNG_SISTERS">
+			<ResponseType>RESPONSE_REQUEST</ResponseType>
+			<Response>TXT_KEY_LEADER_TRUNG_SISTERS_RESPONSE_REQUEST%</Response>
+		</Row>
+		<Row LeaderType="LEADER_TRUNG_SISTERS">
+			<ResponseType>RESPONSE_LUXURY_TRADE</ResponseType>
+			<Response>TXT_KEY_LEADER_TRUNG_SISTERS_RESPONSE_LUXURY_TRADE%</Response>
+		</Row>
+		<Row LeaderType="LEADER_TRUNG_SISTERS">
+			<ResponseType>RESPONSE_OPEN_BORDERS_EXCHANGE</ResponseType>
+			<Response>TXT_KEY_LEADER_TRUNG_SISTERS_OPEN_BORDERS_EXCHANGE%</Response>
+		</Row>
+			<Row LeaderType="LEADER_TRUNG_SISTERS">
+			<ResponseType>RESPONSE_ATTACKED_BETRAYED</ResponseType>
+			<Response>TXT_KEY_LEADER_TRUNG_SISTERS_ATTACKED_BETRAYED</Response>
+		</Row>
+		<Row LeaderType="LEADER_TRUNG_SISTERS">
+			<ResponseType>RESPONSE_ATTACKED_EXCITED</ResponseType>
+			<Response>TXT_KEY_LEADER_TRUNG_SISTERS_ATTACKED_EXCITED</Response>
+		</Row>
+		<Row LeaderType="LEADER_TRUNG_SISTERS">
+			<ResponseType>RESPONSE_ATTACKED_HOSTILE</ResponseType>
+			<Response>TXT_KEY_LEADER_TRUNG_SISTERS_ATTACKED_HOSTILE</Response>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<!--General phrases -->
+		<!--Greeting (first time meeting) -->
+		<Row Tag="TXT_KEY_LEADER_TRUNG_SISTERS_FIRSTGREETING_1">
+			<Text>Hail, great leader, and look upon two leaders who are so much more. Tell us what you have to offer Vietnam.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TRUNG_SISTERS_DEFEATED_1">
+			<Text>Our walls crumble, our fields burn... to the river, my dearest sister. And to you I say this: no rule is eternal. One day we shall rise again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TRUNG_SISTERS_POLITE_HELLO_1">
+			<Text>You can stay as long as you like here, just as long as it's not too long.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TRUNG_SISTERS_POLITE_HELLO_2">
+			<Text>My people have been anxious to hear more of your tales - please, do go on.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TRUNG_SISTERS_POLITE_HELLO_3">
+			<Text>How are things back home?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TRUNG_SISTERS_NEUTRAL_HELLO_1">
+			<Text>Anything to offer?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TRUNG_SISTERS_NEUTRAL_HELLO_2">
+			<Text>What do you come to our lands for today?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TRUNG_SISTERS_NEUTRAL_HELLO_3">
+			<Text>Welcome back to Vietnam!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TRUNG_SISTERS_HOSTILE_HELLO_1">
+			<Text>We'd rather not discuss matters now. Or ever.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TRUNG_SISTERS_HOSTILE_HELLO_2">
+			<Text>Do you mind? We have better stuff to do. Might as well deal with you first, though.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TRUNG_SISTERS_HOSTILE_HELLO_3">
+			<Text>What is it that you demand of us now?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TRUNG_SISTERS_HOSTILE_AGGRESSIVE_MILITARY_WARNING">
+			<Text>It just so happens that the last nation to attack us lost and was then hated on by the world. You're welcome to be the next.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TRUNG_SISTERS_EXPANSION_SERIOUS_WARNING">
+			<Text>Yes, Vietnam is a lovely country, but I would advise not coming too close if you like your country's land the way it is.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TRUNG_SISTERS_REQUEST">
+			<Text>We seem to be rather short of cash at the moment - would you happen to have any? The favour will be returned in due course.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TRUNG_SISTERS_LUXURY_TRADE">
+			<Text>Would you have any interest in these luxuries? We happen to have too many lying around.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TRUNG_SISTERS_OPEN_BORDERS_EXCHANGE">
+			<Text>I don't suppose you'd be interested in gazing upon the beauty of Vietnam?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TRUNG_SISTERS_ATTACKED_BETRAYED">
+			<Text>You dare threaten the people of Vietnam? Come, sister, let us teach these vicious brutes some manners.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TRUNG_SISTERS_ATTACKED_EXCITED">
+			<Text>You dare threaten the people of Vietnam? Come, sister, let us teach these vicious brutes some manners.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TRUNG_SISTERS_ATTACKED_HOSTILE">
+			<Text>You dare threaten the people of Vietnam? Come, sister, let us teach these vicious brutes some manners.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

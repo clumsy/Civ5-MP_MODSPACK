@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/20/2014 10:29:49 AM -->
+<GameData>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_VIETCONG_GUERILLA</Type>
+			<Description>TXT_KEY_PROMOTION_VIETCONG_GUERILLA</Description>
+			<Help>TXT_KEY_PROMOTION_VIETCONG_GUERILLA_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>2</PortraitIndex>
+			<IconAtlas>KRIS_SWORDSMAN_PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_VIETCONG_GUERILLA</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+			<OpenAttack>-10</OpenAttack>
+		</Row>
+		<Row>
+			<Type>PROMOTION_VIETCONG_INVISIBLE</Type>
+			<Description>TXT_KEY_PROMOTION_VIETCONG_INVISIBLE</Description>
+			<Help>TXT_KEY_PROMOTION_VIETCONG_INVISIBLE_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>35</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_VIETCONG_GUERILLA</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+			<Invisible>INVISIBLE_SUBMARINE</Invisible>
+		</Row>
+	</UnitPromotions>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_PROMOTION_VIETCONG_GUERILLA">
+			<Text>Guerilla Tactics</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VIETCONG_GUERILLA_HELP">
+			<Text>Double Movement in Forest and Jungle[NEWLINE][NEWLINE]Combat Penalty in Open Terrain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VIETCONG_INVISIBLE">
+			<Text>Guerilla Camoflauge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VIETCONG_INVISIBLE_HELP">
+			<Text>Unit is invisible in Forest and Jungle.</Text>
+		</Row>
+		</Language_en_US>
+		<UnitPromotions_Features>
+			<Row>
+				<PromotionType>PROMOTION_VIETCONG_GUERILLA</PromotionType>
+				<FeatureType>FEATURE_FOREST</FeatureType>
+				<DoubleMove>true</DoubleMove>
+			</Row>
+			<Row>
+				<PromotionType>PROMOTION_VIETCONG_GUERILLA</PromotionType>
+				<FeatureType>FEATURE_JUNGLE</FeatureType>
+				<DoubleMove>true</DoubleMove>
+			</Row>
+		</UnitPromotions_Features>
+</GameData>

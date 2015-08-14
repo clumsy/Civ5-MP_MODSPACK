@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_FOOD_DUMMY</Type>
+			<DefaultBuilding>BUILDING_FOOD_DUMMY</DefaultBuilding>
+			<Description>Vietnam Food Dummy</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_CULTURE_DUMMY</Type>
+			<DefaultBuilding>BUILDING_CULTURE_DUMMY</DefaultBuilding>
+			<Description>Vietnam Culture Dummy</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_VIETNAM_WATER_DEFENSE</Type>
+			<DefaultBuilding>BUILDING_VIETNAM_WATER_DEFENSE</DefaultBuilding>
+			<Description>Vietnam Water Defense</Description>
+		</Row>
+	</BuildingClasses>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_WATER_THEATRE</Type>
+			<Description>TXT_KEY_BUILDING_WATER_THEATRE_DESC</Description>
+			<Civilopedia>TXT_KEY_BUILDING_WATER_THEATRE_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_WATER_THEATRE_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_WATER_THEATRE_HELP</Help>
+			<BuildingClass>BUILDINGCLASS_AMPHITHEATER</BuildingClass>
+			<FreeStartEra>ERA_INDUSTRIAL</FreeStartEra>
+			<Cost>110</Cost>
+			<GoldMaintenance>2</GoldMaintenance>
+			<PrereqTech>TECH_DRAMA</PrereqTech>
+			<ArtDefineTag>COLESSEUM</ArtDefineTag>
+			<GreatWorkSlotType>GREAT_WORK_SLOT_LITERATURE</GreatWorkSlotType>
+			<GreatWorkCount>1</GreatWorkCount>
+			<ConquestProb>100</ConquestProb>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>VIETNAM_ICON</IconAtlas>
+			<PortraitIndex>3</PortraitIndex>
+		</Row>
+		<Row>
+			<Type>BUILDING_VIETNAM_WATER_DEFENSE</Type>
+			<BuildingClass>BUILDINGCLASS_VIETNAM_WATER_DEFENSE</BuildingClass>
+			<Description>A Dummy Building</Description>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<PrereqTech>NULL</PrereqTech>
+			<ArtDefineTag>COLESSEUM</ArtDefineTag>
+			<ConquestProb>100</ConquestProb>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>VIETNAM_ICON</IconAtlas>
+			<PortraitIndex>4</PortraitIndex>
+		</Row>
+		<Row>
+			<Type>BUILDING_CULTURE_DUMMY</Type>
+			<BuildingClass>BUILDINGCLASS_CULTURE_DUMMY</BuildingClass>
+			<Description>A Dummy Building</Description>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<PrereqTech>NULL</PrereqTech>
+			<ArtDefineTag>COLESSEUM</ArtDefineTag>
+			<CultureRateModifier>5</CultureRateModifier>
+			<ConquestProb>100</ConquestProb>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>VIETNAM_ICON</IconAtlas>
+			<PortraitIndex>4</PortraitIndex>
+		</Row>
+		<Row>
+			<Type>BUILDING_FOOD_DUMMY</Type>
+			<BuildingClass>BUILDINGCLASS_FOOD_DUMMY</BuildingClass>
+			<Description>A Dummy Building</Description>
+			<Cost>-1</Cost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<ArtDefineTag>COLESSEUM</ArtDefineTag>
+			<ConquestProb>100</ConquestProb>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>VIETNAM_ICON</IconAtlas>
+			<PortraitIndex>4</PortraitIndex>
+		</Row>
+	</Buildings>
+  <Building_Flavors>
+    <Row>
+			<BuildingType>BUILDING_WATER_THEATRE</BuildingType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>10</Flavor>
+    </Row>
+    <Row>
+			<BuildingType>BUILDING_WATER_THEATRE</BuildingType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>10</Flavor>
+    </Row>
+    <Row>
+			<BuildingType>BUILDING_WATER_THEATRE</BuildingType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>10</Flavor>
+    </Row>
+  </Building_Flavors>
+  <Building_YieldChanges>
+    <Row>
+			<BuildingType>BUILDING_WATER_THEATRE</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>2</Yield>
+    </Row>
+  </Building_YieldChanges>
+	<Building_YieldModifiers>
+		<Row>
+			<BuildingType>BUILDING_FOOD_DUMMY</BuildingType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>5</Yield>
+		</Row>
+	</Building_YieldModifiers>
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_BUILDING_WATER_THEATRE_DESC">
+			<Text>Water Puppet Theatre</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_WATER_THEATRE_PEDIA">
+			<Text>Water puppetry is a theatrical performance with roots in 11th century villages of the Red River Delta area of northern Vietnam. The puppets are made out of wood and then lacquered and the shows are performed in a waist-deep pool (hence the name). A large rod supports the puppet under the water and is used by the puppeteers, who are normally hidden behind a screen, to control them, thus the puppets appear to be moving over the water. When the rice fields would flood, the villagers would entertain each other using this form of puppet play. Later water puppetry entered even Vietnamese royal palaces and it remains popular in modern times, once again proving that Vietnam stood the test of time.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_WATER_THEATRE_STRATEGY">
+			<Text>Has one slot for a Great Work of Writing. More expensive than the Amphitheater that it replaces, as well as providing an additional point of culture, Great Works contained within a city Water Puppet Theater increases a city's [ICON_STRENGTH] Defensive Strength by 5.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_WATER_THEATRE_HELP">
+			<Text>Has one slot for a Great Work of Writing. More expensive than the Amphitheater that it replaces, as well as providing an additional point of culture, Great Works contained within a city Water Puppet Theater increases a city's [ICON_STRENGTH] Defensive Strength by 5.</Text>
+    </Row>
+  </Language_en_US>
+
+</GameData>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/25/2014 8:20:53 AM -->
+<GameData>
+	<Civilizations_YagemStartPosition>
+		<Row>
+			<Type>CIVILIZATION_VIETNAM</Type>
+			<X>76</X>
+			<Y>46</Y>
+		</Row>
+	</Civilizations_YagemStartPosition>
+	<!-- +++++++++++++++++++++++++++++ -->
+	<!-- Earth Huge map start position -->
+	<!-- +++++++++++++++++++++++++++++ -->
+	<Civilizations_YahemStartPosition>
+		<Row>
+			<Type>CIVILIZATION_VIETNAM</Type>
+			<X>101</X>
+			<Y>41</Y>
+		</Row>
+	</Civilizations_YahemStartPosition>
+	<!-- ++++++++++++++++++++++++++++++++++ -->
+	<!-- Earth Cordiform map start position -->
+	<!-- ++++++++++++++++++++++++++++++++++ -->
+	<Civilizations_CordiformStartPosition>
+		<Row>
+			<Type>CIVILIZATION_VIETNAM</Type>
+			<X>62</X>
+			<Y>27</Y>
+		</Row>
+	</Civilizations_CordiformStartPosition>
+	<!-- +++++++++++++++++++++++++++++++++++ -->
+	<!-- "Greatest Earth Map" start position -->
+	<!-- +++++++++++++++++++++++++++++++++++ -->
+	<Civilizations_GreatestEarthStartPosition>
+		<Row>
+			<Type>CIVILIZATION_VIETNAM</Type>
+			<X>81</X>
+			<Y>41</Y>
+		</Row>
+	</Civilizations_GreatestEarthStartPosition>
+</GameData>

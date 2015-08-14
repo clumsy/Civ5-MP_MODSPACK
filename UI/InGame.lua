@@ -1446,6 +1446,12 @@ ContextPtr:LoadNewContext("RevolucionarioAnarchies")
 ContextPtr:LoadNewContext("WarGeneral")
 ContextPtr:LoadNewContext("IndependenceScripts")
 
+-- Nation - Vietnam --
+ContextPtr:LoadNewContext("DefensiveGWAMSpawn")
+ContextPtr:LoadNewContext("HonourGrowthAndCulture")
+ContextPtr:LoadNewContext("VietCongPromotions")
+ContextPtr:LoadNewContext("DefenseFromGreatWorks")
+
 -- Nation - Xia --
 ContextPtr:LoadNewContext("Xia Mod Check")
 ContextPtr:LoadNewContext("XiaDynastyPopup")

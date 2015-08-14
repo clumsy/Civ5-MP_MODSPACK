@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="7c872e3f-d8f7-496f-983a-3bdf62fa1f34" version="1">
+  <Properties>
+    <Name>[BNW] Colonialist Legacies - Vietnam ft. Trung Sisters</Name>
+    <Teaser>A mod that adds Vietnam to the game, with the Trung Sisters leading the charge!</Teaser>
+    <Description>Requires BNW. 
+
+Leader(s): Trung Sisters
+UA: The Ascending Dragon
+Defensive structures within a city increases the spawn rate of Great Writers, Artists and Musicians. Receive +5% Culture and +5%  Food in each city for each Social Policy adopted in the Honour Tree.
+UU: Vietcong
+Gains Invisibility and Double Movement in Forests and Jungles and a +25% Defensive Combat bonus when fighting against a civ with a different ideology, unlike the Infantry it replaces. However, it also has a combat penalty in open terrain.
+UB: Water Puppet Theater
+Has one slot for a Great Work of Writing. More expensive than the Amphitheater that it replaces, as well as providing an additional point of culture - Great Works contained within a city Water Puppet Theater increases a city's Defensive Strength by 5.</Description>
+    <Authors>TPangolin, Senshidenshi, Krajzen, Scapegrace, JFD, LastSword, Viregel, Neirai</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>0</AffectsSavedGames>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="3076FA4A3D88ED101E8F3B8F9EA25B9F" import="0">Art/NamArtReferencing.xml</File>
+    <File md5="1929DFD8C090FAF71D4CAE49CD3CA5C1" import="1">Art/NamMap.dds</File>
+    <File md5="AAB2376679280DD37C7F2448F3E1B1A8" import="1">Art/TrungDOMScreen.dds</File>
+    <File md5="B5060C169F9D20AF1A00EB9794397A3A" import="1">Art/VietCongFlag.dds</File>
+    <File md5="F9D50CAEA2E1FB14E5BED7E2ABE0246D" import="1">Art/VietnamDiploScreen.dds</File>
+    <File md5="87AA0724A49812B91E77B715B426F8C9" import="1">Art/VietnamIcon128.dds</File>
+    <File md5="792ECE80D9D9CFEB508150044B2CC9CB" import="1">Art/VietnamIcon16.dds</File>
+    <File md5="F17B738EAF5DEF8948CCEC3C843160B4" import="1">Art/VietnamIcon24.dds</File>
+    <File md5="F5BC51E4B5F44DF8CD7313E6BEA10F3B" import="1">Art/VietnamIcon256.dds</File>
+    <File md5="F01D375F09FC437C500E699BC2935668" import="1">Art/VietnamIcon32.dds</File>
+    <File md5="512BEF0EA102EA3902A6D5CDCE531588" import="1">Art/VietnamIcon45.dds</File>
+    <File md5="66CD1F5E06CDEFEB376B5511B52A257A" import="1">Art/VietnamIcon48.dds</File>
+    <File md5="3133310E6F69BDE26492462C9AA4F2B7" import="1">Art/VietnamIcon64.dds</File>
+    <File md5="49268B08ACA31D61268383334E1671CD" import="1">Art/VietnamIcon80.dds</File>
+    <File md5="E7E5F45AC5F0E2272B9996392945EC90" import="1">Art/VietnamIconAlpha128.dds</File>
+    <File md5="B5084039DEB53090A2089CE24D511909" import="1">Art/VietnamIconAlpha16.dds</File>
+    <File md5="2B8389F85FEE29AC475604EB4C2D48D6" import="1">Art/VietnamIconAlpha24.dds</File>
+    <File md5="E4C5D5D01263233B0E5DB42ADFC0A247" import="1">Art/VietnamIconAlpha32.dds</File>
+    <File md5="3EBCFE82E1BBACD8213A5FD421BFE74C" import="1">Art/VietnamIconAlpha45.dds</File>
+    <File md5="236D1F070E77C0870C56DBAA9217114E" import="1">Art/VietnamIconAlpha48.dds</File>
+    <File md5="2993A90159E5654CC90FBB40243A1EBF" import="1">Art/VietnamIconAlpha64.dds</File>
+    <File md5="A075EC238427C16F4C1C74836BC8207E" import="1">Art/VietnamIconAlpha80.dds</File>
+    <File md5="84C0C059E679E94A1238517C7569EA01" import="0">Lua/DefenseFromGreatWorks.lua</File>
+    <File md5="14C0FD48E2099F6309A6A05FA878A65F" import="0">Lua/DefensiveGWAMSpawn.lua</File>
+    <File md5="25EEB15EA5EB374C08E4EDECFB3F86D5" import="0">Lua/HonourGrowthAndCulture.lua</File>
+    <File md5="7C4EF40FBA752760EAA934A0BBC6C041" import="0">Lua/VietCongPromotions.lua</File>
+    <File md5="E2517D7D3C99C1B1F1D7E7D02DA9E672" import="1">Music/TrungDOM.mp3</File>
+    <File md5="D24E5F0ADD70468F4938A9CE56E80654" import="1">Music/TrungPeace.mp3</File>
+    <File md5="A30BB995E2D2828042B957D22081F8BD" import="1">Music/TrungWar.mp3</File>
+    <File md5="C010D42E3B4003209E64BF35972D1738" import="1">UnitArt/diea.gr2</File>
+    <File md5="099B4856A4FB485206FC10D50C73DD7F" import="1">UnitArt/diefadea.gr2</File>
+    <File md5="04C4FB8C221A8F67736D024421F67376" import="1">UnitArt/fortf.gr2</File>
+    <File md5="DB38614B7C65411803A2EEE23ABC6A8A" import="1">UnitArt/fortidlea.gr2</File>
+    <File md5="CFAA77483E0838EA461539CCB5447BD4" import="0">UnitArt/TrungArt.xml</File>
+    <File md5="EB67305441EE88654B49B85D1440C0AA" import="1">UnitArt/hurta.gr2</File>
+    <File md5="AB5F065B5978AC219D220C9D1D418A1B" import="1">UnitArt/marineIdle.gr2</File>
+    <File md5="009863D72249DF0C97EF7D7C1ADB9E42" import="1">UnitArt/runr.gr2</File>
+    <File md5="45610501DFD8EF406A7AF01FCF18CF47" import="1">UnitArt/shoota.gr2</File>
+    <File md5="53EE230B2BFE38E4910D433976265913" import="1">UnitArt/trung_nhi_diff.dds</File>
+    <File md5="86D38D87791F832F15CB89F836A0199D" import="1">UnitArt/trung_nhi_foot.fxsxml</File>
+    <File md5="4231626F8080C401EBDA19C76472D9FF" import="1">UnitArt/trung_nhi_foot.gr2</File>
+    <File md5="6FAC92E042C27A045FC9FFF1B2A1C5C4" import="1">UnitArt/trung_nhi_sref.dds</File>
+    <File md5="5E2E4E016363C93E96C800FB4CC0CD20" import="1">UnitArt/trung_trac_diff.dds</File>
+    <File md5="8C6CED77AEDA9790DF377456BFABED0B" import="1">UnitArt/trung_trac_foot.fxsxml</File>
+    <File md5="24A369C39AEE2F65CA3A5379D9D48269" import="1">UnitArt/trung_trac_foot.gr2</File>
+    <File md5="6FAC92E042C27A045FC9FFF1B2A1C5C4" import="1">UnitArt/trung_trac_sref.dds</File>
+    <File md5="CC30EC42E22EB10443DC52CDC0B38A68" import="1">UnitArt/VC_diff.dds</File>
+    <File md5="BE90598CFB3886005632DC31E5B71B9B" import="1">UnitArt/VC_sref.dds</File>
+    <File md5="031D519C8733AFC4E9BA70A215925608" import="1">UnitArt/vietcong.fxsxml</File>
+    <File md5="9127D537320DF9096EDF5D100781B3B8" import="1">UnitArt/vietcong.gr2</File>
+    <File md5="E2EB16742A93A5C1E396A82FC3715268" import="0">UnitArt/VietcongArtDefines.sql</File>
+    <File md5="800EE93EE8F1B52D06183823D1B65612" import="0">XML/Buildings.xml</File>
+    <File md5="E4568A15BD606C32658046752ECE6617" import="0">XML/Civilization.xml</File>
+    <File md5="61EDFFD6D0383DA0C161BA317A0210BA" import="0">XML/DiplomacyResponses.xml</File>
+    <File md5="798C3C59227904A0C2126EDA1196CC19" import="0">XML/VietnaminYnAEMP.xml</File>
+    <File md5="3ADFF9AC9BA4263E2079F76D71CAAFA6" import="0">XML/HanoiIsACityStateToo/MinorCivilizations.sql</File>
+    <File md5="61A9049116F3742FF1229B6CE025625A" import="0">XML/HanoiIsACityStateToo/NanMadolText.xml</File>
+    <File md5="7E036F9C7FC3024C329CD90B490D30B1" import="0">XML/Leader.xml</File>
+    <File md5="9DD6E6788254764FA9B104A55D6AC441" import="0">XML/Music.xml</File>
+    <File md5="FB05CB2F522FC2CC7978781E8A92B600" import="0">XML/Trait.xml</File>
+    <File md5="84F05E41F2E8AF8141A6D9ED66272881" import="1">XML/Trung_Scene.xml</File>
+    <File md5="6D0ACB97DA3610A6BA86833E2B7870C0" import="0">XML/Units.xml</File>
+    <File md5="8E4A29A4B582E9FAC4F8A39C743C1F83" import="0">XML/VietCongPromotions.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/VietnaminYnAEMP.xml</UpdateDatabase>
+      <UpdateDatabase>XML/HanoiIsACityStateToo/MinorCivilizations.sql</UpdateDatabase>
+      <UpdateDatabase>XML/HanoiIsACityStateToo/NanMadolText.xml</UpdateDatabase>
+      <UpdateDatabase>UnitArt/TrungArt.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/DiplomacyResponses.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Trait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Trung_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units.xml</UpdateDatabase>
+      <UpdateDatabase>XML/VietCongPromotions.xml</UpdateDatabase>
+      <UpdateDatabase>UnitArt/VietcongArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Music.xml</UpdateDatabase>
+      <UpdateDatabase>Art/NamArtReferencing.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/DefensiveGWAMSpawn.lua">
+      <Name>DefensiveGWAMSpawn</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/HonourGrowthAndCulture.lua">
+      <Name>HonourGrowthAndCulture</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/VietCongPromotions.lua">
+      <Name>VietCongPromotions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/DefenseFromGreatWorks.lua">
+      <Name>DefenseFromGreatWorks</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

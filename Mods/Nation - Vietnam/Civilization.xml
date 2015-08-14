@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Civilizations>
+    <Row>
+      <Type>CIVILIZATION_VIETNAM</Type>
+      <Description>TXT_KEY_CIV_VIETNAM_DESC</Description>
+      <Civilopedia>TXT_KEY_CIV_VIETNAM_PEDIA</Civilopedia>
+      <CivilopediaTag>TXT_KEY_CIV5_VIETNAM</CivilopediaTag>
+      <Playable>1</Playable>
+      <AIPlayable>1</AIPlayable>
+      <ShortDescription>TXT_KEY_CIV_VIETNAM_SHORT_DESC</ShortDescription>
+      <Adjective>TXT_KEY_CIV_VIETNAM_ADJECTIVE</Adjective>
+      <DefaultPlayerColor>PLAYERCOLOR_VIETNAM</DefaultPlayerColor>
+      <ArtDefineTag>ART_DEF_CIVILIZATION_VIETNAM</ArtDefineTag>
+      <ArtStyleType>ARTSTYLE_ASIAN</ArtStyleType>
+      <ArtStyleSuffix>_ASIA</ArtStyleSuffix>
+      <ArtStylePrefix>ASIAN</ArtStylePrefix>
+      <DerivativeCiv></DerivativeCiv>
+      <PortraitIndex>0</PortraitIndex>
+      <IconAtlas>VIETNAM_ICON</IconAtlas>
+      <AlphaIconAtlas>VIETNAM_ALPHA</AlphaIconAtlas>
+      <MapImage>NamMap.dds</MapImage>
+      <DawnOfManQuote>TXT_KEY_CIV5_DAWN_VIETNAM_TEXT</DawnOfManQuote>
+      <DawnOfManImage>TrungDOMScreen.dds</DawnOfManImage>
+      <DawnOfManAudio>AS2D_DOM_SPEECH_VIETNAM</DawnOfManAudio>
+      <PackageID></PackageID>
+      <SoundtrackTag>China</SoundtrackTag>
+    </Row>
+  </Civilizations>
+  <Civilization_BuildingClassOverrides>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <BuildingClassType>BUILDINGCLASS_AMPHITHEATER</BuildingClassType>
+      <BuildingType>BUILDING_WATER_THEATRE</BuildingType>
+    </Row>
+  </Civilization_BuildingClassOverrides>
+	<Civilization_UnitClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+			<UnitClassType>UNITCLASS_INFANTRY</UnitClassType>
+			<UnitType>UNIT_VIETCONG</UnitType>
+		</Row>
+	</Civilization_UnitClassOverrides>
+	
+  <Civilization_CityNames>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIETNAM_0</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIETNAM_1</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIETNAM_2</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIETNAM_3</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIETNAM_4</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIETNAM_5</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIETNAM_6</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIETNAM_7</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIETNAM_8</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIETNAM_9</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIETNAM_10</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIETNAM_11</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIETNAM_12</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIETNAM_13</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIETNAM_14</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIETNAM_15</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIETNAM_16</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIETNAM_17</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIETNAM_18</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIETNAM_19</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIETNAM_20</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIETNAM_21</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIETNAM_22</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIETNAM_23</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIETNAM_24</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIETNAM_25</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIETNAM_26</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIETNAM_27</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIETNAM_28</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIETNAM_29</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIETNAM_30</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIETNAM_31</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIETNAM_32</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIETNAM_33</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIETNAM_34</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIETNAM_35</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIETNAM_36</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIETNAM_37</CityName>
+    </Row>
+  </Civilization_CityNames>
+  <Civilization_FreeBuildingClasses>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+    </Row>
+  </Civilization_FreeBuildingClasses>
+  <Civilization_FreeTechs>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <TechType>TECH_AGRICULTURE</TechType>
+    </Row>
+  </Civilization_FreeTechs>
+  <Civilization_FreeUnits>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+      <UnitAIType>UNITAI_SETTLE</UnitAIType>
+      <Count>1</Count>
+    </Row>
+  </Civilization_FreeUnits>
+  <Civilization_Leaders>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <LeaderheadType>LEADER_TRUNG_SISTERS</LeaderheadType>
+    </Row>
+  </Civilization_Leaders>
+  <Civilization_Religions>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <ReligionType>RELIGION_BUDDHISM</ReligionType>
+    </Row>
+  </Civilization_Religions>
+  <Civilization_SpyNames>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_VIETNAM_0</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_VIETNAM_1</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_VIETNAM_2</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_VIETNAM_3</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_VIETNAM_4</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_VIETNAM_5</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_VIETNAM_6</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_VIETNAM_7</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_VIETNAM_8</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_VIETNAM_9</SpyName>
+    </Row>
+  </Civilization_SpyNames>
+	<Civilization_Start_Region_Priority>
+		<Row>
+			<CivilizationType>CIVILIZATION_VIETNAM</CivilizationType>
+			<RegionType>REGION_JUNGLE</RegionType>
+		</Row>
+	</Civilization_Start_Region_Priority>
+  <PlayerColors>
+    <Row>
+      <Type>PLAYERCOLOR_VIETNAM</Type>
+      <PrimaryColor>COLOR_PLAYER_VIETNAM_ICON</PrimaryColor>
+      <SecondaryColor>COLOR_PLAYER_VIETNAM_BACKGROUND</SecondaryColor>
+      <TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+    </Row>
+  </PlayerColors>
+  <Colors>
+    <Row>
+      <Type>COLOR_PLAYER_VIETNAM_ICON</Type>
+      <Red>0.50196078431</Red>
+      <Green>0.0156862745</Green>
+      <Blue>0.10980392156</Blue>
+      <Alpha>1.0</Alpha>
+    </Row>
+  </Colors>
+  <Colors>
+    <Row>
+      <Type>COLOR_PLAYER_VIETNAM_BACKGROUND</Type>
+      <Red>0.00392156862</Red>
+      <Green>0.8</Green>
+      <Blue>0.49411764705</Blue>
+      <Alpha>1.0</Alpha>
+    </Row>
+  </Colors>	
+  <Language_en_US>
+    <Row Tag="TXT_KEY_CIV_VIETNAM_DESC">
+      <Text>Vietnamese Empire</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIETNAM_FACTOID_HEADING">
+      <Text>Vietnamese Factoid</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIETNAM_FACTOID_TEXT">
+      <Text>
+		  The stories of the Trung Sisters and of another famous woman warrior, Trieu Thi Trinh, are cited by some historians as hints that Vietnamese society before sinicization was a matriarchal one, where there are no obstacles for women in assuming leadership roles.[NEWLINE][NEWLINE]During its history, Vietnam managed to defeat invasions of Laos, Burma, the Khmer Empire, Siam, various Chinese dynasties, three Mongol armies consisting together of 400,000 men, Great Britain, France, the People's Republic of China, Cambodia and their most famous and powerful opponent: the United States of America.
+	  </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIETNAM_HEADING_1">
+      <Text>History</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIETNAM_HEADING_2">
+      <Text>Geography</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIETNAM_HEADING_3">
+      <Text>Early History</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIETNAM_HEADING_4">
+      <Text>Later History</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIETNAM_HEADING_5">
+      <Text>Chinese Inventions</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIETNAM_HEADING_6">
+      <Text>Vietnam and the World</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIETNAM_HEADING_7">
+      <Text>Vietnam Today</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIETNAM_TEXT_1">
+      <Text>
+		  Prior to the beginning of the Hong Bang Dynasty period, the land was settled by autonomous villages. Vietnamese predynastic society was anarchic and did not have any management mechanism. They lived together in groups as tribes. Archaeologists have found many images on the wall of caves which showed the daily living of ancient people. In primitive ages, people lived in matriarchal societies, similar to many others in Southeast Asia and the Pacific Islands at the time. During a few thousands years in the Late Stone Age, the inhabitant populations grew and spread to every part of Vietnam. Most ancient peoples were living near the Hong, Ca and Ma rivers. The Vietnamese tribes were the primary tribes at this time. Their territory included modern meridional territories of China to the banks of the Hong River in the northern territory of Vietnam. Centuries of developing a civilization and economy based on the cultivation of irrigated rice encouraged the development of tribal states and communal settlements.[NEWLINE][NEWLINE]A significant political event occurred when Loc Tục came into power. He consolidated the other tribes and succeeded in grouping all the vassal states (or autonomous communities) within his territory into a unified nation in approximately 2879 BC. Loc Tuc proclaimed himself Kinh Duong Vuong and called his newly born nation Xich Quy. Loc Tục inaugurated the earliest monarchical regime as well as the first ruling family by heirdom in Vietnam's history. He is regarded as the ancestor of the Hung kings and the founding father of Vietnam.
+	  </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIETNAM_TEXT_2">
+      <Text>
+		  As rule was passed to the Hung king's male heirs, Kinh Duong Vuong was succeeded by his son Lạc Long Quan, who founded the second dynasty of Hung kings. Starting from the third Hung dynasty, the kingdom was renamed Van Lang, and the capital was set up at Phong Chau at the juncture of three rivers where the Red River Delta begins from the foot of the mountains. The evidence that the Vietnamese knew how to calculate the lunar calendar by carving on stones dates back to 2200–2000 BC. Parallel lines were carved on the stone tools as a counting instrument involving the lunar calendar. The process of making silk has had been known by the Vietnamese since 2000 BC. [NWLINE][NEWLINE]The Hung Dynasty was dethroned in the middle of the third century BC on the advent of the military leader Thuc Phan's conquest of Van Lang. Thuc Phan built his capital and citadel at Co Loa, thirty-five kilometers north of present-day Hanoi. [NEWLINE][NEWLINE]In 207 BC, Qin warlord Trieu Da annexed Au Lạc into his domain located in present-day Guangdong, then proclaimed himself king of a new independent kingdom, Nam Viet (Nanyue). Some Vietnamese consider Trieu's rule as the starting point of the Chinese domination, since Trieu Da was a former Qin general. Others consider it still an era of Vietnamese independence as the Trieu family in Nam Viet were assimilated to local culture. They ruled independently of what then constituted the Han Empire.
+	  </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIETNAM_TEXT_3">
+      <Text>
+		  Learning a lesson from the Trung revolt, the Han and other successful Chinese dynasties took measures to eliminate the power of the Vietnamese nobles. The Vietnamese elites would be coerced to assimilate into Chinese culture and politics. Nearly 200 years passed before the Vietnamese attempted another revolt. In 225 AD another woman, Trieu Thi Trinh, popularly known as Lady Trieu, led another revolt which lasted until 248. Once again, the uprising failed and Trieu Thi Trinh threw herself into a river.[NEWLINE][NEWLINE] Vietnam was known Annam until 866 AD. Annam became a flourishing trading outpost, receiving goods from the southern seas. The Book of the Later Han recorded that in 166 AD the first envoy from the Roman Empire to China arrived by this route, and merchants were soon to follow. The 3rd-century Tales of Wei mentioned a "water route" (the Red River) from Annam into what is now southern Yunnan. From there, goods were taken overland to the rest of China via the regions of modern Kunming and Chengdu.[NEWLINE][NEWLINE] At the same time, in present-day Central Vietnam, there was a successful revolt of Cham nations. Chinese dynasties called it Lin-Yi. It later became a powerful kingdom, Champa, stretching from Quang Binh to Phan Thiet. In addition, the local languages began to diverge. This period ended by the revolt of Ly Nam De who secured 60 years of independence for Vietnam.
+	  </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIETNAM_TEXT_4">
+      <Text>
+		  Taking advantage of the disturbances in the Tang Empire, several nobles started their attempts at setting up national administration; in 930 the Southern Han dynasty, which had taken power in southern China, again invaded the country. The fight was led by Ngo Quyen, who in 938 clashed with a Southern Han expeditionary corps approaching by sea. The Southern Han fleet entered Vietnam via the Bach Dang estuary (mouth of the river which flows into Ha Long Bay) where iron-tipped stakes had been sunk into the riverbed by Ngo Quyen. At high-tide a Vietnamese flotilla attacked the enemy then, pretending to escape, lured the Southern Han boats into the estuary beyond the stakes still covered by the tide. At low-tide, the entire Vietnamese fleet counter-attacked, forcing the enemy to flee and sink, impaled on the barrage of stakes. The Bach Dang victory in 938 put an end to the period of Chinese imperial domination. In 939 Ngo Quyen proclaimed himself king, established the Ngo Dynasty and his capital at Co Loa (previously a capital in the 3rd century BC) and set up a centralized government.[NEWLINE][NEWLINE]After few short living dynasties and period of anarchy known as the 12 Warlords Rebellion, Vietnam gained internal stability. When the king Le Long Dinh died in 1009, a Palace Guard Commander named Ly Cong Uan was nominated by the court to take over the throne, and founded the Ly dynasty. This event is regarded as the beginning of another golden era in Vietnamese history, with great following dynasties. Ly Cong Uan, posthumously referred as Ly Thai To, changed the country's name to Dai Viet (literally "Great Viet"). The Ly Dynasty is credited for laying down a concrete foundation, with strategic vision, for the nation of Vietnam. Leaving Hoa Lu, a natural fortification surrounded by mountains and rivers, Ly Cong Uan moved his court to the new capital in present-day Hanoi and called it Thang Long (Ascending Dragon).[NEWLINE][NEWLINE]Ly Cong Uan thus departed from the militarily defensive mentality of his predecessors and envisioned a strong economy as the key to national survival. Successive Ly kings continued to accomplish far-reaching feats: building a dyke system to protect the rice producing area; founding Quoc Tu Giam, the first noble university; holding regular examinations to select capable commoners for government positions once every three years; organizing a new system of taxation; establishing humane treatment of prisoners. Women were holding important roles in Ly society as the court ladies were in charge of tax collection. The Ly Dynasty also promoted Buddhism, yet maintained a pluralistic attitude toward the three main philosophical systems of the time: Buddhism, Confucianism, and Taoism. The Ly Emperors supported the improvement of Vietnam's agricultural system by constructing and repairing dikes and canals and by allowing soldiers to return to their villages to work for six months of each year. As their territory and population expanded, the Ly Emperors looked to China as a model for organizing a strong, centrally administered state. Minor officials were chosen by examination for the first time in 1075, and a civil service training institute and an imperial academy were set up in 1076. In 1089 a fixed hierarchy of state officials was established, with nine degrees of civil and military scholar officials. Examinations for public office were made compulsory, and literary competitions were held to determine the grades of officials. According to legend, during the time of great yet victorious wars with Khmer Empire and Song Empire Ly Thuong Kiet had also composed the famous poem Nam Quoc Son Ha (Rivers and Mountains of the South Nation), which asserted the sovereignty of Vietnam over its land. This poem is considered the first Vietnamese Declaration of Independence.[NEWLINE][NEWLINE]Noted Tran Dynasty accomplishments include the creation of a system of population records based at the village level, the compilation of a formal 30-volume history of Dai Viet by Le Van Huu, and the rising in status of the Nom script, a system of writing for Vietnamese language. The Tran Dynasty also adopted a unique way to train new kings: when a crown prince reached the age of 18, his predecessor would abdicate and turn the throne over to him, yet holding a title of August Higher Emperor (Thai Thuong Hoang), acting as a mentor to the new Emperor. During the Tran Dynasty, the armies of the Mongol Empire under Mongke Khan and Kublai Khan invaded Vietnam in 1258, 1285, and 1287-88. Dai Viet repelled all attacks of the Yuan Mongols during the reign of Kublai Khan. Three Mongol armies said to have numbered from 300,000 to 500,000 men were defeated. The Yuan-Tran war reached its climax when the retreating Yuan fleet was decimated at the Battle of Bach Đang (1288). The military architect behind Dai Viet's great victories was Commander Tran Hung Dao.[NEWLINE][NEWLINE]In 1407, under the pretext of helping to restore the Tran Dynasty, Chinese Ming troops invaded Dai Ngu and captured Ho Quu Ly and Ho Han Thuong. In 1418, a wealthy farmer, Le Loi, led the Lam Son uprising against the Ming from his base of Lam Son (Thanh Hoa province). Overcoming many early setbacks and with strategic advice from Nguyen Trai, Le Loi's movement finally gathered momentum, marched northward, and launched a siege at Dong Quan (now Hanoi), the capital of the Ming occupation. In 1428, Le Loi ascended to the throne and began the Hau Le Dynasty. A comprehensive set of laws, the Hong Duc code was introduced with some strong Confucian elements, yet also included some progressive rules, such as the rights of women. Art and architecture during the Le Dynasty also became more influenced by Chinese styles than during the Ly and Tran Dynasty. The Le Dynasty commissioned the drawing of national maps and had Ngo Si Lien continue the task of writing Dai Viet's history up to the time of Le Loi. King Le Thanh Tong opened hospitals and had officials distribute medicines to areas affected with epidemics.[NEWLINE][NEWLINE]Overpopulation and land shortages stimulated Vietnamese expansion south. In 1471, Le troops led by king Le Thanh Tong invaded Champa and captured its capital Vijaya. This event effectively ended Champa as a powerful kingdom, although some smaller surviving Cham states lasted for a few centuries more. The Le dynasty was overthrown by a general named Mac Dang Dung in 1527. He killed the Le emperor and proclaimed himself emperor, starting the Mac Dynasty. Afterwards, there was a long period of civil wars but also decades of prosperity.
+	  </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIETNAM_TEXT_5">
+      <Text>
+		  Vietnam's exposure to Westerners dated back to 166 AD with the arrival of merchants from the Roman Empire, to 1292 with the visit of Marco Polo, and the early 16th century with the arrival of Portuguese in 1516 and other European traders and missionaries. Various European efforts to establish trading posts in Vietnam failed, but missionaries were allowed to operate for some time until the mandarins began concluding that Christianity (which had succeeded in converting up to a tenth of the population by 1700) was a threat to the Confucian social order since it condemned ancestor worship as idolatry. Vietnamese attitudes to Europeans and Christianity hardened as they began to increasingly see it as a way of undermining society.[NEWLINE][NEWLINE]Between 1627 and 1775, two powerful families had partitioned the country: the Nguyen lords ruled the South and the Trinh lords ruled the North. The Trinh–Nguyen War gave European traders the opportunities to support each side with weapons and technology: the Portuguese assisted the Nguyen in the South while the Dutch helped the Trinh in the North. The Trinh and the Nguyen maintained a relative peace for the next hundred years, during which both sides made significant accomplishments. The Trinh created centralized government offices in charge of state budget and producing currency, unified the weight units into a decimal system, established printing shops to reduce the need to import printed materials from China, opened a military academy, and compiled history books. Meanwhile, the Nguyen lords continued the southward expansion by the conquest of the remaining Cham land. Viet settlers also arrived in the sparsely populated area known as "Water Chenla", which was the lower Mekong Delta portion of the former Khmer Empire. Between the mid-17th century to mid-18th century, as the former Khmer Empire was weakened by internal strife and Siamese invasions, the Nguyen Lords used various means, political marriage, diplomatic pressure and political and military favors to gain the area around present-day Saigon and the Mekong Delta. The Nguyen army at times also clashed with the Siamese army to establish influence over the former Khmer Empire.[NEWLINE][NEWLINE]After Nguyen Anh established the Nguyen Dynasty in 1802, he tolerated Catholicism and employed some Europeans in his court as advisors. His successors were more conservative Confucians and resisted Westernization. The next Nguyen emperors, Minh Mang, Thieu Tri, and Tu Duc brutally suppressed Catholicism and pursued a 'closed door' policy, perceiving the Westerners as a threat, following events such as the Le Van Khoi revolt when a French missionary, Joseph Marchand, encouraged local Catholics to revolt in an attempt to install a Catholic emperor. Catholics, both Vietnamese and foreign-born, were persecuted in retaliation. Trade with the West slowed during this period. There were frequent uprisings against the Nguyens, with hundreds of such events being recorded in the annals. These acts were soon being used as excuses for France to invade Vietnam. The early Nguyen Dynasty had engaged in many of the constructive activities of its predecessors, building roads, digging canals, issuing a legal code, holding examinations, sponsoring care facilities for the sick, compiling maps and history books, and exerting influence over Cambodia and Laos.[NEWLINE][NEWLINE]After few brutal wars, in 1886 France got nominal control over whole Vietnam as French protectorate, but resistance movement always remained strong in French Indochina. Marxism was also introduced into Vietnam with the emergence of three separate Communist parties; the Indochinese Communist Party, Annamese Communist Party and the Indochinese Communist Union, joined later by a Trotskyist movement led by Ta Thu Thau.[NEWLINE][NEWLINE]Japan invaded Indochina during World War II, keeping the Vichy French colonial administration in place as a puppet. In 1941 Nguyen Ai Quoc, now known as Ho Chi Minh, arrived in northern Vietnam to form the Viet Minh Front, which was supposed to be an umbrella group for all parties fighting for Vietnam's independence, but was dominated by the Communist Party. The Viet Minh had a modest armed force and during the war worked with the American Office of Strategic Services to collect intelligence on the Japanese. A famine broke out in 1944-45. In August 1945, Japan's defeat by World War II Allies created an opportunity for Vietnamese nationalists of all parties to seize power. Their initial success in staging uprisings and in seizing control of most of the country by September 1945 was partially undone, however, by the return of the French a few months later. Emperor Bao Dai abdicated in August 1945, ending the Nguyen Dynasty.
+	  </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIETNAM_TEXT_6">
+      <Text>
+		  Full-scale war broke out between the Viet Minh and France in late 1946 and the First Indochina War officially began. Realizing that colonialism was coming to an end worldwide, France fashioned a semi-independent State of Vietnam, within the French Union, with Bao Dai as Head of State. France was finally persuaded to relinquish its colonies in Indochina in 1954 when Vietnamese forces defeated the French at Dien Bien Phu. The 1954 Geneva Conference left Vietnam a divided nation, with Hồ Chí Minh's communist government ruling the North from Hanoi and Ngo Dinh Diem's regime, supported by the United States, ruling the South from Saigon (later Ho Chi Minh City).[NEWLINE][NEWLINE]As a result of the Vietnam (Second Indochina) War (1954–75), Viet Cong and regular People's Army of Vietnam (PAVN) forces from the North unified Vietnam under communist rule. In this conflict, the insurgents — with logistical support from the Soviet Union — ultimately defeated the Army of the Republic of Vietnam, which sought to maintain South Vietnamese independence with the support of the U.S. military, whose troop strength peaked at 540,000 during the communist-led Tet Offensive in 1968. The North did not abide by the terms of the 1973 Paris Agreement, which officially settled the war by calling for free elections in the South and peaceful reunification. Two years after the withdrawal of the last U.S. forces in 1973, Saigon, the capital of South Vietnam, fell to the communists, and the South Vietnamese army surrendered on 30 April 1975. In 1976, the government of united Vietnam renamed Saigon as Ho Chi Minh City in honor of its namesake, who died in September 1969. The war left Vietnam devastated, with the total death toll standing at between 800,000 and 3.1 million, and many thousands more crippled by weapons and substances such as napalm and Agent Orange.
+	  </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIETNAM_TEXT_7">
+      <Text>
+		  Compounding economic difficulties were new military challenges. In the late 1970s, two countries — Cambodia and China — posed threats to Vietnam. Clashes between Vietnamese and Cambodian communists at the common border began in 1975. To neutralize the threat, PAVN invaded Cambodia in 1978 and overran its capital of Phnom Penh, driving out the incumbent Khmer Rouge regime. In response, Chinese troops crossed Vietnam's northern border in 1979, but their foray was quickly pushed back by Vietnamese forces. Relations between the two countries had been deteriorating for some time.[NEWLINE][NEWLINE]The harsh postwar crackdown on remnants of capitalism in the South led to the collapse of the economy during the 1980s. With the economy in shambles, the government altered its course and adopted consensus policies that bridged the divergent views of pragmatists and communist traditionalists. Throughout the 1980s, Vietnam received nearly $3 billion a year in economic and military aid from the Soviet Union and conducted most of its trade with the USSR and other COMECON (Council for Mutual Economic Assistance) countries. In 1986, Nguyen Van Linh, who was elevated to VCP general secretary the following year, launched a campaign for political and economic renewal (Doi Moi).[NEWLINE][NEWLINE]In 2001 the Vietnamese Communist Party (VCP) approved a 10-year economic plan that enhanced the role of the private sector while reaffirming the primacy of the state. In 2003 the private sector accounted for more than one-quarter of all industrial output, and the private sector's contribution was expanding more rapidly than the public sector's (18.7 percent versus 12.4 percent growth from 2002 to 2003). Growth then rose to 6% to 7% in 2000-02 even against the background of global recession, making it the world's second-fastest growing economy. Vietnam had an average growth in GDP of 7.1% per year from 2000 to 2004. The GDP growth was 8.4% in 2005, the second largest growth in Asia, trailing only China's. Government figures of GDP growth in 2006, was 8.17%. According to Vietnam's Minister of Planning and Investment, the government targets a GDP growth of around 8.5% for 2007. Vietnam is building its future again.
+	  </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIETNAM_TITLE">
+      <Text>Vietnam</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_VIETNAM_SHORT_DESC">
+      <Text>Vietnam</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_VIETNAM_ADJECTIVE">
+      <Text>Vietnamese</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_DAWN_VIETNAM_TEXT">
+      <Text>Let all the peoples of Dai Viet bow unto their saviours, Trung Trac and Trung Nhi! Though your origins were comparatively humble, you were schooled in the arts of warfare and in the history of your people. When the Han invaders inflicted great cruelties upon the people of your lands and murdered Trac's beloved husband, you rose with the rage of the dragon and your countrymen rose with you, casting out the usurpers and establishing an independent nation. For the next three years, the Chinese broke upon your kingdom like waves upon a rock until at last you were defeated, though it took an army of a hundred thousand men to slay two women.[NEWLINE][NEWLINE]O mightiest of sisters, you have more enemies than just China now; you face a host of barbarians, eager to enslave the people of a proud nation. Will you rise once more and fight for a free Vietnam? Can you build a Civilisation that will stand the test of time?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIETNAM_0">
+      <Text>Hanoi</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIETNAM_1">
+      <Text>Saigon</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIETNAM_2">
+      <Text>Hai Phong</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIETNAM_3">
+      <Text>Can Tho</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIETNAM_4">
+      <Text>Da Nang</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIETNAM_5">
+      <Text>Nhang Hong</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIETNAM_6">
+      <Text>Hoa Lu</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIETNAM_7">
+      <Text>Hoi An</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIETNAM_8">
+      <Text>Bien Hoa</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIETNAM_9">
+      <Text>Hue</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIETNAM_10">
+      <Text>Phong Chau</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIETNAM_11">
+      <Text>Phu Xuan</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIETNAM_12">
+      <Text>Co Loa</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIETNAM_13">
+      <Text>Than Hoa</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIETNAM_14">
+      <Text>Long Bien</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIETNAM_15">
+      <Text>Phu Xuan He</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIETNAM_16">
+      <Text>Dong Hoi</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIETNAM_17">
+      <Text>Qui Nhon</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIETNAM_18">
+      <Text>Vung Tau</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIETNAM_19">
+      <Text>Rach Gia</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIETNAM_20">
+      <Text>Long Xuyen</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIETNAM_21">
+      <Text>Ha Long</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIETNAM_22">
+      <Text>Ca Mau</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIETNAM_23">
+      <Text>My Tho</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIETNAM_24">
+      <Text>Cam Pha</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIETNAM_25">
+      <Text>Nam Dinh</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIETNAM_26">
+      <Text>Bac Lieu</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIETNAM_27">
+      <Text>Hai Duong</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIETNAM_28">
+      <Text>Thai Binh</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIETNAM_29">
+      <Text>Soc Trang</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIETNAM_30">
+      <Text>Uong Bi</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIETNAM_31">
+      <Text>Tuy Hoa</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIETNAM_32">
+      <Text>Tan An</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIETNAM_33">
+      <Text>Bao Loc</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIETNAM_34">
+      <Text>Sa Dec</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIETNAM_35">
+      <Text>Cao Lahn</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIETNAM_36">
+      <Text>Vinh Long</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIETNAM_37">
+      <Text>Lao Cai</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_VIETNAM_0">
+      <Text>Quang</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_VIETNAM_1">
+      <Text>Xuan An</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_VIETNAM_2">
+      <Text>Phong</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_VIETNAM_3">
+      <Text>An Dung</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_VIETNAM_4">
+      <Text>Hieu</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_VIETNAM_5">
+      <Text>Trieu</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_VIETNAM_6">
+      <Text>Hien</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_VIETNAM_7">
+      <Text>Ngon</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_VIETNAM_8">
+      <Text>Tuan</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_VIETNAM_9">
+      <Text>Vien</Text>
+    </Row>
+  </Language_en_US>
+</GameData>
