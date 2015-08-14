@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<ArtDefine_StrategicView>
+		<Replace>
+			<StrategicViewType>ART_DEF_IMPROVEMENT_TIPIS</StrategicViewType>
+			<TileType>Improvement</TileType>
+			<Asset>sv_tipi_mod.dds</Asset>
+		</Replace>
+		<Replace>
+			<StrategicViewType>ART_DEF_RESOURCE_WILD_BISON</StrategicViewType>
+			<TileType>Resource</TileType>
+			<Asset>sv_buffalo_mod.dds</Asset>
+		</Replace>
+		<Replace>
+			<StrategicViewType>ART_DEF_UNIT_SIOUX_HORSEMAN_MOD</StrategicViewType>
+			<TileType>Unit</TileType>
+			<Asset>sv_sioux_mod.dds</Asset>
+		</Replace>
+	</ArtDefine_StrategicView>
+</GameData>

@@ -1,0 +1,418 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh-->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_UNIT_SIOUX_HORSEMAN_MOD">
+			<Text>Strong Heart</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SIOUX_HORSEMAN_MOD_HELP">
+			<Text>Veteran Mounted Unit which specializes in defending against Gunpowder Units. Only the Sioux may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SIOUX_HORSEMAN_MOD_STRATEGY">
+			<Text>The Sioux Strong Heart receives a significant combat bonus versus Gunpowder Units and is able to gain defensive bonuses, unlike the Knight it replaces. This allows the Unit to hold its own against the introduction of Gunpowder Units in the Renaissance Era at a significantly cheaper cost. However, keep in mind that the Strong Heart does not keep this combat bonus when it upgrades. Additionally, the first Strong Heart warrior that you train will also act as a Great General, providing a combat bonus to nearby land units. If this unit is killed, the bonus will transfer to another random Strong Heart.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SIOUX_HORSEMAN_MOD_TEXT">
+			<Text>Among the Lakota there existed several Warrior Societies, such as the Toka'la (Kit Fox) and the Cante'tinza (Strong Heart). The main function of these societies was for the training and development of fighting skills and cultivating the warrior ethos and moral character. The purpose of the Strong Hearts was to be physically, emotionally, and spiritually capable of taking care of any emergency that would affect the tribe. Members had to pledge to codes of self-control of one's actions and emotions, to be fearless in defense of the tribe, to care for the poor and needy, and to be always ready at a moment's notice. One of the more prominent pieces of society regalia for Strong Heart members was an eagle feather headdress with a pair of buffalo horns, one on either side.[NEWLINE][NEWLINE]It was not uncommon for warriors to belong to more than one society as he progressed in life, but he was only ever a member of one society at a time. From some of these, prominent men were chosen to serve in the Aki'cita, a form of guard unit responsible for the order of the annual buffalo hunt and maintaining stability in the camp. They directed the people on their journey and required them to move quietly so that the buffalo would not become alarmed. The Aki'cita also enforced the laws of the band and deposed of chiefs who violated these laws.</Text>
+		</Row>	
+		<!-- -->
+		<Row Tag="TXT_KEY_TRAIT_BUFFALO_HUNT_SHORT">
+			<Text>Great Buffalo Hunt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_BUFFALO_HUNT">
+			<Text>Starting with your second City, settling near Plains Tiles will spawn a [ICON_RES_BISON] Bison Resource. [ICON_RES_BISON] Bison in Sioux territory may no longer be improved but instead provide a large base tile yield and periodically roam throughout the map.</Text>
+		</Row>	
+		<!-- -->	
+		<Row Tag="TXT_KEY_LEADER_SIOUX_SITTING_BULL_MOD_FIRST_GREETING_1">
+			<Text>Each man is good in the sight of the Great Spirit. Let us put our minds together and see what life we can make for our children.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SIOUX_SITTING_BULL_MOD_FIRST_GREETING_2">
+			<Text>I am here by the will of the Great Spirit, and by his will I am Chief.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SIOUX_SITTING_BULL_MOD_DEFEATED_1">
+			<Text>This nation is like a spring freshet; it overruns its banks and destroys all who are in its path.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SIOUX_SITTING_BULL_MOD_DEFEATED_2">
+			<Text>If we must die, we die defending our rights.</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_SIOUX_SITTING_BULL_MOD_DESC">
+			<Text>Sitting Bull</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SIOUX_SITTING_BULL_MOD_LIVED">
+			<Text>AD c. 1831 - 1890</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SIOUX_SITTING_BULL_MOD_NAME">
+			<Text>Sitting Bull</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SIOUX_SITTING_BULL_MOD_SUBTITLE">
+			<Text>Leader of the Sioux</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SIOUX_SITTING_BULL_MOD_TITLES_1">
+			<Text>Chief of the Hunkpapa Lakota</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SIOUX_SITTING_BULL_MOD_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SIOUX_SITTING_BULL_MOD_TEXT_1">
+			<Text>Sitting Bull was a Hunkpapa Lakota holy man who led his people as a tribal chief during years of resistance to United States government policies. Sitting Bull's leadership motivated his people to a major victory at the Battle of the Little Bighorn in 1876. He was killed by Indian agency police on the Standing Rock Indian Reservation during an attempt to arrest him at a time when authorities feared that he would join the Ghost Dance movement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SIOUX_SITTING_BULL_MOD_HEADING_2">
+			<Text>Early Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SIOUX_SITTING_BULL_MOD_TEXT_2">
+			<Text>Sitting Bull was born Hoka Psice ("Jumping Badger") sometime in 1830-31 along the Yellowstone River, south of present-day Miles City, Montana. A member of the Hunkpapa division of the Teton Sioux, he joined his first war party at age 14 and soon gained a reputation for fearlessness in battle. Sitting Bull became a leader of the powerful Strong Heart warrior society and, later, was a participant in the Silent Eaters, a select group concerned with tribal welfare. Sitting Bull rose to the position of band chief in 1856 and helped extend the Sioux hunting grounds westward into what had been the territory of the Shoshone, Crow, Assiniboin, and other Indian tribes. Due to a leadership role in one such encounter between the Lakota and Crow, he was given one of his father's names, Thathánka Iyothake ("Sitting Bull").</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SIOUX_SITTING_BULL_MOD_HEADING_3">
+			<Text>The Dakota and Red Cloud's Wars</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SIOUX_SITTING_BULL_MOD_TEXT_3">
+			<Text>During the Dakota War of 1862, in which Sitting Bull's people were not involved, several bands of eastern Dakota people killed an estimated 300 to 800 settlers and soldiers in south-central Minnesota in response to poor treatment by the government. Despite being embroiled in the American Civil War, the United States Army retaliated. Sitting Bull's first skirmish with white soldiers occurred in June 1863 during the U.S. Army's retaliation against the Santee Sioux. For the next five years he was in frequent hostile contact with the army.[NEWLINE][NEWLINE]In 1864, Sitting Bull led a defense against Alfred Sully's expedition into Dakota Territory. He led numerous war parties against Fort Berthold, Fort Stevenson, and Fort Buford and their environs from 1865 through 1868. Although Red Cloud was a leader of the Oglala Lakota, his leadership and attacks against forts in the Powder River Country of Montana were supported by Sitting Bull's guerrilla attacks on emigrant parties and smaller forts throughout the upper Missouri River region.[NEWLINE][NEWLINE]By early 1868, the U.S. government desired a peaceful settlement to Red Cloud's War. It agreed to Red Cloud's demands that Forts Phil Kearny and C.F. Smith be abandoned. Chief Gall of the Hunkpapa signed a form of the Treaty of Fort Laramie on July 2, 1868 at Fort Rice (near Bismarck, North Dakota). Sitting Bull did not agree to the treaty. He continued his hit-and-run attacks on forts in the upper Missouri area throughout the late 1860s and early 1870s.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SIOUX_SITTING_BULL_MOD_HEADING_4">
+			<Text>Battle of the Little Bighorn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SIOUX_SITTING_BULL_MOD_TEXT_4">
+			<Text>During the period 1868-1876, Sitting Bull developed into the most important of Native American chiefs. Sitting Bull's refusal to adopt any dependence on the white man meant that at times he and his small band of warriors lived isolated on the Plains. When Native Americans were threatened by the United States, numerous members from various Sioux bands and other tribes came to Sitting Bull's camp. The Hunkpapa chief provided resources to sustain the new recruits. Over the course of the first half of 1876, Sitting Bull's camp continually expanded, as natives joined him for safety in numbers. His leadership had attracted the warriors and families of an extensive village, estimated at more than 10,000 people.[NEWLINE][NEWLINE]In 1874, Lt. Col. George Custer led a military expedition from Fort Abraham Lincoln near Bismarck, to explore the Black Hills for gold and to determine a suitable location for a military fort in the Hills. Custer's announcement of gold in the Black Hills triggered the Black Hills Gold Rush. Tensions increased between the Lakota and European Americans seeking to move into the Black Hills. The US government was increasingly pressured to open the Black Hills to mining and settlement. It was alarmed at reports of Sioux depredations (encouraged by Sitting Bull). In November 1875, the government ordered all Sioux bands outside the Great Sioux Reservation to move onto the reservation, knowing full well that not all would comply. As of February 1, 1876, the Interior Department certified as hostile those bands who continued to live off the reservation. This certification allowed the military to pursue Sitting Bull and other Lakota bands as hostiles.[NEWLINE][NEWLINE]Sitting Bull is said to have had a prophetic dream regarding the American expansion - an American military officer and his men, plummeting from the sky into a Sioux village - which was interpreted as a portent of the Americans' imminent doom. Not long after Sitting Bull's vision, Custer and his seventh cavalry launched an attack on a native village, only to be decimated by the assembled Sioux and Cheyenne fighters. Public shock and outrage at Custer's death and defeat, and the government's knowledge about the remaining Sioux, led them to assign thousands more soldiers to the area. Over the next year, the new American military forces pursued the Lakota, forcing many of the Native Americans to surrender. Sitting Bull refused to surrender and in May 1877 led his band across the border into the North-West Territories, Canada. He remained in exile for four years near Wood Mountain, refusing a pardon and the chance to return.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SIOUX_SITTING_BULL_MOD_HEADING_5">
+			<Text>Death</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SIOUX_SITTING_BULL_MOD_TEXT_5">
+			<Text>Hunger and desperation eventually forced Sitting Bull, and 186 of his family and followers to return to the United States and surrender on July 19, 1881. Sitting Bull and his band of 186 people were kept separate from the other Hunkpapa gathered at the Standing Rock Agency. Army officials were concerned that the famed chief would stir up trouble among the recently surrendered northern bands. Because of fears that Sitting Bull would use his influence to support the Ghost Dance movement, Indian Service agent James McLaughlin at Fort Yates ordered his arrest. During an ensuing struggle between Sitting Bull's followers and the agency police, Sitting Bull was shot in the side and head by Standing Rock policemen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SIOUX_SITTING_BULL_MOD_HEADING_6">
+			<Text>Verdict of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SIOUX_SITTING_BULL_MOD_TEXT_6">
+			<Text>As time passed, Sitting Bull became a symbol and archetype of Native American resistance movements. He is remembered among the Lakota not only as an inspirational leader and fearless warrior but as a man always affable and friendly toward others, whose deep religious faith gave him prophetic insight and lent special power to his prayers. In American minds he has become a celebrity and romanticized warrior, and continues to be frequently evoked as a quintessential figure in American history and culture.</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_SIOUX_SITTING_BULL_MOD_HEADING_7">
+			<Text>Factoid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SIOUX_SITTING_BULL_MOD_TEXT_7">
+			<Text>In 1885, Sitting Bull worked for four months with Buffalo Bill Cody's "Buffalo Bill's Wild West". During this time, audiences began to consider him a celebrity and a romanticized warrior. Sitting Bull also met Annie Oakley, and the two developed a mutual respect for one another. Sitting Bull was so impressed by Annie Oakley's skill in shooting with both hands that he named her "Little Sure Shot", a name that Oakley used throughout her career, and believed she was gifted by supernatural means.</Text>
+		</Row>		
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_SIOUX_MOD_TEXT">
+			<Text>Proud Sitting Bull, Chief of the Hunkpapa Lakota, the Seven Council Fires gather to listen and honour your wisdom. Seasoned hunters, the Sioux followed the buffalo from the shores of Lake Superior to the Black Hills of the western Dakotas. With the introduction of the horse they became fearless warriors, dominating the Great Plains and driving back the Kiowa and Pawnee. It was during this period, Mighty Chief, that you became an unmatched symbol of native resistance to U.S. westward expansion. Yet, your people were fighting a losing battle. Though your victory at Little Bighorn shall always be remembered, the United States had grown too big, too fast. In just a few short years, even the promised reservations were reduced to mere fractions of their original size.[NEWLINE][NEWLINE]Itancan, your enemies have sold your lands and slaughtered the buffalo. It was the will of the Great Spirit that you lead your people, and your task is not yet complete. Your courage and guidance are needed once again to lead the Sioux into a new era of greatness. Can you reclaim your sacred hunting grounds? Can you build a civilization that will stand the test of time?</Text>
+		</Row>		
+		<Row Tag="TXT_KEY_SIOUX_MOD_DESC">
+			<Text>Sioux Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SIOUX_MOD_SHORT_DESC">
+			<Text>The Sioux</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SIOUX_MOD_ADJECTIVE">
+			<Text>Sioux</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SIOUX_MOD">
+			<Text>The Sioux</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SIOUX_MOD_TITLE">
+			<Text>The Sioux</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SIOUX_MOD_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SIOUX_MOD_TEXT_1">
+			<Text>The Sioux are a Native American people in North America, traditionally belonging to the Great Sioux Nation or "Seven Fires Council". They can be subdivided into three major divisions based on dialect and culture: the Santee, the Yankton-Yanktonai, and the Lakota. Gradually migrating west from Minnesota, the Sioux became nomads of the plains, taking advantage of horses which were originally brought to the Americas by the Spanish. They first came into contact with Europeans during the 17th century, which would begin a series of conflicts as European settlers continued to push west onto Sioux lands. After three major wars and numerous other skirmishes, the battle of Wounded Knee in December 1890 marked the end of Sioux resistance as hundreds of Sioux men, women, and children were massacred by US troops. Today, the majority of the Sioux live at the 2,782 square mile Pine Ridge Reservation in southwestern South Dakota.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SIOUX_MOD_HEADING_2">
+			<Text>Climate and Terrain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SIOUX_MOD_TEXT_2">
+			<Text>The Great Plains is the broad expanse of flat land, much of it covered in prairie, steppe, and grassland, that lies west of the Mississippi River and east of the Rocky Mountains in the United States and Canada. Historically the Great Plains were the range of the bison, whose hunt formed an essential role in the survival and culture of the Plains Indians. The Western Lakota people viewed the area west of the Missouri River, conquered from the Cheyenne, as their territory and integral to their culture; in particular the Black Hills region. The Eastern Dakota resided in the tall-grass portion of the Great Plains, which also included extensive wetlands. The Great Plains have a wide variety of weather through the year, with very cold and harsh winters and very hot and humid summers. Wind speeds are often very high as grasslands are among the least protected biomes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SIOUX_MOD_HEADING_3">
+			<Text>Divisions</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SIOUX_MOD_TEXT_3">
+			<Text>Before the middle of the 17th century, the Santee Sioux lived in the area around Lake Superior, where they gathered wild rice and other foods, hunted deer and buffalo, and speared fish from canoes. Prolonged and continual warfare with the Ojibwa to their east drove the Santee into what is now southern and western Minnesota, at that time the territory of the agricultural Teton and Yankton. In turn, the Santee forced these two groups from Minnesota into what are now North and South Dakota. Horses were becoming common on the Plains during this period, and the Teton and Yankton abandoned agriculture in favour of an economy centered on the nomadic hunting of bison.[NEWLINE][NEWLINE]As each of the Council Fires adapted to different Plains environments, their lifestyles changed and diverged from one another. Yet they maintained their political, economic, and social ties through intermarriage, trade, religious ceremonies, communal hunting, and military alliances. The Yanktons and Yanktonais, became middlemen in a far-flung trade system between the Lakotas, who had pushed westward as far as Wyoming and eastern Montana, and the eastern Santees, who were closely involved in the French fur trade in Minnesota. While the Lakotas became buffalo-hunting, nomadic horsemen, and the principal grain grown by the Santees shifted from wild rice to corn, some Yanktons and Yanktonais adopted many of the traits of the semi-sedentary Plains villagers, such as the Mandans and Arikaras, including the building of earth lodges.[NEWLINE][NEWLINE]With the horse for transportation and vast herds of bison, the Lakotas prospered and their numbers grew until, by the nineteenth century, they outnumbered all other bands of the Great Sioux Nation combined. By the mid nineteenth century, the Lakotas and their allies presented a formidable military and political barrier to European American expansion into the Central and Northern Plains.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SIOUX_MOD_HEADING_4">
+			<Text>Daily Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SIOUX_MOD_TEXT_4">
+			<Text>Sioux men acquired status by performing brave deeds in warfare; horses and scalps obtained in a raid were evidence of valor. Sioux women were skilled at porcupine-quill and bead embroidery, favoring geometric designs. They also produced prodigious numbers of bison hides. Community policing was performed by men's military societies, the most significant duty of which was to oversee the buffalo hunt. Women's societies generally focused on fertility, healing, and the overall well-being of the group. Other societies focused on ritual dance and shamanism.[NEWLINE][NEWLINE]Religion was an integral part of all aspects of Sioux life, as it was for all Native American peoples. The Sioux recognized four powers as presiding over the universe, and each power in turn was divided into hierarchies of four. The buffalo had a prominent place in all Sioux rituals. Among the Lakota and Santee the bear was also a symbolically important animal; bear power obtained in a vision was regarded as curative, and some groups enacted a ceremonial bear hunt to protect warriors before their departure on a raid. Warfare and supernaturalism were closely connected, to the extent that designs suggested in mystical visions were painted on war shields to protect the bearers from their enemies. The annual Sun Dance was the most important religious event.[NEWLINE][NEWLINE]Although military historians tend to reserve the concept of "total war" for conflicts between modern industrial nations, the term nevertheless most closely approaches the state of affairs between the Pawnees and the Sioux and Cheyennes. Both sides directed their actions not solely against warrior-combatants but against the people as a whole. Noncombatants were considered legitimate targets.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SIOUX_MOD_HEADING_5">
+			<Text>Horse Culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SIOUX_MOD_TEXT_5">
+			<Text>The horse was not native to the Americas, but nonetheless dramatically changed Sioux society. After the introduction of the horse in the early 18th century, the Sioux dominated larger areas of land; from present day Central Canada to the Platte River, from Minnesota to the Yellowstone River, including the Powder River country. Among the Sioux the horse was more than a mere animal it was viewed as "medicine" with supernatural potency. Owning a horse gave a man personal medicine, in hunting and in war. Over time the horse became their symbol of wealth and a medium of exchange. The man with the fastest horse could kill more buffalo and so assumed a position different from the less fortunate. The horse became the path to economic stability and social position. Large herds of horses were not easily acquired. Horses were not successfully bred, though attempts were made among the Sioux. The chief method by which stock was replenished was capturing wild horses or stealing them from other tribes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SIOUX_MOD_HEADING_6">
+			<Text>European Contact</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SIOUX_MOD_TEXT_6">
+			<Text>The first recorded encounter between the Sioux and Europeans occurred between the Eastern Dakota and the French in what is now Wisconsin during the winter of 1659-60. Despite minor skirmishes, the Sioux entered into an alliance with French merchants who were trying to gain advantage in the struggle for the North American fur trade against the English and their recently established Hudson's Bay Company. Trade with the French continued until after the French gave up North America in 1763.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SIOUX_MOD_HEADING_7">
+			<Text>Dakota War</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SIOUX_MOD_TEXT_7">
+			<Text>One of the earliest major conflicts between the Sioux and the US was the Dakota War of 1862; an armed conflict between the United States and several bands of the eastern Dakota. It began on August 17, 1862, along the Minnesota River in southwest Minnesota. It ended with a mass execution of 38 Dakota men on December 26, 1862, in Mankato, Minnesota.[NEWLINE][NEWLINE]Throughout the late 1850s, treaty violations by the United States and late or unfair annuity payments by Indian agents caused increasing hunger and hardship among the Dakota. Traders with the Dakota previously had demanded that the government give the annuity payments directly to them (introducing the possibility of unfair dealing between the agents and the traders to the exclusion of the Dakota).[NEWLINE][NEWLINE]On August 17, 1862, one young Dakota with a hunting party of three others killed five settlers while on a hunting expedition. That night a council of Dakota decided to attack settlements throughout the Minnesota River valley to try to drive whites out of the area. There has never been an official report on the number of settlers killed, although in Abraham Lincoln's second annual address, he noted that not less than 800 men, women, and children had died.[NEWLINE][NEWLINE]Over the next several months, continued battles pitting the Dakota against settlers and later, the United States Army, ended with the surrender of most of the Dakota bands. By late December 1862, soldiers had taken captive more than a thousand Dakota, who were interned in jails in Minnesota. After trials and sentencing, 38 Dakota were hanged on December 26, 1862, in the largest one-day execution in American history. In April 1863, the rest of the Dakota were expelled from Minnesota to Nebraska and South Dakota. The United States Congress abolished their reservations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SIOUX_MOD_HEADING_8">
+			<Text>The Great Sioux Reservation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SIOUX_MOD_TEXT_8">
+			<Text>Red Cloud's War was an armed conflict between the Lakota, Northern Cheyenne, and Northern Arapaho on one side and the United States in Wyoming and Montana territories from 1866 to 1868. The war was fought over control of the Powder River Country in north-central Wyoming. In 1863, European Americans had blazed the Bozeman Trail through the heart of the traditional territory of the Cheyenne, Arapaho, and Lakota. It was the shortest and easiest route from Fort Laramie and the Oregon Trail to the Montana gold fields. From 1864 to 1866, the trail was traversed by about 3,500 miners, emigrant settlers and others. The emigrants competed with the Indians for the diminishing resources near the trail.[NEWLINE][NEWLINE]The United States named the war after Red Cloud, a prominent Oglala Lakota chief who led his followers in opposition to the presence of the U.S. military in the area. He was allied with the Cheyenne and Arapaho. With peace achieved under the Treaty of Fort Laramie in 1868, the Indians were victorious. They gained legal control of the Powder River country, although their victory would only endure for 8 years until the Great Sioux War of 1876. Red Cloud's War consisted mostly of constant small-scale Indian raids and attacks on the soldiers and civilians at the three forts in the Powder River country, wearing down those garrisons. The largest action of the war, the Fetterman Fight (with 81 men killed on the U.S. side), was the worst military defeat suffered by the U.S. on the Great Plains until the Battle of the Little Bighorn ten years later.[NEWLINE][NEWLINE]The result was the Treaty of Fort Laramie; an agreement between the United States and the Oglala, Miniconjou, and Brulé bands of Lakota people, Yanktonai Dakota, and Arapaho Nation. This treaty set aside a portion of the Lakota territory as the Great Sioux Reservation. This comprised the western one-half of South Dakota, including the Black Hills region for their exclusive use. It also provided for a large "unceded territory" in Wyoming and Montana, the Powder River Country, as Cheyenne and Lakota hunting grounds. On both the reservation and the unceded territory, white men were forbidden to trespass, except for officials of the U.S. government.[NEWLINE][NEWLINE]The growing number of miners and settlers encroaching in the Dakota Territory, however, rapidly nullified the protections. The US government could not keep settlers out. By 1872, territorial officials were considering harvesting the rich timber resources of the Black Hills, to be floated down the Cheyenne River to the Missouri, where new plains settlements needed lumber. The geographic uplift area suggested the potential for mineral resources.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SIOUX_MOD_HEADING_9">
+			<Text>The Black Hills</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SIOUX_MOD_TEXT_9">
+			<Text>The Cheyenne had migrated west to the Black Hills and Powder River Country before the Lakota and introduced them to horse culture about 1730. By the late 18th century, the growing Lakota tribe had begun expanding its territory west of the Missouri River. They pushed out the Kiowa and formed alliances with the Cheyenne and Arapaho to gain control of the rich buffalo hunting grounds of the northern Great Plains. The Black Hills, located in present-day western South Dakota, became an important source to the Lakota for lodge poles, plant resources and small game. They were, and continue to be, considered sacred to the Lakota culture.[NEWLINE][NEWLINE]In 1874, the government dispatched the Custer Expedition to examine the Black Hills. The Lakota were alarmed at his expedition. Before Custer's column had returned to Fort Abraham Lincoln, news of their discovery of gold was telegraphed nationally. Prospectors, motivated by the economic panic of 1873, began to trickle into the Black Hills in violation of the Fort Laramie Treaty. This trickle turned into a flood as thousands of miners invaded the Hills before the gold rush was over. Initially, the United States Army struggled to keep miners out of the region. Such evictions, however, increased political pressure on the Grant Administration to secure the Black Hills from the Lakota.[NEWLINE][NEWLINE]That fall, a US commission was sent to each of the Indian agencies to hold councils with the Lakota. They hoped to gain the people's approval and thereby bring pressure on the Lakota leaders to sign a new treaty. The government's attempt to secure the Black Hills failed. While the Black Hills were at the center of the growing crisis, Lakota resentment was growing over expanding US interests in other portions of Lakota territory. For instance, the government proposed that the route of the Northern Pacific Railroad would cross through the last of the great buffalo hunting grounds.[NEWLINE][NEWLINE]Concerned about launching a war against the Lakota without provocation, the government instructed Indian agents in the region to notify all Lakota and Sioux to return to the reservation by January 31, 1876, or face potential military action. During the period 1868-1876, Sitting Bull developed into the most important of Native American chiefs. Sitting Bull's refusal to adopt any dependence on the white man meant that at times he and his small band of warriors lived isolated on the Plains. When Native Americans were threatened by the United States, numerous members from various Sioux bands and other tribes came to Sitting Bull's camp. The Hunkpapa chief provided resources to sustain the new recruits. Over the course of the first half of 1876, Sitting Bull's camp continually expanded, as natives joined him for safety in numbers. His leadership had attracted the warriors and families of an extensive village, estimated at more than 10,000 people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SIOUX_MOD_HEADING_10">
+			<Text>Little Bighorn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SIOUX_MOD_TEXT_10">
+			<Text>The number of warriors participating in the Battle of the Little Bighorn is estimated at between 900 and 2,000. The Indians had advantages in mobility and knowledge of the country, but all Indians were part-time warriors. In spring, they were partially immobilized by the weakness of their horses which had survived the long winter on limited forage. Much of summer and fall they spent hunting buffalo to feed their families. About one half of the Indian warriors were armed with guns, ranging from repeating rifles to antiquated muskets, and one half with bows and arrows. To combat the Sioux the U.S. army had a string of forts ringing the Great Sioux Reservation and unceded territory. The largest force arrayed against the Indians at one time was in summer 1876 and consisted of 2,500 soldiers deployed in the unceded territory and accompanied by hundreds of Indian scouts and civilians.[NEWLINE][NEWLINE]In 1874, Lt. Col. George Custer led a military expedition from Fort Abraham Lincoln near Bismarck, to explore the Black Hills for gold and to determine a suitable location for a military fort in the Hills. Custer's announcement of gold in the Black Hills triggered the Black Hills Gold Rush. Tensions increased between the Lakota and European Americans seeking to move into the Black Hills. The US government was increasingly pressured to open the Black Hills to mining and settlement. It was alarmed at reports of Sioux depredations (encouraged by Sitting Bull). In November 1875, the government ordered all Sioux bands outside the Great Sioux Reservation to move onto the reservation, knowing full well that not all would comply. As of February 1, 1876, the Interior Department certified as hostile those bands who continued to live off the reservation. This certification allowed the military to pursue Sitting Bull and other Lakota bands as hostiles.[NEWLINE][NEWLINE]Sitting Bull is said to have had a prophetic dream regarding the American expansion - an American military officer and his men, plummeting from the sky into a Sioux village - which was interpreted as a portent of the Americans' imminent doom. Not long after Sitting Bull's vision, Custer and his seventh cavalry launched an attack on a native village, only to be decimated by the assembled Sioux and Cheyenne fighters. Public shock and outrage at Custer's death and defeat, and the government's knowledge about the remaining Sioux, led them to assign thousands more soldiers to the area. Over the next year, the new American military forces pursued the Lakota, forcing many of the Native Americans to surrender. Sitting Bull refused to surrender and in May 1877 led his band across the border into the North-West Territories, Canada. He remained in exile for four years near Wood Mountain, refusing a pardon and the chance to return.[NEWLINE][NEWLINE]In the wake of Custer's defeat at the Little Bighorn, the Army altered its tactics. They increased troop levels at the Indian agencies. That fall, they attached most of the troops to the Army for operations. They seized horses and weapons belonging to friendly bands at the agencies, for fear they would be given to the resisting northern bands. In October 1876, Army troops surrounded the villages of Red Cloud and Red Leaf. They arrested and briefly confined the leaders, holding them responsible for failing to turn in individuals arriving in camp from hostile bands. The US sent another commission to the agencies. Congress passed a law extinguishing all Lakota rights outside the Great Sioux Reservation. The Lakota never legally ceded the Black Hills to the United States.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SIOUX_MOD_HEADING_11">
+			<Text>Wounded Knee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SIOUX_MOD_TEXT_11">
+			<Text>The Wounded Knee Massacre occurred on December 29, 1890, near Wounded Knee Creek on the Lakota Pine Ridge Indian Reservation in the U.S. state of South Dakota. On the day before, a detachment of the U.S. 7th Cavalry Regiment commanded by Major Samuel M. Whitside intercepted Spotted Elk's band of Miniconjou Lakota and 38 Hunkpapa Lakota near Porcupine Butte and escorted them five miles westward to Wounded Knee Creek, where they made camp. The remainder of the 7th Cavalry Regiment arrived, led by Colonel James W. Forsyth and surrounded the encampment supported by four Hotchkiss guns.[NEWLINE][NEWLINE]On the morning of December 29, the troops went into the camp to disarm the Lakota. One version of events claims that during the process of disarming the Lakota, a deaf tribesman named Black Coyote was reluctant to give up his rifle, claiming he had paid a lot for it. A scuffle over Black Coyote's rifle escalated and a shot was fired which resulted in the 7th Cavalry's opening fire indiscriminately from all sides, killing men, women, and children, as well as some of their own fellow soldiers. The Lakota warriors who still had weapons began shooting back at the attacking soldiers, who quickly suppressed the Lakota fire. The surviving Lakota fled, but U.S. cavalrymen pursued and killed many who were unarmed.[NEWLINE][NEWLINE]By the time it was over, at least 150 men, women, and children of the Lakota had been killed and 51 were wounded (4 men, 47 women and children, some of whom died later); some estimates placed the number of dead at 300. Twenty-five soldiers also died, and 39 were wounded (6 of the wounded would later die). Unfortunately,  the American public's reaction to the battle at the time was generally favorable. Many non-Lakota living near the reservations interpreted the battle as the defeat of a murderous cult; others confused Ghost Dancers with Native Americans in general. The battle of Wounded Knee in December 1890 marks the end of major Sioux resistance into modern times.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SIOUX_MOD_HEADING_12">
+			<Text>Today</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SIOUX_MOD_TEXT_12">
+			<Text>Today, the majority of the Sioux live at the 2,782 square mile Pine Ridge Reservation in southwestern South Dakota. The atrocities committed against the Sioux, particularly the Wounded Knee massacre, are looked upon much less favorably by the general public than they were at the time. Activism continues by both Sioux and non-native Americans.[NEWLINE][NEWLINE]Beginning in the late 1960s, young Native Americans began to agitate for improved conditions, respect for their civil rights, and better programs in education and economic development. Dramatic protests were conceived, such as the occupation of Alcatraz Island in California. Another incident at Wounded Knee began February 27, 1973 when the town of Wounded Knee, South Dakota was seized by followers of the American Indian Movement. The occupiers controlled the town for 71 days while various state and federal law enforcement agencies such as the Federal Bureau of Investigation and the United States Marshals Service laid siege.[NEWLINE][NEWLINE]Considering the Black Hills sacred and illegally taken, the Lakota pursued a claim against the US government for the return of the land. In the 1980 United States v. Sioux Nation of Indians the United States Supreme Court upheld their position in that the land had been taken illegally, and the US government offered financial compensation. The Lakota Sioux, however, refused to accept payment and instead demanded the return of their territory from the United States.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SIOUX_MOD_STATBOX">
+			<Text>[NEWLINE]        Leader: Sitting Bull[NEWLINE]        Unique Unit: Strong Heart Warrior[NEWLINE]        Unique Improvement: Tipi[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SIOUX_MOD_FACTOID_HEADING">
+			<Text>Sioux Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SIOUX_MOD_FACTOID_TEXT">
+			<Text>The name "Sioux" was originally derived through French from the Odawa exonym "naadowesiwag". Although popular etymology translates Sioux as "little snakes", it is probably ultimately derived from a form of "atowe", meaning simply "to speak a foreign language".</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SIOUX_MOD_LITTLE_BIGHORN">
+			<Text>Hunkpapa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SIOUX_MOD_WOOD_MOUNTAIN">
+			<Text>Mdewakantonwan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SIOUX_MOD_WOUNDED_KNEE">
+			<Text>Yankton</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_SIOUX_MOD_CEDAR_CREEK">
+			<Text>Oglala</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_CITY_NAME_SIOUX_MOD_SLIM_BUTTES">
+			<Text>Sisseton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SIOUX_MOD_THREE_FORKS">
+			<Text>Wahpekute</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SIOUX_MOD_STONY_LAKE">
+			<Text>Sihasapa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SIOUX_MOD_DEAD_BUFFALO">
+			<Text>Wahpetonwan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SIOUX_MOD_KILLDEER">
+			<Text>Itazipcho</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SIOUX_MOD_BEAR_PAW">
+			<Text>Sichangu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SIOUX_MOD_BIG_MOUND">
+			<Text>Yanktonai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SIOUX_MOD_WOOD_LAKE">
+			<Text>Oohenupa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SIOUX_MOD_POINT_OF_ROCKS">
+			<Text>Hohe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SIOUX_MOD_RAGING_BROOK">
+			<Text>Kiyaksa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SIOUX_MOD_RUNNING_BEAR">
+			<Text>Mawahota</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SIOUX_MOD_SILVER_MOON">
+			<Text>Oyuhpe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SIOUX_MOD_WILDCAT_VALLEY">
+			<Text>Unkpatina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SIOUX_MOD_GREAT_RIVER">
+			<Text>Wazhazha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SIOUX_MOD_SEVEN_BROTHERS">
+			<Text>Wakpokinyan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SIOUX_MOD_SNAKE_CANYON">
+			<Text>Payabaya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SIOUX_MOD_FIRST_WIND">
+			<Text>Glaglahecha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SIOUX_MOD_YELLOW_TREE">
+			<Text>Shikshichela</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SIOUX_MOD_CHIEFS_CRAIG">
+			<Text>Wamnugaoin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SIOUX_MOD_MORNING_ROCK">
+			<Text>Tiyopaoshanunpa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SIOUX_MOD_TATANKACHESLI">
+			<Text>Tatankachesli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SIOUX_MOD_WANHINWEGA">
+			<Text>Wanhinwega</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SIOUX_MOD_SHINALUTAOIN">
+			<Text>Shinalutaoin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SIOUX_MOD_ITESICA">
+			<Text>Itesica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SIOUX_MOD_SHUNKAYUETSHNI">
+			<Text>Shunkayuteshni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SIOUX_MOD_MAZPEGNAKA">
+			<Text>Mazpegnaka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SIOUX_MOD_TAPISLECA">
+			<Text>Tapisleca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SIOUX_MOD_BAKIHON">
+			<Text>Bakihon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SIOUX_MOD_SANONA">
+			<Text>Sanona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SIOUX_MOD_0">
+			<Text>Wisapa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SIOUX_MOD_1">
+			<Text>Sota</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SIOUX_MOD_2">
+			<Text>Ohanzee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SIOUX_MOD_3">
+			<Text>Kangee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SIOUX_MOD_4">
+			<Text>Ishtasapa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SIOUX_MOD_5">
+			<Text>Macawi</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SIOUX_MOD_6">
+			<Text>Weayaya</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SIOUX_MOD_7">
+			<Text>Tashina</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SIOUX_MOD_8">
+			<Text>Takchawee</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SIOUX_MOD_9">
+			<Text>Istas</Text>
+			<Gender>feminine</Gender>		
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_TIPI_MOD">
+			<Text>Tipi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_SIOUX_TIPI_MOD_TEXT">
+			<Text>The Tipi is an early game improvement which boosts the [ICON_FOOD] Food and [ICON_CULTURE] Culture output of plains tiles. It may only be constructed on Flatland Plains tiles and may not be constructed adjacent to another Tipi or on Resource tiles.[NEWLINE][NEWLINE]The Tipi may also be used to relocate City [ICON_CITIZEN] Population. If a Tipi is built near a City near which [ICON_RES_BUFFALO] Wild Bison is also present, you have the option to move 1 [ICON_CITIZEN] Population from your largest City to the Tipi City. Additionally, if one of your Cities is captured, all non-pillaged Tipi in the City radius will be removed and 1 [ICON_CITIZEN] Population per removed Tipi will be redistributed among your remaining Cities (this number cannot exceed the remaining [ICON_CITIZEN] Population of the captured City or your total number of Cities).[NEWLINE][NEWLINE]The Tipi (or Teepee) is a portable, conical tent constructed of tanned hides and wooden poles traditionally associated with the migratory North American Plains Indians. The word itself comes from the Lakota for "they dwell." Often elaborately painted, tipis not only sheltered but served to identify the separate tribes. Tipis could be disassembled and packed away quickly when a tribe decided to move and could be reconstructed quickly upon settling in a new area. This portability was important to Plains Indians with their nomadic lifestyle.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_SIOUX_TIPI_MOD_HELP">
+			<Text>The Tipi provides [ICON_FOOD] Food and [ICON_CULTURE] Culture on Flatland Plains tiles. It may be used to relocate City [ICON_CITIZEN] Population.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_TIPI_HELP_MOD">
+			<Text>The Tipi increases the [ICON_FOOD] Food and [ICON_CULTURE] Culture output of Plains tiles and may be used to relocate City [ICON_CITIZEN] Population.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_TIPI_REC_MOD">
+			<Text>The Tipi increases the [ICON_FOOD] Food and [ICON_CULTURE] Culture output of Plains tiles and may be used to relocate City [ICON_CITIZEN] Population.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_TIPI_MOD">
+			<Text>Construct a [LINK=IMPROVEMENT_TIPI]Tipi[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOMATEKH_SIOUX_TIPI_TITLE">
+			<Text>Buffalo Hunt</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_PROMOTION_BUFFALO_HERDER">
+			<Text>Buffalo Herder</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BUFFALO_HERDER_HELP">
+			<Text>[ICON_RES_BUFFALO] Wild Bison may not migrate into a tile in which this Unit is stationed. [ICON_RES_BUFFALO] Wild Bison will not migrate if this Unit is stationed on the resource.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SIOUX_VETERAN">
+			<Text>Bonus vs Gunpowder (25)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SIOUX_VETERAN_HELP">
+			<Text>25% Bonus vs Gunpowder.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SIOUX_VETERAN_LEADER">
+			<Text>Band Leader</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SIOUX_VETERAN_LEADER_HELP">
+			<Text>Improves combat effectiveness of nearby land units. Promotion transfers to another Strong Heart if this unit is killed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SIOUX_AKICHITA">
+			<Text>Akichita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SIOUX_AKICHITA_HELP">
+			<Text>+1 [ICON_HAPPINESS_1] Happiness in the nearest City if this Unit starts its turn on or adjacent to a Tipi.</Text>
+		</Row>
+		<!-- -->	
+		<Row Tag="TXT_KEY_RESOURCE_SIOUX_BISON_MOD">
+			<Text>Wild Bison</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_SIOUX_BISON_DUMMY_MOD">
+			<Text>Wild Bison</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_SIOUX_BISON_MOD_TEXT">
+			<Text>The North American bison, also commonly known as the American buffalo, which once covered the Great Plains in massive herds, was the primary source for the meat, sinew, hide, and bone necessary for survival by many native tribes. Hunted to near extinction by Americans in the late 1800s, in recent decades the bison has made a comeback due to federal and state wildlife programs.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_SIOUX_BISON_MOD_HELP">
+			<Text>Wild Bison may not be improved but instead provide a large base tile yield and periodically roam throughout Sioux territory. Every 12th turn (on Standard speed) the Wild Bison Resource will move to a random adjacent tile. It may move to any tile provided it is flatland, has no existing resource, and is not foreign territory. If the Wild Bison moves into neutral territory, it will claim that tile for the Sioux. However, if the Wild Bison ends up in foreign territory (due to a loss of land or City capture) the resource will be destroyed.[NEWLINE][NEWLINE]+1 [ICON_GOLD] Gold +1 [ICON_CULTURE] Culture after Chivalry is Researched.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_STANDARD_BISON_MOD_HELP">
+			<Text>[ICON_RES_BISON] Bison are converted to [ICON_RES_BUFFALO] Wild Bison in Sioux territory.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_BUILDING_SIOUX_TIPI_DUMMY_DESC">
+			<Text>Tipi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SIOUX_BISON_DUMMY_DESC">
+			<Text>Buffalo Jump</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SIOUX_BISON_DUMMY_DESC_TWO">
+			<Text>Buffalo Pound</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SIOUX_DUMMY_STRATEGY">
+			<Text>This building cannot be constructed but rather facilitates the Sioux unique abilities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SIOUX_DUMMY_TEXT">
+			<Text>The Buffalo Pound was a hunting device constructed by native peoples of the North American plains for the purpose of entrapping and slaughtering American Bison, also known as buffalo. It consisted of a circular corral at the terminus of a flared chute through which buffalo were herded and thereby trapped. It's most basic form would be a naturally occurring jump, or cliff-edge, which Native Americans would drive the Bison over.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_GENERIC_SIOUX_MOD_INFLUENTIAL_ON_AI_1">
+			<Text>My people are leaving their homes to seek a life hunting buffalo. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_SIOUX_SITTING_BULL_MOD">
+			<Text>Ptesan-Wi</Text>
+			<Gender>feminine</Gender>
+		</Row>		
+		<!-- -->
+	</Language_en_US>	
+</GameData>

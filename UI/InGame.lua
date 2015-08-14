@@ -1421,6 +1421,9 @@ ContextPtr:LoadNewContext("Kongo_Scripts_Check_3")
 -- Nation - Champa --
 ContextPtr:LoadNewContext("Champa Check")
 
+-- Nation - Sioux --
+ContextPtr:LoadNewContext("Sioux Check")
+
 -- Nation - Harappa --
 ContextPtr:LoadNewContext("Harappa Lua Check")
 

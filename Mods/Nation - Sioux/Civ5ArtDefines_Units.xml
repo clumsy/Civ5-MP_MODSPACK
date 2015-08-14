@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<UnitArtInfos>
+	<UnitArtInfo>
+		<Type>ART_DEF_UNIT_SIOUX_HORSEMAN_MOD</Type>
+		<Formation>DefaultCavalry</Formation>
+		<DamageStates>1</DamageStates>
+		<UnitMemberArt>
+			<MemberType>ART_DEF_UNIT_MEMBER_SIOUX_HORSEMAN_MOD</MemberType>
+			<MemberCount>5</MemberCount>
+		</UnitMemberArt>
+	</UnitArtInfo>
+</UnitArtInfos>

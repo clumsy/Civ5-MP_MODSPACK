@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_SIOUX_TIPI_DUMMY</Type>
+			<BuildingClass>BUILDINGCLASS_SIOUX_TIPI_DUMMY</BuildingClass>
+			<!-- -->
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!-- -->
+			<Description>TXT_KEY_BUILDING_SIOUX_TIPI_DUMMY_DESC</Description>
+			<Civilopedia>TXT_KEY_BUILDING_SIOUX_DUMMY_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_SIOUX_DUMMY_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_BARRACKS</ArtDefineTag>
+			<Happiness>1</Happiness>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<PortraitIndex>5</PortraitIndex>
+			<IconAtlas>SIOUX_ATLAS_MOD</IconAtlas>
+		</Row>
+		<Row>
+			<Type>BUILDING_SIOUX_BISON_DUMMY</Type>
+			<BuildingClass>BUILDINGCLASS_SIOUX_BISON_DUMMY</BuildingClass>
+			<!-- -->
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!-- -->
+			<Description>TXT_KEY_BUILDING_SIOUX_BISON_DUMMY_DESC</Description>
+			<Civilopedia>TXT_KEY_BUILDING_SIOUX_DUMMY_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_SIOUX_DUMMY_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_STABLE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<PortraitIndex>6</PortraitIndex>
+			<IconAtlas>SIOUX_ATLAS_MOD</IconAtlas>
+		</Row>
+		<Row>
+			<Type>BUILDING_SIOUX_BISON_DUMMY_TWO</Type>
+			<BuildingClass>BUILDINGCLASS_SIOUX_BISON_DUMMY</BuildingClass>
+			<!-- -->
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<!-- -->
+			<Description>TXT_KEY_BUILDING_SIOUX_BISON_DUMMY_DESC_TWO</Description>
+			<Civilopedia>TXT_KEY_BUILDING_SIOUX_DUMMY_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_SIOUX_DUMMY_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_STABLE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<PortraitIndex>6</PortraitIndex>
+			<IconAtlas>SIOUX_ATLAS_MOD</IconAtlas>
+		</Row>
+	</Buildings>
+	<Building_ResourceYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_SIOUX_BISON_DUMMY</BuildingType>
+			<ResourceType>RESOURCE_BISON</ResourceType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>		
+		<Row>
+			<BuildingType>BUILDING_SIOUX_BISON_DUMMY</BuildingType>
+			<ResourceType>RESOURCE_BISON_MOD</ResourceType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SIOUX_BISON_DUMMY_TWO</BuildingType>
+			<ResourceType>RESOURCE_BISON_MOD</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>		
+		<Row>
+			<BuildingType>BUILDING_SIOUX_BISON_DUMMY_TWO</BuildingType>
+			<ResourceType>RESOURCE_BISON_MOD</ResourceType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_ResourceYieldChanges>
+</GameData>

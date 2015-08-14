@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_BUFFALO_HUNT</Type>
+			<Description>TXT_KEY_TRAIT_BUFFALO_HUNT</Description>
+			<ShortDescription>TXT_KEY_TRAIT_BUFFALO_HUNT_SHORT</ShortDescription>	
+		</Row>
+	</Traits>
+</GameData>

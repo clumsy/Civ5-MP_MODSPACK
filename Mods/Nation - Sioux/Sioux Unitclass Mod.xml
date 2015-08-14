@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<UnitClasses>
+		<Row>
+			<Type>UNITCLASS_BUFFALO_DUMMY</Type>
+			<Description>TXT_KEY_BUILDING_SIOUX_BISON_DUMMY_DESC</Description>
+			<DefaultUnit>UNIT_BUFFALO_DUMMY</DefaultUnit>
+		</Row>
+	</UnitClasses>
+	<Civilization_UnitClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<UnitClassType>UNITCLASS_BUFFALO_DUMMY</UnitClassType>
+			<UnitType/>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MINOR</CivilizationType>
+			<UnitClassType>UNITCLASS_BUFFALO_DUMMY</UnitClassType>
+			<UnitType/>
+		</Row>
+	</Civilization_UnitClassOverrides>
+</GameData>

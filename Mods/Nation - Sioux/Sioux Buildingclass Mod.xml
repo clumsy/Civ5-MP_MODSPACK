@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_SIOUX_TIPI_DUMMY</Type>
+			<DefaultBuilding>BUILDING_SIOUX_TIPI_DUMMY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_SIOUX_TIPI_DUMMY_DESC</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_SIOUX_BISON_DUMMY</Type>
+			<DefaultBuilding>BUILDING_SIOUX_BISON_DUMMY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_SIOUX_BISON_DUMMY_DESC</Description>
+		</Row>
+	</BuildingClasses>
+	<Civilization_BuildingClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_SIOUX_TIPI_DUMMY</BuildingClassType>
+			<BuildingType/>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MINOR</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_SIOUX_TIPI_DUMMY</BuildingClassType>
+			<BuildingType/>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_SIOUX_BISON_DUMMY</BuildingClassType>
+			<BuildingType/>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MINOR</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_SIOUX_BISON_DUMMY</BuildingClassType>
+			<BuildingType/>
+		</Row>
+	</Civilization_BuildingClassOverrides>
+</GameData>

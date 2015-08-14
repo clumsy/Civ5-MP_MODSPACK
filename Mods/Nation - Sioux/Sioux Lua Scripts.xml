@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Context>
+	<Box ID="TomatekhSiouxUIBG"  Style="BGBlock_ClearTopBar" Hidden="1"/>
+	<Grid  ID="TomatekhSiouxUI" Size="500,360" Anchor="C,C" Offset="0,0" Padding="30,30" Style="Grid9DetailFive140" Hidden="1">
+
+		<!-- Upper Treatment -->
+		<Image Anchor="C,T" AnchorSide="I.O" Size="256,64" Offset="0,-14"  Texture="assets\UI\Art\Icons\Top512IconTrim.dds" >
+			<Image ID="CivIconBG" Size="64.64" Anchor="C,C" Offset="-1,-1" TextureOffset="77,0" Texture="CivIconBGSizes.dds" />
+			<Image ID="CivIconShadow" Size="48.48" Anchor="C,C" Offset="0,0" Texture="CivSymbolAtlas48.dds" Color="Black.128"/>
+			<Image ID="CivIcon" Size="48,48" Offset="-1,-1"  Anchor="C,C" Texture="TipiIconUI.dds" />
+		</Image>
+
+		<!-- Side treatments -->
+		<Box Style="MenuLeftSideTreatment"/>
+		<Box Style="MenuRightSideTreatment"/>
+
+		<Label  Anchor="C,T" Size="300,24" Offset="0,15" String="TXT_KEY_TOMATEKH_SIOUX_TIPI_TITLE" ID="Title" ColorSet="Beige_Black"  Font="TwCenMT22" />
+
+		<Stack Anchor="C,T" Offset="0,50" Padding="5" StackGrowth="Bottom" ID="MainStack">
+			<Label Anchor="C,C" Offset="0,20" ColorSet="Beige_Black" Font="TwCenMT20" FontStyle="Shadow" String="TXT_KEY_TOMATEKH_SIOUX_TIPI_SUMMARY" ID="Summary" WrapWidth="450" LeadingOffset="-8"/>
+
+			<Stack Anchor="C,T" Offset="0,30" Padding="12" StackGrowth="Right" ID="ButtonStack">
+				<GridButton Style="BaseButton"  ID="YesButton" Size="120,36" Anchor="C,T" Offset="0,0"  Hidden="0">
+					<Label Anchor="C,C" Offset="0,0" String="TXT_KEY_YES_BUTTON" ColorSet="Beige_Black" Font="TwCenMT22" FontStyle="Shadow" ID="Button1Text" />
+				</GridButton>
+
+				<GridButton  Style="BaseButton" ID="NoButton" Size="120,36" Anchor="C,T" Offset="0,0"  Hidden="0">
+					<Label Anchor="C,C" Offset="0,0" String="TXT_KEY_NO_BUTTON" ColorSet="Beige_Black" Font="TwCenMT22" FontStyle="Shadow" ID="Button2Text" />
+				</GridButton>
+			</Stack>
+		</Stack>
+	</Grid>
+</Context>

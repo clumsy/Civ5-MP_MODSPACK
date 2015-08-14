@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<Policies>
+		<Row>
+			<Type>POLICY_AKICHITA_POLICE_MOD</Type>
+			<Description>TXT_KEY_POLICY_AKICHITA_POLICE_MOD</Description>
+			<Civilopedia>TXT_KEY_POLICY_AKICHITA_POLICE_MOD_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_AKICHITA_POLICE_MOD_HELP</Help>
+			<GridX>1000</GridX>
+			<GridY>1000</GridY>
+			<PortraitIndex>47</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+		</Row>
+	</Policies>
+	<Policy_FreePromotions>
+		<Row>
+			<PolicyType>POLICY_AKICHITA_POLICE_MOD</PolicyType>
+			<PromotionType>PROMOTION_BUFFALO_HERDER</PromotionType>
+		</Row>
+	</Policy_FreePromotions>
+	<Policy_BuildingClassHappiness>
+		<Row>
+			<PolicyType>POLICY_AKICHITA_POLICE_MOD</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_CONSTABLE</BuildingClassType>
+			<Happiness>2</Happiness>
+		</Row>
+	</Policy_BuildingClassHappiness>
+	<Language_en_US>
+		<!--Dummy Policies-->
+		<Row Tag="TXT_KEY_POLICY_AKICHITA_POLICE_MOD">
+			<Text>Akichita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_AKICHITA_POLICE_MOD_TEXT">
+			<Text>Akichita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_AKICHITA_POLICE_MOD_HELP">
+			<Text>Mounted Units start with the Buffalo Herder promotion and Constabularies provide +1 [ICON_HAPPINESS_1] Happiness.</Text>
+		</Row>
+		<!--Akichita-->
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_SIOUX_AKICHITA">
+			<Text>Organize the Akichita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_SIOUX_AKICHITA_DESC">
+			<Text>Members of the band have been causing trouble during the Great Hunt. We should organize a police force to help protect our camps.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Sioux
+				[NEWLINE][ICON_BULLET]Must have at least 3 Cities
+				[NEWLINE][ICON_BULLET]Must have researched Chivalry
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+2 [ICON_HAPPINESS_1] Happiness from Constabularies
+				[NEWLINE][ICON_BULLET]Mounted Units gain the Buffalo Herder Promotion
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_SIOUX_AKICHITA_ENACTED_DESC">
+			<Text>Members of the band have been causing trouble during the Great Hunt. We should organize a police force to help protect our camps.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+2 [ICON_HAPPINESS_1] Happiness from Constabularies
+				[NEWLINE][ICON_BULLET]Mounted Units gain the Buffalo Herder Promotion
+			</Text>
+		</Row>		
+		<!--Ghost Dance-->
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_SIOUX_GHOST_DANCE">
+			<Text>Join the Ghost Dance</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_SIOUX_GHOST_DANCE_DESC">
+			<Text>Dreamers from the south have approached our camps foretelling the end of our enemies. Your people urge you to organize a round dance and join the movement.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Sioux
+				[NEWLINE][ICON_BULLET]Player must be at War
+				[NEWLINE][ICON_BULLET]May not be enacted in the Ancient Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Training a Civilian Unit will provide a minor [ICON_PEACE] Faith boost
+				[NEWLINE][ICON_BULLET]Captured Sioux Cities stay in [ICON_RESISTANCE] Resistance for twice as long
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_SIOUX_GHOST_DANCE_ENACTED_DESC">
+			<Text>Dreamers from the south have approached our camps foretelling the end of our enemies. Your people urge you to organize a round dance and join the movement.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Training a Civilian Unit will provide a minor [ICON_PEACE] Faith boost
+				[NEWLINE][ICON_BULLET]Captured Sioux Cities stay in [ICON_RESISTANCE] Resistance for twice as long
+			</Text>
+		</Row>
+		<!-- White Buffalo -->
+		<Row Tag="TXT_KEY_EVENT_SIOUX_WHITE_BUFFALO">
+			<Text>White Buffalo Calf</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SIOUX_WHITE_BUFFALOT_DESC">
+			<Text>Our scouts have spotted a white buffalo calf among the herd. Our elders believe it to be a sign from the Great Spirit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SIOUX_WHITE_BUFFALO_OUTCOME_1">
+			<Text>This is a sacred omen!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SIOUX_WHITE_BUFFALO_OUTCOME_1_DESC">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT][ICON_RES_BISON] Bison and [ICON_RES_BUFFALO] Wild Bison will also provide +1 [ICON_PEACE] Faith</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SIOUX_WHITE_BUFFALO_OUTCOME_1_NOTIFICATION">
+			<Text>A white buffalo calf has been spotted among the herd.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
