@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<ArtDefine_StrategicView>
+		<Replace>
+			<StrategicViewType>ART_DEF_UNIT_MC_SCOTTISH_GALLOWGLASS</StrategicViewType>
+			<TileType>Unit</TileType>
+			<Asset>sv_gallowglass.dds</Asset>
+		</Replace>
+		<InsertOrAbort>
+			<StrategicViewType>ART_DEF_IMPROVEMENT_MC_SCOTTISH_CLAN_CASTLE</StrategicViewType>
+			<TileType>Improvement</TileType>
+			<Asset>SV_clan_castle.dds</Asset>
+		</InsertOrAbort>
+	</ArtDefine_StrategicView>
+</GameData>

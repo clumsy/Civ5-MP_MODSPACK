@@ -1428,6 +1428,10 @@ ContextPtr:LoadNewContext("Harappa Lua Check")
 ContextPtr:LoadNewContext("Norte Chico Mod Check")
 ContextPtr:LoadNewContext("Caral Coastal Imports")
 
+-- Nation - Scotland --
+ContextPtr:LoadNewContext("JFD_ScotlandEverything")
+ContextPtr:LoadNewContext("JFD_ScotlandUIExperience")
+
 -- Nation - Mexico --
 ContextPtr:LoadNewContext("BonusOnPillaged")
 ContextPtr:LoadNewContext("BuildingYieldFromArtifact")

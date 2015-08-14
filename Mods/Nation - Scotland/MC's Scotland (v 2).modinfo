@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="a9202374-e64d-43f7-9fbd-ed6030fa12ac" version="2">
+  <Properties>
+    <Name>MC's Scotland</Name>
+    <Teaser>Adds [COLOR_POSITIVE_TEXT]Scotland[ENDCOLOR] as a playable civilisation.</Teaser>
+    <Description>An ancient kingdom in the north of the British isles, Scotland has been through many political and cultural changes over the years. Though it has been part of the United Kingdom for 300 years, it has retained its status as a cultural and industrial powerhouse. Throughout its history, Scotland has gone from Viking raids to Norman attacks, an English invasion and an alliance with the French, to a powerful part of an empire that once spanned a quarter of the world’s land. Today, far from the massive world player it once was, Scotland has an uneasy relationship with the rest of the UK, and as a result, there are a lot of separatist groups around. On September 18th 2014, Scotland went to the polls in an independence referendum, which narrowly failed and resulted in Scotland remaining part of the United Kingdom, at least for the near future.</Description>
+    <Authors>More Civilisations team</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD's Piety" />
+    <Mod id="d99bf7aa-51ac-4bef-bd88-d765b28e260e" minversion="0" maxversion="999" title="JFD's Prestige" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events &amp; Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="RED Modpack" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Traits" />
+    <Mod id="6676902b-b907-45f1-8db5-32dcb2135eee" minversion="0" maxversion="999" title="JFD's ExCE" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Unique Cultural Influence" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="43D0B862A0847E71D568C5AFD7714382" import="1">Art/Atlases/MC_ScotlandAlpha_128.dds</File>
+    <File md5="58787DFF68D7B9130C2D08490628AAC5" import="1">Art/Atlases/MC_ScotlandAlpha_16.dds</File>
+    <File md5="2C14F957E4A6E9B1AEC28AE44DEF35B7" import="1">Art/Atlases/MC_ScotlandAlpha_22.dds</File>
+    <File md5="59392B3B197BF6A104429CA291C78401" import="1">Art/Atlases/MC_ScotlandAlpha_24.dds</File>
+    <File md5="67E3FD0050DA61EACF4B0BBED0D7A965" import="1">Art/Atlases/MC_ScotlandAlpha_32.dds</File>
+    <File md5="5656EE69395DAEB4CA6B6452FB0C0613" import="1">Art/Atlases/MC_ScotlandAlpha_45.dds</File>
+    <File md5="BA3AD7E269A4536235FC53198745A268" import="1">Art/Atlases/MC_ScotlandAlpha_48.dds</File>
+    <File md5="56F0D05887275692508690129946D99D" import="1">Art/Atlases/MC_ScotlandAlpha_64.dds</File>
+    <File md5="FC89B4FED9366AAB73E86FCC63D885A8" import="1">Art/Atlases/MC_ScotlandAlpha_80.dds</File>
+    <File md5="E6FBFC592190657A0C807F3F7DD140C0" import="1">Art/Atlases/MC_Scotland_128.dds</File>
+    <File md5="EFB80A0A4CE8548C1F2E22BB5AC3069A" import="1">Art/Atlases/MC_Scotland_256.dds</File>
+    <File md5="CAF76AF2D72FD9630E2AF6A5CEC6251E" import="1">Art/Atlases/MC_Scotland_32.dds</File>
+    <File md5="63B2FDE68F5526A4C8D040E439725598" import="1">Art/Atlases/MC_Scotland_45.dds</File>
+    <File md5="A71D4F459CF1268930F27FA05D3661F0" import="1">Art/Atlases/MC_Scotland_64.dds</File>
+    <File md5="C7F230F815568CF9A1D00B510FF08592" import="1">Art/Atlases/MC_Scotland_80.dds</File>
+    <File md5="5F83FA957C8C4E7E3ADCAF0139DB6A50" import="1">Art/Models/Clan Castle/clancastle.fxsxml</File>
+    <File md5="6583FEB0E415BE307BE104659D700CCF" import="1">Art/Models/Clan Castle/clancastle.gr2</File>
+    <File md5="EB7BCBE661C00250E5701A4F3CC73D2A" import="1">Art/Models/Clan Castle/ClanCastle_DIFF.dds</File>
+    <File md5="415CA4E386B1AB8642A790CC8B7C73FA" import="1">Art/Models/Clan Castle/ClanCastle_DIFF_pl.dds</File>
+    <File md5="C9CD18F91FE5B568BCE37585212D318F" import="1">Art/Models/Clan Castle/ClanCastle_Ground.dds</File>
+    <File md5="4F3C17792667393F6F397B0D34BB009D" import="1">Art/Models/Clan Castle/ClanCastle_Ground_pl.dds</File>
+    <File md5="F9CD5D10A2ED84C22CE40C8B32C64ED3" import="1">Art/Models/Clan Castle/clancastle_hb.fxsxml</File>
+    <File md5="59C8863F5DDBF26C6D08B05751C92A13" import="1">Art/Models/Clan Castle/clancastle_hb.gr2</File>
+    <File md5="15B1BD4E350A00B122AE3E9B4094BE67" import="1">Art/Models/Clan Castle/clancastle_pl.fxsxml</File>
+    <File md5="78AB18C7297DC27F18A19351F700D41D" import="1">Art/Models/Clan Castle/clancastle_pl.gr2</File>
+    <File md5="260DF8DDF22255D6435E9BA58156721F" import="1">Art/Models/Clan Castle/sv_clancastle.dds</File>
+    <File md5="40684CE39656693E82746C1B0DF2E1FA" import="1">Art/Models/Gallowglass/claymor_bastard.dds</File>
+    <File md5="2CF4811FB3451DE8681180F34BCDD1B5" import="1">Art/Models/Gallowglass/claymor_bastard_gloss.dds</File>
+    <File md5="EB5F4D2EEBD8E47788AC5269D861902F" import="1">Art/Models/Gallowglass/Flag_MC_Gallowglass.dds</File>
+    <File md5="C4CA1E7B9FA892B6CA91258045E6F81D" import="1">Art/Models/Gallowglass/gallowglass.fxsxml</File>
+    <File md5="13E7D5A30582C82FC28D1E3F5CBADFB3" import="1">Art/Models/Gallowglass/gallowglass.gr2</File>
+    <File md5="FB26E30B8F69442832BF1BFAC80DB4C8" import="1">Art/Models/Gallowglass/GALLOW_BODY_diff.dds</File>
+    <File md5="FB883294450095195491B4DBDCFE5F0F" import="1">Art/Models/Gallowglass/GALLOW_BODY_sref.dds</File>
+    <File md5="B517DEBA45F9430D222CDFDCB8825279" import="1">Art/Models/Gallowglass/gallow_sword_diff.dds</File>
+    <File md5="8DB73274D2EC903D4157DB3D0AF83784" import="1">Art/Models/Gallowglass/gallow_sword_sref.dds</File>
+    <File md5="B46916BE83FD92388F007446F37911E7" import="1">Art/Models/Gallowglass/head_diff.dds</File>
+    <File md5="DAE1501FEA29828EF3DBD67B3B55FB15" import="1">Art/Models/Gallowglass/head_sref.dds</File>
+    <File md5="0067E786AC0E3B04A11E94289B2AA79A" import="1">Art/Models/Gallowglass/sv_Gallowglass.dds</File>
+    <File md5="C8FF94C273BD937900B50FA883478BA9" import="1">Art/Models/Gallowglass/u_spanish_tercio_piquero_diff.dds</File>
+    <File md5="86A0D34B5A2CB5AFD77074CFCD823D4E" import="1">Art/Models/Gallowglass/u_spanish_tercio_piquero_sref.dds</File>
+    <File md5="D44046603F2CE506E0A17E9E8C18C054" import="1">Art/Scenes/MC_Scotland_Leaderhead.dds</File>
+    <File md5="BC1EB4B64FE723A88EDD19D82A13DFEE" import="1">Art/Scenes/MC_Scotland_DoM.dds</File>
+    <File md5="5EF63C96DA7BCCD5A9B5163F9C4D1384" import="1">Art/Scenes/MC_Scotland_Map.dds</File>
+    <File md5="3CD0919A62F10941F495FEF1C93C564B" import="0">Decisions/MC_Scotland_Decisions.xml</File>
+    <File md5="2C90EC2AD16FFCE0CE6871A83D0ED6F0" import="1">Decisions/MC_Scotland_Decisions.lua</File>
+    <File md5="2707D7F1FF887F5313CD8A038D2A7101" import="0">Lua/JFD_ScotlandUIExperience.lua</File>
+    <File md5="483B508BF9E502CB2F729209837B9056" import="0">Lua/JFD_ScotlandEverything.lua</File>
+    <File md5="D63DC8BB6AA0F310DD55B264DB49C7E2" import="1">Lua/PlotIterators.lua</File>
+    <File md5="6B76BC35E3FFF9F3DE8384517683B026" import="1">Sounds/MCRobertBrusPeace.mp3</File>
+    <File md5="F1C0ACDEE32D0673A27FB520DEFB55A4" import="1">Sounds/MCRobertBrusWar.mp3</File>
+    <File md5="331B9775F6B60D5FACD72B70CEEA6546" import="1">Sounds/MCScotlandDoM.mp3</File>
+    <File md5="A83B8BE72860058FE950C7AF5D345F77" import="0">SQL/ScotlandModSupport.sql</File>
+    <File md5="7A9F1D49A804476DC0C2F824702286EB" import="0">SQL/ClanCastleDefine.sql</File>
+    <File md5="BEC6AB398DD9E885FEA8E8535C2C220A" import="0">SQL/GallowglassDefine.sql</File>
+    <File md5="18F770EA4F93532873D058011BFC834B" import="1">XML/Art/MC_Scotland_Leaderhead.xml</File>
+    <File md5="F41D49798B67864C98F769BA3AD78B29" import="0">XML/Buildings/MC_Scotland_BuildingClasses.xml</File>
+    <File md5="0C4DD9928C93F94E7F007C65589B2E7F" import="0">XML/Buildings/MC_Scotland_Buildings.xml</File>
+    <File md5="C42D553B8A9105525325F577ADE2FB61" import="0">XML/Civilizations/MC_Scotland_Civilizations.xml</File>
+    <File md5="43FDA5333DC1B1C172FE22EC1A623233" import="0">XML/Civilizations/MC_Scotland_Strategic.xml</File>
+    <File md5="DF9FFB98A329771F8F07C36F57D41476" import="0">XML/GameInfo/MC_Scotland_IconTextureAtlases.xml</File>
+    <File md5="B8C0124859A5A0A2AAFA5D587152370E" import="0">XML/GameInfo/MC_Scotland_Sounds.xml</File>
+    <File md5="099B5E4539B87FB0A1033507A91C475B" import="0">XML/GameInfo/MC_Scotland_Traits.xml</File>
+    <File md5="561AB30A3827BA21824269F2FB599157" import="0">XML/Leaders/MC_Scotland_Leader.xml</File>
+    <File md5="B2B6D1C93EE6DC12F77256805000A03E" import="0">XML/Terrain/MC_Scotland_Improvements.xml</File>
+    <File md5="E92EE3786A124CB58208F1C18A7F5F1D" import="0">XML/Text/MC_Scotland_Text.xml</File>
+    <File md5="6E5F4A30734AB70917B5B57E9E66A283" import="0">XML/Units/MC_Scotland_UnitPromotions.xml</File>
+    <File md5="40D3970654617DAD0BECFF722E0CF512" import="0">XML/Units/MC_Scotland_Units.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>SQL/ClanCastleDefine.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/GallowglassDefine.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Art/MC_Scotland_Leaderhead.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/MC_Scotland_BuildingClasses.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/MC_Scotland_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/MC_Scotland_Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/MC_Scotland_Strategic.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/MC_Scotland_IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/MC_Scotland_Sounds.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/MC_Scotland_Traits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/MC_Scotland_Leader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Terrain/MC_Scotland_Improvements.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/MC_Scotland_Text.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/MC_Scotland_UnitPromotions.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/MC_Scotland_Units.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/ScotlandModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Decisions/MC_Scotland_Decisions.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_ScotlandEverything.lua">
+      <Name>ScotlandEverything</Name>
+      <Description>Lua for most parts of Scotland</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_ScotlandUIExperience.lua">
+      <Name>ScotlandUIExperience</Name>
+      <Description>Unit experience from the UI</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

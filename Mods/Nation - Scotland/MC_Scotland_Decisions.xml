@@ -1,0 +1,80 @@
+<GameData>
+	<Policies>
+		<Row>
+			<Type>POLICY_DECISIONS_SCOTLANDARBROATH</Type>
+			<Description>TXT_KEY_POLICY_DECISIONS_SCOTLANDARBROATH</Description>
+			<Civilopedia>TXT_KEY_POLICY_FREERELIGION_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_FREE_RELIGION_HELP</Help>
+			<GridX>1000</GridX>
+			<GridY>1000</GridY>
+			<PortraitIndex>47</PortraitIndex>
+			<ExtraHappiness>3</ExtraHappiness>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+		</Row>
+	</Policies>
+	<Policy_CityYieldChanges>
+		<Row>
+			<PolicyType>POLICY_DECISIONS_SCOTLANDARBROATH</PolicyType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Policy_CityYieldChanges>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_DECISIONS_SCOTLANDARBROATH">
+			<Text>The Declaration of Arbroath</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SCOTLANDARBROATH_DESC">
+			<Text>
+				It’s time to formalise the power of the king. We should create a document outlining their powers, and the terms of our revived Scotland.
+				[NEWLINE]
+				[NEWLINE]Requirements/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Scotland
+				[NEWLINE][ICON_BULLET]Player must have researched Writing
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE][ICON_BULLET]May only be enacted after a war
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+3 [ICON_HAPPINESS_1] Happiness
+				[NEWLINE][ICON_BULLET]+1 [ICON_GOLD] Gold per city.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SCOTLANDARBROATH_ENACTED_DESC">
+			<Text>
+				It’s time to formalise the power of the king. We should create a document outlining their powers, and the terms of our revived Scotland.
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+3 [ICON_HAPPINESS_1] Happiness
+				[NEWLINE][ICON_BULLET]+1 [ICON_GOLD] Gold per city.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SCOTLANDCLANS">
+			<Text>Call the Clans to Arms</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SCOTLANDCLANS_DESC">
+			<Text>
+				Scotland’s military is weak! We should call upon the many clans out our Kingdom to take up arms in the name of defending the homeland!
+				[NEWLINE]
+				[NEWLINE]Requirements/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Scotland
+				[NEWLINE][ICON_BULLET]Player must have at least one Clan Castle
+				[NEWLINE][ICON_BULLET]Player must be at War
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive one melee infantry unit on each Clan Castle tile
+				[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: the [ICON_GOLD] Gold cost will increase with the number of Clan Castles you own[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SCOTLANDCLANS_ENACTED_DESC">
+			<Text>
+				Scotland’s military is weak! We should call upon the many clans out our Kingdom to take up arms in the name of defending the homeland!
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive one melee infantry unit on each Clan Castle tile
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

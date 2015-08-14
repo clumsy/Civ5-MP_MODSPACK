@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Pouakai-->
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_MC_SCOTTISH_CULTURE</Type>
+			<BuildingClass>BUILDINGCLASS_MC_SCOTTISH_CULTURE</BuildingClass>
+			<Description>TXT_KEY_BUILDING_MC_SCOTTISH_CULTURE</Description>
+			<Cost>-1</Cost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<FaithCost>-1</FaithCost>
+		</Row>
+		<Row>
+			<Type>BUILDING_MC_SCOTTISH_CLAN_CASTLE_EXPERIENCE</Type>
+			<BuildingClass>BUILDINGCLASS_SCOTTISH_CLAN_CASTLE_EXPERIENCE</BuildingClass>
+			<Description>TXT_KEY_BUILDING_SCOTTISH_CLAN_CASTLE_EXPERIENCE</Description>
+			<Cost>-1</Cost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<FaithCost>-1</FaithCost>
+		</Row>
+	</Buildings>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_MC_SCOTTISH_CULTURE</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<Building_DomainFreeExperiences>
+		<Row>
+			<BuildingType>BUILDING_MC_SCOTTISH_CLAN_CASTLE_EXPERIENCE</BuildingType>
+			<DomainType>DOMAIN_LAND</DomainType>
+			<Experience>5</Experience>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MC_SCOTTISH_CLAN_CASTLE_EXPERIENCE</BuildingType>
+			<DomainType>DOMAIN_SEA</DomainType>
+			<Experience>5</Experience>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MC_SCOTTISH_CLAN_CASTLE_EXPERIENCE</BuildingType>
+			<DomainType>DOMAIN_AIR</DomainType>
+			<Experience>5</Experience>
+		</Row>
+	</Building_DomainFreeExperiences>
+</GameData>

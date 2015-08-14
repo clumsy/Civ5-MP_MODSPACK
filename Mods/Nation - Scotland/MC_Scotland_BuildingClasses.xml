@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_MC_SCOTTISH_CULTURE</Type>
+			<DefaultBuilding>BUILDING_MC_SCOTTISH_CULTURE</DefaultBuilding>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_SCOTTISH_CLAN_CASTLE_EXPERIENCE</Type>
+			<DefaultBuilding>BUILDING_SCOTTISH_CLAN_CASTLE_EXPERIENCE</DefaultBuilding>
+		</Row>
+	</BuildingClasses>
+</GameData>

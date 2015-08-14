@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Pouakai-->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_LAST_OF_THE_FREE</Type>
+			<Description>TXT_KEY_TRAIT_LAST_OF_THE_FREE</Description>
+			<ShortDescription>TXT_KEY_TRAIT_LAST_OF_THE_FREE_SHORT</ShortDescription>
+		</Row>
+	</Traits>
+	<Trait_FreePromotionUnitCombats>
+		<Row>
+			<TraitType>TRAIT_LAST_OF_THE_FREE</TraitType>
+			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+			<PromotionType>PROMOTION_JFD_LAND_OF_THE_FREE_INFO</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_LAST_OF_THE_FREE</TraitType>
+			<UnitCombatType>UNITCOMBAT_GUN</UnitCombatType>
+			<PromotionType>PROMOTION_JFD_LAND_OF_THE_FREE_INFO</PromotionType>
+		</Row>
+	</Trait_FreePromotionUnitCombats>
+</GameData>
