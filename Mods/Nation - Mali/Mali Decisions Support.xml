@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<DecisionsAddin_Support>
+	</DecisionsAddin_Support>
+	<Language_en_US>
+		<!--Dogon-->
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_MALI_DOGON_ARCHITECTURE">
+			<Text>Develop Dogon Architecture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_MALI_DOGON_ARCHITECTURE_DESC">
+			<Text>One of your subjects has returned from his pilgrimage with architects from the east. We should commission monuments incorporating both local and foreign styles.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Mali
+				[NEWLINE][ICON_BULLET]Must have at least 2 Cities
+				[NEWLINE][ICON_BULLET]Must own a Great Prophet who has completed his Hajj
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_CULTURE] Culture per turn from Cities
+				[NEWLINE][ICON_BULLET]A Stone Works is constructed in your [ICON_CAPITAL] Capital or first available City
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_MALI_DOGON_ARCHITECTURE_ENACTED_DESC">
+			<Text>One of your subjects has returned from his pilgrimage with architects from the east. We should commission monuments incorporating both local and foreign styles.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_CULTURE] Culture per City
+				[NEWLINE][ICON_BULLET]A Stone Works is constructed in your [ICON_CAPITAL] Capital or first available City
+			</Text>
+		</Row>		
+		<!--Tax-->
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_MALI_TRADE_TAX">
+			<Text>Tax Trans-Saharan Trade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_MALI_TRADE_TAX_DESC">
+			<Text>Our empire stands at the center of Trans-Saharan trade. We should tax foreign caravans to help regulate goods and increase our revenue.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Mali
+				[NEWLINE][ICON_BULLET]At least 2 Civilizations must have an active Trade Route to Mali
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Construct Treasuries 20% faster
+				[NEWLINE][ICON_BULLET]Earn [ICON_GOLD] Gold every time a Caravan not owned by Mali ends its turn in your territory
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_MALI_TRADE_TAX_ENACTED_DESC">
+			<Text>Our empire stands at the center of Trans-Saharan trade. We should tax foreign caravans to help regulate goods and increase our revenue.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Construct Treasuries 20% faster
+				[NEWLINE][ICON_BULLET]Earn [ICON_GOLD] Gold every time a Caravan not owned by Mali ends its turn in your territory
+			</Text>
+		</Row>
+		<!--Dummy Policies-->
+		<Row Tag="TXT_KEY_POLICY_DOGON_ARCHITECTURE_MOD">
+			<Text>Dogon Architecture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DOGON_ARCHITECTURE_MOD_TEXT">
+			<Text>Dogon Architecture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_DOGON_ARCHITECTURE_MOD_HELP">
+			<Text>+1 [ICON_CULTURE] Culture per City</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_MALI_TAX_MOD">
+			<Text>Trans-Saharan Tax</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_MALI_TAX_MOD_TEXT">
+			<Text>Trans-Saharan Tax</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_MALI_TAX_MOD_HELP">
+			<Text>Construct Treasuries 20% faster</Text>
+		</Row>
+	</Language_en_US>
+	<Policies>
+		<Row>
+			<Type>POLICY_DOGON_ARCHITECTURE_MOD</Type>
+			<Description>TXT_KEY_POLICY_DOGON_ARCHITECTURE_MOD</Description>
+			<Civilopedia>TXT_KEY_POLICY_DOGON_ARCHITECTURE_MOD_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_DOGON_ARCHITECTURE_MOD_HELP</Help>
+			<GridX>1000</GridX>
+			<GridY>1000</GridY>
+			<PortraitIndex>47</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+		</Row>
+		<Row>
+			<Type>POLICY_MALI_TAX_MOD</Type>
+			<Description>TXT_KEY_POLICY_MALI_TAX_MOD</Description>
+			<Civilopedia>TXT_KEY_POLICY_MALI_TAX_MOD_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_MALI_TAX_MOD_HELP</Help>
+			<GridX>1000</GridX>
+			<GridY>1000</GridY>
+			<PortraitIndex>47</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+		</Row>
+	</Policies>
+	<Policy_CityYieldChanges>
+		<Row>
+			<PolicyType>POLICY_DOGON_ARCHITECTURE_MOD</PolicyType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Policy_CityYieldChanges>
+	<Policy_BuildingClassProductionModifiers>
+		<Row>
+			<PolicyType>POLICY_MALI_TAX_MOD</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_MINT</BuildingClassType>
+			<ProductionModifier>20</ProductionModifier>
+		</Row>
+	</Policy_BuildingClassProductionModifiers>
+</GameData>

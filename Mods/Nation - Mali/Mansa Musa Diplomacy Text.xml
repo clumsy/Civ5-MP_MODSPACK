@@ -1,0 +1,1419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<!-- English -->
+	<Language_en_US>
+		<!--First Greeting-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_FIRSTGREETING_1">
+			<Text>Welcome, great ruler! Though I pay respect at your court, know that I kneel to no king but Allah.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_FIRSTGREETING_2">
+			<Text>Welcome to the Mali Empire! Have some gold... I've got plenty!</Text>
+		</Row>
+		<!--Defeat-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DEFEATED_1">
+			<Text>All the gold and all the salt in the world could not buy me victory!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DEFEATED_2">
+			<Text>What sin did I commit to deserve this fate? Did I not share my wealth with all who visited my court?</Text>
+		</Row>		
+		<!-- Human repeats an action too much, gets the following responses -->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_REPEAT_TOO_MUCH_1">
+			<Text>...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_REPEAT_TRADE_TOO_MUCH_1">
+			<Text>We do not have time for your games...</Text>
+		</Row>
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_HELLO_1">
+			<Text>I didn't realize there were countries as poor as yours...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_POLITE_HELLO_1">
+			<Text>Ah, my friend! It is always a pleasure to entertain you at my court.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>Your war doesn't concern me. If you want to discuss something else, make it quick.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HUMAN_AT_WAR_1">
+			<Text>It is a sin what they have done to your lands. How can I help?</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>I consider the entirety of the desert my domain. Do not be so quick to claim what isn't yours.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>I am more than willing to defend my lands. Do not test me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>Do not think I haven't noticed your recent expansion. Let us hope our countries can remain on the path of peace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>The ranks of your jonow are endless! Together, there is much we can achieve.</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>I see we've both been blessed with rich lands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_HUMAN_FEW_CITIES_1">
+			<Text>I didn't realize there were countries as poor as yours...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>Your army would quickly be overwhelmed and made into sumbas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>Only Allah can forgive your transgressions.</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_TOO_SOON_FOR_DOF_1">
+			<Text>I do not yet see you as a brother.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DENOUNCE_1">
+			<Text>Sins such as yours cannot be forgiven.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>No king but Allah has the right to judge my actions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DOFED_FRIEND_1">
+			<Text>Praise Allah for guiding you to {1_CivName}! They are a kind and generous people.</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DOFED_ENEMY_1">
+			<Text>{1_CivName}... a mouth that praises and a hand that kills.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>Perhaps you should reconsider {1_CivName}. They have proven themselves wise and righteous.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>{1_CivName} cannot to be trusted.</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>Praise Allah for guiding you to {1_CivName}. They are indeed a worthy ally.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>I had already planned to deal with you after {1_CivName}.</Text>
+		</Row>		
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>{1_CivName} is truly unjust and wretched. Perhaps together we can change his course to one of righteousness.</Text>
+		</Row>	
+		<!-- General Diplo Text -->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DEC_FRIENDSHIP_1">
+			<Text>Allah has set us on this path of friendship and trust. Let our people grow and prosper together.</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>You line your army across my borders? Let us hope you are not foolish enough to cross the desert sands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_PLOT_BUYING_WARNING_1">
+			<Text>Do not be so quick to claim land that isn't yours.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_EXPANSION_SERIOUS_WARNING_1">
+			<Text>I will not warn you again. My sofa are eager to defend their homeland!</Text>
+		</Row>		
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_EXPANSION_WARNING">
+			<Text>Do not think I haven't noticed your recent expansion. I must warn against stepping beyond your bounds.</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_RETURNED_CIVILIAN_1">
+			<Text>You have proven yourself a brother! You have my thanks.</Text>
+		</Row>		
+		<!--Public Declarations-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}. Attacking the City-State will greatly damage relations and may lead to war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<!-- Human is asking the AI for something -->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DONT_SETTLE_NO_1">
+			<Text>These lands are valuable caravan routes. I will not give them up so readily.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DONT_SETTLE_YES_1">
+			<Text>I'll let this transgression pass... for now.</Text>
+		</Row>	
+		<!--Deal Offers and related-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_LUXURY_TRADE_1">
+			<Text>My treasury is endless! I'm sure we will be able to make a deal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_OPEN_BORDERS_EXCHANGE_1">
+			<Text>Let us open the caravan routes and encourage trade and exchange between our peoples.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_RESPONSE_REQUEST_1">
+			<Text>A man must trust the path set by Allah, and know that He will come to the aid of the righteous.</Text>
+		</Row>	
+		<!--AI Attacked by Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_ATTACKED_HOSTILE_1">
+			<Text>Your army shall be made into sumbas and fill the ranks of my jonow!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_ATTACKED_EXCITED_1">
+			<Text>I look forward to seeing you beg Allah for mercy, as my sofa's poison leaves your army weak and defenseless.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_ATTACKED_SAD_1">
+			<Text>A pity! I treated you as a brother and you repay my kindness with hate.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_ATTACKED_BETRAYED_1">
+			<Text>I see your trust wasn't worth much.</Text>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_TOO_SOON_NO_PEACE_1">
+			<Text>There is still a profit the be earned from your lands.</Text>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_BAD_1">
+			<Text>I have come to not expect much from you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GOOD_1">
+			<Text>Praise Allah for your wise judgment in this matter.</Text>
+		</Row>
+	</Language_en_US>
+	<!-- Non-English XML Tags -->
+	<Language_RU_RU>
+		<!--First Greeting-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_FIRSTGREETING_1">
+			<Text>Welcome, great ruler! Though I pay respect at your court, know that I kneel to no king but Allah.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_FIRSTGREETING_2">
+			<Text>Welcome to the Mali Empire! Have some gold... I've got plenty!</Text>
+		</Row>
+		<!--Defeat-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DEFEATED_1">
+			<Text>All the gold and all the salt in the world could not buy me victory!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DEFEATED_2">
+			<Text>What sin did I commit to deserve this fate? Did I not share my wealth with all who visited my court?</Text>
+		</Row>
+		<!-- Human repeats an action too much, gets the following responses -->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_REPEAT_TOO_MUCH_1">
+			<Text>...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_REPEAT_TRADE_TOO_MUCH_1">
+			<Text>We do not have time for your games...</Text>
+		</Row>
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_HELLO_1">
+			<Text>I didn't realize there were countries as poor as yours...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_POLITE_HELLO_1">
+			<Text>Ah, my friend! It is always a pleasure to entertain you at my court.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>Your war doesn't concern me. If you want to discuss something else, make it quick.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HUMAN_AT_WAR_1">
+			<Text>It is a sin what they have done to your lands. How can I help?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>I consider the entirety of the desert my domain. Do not be so quick to claim what isn't yours.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>I am more than willing to defend my lands. Do not test me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>Do not think I haven't noticed your recent expansion. Let us hope our countries can remain on the path of peace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>The ranks of your jonow are endless! Together, there is much we can achieve.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>I see we've both been blessed with rich lands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_HUMAN_FEW_CITIES_1">
+			<Text>I didn't realize there were countries as poor as yours...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>Your army would quickly be overwhelmed and made into sumbas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>Only Allah can forgive your transgressions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_TOO_SOON_FOR_DOF_1">
+			<Text>I do not yet see you as a brother.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DENOUNCE_1">
+			<Text>Sins such as yours cannot be forgiven.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>No king but Allah has the right to judge my actions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DOFED_FRIEND_1">
+			<Text>Praise Allah for guiding you to {1_CivName}! They are a kind and generous people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DOFED_ENEMY_1">
+			<Text>{1_CivName}... a mouth that praises and a hand that kills.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>Perhaps you should reconsider {1_CivName}. They have proven themselves wise and righteous.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>{1_CivName} cannot to be trusted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>Praise Allah for guiding you to {1_CivName}. They are indeed a worthy ally.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>I had already planned to deal with you after {1_CivName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>{1_CivName} is truly unjust and wretched. Perhaps together we can change his course to one of righteousness.</Text>
+		</Row>
+		<!-- General Diplo Text -->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DEC_FRIENDSHIP_1">
+			<Text>Allah has set us on this path of friendship and trust. Let our people grow and prosper together.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>You line your army across my borders? Let us hope you are not foolish enough to cross the desert sands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_PLOT_BUYING_WARNING_1">
+			<Text>Do not be so quick to claim land that isn't yours.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_EXPANSION_SERIOUS_WARNING_1">
+			<Text>I will not warn you again. My sofa are eager to defend their homeland!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_EXPANSION_WARNING">
+			<Text>Do not think I haven't noticed your recent expansion. I must warn against stepping beyond your bounds.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_RETURNED_CIVILIAN_1">
+			<Text>You have proven yourself a brother! You have my thanks.</Text>
+		</Row>
+		<!--Public Declarations-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}. Attacking the City-State will greatly damage relations and may lead to war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<!-- Human is asking the AI for something -->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DONT_SETTLE_NO_1">
+			<Text>These lands are valuable caravan routes. I will not give them up so readily.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DONT_SETTLE_YES_1">
+			<Text>I'll let this transgression pass... for now.</Text>
+		</Row>
+		<!--Deal Offers and related-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_LUXURY_TRADE_1">
+			<Text>My treasury is endless! I'm sure we will be able to make a deal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_OPEN_BORDERS_EXCHANGE_1">
+			<Text>Let us open the caravan routes and encourage trade and exchange between our peoples.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_RESPONSE_REQUEST_1">
+			<Text>A man must trust the path set by Allah, and know that He will come to the aid of the righteous.</Text>
+		</Row>
+		<!--AI Attacked by Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_ATTACKED_HOSTILE_1">
+			<Text>Your army shall be made into sumbas and fill the ranks of my jonow!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_ATTACKED_EXCITED_1">
+			<Text>I look forward to seeing you beg Allah for mercy, as my sofa's poison leaves your army weak and defenseless.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_ATTACKED_SAD_1">
+			<Text>A pity! I treated you as a brother and you repay my kindness with hate.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_ATTACKED_BETRAYED_1">
+			<Text>I see your trust wasn't worth much.</Text>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_TOO_SOON_NO_PEACE_1">
+			<Text>There is still a profit the be earned from your lands.</Text>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_BAD_1">
+			<Text>I have come to not expect much from you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GOOD_1">
+			<Text>Praise Allah for your wise judgment in this matter.</Text>
+		</Row>
+	</Language_RU_RU>
+	<Language_PL_PL>
+		<!--First Greeting-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_FIRSTGREETING_1">
+			<Text>Welcome, great ruler! Though I pay respect at your court, know that I kneel to no king but Allah.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_FIRSTGREETING_2">
+			<Text>Welcome to the Mali Empire! Have some gold... I've got plenty!</Text>
+		</Row>
+		<!--Defeat-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DEFEATED_1">
+			<Text>All the gold and all the salt in the world could not buy me victory!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DEFEATED_2">
+			<Text>What sin did I commit to deserve this fate? Did I not share my wealth with all who visited my court?</Text>
+		</Row>
+		<!-- Human repeats an action too much, gets the following responses -->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_REPEAT_TOO_MUCH_1">
+			<Text>...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_REPEAT_TRADE_TOO_MUCH_1">
+			<Text>We do not have time for your games...</Text>
+		</Row>
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_HELLO_1">
+			<Text>I didn't realize there were countries as poor as yours...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_POLITE_HELLO_1">
+			<Text>Ah, my friend! It is always a pleasure to entertain you at my court.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>Your war doesn't concern me. If you want to discuss something else, make it quick.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HUMAN_AT_WAR_1">
+			<Text>It is a sin what they have done to your lands. How can I help?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>I consider the entirety of the desert my domain. Do not be so quick to claim what isn't yours.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>I am more than willing to defend my lands. Do not test me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>Do not think I haven't noticed your recent expansion. Let us hope our countries can remain on the path of peace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>The ranks of your jonow are endless! Together, there is much we can achieve.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>I see we've both been blessed with rich lands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_HUMAN_FEW_CITIES_1">
+			<Text>I didn't realize there were countries as poor as yours...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>Your army would quickly be overwhelmed and made into sumbas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>Only Allah can forgive your transgressions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_TOO_SOON_FOR_DOF_1">
+			<Text>I do not yet see you as a brother.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DENOUNCE_1">
+			<Text>Sins such as yours cannot be forgiven.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>No king but Allah has the right to judge my actions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DOFED_FRIEND_1">
+			<Text>Praise Allah for guiding you to {1_CivName}! They are a kind and generous people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DOFED_ENEMY_1">
+			<Text>{1_CivName}... a mouth that praises and a hand that kills.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>Perhaps you should reconsider {1_CivName}. They have proven themselves wise and righteous.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>{1_CivName} cannot to be trusted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>Praise Allah for guiding you to {1_CivName}. They are indeed a worthy ally.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>I had already planned to deal with you after {1_CivName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>{1_CivName} is truly unjust and wretched. Perhaps together we can change his course to one of righteousness.</Text>
+		</Row>
+		<!-- General Diplo Text -->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DEC_FRIENDSHIP_1">
+			<Text>Allah has set us on this path of friendship and trust. Let our people grow and prosper together.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>You line your army across my borders? Let us hope you are not foolish enough to cross the desert sands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_PLOT_BUYING_WARNING_1">
+			<Text>Do not be so quick to claim land that isn't yours.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_EXPANSION_SERIOUS_WARNING_1">
+			<Text>I will not warn you again. My sofa are eager to defend their homeland!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_EXPANSION_WARNING">
+			<Text>Do not think I haven't noticed your recent expansion. I must warn against stepping beyond your bounds.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_RETURNED_CIVILIAN_1">
+			<Text>You have proven yourself a brother! You have my thanks.</Text>
+		</Row>
+		<!--Public Declarations-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}. Attacking the City-State will greatly damage relations and may lead to war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<!-- Human is asking the AI for something -->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DONT_SETTLE_NO_1">
+			<Text>These lands are valuable caravan routes. I will not give them up so readily.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DONT_SETTLE_YES_1">
+			<Text>I'll let this transgression pass... for now.</Text>
+		</Row>
+		<!--Deal Offers and related-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_LUXURY_TRADE_1">
+			<Text>My treasury is endless! I'm sure we will be able to make a deal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_OPEN_BORDERS_EXCHANGE_1">
+			<Text>Let us open the caravan routes and encourage trade and exchange between our peoples.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_RESPONSE_REQUEST_1">
+			<Text>A man must trust the path set by Allah, and know that He will come to the aid of the righteous.</Text>
+		</Row>
+		<!--AI Attacked by Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_ATTACKED_HOSTILE_1">
+			<Text>Your army shall be made into sumbas and fill the ranks of my jonow!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_ATTACKED_EXCITED_1">
+			<Text>I look forward to seeing you beg Allah for mercy, as my sofa's poison leaves your army weak and defenseless.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_ATTACKED_SAD_1">
+			<Text>A pity! I treated you as a brother and you repay my kindness with hate.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_ATTACKED_BETRAYED_1">
+			<Text>I see your trust wasn't worth much.</Text>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_TOO_SOON_NO_PEACE_1">
+			<Text>There is still a profit the be earned from your lands.</Text>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_BAD_1">
+			<Text>I have come to not expect much from you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GOOD_1">
+			<Text>Praise Allah for your wise judgment in this matter.</Text>
+		</Row>
+	</Language_PL_PL>
+	<Language_KO_KR>
+		<!--First Greeting-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_FIRSTGREETING_1">
+			<Text>Welcome, great ruler! Though I pay respect at your court, know that I kneel to no king but Allah.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_FIRSTGREETING_2">
+			<Text>Welcome to the Mali Empire! Have some gold... I've got plenty!</Text>
+		</Row>
+		<!--Defeat-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DEFEATED_1">
+			<Text>All the gold and all the salt in the world could not buy me victory!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DEFEATED_2">
+			<Text>What sin did I commit to deserve this fate? Did I not share my wealth with all who visited my court?</Text>
+		</Row>
+		<!-- Human repeats an action too much, gets the following responses -->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_REPEAT_TOO_MUCH_1">
+			<Text>...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_REPEAT_TRADE_TOO_MUCH_1">
+			<Text>We do not have time for your games...</Text>
+		</Row>
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_HELLO_1">
+			<Text>I didn't realize there were countries as poor as yours...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_POLITE_HELLO_1">
+			<Text>Ah, my friend! It is always a pleasure to entertain you at my court.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>Your war doesn't concern me. If you want to discuss something else, make it quick.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HUMAN_AT_WAR_1">
+			<Text>It is a sin what they have done to your lands. How can I help?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>I consider the entirety of the desert my domain. Do not be so quick to claim what isn't yours.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>I am more than willing to defend my lands. Do not test me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>Do not think I haven't noticed your recent expansion. Let us hope our countries can remain on the path of peace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>The ranks of your jonow are endless! Together, there is much we can achieve.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>I see we've both been blessed with rich lands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_HUMAN_FEW_CITIES_1">
+			<Text>I didn't realize there were countries as poor as yours...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>Your army would quickly be overwhelmed and made into sumbas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>Only Allah can forgive your transgressions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_TOO_SOON_FOR_DOF_1">
+			<Text>I do not yet see you as a brother.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DENOUNCE_1">
+			<Text>Sins such as yours cannot be forgiven.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>No king but Allah has the right to judge my actions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DOFED_FRIEND_1">
+			<Text>Praise Allah for guiding you to {1_CivName}! They are a kind and generous people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DOFED_ENEMY_1">
+			<Text>{1_CivName}... a mouth that praises and a hand that kills.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>Perhaps you should reconsider {1_CivName}. They have proven themselves wise and righteous.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>{1_CivName} cannot to be trusted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>Praise Allah for guiding you to {1_CivName}. They are indeed a worthy ally.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>I had already planned to deal with you after {1_CivName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>{1_CivName} is truly unjust and wretched. Perhaps together we can change his course to one of righteousness.</Text>
+		</Row>
+		<!-- General Diplo Text -->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DEC_FRIENDSHIP_1">
+			<Text>Allah has set us on this path of friendship and trust. Let our people grow and prosper together.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>You line your army across my borders? Let us hope you are not foolish enough to cross the desert sands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_PLOT_BUYING_WARNING_1">
+			<Text>Do not be so quick to claim land that isn't yours.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_EXPANSION_SERIOUS_WARNING_1">
+			<Text>I will not warn you again. My sofa are eager to defend their homeland!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_EXPANSION_WARNING">
+			<Text>Do not think I haven't noticed your recent expansion. I must warn against stepping beyond your bounds.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_RETURNED_CIVILIAN_1">
+			<Text>You have proven yourself a brother! You have my thanks.</Text>
+		</Row>
+		<!--Public Declarations-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}. Attacking the City-State will greatly damage relations and may lead to war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<!-- Human is asking the AI for something -->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DONT_SETTLE_NO_1">
+			<Text>These lands are valuable caravan routes. I will not give them up so readily.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DONT_SETTLE_YES_1">
+			<Text>I'll let this transgression pass... for now.</Text>
+		</Row>
+		<!--Deal Offers and related-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_LUXURY_TRADE_1">
+			<Text>My treasury is endless! I'm sure we will be able to make a deal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_OPEN_BORDERS_EXCHANGE_1">
+			<Text>Let us open the caravan routes and encourage trade and exchange between our peoples.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_RESPONSE_REQUEST_1">
+			<Text>A man must trust the path set by Allah, and know that He will come to the aid of the righteous.</Text>
+		</Row>
+		<!--AI Attacked by Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_ATTACKED_HOSTILE_1">
+			<Text>Your army shall be made into sumbas and fill the ranks of my jonow!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_ATTACKED_EXCITED_1">
+			<Text>I look forward to seeing you beg Allah for mercy, as my sofa's poison leaves your army weak and defenseless.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_ATTACKED_SAD_1">
+			<Text>A pity! I treated you as a brother and you repay my kindness with hate.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_ATTACKED_BETRAYED_1">
+			<Text>I see your trust wasn't worth much.</Text>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_TOO_SOON_NO_PEACE_1">
+			<Text>There is still a profit the be earned from your lands.</Text>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_BAD_1">
+			<Text>I have come to not expect much from you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GOOD_1">
+			<Text>Praise Allah for your wise judgment in this matter.</Text>
+		</Row>
+	</Language_KO_KR>
+	<Language_JA_JP>
+		<!--First Greeting-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_FIRSTGREETING_1">
+			<Text>Welcome, great ruler! Though I pay respect at your court, know that I kneel to no king but Allah.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_FIRSTGREETING_2">
+			<Text>Welcome to the Mali Empire! Have some gold... I've got plenty!</Text>
+		</Row>
+		<!--Defeat-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DEFEATED_1">
+			<Text>All the gold and all the salt in the world could not buy me victory!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DEFEATED_2">
+			<Text>What sin did I commit to deserve this fate? Did I not share my wealth with all who visited my court?</Text>
+		</Row>
+		<!-- Human repeats an action too much, gets the following responses -->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_REPEAT_TOO_MUCH_1">
+			<Text>...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_REPEAT_TRADE_TOO_MUCH_1">
+			<Text>We do not have time for your games...</Text>
+		</Row>
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_HELLO_1">
+			<Text>I didn't realize there were countries as poor as yours...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_POLITE_HELLO_1">
+			<Text>Ah, my friend! It is always a pleasure to entertain you at my court.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>Your war doesn't concern me. If you want to discuss something else, make it quick.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HUMAN_AT_WAR_1">
+			<Text>It is a sin what they have done to your lands. How can I help?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>I consider the entirety of the desert my domain. Do not be so quick to claim what isn't yours.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>I am more than willing to defend my lands. Do not test me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>Do not think I haven't noticed your recent expansion. Let us hope our countries can remain on the path of peace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>The ranks of your jonow are endless! Together, there is much we can achieve.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>I see we've both been blessed with rich lands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_HUMAN_FEW_CITIES_1">
+			<Text>I didn't realize there were countries as poor as yours...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>Your army would quickly be overwhelmed and made into sumbas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>Only Allah can forgive your transgressions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_TOO_SOON_FOR_DOF_1">
+			<Text>I do not yet see you as a brother.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DENOUNCE_1">
+			<Text>Sins such as yours cannot be forgiven.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>No king but Allah has the right to judge my actions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DOFED_FRIEND_1">
+			<Text>Praise Allah for guiding you to {1_CivName}! They are a kind and generous people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DOFED_ENEMY_1">
+			<Text>{1_CivName}... a mouth that praises and a hand that kills.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>Perhaps you should reconsider {1_CivName}. They have proven themselves wise and righteous.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>{1_CivName} cannot to be trusted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>Praise Allah for guiding you to {1_CivName}. They are indeed a worthy ally.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>I had already planned to deal with you after {1_CivName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>{1_CivName} is truly unjust and wretched. Perhaps together we can change his course to one of righteousness.</Text>
+		</Row>
+		<!-- General Diplo Text -->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DEC_FRIENDSHIP_1">
+			<Text>Allah has set us on this path of friendship and trust. Let our people grow and prosper together.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>You line your army across my borders? Let us hope you are not foolish enough to cross the desert sands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_PLOT_BUYING_WARNING_1">
+			<Text>Do not be so quick to claim land that isn't yours.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_EXPANSION_SERIOUS_WARNING_1">
+			<Text>I will not warn you again. My sofa are eager to defend their homeland!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_EXPANSION_WARNING">
+			<Text>Do not think I haven't noticed your recent expansion. I must warn against stepping beyond your bounds.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_RETURNED_CIVILIAN_1">
+			<Text>You have proven yourself a brother! You have my thanks.</Text>
+		</Row>
+		<!--Public Declarations-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}. Attacking the City-State will greatly damage relations and may lead to war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<!-- Human is asking the AI for something -->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DONT_SETTLE_NO_1">
+			<Text>These lands are valuable caravan routes. I will not give them up so readily.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DONT_SETTLE_YES_1">
+			<Text>I'll let this transgression pass... for now.</Text>
+		</Row>
+		<!--Deal Offers and related-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_LUXURY_TRADE_1">
+			<Text>My treasury is endless! I'm sure we will be able to make a deal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_OPEN_BORDERS_EXCHANGE_1">
+			<Text>Let us open the caravan routes and encourage trade and exchange between our peoples.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_RESPONSE_REQUEST_1">
+			<Text>A man must trust the path set by Allah, and know that He will come to the aid of the righteous.</Text>
+		</Row>
+		<!--AI Attacked by Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_ATTACKED_HOSTILE_1">
+			<Text>Your army shall be made into sumbas and fill the ranks of my jonow!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_ATTACKED_EXCITED_1">
+			<Text>I look forward to seeing you beg Allah for mercy, as my sofa's poison leaves your army weak and defenseless.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_ATTACKED_SAD_1">
+			<Text>A pity! I treated you as a brother and you repay my kindness with hate.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_ATTACKED_BETRAYED_1">
+			<Text>I see your trust wasn't worth much.</Text>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_TOO_SOON_NO_PEACE_1">
+			<Text>There is still a profit the be earned from your lands.</Text>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_BAD_1">
+			<Text>I have come to not expect much from you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GOOD_1">
+			<Text>Praise Allah for your wise judgment in this matter.</Text>
+		</Row>
+	</Language_JA_JP>
+	<Language_IT_IT>
+		<!--First Greeting-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_FIRSTGREETING_1">
+			<Text>Welcome, great ruler! Though I pay respect at your court, know that I kneel to no king but Allah.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_FIRSTGREETING_2">
+			<Text>Welcome to the Mali Empire! Have some gold... I've got plenty!</Text>
+		</Row>
+		<!--Defeat-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DEFEATED_1">
+			<Text>All the gold and all the salt in the world could not buy me victory!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DEFEATED_2">
+			<Text>What sin did I commit to deserve this fate? Did I not share my wealth with all who visited my court?</Text>
+		</Row>
+		<!-- Human repeats an action too much, gets the following responses -->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_REPEAT_TOO_MUCH_1">
+			<Text>...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_REPEAT_TRADE_TOO_MUCH_1">
+			<Text>We do not have time for your games...</Text>
+		</Row>
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_HELLO_1">
+			<Text>I didn't realize there were countries as poor as yours...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_POLITE_HELLO_1">
+			<Text>Ah, my friend! It is always a pleasure to entertain you at my court.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>Your war doesn't concern me. If you want to discuss something else, make it quick.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HUMAN_AT_WAR_1">
+			<Text>It is a sin what they have done to your lands. How can I help?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>I consider the entirety of the desert my domain. Do not be so quick to claim what isn't yours.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>I am more than willing to defend my lands. Do not test me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>Do not think I haven't noticed your recent expansion. Let us hope our countries can remain on the path of peace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>The ranks of your jonow are endless! Together, there is much we can achieve.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>I see we've both been blessed with rich lands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_HUMAN_FEW_CITIES_1">
+			<Text>I didn't realize there were countries as poor as yours...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>Your army would quickly be overwhelmed and made into sumbas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>Only Allah can forgive your transgressions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_TOO_SOON_FOR_DOF_1">
+			<Text>I do not yet see you as a brother.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DENOUNCE_1">
+			<Text>Sins such as yours cannot be forgiven.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>No king but Allah has the right to judge my actions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DOFED_FRIEND_1">
+			<Text>Praise Allah for guiding you to {1_CivName}! They are a kind and generous people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DOFED_ENEMY_1">
+			<Text>{1_CivName}... a mouth that praises and a hand that kills.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>Perhaps you should reconsider {1_CivName}. They have proven themselves wise and righteous.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>{1_CivName} cannot to be trusted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>Praise Allah for guiding you to {1_CivName}. They are indeed a worthy ally.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>I had already planned to deal with you after {1_CivName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>{1_CivName} is truly unjust and wretched. Perhaps together we can change his course to one of righteousness.</Text>
+		</Row>
+		<!-- General Diplo Text -->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DEC_FRIENDSHIP_1">
+			<Text>Allah has set us on this path of friendship and trust. Let our people grow and prosper together.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>You line your army across my borders? Let us hope you are not foolish enough to cross the desert sands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_PLOT_BUYING_WARNING_1">
+			<Text>Do not be so quick to claim land that isn't yours.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_EXPANSION_SERIOUS_WARNING_1">
+			<Text>I will not warn you again. My sofa are eager to defend their homeland!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_EXPANSION_WARNING">
+			<Text>Do not think I haven't noticed your recent expansion. I must warn against stepping beyond your bounds.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_RETURNED_CIVILIAN_1">
+			<Text>You have proven yourself a brother! You have my thanks.</Text>
+		</Row>
+		<!--Public Declarations-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}. Attacking the City-State will greatly damage relations and may lead to war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<!-- Human is asking the AI for something -->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DONT_SETTLE_NO_1">
+			<Text>These lands are valuable caravan routes. I will not give them up so readily.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DONT_SETTLE_YES_1">
+			<Text>I'll let this transgression pass... for now.</Text>
+		</Row>
+		<!--Deal Offers and related-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_LUXURY_TRADE_1">
+			<Text>My treasury is endless! I'm sure we will be able to make a deal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_OPEN_BORDERS_EXCHANGE_1">
+			<Text>Let us open the caravan routes and encourage trade and exchange between our peoples.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_RESPONSE_REQUEST_1">
+			<Text>A man must trust the path set by Allah, and know that He will come to the aid of the righteous.</Text>
+		</Row>
+		<!--AI Attacked by Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_ATTACKED_HOSTILE_1">
+			<Text>Your army shall be made into sumbas and fill the ranks of my jonow!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_ATTACKED_EXCITED_1">
+			<Text>I look forward to seeing you beg Allah for mercy, as my sofa's poison leaves your army weak and defenseless.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_ATTACKED_SAD_1">
+			<Text>A pity! I treated you as a brother and you repay my kindness with hate.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_ATTACKED_BETRAYED_1">
+			<Text>I see your trust wasn't worth much.</Text>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_TOO_SOON_NO_PEACE_1">
+			<Text>There is still a profit the be earned from your lands.</Text>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_BAD_1">
+			<Text>I have come to not expect much from you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GOOD_1">
+			<Text>Praise Allah for your wise judgment in this matter.</Text>
+		</Row>
+	</Language_IT_IT>
+	<Language_FR_FR>
+		<!--First Greeting-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_FIRSTGREETING_1">
+			<Text>Welcome, great ruler! Though I pay respect at your court, know that I kneel to no king but Allah.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_FIRSTGREETING_2">
+			<Text>Welcome to the Mali Empire! Have some gold... I've got plenty!</Text>
+		</Row>
+		<!--Defeat-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DEFEATED_1">
+			<Text>All the gold and all the salt in the world could not buy me victory!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DEFEATED_2">
+			<Text>What sin did I commit to deserve this fate? Did I not share my wealth with all who visited my court?</Text>
+		</Row>
+		<!-- Human repeats an action too much, gets the following responses -->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_REPEAT_TOO_MUCH_1">
+			<Text>...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_REPEAT_TRADE_TOO_MUCH_1">
+			<Text>We do not have time for your games...</Text>
+		</Row>
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_HELLO_1">
+			<Text>I didn't realize there were countries as poor as yours...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_POLITE_HELLO_1">
+			<Text>Ah, my friend! It is always a pleasure to entertain you at my court.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>Your war doesn't concern me. If you want to discuss something else, make it quick.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HUMAN_AT_WAR_1">
+			<Text>It is a sin what they have done to your lands. How can I help?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>I consider the entirety of the desert my domain. Do not be so quick to claim what isn't yours.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>I am more than willing to defend my lands. Do not test me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>Do not think I haven't noticed your recent expansion. Let us hope our countries can remain on the path of peace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>The ranks of your jonow are endless! Together, there is much we can achieve.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>I see we've both been blessed with rich lands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_HUMAN_FEW_CITIES_1">
+			<Text>I didn't realize there were countries as poor as yours...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>Your army would quickly be overwhelmed and made into sumbas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>Only Allah can forgive your transgressions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_TOO_SOON_FOR_DOF_1">
+			<Text>I do not yet see you as a brother.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DENOUNCE_1">
+			<Text>Sins such as yours cannot be forgiven.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>No king but Allah has the right to judge my actions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DOFED_FRIEND_1">
+			<Text>Praise Allah for guiding you to {1_CivName}! They are a kind and generous people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DOFED_ENEMY_1">
+			<Text>{1_CivName}... a mouth that praises and a hand that kills.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>Perhaps you should reconsider {1_CivName}. They have proven themselves wise and righteous.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>{1_CivName} cannot to be trusted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>Praise Allah for guiding you to {1_CivName}. They are indeed a worthy ally.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>I had already planned to deal with you after {1_CivName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>{1_CivName} is truly unjust and wretched. Perhaps together we can change his course to one of righteousness.</Text>
+		</Row>
+		<!-- General Diplo Text -->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DEC_FRIENDSHIP_1">
+			<Text>Allah has set us on this path of friendship and trust. Let our people grow and prosper together.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>You line your army across my borders? Let us hope you are not foolish enough to cross the desert sands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_PLOT_BUYING_WARNING_1">
+			<Text>Do not be so quick to claim land that isn't yours.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_EXPANSION_SERIOUS_WARNING_1">
+			<Text>I will not warn you again. My sofa are eager to defend their homeland!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_EXPANSION_WARNING">
+			<Text>Do not think I haven't noticed your recent expansion. I must warn against stepping beyond your bounds.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_RETURNED_CIVILIAN_1">
+			<Text>You have proven yourself a brother! You have my thanks.</Text>
+		</Row>
+		<!--Public Declarations-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}. Attacking the City-State will greatly damage relations and may lead to war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<!-- Human is asking the AI for something -->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DONT_SETTLE_NO_1">
+			<Text>These lands are valuable caravan routes. I will not give them up so readily.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DONT_SETTLE_YES_1">
+			<Text>I'll let this transgression pass... for now.</Text>
+		</Row>
+		<!--Deal Offers and related-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_LUXURY_TRADE_1">
+			<Text>My treasury is endless! I'm sure we will be able to make a deal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_OPEN_BORDERS_EXCHANGE_1">
+			<Text>Let us open the caravan routes and encourage trade and exchange between our peoples.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_RESPONSE_REQUEST_1">
+			<Text>A man must trust the path set by Allah, and know that He will come to the aid of the righteous.</Text>
+		</Row>
+		<!--AI Attacked by Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_ATTACKED_HOSTILE_1">
+			<Text>Your army shall be made into sumbas and fill the ranks of my jonow!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_ATTACKED_EXCITED_1">
+			<Text>I look forward to seeing you beg Allah for mercy, as my sofa's poison leaves your army weak and defenseless.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_ATTACKED_SAD_1">
+			<Text>A pity! I treated you as a brother and you repay my kindness with hate.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_ATTACKED_BETRAYED_1">
+			<Text>I see your trust wasn't worth much.</Text>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_TOO_SOON_NO_PEACE_1">
+			<Text>There is still a profit the be earned from your lands.</Text>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_BAD_1">
+			<Text>I have come to not expect much from you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GOOD_1">
+			<Text>Praise Allah for your wise judgment in this matter.</Text>
+		</Row>
+	</Language_FR_FR>
+	<Language_ES_ES>
+		<!--First Greeting-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_FIRSTGREETING_1">
+			<Text>Welcome, great ruler! Though I pay respect at your court, know that I kneel to no king but Allah.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_FIRSTGREETING_2">
+			<Text>Welcome to the Mali Empire! Have some gold... I've got plenty!</Text>
+		</Row>
+		<!--Defeat-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DEFEATED_1">
+			<Text>All the gold and all the salt in the world could not buy me victory!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DEFEATED_2">
+			<Text>What sin did I commit to deserve this fate? Did I not share my wealth with all who visited my court?</Text>
+		</Row>
+		<!-- Human repeats an action too much, gets the following responses -->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_REPEAT_TOO_MUCH_1">
+			<Text>...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_REPEAT_TRADE_TOO_MUCH_1">
+			<Text>We do not have time for your games...</Text>
+		</Row>
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_HELLO_1">
+			<Text>I didn't realize there were countries as poor as yours...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_POLITE_HELLO_1">
+			<Text>Ah, my friend! It is always a pleasure to entertain you at my court.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>Your war doesn't concern me. If you want to discuss something else, make it quick.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HUMAN_AT_WAR_1">
+			<Text>It is a sin what they have done to your lands. How can I help?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>I consider the entirety of the desert my domain. Do not be so quick to claim what isn't yours.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>I am more than willing to defend my lands. Do not test me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>Do not think I haven't noticed your recent expansion. Let us hope our countries can remain on the path of peace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>The ranks of your jonow are endless! Together, there is much we can achieve.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>I see we've both been blessed with rich lands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_HUMAN_FEW_CITIES_1">
+			<Text>I didn't realize there were countries as poor as yours...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>Your army would quickly be overwhelmed and made into sumbas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>Only Allah can forgive your transgressions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_TOO_SOON_FOR_DOF_1">
+			<Text>I do not yet see you as a brother.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DENOUNCE_1">
+			<Text>Sins such as yours cannot be forgiven.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>No king but Allah has the right to judge my actions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DOFED_FRIEND_1">
+			<Text>Praise Allah for guiding you to {1_CivName}! They are a kind and generous people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DOFED_ENEMY_1">
+			<Text>{1_CivName}... a mouth that praises and a hand that kills.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>Perhaps you should reconsider {1_CivName}. They have proven themselves wise and righteous.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>{1_CivName} cannot to be trusted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>Praise Allah for guiding you to {1_CivName}. They are indeed a worthy ally.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>I had already planned to deal with you after {1_CivName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>{1_CivName} is truly unjust and wretched. Perhaps together we can change his course to one of righteousness.</Text>
+		</Row>
+		<!-- General Diplo Text -->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DEC_FRIENDSHIP_1">
+			<Text>Allah has set us on this path of friendship and trust. Let our people grow and prosper together.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>You line your army across my borders? Let us hope you are not foolish enough to cross the desert sands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_PLOT_BUYING_WARNING_1">
+			<Text>Do not be so quick to claim land that isn't yours.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_EXPANSION_SERIOUS_WARNING_1">
+			<Text>I will not warn you again. My sofa are eager to defend their homeland!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_EXPANSION_WARNING">
+			<Text>Do not think I haven't noticed your recent expansion. I must warn against stepping beyond your bounds.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_RETURNED_CIVILIAN_1">
+			<Text>You have proven yourself a brother! You have my thanks.</Text>
+		</Row>
+		<!--Public Declarations-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}. Attacking the City-State will greatly damage relations and may lead to war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<!-- Human is asking the AI for something -->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DONT_SETTLE_NO_1">
+			<Text>These lands are valuable caravan routes. I will not give them up so readily.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DONT_SETTLE_YES_1">
+			<Text>I'll let this transgression pass... for now.</Text>
+		</Row>
+		<!--Deal Offers and related-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_LUXURY_TRADE_1">
+			<Text>My treasury is endless! I'm sure we will be able to make a deal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_OPEN_BORDERS_EXCHANGE_1">
+			<Text>Let us open the caravan routes and encourage trade and exchange between our peoples.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_RESPONSE_REQUEST_1">
+			<Text>A man must trust the path set by Allah, and know that He will come to the aid of the righteous.</Text>
+		</Row>
+		<!--AI Attacked by Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_ATTACKED_HOSTILE_1">
+			<Text>Your army shall be made into sumbas and fill the ranks of my jonow!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_ATTACKED_EXCITED_1">
+			<Text>I look forward to seeing you beg Allah for mercy, as my sofa's poison leaves your army weak and defenseless.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_ATTACKED_SAD_1">
+			<Text>A pity! I treated you as a brother and you repay my kindness with hate.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_ATTACKED_BETRAYED_1">
+			<Text>I see your trust wasn't worth much.</Text>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_TOO_SOON_NO_PEACE_1">
+			<Text>There is still a profit the be earned from your lands.</Text>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_BAD_1">
+			<Text>I have come to not expect much from you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GOOD_1">
+			<Text>Praise Allah for your wise judgment in this matter.</Text>
+		</Row>
+	</Language_ES_ES>
+	<Language_DE_DE>
+		<!--First Greeting-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_FIRSTGREETING_1">
+			<Text>Welcome, great ruler! Though I pay respect at your court, know that I kneel to no king but Allah.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_FIRSTGREETING_2">
+			<Text>Welcome to the Mali Empire! Have some gold... I've got plenty!</Text>
+		</Row>
+		<!--Defeat-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DEFEATED_1">
+			<Text>All the gold and all the salt in the world could not buy me victory!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DEFEATED_2">
+			<Text>What sin did I commit to deserve this fate? Did I not share my wealth with all who visited my court?</Text>
+		</Row>
+		<!-- Human repeats an action too much, gets the following responses -->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_REPEAT_TOO_MUCH_1">
+			<Text>...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_REPEAT_TRADE_TOO_MUCH_1">
+			<Text>We do not have time for your games...</Text>
+		</Row>
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_HELLO_1">
+			<Text>I didn't realize there were countries as poor as yours...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_POLITE_HELLO_1">
+			<Text>Ah, my friend! It is always a pleasure to entertain you at my court.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>Your war doesn't concern me. If you want to discuss something else, make it quick.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HUMAN_AT_WAR_1">
+			<Text>It is a sin what they have done to your lands. How can I help?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>I consider the entirety of the desert my domain. Do not be so quick to claim what isn't yours.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>I am more than willing to defend my lands. Do not test me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>Do not think I haven't noticed your recent expansion. Let us hope our countries can remain on the path of peace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>The ranks of your jonow are endless! Together, there is much we can achieve.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>I see we've both been blessed with rich lands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_HUMAN_FEW_CITIES_1">
+			<Text>I didn't realize there were countries as poor as yours...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>Your army would quickly be overwhelmed and made into sumbas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>Only Allah can forgive your transgressions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_TOO_SOON_FOR_DOF_1">
+			<Text>I do not yet see you as a brother.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DENOUNCE_1">
+			<Text>Sins such as yours cannot be forgiven.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>No king but Allah has the right to judge my actions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DOFED_FRIEND_1">
+			<Text>Praise Allah for guiding you to {1_CivName}! They are a kind and generous people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DOFED_ENEMY_1">
+			<Text>{1_CivName}... a mouth that praises and a hand that kills.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>Perhaps you should reconsider {1_CivName}. They have proven themselves wise and righteous.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>{1_CivName} cannot to be trusted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>Praise Allah for guiding you to {1_CivName}. They are indeed a worthy ally.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>I had already planned to deal with you after {1_CivName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>{1_CivName} is truly unjust and wretched. Perhaps together we can change his course to one of righteousness.</Text>
+		</Row>
+		<!-- General Diplo Text -->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DEC_FRIENDSHIP_1">
+			<Text>Allah has set us on this path of friendship and trust. Let our people grow and prosper together.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>You line your army across my borders? Let us hope you are not foolish enough to cross the desert sands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_PLOT_BUYING_WARNING_1">
+			<Text>Do not be so quick to claim land that isn't yours.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_EXPANSION_SERIOUS_WARNING_1">
+			<Text>I will not warn you again. My sofa are eager to defend their homeland!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_EXPANSION_WARNING">
+			<Text>Do not think I haven't noticed your recent expansion. I must warn against stepping beyond your bounds.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_RETURNED_CIVILIAN_1">
+			<Text>You have proven yourself a brother! You have my thanks.</Text>
+		</Row>
+		<!--Public Declarations-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}. Attacking the City-State will greatly damage relations and may lead to war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<!-- Human is asking the AI for something -->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DONT_SETTLE_NO_1">
+			<Text>These lands are valuable caravan routes. I will not give them up so readily.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_DONT_SETTLE_YES_1">
+			<Text>I'll let this transgression pass... for now.</Text>
+		</Row>
+		<!--Deal Offers and related-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_LUXURY_TRADE_1">
+			<Text>My treasury is endless! I'm sure we will be able to make a deal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_OPEN_BORDERS_EXCHANGE_1">
+			<Text>Let us open the caravan routes and encourage trade and exchange between our peoples.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_RESPONSE_REQUEST_1">
+			<Text>A man must trust the path set by Allah, and know that He will come to the aid of the righteous.</Text>
+		</Row>
+		<!--AI Attacked by Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_ATTACKED_HOSTILE_1">
+			<Text>Your army shall be made into sumbas and fill the ranks of my jonow!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_ATTACKED_EXCITED_1">
+			<Text>I look forward to seeing you beg Allah for mercy, as my sofa's poison leaves your army weak and defenseless.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_ATTACKED_SAD_1">
+			<Text>A pity! I treated you as a brother and you repay my kindness with hate.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_ATTACKED_BETRAYED_1">
+			<Text>I see your trust wasn't worth much.</Text>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_TOO_SOON_NO_PEACE_1">
+			<Text>There is still a profit the be earned from your lands.</Text>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_BAD_1">
+			<Text>I have come to not expect much from you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANSA_MUSA_MOD_GOOD_1">
+			<Text>Praise Allah for your wise judgment in this matter.</Text>
+		</Row>
+	</Language_DE_DE>
+</GameData>

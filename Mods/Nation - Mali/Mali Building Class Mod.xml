@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_MALI_MOD_DUMMY_BUILDING_1</Type>
+			<DefaultBuilding>BUILDING_MALI_MOD_DUMMY_BUILDING_1</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_MALI_MOD_DUMMY_BUILDING_1_DESC</Description>
+		</Row>
+	</BuildingClasses>
+	<Civilization_BuildingClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_MALI_MOD_DUMMY_BUILDING_1</BuildingClassType>
+			<BuildingType/>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MINOR</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_MALI_MOD_DUMMY_BUILDING_1</BuildingClassType>
+			<BuildingType/>
+		</Row>
+	</Civilization_BuildingClassOverrides>
+</GameData>

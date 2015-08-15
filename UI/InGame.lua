@@ -1460,6 +1460,9 @@ ContextPtr:LoadNewContext("BoerCivilianMovement")
 -- Nation - Kalmar --
 ContextPtr:LoadNewContext("KalmarUnionFunctions")
 
+-- Nation - Mali --
+ContextPtr:LoadNewContext("Mali Mod Check")
+
 -- Nation - Nazca --
 ContextPtr:LoadNewContext("BuildingProvidesAccesstoFreshWater")
 ContextPtr:LoadNewContext("NazcaUA")

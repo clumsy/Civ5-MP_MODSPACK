@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="d34fb363-be02-4c3c-8c1c-0da296456f27" version="48">
+  <Properties>
+    <Name>Mali (Brave New World)</Name>
+    <Teaser>Adds Mali to the base game. Requires the Brave New World expansion.</Teaser>
+    <Description>Adds Mali to the base game. 
+[NEWLINE][NEWLINE]~~~ 
+[NEWLINE][NEWLINE]Note: 
+[NEWLINE]- This civilization requires the Brave New World expansion. 
+[NEWLINE]- Updates to the Mod will most likely break save games. Please do not update until you are ready to begin a new game. 
+[NEWLINE][NEWLINE]~~~ 
+[NEWLINE][NEWLINE]Leader: Mansa Musa
+[NEWLINE]UA: Royal Hajj
+[NEWLINE]UU: Sofa
+[NEWLINE]UB: Treasury</Description>
+    <Authors>Tomatekh</Authors>
+    <SpecialThanks>Ekmek, Sukritact, Janboruta</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <Homepage>http://forums.civfanatics.com/showthread.php?t=472751</Homepage>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>48</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events and Decisions" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="Cultural Diversity" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Cultural Influence" />
+    <Mod id="43868e8d-de88-48a1-a8d9-ce144e07f5e0" minversion="0" maxversion="999" title="ExCE" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="C. Patch" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="C. Balance Patch" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D." />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="Piety" />
+    <Mod id="d99bf7aa-51ac-4bef-bd88-d765b28e260e" minversion="0" maxversion="999" title="Prestiege" />
+  </References>
+  <Blocks>
+    <Mod id="2626e6a3-a0fd-478d-a5ab-0d9dee67ed0a" minversion="0" maxversion="999" title="YnAEMP Patch" />
+  </Blocks>
+  <Files>
+    <File md5="3E7FF4A851C4696952094A148525C8F7" import="1">Art/Atlas/Alpha/MaliModAlphaAtlas128.dds</File>
+    <File md5="85F1BDE664ADAB190790A5DC1F06D615" import="1">Art/Atlas/Alpha/MaliModAlphaAtlas16.dds</File>
+    <File md5="50C25E80C0B2D3A686F22C520CF0D061" import="1">Art/Atlas/Alpha/MaliModAlphaAtlas24.dds</File>
+    <File md5="03E5732581F4BA7AD6006631336A36E6" import="1">Art/Atlas/Alpha/MaliModAlphaAtlas32.dds</File>
+    <File md5="346CD8E60A3D9C940531ECEC2E72964B" import="1">Art/Atlas/Alpha/MaliModAlphaAtlas48.dds</File>
+    <File md5="B1013E2F9D83B47F2441417ECE7C419A" import="1">Art/Atlas/Alpha/MaliModAlphaAtlas64.dds</File>
+    <File md5="78688B5355AEDFFED3EC677C55C0B780" import="1">Art/Atlas/Atlas/MaliIconAtlas128.dds</File>
+    <File md5="4701188498B3355A0614A1E8FAABFAC2" import="1">Art/Atlas/Atlas/MaliIconAtlas214.dds</File>
+    <File md5="024E812A2343E8B071FB8ACE31BC89A4" import="1">Art/Atlas/Atlas/MaliIconAtlas256.dds</File>
+    <File md5="0BE882D75F6977EE529344FBEB2CE750" import="1">Art/Atlas/Atlas/MaliIconAtlas32.dds</File>
+    <File md5="CC8BC27475F3EC05967E42479DA0E066" import="1">Art/Atlas/Atlas/MaliIconAtlas45.dds</File>
+    <File md5="AC90721A826D2D0CAD8791807B54D6E1" import="1">Art/Atlas/Atlas/MaliIconAtlas64.dds</File>
+    <File md5="CC68BEF3DDDB8E1CA50A52D6CECFBCBB" import="1">Art/Atlas/Atlas/MaliIconAtlas80.dds</File>
+    <File md5="29B645B2056CF57AD2FDF98DB07C3FF1" import="1">Art/Atlas/Unit/MaliUnitAlphaAtlas.dds</File>
+    <File md5="89AAD7EDDD21A98A6D0FA5AC2C96433D" import="1">Art/Atlas/Unit/sv_Mali_Unit_Mod.dds</File>
+    <File md5="27939B614A76547F0BCA0BD172593F5A" import="1">Art/Leader/mali_mansa.fxsxml</File>
+    <File md5="1F8C5C8BC2C0FAB20EFA873A5343215F" import="1">Art/Leader/mansa_BEARD_DIFF.dds</File>
+    <File md5="E4D12B7278E784455038AF62B42B1E70" import="1">Art/Leader/Mansa_BG.dds</File>
+    <File md5="E2FA181CAE0F88695FCF84C423F48B4B" import="1">Art/Leader/mansa_clothing.dds</File>
+    <File md5="01CE64F14C1556A0BCA08CEA222BAECB" import="1">Art/Leader/mansa_musa.gr2</File>
+    <File md5="AE6944039B428682184CB74F90841D92" import="1">Art/Leader/mansa_musa_gold_env.dds</File>
+    <File md5="564E26028C59362561F3D9BD40DC6F07" import="1">Art/Leader/mansa_musa_nonshader.dds</File>
+    <File md5="35A9055A4987E2B5CE1ED64E17A596D5" import="1">Art/Leader/mansa_musa_nrml.dds</File>
+    <File md5="921E5A3E36BCAA10417E28175637635D" import="1">Art/Leader/mansa_musa_sref.dds</File>
+    <File md5="4305E592C82EFB0EFD0A9CA4A033481B" import="1">Art/Leader/Mansa_SCENE.fxsxml</File>
+    <File md5="A5F871AC37357E71E25EEA8079244E4F" import="1">Art/Leader/Mansa_scene.gr2</File>
+    <File md5="A5974FE83D75922A18546B2768FD1E40" import="1">Art/Leader/mansa_skin.dds</File>
+    <File md5="957F14D99B3ABE1ECA8118E6E9B04CE0" import="1">Art/Scenes/Mali_Diplo_Mod.dds</File>
+    <File md5="A760BC38BF546D14AE96232448801482" import="1">Art/Scenes/Mali_DOM_Mod.dds</File>
+    <File md5="81BBB61A567336EA3F30B0316CAFEB5D" import="1">Art/Scenes/Mali_Map_Mod.dds</File>
+    <File md5="2FD0BE91B803328116E60890F82C8AD6" import="1">Art/Units/Fx_Triggers_ZuluJavelineer.ftsxml</File>
+    <File md5="82826E69FEDFC64DBC1EACB25DE55FE8" import="1">Art/Units/ZuluJavelineer.dds</File>
+    <File md5="4464ADF587ADAFB6AB5F3D170348E32E" import="1">Art/Units/ZuluJavelineer.fbx</File>
+    <File md5="6F82D4F20A7332476AD607ACC493E5F2" import="1">Art/Units/ZuluJavelineer.fxsxml</File>
+    <File md5="922A10C1DE8964E3AAB7C8C61B5B5F55" import="1">Art/Units/ZuluJavelineer.gr2</File>
+    <File md5="305AA7441FEB9BFC05EF7717F0B9A1CA" import="1">Art/Units/ZuluJavelineer_sref.dds</File>
+    <File md5="CEF636429AD54CCF8D31B26CE8A55983" import="1">Art/Units/ZuluJavelineer_Template.blend</File>
+    <File md5="6534A0A52C650D5BF201235F13765DD1" import="0">Decisions/Mali Decisions SQL.sql</File>
+    <File md5="BCFE6FCE0971306A9E28565E9C598C4E" import="0">Decisions/Mali Decisions Support.xml</File>
+    <File md5="DB9F96615034715881306075F49E8E7C" import="1">Decisions/TomatekhMaliDecisions.lua</File>
+    <File md5="A634E3054E5E0098FC45B8985CA7B147" import="0">Lua/Mali Mod Check.lua</File>
+    <File md5="FC994CF5F2944F67E8B493B5C54E8737" import="1">Lua/Mali Top Panel Edits.lua</File>
+    <File md5="3D5F60991DEB0997C5300675ACF79572" import="1">Lua/MaliLuaScriptMod.lua</File>
+    <File md5="2D4E0A58046618E64B5D80C3F8FEC184" import="1">Mali_Leader_Scene.xml</File>
+    <File md5="138D9DE53B8D2EFB317A818EBF6E4571" import="0">Mali_Leader_Scene_Alt.xml</File>
+    <File md5="CA85BFEF088D08ECA1709C1F45FCAEBE" import="0">Sounds/Leader Dialogue/MansaMusaIntro.mp3</File>
+    <File md5="90E83A3F7C9115D849BBF247600F04BA" import="0">Sounds/Leader Dialogue/MansaMusaNeutralYes03.mp3</File>
+    <File md5="845434A0C3893AC4B754DDFF35A38F22" import="1">Sounds/MaliPeace.mp3</File>
+    <File md5="2DDF5F1BBC75FE8E21C15A726E0ECA58" import="1">Sounds/MaliWar.mp3</File>
+    <File md5="A6562D1862E38889DF43D6453CF40A78" import="0">SQL/Mali Mod Support.sql</File>
+    <File md5="F93732456A20784179CBB6040F0FBFCC" import="1">SQL/Mali Unit Skin Mod.sql</File>
+    <File md5="9906A542499DB3EEFAB8293992BF048D" import="1">XML/Art/civ5artdefines_unitmembers.xml</File>
+    <File md5="EE2FF753F8AC5E455B0F0FE322D32C74" import="1">XML/Art/civ5artdefines_units.xml</File>
+    <File md5="DBF9845AFFE865F990DFDE870ADECB85" import="0">XML/Art/Mali Atlas Mod.xml</File>
+    <File md5="E2B14FED3510887855558EC24A5F50B0" import="0">XML/Art/Mali Unit Strategic View Mod.xml</File>
+    <File md5="F1585B0583F3A0E180A2F98BD1453101" import="0">XML/Buildings/Mali Building Class Mod.xml</File>
+    <File md5="1F729516BA737DD49D72884841B2BAA7" import="0">XML/Buildings/Mali Buildings Mod.xml</File>
+    <File md5="EA37CEC4F27E96ECA34D11E1A3F1BE3F" import="0">XML/Civilizations/Mali Civilizations Mod.xml</File>
+    <File md5="936823152CAF52BA2B8D6D1A40169A4A" import="0">XML/Civilizations/Mali Leader Mod.xml</File>
+    <File md5="9B957B372C3553A4DA1B74C5E2A4293E" import="0">XML/Civilizations/Mali Traits Mod.xml</File>
+    <File md5="7B9FCA3828280D552FFA98C1947CB5C8" import="0">XML/Diplomacy/Mansa Musa Diplomacy Text.xml</File>
+    <File md5="33E740D92A9053B9A6A8C14096856E6C" import="0">XML/Diplomacy/Mansa Musa Diplomacy Responses.sql</File>
+    <File md5="07112CE5BB0C8538B27AE09B89D8D6FD" import="0">XML/Sounds/Leader Defines/Mansa Speech Defines.sql</File>
+    <File md5="3134E1055F40F3F13EF25AFC3E1EEC00" import="0">XML/Sounds/Leader Defines/Mansa_Audio_Triggers.fxsxml</File>
+    <File md5="942C98D394B5A6DE3AE2E4FBDD6B6E57" import="0">XML/Sounds/Mali Sound Mod.xml</File>
+    <File md5="CCCEAE33E9B302821597A37D306F67DA" import="0">XML/Text/Mali Game Text Mod.xml</File>
+    <File md5="155AB2084713640A3134F8CB016867D7" import="0">XML/Text/Non English XML Tags/Mali Game Text DE_DE.xml</File>
+    <File md5="796B59CD866001AB9D593ABD01016E1A" import="0">XML/Text/Non English XML Tags/Mali Game Text ES_ES.xml</File>
+    <File md5="626FD94597A3D340B5DB239E98D18D8D" import="0">XML/Text/Non English XML Tags/Mali Game Text FR_FR.xml</File>
+    <File md5="400157F1BFF907E89D0A440A7EA87F35" import="0">XML/Text/Non English XML Tags/Mali Game Text IT_IT.xml</File>
+    <File md5="36A00F70A473B995C30C53588E993699" import="0">XML/Text/Non English XML Tags/Mali Game Text JA_JP.xml</File>
+    <File md5="30E4B98404B5E7554F889B2FF2A6ED05" import="0">XML/Text/Non English XML Tags/Mali Game Text KO_KR.xml</File>
+    <File md5="CB0F3B75A7A02F037ECE67534A1A4F8B" import="0">XML/Text/Non English XML Tags/Mali Game Text PL_PL.xml</File>
+    <File md5="17CC8137C2BFB546A1784C6923D589D9" import="0">XML/Text/Non English XML Tags/Mali Game Text RU_RU.xml</File>
+    <File md5="64C07F0835AEAE9098C79834C9277994" import="0">XML/Units/Mali Promotion Mod.xml</File>
+    <File md5="00510ED74968B2BC6CD21EAFF6B459AF" import="0">XML/Units/Mali Units Mod.xml</File>
+    <File md5="291B12C94FF83CA09EFF5EC1F5E24125" import="0">YnAEMP/Mali YnAEMP Compatability.sql</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>SQL/Mali Unit Skin Mod.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Mali Building Class Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Mali Buildings Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Mali Game Text Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/Mali Promotion Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/Mali Units Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Art/Mali Unit Strategic View Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Mali Civilizations Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Mali Traits Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Mali Leader Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Art/Mali Atlas Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Sounds/Mali Sound Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Diplomacy/Mansa Musa Diplomacy Responses.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Diplomacy/Mansa Musa Diplomacy Text.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Mali Game Text DE_DE.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Mali Game Text ES_ES.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Mali Game Text FR_FR.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Mali Game Text IT_IT.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Mali Game Text JA_JP.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Mali Game Text KO_KR.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Mali Game Text PL_PL.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Mali Game Text RU_RU.xml</UpdateDatabase>
+      <UpdateDatabase>YnAEMP/Mali YnAEMP Compatability.sql</UpdateDatabase>
+      <UpdateDatabase>Decisions/Mali Decisions SQL.sql</UpdateDatabase>
+      <UpdateDatabase>Decisions/Mali Decisions Support.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Mali Mod Support.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Mali Mod Check.lua">
+      <Name>Mali UA</Name>
+      <Description>Mali UA</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

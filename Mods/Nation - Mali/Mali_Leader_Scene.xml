@@ -1,0 +1,6 @@
+<LeaderScene lights="Hiawatha_Lights_Character.gr2" camera="Bismarck_Camera.fxsxml" ColorKey="Sulieman_COLORKEY.tga"  cubemap_prefix ="Sulieman" FallbackImage="Mali_Diplo_Mod.dds">
+
+	<LeaderObject  model="mali_mansa.fxsxml" ></LeaderObject>
+	<BackgroundObject  model="Mansa_SCENE.fxsxml" ></BackgroundObject>
+
+</LeaderScene>

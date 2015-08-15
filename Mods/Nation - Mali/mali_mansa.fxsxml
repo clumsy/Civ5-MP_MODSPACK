@@ -1,0 +1,111 @@
+<Asset>
+	<Mesh file="mansa_musa.gr2"/>
+	<Animation file="Ottoman_Sulieman_Intro.gr2" ec="6000"/>
+	<Animation file="Ottoman_Sulieman_Neutral_Idle.gr2" ec="7000"/>
+	<Animation file="Ottoman_Sulieman_Neutral_Hello.gr2" ec="7003"/>
+	<Animation file="Ottoman_Sulieman_Declare_War.gr2" ec="9000"/>
+	<Animation file="Ottoman_Sulieman_Neutral_Yes_Gesture.gr2" ec="7008"/>
+	<Animation file="Ottoman_Sulieman_Defeated.gr2" ec="8000"/>
+	<Animation file="Ottoman_Sulieman_Request.gr2" ec="7002"/>
+	<Animation file="Ottoman_Sulieman_Neutral_No_Gesture.gr2" ec="7009"/>
+	<Animation file="Ottoman_Sulieman_Hate_Idle.gr2" ec="9001"/>
+	<Animation file="Ottoman_Sulieman_Neutral_Yes_Layer.gr2" ec="7005"/>
+	<Animation file="Ottoman_Sulieman_Neutral_Yes_Layer_2.gr2" ec="7012"/>
+	<Animation file="Ottoman_Sulieman_Neutral_Yes_Layer_3.gr2" ec="7013"/>
+	<Animation file="Ottoman_Sulieman_Neutral_No_Layer.gr2" ec="7006"/>
+	<Animation file="Ottoman_Sulieman_Neutral_No_Layer_2.gr2" ec="7014"/>
+	<Animation file="Ottoman_Sulieman_Hate_Hello.gr2" ec="9004"/>
+	<Animation file="Ottoman_Sulieman_Hate_Yes_Gesture.gr2" ec="9010, 9003"/>
+	<Animation file="Ottoman_Sulieman_Hate_Yes_Gesture_Base.gr2" ec="9030"/>
+	<Animation file="Ottoman_Sulieman_Hate_No_Gesture.gr2" ec="9011"/>
+	<Animation file="Ottoman_Sulieman_Hate_No_Gesture_Base.gr2" ec="9031"/>
+	<Animation file="Ottoman_Sulieman_Hostile_No_Layer.gr2" ec="9005"/>
+	<Animation file="Ottoman_Sulieman_Hostile_No_Layer_2.gr2" ec="9012"/>
+	<Animation file="Ottoman_Sulieman_Hostile_No_Layer_3.gr2" ec="9013"/>
+	<Animation file="Ottoman_Sulieman_Hostile_Yes_Layer.gr2" ec="9006"/>
+	<Animation file="Ottoman_Sulieman_Hostile_Yes_Layer_2.gr2" ec="9014"/>
+	<Animation file="Ottoman_Sulieman_Hostile_Yes_Layer_3.gr2" ec="9015"/>
+	<Animation file="Ottoman_Sulieman_Hostile_Hear_It.gr2" ec="9007"/>
+	<Animation file="Ottoman_Sulieman_Hostile_Hear_It_2.gr2" ec="9016, 9017"/>
+	<Animation file="Ottoman_Sulieman_Neutral_Hear_It.gr2" ec="7007"/>
+	<Animation file="Ottoman_Sulieman_Neutral_Hear_It_2_.gr2" ec="7010, 7011"/>
+	<Animation file="Ottoman_Sulieman_Defeated_Idle.gr2" ec="8001"/>
+	<Animation file="Ottoman_Sulieman_Attacked.gr2" ec="9002"/>
+	<Animation file="Ottoman_Sulieman_Trans_Neutral_Attack.gr2" ec="9021"/>
+	<Animation file="Ottoman_Sulieman_Hate_Trans_Attack.gr2" ec="9022"/>
+	<Animation file="Ottoman_Sulieman_Neutral_Yes_Gesture_Base.gr2" ec="7030"/>
+	<Animation file="Ottoman_Sulieman_Neutral_No_Gesture_Base.gr2" ec="7031"/>
+	<Animation file="Ottoman_Sulieman_Peaceful.gr2" ec="7001"/>
+	<Animation file="Ottoman_Sulieman_HateTransPeaceful.gr2" ec="7021"/>
+	<Animation file="Ottoman_Sulieman_Neutral_Yes_Gesture_02.gr2" ec="7070"/>
+	<Animation file="Ottoman_Sulieman_Neutral_No_Gesture_02.gr2" ec="7071"/>
+	<Animation file="Ottoman_Sulieman_Hate_Yes_Gesture_02.gr2" ec="9070"/>
+	<Animation file="Ottoman_Sulieman_Hate_Gesture_02.gr2" ec="9071"/>
+	<Texture file="Sulieman_Accessories_DIFF.dds"/>
+	<Texture file="Sulieman_Accessories_NORM.dds"/>
+	<Texture file="Sulieman_Accessories_SREF.dds"/>
+	<Texture file="Sulieman_Book_DIFF.dds"/>
+	<Texture file="Sulieman_Book_NORM.dds"/>
+	<Texture file="Sulieman_Book_SREF.dds"/>
+	<Texture file="Sulieman_Cloth_DIFF.dds"/>
+	<Texture file="Sulieman_Cloth_NORM.dds"/>
+	<Texture file="Sulieman_Cloth_SREF.dds"/>
+	<Texture file="Sulieman_Eye_NORM.dds"/>
+	<Texture file="Sulieman_Fur_DIFF.dds"/>
+	<Texture file="Sulieman_Fur_SREF.dds"/>
+	<Texture file="Sulieman_Fur_TRANS.dds"/>
+	<Texture file="Sulieman_Hair_DIFF.dds"/>
+	<Texture file="Sulieman_Hair_NORM.dds"/>
+	<Texture file="Sulieman_Hair_OPAC.dds"/>
+	<Texture file="Sulieman_Hair_SREF.dds"/>
+	<Texture file="Sulieman_Hair_TANG.dds"/>
+	<Texture file="Sulieman_Skin_BLUR.dds"/>
+	<Texture file="Sulieman_Skin_DIFF.dds"/>
+	<Texture file="Sulieman_Skin_NORM.dds"/>
+	<Texture file="Sulieman_Skin_SREF.dds"/>
+	<Texture file="Sulieman_Teeth_DIFF.dds"/>
+	<Texture file="Sulieman_Teeth_NORM.dds"/>
+	<Texture file="Sulieman_Teeth_SREF.dds"/>
+	<Texture file="Sulieman_Trans_DIFF.dds"/>
+	<Texture file="Sulieman_Trans_NORM.dds"/>
+	<Texture file="Sulieman_Trans_OPAC.dds"/>
+	<Texture file="Sulieman_Trans_SREF.dds"/>
+	<Texture file="Sulieman_UnderFur_DIFF.dds"/>
+	<Texture file="Sulieman_UnderFur_NORM.dds"/>
+	<Texture file="Sulieman_UnderFur_SREF.dds"/>
+	<Texture file="Sulieman_UnderFur_TANG.dds"/>
+	<Texture file="Sulieman_Velvet_DIFF.dds"/>
+	<Texture file="Sulieman_Velvet_NORM.dds"/>
+	<Texture file="Sulieman_Velvet_SREF.dds"/>
+	<Texture file="Sulieman_Environment_velvet.dds"/>
+	<Texture file="sulieman_environment_diffuse.dds"/>
+	<Texture file="sulieman_environment_reflection.dds"/>
+	<BoneUsage/>
+	<AnimGraph file="NEUTRAL_RESPONSE_ATTACKED_GRAPH_LEADER.dge"/>
+	<AnimGraph file="HATE_RESPONSE_ATTACKED_GRAPH_LEADER.dge"/>
+	<AnimGraph file="DEFEATED_GRAPH_LEADER.dge"/>
+	<StateMachine file="LEADER_FULL_STATE.fsmxml"/>
+	<AnimGraph file="HATE_HEAR_IT_SPEECH_GRAPH_LEADER.dge"/>
+	<AnimGraph file="NEUTRAL_HEAR_IT_SPEECH_GRAPH_LEADER.dge"/>
+	<AnimGraph file="INTRO_GRAPH_LEADER.dge"/>
+	<AnimGraph file="DEMAND_GRAPH_LEADER.dge"/>
+	<AnimGraph file="REQUEST_GRAPH_LEADER.dge"/>
+	<AnimGraph file="NEUTRAL_HELLO_GRAPH_LEADER.dge"/>
+	<AnimGraph file="HATE_HELLO_GRAPH_LEADER.dge"/>
+	<AnimGraph file="DEFEATED_IDLE_GRAPH_LEADER.dge"/>
+	<AnimGraph file="HATE_IDLE_GRAPH_LEADER.dge"/>
+	<AnimGraph file="NEUTRAL_IDLE_GRAPH_LEADER.dge"/>
+	<AnimGraph file="DECLARE_WAR_GRAPH_LEADER.dge"/>
+	<AnimGraph file="TRANS_NEUTRAL_ATTACKED_GRAPH_LEADER.dge"/>
+	<AnimGraph file="TRANS_HATE_ATTACKED_GRAPH_LEADER.dge"/>
+	<AnimGraph file="ATTACKED_GRAPH_LEADER.dge"/>
+	<AnimGraph file="NEUTRAL_IDLE_RESTART_GRAPH_LEADER.dge"/>
+	<AnimGraph file="HATE_IDLE_RESTART_GRAPH_LEADER.dge"/>
+	<AnimGraph file="HATE_YES_MULTI_GRAPH_LEADER.dge"/>
+	<AnimGraph file="HATE_NO_MULTI_GRAPH_LEADER.dge"/>
+	<AnimGraph file="NEUTRAL_NO_MULTI_GRAPH_LEADER.dge"/>
+	<AnimGraph file="NEUTRAL_YES_MULTI_GRAPH_LEADER.dge"/>
+	<AnimGraph file="PEACEFUL_GRAPH_LEADERS.dge"/>
+	<AnimGraph file="HATE_TRANS_PEACEFUL_GRAPH_LEADERS.dge"/>
+	<TimedTrigger file="ASKIA_AUDIO_TRIGGER.ftsxml"/>
+</Asset>
