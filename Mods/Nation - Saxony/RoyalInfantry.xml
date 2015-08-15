@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Units>
+    <Row>
+      <Type>UNIT_ROYAL_INFANTRY</Type>
+      <Description>TXT_KEY_UNIT_ROYAL_INFANTRY</Description>
+      <Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_ROYAL_INFANTRY_TEXT</Civilopedia>
+      <Strategy>TXT_KEY_UNIT_ROYAL_INFANTRY_STRATEGY</Strategy>
+      <Help>TXT_KEY_UNIT_HELP_ROYAL_INFANTRY</Help>
+      <Combat>34</Combat>
+      <Cost>225</Cost>
+      <FaithCost>450</FaithCost>
+      <RequiresFaithPurchaseEnabled>1</RequiresFaithPurchaseEnabled>
+      <PurchaseOnly>0</PurchaseOnly>
+      <MoveAfterPurchase>0</MoveAfterPurchase>
+      <Moves>2</Moves>
+      <Immobile>0</Immobile>
+      <Range>0</Range>
+      <BaseSightRange>2</BaseSightRange>
+      <Class>UNITCLASS_RIFLEMAN</Class>
+      <CombatClass>UNITCOMBAT_GUN</CombatClass>
+      <Domain>DOMAIN_LAND</Domain>
+      <CivilianAttackPriority></CivilianAttackPriority>
+      <DefaultUnitAI>UNITAI_DEFENSE</DefaultUnitAI>
+      <MilitarySupport>1</MilitarySupport>
+      <MilitaryProduction>1</MilitaryProduction>
+      <Pillage>1</Pillage>
+      <IgnoreBuildingDefense>1</IgnoreBuildingDefense>
+      <PrereqTech>TECH_RIFLING</PrereqTech>
+      <ObsoleteTech>TECH_REPLACEABLE_PARTS</ObsoleteTech>
+      <GoodyHutUpgradeUnitClass>UNITCLASS_GREAT_WAR_INFANTRY</GoodyHutUpgradeUnitClass>
+      <AdvancedStartCost>30</AdvancedStartCost>
+      <MinAreaSize>-1</MinAreaSize>
+      <NukeDamageLevel>-1</NukeDamageLevel>
+      <CombatLimit>100</CombatLimit>
+      <XPValueAttack>3</XPValueAttack>
+      <XPValueDefense>3</XPValueDefense>
+      <Conscription>5</Conscription>
+      <UnitArtInfo>ART_DEF_UNIT_SAXON_INFANTRY</UnitArtInfo>
+      <ShowInPedia>1</ShowInPedia>
+      <MoveRate>BIPED</MoveRate>
+      <UnitFlagIconOffset>0</UnitFlagIconOffset>
+      <PortraitIndex>1</PortraitIndex>
+      <IconAtlas>SAXONY_ATLAS</IconAtlas>
+      <UnitFlagAtlas>SAXON_INFANTRY_FLAG</UnitFlagAtlas>
+    </Row>
+  </Units>
+
+  <Unit_AITypes>
+    <Row>
+      <UnitType>UNIT_ROYAL_INFANTRY</UnitType>
+      <UnitAIType>UNITAI_ATTACK</UnitAIType>
+    </Row>
+    <Row>
+      <UnitType>UNIT_ROYAL_INFANTRY</UnitType>
+      <UnitAIType>UNITAI_DEFENSE</UnitAIType>
+    </Row>
+    <Row>
+      <UnitType>UNIT_ROYAL_INFANTRY</UnitType>
+      <UnitAIType>UNITAI_EXPLORE</UnitAIType>
+    </Row>
+  </Unit_AITypes>
+  <!-- Unit_Buildings -->
+  <!-- Unit_BuildingClassRequireds -->
+  <!-- Unit_ProductionModifierBuildings -->
+  <!-- Unit_Builds -->
+  <Unit_ClassUpgrades>
+    <Row>
+      <UnitType>UNIT_ROYAL_INFANTRY</UnitType>
+      <UnitClassType>UNITCLASS_GREAT_WAR_INFANTRY</UnitClassType>
+    </Row>
+  </Unit_ClassUpgrades>
+	
+	<Unit_FreePromotions>
+		<Row>
+			<UnitType>UNIT_ROYAL_INFANTRY</UnitType>
+			<PromotionType>PROMOTION_SKIRMISHER</PromotionType>
+		</Row>
+	</Unit_FreePromotions>
+	
+  <Unit_Flavors>
+    <Row>
+      <UnitType>UNIT_ROYAL_INFANTRY</UnitType>
+      <FlavorType>FLAVOR_OFFENSE</FlavorType>
+      <Flavor>10</Flavor>
+    </Row>
+    <Row>
+      <UnitType>UNIT_ROYAL_INFANTRY</UnitType>
+      <FlavorType>FLAVOR_DEFENSE</FlavorType>
+      <Flavor>10</Flavor>
+    </Row>
+  </Unit_Flavors>
+  <!-- Unit_GreatPersons -->
+  <!-- Unit_ResourceQuantityRequirements -->
+  <!-- Unit_UniqueNames -->
+  <!-- Unit_YieldFromKills -->
+  <!-- Unit_NotAITypes -->
+  <!-- Unit_ProductionTraits -->
+  <!-- Unit_TechTypes -->
+  <!-- UnitPromotions_CivilianUnitType -->
+  <UnitGameplay2DScripts>
+    <Row>
+      <UnitType>UNIT_ROYAL_INFANTRY</UnitType>
+      <SelectionSound>AS2D_SELECT_MUSKETMAN</SelectionSound>
+      <FirstSelectionSound>AS2D_BIRTH_MUSKETMAN</FirstSelectionSound>
+    </Row>
+  </UnitGameplay2DScripts>
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_UNIT_ROYAL_INFANTRY">
+      <Text>Royal Infantry</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_ROYAL_INFANTRY_TEXT">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_UNIT_ROYAL_INFANTRY_STRATEGY">
+      <Text>Saxon Royal Infantry, is Saxony's unique unit that replaces the rifleman. It has a 25% [ICON_STRENGTH] combat strength in rough terrain and ignores terrain costs. -10% [ICON_STRENGTH] combat strength in flat terrain.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_UNIT_HELP_ROYAL_INFANTRY">
+      <Text>Saxony's Fast moving mid-game infantry, specialises in rough terrain combat but suffers in flat.</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

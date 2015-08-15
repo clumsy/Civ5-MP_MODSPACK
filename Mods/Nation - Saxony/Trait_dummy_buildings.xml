@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/15/2014 5:06:31 PM -->
+<GameData>
+	
+	<Buildings>
+
+		<Row>
+			<Type>BUILDING_SAXONY_DEFENSE_SHRINE</Type>
+			<BuildingClass>BUILDINGCLASS_SAXONY_DEFENSE_SHRINE</BuildingClass>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<ArtDefineTag>NONE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<Defense>200</Defense>
+			<EnhancedYieldTech>TECH_RADAR</EnhancedYieldTech>
+			<TechEnhancedTourism>2</TechEnhancedTourism>
+			<NeverCapture>true</NeverCapture>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>CIV_COLOR_ATLAS</IconAtlas>
+		</Row>
+
+
+		<Row>
+			<Type>BUILDING_SAXONY_DEFENSE_TEMPLE</Type>
+			<BuildingClass>BUILDINGCLASS_SAXONY_DEFENSE_TEMPLE</BuildingClass>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<ArtDefineTag>NONE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<Defense>400</Defense>
+			<EnhancedYieldTech>TECH_RADAR</EnhancedYieldTech>
+			<TechEnhancedTourism>4</TechEnhancedTourism>
+			<NeverCapture>true</NeverCapture>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>CIV_COLOR_ATLAS</IconAtlas>
+		</Row>
+
+		<Row>
+			<Type>BUILDING_SAXONY_DEFENSE_CATHEDRAL</Type>
+			<BuildingClass>BUILDINGCLASS_SAXONY_DEFENSE_CATHEDRAL</BuildingClass>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<ArtDefineTag>NONE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<Defense>200</Defense>
+			<EnhancedYieldTech>TECH_RADAR</EnhancedYieldTech>
+			<TechEnhancedTourism>2</TechEnhancedTourism>
+			<NeverCapture>true</NeverCapture>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>CIV_COLOR_ATLAS</IconAtlas>
+		</Row>
+
+		<Row>
+			<Type>BUILDING_SAXONY_DEFENSE_MONASTERY</Type>
+			<BuildingClass>BUILDINGCLASS_SAXONY_DEFENSE_MONASTERY</BuildingClass>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<ArtDefineTag>NONE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<Defense>400</Defense>
+			<EnhancedYieldTech>TECH_RADAR</EnhancedYieldTech>
+			<TechEnhancedTourism>4</TechEnhancedTourism>
+			<NeverCapture>true</NeverCapture>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>CIV_COLOR_ATLAS</IconAtlas>
+		</Row>
+
+		<Row>
+			<Type>BUILDING_SAXONY_DEFENSE_MOSQUE</Type>
+			<BuildingClass>BUILDINGCLASS_SAXONY_DEFENSE_MOSQUE</BuildingClass>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<ArtDefineTag>NONE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<Defense>600</Defense>
+			<EnhancedYieldTech>TECH_RADAR</EnhancedYieldTech>
+			<TechEnhancedTourism>6</TechEnhancedTourism>
+			<NeverCapture>true</NeverCapture>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>CIV_COLOR_ATLAS</IconAtlas>
+		</Row>
+
+		<Row>
+			<Type>BUILDING_SAXONY_DEFENSE_PAGODA</Type>
+			<BuildingClass>BUILDINGCLASS_SAXONY_DEFENSE_PAGODA</BuildingClass>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<ArtDefineTag>NONE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<Defense>400</Defense>
+			<EnhancedYieldTech>TECH_RADAR</EnhancedYieldTech>
+			<TechEnhancedTourism>4</TechEnhancedTourism>
+			<NeverCapture>true</NeverCapture>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>CIV_COLOR_ATLAS</IconAtlas>
+		</Row>
+
+		<Row>
+			<Type>BUILDING_SAXONY_DEFENSE_GRAND_TEMPLE</Type>
+			<BuildingClass>BUILDINGCLASS_SAXONY_DEFENSE_GRAND_TEMPLE</BuildingClass>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<ArtDefineTag>NONE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<Defense>1600</Defense>
+			<EnhancedYieldTech>TECH_RADAR</EnhancedYieldTech>
+			<TechEnhancedTourism>16</TechEnhancedTourism>
+			<NeverCapture>true</NeverCapture>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>CIV_COLOR_ATLAS</IconAtlas>
+		</Row>
+
+		<Row>
+			<Type>BUILDING_SAXONY_DEFENSE_STONEHENGE</Type>
+			<BuildingClass>BUILDINGCLASS_SAXONY_DEFENSE_STONEHENGE</BuildingClass>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<ArtDefineTag>NONE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<Defense>1000</Defense>
+			<EnhancedYieldTech>TECH_RADAR</EnhancedYieldTech>
+			<TechEnhancedTourism>10</TechEnhancedTourism>
+			<NeverCapture>true</NeverCapture>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>CIV_COLOR_ATLAS</IconAtlas>
+		</Row>
+
+		<Row>
+			<Type>BUILDING_SAXONY_DEFENSE_NOTRE_DAME</Type>
+			<BuildingClass>BUILDINGCLASS_SAXONY_DEFENSE_NOTRE_DAME</BuildingClass>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<ArtDefineTag>NONE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<Defense>800</Defense>
+			<EnhancedYieldTech>TECH_RADAR</EnhancedYieldTech>
+			<TechEnhancedTourism>8</TechEnhancedTourism>
+			<NeverCapture>true</NeverCapture>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>CIV_COLOR_ATLAS</IconAtlas>
+		</Row>
+
+		<Row>
+			<Type>BUILDING_SAXONY_DEFENSE_BOROBUDUR</Type>
+			<BuildingClass>BUILDINGCLASS_SAXONY_DEFENSE_BOROBUDUR</BuildingClass>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<ArtDefineTag>NONE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<Defense>1000</Defense>
+			<EnhancedYieldTech>TECH_RADAR</EnhancedYieldTech>
+			<TechEnhancedTourism>10</TechEnhancedTourism>
+			<NeverCapture>true</NeverCapture>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>CIV_COLOR_ATLAS</IconAtlas>
+		</Row>
+
+		<Row>
+			<Type>BUILDING_SAXONY_DEFENSE_MOSQUE_OF_DJENNE</Type>
+			<BuildingClass>BUILDINGCLASS_SAXONY_DEFENSE_MOSQUE_OF_DJENNE</BuildingClass>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<ArtDefineTag>NONE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<Defense>600</Defense>
+			<EnhancedYieldTech>TECH_RADAR</EnhancedYieldTech>
+			<TechEnhancedTourism>6</TechEnhancedTourism>
+			<NeverCapture>true</NeverCapture>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>CIV_COLOR_ATLAS</IconAtlas>
+		</Row>
+
+		<Row>
+			<Type>BUILDING_SAXONY_DEFENSE_HAGIA_SOPHIA</Type>
+			<BuildingClass>BUILDINGCLASS_SAXONY_DEFENSE_HAGIA_SOPHIA</BuildingClass>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<ArtDefineTag>NONE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<Defense>600</Defense>
+			<EnhancedYieldTech>TECH_RADAR</EnhancedYieldTech>
+			<TechEnhancedTourism>6</TechEnhancedTourism>
+			<NeverCapture>true</NeverCapture>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>CIV_COLOR_ATLAS</IconAtlas>
+		</Row>
+		
+	</Buildings>
+
+	<BuildingClasses>
+		
+		<Row>
+			<Type>BUILDINGCLASS_SAXONY_DEFENSE_SHRINE</Type>
+			<DefaultBuilding>BUILDING_SAXONY_DEFENSE_SHRINE</DefaultBuilding>
+		</Row>
+
+		<Row>
+			<Type>BUILDINGCLASS_SAXONY_DEFENSE_TEMPLE</Type>
+			<DefaultBuilding>BUILDING_SAXONY_DEFENSE_TEMPLE</DefaultBuilding>
+		</Row>
+
+		<Row>
+			<Type>BUILDINGCLASS_SAXONY_DEFENSE_CATHEDRAL</Type>
+			<DefaultBuilding>BUILDING_SAXONY_DEFENSE_CATHEDRAL</DefaultBuilding>
+		</Row>
+
+		<Row>
+			<Type>BUILDINGCLASS_SAXONY_DEFENSE_MONASTERY</Type>
+			<DefaultBuilding>BUILDING_SAXONY_DEFENSE_MONASTERY</DefaultBuilding>
+		</Row>
+
+		<Row>
+			<Type>BUILDINGCLASS_SAXONY_DEFENSE_MOSQUE</Type>
+			<DefaultBuilding>BUILDING_SAXONY_DEFENSE_MOSQUE</DefaultBuilding>
+		</Row>
+
+		<Row>
+			<Type>BUILDINGCLASS_SAXONY_DEFENSE_PAGODA</Type>
+			<DefaultBuilding>BUILDING_SAXONY_DEFENSE_PAGODA</DefaultBuilding>
+		</Row>
+
+		<Row>
+			<Type>BUILDINGCLASS_SAXONY_DEFENSE_GRAND_TEMPLE</Type>
+			<DefaultBuilding>BUILDING_SAXONY_DEFENSE_GRAND_TEMPLE</DefaultBuilding>
+		</Row>
+
+		<Row>
+			<Type>BUILDINGCLASS_SAXONY_DEFENSE_STONEHENGE</Type>
+			<DefaultBuilding>BUILDING_SAXONY_DEFENSE_STONEHENGE</DefaultBuilding>
+		</Row>
+
+		<Row>
+			<Type>BUILDINGCLASS_SAXONY_DEFENSE_NOTRE_DAME</Type>
+			<DefaultBuilding>BUILDING_SAXONY_DEFENSE_NOTRE_DAME</DefaultBuilding>
+		</Row>
+
+		<Row>
+			<Type>BUILDINGCLASS_SAXONY_DEFENSE_BOROBUDUR</Type>
+			<DefaultBuilding>BUILDING_SAXONY_DEFENSE_BOROBUDUR</DefaultBuilding>
+		</Row>
+
+		<Row>
+			<Type>BUILDINGCLASS_SAXONY_DEFENSE_MOSQUE_OF_DJENNE</Type>
+			<DefaultBuilding>BUILDING_SAXONY_DEFENSE_MOSQUE_OF_DJENNE</DefaultBuilding>
+		</Row>
+
+		<Row>
+			<Type>BUILDINGCLASS_SAXONY_DEFENSE_HAGIA_SOPHIA</Type>
+			<DefaultBuilding>BUILDING_SAXONY_DEFENSE_HAGIA_SOPHIA</DefaultBuilding>
+		</Row>
+
+
+	</BuildingClasses>
+
+</GameData>

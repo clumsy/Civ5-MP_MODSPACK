@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Traits>
+    <Row>
+      <Type>TRAIT_PROVIDENCE_REMEMBER</Type>
+      <Description>TXT_KEY_TRAIT_PROVIDENCE_REMEMBER</Description>
+      <ShortDescription>TXT_KEY_TRAIT_PROVIDENCE_REMEMBER_SHORT</ShortDescription>
+    </Row>
+  </Traits>
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_TRAIT_PROVIDENCE_REMEMBER">
+      <Text>When a [ICON_PEACE] Faith producing building or wonder is built or purchased in a city the city's [ICON_STRENGTH] Defense increases by double the [ICON_PEACE] Faith output of the building. After Radar, [ICON_TOURISM] Tourism is also increased the same way.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_PROVIDENCE_REMEMBER_SHORT">
+      <Text>Providence Remember</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

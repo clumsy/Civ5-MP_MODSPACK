@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Units>
+	 <Row>
+	  <Type>UNIT_GARDE_DU_CORPS</Type>
+	  <Description>TXT_KEY_UNIT_GARDE_DU_CORPS</Description>
+	  <Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_GARDE_DU_CORPS_TEXT</Civilopedia>
+	  <Strategy>TXT_KEY_UNIT_GARDE_DU_CORPS_STRATEGY</Strategy>
+	  <Help>TXT_KEY_UNIT_HELP_GARDE_DU_CORPS</Help>
+	  <Combat>29</Combat>
+	  <Cost>185</Cost>
+	  <FaithCost>370</FaithCost>
+	  <RequiresFaithPurchaseEnabled>1</RequiresFaithPurchaseEnabled>
+	  <Moves>4</Moves>
+	  <BaseSightRange>2</BaseSightRange>
+	  <Class>UNITCLASS_LANCER</Class>
+	  <CombatClass>UNITCOMBAT_MOUNTED</CombatClass>
+	  <Domain>DOMAIN_LAND</Domain>
+	  <DefaultUnitAI>UNITAI_FAST_ATTACK</DefaultUnitAI>
+	  <MilitarySupport>1</MilitarySupport>
+	  <MilitaryProduction>1</MilitaryProduction>
+	  <Pillage>1</Pillage>
+	  <IgnoreBuildingDefense>1</IgnoreBuildingDefense>
+	  <PrereqTech>TECH_METALLURGY</PrereqTech>
+	  <ObsoleteTech>TECH_COMBINED_ARMS</ObsoleteTech>
+	  <GoodyHutUpgradeUnitClass>UNITCLASS_ANTI_TANK_GUN</GoodyHutUpgradeUnitClass>
+	  <AdvancedStartCost>30</AdvancedStartCost>
+	  <MinAreaSize>-1</MinAreaSize>
+	  <NukeDamageLevel>-1</NukeDamageLevel>
+	  <CombatLimit>100</CombatLimit>
+	  <XPValueAttack>3</XPValueAttack>
+	  <XPValueDefense>3</XPValueDefense>
+	  <UnitArtInfo>ART_DEF_UNIT_GARDE_DU_CORPS</UnitArtInfo>
+	  <ShowInPedia>1</ShowInPedia>
+	  <MoveRate>QUADRUPED</MoveRate>
+	  <UnitFlagIconOffset>0</UnitFlagIconOffset>
+	  <PortraitIndex>2</PortraitIndex>
+	  <IconAtlas>SAXONY_ATLAS</IconAtlas>
+	  <UnitFlagAtlas>GARDE_CORPS_FLAG</UnitFlagAtlas>
+    </Row>
+  </Units>
+
+  <Unit_AITypes>
+    <Row>
+      <UnitType>UNIT_GARDE_DU_CORPS</UnitType>
+      <UnitAIType>UNITAI_DEFENSE</UnitAIType>
+    </Row>
+    <Row>
+      <UnitType>UNIT_GARDE_DU_CORPS</UnitType>
+      <UnitAIType>UNITAI_FAST_ATTACK</UnitAIType>
+    </Row>
+  </Unit_AITypes>
+  <!-- Unit_Buildings -->
+  <!-- Unit_BuildingClassRequireds -->
+  <!-- Unit_ProductionModifierBuildings -->
+  <!-- Unit_Builds -->
+  <Unit_ClassUpgrades>
+    <Row>
+      <UnitType>UNIT_GARDE_DU_CORPS</UnitType>
+      <UnitClassType>UNITCLASS_ANTI_TANK_GUN</UnitClassType>
+    </Row>
+  </Unit_ClassUpgrades>
+  <Unit_FreePromotions>
+    <Row>
+      <UnitType>UNIT_GARDE_DU_CORPS</UnitType>
+      <PromotionType>PROMOTION_NO_DEFENSIVE_BONUSES</PromotionType>
+    </Row>
+	  <Row>
+		  <UnitType>UNIT_GARDE_DU_CORPS</UnitType>
+		  <PromotionType>PROMOTION_COVER_1</PromotionType>
+	  </Row>
+    <Row>
+      <UnitType>UNIT_GARDE_DU_CORPS</UnitType>
+      <PromotionType>PROMOTION_CAN_MOVE_AFTER_ATTACKING</PromotionType>
+    </Row>
+    <Row>
+      <UnitType>UNIT_GARDE_DU_CORPS</UnitType>
+      <PromotionType>PROMOTION_CITY_PENALTY</PromotionType>
+    </Row>
+    <Row>
+      <UnitType>UNIT_GARDE_DU_CORPS</UnitType>
+      <PromotionType>PROMOTION_FORMATION_1</PromotionType>
+    </Row>
+  </Unit_FreePromotions>
+  <Unit_Flavors>
+    <Row>
+      <UnitType>UNIT_GARDE_DU_CORPS</UnitType>
+      <FlavorType>FLAVOR_OFFENSE</FlavorType>
+      <Flavor>9</Flavor>
+    </Row>
+    <Row>
+      <UnitType>UNIT_GARDE_DU_CORPS</UnitType>
+      <FlavorType>FLAVOR_DEFENSE</FlavorType>
+      <Flavor>3</Flavor>
+    </Row>
+    <Row>
+      <UnitType>UNIT_GARDE_DU_CORPS</UnitType>
+      <FlavorType>FLAVOR_MOBILE</FlavorType>
+      <Flavor>7</Flavor>
+    </Row>
+  </Unit_Flavors>
+  <!-- Unit_GreatPersons -->
+  <Unit_ResourceQuantityRequirements>
+    <Row>
+      <UnitType>UNIT_GARDE_DU_CORPS</UnitType>
+      <ResourceType>RESOURCE_HORSE</ResourceType>
+      <Cost>1</Cost>
+    </Row>
+  </Unit_ResourceQuantityRequirements>
+  <!-- Unit_UniqueNames -->
+  <!-- Unit_YieldFromKills -->
+  <!-- Unit_NotAITypes -->
+  <!-- Unit_ProductionTraits -->
+  <!-- Unit_TechTypes -->
+  <!-- UnitPromotions_CivilianUnitType -->
+  <UnitGameplay2DScripts>
+    <Row>
+      <UnitType>UNIT_GARDE_DU_CORPS</UnitType>
+      <SelectionSound>AS2D_SELECT_HORSEMAN</SelectionSound>
+      <FirstSelectionSound>AS2D_BIRTH_HORSEMAN</FirstSelectionSound>
+    </Row>
+  </UnitGameplay2DScripts>
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_UNIT_GARDE_DU_CORPS">
+      <Text>Garde Du Corps</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_GARDE_DU_CORPS_TEXT">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_UNIT_GARDE_DU_CORPS_STRATEGY">
+      <Text>Garde Du Corps are Saxony's unique Lancer, that has good defense against ranged and has a higher combat strength.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_UNIT_HELP_GARDE_DU_CORPS">
+      <Text>Saxon replacement for the Lancer, has higher combat strength and cover against ranged attacks.</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

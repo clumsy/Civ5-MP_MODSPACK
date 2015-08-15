@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_SKIRMISHER</Type>
+			<Description>TXT_KEY_PROMOTION_SKIRMISHER</Description>
+			<Help>TXT_KEY_PROMOTION_SKIRMISHER_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<LostWithUpgrade>true</LostWithUpgrade>
+			<CannotBeChosen>true</CannotBeChosen>
+			<IgnoreTerrainCost>true</IgnoreTerrainCost>
+			<RoughAttack>25</RoughAttack>
+			<RoughDefense>25</RoughDefense>
+			<OpenAttack>-10</OpenAttack>
+			<OpenDefense>-10</OpenDefense>
+			<OrderPriority>7</OrderPriority>
+			<PortraitIndex>23</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTE</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_SKIRMISHER</PediaEntry>
+		</Row>
+	</UnitPromotions>				
+
+	<UnitPromotions_UnitCombats>
+		<Row>
+			<PromotionType>PROMOTION_SKIRMISHER</PromotionType>
+			<UnitCombatType>UNITCOMBAT_GUN</UnitCombatType>
+		</Row>
+		</UnitPromotions_UnitCombats>
+<Language_en_US>
+	<Row Tag="TXT_KEY_PROMOTION_SKIRMISHER">
+		<Text>Skirmisher</Text>
+	</Row>
+	<Row Tag="TXT_KEY_PROMOTION_SKIRMISHER_HELP">
+		<Text>15% [ICON_STRENGTH] Combat Strength in rough terrain and ignores terrain costs. -15% [ICON_STRENGTH] combat strength when in flat terrain.</Text>
+	</Row>
+</Language_en_US>
+</GameData>
+			

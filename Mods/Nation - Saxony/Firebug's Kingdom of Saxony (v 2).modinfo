@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="a647d0c8-8143-4f1a-a2c6-6c35fea9acb8" version="2">
+  <Properties>
+    <Name>Firebug's Kingdom of Saxony</Name>
+    <Stability>Beta</Stability>
+    <Teaser>Kingdom of Saxony - Frederick Augustus III</Teaser>
+    <Description>Adds the Kingdom of Saxony, ruled by Frederick Augustus III.
+
+Providence Remember - When a faith producing building or wonder is built or purchased in a city the city's defense increases by double the faith output of the building. After Radar, tourism is also increased the same way.
+
+Royal Infantry (Rifleman) - Has the Skirmisher promotion which gives a strength bonus in rough terrain and ignores terrain costs. Weaker when in flat terrain.
+
+Garde Du Corps (Lancers) - 33% Defense against ranged. Higher combat strength.</Description>
+    <Authors>Firebug</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="81F17D92061CCBFCA102FA685719E27B" import="1">Art/SaxonyAtlases.xml</File>
+    <File md5="5776C2B2469CA3E2DE375642C9497706" import="1">Art/frederickscene.dds</File>
+    <File md5="A643A001E385A9932217F7FC83C98B0C" import="1">Art/GardecorpsFlag.dds</File>
+    <File md5="62D231FE92F5383CC4354DF299050A5E" import="1">Art/RoyalSaxonFlag.dds</File>
+    <File md5="C53165DA3A1920001CAA199550ACC2CC" import="1">Art/SaxonDOM.dds</File>
+    <File md5="032522BDF08CB35066C9C63DBF18A086" import="1">Art/SaxonyAlpha128.dds</File>
+    <File md5="E3BEE424383A85E7B60024CFC49CBF4F" import="1">Art/SaxonyAlpha16.dds</File>
+    <File md5="1AAA287F879684297AD129E93CDA61C1" import="1">Art/SaxonyAlpha24.dds</File>
+    <File md5="A911D1D9C8C90F7FB6014EABF60D45C2" import="1">Art/SaxonyAlpha32.dds</File>
+    <File md5="8AFB7CCD0255F76315301B3AFF328F83" import="1">Art/SaxonyAlpha48.dds</File>
+    <File md5="F9CFDDBDB6F94597AE61D5FB699E9E6E" import="1">Art/SaxonyAlpha64.dds</File>
+    <File md5="862A55FF8AC5B2CC8488F421D24727B4" import="1">Art/SaxonyAlpha80.dds</File>
+    <File md5="6F419F967B48273A2899E5094C1EC489" import="1">Art/SaxonyAtlas128.dds</File>
+    <File md5="9AEF05E02271E4B68DE54498EB647D40" import="1">Art/SaxonyAtlas16.dds</File>
+    <File md5="5FC78703D15F6CFE83B6F2D0F9CCDDAF" import="1">Art/SaxonyAtlas24.dds</File>
+    <File md5="F9DD846847B4CA7C9D85FA3C0A272330" import="1">Art/SaxonyAtlas256.dds</File>
+    <File md5="3F9B2FA1752C9A2BCDCBEBF30D797F23" import="1">Art/SaxonyAtlas32.dds</File>
+    <File md5="D15F1C2939A2A4F8BACA02E866E12C79" import="1">Art/SaxonyAtlas45.dds</File>
+    <File md5="63EC9CF0C406191D97B9E6177E289F76" import="1">Art/SaxonyAtlas48.dds</File>
+    <File md5="36A409FBD4C0C59F17906F15C5BDB7D7" import="1">Art/SaxonyAtlas64.dds</File>
+    <File md5="71AC244202F632448FD1C34DE7A34B45" import="1">Art/SaxonyAtlas80.dds</File>
+    <File md5="F919FF4C4775A177C6CC5E835537DF75" import="1">Art/SaxonyMap.dds</File>
+    <File md5="8430D8E4BACB9FF9644B629E65C69761" import="0">Assets/Lua/saxonytrait.lua</File>
+    <File md5="66C05D32504BC1C77A63D16B0A3D1EA9" import="0">Compatibility/CivIVLeaderTraits.sql</File>
+    <File md5="288E6C4CEADDD10C800B9571D131C637" import="0">Compatibility/Cultural_Diversity.sql</File>
+    <File md5="8706F275926EC0D157E26E30BD41FCB0" import="0">Compatibility/Ethnic_units_Saxony.sql</File>
+    <File md5="47DF52146779CE12B216B6D81B711F1E" import="0">Compatibility/MapLabels.sql</File>
+    <File md5="5AA92B92365A057D127BD488B6B4C861" import="0">Compatibility/Piety_Prestige.sql</File>
+    <File md5="A0C74359322BB724BA253FE8467F525D" import="1">UnitArt/Cavalry/frelr1.blend</File>
+    <File md5="5ACCD43456B6EA314724230A72407713" import="1">UnitArt/Cavalry/frelr1.dds</File>
+    <File md5="C79C3085DBB66FE4E4269220A9563B4D" import="1">UnitArt/Cavalry/frelr1.fxsxml</File>
+    <File md5="B8F527CEABBE65A2412612FF691EF261" import="1">UnitArt/Cavalry/frelr1.gr2</File>
+    <File md5="B9735D05EB8D4214F80CA5FC1E729A01" import="1">UnitArt/Cavalry/frelr1_sref.dds</File>
+    <File md5="BCEC573734659506BE658339CF194C49" import="1">UnitArt/Cavalry/GardeCorpsUnitArt.xml</File>
+    <File md5="94E903CD54A121F12EAEC067E60C2962" import="1">UnitArt/Infantry/civ5_sacmm2.fxsxml</File>
+    <File md5="8BD99B84B3906FF226D5B3EB26747411" import="1">UnitArt/Infantry/civ5_sacmm2.gr2</File>
+    <File md5="CBF6F562521C84A18E41E4AAF0D92AA0" import="1">UnitArt/Infantry/sacmm2.dds</File>
+    <File md5="572F7CBF79CEA9D6B26886747A811E27" import="1">UnitArt/Infantry/sacmm2_sref.dds</File>
+    <File md5="8C9EF2634389F4AC2D7429D5BD45EB34" import="1">UnitArt/Infantry/SaxonInfantryUnitArt.xml</File>
+    <File md5="5C032087E51877EEA5EAA5B9D1D3A240" import="1">XML/Civ/FrederickScene.xml</File>
+    <File md5="8ABE765E63787A945B2999824A7882BE" import="0">XML/Civ/Civilization.xml</File>
+    <File md5="4BB784A1A65EBDB0DB8CBF033B25154D" import="0">XML/Civ/DiplomacyResponses.xml</File>
+    <File md5="42D62025B5101E31E57A0D9589A5CCC0" import="0">XML/Civ/Leader.xml</File>
+    <File md5="14CB3EB347218838A3AB7FF0B64389AB" import="0">XML/Civ/Trait.xml</File>
+    <File md5="70EA1AC6E38D28E80BB48720EA419217" import="0">XML/Dummy_Buildings/Trait_dummy_buildings.xml</File>
+    <File md5="5A407BDCFAF50B3A055AF21BD534831B" import="0">XML/Unit/SkirmisherPromotion.xml</File>
+    <File md5="F87896D86C479BAD19311703E607A407" import="0">XML/Unit/GardeDuCorps.xml</File>
+    <File md5="081370C40CAF6D2F0214C48A09EEDF0B" import="0">XML/Unit/RoyalInfantry.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/SaxonyAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civ/Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civ/DiplomacyResponses.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civ/Leader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civ/Trait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Dummy_Buildings/Trait_dummy_buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Unit/GardeDuCorps.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Unit/RoyalInfantry.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Unit/SkirmisherPromotion.xml</UpdateDatabase>
+      <UpdateDatabase>UnitArt/Infantry/SaxonInfantryUnitArt.xml</UpdateDatabase>
+      <UpdateDatabase>UnitArt/Cavalry/GardeCorpsUnitArt.xml</UpdateDatabase>
+      <UpdateDatabase>Compatibility/CivIVLeaderTraits.sql</UpdateDatabase>
+      <UpdateDatabase>Compatibility/Cultural_Diversity.sql</UpdateDatabase>
+      <UpdateDatabase>Compatibility/Ethnic_units_Saxony.sql</UpdateDatabase>
+      <UpdateDatabase>Compatibility/MapLabels.sql</UpdateDatabase>
+      <UpdateDatabase>Compatibility/Piety_Prestige.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Civ/FrederickScene.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Assets/Lua/saxonytrait.lua">
+      <Name>trait</Name>
+      <Description>trait</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Civilizations>
+    <Row>
+      <Type>CIVILIZATION_SAXONY</Type>
+      <Description>TXT_KEY_CIV_SAXONY_DESC</Description>
+      <Civilopedia></Civilopedia>
+      <CivilopediaTag>TXT_KEY_CIV5_SAXONY</CivilopediaTag>
+      <Strategy></Strategy>
+      <Playable>1</Playable>
+      <AIPlayable>1</AIPlayable>
+      <ShortDescription>TXT_KEY_CIV_SAXONY_SHORT_DESC</ShortDescription>
+      <Adjective>TXT_KEY_CIV_SAXONY_ADJECTIVE</Adjective>
+      <DefaultPlayerColor>PLAYERCOLOR_SAXONY</DefaultPlayerColor>
+      <ArtDefineTag>ART_DEF_CIVILIZATION_SAXONY</ArtDefineTag>
+      <ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+      <ArtStyleSuffix>_EURO</ArtStyleSuffix>
+      <ArtStylePrefix>EUROPEAN</ArtStylePrefix>
+      <PortraitIndex>0</PortraitIndex>
+      <IconAtlas>SAXONY_ATLAS</IconAtlas>
+      <AlphaIconAtlas>SAXONY_ALPHA</AlphaIconAtlas>
+      <MapImage>SaxonyMap.dds</MapImage>
+      <DawnOfManQuote>TXT_KEY_CIV5_DAWN_SAXONY_TEXT</DawnOfManQuote>
+      <DawnOfManImage>SaxonDOM.dds</DawnOfManImage>
+    </Row>
+  </Civilizations>
+
+  <!-- Civilization_BuildingClassOverrides -->
+  <Civilization_CityNames>
+    <Row>
+      <CivilizationType>CIVILIZATION_SAXONY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SAXONY_0</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SAXONY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SAXONY_1</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SAXONY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SAXONY_2</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SAXONY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SAXONY_3</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SAXONY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SAXONY_4</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SAXONY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SAXONY_5</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SAXONY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SAXONY_6</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SAXONY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SAXONY_7</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SAXONY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SAXONY_8</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SAXONY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SAXONY_9</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SAXONY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SAXONY_10</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SAXONY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SAXONY_11</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SAXONY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SAXONY_12</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SAXONY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SAXONY_13</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SAXONY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SAXONY_14</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SAXONY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SAXONY_15</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SAXONY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SAXONY_16</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SAXONY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SAXONY_17</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SAXONY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SAXONY_18</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SAXONY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SAXONY_19</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SAXONY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SAXONY_20</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SAXONY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SAXONY_21</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SAXONY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SAXONY_22</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SAXONY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SAXONY_23</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SAXONY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SAXONY_24</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SAXONY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SAXONY_25</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SAXONY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SAXONY_26</CityName>
+    </Row>
+  </Civilization_CityNames>
+  <!-- Civilization_DisableTechs -->
+  <Civilization_FreeBuildingClasses>
+    <Row>
+      <CivilizationType>CIVILIZATION_SAXONY</CivilizationType>
+      <BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+    </Row>
+  </Civilization_FreeBuildingClasses>
+  <Civilization_FreeTechs>
+    <Row>
+      <CivilizationType>CIVILIZATION_SAXONY</CivilizationType>
+      <TechType>TECH_AGRICULTURE</TechType>
+    </Row>
+  </Civilization_FreeTechs>
+  <Civilization_FreeUnits>
+    <Row>
+      <CivilizationType>CIVILIZATION_SAXONY</CivilizationType>
+      <UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+      <UnitAIType>UNITAI_SETTLE</UnitAIType>
+      <Count>1</Count>
+    </Row>
+  </Civilization_FreeUnits>
+  <Civilization_Leaders>
+    <Row>
+      <CivilizationType>CIVILIZATION_SAXONY</CivilizationType>
+      <LeaderheadType>LEADER_FREDERICK</LeaderheadType>
+    </Row>
+  </Civilization_Leaders>
+  <Civilization_Religions>
+    <Row>
+      <CivilizationType>CIVILIZATION_SAXONY</CivilizationType>
+      <ReligionType>RELIGION_PROTESTANTISM</ReligionType>
+    </Row>
+  </Civilization_Religions>
+  <Civilization_SpyNames>
+    <Row>
+      <CivilizationType>CIVILIZATION_SAXONY</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_SAXONY_0</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SAXONY</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_SAXONY_1</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SAXONY</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_SAXONY_2</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SAXONY</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_SAXONY_3</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SAXONY</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_SAXONY_4</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SAXONY</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_SAXONY_5</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SAXONY</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_SAXONY_6</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SAXONY</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_SAXONY_7</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SAXONY</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_SAXONY_8</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SAXONY</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_SAXONY_9</SpyName>
+    </Row>
+  </Civilization_SpyNames>
+  <Civilization_UnitClassOverrides>
+    <Row>
+      <CivilizationType>CIVILIZATION_SAXONY</CivilizationType>
+      <UnitClassType>UNITCLASS_RIFLEMAN</UnitClassType>
+      <UnitType>UNIT_ROYAL_INFANTRY</UnitType>
+    </Row>
+	  <Row>
+		  <CivilizationType>CIVILIZATION_SAXONY</CivilizationType>
+		  <UnitClassType>UNITCLASS_LANCER</UnitClassType>
+		  <UnitType>UNIT_GARDE_DU_CORPS</UnitType>
+	  </Row>
+  </Civilization_UnitClassOverrides>
+  <!-- Civilization_Start_Along_Ocean -->
+  <!-- Civilization_Start_Along_River -->
+	<Civilization_Start_Region_Priority>
+		<Row>
+			<CivilizationType>CIVILIZATION_SAXONY</CivilizationType>
+			<RegionType>REGION_FOREST</RegionType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_SAXONY</CivilizationType>
+			<RegionType>REGION_HILLS</RegionType>
+		</Row>
+	</Civilization_Start_Region_Priority>
+  <!-- Civilization_Start_Region_Avoid -->
+  <!-- Civilization_Start_Place_First_Along_Ocean -->
+
+  <PlayerColors>
+    <Row>
+      <Type>PLAYERCOLOR_SAXONY</Type>
+      <PrimaryColor>COLOR_PLAYER_SAXONY_ICON</PrimaryColor>
+      <SecondaryColor>COLOR_PLAYER_SAXONY_BACKGROUND</SecondaryColor>
+      <TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+    </Row>
+  </PlayerColors>
+  <Colors>
+    <Row>
+      <Type>COLOR_PLAYER_SAXONY_ICON</Type>
+      <Red>0.043</Red>
+      <Green>0.043</Green>
+      <Blue>0.043</Blue>
+      <Alpha>1.0</Alpha>
+    </Row>
+  </Colors>
+  <Colors>
+    <Row>
+      <Type>COLOR_PLAYER_SAXONY_BACKGROUND</Type>
+      <Red>0.807</Red>
+      <Green>0.827</Green>
+      <Blue>0.094</Blue>
+      <Alpha>1.0</Alpha>
+    </Row>
+  </Colors>
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_CIV_SAXONY_DESC">
+      <Text>Kingdom of Saxony</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SAXONY_FACTOID_HEADING">
+      <Text>SAXON Factoid</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SAXONY_FACTOID_TEXT">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SAXONY_HEADING_1">
+      <Text>History</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SAXONY_HEADING_10">
+      <Text>The Fall of SAXONy (Part I)</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SAXONY_HEADING_11">
+      <Text>The Rise of SAXONy (Part II)</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SAXONY_HEADING_12">
+      <Text>The Fall of SAXONy (Part II)</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SAXONY_HEADING_13">
+      <Text>The Rise of SAXONy (Part III)</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SAXONY_HEADING_14">
+      <Text>The Fall of SAXONy (Part III)</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SAXONY_HEADING_15">
+      <Text>The Rise of SAXONy (Part IV)</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SAXONY_HEADING_2">
+      <Text>Climate and Terrain</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SAXONY_HEADING_3">
+      <Text>Pre-History</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SAXONY_HEADING_4">
+      <Text>The Romans</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SAXONY_HEADING_5">
+      <Text>Enter the Huns</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SAXONY_HEADING_6">
+      <Text>The Franks</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SAXONY_HEADING_7">
+      <Text>Charlemagne and the Holy Roman Empire</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SAXONY_HEADING_8">
+      <Text>The Rise of SAXONy (Part I)</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SAXONY_HEADING_9">
+      <Text>The Middle Ages</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SAXONY_TEXT_1">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SAXONY_TEXT_10">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SAXONY_TEXT_11">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SAXONY_TEXT_12">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SAXONY_TEXT_13">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SAXONY_TEXT_14">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SAXONY_TEXT_15">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SAXONY_TEXT_2">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SAXONY_TEXT_3">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SAXONY_TEXT_4">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SAXONY_TEXT_5">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SAXONY_TEXT_6">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SAXONY_TEXT_7">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SAXONY_TEXT_8">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SAXONY_TEXT_9">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SAXONY_TITLE">
+      <Text>Saxony</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_SAXONY_SHORT_DESC">
+      <Text>Saxony</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_SAXONY_ADJECTIVE">
+      <Text>Saxon</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_DAWN_SAXONY_TEXT">
+      <Text>Greetings, Frederick Augustus III, last King of Saxony. At 12 years old you joined the Royal Saxon army, and quickly ascended the ranks. In 1904 you ended your military career when you started your reign of Saxony. Saxony was an independent member of a number of historical confederacies through post-Napoleonic Germany. When the German Republic was proclaimed in 1918, you were asked by telephone whether you would abdicate willingly. "Oh, well, I suppose I'd better.", you replied. You were well loved by your people and even after your abdication you were cheered by people in public.  [NEWLINE][NEWLINE]King Frederick August III, you once ruled your nation, loved by many, and with has a proud military history. But can you bring back the great kingdom that Saxony once was? Can you build a civilization that will stand the test of time?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SAXONY_0">
+      <Text>Dresden</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SAXONY_1">
+      <Text>Leipzig</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SAXONY_2">
+      <Text>Chemnitz</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SAXONY_3">
+      <Text>Zwickau</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SAXONY_4">
+      <Text>Plauen</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SAXONY_5">
+      <Text>Gorlitz</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SAXONY_6">
+      <Text>Freiberg</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SAXONY_7">
+      <Text>Bautzen</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SAXONY_8">
+      <Text>Freital</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SAXONY_9">
+      <Text>Pirna</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SAXONY_10">
+      <Text>Annaberg-Buchholz</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SAXONY_11">
+      <Text>Torgau</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SAXONY_12">
+      <Text>Zittau</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SAXONY_13">
+      <Text>Reichenbach</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SAXONY_14">
+      <Text>Gorschnitz</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SAXONY_15">
+      <Text>Dobeln</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SAXONY_16">
+      <Text>Altenberg</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SAXONY_17">
+      <Text>Greiz</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SAXONY_18">
+      <Text>Gera</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SAXONY_19">
+      <Text>Wiessenfels</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SAXONY_20">
+      <Text>Halle</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SAXONY_21">
+      <Text>Merseberg</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SAXONY_22">
+      <Text>Schkeuditz</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SAXONY_23">
+      <Text>Elsterwerda</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SAXONY_24">
+      <Text>Weibwasser</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SAXONY_25">
+      <Text>Riesa</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SAXONY_26">
+      <Text>Meiben</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_SAXONY_0">
+      <Text>Johann</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_SAXONY_1">
+      <Text>Marlene</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_SAXONY_2">
+      <Text>Wilhelm</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_SAXONY_3">
+      <Text>Eva</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_SAXONY_4">
+      <Text>Heinz</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_SAXONY_5">
+      <Text>Horst</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_SAXONY_6">
+      <Text>Carl</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_SAXONY_7">
+      <Text>Viper</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_SAXONY_8">
+      <Text>Albrecht</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_SAXONY_9">
+      <Text>Anton</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

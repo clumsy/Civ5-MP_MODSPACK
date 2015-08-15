@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Leaders>
+    <Row>
+      <Type>LEADER_FREDERICK</Type>
+      <Description>TXT_KEY_LEADER_FREDERICK</Description>
+      <Civilopedia>TXT_KEY_LEADER_FREDERICK_PEDIA</Civilopedia>
+      <CivilopediaTag>TXT_KEY_CIVILOPEDIA_LEADERS_FREDERICK</CivilopediaTag>
+      <ArtDefineTag>Bismark_Scene.xml</ArtDefineTag>
+		<VictoryCompetitiveness>4</VictoryCompetitiveness>
+		<WonderCompetitiveness>5</WonderCompetitiveness>
+		<MinorCivCompetitiveness>5</MinorCivCompetitiveness>
+		<Boldness>5</Boldness>
+		<DiploBalance>7</DiploBalance>
+		<WarmongerHate>5</WarmongerHate>
+		<WorkAgainstWillingness>0</WorkAgainstWillingness>
+		<WorkWithWillingness>0</WorkWithWillingness>
+		<DenounceWillingness>5</DenounceWillingness>
+		<DoFWillingness>6</DoFWillingness>
+		<Loyalty>6</Loyalty>
+		<Neediness>4</Neediness>
+		<Forgiveness>6</Forgiveness>
+		<Chattiness>6</Chattiness>
+		<Meanness>4</Meanness>
+      <PortraitIndex>3</PortraitIndex>
+      <IconAtlas>SAXONY_ATLAS</IconAtlas>
+    </Row>
+  </Leaders>
+
+
+  <Leader_MajorCivApproachBiases>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <MajorCivApproachType>MAJOR_CIV_APPROACH_WAR</MajorCivApproachType>
+      <Bias>7</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <MajorCivApproachType>MAJOR_CIV_APPROACH_HOSTILE</MajorCivApproachType>
+      <Bias>5</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <MajorCivApproachType>MAJOR_CIV_APPROACH_DECEPTIVE</MajorCivApproachType>
+      <Bias>3</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <MajorCivApproachType>MAJOR_CIV_APPROACH_GUARDED</MajorCivApproachType>
+      <Bias>4</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <MajorCivApproachType>MAJOR_CIV_APPROACH_AFRAID</MajorCivApproachType>
+      <Bias>4</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <MajorCivApproachType>MAJOR_CIV_APPROACH_FRIENDLY</MajorCivApproachType>
+      <Bias>6</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <MajorCivApproachType>MAJOR_CIV_APPROACH_NEUTRAL</MajorCivApproachType>
+      <Bias>6</Bias>
+    </Row>
+  </Leader_MajorCivApproachBiases>
+  <Leader_MinorCivApproachBiases>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <MinorCivApproachType>MINOR_CIV_APPROACH_IGNORE</MinorCivApproachType>
+      <Bias>4</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <MinorCivApproachType>MINOR_CIV_APPROACH_FRIENDLY</MinorCivApproachType>
+      <Bias>7</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <MinorCivApproachType>MINOR_CIV_APPROACH_PROTECTIVE</MinorCivApproachType>
+      <Bias>7</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <MinorCivApproachType>MINOR_CIV_APPROACH_CONQUEST</MinorCivApproachType>
+      <Bias>4</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <MinorCivApproachType>MINOR_CIV_APPROACH_BULLY</MinorCivApproachType>
+      <Bias>4</Bias>
+    </Row>
+  </Leader_MinorCivApproachBiases>
+  <Leader_Flavors>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <FlavorType>FLAVOR_OFFENSE</FlavorType>
+      <Flavor>6</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <FlavorType>FLAVOR_DEFENSE</FlavorType>
+      <Flavor>6</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+      <Flavor>8</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <FlavorType>FLAVOR_RECON</FlavorType>
+      <Flavor>4</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <FlavorType>FLAVOR_RANGED</FlavorType>
+      <Flavor>4</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <FlavorType>FLAVOR_MOBILE</FlavorType>
+      <Flavor>7</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <FlavorType>FLAVOR_NAVAL</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <FlavorType>FLAVOR_NAVAL_RECON</FlavorType>
+      <Flavor>3</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <FlavorType>FLAVOR_NAVAL_GROWTH</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <FlavorType>FLAVOR_NAVAL_TILE_IMPROVEMENT</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <FlavorType>FLAVOR_AIR</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <FlavorType>FLAVOR_EXPANSION</FlavorType>
+      <Flavor>4</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <FlavorType>FLAVOR_GROWTH</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <FlavorType>FLAVOR_TILE_IMPROVEMENT</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <FlavorType>FLAVOR_INFRASTRUCTURE</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <FlavorType>FLAVOR_PRODUCTION</FlavorType>
+      <Flavor>6</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <FlavorType>FLAVOR_GOLD</FlavorType>
+      <Flavor>6</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <FlavorType>FLAVOR_SCIENCE</FlavorType>
+      <Flavor>7</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <FlavorType>FLAVOR_CULTURE</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <FlavorType>FLAVOR_HAPPINESS</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+      <Flavor>9</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <FlavorType>FLAVOR_WONDER</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <FlavorType>FLAVOR_RELIGION</FlavorType>
+      <Flavor>4</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <FlavorType>FLAVOR_DIPLOMACY</FlavorType>
+      <Flavor>8</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <FlavorType>FLAVOR_SPACESHIP</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <FlavorType>FLAVOR_WATER_CONNECTION</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <FlavorType>FLAVOR_NUKE</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <FlavorType>FLAVOR_USE_NUKE</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <FlavorType>FLAVOR_ESPIONAGE</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <FlavorType>FLAVOR_ANTIAIR</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <FlavorType>FLAVOR_AIR_CARRIER</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <FlavorType>FLAVOR_ARCHAEOLOGY</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <FlavorType>FLAVOR_I_LAND_TRADE_ROUTE</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <FlavorType>FLAVOR_I_SEA_TRADE_ROUTE</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <FlavorType>FLAVOR_I_TRADE_ORIGIN</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <FlavorType>FLAVOR_I_TRADE_DESTINATION</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <FlavorType>FLAVOR_AIRLIFT</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+  </Leader_Flavors>
+  <Leader_Traits>
+    <Row>
+      <LeaderType>LEADER_FREDERICK</LeaderType>
+      <TraitType>TRAIT_PROVIDENCE_REMEMBER</TraitType>
+    </Row>
+  </Leader_Traits>
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_LEADER_FREDERICK">
+      <Text>Frederick Augustus III</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_FREDERICK_PEDIA">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FREDERICK_HEADING_1">
+      <Text>History</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FREDERICK_HEADING_2">
+      <Text>Early Life</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FREDERICK_HEADING_3">
+      <Text>Foreign Policy</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FREDERICK_HEADING_4">
+      <Text>Domestic Policy</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FREDERICK_HEADING_5">
+      <Text>Judgment of History</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FREDERICK_LIVED">
+      <Text>1815 - 1898 AD</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FREDERICK_NAME">
+      <Text>FREDERICK</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FREDERICK_SUBTITLE">
+      <Text>Leader of The SAXONs</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FREDERICK_TEXT_1">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FREDERICK_TEXT_2">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FREDERICK_TEXT_3">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FREDERICK_TEXT_4">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FREDERICK_TEXT_5">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FREDERICK_TITLES_1">
+      <Text>King of Saxony</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

@@ -1463,6 +1463,9 @@ ContextPtr:LoadNewContext("KalmarUnionFunctions")
 -- Nation - Mali --
 ContextPtr:LoadNewContext("Mali Mod Check")
 
+-- Nation - Saxony --
+ContextPtr:LoadNewContext("saxonytrait")
+
 -- Nation - Nazca --
 ContextPtr:LoadNewContext("BuildingProvidesAccesstoFreshWater")
 ContextPtr:LoadNewContext("NazcaUA")

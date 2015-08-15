@@ -1,0 +1,117 @@
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_FREDERICK">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_FREDERICK_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_FREDERICK">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_FREDERICK_DEFEATED%</Response>
+		</Row>
+		<Row LeaderType="LEADER_FREDERICK">
+			<ResponseType>RESPONSE_GREETING_POLITE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_FREDERICK_POLITE_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_FREDERICK">
+			<ResponseType>RESPONSE_GREETING_NEUTRAL_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_FREDERICK_NEUTRAL_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_FREDERICK">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_FREDERICK_HOSTILE_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_FREDERICK">
+			<ResponseType>RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_FREDERICK_HOSTILE_AGGRESSIVE_MILITARY_WARNING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_FREDERICK">
+			<ResponseType>RESPONSE_EXPANSION_SERIOUS_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_FREDERICK_EXPANSION_SERIOUS_WARNING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_FREDERICK">
+			<ResponseType>RESPONSE_REQUEST</ResponseType>
+			<Response>TXT_KEY_LEADER_FREDERICK_RESPONSE_REQUEST%</Response>
+		</Row>
+		<Row LeaderType="LEADER_FREDERICK">
+			<ResponseType>RESPONSE_LUXURY_TRADE</ResponseType>
+			<Response>TXT_KEY_LEADER_FREDERICK_RESPONSE_LUXURY_TRADE%</Response>
+		</Row>
+		<Row LeaderType="LEADER_FREDERICK">
+			<ResponseType>RESPONSE_OPEN_BORDERS_EXCHANGE</ResponseType>
+			<Response>TXT_KEY_LEADER_FREDERICK_OPEN_BORDERS_EXCHANGE%</Response>
+		</Row>
+		<Row LeaderType="LEADER_FREDERICK">
+			<ResponseType>RESPONSE_ATTACKED_BETRAYED</ResponseType>
+			<Response>TXT_KEY_LEADER_FREDERICK_ATTACKED_BETRAYED</Response>
+		</Row>
+		<Row LeaderType="LEADER_FREDERICK">
+			<ResponseType>RESPONSE_ATTACKED_EXCITED</ResponseType>
+			<Response>TXT_KEY_LEADER_FREDERICK_ATTACKED_EXCITED</Response>
+		</Row>
+		<Row LeaderType="LEADER_FREDERICK">
+			<ResponseType>RESPONSE_ATTACKED_HOSTILE</ResponseType>
+			<Response>TXT_KEY_LEADER_FREDERICK_ATTACKED_HOSTILE</Response>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<!--General phrases -->
+		<!--Greeting (first time meeting) -->
+		<Row Tag="TXT_KEY_LEADER_FREDERICK_FIRSTGREETING_1">
+			<Text>Welcome to Dresden, the capital of the Kingdom of Saxony and the world's most beautiful city. Please, stay.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FREDERICK_DEFEATED_1">
+			<Text>You have destroyed the landmarks of a great nation, razed our cities to the ground, slaughtered our innocents and brought me to my knees. It is finished.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FREDERICK_POLITE_HELLO_1">
+			<Text>Welcome back!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FREDERICK_POLITE_HELLO_2">
+			<Text>Hello, friend!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FREDERICK_POLITE_HELLO_3">
+			<Text>Welcome, friend</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FREDERICK_NEUTRAL_HELLO_1">
+			<Text>Welcome back to Dresden.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FREDERICK_NEUTRAL_HELLO_2">
+			<Text>Yes?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FREDERICK_NEUTRAL_HELLO_3">
+			<Text>Hmm?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FREDERICK_HOSTILE_HELLO_1">
+			<Text>You are trying my patience.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FREDERICK_HOSTILE_HELLO_2">
+			<Text>I am no idiot when it comes to war, so don't try to start anything here.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FREDERICK_HOSTILE_HELLO_3">
+			<Text>Give me a good offer, or leave.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FREDERICK_HOSTILE_AGGRESSIVE_MILITARY_WARNING">
+			<Text>Our weapons are prepared for war, and our cities have been fortified. I'd be careful if i were you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FREDERICK_EXPANSION_SERIOUS_WARNING">
+			<Text>Our great lands are not yours to covet and steal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FREDERICK_REQUEST">
+			<Text>I need assistance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FREDERICK_LUXURY_TRADE">
+			<Text>My people would really enjoy this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FREDERICK_OPEN_BORDERS_EXCHANGE">
+			<Text>Come! come and visit our great cities!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FREDERICK_ATTACKED_BETRAYED">
+			<Text>I am afraid i may of been the fool, for trusting you. But yet it is you who attacked me, so you must be the fool.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FREDERICK_ATTACKED_EXCITED">
+			<Text>I've got years of military experience, which i'm going to enjoy using!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FREDERICK_ATTACKED_HOSTILE">
+			<Text>So its time for war now? Gott Mit Uns!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
