@@ -1,0 +1,319 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Pouakai -->
+<GameData>
+	<Language_en_US>
+		<!--Unique Building-->
+		<Row Tag="TXT_KEY_BUILDING_MC_NAZCA_PUQUIOS">
+			<Text>Puquios</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_NAZCA_PUQUIOS_HELP">
+			<Text>Provides a source of fresh water for adjacent tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_NAZCA_PUQUIOS_STRATEGY">
+			<Text>The Puquios is a spiral well, which only the Nazca may build. It provides access to underground aquifers, allowing tiles immediately adjacent to the city access to a source of fresh water. As such, it does not need to be built next to an existing source of Fresh Water, unlike the Watermill which it replaces.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_NAZCA_PUQUIOS_PEDIA">
+			<Text>A Puquios is a spiral well found throughout Nazca lands. They serve as the entrance to a series of underground aqueducts, connecting Nazca settlements with large underground aquifers. This network of Puquios allowed the Nazca to live in a harsh desert environment, yet still have the food and water necessary for survival. </Text>
+		</Row>
+		<!--Unique Improvement-->
+		<Row Tag="TXT_KEY_MC_GEOGLYPHS">
+			<Text>Geoglyph</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_MC_GEOGLYPHS_HELP">
+			<Text>Provide a yield based on which pre-medieval social policy trees have been adopted, which is doubled upon completion of the tree. Only the Nazca can build them. Must be built on a flat desert tile</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_MC_GEOGLYPHS_TEXT">
+			<Text>Geoglyphs are a unique Nazca tile improvement. They provide +1 to a specific yield for each pre-Medieval social policy tree adopted ( [ICON_FOOD] Food for Tradition, [ICON_PRODUCTION] Production for Liberty, [ICON_GOLD] Gold for Honor, [ICON_PEACE] Faith for Piety, [ICON_RESEARCH] Science for Patronage and [ICON_CULTURE] Culture for Aesthetics), which increases to +2 of the same yield upon completing the tree. These yields may stack, potentially turning flat desert tiles into extremely useful tiles for any desired victory). [NEWLINE][NEWLINE]The Nazca Lines, located between the Peruvian towns of Nazca and Palpa, are a series of enormous Geoglyphs designed on a large plateau, spanning over 80 kilometres. The designs have long been a source of mystery for those who have gazed upon them. It is estimated that the lines were constructed by the Nazca culture, hense the name, between 450 and 600 CE. The level of complexity of design varies between designs. Some are simple lines hundreds of metres long, while others are incredibly complex patterns resembling a variety of zoological designs - Monkeys, Condors, Spiders and Orca (Killer whale) to name but a few. [NEWLINE][NEWLINE] The Nazca Lines are particularily popular amongst circles which believe in the existance of extra-terrestrial life, which the Nazca culture mistook for their gods. They believe that the simpler, straight lines are in fact landing strips for interstellar crafts used by the extra-terrestrials to land, and that a humanoid figure represented in the patterns is one of the extraterrestrials. Modern science has had a range of theories, amongst which the lines serving a purpose similar to that of Stonehenge as an early form of an observatory / astronomical calendar. However, to this day the exact purpose of the lines remains a mystery. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_MC_GEOGLYPHS">
+			<Text> Construct a [LINK=IMPROVEMENT_GEOGLYPH]Geoglyph[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_MC_GEOGLYPHS_HELP">
+			<Text>Geoglyphs provide yields based on which pre-Medieval social policy trees have been adopted - +1 for opening a tree and +2 for completing it. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_MC_GEOGLYPHS_REC">
+			<Text>It will provide a tile yield based on which Social Policy trees you have adopted</Text>
+		</Row>
+			<!--Unique Ability-->
+		<Row Tag="TXT_KEY_TRAIT_MC_CEREMONIAL_SITES_SHORT">
+			<Text>Ceremonial Sites</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_MC_CEREMONIAL_SITES">
+			<Text>Each City and Geoglyph in the empire generates points towards a [ICON_GOLDEN_AGE] Golden Age. Upon the founding of the first four cities, recieve [ICON_CULTURE] Culture equal to half the cost of the next Social Policy.</Text>
+		</Row>
+		<!--Spy Names-->
+		<Row Tag="TXT_KEY_SPY_NAME_MC_NAZCA_0">
+			<Text>K'usillu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_NAZCA_1">
+			<Text>Mallku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_NAZCA_2">
+			<Text>Longo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_NAZCA_3">
+			<Text>Uru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_NAZCA_4">
+			<Text>Alqo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_NAZCA_5">
+			<Text>Wayra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_NAZCA_6">
+			<Text>Quilla</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_NAZCA_7">
+			<Text>Nina</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_NAZCA_8">
+			<Text>Orqo</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_NAZCA_9">
+			<Text>Rit'i</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--UA Feature-->
+		<Row Tag="TXT_KEY_FEATURE_MC_AQUIFER">
+			<Text>Aquifer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_MC_AQUIFER_TEXT">
+			<Text>An aquifer is an underground layer of water-bearing permeable rock or unconsolidated materials (gravel, sand, or silt) from which groundwater can be extracted using a water well.</Text>
+		</Row>
+		<!--Denonyms-->
+		<Row Tag="TXT_KEY_MC_NAZCA_DESC">
+			<Text>Nazca Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_NAZCA_SHORT_DESC">
+			<Text>The Nazca</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_MC_NAZCA_ADJECTIVE">
+			<Text>Nazca</Text>
+		</Row>
+		<!--Civilopedias-->
+		<Row Tag="TXT_KEY_MC_NAZCA">
+			<Text>Nazca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_NAZCA_TITLE">
+			<Text>The Nazca Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_NAZCA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_NAZCA_TEXT_1">
+			<Text>The Nazca culture is a pre-Columbian Peruvian culture who flourished between c. 100 BC and c. 800 AD. Influenced a great deal by the preceding Paracas culture, who are known for their complex textiles, the Nazca created an impressive collection of crafts and technologies including ceramics, textile and geoglyphs - the most common of these being the Nazca Lines. They also created a vast system of underground aqueducts that still function to this day.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_NAZCA_HEADING_2">
+			<Text>Geography and Climate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_NAZCA_TEXT_2">
+			<Text>The Nazca lived in the modern Nazca Province of the Ica region in Peru; the region is very unique to Peru being the only part of the southern coast formed by plains. The region itself is actually far from the Andes Mountain Range compared to the rest of the coastline. The climate of Ica is warmer and drier during the day all year except for winter; the southern coast has a semi Mediterranean desert like climate with slight variations in the year. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_NAZCA_HEADING_3">
+			<Text>Nazca Society</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_NAZCA_TEXT_3">
+			<Text>Early Nazca society was made up of local chiefdoms and regional centers of power that revolve around Cahuachi, a major ceremonial center. Scholars theorize that Cahuachi was the center of rituals and feasting relating to agriculture, water and fertility. Cahuachi is in the lower part of the Nazca Valley and was originally occupied during the Late Paracas phase. The Nazca modified hills into pyramids mounds for ceremonial and religious purposes. The remains of pottery found at Cahuachi led experts to believe the site was specifically non-urban and ceremonial in nature, much of the pottery found is fine and polychromatic.[NEWLINE][NEWLINE]Religion in the Nazca is based heavily on agriculture and fertility, due in no small part to the arid environment. Much of Nazca art feature powerful nature gods such as the mythical killer whale, the harvesters, the mythical spotted cat, the serpent creature, and most of all the anthropomorphic mythical being. Similarly to the Moche culture in northwest Peru, Nazca shamen seem to have used hallucinogens to induce visions, the use of such drugs are also found in Nazca art. The Nazca worshiped the nature gods to aid the growth of their agriculture. All members of surrounding Nazca villages would migrate to Cahuachi to participate in feasts. Commoners could obtain valuables like decorated pottery through feasting, in exchange the elites could enhance their political power while co-opting the commoners into labor and construction.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_NAZCA_HEADING_4">
+			<Text>Trophy Heads</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_NAZCA_TEXT_4">
+			<Text>Debate still continues right now over the purpose of trophy heads - whether they were trophies of war or ritual objects. Visual depictions often associate the decapitators with weapons and military like garments; initially this was perceived as warfare, but others argue that such clothing could have been worn in a purely ceremonial context as well. Max Uhle coined the term 'trophy head' as one of the first observers of the heads, seeing them as trophies of war. The perception of trophy heads was added further with the observation that all the heads had a hole on the forehead through which a rope could run through so it may be displayed or carried. Many burials of Nazca people are what is known as 'partial burials', typically they include bundles of limbs, caches of severed heads, or bodies missing several body parts. A great deal of burials discovered have the head of the skeleton missing and replaced with what is commonly referred to as a 'head jar', a ceramic vessel with a human head painted on it and plants and trees sprouting from it. During the Middle Nazca period the number of severed heads seem to have increased vastly based from the discovered remains; while remaining popular the late Nazca period saw a tapering off of decapitation. Late Nazca iconography suggests that the prestige of the leaders was enhanced successful headhunting.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_NAZCA_HEADING_5">
+			<Text>Economy and Sustinence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_NAZCA_TEXT_5">
+			<Text>The Nazca subsistence was largely based on agriculture, iconography on ceramics indicate that the Nazca had a varied diet of maize, squash and sweet potato amongst others as well as fish. They also grew cotton for textile, coca, gourds and the San Pedro cactus for daily life purposes. At Cahuachi the Nazca also made sacrifices of llamas and guinea pigs, the former were used also for their wool and meat.[NEWLINE][NEWLINE]During the Middle Nazca period the Nazca created a system of aqueducts to survive the dry environment, known as puquios, the exact date is still debated due to the materials used. The puquios tapped into the subsurface water underground, the channels were dug from inside the mountainside until the diggers reached the aquifers. The cut channels were lined with river rocks and had no mortar so that the water would pass into them. From there the water ran down to either irrigation canals - acequias - as a direct supply of water to the crops, or into small reservoirs - kochas - for storage. Access holes or ojos were placed on the surface above the channels in a similar fashion and function to modern manholes; people would descend into the channels to clear obstructions or keep up their maintenance. A number of puquios have been altered or are too dangerous to explore, their length is determined by the ojos present. Many puquios are still in use today, proving their importance to generations of people in the region. In the modern world puquios have been altered to be more efficient with the installation of motorized pumps and kochas lined with concrete to better hold water.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_NAZCA_HEADING_6">
+			<Text>Technology and the Arts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_NAZCA_TEXT_6">
+			<Text>Nazca culture is resplendent in their pottery, painted with at least 15 distinct colors. Most pottery shapes include double-spout bottles, bowls, cups, vases and forms of effigies and mythical creatures. Archaeologists excavated valuable polychrome pottery among all the classes, meaning the commoners were not restricted from these, they were able to obtain them through feasting and pilgrimages to Cahuachi. The pottery also sheds light on the experimentation employed in the pottery; early vessels depict realistic subjects like fruits, people and animals, while later pottery dabbled in 'proliferous' attachments to supernatural motifs, such as rays and volutes.[NEWLINE][NEWLINE]Another famously creative aspect of the Nazca is their complex textiles. They were most likely spun by women in habitation sites from spun cotton and wool. Similarly to how they are made today the Nazca textiles were made using a backstrap loom. Textiles show more of the motifs used on pottery before being painted; the desert also served to preserve the textiles of both the Nazca and predecessor Paracas cultures. Examples of Nazca textile include shawls, dresses, tunics and bags. Many textiles of Nazca culture are clothing found with grave goods found at burial sites, as part of the burial ritual almost every body is completely or partially wrapped in a textile garment. Deposits of dresses and shawls appear to contain both high-status and plain clothing, suggesting different social roles, much of the dresses depict birds with speckled bodies, double-headed serpentine figures, and anthropomorphic figures.[NEWLINE][NEWLINE]By far the most famous example of the Nazca are their massive geoglyhps - the Nazca Lines, a series of renderings of geometric shapes, simple lines and drawings of animals as large as a football field. Many theories have arisen about the geoglyphs and their purpose; theories include they were created for the gods to see them, the geoglyphs are a form of astronomical calendar for possible agriculture purposes, perhaps pathways to follow for ceremonial processions. The Nazca Lines have been studied by professionals of many disciplines with no conclusive evidence one way or another on the matter, it is likely we may never truly know the significance of the Nazca Lines.[NEWLINE][NEWLINE]Trephination was a form of primitive skull surgery adopted by the Nazca to relieve pressure on the brain from battle injuries and ritual purposes. It entails removing one or more sections of bone of the skull, while the person is still alive. Some of the discovered skulls with evidence of trephination show signs of healing, suggesting that a number of people survived the surgery. Elongation as a result of skull manipulation were also found in Nazca sites, this was done by binding a cushion to a child's forehead, and a board to the back of their head. Archaeologists speculate the purpose of this; several theories argue the skull manipulation created ethnic identity, forming the person into a social being, or illustrated social status.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_NAZCA_HEADING_7">
+			<Text>Decline</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_NAZCA_TEXT_7">
+			<Text>From approximately c. 500 the Nazca began to decline, and by c. 750 had fallen completely. It is believed to have occurred when an El Niño phenomenon - a band of anomalously warm ocean water developed off the western coast of South America - triggered widespread flooding. Evidence also suggests that the Nazca may have worsened the situation by gradually cutting down Prospis pallida trees - a tree often used to prevent erosion - to create room for agriculture. The trees played a very important role in preserving the ecology of the region in preventing river and wind erosion, their gradual loss exposed the Nazca to the El Niño and the drying out of their irrigation systems. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_NAZCA_STATBOX">
+			<Text>[NEWLINE]        Leader: Cahuachi[NEWLINE]        Unique Improvement: Geoglyph[NEWLINE]        Unique Building: Puquios[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_NAZCA_FACTOID_HEADING">
+			<Text>Nazca Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_NAZCA_FACTOID_TEXT">
+			<Text>Similarly to their Incan counterparts, the Nazca employed no writing system. They used the iconography found in much of their ceramic crafts to communicate.[NEWLINE][NEWLINE]Regular amounts of rain would have easily destroyed the Nazca Lines, yet the dry desert climate preserves them over the years with the lack of such weather.</Text>
+		</Row>
+		<!--City List-->
+		<Row Tag="TXT_KEY_CITY_NAME_MC_NAZCA_CAHUACHI">
+			<Text>Cahuachi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_NAZCA_CHAUCHILLA">
+			<Text>Chauchilla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_NAZCA_ESTAQUERÍA">
+			<Text>Estaquería</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_NAZCA_PAREDONES">
+			<Text>Paredones</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_NAZCA_CANTALLOC">
+			<Text>Cantalloc</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_NAZCA_OCONGALLA">
+			<Text>Ocongalla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_NAZCA_CANTAYO">
+			<Text>Cantayo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_NAZCA_ICA">
+			<Text>Ica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_NAZCA_MC_NAZCA">
+			<Text>Nazca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_NAZCA_CURIS">
+			<Text>Curis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_NAZCA_SANTIAGO">
+			<Text>Santiago</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_NAZCA_PUEBLO_NUEVO">
+			<Text>Pueblo Nuevo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_NAZCA_MOLINOS">
+			<Text>Molinos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_NAZCA_BAUTISTA">
+			<Text>Bautista</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_NAZCA_EL_INGENIO">
+			<Text>El Ingenio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_NAZCA_GUADALUPE">
+			<Text>Guadalupe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_NAZCA_LOS_AQUIJES">
+			<Text>Los Aquijes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_NAZCA_CHANGUILLO">
+			<Text>Changuillo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_NAZCA_RÍO_GRANDE">
+			<Text>Río Grande</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_NAZCA_SANTA_CRUZ">
+			<Text>Santa Cruz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_NAZCA_LLIPATA">
+			<Text>Llipata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_NAZCA_TIBILLO">
+			<Text>Tibillo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_NAZCA_MARCONA">
+			<Text>Marcona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_NAZCA_SUBTANJALLA">
+			<Text>Subtanjalla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_NAZCA_LA_TINGUIÑA">
+			<Text>La Tinguiña</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_NAZCA_PARCONA">
+			<Text>Parcona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_NAZCA_PALPA">
+			<Text>Palpa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_NAZCA_PAMPA_DE_TATE">
+			<Text>Pampa de Tate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_NAZCA_OCUCAJE">
+			<Text>Ocucaje</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_NAZCA_VISTA_ALEGRE">
+			<Text>Vista Alegre</Text>
+		</Row>
+			<!-- Leader Civlopedia Text -->
+		<Row Tag="TXT_KEY_LEADER_MC_CAHUACHI_DESC">
+			<Text>Cahuachi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_CAHUACHI_LIVED">
+			<Text>?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_CAHUACHI_NAME">
+			<Text>Cahuachi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_CAHUACHI_SUBTITLE">
+			<Text>Leader of the Nazca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_CAHUACHI_TITLES_1">
+			<Text>Warrior Chief</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_CAHUACHI_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_CAHUACHI_TEXT_1">
+			<Text>While the Nazca did have a number of settlements around what could be called a major settlement - Cahuachi, there has been no evidence at all of any great leaders, not even any of note. This article therefore will talk about the development of the knowledge to the sociopolitical organization of the Nazca and the role Cahuachi played in the original model compared to what it is seen as now. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_CAHUACHI_HEADING_2">
+			<Text>Original Thinking</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_CAHUACHI_TEXT_2">
+			<Text>Over the time it has taken to excavate the Nazca region, the understanding of how the Nazca operated and governed changed. It was originally believed that the Nazca controlled a primitive state level society with a strong central government from Cahuachi, which was then seen as the capital as it is the largest site of the Nazca region. The discoveries and writings of William Duncan Strong, John H Rowe and Donald A Proulx in the late 1950s to 1960s describe the apparent homogeneity of the pottery found in the Río Grande de Nasca drainage and the Ica Valley, especially during Phase 3 - c.50 - c.175 AD, suggesting central control. The sudden appearance of pottery in surrounding valleys from the Nazca also suggest a form of conquest of the regions by the same authority. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_CAHUACHI_HEADING_3">
+			<Text>Silverman and Orifici</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_CAHUACHI_TEXT_3">
+			<Text>This perception changed dramatically from the work of Helaine Silverman and Giusepps Orefici when they excavated more of Cahuachi. Silverman's discoveries demonstrated that Cahuachi was in fact an empty ceremonial center with vaguely any permanent residence, it was not a thriving city as it was once believed. Similarly, Orefici's own work over time cemented the notion by failing to discover any evidence of domestic activity. During their work at the site in 1993, Lidio Valdez had worked in the Acarí Valley; he argued that there was no evidence of a Nazca invasion or colonization of the area. The few ceramics found there could be explained as trade items, and he also argued the same thing for items found in the Pisco Valley, although the Nazca presence there can be seen on local pottery styles as a form of prestige influence.[NEWLINE][NEWLINE]Based on this new knowledge, it seems more likely that the Nazca state was actually a collection of local chiefdoms united by a common religion and symbolic system. While archaeological evidence is still been evaluated right now, regional centers of power were likely settled throughout the Nazca drainage. From time to time there may have been consolidation of some of the chiefdoms into larger states, but the notion of a single government with Cahuachi is now discounted. The leaders of Nazca society had dual functions as religious leaders and secular warriors. This role of warrior-chief seems to have become more important during Phases 5, 6 and 7 - c.300 - c.550 AD, while religion still held a major role in Nazca leadership.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_CAHUACHI_HEADING_4">
+			<Text>Social Status and the Ayllu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_CAHUACHI_TEXT_4">
+			<Text>In later Andean societies, such as the Inca, the basic social unit was the ayllu - an endogenous group claiming descent from a common ancestor. Some scholars believe that the ayllu was present in Nazca society, represented in archaeology by the multiple mounds or temples found in Cahuachi; these were built and maintained by an ayllu. Patrick Carmichael has argued that the Nazca society was ranked as opposed to stratified, meaning the position of individuals in the society is based on a continuum, not separated into distinct classes found normally in a state. Using mortuary data, Carmichael tried to demonstrate that their are no genuine differences in the types of graves for any individuals in Nazca society. Until distinct elite tombs are in fact found in the future, Carmichael's theory seems to be valid. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_CAHUACHI_HEADING_5">
+			<Text>Judgement of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_CAHUACHI_TEXT_5">
+			<Text>Without any kind of real consolidation of the chiefdoms or indeed real evidence to any one of the warrior-chiefs, it is simply impossible to determine their place in history. What can be said of Nazca society is that over the course of half a century the known facts of the Nazca and its society have changed not so much by new evidence, but rather a lack of evidence. As the Nazca are a relatively new civilization in terms of archaeological excavation, much of what is known tends to be open to interpretation, however as more is discovered new information will continue to influence and evolve our understanding of the Nazca. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_CAHUACHI_FIRST_GREETING_1">
+			<Text>Oh, a foreigner? How interesting. Welcome to the lands of the Nazca, a land which seldom few others could last but a day in. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_CAHUACHI_FIRST_GREETING_2">
+			<Text>Greetings. I trust you were able to follow our signs?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_CAHUACHI_DEFEATED_1">
+			<Text>You have achieved what even the earth herself could not. You will not last a week in this harsh land.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_CAHUACHI_DEFEATED_2">
+			<Text>We shall meet again, but until that day enjoy your victory. Treat my empire well, and I shall have no ill-wishes upon you.</Text>
+		</Row>
+		<!-- DOM Text-->
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_MC_NAZCA_TEXT">
+			<Text>Blessings of the gods be upon you Cahuachi, mighty leader of the Nazca People! Long have your people prospered on the inhospitable coasts of modern Peru, farming and taming the wild expanse. A creative and ingenious people; the Nazca produced beautiful ceramics and complex textiles; they engineered the puquios: an impressive system of underground aqueducts to irrigate the arid lands; they created the Nazca lines, the colossal and mysterious geoglyphs which still inspire wonder in all who gaze upon them. [NEWLINE][NEWLINE]Noble Cahuachi! Your people await your guidance and wisdom. Rebuild your cities and flourish once again! Will you answer the call of the Nazca? Will you lead your people to greatness and glory? Can you build a civilization to stand the test of time?</Text>
+		</Row>
+		<!--MOD SUPPORT-->
+		<!--Wish for the World-->
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MC_CAHUACHI">
+			<Text>Rit'i</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--Unique Cultural Influence-->
+		<Row Tag="TXT_KEY_GENERIC_MC_NAZCA_INFLUENTIAL_ON_AI_1">
+			<Text>My people are now using your pottery and carving lines in the ground. I worry the rest of the world will succumb to your influence.</Text>
+		</Row>
+	</Language_en_US>	
+</GameData>

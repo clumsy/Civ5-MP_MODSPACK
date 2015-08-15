@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<ArtDefine_StrategicView>
+		<InsertOrAbort>
+			<StrategicViewType>ART_DEF_IMPROVEMENT_MC_GEOGLYPHS</StrategicViewType>
+			<TileType>Improvement</TileType>
+			<Asset>SV_geoglyphs.dds</Asset>
+		</InsertOrAbort>
+	</ArtDefine_StrategicView>
+</GameData>

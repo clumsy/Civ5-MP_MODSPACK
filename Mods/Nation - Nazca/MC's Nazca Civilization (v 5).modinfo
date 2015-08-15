@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="40b2f19b-236b-4699-88dd-72025ea1080d" version="5">
+  <Properties>
+    <Name>MC's Nazca Civilization</Name>
+    <Teaser>Adds [COLOR_POSITIVE_TEXT]The Nazca[ENDCOLOR] to the game as a playable civilisation.</Teaser>
+    <Description>Widely known for the enormous geoglyphs of animals and other designs which they created in the deserts of their empire, the Nazca culture existed for approximately 900 years in the high Andean deserts of what is now Southern Peru. From what little is known of the Nazca people, it is clear that the Nazca had vast networks of underground aqueducts, connected by Puquois to the towns in which they lived, allowing a source of fresh water even in the harsh desert. The Nazca culture disappeared sometime around 800 CE, leaving behind the massive geoglyphs which are known as the Nazca Lines, the Puquois and the massive city of Cahuachi.</Description>
+    <Authors>Pouakai, Sukritact, Leugi, Janborua, Chrissifniotis</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety" />
+    <Mod id="d99bf7aa-51ac-4bef-bd88-d765b28e260e" minversion="0" maxversion="999" title="JFD’s Prestige" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events &amp; Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Traits" />
+    <Mod id="6676902b-b907-45f1-8db5-32dcb2135eee" minversion="0" maxversion="999" title="JFD's ExCE" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="8009159C2F6132E5090BBEFBCA49214C" import="1">Art/Atlas/MC_NazcaAlpha_128.dds</File>
+    <File md5="DE9AF8809B0EA702BDF4AE3648DE1537" import="1">Art/Atlas/MC_NazcaAlpha_16.dds</File>
+    <File md5="0954CB2D130A936AB43A270B4474B933" import="1">Art/Atlas/MC_NazcaAlpha_24.dds</File>
+    <File md5="88147F9A677BE7AFB9633A73E5852422" import="1">Art/Atlas/MC_NazcaAlpha_32.dds</File>
+    <File md5="A6DC8229D5E8E74FDA930E73A2C39138" import="1">Art/Atlas/MC_NazcaAlpha_48.dds</File>
+    <File md5="460CD684DDFA58A4E0D62D05DE970D95" import="1">Art/Atlas/MC_NazcaAlpha_64.dds</File>
+    <File md5="ABA09F9471F9AA294EEAE9AD5CC8DCA6" import="1">Art/Atlas/MC_Nazca_128.dds</File>
+    <File md5="5D21095735E73471B23025B29BFF2E35" import="1">Art/Atlas/MC_Nazca_24.dds</File>
+    <File md5="D657A634854683D9C53BE9356A39C0BF" import="1">Art/Atlas/MC_Nazca_256.dds</File>
+    <File md5="1FDBEB91F414DF60A8BB08B641B5E0E9" import="1">Art/Atlas/MC_Nazca_32.dds</File>
+    <File md5="55DF981B787E64943228E0D10B24D5CA" import="1">Art/Atlas/MC_Nazca_45.dds</File>
+    <File md5="5C8675B37F4205EA9B91E3D7D26912F2" import="1">Art/Atlas/MC_Nazca_48.dds</File>
+    <File md5="38CC4AB0F765D0D99E4C7A0501A9F448" import="1">Art/Atlas/MC_Nazca_64.dds</File>
+    <File md5="4BFB12079448D44697C197F26FEC1403" import="1">Art/Atlas/MC_Nazca_80.dds</File>
+    <File md5="941326BD4B05A7CEBC1A0B27719BC686" import="1">Art/Scenes/MC_Nazca_Diplo.dds</File>
+    <File md5="E5AC92256D63729E5CF3CBC640CB60D4" import="1">Art/Scenes/MC_Nazca_Leaderhead.xml</File>
+    <File md5="4919532A3111FEF08333FAB305196EFF" import="1">Art/Scenes/MC_Nazca_DOM.dds</File>
+    <File md5="233D0C564FF043593E6D432E82618598" import="1">Art/Scenes/MC_Nazca_map.dds</File>
+    <File md5="ABEFAE9E0D703185BCD3197C49C8022F" import="1">Art/UI/nazca01.dds</File>
+    <File md5="4B0D223627F45FCE06F4C29FAB060579" import="1">Art/UI/nazca01.fxsxml</File>
+    <File md5="C06D09E7F1934B4334BDFAD38ED24128" import="1">Art/UI/nazca01.gr2</File>
+    <File md5="853A56F487A8201EE1C4A6273127FA54" import="1">Art/UI/nazca01_sref.dds</File>
+    <File md5="2F75A6A6C9F1244F4154E332DD555D71" import="1">Art/UI/nazca02.dds</File>
+    <File md5="BF112EA04DDB8CDE4B46C45D9BD8062E" import="1">Art/UI/nazca02.fxsxml</File>
+    <File md5="1C5B24201910E3021F0B4F17E11C81F2" import="1">Art/UI/nazca02.gr2</File>
+    <File md5="CAEC637AA9037E039C10AB4C9A58E9B9" import="1">Art/UI/nazca02_sref.dds</File>
+    <File md5="716FCAB523F3F52D0C6C8B6F294B8DE6" import="1">Art/UI/nazca03.dds</File>
+    <File md5="64FC427BE30584E382C579488E3D777E" import="1">Art/UI/nazca03.fxsxml</File>
+    <File md5="C732463FBFCF09F511473CC814DC91B5" import="1">Art/UI/nazca03.gr2</File>
+    <File md5="161B25E08C85C2F02C9E4371E1F4EE54" import="1">Art/UI/nazca03_sref.dds</File>
+    <File md5="D39B4FA08871558B2AE6FD6EABDC1323" import="1">Art/UI/nazca_hb.dds</File>
+    <File md5="15E53649392875F69E186023D5EDB30C" import="1">Art/UI/nazca_hb.fxsxml</File>
+    <File md5="E4122E29BB8F8A340392268E6EF6D213" import="1">Art/UI/nazca_hb.gr2</File>
+    <File md5="17CA22490FBBBEE4CF51288835D34266" import="1">Art/UI/nazca_pl.dds</File>
+    <File md5="EDF71912F1A77D310546273B0B439160" import="1">Art/UI/nazca_pl.fxsxml</File>
+    <File md5="12B891EF2A0CE5FA26D7DEFD44FD6D3C" import="1">Art/UI/nazca_pl.gr2</File>
+    <File md5="8FB6AF2B70ECE36F901DF58C26482AB6" import="1">Art/UI/sv_geoglyphs.dds</File>
+    <File md5="FA28328F184407FA0453111FEAE83BC4" import="1">Decisions/MC_Nazca_Decisions.lua</File>
+    <File md5="E5AFA7CF787510AAB5A4E5400D2F17BF" import="0">Decisions/MC_Nazca_Decisions.xml</File>
+    <File md5="928CFD919FD8F2AA02992A8EB8847DD6" import="0">Lua/BuildingProvidesAccesstoFreshWater.lua</File>
+    <File md5="955C0AB74F05313816F8267E382D6245" import="0">Lua/NazcaUA.lua</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">Lua/SaveUtils.lua</File>
+    <File md5="9FF6D75BAD593EAE727F94DA93402580" import="1">Sounds/MCNazcaDoM.mp3</File>
+    <File md5="B326B9359F8A08A16D51253A99BADEE7" import="1">Sounds/MCCahuachiPeace.mp3</File>
+    <File md5="C0CEC59A6FA990D927BA3B4D7AF3EC2B" import="1">Sounds/MCCahuachiWar.mp3</File>
+    <File md5="056652266C0B8C24C33FA3A81BD1CEAB" import="1">SQL/ArtDefineNazca.SQL</File>
+    <File md5="8AC2E68BFB3EC922E88465FA509BB7D5" import="1">SQL/BuildingProvidesAccesstoFreshWater.sql</File>
+    <File md5="CB53673A4770772760ED27DCFA321F15" import="0">SQL/NazcaModSupport.sql</File>
+    <File md5="E4C057A94F5BC8F7243D44C093A5DB57" import="0">XML/Buildings/MC_Nazca_Buildings.xml</File>
+    <File md5="D5F42051CCC407C45A729C22847DE2E2" import="1">XML/Civilizations/MC_Nazca_Civilizations.xml</File>
+    <File md5="5C955F901E11D0D87F83A319F127DFC1" import="0">XML/Civilizations/MC_Nazca_Strategic.xml</File>
+    <File md5="D0F3B5F807AB0503099CB806080EA6C9" import="0">XML/GameInfo/MC_Nazca_IconTextureAtlases.xml</File>
+    <File md5="A2C8CB9A8ABBA6F8B92EA273F0D0DF5B" import="0">XML/GameInfo/MC_Nazca_Sounds.xml</File>
+    <File md5="9D9D78F76BFD8EF7B06C1236CFD8C927" import="0">XML/GameInfo/MC_Nazca_Policies.xml</File>
+    <File md5="6E21826E0CA19958020DCE097A725FCD" import="0">XML/GameInfo/MC_Nazca_Traits.xml</File>
+    <File md5="287D7C783386CEA396EFB3BFF14B1A9F" import="0">XML/Leaders/MC_Nazca_Leader.xml</File>
+    <File md5="405FEC7D26E1A19E4C9EC38392590FBC" import="0">XML/Terrain/MC_Nazca_Features.xml</File>
+    <File md5="D0CBD0582DC08D9319E56A40E809B940" import="0">XML/Terrain/MC_Nazca_Improvements.xml</File>
+    <File md5="65E27024E395AB628A43184F3C3AC589" import="0">XML/Text/MC_Nazca_Text.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/Scenes/MC_Nazca_Leaderhead.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/ArtDefineNazca.SQL</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/MC_Nazca_Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/MC_Nazca_Strategic.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/BuildingProvidesAccesstoFreshWater.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/MC_Nazca_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/MC_Nazca_IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/MC_Nazca_Sounds.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/MC_Nazca_Policies.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/MC_Nazca_Traits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/MC_Nazca_Leader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Terrain/MC_Nazca_Improvements.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/MC_Nazca_Text.xml</UpdateDatabase>
+      <UpdateDatabase>Decisions/MC_Nazca_Decisions.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/NazcaModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/BuildingProvidesAccesstoFreshWater.lua">
+      <Name>BuildingProvidesAccesstoFreshWater</Name>
+      <Description>Puquios effect, cities act as fresh water</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/NazcaUA.lua">
+      <Name>NazcaUA</Name>
+      <Description>Functionality for Nazca UA to work</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

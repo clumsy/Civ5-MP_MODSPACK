@@ -1460,6 +1460,10 @@ ContextPtr:LoadNewContext("BoerCivilianMovement")
 -- Nation - Kalmar --
 ContextPtr:LoadNewContext("KalmarUnionFunctions")
 
+-- Nation - Nazca --
+ContextPtr:LoadNewContext("BuildingProvidesAccesstoFreshWater")
+ContextPtr:LoadNewContext("NazcaUA")
+
 -- Nation - Xia --
 ContextPtr:LoadNewContext("Xia Mod Check")
 ContextPtr:LoadNewContext("XiaDynastyPopup")

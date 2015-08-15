@@ -1,0 +1,53 @@
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_DECISIONS_NAZCACRAFTSMEN">
+			<Text>Support the Craftsmen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_NAZCACRAFTSMEN_DESC">
+			<Text>
+				{1_CapitalName} has long been a great centre of Nazca culture, and our people often embark on pilgrimages to the city for spiritual reasons. We must aid our craftsmen in producing the polychrome pottery and complex textiles we are famous for, since such goods are required to support the pilgrims {1_CapitalName} receives.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Nazca
+				[NEWLINE][ICON_BULLET]Must have researched Pottery
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Classical Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{2_Cost} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Each time the Capital grows, receive [ICON_CULTURE] Culture for every City and Geoglyph in the Empire.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_NAZCACRAFTSMEN_ENACTED_DESC">
+			<Text>
+				{1_CapitalName} has long been a great centre of Nazca culture, and our people often embark on pilgrimages to the city for spiritual reasons. We must aid our craftsmen in producing the polychrome pottery and complex textiles we are famous for, since such goods are required to support the pilgrims {1_CapitalName} receives.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Each time the Capital grows, receive [ICON_CULTURE] Culture for every City and Geoglyph in the Empire.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_NAZCATROPHYHEAD">
+			<Text>Adopt the Trophy Head Practice</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_NAZCATROPHYHEAD_DESC">
+			<Text>
+				We are a peaceful society, but our neighbours are not. In the past we searched within the land for our ancestors’ heads as a way to ensure our lands are blessed, but our enemies profane our lands with every step. We can set a head-hunting ritual to defend our lands.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Nazca
+				[NEWLINE][ICON_BULLET]Player must be generating at least 10 [ICON_CULTURE] Culture per turn[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrate
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Barbarian units suffer attrition in your territory
+				[NEWLINE][ICON_BULLET]Receive [ICON_GOLDEN_AGE] Golden Age Points whenever a unit is killed in your empire
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_NAZCATROPHYHEAD_ENACTED_DESC">
+			<Text>
+				We are a peaceful society, but our neighbours are not. In the past we searched within the land for our ancestors’ heads as a way to ensure our lands are blessed, but our enemies profane our lands with every step. We can set a head-hunting ritual to defend our lands.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Barbarian units suffer attrition in your territory
+				[NEWLINE][ICON_BULLET]Receive [ICON_GOLDEN_AGE] Golden Age Points whenever a unit is killed in your empire
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

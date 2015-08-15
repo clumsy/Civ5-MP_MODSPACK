@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/29/2013 1:06:09 PM -->
+<GameData>
+	<Features>
+		<Row>
+			<Type>FEATURE_AQUIFER</Type>
+			<Description>TXT_KEY_FEATURE_MC_AQUIFER</Description>
+			<Civilopedia>TXT_KEY_FEATURE_MC_AQUIFER_TEXT</Civilopedia>
+			<Movement>1</Movement>
+			<AddsFreshWater>true</AddsFreshWater>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>NEW_TERRAIN_ATLAS_DLC</IconAtlas>
+		</Row>
+	</Features>
+	<Language_ES_ES>
+		<Row Tag="TXT_KEY_FEATURE_MC_AQUIFER">
+			<Text>Acuífero</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_MC_AQUIFER_TEXT">
+			<Text>Un acuífero es aquel estrato o formación geológica permeable que permite la circulación y el almacenamiento del agua subterránea por sus poros o grietas.</Text>
+		</Row>
+	</Language_ES_ES>
+</GameData>

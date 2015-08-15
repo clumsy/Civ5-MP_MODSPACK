@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Pouakai-->
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_MC_NAZCA_PUQUIOS</Type>
+			<BuildingClass>BUILDINGCLASS_WATERMILL</BuildingClass>
+			<Cost>75</Cost>
+			<GoldMaintenance>2</GoldMaintenance>
+			<PrereqTech>TECH_THE_WHEEL</PrereqTech>
+			<Help>TXT_KEY_BUILDING_MC_NAZCA_PUQUIOS_HELP</Help>
+			<Description>TXT_KEY_BUILDING_MC_NAZCA_PUQUIOS</Description>
+			<Civilopedia>TXT_KEY_BUILDING_MC_NAZCA_PUQUIOS_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_MC_NAZCA_PUQUIOS_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_MC_NAZCA_PUQUIOS</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>MC_NAZCA_ATLAS</IconAtlas>
+			<PortraitIndex>2</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_ProvidesAccesstoFreshWater>
+		<Row>
+			<BuildingType>BUILDING_MC_NAZCA_PUQUIOS</BuildingType>
+		</Row>
+	</Building_ProvidesAccesstoFreshWater>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_MC_NAZCA_PUQUIOS</BuildingType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MC_NAZCA_PUQUIOS</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_MC_NAZCA_PUQUIOS</BuildingType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>25</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MC_NAZCA_PUQUIOS</BuildingType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MC_NAZCA_PUQUIOS</BuildingType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+	</Building_Flavors>
+</GameData>
