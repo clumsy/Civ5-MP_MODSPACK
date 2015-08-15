@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/21/2015 5:39:58 PM -->
+<GameData>
+
+
+	-<Buildings>
+
+
+		-<Row>
+
+			<Type>BUILDING_ELECTRUM_REFINERY</Type>
+
+			<Description>TXT_KEY_BUILDING_ELECTRUM_REFINERY</Description>
+
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_ELECTRUM_REFINERY_TEXT</Civilopedia>
+
+			<Strategy>TXT_KEY_BUILDING_ELECTRUM_REFINERY_STRATEGY</Strategy>
+
+			<Help>TXT_KEY_BUILDING_ELECTRUM_REFINERY_HELP</Help>
+
+			<MutuallyExclusiveGroup>-1</MutuallyExclusiveGroup>
+
+			<River>true</River>
+
+			<Cost>100</Cost>
+
+			<HurryCostModifier>25</HurryCostModifier>
+
+			<ConquestProb>66</ConquestProb>
+
+			<BuildingClass>BUILDINGCLASS_MINT</BuildingClass>
+
+			<ArtDefineTag>ART_DEF_BUILDING_BANK</ArtDefineTag>
+
+			<PrereqTech>TECH_CURRENCY</PrereqTech>
+
+			<SpecialistType>SPECIALIST_MERCHANT</SpecialistType>
+
+			<SpecialistCount>1</SpecialistCount>
+
+			<PortraitIndex>3</PortraitIndex>
+
+			<IconAtlas>RLYDIA_ICON_ATLAS</IconAtlas>
+
+		</Row>
+
+		-<Row>
+
+			<Type>BUILDING_RLYDIAN_DUMMY</Type>
+
+			<BuildingClass>BUILDINGCLASS_RLYDIAN_DUMMY</BuildingClass>
+
+			<Cost>-1</Cost>
+
+			<FaithCost>-1</FaithCost>
+
+			<PrereqTech>NULL</PrereqTech>
+
+			<GreatWorkCount>-1</GreatWorkCount>
+
+			<ArtDefineTag>NONE</ArtDefineTag>
+
+			<MinAreaSize>-1</MinAreaSize>
+
+			<NeverCapture>true</NeverCapture>
+
+			<HurryCostModifier>-1</HurryCostModifier>
+
+			<PortraitIndex>0</PortraitIndex>
+
+			<IconAtlas>CIV_COLOR_ATLAS</IconAtlas>
+
+		</Row>
+
+	</Buildings>
+
+	<BuildingClasses>
+
+	<Row>
+
+		<Type>BUILDINGCLASS_RLYDIAN_DUMMY</Type>
+
+		<DefaultBuilding>BUILDING_RLYDIAN_DUMMY</DefaultBuilding>
+
+	</Row>
+
+	</BuildingClasses>
+
+	-<Building_Flavors>
+
+
+		-<Row>
+
+			<BuildingType>BUILDING_ELECTRUM_REFINERY</BuildingType>
+
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+
+			<Flavor>100</Flavor>
+
+		</Row>
+
+	</Building_Flavors>
+
+
+	-<Building_ResourceYieldChanges>
+
+
+		-<Row>
+
+			<BuildingType>BUILDING_ELECTRUM_REFINERY</BuildingType>
+
+			<ResourceType>RESOURCE_GOLD</ResourceType>
+
+			<YieldType>YIELD_GOLD</YieldType>
+
+			<Yield>2</Yield>
+
+		</Row>
+
+
+		-<Row>
+
+			<BuildingType>BUILDING_ELECTRUM_REFINERY</BuildingType>
+
+			<ResourceType>RESOURCE_SILVER</ResourceType>
+
+			<YieldType>YIELD_GOLD</YieldType>
+
+			<Yield>2</Yield>
+
+		</Row>
+
+	</Building_ResourceYieldChanges>
+
+	<Building_YieldModifiers>
+
+		<Row>
+			<BuildingType>BUILDING_RLYDIAN_DUMMY</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		
+	</Building_YieldModifiers>
+
+
+	-<Language_en_US>
+
+
+		-<Row Tag="TXT_KEY_BUILDING_ELECTRUM_REFINERY">
+
+			<Text>Electrum Refinery</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_BUILDINGS_ELECTRUM_REFINERY_TEXT">
+
+
+			-<Text>Though there are other claimants, it is said that the Lydians invented currency. Whether or not they really did invent currency, it was during Croesus' reign that a method of seperating the gold and silver in electrum was discovered, allowing the first fully gold and silver backed coinage to be developed. With seemingly endless electrum supplies from the rivers, the country became immensely wealthy.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_BUILDING_ELECTRUM_REFINERY_STRATEGY">
+
+			<Text>The Electrum Refinery  is an excellent [ICON_GOLD] gold producing building. Though it provides the same bonuses as the normal mint, it requires rivers instead of sources of [ICON_RES_GOLD] gold and [ICON_RES_SILVER] silver and increases [ICON_GOLD] gold production by 2% per river tile within a city's borders. By carefully settling cities on rivers, the Electrum Refinery can generate vast amounts of wealth, allowing you to become as rich as Croesus!</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_BUILDING_ELECTRUM_REFINERY_HELP">
+
+			<Text>Replaces the Mint; Requires a river instead of [ICON_RES_GOLD] Gold and [ICON_RES_SILVER] Silver, but still yields + 2 [ICON_GOLD] gold on those resources. Merchant specialist, and the city it is built in gains 2% gold per river tile within it's borders.</Text>
+
+		</Row>
+
+	</Language_en_US>
+  
+</GameData>

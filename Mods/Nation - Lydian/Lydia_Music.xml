@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/26/2015 5:52:34 PM -->
+<GameData>
+
+	<Audio_Sounds>
+
+
+		<Row>
+
+			<SoundID>SND_LEADER_MUSIC_RCROESUS_PEACE</SoundID>
+
+			<Filename>Lydia_Peace</Filename>
+
+			<LoadType>DynamicResident</LoadType>
+
+		</Row>
+
+
+		<Row>
+
+			<SoundID>SND_LEADER_MUSIC_RCROESUS_WAR</SoundID>
+
+			<Filename>Lydia_war</Filename>
+
+			<LoadType>DynamicResident</LoadType>
+
+		</Row>
+
+	</Audio_Sounds>
+
+
+	<Audio_2DSounds>
+
+
+		<Row>
+
+			<ScriptID>AS2D_LEADER_MUSIC_RCROESUS_PEACE</ScriptID>
+
+			<SoundID>SND_LEADER_MUSIC_RCROESUS_PEACE</SoundID>
+
+			<SoundType>GAME_MUSIC</SoundType>
+
+			<MinVolume>60</MinVolume>
+
+			<MaxVolume>60</MaxVolume>
+
+			<IsMusic>true</IsMusic>
+
+		</Row>
+
+
+		<Row>
+
+			<ScriptID>AS2D_LEADER_MUSIC_RCROESUS_WAR</ScriptID>
+
+			<SoundID>SND_LEADER_MUSIC_RCROESUS_WAR</SoundID>
+
+			<SoundType>GAME_MUSIC</SoundType>
+
+			<MinVolume>60</MinVolume>
+
+			<MaxVolume>60</MaxVolume>
+
+			<IsMusic>true</IsMusic>
+
+		</Row>
+
+	</Audio_2DSounds>
+  
+</GameData>

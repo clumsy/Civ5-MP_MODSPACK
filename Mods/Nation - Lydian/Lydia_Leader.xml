@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/25/2015 12:43:44 PM -->
+<GameData>
+
+	<Leaders>
+		<Row>
+			<Type>LEADER_RCROESUS</Type>
+
+			<Description>TXT_KEY_LEADER_RCROESUS</Description>
+
+			<Civilopedia>TXT_KEY_LEADER_RCROESUS_PEDIA</Civilopedia>
+
+			<CivilopediaTag>TXT_KEY_CIVILOPEDIA_LEADERS_RCROESUS</CivilopediaTag>
+
+			<ArtDefineTag>Lydia_Scene.xml</ArtDefineTag>
+
+			<VictoryCompetitiveness>6</VictoryCompetitiveness>
+			<WonderCompetitiveness>8</WonderCompetitiveness>
+			<MinorCivCompetitiveness>6</MinorCivCompetitiveness>
+			<Boldness>7</Boldness>
+			<DiploBalance>6</DiploBalance>
+			<WarmongerHate>7</WarmongerHate>
+			<WorkAgainstWillingness>3</WorkAgainstWillingness>
+			<WorkWithWillingness>6</WorkWithWillingness>
+			<DenounceWillingness>6</DenounceWillingness>
+			<DoFWillingness>6</DoFWillingness>
+			<Loyalty>4</Loyalty>
+			<Neediness>8</Neediness>
+			<Forgiveness>6</Forgiveness>
+			<Chattiness>8</Chattiness>
+			<Meanness>5</Meanness>
+			<IconAtlas>RLYDIA_ICON_ATLAS</IconAtlas>
+			<PortraitIndex>1</PortraitIndex>
+
+		</Row>
+	</Leaders>
+
+	<Leader_MajorCivApproachBiases>
+		<Row>
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_WAR</MajorCivApproachType>
+			<Bias>7</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_HOSTILE</MajorCivApproachType>
+			<Bias>3</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_DECEPTIVE</MajorCivApproachType>
+			<Bias>7</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_GUARDED</MajorCivApproachType>
+			<Bias>5</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_AFRAID</MajorCivApproachType>
+			<Bias>6</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_FRIENDLY</MajorCivApproachType>
+			<Bias>6</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_NEUTRAL</MajorCivApproachType>
+			<Bias>6</Bias>
+		</Row>
+	</Leader_MajorCivApproachBiases>
+
+	<Leader_MinorCivApproachBiases>
+		<Row>
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_IGNORE</MinorCivApproachType>
+			<Bias>3</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_FRIENDLY</MinorCivApproachType>
+			<Bias>6</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_PROTECTIVE</MinorCivApproachType>
+			<Bias>7</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_CONQUEST</MinorCivApproachType>
+			<Bias>6</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_BULLY</MinorCivApproachType>
+			<Bias>5</Bias>
+		</Row>
+	</Leader_MinorCivApproachBiases>
+
+	<Leader_Flavors>
+		<Row>
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+			<FlavorType>FLAVOR_RECON</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+			<FlavorType>FLAVOR_RANGED</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+			<FlavorType>FLAVOR_MOBILE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_RECON</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_GROWTH</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_TILE_IMPROVEMENT</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+			<FlavorType>FLAVOR_AIR</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+			<FlavorType>FLAVOR_TILE_IMPROVEMENT</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+			<FlavorType>FLAVOR_INFRASTRUCTURE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+			<FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>9</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+			<FlavorType>FLAVOR_DIPLOMACY</FlavorType>
+			<Flavor>9</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+			<FlavorType>FLAVOR_SPACESHIP</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+			<FlavorType>FLAVOR_WATER_CONNECTION</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+			<FlavorType>FLAVOR_NUKE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+			<FlavorType>FLAVOR_USE_NUKE</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+			<FlavorType>FLAVOR_ESPIONAGE</FlavorType>
+			<Flavor>75</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+			<FlavorType>FLAVOR_ANTIAIR</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+			<FlavorType>FLAVOR_AIR_CARRIER</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+			<FlavorType>FLAVOR_ARCHAEOLOGY</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+			<FlavorType>FLAVOR_I_LAND_TRADE_ROUTE</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+			<FlavorType>FLAVOR_I_SEA_TRADE_ROUTE</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+			<FlavorType>FLAVOR_I_TRADE_ORIGIN</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+			<FlavorType>FLAVOR_I_TRADE_DESTINATION</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+			<FlavorType>FLAVOR_AIRLIFT</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+	</Leader_Flavors>
+
+
+
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_RCROESUS">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_RCROESUS_FIRSTGREETING_%</Response>
+		</Row>
+		<Row LeaderType="LEADER_RCROESUS">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_RCROESUS_DEFEATED_%</Response>
+		</Row>
+	</Diplomacy_Responses>
+
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_RCROESUS">
+			<Text>Croesus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RCROESUS_PEDIA">
+			<Text>Croesus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RCROESUS">
+			<Text>Test text.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RCROESUS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RCROESUS_TEXT_1">
+			<Text>Croesus was the last king of Lydia (560 - 547 BCE), raising the kingdom to it's most powerful and prosperous period, but also led the kingdom to it's demise. During his reign, he instituted the first pure gold, standardised currency which vastly increased Lydia's wealth. He also patronised the building of various monuments such as the Temple of Atermis. As most of our knowledge of Croesus comes from Greek historians, this civilopedia may conflict with other sources, or perhaps be more legendary. </Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RCROESUS_HEADING_2">
+			<Text>Early Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RCROESUS_TEXT_2">
+			<Text>
+				Born about 595 BC, Croesus received tribute from the Ionian Greeks but was friendlier to the Hellenes than his father had been. Croesus is credited with issuing the first true gold coins with a standardised purity for general circulation. In Greek and Persian cultures the name of Croesus became a synonym for a wealthy man. Croesus' wealth remained proverbial beyond classical antiquity: in English, expressions such as 'rich as Croesus' or 'richer than Croesus' are used to indicate great wealth to this day. The earliest known such usage in English was John Gower's in Confessio amantis (1390).
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RCROESUS_HEADING_3">
+			<Text>Family tragedies</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RCROESUS_TEXT_3">
+			<Text>According to Herodotus, Croesus encountered the Greek sage Solon and showed him his enormous wealth. Croesus, secure in his own wealth and happiness, asks Solon who the happiest man in the world is, and is disappointed by Solon's response: that three have been happier than Croesus, Tellus, who died fighting for his country, and Kleobis and Biton, brothers who died peacefully in their sleep when their mother prayed for their perfect happiness after they had demonstrated filial piety by drawing her to a festival in an oxcart themselves. Solon goes on to explain that Croesus cannot be the happiest man because the fickleness of fortune means that the happiness of a man's life cannot be judged until after his death. Sure enough, Croesus' hubristic happiness was reversed by the tragic deaths of his accidentally-killed son and, in Critias, his wife's suicide at the fall of Sardis, not to mention his defeat at the hands of the Persians.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RCROESUS_HEADING_4">
+			<Text>The war with Persia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RCROESUS_TEXT_4">
+			<Text>
+				Croesus' uneasy relations with the Greeks obscures the larger fact that he was the last bastion of the Ionian cities against the increasing Persian power in Anatolia. He began preparing a campaign against Cyrus the Great of Persia. Before setting out, he turned to the Delphic oracle and the oracle of Amphiaraus to inquire whether he should pursue this campaign and whether he should also seek an alliance. The oracles answered, with typical ambiguity, that if Croesus attacked the Persians, he would destroy a great empire – this would become one of the most famous oracular statements from Delphi. The oracles also advised Croesus to find out which Greek state was most powerful and to ally himself with it. Croesus, now feeling secure, formed an alliance with Sparta in addition to those he had with Amasis II of Egypt and Nabonidus of Babylonia, and launched his campaign against the Persian Empire in 547 BC. He was intercepted near the Halys River in central Anatolia and an inconclusive battle was fought. It was the usual practice in those days for the armies to disband for winter and Croesus did so accordingly. Cyrus did not, however, and he attacked Croesus in Sardis, capturing him. It became clear that the powerful empire destroyed by the war was Croesus's own.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RCROESUS_HEADING_5">
+			<Text>Rescue and death</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RCROESUS_TEXT_5">
+			<Text>
+				In 546 BC, Croesus was defeated and captured by the Persians. According to various accounts of Croesus's life, Cyrus ordered him to be burned to death on a pyre, but Croesus escaped death. The nature of his escape varies considerably. Herodotus tells us that in the Lydian account, Croesus was placed upon a great pyre by Cyrus' orders, for Cyrus wanted to see if any of the heavenly powers would appear to save him from being burned alive. The pile was set ablaze, and as Cyrus the Great watched he saw Croesus call out "Solon" three times. He asked the interpreters to find out why he said this word with such resignation and agony. The interpreters returned the answer that Solon had warned Croesus of the fickleness of good fortune (see Interview with Solon above). This touched Cyrus, who realized that he and Croesus were much the same man, and he bade the servants to quench the blazing fire as quickly as they could. They tried to do this, but the flames were not to be mastered. According to the story, Croesus called out to Apollo and prayed to him. The sky had been clear and the day without a breath of wind, but soon dark clouds gathered and a storm with rain of such violence that the flames were speedily extinguished. Cyrus, thus convinced that Croesus was a good man, made him an advisor who served Cyrus 'well'. It is not known exactly how Croesus died, it is entirely possible the story of the pyre is fictional, some accounts say he died defending Sardis, we shall likely never know.
+			</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RCROESUS_SUBTITLE">
+			<Text>King of Lydia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RCROESUS_NAME">
+			<Text>Croesus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RCROESUS_LIVED">
+			<Text>595 - 547 BCE</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RCROESUS_FIRSTGREETING_1">
+			<Text>You've come a long way, drawn to the riches of Lydia I suspect, come and dine with our court.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RCROESUS_FIRSTGREETING_2">
+			<Text>I welcome you to the wealthiest kingdom on Earth, I am it's King, Croesus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RCROESUS_FIRSTGREETING_3">
+			<Text>What brings you to Lydia? Have you come to admire our splendour and wealth?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RCROESUS_DEFEATED_1">
+			<Text>So, it has come to this. It seems the Oracle was correct when they told me a great Empire would fall today.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RCROESUS_DEFEATED_2">
+			<Text>What have I done? The Gods must have abandoned us, our greed and decadence was too great.</Text>
+		</Row>
+	</Language_en_US>
+
+	-<Leader_Traits>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_RCROESUS</LeaderType>
+
+			<TraitType>TRAIT_AS_RICH_AS</TraitType>
+
+		</Row>
+
+	</Leader_Traits>
+  
+</GameData>

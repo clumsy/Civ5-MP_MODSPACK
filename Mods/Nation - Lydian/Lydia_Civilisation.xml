@@ -1,0 +1,875 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/21/2015 4:45:48 PM -->
+<GameData>
+
+	<Civilizations>
+
+
+		<Row>
+
+			<Type>CIVILIZATION_RLYDIA</Type>
+
+			<Description>TXT_KEY_CIV_RLYDIA_DESC</Description>
+
+			<Civilopedia>TXT_KEY_CIV5_RLYDIA_PEDIA</Civilopedia>
+
+			<CivilopediaTag>TXT_KEY_CIV5_RLYDIA</CivilopediaTag>
+
+			<Strategy/>
+
+			<Playable>1</Playable>
+
+			<AIPlayable>1</AIPlayable>
+
+			<ShortDescription>TXT_KEY_CIV_RLYDIA_SHORT_DESC</ShortDescription>
+
+			<Adjective>TXT_KEY_CIV_RLYDIA_ADJECTIVE</Adjective>
+
+			<DefaultPlayerColor>PLAYERCOLOR_RLYDIA</DefaultPlayerColor>
+
+			<ArtDefineTag>ART_DEF_CIVILIZATION_GREECE</ArtDefineTag>
+
+			<ArtStyleType>ARTSTYLE_GRECO_ROMAN</ArtStyleType>
+
+			<ArtStyleSuffix>_MED</ArtStyleSuffix>
+
+			<ArtStylePrefix>MEDITERRANEAN</ArtStylePrefix>
+
+			<PortraitIndex>0</PortraitIndex>
+
+			<IconAtlas>RLYDIA_ICON_ATLAS</IconAtlas>
+
+			<AlphaIconAtlas>RLYDIA_ALPHA_ATLAS</AlphaIconAtlas>
+
+			<MapImage>LydianMap.dds</MapImage>
+
+			<DawnOfManQuote>TXT_KEY_CIV5_DAWN_RLYDIA_TEXT</DawnOfManQuote>
+
+			<DawnOfManImage>LydianDOM.dds</DawnOfManImage>
+
+			<DawnOfManAudio></DawnOfManAudio>
+
+			<SoundtrackTag>Persia</SoundtrackTag>
+
+		</Row>
+
+	</Civilizations>
+
+	<Civilization_BuildingClassOverrides>
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RLYDIA</CivilizationType>
+
+			<BuildingClassType>BUILDINGCLASS_MINT</BuildingClassType>
+
+			<BuildingType>BUILDING_ELECTRUM_REFINERY</BuildingType>
+
+		</Row>
+
+	</Civilization_BuildingClassOverrides>
+
+
+	<Civilization_CityNames>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RLYDIA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RLYDIA_0</CityName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RLYDIA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RLYDIA_1</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RLYDIA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RLYDIA_2</CityName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RLYDIA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RLYDIA_3</CityName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RLYDIA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RLYDIA_4</CityName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RLYDIA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RLYDIA_5</CityName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RLYDIA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RLYDIA_6</CityName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RLYDIA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RLYDIA_7</CityName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RLYDIA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RLYDIA_8</CityName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RLYDIA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RLYDIA_9</CityName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RLYDIA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RLYDIA_10</CityName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RLYDIA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RLYDIA_11</CityName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RLYDIA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RLYDIA_12</CityName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RLYDIA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RLYDIA_13</CityName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RLYDIA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RLYDIA_14</CityName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RLYDIA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RLYDIA_15</CityName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RLYDIA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RLYDIA_16</CityName>
+
+		</Row>
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RLYDIA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RLYDIA_17</CityName>
+
+		</Row>
+
+
+
+	</Civilization_CityNames>
+
+
+	<Civilization_FreeBuildingClasses>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RLYDIA</CivilizationType>
+
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+
+		</Row>
+
+	</Civilization_FreeBuildingClasses>
+
+
+	<Civilization_FreeTechs>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RLYDIA</CivilizationType>
+
+			<TechType>TECH_AGRICULTURE</TechType>
+
+		</Row>
+
+	</Civilization_FreeTechs>
+
+
+	<Civilization_FreeUnits>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RLYDIA</CivilizationType>
+
+			<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+
+			<UnitAIType>UNITAI_SETTLE</UnitAIType>
+
+			<Count>1</Count>
+
+		</Row>
+
+	</Civilization_FreeUnits>
+
+
+	<Civilization_Leaders>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RLYDIA</CivilizationType>
+
+			<LeaderheadType>LEADER_RCROESUS</LeaderheadType>
+
+		</Row>
+
+	</Civilization_Leaders>
+
+
+	<Civilization_Religions>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RLYDIA</CivilizationType>
+
+			<ReligionType>RELIGION_ORTHODOXY</ReligionType>
+
+		</Row>
+
+	</Civilization_Religions>
+
+
+	<Civilization_SpyNames>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RLYDIA</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RLYDIA_0</SpyName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RLYDIA</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RLYDIA_1</SpyName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RLYDIA</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RLYDIA_2</SpyName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RLYDIA</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RLYDIA_3</SpyName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RLYDIA</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RLYDIA_4</SpyName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RLYDIA</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RLYDIA_5</SpyName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RLYDIA</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RLYDIA_6</SpyName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RLYDIA</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RLYDIA_7</SpyName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RLYDIA</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RLYDIA_8</SpyName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RLYDIA</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RLYDIA_9</SpyName>
+
+		</Row>
+
+	</Civilization_SpyNames>
+
+
+	<Civilization_UnitClassOverrides>
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_RLYDIA</CivilizationType>
+
+			<UnitClassType>UNITCLASS_HORSEMAN</UnitClassType>
+
+			<UnitType>UNIT_HIPPOMACHOI</UnitType>
+
+		</Row>
+
+	</Civilization_UnitClassOverrides>
+
+
+	-<Civilization_Start_Along_River>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RLYDIA</CivilizationType>
+
+			<StartAlongRiver>true</StartAlongRiver>
+
+		</Row>
+
+	</Civilization_Start_Along_River>
+
+	<PlayerColors>
+
+
+		<Row>
+
+			<Type>PLAYERCOLOR_RLYDIA</Type>
+
+			<PrimaryColor>COLOR_PLAYER_RLYDIA_ICON</PrimaryColor>
+
+			<SecondaryColor>COLOR_PLAYER_RLYDIA_BACKGROUND</SecondaryColor>
+
+			<TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+
+		</Row>
+
+	</PlayerColors>
+
+
+	<Colors>
+
+
+		<Row>
+
+			<Type>COLOR_PLAYER_RLYDIA_ICON</Type>
+
+			<Red>0.8359</Red>
+
+			<Green>0.8789</Green>
+
+			<Blue>0.875</Blue>
+
+			<Alpha>1.0</Alpha>
+
+		</Row>
+
+		<Row>
+
+			<Type>COLOR_PLAYER_RLYDIA_BACKGROUND</Type>
+
+			<Red>0.6328</Red>
+
+			<Green>0.625</Green>
+
+			<Blue>0.0977</Blue>
+
+			<Alpha>1.0</Alpha>
+
+		</Row>
+
+	</Colors>
+
+
+	<Language_en_US>
+
+
+		<Row Tag="TXT_KEY_CIV_RLYDIA_DESC">
+
+			<Text>Lydian Empire</Text>
+
+			<Gender>neuter:an</Gender>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_RLYDIA_FACTOID_HEADING">
+
+			<Text>Lydia factoid</Text>
+
+		</Row>
+
+		-<Row Tag="TXT_KEY_CIV5_RLYDIA_FACTOID_TEXT">
+			-
+			<Text>The saying 'As Rich as Croesus' is derived from Lydia[NEWLINE][NEWLINE]According to legend, the river near Sardis was rich in electrum as it was where King Midas washed the golden touch from his hands[NEWLINE][NEWLINE][NEWLINE][NEWLINE]It was Croesus who funded and patronised the construction of the Temple of Atermis[NEWLINE][NEWLINE]'The one Ring' from the Lord of the Rings series of fantasy books was probably inspired by the ring of Gyges, a very similar tale based in Lydia</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_RLYDIA_TEXT">
+
+
+			<Text>Summary</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_RLYDIA_HEADING_1">
+
+			<Text>History</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_RLYDIA_HEADING_2">
+
+			<Text>Geography and Climate</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_RLYDIA_HEADING_3">
+
+			<Text>The Hitties and Maeonia</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_RLYDIA_HEADING_4">
+
+			<Text>Lydia, land of myth</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_RLYDIA_HEADING_5">
+
+			<Text>Gyges and the Mermnad Dynasty</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_RLYDIA_HEADING_6">
+
+			<Text>First Coinage</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_RLYDIA_HEADING_7">
+
+			<Text>The Hubris of Croesus</Text>
+
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_CIV5_RLYDIA_TEXT_1">
+
+
+			<Text>Lydia is an Iron age Anatolian Kingdom centred around the city of Sardis. Originally a weak neo-hittite state, the Kingdom greatly expanded and flourished under the Mermnad dynasty until it's destruction by the Persian Empire.</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_RLYDIA_TEXT_2">
+
+
+			<Text>The boundaries of historical Lydia varied across the centuries. It was bounded first by Mysia, Caria, Phrygia and coastal Ionia. Later, the military power of Alyattes II and Croesus expanded Lydia, which, with its capital at Sardis, controlled all Asia Minor west of the River Halys, except Lycia. Lydia never again shrank back into its original dimensions. After the Persian conquest the River Maeander was regarded as its southern boundary, and during imperial Roman times Lydia comprised the country between Mysia and Caria on the one side and Phrygia and the Aegean Sea on the other.</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_RLYDIA_TEXT_3">
+
+
+			<Text>Lydia developed as a Neo-Hittite kingdom after the decline of the Hittite Empire in the 12th century BC. In Hittite times, the name for the region had been Arzawa; it was a Luwian-speaking area. According to Greek source, the original name of the Lydian kingdom was Maionia, or Maeonia: Homer refers to the inhabitants of Lydia as Maiones. Homer describes their capital not as Sardis but as Hyde. Hyde may have been the name of the district in which Sardis was located. Later, Herodotus adds that the "Meiones" were renamed Lydians after their king Lydus, son of Atys, during the mythical epoch that preceded the Heracleid dynasty.</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_RLYDIA_TEXT_4">
+
+
+			<Text>
+				Lydian mythology is virtually unknown, and their literature and rituals lost, in the absence of any monuments or archaeological finds with extensive inscriptions; therefore myths involving Lydia are mainly from Greek mythology. For the Greeks, Tantalus was a primordial ruler of mythic Lydia, and Niobe his proud daughter; her husband Amphion associated Lydia with Thebes in Greece, and through Pelops the line of Tantalus was part of the founding myths of Mycenae's second dynasty.  In Greek myth, Lydia was also the origin-place of the double-axe, the labrys. Omphale, daughter of the river Iardanos, was a ruler of Lydia, whom Heracles was required to serve for a time. His adventures in Lydia are the adventures of a Greek hero in a peripheral and foreign land: during his stay, Heracles enslaved the Itones, killed Syleus who forced passers-by to hoe his vineyard; slew the serpent of the river Sangarios and captured the simian tricksters, the Cercopes. Accounts tell of at least one son born to Omphale and Heracles: Diodorus Sicul and Ovid mention a son Lamos, while pseudo-Apollodorus gives the name Agelaus, and Pausanias names Tyrsenus son of Heracles by 'the Lydian woman'. All three heroic ancestors indicate a Lydian dynasty claiming Heracles as their ancestor. Herodotus refers to a Heraclid dynasty of kings who ruled Lydia, yet were perhaps not descended from Omphale. He also mentions the recurring legend that the Etruscan civilization was founded by colonists from Lydia led by Tyrrhenus, brother of Lydus. However, Dionysius of Halicarnassus was skeptical of this story, indicating that the Etruscan language and customs were known to be totally dissimilar to those of the Lydians. Later chronographers also ignored Herodotus's statement that Agron was the first to be a king, and included Alcaeus, Belus, and Ninus in their list of kings of Lydia. Strabo makes Atys, father of Lydus and Tyrrhenus, to be a descendant of Heracles and Omphale. All other accounts name Atys, Lydus, and Tyrrhenus as being among the pre-Heraclid kings of Lydia. 
+			</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_RLYDIA_TEXT_5">
+
+
+			<Text>
+				One of Lydia's greatest, and most well documented kings is Gyges, the founder of the Mermnad dyasty, Lydia's last. Gyges, called Gugu of Luddu in Assyrian inscriptions (687-652 BC or 690-657 BC) - Once established on the throne, Gyges devoted himself to consolidating his kingdom and making it a military power. The capital was relocated from Hyde to Sardis. Barbarian Cimmerians sacked many Lydian cities, except for Sardis. Gyges was the son of Dascylus, who, when recalled from banishment in Cappadocia by the Lydian king Myrsilos—called Candaules "the Dog-strangler" (a title of the Lydian Hermes) by the Greeks—sent his son back to Lydia instead of himself. Gyges turned to Egypt, sending his faithful Carian troops along with Ionian mercenaries to assist Psammetichus in ending Assyrian domination. Some Bible scholars believe that Gyges of Lydia was the Biblical character Gog, ruler of Magog, who is mentioned in the Book of Ezekiel and the Book of Revelation.
+			</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_RLYDIA_TEXT_6">
+
+
+			<Text>
+				Lydians were likely the first people to use standardised currency. The dating of these first stamped coins is one of the most frequently debated topics of ancient numismatics, with dates ranging from 700 BC to 550 BC, but the most common opinion is that they were minted at or near the beginning of the reign of King Alyattes (sometimes referred to incorrectly as Alyattes II), who ruled Lydia c. 610-550 BC. The first coins were made of electrum, an alloy of gold and silver that occurs naturally but that was further debased by the Lydians with added silver and copper. The largest of these coins are commonly referred to as a 1/3 stater denomination, weighing around 4.7 grams, though no full staters of this type have ever been found, and the 1/3 stater probably should be referred to more correctly as a stater, after a type of a transversely held scale, the weights used in such a scale (from ancient Greek ίστημι=to stand), which also means "standard." These coins were stamped with a lion's head adorned with what is likely a sunburst, which was the king's symbol. To complement the largest denomination, fractions were made, including a hekte (sixth), hemihekte (twelfth), and so forth down to a 96th, with the 1/96 stater weighing only about 0.15 grams. There is disagreement, however, over whether the fractions below the twelfth are actually Lydian.
+			</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_RLYDIA_TEXT_7">
+
+
+			<Text>Croesus was one of Lydia's most famous and greatest kings, though he ultimately destroyed his kingdom. He reigned over a time of great prosperity, and introduced the first fully pure gold currency. The strength of Lydia got the better of him however when he began a war against the rising power of Persia, believing the Oracle of Delphi's message "A great Empire will fall" to mean the Persians. The armies of Cyrus the great quickly subjagated the entire country, capturing the capital of Sardus and immortalising Croesus as a symbol of Hubris.</Text>
+
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_CIV5_RLYDIA_TITLE">
+
+			<Text>Lydia</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV_RLYDIA_SHORT_DESC">
+
+			<Text>Lydia</Text>
+
+			<Gender>neuter:an</Gender>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV_RLYDIA_ADJECTIVE">
+
+			<Text>Lydian</Text>
+
+			<Gender>neuter:an</Gender>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_DAWN_RLYDIA_TEXT">
+
+			<Text>May the blessings of Atermis be with you, most resplendent King Croesus. You are the King of Lydia, the wealthiest nation in all of antiquity! Emerging from the collapse of the Hittite empire in the 13th century BC, Lydia would eventually come to dominate Anatolia as a key industrial and military power, defeating the Cimmerians and expanding its influence to the great City States of Ephesus and Miletus. Your people were among the first to invent currency as a way of regulating trade, a development which quickly spread across the classical world, and made Lydia renowned for its wealth. This prosperity attracted enemies however, and the entire country was subjugated during its peak by the fearsome Persian empire.[NEWLINE][NEWLINE]King Croesus, the memory of Lydia has never faded, and the Lydians look to you to restore the country to its rightful glory. Will your name become synonymous with vast riches? Or will it strike fear into the hearts of those who dare oppose you? Can you build a civilization to stand the test of Time?</Text>
+
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_RLYDIA_0">
+
+			<Text>Sardis</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_RLYDIA_1">
+
+			<Text>Gordium</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_RLYDIA_2">
+
+			<Text>Tralles</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_RLYDIA_3">
+
+			<Text>Thyateira</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_RLYDIA_4">
+
+			<Text>Nysa</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_RLYDIA_5">
+
+			<Text>Manisa</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_RLYDIA_6">
+
+			<Text>Philadelphia</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_RLYDIA_7">
+
+			<Text>Pergamum</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_RLYDIA_8">
+
+			<Text>Esphesus</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_RLYDIA_9">
+
+			<Text>Symrna</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_RLYDIA_10">
+
+			<Text>Mastaura</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_RLYDIA_11">
+
+			<Text>Blaundos</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_RLYDIA_12">
+
+			<Text>Tabala</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_RLYDIA_13">
+
+			<Text>Satala</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_RLYDIA_14">
+
+			<Text>Miletus</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_RLYDIA_15">
+
+			<Text>Tmolus</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_RLYDIA_16">
+
+			<Text>Adramyttium</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_RLYDIA_17">
+
+			<Text>Apollonia</Text>
+
+		</Row>
+
+
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_RLYDIA_0">
+
+			<Text>Lydus</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_RLYDIA_1">
+
+			<Text>Gyges</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_RLYDIA_2">
+
+			<Text>Alyattes</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_RLYDIA_3">
+
+			<Text>Ardys</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_RLYDIA_4">
+
+			<Text>Sadyattes</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_RLYDIA_5">
+
+			<Text>Tantalus</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_RLYDIA_6">
+
+			<Text>Lydia</Text>
+
+			<Gender>feminine</Gender>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_RLYDIA_7">
+
+			<Text>Cybele</Text>
+
+			<Gender>feminine</Gender>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_RLYDIA_8">
+
+			<Text>Tarhunt</Text>
+
+			<Gender>feminine</Gender>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_RLYDIA_9">
+
+			<Text>Kubebe</Text>
+
+			<Gender>feminine</Gender>
+
+		</Row>
+
+	</Language_en_US>
+
+
+</GameData>

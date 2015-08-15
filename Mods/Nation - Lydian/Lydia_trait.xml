@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/25/2015 12:54:54 PM -->
+<GameData>
+
+	<Traits>
+		<Row>
+			<Type>TRAIT_AS_RICH_AS</Type>
+			<Description>TXT_KEY_TRAIT_AS_RICH_AS</Description>
+			<ShortDescription>TXT_KEY_TRAIT_AS_RICH_AS_SHORT</ShortDescription>
+		</Row>
+	</Traits>
+
+	<Trait_SpecialistYieldChanges>
+
+		<Row>
+
+			<TraitType>TRAIT_AS_RICH_AS</TraitType>
+
+			<SpecialistType>SPECIALIST_MERCHANT</SpecialistType>
+
+			<YieldType>YIELD_GOLD</YieldType>
+
+			<Yield>3</Yield>
+			
+		</Row>
+		
+	</Trait_SpecialistYieldChanges>
+
+	<Language_en_US>
+
+
+		<Row Tag="TXT_KEY_TRAIT_AS_RICH_AS">
+
+			<Text>Merchant Specialists yield an extra +3 [ICON_GOLD] gold and +3 [ICON_GOLDEN_AGE] golden age points.</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_TRAIT_AS_RICH_AS_SHORT">
+
+			<Text>As rich as Croesus</Text>
+
+		</Row>
+
+	</Language_en_US>
+  
+</GameData>

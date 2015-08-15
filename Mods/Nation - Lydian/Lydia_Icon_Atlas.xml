@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/4/2015 5:34:20 PM -->
+<GameData>
+
+	<IconTextureAtlases>
+
+		-<Row>
+
+			<Atlas>RLYDIA_ICON_ATLAS</Atlas>
+
+			<IconSize>256</IconSize>
+
+			<Filename>LydiaIconAtlas256.dds</Filename>
+
+			<IconsPerRow>8</IconsPerRow>
+
+			<IconsPerColumn>8</IconsPerColumn>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<Atlas>RLYDIA_ICON_ATLAS</Atlas>
+
+			<IconSize>128</IconSize>
+
+			<Filename>LydiaIconAtlas128.dds</Filename>
+
+			<IconsPerRow>8</IconsPerRow>
+
+			<IconsPerColumn>8</IconsPerColumn>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<Atlas>RLYDIA_ICON_ATLAS</Atlas>
+
+			<IconSize>80</IconSize>
+
+			<Filename>LydiaIconAtlas80.dds</Filename>
+
+			<IconsPerRow>8</IconsPerRow>
+
+			<IconsPerColumn>8</IconsPerColumn>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<Atlas>RLYDIA_ICON_ATLAS</Atlas>
+
+			<IconSize>64</IconSize>
+
+			<Filename>LydiaIconAtlas64.dds</Filename>
+
+			<IconsPerRow>8</IconsPerRow>
+
+			<IconsPerColumn>8</IconsPerColumn>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<Atlas>RLYDIA_ICON_ATLAS</Atlas>
+
+			<IconSize>45</IconSize>
+
+			<Filename>LydiaIconAtlas45.dds</Filename>
+
+			<IconsPerRow>8</IconsPerRow>
+
+			<IconsPerColumn>8</IconsPerColumn>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<Atlas>RLYDIA_ICON_ATLAS</Atlas>
+
+			<IconSize>32</IconSize>
+
+			<Filename>LydiaIconAtlas32.dds</Filename>
+
+			<IconsPerRow>8</IconsPerRow>
+
+			<IconsPerColumn>8</IconsPerColumn>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<Atlas>RLYDIA_ALPHA_ATLAS</Atlas>
+
+			<IconSize>256</IconSize>
+
+			<Filename>LydiaAlpha256.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<Atlas>RLYDIA_ALPHA_ATLAS</Atlas>
+
+			<IconSize>128</IconSize>
+
+			<Filename>LydiaAlpha128.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<Atlas>RLYDIA_ALPHA_ATLAS</Atlas>
+
+			<IconSize>80</IconSize>
+
+			<Filename>LydiaAlpha80.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<Atlas>RLYDIA_ALPHA_ATLAS</Atlas>
+
+			<IconSize>64</IconSize>
+
+			<Filename>LydiaAlpha64.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<Atlas>RLYDIA_ALPHA_ATLAS</Atlas>
+
+			<IconSize>48</IconSize>
+
+			<Filename>LydiaAlpha48.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<Atlas>RLYDIA_ALPHA_ATLAS</Atlas>
+
+			<IconSize>45</IconSize>
+
+			<Filename>LydiaAlpha45.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<Atlas>RLYDIA_ALPHA_ATLAS</Atlas>
+
+			<IconSize>32</IconSize>
+
+			<Filename>LydiaAlpha32.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<Atlas>RLYDIA_ALPHA_ATLAS</Atlas>
+
+			<IconSize>24</IconSize>
+
+			<Filename>LydiaAlpha24.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		-
+
+
+		-<Row>
+
+			<Atlas>RLYDIA_ALPHA_ATLAS</Atlas>
+
+			<IconSize>16</IconSize>
+
+			<Filename>LydiaAlpha16.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<Atlas>HIPPOMACHOI_ALPHA</Atlas>
+
+			<IconSize>256</IconSize>
+
+			<Filename>HippomachoiFlag256.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<Atlas>HIPPOMACHOI_ALPHA</Atlas>
+
+			<IconSize>128</IconSize>
+
+			<Filename>HippomachoiFlag128.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<Atlas>HIPPOMACHOI_ALPHA</Atlas>
+
+			<IconSize>80</IconSize>
+
+			<Filename>HippomachoiFlag80.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<Atlas>HIPPOMACHOI_ALPHA</Atlas>
+
+			<IconSize>64</IconSize>
+
+			<Filename>HippomachoiFlag64.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<Atlas>HIPPOMACHOI_ALPHA</Atlas>
+
+			<IconSize>45</IconSize>
+
+			<Filename>HippomachoiFlag45.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<Atlas>HIPPOMACHOI_ALPHA</Atlas>
+
+			<IconSize>32</IconSize>
+
+			<Filename>HippomachoiFlag32.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+
+	</IconTextureAtlases>
+
+
+</GameData>

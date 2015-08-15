@@ -1470,6 +1470,9 @@ ContextPtr:LoadNewContext("saxonytrait")
 ContextPtr:LoadNewContext("BuildingProvidesAccesstoFreshWater")
 ContextPtr:LoadNewContext("NazcaUA")
 
+-- Nation - Lydia --
+ContextPtr:LoadNewContext("Lydian_trait")
+
 -- Nation - Xia --
 ContextPtr:LoadNewContext("Xia Mod Check")
 ContextPtr:LoadNewContext("XiaDynastyPopup")

@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="a7484a22-2cd1-421b-b749-c108e2378b5e" version="1">
+  <Properties>
+    <Name>Lydian Empire</Name>
+    <Teaser>Adds the Lydian Empire to the game</Teaser>
+    <Description>Adds the Lydian Empire to the game</Description>
+    <Authors>ryanjames, davey_henninger</Authors>
+    <SpecialThanks>Viregel, Ambrox62</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>0</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="RED units" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YNAEMP" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV leader traits" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Unique Cultural Influence" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="Piety and Prestige" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="Cultural Diversity" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="8E83FA60B7762B80E00DB15682A6EA2A" import="1">Assets/Icons/HippomachoiFlag128.dds</File>
+    <File md5="1AD6C50E53717CCBFDCCC2C566CE2449" import="1">Assets/Icons/HippomachoiFlag256.dds</File>
+    <File md5="A0E98E0E28828EA10F4B9FD60C607938" import="1">Assets/Icons/HippomachoiFlag32.dds</File>
+    <File md5="8CA7C9B828047BD29417F90FE24C1D5C" import="1">Assets/Icons/HippomachoiFlag45.dds</File>
+    <File md5="7673E0734B4E6592AD876269EA259B10" import="1">Assets/Icons/HippomachoiFlag64.dds</File>
+    <File md5="5B8B503D74BF2A9CBD37AC736970C453" import="1">Assets/Icons/HippomachoiFlag80.dds</File>
+    <File md5="1084C3CD7EC08A877C484884059331D3" import="1">Assets/Icons/LydiaAlpha128.dds</File>
+    <File md5="15EB47B777C7B4259BFF063D4B199B1F" import="1">Assets/Icons/LydiaAlpha16.dds</File>
+    <File md5="5AC5690E68D9FDDE11AB4F7E6C1FA8E3" import="1">Assets/Icons/LydiaAlpha24.dds</File>
+    <File md5="64583A2ACF6135F4E2A605DF5A38BDF3" import="1">Assets/Icons/LydiaAlpha256.dds</File>
+    <File md5="B1D4C8FA1F343673D367CEE765C107E8" import="1">Assets/Icons/LydiaAlpha32.dds</File>
+    <File md5="80895AEC418AA25E70A5731EEFC69AED" import="1">Assets/Icons/LydiaAlpha45.dds</File>
+    <File md5="BB0395BD7E002A0053CC5643431E4397" import="1">Assets/Icons/LydiaAlpha48.dds</File>
+    <File md5="FA1CDB3CD83958D8662E80FA7B0E25F3" import="1">Assets/Icons/LydiaAlpha64.dds</File>
+    <File md5="AA7F4B2C8EC89E1DBC11A34E8FB91D96" import="1">Assets/Icons/LydiaAlpha80.dds</File>
+    <File md5="4923FBC39EF31C874F51DD6F2A58AD37" import="1">Assets/Icons/LydiaIconAtlas128.dds</File>
+    <File md5="4B9233808F5CB22AA596EFF81A686AF8" import="1">Assets/Icons/LydiaIconAtlas256.dds</File>
+    <File md5="8AFC9307E95DCA5CACD97E4FC708F602" import="1">Assets/Icons/LydiaIconAtlas32.dds</File>
+    <File md5="9EC2ABD6DC29B1112D00CF67DF96DDFE" import="1">Assets/Icons/LydiaIconAtlas45.dds</File>
+    <File md5="E87F7F4678CAAD62479CA05D914630FA" import="1">Assets/Icons/LydiaIconAtlas64.dds</File>
+    <File md5="190155A75C36731D16429C93098D5F67" import="1">Assets/Icons/LydiaIconAtlas80.dds</File>
+    <File md5="D179DAC88232E99CF4A17227796A05D5" import="1">Assets/LydianDOM.dds</File>
+    <File md5="175610639FFF87C0B4C4F685B9E0A46C" import="1">Assets/LydianMap.dds</File>
+    <File md5="DAE7BE89E2D3C8E764B13D99AB764698" import="1">Assets/lydian_diplo.dds</File>
+    <File md5="9A542E7C79A3C146B8EC8F0A9B9E001B" import="1">Assets/Music/Lydia_peace.mp3</File>
+    <File md5="5146C40E6293566E87E0148891EA7B48" import="1">Assets/Music/Lydia_war.mp3</File>
+    <File md5="43316B5B4D43A296BF29C4DB2DF86107" import="1">Assets/Unit skin/Horseman_Persia.blend</File>
+    <File md5="26714268E8098A521ADDF329D3CB098D" import="1">Assets/Unit skin/Horseman_Persia.dds</File>
+    <File md5="660603D3389399B97100AD75272AE5CC" import="1">Assets/Unit skin/Horseman_Persia.fxsxml</File>
+    <File md5="96F24C9F2D78452991E23CDD72B1588E" import="1">Assets/Unit skin/Horseman_Persia.gr2</File>
+    <File md5="EB50926F04084A480EE8EB4D00AA07E0" import="1">Assets/Unit skin/Horseman_Persia_gloss.dds</File>
+    <File md5="9E816B74D9F7F95B750BACA69EAD0289" import="1">Assets/Unit skin/Horseman_Persia_Horse.dds</File>
+    <File md5="3DEF48656240765A85BD0EB3CD43D6B2" import="1">Assets/Unit skin/Horseman_Persia_Horse_gloss.dds</File>
+    <File md5="F4CBC64A2847C456FDC32DA5BEFB7A27" import="0">Lua/Lydian_trait.lua</File>
+    <File md5="BD2635D10348526814FD80C5C204800C" import="0">SQL/Lydia_Cultural_Diversity.sql</File>
+    <File md5="8A756D7B8B299AFD48E74FE421338691" import="0">SQL/Lydia_Leader_Traits.sql</File>
+    <File md5="0931ACB0DB0A2B5705BA35078DC6C83F" import="0">SQL/Lydia_Piety_Prestige.sql</File>
+    <File md5="155A3DC46ABD02D13FFBFBA5C0362B73" import="0">SQL/Lydia_RED.sql</File>
+    <File md5="755592AF8E6AD4731627DAFBB1DE9007" import="0">XML/Lydia_Civilisation.xml</File>
+    <File md5="58CC7236174F5EDEBDC152D7263E1319" import="0">XML/Hippomachoi_Art_defines.xml</File>
+    <File md5="9D001D369F3824293276BE4CD70764BA" import="0">XML/Lydia_Buildings.xml</File>
+    <File md5="F09E5756713D294FC7F6082B03D22E4F" import="0">XML/Lydia_Icon_Atlas.xml</File>
+    <File md5="67635BCA5F06E79B4CA8496521AC6A87" import="0">XML/Lydia_Leader.xml</File>
+    <File md5="124F4463B41FA4B42DDE2E4F0C7ADE25" import="0">XML/Lydia_Music.xml</File>
+    <File md5="FB1E28C6FFA1DDDD051D0783EAA13A3C" import="1">XML/Lydia_Scene.xml</File>
+    <File md5="F6670A3A845635682A9C7BAC96859F68" import="0">XML/Lydia_trait.xml</File>
+    <File md5="6BFECFD27419525D74C8915777F20EE1" import="0">XML/Lydia_Unique_Influence.xml</File>
+    <File md5="04C8FE9C78BEEBF28731F1644BCBC378" import="0">XML/Lydia_Unit.xml</File>
+    <File md5="18E32EE89FB4DEE152CF80D6871CAC4D" import="0">XML/Lydia_YNAEMP.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Lydia_Civilisation.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Hippomachoi_Art_defines.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Lydia_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Lydia_Leader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Lydia_Music.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Lydia_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Lydia_trait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Lydia_Unit.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Lydia_Icon_Atlas.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Lydia_Cultural_Diversity.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Lydia_Piety_Prestige.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Lydia_Unique_Influence.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Lydia_YNAEMP.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Lydia_Leader_Traits.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Lydia_RED.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Lydian_trait.lua">
+      <Name>As Rich as Croesus</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

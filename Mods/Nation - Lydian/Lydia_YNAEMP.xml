@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/3/2015 12:53:01 PM -->
+<GameData>
+
+	-<Civilizations_YagemStartPosition>
+		-
+
+		-<Row>
+
+			<Type>CIVILIZATION_RLYDIA</Type>
+
+			<X>33</X>
+
+			<Y>57</Y>
+
+		</Row>
+
+	</Civilizations_YagemStartPosition>
+	-
+
+	-<Civilizations_YahemStartPosition>
+		-
+
+		-<Row>
+
+			<Type>CIVILIZATION_RLYDIA</Type>
+
+			<X>71</X>
+
+			<Y>52</Y>
+
+		</Row>
+
+	</Civilizations_YahemStartPosition>
+	-
+
+	-<Civilizations_CordiformStartPosition>
+		-
+
+		-<Row>
+
+			<Type>CIVILIZATION_RLYDIA</Type>
+
+			<X>47</X>
+
+			<Y>23</Y>
+
+		</Row>
+
+	</Civilizations_CordiformStartPosition>
+
+
+
+</GameData>

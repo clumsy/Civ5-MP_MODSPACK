@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/21/2015 5:40:08 PM -->
+<GameData>
+
+
+	-<Units>
+
+
+		-<Row>
+
+			<Type>UNIT_HIPPOMACHOI</Type>
+
+			<Description>TXT_KEY_UNIT_HIPPOMACHOI</Description>
+
+			<Civilopedia>TXT_KEY_CIV5_HIPPOMACHOI_TEXT</Civilopedia>
+
+			<Strategy>TXT_KEY_UNIT_HIPPOMACHOI_STRATEGY</Strategy>
+
+			<Help>TXT_KEY_UNIT_HELP_HIPPOMACHOI</Help>
+
+			<Combat>15</Combat>
+
+			<Cost>90</Cost>
+
+			<FaithCost>150</FaithCost>
+
+			<RequiresFaithPurchaseEnabled>1</RequiresFaithPurchaseEnabled>
+
+			<Moves>4</Moves>
+
+			<BaseSightRange>2</BaseSightRange>
+
+			<Class>UNITCLASS_HORSEMAN</Class>
+
+			<CombatClass>UNITCOMBAT_MOUNTED</CombatClass>
+
+			<Domain>DOMAIN_LAND</Domain>
+
+			<DefaultUnitAI>UNITAI_FAST_ATTACK</DefaultUnitAI>
+
+			<MilitarySupport>1</MilitarySupport>
+
+			<MilitaryProduction>1</MilitaryProduction>
+
+			<Pillage>1</Pillage>
+
+			<PrereqTech>TECH_HORSEBACK_RIDING</PrereqTech>
+
+			<ObsoleteTech>TECH_CHIVALRY</ObsoleteTech>
+
+			<GoodyHutUpgradeUnitClass>UNITCLASS_KNIGHT</GoodyHutUpgradeUnitClass>
+
+			<HurryCostModifier>20</HurryCostModifier>
+
+			<AdvancedStartCost>20</AdvancedStartCost>
+
+			<XPValueAttack>3</XPValueAttack>
+
+			<XPValueDefense>3</XPValueDefense>
+
+			<UnitArtInfo>ART_DEF_UNIT_HIPPOMACHOI</UnitArtInfo>
+
+			<ShowInPedia>1</ShowInPedia>
+
+			<MoveRate>QUADRUPED</MoveRate>
+
+			<UnitFlagIconOffset>0</UnitFlagIconOffset>
+
+			<PortraitIndex>2</PortraitIndex>
+
+			<IconAtlas>RLYDIA_ICON_ATLAS</IconAtlas>
+
+			<UnitFlagAtlas>HIPPOMACHOI_ALPHA</UnitFlagAtlas>
+
+		</Row>
+
+	</Units>
+
+
+	-<Unit_AITypes>
+
+
+		-<Row>
+
+			<UnitType>UNIT_HIPPOMACHOI</UnitType>
+
+			<UnitAIType>UNITAI_DEFENSE</UnitAIType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_HIPPOMACHOI</UnitType>
+
+			<UnitAIType>UNITAI_FAST_ATTACK</UnitAIType>
+
+		</Row>
+
+	</Unit_AITypes>
+
+
+	-<Unit_ClassUpgrades>
+
+
+		-<Row>
+
+			<UnitType>UNIT_HIPPOMACHOI</UnitType>
+
+			<UnitClassType>UNITCLASS_KNIGHT</UnitClassType>
+
+		</Row>
+
+	</Unit_ClassUpgrades>
+
+
+	-<Unit_FreePromotions>
+
+
+		-<Row>
+
+			<UnitType>UNIT_HIPPOMACHOI</UnitType>
+
+			<PromotionType>PROMOTION_NO_DEFENSIVE_BONUSES</PromotionType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_HIPPOMACHOI</UnitType>
+
+			<PromotionType>PROMOTION_GOLDEN_AGE_POINTS</PromotionType>
+
+		</Row>
+
+		-<Row>
+
+			<UnitType>UNIT_HIPPOMACHOI</UnitType>
+
+			<PromotionType>PROMOTION_CAN_MOVE_AFTER_ATTACKING</PromotionType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_HIPPOMACHOI</UnitType>
+
+			<PromotionType>PROMOTION_CITY_PENALTY</PromotionType>
+
+		</Row>
+
+	</Unit_FreePromotions>
+
+
+	-<Unit_Flavors>
+
+
+		-<Row>
+
+			<UnitType>UNIT_HIPPOMACHOI</UnitType>
+
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+
+			<Flavor>6</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_HIPPOMACHOI</UnitType>
+
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+
+			<Flavor>2</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_HIPPOMACHOI</UnitType>
+
+			<FlavorType>FLAVOR_MOBILE</FlavorType>
+
+			<Flavor>4</Flavor>
+
+		</Row>
+
+	</Unit_Flavors>
+
+
+
+	-<Unit_ResourceQuantityRequirements>
+
+
+		-<Row>
+
+			<UnitType>UNIT_HIPPOMACHOI</UnitType>
+
+			<ResourceType>RESOURCE_HORSE</ResourceType>
+
+			<Cost>1</Cost>
+
+		</Row>
+
+	</Unit_ResourceQuantityRequirements>
+
+
+	-<UnitGameplay2DScripts>
+
+
+		-<Row>
+
+			<UnitType>UNIT_HIPPOMACHOI</UnitType>
+
+			<SelectionSound>AS2D_SELECT_HORSEMAN</SelectionSound>
+
+			<FirstSelectionSound>AS2D_BIRTH_HORSEMAN</FirstSelectionSound>
+
+		</Row>
+
+	</UnitGameplay2DScripts>
+
+
+	-<Language_en_US>
+
+
+		-<Row Tag="TXT_KEY_UNIT_HIPPOMACHOI">
+
+			<Text>Hippomachoi</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_HIPPOMACHOI_TEXT">
+
+
+			-<Text>Lydian cavalry was regarded as one of the best in the ancient world, armed with long lances they could easily overwhelm their foe! 'Hippomachoi' was what the Greeks christened them, meaning 'Horse Fighters', and they were highly regarded in Greek poetry.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_UNIT_HIPPOMACHOI_STRATEGY">
+
+			<Text>Though slightly costlier, the Hippomachoi are incredibly strong cavalry units, capabable of ripping right through armies. What's more, it generates golden age points proportional to the strength of it's prey, so while your enemy licks it's wounds, you can have a party!</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_UNIT_HELP_HIPPOMACHOI">
+
+			<Text>Replaces the Horseman; Gains [ICON_GOLDEN_AGE] golden age points from kills. Extra [ICON_STRENGTH] combat strength but costlier to build.</Text>
+
+		</Row>
+
+	</Language_en_US>
+  
+</GameData>
