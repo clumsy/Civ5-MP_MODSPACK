@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/16/2014 6:03:09 PM -->
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_VATADAGE</Type>
+			<BuildingClass>BUILDINGCLASS_SHRINE</BuildingClass>
+			<Cost>75</Cost>
+			<PrereqTech>TECH_POTTERY</PrereqTech>
+			<Help>TXT_KEY_BUILDING_VATADAGE_HELP</Help>
+			<Description>TXT_KEY_BUILDING_VATADAGE</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_VATADAGE_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_VATADAGE_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_SHRINE</ArtDefineTag>
+			<ConquestProb>66</ConquestProb>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>SRI_LANKA_ATLAS</IconAtlas>
+			<PortraitIndex>1</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_VATADAGE</BuildingType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_VATADAGE</BuildingType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+	</Building_Flavors>
+</GameData>

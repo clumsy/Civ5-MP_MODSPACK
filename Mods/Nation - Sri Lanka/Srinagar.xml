@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/1/2015 8:01:52 PM -->
+<GameData>
+	<MinorCivilizations>
+		<Delete Type="MINOR_CIV_COLOMBO"/>
+		<Row>
+			<Type>MINOR_CIV_SRINAGAR</Type>
+			<Description>TXT_KEY_CITYSTATE_SRINAGAR</Description>
+			<ShortDescription>TXT_KEY_CITYSTATE_SRINAGAR</ShortDescription>
+			<Adjective>TXT_KEY_CITYSTATE_SRINAGAR_ADJ</Adjective>
+			<Civilopedia>TXT_KEY_CIV5_SRINAGAR_TEXT</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_MINOR_PEACH</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_ASIAN</ArtStyleType>
+			<ArtStyleSuffix>_ASIA</ArtStyleSuffix>
+			<ArtStylePrefix>ASIAN </ArtStylePrefix>
+			<MinorCivTrait>MINOR_TRAIT_MERCANTILE</MinorCivTrait>
+		</Row>
+	</MinorCivilizations>
+	<MinorCivilization_CityNames>
+		<Delete MinorCivType="MINOR_CIV_COLOMBO"/>
+		<Row>
+			<MinorCivType>MINOR_CIV_SRINAGAR</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_SRINAGAR</CityName>
+		</Row>
+	</MinorCivilization_CityNames>
+	<MinorCivilization_Flavors>
+		<Delete MinorCivType="MINOR_CIV_COLOMBO"/>
+		<Row>
+			<MinorCivType>MINOR_CIV_SRINAGAR</MinorCivType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SRINAGAR</MinorCivType>
+			<FlavorType>FLAVOR_NUKE</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SRINAGAR</MinorCivType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SRINAGAR</MinorCivType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SRINAGAR</MinorCivType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SRINAGAR</MinorCivType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_SRINAGAR</MinorCivType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+	</MinorCivilization_Flavors>
+</GameData>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/21/2014 11:48:42 AM -->
+<GameData>
+		<!-- ++++++++++++++++++++++++++++++ -->
+		<!-- Earth Giant map start position -->
+		<!-- ++++++++++++++++++++++++++++++ -->
+		<Civilizations_YagemStartPosition>
+			<Row>
+				<Type>CIVILIZATION_LITE_SRI_LANKA</Type>
+				<X>62</X>
+				<Y>33</Y>
+			</Row>
+			<Row>
+				<Type>MINOR_CIV_SRINAGAR</Type>
+				<X>57</X>
+				<Y>57</Y>
+			</Row>
+		</Civilizations_YagemStartPosition>
+		<!-- +++++++++++++++++++++++++++++ -->
+		<!-- Earth Huge map start position -->
+		<!-- +++++++++++++++++++++++++++++ -->
+		<Civilizations_YahemStartPosition>
+			<Row>
+				<Type>CIVILIZATION_LITE_SRI_LANKA</Type>
+				<X>92</X>
+				<Y>34</Y>
+			</Row>
+			<Row>
+				<Type>MINOR_CIV_SRINAGAR</Type>
+				<X>86</X>
+				<Y>51</Y>
+			</Row>
+		</Civilizations_YahemStartPosition>
+		<!-- ++++++++++++++++++++++++++++++++++ -->
+		<!-- Earth Cordiform map start position -->
+		<!-- ++++++++++++++++++++++++++++++++++ -->
+		<Civilizations_CordiformStartPosition>
+			<Row>
+				<Type>CIVILIZATION_LITE_SRI_LANKA</Type>
+				<X>61</X>
+				<Y>16</Y>
+			</Row>
+			<Row>
+				<Type>MINOR_CIV_SRINAGAR</Type>
+				<X>55</X>
+				<Y>23</Y>
+			</Row>
+		</Civilizations_CordiformStartPosition>
+		<!-- +++++++++++++++++++++++++++++++++++ -->
+		<!-- "Greatest Earth Map" start position -->
+		<!-- +++++++++++++++++++++++++++++++++++ -->
+		<Civilizations_GreatestEarthStartPosition>
+			<Row>
+				<Type>CIVILIZATION_LITE_SRI_LANKA</Type>
+				<X>77</X>
+				<Y>29</Y>
+			</Row>
+			<Row>
+				<Type>MINOR_CIV_SRINAGAR</Type>
+				<X>74</X>
+				<Y>41</Y>
+			</Row>
+		</Civilizations_GreatestEarthStartPosition>
+</GameData>

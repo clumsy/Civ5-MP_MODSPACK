@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/17/2015 12:17:56 AM -->
+<GameData>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_BALATA_HEAL</Type>
+			<Description>TXT_KEY_PROMOTION_BALATA_HEAL</Description>
+			<Help>TXT_KEY_PROMOTION_BALATA_HEAL_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<EnemyHealChange>10</EnemyHealChange>
+			<NeutralHealChange>20</NeutralHealChange>
+			<FriendlyHealChange>35</FriendlyHealChange>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_BALATA_HEAL</PediaEntry>
+		</Row>
+	</UnitPromotions>
+</GameData>

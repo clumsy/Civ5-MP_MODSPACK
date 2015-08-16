@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<ArtDefine_StrategicView>
+		<Replace>
+			<StrategicViewType>ART_DEF_UNIT_BALATA</StrategicViewType>
+			<TileType>Unit</TileType>
+			<Asset>svbalata.dds</Asset>
+		</Replace>
+	</ArtDefine_StrategicView>
+</GameData>

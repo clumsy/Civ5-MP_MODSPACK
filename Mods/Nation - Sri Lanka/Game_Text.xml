@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/16/2014 5:31:56 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_UNIT_BALATA">
+			<Text>Balata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_BALATA_TEXT">
+			<Text>Balata is the Sri Lankan word for soldier, which in elu language is Balat. The first mention of soldier is pershaps from the 1st century A.D. Habarana Rock inscription of a Vesamanaya grandson of a guard named Naka (Rakanaka Nakaya). A 4th century A.D. inscription in the Piligama Uva mentions a chief officer of an army of 8,000 soldiers as Bala or Batha.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BALATA_STRATEGY">
+			<Text>The Balata is the Sri Lankan Unique Unit, replacing the Longswordsman. They are available earlier, before Steel, than the usual Longswordsman and have a healing boost on river tiles. This provides an early [ICON_DEFENSE] defensive advantage on rivers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_BALATA">
+			<Text>A unit only available to Sri Lanka. Unlike the Longswordsman it replaces it may be built with Metal Casting instead of Steel. Additionally it heals three times the normal speed when located on a river tile.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VATADAGE">
+			<Text>Vatadage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VATADAGE_HELP">
+			<Text>+5% increase in rate of border expansion for every [ICON_PEACE] Faith building in the City.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_VATADAGE_TEXT">
+			<Text>A Vatadage is Buddhist structure found in Sri Lanka, also known as a dage, thupagara and cetiyagara. While it might have had some Indian influence it is considered to be unique to ancient Sri Lankan architecture. They were usually constructed around small stupas for their protection, which often enshrined a relic or were built on hallowed ground. Circular in shape, they most commonly were built of stone and brick and adorned with elaborate stone carvings. It is also believed that they had wooden roofs, supported by a number of stone columns arranged in several centric rows.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VATADAGE_STRATEGY">
+			<Text>The Vatadage is the Sri Lankan unique building that replaces the Shrine. It increases the rate of border expansion by 5% for every [ICON_PEACE] Faith producing building in the City.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DIPAVASMA_AND_MAHAVASMA_SHORT">
+			<Text>Dipavamsa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DIPAVASMA_AND_MAHAVASMA">
+			<Text>Fresh Water tiles provide [ICON_PRODUCTION] Production when constructing [ICON_PEACE] Faith and [ICON_CULTURE]  Culture Buildings . Finishing a [ICON_PEACE] Faith Building gives a [ICON_FOOD] Growth boost in the City for 5 turns.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SRI_LANKA_DESC">
+			<Text>Sri Lankan Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SRI_LANKA_SHORT_DESC">
+			<Text>Sri Lanka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SRI_LANKA_ADJECTIVE">
+			<Text>Sri Lankan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PARAKRAMABAHU_DESC">
+			<Text>Parakramabahu I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PARAKRAMABAHU_LIVED">
+			<Text>1123 - 1186 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PARAKRAMABAHU_NAME">
+			<Text>Parakramabahu I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PARAKRAMABAHU_SUBTITLE">
+			<Text>Leader of Sri Lanka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PARAKRAMABAHU_TITLES_1">
+			<Text>King of Polonnaruwa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PARAKRAMABAHU_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PARAKRAMABAHU_TEXT_1">
+			<Text>Parakramabahu I, the only monarch of Sri Lanka to ever recieve the title of "the Great" was the most influental and powerful leader of the island. As the king of Polonnaruwa he was able to unify the three kingdoms on the island, becoming one of the last monarchs to do so. He is known for his recosntruction projects.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PARAKRAMABAHU_HEADING_2">
+			<Text>Divine Birth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PARAKRAMABAHU_TEXT_2">
+			<Text>According to the ancient chronicle Culavamsa, Parakramabahu's birth was predicted by a figure akin to a god seen in a dream by his father, King Manabharana of Dakkhinadesa. A son was duly born to Manabharana's wife Ratnavali, and was named Parakramabahu because of his "foe-crushing arms". Though the year of his birth cannot be known exactly confirmed, it is generally thought to be around 1123. The location would almost certainly have been the capital of Dakkhinadesa, Punkhagama.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PARAKRAMABAHU_HEADING_3">
+			<Text>Years as a Prince</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PARAKRAMABAHU_TEXT_3">
+			<Text>Some time after his coming of age, the young prince left Dakkhinadesa in secrecy and set out for Gajabahu II's realm in Rajarata. Having met his allies at Badalattha , he visited the Senapathi Sankha, on the border between Rajarata and Dakkhinadesa. When Sankha tried to inform Kitti Sri Megha of the prince's journey, Parakramabahu had him killed. Sankha had been his guardian and Kitti Sri Megha described him as 'mightiest vassal in my kingdom', making the murder all the more serious. Parakramabahu then seized Buddhagama and all of Sankha's property. The reasons for Parakramabahu behavior are considered uncertain, but according to the Culavamsa, his journey was essentially one of reconnaissance. Although the three monarchs of the provinces were united, they all harbored the wish the govern the kingdom of Rajarata. In Dakkhinadesa, Parakramabahu was reluctant to enter the capital Sankhatthali to see his uncle, King Kitti Sri Megha, until persuaded by his mother Ratnavali to do so. Kitti Sri Megha however died soon after Parakramabahu's return and the Culavamsa notes that the prince "was not mastered by the agitation called forth by the grief at his father's death"—perhaps a sign of lingering ill feeling between the two. Parakramabahu was now king of Dakhinnadesa.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PARAKRAMABAHU_HEADING_4">
+			<Text>King of Dakhinnadesa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PARAKRAMABAHU_TEXT_4">
+			<Text>Parakramabahu's objective for Dakkhinadesa was to expand it so that it would surpass the greatness of other kingdoms, in a short period of time. He started a huge program of construction and renovation, the remnants of which can still be seen in central Sri Lanka today.He transformed the royal court, making it a hub of cultural activity, attracting young nobles skilled in various arts such as riding elephants or horses, swordsmanship, in the use of foreign tongues and in dance and song. He reformed the government of Dakkhinadesa, creating two ministries; the military affairs and the internal administration to which he later added a third department, which oversaw the management of mines. Trade was an important component of Dakkhinadesa's income since the island of Sri Lanka, given its geographical position, had always been at the junction of several major trade routes. Parakramabahu's army had a diverse ethnic make-up. Some of his officers were from the two grand old clans of Sri Lanka, the Moriya and the Lambakanna, who had between them dominated Rajarata from Anuradhapura. A group of Tamil soldiers from near Kurunegala also rallied to him, under a man styling himself the king of Malaya (modern Dumbara). By the time hostilities broke out between Dakkhinadesa and Rajarata, the former's forces also included Veddas, Cheras, and people from the lower castes not traditionally involved in martial activities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PARAKRAMABAHU_HEADING_5">
+			<Text>Conquests of Rajarata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PARAKRAMABAHU_TEXT_5">
+			<Text>Around 1150, Parakramabahu made his first move by seizing control of Malaya, strategically securing his eastern flank. He then moved his forces against various chieftains on the border of Rajarata. The final stage of this early campaign was the defeat of an army of Gajabahu himself, after which there was a brief ceasefire between the two sides.Hostilities resumed soon afterwards. Gajabahu had resorted to securing support from abroad, and by the time hostilities resumed between him and Parakramabahu, the army of Rajarata included nobles of heretical faith from abroad. Parakramabahu himself did not participate in the invasion of Rajarata, but was responsible for the overall strategy of the campaign, which was based on the writings of Kautilya. The forces of Dakkhinadesa struck at the fortress of Mallavalana near the mouth of the Kala Oya, seizing it and occupying the western coast of Sri Lanka. The army then sailed up to the north and landed at a place called Muttakara or Mutukara ('Pearl-mine') near modern Mannar.In the meantime, Gajabahu's senior general Gokanna suffered several defeats in the vicinity of Kala Vewa and was forced to appeal to the king of Rajarata for reinforcements. Despite receiving these and meeting with some success in Malaya, Gokanna was again defeated by Parakramabahu's general Mahinda, a rout so total that Gokanna fled the battle scene leaving behind his umbrella, an important status symbol in medieval Sri Lanka. The remnants of his force constructed a fortress in a jungle and took no further part in the war. By 1153, Parakramabahu's forces were in a position to take Polonnaruwa. Rakkha and a junior general named Sukha inflicted another defeat on Gajabahu just 15 kilometres (9 mi) from the city, seizing the capital of Rajarata soon afterwards. The king and his two sons, Colaganga and Vikramabahu, were imprisoned. Parakramabahu was magnanimous in defeat, and laid out clear orders for the treatment of both the former king and the townspeople to his generals. However some members of Parakramabahu's army are known to have disregarded his commands and broken open house doors in Polonnaruwa, plundered goods and stole raiment and ornaments from the people of the city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PARAKRAMABAHU_HEADING_6">
+			<Text>King of Polonnaruwa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PARAKRAMABAHU_TEXT_6">
+			<Text>Parakramabahu was immediately crowned king of Rajarata, but the war was far from over. Manabharana struck again, sending his armies to the Mahaweli River and attempting to cross into Rajarata via two fords. In the meantime, Narayana, a chieftain based at Anuradhapura, rose in rebellion, and Parakramabahu's hold in the north was again threatened. On this occasion Parakramabahu decided to vanquish Manabharana once and for all; "Not even in Rohana will I permit King Manabharana who is here crushed in war, to find a hold". Rakkha was commanded to hold the fords at the Mahaweli River, whilst Parakramabahu himself attacked from Dakkhinadesa into Ruhuna. Narayan's rebellion was suppressed by another force, leaving Rakkha, who had successfully held the fords at the Mahaweli River, free to invade from the north. If Parakramabahu had hoped for a swift victory, it did not happen. Manabharana defeated Rakkha's army and drove them back to Rajarata. Parakramabahu found himself facing dissension within his own ranks and the defeat of his forces in Malaya; Manabharana even recaptured Polonnaruwa and with it most of Rajarata. Despite this Parakramabahu persevered with the offensive, withdrawing from his southern campaign and concentrating his forces in the north. Manabharana once again found himself besieged in Polonnaruwa. Both sides were exhausted by the incessant warfare of the preceding years, and Manabharana eventually fled the city for Ruhuna. His forces were overtaken at the Mahaweli River by Parakramabahu's army and annihilated; the king returned to the south in time to pass away from a combination of disease and exhaustion. Parakramabahu was finally the unquestioned lord of the entire island of Sri Lanka, even though it had been at the cost of around five years of incessant warfare. In years to come the king himself was to regard this war as one of the most significant events of his reign, mentioning it in several of his edicts carved on stone, such as the one near Devangala. He celebrated by summoning Manabharana's son to Polonnaruwa and concluding a peace with him, followed by a lavish coronation ceremony.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PARAKRAMABAHU_HEADING_7">
+			<Text>Campaigns</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PARAKRAMABAHU_TEXT_7">
+			<Text>Parakramabahu established himself at Polonnaruwa (Pulatthinagara as mentioned in the Chulavamsa) from 1153 onwards and ruled over the entirety of Sri Lanka for the next 33 years. During this time he undertook much of the work he is best remembered for, most significantly in the areas of religious reform, construction, and war. Parakramabahu established himself at Polonnaruwa (Pulatthinagara as mentioned in the Chulavamsa) from 1153 onwards and ruled over the entirety of Sri Lanka for the next 33 years. During this time he undertook much of the work he is best remembered for, most significantly in the areas of religious reform, construction, and war.Parakramabahu's constructions work made up a significant chunk of the material history of Sri Lanka. Much of the remnants of Polonnaruwa date from his reign, as well as sites in western and south-eastern Sri Lanka. One of Parakramabahu's first projects was the restoration of Anuradhapura, the ancient capital of Sri Lankan Kings which had been utterly destroyed by the Chola army, including the restoration of Thuparamaya (which had been lost to the jungle), Mihintale, and Ruwanweliseya.The king initially divided the city into four districts or suburbs, each marked with its own alms-giving house for the clergy, containing "vessels of bronze, cushions and pillows, mats, carpets and bedsteads". He ordered the construction of hospitals, which he visited on several occasions.Parakramabahu also continued his program of hydraulic works begun in Dakkhinadesa, including the renovation and reconstruction of reservoirs and canals wrecked during the Chola invasion.Despite their magnificence, Parakramabahu's works exacted a heavy toll on the populace and the treasury. For much of the work in Anuradhapura he utilized Tamil prisoners of war seized during the Pandyan War. Nevertheless taxation and rajakariya (a feudal system in which work was owed to the king by commoners) contributed in large part to the projects.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PARAKRAMABAHU_HEADING_8">
+			<Text>Death and Legacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PARAKRAMABAHU_TEXT_8">
+			<Text>The Culavamsa states only that Parakramabahu "carried on rule for thirty-three years", and that he died in Polonnaruwa. He was succeeded by Vijayabahu II, described as his 'sister's son", who he had summoned from Sinhapura, capital of Kalinga. It is highly unlikely that Vijayabahu was son of either Pabhavati or Mitta, Parakramabahu's sisters who were married to Manabharana of Ruhuna, as this would not explain why he had to be summoned from Kalinga. Nor could he be son of Gajabahu and Bhaddavati, the other named sister of the king, as the Culavamsa explicitly states that Gajabahu had no sons who outlived him. It has been postulated that Vijayabahu was in fact the son of an unknown fourth sister who had been married to a king of Kalinga. His place of burial is unknown. During his reign, Sri Lankan power contributed to the destabilizing of the Chola power of south India and Sri Lankan forces continued to have a presence in Rameswaram till the end of the 12th century. There are also records of Sinhala victories until well into the reign of King Nissanka Malla (1187–1196). Furthermore the sheer size and extent of the king's construction projects can still be seen in Polonnaruwa today, as well as in the various carvings dotted around the country vaunting the accomplishments of the "Great King". However such success came at a price. Relentless warfare took its toll on the country and Parakramabahu's reliance on Tamil mercenaries proved to be a destabilizing force after his death. Taxation was high under his reign and high-value coinage all but disappeared towards the end of his rule, a sign of increasing poverty. One of his successor Nissanka Malla's most popular actions was reducing taxation. Despite his personal reputation and authority, Parakramabahu did not take any steps towards ensuring a smooth succession. One reason offered is the strength of Sri Lankan conventional law, which contained fairly fluid conventions for the replacement of rulers. The chronic instability of the years after his reign undid many of his accomplishments and developed into a crisis that the country never recovered from. The popularity of Parakramabahu is attested by the fact that no less than seven monarchs adopted his name over the next four centuries, of whom only two or three could lay claim to even a fraction of his successes. His ultimate weakness was the lack of restraint in his spending, taking Sri Lanka to greater heights that it had reached in a long time, but exhausting the island's resources in the process.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SRI_LANKA_TITLE">
+			<Text>Sri Lankan Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SRI_LANKA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SRI_LANKA_TEXT_1">
+			<Text>Sri Lanka is a large island off the coast of India, and while they are geographically close, they have rarely been united. An incredibly diverse island, Sri Lanka’s history stretches back over three thousand years, having taken part in historical events such as the Silk Road and the Second World War. Over time, Sri Lanka has seen many states rise and fall. These include the Anuradhapura Kingdom, which was named for its capital city and completely based on the island of Sri Lanka, and the Chola Dynasty, which invaded using its massive navy from the south of India. Sri Lanka has also been subject to European colonisation, which started in the 17th and 18th centuries with the ever-increasing Portuguese presence. The island was also taken over by the British Empire, as part of the British Raj; the colonial rule of India. Sri Lanka achieved independence in 1948, and declared itself a republic in 1972. However, through the latter half of the 20th century to 2009, a brutal and bloody civil war was fought between the Sri Lankan government and the separatist Tamil Tigers movement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SRI_LANKA_HEADING_2">
+			<Text>Geography</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SRI_LANKA_TEXT_2">
+			<Text>As an island nation, Sri Lanka has been in partial isolation from much of Indian history, and is also geographically different as a result. According to Hindu mythology, however, Sri Lanka once had a land bridge to India. There are reports of one existing up until 1480, when cyclones made the channel too difficult to cross. During the monsoon season, the island is hit by winds from the Indian Ocean and the Bay of Bengal, though the east, protected by a mountain range, experiences far less rain than the rest of the country. Sri Lanka has a tropical climate, with dense forests stretching into its inner mountain ranges, the highest peaks located in the south. The island also has 103 rivers, as well as many waterfalls and lagoons.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SRI_LANKA_HEADING_3">
+			<Text>Antiquity</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SRI_LANKA_TEXT_3">
+			<Text>One of the oldest existing records of Sri Lankan history is the Dipavamsa, a document compiled in the 3rd or 4th century AD. The document described how Buddhism had developed on the island, and not only details history since the spread of Buddhism, but also beliefs and practises on Sri Lanka. Several other chronicles such as the Mahavamsa were also written on the island. Most of these records have a sort of legendary history inscribed in them, to write down the folklore of how ancient Sri Lanka came to be. The Anuradhapura Kingdom, founded in the 4th century BC, dominated much of the island, though occasionally, other kingdoms came to threaten its absolute sovereignty. Much of its economy was based off agriculture, as the river base of the kingdom was very good for doing this. Most settlements were based along the banks of rivers, ideal for any farm work. In this period, the kingdoms of Sri Lanka opened up to trade with other kingdoms, far and wide, including the Roman Empire. Early on in its history, it became a player in the Silk Road, strengthening it economically and giving it access to more resources, helping it to prosper. Roman trading settlements on the island remained long after the fall of Rome, leaving a legacy for the kingdoms of days to come.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SRI_LANKA_HEADING_4">
+			<Text>Threats and Invasion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SRI_LANKA_TEXT_4">
+			<Text>During the Middle Ages, Sri Lanka was in danger of attack from mainland India, and often dominance of large parts of its coast. In 993, the expanding Chola Empire began an invasion of the island. Rajaraja I Chola managed to take control of large parts of the north, forcing the then-king of Anuradhapura, Mahinda V, to escape to the southern reaches of his domain. Rajaraja’s son, Rajendra, managed to subdue the south of the island and take Mahinda hostage. However, under a century later, the Sri Lankans managed to push the Chola out under the leadership of Vijayabahu I, born into the holdout kingdom of Polonnaruwa. Vijayabahu was able to reunite the island, creating another independent Sri Lankan kingdom. He also requested that Buddhist monks from Burma came over to convert his people to their religion, because Buddhism had been almost completely eradicated from the island under Chola rule. In the 12th century, Sri Lanka reached the height of its power, under Parakramabahu the Great. He is considered one of the greatest kings of Sri Lanka, having unified the three sub-kingdoms, and subsequently constructed an irrigation system on the island that benefited it massively for years to come. Parakramabahu also reformed Buddhism on the island, reorganised the army and undertook extensive military campaigns in southern India. For more information on him, see his civilopedia entry.[NEWLINE][NEWLINE]However, shortly after Parakramabahu died, the decay of Sri Lanka began. In 1215, a naval invasion of Sri Lanka began, lead by the mysterious Kalinga Magha. Implementing a harsh rule from the start, he forced many people to escape to the mountainous centre of Sri Lanka, away from his rule. Kalinga Magha also undertook massive pillaging of the coastal areas, which Sri Lanka never quite recovered from. Several kingdoms resisted, keeping out this brutal reign for centuries. However, this was a threat no more when the entirety of India faced a far greater threat - the colonial powers of Europe.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SRI_LANKA_HEADING_5">
+			<Text>Ceylon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SRI_LANKA_TEXT_5">
+			<Text>In 1505, the Portuguese began showing interest in Sri Lanka, establishing a small garrison in Colombo in 1517. Over time, the Portuguese creeped in on the island, forcing one of the Sri Lankan kings to move his capital to the inside of the island, away from Portuguese attack. Throughout the next couple of centuries, the Dutch also expressed interest in the island - however, the Sri Lankans signed a treaty with the Dutch to help them fight against the Portuguese. The Dutch won the war, but contrary to the treaty that said they couldn’t take captured areas, they took over massive areas around Colombo and began to rename them to suit them. Under the Dutch rule, the monarchies of Sri Lanka died out, and it gradually became just another Dutch colony. The Napoleonic Wars brought change to the island as well - the British Empire were frightened that the French presence in the Netherlands might change the ownership of Sri Lanka, which would leave the rival French Empire right on their borders. In response to this, the British occupied large areas of Sri Lanka’s coast, and proceeded to take over the island, which they renamed Ceylon. Eventually, the holdout Kingdom of Kandy in central Sri Lanka was crushed, ending Sri Lankan independence. The colony was brutally controlled for the 19th century, giving Britain absolute dominance of India. Towards the end of the 19th century, a new class system in Ceylon had developed, akin to the British one. However, it had been slow to adopt Christianity, with Buddhist and Hindu practices still strong. In Sri Lanka, two ethnic groups dominated the country - the Sinhalese and the Tamil. Despite fighting in their kingdoms for centuries, when it came to domination by foreign powers, they were united in their will to stop it. Forming an unusual bond, they set up the Ceylon National Congress as a temporary parliament to campaign for independence. However, ethnic prejudice managed to delay much of the political system; seats would always vote for either the Sinhalese or the Tamil candidate based on what the majority ethnicity was, and the capital region, Colombo, was the only one really up for grabs, not divided between either. Calls were made in parliament for 50-50 representation of ethnic groups so as to be fair, but the entire system was broken to a large extent. However, with the Indian Independence Movement and the deal to end the British Empire brokered in dark days of the Second World War, Sri Lanka was guaranteed independence eventually. In 1948, Sri Lanka finally became a country again, though differences between Sinhalese and Tamil groups were far from forgotten.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SRI_LANKA_HEADING_6">
+			<Text>Civil War and Present Day</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SRI_LANKA_TEXT_6">
+			<Text>In 1956, not long after independence, the then-Prime Minister Solomon Bankaridake managed to pass a bill recognising only Sinhalese as the official language of government. In a state with many ethnic groups, and the Tamil forming a significant minority in the north, this proved to be an extremely controversial move. Throughout the decades that followed, Sri Lanka became a republic independent of the Commonwealth, but not without much difficulty; the seventies saw a Marxist insurrection and the beginnings of a long civil war. Over the course of this thirty-year-long conflict, the Sri Lankan government, dominated by the Sinhalese, fought against the attacks of the Tamil. One of the main groups they fought against was the Liberation Tigers of Tamil Eelam, a Tamil nationalist organisation wanting to create a separate state for themselves. Going on for years, the conflict had seemingly no end, with peace talks failing in the 2000s. The government eventually abandoned the idea of peace talks, and in 2009, they brought the war to a brutal end, crushing the Tamil Tigers for once and for all. Today, only a few years on from the conflict, tensions are still high, with massive debate over the status of the different ethnic groups in Sri Lanka. This seems to be one of the main issues they will have to address in forthcoming years, as Sri Lanka is made by unity in diversity. However, it is also one of the fastest growing economies in the world, and is one of the most quickly developing countries in Asia, making it well on the way to reaching this goal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SRI_LANKA_HEADING_7">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SRI_LANKA_TEXT_7">
+			<Text>Sri Lanka’s present day capital, Sri Jayawardenepura Kotte, is a suburb of Colombo, Sri lanka’s largest city.[NEWLINE][NEWLINE]Despite the large popularity of cricket in Sri Lanka, the national sport is actually volleyball.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PARAKRAMABAHU_FIRST_GREETING_1">
+			<Text>Halt, foreigner. You are entering the rich island of Sri Lanka, and I Parakramabahu, as her ruler, will not tolerate any villainous acts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PARAKRAMABAHU_FIRST_GREETING_2">
+			<Text>Welcome, stranger. The gods have led you to this magnificent island we call our home.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PARAKRAMABAHU_DEFEATED_1">
+			<Text>It appears I have been bested, however I feel no fear as I know that my people will be led by a ruler more competent than I.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PARAKRAMABAHU_DEFEATED_2">
+			<Text>How!? Are you even human!?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PARAKRAMABAHU_GREETING_POLITE_HELLO">
+			<Text>Greetings, my friend. Have you come to chat or to trade?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PARAKRAMABAHU_GREETING_HOSTILE_HELLO">
+			<Text>What does someone of your meaningless value want here?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_SRI_LANKA_TEXT">
+			<Text>Blessings upon you, great king Parakramabahu I, king of Polonnaruwa. You were the king of Ceylon from 1153 to 1186, and the things you accomplished during that time truly gave only you the right to call yourself "the great" among all other kings of that divine island. According to old chronicles, your birth was predicted by a godly figure in your father's dreams. You spent most of your youth in the courts of your uncles, learning leadership and the basics of administration. You later succeeded your uncles while greatly improving their lands, bringing delight to all of their people. After you rose to rule the lands you managed to unite the three sub kingdoms and crown yourself as the exalted king of Sri Lanka. Your rule was marked by multiple wars against your adversaries such as the kingdom of Bagan in which you prove to be more than a worthy leader to your people. You began the renovation and reconstrouction of major cities and sites all across the island, such as Anuradhapura, the ancient capital of Sri Lankan kings. Your reign ended in 1186 with your death. Unfortunately your successors didn't manage to accomplish nearly as many feats as you and Sri Lanka went into decline.[NEWLINE][NEWLINE]Oh, great and wise Parakramabahu, will you truly allow this to be the end of you and your people? Or will you take fate into your hands once again and create a beautiful future for you and your subjects once more. Can you build a Civilization that will stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SRI_LANKA_1">
+			<Text>Colombo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SRI_LANKA_2">
+			<Text>Polonnaruwa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SRI_LANKA_3">
+			<Text>Anuradhapura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SRI_LANKA_4">
+			<Text>Kandy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SRI_LANKA_5">
+			<Text>Negombo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SRI_LANKA_6">
+			<Text>Sri jayawardenapura kotte</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SRI_LANKA_7">
+			<Text>Kalumnai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SRI_LANKA_8">
+			<Text>Vavuniya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SRI_LANKA_9">
+			<Text>Galle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SRI_LANKA_10">
+			<Text>Trincomalee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SRI_LANKA_11">
+			<Text>Batticaloa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SRI_LANKA_12">
+			<Text>Jaffna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SRI_LANKA_13">
+			<Text>Katunayake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SRI_LANKA_14">
+			<Text>Dambulla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SRI_LANKA_15">
+			<Text>Kolonawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SRI_LANKA_16">
+			<Text>Moratuwa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SRI_LANKA_17">
+			<Text>Ratnapura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SRI_LANKA_18">
+			<Text>Embilipitiya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SRI_LANKA_19">
+			<Text>Badulla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SRI_LANKA_20">
+			<Text>Matara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SRI_LANKA_21">
+			<Text>Puttalam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SRI_LANKA_22">
+			<Text>Chavakacheri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SRI_LANKA_23">
+			<Text>Kattankudy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SRI_LANKA_24">
+			<Text>Matale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SRI_LANKA_25">
+			<Text>Kalutara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SRI_LANKA_26">
+			<Text>Mannar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SRI_LANKA_27">
+			<Text>Panadura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SRI_LANKA_28">
+			<Text>Beruwala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SRI_LANKA_29">
+			<Text>Ja-ela</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SRI_LANKA_30">
+			<Text>Point Pedro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SRI_LANKA_0">
+			<text>Fathima</text>
+			<gender>female</gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SRI_LANKA_1">
+			<text>Kasun</text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SRI_LANKA_2">
+			<text>Tharushi</text>
+			<gender>female</gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SRI_LANKA_3">
+			<text>Supun</text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SRI_LANKA_4">
+			<text>Sachini</text>
+			<gender>female</gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SRI_LANKA_5">
+			<text>Lahiru</text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SRI_LANKA_6">
+			<text>Bhagya</text>
+			<gender>female</gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SRI_LANKA_7">
+			<text>Tharindu</text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SRI_LANKA_8">
+			<text>Ama</text>
+			<gender>female</gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SRI_LANKA_9">
+			<text>Shashin</text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SRINAGAR">
+			<Text>Srinagar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_SRINAGAR_ADJ">
+			<Text>Srinagari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SRINAGAR_TEXT">
+			<Text>Srinagar is the summer capital of the Indian state of Jammu and Kashmir. The city is said to have been named by the King Pravarasena II over 2,000 years ago. The original name was Parvasenpur. The city was later conquered by the Maurya empire and converted to Buddhism. The Buddhist traditions only strengthened under the rule of the Kushan dynasty. After those dynasties fell Srinagar was passed through several Muslim empires, such as the Mughals and later the Durrani. After India and Pakistan became independent from British rule the city became part of a conflict between those two countries. Now it is part of India while Pakistan still claims it to be part of her territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BALATA_HEAL">
+			<Text>River Healing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BALATA_HEAL_HELP">
+			<Text>Heals quickly when adjacent to rivers</Text>
+		</Row>	
+	</Language_en_US>
+</GameData>

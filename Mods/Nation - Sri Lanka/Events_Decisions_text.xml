@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/31/2014 11:09:55 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_DECISIONS_SRI_LANKA_RENOVATE_CAPITAL">
+			<Text>Renovate Capital</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SRI_LANKA_RENOVATE_CAPITAL_DESC">
+			<Text>
+				Our once proud capital is in a horrible state. We need to prioritize the renovation of the city as soon as possible.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Sri Lanka
+				[NEWLINE][ICON_BULLET]Capital must have at least 10 [ICON_CITIZEN] population
+				[NEWLINE][ICON_BULLET]May only be enacted once 
+				[NEWLINE][ICON_BULLET]Player must be in the Renaissance era
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Begins a [ICON_GOLDEN_AGE] Golden Age.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SRI_LANKA_RENOVATE_CAPITAL_ENACTED_DESC">
+			<Text>
+				Our once proud capital is in a horrible state. We need to prioritize the renovation of the city as soon as possible.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Begins a [ICON_GOLDEN_AGE] Golden Age.
+			</Text>
+		</Row>
+		<!--Legalize official use of multilingualism-->
+		<Row Tag="TXT_KEY_DECISIONS_SRI_LANKA_MULTILINGUALISM">
+			<Text>Legalize official use of multilingualism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SRI_LANKA_MULTILINGUALISM_DESC">
+			<Text>
+				The minorities in our empire are in a state of discomfort due to their language not being allowed in our empire. We should legalize the official use of minority languages to satisfy them.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Sri Lanka
+				[NEWLINE][ICON_BULLET]Must have at least two religions present in the empire
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All Science Buildings (Libraries, Universities, Public Schools and Research Labs) yield +1 [ICON_CULTURE] Culture and +1 [ICON_HAPPINESS_1] Happiness.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SRI_LANKA_MULTILINGUALISM_ENACTED_DESC">
+			<Text>
+				The minorities in our empire are in a state of discomfort due to their language not being allowed in our empire. We should legalize the official use of minority languages to satisfy them.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All Science Buildings (Libraries, Universities, Public Schools and Research Labs) yield +1 [ICON_CULTURE] Culture and +1 [ICON_HAPPINESS_1] Happiness.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

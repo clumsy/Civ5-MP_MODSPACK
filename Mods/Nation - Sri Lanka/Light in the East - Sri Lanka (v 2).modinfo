@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="5fcb068a-7a6f-4d2c-8a17-e61dc79fa2af" version="2">
+  <Properties>
+    <Name>Light in the East - Sri Lanka</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds [COLOR_POSITIVE_TEXT]Sri Lanka led by Parakramabahu The Great.[ENDCOLOR]</Teaser>
+    <Description>Adds [COLOR_POSITIVE_TEXT]Sri Lanka led by Parakramabahu The Great.[ENDCOLOR]
+
+Adds Sri Lanka led by Parakramabahu The Great
+
+An island nation off the coast of India, Sri Lanka or Ceylon has history dating back to pre-human settlement. Serving as a center of Spirituality and a hub on the historic Silk Road, Sri Lanka is a diverse piece of land that was split between countless kingdoms and later colonists. United by Parakramabahu the Great in the 12th Century, Ceylon became a superpower of Asia that wrought it's glory and might at neighbouring nations such as the royal houses of India and Burma. Under him the island nation grew to the heights of its power, having great wealth and being the home of several wondrous monuments, mostly dedicated to Buddhism. Colonized by the Portuguese and later Britain, Ceylon experienced industrialisation and modernisation. The country's recent history has been marred by a thirty-year civil war which decisively ended when the Sri Lankan military defeated the Liberation Tigers of Tamil Eelam in 2009.
+
+[NEWLINE]
+[NEWLINE]Supports:
+
+[NEWLINE]Yet Not Another Earth Maps Pack
+[NEWLINE]Ethnic Units
+[NEWLINE]Events &amp;amp; Decisions
+[NEWLINE]Cultural Diversity
+[NEWLINE]Piety &amp;amp; Prestige
+[NEWLINE]Unique Cultural Influence
+[NEWLINE]Map Labels
+[NEWLINE]Buddhist Denominations
+[NEWLINE]R.E.D. Modpack
+[NEWLINE]
+[NEWLINE]
+[NEWLINE]Credits:
+[NEWLINE]COF - Main Author
+[NEWLINE]Regalman - Co-Author, Art (Map), XML
+[NEWLINE]Bane_ - lua
+[NEWLINE]JFD - lua
+[NEWLINE]Leugi - Art (Leaderscreen and icons)
+[NEWLINE]Viregel - XML help and pedias
+[NEWLINE]Danrell - Unit Model
+[NEWLINE]CharlatanAlley - Dawn of Man voice acting</Description>
+    <Authors>COF, Regalman, Leugi, Viregel</Authors>
+    <SpecialThanks>Bane_, JFD, CharlatanAlley, Danrell</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events &amp;amp; Decisions" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="Piety &amp; Prestige" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="Cultural Diversity" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D modpack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="43868e8d-de88-48a1-a8d9-ce144e07f5e0" minversion="0" maxversion="999" title="Exploration Continued" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="E2C49814A87AC277F2C68CFAF0128042" import="0">Light In The East - Sri Lanka (v 1)/SQL/EXCE_comp.sql</File>
+    <File md5="6FDCABD3334CD3FF58E4E5279356BE9E" import="0">Light In The East - Sri Lanka (v 1)/SQL/Game Rules1.sql</File>
+    <File md5="1DFBC70BE398E98F231288BFAD6862A5" import="0">Light In The East - Sri Lanka (v 1)/XML/Civilization/WFTWcomp.xml</File>
+    <File md5="58F9F312F144A35889B1633A08BC476A" import="0">Light In The East - Sri Lanka (v 1)/LUA/New_Lua.lua</File>
+    <File md5="0F786DCF6422135551DE72D7C97DB6B8" import="1">Light In The East - Sri Lanka (v 1)/Art/Atlas/Sri_Lanka_Alpha_128.dds</File>
+    <File md5="0AA86A7DBA4CE8CA768F7753BEF1B464" import="1">Light In The East - Sri Lanka (v 1)/Art/Atlas/Sri_Lanka_Alpha_16.dds</File>
+    <File md5="4B24EBE3ACAC7DAD528B2A2211307789" import="1">Light In The East - Sri Lanka (v 1)/Art/Atlas/Sri_Lanka_Alpha_24.dds</File>
+    <File md5="EBFBBD1837115FD8D74BE322519910BF" import="1">Light In The East - Sri Lanka (v 1)/Art/Atlas/Sri_Lanka_Alpha_32.dds</File>
+    <File md5="DBD0CB5BC5CC42FF9DED4D071DCBEF70" import="1">Light In The East - Sri Lanka (v 1)/Art/Atlas/Sri_Lanka_Alpha_45.dds</File>
+    <File md5="180A3591000B24C1F79046C98336A7D8" import="1">Light In The East - Sri Lanka (v 1)/Art/Atlas/Sri_Lanka_Alpha_48.dds</File>
+    <File md5="A8B541306514E9CD6DABDF32802BBB6F" import="1">Light In The East - Sri Lanka (v 1)/Art/Atlas/Sri_Lanka_Alpha_64.dds</File>
+    <File md5="B56FBD2B0BF3A9A7BA4DEE4C76743FD4" import="1">Light In The East - Sri Lanka (v 1)/Art/Atlas/Sri_Lanka_Alpha_80.dds</File>
+    <File md5="0B5FFABD430E6AD4ECB1D2F31BB19EBC" import="1">Light In The East - Sri Lanka (v 1)/Art/Atlas/Sri_Lanka_Atlas_128.dds</File>
+    <File md5="08322292A1D722B6D95EB779E3345E93" import="1">Light In The East - Sri Lanka (v 1)/Art/Atlas/Sri_Lanka_Atlas_16.dds</File>
+    <File md5="099F88C9E5292F6EC07F106341F9594B" import="1">Light In The East - Sri Lanka (v 1)/Art/Atlas/Sri_Lanka_Atlas_24.dds</File>
+    <File md5="67254273B902147709A7CA8E066B6B55" import="1">Light In The East - Sri Lanka (v 1)/Art/Atlas/Sri_Lanka_Atlas_256.dds</File>
+    <File md5="B420457E977E4D752E75A6B3BF8334CC" import="1">Light In The East - Sri Lanka (v 1)/Art/Atlas/Sri_Lanka_Atlas_32.dds</File>
+    <File md5="7D6203F50DCD5E08D138A87401D766AD" import="1">Light In The East - Sri Lanka (v 1)/Art/Atlas/Sri_Lanka_Atlas_45.dds</File>
+    <File md5="118A8CBF05E30507D151E88FB1FC262B" import="1">Light In The East - Sri Lanka (v 1)/Art/Atlas/Sri_Lanka_Atlas_48.dds</File>
+    <File md5="F04DE5325C4F749D4A1C92A6013E67A2" import="1">Light In The East - Sri Lanka (v 1)/Art/Atlas/Sri_Lanka_Atlas_64.dds</File>
+    <File md5="1DA208E86932A2AE2E082A3F510B9C80" import="1">Light In The East - Sri Lanka (v 1)/Art/Atlas/Sri_Lanka_Atlas_80.dds</File>
+    <File md5="CE92B41F5453E18FC5F91864A1C591DB" import="1">Light In The East - Sri Lanka (v 1)/Art/scenes/leaderscene_sri_lanka.dds</File>
+    <File md5="C91FB9F23016940E7D21DC55C3674F79" import="1">Light In The East - Sri Lanka (v 1)/Art/scenes/Sri_Lanka_DOM.dds</File>
+    <File md5="848449101D740E66B0FE14A67A151848" import="1">Light In The East - Sri Lanka (v 1)/Art/scenes/Sri_Lanka_Map.dds</File>
+    <File md5="7BEB63AF909D21F3E92198BB8B56B634" import="1">Light In The East - Sri Lanka (v 1)/Art/Unit/balataflag.dds</File>
+    <File md5="F37205084A4B0A827BCE7E6724EA95B4" import="1">Light In The East - Sri Lanka (v 1)/Art/Unit/Longswordsman_India_v2.blend</File>
+    <File md5="A53C77DA3C53403A5EFBCF785FD3C769" import="1">Light In The East - Sri Lanka (v 1)/Art/Unit/Longswordsman_India_v2.dds</File>
+    <File md5="6B35749C9AB8442193609047FD5EE5E0" import="1">Light In The East - Sri Lanka (v 1)/Art/Unit/Longswordsman_India_v2.fxsxml</File>
+    <File md5="006DAD6842FA4038CB6ADECAB08CEB8C" import="1">Light In The East - Sri Lanka (v 1)/Art/Unit/Longswordsman_India_v2.gr2</File>
+    <File md5="DCDB8C5021E10614BE000F1A3813C3FA" import="1">Light In The East - Sri Lanka (v 1)/Art/Unit/Longswordsman_India_v2_gloss.dds</File>
+    <File md5="6CCBED45760F58DBFC27B1DFC4650E91" import="1">Light In The East - Sri Lanka (v 1)/Art/Unit/svbalata.dds</File>
+    <File md5="5E0003FB7DCB12E19FC720D1FCECD3DE" import="1">Light In The East - Sri Lanka (v 1)/Audio/Sri_Lanka_DOM.mp3</File>
+    <File md5="E8521DEADB15B7247C27FECC4789A19C" import="1">Light In The East - Sri Lanka (v 1)/Audio/Sri_Lanka_Peace.mp3</File>
+    <File md5="FE4C2ED4BAAD9C68731AD5B3E8A00123" import="1">Light In The East - Sri Lanka (v 1)/Audio/Sri_Lanka_War.mp3</File>
+    <File md5="D2B3D345370889E63CF3292FCDEE86C5" import="1">Light In The East - Sri Lanka (v 1)/LUA/Sridatastorage.lua</File>
+    <File md5="25B2499F6860CC2EE20273F26B43730E" import="0">Light In The East - Sri Lanka (v 1)/LUA/Sri_Lanka.lua</File>
+    <File md5="FDA7B0E151595B9A01C09F88E20DE12D" import="1">Light In The East - Sri Lanka (v 1)/LUA/Sri_Lanka_Decisions.lua</File>
+    <File md5="7C83BC818781F9DFFDA2B2A06BC8978F" import="1">Light In The East - Sri Lanka (v 1)/LUA/TableSaverLoader016.lua</File>
+    <File md5="9B62DF863B528AA1DB6EA96DE6E44874" import="0">Light In The East - Sri Lanka (v 1)/SQL/Balata_Define.sql</File>
+    <File md5="C15CEFEE972366B122078328CBDF9AB8" import="0">Light In The East - Sri Lanka (v 1)/SQL/Cultural_Diversity.sql</File>
+    <File md5="01827D4F136C91A1DA3FBA192C06DB9F" import="0">Light In The East - Sri Lanka (v 1)/SQL/Ethnic_Units_Sri_Lanka.sql</File>
+    <File md5="9C0E36DED4A81FE4B25798A0950068DE" import="0">Light In The East - Sri Lanka (v 1)/SQL/Events_Decisions.sql</File>
+    <File md5="E3066865964D398B01BA6AB5D0418B1C" import="0">Light In The East - Sri Lanka (v 1)/SQL/Piety_Prestige.sql</File>
+    <File md5="F983C3BD205F0CFE86D8EB8E086E55BA" import="1">Light In The East - Sri Lanka (v 1)/XML/Art/Sri_Lanka_Leaderhead.xml</File>
+    <File md5="0CFBE13D4DA44EBCB5EB2B9DBB733BA6" import="0">Light In The East - Sri Lanka (v 1)/XML/Atlas/Icon_Atlas_Sri_Lanka.xml</File>
+    <File md5="EDDA0CCD03178F275295BE75A4153553" import="0">Light In The East - Sri Lanka (v 1)/XML/Balata/Balata.xml</File>
+    <File md5="007F4019A70E0E536E4082A79D08DD8B" import="0">Light In The East - Sri Lanka (v 1)/XML/Balata/Balata_Promotion.xml</File>
+    <File md5="CADCE3C2ECF4D55C0448D1DAD8AD60F1" import="0">Light In The East - Sri Lanka (v 1)/XML/Civilization/Civilization.xml</File>
+    <File md5="E9AC207F2CBFE2F1DB858E06286EEAA3" import="0">Light In The East - Sri Lanka (v 1)/XML/Civilization/Leader.xml</File>
+    <File md5="B75EF1648595A96304BCF81CF90A93DF" import="0">Light In The East - Sri Lanka (v 1)/XML/Civilization/Sounds.xml</File>
+    <File md5="B7670F11256134C3BA37DFABDCEE12FF" import="0">Light In The East - Sri Lanka (v 1)/XML/Civilization/Srinagar.xml</File>
+    <File md5="EEDEC160FB19C19A17E27A0AB9B7EC48" import="0">Light In The East - Sri Lanka (v 1)/XML/Civilization/Sri_Lanka_Strategic.xml</File>
+    <File md5="C06D11FE6EB43049E837230DE31C4D61" import="0">Light In The East - Sri Lanka (v 1)/XML/Civilization/Trait.xml</File>
+    <File md5="3DE1D0E23A2DC1053ED4A866E5DE1444" import="0">Light In The East - Sri Lanka (v 1)/XML/Text/Events_Decisions_text.xml</File>
+    <File md5="3345FFC0322E1ACE1B942D196E41EC35" import="0">Light In The East - Sri Lanka (v 1)/XML/Text/Game_Text.xml</File>
+    <File md5="318D0A80119F4DBD91650085F25567E5" import="0">Light In The East - Sri Lanka (v 1)/XML/Text/Sri_Lanka_Influential_text.xml</File>
+    <File md5="2694E8CD1131B1B030A0A2D6B9C833B2" import="0">Light In The East - Sri Lanka (v 1)/XML/TSL/Sri_Lanka_TSL.xml</File>
+    <File md5="035E238B2EE4E94D41B037E59A86E056" import="0">Light In The East - Sri Lanka (v 1)/XML/Vatadage/Vatadage.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Light In The East - Sri Lanka (v 1)/SQL/Balata_Define.sql</UpdateDatabase>
+      <UpdateDatabase>Light In The East - Sri Lanka (v 1)/SQL/Cultural_Diversity.sql</UpdateDatabase>
+      <UpdateDatabase>Light In The East - Sri Lanka (v 1)/SQL/Ethnic_Units_Sri_Lanka.sql</UpdateDatabase>
+      <UpdateDatabase>Light In The East - Sri Lanka (v 1)/SQL/Events_Decisions.sql</UpdateDatabase>
+      <UpdateDatabase>Light In The East - Sri Lanka (v 1)/SQL/Piety_Prestige.sql</UpdateDatabase>
+      <UpdateDatabase>Light In The East - Sri Lanka (v 1)/XML/Art/Sri_Lanka_Leaderhead.xml</UpdateDatabase>
+      <UpdateDatabase>Light In The East - Sri Lanka (v 1)/XML/Atlas/Icon_Atlas_Sri_Lanka.xml</UpdateDatabase>
+      <UpdateDatabase>Light In The East - Sri Lanka (v 1)/XML/Balata/Balata.xml</UpdateDatabase>
+      <UpdateDatabase>Light In The East - Sri Lanka (v 1)/XML/Balata/Balata_Promotion.xml</UpdateDatabase>
+      <UpdateDatabase>Light In The East - Sri Lanka (v 1)/XML/Civilization/Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>Light In The East - Sri Lanka (v 1)/XML/Civilization/Leader.xml</UpdateDatabase>
+      <UpdateDatabase>Light In The East - Sri Lanka (v 1)/XML/Civilization/Sounds.xml</UpdateDatabase>
+      <UpdateDatabase>Light In The East - Sri Lanka (v 1)/XML/Civilization/Sri_Lanka_Strategic.xml</UpdateDatabase>
+      <UpdateDatabase>Light In The East - Sri Lanka (v 1)/XML/Civilization/Srinagar.xml</UpdateDatabase>
+      <UpdateDatabase>Light In The East - Sri Lanka (v 1)/XML/Civilization/Trait.xml</UpdateDatabase>
+      <UpdateDatabase>Light In The East - Sri Lanka (v 1)/XML/Text/Events_Decisions_text.xml</UpdateDatabase>
+      <UpdateDatabase>Light In The East - Sri Lanka (v 1)/XML/Text/Game_Text.xml</UpdateDatabase>
+      <UpdateDatabase>Light In The East - Sri Lanka (v 1)/XML/Text/Sri_Lanka_Influential_text.xml</UpdateDatabase>
+      <UpdateDatabase>Light In The East - Sri Lanka (v 1)/XML/TSL/Sri_Lanka_TSL.xml</UpdateDatabase>
+      <UpdateDatabase>Light In The East - Sri Lanka (v 1)/XML/Vatadage/Vatadage.xml</UpdateDatabase>
+      <UpdateDatabase>Light In The East - Sri Lanka (v 1)/SQL/Game Rules1.sql</UpdateDatabase>
+      <UpdateDatabase>Light In The East - Sri Lanka (v 1)/XML/Civilization/WFTWcomp.xml</UpdateDatabase>
+      <UpdateDatabase>Light In The East - Sri Lanka (v 1)/SQL/EXCE_comp.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Light In The East - Sri Lanka (v 1)/LUA/Sri_Lanka.lua">
+      <Name>Sri_Lanka.lua</Name>
+      <Description>Sri_Lanka.lua</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

@@ -1473,6 +1473,9 @@ ContextPtr:LoadNewContext("NazcaUA")
 -- Nation - Lydia --
 ContextPtr:LoadNewContext("Lydian_trait")
 
+-- Nation - Sri Lanka --
+ContextPtr:LoadNewContext("Sri_Lanka")
+
 -- Nation - Cree --
 ContextPtr:LoadNewContext("Cree_Nations")
 ContextPtr:LoadNewContext("Gunstock")
