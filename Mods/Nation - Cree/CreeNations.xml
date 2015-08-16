@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Context>
+	<ToolTipType Name="CreeNationTip">
+		<Grid Offset="8.0" Size="280,60" ID="Box" Style="GridBlack8" NoClip="1" Padding="8,8">
+			<Label Font="TwCenMT16" ColorSet="Beige_Black" Offset="0,25" Anchor="C,T" ID="Heading" WrapWidth="268" LeadingOffset="-5" String="Brief description"/>
+			<Label Font="TwCenMT16" ColorSet="Beige_Black" Offset="0,50" Anchor="C,T" ID="Subheading" WrapWidth="268" LeadingOffset="-5" String="Brief description"/>
+			<Label Font="TwCenMT16" ColorSet="Beige_Black" Offset="12,80" ID="Body" WrapWidth="268" LeadingOffset="-5" String="Brief description"/>
+		</Grid>
+	</ToolTipType>
+</Context>

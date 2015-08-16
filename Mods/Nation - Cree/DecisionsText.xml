@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/8/2014 8:45:46 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag ="TXT_KEY_DECISIONS_THECREEFIRSTNATION_CREEGRANDCOUNCIL_NAME">
+			<Text>Grand Council of the Crees</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_DECISIONS_THECREEFIRSTNATION_CREEGRANDCOUNCIL_DESC">
+			<Text>
+				As time passes, the nations around us look upon our lands with greed. We must work together to find ways to protect them. Following the example of our brothers upon the icy shores of James Bay, the time has come for all Cree to unite. Together, we can better protect the rich abundance of the People’s Land from those who would exploit it without our consent.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Cree
+				[NEWLINE][ICON_BULLET]Must have researched Civil Service
+				[NEWLINE][ICON_BULLET]Must have at least one Coastal City
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]3 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Whenever you advance an Era, gain [ICON_CULTURE] Culture and [ICON_GOLD] Gold.
+				[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: The amount you receive increases with each member Cree Nation in your Iron Confederacy.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_DECISIONS_THECREEFIRSTNATION_CREEGRANDCOUNCIL_ADOPTED">
+			<Text>
+				As time passes, the nations around us look upon our lands with greed. We must work together to find ways to protect them. Following the example of our brothers upon the icy shores of James Bay, the time has come for all Cree to unite. Together, we can better protect the rich abundance of the People’s Land from those who would exploit it without our consent.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Whenever you advance an Era, gain [ICON_CULTURE] Culture and [ICON_GOLD] Gold.
+				[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: The amount you receive increases with each member Cree Nation in your Iron Confederacy.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_DECISIONS_THECREEFIRSTNATION_CREEGRANDCOUNCIL_NOTIFICATION">
+			<Text>The Grand Council of the Crees has implemented new ways to protect our lands, generating {1_Culture} Culture for our people and {2_Prod} Production in our Coastal Cities.</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_DECISIONS_THECREEFIRSTNATION_FURTRADEGET_NAME">
+			<Text>Become the {1_Res} Trade Middleman</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_DECISIONS_THECREEFIRSTNATION_FURTRADEGET_DESC">
+			<Text>
+				The {2_Icon} {1_Res} trade has proven lucrative. If we would profit even more, we should divide each source of {1_Res} into a separate market and work to establish varied trade for each kind of {1_Res} between our trading partners.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Cree
+				[NEWLINE][ICON_BULLET]Player must have 3 or more sources of {2_Icon} {1_Res}.
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Whenever a [ICON_CITY_STATE] City-State becomes your friend, you will receive [ICON_GOLD] Gold.
+				[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: The amount you receive increases with each source of {2_Icon} {1_Res} you control.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_DECISIONS_THECREEFIRSTNATION_FURTRADEGET_ADOPTED">
+			<Text>
+				The {2_Icon} {1_Res} trade has proven lucrative. If we would profit even more, we should divide each source of {1_Res} into a separate market and work to establish varied trade for each kind of {1_Res} between our trading partners.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Whenever a City-State becomes your friend, you will receive [ICON_GOLD] Gold.
+				[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: The amount you receive increases with each source of {2_Icon} {1_Res} you control.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_DECISIONS_THECREEFIRSTNATION_FURTRADEGET_NOTIFICATION">
+			<Text>Trading {3_Icon} {2_Res} in the {4_Adj} markets has generated {1_Gold} [ICON_GOLD] Gold.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

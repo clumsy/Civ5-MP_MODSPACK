@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/10/2014 7:44:06 PM -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_SABTUANWIDGETS</Type>
+			<DefaultBuilding>BUILDING_SABTUANWIDGETS</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_SABTUANWIDGETS</Description>
+		</Row>
+	</BuildingClasses>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_SABTUAN</Type>
+			<BuildingClass>BUILDINGCLASS_CARAVANSARY</BuildingClass>
+			<Cost>140</Cost>
+			<PrereqTech>TECH_HORSEBACK_RIDING</PrereqTech>
+			<Help>TXT_KEY_BUILDING_SABTUAN_HELP</Help>
+			<Description>TXT_KEY_BUILDING_SABTUAN</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_SABTUAN_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_SABTUAN_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_CARAVANSARY</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<HurryCostModifier>25</HurryCostModifier>
+			<ArtInfoEraVariation>true</ArtInfoEraVariation>
+			<TradeRouteLandDistanceModifier>50</TradeRouteLandDistanceModifier>
+			<TradeRouteLandGoldBonus>200</TradeRouteLandGoldBonus>
+			<IconAtlas>THECREEFIRSTNATION_ATLAS</IconAtlas>
+			<PortraitIndex>3</PortraitIndex>
+		</Row>
+		<Row>
+			<Type>BUILDING_SABTUANWIDGETS</Type>
+			<BuildingClass>BUILDINGCLASS_SABTUANWIDGETS</BuildingClass>
+			<Cost>-1</Cost>
+			<PrereqTech></PrereqTech>
+			<Help>TXT_KEY_BUILDING_SABTUANWIDGETS_HELP</Help>
+			<Description>TXT_KEY_BUILDING_SABTUANWIDGETS_DESC</Description>
+			<Civilopedia>TXT_KEY_BUILDING_SABTUANWIDGETS_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_SABTUANWIDGETS_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_CASTLE</ArtDefineTag>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>THECREEFIRSTNATION_ATLAS</IconAtlas>
+			<!-- this will change.-->
+			<PortraitIndex>0</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_DomainProductionModifiers>
+		<Row>
+			<BuildingType>BUILDING_SABTUANWIDGETS</BuildingType>
+			<DomainType>DOMAIN_LAND</DomainType>
+			<Modifier>3</Modifier>
+		</Row>
+	</Building_DomainProductionModifiers>
+	<!--<Building_DomainFreeExperiences>
+		<Row>
+			<BuildingType>BUILDING_SABTUANWIDGETS</BuildingType>
+			<DomainType>DOMAIN_LAND</DomainType>
+			<Experience>3</Experience>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SABTUANWIDGETS</BuildingType>
+			<DomainType>DOMAIN_SEA</DomainType>
+			<Experience>3</Experience>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SABTUANWIDGETS</BuildingType>
+			<DomainType>DOMAIN_AIR</DomainType>
+			<Experience>3</Experience>
+		</Row>
+	</Building_DomainFreeExperiences>-->
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_SABTUANWIDGETS</BuildingType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_SABTUANPLAINSCREE</Type>
+			<Description>TXT_KEY_PROMOTION_SABTUANPLAINSCREE</Description>
+			<Help>TXT_KEY_PROMOTION_SABTUANPLAINSCREE_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>0</PortraitIndex>
+			<LostWithUpgrade>false</LostWithUpgrade>
+			<IconAtlas>CREEPROMOTIONS_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PEDIA_PROMOTION_SABTUANPLAINSCREE</PediaEntry>
+			<IgnoreZOC>true</IgnoreZOC>
+		</Row>
+		<Row>
+			<Type>PROMOTION_SABTUANWOODLANDCREE</Type>
+			<Description>TXT_KEY_PROMOTION_SABTUANWOODLANDCREE</Description>
+			<Help>TXT_KEY_PROMOTION_SABTUANWOODLANDCREE_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>5</PortraitIndex>
+			<LostWithUpgrade>false</LostWithUpgrade>
+			<IconAtlas>CREEPROMOTIONS_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PEDIA_PROMOTION_SABTUANWOODLANDCREE</PediaEntry>
+			<RoughDefense>10</RoughDefense>
+		</Row>
+		<Row>
+			<Type>PROMOTION_SABTUANJAMESBAYCREE</Type>
+			<Description>TXT_KEY_PROMOTION_SABTUANJAMESBAYCREE</Description>
+			<Help>TXT_KEY_PROMOTION_SABTUANJAMESBAYCREE_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>2</PortraitIndex>
+			<LostWithUpgrade>false</LostWithUpgrade>
+			<IconAtlas>CREEPROMOTIONS_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PEDIA_PROMOTION_SABTUANJAMESBAYCREE</PediaEntry>
+			<EnemyHealChange>8</EnemyHealChange>
+			<NeutralHealChange>8</NeutralHealChange>
+		</Row>
+		<Row>
+			<Type>PROMOTION_SABTUANSWAMPYCREE</Type>
+			<Description>TXT_KEY_PROMOTION_SABTUANSWAMPYCREE</Description>
+			<Help>TXT_KEY_PROMOTION_SABTUANSWAMPYCREE_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>3</PortraitIndex>
+			<LostWithUpgrade>false</LostWithUpgrade>
+			<IconAtlas>CREEPROMOTIONS_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PEDIA_PROMOTION_SABTUANSWAMPYCREE</PediaEntry>
+			<VisibilityChange>1</VisibilityChange>
+			<UpgradeDiscount>25</UpgradeDiscount>
+		</Row>
+		<Row>
+			<Type>PROMOTION_SABTUANINNU</Type>
+			<Description>TXT_KEY_PROMOTION_SABTUANINNU</Description>
+			<Help>TXT_KEY_PROMOTION_SABTUANINNU_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>4</PortraitIndex>
+			<LostWithUpgrade>false</LostWithUpgrade>
+			<IconAtlas>CREEPROMOTIONS_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PEDIA_PROMOTION_SABTUANINNU</PediaEntry>
+			<FreePillageMoves>true</FreePillageMoves>
+			<AttackFortifiedMod>15</AttackFortifiedMod>
+		</Row>
+		<Row>
+			<Type>PROMOTION_SABTUANMETIS</Type>
+			<Description>TXT_KEY_PROMOTION_SABTUANMETIS</Description>
+			<Help>TXT_KEY_PROMOTION_SABTUANMETIS_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>1</PortraitIndex>
+			<LostWithUpgrade>false</LostWithUpgrade>
+			<IconAtlas>CREEPROMOTIONS_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PEDIA_PROMOTION_SABTUANMETIS</PediaEntry>
+			<ExperiencePercent>15</ExperiencePercent>
+		</Row>
+	</UnitPromotions>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_CARAVANSARY</BuildingType>
+			<FlavorType>FLAVOR_I_LAND_TRADE_ROUTE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CARAVANSARY</BuildingType>
+			<FlavorType>FLAVOR_I_TRADE_ORIGIN</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SABTUAN</BuildingType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SABTUAN</BuildingType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+	</Building_Flavors>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_SABTUAN">
+			<Text>Sabtuan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SABTUAN_HELP">
+			<Text>
+				+50% Land trade route range. +2 [ICON_GOLD] Gold for each Land trade route connected to another civilization. Each Major civilization that you have a trade route with provides +1 [ICON_FOOD] Food and +3 Experience for units trained in this city.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_SABTUAN_TEXT">
+			<Text>The Sabtuan is a Cree longhouse. With the Cree culture encouraging intertribal and intercultural marriages, the Sabtuan was the home for many mixed-culture marriages.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SABTUAN_STRATEGY">
+			<Text>The Sabtuan allows you to increase the power of your units and the size of your cities, so position your cities at the crossroads between nations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SABTUANPLAINSCREE">
+			<Text>Plains Cree</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SABTUANPLAINSCREE_HELP">
+			<Text>Ignores enemy Zones of Control.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SABTUANWOODLANDCREE">
+			<Text>Woodlands Cree</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SABTUANWOODLANDCREE_HELP">
+			<Text>Defense increased by 10% in Rough Terrain (Forests, Hills, Jungles.)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SABTUANJAMESBAYCREE">
+			<Text>James Bay Cree</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SABTUANJAMESBAYCREE_HELP">
+			<Text>Heal faster when resting outside of your borders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SABTUANSWAMPYCREE">
+			<Text>Swampy Cree</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SABTUANSWAMPYCREE_HELP">
+			<Text>Visibility is increased. Cost of upgrading reduced by 25%.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SABTUANINNU">
+			<Text>Innu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SABTUANINNU_HELP">
+			<Text>Pillaging does not consume movement. Attack is increased by 15% against fortified enemies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SABTUANMETIS">
+			<Text>Metís</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SABTUANMETIS_HELP">
+			<Text>Adds +15% Experience Growth.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_METISCONFUSION">
+			<Text>Confusion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_METISCONFUSION_HELP">
+			<Text>Observers cannot determine who you belong to!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

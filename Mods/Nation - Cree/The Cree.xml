@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/25/2014 10:37:04 AM -->
+<GameData>
+	<Civilizations>
+		<Row>
+			<Type>CIVILIZATION_THECREEFIRSTNATION</Type>
+			<Description>TXT_KEY_CIV_THECREEFIRSTNATION_DESC</Description>
+			<Civilopedia/>
+			<CivilopediaTag>TXT_KEY_CIV5_THECREEFIRSTNATION</CivilopediaTag>
+			<Strategy/>
+			<Playable>1</Playable>
+			<AIPlayable>1</AIPlayable>
+			<ShortDescription>TXT_KEY_CIV_THECREEFIRSTNATION_SHORT_DESC</ShortDescription>
+			<Adjective>TXT_KEY_CIV_THECREEFIRSTNATION_ADJECTIVE</Adjective>
+			<DefaultPlayerColor>PLAYERCOLOR_THECREEFIRSTNATION</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_IROQUOIS</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_SOUTH_AMERICA</ArtStyleType>
+			<ArtStyleSuffix>_AMER</ArtStyleSuffix>
+			<ArtStylePrefix>AMERICAN </ArtStylePrefix>
+			<DerivativeCiv/>
+			<PortraitIndex>0</PortraitIndex>
+			<!--not really -->
+			<IconAtlas>THECREEFIRSTNATION_ATLAS</IconAtlas>
+			<AlphaIconAtlas>THECREEFIRSTNATION_ALPHA</AlphaIconAtlas>
+			<MapImage>CreeMap.dds</MapImage>
+			<DawnOfManQuote>TXT_KEY_CIV5_DAWN_THECREEFIRSTNATION_TEXT</DawnOfManQuote>
+			<DawnOfManImage>PoundmakerDOM.dds</DawnOfManImage>
+			<DawnOfManAudio>AS2D_DOM_SPEECH_THECREEFIRSTNATION</DawnOfManAudio>
+			<SoundtrackTag>IROQUOIS</SoundtrackTag>
+				<!-- Will change? -->
+			<PackageID/>
+			<!-- Will change?-->
+		</Row>
+	</Civilizations>
+	<Civilization_CityNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_THECREEFIRSTNATION_0</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_THECREEFIRSTNATION_1</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_THECREEFIRSTNATION_2</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_THECREEFIRSTNATION_3</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_THECREEFIRSTNATION_4</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_THECREEFIRSTNATION_5</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_THECREEFIRSTNATION_6</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_THECREEFIRSTNATION_7</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_THECREEFIRSTNATION_8</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_THECREEFIRSTNATION_9</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_THECREEFIRSTNATION_10</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_THECREEFIRSTNATION_11</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_THECREEFIRSTNATION_12</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_THECREEFIRSTNATION_13</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_THECREEFIRSTNATION_14</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_THECREEFIRSTNATION_15</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_THECREEFIRSTNATION_16</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_THECREEFIRSTNATION_17</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_THECREEFIRSTNATION_18</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_THECREEFIRSTNATION_19</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_THECREEFIRSTNATION_20</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_THECREEFIRSTNATION_21</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_THECREEFIRSTNATION_22</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_THECREEFIRSTNATION_23</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_THECREEFIRSTNATION_24</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_THECREEFIRSTNATION_25</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_THECREEFIRSTNATION_26</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_THECREEFIRSTNATION_27</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_THECREEFIRSTNATION_28</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_THECREEFIRSTNATION_29</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_THECREEFIRSTNATION_30</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_THECREEFIRSTNATION_31</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_THECREEFIRSTNATION_32</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_THECREEFIRSTNATION_33</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_THECREEFIRSTNATION_34</CityName>
+		</Row>
+	</Civilization_CityNames>
+	<!-- Civilization_DisableTechs -->
+	<Civilization_FreeBuildingClasses>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+		</Row>
+	</Civilization_FreeBuildingClasses>
+	<Civilization_FreeTechs>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<TechType>TECH_AGRICULTURE</TechType>
+		</Row>
+	</Civilization_FreeTechs>
+	<Civilization_FreeUnits>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+			<UnitAIType>UNITAI_SETTLE</UnitAIType>
+			<Count>1</Count>
+		</Row>
+	</Civilization_FreeUnits>
+	<Civilization_Leaders>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<LeaderheadType>LEADER_CREEPOUNDMAKER</LeaderheadType>
+		</Row>
+	</Civilization_Leaders>
+	<Civilization_Religions>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<ReligionType>RELIGION_PROTESTANTISM</ReligionType>
+		</Row>
+	</Civilization_Religions>
+	<Civilization_SpyNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_THECREEFIRSTNATION_0</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_THECREEFIRSTNATION_1</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_THECREEFIRSTNATION_2</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_THECREEFIRSTNATION_3</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_THECREEFIRSTNATION_4</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_THECREEFIRSTNATION_5</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_THECREEFIRSTNATION_6</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_THECREEFIRSTNATION_7</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_THECREEFIRSTNATION_8</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_THECREEFIRSTNATION_9</SpyName>
+		</Row>
+	</Civilization_SpyNames>
+	<Civilization_UnitClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<UnitClassType>UNITCLASS_LONGSWORDSMAN</UnitClassType>
+			<UnitType>UNIT_GUNSTOCKLAND</UnitType>
+		</Row>
+	</Civilization_UnitClassOverrides>
+	<Civilization_BuildingClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_CARAVANSARY</BuildingClassType>
+			<BuildingType>BUILDING_SABTUAN</BuildingType>
+		</Row>
+	</Civilization_BuildingClassOverrides>
+	<Civilization_Start_Region_Priority>
+		<Row>
+			<CivilizationType>CIVILIZATION_THECREEFIRSTNATION</CivilizationType>
+			<RegionType>REGION_PLAINS</RegionType>
+		</Row>
+	</Civilization_Start_Region_Priority>
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_THECREEFIRSTNATION</Type>
+			<PrimaryColor>COLOR_PLAYER_THECREEFIRSTNATION_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_THECREEFIRSTNATION_BACKGROUND</SecondaryColor>
+			<TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_THECREEFIRSTNATION_ICON</Type>
+			<Red>0.105</Red>
+			<Green>0.149</Green>
+			<Blue>0.233</Blue>
+			<Alpha>1.0</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_THECREEFIRSTNATION_BACKGROUND</Type>
+			<Red>0.403</Red>
+			<Green>0.772</Green>
+			<Blue>0.725</Blue>
+			<Alpha>1.0</Alpha>
+		</Row>
+	</Colors>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_THECREEFIRSTNATION_DESC">
+			<Text>The Cree</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_THECREEFIRSTNATION_FACTOID_HEADING">
+			<Text>Cree Factoid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_THECREEFIRSTNATION_FACTOID_TEXT">
+			<Text>The Cree are among one of the most populous nations in what is now Canada. The Cree are known for their inclusive culture, which values and even encourages interracial and intertribal marriage. Because of this, the Cree are found in many different parts of North America and their culture and heritage incorporates many different people groups.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_THECREEFIRSTNATION_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_THECREEFIRSTNATION_TEXT_1">
+			<Text>The Cree are a large group of First Nations peoples occupying what is now northern United States and much of Canada. The Cree are a diverse group, covering a wide swath of territory, and subdivided by the many	geographic regions, each with its own way of life and Cree culture. After first making contact with French and English explorers in	the 1600s, the Cree adapted to new realities in their homeland, expanding westward onto the Great Plains. The Cree, like other indigenous Americans, faced an existential crisis in the face of European colonialism and nation-building.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_THECREEFIRSTNATION_HEADING_2">
+			<Text>Geography and Climate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_THECREEFIRSTNATION_TEXT_2">
+			<Text>The Cree lived and continue to live in a very wide range of terrain, including plains, subarctic forests, and swamps. These varying terrains necessitate very different lifestyles and practices, causing the Cree to have a large range of cultures from one location to another. Covering large portions of northern and subarctic Canada, Cree lands tend to be cold and resource-dependent. The Cree are excellent traders and businessmen, however, and after contact with the Europeans, Cree peoples became dominant fur and bison traders.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_THECREEFIRSTNATION_HEADING_3">
+			<Text>The Cree before Colonization</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_THECREEFIRSTNATION_TEXT_3">
+			<Text>
+				Before their contact with the European colonists, the Cree were widespread over northeastern and central Canada, organized in independent bands of hunter-gatherer lodges. Lodges were usually comprising two families which lived and moved together. These groups hunted moose, caribou, birds and fish in order to survive.[NEWLINE][NEWLINE]Cree religion was based on contact with animal spirits.	Cree society was extremely inclusive, even with members of other nations and people groups. The Cree valued subsistance living, with an emphasis on stewardship of natural resources. Bands and lodges existed independently, but food, as the most essential good, was shared when necessary. Leaders emerged through demonstration of excellence in their fields, such as hunting or religious rituals.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_THECREEFIRSTNATION_HEADING_4">
+			<Text>The Hudson's Bay Company</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_THECREEFIRSTNATION_TEXT_4">
+			<Text>When the Cree made first contact with European explorers, it was with the Hudson's Bay Company, an English chartered corporation which still exists to this day, operating as a Canadian department store known as "The Bay."	The Cree quickly and effectively connected themselves into the fur trade. The English crown gave the Hudson's Bay Company trading rights to about a third of what is now Canada, including a large portion of Cree territory. This initiated a large-scale restructuring of Cree society. European trading posts were established, and eventually Cree began to settle around these areas. The Cree social order drastically changed during this period, as life spent in close quarters with the English resulted in a transfer of many ideas -- including Christianity. In addition, many Wood Cree began to migrate to the Great Plains.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_THECREEFIRSTNATION_HEADING_5">
+			<Text>The Iron Confederacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_THECREEFIRSTNATION_TEXT_5">
+			<Text>Aided by European tools and goods, branches of the Cree migrated from the Hudson and James Bay area to the Great Plains around 1700, a few decades after European contact. These Cree aligned themselves with other indigenous groups – the Saulteaux, the Assiniboine, the Nakoda and others – to form the Iron Confederacy. The Confederacy aligned in order to aid mutual expansion across Canada and to collaborate to maximize the benefits of the fur trade. The Confederacy filled a middleman role, providing European goods to other indigenous groups and providing furs to European settlers. The Confederacy expanded its territory across the Great Plains throughout the 18th century. In the early 1700s, the Cree fought the Chipewyan, part of the Dene, in the northwest. Here, the Hudson Bay Company managed to help create a peace by 1715. By 1760, the Cree expanded their reach to what is now northern Alberta, where the Cree had pushed back the Beaver people. In 1781, this conflict ended suddenly with the arrival of smallpox, which wiped out the Cree in the area. Further south, the Cree came to the aid of the Blackfoot in 1723, fighting off the Snake people. While this battle was fought with indigenous technology, a similar alliance between the Iron Confederacy and the Blackfoot in 1732 was decidedly marked by the Cree adoption of the musket. These alliances helped form the	trading network that gave the Confederacy its power. The widespread Cree would bring European goods – including firearms and high-quality tools – to the Blackfoot and to others in exchange for furs, horses and other goods that the Cree would use for themselves or sell to the Europeans. This same exchange was used to recruit fighters for the Blackfoot in their continuing battles. In this way, the Cree postured themselves to profit from the cross-continental trade and cultural exchange brought by the European colonization.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_THECREEFIRSTNATION_HEADING_6">
+			<Text>The Plains Cree</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_THECREEFIRSTNATION_TEXT_6">
+			<Text>By 1760, the Hudson Bay Company and other European interests began to move inland, meaning that the Cree's previous role as middlemen was no longer necessary. In order to maintain their lucrative trade, the Cree and its Iron Confederacy allies moved onto the Great Plains, changing their woodland lifestyle to be more in line with the already-existing Plains tribes. This move allowed these Plains Cree access to different goods, which they supplied to Europeans venturing further inland. Horse culture, nomadism and bison hunting became a part of the already diverse Cree culture.[NEWLINE][NEWLINE]All was not well, however. The new Great Plains commodities became the impetus for a number of conflicts. Around the turn of the 19th century, the Iron Confederacy fell into conflict with the Mandan people, who had been their supplier of horses prior to 1790. This conflict escalated when the Gros Ventres people, who shared ancestry with the Cree, prevented the Cree from finding a new horse supplier. Soon after, the Gros Ventres joined the Blackfoot Confederacy, causing a war between the Cree and their longtime Blackfoot allies. Although the Cree found a new horse supply in the Salish people (Coming Soon! -- CL,) the Blackfoot would become long-term rivals of the Cree.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_THECREEFIRSTNATION_HEADING_7">
+			<Text>The Decline of the Iron Confederacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_THECREEFIRSTNATION_TEXT_7">
+			<Text>The Iron Confederacy fell into decline as the bison herds that they relied upon began to decline in the mid-19th century. The reduced amount of bison available meant that an increase in conflict between plains peoples who relied on them was inevitable. In particular, Cree hunters ventured often into Blackfoot lands, further	exacerbating conflict between the two Confederacies. When the Gros Ventres defected from the Blackfoot in 1870, the Battle of the Belly River took place. The Cree lost, but a peace was finally made when the Blackfoot chief Crowfoot adopted the Cree-Assiniboine Pitikwahanapiwiyin, later known as	Poundmaker, as his own son.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_THECREEFIRSTNATION_HEADING_8">
+			<Text>The Aboriginal Treaties</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_THECREEFIRSTNATION_TEXT_8">
+			<Text>The bison crisis eventually became so severe that the Cree asked for assistance from the colonial Canadian government. Throughout the 1870s, the bands that loosely comprised the Iron Confederacy each negotiated their own treaties with the Canadian government. According to these treaties, reserves were established for the groups that wanted them, and the bands were to recognize and tolerate the existence of Canadian settlers in their territories in exchange for material aid. Unfortunately, this aid ended up being little and often too late. By 1878, the Canadian bison population had dwindled to near extinction. Again adapting to changing conditions, Cree and other plains groups migrated into the northern United States, particularly Montana. The Americans met this move with hostility, as did the mighty Sioux people, whose war against American policy and incursion led to the militarization of the United States frontier. Military forces separated the Cree from the last bison populations, forcing them onto reservations and ensured that the bountiful frontier was open for American and Canadian interests.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_THECREEFIRSTNATION_HEADING_9">
+			<Text>After the Confederacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_THECREEFIRSTNATION_TEXT_9">
+			<Text>
+				Frustrated with shortcomings in the Cree-Canadian treaties and desperate in the face of starvation, many of the Cree became disgruntled with the Canadian military. By 1885, this turmoil led to armed conflict, with Cree warriors attacking Canadian settlers and military encampments despite Poundmaker's disaproval. After a successful Cree attack at Cut Knife, the Canadian military retaliated, crushing any resistance. In the Aftermath, many members of the Iron Confederacy abandoned the alliance in order to save themselves. Poundmaker took credit for the attacks in order to prevent an all-out war against the Cree. As a result of the Confederacy's collapse, the Cree ended up stuck on reservations.[NEWLINE][NEWLINE]Tragically, the Canadian government began a campaign to "improve" the Cree and other First Nations people, systematically seeking to change -- or crush -- their culture. Cree were forced into farming, and to reject traditional ways in exchange for European ones. At the pinnacle of this foolishness, children were forcibly taken from Cree homes and enrolled in special government schools where they were taught government approved Eurocentric ways of life in an attempt to prevent them from learning Cree ways. These schools are a major black mark on Canada's usually stellar human rights record.[NEWLINE][NEWLINE]The last of these atrocious schools closed in 1996, but their legacy has lived on -- the modern Cree nation is full of children and adults who bear the scars of generations of anti-Cree social engineering.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_THECREEFIRSTNATION_HEADING_10">
+			<Text>The Cree Today</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_THECREEFIRSTNATION_TEXT_10">
+			<Text>
+				Things are beginning to look up. In 1996, Canadian Prime Minister Stephan Harper closed the last of the atrocious schools and publically apologized to the Cree and other First Nations peoples for the horrors perpetrated by the residential schools and similar programs. In 1975, the Canadian government signed the James Bay and Northern Quebec Agreement, the first native treaty in 50 years. It expressly describes the rights of the native populations,	and allows for development only in exchange for compensation and improvements in services. While it did not end controversy over land use, the Agreement remained a marked improvement in political relations. In 2002, the Agreement Respecting a New Relationship Between the Cree Nation and the Government of Quebec was concluded, describing itself as a symbolic “nation to nation” agreement. The changes over the last half-century show significant but not complete improvement in Canadian-Cree relations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_THECREEFIRSTNATION_TITLE">
+			<Text>Cree</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_THECREEFIRSTNATION_SHORT_DESC">
+			<Text>The Cree</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_THECREEFIRSTNATION_ADJECTIVE">
+			<Text>Cree</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_THECREEFIRSTNATION_TEXT">
+			<Text>
+				Greetings, Poundmaker, Chief of the Plains Cree. You lived in a time of great upheaval, of change and hardship. As a child, you were raised by Chief Crowfoot of the Blackfoot. As you grew, you learned the ways of the Blackfoot so that peace could be made between your people and the Blackfoot, who had always been your enemies. As a man, you faced an even greater diplomatic challenge: the Canadians. As your people faced possible starvation, you kept a steady hand and a cool head when negotiating for better terms of peace, for fair deals, and for aid. When some of your people attacked the Canadians, you chose prison over war, laying down your life to prevent the Canadians from branding the Cree as enemies -- even though you were innocent of any wrongdoing. Your wise actions and good counsel saved your people both from starvation and from war with Canada, but at great cost.[NEWLINE][NEWLINE]Your wisdom and firm hand is what we need, great Poundmaker! If our people are to thrive in these new lands, we will need to seek peace and friendship among the many diverse peoples around us. Will you rise up and make us into a great nation, spanning many lands, that stands the test of time?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THECREEFIRSTNATION_0">
+			<Text>A Cree city</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THECREEFIRSTNATION_1">
+			<Text>A Cree city</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THECREEFIRSTNATION_2">
+			<Text>A Cree city</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THECREEFIRSTNATION_3">
+			<Text>A Cree city</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THECREEFIRSTNATION_4">
+			<Text>A Cree city</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THECREEFIRSTNATION_5">
+			<Text>A Cree city</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THECREEFIRSTNATION_6">
+			<Text>A Cree city</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THECREEFIRSTNATION_7">
+			<Text>A Cree city</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THECREEFIRSTNATION_8">
+			<Text>A Cree city</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THECREEFIRSTNATION_9">
+			<Text>A Cree city</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THECREEFIRSTNATION_10">
+			<Text>A Cree city</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THECREEFIRSTNATION_11">
+			<Text>A Cree city</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THECREEFIRSTNATION_12">
+			<Text>A Cree city</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THECREEFIRSTNATION_13">
+			<Text>A Cree city</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THECREEFIRSTNATION_14">
+			<Text>A Cree city</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THECREEFIRSTNATION_15">
+			<Text>A Cree city</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THECREEFIRSTNATION_16">
+			<Text>A Cree city</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THECREEFIRSTNATION_17">
+			<Text>A Cree city</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THECREEFIRSTNATION_18">
+			<Text>A Cree city</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THECREEFIRSTNATION_19">
+			<Text>A Cree city</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THECREEFIRSTNATION_20">
+			<Text>A Cree city</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THECREEFIRSTNATION_21">
+			<Text>A Cree city</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THECREEFIRSTNATION_22">
+			<Text>A Cree city</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THECREEFIRSTNATION_23">
+			<Text>A Cree city</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THECREEFIRSTNATION_24">
+			<Text>A Cree city</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THECREEFIRSTNATION_25">
+			<Text>A Cree city</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THECREEFIRSTNATION_26">
+			<Text>A Cree city</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THECREEFIRSTNATION_27">
+			<Text>A Cree city</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THECREEFIRSTNATION_28">
+			<Text>A Cree city</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THECREEFIRSTNATION_29">
+			<Text>A Cree city</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THECREEFIRSTNATION_30">
+			<Text>A Cree city</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THECREEFIRSTNATION_31">
+			<Text>A Cree city</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THECREEFIRSTNATION_32">
+			<Text>A Cree city</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THECREEFIRSTNATION_33">
+			<Text>A Cree city</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THECREEFIRSTNATION_34">
+			<Text>A Cree city</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_THECREEFIRSTNATION_0">
+			<Text>Mistāwasis</Text>
+			<gender>masculine</gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_THECREEFIRSTNATION_1">
+			<Text>Piapot</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_THECREEFIRSTNATION_2">
+			<Text>Kee-a-kee-ka-sa-coo-way</Text>
+			<gender>masculine</gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_THECREEFIRSTNATION_3">
+			<Text>Fleury</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_THECREEFIRSTNATION_4">
+			<Text>Taikamassimo</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_THECREEFIRSTNATION_5">
+			<Text>Minahikosis</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_THECREEFIRSTNATION_6">
+			<Text>Maskepetoon</Text>
+			<gender>masculine</gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_THECREEFIRSTNATION_7">
+			<Text>Theoren</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_THECREEFIRSTNATION_8">
+			<Text>Küpeyakwüskonam</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_THECREEFIRSTNATION_9">
+			<Text>Lorne Cardinal</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<!--<Row Tag="TXT_KEY_CITYSTATE_MONTEVIDEO">
+			<Text>Montevideo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MONTEVIDEO_ADJ">
+			<Text>Montevidean</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONTEVIDEO_TEXT">
+			<Text>Montevideo is the largest city, the capital, and the chief port of Uruguay.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_DUBAI">
+			<Text>Dubai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_DUBAI_ADJ">
+			<Text>Dubai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DUBAI_TEXT">
+			<Text>Dubai is a city in the United Arab Emirates, located within the emirate of the same name.</Text>
+		</Row>-->
+	</Language_en_US>
+</GameData>

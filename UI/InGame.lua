@@ -1473,6 +1473,12 @@ ContextPtr:LoadNewContext("NazcaUA")
 -- Nation - Lydia --
 ContextPtr:LoadNewContext("Lydian_trait")
 
+-- Nation - Cree --
+ContextPtr:LoadNewContext("Cree_Nations")
+ContextPtr:LoadNewContext("Gunstock")
+ContextPtr:LoadNewContext("SabtuanLua")
+ContextPtr:LoadNewContext("CityInfoStack")
+
 -- Nation - Xia --
 ContextPtr:LoadNewContext("Xia Mod Check")
 ContextPtr:LoadNewContext("XiaDynastyPopup")

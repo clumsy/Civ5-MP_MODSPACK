@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/27/2014 2:02:53 PM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_THEIRONCONFED</Type>
+			<Description>TXT_KEY_TRAIT_THEIRONCONFED</Description>
+			<ShortDescription>TXT_KEY_TRAIT_THEIRONCONFED_SHORT</ShortDescription>
+		</Row>
+	</Traits>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_TRAIT_THEIRONCONFED">
+			<Text>
+				Founded Cities belong to one of six Cree Nations, based on surrounding terrain. Each Cree Nation receives unique City Names and a specific combat promotion for newly trained units.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_THEIRONCONFED_SHORT">
+			<Text>The Iron Confederacy</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

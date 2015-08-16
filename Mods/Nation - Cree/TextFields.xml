@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/6/2014 7:50:51 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CREENATIONHEADER">
+			<Text>Cree Nation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SWAMPYCREE_SUBHEADING">
+			<Text>The Swampy Cree</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JAMESBAY_SUBHEADING">
+			<Text>The James Bay Cree</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WOODCREE_SUBHEADING">
+			<Text>The Woodlands Cree</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INNU_SUBHEADING">
+			<Text>The Innu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAINSCREE_SUBHEADING">
+			<Text>The Plains Cree</Text>
+		</Row>
+		<Row Tag="TXT_KEY_METIS_SUBHEADING">
+			<Text>The Metís</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SWAMPYCREE_TEXT">
+			<Text>This City is inhabited by the Swampy Cree. Units trained in this City have additional sight and upgrade at a cheaper [ICON_GOLD] Gold cost.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SWAMPYCREE_WARNING">
+			<Text>The Swampy Cree way of life is dependant on Marshes and Flood Plains. If no Flood Plains are adjacent to this city, removing the last Marsh hex adjacent to this city will change the Swampy Cree way of life, and they will join a different Cree Nation. Pay attention to any automated Workers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JAMESBAY_TEXT">
+			<Text>This City is inhabited by the James Bay Cree. Units trained in this City will Heal faster when resting outside of your Borders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WOODCREE_TEXT">
+			<Text>This City is inhabited by the Woodlands Cree. Units trained in this City gain 10% Defense when positioned in Rough Terrain (Hills, Forests, Jungles.)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WOODCREE_WARNING">
+			<Text>Removing the last Forest hex adjacent to this city will change the Woodlands Cree way of life, and they will join a different Cree Nation. Pay attention to any automated Workers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_INNU_TEXT">
+			<Text>This City is inhabited by the Innu. Units trained in this City do not expend Movement when Pillaging improvements, and deal additional damage to fortified units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PLAINSCREE_TEXT">
+			<Text>This City is inhabited by the Plains Cree. Units trained in this City ignore enemy Zones of Control.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_METIS_TEXT">
+			<Text>This City is inhabited by the Metís. Units trained in this City gain experience faster.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

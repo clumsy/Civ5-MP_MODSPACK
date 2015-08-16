@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="c5848843-f95b-4d2c-adb4-c9b5bfb03b5f" version="4">
+  <Properties>
+    <Name>[BNW] Colonialist Legacies - The Cree</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the dynamic [COLOR_POSITIVE_TEXT]Cree Peoples[ENDCOLOR] to the game, the largest First Nation in Canada! Run to the Hills!</Teaser>
+    <Description>Chief Poundmaker was a Plains Cree known as a great peacemaker and a defender of his people. He was also known for his skill in hunting and trapping Buffalo. When some of his people went against his advice and attacked Canadian colonists, Poundmaker took responsibility in order to protect his people from the white man’s wrath.
+
+		[NEWLINE][NEWLINE]----
+		[NEWLINE][NEWLINE]Note:
+		[NEWLINE]- Requires the Brave New World expansion.
+		[NEWLINE]- Updates to the Mod will most likely break save games. Please do not update until you are ready to begin a new game.
+		[NEWLINE][NEWLINE]----
+		[NEWLINE][NEWLINE]Leader: Poundmaker
+		[NEWLINE][NEWLINE]UA: Iron Confederacy
+		[NEWLINE]UU: Gunstock Warrior
+		[NEWLINE]UB: Sabtuan</Description>
+    <Authors>Neirai the Forgiven, TPangolin, Leugi</Authors>
+    <SpecialThanks>Superwaffle, Sukritact, JFD, Lastsword, Leugi, Reedstilt, Patum33, regalman</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="753015093EB9B4C25DEECCF789E01BF2" import="1">Art/CL_CreePromotions256.dds</File>
+    <File md5="49BDF426BC03933CFF345E9611C8A9FE" import="1">Art/CL_CreePromotions32.dds</File>
+    <File md5="9F37FD04551B17055525FD08A8E6384E" import="1">Art/CL_CreePromotions45.dds</File>
+    <File md5="8FB9C96F6895159EC61AADE2D0702F96" import="1">Art/CL_CreePromotions64.dds</File>
+    <File md5="304D4ED9BEC4BB2437D8C3D000E619CE" import="1">Art/creealpha24.dds</File>
+    <File md5="065A890FB0FAD879EADBEEAED99EEF72" import="1">Art/creealpha32.dds</File>
+    <File md5="1328B5565A679BF577AF8DDAC2FDF093" import="1">Art/creealpha48.dds</File>
+    <File md5="4DD0966231CE2FA874576C6DF8AB81C0" import="1">Art/creealpha64.dds</File>
+    <File md5="CBB1125CA53391AD9A5398BE2AE55A3A" import="1">Art/creealticons64.dds</File>
+    <File md5="4B668AA7B169E53A034101BBDB738E12" import="1">Art/creealticons80.dds</File>
+    <File md5="5F6A05ADABB6233F13402297E4A322A7" import="1">Art/creeatlas128.dds</File>
+    <File md5="93D1B0D5CBC5676A8F926D4D56D20CA5" import="1">Art/creeatlas256.dds</File>
+    <File md5="F41E02C0F369F3C741C9EB3D22E48BC7" import="1">Art/creeatlas32.dds</File>
+    <File md5="26CBDFD1C7ABD00D9E4C224ACF9621BE" import="1">Art/creeatlas45.dds</File>
+    <File md5="8D9F1815C919DA9FEEF14674E8D44954" import="1">Art/creeatlas64.dds</File>
+    <File md5="E55704403E22C02AB80B06402A526D89" import="1">Art/creeatlas80.dds</File>
+    <File md5="DBFE7A7F42B0FF80D840FD95DE4F3F4A" import="1">Art/HorseRider_256.dds</File>
+    <File md5="D12996FEED0B32296B70596817F26A40" import="1">Art/HorseRider_45.dds</File>
+    <File md5="4025BD3CFBE21BBD220A626489B956B1" import="1">Art/HorseRider_64.dds</File>
+    <File md5="8B4C9DFAE9898749597A27569574BE7E" import="1">Art/HorseRider_80.dds</File>
+    <File md5="26CCDB453EFCDAA400370D117E8853CF" import="1">Art/PoundmakerDOM.dds</File>
+    <File md5="4A996D058BC11FA81EEC023CAD8E80D1" import="0">Art/CreeAtlas.xml</File>
+    <File md5="A0BC3EFF9409FDBF6E55708F6C7457D7" import="1">Art/CreeMap.dds</File>
+    <File md5="79CA1A45D7C3CEE53753684A7E4C4661" import="1">Art/GunstockFlag_32.dds</File>
+    <File md5="326248DF17D200E9644866774F3A86DE" import="1">Art/Poundmaker_Scene.dds</File>
+    <File md5="5BB64CEAFB87DE5D40234998236ED412" import="0">Civ/Cree Trait.xml</File>
+    <File md5="B30145E647FD9A82610D4D3799146C02" import="1">Civ/CreePoundmakerScene.xml</File>
+    <File md5="8427F1653D508D0BF82DC129018A7B93" import="0">Civ/Poundmaker_Talks.sql</File>
+    <File md5="832109B1F2F5A9122D3F879EC3F8E559" import="0">Civ/Poundmaker_Talks.xml</File>
+    <File md5="D81F4271C4B99C75C8990C815C40359B" import="0">Civ/Poundmaker.xml</File>
+    <File md5="26207C3279737A5E5EFEFEA506E83690" import="0">Civ/The Cree.xml</File>
+    <File md5="1D14622212620E1FDE536353EA2E788C" import="0">Lua/CreeNations.xml</File>
+    <File md5="6EC93E0B8EF1BB54E2047E4EA92D4FA9" import="0">Lua/Gunstock.lua</File>
+    <File md5="D8333EDEE2273D70C77000201A44456B" import="0">Lua/CreeNations.lua</File>
+    <File md5="2D8AB8757425C8C6ECECBDE46D502FF7" import="0">Lua/SabtuanLua.lua</File>
+    <File md5="7CDDBD070651ABDC78B281B4BE1E13BC" import="0">Sukritact's MCIS/TextFields.xml</File>
+    <File md5="86C1C3EDCE4699DE320A932C4E70E22C" import="0">Sukritact's MCIS/CityInfoStack.lua</File>
+    <File md5="120EB71025973A8A48B38314241DD0B3" import="0">Sukritact's MCIS/CityInfoStack.xml</File>
+    <File md5="35DF980D73FA8F491DE6ECDE3D684705" import="0">Mod Support/CreeYnAEMP.xml</File>
+    <File md5="AE56617938F03123941FF70C15EB93E7" import="0">Mod Support/CulDiv.sql</File>
+    <File md5="85EE6042C6BD854AAE572A3719908058" import="0">Mod Support/Decisions.sql</File>
+    <File md5="7CA11A1C35EBFB75ECE7F3FB8593DC33" import="0">Mod Support/DecisionsText.xml</File>
+    <File md5="C8F1FAE21C08068DE5F0A04E9A2AA341" import="0">Mod Support/HistoricalRelgion.sql</File>
+    <File md5="8AFCD653F036A34CBD6C8F45A3D0E0AE" import="1">Mod Support/CLCreeDecisions.lua</File>
+    <File md5="103E1D0E7B6955CDB01CF012551C2B47" import="0">Mod Support/UCI.xml</File>
+    <File md5="40FC3BDFE8EFCFAEC9626B38BBA91FB4" import="0">Mod Support/PietyandPrestige.sql</File>
+    <File md5="9DC61EB549DCC044524B93B63C9A7D16" import="1">Music/CreeAmbience.mp3</File>
+    <File md5="5C3CF7CBF5DE671FDE34C5A05DA0D966" import="1">Music/CreePeace.mp3</File>
+    <File md5="653396BE348B74E75209EF822AD5140E" import="1">Music/CreeWar.mp3</File>
+    <File md5="F7FAB09D45426E5A3D0AC44DA85E005A" import="0">Music/CreeMusic.xml</File>
+    <File md5="936E0AC27298A5C6EF10704219A79D48" import="1">Music/CreeDOM.mp3</File>
+    <File md5="9264C656466F41F0BE9B7B2B8E801F49" import="1">Unit Art/civ5_irokn1.fxsxml</File>
+    <File md5="6CB25D61C4B980F2357B2647025735D2" import="1">Unit Art/civ5_irokn1.gr2</File>
+    <File md5="9B06B84DA1C861B1D3782421E1B8B3D8" import="1">Unit Art/civ5_irokn2.fxsxml</File>
+    <File md5="C94C69404AB1D14C9A1CBD09CCD08E8B" import="1">Unit Art/civ5_irokn2.gr2</File>
+    <File md5="3B911A81444CEAC61399CAEA0C7DD53C" import="1">Unit Art/civ5_irokn3.fxsxml</File>
+    <File md5="49976082C711A652B8B8C7A4541195D4" import="1">Unit Art/civ5_irokn3.gr2</File>
+    <File md5="706B953F46DCBC43B706E4BF2C7B7FA2" import="1">Unit Art/civ5_irokn4.fxsxml</File>
+    <File md5="A52C02AB9AE3074342CB61946300BE06" import="1">Unit Art/civ5_irokn4.gr2</File>
+    <File md5="0A350ED56AD9CF992699A5020F6DBDDD" import="1">Unit Art/civ5_irokn5.fxsxml</File>
+    <File md5="BD1516A3BF8AEC3594B47FA358B95116" import="1">Unit Art/civ5_irokn5.gr2</File>
+    <File md5="4FF53E9E0759D5660A0097A1F1D78981" import="1">Unit Art/civ5_irosp1.fxsxml</File>
+    <File md5="37171A2C529735246324D4867B2C6348" import="1">Unit Art/civ5_irosp1.gr2</File>
+    <File md5="25A182532E10ACA8B53EDE735BD0C9D6" import="1">Unit Art/civ5_irosp2.fxsxml</File>
+    <File md5="335E0534B8C3D6C9AC6B5E1AAD593B10" import="1">Unit Art/civ5_irosp2.gr2</File>
+    <File md5="84993693CB890C82D4EC09686827373B" import="1">Unit Art/civ5_irosp3.fxsxml</File>
+    <File md5="6E23D36DF29E129F34183E5020EACBF7" import="1">Unit Art/civ5_irosp3.gr2</File>
+    <File md5="CDD6E365E86097C061C4582910E2FC0B" import="1">Unit Art/civ5_irosp4.fxsxml</File>
+    <File md5="C77266D81054DAD3F32777A8E3FABC8C" import="1">Unit Art/civ5_irosp4.gr2</File>
+    <File md5="6C4FF545108E11DC54E64BCBBD7828AF" import="0">Unit Art/CreeUnitArt.xml</File>
+    <File md5="26FD0B030BB8AA301B85F7A40EFECB0F" import="1">Unit Art/irokn1.dds</File>
+    <File md5="1C32EB88E0D78E2FAAEE4E042241388A" import="1">Unit Art/irokn1_sref.dds</File>
+    <File md5="8CDF4606F45787589FFACC876B1F13B2" import="1">Unit Art/irokn2.dds</File>
+    <File md5="257E296C1FA56E2742005884773EDB6A" import="1">Unit Art/irokn2_sref.dds</File>
+    <File md5="C0A187873317A83350AEC154A60EFBCB" import="1">Unit Art/irokn3.dds</File>
+    <File md5="BEE705678B16C1EF9EB1EA1C454D56C8" import="1">Unit Art/irokn3_sref.dds</File>
+    <File md5="CFC86108116E25D457D49A26B9369ACC" import="1">Unit Art/irokn4.dds</File>
+    <File md5="356E4255FE18E7B95BF24825A41234DE" import="1">Unit Art/irokn4_sref.dds</File>
+    <File md5="E0406A659C1DA734F691DBE61784A4C0" import="1">Unit Art/irokn5.dds</File>
+    <File md5="DD5C1FF58D13CAAE3E4E03663268CF28" import="1">Unit Art/irokn5_sref.dds</File>
+    <File md5="B40DADF398BA05CDC9A420A6F75D87B2" import="1">Unit Art/iroknhorse1.dds</File>
+    <File md5="9FFB9EFDAB4458DA4E4B1DED4B9273DC" import="1">Unit Art/iroknhorse1_sref.dds</File>
+    <File md5="C5848CD95484AB4897ED5A88595A2D3A" import="1">Unit Art/iroknhorse2.dds</File>
+    <File md5="501720156FF84FCD976BDC5176FB7FD0" import="1">Unit Art/iroknhorse2_sref.dds</File>
+    <File md5="1965ED1EAF086BDC5D1A0224F0A84B03" import="1">Unit Art/iroknhorse3.dds</File>
+    <File md5="21FF1DEC403229E8A4771BFFBE9CF00D" import="1">Unit Art/iroknhorse3_sref.dds</File>
+    <File md5="115880C7DDADE64E6733FC765BC28E29" import="1">Unit Art/iroknhorse4.dds</File>
+    <File md5="4A9FA4DD3C5C02F40872224271E289C5" import="1">Unit Art/iroknhorse4_sref.dds</File>
+    <File md5="E2D1B9AF25EEDCE1B2667E625CF53B21" import="1">Unit Art/iroknhorse5.dds</File>
+    <File md5="49C63372167B4F0DF59C16D15CE63A80" import="1">Unit Art/iroknhorse5_sref.dds</File>
+    <File md5="BF27BF4388ED61B9BFD9C34044B8AB83" import="1">Unit Art/irosp1.dds</File>
+    <File md5="71F4A0C78759682B41BC5C327D41B1EC" import="1">Unit Art/irosp1_sref.dds</File>
+    <File md5="F396101228B7BC8C7B313F66ADBFE0D4" import="1">Unit Art/irosp2.dds</File>
+    <File md5="AE7C35EFC0EF92A5526CA45260A86A71" import="1">Unit Art/irosp2_sref.dds</File>
+    <File md5="1F2DF5E4DDE5F6C5C32A9EB50BC587E7" import="1">Unit Art/irosp3.dds</File>
+    <File md5="A8F2EFDE3E133CB798531F67C7B2BC90" import="1">Unit Art/irosp3_sref.dds</File>
+    <File md5="2D8594F281F5ACCCECDD44BDD8234FF4" import="1">Unit Art/irosp4.dds</File>
+    <File md5="9C79B125E0087E2E596F3334E14F251B" import="1">Unit Art/irosp4_sref.dds</File>
+    <File md5="8E1F90B45C4C896FCD8570D306210440" import="0">Units/CreePopupHack.xml</File>
+    <File md5="A11BF5D8D787A7C63ECCBC25168A8646" import="0">Units/Sabtuan.xml</File>
+    <File md5="ADCA7C88299450D32DE088A51FA71032" import="0">Units/GunstockUnits.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/CreeAtlas.xml</UpdateDatabase>
+      <UpdateDatabase>Music/CreeMusic.xml</UpdateDatabase>
+      <UpdateDatabase>Civ/Cree Trait.xml</UpdateDatabase>
+      <UpdateDatabase>Units/Sabtuan.xml</UpdateDatabase>
+      <UpdateDatabase>Civ/CreePoundmakerScene.xml</UpdateDatabase>
+      <UpdateDatabase>Civ/Poundmaker_Talks.xml</UpdateDatabase>
+      <UpdateDatabase>Civ/Poundmaker_Talks.sql</UpdateDatabase>
+      <UpdateDatabase>Civ/Poundmaker.xml</UpdateDatabase>
+      <UpdateDatabase>Units/CreePopupHack.xml</UpdateDatabase>
+      <UpdateDatabase>Unit Art/CreeUnitArt.xml</UpdateDatabase>
+      <UpdateDatabase>Units/GunstockUnits.xml</UpdateDatabase>
+      <UpdateDatabase>Civ/The Cree.xml</UpdateDatabase>
+      <UpdateDatabase>Mod Support/CreeYnAEMP.xml</UpdateDatabase>
+      <UpdateDatabase>Mod Support/PietyandPrestige.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Support/CulDiv.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Support/UCI.xml</UpdateDatabase>
+      <UpdateDatabase>Mod Support/HistoricalRelgion.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Support/DecisionsText.xml</UpdateDatabase>
+      <UpdateDatabase>Mod Support/Decisions.sql</UpdateDatabase>
+      <UpdateDatabase>Sukritact's MCIS/TextFields.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/CreeNations.lua">
+      <Name>CreeTrait</Name>
+      <Description>Gives the Cree their trait functions</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Gunstock.lua">
+      <Name>Gunstock Riders</Name>
+      <Description>Allows Gunstock Riders to mount up!</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/SabtuanLua.lua">
+      <Name>Sabtuan Lua</Name>
+      <Description>Adds many functions to the Sabtuan</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Sukritact's MCIS/CityInfoStack.lua">
+      <Name>CityInfoStack</Name>
+      <Description>Sukritact's Modular City Information Stack</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

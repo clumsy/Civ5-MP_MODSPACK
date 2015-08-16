@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/25/2014 7:59:56 PM -->
+<!-- This Hack supplied by the amazing Leugi-->
+<GameData>
+	<UnitClasses>
+		<Row>
+			<Type>UNITCLASS_NOTIFICATION_CREENATION</Type>
+			<Description>TXT_KEY_NOTIFICATION_CREEPLAINS_TITLE</Description>
+			<DefaultUnit>UNIT_NOTIFICATION_CREEMETIS</DefaultUnit>
+		</Row>
+	</UnitClasses>
+	<Units>
+		<Row>
+			<Class>UNITCLASS_NOTIFICATION_CREENATION</Class>
+			<Type>UNIT_NOTIFICATION_CREEPLAINS</Type>
+			<Moves>0</Moves>
+			<Cost>-1</Cost>
+			<Description>TXT_KEY_NOTIFICATION_CREEPLAINS_TITLE</Description>
+			<ShowInPedia>false</ShowInPedia>
+			<CombatLimit>0</CombatLimit>
+			<UnitArtInfo>ART_DEF_UNIT__SETTLER</UnitArtInfo>
+			<UnitFlagIconOffset>82</UnitFlagIconOffset>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>CREENATIONS_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Class>UNITCLASS_NOTIFICATION_CREENATION</Class>
+			<Type>UNIT_NOTIFICATION_CREEMETIS</Type>
+			<Moves>0</Moves>
+			<Cost>-1</Cost>
+			<Description>TXT_KEY_NOTIFICATION_CREEMETIS_TITLE</Description>
+			<ShowInPedia>false</ShowInPedia>
+			<CombatLimit>0</CombatLimit>
+			<UnitArtInfo>ART_DEF_UNIT__SETTLER</UnitArtInfo>
+			<UnitFlagIconOffset>82</UnitFlagIconOffset>
+			<PortraitIndex>1</PortraitIndex>
+			<IconAtlas>CREENATIONS_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Class>UNITCLASS_NOTIFICATION_CREENATION</Class>
+			<Type>UNIT_NOTIFICATION_CREEJAMES</Type>
+			<Moves>0</Moves>
+			<Cost>-1</Cost>
+			<Description>TXT_KEY_NOTIFICATION_CREEJAMES_TITLE</Description>
+			<ShowInPedia>false</ShowInPedia>
+			<CombatLimit>0</CombatLimit>
+			<UnitArtInfo>ART_DEF_UNIT__SETTLER</UnitArtInfo>
+			<UnitFlagIconOffset>82</UnitFlagIconOffset>
+			<PortraitIndex>2</PortraitIndex>
+			<IconAtlas>CREENATIONS_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Class>UNITCLASS_NOTIFICATION_CREENATION</Class>
+			<Type>UNIT_NOTIFICATION_CREESWAMP</Type>
+			<Moves>0</Moves>
+			<Cost>-1</Cost>
+			<Description>TXT_KEY_NOTIFICATION_CREESWAMP_TITLE</Description>
+			<ShowInPedia>false</ShowInPedia>
+			<CombatLimit>0</CombatLimit>
+			<UnitArtInfo>ART_DEF_UNIT__SETTLER</UnitArtInfo>
+			<UnitFlagIconOffset>82</UnitFlagIconOffset>
+			<PortraitIndex>3</PortraitIndex>
+			<IconAtlas>CREENATIONS_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Class>UNITCLASS_NOTIFICATION_CREENATION</Class>
+			<Type>UNIT_NOTIFICATION_CREEINNU</Type>
+			<Moves>0</Moves>
+			<Cost>-1</Cost>
+			<Description>TXT_KEY_NOTIFICATION_CREEINNU_TITLE</Description>
+			<ShowInPedia>false</ShowInPedia>
+			<CombatLimit>0</CombatLimit>
+			<UnitArtInfo>ART_DEF_UNIT__SETTLER</UnitArtInfo>
+			<UnitFlagIconOffset>82</UnitFlagIconOffset>
+			<PortraitIndex>4</PortraitIndex>
+			<IconAtlas>CREENATIONS_ATLAS</IconAtlas>
+		</Row>
+		<Row>
+			<Class>UNITCLASS_NOTIFICATION_CREENATION</Class>
+			<Type>UNIT_NOTIFICATION_CREEWOODS</Type>
+			<Moves>0</Moves>
+			<Cost>-1</Cost>
+			<Description>TXT_KEY_NOTIFICATION_CREEWOODS_TITLE</Description>
+			<ShowInPedia>false</ShowInPedia>
+			<CombatLimit>0</CombatLimit>
+			<UnitArtInfo>ART_DEF_UNIT__SETTLER</UnitArtInfo>
+			<UnitFlagIconOffset>82</UnitFlagIconOffset>
+			<PortraitIndex>5</PortraitIndex>
+			<IconAtlas>CREENATIONS_ATLAS</IconAtlas>
+		</Row>
+	</Units>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_CREEPLAINSINFO</Type>
+			<Description>TXT_KEY_PROMOTION_CREEPLAINSINFO</Description>
+			<Help>TXT_KEY_PROMOTION_CREEPLAINSINFO_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>0</PortraitIndex>
+			<LostWithUpgrade>false</LostWithUpgrade>
+			<IconAtlas>CREEPROMOTIONS_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PEDIA_PROMOTION_CREEPLAINSINFO</PediaEntry>
+		</Row>
+		<Row>
+			<Type>PROMOTION_CREEWOODSINFO</Type>
+			<Description>TXT_KEY_PROMOTION_CREEWOODSINFO</Description>
+			<Help>TXT_KEY_PROMOTION_CREEWOODSINFO_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>5</PortraitIndex>
+			<LostWithUpgrade>false</LostWithUpgrade>
+			<IconAtlas>CREEPROMOTIONS_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PEDIA_PROMOTION_CREEWOODSINFO</PediaEntry>
+		</Row>
+		<Row>
+			<Type>PROMOTION_CREEJAMESINFO</Type>
+			<Description>TXT_KEY_PROMOTION_CREEJAMESINFO</Description>
+			<Help>TXT_KEY_PROMOTION_CREEJAMESINFO_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>2</PortraitIndex>
+			<LostWithUpgrade>false</LostWithUpgrade>
+			<IconAtlas>CREEPROMOTIONS_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PEDIA_PROMOTION_CREEJAMESINFO</PediaEntry>
+		</Row>
+		<Row>
+			<Type>PROMOTION_CREESWAMPINFO</Type>
+			<Description>TXT_KEY_PROMOTION_CREESWAMPINFO</Description>
+			<Help>TXT_KEY_PROMOTION_CREESWAMPINFO_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>3</PortraitIndex>
+			<LostWithUpgrade>false</LostWithUpgrade>
+			<IconAtlas>CREEPROMOTIONS_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PEDIA_PROMOTION_CREESWAMPINFO</PediaEntry>
+		</Row>
+		<Row>
+			<Type>PROMOTION_CREEINNUINFO</Type>
+			<Description>TXT_KEY_PROMOTION_CREEINNUINFO</Description>
+			<Help>TXT_KEY_PROMOTION_CREEINNUINFO_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>4</PortraitIndex>
+			<LostWithUpgrade>false</LostWithUpgrade>
+			<IconAtlas>CREEPROMOTIONS_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PEDIA_PROMOTION_CREEINNUINFO</PediaEntry>
+		</Row>
+		<Row>
+			<Type>PROMOTION_CREEMETISINFO</Type>
+			<Description>TXT_KEY_PROMOTION_CREEMETISINFO</Description>
+			<Help>TXT_KEY_PROMOTION_CREEMETISINFO_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>1</PortraitIndex>
+			<LostWithUpgrade>false</LostWithUpgrade>
+			<IconAtlas>CREEPROMOTIONS_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PEDIA_PROMOTION_CREEMETISINFO</PediaEntry>
+		</Row>
+	</UnitPromotions>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_NOTIFICATION_CREEPLAINS_TITLE">
+			<Text>Plains Cree</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CREEPLAINSINFO">
+			<Text>Plains Cree Land</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CREEPLAINSINFO_HELP">
+			<Text>Founding a city here will gather members of the Plains Cree nation to this place.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PROMOTION_CREEPLAINSINFO">
+			<Text>To found a Plains Cree city, choose a hex on Plains or Grasslands that is not a Coast and has no access to Forests, Flood Plains, or Marshes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CREEJAMES_TITLE">
+			<Text>James Bay Cree</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CREEJAMESINFO">
+			<Text>James Bay Cree Land</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CREEJAMESINFO_HELP">
+			<Text>Founding a city here will gather members of the James Bay Cree nation to this place.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PROMOTION_CREEJAMESINFO">
+			<Text>To found a James Bay Cree city, choose a hex on a Coast, without access to Forests, Flood Plains, or Marshes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CREEMETIS_TITLE">
+			<Text>Metis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CREEMETISINFO">
+			<Text>Metis Land</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CREEMETISINFO_HELP">
+			<Text>Founding a city here will gather members of the Metis nation to this place.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PROMOTION_CREEMETISINFO">
+			<Text>To found a Metis city, choose a hex in an area that is not preferred by other Cree nations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CREEWOODS_TITLE">
+			<Text>Woodlands Cree</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CREEWOODSINFO">
+			<Text>Woodlands Cree Land</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CREEWOODSINFO_HELP">
+			<Text>Founding a city here will gather members of the Woodlands Cree nation to this place.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PROMOTION_CREEMWOODSINFO">
+			<Text>To found a Woodlands Cree city, choose a hex in an area adjacent to Forest hexes that is not Tundra and has no access to Flood Plains or Marshes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CREEINNU_TITLE">
+			<Text>The Innu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CREEINNUINFO">
+			<Text>Innu Land</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CREEINNUINFO_HELP">
+			<Text>Founding a city here will gather members of the Innu nation to this place.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PROMOTION_CREEINNUINFO">
+			<Text>To found an Innu city, choose a Tundra hex in without access to Flood Plains or Marshes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOTIFICATION_CREESWAMP_TITLE">
+			<Text>Swampy Cree</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CREESWAMPINFO">
+			<Text>Swampy Cree Land</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CREESWAMPINFO_HELP">
+			<Text>Founding a city here will gather members of the Swampy Cree nation to this place.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PROMOTION_CREESWAMPINFO">
+			<Text>To found an Swampy Cree city, choose a hex adjacent to Flood Plains or Marshes.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

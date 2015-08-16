@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/9/2014 9:56:06 AM -->
+<GameData>
+	<Language_en_US>
+		<!--General phrases -->
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_FIRSTGREETING_1">
+			<Text>My name is Pitikwahanapiwiyin, but you can call me Poundmaker. All my friends do.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_FIRSTGREETING_2">
+			<Text>Wisdom is found in the words of our ancestors and in the coming of change. Today, change has come in the form of new faces. Let us be friends.</Text>
+		</Row>
+		<!--Defeated messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_DEFEATED_1">
+			<Text>I must do what I can to attone for any wrongs my people have committed.</Text>
+		</Row>
+		<!-- Human repeats an action too much, gets the following responses -->
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_REPEAT_TOO_MUCH_1">
+			<Text>Your hasty speech is pointless, really.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_REPEAT_TRADE_TOO_MUCH_1">
+			<Text>If you keep changing the terms of our agreement, you will only anger my people.</Text>
+		</Row>
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_GREETING_HOSTILE_HELLO_1">
+			<Text>I fear for you. You would be wise to seek out spiritual guidance from your elders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_GREETING_POLITE_HELLO_1">
+			<Text>It has been good to speak together. Our language is a gift from the Creator, and we shall use it only to speak good of each other and pass on the good things of life.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>I fear for you. You would be wise to seek out spiritual guidance from your elders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_GREETING_HUMAN_AT_WAR_1">
+			<Text>Ahh, it is so good to talk to you. Too bad your war has been using up so much of your time.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>I have counseled my people not to make war on you, but many are angry because of your wickedness. If you cannot curb your armies, how will I stop my people from slaughtering you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>If you continue to buy up every piece of land your greedy eye falls upon, my warriors will soon dispose of you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>If you continue to buy up every piece of land your eye falls upon, soon we will not be able to live together in harmony any longer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>If you continue to take over every siece of land your greedy eye falls upon, my warriors will soon dispose of you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>If you continue to take over every siece of land your eye falls upon, soon we will not be able to live together in harmony any longer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>It's amazing how many of your warriors I have seen today. Truly an awesome sight!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>I am always learning of new trade methods and opportunities among your people. You truly understand the ways of wealth and trade, my friend.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_GREETING_HOSTILE_HUMAN_FEW_CITIES_1">
+			<Text>If I did not know better, I would assume the small size of your nation was the result of a disaster. A disaster other than your leadership, that is.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>I don't understand how your people are so few. Do other nations refuse to ally with you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>You clearly have no respect for life. Your warmongering ways will only bring destruction to the land.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_TOO_SOON_FOR_DOF_1">
+			<Text>This is not wise counsel. I must decline.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_DENOUNCE_1">
+			<Text>I have told all of my people and our allies of your wickedness.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_DENOUNCE_2">
+			<Text>Your ignorance has reached new heights. I have told all who will listen to guard themselves against your evil.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>I see. Even the wicked will appear to be wise, if he lies smoothly enough.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_HUMAN_DOFED_FRIEND_1">
+			<Text>Hey! I'm glad that you are a friend of {1_CivName}. It's a good thing.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_HUMAN_DOFED_ENEMY_1">
+			<Text>Why would you waste your time with {1_CivName}? No good can come of it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>I do not understand why you cannot abide in peace with {1_CivName}. They have always been a friend to me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>Yes, it is wisdom to denounce {1_CivName}'s wicked deeds.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>Because I trust your wisdom, I have also made peace and friendship with {1_CivName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>If {1_CivName} wishes to partake of your wickedness, then so be it. I will tell the world of both your wickedness and that of your allies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>I have heard tell of your stories about {1_CivName}. My people and my allies must hear of their wickedness.</Text>
+		</Row>
+		<!-- General Diplo Text -->
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_COOP_WAR_REQUEST_1">
+			<Text>We need to bind together to face the might of {1_PlayerName:textkey}'s warriors. Can you stand with us?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_COOP_WAR_TIME_1">
+			<Text>It is time for us to rid our lands of {1_PlayerName:textkey}'s forces. You said you would face him with us. Are you ready?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_DEC_FRIENDSHIP_1">
+			<Text>You have proven yourself to be worthy of friendship. Let us be together, and help one another out, so that we may become family.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>I have counseled my people not to make war on you, but some are angry and impulsive. If your army continues to threaten our borders, they will attack.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_PLOT_BUYING_WARNING_1">
+			<Text>If you continue to buy up every piece of land your eye falls upon, soon we will not be able to live together in harmony any longer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>You seem to want to own all of this land. My people have been provoked by your actions, and are in a wild anger!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Your disregard for our lands has provoked my people to anger! I have counseled them not to attack, but I fear that they will not listen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_EXPANSION_WARNING">
+			<Text>A word of caution: my people believe that you covet our lands. This is making some angry.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_RETURNED_CIVILIAN_1">
+			<Text>All of us are a family. I am overjoyed that you have protected one of our children.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_MINOR_CIV_COMPETITION_1">
+			<Text>It is necessary for my people's way of life that you do not seek to supplant us in the eyes of {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_MINOR_CIV_COMPETITION_2">
+			<Text>Be careful, my people value our friendship with {1_MinorCivName:textkey} greatly. They are just like family to us.</Text>
+		</Row>
+		<!--Public Declarations-->
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}. Attacking the City-State will greatly damage relations and may lead to war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_ATTACKED_PROTECTED_CITY_STATEE">
+			<Text>Why would you attack {@1_MinorCivName}? You know we look upon them as brothers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_BULLIED_PROTECTED_CITY_STATE">
+			<Text>Listen, friend. It is unwise to harm {@1_MinorCivName}. They play an important role in the Iron Confederacy.</Text>
+		</Row>
+		<!-- Human is asking the AI for something -->
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_DONT_SETTLE_NO_1">
+			<Text>As much as I wish to come to an agreement regarding land use, there are nations that I must bring into the Iron Confederacy in these lands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_DONT_SETTLE_YES_1">
+			<Text>If I must, I will sign a treaty detailing land use.</Text>
+		</Row>
+		<!--Deal Offers and related-->
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_LUXURY_TRADE_1">
+			<Text>Let us share in the bounty of these beautiful lands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_OPEN_BORDERS_EXCHANGE_1">
+			<Text>Our peoples are like a family, and we should visit, mingle, and marry amongst each other!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_RESPONSE_REQUEST_1">
+			<Text>We need your help. That is what a family does. We help each other.</Text>
+		</Row>
+		<!--AI Attacked by Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_ATTACKED_HOSTILE_1">
+			<Text>This is the path you have chosen? Very well, we will see how you faire against the might of the Iron Confederacy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_ATTACKED_EXCITED_1">
+			<Text>This is the path you have chosen? Very well, we will see how you faire against the might of the Iron Confederacy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_ATTACKED_SAD_1">
+			<Text>This is the path you have chosen? Very well, we will see how you faire against the might of the Iron Confederacy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_ATTACKED_BETRAYED_1">
+			<Text>How does one betray their own family? I will see you crushed by our War Chiefs.</Text>
+		</Row>
+		<!--AI Declaring War on Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_DOW_GENERIC_1">
+			<Text>I counseled my warriors not to attack you, but they would not listen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_DOW_GENERIC_2">
+			<Text>I counseled my warriors not to attack you, but they would not listen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_DOW_LAND_1">
+			<Text>I no longer control my warriors, so brutal has this war become.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_DOW_WORLD_CONQUEST_1">
+			<Text>I no longer control my warriors, so brutal has this war become.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_DOW_OPPORTUNITY_1">
+			<Text>As you can see, my warriors have attacked you. They could not pass up such an easy chance for glory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_DOW_DESPERATE_1">
+			<Text>Our warriors feel that there is no choice but to attack you. In times like this I can only speak of peace, I cannot enforce it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_DOW_BETRAYAL_1">
+			<Text>>I cannot believe that this would happen! Hold me responsible for this war.</Text>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_TOO_SOON_NO_PEACE_1">
+			<Text>A wise man does not sue for peace while blood still drips from his weapons..</Text>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_BAD_1">
+			<Text>No? Perhaps later, then.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_GOOD_1">
+			<Text>Excellent!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

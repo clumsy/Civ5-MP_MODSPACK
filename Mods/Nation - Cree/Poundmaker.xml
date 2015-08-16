@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/9/2014 9:40:48 AM -->
+<GameData>
+	<Leaders>
+		<Row>
+			<Type>LEADER_CREEPOUNDMAKER</Type>
+			<Description>TXT_KEY_LEADER_CREEPOUNDMAKER</Description>
+			<Civilopedia>TXT_KEY_LEADER_CREEPOUNDMAKER_PEDIA</Civilopedia>
+			<CivilopediaTag>TXT_KEY_CIVILOPEDIA_LEADERS_CREEPOUNDMAKER</CivilopediaTag>
+			<ArtDefineTag>CreePoundmakerScene.xml</ArtDefineTag>
+			<VictoryCompetitiveness>6</VictoryCompetitiveness>
+			<WonderCompetitiveness>4</WonderCompetitiveness>
+			<MinorCivCompetitiveness>6</MinorCivCompetitiveness>
+			<Boldness>7</Boldness>
+			<DiploBalance>6</DiploBalance>
+			<WarmongerHate>4</WarmongerHate>
+			<WorkAgainstWillingness>4</WorkAgainstWillingness>
+			<WorkWithWillingness>4</WorkWithWillingness>
+			<DenounceWillingness>6</DenounceWillingness>
+			<DoFWillingness>4</DoFWillingness>
+			<Loyalty>9</Loyalty>
+			<Neediness>6</Neediness>
+			<Forgiveness>7</Forgiveness>
+			<Chattiness>3</Chattiness>
+			<Meanness>3</Meanness>
+			<PortraitIndex>1</PortraitIndex>
+			<!-- Not right-->
+			<IconAtlas>THECREEFIRSTNATION_ATLAS</IconAtlas>
+			<PackageID/>
+		</Row>
+	</Leaders>
+	<Leader_MajorCivApproachBiases>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_WAR</MajorCivApproachType>
+			<Bias>4</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_HOSTILE</MajorCivApproachType>
+			<Bias>4</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_DECEPTIVE</MajorCivApproachType>
+			<Bias>2</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_GUARDED</MajorCivApproachType>
+			<Bias>8</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_AFRAID</MajorCivApproachType>
+			<Bias>2</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_FRIENDLY</MajorCivApproachType>
+			<Bias>4</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_NEUTRAL</MajorCivApproachType>
+			<Bias>7</Bias>
+		</Row>
+	</Leader_MajorCivApproachBiases>
+	<Leader_MinorCivApproachBiases>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_IGNORE</MinorCivApproachType>
+			<Bias>4</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_FRIENDLY</MinorCivApproachType>
+			<Bias>7</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_PROTECTIVE</MinorCivApproachType>
+			<Bias>7</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_CONQUEST</MinorCivApproachType>
+			<Bias>3</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_BULLY</MinorCivApproachType>
+			<Bias>3</Bias>
+		</Row>
+	</Leader_MinorCivApproachBiases>
+	<Leader_Flavors>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<FlavorType>FLAVOR_RECON</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<FlavorType>FLAVOR_RANGED</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<FlavorType>FLAVOR_MOBILE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_RECON</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_GROWTH</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_TILE_IMPROVEMENT</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<FlavorType>FLAVOR_AIR</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<FlavorType>FLAVOR_TILE_IMPROVEMENT</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<FlavorType>FLAVOR_INFRASTRUCTURE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>9</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+			<Flavor>9</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<FlavorType>FLAVOR_DIPLOMACY</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<FlavorType>FLAVOR_SPACESHIP</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<FlavorType>FLAVOR_WATER_CONNECTION</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<FlavorType>FLAVOR_NUKE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<FlavorType>FLAVOR_USE_NUKE</FlavorType>
+			<Flavor>1</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<FlavorType>FLAVOR_ESPIONAGE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<FlavorType>FLAVOR_ANTIAIR</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<FlavorType>FLAVOR_AIR_CARRIER</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<FlavorType>FLAVOR_ARCHAEOLOGY</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<FlavorType>FLAVOR_I_LAND_TRADE_ROUTE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<FlavorType>FLAVOR_I_SEA_TRADE_ROUTE</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<FlavorType>FLAVOR_I_TRADE_ORIGIN</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<FlavorType>FLAVOR_I_TRADE_DESTINATION</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<FlavorType>FLAVOR_AIRLIFT</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+	</Leader_Flavors>
+	<Leader_Traits>
+		<Row>
+			<LeaderType>LEADER_CREEPOUNDMAKER</LeaderType>
+			<TraitType>TRAIT_THEIRONCONFED</TraitType>
+		</Row>
+	</Leader_Traits>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER">
+			<Text>Poundmaker</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CREEPOUNDMAKER_PEDIA">
+			<Text>Poundmaker (Pitikwahanapiwiyin) was a great Cree chief well honored for his wisdom in dealing with the Canadian government in the colonial era. Raised by the great Blackfoot chief Crowfoot, Poundmaker was also instrumental for bringing peace between the Cree and their traditional enemies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CREEPOUNDMAKER_HEADING_1">
+			<Text>Poundmaker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CREEPOUNDMAKER_NAME">
+			<Text>Poundmaker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CREEPOUNDMAKER_SUBTITLE">
+			<Text>Cree Peace Chief</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CREEPOUNDMAKER_TEXT_1">
+			<Text>Pitikwahanapiwiyin was a Plains Cree peace chief during the greatest time of challenge for the Cree people. He was called Poundmaker because of his skill in capturing Bison. It's not immediately clear why he was called Poundmaker. Some sources claim that Poundmaker gained the name because of his skill in creating pounds, traps designed to capture the massive beasts, but it may a more historically accurate version may be that Poundmaker's skill in playing the flute was believed to magically entrance and attract Bison, working as a magical pound.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CREEPOUNDMAKER_HEADING_2">
+			<Text>Early Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CREEPOUNDMAKER_TEXT_2">
+			<Text>The Blackfoot Confederacy was once the steadfast ally of the Cree people. But by the time of Poundmaker's birth, enmity between the Cree and the Gros Ventures people, who were members of the Blackfoot Confederacy, had escalated into full-out war. When the Gros Ventures left the Blackfoot Confederacy, the Blackfoot peace chief Crowfoot chose to adopt a son from among the Cree in order to bring peace back to the two Confederacies. That child was Poundmaker.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CREEPOUNDMAKER_HEADING_3">
+			<Text>Life with the Blackfoot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CREEPOUNDMAKER_TEXT_3">
+			<Text>Life as a peace child is never easy, but Poundmaker appears to have excelled in the role. He grew in stature and favor with the Blackfoot, gaining the name Poundmaker and the respect of his former enemies. As a young man, he returned to the Cree and brought with him peace and allegience between the Cree and the Blackfoot. The two Confederacies were bound together again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CREEPOUNDMAKER_HEADING_4">
+			<Text>Negotiating in a time of crisis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CREEPOUNDMAKER_TEXT_4">
+			<Text>As the Cree faced starvation as the Bison dwindled, Poundmaker had grown into the most influential chief of all the Cree. He proved to be a great negotiator. However, with smallpox devestating the past and starvation looming in the future, Poundmaker was forced to act quickly and under a great deal of pressure when signing treaties with the Canadian government. This created a lot of conflict within Poundmaker's own people, especially his warriors.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CREEPOUNDMAKER_HEADING_5">
+			<Text>War with Canada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CREEPOUNDMAKER_TEXT_5">
+			<Text>Despite being the Grand Chief of the Iron Confederacy, Poundmaker did not demard complete obedience from his people, the way a European Emperor or King might. Therefore, even when Poundmaker forbid his warriors from attacking the Canadians and pushed for peaceful coexistance, his people grew more and more frustrated. As the promised Canadian aid was delayed again and again, tensions reached a breaking point. Some of Poundmaker's warriors attacked and killed Canadians, and war was on. The Canadians retaliated in force, and Poundmaker was left with a terrible choice.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CREEPOUNDMAKER_HEADING_6">
+			<Text>The Peace Chief</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CREEPOUNDMAKER_TEXT_6">
+			<Text>Among the Plains peoples of what is now Canada, a peace chief is an elected representative who works to do whatever is necessary to keep peace for the Cree and to keep wars from endangering the nation's survival. As peace chief, Poundmaker faced the greatest threat to Cree peace ever, the angry Canadian military. War during the time of starvation would be disastrous, but Poundmaker's warriors had killed Canadians. Peace seemed impossible.[NEWLINE][NEWLINE]Knowing that the Canadians assumed that as Grand Chief, Poundmaker would have power over all the Cree, Poundmaker faced a great dillema. If he called out the killers as rebels or renegades, Poundmaker would in essence blame the Cree people as a whole for the conflict. On the other hand, if the Cree were to accept responsibility for the warriors' actions, it might spell complete annihilation.[NEWLINE][NEWLINE]In a brilliant diplomatic decision, Poundmaker chose to tell the Canadians that the killer warriors acted on his -- and only his -- behest. He then surrendered to the Canadians and was incarcerated. As a result of his quick thinking and firm resolve, the Cree stayed as allies with the Canadians. Poundmaker would soon die in a Canadian jail, but the Cree would live on.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CREEPOUNDMAKER_TITLES_1">
+			<Text>Chief</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CREEPOUNDMAKER_LIVED">
+			<Text>1842 - 1886</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
