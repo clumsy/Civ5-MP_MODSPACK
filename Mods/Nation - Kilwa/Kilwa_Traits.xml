@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_MC_SWAHILI_TRADERS</Type>
+			<Description>TXT_KEY_TRAIT_MC_SWAHILI_TRADERS</Description>
+			<ShortDescription>TXT_KEY_TRAIT_MC_SWAHILI_TRADERS_SHORT</ShortDescription>
+		</Row>
+	</Traits>
+	<Trait_SpecialistYieldChanges>
+		<Row>
+			<TraitType>TRAIT_MC_SWAHILI_TRADERS</TraitType>
+			<SpecialistType>SPECIALIST_MERCHANT</SpecialistType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Trait_SpecialistYieldChanges>
+</GameData>

@@ -1482,6 +1482,10 @@ ContextPtr:LoadNewContext("Gunstock")
 ContextPtr:LoadNewContext("SabtuanLua")
 ContextPtr:LoadNewContext("CityInfoStack")
 
+-- Nation - Kilwa --
+ContextPtr:LoadNewContext("CityStatePopupGoldChanges")
+ContextPtr:LoadNewContext("JFD_KilwaFunctions")
+
 -- Nation - Xia --
 ContextPtr:LoadNewContext("Xia Mod Check")
 ContextPtr:LoadNewContext("XiaDynastyPopup")

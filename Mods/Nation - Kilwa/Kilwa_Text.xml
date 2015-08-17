@@ -1,0 +1,335 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<Language_en_US>
+		<!--Unique Building-->
+		<Row Tag="TXT_KEY_BUILDING_MC_SWAHILI_CORAL_PORT">
+			<Text>Coral Port</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_SWAHILI_CORAL_PORT_HELP">
+			<Text>+5% [ICON_FOOD] Food for every International Trade Route departing the city (up to 20%).[NEWLINE][NEWLINE]Forms a [ICON_CONNECTED] City Connection with the [ICON_CAPITAL] Capital over water (if they're not already [ICON_CONNECTED] connected by land). Sea trade routes originating from this city have a 50% increase in range and produce an additional 2 [ICON_GOLD] Gold when connecting to another civilization. Trade routes other players make to a city with a Coral Port will generate an extra 2 [ICON_GOLD] Gold for both civilizations in the trade route.[NEWLINE][NEWLINE]City must be built on the coast.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_SWAHILI_CORAL_PORT_STRATEGY">
+			<Text>The Coral Port, the Kilwa replacement for the Harbor, is a Medieval-era building that establishes "water routes" between cities and increases a city's [ICON_FOOD] Food output by 5% for every International Trade Route departing the city (up to 15%). Additionally, it increases the amount of gold generated from international trade routes from and to the city and it possesses a Merchant specialist slot.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_SWAHILI_CORAL_PORT_PEDIA">
+			<Text>The Kilwa Sultanate was almost wholly dependent on external commerce. Effectively, it was a confederation of urban settlements; there was little or no agriculture carried on in within the boundaries of the sultanate. Grains (principally millet and rice), meats (cattle, poultry) and other necessary supplies to feed the large city populations had to be purchased from the Bantu peoples of the interior. Kilwa traders from the coast encouraged the development of market towns in the Bantu-dominated highlands of what are now Kenya, Tanzania, Mozambique and Zimbabwe.[NEWLINE][NEWLINE]The Kilwa mode of living was as middlemen traders, importing manufactured goods (cloth, etc.) from Arabia and India, which were then swapped in the highland market towns for Bantu-produced agricultural commodities (grain, meats) for their own subsistence and precious raw materials (gold, ivory, etc.) which they would export back to Asia. The Kilwa Sultanate conducted extensive trade with Arabia, Persia, and across the Indian Ocean, to India itself.[NEWLINE][NEWLINE]Coral Stone decorated by imported Islamic tiles provided the core architectural motif of these Swahili trading cities, which then served as a cultural melting-pot between Indian, Arabic, Persian, and Bantu culture.</Text>
+		</Row>
+		<!--Unique Unit-->
+		<Row Tag="TXT_KEY_UNIT_MC_SWAHILI_DHOW">
+			<Text>Dhow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_SWAHILI_DHOW_HELP">
+			<Text>Fast Medieval exploration Unit that can heal outside of friendly territory. Only Kilwa may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_SWAHILI_DHOW_STRATEGY">
+			<Text>The Dhow, the Kilwa replacement for the Caravel, is a significant upgrade to a civilization's exploration capabilities. As a Medieval era unit, it grants an appreciable leg up in naval exploration against all civilizations except Polynesia. It is also both faster and cheaper to produce than the standard Caravel. Keep in mind, however, that the Dhow is significantly weaker than the standard Caravel. To compensate, the Dhow starts with the "Supply" promotion, increasing the ship's healing capabilities despite its reduced combat strength.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MC_SWAHILI_DHOW_TEXT">
+			<Text>Dhow is the generic name of a number of traditional sailing vessels with one or more masts with lateen sails used in the Red Sea and Indian Ocean region. Historians are divided as to whether the dhow was invented by Arabs. Typically sporting long thin hulls, dhows are trading vessels primarily used to carry heavy items, like fruit, fresh water or merchandise, along the coasts of the Arabian Peninsula, Pakistan, India, Bangladesh and East Africa. Larger dhows have crews of approximately thirty, smaller ones typically around twelve.[NEWLINE][NEWLINE]Kilwa merchant ships (from the large lateen-rigged dhows that ploughed the open oceans to the small zambucs used for local transit) were usually built from the split trunks of coconut palm wood, their sails made from coconut leaf matting and the ships held together by coconut coir.[NEWLINE][NEWLINE]Kilwa ships made use of the seasonal monsoon winds to sail across to India in the summer, and back to Africa in the winter. Kilwa pilots had a reputation for extraordinary sailing accuracy. Kilwa pilots had a reputation for extraordinary sailing accuracy. The Portuguese marveled at their navigational instruments, particularly their latitude staves, which they considered superior to their own. Nonetheless, the coir-sewn Kilwa ships were not seaworthy enough to brave the treacherous waters and unpredictable violent gusts around Cape Correntes, so the entire region south of that point was rarely sailed by Kilwa merchants. Inhambane was the most southerly settlement that can be considered part of the Kilwa trading empire.</Text>
+		</Row>
+		<!--Unique Ability-->
+		<Row Tag="TXT_KEY_TRAIT_MC_SWAHILI_TRADERS_SHORT">
+			<Text>Swahili Traders</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_MC_SWAHILI_TRADERS">
+			<Text>Increased [ICON_GOLD] Gold bonus for meeting a City-State (bonus enhanced if first and after discovering Guilds). +1 [ICON_FOOD] Food from Merchant specialists.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_KILWA">
+			<Text>MC: Swahili Traders</Text>
+		</Row>
+		<!--Spy Names-->
+		<Row Tag="TXT_KEY_SPY_NAME_MC_KILWA_0">
+			<Text>Daud</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_KILWA_1">
+			<Text>Talut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_KILWA_2">
+			<Text>Sabhat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_KILWA_3">
+			<Text>Khalid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_KILWA_4">
+			<Text>Al-Fudail</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_KILWA_5">
+			<Text>Adilah</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_KILWA_6">
+			<Text>Kamaria</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_KILWA_7">
+			<Text>Sanaa</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_KILWA_8">
+			<Text>Hasana</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_KILWA_9">
+			<Text>Taariq</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--Civ Name-->
+		<Row Tag="TXT_KEY_MC_KILWA_DESC">
+			<Text>Kilwa Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_KILWA_SHORT_DESC">
+			<Text>Kilwa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_KILWA_ADJECTIVE">
+			<Text>Swahili</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_KILWA">
+			<Text>Kilwa</Text>
+		</Row>
+		<!--Civilopedia-->
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_KILWA_TITLE">
+			<Text>Kilwa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_KILWA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_KILWA_TEXT_1">
+			<Text>The Kilwa Sultanate was a Medieval sultanate, centered at Kilwa (in modern-day Tanzania), whose authority, at its height, stretched over the entire length of the Swahili Coast. It was founded in the 10th century by Ali ibn al-Hassan Shirazi, a Persian prince of Shiraz. The Kilwa Sultanate represented a massive maritime trading empire, trading with Arabia, Persia, and across the Indian Ocean, to India itself.[NEWLINE][NEWLINE]Despite its origin as a Persian colony, extensive inter-marriage and conversion of local Bantu inhabitants and later Arab immigration turned the Kilwa Sultanate into a veritable melting pot, ethnically indifferentiable from the mainland. The mixture of Perso-Arab and Bantu cultures is credited for creating a distinctive East African culture and language known today as Swahili (literally, "coast-dwellers"). By 1513, the sultanate was already fragmented into smaller states, many of which became protectorates of the Sultanate of Oman.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_KILWA_HEADING_2">
+			<Text>Climate and Terrain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_KILWA_TEXT_2">
+			<Text>The Swahili Coast refers to the coastal area of East Africa inhabited by the Swahili people, mainly Kenya, Tanzania, and north Mozambique, as well as the islands of Zanzibar, Pate or Comoros. The island of Kilwa Kisiwani, much like mainland Tanzania, has a tropical climate with migrating season rainfalls. Local fauna includes the hippo, crocodile, sea turtle, as well as the elusive dugong. Mangrove forests are plentiful as well as extensive coral reefs of the island's shores.[NEWLINE][NEWLINE]Seasonal monsoon winds aided Kilwa sailors reach India during the summer, and back to Africa during the winter. However, the coir-sewn Kilwan ships were not seaworthy enough to brave the treacherous waters and unpredictable violent gusts around Cape Correntes, so the entire region south of that point was rarely sailed by Kilwan merchants. Inhambane was the most southerly settlement that can be considered part of the Kilwan trading empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_KILWA_HEADING_3">
+			<Text>Origins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_KILWA_TEXT_3">
+			<Text>The story of Kilwa begins around 960-1000 AD. Ali ibn al-Hassan Shirazi was one of seven sons of a ruler of Shiraz, Persia, his mother an Abyssinian slave. Upon his father's death, Ali was driven out of his inheritance by his brothers. Setting sail out of Hormuz, Ali ibn al-Hassan, his household, and a small group of followers first made their way to Mogadishu, the main commercial city of the East African coast. However, Ali failed to get along with the city's Somali elite and he was soon driven out of that city as well.[NEWLINE][NEWLINE]Steering down the African coast, Ali is said to have purchased the island of Kilwa from the local Bantu inhabitants. According to one chronicle, Kilwa was originally owned by a mainland Bantu king 'Almuli' and connected by a small land bridge to the mainland that appeared in low tide. The king agreed to sell it to Ali ibn al-Hassan for as much colored cloth as could cover the circumference of the island. But when the king later changed his mind, and tried to take it back, the Persians had dug up the land bridge, and Kilwa was now an island.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_KILWA_HEADING_4">
+			<Text>The Sultanate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_KILWA_TEXT_4">
+			<Text>Kilwa's fortuitous position made it a much better East African trade center than Mogadishu. It quickly began to attract many merchants and immigrants from further north, including Persia and Arabia. In just a few years, the colony was big enough to establish a satellite settlement at nearby Mafia Island.[NEWLINE][NEWLINE]Kilwa's emergence as a commercial center challenged the dominance once held by Mogadishu over the East African coast. Suleiman Hassan, the ninth successor of Ali (and 12th ruler of Kilwa, ca. 1178-1195), wrested control of the southerly city of Sofala. Wealthy Sofala was the principal entrepot for the gold and ivory trade with Great Zimbabwe and Monomatapa in the interior. The acquisition of Sofala brought a windfall of gold revenues to the Kilwa Sultans, which allowed them to finance their expansion and extend their powers all along the East African coast.[NEWLINE][NEWLINE]At the zenith of its power in the 15th century, the Kilwa Sultanate owned or claimed overlordship over the mainland cities of Malindi, Inhambane and Sofala and the island-states of Mombassa, Pemba, Zanzibar, Mafia, Comoro and Mozambique; essentially what is now often referred to as the "Swahili Coast".[NEWLINE][NEWLINE]Kilwa also claimed lordship across the channel over the myriad of small trading posts scattered on the coast of Madagascar (then known by its Arabic name as 'Island of the Moon '). To the north, Kilwa's power was checked by the independent Somali city-states of Barawa (a self-ruling aristocratic republic) and Mogadishu (the once-dominant city, Kilwa's main rival). To the south, Kilwa's reach extended as far as Cape Correntes.[NEWLINE][NEWLINE]While a single figure, the Sultan of Kilwa, stood at the top of the hierarchy, the Kilwa Sultanate was not a centralized state. It was more a confederation of commercial cities, each with its own internal elite, merchant communities and trade connections. The Sultan might appoint a governor or overseer, but even his authority was not consistent. In some places (e.g. outposts like Mozambique Island) he was a true governor in the Sultan's name, whereas in more established cities like Sofala, his powers were much more limited, more akin to an ambassador to the city than its governor.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_KILWA_HEADING_5">
+			<Text>Society and Economy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_KILWA_TEXT_5">
+			<Text>Despite Kilwa's status as a melting-pot of Arab, Persian and Bantu cultures, the Muslims of Kilwa (whatever their ethnicity) would often refer to themselves generally as Shirazi or Arabs, and to the unconverted Bantu peoples of the mainland as Zanj or Khaffirs ("infidels", later adopted as a racial epithet by European settlers).[NEWLINE][NEWLINE]The Kilwa Sultanate was almost wholly dependent on external commerce. Effectively, it was a confederation of urban settlements, there was little or no agriculture carried on in within the boundaries of the sultanate. Grains (principally millet and rice), meats (cattle, poultry) and other necessary supplies to feed the large city populations had to be purchased from the Bantu peoples of the interior. Kilwan traders from the coast encouraged the development of market towns in the Bantu-dominated highlands of what are now Kenya, Tanzania, Mozambique and Zimbabwe. The Kilwan mode of living was as middlemen traders, importing manufactured goods (cloth, etc.) from Arabia and India, which were then swapped in the highland market towns for Bantu-produced agricultural commodities (grain, meats) for their own subsistence and precious raw materials (gold, ivory, etc.) which they would export back to Asia.[NEWLINE][NEWLINE]The exception was the coconut palm tree. Grown all along the coast, the coconut palm was the mainstay of Kilwan life in every way; not only for the fruit, but also for timber, thatching and weaving. Kilwan merchant ships (from the large lateen-rigged dhows that ploughed the open oceans to the small zambucs used for local transit) were usually built from the split trunks of coconut palm wood, their sails made from coconut leaf matting and the ships held together by coconut coir.[NEWLINE][NEWLINE]The Kilwa Sultanate conducted extensive trade with Arabia, Persia, and across the Indian Ocean, to India itself. Kilwan ships made use of the seasonal monsoon winds to sail across to India in the summer, and back to Africa in the winter. Kilwan pilots had a reputation for extraordinary sailing accuracy. The Portuguese marveled at their navigational instruments, particularly their latitude staves, which they considered superior to their own.[NEWLINE][NEWLINE]Nonetheless, the coir-sewn Kilwan ships were not seaworthy enough to brave the treacherous waters and unpredictable violent gusts around Cape Correntes, so the entire region south of that point was rarely sailed by Kilwan merchants. Inhambane was the most southerly settlement that can be considered part of the Kilwan trading empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_KILWA_HEADING_6">
+			<Text>Succession Woes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_KILWA_TEXT_6">
+			<Text>In its later years, the Sultans of Kilwa began falling into the hands of their ambitious ministers (viziers and emirs), who played the roles of kingmakers, and de facto rulers, occasionally tried to foist themselves (or one of their family members) on the throne, in competition with the royal dynasty. The most successful was probably Emir Muhammad Kiwabi, who ruled Kilwa for nearly two decades through several sultans, including himself at one point.[NEWLINE][NEWLINE]Throughout his long 'reign', Emir Muhammad fought an on-again and off-again battle with his nephew, Hassan ibn Suleiman (son of an earlier vizier). Muhammad had, in fact, tried to install Hassan as sultan a couple of times, but it met tremendous resistance from the population of Kilwa. Eventually, Emir Muhammad decided that, in the interests of constitutional propriety and civic peace, Kilwa sultans should always come from the royal dynasty, not families of viziers. Muhammad held that line more-or-less down to the end, thwarting Hassan's ambitions.[NEWLINE][NEWLINE]The last sultan installed by Emir Muhammad before his death was the royal prince al-Fudail ibn Suleiman in 1495. The man who succeeded to Muhammad's post, Emir Ibrahim, helped al-Fudail crush the ambitious Hassan once and for all in a great battle outside Kilwa. But it was not long after this battle that Emir Ibrahim is said to have betrayed and murdered sultan al-Fudail. Rather than declare himself sultan, Ibrahim took power merely with the title of emir, and claimed to be exercising rule in the name of a son of an earlier sultan Suleiman of the old royal dynasty. That no one had seen or heard of this absent prince for years was quite convenient for Emir Ibrahim.[NEWLINE][NEWLINE]Emir Ibrahim's usurpation was met with shock not only in Kilwa, but in the vassal cities as well. Emir Muhammad had (belatedly) recognized the importance of constitutional propriety for peace in the Kilwa Sultanate. Emir Ibrahim's murderous coup had run roughshod over it. Most of the local governors of the Kilwa vassal cities, many who were either relatives or had owed their positions to Emir Muhammad and the royal dynasty, refused to acknowledge the usurpation of Emir Ibrahim, and began charting an independent course for their own city-states. The writ of Emir Ibrahim probably only covered the city of Kilwa itself and possibly Mozambique Island.[NEWLINE][NEWLINE]This was more or less the condition of the Kilwa Sultanate when the Portuguese arrived.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_KILWA_HEADING_7">
+			<Text>The Portuguese</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_KILWA_TEXT_7">
+			<Text>Portuguese scout Pero da Covilha, disguised as an Arab merchant, had travelled the length of the Kilwa Sultanate in 1489-90, and visited the ports of Malindi, Kilwa and Sofala, and delivered his scouting report back to Lisbon, describing the condition of the Kilwa Sultanate in quite some detail. The first Portuguese ships, under Vasco da Gama, on their way to India, reached the sultanate in 1497. Gama made contact with the Kilwa vassals of Mozambique, Mombassa and Malindi, seeking to secure their cooperation as staging posts for the Portuguese India Armadas.[NEWLINE][NEWLINE]In 1500, the 2nd Portuguese India Armada, under Pedro Álvares Cabral, visited Kilwa itself, and attempted to negotiate a commercial and alliance treaty with Emir Ibrahim. But the emir prevaricated and no agreement was reached.[NEWLINE][NEWLINE]The well-armed Fourth Armada of 1502, under Vasco da Gama again, came in a more mean-spirited mood, indisposed to take no for an answer. Having secured separate treaties with Malindi, Mozambique and all-important Sofala, the Portuguese brought their menacing fleet to bear on Kilwa itself, and extorted a sizeable tribute from emir Ibrahim.[NEWLINE][NEWLINE]Some have speculated whether Emir Ibrahim missed a golden opportunity to restore his fortunes, that had a treaty with Cabral been reached back in 1500, he might have secured the assistance of the Portuguese navy in bringing the half-independent vassals back under his sway. At least one Kilwan nobleman, a certain Muhammad ibn Rukn ad Din, certainly advised Emir Ibrahim to strike up an alliance with the Portuguese.[NEWLINE][NEWLINE]As it turns out, the vassals used the Portuguese, one by one, to secure their permanent break from the Sultanate. The ruler of Malindi was the first to embrace the Portuguese, forging an alliance in 1497. After Emir Ibrahim's coup, it was certainly not hard to persuade the ruling sheikh Isuf of Sofala to break away. He signed a treaty with the Portuguese in 1502, and followed it up by allowing the construction of a Portuguese factory and fort in Sofala in 1505.[NEWLINE][NEWLINE]It was in 1505 that Francisco de Almeida brought his fleet into the harbor of Kilwa, and landed some 500 Portuguese soldiers to drive Emir Ibrahim out of the city. Almeida installed the aforementioned Muhammad Arcone on the throne, as a Portuguese vassal. Remembering constitutional proprieties, Arcone insisted that Micante, the son of the late sultan al-Fudail be his designated successor. The Portuguese erected a fortress (Fort Santiago) on Kilwa and left a garrison behind, under the command of Pedro Ferreira Fogaça to keep an eye on things.[NEWLINE][NEWLINE]Portuguese rule was not very welcome. Particularly grating was the imposition of Portuguese Mercantilist laws on the sultanate, forbidding all but Portuguese ships to carry trade to the principal coastal towns (essentially putting many leading Kilwan merchants out of business).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_KILWA_HEADING_8">
+			<Text>End of the Sultanate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_KILWA_TEXT_8">
+			<Text>The Portuguese did not stay very long. In May, 1506, Muhammad Arcone was lured and assassinated by the Sheikh of Tirendicunde (a relative of Emir Ibrahim). As per the pre-arranged succession rule, Micante ascended to the throne. But Fogaça, seeing that Micante's ascension was supported by the old faction of Emir Ibrahim, concluded he would not do as a Portuguese puppet. Consequently, he deposed Micante and installed Hussein ibn Muhammad, a son of Arcone, as the new sultan.[NEWLINE][NEWLINE]Chaos broke out in the city of Kilwa. Partisans of Micante (and Emir Ibrahim) seized control of much of the city, driving sultan Hussein (and the partisans of Arcone) to seek refuge by the Portuguese Fort Santiago. Street fighting and soon fires broke out. In the chaos, streams of Kilwa residents fled the city, leaving it practically deserted, save for a handful of roving partisan gangs and the terrified Portuguese garrison.[NEWLINE][NEWLINE]Hearing of the Kilwa chaos all the way in India, the Portuguese vice-roy Almeida dispatched a magistrate Nuno Vaz Pereira, to inquire into the matter. Arriving in late 1506, Pereira convened the competing sultans Micante and Hussein, and asked them present their cases. Pereira ruled in favor of Hussein, confirming him as sultan, but softened the blow by relieving the unpopular commander Fogaça and lifting the mercantilist restrictions on Kilwa shipping.[NEWLINE][NEWLINE]The Kilwa refugees returned and a modicum of peace resumed, but only briefly. For Hussein put it in his head to lead the Kilwa army against Tirendicunde, to avenge his father's murder. The town was brutally sacked, and numerous prisoners taken. Hussein then dispatched emissaries to all the vassal cities of the Kilwa Sultanate, ordering them to return to obedience, or else meet the same fate.[NEWLINE][NEWLINE]Fearing that Hussein's spate of tyranny might jeopardize Portuguese interests in East Africa, vice-roy Almeida reversed Pereira's decision, deposed Hussein and reinstated Micante. The city regained some of its earlier prosperity, but in 1784 it came under the rule of the Omani rulers of Zanzibar. After the Omani conquest, the French built and manned a fort at the northern tip of the island, but the city itself was abandoned in the 1840s.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_KILWA_STATBOX">
+			<Text>[NEWLINE]        Leader: Ali ibn al-Hassan[NEWLINE]        Unique Unit: Dhow[NEWLINE]        Unique Building: Coral Port[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_KILWA_FACTOID_HEADING">
+			<Text>Kilwa Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_KILWA_FACTOID_TEXT">
+			<Text>The Great Mosque of Kilwa, a congregational mosque on the island of Kilwa Kisiwani, was originally carved almost entirely from coral stone. The structure, which was entirely roofed, was also perhaps one of the first mosques to have been built without a courtyard.[NEWLINE][NEWLINE]The earliest known documents written in Swahili are letters written in Kilwa in 1711, in the Arabic script. They were sent to the Portuguese of Mozambique and their local allies.</Text>
+		</Row>
+		<!--City list-->
+		<Row Tag="TXT_KEY_CITY_NAME_MC_KILWA_MC_KILWA_KISWANI">
+			<Text>Kilwa Kiswani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_KILWA_ZANZIBAR">
+			<Text>Zanzibar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_KILWA_MOMBASA">
+			<Text>Mombasa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_KILWA_MALINDI">
+			<Text>Malindi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_KILWA_SOFALA">
+			<Text>Sofala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_KILWA_PEMBA">
+			<Text>Pemba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_KILWA_MOZAMBIKI">
+			<Text>Mozambique</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_KILWA_MOGADISHU">
+			<Text>Mogadishu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_KILWA_LAMU">
+			<Text>Lamu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_KILWA_MAHAJANGA">
+			<Text>Mahajanga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_KILWA_ANTSIRANANA">
+			<Text>Antsiranana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_KILWA_KISMAOYO">
+			<Text>Kismaoyo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_KILWA_MZIZIMA">
+			<Text>Mzizima</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_KILWA_INHAMBANE">
+			<Text>Inhambane</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_KILWA_MAFIA">
+			<Text>Mafia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_KILWA_COMORO">
+			<Text>Comoro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_KILWA_SONGO_MNARA">
+			<Text>Songo Mnara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_KILWA_BAZARULA">
+			<Text>Bazarula</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_KILWA_CHILANE">
+			<Text>Chilane</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_KILWA_PRIMEIRAS">
+			<Text>Primeiras</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_KILWA_ANGOSHA">
+			<Text>Angosha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_KILWA_MAYOTTA">
+			<Text>Mayotta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_KILWA_JOHANNA">
+			<Text>Anzwani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_KILWA_KERIMBA">
+			<Text>Kerimba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_KILWA_MOHILLA">
+			<Text>Mohilla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_KILWA_PATE">
+			<Text>Pate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_KILWA_GEDI">
+			<Text>Gedi</Text>
+		</Row>
+		<!-- Leader Civlopedia Text -->
+		<Row Tag="TXT_KEY_LEADER_MC_AL_HASSAN_DESC">
+			<Text>Ali ibn al-Hassan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AL_HASSAN_LIVED">
+			<Text>c. 10th Century</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AL_HASSAN_NAME">
+			<Text>Ali ibn al-Hassan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AL_HASSAN_SUBTITLE">
+			<Text>Leader of Kilwa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AL_HASSAN_TITLES_1">
+			<Text>Founder of the Kilwa Sultanate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AL_HASSAN_TITLES_2">
+			<Text>Sultan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AL_HASSAN_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AL_HASSAN_TEXT_1">
+			<Text>Ali ibn al-Hassan of the house Shirazi was the founder of the Kilwa Sultanate. Although historical records concerning the history of Kilwa in general are scant, Ali ibn al-Hassan is portrayed as a cunning and pious sultan firmly establishing and fortifying the maritime nation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AL_HASSAN_HEADING_2">
+			<Text>Early Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AL_HASSAN_TEXT_2">
+			<Text>Ali began his life as one of seven sons to Al-Hassan, the Emir of Shiraz in Persia. He and his brothers lived with the Emir and their mother, a captured Abyssinian slave. However, the death of the Emir saw the brothers fight each other for the contention of their inheritance, driving Ali out on his own.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AL_HASSAN_HEADING_3">
+			<Text>Journey by Sea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AL_HASSAN_TEXT_3">
+			<Text>The contest forced Ali, his household, and his followers to set sail in search of a new home. Departing from Hormuz, the fleet left Persia down the African coast to find such a place. The trek itself was largely uneventful - a stop in the city of Mogadishu went badly for Ali and he was driven out of a city a second time. The convoy continued down the east coast until they arrived at a small island south of Zanzibar just beyond Mafia Island.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AL_HASSAN_HEADING_4">
+			<Text>The Island of Kilwa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AL_HASSAN_TEXT_4">
+			<Text>Ali was met by the local Bantu and their king Almuli where Shirazi intended to purchase the land and make it the new home for his people. Almuli brokered the purchase by allowing Ali the land in exchange for the amount of coloured cloth that could measure the circumference of the island - approximately 25 kilometers of cloth. Ali took notice that the island was connected to the mainland by a land bridge that revealed itself during the low tide. Almuli decided to change his mind and retain the land, but by then Ali and his Persians dug out the land bridge, leaving Kilwa a genuine island. Upon this discovery Almuli had no choice but to carry out the purchase.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AL_HASSAN_HEADING_5">
+			<Text>Murky Historical Record</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AL_HASSAN_TEXT_5">
+			<Text>There are only two written sources of any antiquity which derive from the eastern coast of Africa; these are versions of the Kilwa Chronicle, the one in Arabic, and the other in Portuguese, the latter transmitted by the historian de Barros, who was writing in the middle of the sixteenth century. These accounts are thought to include many mythical and hagiographic elements, but it is generally accepted that they represent the memory of a substantial immigration of Arabs and/or Persians from the Persian Gulf. Related accounts are, or were until recently, remembered in Zanzibar, Kilwa Kivinje, Kilwa Kisiwani, the Comoro islands and Mozambique.[NEWLINE][NEWLINE]It should be noted that Barros could not read Arabic and that he therefore worked either from translations or from matter verbally recounted to him. He seems incapable of distinguishing between the names Hassan and Husain, and between Ali and Khalid, and many of the names are clearly corrupt. Comparing the Arabic and Portuguese versions of the Chronicle, especially in reference to the earlier period of the Kilwa sultanate, indicates that while both are suspect in detail, the Arabic is both more intelligible and more reliable (despite obvious additions in-line with Hagiographic Islamic texts), and that grave inaccuracies may have arisen in the Portuguese version through an attempt to dovetail two different sources together.[NEWLINE][NEWLINE]The Portuguese version states that Ali, son of Hassan, Sultan of Shiraz, came to Kilwa, bought the island for cloth, fortified and ruled it, installing his son to rule Mafia and adjacent islands. This Ali ruled for a single year and, after his death, he succeeded by his son Ali, who ruled forty years. The details about this second Ali in the Portuguese version, however, closely correspond to the details concerning the first Ali and founder of Kilwa in the Arabic version. Many historians believe that this is most likely a case of dittography. There was only one 'Ali', who purchased Kilwa with cloth, fortified it, and ruled for close to 40 years.  Whether his father's name was Hassan is arguable.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AL_HASSAN_HEADING_6">
+			<Text>Verdict of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AL_HASSAN_TEXT_6">
+			<Text>It is difficult to judge any figure for who not only are their scant historical records but much of the record is also filled with mythic and hagiographic exaggeration. Ali ibn al-Hassan of the house Shirazi is shown in a diplomatic and clever light in acquiring the island of Kilwa and the significance of founding the Sultanate is beyond question. His actions sparked an inter-marriage of Arabic and African peoples and cultures to derive its own, and its position along the coast was a prime target for merchants from the north to trade and immigrate. The colony, as it were, grew from the establishment into a large state claiming much of what is now called the Swahili Coast.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AL_HASSAN_HEADING_7">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AL_HASSAN_TEXT_7">
+			<Text>The Arabic version of the Kilwa Chronicle states that there was already a mosque, named Kibala, on Kilwa Island before Ali's arrival, but mentions only one Muslim family, the island being ruled by an infidel. These accounts are thought to be largely mythical and help portray Ali as a pious Muslim returning the island it its rightful faith.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AL_HASSAN_FIRST_GREETING_1">
+			<Text>That's a fantastic piece of land you have there. Is it for sale? I have plenty of colored cloth...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AL_HASSAN_FIRST_GREETING_2">
+			<Text>Ah, we finally meet. News of your great nation has already reached me through travelers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AL_HASSAN_DEFEATED_1">
+			<Text>At least I am defeated in battle and not by some treacherous vizier or an unknown cousin.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_AL_HASSAN_DEFEATED_2">
+			<Text>You know I have this great stash of gold the likes the world has never seen before. Maybe we can make an arrangement?</Text>
+		</Row>
+		<!-- DOM Text-->
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_MC_KILWA_TEXT">
+			<Text>Greetings to you, resourceful Ali ibn al-Hassan Shirazi. You are the founder of the mighty Kilwa Sultanate, a proud people of the sea. You purchased the island which would become your capital for mere cloth after your unlawful ostracism at the hands of your brothers, and built it into a proud city, the envy of the known world. From this new capital, your people, proud traders by nature, travelled the length of the African coast, spreading the influence of your sultanate. The Kilwa are a tolerant people, indeed those cities under your rule feature many separate beliefs, languages and peoples - a venerable melting pot of cultures which together forged the identity of the Swahili people who to this day occupy the lands of your former sultanate.[NEWLINE][NEWLINE]The empire lasted long after your death, with your descendants ruling for many more centuries, expanding the rule of the Kilwa Sultanate far and wide, falling only to an invasion of superior weaponry at the hands of European colonials. Yet none could compare to you, wise leader. Your people call for you to lead them to greatness across the seas. Will you answer their call? Can you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<Update>
+			<Where Tag="TXT_KEY_CITYSTATE_MOMBASA"/>
+			<Set Text="Dakar"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CITYSTATE_MOMBASA_ADJ"/>
+			<Set Text="Dakar"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CIV5_MOMBASA_TEXT"/>
+			<Set Text="Dakar is the capital and largest city of Senegal. It is located on the Cap-Vert Peninsula on the Atlantic coast and is the westernmost city on the African mainland. Its position, on the western edge of Africa, is an advantageous departure point for trans-Atlantic and European trade; this fact aided its growth into a major regional port.[NEWLINE][NEWLINE]In its colonial heyday Dakar was one of the major cities of the French Empire, comparable to Hanoi or Beirut. French trading firms established branch offices there and industrial investments (mills, breweries, refineries, canneries) were attracted by its port and rail facilities. It was also strategically important to France, which maintained an important naval base and coaling station in its harbor and which integrated it into its earliest air force and airmail circuits, most notably with the legendary Mermoz airfield."/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CITYSTATE_ZANZIBAR"/>
+			<Set Text="Meroë"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CITYSTATE_ZANZIBAR_ADJ"/>
+			<Set Text="Meroë"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CIV5_ZANZIBAR_TEXT"/>
+			<Set Text="Meroë was the capital of the Kingdom of Kush for several centuries, the site of which is marked by more than two hundred pyramids in three groups, of which many are in ruins. They are identified as Nubian pyramids because of their distinctive size and proportions.[NEWLINE][NEWLINE]Meroë was the base of a flourishing kingdom whose wealth was due to a strong iron industry, and international trade involving India and China. At the time, iron was one of the most important metals worldwide, and Meroitic metalworkers were among the best in the world. Meroë also exported textiles and jewelry. Their textiles were based on cotton and working on this product reached its highest achievement in Nubia around 400 BC. Furthermore, Nubia was very rich in gold. It is possible that the Egyptian word for gold, nub, was the source of name of Nubia. Trade in exotic animals from farther south in Africa was another feature of their economy.[NEWLINE][NEWLINE]The Roman conquest of Egypt led to border skirmishes and incursions by Meroë beyond the Roman borders. Looting and border raids continued between the two powers. However, Meroë eventually settled down to a healthy trading relationship with Rome and the Mediterranean. The Kingdom of Kush began to fade as a power by the 1st or 2nd century AD, sapped by the war with Roman Egypt and the decline of its traditional industries."/>
+		</Update>
+	</Language_en_US>	
+</GameData>

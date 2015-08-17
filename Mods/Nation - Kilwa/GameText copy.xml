@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!--Foster Market Towns-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_KILWA_FOSTER_MARKET_TOWNS">
+			<Text>Foster Market Towns</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_KILWA_FOSTER_MARKET_TOWNS_DESC">
+			<Text>
+				Our City-State allies provide us with much of what we require to sustain our trade for ourselves, but currently lack the infrastructure for either of us to fully profit from the exchange. By aiding their efforts to construct suitable market towns, all may grow wealthy.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Kilwa
+				[NEWLINE][ICON_BULLET]Must have researched Currency
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+2 [ICON_GOLD] Gold for Trade Routes with City-States
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_KILWA_FOSTER_MARKET_TOWNS_ENACTED_DESC">
+			<Text>
+				Our City-State allies provide us with much of what we require to sustain our trade for ourselves, but currently lack the infrastructure for either of us to fully profit from the exchange. By aiding their efforts to construct suitable market towns, all may grow wealthy.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+2 [ICON_GOLD] Gold for Trade Routes with City-States
+			</Text>
+		</Row>
+		<!--Adopt Coral Construction-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_KILWA_CORAL_CONSTRUCTION">
+			<Text>Adopt Coral Construction</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_KILWA_CORAL_CONSTRUCTION_DESC">
+			<Text>
+				Our islands and coasts provide us with precious little wood to build both ships and cities. We must turn to the sea to find the material to construct our homes.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Kilwa
+				[NEWLINE][ICON_BULLET]Must have at least three Coral Ports
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Medieval Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+2 [ICON_PRODUCTION] Production on Atolls
+				[NEWLINE][ICON_BULLET]+10% [ICON_PRODUCTION] Production from Coral Ports
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_KILWA_CORAL_CONSTRUCTION_ENACTED_DESC">
+			<Text>
+				Our islands and coasts provide us with precious little wood to build both ships and cities. We must turn to the sea to find the material to construct our homes.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+2 [ICON_PRODUCTION] Production on Atolls
+				[NEWLINE][ICON_BULLET]+10% [ICON_PRODUCTION] Production from Coral Ports
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_KILWA_CORAL_CONSTRUCTION">
+			<Text>MC: Kilwa Coral Construction</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_KILWA_CORAL_CONSTRUCTION_HEKP">
+			<Text>+2 [ICON_PRODUCTION] Production on Atolls.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

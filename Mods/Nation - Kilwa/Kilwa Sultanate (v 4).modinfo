@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="be1a0a53-6a84-4b7f-b2d0-5100c5028864" version="4">
+  <Properties>
+    <Name>Kilwa Sultanate</Name>
+    <Teaser>Centred on the island of Kilwa, the Kilwa Sultanate was an East African trading empire stretching from Somalia to Mozambique</Teaser>
+    <Description>Centred on the island of Kilwa, the Kilwa Sultanate was an East African trading empire stretching from Somalia to Mozambique borne out of betrayal and warfare. It dominated trade throughout the west Indian Ocean, with trade routes spanning the ocean that some believe led them to make land in  Australia before any European. The sultanate lasted for over six centuries until succumbing to a Portugese invasion in the 16th century. During that time, the Kilwa sultanate controlled the movement of commodities through the region and beyond, in addition to the development and spread of the Swahili culture as an amalgamation of the various traders which resided within the empire.</Description>
+    <Authors>More Civilizations team</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>1</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety &amp; Prestige" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events &amp; Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="3BB2AA48DA985F2C7A36E7801F87964D" import="1">Art/Atlases/KilwaAlpha_128.dds</File>
+    <File md5="E0C7E1E626C11776902060BEFC3DD62B" import="1">Art/Atlases/KilwaAlpha_16.dds</File>
+    <File md5="60D071E36FA4E7C0C417F55F2854F140" import="1">Art/Atlases/KilwaAlpha_24.dds</File>
+    <File md5="6890F6C75458707C3BEB375762491EAD" import="1">Art/Atlases/KilwaAlpha_32.dds</File>
+    <File md5="913D94310D227B1A303A479BEC410A7A" import="1">Art/Atlases/KilwaAlpha_45.dds</File>
+    <File md5="9256AAC950214CC9CE53FF71ADF188E6" import="1">Art/Atlases/KilwaAlpha_48.dds</File>
+    <File md5="123821840F65CD5A7FE0C27A7CF82D39" import="1">Art/Atlases/KilwaAlpha_64.dds</File>
+    <File md5="339F250F0FBE11F2DF3B667C0BFCCA24" import="1">Art/Atlases/KilwaAlpha_80.dds</File>
+    <File md5="BE7D3F57DB92C77C41122F06B5BBBCBF" import="1">Art/Atlases/Kilwa_128.dds</File>
+    <File md5="2524232FE8EE7C6DF85ED8F562020B04" import="1">Art/Atlases/Kilwa_214.dds</File>
+    <File md5="1D5E06D8907BEBC33578271B6FACD759" import="1">Art/Atlases/Kilwa_256.dds</File>
+    <File md5="27066C65204148239B9B81D47EF93073" import="1">Art/Atlases/Kilwa_32.dds</File>
+    <File md5="F796A50DEC7C2A68931891AE9D649D59" import="1">Art/Atlases/Kilwa_45.dds</File>
+    <File md5="7DC9F9E00DC747999C26DF94B2DAB5D8" import="1">Art/Atlases/Kilwa_64.dds</File>
+    <File md5="087B0294EC820A2FBB22ECDA77795C33" import="1">Art/Atlases/Kilwa_80.dds</File>
+    <File md5="8A19F17ACD4DDCBF254AC1EB4AEB9A4C" import="1">Art/Scenes/DOM_Kilwa.dds</File>
+    <File md5="6B75F82B9DCEA3B3A3CC50525DCE4248" import="1">Art/Scenes/Kilwa_Diplo.dds</File>
+    <File md5="9560AA5958178A5037932C18A8A809E0" import="1">Art/Scenes/Kilwa_Leaderhead.xml</File>
+    <File md5="2BB550B6D6284420C7948100DEC5C16A" import="1">Art/Scenes/Kilwa_Map512.dds</File>
+    <File md5="93C7C68BE6E8FBB044AD8F8ECB8FC005" import="1">Art/Unit Art/dhow.fxsxml</File>
+    <File md5="5B2DFBF8129329A576030EA9EF687D10" import="1">Art/Unit Art/dhow.gr2</File>
+    <File md5="631082116C46DEBF0C37CC527AF8657D" import="0">Art/Unit Art/DhowDefine.sql</File>
+    <File md5="51FA0DFCF880D05EBCFB628C3D617345" import="1">Art/Unit Art/DhowFlag.dds</File>
+    <File md5="154992CA538046F5268C1E6BDACC8F28" import="1">Art/Unit Art/dhow_diff.dds</File>
+    <File md5="4B9094E43AD9C1F4C32563515029C387" import="1">Art/Unit Art/dhow_sref.dds</File>
+    <File md5="445ECAAD8FCA1086306953B3AE92D874" import="1">Art/Unit Art/sv_dhow.dds</File>
+    <File md5="F15BA8BABC8F95EDB4D66F2F6311D473" import="1">Audio/Al_Hassan_Peace.mp3</File>
+    <File md5="7B34814D3EBA2E16C9240C1621BDD09B" import="1">Audio/Al_Hassan_War.mp3</File>
+    <File md5="9D11C4D5FF5754DB855A61511CBD9E6E" import="1">Audio/KilwaDoM.mp3</File>
+    <File md5="3665EA7314EC7714D3F5520365D7702A" import="0">DeleteMissingReferences.xml</File>
+    <File md5="168E41FC605E85B17BAAA7425198BE8C" import="0">LUA/CityStatePopupGoldChanges.lua</File>
+    <File md5="DC0EE87FF4CED8EA61072C909F57FBE7" import="1">LUA/FirstMetGold.lua</File>
+    <File md5="2F307305127A146E4690DFAF94015A36" import="0">LUA/JFD_KilwaFunctions.lua</File>
+    <File md5="B2CFD28F77F507BC5A316F547E82A583" import="1">LUA/Sukritact's Decisions Support/JFD_KilwaDecisions.lua</File>
+    <File md5="8AE61C7305A6376C4D2327CD1E578241" import="0">SQL/Buildings.sql</File>
+    <File md5="19D954F219BCD58831D7C582646B3290" import="1">SQL/Kilwa City-State Gold.sql</File>
+    <File md5="09ACF9C37C555DAE7DD5BBBBDC5992D8" import="0">SQL/Mod Support/Core.sql</File>
+    <File md5="94D3077F22C205C981492861DC1970BB" import="0">SQL/Mod Support/GameText.xml</File>
+    <File md5="0F9A1D426C5F668E54A2010E323E4F76" import="0">SQL/Mod Support/Gedemon's YnAEMP Support/CivilizationStartPos.sql</File>
+    <File md5="7AEBA0C4BDACF4A7301351E19A966CAA" import="0">SQL/Mod Support/Sukritact's Decisions Support/Decisions.sql</File>
+    <File md5="D65A80985E43C564FAA4EA69ACE872F9" import="0">SQL/Mod Support/Sukritact's Decisions Support/GameText.xml</File>
+    <File md5="981D742C03182857B11838565FD3C8C0" import="0">XML/Buildings/Kilwa_Buildings.xml</File>
+    <File md5="BDBFF6BE2CEAA092FE4377E49B0D6F4C" import="0">XML/Civilization/Kilwa_Civilizations.xml</File>
+    <File md5="20E86C63EA0CE39CD4AC35490F80DD10" import="0">XML/Civilization/Kilwa_Strategic.xml</File>
+    <File md5="193B49AD0AE50288793C1F0FA7D3839A" import="0">XML/GameInfo/Kilwa_IconTextureAtlases.xml</File>
+    <File md5="B2A6F3B9D8E14BF61DF26A6FA426BF42" import="0">XML/GameInfo/Kilwa_Traits.xml</File>
+    <File md5="68BCB08F0561C96FF723F01CBF69A09F" import="0">XML/Leaders/Kilwa_Leader.xml</File>
+    <File md5="FA0F36C5EAD5605993245D6817B6D064" import="0">XML/Sounds/Kilwa_Sounds.xml</File>
+    <File md5="E37CF8B775761E58A4F73BC0AA1DE07D" import="0">XML/Text/Kilwa_Text.xml</File>
+    <File md5="CF78B25CA4AB1A226D4DDB836272C0EF" import="0">XML/Units/Kilwa_Units.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Units/Kilwa_Units.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Kilwa_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization/Kilwa_Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/Kilwa_Traits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/Kilwa_Leader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Sounds/Kilwa_Sounds.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Kilwa City-State Gold.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Kilwa_Text.xml</UpdateDatabase>
+      <UpdateDatabase>Art/Scenes/Kilwa_Leaderhead.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization/Kilwa_Strategic.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/Kilwa_IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>Art/Unit Art/DhowDefine.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Buildings.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Mod Support/Core.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Mod Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Mod Support/Gedemon's YnAEMP Support/CivilizationStartPos.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Mod Support/Sukritact's Decisions Support/Decisions.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Mod Support/Sukritact's Decisions Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>DeleteMissingReferences.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="LUA/CityStatePopupGoldChanges.lua">
+      <Name>Kilwa City State Gold</Name>
+      <Description>Changes Met Gold for Kilwa</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="LUA/JFD_KilwaFunctions.lua">
+      <Name>JFD_KilwaFunctions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>
