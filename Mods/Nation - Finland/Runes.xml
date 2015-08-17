@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/17/2014 3:29:00 PM -->
+<GameData>
+	<GreatWorks>
+		<Row>
+			<Type>GREAT_WORK_BIRTH_OF_WAINAMOINEN</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_BIRTH_OF_WAINAMOINEN</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_BIRTH_OF_WAINAMOINEN</Quote>
+			<Audio>AS2D_KALEVALA_BIRTH_OF_WAINAMOINEN</Audio>
+			<Image>Background_Birth_Of_Wainamoinen.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_WAINAMOINENS_SOWING</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_WAINAMOINENS_SOWING</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_WAINAMOINENS_SOWING</Quote>
+			<Audio>AS2D_KALEVALA_WAINAMOINENS_SOWING</Audio>
+			<Image>Background_Wainamoinens_Sowing.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_JOUKAHAINEN</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_JOUKAHAINEN</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_JOUKAHAINEN</Quote>
+			<Audio>AS2D_KALEVALA_JOUKAHAINEN</Audio>
+			<Image>Background_Joukahainen.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_AINO_AND_THE_WATER-MAIDENS</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_AINO_AND_THE_WATER-MAIDENS</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_AINO_AND_THE_WATER-MAIDENS</Quote>
+			<Audio>AS2D_KALEVALA_AINO_AND_THE_WATER_MAIDENS</Audio>
+			<Image>Background_Aino_and_the_Water_Maidens.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_ORIGIN_OF_IRON</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_ORIGIN_OF_IRON</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_ORIGIN_OF_IRON</Quote>
+			<Audio>AS2D_KALEVALA_ORIGIN_OF_IRON</Audio>
+			<Image>Background_Origin_Of_Iron.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_ILMARINEN</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_ILMARINEN</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_ILMARINEN</Quote>
+			<Audio>AS2D_KALEVALA_KULLERVO</Audio>
+			<Image>Background_Ilmarinen.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_ILMARINEN_FORGES_THE_SAMPO</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_ILMARINEN_FORGES_THE_SAMPO</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_ILMARINEN_FORGES_THE_SAMPO</Quote>
+			<Audio>AS2D_KALEVALA_JOUKAHAINEN</Audio>
+			<Image>Background_Ilmarinen_Forges_the_Sampo.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_LEMMINKAINENS_RESTORATION</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_LEMMINKAINENS_RESTORATION</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_LEMMINKAINENS_RESTORATION</Quote>
+			<Audio>AS2D_KALEVALA_AINO_AND_THE_WATER_MAIDENS</Audio>
+			<Image>Background_Lemminkainen_Restoration.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_WAINAMOINENS_BOAT-BUILDING</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_WAINAMOINENS_BOAT-BUILDING</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_WAINAMOINENS_BOAT-BUILDING</Quote>
+			<Audio>AS2D_KALEVALA_BREWING_OF_BEER</Audio>
+			<Image>Background_Wainamoinens_Boat_Building.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_THE_BREWING_OF_BEER</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_THE_BREWING_OF_BEER</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_THE_BREWING_OF_BEER</Quote>
+			<Audio>AS2D_KALEVALA_BREWING_OF_BEER</Audio>
+			<Image>Background_Brewing_Of_Beer.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_WAINAMOINENS_HARP</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_WAINAMOINENS_HARP</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_WAINAMOINENS_HARP</Quote>
+			<Audio>AS2D_KALEVALA_WAINAMOINENS_SOWING</Audio>
+			<Image>Background_Wainamoinens_Harp.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_LOUHI_SUMMONS_THE_SEA-MONSTER</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_LOUHI_SUMMONS_THE_SEA-MONSTER</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_LOUHI_SUMMONS_THE_SEA-MONSTER</Quote>
+			<Audio>AS2D_KALEVALA_DEPARTURE_OF_WAINAMOINEN</Audio>
+			<Image>Background_Louhi_Summons_The_Sea-Monster.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_FRAGMENTING_OF_THE_SAMPO</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_FRAGMENTING_OF_THE_SAMPO</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_FRAGMENTING_OF_THE_SAMPO</Quote>
+			<Audio>AS2D_KALEVALA_ORIGIN_OF_IRON</Audio>
+			<Image>Background_Fragmenting_of_the_Sampo.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_KULLERVOS_EVIL_DEEDS</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_KULLERVOS_EVIL_DEEDS</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_KULLERVOS_EVIL_DEEDS</Quote>
+			<Audio>AS2D_KALEVALA_KULLERVO</Audio>
+			<Image>Background_Kullervos_Evil_Deeds.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_LOUHI_STEALS_SUN_MOON_AND_FIRE</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_LOUHI_STEALS_SUN_MOON_AND_FIRE</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_LOUHI_STEALS_SUN_MOON_AND_FIRE</Quote>
+			<Audio>AS2D_KALEVALA_BIRTH_OF_WAINAMOINEN</Audio>
+			<Image>Background_Louhi_Steals.dds</Image>
+		</Row>
+		<Row>
+			<Type>GREAT_WORK_WAINAMOINENS_DEPARTURE</Type>
+			<GreatWorkClassType>GREAT_WORK_LITERATURE</GreatWorkClassType>
+			<Description>TXT_KEY_GREAT_WORK_WAINAMOINENS_DEPARTURE</Description>
+			<Quote>TXT_KEY_GREAT_WORK_QUOTE_WAINAMOINENS_DEPARTURE</Quote>
+			<Audio>AS2D_KALEVALA_DEPARTURE_OF_WAINAMOINEN</Audio>
+			<Image>Background_Wainamoinen_Departure.dds</Image>
+		</Row>
+	</GreatWorks>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_WORK_BIRTH_OF_WAINAMOINEN">
+			<Text>Birth of Wainamoinen (Rune I) </Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_BIRTH_OF_WAINAMOINEN">
+			<Text>Thus created were the islands,[NEWLINE]
+Rocks were fastened in the ocean,[NEWLINE]
+Pillars of the sky were planted,[NEWLINE]
+Fields and forests were created,[NEWLINE]
+Checkered stones of many colors,[NEWLINE]
+Gleaming in the silver sunlight,[NEWLINE]
+All the rocks stood well established;[NEWLINE]
+But the singer, Wainamoinen,[NEWLINE]
+Had not yet beheld the sunshine,[NEWLINE]
+Had not seen the golden moonlight,[NEWLINE]
+Still remaining undelivered.[NEWLINE][NEWLINE]
+(Rune I)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WAINAMOINENS_SOWING">
+			<Text>Wainamoinen's Sowing (Rune II)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WAINAMOINENS_SOWING">
+			<Text>"I the seeds of life am sowing,[NEWLINE]
+Sowing through my open fingers,[NEWLINE]
+From the hand of my Creator,[NEWLINE]
+In this soil enriched with ashes,[NEWLINE]
+In this soil to sprout and flourish.[NEWLINE]
+Ancient mother, thou that livest[NEWLINE]
+Far below the earth and ocean,[NEWLINE]
+Mother of the fields and forests,[NEWLINE]
+Bring the rich soil to producing,[NEWLINE]
+Bring the seed-grains to the sprouting,[NEWLINE]
+That the barley well may flourish."[NEWLINE][NEWLINE]
+(Rune II)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_JOUKAHAINEN">
+			<Text>Joukahainen (Rune III)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_JOUKAHAINEN">
+			<Text>Far away in dismal Northland,[NEWLINE]
+Lived the singer, Joukahainen,[NEWLINE]
+Lapland's young and reckless minstrel,[NEWLINE]
+Once upon a time when feasting,[NEWLINE]
+Dining with his friends and fellows,[NEWLINE]
+Came upon his ears the story[NEWLINE]
+That there lived a sweeter singer,[NEWLINE]
+On the meadows of Wainola,[NEWLINE]
+On the plains of Kalevala,[NEWLINE]
+Better skilled in chanting legends,[NEWLINE]
+Better skilled than Joukahainen,[NEWLINE]
+Better than the one that taught him.[NEWLINE][NEWLINE]
+(Rune III)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_AINO_AND_THE_WATER-MAIDENS">
+			<Text>Aino and the Water-Maidens (Rune IV)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_AINO_AND_THE_WATER-MAIDENS">
+			<Text>As the day dawns, looking round her,[NEWLINE]
+She beholds three water-maidens,[NEWLINE]
+On a headland jutting seaward,[NEWLINE]
+Water-maidens four in number,[NEWLINE]
+Sitting on the wave-lashed ledges,[NEWLINE]
+Swimming now upon the billows,[NEWLINE]
+Now upon the rocks reposing.[NEWLINE]
+Quick the weeping maiden, Aino,[NEWLINE]
+Hastens there to join the mermaids,[NEWLINE]
+Fairy maidens of the waters.[NEWLINE][NEWLINE]
+(Rune IV)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ORIGIN_OF_IRON">
+			<Text>Origin of Iron (Rune IX:1)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_ORIGIN_OF_IRON">
+			<Text>Of the mothers air is oldest,[NEWLINE]
+Water is the oldest brother,[NEWLINE]
+And the fire is second brother,[NEWLINE]
+And the youngest brother, iron;[NEWLINE]
+Ukko is the first creator.[NEWLINE]
+Ukko, maker of the heavens,[NEWLINE]
+Cut apart the air and water,[NEWLINE]
+Ere was born the metal, iron.[NEWLINE][NEWLINE]
+(Rune IX)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ILMARINEN">
+			<Text>The Blacksmith (Rune IX:2)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_ILMARINEN">
+			<Text>Now the master, Ilmarinen,[NEWLINE]
+The renowned and skilful blacksmith,[NEWLINE]
+From the fire removes the iron,[NEWLINE]
+Places it upon the anvil,[NEWLINE]
+Hammers well until it softens,[NEWLINE]
+Hammers many fine utensils,[NEWLINE]
+Hammers spears, and swords, and axes,[NEWLINE]
+Hammers knives, and forks, and hatchets,[NEWLINE]
+Hammers tools of all descriptions.[NEWLINE][NEWLINE]
+(Rune IX)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_ILMARINEN_FORGES_THE_SAMPO">
+			<Text>Ilmarinen Forges the Sampo (Rune X)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_ILMARINEN_FORGES_THE_SAMPO">
+			<Text>On the third night Ilmarinen,[NEWLINE]
+Bending low to view his metals,[NEWLINE]
+On the bottom of the furnace,[NEWLINE]
+Sees the magic Sampo rising,[NEWLINE]
+Sees the lid in many colors.[NEWLINE]
+Quick the artist of Wainola[NEWLINE]
+Forges with the tongs and anvil,[NEWLINE]
+Knocking with a heavy hammer,[NEWLINE]
+Forges skilfully the Sampo;[NEWLINE]
+On one side the flour is grinding,[NEWLINE]
+On another salt is making,[NEWLINE]
+On a third is money forging,[NEWLINE]
+And the lid is many-colored.[NEWLINE][NEWLINE]
+(Rune X)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LEMMINKAINENS_RESTORATION">
+			<Text>Lemminkainen's Restoration (Rune XV)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_LEMMINKAINENS_RESTORATION">
+			<Text>Now the mother well anointing,[NEWLINE]
+Heals her son, the magic singer,[NEWLINE]
+Eyes, and ears, and tongue, and temples,[NEWLINE]
+Breaks, and cuts, and seams, anointing,[NEWLINE]
+Touching well the life-blood centres,[NEWLINE]
+Speaks these words of magic import[NEWLINE]
+To the sleeping Lemminkainen:[NEWLINE]
+"Wake, arise from out thy slumber,[NEWLINE]
+From the worst of low conditions,[NEWLINE]
+From thy state of dire misfortune![NEWLINE][NEWLINE]
+(Rune XV)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WAINAMOINENS_BOAT-BUILDING">
+			<Text>Wainamoinen's Boat-Building (Rune XVI)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WAINAMOINENS_BOAT-BUILDING">
+			<Text>Wainamoinen, ancient minstrel,[NEWLINE]
+The eternal wisdom-singer,[NEWLINE]
+For his boat was working lumber,[NEWLINE]
+Working long upon his vessel,[NEWLINE]
+On a fog-point jutting seaward,[NEWLINE]
+On an island, forest-covered;[NEWLINE]
+But the lumber failed the master,[NEWLINE]
+Beams were wanting for his vessel,[NEWLINE]
+Beams and scantling, ribs and flooring.[NEWLINE]
+Who will find for him the lumber,[NEWLINE]
+Who procure the timber needed[NEWLINE]
+For the boat of Wainamoinen,[NEWLINE]
+For the bottom of his vessel?[NEWLINE][NEWLINE]
+(Rune XVI)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_THE_BREWING_OF_BEER">
+			<Text>The Brewing of Beer (Rune XX)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_THE_BREWING_OF_BEER">
+			<Text>When the loaves were baked and ready.[NEWLINE]
+When the dishes all were seasoned,[NEWLINE]
+Time had gone but little distance,[NEWLINE]
+Scarce a moment had passed over,[NEWLINE]
+Ere the beer, in casks imprisoned,[NEWLINE]
+Loudly rapped, and sang, and murmured:[NEWLINE]
+"Come, ye heroes, come and take me,[NEWLINE]
+Come and let me cheer your spirits,[NEWLINE]
+Make you sing the songs of wisdom,[NEWLINE]
+That with honor ye may praise me,[NEWLINE]
+Sing the songs of beer immortal![NEWLINE][NEWLINE]
+(Rune XX)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WAINAMOINENS_HARP">
+			<Text>Wainamoinen's Harp (Rune XL)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WAINAMOINENS_HARP">
+			<Text>Quick became a fish-bone artist,[NEWLINE]
+Made a harp of wondrous beauty,[NEWLINE]
+Lasting joy and pride of Finland.[NEWLINE]
+Whence the harp's enchanting arches?[NEWLINE]
+From the jaw-bones of the monster.[NEWLINE]
+Whence the necessary harp-pins?[NEWLINE]
+From the pike-teeth firmly fastened.[NEWLINE]
+Whence the sweetly singing harp-strings?[NEWLINE]
+From the tail of Lempo's stallion.[NEWLINE]
+Thus was born the harp of magic[NEWLINE]
+From the mighty pike of Northland,[NEWLINE]
+From the relies from the feasting[NEWLINE]
+Of the heroes of Wainola.[NEWLINE][NEWLINE]
+(Rune XL)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LOUHI_SUMMONS_THE_SEA-MONSTER">
+			<Text>Louhi Summons the Sea-Monster (Rune XLII)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_LOUHI_SUMMONS_THE_SEA-MONSTER">
+			<Text>"Should this prayer prove unavailing,[NEWLINE]
+Iku-Turso, son of Old-age,[NEWLINE]
+Raise thy head above the billows,[NEWLINE]
+And destroy Wainola's heroes,[NEWLINE]
+Sink them to thy deep sea-castles,[NEWLINE]
+There devour them at thy pleasure;[NEWLINE]
+Bring thou back the golden Sampo[NEWLINE]
+To the people of Pohjola!"[NEWLINE][NEWLINE]
+(Rune XLII)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_FRAGMENTING_OF_THE_SAMPO">
+			<Text>Fragmenting of the Sampo (Rune XLIII)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_FRAGMENTING_OF_THE_SAMPO">
+			<Text>Wainamoinen, ancient minstrel,[NEWLINE]
+Saw the fragments of the treasure[NEWLINE]
+Floating on the billows landward,[NEWLINE]
+Fragments of the lid in colors,[NEWLINE]
+Much rejoicing, spake as follows:[NEWLINE]
+"Thence will come the sprouting seed-grain,[NEWLINE]
+The beginning of good fortune,[NEWLINE]
+The unending of resources,[NEWLINE]
+From the plowing and the sowing,[NEWLINE]
+From the glimmer of the moonlight,[NEWLINE]
+From the splendor of the sunshine,[NEWLINE]
+On the fertile plains of Finland,[NEWLINE]
+On the meads of Kalevala."[NEWLINE][NEWLINE]
+(Rune XLIII)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_KULLERVOS_EVIL_DEEDS">
+			<Text>Kullervo's Evil Deeds (Rune XXXV)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_KULLERVOS_EVIL_DEEDS">
+			<Text>Kullerwoinen, wicked wizard,[NEWLINE]
+Answers thus his grieving mother:[NEWLINE]
+"I can never hide from sorrow,[NEWLINE]
+Cannot flee from my misconduct;[NEWLINE]
+To the jaws of death I hasten,[NEWLINE]
+To the open courts of Kalma,[NEWLINE]
+To the hunting-grounds of Northland,[NEWLINE]
+To the battle-fields of heroes.[NEWLINE]
+Untamoinen still is living,[NEWLINE]
+Unmolested roams the wicked,[NEWLINE]
+Unavenged my father's grievance,[NEWLINE]
+Unavenged my mother's tortures,[NEWLINE]
+Unavenged the wrongs I suffer!"[NEWLINE][NEWLINE]
+(Rune XXXV)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_LOUHI_STEALS_SUN_MOON_AND_FIRE">
+			<Text>Louhi Steals Sun, Moon and Fire (Rune XLVII)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_LOUHI_STEALS_SUN_MOON_AND_FIRE">
+			<Text>Louhi, hostess of Pohjola,[NEWLINE]
+Northland's old and toothless wizard,[NEWLINE]
+Makes the Sun and Moon her captives;[NEWLINE]
+In her arms she takes fair Luna[NEWLINE]
+From her cradle in the birch-tree,[NEWLINE]
+Calls the Sun down from his station,[NEWLINE]
+From the fir-tree's bending branches,[NEWLINE]
+Carries them to upper Northland,[NEWLINE]
+To the darksome Sariola;[NEWLINE]
+Hides the Moon, no more to glimmer,[NEWLINE]
+In a rock of many colors;[NEWLINE]
+Hides the Sun, to shine no longer,[NEWLINE]
+In the iron-banded mountain.[NEWLINE][NEWLINE]
+(Rune XLVII)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_WAINAMOINENS_DEPARTURE">
+			<Text>Wainamoinen's Departure (Rune L)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_WORK_QUOTE_WAINAMOINENS_DEPARTURE">
+			<Text>"Suns may rise and set in Finland,[NEWLINE]
+Rise and set for generations,[NEWLINE]
+When the North will learn my teachings,[NEWLINE]
+Will recall my wisdom-sayings,[NEWLINE]
+Hungry for the true religion.[NEWLINE]
+Then will Finland need my coming,[NEWLINE]
+Watch for me at dawn of morning,[NEWLINE]
+That I may bring back the Sampo,[NEWLINE]
+Bring anew the harp of joyance,[NEWLINE]
+Bring again the golden moonlight,[NEWLINE]
+Bring again the silver sunshine,[NEWLINE]
+Peace and plenty to the Northland."[NEWLINE][NEWLINE]
+(Rune L)
+			</Text>
+		</Row>
+		
+		<!-- =================================== Rune Singers ==================================-->
+		<Row Tag="TXT_KEY_GREAT_PERSON_RUNE_SINGER_DESC_1">
+			<Text>Juhana Kainulainen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RUNE_SINGER_DESC_2">
+			<Text>Mateli Kuivalatar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RUNE_SINGER_DESC_3">
+			<Text>Ontrei Malinen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RUNE_SINGER_DESC_4">
+			<Text>Arhippa Perttunen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RUNE_SINGER_DESC_5">
+			<Text>Simana Sissonen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RUNE_SINGER_DESC_6">
+			<Text>Antti Vartiainen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RUNE_SINGER_DESC_7">
+			<Text>Iivana Shemeikka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RUNE_SINGER_DESC_8">
+			<Text>Domna Huovinen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RUNE_SINGER_DESC_9">
+			<Text>Anni Lehtonen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RUNE_SINGER_DESC_10">
+			<Text>Timo Lipitsä</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RUNE_SINGER_DESC_11">
+			<Text>Iivana Oinola</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RUNE_SINGER_DESC_12">
+			<Text>Larin Paraske</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RUNE_SINGER_DESC_13">
+			<Text>Matjoi Plattonen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RUNE_SINGER_DESC_14">
+			<Text>Petri Shemeikka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RUNE_SINGER_DESC_15">
+			<Text>Marina Takalo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RUNE_SINGER_DESC_16">
+			<Text>Ontrei Vanninen</Text>
+		</Row>	
+	</Language_en_US>
+</GameData>

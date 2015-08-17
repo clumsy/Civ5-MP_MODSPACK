@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="b88256b2-084e-45ad-9005-88c52e05fa00" version="3">
+  <Properties>
+    <Name>Hypereon's Finland (Mannerheim)</Name>
+    <Teaser>Adds [COLOR_POSITIVE_TEXT]Finland[ENDCOLOR] with marshal C. G. E. Mannerheim as its leader.</Teaser>
+    <Description>UA: Kalevala - Faith buildings summon unique Rune Singers, writing unique Great Works available only to Finland. Melee and gun units gain unique promotions according to the nation's Culture output.
+[NEWLINE][NEWLINE]
+UU: Sissi (Machine Gun) - A Finnish Machine Gun replacement that ignores terrain cost and may pillage with no movement penalty. In addition, it gets +33% strength fighting against armor units.
+[NEWLINE][NEWLINE]
+UB: Sauna (Shrine) - Finnish unique building replacing the Shrine. The Sauna gives 2 [ICON_PEACE] Faith and has a slot for a Great Work of Writing. Units built in a city with Sauna heal +5 HP per turn within own borders.</Description>
+    <Authors>Hypereon</Authors>
+    <SpecialThanks>Sukritact, JFD, theveyron69</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="36A1F69898843F98DE1BFB658A2AB80D" import="1">Art/IconAtlas/FinnsAlphaAtlas_128.dds</File>
+    <File md5="CC013D0EF3BC599BE89FADAD5DDDEF01" import="1">Art/IconAtlas/FinnsAlphaAtlas_16.dds</File>
+    <File md5="DC69AB13E67A54E5470C1A0309EA0521" import="1">Art/IconAtlas/FinnsAlphaAtlas_24.dds</File>
+    <File md5="C42A7F0B9D8044DB5F884FD6A53A48C3" import="1">Art/IconAtlas/FinnsAlphaAtlas_32.dds</File>
+    <File md5="1D41AF69A80A0FADF38969BA64659E0D" import="1">Art/IconAtlas/FinnsAlphaAtlas_45.dds</File>
+    <File md5="A29B4496B02B99A8F55A835F54E41EA3" import="1">Art/IconAtlas/FinnsAlphaAtlas_48.dds</File>
+    <File md5="DC1D9AA6FBC7808D002372CCE04D3448" import="1">Art/IconAtlas/FinnsAlphaAtlas_64.dds</File>
+    <File md5="5F17378411ABEEF32C3E7CEFFEAF370F" import="1">Art/IconAtlas/FinnsAlphaAtlas_80.dds</File>
+    <File md5="2F25A0A092BCD2B342FB46F7E8C7272A" import="1">Art/IconAtlas/flag_RuneSinger_32.dds</File>
+    <File md5="249B124B007B2F03ED1106C0BA579D95" import="1">Art/IconAtlas/flag_Sissi_32.dds</File>
+    <File md5="6CFEC0F8D4A45382A04085D5250A03C8" import="0">Art/IconAtlas/sv_RuneSinger.dds</File>
+    <File md5="7665906134AC5E3C6FCC4D738D0F47E3" import="0">Art/IconAtlas/sv_Sissi.dds</File>
+    <File md5="DC84845384F2A4FE504068D7F9D85049" import="1">Art/IconAtlas/Hypereon_FinnsIconAtlas128.dds</File>
+    <File md5="C221613FA952BFB7F1147F8E10ACC670" import="1">Art/IconAtlas/Hypereon_FinnsIconAtlas256.dds</File>
+    <File md5="18CB45E6C2330F11418D4D86D5808292" import="1">Art/IconAtlas/Hypereon_FinnsIconAtlas32.dds</File>
+    <File md5="E6D00FC3BA54B6FD6C9AA121130BC324" import="1">Art/IconAtlas/Hypereon_FinnsIconAtlas45.dds</File>
+    <File md5="808746930F6B0CC4FFB0E460D44FE87D" import="1">Art/IconAtlas/Hypereon_FinnsIconAtlas64.dds</File>
+    <File md5="0B6BC1E7280C5E72DD775EE9AE5E3AD7" import="1">Art/IconAtlas/Hypereon_FinnsIconAtlas80.dds</File>
+    <File md5="024BDADEE92CE199266E6117BBCC6004" import="1">Art/Mannerheim/DOM_Mannerheim.dds</File>
+    <File md5="3FDC58F66ECEE5DB880B26C249F4BBAD" import="1">Art/Mannerheim/Mannerheim_Diplo.dds</File>
+    <File md5="A55ADB55AEA62095CC1BB8120FC6D37B" import="1">Art/Mannerheim/MapFinns512.dds</File>
+    <File md5="715A4B8BD3D73D380AD2FDBCB69D44C7" import="1">Art/RuneBackgrounds/Background_Aino_and_the_Water_Maidens.dds</File>
+    <File md5="91E147DBD15A29F78AD0B645B11CAB88" import="1">Art/RuneBackgrounds/Background_Birth_Of_Wainamoinen.dds</File>
+    <File md5="D1B3333F217D824A8EB6990B996D7080" import="1">Art/RuneBackgrounds/Background_Brewing_of_Beer.dds</File>
+    <File md5="DD22ADBAB9E40C82D667A8419E0D83E9" import="1">Art/RuneBackgrounds/Background_Fragmenting_of_the_Sampo.dds</File>
+    <File md5="D98130ED5AB7A70C4F91F9C5EC48918A" import="1">Art/RuneBackgrounds/Background_Ilmarinen.dds</File>
+    <File md5="BACD210F1F59CA1C6A7307A17DD30F1C" import="1">Art/RuneBackgrounds/Background_Ilmarinen_Forges_the_Sampo.dds</File>
+    <File md5="2FB028453889BA4BB04DE0170DEACAEF" import="1">Art/RuneBackgrounds/Background_Joukahainen.dds</File>
+    <File md5="507AFA122F281DE20AFA2B9193571E0E" import="1">Art/RuneBackgrounds/Background_Kullervos_Evil_Deeds.dds</File>
+    <File md5="7C2B3A575287ACFB1C5E4D8C9399E57B" import="1">Art/RuneBackgrounds/Background_Lemminkainen_Restoration.dds</File>
+    <File md5="96E1DDDE2B8475222236E3050AAD6D17" import="1">Art/RuneBackgrounds/Background_Louhi_Steals.dds</File>
+    <File md5="C3E1DAC1DC5241D4E7D4E2F922AB5FC5" import="1">Art/RuneBackgrounds/Background_Louhi_Summons_The_Sea-Monster.dds</File>
+    <File md5="E2F70CB26485AD801AA04D4CA2B2FDEF" import="1">Art/RuneBackgrounds/Background_Origin_Of_Iron.dds</File>
+    <File md5="18A8E7461B89CD24DD6256CE724E4903" import="1">Art/RuneBackgrounds/Background_Wainamoinens_Boat_Building.dds</File>
+    <File md5="D5B7D3C93759E8890833A5F20D81713B" import="1">Art/RuneBackgrounds/Background_Wainamoinens_Harp.dds</File>
+    <File md5="897BBFCEDCF30286611CF514D99EBDEB" import="1">Art/RuneBackgrounds/Background_Wainamoinens_Sowing.dds</File>
+    <File md5="56D629FCA4716A4D6D0AF6467CE3503C" import="1">Art/RuneBackgrounds/Background_Wainamoinen_Departure.dds</File>
+    <File md5="7FF9E97EF4D9765EFC5305B9C9D4B856" import="0">Art/Units/ArtDefines.sql</File>
+    <File md5="356ABDC1018947FA71B62EBF5FA4CDB5" import="1">Art/Units/runesinger.fxsxml</File>
+    <File md5="592420852C86C467B0B02A283EE48D1A" import="1">Art/Units/runesinger.gr2</File>
+    <File md5="76778096A0AEF82DB2BA18271D35335F" import="1">Art/Units/runesinger_diff.dds</File>
+    <File md5="858F528E75CD2878B157EA3CA2C3A8C2" import="1">Art/Units/runesinger_sref.dds</File>
+    <File md5="A7DBC13F90545D28BCB8095946E18E7A" import="1">Art/Units/sissi.fxsxml</File>
+    <File md5="77799D4270A9431437CE7EF2D238C1E5" import="1">Art/Units/sissi.gr2</File>
+    <File md5="4C97A73DE4960A4969E106071744D53C" import="1">Art/Units/sissi_diff.dds</File>
+    <File md5="E791F0285772272DE380191A58739802" import="1">Art/Units/sissi_sref.dds</File>
+    <File md5="1475EEB27907DE5A4471C82966197F91" import="0">Code/Support/CivilizationStartPos.sql</File>
+    <File md5="F58BC15BBA95599DF1F280C284E2050F" import="1">Code/Lua/FinnishFunctions.lua</File>
+    <File md5="A728F5E8A52A01B3F14F437F5B450153" import="0">Code/SQL/Diplomacy.sql</File>
+    <File md5="DC3CA8AEFFC2F43BE42552A290B30780" import="0">Code/SQL/Tables.sql</File>
+    <File md5="3A98D23CC33D698E174004BBDD5F39D9" import="0">Code/SQL/RuneSingers.sql</File>
+    <File md5="2D0064113A1A7231E1D1077330DC72D0" import="1">Code/Support/Civilization_CultureTypes.sql</File>
+    <File md5="D4BA2784B202ED093B640093F55578BD" import="0">Code/Support/EthnicUnits.sql</File>
+    <File md5="4390564855922E2122E2F36EA090984C" import="0">Code/XML/CIV5UnitPromotions.xml</File>
+    <File md5="D8EB3E102F6BDE6FDDBCE54E736C1268" import="0">Code/XML/Civilization.xml</File>
+    <File md5="43D079201DCF5D7B55C14970CEE50B3C" import="0">Code/XML/DiploReplies.xml</File>
+    <File md5="5809FBAF02D143873F3BB594E97325C9" import="0">Code/XML/GameText.xml</File>
+    <File md5="68EEEE6EB9A538C6E883549EFF910E4C" import="0">Code/XML/Leader.xml</File>
+    <File md5="427B044E04CAA44827297A3A7BBF6C68" import="0">Code/XML/Runes.xml</File>
+    <File md5="431250CD1713B3B48076042D2A2E1208" import="0">Code/XML/Trait.xml</File>
+    <File md5="9C41240C4B45B01AF7A38E6FE3B82248" import="0">Code/XML/CIV5Units.xml</File>
+    <File md5="4D5BB58FD9E60C726565BDEA75EB8CC0" import="0">Code/XML/Buildings.xml</File>
+    <File md5="0D0BCDBCE654641C8D1C15E8C939B5BA" import="1">Code/XML/Mannerheim_Scene.xml</File>
+    <File md5="6BEEF17DA244CC158DF29E2F08B4AE00" import="0">Sounds/Audio.sql</File>
+    <File md5="98A5A1624B5E5543CCA2B3753BC68B42" import="1">Sounds/Kalevala/AinoAndTheWaterMaidens.mp3</File>
+    <File md5="7DEB3349C6E39AB6043CA64804C25F8F" import="1">Sounds/Kalevala/AudioKalevala.xml</File>
+    <File md5="7077E2D8BFCFBBAA59C689922CF042C6" import="1">Sounds/Kalevala/BirthOfWainamoinen.mp3</File>
+    <File md5="9A8899AF5295B3EC571794DCAA8287D1" import="1">Sounds/Kalevala/BrewingOfBeer.mp3</File>
+    <File md5="56F92E467A4A4F84AD11CBBF007B6D7B" import="1">Sounds/Kalevala/DepartureOfWainamoinen.mp3</File>
+    <File md5="025A131A9299860C623C5668748AFA3E" import="1">Sounds/Kalevala/Joukahainen.mp3</File>
+    <File md5="19974D9F9BFBB08B18EAC7B6E472CC50" import="1">Sounds/Kalevala/Kullervo.mp3</File>
+    <File md5="1347147028337EDF44BD8144B615C9EA" import="1">Sounds/Kalevala/OriginOfIron.mp3</File>
+    <File md5="644230C2C4CD7860076B2F39FBBF316E" import="1">Sounds/Kalevala/WainamoinensSowing.mp3</File>
+    <File md5="BCD425021662B30CCA894744B286AC19" import="1">Sounds/Leader Music/MannerheimWar.mp3</File>
+    <File md5="EF6F8D173B423E2183CDB0ECF14A4B47" import="1">Sounds/Leader Music/MannerheimAmbience.mp3</File>
+    <File md5="3F2616E9615DFB91D1BFEAC44F585E67" import="1">Sounds/Leader Music/MannerheimPeace.mp3</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Code/XML/CIV5UnitPromotions.xml</UpdateDatabase>
+      <UpdateDatabase>Code/XML/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Code/XML/Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>Code/XML/Leader.xml</UpdateDatabase>
+      <UpdateDatabase>Code/XML/Trait.xml</UpdateDatabase>
+      <UpdateDatabase>Code/SQL/RuneSingers.sql</UpdateDatabase>
+      <UpdateDatabase>Code/XML/CIV5Units.xml</UpdateDatabase>
+      <UpdateDatabase>Code/XML/Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>Code/XML/Runes.xml</UpdateDatabase>
+      <UpdateDatabase>Sounds/Audio.sql</UpdateDatabase>
+      <UpdateDatabase>Sounds/Kalevala/AudioKalevala.xml</UpdateDatabase>
+      <UpdateDatabase>Code/XML/Mannerheim_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>Art/Units/ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Code/SQL/Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Code/XML/DiploReplies.xml</UpdateDatabase>
+      <UpdateDatabase>Code/Support/CivilizationStartPos.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Support/Civilization_CultureTypes.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Support/EthnicUnits.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Code/Lua/FinnishFunctions.lua">
+      <Name>Kalevala</Name>
+      <Description>Kalevala</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

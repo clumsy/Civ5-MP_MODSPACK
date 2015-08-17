@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/16/2014 11:37:52 PM -->
+<GameData>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_SAUNA</Type>
+			<Description>TXT_KEY_PROMOTION_SAUNA</Description>
+			<Help>TXT_KEY_PROMOTION_SAUNA_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>31</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_SAUNA</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+			<FriendlyHealChange>5</FriendlyHealChange>
+		</Row>
+		<Row>
+			<Type>PROMOTION_KALEVALA</Type>
+			<Description>TXT_KEY_PROMOTION_KALEVALA</Description>
+			<Help>TXT_KEY_PROMOTION_KALEVALA_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>16</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_KALEVALA</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+		</Row>
+		<Row>
+			<Type>PROMOTION_FINNISH_SPIRIT</Type>
+			<Description>TXT_KEY_PROMOTION_FINNISH_SPIRIT</Description>
+			<Help>TXT_KEY_PROMOTION_FINNISH_SPIRIT_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>16</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_FINNISH_SPIRIT</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+			<FriendlyLandsModifier>15</FriendlyLandsModifier>
+		</Row>
+		<Row>
+			<Type>PROMOTION_NATIONAL_UNITY</Type>
+			<Description>TXT_KEY_PROMOTION_NATIONAL_UNITY</Description>
+			<Help>TXT_KEY_PROMOTION_NATIONAL_UNITY_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>23</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_NATIONAL_UNITY</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+			<CapitalDefenseModifier>25</CapitalDefenseModifier>
+			<CapitalDefenseFalloff>-3</CapitalDefenseFalloff>
+		</Row>
+		<Row>
+			<Type>PROMOTION_HERITAGE_OF_KALEVALA</Type>
+			<Description>TXT_KEY_PROMOTION_HERITAGE_OF_KALEVALA</Description>
+			<Help>TXT_KEY_PROMOTION_HERITAGE_OF_KALEVALA_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>49</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_HERITAGE_OF_KALEVALA</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+			<FriendlyLandsModifier>15</FriendlyLandsModifier>
+		</Row>
+		<Row>
+			<Type>PROMOTION_FINNISH_TOUGHNESS</Type>
+			<Description>TXT_KEY_PROMOTION_FINNISH_TOUGHNESS</Description>
+			<Help>TXT_KEY_PROMOTION_FINNISH_TOUGHNESS_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>55</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_FINNISH_TOUGHNESS</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+			<IgnoreTerrainCost>true</IgnoreTerrainCost>
+		</Row>
+		<Row>
+			<Type>PROMOTION_PATRIOTIC_FERVOR</Type>
+			<Description>TXT_KEY_PROMOTION_PATRIOTIC_FERVOR</Description>
+			<Help>TXT_KEY_PROMOTION_PATRIOTIC_FERVOR_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>16</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_PATRIOTIC_FERVOR</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+			<OutsideFriendlyLandsModifier>30</OutsideFriendlyLandsModifier>
+		</Row>
+		<Row>
+			<Type>PROMOTION_FOREST_PATROL</Type>
+			<Description>TXT_KEY_PROMOTION_FOREST_PATROL</Description>
+			<Help>TXT_KEY_PROMOTION_FOREST_PATROL_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>16</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_FOREST_PATROL</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+			<FreePillageMoves>true</FreePillageMoves>
+			<IgnoreTerrainCost>true</IgnoreTerrainCost>
+		</Row>
+	</UnitPromotions>
+	<UnitPromotions_UnitCombatMods>
+		<Row>
+			<PromotionType>PROMOTION_FOREST_PATROL</PromotionType>
+			<UnitCombatType>UNITCOMBAT_ARMOR</UnitCombatType>
+			<Modifier>33</Modifier>
+		</Row>
+	</UnitPromotions_UnitCombatMods>
+	<UnitPromotions_UnitCombats>
+		<Row>
+			<PromotionType>PROMOTION_SAUNA</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_SAUNA</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_SAUNA</PromotionType>
+			<UnitCombatType>UNITCOMBAT_GUN</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_SAUNA</PromotionType>
+			<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
+		</Row>
+	</UnitPromotions_UnitCombats>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_PROMOTION_KALEVALA">
+			<Text>Kalevala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_KALEVALA_HELP">
+			<Text>Gives this unit special promotions based on Cultural rate.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FINNISH_SPIRIT">
+			<Text>Finnish Spirit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FINNISH_SPIRIT_HELP">
+			<Text>+15% Combat Strength in friendly territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NATIONAL_UNITY">
+			<Text>National Unity</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NATIONAL_UNITY_HELP">
+			<Text>25% stronger while fighting in the capital; bonus falls off as the unit gets further away.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HERITAGE_OF_KALEVALA">
+			<Text>Heritage of Kalevala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HERITAGE_OF_KALEVALA_HELP">
+			<Text>+15% combat bonus in friendly territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FINNISH_TOUGHNESS">
+			<Text>Finnish Toughness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FINNISH_TOUGHNESS_HELP">
+			<Text>Ignores terrain costs.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PATRIOTIC_FERVOR">
+			<Text>Patriotic Fervor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PATRIOTIC_FERVOR_HELP">
+			<Text>+30% Combat Strength outside national borders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FOREST_PATROL">
+			<Text>Patrolman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_FOREST_PATROL_HELP">
+			<Text>+33% Combat Strength against armored units, free pillage and ignores terrain costs.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

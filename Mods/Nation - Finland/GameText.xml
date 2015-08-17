@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/16/2014 9:31:07 PM -->
+<GameData>
+	<Language_en_US>
+		<!--=====================
+		The Finns
+		============================-->
+	
+		<Row Tag="TXT_KEY_CIV_FINNS_DESC">
+			<Text>Finnish Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_FINNS_SHORT_DESC">
+			<Text>Finland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_FINNS_ADJ">
+			<Text>Finnish</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FINNIC_RUNE_SINGER">
+			<Text>Rune Singer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UNIT_FINNIC_RUNE_SINGER_TEXT">
+			<Text>The Kalevala is a 19th-century work of epic poetry compiled by Elias Lönnrot from Karelian and Finnish oral folklore and mythology.
+				[NEWLINE][NEWLINE]It is regarded as the national epic of Karelia and Finland and is one of the most significant works of Finnish literature. The Kalevala played an instrumental role in the development of the Finnish national identity, the intensification of Finland's language strife and the growing sense of nationality that ultimately led to Finland's independence from Russia in 1917.
+				[NEWLINE][NEWLINE]The first version of The Kalevala (called The new Kalevala) was published in 1835. The version most commonly known today was first published in 1849 and consists of 23,795 verses, divided into fifty songs or 'runes' (Finnish: runot). The title can be interpreted as "The land of Kaleva" or "Kalevia".
+				[NEWLINE][NEWLINE]The Kalevala begins with the traditional Finnish creation myth, leading into stories of the creation of the earth, plants, creatures and the sky. Creation, healing, combat and internal story telling are often accomplished by the character(s) involved singing of their exploits or desires. Many parts of the stories involve a character hunting or requesting lyrics (spells) to acquire some skill, such as boat-building or the mastery of iron making.
+				[NEWLINE][NEWLINE]As well as magical spell casting and singing, there are many stories of lust, romance, kidnapping and seduction. The protagonists of the stories often have to accomplish feats that are unreasonable or impossible which they often fail to achieve leading to tragedy and humiliation.
+				[NEWLINE][NEWLINE]The Sampo is a pivotal element of the whole work. Many actions and their consequences are caused by the Sampo itself or a character's interaction with the Sampo. It is described as a magical talisman or device that brings its possessor great fortune and prosperity, but its precise nature has been the subject of debate to the present day.
+				[NEWLINE][NEWLINE]There are also similarities with mythology and folklore from other cultures, for example the Kullervo character and his story bearing some likeness to the Greek Oedipus. The similarity of the virginal maiden Marjatta to the Christian Virgin Mary is also striking. The arrival of Marjatta's son in the final song spelling the end of Väinämöinen's reign over Kalevala is similar to the arrival of Christianity bringing about the end of Paganism in Finland and Europe at large.
+				[NEWLINE][NEWLINE]
+				[NEWLINE][NEWLINE]Väinämöinen
+				[NEWLINE][NEWLINE]Väinämöinen is the central character of The Kalevala, a shamanistic hero and a rune singer with a magical power of song and music, similar to that of Orpheus. He is born of Ilmatar and contributes to the creation of Earth as it is today. Many of his travels resemble shamanistic journeys, most notably one where he visits the belly of a ground-giant, Antero Vipunen, to find the songs of boat building.
+				[NEWLINE][NEWLINE]Väinämöinen created and plays the kantele, a Finnish stringed instrument that resembles and is played like a zither.
+				[NEWLINE][NEWLINE]Väinämöinen's search for a wife is a central element in many stories; although he never finds one. One of his potential brides, Joukahainen's sister Aino, drowns herself instead of marrying him. He is the leading member of the group which steals the Sampo from the people of Pohjola.
+				[NEWLINE][NEWLINE]Ilmarinen
+				[NEWLINE][NEWLINE]Seppo Ilmarinen, is a heroic artificer (comparable to the Germanic Weyland and the Greek Daedalus). He crafted the dome of the sky, the Sampo and various other magical devices featured in The Kalevala. Ilmarinen is the second member of the group who steal the Sampo.
+				[NEWLINE][NEWLINE]Ilmarinen, like Väinämöinen, also has many stories told of his search for a wife, reaching the point where he forges one of gold.
+				[NEWLINE][NEWLINE]Lemminkäinen
+				[NEWLINE][NEWLINE]Lemminkäinen, a handsome, arrogant and reckless ladies-man, is the son of Lempi (English: lust or favourite). He shares a very close relationship with his mother, who revives him after he has been drowned in the river of Tuonela while pursuing the object of his romantic desires. This section of The Kalevala echoes the myth of Osiris. Lemminkäinen is the third member of the group which steals the Sampo from Pohjola.
+				[NEWLINE][NEWLINE]Ukko
+				[NEWLINE][NEWLINE]Ukko (English: Old man) is the god of sky and thunder, and the leading deity mentioned within The Kalevala. His character corresponds to Thor and Zeus. John Martin Crawford wrote that the name may be related the obsolete Hungarian word for an old man (agg).
+				[NEWLINE][NEWLINE]Joukahainen
+				[NEWLINE][NEWLINE]Joukahainen is a base, young man who arrogantly challenges Väinämöinen to a singing contest which he loses. In exchange for his life Joukahainen promises his young sister Aino to Väinämöinen. Joukahainen attempts to gain his revenge on Väinämöinen by killing him with a crossbow but only succeeds in killing Väinämöinen's horse. Joukahainen's actions lead to Väinämöinen promising to build a Sampo in return for Louhi rescuing him.
+				[NEWLINE][NEWLINE]Louhi
+				[NEWLINE][NEWLINE]Louhi, the Mistress of the North, is the shamanistic matriarch of the people of Pohjola, a people rivalling those of Kalevala. She is the cause of much trouble for Kalevala and its people.
+				[NEWLINE][NEWLINE]Louhi at one point saves Väinämöinen's life. She has many daughters whom the heroes of Kalevala make many attempts (some successful) at seducing. Louhi plays a major part in the battle to prevent the heroes of Kalevala from stealing back the Sampo which as a result is ultimately destroyed. She is a powerful witch with a skill almost on a par with that of Väinämöinen's.
+				[NEWLINE][NEWLINE]Kullervo
+				[NEWLINE][NEWLINE]Kullervo is the vengeful, mentally ill and tragic son of Kalervo. He was abused as a child and sold into slavery to Ilmarinen. He is put to work and treated badly by Ilmarinen's wife whom he later kills. Kullervo is a misguided and troubled youth often at odds with himself and his situation. He often goes into berserk rage and in the end commits suicide.
+				[NEWLINE][NEWLINE]Marjatta
+				[NEWLINE][NEWLINE]Marjatta is the young virgin of Kalevala. She becomes pregnant from eating a lingonberry. When her labour begins she is expelled from her parents' home and leaves to find a place where she can sauna and give birth. She is turned away from numerous places but finally finds a place in the forest and gives birth to a son. Marjatta's nature, impregnation and searching for a place to give birth are in allegory to the Virgin Mary and the Christianisation of Finland.[54] Marjatta's son is later condemned to death by Väinämöinen for being born out of wedlock, the boy in turn chastises Väinämöinen and is later crowned King of Karelia. This angers Väinämöinen who leaves Kalevala after bequeathing his songs and kantele to the people as his legacy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FINNIC_RUNE_SINGER_STRATEGY">
+			<Text>Strategy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_FINNIC_RUNE_SINGER">
+			<Text>A Rune Singer may be expended for a Rune - a Great work of Writing, if a suitable slot is empty in the empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_FINNISH_SAUNA">
+			<Text>Sauna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_FINNISH_SAUNA_TEXT">
+			<Text>
+				A sauna is a small room or house designed as a place to experience dry or wet heat sessions, or an establishment with one or more of these and auxiliary facilities. A sauna session can be a social affair in which the participants disrobe and sit or recline in temperatures typically between 70 °C (158 °F) and 100 °C (212 °F). This induces relaxation and promotes sweating.[NEWLINE][NEWLINE]In Finland, Estonia and Latvia as well in Russia, the sauna is an ancient custom. It used to be a holy place, a place where women gave birth, and where the bodies of the dead were washed. There were also many beliefs and charms that were connected to sauna. It was, among other things, a place for worshipping the dead – it was thought of as such a wonderful place that even the dead would surely like to return to it. Curing diseases and casting love spells could also happen in the sauna. As in many other cultures, fire was seen as a gift from heaven in Finland, and the hearth and the sauna oven were its altars.[NEWLINE][NEWLINE]The oldest known saunas were pits dug in a slope in the ground and primarily used as dwellings in winter. The sauna featured a fireplace where stones were heated to a high temperature. Water was thrown over the hot stones to produce steam and to give a sensation of increased heat. This would raise the apparent temperature so high that people could take off their clothes. The first Finnish saunas are what nowadays are called savusaunas, or smoke saunas. These differed from present-day saunas in that they were heated by heating a pile of rocks called kiuas by burning large amounts of wood about 6 to 8 hours, and then letting the smoke out before enjoying the löyly, or sauna heat. A properly heated "savusauna" gives heat up to 12 hours.[NEWLINE][NEWLINE]As a result of the industrial revolution, the sauna evolved to use a metal woodstove with a chimney. Steam vapor, also called löyly, was created by splashing water on the heated rocks.[NEWLINE][NEWLINE]The steam and high heat caused bathers to perspire. The Finns also used a vihta (Western dialect, or vasta in Eastern dialect), which is a bundle of birch twigs with fresh leaves, to gently slap the skin and create further stimulation of the pores and cells.[NEWLINE][NEWLINE]Although the culture of sauna nowadays is more or less related to Finnish culture, it is important to note that the evolution of sauna has happened around the same time both in Finland and the Baltic countries sharing the same meaning and importance of sauna in daily life. The same sauna culture is shared in both places still to this day.[NEWLINE][NEWLINE]When the Finns migrated to other areas of the globe they brought their sauna designs and traditions with them, introducing other cultures to the enjoyment and health benefits of sauna. This led to further evolution of the sauna, including the electric sauna stove, which was introduced on 11 May 1951 by Johannes Säubel in Helsinki.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_FINNISH_SAUNA_STRATEGY">
+			<Text>Sauna produces 2 [ICON_PEACE] Faith, speeding the civilization's acquisition of a Pantheon, and it has a slot for a Great Work of Writing. Melee, gun, mounted and archer units built in a city with Sauna gain a small healing bonus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_FINNISH_SAUNA_HELP">
+			<Text>Finnish unique building replacing the Shrine. The Sauna gives 2 [ICON_PEACE] Faith and has a slot for a Great Work of Writing. Land units built in a city with Sauna heal +5 HP per turn within own borders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FINNISH_FOREST_PATROL">
+			<Text>Sissi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UNIT_FINNISH_FOREST_PATROL_TEXT">
+			<Text>Sissi is a Finnish term for light infantry which conducts reconnaissance, sabotage and guerrilla warfare operations behind enemy lines. The word sissi, first attested in the modern meaning "patrolman, partisan, spy" in 1787, comes to Finnish from Slavic and refers either to a forest bandit or his yew bow.[NEWLINE][NEWLINE]The Finnish Army Sissi units are trained to conduct long range reconnaissance patrols, gather intelligence from concealed observation posts, raid enemy installations (especially supply depots), conduct road side ambushes and pursue and destroy enemy special forces units.[NEWLINE][NEWLINE]In wartime, the unknown number of reservists assigned to Sissi battalions would deploy and operate as small groups up to company size. They are meant to stay behind and covertly operate against enemy forces in their area of responsibility even if regular friendly troops have been forced to retreat. Sissi battalions are part of Finnish Army local troops, unlike the jäger and armored brigades meant for operational use. Sissi units are considered as the elites of the Army conscripts, and many of the units, such as the Paratroopers or Border Jaegers, are formed of volunteers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FINNISH_FOREST_PATROL_STRATEGY">
+			<Text>The Sissi is a fast late-game unit best used to wreak havoc behind enemy borders and destroying their armor units. It operates as a ranged unit with a range of 1 tile.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_FINNISH_FOREST_PATROL_HELP">
+			<Text>A Finnish Machine Gun replacement that ignores terrain cost and may pillage with no movement penalty. In addition, it gets +33% strength fighting against armor units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_FINNS_TEXT">
+			<Text>Honor and glory be yours, Baron Carl Gustaf Emil Mannerheim, Marshal of Finland. Your nation lies in the vast, cold North, surrounded by the great wilderness of forests and thousands of lakes. After being under Swedish rule, then Russian rule, Finland declared its independence in 1917 but was soon embroiled in a bloody civil war. Two decades later you united your war-torn nation to protect its independence against overwhelming Soviet attack. Despite all the odds, Finland remained independent in the torments of World War II by its stalwart united spirit, and from ashes of war your small agrarian country developed into a modern industrious welfare state the quality of life of which now stands on the top of the world.[NEWLINE][NEWLINE]Honoured marshal Mannerheim, your people calls for you once more time! You are called to unite Finland once again standing strong against her enemies! Will you lead your nation to greatness? Will you build a civilization to stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_FINNISH_PAGANISM">
+			<Text>Finnish Paganism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SAUNA">
+			<Text>Sauna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SAUNA_HELP">
+			<Text>Heals +5 HP in Friendly Territory</Text>
+		</Row>
+		<!-- Based upon the list of the oldest Finnish towns, with Helsinki and Tampere raised up.-->
+		<Row Tag="TXT_KEY_CITY_NAME_FINNS_0">
+			<Text>Helsinki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FINNS_1">
+			<Text>Turku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FINNS_2">
+			<Text>Porvoo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FINNS_3">
+			<Text>Tampere</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FINNS_4">
+			<Text>Rauma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FINNS_5">
+			<Text>Naantali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FINNS_6">
+			<Text>Viipuri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FINNS_7">
+			<Text>Pori</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FINNS_8">
+			<Text>Ulvila</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FINNS_9">
+			<Text>Oulu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FINNS_10">
+			<Text>Vaasa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FINNS_11">
+			<Text>Uusikaupunki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FINNS_12">
+			<Text>Käkisalmi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FINNS_13">
+			<Text>Taipale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FINNS_14">
+			<Text>Kokkola</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FINNS_15">
+			<Text>Uusikaarlepyy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FINNS_16">
+			<Text>Tornio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FINNS_17">
+			<Text>Tammisaari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FINNS_18">
+			<Text>Sortavala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FINNS_19">
+			<Text>Hämeenlinna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FINNS_20">
+			<Text>Savonlinna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FINNS_21">
+			<Text>Lappeenranta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FINNS_22">
+			<Text>Kristiinankaupunki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FINNS_23">
+			<Text>Kajaani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FINNS_24">
+			<Text>Lieksa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FINNS_25">
+			<Text>Kuopio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FINNS_26">
+			<Text>Pietarsaari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FINNS_27">
+			<Text>Hamina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FINNS_28">
+			<Text>Loviisa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FINNS_29">
+			<Text>Kaskinen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FINNS_30">
+			<Text>Jyväskylä</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FINNS_31">
+			<Text>Mikkeli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FINNS_32">
+			<Text>Heinola</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FINNS_33">
+			<Text>Joensuu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FINNS_34">
+			<Text>Maarianhamina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FINNS_35">
+			<Text>Kemi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FINNS_36">
+			<Text>Hanko</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FINNS_37">
+			<Text>Kotka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FINNS_38">
+			<Text>Iisalmi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FINNS_39">
+			<Text>Lahti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_FINNS_SHORT">
+			<Text>Kalevala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_FINNS">
+			<Text>[ICON_PEACE] Faith buildings summon unique Rune Singers, writing unique Great Works available only to Finland. Melee and gun units gain unique promotions according to the nation's [ICON_CULTURE] Culture output.</Text>
+		</Row>
+		
+		<!-- CIVILOPEDIA -->
+
+		<Row Tag="TXT_KEY_CIV5_FINNS_FACTOID_HEADING">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FINNS_FACTOID_TEXT">
+			<Text>Finland was the first real democracy in the world because it was the first nation in the world to give full suffrage (the right to vote and to run for office) to all citizens, including women. [NEWLINE][NEWLINE]A quarter of Finland's territory lies within the Arctic Circle and the midnight sun can be experienced for more days the farther north one travels. At Finland's northernmost point, the sun does not set for 73 consecutive days during
+summer, and does not rise at all for 51 days during winter.[NEWLINE][NEWLINE]Due to having been compressed under the enormous weight of the glaciers, terrain in Finland is rising due to the post-glacial rebound. The effect is
+strongest around the Gulf of Bothnia, where land steadily rises about 1 cm a year. As a result, the old sea bottom turns little by little into dry land. In a sense, Finland is rising from the sea.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FINNS_HEADING_1">
+			<Text>Overview</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FINNS_HEADING_2">
+			<Text>Climate and Terrain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FINNS_HEADING_3">
+			<Text>Origins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FINNS_HEADING_4">
+			<Text>Swedish Era</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FINNS_HEADING_5">
+			<Text>Autonomous Duchy of Finland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FINNS_HEADING_6">
+			<Text>Struggles of a Young Republic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FINNS_HEADING_7">
+			<Text>The Winter War</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FINNS_HEADING_8">
+			<Text>The War Continues</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FINNS_HEADING_9">
+			<Text>Postwar Period and Recovery</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FINNS_HEADING_10">
+			<Text>Urho Kekkonen's Era</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FINNS_HEADING_11">
+			<Text>Recent History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FINNS_TEXT_1">
+			<Text>Finland, officially the Republic of Finland, is a Nordic country situated in the Fennoscandian region of Northern Europe. It is bordered by Sweden in the west, Norway in the north and Russia in the east, while Estonia lies to its south across the Gulf of Finland.[NEWLINE][NEWLINE]Around 5.4 million people reside in Finland, with the majority concentrated in the southern region. It is the eighth largest country in Europe in terms of area and the most sparsely populated country in the European Union. Finland is a parliamentary republic with a central government based in Helsinki and local governments in 336 municipalities, and an autonomous region of the Aland Islands. About one million residents live in the Greater Helsinki area, which consists of Helsinki, Espoo, Kauniainen and Vantaa, and a third of the country's GDP is produced there. Other larger cities include Tampere, Turku, Oulu, Jyvaskyla, Lahti and Kuopio.[NEWLINE][NEWLINE]Finland was a part of Sweden from the 12th to 19th century, and from 1809–1917 was an autonomous Grand Duchy within the Russian Empire. The Finnish Declaration of Independence from Russia in 1917 was followed by a civil war in which the red side was defeated with German support. Finland fought World War II as essentially three separate conflicts: the Winter War (1939–40), the Continuation War (1941–44), and the Lapland War (1944–45). Finland joined the United Nations in 1955, the OECD in 1969, the European Union in 1995, and the eurozone at its inception in 1999.[NEWLINE][NEWLINE]Finland was a relative latecomer to industrialisation, remaining a largely agrarian country until the 1950s. Thereafter, economic development was rapid. Finland built an extensive welfare state and balanced between the East and the West in global economics and politics. With the best educational system in Europe, Finland has recently ranked as one of the world's most peaceful, competitive and livable countries.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FINNS_TEXT_2">
+			<Text>Lying between latitudes 59° and 71° N, and longitudes 20° and 32° E, Finland is one of the world's northernmost countries. Of world capitals, only Reykjavik lies more to the north than Helsinki. The distance from the southernmost, Hanko, to the northernmost point in the country, Nuorgam, is 1,160 kilometres (720 mi).[NEWLINE][NEWLINE]Finland has a humid and cool semi-continental climate, characterized by warm summers and freezing winters. The climate type in southern Finland is north temperate climate. Winters of southern Finland are usually 4 months long, and the snow typically covers the land from middle of December to early April. In the southern coast, it can melt many times during early winter, and then come again. The coldest winter days of southern Finland can be as low as −40 °C (−40 °F), and the warmest days of July and August can be as high as 35 °C (95 °F). Arctic tundra proper is not found in Finland; Finland lies almost exactly on the taiga belt, being covered in boreal forest. Alpine tundra can be found in the mountainous Lapland, and oak grows in the southernmost islands and coast.[NEWLINE][NEWLINE]The main factor influencing Finland's climate is the country's geographical position between the 60th and 70th northern parallels in the Eurasian continent's coastal zone, which shows characteristics of both a maritime and a continental climate, depending on the direction of air flow. Finland is near enough to the Atlantic Ocean to be continuously warmed by the Gulf Stream, which explains the unusually warm climate considering the absolute latitude.[NEWLINE][NEWLINE]The Finnish climate is suitable for grain farming in the southernmost regions but not farther north.[NEWLINE][NEWLINE]Forest covers 86% of the country's area, the largest forested area in Europe. The forest consists of pine, spruce, birch and other species. Finland is the largest producer of wood in Europe and among the largest in the world.[NEWLINE][NEWLINE]Finland is a country of thousands of lakes and islands - 187,888 lakes (larger than 500 m2/0.12 acre) and 179,584 islands. Its largest lake, Saimaa, is the fourth largest in Europe. The greatest number of islands are to be found in the southwest in the Turku archipelago. Further from the coast lies Ahvenanmaa or Åland (in Swedish) Islands.[NEWLINE][NEWLINE]Much of the geography of Finland is explained by the Ice Age. The glaciers were thicker and lasted longer in Fennoscandia compared to the rest of Europe. Their eroding effects have left the Finnish landscape mostly flat with few hills and fewer mountains. Its highest point, the Halti at 1,324 metres (4,344 ft), is found in the extreme north of Lapland at the border between Finland and Norway.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FINNS_TEXT_3">
+			<Text>According to archaeological evidence, the area now comprising Finland was settled at the latest around 8500 BCE during the Stone Age as the ice sheet of the last ice age receded. The artifacts the first settlers left behind present characteristics that are shared with those found in Estonia, Russia and Norway. The earliest people were hunter-gatherers, using stone tools. The first pottery appeared in 5200 BCE when the Comb Ceramic culture was introduced. The arrival of the Corded Ware culture in southern coastal Finland between 3000 and 2500 BCE may have coincided with the start of agriculture. Even with the introduction of agriculture, hunting and fishing continued to be important parts of the subsistence economy.[NEWLINE][NEWLINE]The Bronze Age (1500–500 BCE) and Iron Age (500 BCE–1200 CE) were characterised by extensive contacts with other cultures in the Fennoscandian and Baltic regions. There is no consensus on when Uralic languages and Indo-European languages were first spoken in the area of contemporary Finland. During the 1st millennium AD early Finnish was spoken at least in agricultural settlements of Southern Finland, whereas Sámi-speaking populations occupied most parts of the country.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FINNS_TEXT_4">
+			<Text>Swedish kings established their rule in the Northern Crusades from the 12th century until 1249. The area of present-day Finland became a fully consolidated part of the Swedish kingdom. Swedish-speaking settlers arrived at the coastal regions during the medieval time. In the 17th century, Swedish became the dominant language of the nobility, administration and education; Finnish was chiefly a language for the peasantry, clergy and local courts in predominantly Finnish-speaking areas.[NEWLINE][NEWLINE]During the Protestant Reformation, the Finns gradually converted to Lutheranism. In the 16th century, Mikael Agricola published the first written works in Finnish. The first university in Finland, The Royal Academy of Turku, was established in 1640. Finland suffered a severe famine in 1696–97, during which about one-third of the Finnish population died. In the 18th century, wars between Sweden and Russia led to the occupation of Finland twice by Russian forces, wars known to the Finns as the Greater Wrath (1714–21) and the Lesser Wrath (1742–43). By this time Finland was the predominant term for the whole area from the Gulf of Bothnia to the Russian border.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FINNS_TEXT_5">
+			<Text>On 29 March 1809, having been taken over by the armies of Alexander I of Russia in the Finnish War, Finland became an autonomous Grand Duchy in the Russian Empire until the end of 1917. In 1811 Alexander I incorporated Russian Vyborg province into the Grand Duchy of Finland. During the Russian era, the Finnish language began to gain recognition. From the 1860s onwards, a strong Finnish nationalist movement known as the Fennoman movement grew. Milestones included the publication of what would become Finland's national epic, the Kalevala, in 1835, and the Finnish language's achieving equal legal status with Swedish in 1892.[NEWLINE][NEWLINE]The Finnish famine of 1866–1868 killed 15% of the population, making it one of the worst famines in European history. The famine led the Russian Empire to ease financial regulations, and investment rose in following decades. Economic and political development was rapid. The GDP per capita was still half of that of the United States and a third of that of Britain.[NEWLINE][NEWLINE]In 1906, universal suffrage was adopted in the Grand Duchy of Finland. However, the relationship between the Grand Duchy and the Russian Empire soured when the Russian government made moves to restrict Finnish autonomy. For example, the universal suffrage was, in practice, virtually meaningless, since the tsar did not have to approve any of the laws adopted by the Finnish parliament. Desire for independence gained ground, first among radical liberals and socialists.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FINNS_TEXT_6">
+			<Text>After the 1917 February Revolution, the position of Finland as part of the Russian Empire was questioned, mainly by Social Democrats. Since the head of state was the Czar of Russia, it was not clear who the chief executive of Finland was after the revolution. The parliament, controlled by social democrats, passed the so called Power Act to give the highest authority to parliament. This was rejected by the Russian Provisional Government and by the right-wing parties in Finland. The Provisional Government dissolved the parliament by force, which the social democrats considered illegal, since the right to do so had been stripped from the Russians by the Power Act.[NEWLINE][NEWLINE]New elections were conducted, in which right-wing parties won a slim majority. Some social democrats refused to accept the result and still claimed that the dissolution of the parliament (and thus the ensuing elections) were extralegal. The two nearly equally powerful political blocs, the right-wing parties and the social democratic party, were highly antagonized.[NEWLINE][NEWLINE]The October Revolution in Russia changed the game anew. Suddenly, the right-wing parties in Finland started to reconsider their decision to block the transfer of highest executive power from the Russian government to Finland, as radical communists took power in Russia. Rather than acknowledge the authority of the Power Law of a few months earlier, the right-wing government declared independence on 6 December 1917.[NEWLINE][NEWLINE]On 27 January 1918, the official opening shots of the war were fired in two simultaneous events. The government started to disarm the Russian forces in Pohjanmaa, and the Social Democratic Party staged a coup. The latter succeeded in controlling southern Finland and Helsinki, but the white government continued in exile from Vaasa. This sparked the brief but bitter civil war. The Whites, who were supported by Imperial Germany, prevailed over the Reds. After the war, tens of thousands of Reds and suspected sympathizers were interned in camps, where thousands died by execution or from malnutrition and disease. Deep social and political enmity was sown between the Reds and Whites and would last until the Winter War and beyond. The civil war and activist expeditions to the Soviet Union strained Eastern relations.[NEWLINE][NEWLINE]After a brief flirtation with monarchy, Finland became a presidential republic, with Kaarlo Juho Ståhlberg elected as its first president in 1919. The Finnish–Russian border was determined by the Treaty of Tartu in 1920, largely following the historic border but granting Pechenga (Finnish: Petsamo) and its Barents Sea harbour to Finland. Finnish democracy did not see any Soviet coup attempts and survived the anti-Communist Lapua Movement. The relationship between Finland and the Soviet Union was tense. Germany's relations with democratic Finland cooled also after the Nazis' rise to power. The army was trained in France instead, and relations to Western Europe and Sweden were strengthened.[NEWLINE][NEWLINE]In 1917 the population was 3 million. Credit-based land reform was enacted after the civil war, increasing the proportion of capital-owning population. About 70% of workers were occupied in agriculture and 10% in industry. The largest export markets were the United Kingdom and Germany.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FINNS_TEXT_7">
+			<Text>During World War II, Finland fought the Soviet Union twice: in the Winter War of 1939–40 after the Soviet Union had attacked Finland; and in the Continuation War of 1941–44.[NEWLINE][NEWLINE]Winter War began with a Soviet offensive on 30 November 1939 - two months after the start of World War II and the Soviet invasion of Poland - and ended on 13 March 1940 with the Moscow Peace Treaty. The League of Nations deemed the attack illegal and expelled the Soviet Union from the League on 14 December 1939.[NEWLINE][NEWLINE]The Soviets had more than three times as many soldiers as the Finns, thirty times as many aircraft, and a hundred times as many tanks. The Red Army, however, had been crippled by Soviet leader Joseph Stalin's Great Purge of 1937, reducing the army's morale and efficiency shortly before the outbreak of the fighting. With more than 30,000 of its army officers executed or imprisoned, including most of those of the highest ranks, the Red Army in 1939 had many inexperienced senior and mid-level officers. Because of these factors, and high morale in the Finnish forces, Finland was able to resist the Soviet invasion for far longer than the Soviets expected.[NEWLINE][NEWLINE]Hostilities ceased in March 1940 with the signing of the Moscow Peace Treaty. Finland ceded 11% of its pre-war territory and 30% of its economic assets to the Soviet Union. Soviet losses were heavy, and the country's international reputation suffered. Soviet forces did not accomplish their objective of the total conquest of Finland, but did gain substantial territory along Lake Ladoga, providing a buffer for Leningrad, and territory in Northern Finland. The Finns, however, retained their sovereignty and enhanced their international reputation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FINNS_TEXT_8">
+			<Text>The Continuation War of 1941-44 followed Operation Barbarossa, in which Germany invaded the Soviet Union. For 872 days, the German army besieged Leningrad, the USSR's second largest city. The siege of Leningrad resulted in the deaths of some one million of the city's inhabitants. Finnish troops controlled some of the areas around the city but refused to attack or let Germans use those areas for attack; whether they should be said to have helped in the siege or refused to help is controversial. After fighting a major Soviet offensive in June/July 1944 to a standstill, Finland reached an armistice with the Soviet Union. This was followed by the Lapland War of 1944–45, when Finland forced the Germans out of northern Finland.[NEWLINE][NEWLINE]The treaties signed in 1947 and 1948 with the Soviet Union included Finnish obligations, restraints and reparations—as well as further Finnish territorial concessions begun in the Moscow Peace Treaty of 1940. As a result of the two wars, Finland was forced to cede most of Finnish Karelia, Salla and Petsamo, which amounted to 10% of its land area and 20% of its industrial capacity, including the ports of Vyborg (Viipuri) and ice-free Liinakhamari (Liinahamari). Almost the whole population, some 400,000 persons, fled these areas. Finland was never occupied by Soviet forces and retained its independence, and was the only bordering country of USSR in Europe that kept its independence after the war, however at a loss of about 93 000 soldiers killed, by proportion the third-highest loss rate in World War II.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FINNS_TEXT_9">
+			<Text>Finland rejected Marshall aid, in apparent deference to Soviet desires. However, the United States provided secret development aid and helped the still non-communist Social Democratic Party in hopes of preserving Finland's independence. Establishing trade with the Western powers, such as the United Kingdom, and the reparations to the Soviet Union caused Finland to transform itself from a primarily agrarian economy to an industrialised one. For example, the Valmet corporation was founded to create materials for war reparations. Even after the reparations had been paid off, Finland—poor in certain resources necessary for an industrialized nation (such as iron and oil)—continued to trade with the Soviet Union in the framework of bilateral trade.[NEWLINE][NEWLINE]In 1950 half of the Finnish workers were occupied in agriculture and a third lived in urban areas. The new jobs in manufacturing, services and trade quickly attracted people to the towns. The average number of births per woman declined from a baby boom peak of 3.5 in 1947 to 1.5 in 1973. When baby-boomers entered the workforce, the economy did not generate jobs fast enough, and hundreds of thousands emigrated to the more industrialized Sweden, with emigration peaking in 1969 and 1970. The 1952 Summer Olympics brought international visitors. Finland took part in trade liberalization in the World Bank, the International Monetary Fund and the General Agreement on Tariffs and Trade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FINNS_TEXT_10">
+			<Text>Officially claiming to be neutral, Finland lay in the grey zone between the Western countries and the Soviet Union. The YYA Treaty (Finno-Soviet Pact of Friendship, Cooperation and Mutual Assistance) gave the Soviet Union some leverage in Finnish domestic politics. This was extensively exploited by president Urho Kekkonen against his opponents. He maintained an effective monopoly on Soviet relations from 1956 on, which was crucial for his continued popularity. In politics, there was a tendency of avoiding any policies and statements that could be interpreted as anti-Soviet. This phenomenon was given the name "Finlandization" by the German press.[NEWLINE][NEWLINE]Despite close relations with the Soviet Union, Finland remained a Western European market economy. Various industries benefited from trade privileges with the Soviets, which explains the widespread support that pro-Soviet policies enjoyed among business interests in Finland. Economic growth was rapid in the postwar era, and by 1975 Finland's GDP per capita was the 15th highest in the world. In the 1970s and 1980s, Finland built one of the most extensive welfare states in the world. Finland also negotiated with the EEC (a predecessor of the European Union) a treaty that mostly abolished customs duties towards the EEC starting from 1977, although Finland did not fully join. In 1981, president Urho Kekkonen's failing health forced him to retire after holding office for 25 years.[NEWLINE][NEWLINE]Miscalculated macroeconomic decisions, a banking crisis, the collapse of its largest single trading partner (the Soviet Union) and a global economic downturn caused a deep recession in Finland in the early 1990s. The depression bottomed out in 1993, and Finland saw steady economic growth for more than ten years.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FINNS_TEXT_11">
+			<Text>Like other Nordic countries, Finland has liberalized its economy since the late 1980s. Financial and product market regulation was loosened. Some state enterprises have been privatized and there have been some modest tax cuts. Finland joined the European Union in 1995, and the Eurozone in 1999.[NEWLINE][NEWLINE]The Finnish markka was replaced by the euro in 2002. As a preparation for this date, the minting of the new euro coins started as early as 1999; this is why the first euro coins from Finland have the year 1999 on them, instead of 2002 like some of the other countries of the Eurozone.[NEWLINE][NEWLINE]In the economic policy, the EU membership forced large changes. While politicians were previously involved in setting interest rates, the central bank was given an inflation-targeting mandate until Finland joined the eurozone. During Prime Minister Paavo Lipponen's two successive governments 1995–2003, several large state companies were privatized fully or partially. Matti Vanhanen's two cabinets followed suit until autumn 2008, when the state became a major shareholder in the Finnish telecom company Elisa with the intention to secure the Finnish ownership of a strategically important industry.[NEWLINE][NEWLINE]In addition to fast integration with the European Union, safety against Russian leverage has been increased by building fully NATO-compatible military. 1000 troops (a high per-capita amount) are simultaneously committed in NATO and UN operations. Finland has also opposed energy projects that increase dependency on Russian imports. At the same time, Finland remains one of the last non-NATO members in Europe and there seems to be not enough support for full membership unless Sweden joins first.[NEWLINE][NEWLINE]The population is aging with the birth rate at 10.42 births per 1,000 population, or a fertility rate of 1.8. With a median age of 41.6 years, Finland is one of the oldest countries; half of voters are estimated to be over 50 years old. Like most European countries, without further reforms or much higher immigration, Finland is expected to struggle with demographics, even though macroeconomic projections are healthier than in most other developed countries.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MANNERHEIM_HEADING_1">
+			<Text>Overview</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MANNERHEIM_TEXT_1">
+			<Text>Baron Carl Gustaf Emil Mannerheim (4 June 1867 – 27 January 1951) was the military leader of the Whites in the Finnish Civil War, Commander-in-Chief of Finland's Defence Forces during World War II, Marshal of Finland, and a Finnish statesman. He was Regent of Finland (1918–1919) and the sixth President of Finland (1944–1946).[NEWLINE][NEWLINE]Mannerheim was born in the autonomous Grand Principality of Finland, which was part of the Russian Empire, into a family of Swedish-speaking aristocrats who had settled in Finland in the late 18th century. His paternal German ancestor Marhein had emigrated to Sweden during the 17th century. His maternal ancestry has its roots in Södermanland, Sweden.[NEWLINE][NEWLINE]He made a career in the Imperial Russian Army, rising to the rank of lieutenant general. He also had a prominent place in the ceremonies for Tsar Nicholas II's coronation and later had several private meetings with the Russian Tsar. After the Bolshevik revolution, Finland declared its independence but was soon embroiled in a civil war along class lines. The working class overwhelmingly held a socialist ("Red") creed; whereas the aristocracy, landowners, and the middle-class held a capitalist ("White") creed. Mannerheim was appointed the military chief of the Whites. Twenty years later, when Finland was at war with the Soviet Union during 1939–1944, Mannerheim successfully led the defence of Finland as commander-in-chief of the country's armed forces. In 1944, when prospect of Germany's defeat in World War II became clear, Mannerheim was elected President of Finland and oversaw peace negotiations with the Soviet Union and the Allies. He resigned the presidency in 1946 and died in 1951, retaining universal respect as Finland's greatest statesman.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MANNERHEIM_LIVED">
+			<Text>1867 - 1951 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MANNERHEIM_TITLES_1">
+			<Text>Regent of Finland (1918-1919)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MANNERHEIM_TITLES_2">
+			<Text>Chief of Defence of the Finnish Defence Forces (1918, 1939-1945)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MANNERHEIM_TITLES_3">
+			<Text>President of Finland (1944-1946)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MANNERHEIM_NAME">
+			<Text>Carl Gustaf Emil Mannerheim</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MANNERHEIM_SUBTITLE">
+			<Text>Marshal of Finland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM">
+			<Text>Mannerheim</Text>
+		</Row>
+		<!-- Spy names-->
+		<Row Tag="TXT_KEY_SPY_NAME_FINNS_0">
+			<Text>Ahti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FINNS_1">
+			<Text>Vilho</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FINNS_2">
+			<Text>Väinö</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FINNS_3">
+			<Text>Gösta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FINNS_4">
+			<Text>Rudolf</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FINNS_5">
+			<Text>Antti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FINNS_6">
+			<Text>Maria</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FINNS_7">
+			<Text>Aino</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FINNS_8">
+			<Text>Jenny</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FINNS_9">
+			<Text>Kristiina</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KALEVALA">
+			<Text>Kalevala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_KALEVALA_HELP">
+			<Text>National wonder that has slots for 4 Great Works of Writing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_KALEVALA_TEXT">
+			<Text>The Kalevala is a 19th-century work of epic poetry compiled by Elias Lönnrot from Karelian and Finnish oral folklore and mythology.
+				[NEWLINE][NEWLINE]It is regarded as the national epic of Karelia and Finland and is one of the most significant works of Finnish literature. The Kalevala played an instrumental role in the development of the Finnish national identity, the intensification of Finland's language strife and the growing sense of nationality that ultimately led to Finland's independence from Russia in 1917.
+				[NEWLINE][NEWLINE]The first version of The Kalevala (called The new Kalevala) was published in 1835. The version most commonly known today was first published in 1849 and consists of 23,795 verses, divided into fifty songs or 'runes' (Finnish: runot). The title can be interpreted as "The land of Kaleva" or "Kalevia".
+				[NEWLINE][NEWLINE]The Kalevala begins with the traditional Finnish creation myth, leading into stories of the creation of the earth, plants, creatures and the sky. Creation, healing, combat and internal story telling are often accomplished by the character(s) involved singing of their exploits or desires. Many parts of the stories involve a character hunting or requesting lyrics (spells) to acquire some skill, such as boat-building or the mastery of iron making.
+				[NEWLINE][NEWLINE]As well as magical spell casting and singing, there are many stories of lust, romance, kidnapping and seduction. The protagonists of the stories often have to accomplish feats that are unreasonable or impossible which they often fail to achieve leading to tragedy and humiliation.
+				[NEWLINE][NEWLINE]The Sampo is a pivotal element of the whole work. Many actions and their consequences are caused by the Sampo itself or a character's interaction with the Sampo. It is described as a magical talisman or device that brings its possessor great fortune and prosperity, but its precise nature has been the subject of debate to the present day.
+				[NEWLINE][NEWLINE]There are also similarities with mythology and folklore from other cultures, for example the Kullervo character and his story bearing some likeness to the Greek Oedipus. The similarity of the virginal maiden Marjatta to the Christian Virgin Mary is also striking. The arrival of Marjatta's son in the final song spelling the end of Väinämöinen's reign over Kalevala is similar to the arrival of Christianity bringing about the end of Paganism in Finland and Europe at large.
+				[NEWLINE][NEWLINE]
+				[NEWLINE][NEWLINE]Väinämöinen
+				[NEWLINE][NEWLINE]Väinämöinen is the central character of The Kalevala, a shamanistic hero and a rune singer with a magical power of song and music, similar to that of Orpheus. He is born of Ilmatar and contributes to the creation of Earth as it is today. Many of his travels resemble shamanistic journeys, most notably one where he visits the belly of a ground-giant, Antero Vipunen, to find the songs of boat building.
+				[NEWLINE][NEWLINE]Väinämöinen created and plays the kantele, a Finnish stringed instrument that resembles and is played like a zither.
+				[NEWLINE][NEWLINE]Väinämöinen's search for a wife is a central element in many stories; although he never finds one. One of his potential brides, Joukahainen's sister Aino, drowns herself instead of marrying him. He is the leading member of the group which steals the Sampo from the people of Pohjola.
+				[NEWLINE][NEWLINE]Ilmarinen
+				[NEWLINE][NEWLINE]Seppo Ilmarinen, is a heroic artificer (comparable to the Germanic Weyland and the Greek Daedalus). He crafted the dome of the sky, the Sampo and various other magical devices featured in The Kalevala. Ilmarinen is the second member of the group who steal the Sampo.
+				[NEWLINE][NEWLINE]Ilmarinen, like Väinämöinen, also has many stories told of his search for a wife, reaching the point where he forges one of gold.
+				[NEWLINE][NEWLINE]Lemminkäinen
+				[NEWLINE][NEWLINE]Lemminkäinen, a handsome, arrogant and reckless ladies-man, is the son of Lempi (English: lust or favourite). He shares a very close relationship with his mother, who revives him after he has been drowned in the river of Tuonela while pursuing the object of his romantic desires. This section of The Kalevala echoes the myth of Osiris. Lemminkäinen is the third member of the group which steals the Sampo from Pohjola.
+				[NEWLINE][NEWLINE]Ukko
+				[NEWLINE][NEWLINE]Ukko (English: Old man) is the god of sky and thunder, and the leading deity mentioned within The Kalevala. His character corresponds to Thor and Zeus. John Martin Crawford wrote that the name may be related the obsolete Hungarian word for an old man (agg).
+				[NEWLINE][NEWLINE]Joukahainen
+				[NEWLINE][NEWLINE]Joukahainen is a base, young man who arrogantly challenges Väinämöinen to a singing contest which he loses. In exchange for his life Joukahainen promises his young sister Aino to Väinämöinen. Joukahainen attempts to gain his revenge on Väinämöinen by killing him with a crossbow but only succeeds in killing Väinämöinen's horse. Joukahainen's actions lead to Väinämöinen promising to build a Sampo in return for Louhi rescuing him.
+				[NEWLINE][NEWLINE]Louhi
+				[NEWLINE][NEWLINE]Louhi, the Mistress of the North, is the shamanistic matriarch of the people of Pohjola, a people rivalling those of Kalevala. She is the cause of much trouble for Kalevala and its people.
+				[NEWLINE][NEWLINE]Louhi at one point saves Väinämöinen's life. She has many daughters whom the heroes of Kalevala make many attempts (some successful) at seducing. Louhi plays a major part in the battle to prevent the heroes of Kalevala from stealing back the Sampo which as a result is ultimately destroyed. She is a powerful witch with a skill almost on a par with that of Väinämöinen's.
+				[NEWLINE][NEWLINE]Kullervo
+				[NEWLINE][NEWLINE]Kullervo is the vengeful, mentally ill and tragic son of Kalervo. He was abused as a child and sold into slavery to Ilmarinen. He is put to work and treated badly by Ilmarinen's wife whom he later kills. Kullervo is a misguided and troubled youth often at odds with himself and his situation. He often goes into berserk rage and in the end commits suicide.
+				[NEWLINE][NEWLINE]Marjatta
+				[NEWLINE][NEWLINE]Marjatta is the young virgin of Kalevala. She becomes pregnant from eating a lingonberry. When her labour begins she is expelled from her parents' home and leaves to find a place where she can sauna and give birth. She is turned away from numerous places but finally finds a place in the forest and gives birth to a son. Marjatta's nature, impregnation and searching for a place to give birth are in allegory to the Virgin Mary and the Christianisation of Finland.[54] Marjatta's son is later condemned to death by Väinämöinen for being born out of wedlock, the boy in turn chastises Väinämöinen and is later crowned King of Karelia. This angers Väinämöinen who leaves Kalevala after bequeathing his songs and kantele to the people as his legacy.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

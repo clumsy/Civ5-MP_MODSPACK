@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_FINNS</Type>
+			<Description>TXT_KEY_TRAIT_FINNS</Description>
+			<ShortDescription>TXT_KEY_TRAIT_FINNS_SHORT</ShortDescription>
+		</Row>
+	</Traits>
+	<Trait_FreePromotionUnitCombats>
+		<Row>
+			<TraitType>TRAIT_FINNS</TraitType>
+			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+			<PromotionType>PROMOTION_KALEVALA</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_FINNS</TraitType>
+			<UnitCombatType>UNITCOMBAT_GUN</UnitCombatType>
+			<PromotionType>PROMOTION_KALEVALA</PromotionType>
+		</Row>
+	</Trait_FreePromotionUnitCombats>
+</GameData>

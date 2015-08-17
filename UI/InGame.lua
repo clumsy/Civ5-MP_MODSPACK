@@ -1482,6 +1482,9 @@ ContextPtr:LoadNewContext("Gunstock")
 ContextPtr:LoadNewContext("SabtuanLua")
 ContextPtr:LoadNewContext("CityInfoStack")
 
+-- Nation - Finland --
+ContextPtr:LoadNewContext("FinnishFunctions")
+
 -- Nation - Kilwa --
 ContextPtr:LoadNewContext("CityStatePopupGoldChanges")
 ContextPtr:LoadNewContext("JFD_KilwaFunctions")

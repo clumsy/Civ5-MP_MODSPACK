@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- DIPLOMACY -->
+		<!--First Greeting messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_FIRSTGREETING_1">
+			<Text>The Finnish nation welcomes you. I am baron Gustaf Mannerheim, the honored marshal and leader of Finland. The night is beautiful and solemn, so let's not ruin it with meaningless hostilities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_FIRSTGREETING_2">
+			<Text>Breathe the air of our lakelands, feel the peace of this untouched wilderness. This is Finland, and its people is honored by your presence, great leader. I am baron Gustaf Mannerheim, the marshal and regent of Finland.</Text>
+		</Row>
+		<!--Defeated messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_DEFEATED_1">
+			<Text>Finland has fallen, but our heritage will shine forever.</Text>
+		</Row>
+		<!-- Human repeats an action too much, gets the following responses -->
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_REPEAT_TOO_MUCH_1">
+			<Text>Stop wasting my time if you don't have anything sensible to say.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_REPEAT_TRADE_TOO_MUCH_1">
+			<Text>Accepting such a deal would be treason to the nation of Finland.</Text>
+		</Row>
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_GREETING_HOSTILE_HELLO_1">
+			<Text>Make it quick. Finland has no time for likes of you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_GREETING_POLITE_HELLO_1">
+			<Text>Great leader, what may Finland do for its friend?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>Finland has no desire to aid you with your pathetic war effort, if that's what you want.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_GREETING_HUMAN_AT_WAR_1">
+			<Text>Finland wishes the best for your people in these dangerous and stormy times.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>For your information, the continuing mobilisation of your army near our borders will cause serious consequences.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MANNERHEIM_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>Your continuing expansion is upsetting the Finnish people. For you to know, it will eventually cause your downfall.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>We were just discussing about your continuing expansion. You should take that as a warning.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>Your continuing expansion is upsetting the Finnish people. For you to know, it will eventually cause your downfall.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>We were just discussing about your continuing expansion. You should take that as a warning.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>We are proud to have an ally with such a powerful military as yours.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>You're empire is famous for its strong economy. I hope it goes to the good of your people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_GREETING_HOSTILE_HUMAN_FEW_CITIES_1">
+			<Text>As a friend, I would say you are my favourite city-state. But as we're not friends, I can't really say 'favourite'.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>Your army is so pathetic I hope someone will put it down from its misery soon.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>Finland will have no business with likes of you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_TOO_SOON_FOR_DOF_1">
+			<Text>Sorry. As we met so little time ago, I would prefer a more neutral approach to our diplomacy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_DENOUNCE_1">
+			<Text>I want you to know that not Finland, nor the world will tolerate your actions. Take that as a warning. [NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_DENOUNCE_2">
+			<Text>I announce the world Finland has no business with likes of you. Don't tell me you didn't see this coming.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Finland has done you no wrong, and deserves nothing of this sort.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_HUMAN_DOFED_FRIEND_1">
+			<Text>I am pleased to hear of your friendship with {1_CivName}, as they are great friends of Finland.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_HUMAN_DOFED_ENEMY_1">
+			<Text>Getting too close to {1_CivName} will severely damage our diplomatic relations, for you to know.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>I strongly urge you to reconsider your position with {1_CivName}. They have been nothing but good friends to me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>Finland agrees with you that {1_CivName} is not to be trusted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>We noticed your alliance with {1_CivName}, and Finland is not afraid to follow you to this alliance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>Oh great, now the vermin are breeding. Now I have to deal with both you and {1_CivName}?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>I share your convictions that {1_CivName} only causes problems for our cause. Perhaps the combination of our denouncements will have them rethink their actions.</Text>
+		</Row>
+		<!-- General Diplo Text -->
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_DEC_FRIENDSHIP_1">
+			<Text>Our best interests would be making a declaration of friendship between our two countries.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_DEC_FRIENDSHIP_2">
+			<Text>Great leader, would your nation like to make a declaration of friendship with Finland?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Finland will not tolerate your military build-up at its most sacred borders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_PLOT_BUYING_WARNING_1">
+			<Text>I am concerned about your growing expansion, and must warn you against it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>Your continuing expansion is upsetting the Finnish people. For you to know, it will eventually cause your downfall.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Your continuing expansion is upsetting the Finnish people. For you to know, it will eventually cause your downfall.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_EXPANSION_WARNING">
+			<Text>I am concerned about your growing expansion, and must warn you against it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_RETURNED_CIVILIAN_1">
+			<Text>Finland will never forget your merciful actions towards our civilians.</Text>
+		</Row>
+		<!--Public Declarations-->
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}. Attacking the City-State will greatly damage relations and may lead to war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<!-- Human is asking the AI for something -->
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_DONT_SETTLE_NO_1">
+			<Text>Finland respectfully declines to oblige your concerns.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_DONT_SETTLE_YES_1">
+			<Text>I understand your concerns. I will see to it that this case will be settled in the parliament.</Text>
+		</Row>
+		<!--Deal Offers and related-->
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_LUXURY_TRADE_1">
+			<Text>I sincerely hope that through trade our two nations will prosper.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_OPEN_BORDERS_EXCHANGE_1">
+			<Text>As a sign of mutual respect, Finland would be willing to open her borders if you are willing to do the same.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_RESPONSE_REQUEST_1">
+			<Text>Would you be willing to assist us in these dark times? Finland would be indebted to your great nation.</Text>
+		</Row>
+		<!--AI Attacked by Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_ATTACKED_HOSTILE_1">
+			<Text>There will be war, but you shall not see our nation succumbed. We will fight for our home, religion and fatherland!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_ATTACKED_EXCITED_1">
+			<Text>Very well. A maelstrom of death shall envelope us both.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_ATTACKED_SAD_1">
+			<Text>Finland shall never surrender.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_ATTACKED_BETRAYED_1">
+			<Text>God will never forgive your actions of betrayal. This will eventually lead to your downfall.</Text>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_TOO_SOON_NO_PEACE_1">
+			<Text>Finland seeks justice, not peace.</Text>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_BAD_1">
+			<Text>This is quite disappointing to hear.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MANNERHEIM_GOOD_1">
+			<Text>You have our thanks.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
