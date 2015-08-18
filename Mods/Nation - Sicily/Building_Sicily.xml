@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/28/2014 11:10:02 PM -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_TCM_SICILY_DUMMY</Type>
+			<DefaultBuilding>BUILDING_TCM_SICILY_DUMMY</DefaultBuilding>
+		</Row>
+	</BuildingClasses>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_TCM_SICILY_DUMMY</Type>
+			<BuildingClass>BUILDINGCLASS_TCM_SICILY_DUMMY</BuildingClass>
+			<Cost>-1</Cost>
+			<PrereqTech>NULL</PrereqTech>
+			<MinAreaSize>-1</MinAreaSize>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NeverCapture>true</NeverCapture>
+			<IconAtlas>MAIN_ICON_SUEBIA_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_YieldChangesPerReligion>
+		<Row>
+			<BuildingType>BUILDING_TCM_SICILY_DUMMY</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>100</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_TCM_SICILY_DUMMY</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>200</Yield>
+		</Row>
+	</Building_YieldChangesPerReligion>
+</GameData>

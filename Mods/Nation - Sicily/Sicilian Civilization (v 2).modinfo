@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="d91daf2e-9eb7-425e-af0f-89a00659ffed" version="2">
+  <Properties>
+    <Name>Sicilian Civilization</Name>
+    <Teaser>The Kingdom of Sicily, with Roger II as its leader.</Teaser>
+    <Description>The Kingdom of Sicily, with Roger II as its leader.</Description>
+    <Authors>TarcisioCM</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="3829D926DFCC773A3CFD1AFBBC1DD61D" import="1">Art/DawnofMan_Sicily.dds</File>
+    <File md5="74C6E2C084DE43F4913055B2A612E0E1" import="1">Art/Horseman_England.dds</File>
+    <File md5="E3BE0B937407B54FDF2C8CCA5C52DF24" import="1">Art/Horseman_England.fxsxml</File>
+    <File md5="6C0C4E027340F8DC62A8B05E2D944259" import="1">Art/Horseman_England.gr2</File>
+    <File md5="CDD1546D358C81A58853E81585B83A03" import="1">Art/Horseman_England_gloss.dds</File>
+    <File md5="4F9DB6171AD66258EA2971DA7C75BF49" import="1">Art/Horseman_England_Horse.dds</File>
+    <File md5="989EB01886D03938C36695ABF5AC4D83" import="1">Art/RogerII_Scene.xml</File>
+    <File md5="11F000CE2D6B7992D2A3123D26B6C3F5" import="1">Art/sicily_alpha48.dds</File>
+    <File md5="4829A631CAA8FAE7BF778539EB68D2D9" import="1">Art/tcmemirfleet_SV.dds</File>
+    <File md5="07FC36FE4AE1E84A1132AB2B60B14EAD" import="1">Art/tcmnormanmilite32.dds</File>
+    <File md5="4B1B6DB0E276089E7E200A35C9FA8B2C" import="1">Art/tcmnormanmilite_sv.dds</File>
+    <File md5="580B5AF56B254012ACCDC5C392D2B599" import="1">Art/tcmsicilypeace.mp3</File>
+    <File md5="1FA2A658C5514EAEB4A034DC495CBE6E" import="1">Art/tcmsicilywar.mp3</File>
+    <File md5="17E8F64D5F42E5D220E0B31E27DC0388" import="1">Art/sicily_alpha128.dds</File>
+    <File md5="DCD3BA724CD84BB36D3787B62FFDB5DE" import="1">Art/sicily_alpha16.dds</File>
+    <File md5="11B8F499D68C5F22D8304C1B178A933F" import="1">Art/sicily_alpha24.dds</File>
+    <File md5="33201048A9F049F97291AFF0C284B26E" import="1">Art/sicily_alpha256.dds</File>
+    <File md5="82F9089D521F9390C1AE254BB478E3FD" import="1">Art/sicily_alpha32.dds</File>
+    <File md5="6D5F465B868D1BD9376F81CC0895EDCC" import="1">Art/sicily_alpha45.dds</File>
+    <File md5="0FDAA78731B1FF1387198355D481FB0F" import="1">Art/sicily_alpha64.dds</File>
+    <File md5="8E6F0E084660F75DB8F8C2C791588913" import="1">Art/sicily_alpha80.dds</File>
+    <File md5="850F0FFAAF8A86238944DDAD64ADA733" import="1">Art/sicily_main_icon128.dds</File>
+    <File md5="F25AF07556757B5BDD02BE44C6FB1395" import="1">Art/sicily_main_icon256.dds</File>
+    <File md5="4641973F6128FD165A656480A19AE0C0" import="1">Art/sicily_main_icon32.dds</File>
+    <File md5="DBE29397B5C9C76B8A9E912FA47452D4" import="1">Art/sicily_main_icon45.dds</File>
+    <File md5="F6A3EA6FA2BAB98E8387DFF090CB1BE5" import="1">Art/sicily_main_icon64.dds</File>
+    <File md5="2ADA65EFB60835348EC2197E7B943B13" import="1">Art/sicily_main_icon80.dds</File>
+    <File md5="CD379B35ED3D087463E8AF648236A264" import="1">Art/tcm_alpha_emirfleet32.dds</File>
+    <File md5="3E3C6AA5187CEA9FE372C68AD2312578" import="1">Art/tcm_map_sicily.dds</File>
+    <File md5="B848FA95BE3237D7F7B59F7DAACF9E7D" import="1">Art/tcm_rogerII_leaderscene.dds</File>
+    <File md5="DBB793D0827FB4CD2CAC4072B577FC2F" import="0">Lua/Sicily_Functions.lua</File>
+    <File md5="D58702EBF733D79C1A6C92D0F7B9E543" import="0">XML/Civilization_Sicily.xml</File>
+    <File md5="9228AD13E4476D4F008F6F57E2128622" import="0">XML/Building_Sicily.xml</File>
+    <File md5="7922E19D72A05081B9FDB0776440A51A" import="0">XML/ArtDef_Milite.xml</File>
+    <File md5="5E960B9F5F7774D39A01D07C09B94789" import="0">XML/ArtDef_Emir.xml</File>
+    <File md5="CA3D55684A927DECED93DAC7A6474DB1" import="0">XML/Music_Sicily.xml</File>
+    <File md5="AFE61778103FD2533496AA5F9C751A79" import="0">XML/Leader_RogerII.xml</File>
+    <File md5="90B6E402F535880FB2896A3492A1DEB5" import="0">XML/Icons.xml</File>
+    <File md5="C8E53B54646E2BC98F217DE208D58F63" import="0">XML/GameText.xml</File>
+    <File md5="97C16A635B34FF9551F855455D34AA35" import="0">XML/Units_Sicily.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Building_Sicily.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization_Sicily.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Icons.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader_RogerII.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units_Sicily.xml</UpdateDatabase>
+      <UpdateDatabase>XML/ArtDef_Milite.xml</UpdateDatabase>
+      <UpdateDatabase>XML/ArtDef_Emir.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Music_Sicily.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Sicily_Functions.lua">
+      <Name>Sicilian Functions</Name>
+      <Description>Muh sicily functions</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

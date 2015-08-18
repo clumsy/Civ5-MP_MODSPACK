@@ -1491,6 +1491,9 @@ ContextPtr:LoadNewContext("ManxUA")
 -- Nation - Alans --
 ContextPtr:LoadNewContext("AlansLua")
 
+-- Nation - Sicily --
+ContextPtr:LoadNewContext("Sicily_Functions")
+
 -- Nation - Kilwa --
 ContextPtr:LoadNewContext("CityStatePopupGoldChanges")
 ContextPtr:LoadNewContext("JFD_KilwaFunctions")

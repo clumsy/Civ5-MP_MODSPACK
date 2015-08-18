@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/28/2014 11:10:13 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_TCM_SICILY_DESC">
+			<Text>Kingdom of Sicily</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TCM_SICILY_SHORT_DESC">
+			<Text>Sicily</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TCM_SICILY_ADJECTIVE">
+			<Text>Sicilian</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV_TCM_SICILY_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TCM_SICILY_TEXT_1">
+			<Text>The Kingdom of Sicily was a state that existed in the south of Italy from its founding by Roger II in 1130 until 1816. It was a successor state of the County of Sicily, which had been founded in 1071 during the Norman conquest of southern Italy. Until 1282 the Kingdom covered not only the island of Sicily, but also the whole Mezzogiorno region of southern Italy and the Maltese archipelago. The island was divided into three regions: Val di Mazara, Val Demone and Val di Noto. Often the kingship was vested in another monarch such as the King of Aragon, the King of Spain or the Holy Roman Emperor. In 1816 the island Kingdom of Sicily merged with the Kingdom of Naples to form the Kingdom of the Two Sicilies. In 1861 its areas were united with the Kingdom of Italy. By the 11th century mainland southern Italian powers were hiring Norman mercenaries, who were descendants of the Vikings; it was the Normans under Roger I who conquered Sicily, taking it away from the Arab Muslims. After taking Apulia and Calabria, he occupied Messina with an army of 700 knights. In 1068, Roger I of Sicily and his men defeated the Muslims at Misilmeri but the most crucial battle was the siege of Palermo, which led to Sicily being completely under Norman control by 1091.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_TCM_SICILY_DOM">
+			<Text>May the blessings of all Gods be upon you Roger II, King of Sicily. Having united all the Norman conquests in Italy into one kingdom, you made of Sicily the leading maritime power of the Mediterranean by attacking the Byzantine Empire on the east, and accumulating vast wealth along the way. On both your Court and Realm, men from all ethnicities and religions were accepted as equal, a kind of tolerance not shared by many kingdoms of your time.[NEWLINE][NEWLINE]Oh great King Roger, although your successors were unable to maintain your once mighty kingdom, your people still wait for your triumphant return! Will you awsner their call and return once more to the shores of Sicily, ready to charge your enemies head-on? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SICILY_1">
+			<Text>Palermo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SICILY_2">
+			<Text>Salerno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SICILY_3">
+			<Text>Naples</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SICILY_4">
+			<Text>Catania</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SICILY_5">
+			<Text>Messina</Text>      
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SICILY_6">
+			<Text>Bari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SICILY_7">
+			<Text>Catanzaro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SICILY_8">
+			<Text>Reggio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SICILY_9">
+			<Text>Taranto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SICILY_10">
+			<Text>Lecce</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SICILY_11">
+			<Text>Benevento</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SICILY_12">
+			<Text>Foggia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SICILY_13">
+			<Text>Girgenti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SICILY_14">
+			<Text>Trapani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SICILY_15">
+			<Text>Siracusa</Text>                       
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SICILY_16">
+			<Text>Capua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SICILY_17">
+			<Text>Pescara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SICILY_18">
+			<Text>Tropea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SICILY_19">
+			<Text>Gaeta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SICILY_20">
+			<Text>Trani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SICILY_21">
+			<Text>Melfi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SICILY_22">
+			<Text>Brindisi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SICILY_23">
+			<Text>Crotone</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SICILY_24">
+			<Text>Cefalu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SICILY_25">
+			<Text>Erice</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SICILY_26">
+			<Text>Noto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SICILY_27">
+			<Text>Modica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SICILY_28">
+			<Text>Monreale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SICILY_29">
+			<Text>Agira</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SICILY_30">
+			<Text>Acireale</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_SICILY_0">
+			<Text>Calogero</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SICILY_1">
+			<Text>Andrea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SICILY_2">
+			<Text>Anna</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SICILY_3">
+			<Text>Carmela</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SICILY_4">
+			<Text>Enrico</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SICILY_5">
+			<Text>Francesco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SICILY_6">
+			<Text>Giovanni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SICILY_7">
+			<Text>Luca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SICILY_8">
+			<Text>Paolo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SICILY_9">
+			<Text>Renato</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_TCM_SICILY_ROGERII">
+			<Text>Roger II</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_SICILY_ROGERII_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_SICILY_ROGERII_TEXT_1">
+			<Text>Upon the death of his elder brother, Simon of Hauteville, in 1105, Roger inherited the County of Sicily under the regency of his mother, Adelaide del Vasto. His mother was assisted by such notables as Christodulus, theemir of Palermo. In the summer of 1110, Roger was visited by the Norwegian king Sigurd Jorsalfare, who was on his way to Jerusalem. The story suggests that Sigurd gave Roger the name King of Sicily, twenty years before he actually obtained this title.[NEWLINE][NEWLINE]When William II of Apulia died childless in July 1127, Roger claimed all Hauteville family possessions in the peninsula as well as the overlordship of the Principality of Capua, which had been nominally given to Apulia almost thirty years earlier. However, the union of Sicily and Apulia was resisted by Pope Honorius II and by the subjects of the duchy itself.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_SICILY_ROGERII_HEADING_2">
+			<Text>Kingship</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_SICILY_ROGERII_TEXT_2">
+			<Text>The popes had long been suspicious of the growth of Norman power in southern Italy, and at Capua in December, the pope preached a crusade against Roger, setting Robert II of Capua and Ranulf II of Alife (his own brother-in-law) against him. After this coalition failed, in August 1128 Honorius invested Roger at Benevento as Duke of Apulia. The baronial resistance, backed by Naples, Bari, Salerno, and other cities whose aim was civic freedom, gave way. In September 1129 Roger was generally recognized as duke of Apulia by Sergius VII of Naples, Robert of Capua, and the rest. He began at once to enforce order in the duchy, where the ducal power had long been fading.[NEWLINE][NEWLINE]Upon the death of Pope Honorius in February 1130 there were two claimants to the papal throne. Roger supported Antipope Anacletus II against Innocent II. The reward was a crown, and, on 27 September 1130, Anacletus'papal bull made Roger king of Sicily. He was crowned in Palermo on the Christmas Day 1130. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_SICILY_ROGERII_HEADING_3">
+			<Text>The Pope</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_SICILY_ROGERII_TEXT_3">
+			<Text>This plunged Roger into a ten-year war. The famous Bernard of Clairvaux, Innocent's champion, organized a coalition against Anacletus and his "half-heathen king." He was joined by Louis VI of France, Henry I of England, and the Lothair III, Holy Roman Emperor. Meanwhile southern Italy revolted.[NEWLINE][NEWLINE]In 1130, the Duchy of Amalfi revolted and in 1131, Roger sent John of Palermo across the Strait of Messina to join up with a royal troop from Apulia and Calabria and march on Amalfi by land while George of Antioch blockaded the town by sea and set up a base on Capri. Amalfi soon capitulated.[NEWLINE][NEWLINE]First Roger dealt with a rebellion in Apulia, where he defeated and deposed Grimoald, Prince of Bari, replacing him with his second son Tancred. Meanwhile, Robert and Ranulf took papal Benevento. Roger went to meet them but was defeated at the Battle of Nocera on 25 July 1132. Roger retreated to Salerno.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_SICILY_ROGERII_HEADING_4">
+			<Text>Lothair and the Rebellion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_SICILY_ROGERII_TEXT_4">
+			<Text>The next year, Lothair III came down to Rome for his imperial coronation. The rebel leaders met with him there, but they were refused help because Lothair's force was too small. With the emperor's departure, divisions in his opponents' ranks allowed Roger to reverse his fortunes. By July 1134, Roger's troops had forced Ranulf, Sergius, and the other ringleaders to submit. Robert was expelled from Capua and Roger installed his third son, Alfonso of Hauteville as Prince of Capua. Roger II's eldest son Roger was given the title of Duke of Apulia.[NEWLINE][NEWLINE]Meanwhile, Lothair's contemplated attack upon Roger had gained the backing of Pisa, Genoa, and the Byzantine emperor John II, each of whom feared the growth of a powerful Norman kingdom. A Pisan fleet led by the exiled prince of Capua laid anchor in Naples (1135). Ranulf joined Robert and Sergius there, encouraged by news coming from Sicily that Roger was fatally ill or even already dead. The important fortress of Aversa, among others, passed to the rebels, and only Capua resisted under the royal chancellor, Guarin. On June 5, however, Roger disembarked in Salerno, much to the surprise of the whole mainland provinces. The royal army, split in several forces, easily conquered Aversa and even Alife, the base of the natural rebel leader, Ranulf. Most of the rebels took refuge in Naples, which was besieged in July, but despite the poor health conditions within the city, Roger was not able to take it, and returned to Messina late in the year.[NEWLINE][NEWLINE]In 1136, the long-awaited imperial army, led by Lothair and the duke of Bavaria, Henry the Proud, descended the peninsula to support the three rebels. Henry, Robert, and Ranulf took a large contingent of troops to besiege the peninsular capital of the kingdom, Salerno. Roger remained in Sicily, leaving its mainland garrisons helpless under the chancellor Robert of Selby, while even the Byzantine emperor John II Comnenus sent subsidies to Lothair. Salerno surrendered, and the large army of Germans and Normans marched to the very south of Apulia. There, in June 1137, Lothair besieged and took Bari. At San Severino, after the victorious campaign, he and the pope jointly invested Ranulf as duke of Apulia (August 1137), and the emperor then retired to Germany. Roger, freed from the utmost danger, immediately disembarked in Calabria, at Tropea, with 400 knights and other troops, probably mostly Muslims. After having been welcomed by the Salernitans, he recovered ground in Campania, sacking Pozzuoli, Alife, Capua, and Avellino. Sergius, terrified, was forced to acknowledge him as overlord of Naples and sway his allegiance to Anacletus: that moment marked the fall of an independent Neapolitan duchy, and thereafter the ancient city was fully integrated into the Norman realm.[NEWLINE][NEWLINE]Thence Roger moved to Benevento and northern Apulia, where Duke Ranulf, although steadily losing his bases of power, had some German troops plus some 1,500 knight from the cities of Melfi, Trani, Troia, and Bari, who were "ready to die instead to lead a miserable life." On 30 October 1137, at the Battle of Rignano (next to Monte Gargano), the younger Roger and his father, with Sergius of Naples, met the defensive army of Duke Ranulf. It was the greatest defeat of Roger II's career. His son fought with courage, and Sergius died honourably in battle, but Roger himself fled the field to Salerno. It capped the meteoric career of Ranulf: twice victor over Roger. Anacletus II died in January 1138, but Innocent II refused to reconcile with the King.[NEWLINE][NEWLINE]In Spring 1138, the royal army invaded the Principality of Capua, with the precise intent of avoiding a pitched battle and of dispersing Ranulf's army with a series of marches along sharp terrain. While the count of Alife lacked decision, Roger, now supported by Benevento, destroyed all the rebels' castles in the region, capturing an immense booty. Ranulf himself, who had taken refuge in Troia, his capital, was killed by a malaric fever on 30 April 1139. Later, Roger exhumed him from the Troian cathedral in which he was buried and threw him in a ditch, only to later repent and rebury him decently. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_SICILY_ROGERII_HEADING_5">
+			<Text>Consolidation of Kingship</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_SICILY_ROGERII_TEXT_5">
+			<Text>After the death of Anacletus in January 1138, Roger had sought the confirmation of his title from Innocent. However, the pope wanted an independent Principality of Capua as a buffer state between the Kingdom of Sicily and the Papal States, something Roger would not accept. In the summer of 1139, Innocent II invaded the kingdom with a large army, but was ambushed at Galluccio on (22 July 1139), southeast of present-day Cassino, by Roger's son and was captured. Three days later, by the Treaty of Mignano, the pope proclaimed Roger II as rex Siciliae ducatus Apuliae et principatus Capuae. The boundaries of his regno were only later fixed by a truce with the pope in October 1144. These lands were for the next seven centuries to constitute the kingdoms of Naples and Sicily. [NEWLINE][NEWLINE]In 1139, Bari, where during the wars of the past year 50,000 inhabitants had remained unscathed behind the massive walls, decided to surrender: the excellentissimus princeps Jaquintus, who had led the rebellion of the city, was hanged together with many of his followers, but the city avoided a sack. His execution of the prince and his counsellors was perhaps the most violent act of Roger's life.[NEWLINE][NEWLINE]While his sons overcame pockets of resistance on the mainland, on 5 November 1139 Roger returned to Palermo to plan a great act of legislation: the Assizes of Ariano an attempt to establish his dominions in southern Italy as a coherent state. He returned to check up on his sons' progress in 1140 and then went to Ariano, a town central to the peninsular possessions (and a centre of rebellion under his predecessors). There he promulgated the great law regulating all Sicilian affairs. It invested the king and his bureaucracy with absolute powers and reduced the authority of the often rebellious vassals. While there, centralising his kingdom, Roger declared a new standard coinage, named after the duchy of Apulia: the ducat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_SICILY_ROGERII_HEADING_6">
+			<Text>Later Reign</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_SICILY_ROGERII_TEXT_6">
+			<Text>Roger had now become one of the greatest kings in Europe. At Palermo, Roger drew round him distinguished men of various races, such as the famous Arab geographer Muhammad al-Idrisi and the Greek historian Nilus Doxopatrius. The king welcomed the learned, and he practised toleration towards the several creeds, races and languages of his realm. To administer his domain he hired many Greeks and Arabs, who were trained in long-established traditions of centralized government. He was served by men of nationality as dissimilar as the Englishman Thomas Brun, a kaid of the Curia, and, in the fleet, first by Christodulus and then George of Antioch, whom he made in 1132 ammiratus ammiratorum or "Emir of Emirs", in effect prime vizier. (This title later became the English word admiral). Roger made Sicily the leading maritime power in the Mediterranean. [NEWLINE][NEWLINE]A powerful fleet was built up under several admirals, or "emirs", of whom the greatest was George, formerly in the service of the Muslim prince of Mahdia. Mainly thanks to him, a series of conquests were made on the African coast (1146–1153). From 1135 Roger II started to conquest the coast of Tunisia and enlarge his dominions: Tripoli was captured in 1146 and Cape Bonain 1148. These conquests were lost in the reign of Roger's successor William, however, and never formed an integral part of the kingdom in southern Italy. [NEWLINE][NEWLINE]The Second Crusade (1147–1148) offered Roger an opportunity to revive the attacks against the Byzantine Empire, the traditional Norman enemy to the East. It also afforded him an opportunity, through the agency of Theodwin, a cardinal ever-vigilant for Crusade supporters, to strike up a correspondence with Conrad III of Germany in an effort to break his alliance withManuel I Comnenus. Roger never went himself on an expedition against Byzantium, handing over the command to the skillful George. In 1147, George set sail from Otranto with seventy galleys to assault Corfu. According to Nicetas Choniates, the island capitulated thanks to George's bribes (and the tax burden of the imperial government), welcoming the Normans as their liberators. Leaving a garrison of 1,000 men, George sailed on to the Peloponnesus. He sacked Athens and quickly moved on to the Aegean Islands. He ravaged the coast all along Euboeaand the Gulf of Corinth and penetrated as far as Thebes, Greece, where he pillaged the silk factories and carried off the Jewish damask, brocade, and silk weavers, taking them back to Palermo where they formed the basis for the Sicilian silk industry. George capped the expedition with a sack of Corinth, in which the relics of Saint Theodore were stolen, and then returned to Sicily. In 1149, however, Corfu was retaken. George went on a punitive expedition against Constantinople, but could not land and instead defied the Byzantine emperor by firing arrows against the palace windows. Despite this act, his expedition left no enduring effects.[NEWLINE][NEWLINE]Roger died at Palermo on 26 February 1154 and was buried in the Cathedral of Palermo. He was succeeded by his fourth son, William.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_SICILY_ROGERII_LIVED">
+			<Text>1095 - 1154</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_SICILY_ROGERII_NAME">
+			<Text>Roger II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_SICILY_ROGERII_SUBTITLE">
+			<Text>Leader of Sicily</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_SICILY_ROGERII_TITLES_1">
+			<Text>King of Sicily</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_TCM_SICILY_ROGERII_FIRST_GREETING_1">
+			<Text>Greetings! If you've come with good intentions, I hope we meet again, or have you come to stay?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_SICILY_ROGERII_DEFEATED_1">
+			<Text>The blood has been shed. Do what you must.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TRAIT_TCM_ROGERII">
+			<Text>+1 [ICON_PRODUCTION] Production and 2 [ICON_GOLD] Gold for each religion in a city. +3 [ICON_CULTURE] Culture for each Trade Route with a different civ or City-State.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TCM_ROGERII_SHORT">
+			<Text>Multiculturalism</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_TCM_NORMAN_MILITE">
+			<Text>Norman Milite</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_TCM_NORMAN_MILITE_TEXT">
+			<Text>Almost always comprised of a nation's nobility - the only people who could afford the equipment, horses, and extensive training required - knights were the heavy cavalry of the medieval army. During much of the Middle Ages knights dominated the battlefield. Their superior armor provided good protection from arrows and spears, and their great mobility made them able to exploit an enemy's weakness anywhere on the battlefield. It took a great deal of courage to face a knight's charge. A wall of pikemen might be a match for onrushing knights, but only if they had the discipline and guts to stand their ground. If they flinched, they were dead.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TCM_NORMAN_MILITE_STRATEGY">
+			<Text>Norman Milite Text</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_TCM_NORMAN_MILITE">
+			<Text>Improved version of the Knight, only Sicily may build it. Receive defensive terrain bonuses and has +40% combat strenght against fortified units. Starts with the Amphibious Promotion.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_TCM_EMIR_FLEET">
+			<Text>Emir Fleet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TCM_EMIR_FLEET_TEXT">
+			<Text>Roger employed a powerful fleet built up under several admirals, or "emirs", of whom the greatest was George of Antioch, formerly in the service of the Muslim prince of Mahdia. Mainly thanks to him, a series of conquests were made on the African coast (1146–1153). From 1135 Roger II started to conquest the coast of Tunisia and enlarge his dominions: Tripoli was captured in 1146 and Cape Bonain 1148. These conquests were lost in the reign of Roger's successor William, however, and never formed an integral part of the kingdom in southern Italy.[NEWLINE][NEWLINE]The Second Crusade (1147–1148) offered Roger an opportunity to revive the attacks against the Byzantine Empire, the traditional Norman enemy to the East. Roger never went himself on an expedition against Byzantium, handing over the command to the skillful George. In 1147, George set sail from Otranto with seventy galleys to assault Corfu. According to Nicetas Choniates, the island capitulated thanks to George's bribes (and the tax burden of the imperial government), welcoming the Normans as their liberators. Leaving a garrison of 1,000 men, George sailed on to the Peloponnesus. He sacked Athens and quickly moved on to the Aegean Islands. He ravaged the coast all along Euboeaand the Gulf of Corinth and penetrated as far as Thebes, Greece, where he pillaged the silk factories and carried off the Jewish damask, brocade, and silk weavers, taking them back to Palermo where they formed the basis for the Sicilian silk industry. George capped the expedition with a sack of Corinth, in which the relics of Saint Theodore were stolen, and then returned to Sicily. In 1149, however, Corfu was retaken. George went on a punitive expedition against Constantinople, but could not land and instead defied the Byzantine emperor by firing arrows against the palace windows. Despite this act, his expedition left no enduring effects.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TCM_EMIR_FLEET_STRATEGY">
+			<Text>Emir Fleet Text</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_TCM_EMIR_FLEET">
+			<Text>Improved version of the Galleas that is exceptionally good against cities, only Sicily may build it. May move after attacking and has a 10% Combat Strenght Bonus against cities; use it with hit and run tactics for best effect.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_TCM_ANTI_FORTIFY">
+			<Text>Fearless Chargers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TCM_ANTI_FORTIFY_HELP">
+			<Text>+40% Combat Strenght against fortified units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TCM_FLEET_MOVE_ATTACK">
+			<Text>Naval Raiders</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TCM_FLEET_MOVE_ATTACK_HELP">
+			<Text>Can move after attacking. 10% Combat Strenght Bonus against cities.</Text>
+		</Row>
+	</Language_en_US>
+</GameData> 
