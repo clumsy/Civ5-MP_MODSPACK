@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/1/2014 11:53:20 AM -->
+<GameData>
+
+	<Traits>
+		<Row>
+			<Type>TRAIT_ENGINEERING_LEGACY</Type>
+			<Description>TXT_KEY_TRAIT_ENGINEERING_LEGACY</Description>
+			<ShortDescription>TXT_KEY_TRAIT_ENGINEERING_LEGACY_SHORT</ShortDescription>
+			<FreeBuilding>BUILDING_CMANX_AIRDUMMY</FreeBuilding>
+			<!--<FreeUnit>UNITCLASS_ENGINEER</FreeUnit>
+			<FreeUnitPrereqTech>TECH_INDUSTRIALIZATION</FreeUnitPrereqTech>-->
+		</Row>
+	</Traits>
+
+	
+	<Leader_Traits>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<TraitType>TRAIT_ENGINEERING_LEGACY</TraitType>
+		</Row>
+	</Leader_Traits>
+
+
+	<!--<Trait_ImprovementYieldChanges>
+		<Row>
+			<TraitType>TRAIT_ENGINEERING_LEGACY</TraitType>
+			<ImprovementType>IMPROVEMENT_FISHING_BOATS</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Trait_ImprovementYieldChanges>-->
+
+
+	<Trait_ResourceQuantityModifiers>
+		<!--<Row>
+			<TraitType>TRAIT_ENGINEERING_LEGACY</TraitType>
+			<ResourceType>RESOURCE_OIL</ResourceType>
+			<ResourceQuantityModifier>100</ResourceQuantityModifier>
+		</Row>-->
+		<!--<Row>
+			<TraitType>TRAIT_ENGINEERING_LEGACY</TraitType>
+			<ResourceType>RESOURCE_SILVER</ResourceType>
+			<ResourceQuantityModifier>100</ResourceQuantityModifier>
+		</Row>-->
+	</Trait_ResourceQuantityModifiers>
+	
+	
+	<Language_en_US>
+		<Row Tag="TXT_KEY_TRAIT_ENGINEERING_LEGACY">
+			<Text>Earn 1 [ICON_GREAT_PEOPLE] Great Engineer point in the capitol, and earn Great Engineers 50% faster. +50% production of air units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_ENGINEERING_LEGACY_SHORT">
+			<Text>Engineering Legacy</Text>
+		</Row>
+	</Language_en_US>
+
+</GameData>

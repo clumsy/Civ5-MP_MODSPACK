@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/14/2015 11:12:37 AM -->
+<GameData>
+
+	<Civilizations_YagemStartPosition>
+		<Row>
+			<Type>CIVILIZATION_CALC_MANX</Type>
+			<X>6</X>
+			<Y>72</Y>
+		</Row>
+	</Civilizations_YagemStartPosition>
+	
+
+	<Civilizations_YahemStartPosition>
+		<Row>
+			<Type>CIVILIZATION_CALC_MANX</Type>
+			<X>53</X>
+			<Y>64</Y>
+		</Row>
+	</Civilizations_YahemStartPosition>
+	
+
+	<Civilizations_CordiformStartPosition>
+		<Row>
+			<Type>CIVILIZATION_CALC_MANX</Type>
+			<X>30</X>
+			<Y>34</Y>
+		</Row>
+	</Civilizations_CordiformStartPosition>
+
+
+</GameData>

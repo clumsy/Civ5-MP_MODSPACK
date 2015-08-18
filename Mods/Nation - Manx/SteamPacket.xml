@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_STEAMCARGO</Type>
+			<Description>TXT_KEY_PROMOTION_CARGO_I</Description>
+			<Help>TXT_KEY_PROMOTION_CARGO_I</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CargoChange>2</CargoChange>
+			<PortraitIndex>58</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PEDIA_PROMOTION_CARGO_I</PediaEntry>
+		</Row>
+	</UnitPromotions>
+	
+  <Units>
+    <Row>
+      <Type>UNIT_STEAMPACKET</Type>
+      <Description>TXT_KEY_UNIT_STEAMPACKET</Description>
+      <Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_STEAMPACKET_TEXT</Civilopedia>
+      <Strategy>TXT_KEY_UNIT_STEAMPACKET_STRATEGY</Strategy>
+      <Help>TXT_KEY_UNIT_HELP_STEAMPACKET</Help>
+      <Combat>45</Combat>
+      <Cost>300</Cost>
+      <Moves>3</Moves>
+      <BaseSightRange>2</BaseSightRange>
+      <Class>UNITCLASS_IRONCLAD</Class>
+      <CombatClass>UNITCOMBAT_NAVALMELEE</CombatClass>
+      <Domain>DOMAIN_SEA</Domain>
+      <DefaultUnitAI>UNITAI_ATTACK_SEA</DefaultUnitAI>
+      <MilitarySupport>true</MilitarySupport>
+      <MilitaryProduction>true</MilitaryProduction>
+      <Pillage>true</Pillage>
+      <IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+      <Mechanized>true</Mechanized>
+      <PrereqTech>TECH_STEAM_POWER</PrereqTech>
+      <ObsoleteTech>TECH_COMBUSTION</ObsoleteTech>
+      <AdvancedStartCost>50</AdvancedStartCost>
+      <MinAreaSize>10</MinAreaSize>
+      <NukeDamageLevel>-1</NukeDamageLevel>
+      <CombatLimit>100</CombatLimit>
+      <XPValueAttack>3</XPValueAttack>
+      <XPValueDefense>3</XPValueDefense>
+	  <NumExoticGoods>1</NumExoticGoods>
+      <SpecialCargo></SpecialCargo>
+      <DomainCargo></DomainCargo>
+      <UnitArtInfo>ART_DEF_UNIT_STEAMPACKET</UnitArtInfo>
+      <ShowInPedia>true</ShowInPedia>
+      <MoveRate>BOAT</MoveRate>
+      <UnitFlagIconOffset>0</UnitFlagIconOffset>
+      <PortraitIndex>2</PortraitIndex>
+	  <IconAtlas>CMANX_COLOR_ATLAS</IconAtlas>
+	  <UnitFlagAtlas>CMANX_UNIT_ALPHA</UnitFlagAtlas>
+    </Row>
+  </Units>
+
+  <Unit_AITypes>
+    <Row>
+      <UnitType>UNIT_STEAMPACKET</UnitType>
+      <UnitAIType>UNITAI_ATTACK_SEA</UnitAIType>
+    </Row>
+    <Row>
+      <UnitType>UNIT_STEAMPACKET</UnitType>
+      <UnitAIType>UNITAI_RESERVE_SEA</UnitAIType>
+    </Row>
+    <Row>
+      <UnitType>UNIT_STEAMPACKET</UnitType>
+      <UnitAIType>UNITAI_ESCORT_SEA</UnitAIType>
+    </Row>
+  </Unit_AITypes>
+	
+  <Unit_ClassUpgrades>
+    <Row>
+      <UnitType>UNIT_STEAMPACKET</UnitType>
+      <UnitClassType>UNITCLASS_DESTROYER</UnitClassType>
+    </Row>
+  </Unit_ClassUpgrades>
+	
+  <Unit_FreePromotions>
+    <Row>
+      <UnitType>UNIT_STEAMPACKET</UnitType>
+      <PromotionType>PROMOTION_STEAM_POWERED</PromotionType>
+    </Row>
+    <!--<Row>
+      <UnitType>UNIT_STEAMPACKET</UnitType>
+      <PromotionType>PROMOTION_FIRE_SUPPORT</PromotionType>
+    </Row>-->
+	  <Row>
+		  <UnitType>UNIT_STEAMPACKET</UnitType>
+		  <PromotionType>PROMOTION_SELL_EXOTIC_GOODS</PromotionType>
+	  </Row>
+	  <Row>
+		  <UnitType>UNIT_STEAMPACKET</UnitType>
+		  <PromotionType>PROMOTION_STEAMCARGO</PromotionType>
+	  </Row>
+  </Unit_FreePromotions>
+	
+  <Unit_Flavors>
+    <Row>
+      <UnitType>UNIT_STEAMPACKET</UnitType>
+      <FlavorType>FLAVOR_NAVAL</FlavorType>
+      <Flavor>18</Flavor>
+    </Row>
+  </Unit_Flavors>
+	
+  <Unit_ResourceQuantityRequirements>
+    <!--<Row>
+      <UnitType>UNIT_STEAMPACKET</UnitType>
+      <ResourceType>RESOURCE_COAL</ResourceType>
+      <Cost>1</Cost>
+    </Row>-->
+  </Unit_ResourceQuantityRequirements>
+	
+  <UnitGameplay2DScripts>
+    <Row>
+      <UnitType>UNIT_STEAMPACKET</UnitType>
+      <SelectionSound>AS2D_SELECT_IRONCLAD</SelectionSound>
+      <FirstSelectionSound>AS2D_BIRTH_IRONCLAD</FirstSelectionSound>
+    </Row>
+  </UnitGameplay2DScripts>
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_UNIT_STEAMPACKET">
+      <Text>Steam Packet</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_STEAMPACKET_TEXT">
+		<Text>The Steam packet is the oldest continuously operating passenger shipping company in the world, celebrating its 180th anniversary in 2010. It began as a dedicated and reliable manx shipping and ferry service to stop the island from being cutoff from mainland Britain. During ww1 and ww2 they served as battleships and aircraft carriers, and are most remembered for their help in the Dunkirk evacuation in 1940, rescuing nearly 25,000 ally troops!</Text>
+	</Row>
+    <Row Tag="TXT_KEY_UNIT_STEAMPACKET_STRATEGY">
+		<Text>The Steampacket does not require coal meaning you don’t have to worry about building too many factories! Aside from that you can use it to earn gold and XP by selling exotic goods, it can even carry aircraft a little later to defend you from invaders! A diverse unit or what?</Text>
+	</Row>
+    <Row Tag="TXT_KEY_UNIT_HELP_STEAMPACKET">
+		<Text>Replaces the Ironclad; has an increased production cost, but does not require coal or have the Ironclad's city attack bonus; can sell exotic goods for gold and XP. Can carry two aircraft.</Text>
+	</Row>
+  </Language_en_US>
+	
+</GameData>

@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/23/2014 6:42:08 PM -->
+<GameData>
+
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_CMANX_DUMMY</Type>
+			<DefaultBuilding>BUILDING_CMANX_DUMMY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_CMANX_DUMMY</Description>
+			<MaxPlayerInstances>1</MaxPlayerInstances>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_CMANX_AIRDUMMY</Type>
+			<DefaultBuilding>BUILDING_CMANX_AIRDUMMY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_CMANX_DUMMY</Description>
+			<MaxPlayerInstances>1</MaxPlayerInstances>
+		</Row>
+	</BuildingClasses>
+	
+	
+	<Buildings>
+		<Row>
+			<Type>BUILDING_LAXEYWHEEL</Type>
+			<Cost>250</Cost>
+			<Description>TXT_KEY_BUILDING_LAXEYWHEEL</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_LAXEYWHEEL_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_LAXEYWHEEL_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_LAXEYWHEEL_HELP</Help>
+			<GoldMaintenance>2</GoldMaintenance>
+			<MutuallyExclusiveGroup>-1</MutuallyExclusiveGroup>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<ConquestProb>66</ConquestProb>
+			<BuildingClass>BUILDINGCLASS_WINDMILL</BuildingClass>
+			<ArtDefineTag>ART_DEF_BUILDING_FORGE</ArtDefineTag>
+			<PrereqTech>TECH_ECONOMICS</PrereqTech>
+			<SpecialistType>SPECIALIST_ENGINEER</SpecialistType>
+			<SpecialistCount>2</SpecialistCount>
+			<PortraitIndex>4</PortraitIndex>
+			<IconAtlas>CMANX_COLOR_ATLAS</IconAtlas>
+		</Row>
+
+		<Row>
+			<Type>BUILDING_CMANX_DUMMY</Type>
+			<Description>TXT_KEY_BUILDING_CMANX_DUMMY</Description>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<MinAreaSize>-1</MinAreaSize>
+			<BuildingClass>BUILDINGCLASS_CMANX_DUMMY</BuildingClass>
+			<ArtDefineTag>ART_DEF_BUILDING_UNIVERSITY</ArtDefineTag>
+			<PrereqTech>NULL</PrereqTech>
+			<SpecialistType>SPECIALIST_ENGINEER</SpecialistType>
+			<GreatPeopleRateChange>1</GreatPeopleRateChange>
+			<PortraitIndex>1</PortraitIndex>
+			<IconAtlas>CITIZEN_ATLAS</IconAtlas>
+		</Row>
+
+		<!--To do: Delete dummy building-->
+		
+		<Row>
+			<Type>BUILDING_CMANX_AIRDUMMY</Type>
+			<Description>TXT_KEY_BUILDING_CMANX_DUMMY</Description>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<MinAreaSize>-1</MinAreaSize>
+			<BuildingClass>BUILDINGCLASS_CMANX_AIRDUMMY</BuildingClass>
+			<ArtDefineTag>ART_DEF_BUILDING_UNIVERSITY</ArtDefineTag>
+			<PrereqTech>NULL</PrereqTech>
+			<PortraitIndex>1</PortraitIndex>
+			<IconAtlas>CMANX_COLOR_ATLAS</IconAtlas>
+		</Row>
+	</Buildings>
+
+	<!--<Building_BuildingClassYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_LAXEYWHEEL</BuildingType>
+			<BuildingClassType>BUILDINGCLASS_WORKSHOP</BuildingClassType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<YieldChange>3</YieldChange>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_LAXEYWHEEL</BuildingType>
+			<BuildingClassType>BUILDINGCLASS_FACTORY</BuildingClassType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<YieldChange>3</YieldChange>
+		</Row>
+	</Building_BuildingClassYieldChanges>-->
+	<!-- Building_ClassesNeededInCity -->
+	<!-- Building_FreeUnits -->
+	<!-- Building_DomainFreeExperiences -->
+	<!-- Building_DomainFreeExperiencePerGreatWork -->
+
+	<Building_DomainProductionModifiers>
+		<Row>
+			<BuildingType>BUILDING_CMANX_AIRDUMMY</BuildingType>
+			<DomainType>DOMAIN_AIR</DomainType>
+			<Modifier>50</Modifier>
+		</Row>
+	</Building_DomainProductionModifiers>
+	
+	<!-- Building_FreeSpecialistCounts -->
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_LAXEYWHEEL</BuildingType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_LAXEYWHEEL</BuildingType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>70</Flavor>
+		</Row>
+	</Building_Flavors>
+	<!-- Building_GlobalYieldModifiers -->
+	<!-- Building_HurryModifiers -->
+	<!-- Building_LocalResourceAnds -->
+	<!-- Building_LocalResourceOrs -->
+	<!-- Building_LockedBuildingClasses -->
+	<!-- Building_PrereqBuildingClasses -->
+	<!-- Building_ResourceQuantity -->
+	<!--<Building_ResourceQuantityRequirements>
+		<Row>
+			<BuildingType>BUILDING_LAXEYWHEEL</BuildingType>
+			<ResourceType>RESOURCE_ALUMINUM</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+	</Building_ResourceQuantityRequirements>-->
+	<!-- Building_ResourceYieldModifiers -->
+	<!-- Building_ResourceCultureChanges -->
+	<!-- Building_ResourceFaithChanges -->
+	
+	<!--<Building_RiverPlotYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_LAXEYWHEEL</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_RiverPlotYieldChanges>-->
+	
+	<!-- Building_SeaPlotYieldChanges -->
+	<!-- Building_LakePlotYieldChanges -->
+	<!-- Building_SeaResourceYieldChanges -->
+	
+	<Building_ResourceYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_LAXEYWHEEL</BuildingType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_LAXEYWHEEL</BuildingType>
+			<ResourceType>RESOURCE_COAL</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_LAXEYWHEEL</BuildingType>
+			<ResourceType>RESOURCE_ALUMINUM</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_LAXEYWHEEL</BuildingType>
+			<ResourceType>RESOURCE_URANIUM</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_LAXEYWHEEL</BuildingType>
+			<ResourceType>RESOURCE_GOLD</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_LAXEYWHEEL</BuildingType>
+			<ResourceType>RESOURCE_SILVER</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_LAXEYWHEEL</BuildingType>
+			<ResourceType>RESOURCE_COPPER</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_LAXEYWHEEL</BuildingType>
+			<ResourceType>RESOURCE_SALT</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_LAXEYWHEEL</BuildingType>
+			<ResourceType>RESOURCE_GEMS</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_ResourceYieldChanges>
+	
+	<!-- Building_FeatureYieldChanges -->
+	<!-- Building_TerrainYieldChanges -->
+	<!-- Building_SpecialistYieldChanges -->
+	<!-- Building_UnitCombatFreeExperiences -->
+	<!-- Building_UnitCombatProductionModifiers -->
+	<!-- Building_TechAndPrereqs -->
+	
+	<!-- Building_YieldChanges -->
+	
+	<!-- Building_YieldChangesPerPop -->
+	<!-- Building_YieldChangesPerReligion -->
+	<!-- Building_TechEnhancedYieldChanges -->
+
+	<Building_YieldModifiers>
+		<Row>
+			<BuildingType>BUILDING_LAXEYWHEEL</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>10</Yield>
+		</Row>
+	</Building_YieldModifiers>
+
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_LAXEYWHEEL">
+			<Text>Great Wheel</Text>
+			<Gender>neuter:the</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_LAXEYWHEEL_TEXT">
+			<Text>It was built in 1854 to pump water from the mineshafts and named "Lady Isabella" after the wife of Lieutenant Governor Charles Hope who was the island's governor at that time. The Laxey Wheel is the largest working waterwheel in the world. The wheel was used to pump water from the Glen Mooar part of the ‘Great Laxey Mines’ industrial complex.[NEWLINE] [NEWLINE]The Triskelion is visible on the front of the wheel. However it is backwards; this happened by accident when transferring the image on to the wall, they forgot to reverse the image so it is actually a mirror image of the authentic Three Legs of Mann.[NEWLINE] [NEWLINE]The 150th anniversary of the Lady Isabella was celebrated by the people of Laxey with a grand Fayre on Saturday 24 September 2004. It is currently maintained by Manx National Heritage as part of the Great Laxey Wheel and Mines Trail.	The Wheel features today on the reverse side of the £20 notes issued by the Isle of Man Government.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LAXEYWHEEL_STRATEGY">
+			<Text>The Great Wheel is a mid-game building which which yields an extra +1 [ICON_PRODUCTION] Production from mined resources, and boosts overall production by 10%. Replaces the Windmill, and has an extra slot for an Engineer Specialist.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LAXEYWHEEL_HELP">
+			<Text>Replaces the Windmill; does not require a flat land. Bonus production from mined resources and +10% production in the city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CMANX_DUMMY">
+			<Text>Manx Trait</Text>
+		</Row>
+	</Language_en_US>
+  
+</GameData>

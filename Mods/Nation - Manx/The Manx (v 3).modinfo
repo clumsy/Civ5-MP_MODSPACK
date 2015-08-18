@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="314809b8-7839-4e0f-8546-8a647f6b70f3" version="3">
+  <Properties>
+    <Name>The Manx</Name>
+    <Stability>Beta</Stability>
+    <Teaser>Adds [COLOR_WARNING_TEXT]The Manx[ENDCOLOR] as a playable civ</Teaser>
+    <Description>Adds the Manx as a playable civ.
+
+**Major update in version 2**
+
+Leader: Illiam Dhone (Engineering Legacy) 
+Earn 1 [ICON_GREAT_PEOPLE] Great Engineer point in the capital, and earn great Engineers 50% faster; +50% production of aircraft
+
+UB: The Great Wheel 
+Windmill replacement; +10% [ICON_PRODUCTION] production and +1 production from mined resources; 2 Engineer slots
+
+UU: Steam Packet 
+Ironclad replacement it costs more than the Ironclad to produce. The classic ferry vessel of the Isle of Man can earn Gold and Experience when performing a 1-time trade mission adjacent to another civs territory, and can carry 2 aircraft
+
+Supports JFD's Cultural Diversity and YNAEMP true start location, Civ IV Traits in Civ V, RED Modpack
+
+CREDITS: Leader Scene by LastSword; Icon by TPangolin/Colonial Legacies; Map image by COF; Some concepts adapted from Hiram; Steam Packet model by Lord Tirion; Great Engineer code from Machiavelli; many thanks to JFD for his inspiring code work. 
+
+Peace theme (Manx Music) and War theme (Ellan Vannin) by The Chieftains</Description>
+    <Authors>calcul8or</Authors>
+    <SpecialThanks>ryanjames</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>0</AffectsSavedGames>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="1B086F7D40E6BBA6065F700B9E815A62" import="1">Assets/Atlases/Manx_IconAtlas128.dds</File>
+    <File md5="79C4D0F1E05FC3B9F53BBBF7FADAAF53" import="1">Assets/Atlases/Manx_IconAtlas16.dds</File>
+    <File md5="5BAB7302D34648DC3A6DA998BA8E9F39" import="1">Assets/Atlases/Manx_IconAtlas24.dds</File>
+    <File md5="44A3EBF3AA559505D6ED4D96D9E8440F" import="1">Assets/Atlases/Manx_IconAtlas256.dds</File>
+    <File md5="CC3DE9C6DDC7D481EE58A71C5A47B59A" import="1">Assets/Atlases/Manx_IconAtlas32.dds</File>
+    <File md5="98E0F1C519961915A6EDB8B90AE49A70" import="1">Assets/Atlases/Manx_IconAtlas45.dds</File>
+    <File md5="F95BECA81D4FD5EBFBAD8F8F5BE977DF" import="1">Assets/Atlases/Manx_IconAtlas48.dds</File>
+    <File md5="CB61239B732FED8E1A88CFE49E2E51DE" import="1">Assets/Atlases/Manx_IconAtlas64.dds</File>
+    <File md5="F6BE8E716ECE7DBB9CD926F8EF22DB0F" import="1">Assets/Atlases/Manx_IconAtlas80.dds</File>
+    <File md5="C93CB961DC497C6387C37D50713E5220" import="1">Assets/Ellan_Vannin.mp3</File>
+    <File md5="D1B2B8551741A50938085DCD00EA4D13" import="1">Assets/Manx_Alpha_32.dds</File>
+    <File md5="DBD8F5775FF49F878986A45DF492B49E" import="1">Assets/Manx_Music.mp3</File>
+    <File md5="8BC3697CBA33E241A229834F35E0392E" import="1">Assets/NewManxScene.dds</File>
+    <File md5="03434FB197268DC62CCA8252EA00CB13" import="1">Assets/New_Manx_DOM.dds</File>
+    <File md5="78C94247B35CC81D780DF15418970963" import="1">Assets/New_Manx_map.dds</File>
+    <File md5="E91401F6D6BBB3F0B61D15D9BF24B0F8" import="1">Assets/SteamPacketGraphics/cruiser.fxsxml</File>
+    <File md5="B4A8CD84C118F5DE906677643FAA9589" import="1">Assets/SteamPacketGraphics/cruiser.gr2</File>
+    <File md5="DE62A8D383D60C1A12D5C3339B098C4E" import="1">Assets/SteamPacketGraphics/cruiserflag.dds</File>
+    <File md5="7D7DE5645854D0B24F25187C895FD74E" import="1">Assets/SteamPacketGraphics/cruiser_DIFF.dds</File>
+    <File md5="DAA63ECCA22801C2D10ABE8C4803714B" import="1">Assets/SteamPacketGraphics/cruiser_SREF.dds</File>
+    <File md5="0D763CB1E8E2206B90FDBBA290B61CDC" import="1">Assets/SteamPacketGraphics/fx_triggers_cruiser.ftsxml</File>
+    <File md5="2E7072D92C2C1A6B67BC3E3AF815F1C1" import="1">Assets/SteamPacketGraphics/svcruiser.dds</File>
+    <File md5="1A0076CBE65F1C4B79FAA6E4A78EB9D4" import="1">Assets/SV_Kern.dds</File>
+    <File md5="64525A2363D944B4E5D9C99DCE13F692" import="1">Assets/UnitGraphics/true_pikeman.fxsxml</File>
+    <File md5="0222A688DB767E03C80D579770FA767D" import="1">Assets/UnitGraphics/true_pikeman.gr2</File>
+    <File md5="B1EF918E9BDE8877909CFBBD03931279" import="1">Assets/UnitGraphics/true_pikeman_diff.dds</File>
+    <File md5="D93107382406BC93F69CEACFE6679FBD" import="1">Assets/UnitGraphics/true_pikeman_sref.dds</File>
+    <File md5="DD2B44BFFBF7393C9D6C361996595386" import="0">Lua/ManxPolicy.xml</File>
+    <File md5="9E2FF5DA69C0E008C2B5A5EA8ACD63CC" import="0">Lua/ManxUA.lua</File>
+    <File md5="65A3DCD9DDA48E702974610774374B0D" import="0">Support/CivIVLeaderTraits.sql</File>
+    <File md5="8CE0AE3A9DAFE451E787D30473835129" import="0">Support/CulDivSupport.sql</File>
+    <File md5="30F644DF2B33CC147349EC8222A2B0DE" import="0">Support/RED.sql</File>
+    <File md5="DA44B4B49DA34C30054A289B51F70DA7" import="0">Support/YNAEMP.xml</File>
+    <File md5="71EDD97A63205DE7B2E1042B88F250C0" import="0">XML/SteamPackArtDefines.sql</File>
+    <File md5="07980CC1BB0DF59EEC0C8C1B7BAF6DD7" import="0">XML/SteamPacket.xml</File>
+    <File md5="818BDA9937F501F2132D1961C2FD5506" import="0">XML/Manx_Buildings.xml</File>
+    <File md5="BB8D58438E139E01918A3B48D0810A9A" import="0">XML/Manx_Units.xml</File>
+    <File md5="A5CF8AA2199635C44D57392877ABA015" import="1">XML/NewManxScene.xml</File>
+    <File md5="0448C3C9B75EDF06D3D0CC896F3F32D7" import="0">XML/Manx_Civilization.xml</File>
+    <File md5="7369F3B741E3DE3F9EEEB204207986F7" import="0">XML/Manx_IconAtlas.xml</File>
+    <File md5="D17E867018D6F0D6FBD4C4026FF76B59" import="0">XML/Manx_Leader.xml</File>
+    <File md5="EAE9BD5EF96F5A12278464229D3A8268" import="0">XML/Manx_Sound.xml</File>
+    <File md5="69968ED2FD6472419BC088084E1943AD" import="0">XML/Manx_Trait.xml</File>
+    <File md5="34D4FBE02B77AD1E2845CADFC7E85648" import="0">XML/Manx_ArtDefines.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Manx_Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Manx_Leader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Manx_Trait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Manx_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Manx_IconAtlas.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Manx_ArtDefines.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Manx_Sound.xml</UpdateDatabase>
+      <UpdateDatabase>Lua/ManxPolicy.xml</UpdateDatabase>
+      <UpdateDatabase>XML/SteamPacket.xml</UpdateDatabase>
+      <UpdateDatabase>XML/SteamPackArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Support/CulDivSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Support/YNAEMP.xml</UpdateDatabase>
+      <UpdateDatabase>Support/CivIVLeaderTraits.sql</UpdateDatabase>
+      <UpdateDatabase>Support/RED.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/ManxUA.lua">
+      <Name>ManxUA</Name>
+      <Description>ManxUA</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/13/2015 7:54:22 PM -->
+<GameData>
+
+	<Policies>
+		<Row>
+			<Type>POLICY_MANXUA</Type>
+			<Description>TXT_KEY_POLICY_MANXUA</Description>
+			<GreatPeopleRateModifier>50</GreatPeopleRateModifier>
+			<!--<Column name="GreatGeneralRateModifier" type="integer" default="0"/>
+			<Column name="GreatAdmiralRateModifier" type="integer" default="0"/>-->
+			<GreatWriterRateModifier>-50</GreatWriterRateModifier>
+			<GreatArtistRateModifier>-50</GreatArtistRateModifier>
+			<GreatMusicianRateModifier>-50</GreatMusicianRateModifier>
+			<GreatMerchantRateModifier>-50</GreatMerchantRateModifier>
+			<GreatScientistRateModifier>-50</GreatScientistRateModifier>
+		</Row>
+	</Policies>
+
+	
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_POLICY_MANXUA">
+			<Text>Manx UA</Text>
+		</Row>
+	</Language_en_US>
+  
+</GameData>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/23/2014 8:07:54 PM -->
+<GameData>
+
+	<Units>
+		<Row>
+			<Type>UNIT_MANXKERN</Type>
+			<Description>TXT_KEY_UNIT_MANXKERN</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_MANXKERN_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_MANXKERN_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_MANXKERN</Help>
+			<Combat>16</Combat>
+			<Cost>90</Cost>
+			<FaithCost>180</FaithCost>
+			<RequiresFaithPurchaseEnabled>1</RequiresFaithPurchaseEnabled>
+			<Moves>2</Moves>
+			<BaseSightRange>2</BaseSightRange>
+			<Class>UNITCLASS_PIKEMAN</Class>
+			<CombatClass>UNITCOMBAT_MELEE</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_COUNTER</DefaultUnitAI>
+			<MilitarySupport>1</MilitarySupport>
+			<MilitaryProduction>1</MilitaryProduction>
+			<Pillage>1</Pillage>
+			<PrereqTech>TECH_CIVIL_SERVICE</PrereqTech>
+			<ObsoleteTech>TECH_METALLURGY</ObsoleteTech>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_LANCER</GoodyHutUpgradeUnitClass>
+			<HurryCostModifier>0</HurryCostModifier>
+			<AdvancedStartCost>20</AdvancedStartCost>
+			<MinAreaSize>-1</MinAreaSize>
+			<NukeDamageLevel>-1</NukeDamageLevel>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<Conscription>3</Conscription>
+			<ExtraMaintenanceCost>0</ExtraMaintenanceCost>
+			<UnitArtInfo>ART_DEF_UNIT_U_MANXKERN</UnitArtInfo>
+			<ShowInPedia>1</ShowInPedia>
+			<MoveRate>BIPED</MoveRate>
+			<UnitFlagIconOffset>0</UnitFlagIconOffset>
+			<PortraitIndex>2</PortraitIndex>
+			<IconAtlas>CMANX_COLOR_ATLAS</IconAtlas>
+			<UnitFlagAtlas>CMANX_UNIT_ALPHA</UnitFlagAtlas>
+		</Row>
+	</Units>
+
+	<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_MANXKERN</UnitType>
+			<UnitAIType>UNITAI_ATTACK</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MANXKERN</UnitType>
+			<UnitAIType>UNITAI_DEFENSE</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MANXKERN</UnitType>
+			<UnitAIType>UNITAI_COUNTER</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MANXKERN</UnitType>
+			<UnitAIType>UNITAI_EXPLORE</UnitAIType>
+		</Row>
+	</Unit_AITypes>
+	
+	<Unit_ClassUpgrades>
+		<Row>
+			<UnitType>UNIT_MANXKERN</UnitType>
+			<UnitClassType>UNITCLASS_LANCER</UnitClassType>
+		</Row>
+	</Unit_ClassUpgrades>
+	
+	<Unit_FreePromotions>
+		<Row>
+			<UnitType>UNIT_MANXKERN</UnitType>
+			<PromotionType>PROMOTION_ANTI_MOUNTED_I</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MANXKERN</UnitType>
+			<PromotionType>PROMOTION_ANTI_GUNPOWDER</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MANXKERN</UnitType>
+			<PromotionType>PROMOTION_HOMELAND_GUARDIAN_BOOGALOO</PromotionType>
+		</Row>
+	</Unit_FreePromotions>
+	
+	<Unit_Flavors>
+		<Row>
+			<UnitType>UNIT_MANXKERN</UnitType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MANXKERN</UnitType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+	</Unit_Flavors>
+	
+	<UnitGameplay2DScripts>
+		<Row>
+			<UnitType>UNIT_MANXKERN</UnitType>
+			<SelectionSound>AS2D_SELECT_PIKEMAN</SelectionSound>
+			<FirstSelectionSound>AS2D_BIRTH_PIKEMAN</FirstSelectionSound>
+		</Row>
+	</UnitGameplay2DScripts>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_UNIT_MANXKERN">
+			<Text>Kern</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MANXKERN_TEXT">
+			<Text>Gaelic warfare was for centuries centred around the Ceithearn (pronounced "Kern"), light skirmishing infantry who harried the enemy with missiles before charging. John Dymmok, serving under Elizabeth I's lord-lieutenant of Ireland, described the kerns as:[NEWLINE] [NEWLINE]"... A kind of footman, slightly armed with a sword, a target [round shield] of wood, or a bow and sheaf of arrows with barbed heads, or else three darts, which they cast with a wonderful facility and nearness..."[NEWLINE] [NEWLINE]en.wikipedia.org/wiki/Gaelic_warfare</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MANXKERN_STRATEGY">
+			<Text>The Kern (or Ceithearn) is a more powerful Pikeman. It has a ranged strike prior to melee combat and receives a bonus when fighting against mounted units, which makes it pretty much the only unit that can hope to stand up against a rampaging Knight. A Pikeman fortified in defensive terrain is a Knight's worst nightmare.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_MANXKERN">
+			<Text>Specialized in defeating mounted Units; has a ranged attack prior to melee attack.</Text>
+		</Row>
+	</Language_en_US>
+  
+</GameData>

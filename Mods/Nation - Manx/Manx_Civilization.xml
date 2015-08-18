@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/2/2014 12:42:04 AM -->
+<GameData>
+
+	<Civilizations>
+		
+		<Row>
+			<Type>CIVILIZATION_CALC_MANX</Type>
+			<Description>TXT_KEY_CIV_CALC_MANX_DESC</Description>
+			<Civilopedia>TXT_KEY_CIV5_CALC_MANX_PEDIA</Civilopedia>
+			<CivilopediaTag>TXT_KEY_CIV5_CALC_MANX</CivilopediaTag>
+			<Strategy/>
+			<Playable>1</Playable>
+			<AIPlayable>1</AIPlayable>
+			<ShortDescription>TXT_KEY_CIV_CALC_MANX_SHORT_DESC</ShortDescription>
+			<Adjective>TXT_KEY_CIV_CALC_MANX_ADJECTIVE</Adjective>
+			<DefaultPlayerColor>PLAYERCOLOR_CALC_MANX</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_CELTS</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+			<ArtStyleSuffix>_EURO</ArtStyleSuffix>
+			<ArtStylePrefix>EUROPEAN</ArtStylePrefix>
+			
+			<IconAtlas>CMANX_COLOR_ATLAS</IconAtlas>
+
+			<AlphaIconAtlas>CMANX_ALPHA_ATLAS</AlphaIconAtlas>
+
+			<PortraitIndex>1</PortraitIndex>
+
+			<MapImage>New_Manx_map.dds</MapImage>
+
+			<DawnOfManQuote>TXT_KEY_CIV5_DAWN_CALC_MANX_TEXT</DawnOfManQuote>
+
+			<DawnOfManImage>New_Manx_DOM.dds</DawnOfManImage>
+
+			<DawnOfManAudio></DawnOfManAudio>
+
+			<SoundtrackTag>Celts</SoundtrackTag>
+
+		</Row>
+
+	</Civilizations>
+
+
+	<Civilization_FreeBuildingClasses>
+		<Row>
+			<CivilizationType>CIVILIZATION_CALC_MANX</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CALC_MANX</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_CMANX_DUMMY</BuildingClassType>
+		</Row>
+	</Civilization_FreeBuildingClasses>
+
+	<Civilization_FreeTechs>
+		<Row>
+			<CivilizationType>CIVILIZATION_CALC_MANX</CivilizationType>
+			<TechType>TECH_AGRICULTURE</TechType>
+		</Row>
+	</Civilization_FreeTechs>
+
+	<Civilization_FreeUnits>
+		<Row>
+			<CivilizationType>CIVILIZATION_CALC_MANX</CivilizationType>
+			<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+			<UnitAIType>UNITAI_SETTLE</UnitAIType>
+			<Count>1</Count>
+		</Row>
+	</Civilization_FreeUnits>
+
+
+	<Civilization_Leaders>
+		<Row>
+			<CivilizationType>CIVILIZATION_CALC_MANX</CivilizationType>
+			<LeaderheadType>LEADER_IDHONE</LeaderheadType>
+		</Row>
+	</Civilization_Leaders>
+
+	<Civilization_Religions>
+		<Row>
+			<CivilizationType>CIVILIZATION_CALC_MANX</CivilizationType>
+			<ReligionType>RELIGION_PROTESTANTISM</ReligionType>
+		</Row>
+	</Civilization_Religions>
+	
+	
+	<Civilization_UnitClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_CALC_MANX</CivilizationType>
+			<UnitClassType>UNITCLASS_IRONCLAD</UnitClassType>
+			<UnitType>UNIT_STEAMPACKET</UnitType>
+		</Row>
+		<!--<Row>
+			<CivilizationType>CIVILIZATION_CALC_MANX</CivilizationType>
+			<UnitClassType>UNITCLASS_PIKEMAN</UnitClassType>
+			<UnitType>UNIT_MANXKERN</UnitType>
+		</Row>-->
+	</Civilization_UnitClassOverrides>
+
+
+	<Civilization_BuildingClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_CALC_MANX</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_WINDMILL</BuildingClassType>
+			<BuildingType>BUILDING_LAXEYWHEEL</BuildingType>
+		</Row>
+		<!--<Row>
+			<CivilizationType>CIVILIZATION_CALC_MANX</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_MONUMENT</BuildingClassType>
+			<BuildingType>BUILDING_STELE</BuildingType>
+		</Row>-->
+	</Civilization_BuildingClassOverrides>
+	
+	
+	<Civilization_SpyNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_CALC_MANX</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_CALC_MANX_0</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CALC_MANX</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_CALC_MANX_1</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CALC_MANX</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_CALC_MANX_2</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CALC_MANX</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_CALC_MANX_3</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CALC_MANX</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_CALC_MANX_4</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CALC_MANX</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_CALC_MANX_5</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CALC_MANX</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_CALC_MANX_6</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CALC_MANX</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_CALC_MANX_7</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CALC_MANX</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_CALC_MANX_8</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CALC_MANX</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_CALC_MANX_9</SpyName>
+		</Row>
+	</Civilization_SpyNames>
+
+
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_CALC_MANX</Type>
+			<PrimaryColor>COLOR_PLAYER_CALC_MANX_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_CALC_MANX_BACKGROUND</SecondaryColor>
+			<TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_CALC_MANX_ICON</Type>
+			<Red>0.94510</Red>
+			<Green>0.70588</Green>
+			<Blue>0.28627</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+	</Colors>
+
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_CALC_MANX_BACKGROUND</Type>
+			<Red>0.30196</Red>
+			<Green>0.0</Green>
+			<Blue>0.12549</Blue>
+			<Alpha>1.0</Alpha>
+		</Row>
+	</Colors>
+
+	<Civilization_Start_Along_Ocean>
+		<Row>
+			<CivilizationType>CIVILIZATION_CALC_MANX</CivilizationType>
+			<StartAlongOcean>true</StartAlongOcean>
+		</Row>
+	</Civilization_Start_Along_Ocean>
+
+	<Civilization_Start_Region_Priority>
+		<Row>
+			<CivilizationType>CIVILIZATION_CALC_MANX</CivilizationType>
+			<RegionType>REGION_HILLS</RegionType>
+		</Row>
+		<!--<Row>
+			<CivilizationType>CIVILIZATION_CALC_MANX</CivilizationType>
+			<RegionType>REGION_FOREST</RegionType>
+		</Row>-->
+	</Civilization_Start_Region_Priority>
+
+	<Civilization_Start_Region_Avoid>
+		<Row>
+			<CivilizationType>CIVILIZATION_CALC_MANX</CivilizationType>
+			<RegionType>REGION_JUNGLE</RegionType>
+		</Row>
+	</Civilization_Start_Region_Avoid>
+
+	<Civilization_CityNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_CALC_MANX</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_CALC_MANX_0</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CALC_MANX</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_CALC_MANX_1</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CALC_MANX</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_CALC_MANX_2</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CALC_MANX</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_CALC_MANX_3</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CALC_MANX</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_CALC_MANX_4</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CALC_MANX</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_CALC_MANX_5</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CALC_MANX</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_CALC_MANX_6</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CALC_MANX</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_CALC_MANX_7</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CALC_MANX</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_CALC_MANX_8</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CALC_MANX</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_CALC_MANX_9</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CALC_MANX</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_CALC_MANX_10</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CALC_MANX</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_CALC_MANX_11</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CALC_MANX</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_CALC_MANX_12</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CALC_MANX</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_CALC_MANX_13</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CALC_MANX</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_CALC_MANX_14</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CALC_MANX</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_CALC_MANX_15</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_CALC_MANX</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_CALC_MANX_16</CityName>
+		</Row>
+	</Civilization_CityNames>
+
+	<Language_en_US>
+
+		<Row Tag="TXT_KEY_CIV_CALC_MANX_DESC">
+			<Text>The Manx Empire</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV_CALC_MANX_SHORT_DESC">
+			<Text>The Isle of Man</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV_CALC_MANX_ADJECTIVE">
+			<Text>Manx</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_DAWN_CALC_MANX_TEXT">
+			<Text>We great thee, Illiam Dhone, patriot and hero to the Manx people. Your people dwell on the Isle of Man, an ancient realm shrouded in myth and mist, and said to be protected by the Celtic seagod Manannan Mac Lir. Throughout the middle ages the Island acted as a vital military and trade centre due to its domination of the Irish Sea. While ownership passed between the Scandinavians, English and Scottish, Manx culture and language survived and thrived long into the present day.[NEWLINE] [NEWLINE]It was you, Illiam Dhone, who first envisaged an Island free from foreign rule. In the aftermath of the English civil war, you cunningly organised the Manx rebellion of 1651 against the royalist Stanley family. Though the new Parliamentary government in England maintained control over the Island, the people were granted new liberties and safety. However with the advent of the industrial revolution, the manx people made a transition into a race of robust miners and innovative engineers who gained independence in 1866. They created many wonders such as the Lady Isabella, the largest water wheel in the world, and today the Manx are recognised as being at the cutting edge of aerospace technologies .[NEWLINE] [NEWLINE]Oh Brown William, a new threat has emerged and the Cloak of Manannan can no longer protect the people. Will you defend the Manx from invasion, or will you use your industry to become respected among larger powers? Will you build a civilization to stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CALC_MANX_PEDIA">
+			<Text>This tag is TXT_KEY_CIV_CALC_MANX_PEDIA</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CALC_MANX_TITLE">
+			<Text>Manx</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CALC_MANX_HEADING_1">
+			<Text>Overview</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CALC_MANX_TEXT_1">
+			<Text>The Isle of Man is an ancient land with a long history that possesses a unique culture with elements borrowed from the Irish and Scottish, merged with its own folklore. When the Isle obtained home rule in 1866, it prospered remarkably and today boasts powerful financial and engineering sectors despite its population.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CALC_MANX_HEADING_2">
+			<Text>Geography and Climate</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CALC_MANX_TEXT_2">
+			<Text>The Island is located in the centre of the Irish Sea and is 221 square miles. Its geography is similar to its neighbours, a green land that of quaint countryside and farms, hence why it is referred to as “Gem of God’s earth” in the national anthem. Its only mountain is that of Snaefell, which is only just large enough to qualify as one![NEWLINE] [NEWLINE]One noticeable feature about the Island’s weather is the occasional fog that rises up from the ocean. In the ancient past this was known as the “Cloak of Manannan”. The myth goes that in time of invasion, the seagod would conceal the island in fog, and if that failed he would transform into a 3 legged creature and roll towards the coast to frighten the invaders. This is the origin the “3 Legs of Man”.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CALC_MANX_HEADING_3">
+			<Text>Trivia</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CALC_MANX_TEXT_3">
+			<Text>The Manx parliament, Tynwald is the oldest continuous parliament in the world and has existed for over 1000 years.[NEWLINE] [NEWLINE]The Manx cat is a local breed of cat that lacks a tail. [NEWLINE] [NEWLINE]The world championship of motorbike road races (The TT races) was established in the Island in 1907 and tourists and bikers alike flock to the Island every year for this event. [NEWLINE] [NEWLINE]The Island, in a recent article, was ranked the 5th likeliest country to start a space program to put man on the moon again, behind superpowers such as Russia and the US! [NEWLINE] [NEWLINE]The Manx government owns a large percentage of the famous Pinewood studios and many upcoming films have been filmed on the Island.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CALC_MANX_HEADING_4">
+			<Text>Ancient History</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CALC_MANX_TEXT_4">
+			<Text>Cut off from Britain in 8000 BC, megalithic monuments and simple farms arose on the isle. By the Iron age, timber framed roundhouses and ocean forts. It is unknown whether the island was ever colonised by the Romans, but there are suggestions it became a haven for druids fleeing Roman Britain.[NEWLINE] [NEWLINE]Around 500 AD, Irish immigration and invasion established primitive Irish as the island’s language, replacing the island’s Brythonic culture with a more Gaelic one, the ancestor of the Manx language.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CALC_MANX_HEADING_5">
+			<Text>Kingdom of the Isles</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CALC_MANX_TEXT_5">
+			<Text>The Norse/gael King Godred Crovan, or King Orry to the Manx established the Kingdom of Mann and the isles around 1080 AD which included much of the Scottish Hebrides. The Capital was based on St Patrick’s Isle, which became “Peel Castle”, one of the Isle of Man’s most ancient and well-known fortress’. During this time the island prospered and construction of the Iconic Castle Rushen in Castletown began. However, from the middle of the 12th century till 1217 the suzerainty, because Norway had become a prey to civil dissensions, had remained of a very shadowy character. But after that date it became a reality and Norway consequently came into collision with the growing power of the Kingdom of Scotland. In 1261, Alexander III of Scotland sent envoys to Norway to negotiate for the cession of the isles, but their efforts led to no result. He therefore initiated hostilities the Norwegians in 1263. However, the Norwegian king died the following winter, and this allowed King Alexander to bring the war to a successful conclusion. Magnus Ofalsson, King of Mann and the Isles (reigned 1252–1265), who had campaigned on the Norwegian side, had to surrender all the islands over which he had ruled, except Mann, for which he did homage. Two years later Magnus died and in 1266 King Magnus VI of Norway ceded the islands, including Mann, to Scotland. But Scotland's rule over Mann did not become firmly established till 1275, when the Manx suffered defeat in the decisive Battle of Ronaldsway, near Castletown.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CALC_MANX_HEADING_6">
+			<Text>English Dominance</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CALC_MANX_TEXT_6">
+			<Text>In 1290 King Edward I of England sent an army to take possession of Mann, and it remained in English hands until 1313, when Robert the Bruce took it after besieging Castle. Then, until 1346, when the Battle of Neville’s cross decided the long struggle between England and Scotland in England's favour, there followed a confused period when Mann sometimes experienced English rule and sometimes Scottish.[NEWLINE] [NEWLINE]About 1333 King Edward III of England granted Mann to William De Montacute), as his absolute possession, without reserving any service to be rendered to him. In 1388 the Island was "ravaged" by Sir William Douglas on his way home from the destruction of the town of Carlingford. Eventually the island then came into the possession of the Crown, which granted it to Henry Percy, but following his attainder, Henry IV, in 1405, made a lifetime grant of it, with the patronage of the bishopric, to Sir John Stanley.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CALC_MANX_HEADING_7">
+			<Text>The English Civil War</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CALC_MANX_TEXT_7">
+			<Text>In 1643, Charles I ordered James Stanley to go to Mann, where the people, who were no doubt influenced by what was taking place in England, threatened to revolt.[NEWLINE] [NEWLINE]Stanley's arrival, with English soldiers, soon put a stop to anything of this kind. He conciliated the people by his affability, brought in Englishmen to teach various handicrafts and tried to help the farmers by improving the breed of Manx horses, and, at the same time, he restricted the exactions of the Church. But the Manx also lost much of their liberty under his rule: they were heavily taxed; troops were quartered upon them.[NEWLINE] [NEWLINE]Six months after the death of Charles I (30 January 1649), Stanley received a summons to surrender the island, which he declined. In August 1651 Stanley went to England with some of his troops, among whom were 300 Manxmen, to join King Charles II. Charles was decisively defeated and Stanley was captured, imprisoned , and then tried by Court Martial and executed at Bolton.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CALC_MANX_HEADING_8">
+			<Text>Rebellion!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CALC_MANX_TEXT_8">
+			<Text>Soon after Stanley's death, the Manx Militia, under the command of William Christian (known by his Manx name of Illaim Dhone), rose against the Countess and captured all the insular forts except Rushen and Peel. They were then joined by a Parliamentary, to whom the Countess surrendered after a brief resistance.[NEWLINE] [NEWLINE]Oliver Cromwell had appointed Thomas Fairfax Lord of Mann and the Isles in September 1651, so that Mann continued under a monarchical government and remained in the same relation to England as before.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CALC_MANX_HEADING_9">
+			<Text>Modern Times</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CALC_MANX_TEXT_9">
+			<Text>After 1866, when the Isle of Man obtained a nominal measure of Home Rule, the Manx people have made remarkable progress, and currently form a prosperous community, with a thriving offshore financial centre, a tourist industry (albeit smaller than in the past) and a variety of other industries.[NEWLINE] [NEWLINE]The early 20th century saw a revival of music, dance, and a limited revival of the Manx language, although the last "native" speaker of Manx Gaelic died in the 1970s. During the 20th century the Manx tourist economy declined, as the English and Irish started flying to Spain for package holidays. The Manx Government responded to this by successfully promoting the island, with its low tax rates, as an offshore financial centre.[NEWLINE] [NEWLINE]On 5 July 1973, control of the postal service passed from the UK General Post Office to the new Isle of Man Post, which began to issue its own postage stamps. The 1990s and early 21st century have seen a greater recognition of indigenous Manx culture, including the opening of the first Manx language primary school.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CALC_MANX_HEADING_10">
+			<Text>The Future?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CALC_MANX_TEXT_10">
+			<Text>The Island currently has a strong position in the world with a powerful engineering and financial sector as well as increasing influence in international projects. The Isle of Man Aerospace cluster (IOMAC) has allowed for rapid development of cutting edge technologies that are used in aircraft around the world. Despite its size, the Island has survived and thrived throughout history and continues to do so today.</Text>
+		</Row>
+
+		<!--<Row Tag="TXT_KEY_CIV5_CALC_MANX_HEADING_1">
+			<Text>Overview</Text>
+		</Row>
+			 
+		<Row Tag="TXT_KEY_CIV5_CALC_MANX_TEXT_1">
+			<Text>The Isle of Man is an ancient land with a long history that possesses a unique culture with elements borrowed from the Irish and Scottish, merged with its own folklore. When the Isle obtained home rule in 1866, it prospered remarkably and today boasts powerful financial and engineering sectors despite its population.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CALC_MANX_HEADING_2">
+			<Text>Geography and Climate</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CALC_MANX_TEXT_2">
+			<Text>The Island is located in the centre of the Irish Sea and is 221 square miles. Its geography is similar to its neighbours, a green land that of quaint countryside and farms, hence why it is referred to as “Gem of God’s earth” in the national anthem. Its only mountain is that of Snaefell, which is only just large enough to qualify as one![NEWLINE] [NEWLINE]One noticeable feature about the Island’s weather is the occasional fog that rises up from the ocean. In the ancient past this was known as the “Cloak of Manannan”. The myth goes that in time of invasion, the seagod would conceal the island in fog, and if that failed he would transform into a 3 legged creature and roll towards the coast to frighten the invaders. This is the origin the “3 Legs of Man”.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CALC_MANX_HEADING_3">
+			<Text>Trivia</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CALC_MANX_TEXT_3">
+			<Text>The Manx parliament, Tynwald is the oldest continuous parliament in the world and has existed for over 1000 years.[NEWLINE] [NEWLINE]The Manx cat is a local breed of cat that lacks a tail. [NEWLINE] [NEWLINE]The world championship of motorbike road races was established in the Island in 1907 and tourists and bikers alike flock to the Island every year for this event. [NEWLINE] [NEWLINE]The Island, in a recent article, was ranked the 5th likeliest country to start a space program to put man on the moon again, behind superpowers such as Russia and the US! [NEWLINE] [NEWLINE]The Manx government owns a large percentage of the famous Pinewood studios and many upcoming films have been filmed on the Island.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CALC_MANX_HEADING_4">
+			<Text>Ancient History</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CALC_MANX_TEXT_4">
+			<Text>Cut off from Britain in 8000 BC, megalithic monuments and simple farms arose on the isle. By the Iron age, timber framed roundhouses and ocean forts. It is unknown whether the island was ever colonised by the Romans, but there are suggestions it became a haven for druids fleeing Roman Britain.[NEWLINE] [NEWLINE]Around 500 AD, Irish immigration and invasion established primitive Irish as the island’s language, replacing the island’s Brythonic culture with a more Gaelic one, the ancestor of the Manx language.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CALC_MANX_HEADING_5">
+			<Text>English Dominance</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CALC_MANX_TEXT_5">
+			<Text>In 1290 King Edward I of England sent an army to take possession of Mann, and it remained in English hands until 1313, when Robert the Bruce took it after besieging Castle. Then, until 1346, when the Battle of Neville’s cross decided the long struggle between England and Scotland in England's favour, there followed a confused period when Mann sometimes experienced English rule and sometimes Scottish.[NEWLINE] [NEWLINE]About 1333 King Edward III of England granted Mann to William De Montacute), as his absolute possession, without reserving any service to be rendered to him. In 1388 the Island was "ravaged" by Sir William Douglas on his way home from the destruction of the town of Carlingford. Eventually the island then came into the possession of the Crown, which granted it to Henry Percy, but following his attainder, Henry IV, in 1405, made a lifetime grant of it, with the patronage of the bishopric, to Sir John Stanley.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CALC_MANX_HEADING_6">
+			<Text>The English Civil War</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CALC_MANX_TEXT_6">
+			<Text>In 1643, Charles I ordered James Stanley to go to Mann, where the people, who were no doubt influenced by what was taking place in England, threatened to revolt.[NEWLINE] [NEWLINE]Stanley's arrival, with English soldiers, soon put a stop to anything of this kind. He conciliated the people by his affability, brought in Englishmen to teach various handicrafts and tried to help the farmers by improving the breed of Manx horses, and, at the same time, he restricted the exactions of the Church. But the Manx also lost much of their liberty under his rule: they were heavily taxed; troops were quartered upon them.[NEWLINE] [NEWLINE]Six months after the death of Charles I (30 January 1649), Stanley received a summons to surrender the island, which he declined. In August 1651 Stanley went to England with some of his troops, among whom were 300 Manxmen, to join King Charles II. Charles was decisively defeated and Stanley was captured, imprisoned , and then tried by Court Martial and executed at Bolton.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CALC_MANX_HEADING_7">
+			<Text>Rebellion!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CALC_MANX_TEXT_7">
+			<Text>Soon after Stanley's death, the Manx Militia, under the command of William Christian (known by his Manx name of Illaim Dhone), rose against the Countess and captured all the insular forts except Rushen and Peel. They were then joined by a Parliamentary, to whom the Countess surrendered after a brief resistance.[NEWLINE] [NEWLINE]Oliver Cromwell had appointed Thomas Fairfax Lord of Mann and the Isles in September 1651, so that Mann continued under a monarchical government and remained in the same relation to England as before.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CALC_MANX_HEADING_8">
+			<Text>Modern Times</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CALC_MANX_TEXT_8">
+			<Text>After 1866, when the Isle of Man obtained a nominal measure of Home Rule, the Manx people have made remarkable progress, and currently form a prosperous community, with a thriving offshore financial centre, a tourist industry (albeit smaller than in the past) and a variety of other industries.[NEWLINE] [NEWLINE]The early 20th century saw a revival of music, dance, and a limited revival of the Manx language, although the last "native" speaker of Manx Gaelic died in the 1970s. During the 20th century the Manx tourist economy declined, as the English and Irish started flying to Spain for package holidays. The Manx Government responded to this by successfully promoting the island, with its low tax rates, as an offshore financial centre.[NEWLINE] [NEWLINE]On 5 July 1973, control of the postal service passed from the UK General Post Office to the new Isle of Man Post, which began to issue its own postage stamps. The 1990s and early 21st century have seen a greater recognition of indigenous Manx culture, including the opening of the first Manx language primary school.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CALC_MANX_HEADING_9">
+			<Text>The Future?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_CALC_MANX_TEXT_9">
+			<Text>The Island currently has a strong position in the world with a powerful engineering and financial sector as well as increasing influence in international projects. The Isle of Man Aerospace cluster (IOMAC) has allowed for rapid development of cutting edge technologies that are used in aircraft around the world. Despite its size, the Island has survived and thrived throughout history and continues to do so today.</Text>
+		</Row>-->
+		
+
+		<Row Tag="TXT_KEY_CITY_NAME_CALC_MANX_0">
+			<Text>Douglas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALC_MANX_1">
+			<Text>Castletown</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALC_MANX_2">
+			<Text>Peel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALC_MANX_3">
+			<Text>Ramsey</Text>
+		</Row>
+		
+		
+		<Row Tag="TXT_KEY_CITY_NAME_CALC_MANX_4">
+			<Text>Laxey</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALC_MANX_5">
+			<Text>Port Erin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALC_MANX_6">
+			<Text>St Johns</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALC_MANX_7">
+			<Text>Port Erin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALC_MANX_8">
+			<Text>Port St Mary</Text>
+		</Row>
+		
+		
+		<Row Tag="TXT_KEY_CITY_NAME_CALC_MANX_9">
+			<Text>Onchan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALC_MANX_10">
+			<Text>Ballabeg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALC_MANX_11">
+			<Text>Arbory</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALC_MANX_12">
+			<Text>Ballasalla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALC_MANX_13">
+			<Text>Rushen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALC_MANX_14">
+			<Text>Colby</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALC_MANX_15">
+			<Text>Patrick</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CALC_MANX_16">
+			<Text>Foxdale</Text>
+		</Row>
+
+		
+		<Row Tag="TXT_KEY_SPY_NAME_CALC_MANX_0">
+			<Text>Kennaugh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CALC_MANX_1">
+			<Text>Clague</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CALC_MANX_2">
+			<Text>Kelly</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CALC_MANX_3">
+			<Text>Heidi</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CALC_MANX_4">
+			<Text>Moore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CALC_MANX_5">
+			<Text>Faragher</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CALC_MANX_6">
+			<Text>Quayle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CALC_MANX_7">
+			<Text>Watterson</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CALC_MANX_8">
+			<Text>Collister</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CALC_MANX_9">
+			<Text>Corlett</Text>
+		</Row>
+		
+	</Language_en_US>
+
+
+</GameData>

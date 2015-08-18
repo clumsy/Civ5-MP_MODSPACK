@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/14/2014 8:37:47 PM -->
+<GameData>
+
+	<ArtDefine_UnitInfos>
+		<Row>
+			<Type>ART_DEF_UNIT_U_MANXKERN</Type>
+			<DamageStates>1</DamageStates>
+			<Formation>Pikeman</Formation>
+		</Row>
+	</ArtDefine_UnitInfos>
+
+
+	<ArtDefine_UnitInfoMemberInfos>
+		<Row>
+			<UnitInfoType>ART_DEF_UNIT_U_MANXKERN</UnitInfoType>
+			<UnitMemberInfoType>ART_DEF_UNIT_MEMBER_U_MANXKERN</UnitMemberInfoType>
+			<NumMembers>12</NumMembers>
+		</Row>
+	</ArtDefine_UnitInfoMemberInfos>
+
+
+	<ArtDefine_UnitMemberInfos>
+		<Row>
+			<Type>ART_DEF_UNIT_MEMBER_U_MANXKERN</Type>
+			<Scale>0.14</Scale>
+			<Model>Assets/UnitGraphics/true_pikeman.fxsxml</Model>
+			<MaterialTypeTag>ARMOR</MaterialTypeTag>
+			<MaterialTypeSoundOverrideTag>ARMOR</MaterialTypeSoundOverrideTag>
+		</Row>
+	</ArtDefine_UnitMemberInfos>
+
+
+	<ArtDefine_UnitMemberCombats>
+		<Row>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_U_MANXKERN</UnitMemberType>
+			<EnableActions>Idle Attack RunCharge AttackCity Bombard Death BombardDefend Run Fortify CombatReady Walk AttackCharge</EnableActions>
+			<ShortMoveRadius>12.0</ShortMoveRadius>
+			<ShortMoveRate>0.35</ShortMoveRate>
+			<TargetHeight>8.0</TargetHeight>
+			<HasRefaceAfterCombat>1</HasRefaceAfterCombat>
+			<ReformBeforeCombat>1</ReformBeforeCombat>
+		</Row>
+	</ArtDefine_UnitMemberCombats>
+	
+	
+	<ArtDefine_UnitMemberCombatWeapons>
+		<Row>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_U_MANXKERN</UnitMemberType>
+			<Index>0</Index>
+			<SubIndex>0</SubIndex>
+			<WeaponTypeTag>METAL</WeaponTypeTag>
+			<WeaponTypeSoundOverrideTag>SPEAR</WeaponTypeSoundOverrideTag>
+		</Row>
+		<Row>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_U_MANXKERN</UnitMemberType>
+			<Index>1</Index>
+			<SubIndex>0</SubIndex>
+			<VisKillStrengthMin>10.0</VisKillStrengthMin>
+			<VisKillStrengthMax>20.0</VisKillStrengthMax>
+			<WeaponTypeTag>FLAMING_ARROW</WeaponTypeTag>
+			<MissTargetSlopRadius>10.0</MissTargetSlopRadius>
+		</Row>
+	</ArtDefine_UnitMemberCombatWeapons>
+
+
+	<ArtDefine_StrategicView>
+		<Row>
+			<StrategicViewType>ART_DEF_UNIT_U_MANXKERN</StrategicViewType>
+			<TileType>Unit</TileType>
+			<Asset>SV_Kern.dds</Asset>
+		</Row>
+	</ArtDefine_StrategicView>
+  
+</GameData>

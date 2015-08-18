@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Leugi and Pouakai (Mostly Leugi, I just want to feel like I accomplished something)-->
+<!--This file actually copied from Leugi and Pouakai by calcul8or, I just want to feel I contributed too-->
+<GameData>
+	<Audio_Sounds>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_IDHONE_PEACE</SoundID>
+			<Filename>Manx_Music</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_IDHONE_WAR</SoundID>
+			<Filename>Ellan_Vannin</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		
+	</Audio_Sounds>
+	<Audio_2DSounds>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_IDHONE_PEACE</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_IDHONE_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>60</MinVolume>
+			<MaxVolume>60</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_IDHONE_WAR</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_IDHONE_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>60</MinVolume>
+			<MaxVolume>60</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_AMBIENCE_LEADER_IDHONE_AMBIENCE</ScriptID>
+			<SoundID>SND_AMBIENCE_ALEXANDER_AMBIENCE</SoundID>
+			<SoundType>GAME_SFX</SoundType>
+			<Looping>true</Looping>
+			<MinVolume>60</MinVolume>
+			<MaxVolume>60</MaxVolume>
+		</Row>
+		
+	</Audio_2DSounds>
+</GameData>

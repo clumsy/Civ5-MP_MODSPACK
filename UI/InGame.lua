@@ -1485,6 +1485,9 @@ ContextPtr:LoadNewContext("CityInfoStack")
 -- Nation - Finland --
 ContextPtr:LoadNewContext("FinnishFunctions")
 
+-- Nation - Manx --
+ContextPtr:LoadNewContext("ManxUA")
+
 -- Nation - Kilwa --
 ContextPtr:LoadNewContext("CityStatePopupGoldChanges")
 ContextPtr:LoadNewContext("JFD_KilwaFunctions")

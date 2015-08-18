@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/2/2014 1:27:08 AM -->
+<GameData>
+
+	<Leaders>
+		<Row>
+			<Type>LEADER_IDHONE</Type>
+
+			<Description>TXT_KEY_LEADER_IDHONE</Description>
+
+			<Civilopedia>TXT_KEY_LEADER_IDHONE_PEDIA</Civilopedia>
+
+			<CivilopediaTag>TXT_KEY_CIVILOPEDIA_LEADERS_IDHONE</CivilopediaTag>
+
+			<ArtDefineTag>NewManxScene.xml</ArtDefineTag>
+
+			<VictoryCompetitiveness>4</VictoryCompetitiveness>
+			<WonderCompetitiveness>7</WonderCompetitiveness>
+			<MinorCivCompetitiveness>5</MinorCivCompetitiveness>
+			<Boldness>5</Boldness>
+			<DiploBalance>7</DiploBalance>
+			<WarmongerHate>5</WarmongerHate>
+			<WorkAgainstWillingness>0</WorkAgainstWillingness>
+			<WorkWithWillingness>0</WorkWithWillingness>
+			<DenounceWillingness>6</DenounceWillingness>
+			<DoFWillingness>7</DoFWillingness>
+			<Loyalty>6</Loyalty>
+			<Neediness>4</Neediness>
+			<Forgiveness>4</Forgiveness>
+			<Chattiness>5</Chattiness>
+			<Meanness>3</Meanness>
+			<IconAtlas>CMANX_COLOR_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+
+		</Row>
+	</Leaders>
+
+	<Leader_MajorCivApproachBiases>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_WAR</MajorCivApproachType>
+			<Bias>4</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_HOSTILE</MajorCivApproachType>
+			<Bias>3</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_DECEPTIVE</MajorCivApproachType>
+			<Bias>5</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_GUARDED</MajorCivApproachType>
+			<Bias>7</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_AFRAID</MajorCivApproachType>
+			<Bias>4</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_FRIENDLY</MajorCivApproachType>
+			<Bias>6</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_NEUTRAL</MajorCivApproachType>
+			<Bias>7</Bias>
+		</Row>
+	</Leader_MajorCivApproachBiases>
+
+	<Leader_MinorCivApproachBiases>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_IGNORE</MinorCivApproachType>
+			<Bias>4</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_FRIENDLY</MinorCivApproachType>
+			<Bias>7</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_PROTECTIVE</MinorCivApproachType>
+			<Bias>7</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_CONQUEST</MinorCivApproachType>
+			<Bias>3</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_BULLY</MinorCivApproachType>
+			<Bias>4</Bias>
+		</Row>
+	</Leader_MinorCivApproachBiases>
+
+	<Leader_Flavors>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<FlavorType>FLAVOR_RECON</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<FlavorType>FLAVOR_RANGED</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<FlavorType>FLAVOR_MOBILE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_RECON</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_GROWTH</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_TILE_IMPROVEMENT</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<FlavorType>FLAVOR_AIR</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<FlavorType>FLAVOR_TILE_IMPROVEMENT</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<FlavorType>FLAVOR_INFRASTRUCTURE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<FlavorType>FLAVOR_DIPLOMACY</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<FlavorType>FLAVOR_SPACESHIP</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<FlavorType>FLAVOR_WATER_CONNECTION</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<FlavorType>FLAVOR_NUKE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<FlavorType>FLAVOR_USE_NUKE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<FlavorType>FLAVOR_ESPIONAGE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<FlavorType>FLAVOR_ANTIAIR</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<FlavorType>FLAVOR_AIR_CARRIER</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<FlavorType>FLAVOR_ARCHAEOLOGY</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<FlavorType>FLAVOR_I_LAND_TRADE_ROUTE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<FlavorType>FLAVOR_I_SEA_TRADE_ROUTE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<FlavorType>FLAVOR_I_TRADE_ORIGIN</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<FlavorType>FLAVOR_I_TRADE_DESTINATION</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_IDHONE</LeaderType>
+			<FlavorType>FLAVOR_AIRLIFT</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+	</Leader_Flavors>
+	
+	<!-- TEXT -->
+
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_IDHONE">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_IDHONE_FIRSTGREETING_%</Response>
+		</Row>
+		<Row LeaderType="LEADER_IDHONE">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_IDHONE_DEFEATED_%</Response>
+		</Row>
+	</Diplomacy_Responses>
+		
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_IDHONE">
+			<Text>Illiam Dhone</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_IDHONE_PEDIA">
+			<Text>Illiam Dhone</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_IDHONE">
+			<Text>Test text.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_IDHONE_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_IDHONE_FACT_1">
+			<Text>William Christian (1608-1663) is a Manx nationalist who is viewed by many of the islanders as a National hero due to his part in the Manx rebellion of 1651. He was the son of Ewan Christian, a Deemster (a Manx judge) and was nicknamed “Illiam Dhone” or “Brown William” due to his dark hair.[NEWLINE] [NEWLINE]In 1643 he became a member of the house of keys, (a member of the Manx parliament Tynwald) and was then made receiver general in 1648. He lived during a tumultuous time; the English Civil war was coming to a conclusion, and even on the island there was strife. “The Great Stanley”, 7th earl of Derbyshire and Lord of Mann was a staunch royalist and supporter of King Charles I, but due to his active part in the Civil war he raised taxes, allowed royalists to station soldiers in Manx homes and generally restricted Manx freedoms, arousing very great resentment.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_IDHONE_HEADING_2">
+			<Text>Rebellion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_IDHONE_FACT_2">
+			<Text>In 1651 the earl took a force including 300 Manxmen over to England to fight for King Charles II (who was eager to gain his rightful throne) but was defeated at the battle of Worcester and executed, stranding 300 Manx speaking soldiers as prisoners. [NEWLINE] [NEWLINE]Stanley’s wife, who was in control of the Island defied the parliamentary demands to surrender the isle, an action that would have lead to invasion by a vastly superior force and endanger the island’s people. Thus, Illiam Dhone betrayed the Stanley family and led a rebellion and captured all the island’s forts save Peel and Castle Rushen. He then opened negotiations with the parliamentarians so that the Manx people would be spared. The Parliamentarians captured the isle peacefully and Illiam was made governor of the island in 1656.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_IDHONE_HEADING_3">
+			<Text>Trial and Execution</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_IDHONE_FACT_3">
+			<Text>Two years later however, Illiam was accused of misusing money, and though these allegations were never proved he fled to England where he hoped that the new King Charles II would condone his offences against the earls of Derby, who were baying for his blood due to his part in the Manx rebellion. In response the earl had him arrested and taken back to the island where the Manx house of keys declared his life and his family’s possessions in the hands of the earl. He was later sentenced to death and shot on Hango hill outside Castletown. King Charles was shocked so deeply by the event that he forced the earl to make concessions to the Christian family, and he enforced reform in the English legal system.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_IDHONE_HEADING_4">
+			<Text>Judgment of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_IDHONE_FACT_4">
+			<Text>To the Manx, Illiam is a martyr used by nationalists as a symbol of Manx independence, but he is also viewed as a traitor by the Stanley’s, not only for his part in the rebellion but also his alleged money laundering. He was certainly an enigmatic character and today there isn’t a clear answer. Did he launch the rebellion as he cared for the lives of his fellow Manxmen, or was he just saving his own skin due to his association with the Stanley family? We will perhaps never know, but one thing for certain is that Illiam remains a symbol of Manx pride and prevented an enormous loss of Manx life, both of the 300 Manx prisoners and those who would have been forced to fight parliamentary forces.</Text>
+		</Row>
+		
+		
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_IDHONE_SUBTITLE">
+			<Text>Governor of the Isle of Man</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_IDHONE_NAME">
+			<Text>Illiam Dhone</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_IDHONE_LIVED">
+			<Text>1608 - 1663 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_IDHONE_FIRSTGREETING_1">
+			<Text>Fastyr mie! Cre'n ennym t'ort? Good day! How are you? I am Illiam Dhone of the Manx.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_IDHONE_FIRSTGREETING_2">
+			<Text>I am Illiam Dhone of the Isle of Man, I welcome you in the name of my people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_IDHONE_FIRSTGREETING_3">
+			<Text>Ta'n ennym orrym Illiam Dhone. Ta mee cummal ayns Ellan Vannin. I am Illiam Dhone of the Isle of Man. Who are you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_IDHONE_DEFEATED_1">
+			<Text>You have bested us. The world weeps for the loss you have caused.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_IDHONE_DEFEATED_2">
+			<Text>We may be defeated, but we will rise again.</Text>
+		</Row>
+	</Language_en_US>
+  
+</GameData>
