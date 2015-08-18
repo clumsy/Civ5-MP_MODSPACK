@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/2/2014 7:50:08 PM -->
+<GameData>
+	<ArtDefine_UnitInfos>
+		<Row>
+			<Type>ART_DEF_UNIT_TCM_NART</Type>
+			<DamageStates>1</DamageStates>
+		</Row>
+	</ArtDefine_UnitInfos>
+	<ArtDefine_UnitInfoMemberInfos>
+		<Row>
+			<UnitInfoType>ART_DEF_UNIT_TCM_NART</UnitInfoType>
+			<UnitMemberInfoType>ART_DEF_UNIT_MEMBER_TCM_NART</UnitMemberInfoType>
+			<NumMembers>1</NumMembers>
+		</Row>
+	</ArtDefine_UnitInfoMemberInfos>
+	<ArtDefine_UnitMemberInfos>
+		<Row>
+			<Type>ART_DEF_UNIT_MEMBER_TCM_NART</Type>
+			<Scale>0.119999997317791</Scale>
+			<Model>Knight_Mongol.fxsxml</Model>
+			<MaterialTypeTag>CLOTH</MaterialTypeTag>
+			<MaterialTypeSoundOverrideTag>FLESH</MaterialTypeSoundOverrideTag>
+		</Row>
+	</ArtDefine_UnitMemberInfos>
+	<ArtDefine_UnitMemberCombats>
+		<Row>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_TCM_NART</UnitMemberType>
+			<EnableActions>Idle Death BombardDefend Run</EnableActions>
+			<HasRefaceAfterCombat>1</HasRefaceAfterCombat>
+		</Row>
+	</ArtDefine_UnitMemberCombats>
+	<ArtDefine_StrategicView>
+		<Row>
+			<StrategicViewType>ART_DEF_UNIT_TCM_NART</StrategicViewType>
+			<TileType>Unit</TileType>
+			<Asset>alanNartSv.dds</Asset>
+		</Row>
+	</ArtDefine_StrategicView>
+</GameData>

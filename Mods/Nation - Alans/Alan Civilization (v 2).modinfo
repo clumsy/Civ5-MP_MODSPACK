@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="133f534d-7032-4df2-aba1-631626136328" version="2">
+  <Properties>
+    <Name>Alan Civilization</Name>
+    <Teaser>Adds The Alans as a Civilization, under King Respendial.</Teaser>
+    <Description>Adds The Alans as a Civilization, under King Respendial.</Description>
+    <Authors>TarcisioCM</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="B25B651B2146765389C5B58D2CC614BE" import="1">Art/alanAlpha128.dds</File>
+    <File md5="2C76B2A39918AEE1EC684D5760330545" import="1">Art/alanAlpha16.dds</File>
+    <File md5="AC537E35B596AB89691BAD9C239DEA37" import="1">Art/alanAlpha24.dds</File>
+    <File md5="F5775C2EA20F5AF651FC9D0E9D9439B4" import="1">Art/alanAlpha256.dds</File>
+    <File md5="BC7A473A3EBD19A51C713CBBEC6A6FEC" import="1">Art/alanAlpha32.dds</File>
+    <File md5="6FB80EE6FF22CE5D168C56C0B72C3C73" import="1">Art/alanAlpha48.dds</File>
+    <File md5="C00D1B591CA438DDCAB6A18DD8ADADC7" import="1">Art/alanAlpha64.dds</File>
+    <File md5="6D4362CAAA924F1A34324B8D48B1C3F3" import="1">Art/alanAlpha80.dds</File>
+    <File md5="0229DE309C38085851E525F122E219BB" import="1">Art/alanIcons128.dds</File>
+    <File md5="CF0E323FE0DBC7C1DFF4723250983C89" import="1">Art/alanIcons256.dds</File>
+    <File md5="C4F26D2229BACD5F193B9C8099560E97" import="1">Art/alanIcons32.dds</File>
+    <File md5="2E811591411911474331E0AC41C2348C" import="1">Art/alanIcons45.dds</File>
+    <File md5="4B91F6984E6220546A3DC2C6D243DB2C" import="1">Art/alanIcons64.dds</File>
+    <File md5="11BCE09DBA064904D922EB07EFD354CC" import="1">Art/alanIcons80.dds</File>
+    <File md5="9CF82140F7E4ED2D70892DC7C640A0EE" import="1">Art/alanNartAlpha.dds</File>
+    <File md5="F9B17D3445B5B73AC4EA169B8B920DA5" import="1">Art/alanNartSv.dds</File>
+    <File md5="2235C0BA1D82C28F55B4A3AAB773C3D7" import="1">Art/alanRaze128.dds</File>
+    <File md5="3C0A0E4151759395945DDBAEE5F459A6" import="1">Art/alanRaze256.dds</File>
+    <File md5="747A808CF403A8F15EB4C9649CF4F21D" import="1">Art/alanRaze32.dds</File>
+    <File md5="AA42F7E44C416F8CC6F1C199FD45E869" import="1">Art/alanRaze45.dds</File>
+    <File md5="B98E21F631A6BD9D8BFDF5366F06B9CD" import="1">Art/alanRaze64.dds</File>
+    <File md5="23A1DF10AFA05B653622078980BA1C1D" import="1">Art/alanRaze80.dds</File>
+    <File md5="F2624FBB5707006F6CAF92467192382D" import="1">Art/alanSettlerAlpha.dds</File>
+    <File md5="FB587C69C252F760575FE75A095FF397" import="1">Art/alanSettlerSv.dds</File>
+    <File md5="7D7EBC74DC20296E14F11401EFCF0EDC" import="1">Art/Respendial_leaderscene.xml</File>
+    <File md5="00BBB61DF675CCF174B030EB91AFDFAB" import="1">Art/GreatWarlord/Knight_Mongol.dds</File>
+    <File md5="15ACE682FCEF4CBBEA90BC128C8E7402" import="1">Art/GreatWarlord/Knight_Mongol.fxsxml</File>
+    <File md5="68074C80399C0FD35ABFAA0CABB2A498" import="1">Art/GreatWarlord/Knight_Mongol.gr2</File>
+    <File md5="470748FD57DFC4F39525C8BAAACC0F00" import="1">Art/GreatWarlord/Knight_Mongols.dds</File>
+    <File md5="295436069F4EB6157211D3335EB91045" import="1">Art/GreatWarlord/Knight_Mongol_Horse.dds</File>
+    <File md5="85C9ACBA861B6850FCCA12CF82E0AD50" import="1">Art/GreatWarlord/Knight_Mongol_Horse_gloss.dds</File>
+    <File md5="AF301E39B0D19FDFA7D7193820748896" import="1">Art/RespendialLeaderscene.dds</File>
+    <File md5="88AB8438F41B11B549668F5EF55DC3A2" import="1">Art/Respendial_dawnofman.dds</File>
+    <File md5="EBA855474CCB7C92C068F1FEEE3E7513" import="1">Art/SteppeNomad/HorseArcher_Mongol.dds</File>
+    <File md5="D0ED4C6743DC6254B7FFC013B6C7254D" import="1">Art/SteppeNomad/HorseArcher_Mongol.fxsxml</File>
+    <File md5="BC2EC94F7FF3C4EC0E7CD605FC160027" import="1">Art/SteppeNomad/HorseArcher_Mongol.gr2</File>
+    <File md5="7EA3B6C9B6AFD3C3B14E48C5626FFBE7" import="1">Art/SteppeNomad/HorseArcher_Mongol_gloss.dds</File>
+    <File md5="ED76F6C0472BACA1DE4B269178C0501C" import="1">Art/SteppeNomad/HorseArcher_Mongol_Horse.dds</File>
+    <File md5="E852AD5BC109377C27888893AE1D4BDE" import="1">Art/SteppeNomad/Horseman_Mongol.dds</File>
+    <File md5="1E286628CE142B35DDF2AC505EB97E1F" import="1">Art/SteppeNomad/Horseman_Mongol.fxsxml</File>
+    <File md5="53AA25D584C18D723F17C212EA1CEED9" import="1">Art/SteppeNomad/Horseman_Mongol.gr2</File>
+    <File md5="D15C10FBE1007F03B3FF3652CD921F2B" import="1">Art/SteppeNomad/Horseman_Mongol_gloss.dds</File>
+    <File md5="ED76F6C0472BACA1DE4B269178C0501C" import="1">Art/SteppeNomad/Horseman_Mongol_Horse.dds</File>
+    <File md5="AC41C06BA721315512F26433220FEDF7" import="1">Art/SteppeNomad/no_gloss.dds</File>
+    <File md5="371D792317E7FE42D0E10DEBEB00290A" import="1">Art/tcmAlanMap.dds</File>
+    <File md5="032B4421D0C2073AF4F3152CFD78A87F" import="1">Art/tcmAlanPeace.mp3</File>
+    <File md5="15B1D1D1A4FA1FDC23195E66733E9C02" import="1">Art/tcmAlanWar.mp3</File>
+    <File md5="D42F4CCC547D10DE741C9637547D6A22" import="0">Core/Civilization.xml</File>
+    <File md5="3718B213A1E0E8720526C85BABCFC501" import="0">Core/Buildings.xml</File>
+    <File md5="59A8D195A75EA4151A4BD76A00C504FF" import="0">Core/ArtDefGreatWarlord.xml</File>
+    <File md5="F73245D669FECF0BDD77DB95DD450F22" import="0">Core/ArtDefAlanSettler.xml</File>
+    <File md5="D8E2108E8B57C7ACC2AADAC15AF842D6" import="0">Core/TSL.sql</File>
+    <File md5="A4CA6FF8172EA186A80045315088E2B0" import="0">Core/Leader.xml</File>
+    <File md5="23ADAB971A673EC8D663171AEB3EC418" import="0">Core/GameText.xml</File>
+    <File md5="F239915CBE00431592A2DDA2236B34A9" import="0">Core/Icons.xml</File>
+    <File md5="4447B85AFCBC84B814F2B57688745C97" import="0">Core/Lua.lua</File>
+    <File md5="C24365AD3C0B5B35A03C8538CA4CFCF3" import="0">Core/Music.xml</File>
+    <File md5="540ECE4074CFF87828F15C036CF4DAAB" import="0">Core/Units.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Icons.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Leader.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Music.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Units.xml</UpdateDatabase>
+      <UpdateDatabase>Core/ArtDefGreatWarlord.xml</UpdateDatabase>
+      <UpdateDatabase>Core/ArtDefAlanSettler.xml</UpdateDatabase>
+      <UpdateDatabase>Core/TSL.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Core/Lua.lua">
+      <Name>Alan</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/29/2014 11:10:43 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_TCM_ALAN_DESC">
+			<Text>Alan Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TCM_ALAN_SHORT_DESC">
+			<Text>The Alans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TCM_ALAN_ADJECTIVE">
+			<Text>Alan</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_TCM_ALAN_DOM">
+			<Text>Hail Respendial, King of the Alans, may you guide your people into glory, conquest and wealth. As descendants of the Sarmatians, long have the Alans lived in the eurasian steppe until in 372 the Hunnic menace forced them out of home. Those who allied themselves with the Huns pushed westward, later leaving their conquerors and pressing further into the Roman Empire. Those who resisted migrated south, where they formed the Kingdom of Alania that endured until 1239, when the Mongols conquerors destroyed it.[NEWLINE][NEWLINE]Warlike King, your people is now dispersed and assimilated, their kingdoms long destroyed and their name forgotten to the pages of history! Will you lead them to victory once more, and form a new kingdom for your people? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ALAN_1">
+			<Text>Maghas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ALAN_2">
+			<Text>Alhan-Kala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ALAN_3">
+			<Text>Verhniy Dzhulat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ALAN_4">
+			<Text>Rim Gora</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ALAN_5">
+			<Text>Ilyichevskoe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ALAN_6">
+			<Text>Orleans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ALAN_7">
+			<Text>Valence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ALAN_8">
+			<Text>Toletum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ALAN_9">
+			<Text>Salmantica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ALAN_10">
+			<Text>Carthago Nova</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ALAN_11">
+			<Text>Emerita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ALAN_12">
+			<Text>Conimbriga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ALAN_13">
+			<Text>Olisipo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ALAN_14">
+			<Text>Corduba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ALAN_15">
+			<Text>Hispalis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ALAN_16">
+			<Text>Gades</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ALAN_17">
+			<Text>Caesarea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ALAN_18">
+			<Text>Hippo Regius</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ALAN_19">
+			<Text>Tricameron</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ALAN_20">
+			<Text>Carthage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ALAN_21">
+			<Text>Hadrumetum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ALAN_22">
+			<Text>Tripolis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ALAN_23">
+			<Text>Caralis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ALAN_24">
+			<Text>Alagir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ALAN_25">
+			<Text>Dzau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ALAN_26">
+			<Text>Digora</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ALAN_27">
+			<Text>Tskhinval</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ALAN_28">
+			<Text>Beslan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ALAN_29">
+			<Text>Kvaisa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ALAN_30">
+			<Text>ZnaurZnaur</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_ALAN_0">
+			<Text>Ardabur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ALAN_1">
+			<Text>Alda</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ALAN_2">
+			<Text>Satenik</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ALAN_3">
+			<Text>Sangiban</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ALAN_4">
+			<Text>Ashkhen</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ALAN_5">
+			<Text>Sarosios</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ALAN_6">
+			<Text>Aspar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ALAN_7">
+			<Text>Burdukhan</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ALAN_8">
+			<Text>Attaces</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ALAN_9">
+			<Text>Borena</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		
+
+		<Row Tag="TXT_KEY_LEADER_TCM_RESPENDIAL">
+			<Text>Respendial</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_TRAIT_TCM_RESPENDIAL_SHORT">
+			<Text>Iron Migrations</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TCM_RESPENDIAL">
+			<Text>May raze your own cities, giving you a Settler and one military unit for every 2 Pop born after the city was founded. A city may become a Point of Sedentism; cities settled away from these receive production and happiness bonuses.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_TCM_GREAT_NAR">
+			<Text>Nart</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TCM_GREAT_NAR_HELP">
+			<Text>Replaces the Great General. Units stacked with a Nart may pass through rival territory without open borders for 2 turns. Gain 2 Happiness Empire-Wide for every city founded after the newest Nart was born. Cities founded on the same tile as a Nart have a chance of settling with free ancient-era buildings, depending of how far they are from the Point of Sedentism.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_GREAT_PERSON_NAR_1">
+			<Text>Kuluk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_NAR_2">
+			<Text>Respendial</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_NAR_3">
+			<Text>Attaces</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_NAR_4">
+			<Text>Goar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_NAR_5">
+			<Text>Sangiban</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_NAR_6">
+			<Text>Aspar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_NAR_7">
+			<Text>Ardabur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_NAR_8">
+			<Text>Sarosios</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_NAR_9">
+			<Text>David Soslan</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_TCM_ALAN_SETTLER">
+			<Text>Horse Nomad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_TCM_ALAN">
+			<Text>Replaces the Settler, that unlike him, has 4 movement points. Has a military variant spawned after razing a city you founded with strength based on the current era (Until the Industrial Era), and that may be disbanded in cities for instant population.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_PROMOTION_TCM_NARTMOVE">
+			<Text>Iron Migrations</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TCM_NARTMOVE_HELP">
+			<Text>This unit may pass through rival territory without open borders for two turns.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TCM_NARTMOVE_2">
+			<Text>Iron Migrations</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TCM_NARTMOVE_2_HELP">
+			<Text>This unit may pass through rival territory without open borders for this turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TCM_DUMMYPROMALAN">
+			<Text>Alan Nart</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TCM_DUMMYPROMALAN_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TCM_NARTTERRITORY">
+			<Text>Nomad Warlord</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TCM_NARTTERRITORY_HELP">
+			<Text>This unit may pass through rival territory without open borders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TCM_ALANMIGRANT">
+			<Text>Alan Migrant</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TCM_ALANMIGRANT_HELP">
+			<Text>This unit may be disbanded in cities for instant population.</Text>
+		</Row>
+		
+
+		<Row Tag="TXT_KEY_BUILDING_TCM_ALANRAZE">
+			<Text>Raze</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TCM_ALANRAZE_HELP">
+			<Text>Abandon this settlement and ride in search of another.</Text>
+		</Row>
+
+		<!--First Greeting messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_TCM_RESPENDIAL_FIRSTGREETING_1">
+			<Text>Greetings foreigner. I hope you are either a worthy ally for my people or a puny warlord for me to crush.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_RESPENDIAL_FIRSTGREETING_2">
+			<Text>A stranger approaches! Friend or foe?</Text>
+		</Row>
+		<!--Defeated messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_TCM_RESPENDIAL_DEFEATED_1">
+			<Text>You are worthy of leading my people. May you guide them to glory in your campaigns.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
