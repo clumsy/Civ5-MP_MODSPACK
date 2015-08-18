@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/7/2014 9:44:03 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_DECISIONS_IBERIANSCULPTURE">
+			<Text>Adopt {1_Name} Sculpting Techniques</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_IBERIANSCULPTURE_DESC">
+			<Text>
+				Through trade with {1_Name}, our people have become familiarized with their goods and culture. If so we choose, we may adopt some of their techniques in our own sculptures and arts.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Iberians
+				[NEWLINE][ICON_BULLET]Must have a Trade Route with target civilization
+				[NEWLINE][ICON_BULLET]May only be enacted once per era
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{2_Cost} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Lose any previously adopted bonus
+				[NEWLINE][ICON_BULLET]{3_Bonus}
+				[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: Every civilization is assigned a different random reward[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TCM_ADOPTSCULPTURES_ENACTED_DESC">
+			<Text>
+				Through trade with {1_Name}, our people have become familiarized with their goods and culture and we have adopted their techniques in our own sculptures and arts.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]{2_Bonus}
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DECISIONS_TCM_THE_IBERIANS_TOLEDO_STEEL">
+			<Text>Adopt the Toledo Steel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TCM_THE_IBERIANS_TOLEDO_STEEL_DESC">
+			<Text>
+				Our metal workers have invented a new, much more resistant form of iron called the Toledo Steel. Its fame has spread through the world as one of the most durable metals around, and we may choose to adopt it in our weapons.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Iberians
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Classical Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE][ICON_BULLET]Must have a source of [ICON_RES_IRON] Iron
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Cost} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]{1_Cost} [ICON_GOLD] Gold
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Melee units gain the Toledo Steel promotion
+				[NEWLINE][ICON_BULLET]+1 [ICON_PRODUCTION] Production and [ICON_CULTURE] Culture from sources of [ICON_RES_IRON] Iron
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TCM_THE_IBERIANS_TOLEDO_STEEL_ENACTED_DESC">
+			<Text>
+				Our metal workers have invented a new, much more resistant form of iron called the Toledo Steel. Its fame has spread through the world as one of the most durable metals and we have adopted it in our army.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Melee units gain the Toledo Steel promotion
+				[NEWLINE][ICON_BULLET]+1 [ICON_PRODUCTION] Production and [ICON_CULTURE] Culture from sources of [ICON_RES_IRON] Iron
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

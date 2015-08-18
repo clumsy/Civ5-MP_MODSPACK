@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_EVENT_TCM_IBERIAN_REQUESTED_MERCENARIES">
+			<Text>Foreign Ruler requests Mercenaries</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TCM_IBERIAN_REQUESTED_MERCENARIES_DESC">
+			<Text>Delegates sent from {1_CS} are asking us for military aid in their wars, but this might upset {2_CS}, their rival. We can lend them our mercenaries or turn them away.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TCM_IBERIAN_REQUESTED_MERCENARIES_OUTCOME_1">
+			<Text>Give them some soldiers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TCM_IBERIAN_REQUESTED_MERCENARIES_OUTCOME_2">
+			<Text>Lend them some mercenaries.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TCM_IBERIAN_REQUESTED_MERCENARIES_OUTCOME_3">
+			<Text>Turn them away.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TCM_IBERIAN_REQUESTED_MERCENARIES_OUTCOME_RESULT_1">
+			<Text>
+				[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain +60 [ICON_INFLUENCE] Influence with {1_CS}[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_NEGATIVE_TEXT]An unit loses the "Iberian Soldier" and "Toledo Steel" promotions and is gifted to {1_CS}[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose -15 [ICON_INFLUENCE] Influence with {2_CS}[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TCM_IBERIAN_REQUESTED_MERCENARIES_OUTCOME_RESULT_2">
+			<Text>
+				[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain +30 [ICON_INFLUENCE] Influence with {1_CS}[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {3_CS} [ICON_GOLD] Gold[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_GREY]An unit is gifted to {1_CS}[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose -15 [ICON_INFLUENCE] Influence with {2_CS}[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TCM_IBERIAN_REQUESTED_MERCENARIES_OUTCOME_RESULT_3">
+			<Text>
+				[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain +30 [ICON_INFLUENCE] Influence with {2_CS}[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose -30 [ICON_INFLUENCE] Influence with {1_CS}[ENDCOLOR]
+			</Text>
+		</Row>
+
+
+		
+		<Row Tag="TXT_KEY_EVENT_TCM_IBERIAN_REQUESTED_MERCENARIES_NOTIFICATION">
+			<Text>Foreign Ruler requests Mercenaries</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TCM_IBERIAN_REQUESTED_MERCENARIES_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have chosen to aid the City-State and gave them some of our troops.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TCM_IBERIAN_REQUESTED_MERCENARIES_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>The City-State has hired some of our mercenaries.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TCM_IBERIAN_REQUESTED_MERCENARIES_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>We have dismissed the foreign delegates sent by the City-State.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

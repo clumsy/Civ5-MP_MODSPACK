@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="cbc1b640-adb1-4b51-8988-dc54543b59e9" version="2">
+  <Properties>
+    <Name>TarcisioCM - The Iberians</Name>
+    <Teaser>Adds [COLOR_POSITIVE_TEXT]The Iberians[ENDCOLOR] under Indibilis. Requires BNW.</Teaser>
+    <Description>Adds [COLOR_POSITIVE_TEXT]The Iberians[ENDCOLOR] under Indibilis. Requires BNW.</Description>
+    <Authors>TarcisioCM</Authors>
+    <SpecialThanks>Janboruta, Leugi and Regalman</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <Homepage>http://forums.civfanatics.com/showthread.php?t=523876</Homepage>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="8c101299-95c5-4b28-b7ed-4e0f774857ef" minversion="0" maxversion="999" title="Historical Religions" />
+    <Mod id="6bc3cb6e-a697-491e-9347-5e3e02640f00" minversion="0" maxversion="999" title="Historical Religions Edit" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="Piety and Prestige" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events and Decisions" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="43868e8d-de88-48a1-a8d9-ce144e07f5e0" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="BD5A00AA35C419637829F0B8B9C2F87C" import="1">Art/Castro/black32.dds</File>
+    <File md5="5C7C79B0894BAF144C66F2A4EF2493AE" import="1">Art/Castro/castro_01.fxsxml</File>
+    <File md5="EFDB67619FC00D7F6EECFD5B1FFC2F04" import="1">Art/Castro/castro_01.gr2</File>
+    <File md5="3618A571EE7999090627ADD87B5F85B8" import="1">Art/Castro/castro_02.fxsxml</File>
+    <File md5="512A1D4FFD89162A04B0527A4FEDF956" import="1">Art/Castro/castro_02.gr2</File>
+    <File md5="5E68FA648B06F57383804B5D1CEE5627" import="1">Art/Castro/castro_03.fxsxml</File>
+    <File md5="662511D0C8ECC9B5C5676E7EBD820F16" import="1">Art/Castro/castro_03.gr2</File>
+    <File md5="2C685F3993CF94545D6BAAA1E4E9068C" import="1">Art/Castro/castro_decal_01.dds</File>
+    <File md5="0DA1894E7EF85A49F2A015583F104637" import="1">Art/Castro/castro_decal_02.dds</File>
+    <File md5="03E4EAD6AD0C2ACC0C50982BAC2E6CC7" import="1">Art/Castro/castro_decal_03.dds</File>
+    <File md5="6557EDFA8426E4747B57EA764DAD33FE" import="1">Art/Castro/castro_diff.dds</File>
+    <File md5="78EFDB77D96630C5694E093E047E6E69" import="1">Art/Castro/castro_hb.fxsxml</File>
+    <File md5="C3FC9280B02754752A5C6D3F80CE104A" import="1">Art/Castro/castro_hb.gr2</File>
+    <File md5="64EDF417C9CABF58AC448A0E42F1461B" import="1">Art/Castro/castro_hb_decal.dds</File>
+    <File md5="5170F26857D76158DBE3D3141C49C656" import="1">Art/Castro/castro_pl.fxsxml</File>
+    <File md5="CCBFAA7133878938678E2E200838AA5B" import="1">Art/Castro/castro_pl.gr2</File>
+    <File md5="D94E18586FCC1CC2131B674BBB41C2BF" import="1">Art/Castro/castro_pl_decal.dds</File>
+    <File md5="37B4516D3C71D86F0E2767B1AF4678FA" import="1">Art/Castro/castro_pl_diff.dds</File>
+    <File md5="2E60292A7C219E39E203409D599E34D3" import="1">Art/Castro/sv_castro.dds</File>
+    <File md5="4AADC0220DAA9616EFC1397FB84BBDB8" import="1">Art/Icons/alpha_tcmTheIberians128.dds</File>
+    <File md5="840935B1F03E3D851D255C08BE8DCB72" import="1">Art/Icons/alpha_tcmTheIberians16.dds</File>
+    <File md5="856DA9801E697BD6F96CFEC9B25B4CCB" import="1">Art/Icons/alpha_tcmTheIberians24.dds</File>
+    <File md5="2EBEB42DB146C49BC2D69F2758C3B54F" import="1">Art/Icons/alpha_tcmTheIberians256.dds</File>
+    <File md5="041036AC4F550949FF52F325D1370B7E" import="1">Art/Icons/alpha_tcmTheIberians32.dds</File>
+    <File md5="785DAC116341173CCDC5E6671045D6B9" import="1">Art/Icons/alpha_tcmTheIberians48.dds</File>
+    <File md5="8B9127C71243403C2519A0C659E7DD29" import="1">Art/Icons/alpha_tcmTheIberians64.dds</File>
+    <File md5="4FB222AE2B10B94F523249EF701446C5" import="1">Art/Icons/alpha_tcmTheIberians80.dds</File>
+    <File md5="3BE3030EDB049457485973EE8CC1349D" import="1">Art/Icons/icon_tcmTheIberians128.dds</File>
+    <File md5="8AECEE5E3911DDD4938C0BC45B1E1DAF" import="1">Art/Icons/icon_tcmTheIberians256.dds</File>
+    <File md5="D0E4A31F563C505D330891E538ABCF8B" import="1">Art/Icons/icon_tcmTheIberians32.dds</File>
+    <File md5="15C8FBA21783BD94BA40792126F11821" import="1">Art/Icons/icon_tcmTheIberians45.dds</File>
+    <File md5="84C1E798FE5FCA19973073ED26076CF8" import="1">Art/Icons/icon_tcmTheIberians64.dds</File>
+    <File md5="9313F35A43FD6B0BD7AED5089ED59578" import="1">Art/Icons/icon_tcmTheIberians80.dds</File>
+    <File md5="3CD735C788AEEBA5054B1A2325EE0075" import="1">Art/Leaderscene/dawnofman_tcmTheIberians.dds</File>
+    <File md5="516E3DFC7EC4746422D08524C996AAFA" import="1">Art/Leaderscene/leaderscene_tcmIberians.xml</File>
+    <File md5="B83DC892F152122888DFF90CFC6AC6F3" import="1">Art/Leaderscene/map_tcmTheIberians.dds</File>
+    <File md5="06BE4D9334B94B324C5334AE66399F08" import="1">Art/Leaderscene/tcmIndibilis_scene.dds</File>
+    <File md5="85C87230609916F1CD1D8F8FBD93BA47" import="1">Art/Music/tcmIberianPeace.mp3</File>
+    <File md5="E41129E5681150422F0F478D4FD1EED7" import="1">Art/Music/tcmIberianWar.mp3</File>
+    <File md5="77BD754B0F0C25D4BDADEADA8B5E67F2" import="0">Code/CastroDefine.sql</File>
+    <File md5="1D77EE19184693346A479A0B89291879" import="0">Code/Civilizations.xml</File>
+    <File md5="96D8E3863EA88E849BFEF74FA1EE32DC" import="0">Code/Buildings.xml</File>
+    <File md5="4486E05E92C6A1829D1BD4FC8EAB80DE" import="1">Code/CultureOverview.lua</File>
+    <File md5="BF85D174CA9D4F2EC2AD7E3FBB6C0D6D" import="1">Code/CultureOverview.xml</File>
+    <File md5="D6DFA762CF5032393E52546DBFDF4500" import="0">Code/Diplomacy.sql</File>
+    <File md5="7CFB624F73E3AFD34B0409900CA301C0" import="0">Code/Improvements.xml</File>
+    <File md5="45566A28D393B21E0508FEC6559A47B6" import="0">Code/Functions.lua</File>
+    <File md5="07F1C62294507BEB2EF36D235B990EA2" import="0">Code/ModSupport.sql</File>
+    <File md5="52261AACA898F31341488B902BF4C19F" import="0">Code/Music.xml</File>
+    <File md5="E0A7F79CC6242E586FEF710A0638109D" import="0">Code/Icons.xml</File>
+    <File md5="5FB6FE9E6B071E27E1A09636EBD363E0" import="0">Code/Leaders.xml</File>
+    <File md5="53F3ADB3EA21139FAB0090CA6C7A45EF" import="0">Code/GameText.xml</File>
+    <File md5="9AD2DEA8B8FAB226A872EE7A383E2069" import="0">Code/Ryoga's Unique Cultural Influence Support/GameText.xml</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">Code/SaveUtils.lua</File>
+    <File md5="1694DA356B2051C1B9E65EE73FF0B807" import="0">Code/Sukritact's Decisions Support/Decisions.sql</File>
+    <File md5="EDCDA8A67819B8C97642748B706914BA" import="0">Code/Sukritact's Decisions Support/GameText.xml</File>
+    <File md5="07A58C47175BFC9B8E4BDFD3CDE1C43A" import="0">Code/Sukritact's Events Support/Events.sql</File>
+    <File md5="B2B47C0CEB921673BABC6926805656F6" import="0">Code/Sukritact's Events Support/GameText.xml</File>
+    <File md5="EBD003A507AE1519AD48AFBFB804A59F" import="1">Code/Sukritact's Events Support/TCM_IberianEvents.lua</File>
+    <File md5="A82C55C66868191776143ED72F1E579B" import="1">Code/Sukritact's Decisions Support/TCM_IberianDecisions.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Code/Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>Code/Leaders.xml</UpdateDatabase>
+      <UpdateDatabase>Code/Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>Code/Improvements.xml</UpdateDatabase>
+      <UpdateDatabase>Code/Icons.xml</UpdateDatabase>
+      <UpdateDatabase>Code/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Code/Music.xml</UpdateDatabase>
+      <UpdateDatabase>Code/Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Ryoga's Unique Cultural Influence Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Code/Sukritact's Decisions Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Code/Sukritact's Decisions Support/Decisions.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Sukritact's Events Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Code/Sukritact's Events Support/Events.sql</UpdateDatabase>
+      <UpdateDatabase>Code/CastroDefine.sql</UpdateDatabase>
+      <UpdateDatabase>Code/ModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Code/Functions.lua">
+      <Name>The Iberians Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>
