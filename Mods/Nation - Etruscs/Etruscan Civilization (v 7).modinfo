@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="0088c0f9-9a68-470e-8f11-ed5cfb5786a1" version="7">
+  <Properties>
+    <Name>Etruscan Civilization</Name>
+    <Teaser>The Etruscan League, with Tyrrhenus as its leader.</Teaser>
+    <Description>The Etruscan League, with Tyrrhenus as its leader.</Description>
+    <Authors>TarcisioCM</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="66C0F037E6DD9537D04F159C334AA2E5" import="1">Art/Alpha_Icon_Etruscan128.dds</File>
+    <File md5="8E50E76C1A031F130E0C99B55BB686B2" import="1">Art/Alpha_Icon_Etruscan16.dds</File>
+    <File md5="743613013339D31BC7DAD779D67FD318" import="1">Art/Alpha_Icon_Etruscan24.dds</File>
+    <File md5="A26DD2B00B79941D11AA637DC99692A6" import="1">Art/Alpha_Icon_Etruscan256.dds</File>
+    <File md5="6D7E6813431EFF56A2BA89D2AD940699" import="1">Art/Alpha_Icon_Etruscan32.dds</File>
+    <File md5="CE7125A712EC8FDFAE4649DFA6E661E5" import="1">Art/Alpha_Icon_Etruscan48.dds</File>
+    <File md5="D72CA00A0A31DCB852E5B230265513AC" import="1">Art/Alpha_Icon_Etruscan64.dds</File>
+    <File md5="0F8C45DD59F52C2A33FD1AF1B49F15F0" import="1">Art/Alpha_Icon_Etruscan80.dds</File>
+    <File md5="AF1D8A03051A80F26BE36D83FEFC45CB" import="1">Art/DawnofMan_Etruscan.dds</File>
+    <File md5="516D4464E5A41AEAE49F2C6B94C29600" import="1">Art/etruscan_scene.dds</File>
+    <File md5="5A10BF4148302F902339B2076FABF91D" import="1">Art/improved_icon_etruscan128.dds</File>
+    <File md5="BED1F2D85CAB14A4AFC31C87C793F550" import="1">Art/improved_icon_etruscan256.dds</File>
+    <File md5="4A46F4BC80A548EAADB5B87B670F8550" import="1">Art/improved_icon_etruscan32.dds</File>
+    <File md5="D607F308350B7A98C3CB72C702127F07" import="1">Art/improved_icon_etruscan45.dds</File>
+    <File md5="497EE05560523F46E029C1C24B4BC4B1" import="1">Art/improved_icon_etruscan64.dds</File>
+    <File md5="A888CA3391971DB2B2B8277BEC802413" import="1">Art/improved_icon_etruscan80.dds</File>
+    <File md5="68A5A8865D981478C78DD3DB303CB9C1" import="1">Art/main_icon_etruscan128.dds</File>
+    <File md5="9E49044E18841ADFDC2B2DA71185DA21" import="1">Art/main_icon_etruscan256.dds</File>
+    <File md5="3EF1F4E660B8C9FCD54984C579F65D47" import="1">Art/main_icon_etruscan32.dds</File>
+    <File md5="48C9840A95F080C93FF6C1AA5157006B" import="1">Art/main_icon_etruscan45.dds</File>
+    <File md5="56B51C6F97D9214B89C531A62398911E" import="1">Art/main_icon_etruscan64.dds</File>
+    <File md5="CB9EAC5DA34AB2C40E6EEC37EF191CF7" import="1">Art/main_icon_etruscan80.dds</File>
+    <File md5="4FF20C7EECF45734640898D1EB0074A4" import="1">Art/map_etruscan.dds</File>
+    <File md5="588D0F417C9A19C0CA047D22EA7F5796" import="1">Art/tcmetruscanpeace.mp3</File>
+    <File md5="CB08595E97E9DC4F69577F9C4146B707" import="1">Art/tcmetruscanwar.mp3</File>
+    <File md5="F0CFF6A7F3C44516C668F36EBF11A2F9" import="1">Art/Tyrrhenus_Scene.xml</File>
+    <File md5="200979F8EA98D2385DA1AC1751D2F7E2" import="0">Lua/Etruscan_Functions.lua</File>
+    <File md5="14F60CE0B9145434F681284C5F1C55FF" import="0">XML/Civilization/Civilization_Etruscan.xml</File>
+    <File md5="058A19E8DFECE8FFE77ED2E5844A5798" import="0">XML/Civilization/Leader_Tyrrhenus.xml</File>
+    <File md5="E0BF0DFEAD7DC3178B0C51CAB38C5FDD" import="0">XML/Other/Tyrrhenus_Music.xml</File>
+    <File md5="E81815FE50424976BF546A79748A0C73" import="0">XML/Other/GameText.xml</File>
+    <File md5="D360EC355098E26662162F5962AB848D" import="0">XML/Other/IconAtlas.xml</File>
+    <File md5="174050E1B1782F42F6FE372B7DA67C67" import="0">XML/Uniques/Etruscan_Buildings.xml</File>
+    <File md5="DD1855F07FD77828C0C61997A08CC5A4" import="0">XML/Uniques/Etruscan_Fanus.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Civilization/Civilization_Etruscan.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization/Leader_Tyrrhenus.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Other/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Other/IconAtlas.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Uniques/Etruscan_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Uniques/Etruscan_Fanus.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Other/Tyrrhenus_Music.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Etruscan_Functions.lua">
+      <Name>Etruscan Functions </Name>
+      <Description>Muh Functions</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

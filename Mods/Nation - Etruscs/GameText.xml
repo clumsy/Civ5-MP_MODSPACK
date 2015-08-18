@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/16/2014 4:27:02 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_TCM_ETRUSCAN_DESC">
+			<Text>Etruscan League</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TCM_ETRUSCAN_SHORT_DESC">
+			<Text>The Etruscans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TCM_ETRUSCAN_ADJECTIVE">
+			<Text>Etruscan</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV_TCM_ETRUSCAN_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TCM_ETRUSCAN_TEXT_1">
+			<Text>According to legend, there was a period between 600 BC and 500 BC, in which an Alliance was formed between twelve Etruscan settlements, known today as the Etruscan League, Etruscan Federation, or Dodecapoli. The Etruscan League of 12 cities was founded by two Lydian noblemen: Tarchon and his brother Tyrrhenus. Tarchon lent his name to the city of Tarchna, or Tarquinnii, as it was known by the Romans. Tyrrhenus gave his name to the Tyrrhenians - the alternative name for the Etruscans. The league was mostly an economic and religious league, or a loose confederation, similar to the Greek states. During the later imperial times when Etruria was just one of many regions controlled by Rome, the number of cities in the league increased by three. According to Livy, the twelve city states met once a year at the Fanum Voltumnae at Volsinii, where a leader was chosen to represent the league.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TCM_ETRUSCAN_HEADING_2">
+			<Text>Origins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TCM_ETRUSCAN_TEXT_2">
+			<Text>The origins of the Etruscans are mostly lost in prehistory. Historians have no literature, no original texts of religion or philosophy; therefore, much of what is known about this civilization is derived from grave goods and tomb findings.[8] Historians have first relied on the historical accounts of prominent Greek and Roman authors such as Herodotus and Pliny the Elder, who both described the Etruscan people and theorized about their origins, for example by comparing their coins to others from different regions. Herodotus, based on such metallurgic examinations speculated that the Etruscans emigrated from Lydia, at the Eastern coast of Anatolia, and were sent by their king to find a better land (Umbria) after a drought ravaged their homeland. Due to the fanciful and hypothetical nature of these tales, modern historians have been skeptical of these accounts.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_TRAIT_TCM_TYRRHENUS_SHORT">
+			<Text>Loose League</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TCM_TYRRHENUS">
+			<Text>-80% [ICON_HAPPINESS_4] Unhappiness from number of cities. -35% less [ICON_GOLD] Gold from cities other than the [ICON_CAPITAL] Capital, but they receive a weaker version of the palace.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_TCM_ETRUSCAN_TYRRHENUS">
+			<Text>Tyrrhenus</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_ETRUSCAN_TYRRHENUS_HEADING_1">
+			<Text>Tyrrhenus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_ETRUSCAN_TYRRHENUS_TEXT_1">
+			<Text>Tyrrhenus was one of the founders of the Etruscan League of twelve cities, along with his brother Tarchon. Herodotus describes him as the saver of the Etruscans, because he led them from Lydia to Etruria. His name was given to the Etruscan people by the Greeks. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_ETRUSCAN_TYRRHENUS_LIVED">
+			<Text>c. 600 - c. 500 BC</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_ETRUSCAN_TYRRHENUS_NAME">
+			<Text>Tyrrhenus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_ETRUSCAN_TYRRHENUS_SUBTITLE">
+			<Text>Leader of the Etruscans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_ETRUSCAN_TYRRHENUS_TITLES_1">
+			<Text>Leader of the Etruscans</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_CIV5_TCM_ETRUSCAN_DOM">
+			<Text>Blessings and salutations to you, revered Tyrrhenus, savior of the Etruscans. Your original homeland, Lydia, had been ravaged by floods when you led your people into the northern Italian Peninsula, where would become to be known as Etruria. There, together with your brother Tarchon, you founded the Etruscan League of Twelve Cities, uniting the twelve greatest Etruscan city states.[NEWLINE][NEWLINE]Oh great Tyrrhenus, for too long have your people been forgotten to the ages! Will you answer the divine call, and reunite your people once more? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_TCM_ETRUSCAN_HYPOGEUM">
+			<Text>Hypogeum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TCM_ETRUSCAN_FANU">
+			<Text>Fanu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TCM_ETRUSCAN_DUMMY">
+			<Text>Local Palace</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_TCM_ETRUSCAN_FANU_TEXT">
+			<Text>All the city-states of the Etruscans were gathered into confederacies, or "leagues". The sources tell us there were three. A league for unknown reasons, likely religious, had to include 12 city-states. The word for league was mech rasnal. Once a year the states met at a fanu, or sacred place (Latin fanum) to discuss military and political affairs, and also to choose a head of confederation, zilath mechl rasnal, who held the office for one year. The Etrurian confederacy met at the fanum Voltumnae, the "shrine of Voltumna". Their league was called the “duodecim populi Etruriae” or the “twelve peoples of Etruria”.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TCM_ETRUSCAN_FANU_HELP">
+			<Text>Once built, the Fanu will give an instant boost of 100 [ICON_GOLD] Gold (Halved on renaissance and beyond) and 50 [ICON_CULTURE] Culture per city you control. May be built multiple times. Cost increased with number of cities.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_TCM_ETRUSCAN_DUMMY_TEXT">
+			<Text>The Local Palace represents the local authority of the independent etruscan city states that formed the Etruscan League.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TCM_ETRUSCAN_DUMMY_STRATEGY">
+			<Text>Is avaliable at all cities other than the Capital, and has less yields.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_TCM_ETRUSCAN_HYPOGEUM_TEXT">
+			<Text>Hypogeum or hypogaeum literally means "underground". It usually refers to an underground temple or tomb. Hypogeum can also simply refer to any antique building or part of building built below ground. There was a series of underground tunnels under the Colosseum where slaves and animals were kept ready to fight for the gladiatorial games. The animals and slaves would be let up through trapdoors under the sand-covered arena at any time during a fight.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TCM_ETRUSCAN_HYPOGEUM_STRATEGY">
+			<Text>Replace the Shrine, and is unlocked at mining. The Hypogeum has a bigger maintenance cost but gives you 2 extra [ICON_CULTURE] Culture.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_TCM_ETRUSCAN_TYRRHENUS_FIRST_GREETING_1">
+			<Text>I've travelled many lands, but never seen anything quite like you! From where did you come? Here, let me show you my city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_ETRUSCAN_TYRRHENUS_DEFEATED_1">
+			<Text>Did the gods have forsaken us? No... You will soon feel their wrath, I'm sure of it!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ETRUSCAN_1">
+			<Text>Velzna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ETRUSCAN_2">
+			<Text>Tarchuna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ETRUSCAN_3">
+			<Text>Curtun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ETRUSCAN_4">
+			<Text>Velathri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ETRUSCAN_5">
+			<Text>Aritim</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ETRUSCAN_6">
+			<Text>Chaire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ETRUSCAN_7">
+			<Text>Velch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ETRUSCAN_8">
+			<Text>Fufluna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ETRUSCAN_9">
+			<Text>Veia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ETRUSCAN_10">
+			<Text>Vatluna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ETRUSCAN_11">
+			<Text>Perusna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ETRUSCAN_12">
+			<Text>Clevsin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ETRUSCAN_13">
+			<Text>Alalia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ETRUSCAN_14">
+			<Text>Capua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ETRUSCAN_15">
+			<Text>Felsna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ETRUSCAN_16">
+			<Text>Spina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ETRUSCAN_17">
+			<Text>Atria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ETRUSCAN_18">
+			<Text>Manthva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ETRUSCAN_19">
+			<Text>Achra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ETRUSCAN_20">
+			<Text>Irnthi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ETRUSCAN_21">
+			<Text>Ravena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ETRUSCAN_22">
+			<Text>Uscla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ETRUSCAN_23">
+			<Text>Cassina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ETRUSCAN_24">
+			<Text>Satria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ETRUSCAN_25">
+			<Text>Tarcste</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ETRUSCAN_26">
+			<Text>Misa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ETRUSCAN_27">
+			<Text>Ficocle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ETRUSCAN_28">
+			<Text>Cainua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ETRUSCAN_29">
+			<Text>Amina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ETRUSCAN_30">
+			<Text>Ruma</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
+

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/16/2014 4:26:52 PM -->
+<GameData>
+	<Audio_Sounds>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_TCM_TYRRHENUS_PEACE</SoundID>
+			<Filename>tcmetruscanpeace</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_TCM_TYRRHENUS_WAR</SoundID>
+			<Filename>tcmetruscanwar</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+	</Audio_Sounds>
+	<Audio_2DSounds>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_TCM_TYRRHENUS_PEACE</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_TCM_TYRRHENUS_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>80</MinVolume>
+			<MaxVolume>80</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_TCM_TYRRHENUS_WAR</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_TCM_TYRRHENUS_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>90</MinVolume>
+			<MaxVolume>90</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+	</Audio_2DSounds>
+</GameData>

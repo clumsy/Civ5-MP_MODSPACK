@@ -1497,6 +1497,9 @@ ContextPtr:LoadNewContext("Sicily_Functions")
 -- Nation - Iberia --
 ContextPtr:LoadNewContext("Iberia_Functions")
 
+-- Nation - Etruscs --
+ContextPtr:LoadNewContext("Etruscan_Functions")
+
 -- Nation - Kilwa --
 ContextPtr:LoadNewContext("CityStatePopupGoldChanges")
 ContextPtr:LoadNewContext("JFD_KilwaFunctions")

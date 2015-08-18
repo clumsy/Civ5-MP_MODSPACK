@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/18/2014 7:13:17 PM -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_TCM_ETRUSCAN_FANU</Type>
+			<DefaultBuilding>BUILDING_TCM_ETRUSCAN_NO_FANU</DefaultBuilding>
+			<MaxPlayerInstances>1</MaxPlayerInstances>
+		</Row>
+	</BuildingClasses>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_TCM_ETRUSCAN_NO_FANU</Type>
+			<BuildingClass>BUILDINGCLASS_TCM_ETRUSCAN_FANU</BuildingClass>
+			<Description>TXT_KEY_BUILDING_TCM_ETRUSCAN_FANU</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_TCM_ETRUSCAN_FANU_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_TCM_ETRUSCAN_FANU_STRATEGY</Strategy>
+			<Cost>-1</Cost>
+			<PrereqTech>NULL</PrereqTech>
+			<MinAreaSize>-1</MinAreaSize>
+			<FaithCost>-1</FaithCost>
+			<NeverCapture>true</NeverCapture>
+			<IconAtlas>MAIN_ICON_ETRUSCAN_ATLAS</IconAtlas>
+			<PortraitIndex>3</PortraitIndex>
+		</Row>
+		<Row>
+			<Type>BUILDING_TCM_ETRUSCAN_FANU</Type>
+			<BuildingClass>BUILDINGCLASS_TCM_ETRUSCAN_FANU</BuildingClass>
+			<Cost>240</Cost> <!--250-->
+			<PrereqTech>NULL</PrereqTech>
+			<Description>TXT_KEY_BUILDING_TCM_ETRUSCAN_FANU</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_TCM_ETRUSCAN_FANU_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_TCM_ETRUSCAN_FANU_HELP</Strategy>
+			<Help>TXT_KEY_BUILDING_TCM_ETRUSCAN_FANU_HELP</Help>
+			<MinAreaSize>-1</MinAreaSize>
+			<FaithCost>-1</FaithCost>
+			<NeverCapture>true</NeverCapture>
+			<IconAtlas>MAIN_ICON_ETRUSCAN_ATLAS</IconAtlas>
+			<PortraitIndex>3</PortraitIndex>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<NukeImmune>true</NukeImmune>
+			<NumCityCostMod>10</NumCityCostMod>
+		</Row>
+		<!-- Specific Etruscan Fanu -->
+	</Buildings>
+</GameData> 
