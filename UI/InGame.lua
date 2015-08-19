@@ -1500,6 +1500,9 @@ ContextPtr:LoadNewContext("Iberia_Functions")
 -- Nation - Etruscs --
 ContextPtr:LoadNewContext("Etruscan_Functions")
 
+-- Nation - Parthia --
+ContextPtr:LoadNewContext("Parthian_Lua")
+
 -- Nation - Kilwa --
 ContextPtr:LoadNewContext("CityStatePopupGoldChanges")
 ContextPtr:LoadNewContext("JFD_KilwaFunctions")

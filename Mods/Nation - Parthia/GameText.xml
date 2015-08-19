@@ -1,0 +1,515 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/5/2014 7:46:18 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_PARTHIA_ADJECTIVE">
+			<Text>Parthian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PARTHIA_SHORT_DESC">
+			<Text>Parthia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PARTHIA_DESC">
+			<Text>Parthian Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PARTHIA_DOM">
+			<Text>Hail mighty Mithridates, the Kings of Kings, greatest ruler of the Parthian Empire! Under you command Parthia grew and expanded, by defeating on battle valorous enemies; Bactria to the east and the Seleucids to the south. Your empire soon had control of all Persia and Mesopotamia, thus the path of the wealthy Silk Road. The empire you helped to forge became one of the greatest powers of your time, rivaling even the proud Romans to the west.[NEWLINE][NEWLINE]Great King of Kings Mithridates, your men call for the return of a ruler capable of pushing this mighty empire even beyond! Will you defeat your foes with courage and skill, as you did before? Can you unite the Persian people under your command? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV_PARTHIA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PARTHIA_TEXT_1">
+			<Text>The Parthian Empire - also known as the Arsacid Empire - was founded in the mid-3rd century bc by Arsaces I of the Parni tribe, who conquered the region of Parthia, then a satrapy of the Seleucid Empire. It then greatly expanded, conquering all of the eastern Seleucid satrapies and becoming a major political and cultural power in ancient Iran. They are well known for their great use of cavalry, having managed to defeat the Roman Republic at the Battle of Carrhae with a much smaller army of Horse Archers and Cataphracts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PARTHIA_HEADING_2">
+			<Text>Geography and Climate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PARTHIA_TEXT_2">
+			<Text>The Parthian Empire encompassed the Iranian Plateau, mesopotamia and had some parts on the arabian peninsula and close to anatolia.</Text>
+		</Row>
+		<!--
+		<Row Tag="TXT_KEY_CIV_PARTHIA_HEADING_3">
+			<Text>Early Story</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PARTHIA_TEXT_3">
+			<Text>To Add</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PARTHIA_HEADING_4">
+			<Text>Parthian Expansion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PARTHIA_TEXT_4">
+			<Text>To Add</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PARTHIA_HEADING_5">
+			<Text>Fall of Parthia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PARTHIA_TEXT_5">
+			<Text>To Add</Text>
+		</Row>-->
+
+		<Row Tag="TXT_KEY_CITY_NAME_PARTHIA_NISA">
+			<Text>Nisa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARTHIA_CTESIPHON">
+			<Text>Ctesiphon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARTHIA_ECBATANA">
+			<Text>Ecbatana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARTHIA_HECATOMPYLOS">
+			<Text>Hecatompylos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARTHIA_SUSA">
+			<Text>Susa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARTHIA_ASAAK">
+			<Text>Asaak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARTHIA_HERAT">
+			<Text>Herat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARTHIA_MERV">
+			<Text>Merv</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARTHIA_FARAH">
+			<Text>Farah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARTHIA_FARS">
+			<Text>Fars</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARTHIA_HATRA">
+			<Text>Hatra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARTHIA_CHARAX">
+			<Text>Charax</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARTHIA_MAZUN">
+			<Text>Mazun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARTHIA_MARGIANE">
+			<Text>Margiane</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARTHIA_EPARDUS">
+			<Text>Epardus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARTHIA_TABAE">
+			<Text>Tabae</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARTHIA_APAMEA">
+			<Text>Apamea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARTHIA_TAMBRAX">
+			<Text>Tambrax</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARTHIA_SARAMANA">
+			<Text>Saramana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARTHIA_RHAGAE">
+			<Text>Rhagae</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARTHIA_TRAXIANE">
+			<Text>Traxiane</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARTHIA_LAODICEA">
+			<Text>Laodicea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARTHIA_KANGAVAR">
+			<Text>Kangavar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARTHIA_BABYLON">
+			<Text>Babylon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARTHIA_SELEUCIA">
+			<Text>Seleucia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARTHIA_PERSEPOLIS">
+			<Text>Persepolis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARTHIA_NINEVEH">
+			<Text>Nineveh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARTHIA_ARTEMITA">
+			<Text>Artemita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARTHIA_ABARSHAHR">
+			<Text>Abarshahr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PARTHIA_ASHGABAT">
+			<Text>Ashgabat</Text>
+		</Row>
+		
+
+		<Row Tag="TXT_KEY_LEADER_PARTHIA_MITHRIDATES">
+			<Text>Mithridates I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PARTHIA_MITHRIDATES_HEADING_1">
+			<Text>Mithridates I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PARTHIA_MITHRIDATES_TEXT_1">
+			<Text>Mithridates I was king of the Parthian Empire from 171 BC to 138 BC, succeeding his brother Phraates I. He made Parthia become a major political power by expanding the empire to the east, south and west, conquering much of the Seleucid Empire and their satrapies. Because of his many conquests and religious tolerance, he has been compared to other Iranian kings such Cyrus the Great.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PARTHIA_MITHRIDATES_LIVED">
+			<Text>195 - 138 BC</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PARTHIA_MITHRIDATES_NAME">
+			<Text>Mithridates I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PARTHIA_MITHRIDATES_SUBTITLE">
+			<Text>Leader of Parthia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PARTHIA_MITHRIDATES_TITLES_1">
+			<Text>King of Kings of Iran</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_UNIT_PARTHIA_HORSE_ARCHER">
+			<Text>Shivatir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_EASTERN_CATAPHRACT">
+			<Text>Grivpanvar</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_UNIT_HELP_PARTHIA_HORSE_ARCHER">
+			<Text>Ignores the enemy Zone of Control and can move after attacking. If outnumbered by the enemy, may retreat before combat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PARTHIA_HORSE_ARCHER_STRATEGY">
+			<Text>Replaces the Chariot Archer, but is unlocked at Horseback Riding, and has more Combat Strength but less range. Ignores the enemy Zone of Control and can move after attacking. If outnumbered by the enemy, may retreat before combat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PARTHIA_HORSE_ARCHER_TEXT">
+			<Text>Coming from the Steppes, Parthia heavily employed horse archers.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_HELP_EASTERN_CATAPHRACT">
+			<Text>A slow Mounted Unit that ignore the enemy Zone of Control. Only the Parthians may build it. Has the Local Nobility promotion that, if garrisoned on a conquered city, will increase local production, generate 1 [ICON_GOLD] Gold and 1 [ICON_HAPPINESS_1] Happiness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_EASTERN_CATAPHRACT_STRATEGY">
+			<Text>Powerful Parthian replacement for the Horseman. It is slower, but much more powerful and ignore the enemy zone of control. Has the Local Nobility promotion that, if garrisoned on a conquered city, will increase local production, generate 1 [ICON_GOLD] Gold and 1 [ICON_HAPPINESS_1] Happiness. This promotion carry on should the unit be upgraded.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_PARTHIA_IGNOREZOC">
+			<Text>Flanking Maneuvers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PARTHIA_IGNOREZOC_HELP">
+			<Text>This unit ignore the enemy Zone of Control</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_PARTHIA_RETREAT">
+			<Text>Parthian Shot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PARTHIA_RETREAT_HELP">
+			<Text>If outnumbered, this unit may retreat before melee combat.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_TCM_LOCAL_NOBILITY">
+			<Text>Local Nobility</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TCM_LOCAL_NOBILITY_HELP">
+			<Text>This unit increase local production and generate 1 gold in occupied cities.</Text>
+		</Row>
+		
+
+		<Row Tag="TXT_KEY_TRAIT_PARTHIA_PERSIAN_HORDE_SHORT">
+			<Text>The Persian Horde</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_PARTHIA_PERSIAN_HORDE">
+			<Text>Capital produces 3 [ICON_RES_HORSE] Horses. Each city you own produces one additional [ICON_RES_HORSE] Horse. Mounted units receive +25% [ICON_STRENGTH] Combat Strength when next to other units.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_TCM_PARTHIAN_ADJACENT_BONUS">
+			<Text>Persian Horde</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TCM_PARTHIAN_ADJACENT_BONUS_HELP">
+			<Text>+25% Combat Strength when next to another unit</Text>
+		</Row>
+		<!-- Leader Dialog-->
+		<!--First Greeting messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_MITHRIDATES_FIRST_GREETING_1">
+			<Text>I welcome you to Parthia, my great and ever-expanding empire, for I trust you are a wise leader; one that won't oppose the growth of migthy Parthia. Now, we may speak about trade and cooperation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MITHRIDATES_FIRST_GREETING_2">
+			<Text>Hail there foreigner to my mighty realm of Parthia, an Empire of unmatched strength and uncountable wealth. I must welcome you to my lands as a friend, but I must warn you that to oppose Parthia is to renounce your will to live.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MITHRIDATES_FIRST_GREETING_3">
+			<Text>I am the fifth Arsaces, Mithridates I, the son of Phriapatius, and the King of Kings. I rule this great empire of Parthia.</Text>
+		</Row>
+		<!--Defeated messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_MITHRIDATES_DEFEATED_1">
+			<Text>My Empire is torn apart. I must now join it's fate. Please, rule these lands seeking inspiration in Asha, rather than Druj.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MITHRIDATES_DEFEATED_2">
+			<Text>I thought to be doing what was right, but if it came down to this, I was most certainly wrong. May you find wisdom to rule these lands in Ahura Mazda.</Text>
+		</Row>
+		<!-- Human repeats an action too much, gets the following responses -->
+		<Row Tag="TXT_KEY_LEADER_MITHRIDATES_REPEAT_TOO_MUCH_1">
+			<Text>A good test of patience, but I must ask you to stop.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MITHRIDATES_REPEAT_TRADE_TOO_MUCH_1">
+			<Text>Please, I will never allow this deal to happen.</Text>
+		</Row>
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_GREETING_HOSTILE_HELLO_1">
+			<Text>I am to be just and fair, but do not try my patience. Your people is known for having no honor, so be sure that I'll accept no temptation you have to offer me here.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_GREETING_POLITE_HELLO_1">
+			<Text>Greetings, my worthy ally and friend. What brings you to my Realm today?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>I've heard tales of your war. About your cruelty, incompetence and lack of honor. What business such individual have here?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_GREETING_HUMAN_AT_WAR_1">
+			<Text>I've heard tales of your war. Although I cant help you actively on these times, you have all my support on it. Now, what do you need?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>The frontier garrison reported of armies just outside my borders, and they bear your emblems. Don't make any mistakes here that you might regret later.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>Wealth might buy lands but it takes an Army to maintain them. In your army I see only a disguised mob. In my armies you can see an unstoppable force, ready to charge at my command...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>My friend, you must remember that gold can buy the lands, but the people will remain loyal to those who they love. These Parthians whose lands you hold still dream to return to their Empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>The size of your Empire matters nothing. The spirit of your armies is weak, and it takes just a few horsemen to crush it...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>The size of your empire is becoming worrisome, and I hope your desire for new lands has already been satisfied.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>Welcome my friend, I've heard many tales about the invincible armies you command. Now, what can I do for you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>I've heard about how rich your empire has become, my friend. Just almost as wealthy as Parthia!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_GREETING_HOSTILE_HUMAN_FEW_CITIES_1">
+			<Text>Ah, my dear satrap, its good to see you again... Oh, aren't you my satrap yet? But with that size?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>I try not to underestimate my enemies but that mob you try to pass as an army is laughable. Maybe I'll get to show you what a real army looks like.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>I see you have a hunger for wars that can't be satisfied. You must remember that your empire can only stretch so long before it crumbles, from inside or outside...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_TOO_SOON_FOR_DOF_1">
+			<Text>I must do everything for the greater good, but how can I be sure that so do you? Once you prove yourself, we may be friends.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_DENOUNCE_1">
+			<Text>I sent messages to every corner of this world warning them that you are not to be trusted; this is but the result of your vile actions. [NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Those of this world that are good in heart know that this denounce has no meaning, as for the others I do not care.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>I've only done what was good for both our peoples. If you can't see that, so be it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_HUMAN_DOFED_FRIEND_1">
+			<Text>Today, my friends at {1_CivName} told me about your good deeds across their realm, and I was pleased to hear that you are such wise leader.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_HUMAN_DOFED_ENEMY_1">
+			<Text>I'm glad you see hope in {1_CivName}, but their leader is not to be trusted, and I hope that, in the future, you will agree with me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>I must let you know that I share much respect with the people of {1_CivName}, and that your denunciation hurt me deeply.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>I see that you share my concern about the people of {1_CivName} being ruled by such vile leader, hopefully not for so long.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>I trust your judgement foremost, and so I'll settle any issues I once had with {1_CivName} and befriend them, if so they wish.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>A friend of {1_CivName} is no friend of mine; their leader is wicked and deserve nothing other than an arrow through the neck.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>You are my friend, and I trust your judgement. {1_CivName} only causes problems, and together we can stop them.</Text>
+		</Row>
+		<!-- General Diplo Text -->
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_COOP_WAR_REQUEST_1">
+			<Text>I believe you too have heard tales about the wicked {1_PlayerName:textkey}. Together, you and I can stop him! will you join me?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_COOP_WAR_TIME_1">
+			<Text>The time has come. By all that is good, {1_PlayerName:textkey} will fall!.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_DEC_FRIENDSHIP_1">
+			<Text>There is no other ruler I would trust more than you; will announce this friendship to the world?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>You know your army is just outside my borders. I know your army is just outside my borders. If you have anything to say, say it now. Don't hide it like a coward.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_PLOT_BUYING_WARNING_1">
+			<Text>Money can only bring you this far, stop this land grabbing at once.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>Money can only bring you this far. If you want to expand even further, it will be by war not gold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_EXPANSION_SERIOUS_WARNING_1">
+			<Text>You have expanded too deep into my dominions. Halt this madness, or declare your true intentions at once...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_EXPANSION_WARNING">
+			<Text>For the good of my people, I will not tolerate this expansion any further; no good will come from defying my warnings.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_RETURNED_CIVILIAN_1">
+			<Text>I'm sorry if we had any misunderstandings in the past, but at least for this sole moment, know that I appreciate your actions.</Text>
+		</Row>
+		<!--Insults-->
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_INSULT_TCM_MITHRIDATES_1">
+			<Text>You are a spawn of evil on this world. One that soon must, and will, be stopped.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_INSULT_TCM_MITHRIDATES_2">
+			<Text>Not even the most good-hearted person on the world could be able to see any hope on you. You are an evil to this world that must end.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_INSULT_TCM_MITHRIDATES_3">
+			<Text>Your people do not deserve the wicked leader they have. Luckily for them, some changes of power are in order.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_INSULT_TCM_MITHRIDATES_4">
+			<Text>I can't find one single redeeming trait in you. You are an insignificant person I just can't bear to look at anymore.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_INSULT_MILITARY_1">
+			<Text>This mob you try to pass as an army is laughable at best. Just wanted to let you know.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_INSULT_MILITARY_2">
+			<Text>Rulers do not remain ruling for long without an army on their back, you know.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_INSULT_BULLY_1">
+			<Text>You conquer and wreak havoc through the weak who did nothing against you. You are a monster who deserves no respect.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_INSULT_UNHAPPINESS_1">
+			<Text>Your people have had enough of tyrant rulers such as yourself, and honestly so have I.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_INSULT_CITIES_1">
+			<Text>It's come to my attention that your empire appears to be quite puny. Did you forget to expand your borders or are you just having a little trouble with that?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_INSULT_POPULATION_1">
+			<Text>It seems like your coffers are almost empty. You know that I am willing to help, if you pledge your allegiance to me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_INSULT_CULTURE_1">
+			<Text>I just can't understand how primitive civilizations such as yours manage to survive. Might have to come down there and put an end to your people's misery.</Text>
+		</Row>
+		<!--Public Declarations-->
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}. Attacking the City-State will greatly damage relations and may lead to war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<!-- Human is asking the AI for something -->
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_DONT_SETTLE_NO_1">
+			<Text>No puny leader such as yourself will stop the expansion of Parthia. If you believe you are capable of, meet me on the battlefield!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_DONT_SETTLE_YES_1">
+			<Text>This will be no reason for bloodshed. For the good between both our nations, I shall agree.</Text>
+		</Row>
+
+		<!--Deal Offers and related-->
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_LUXURY_TRADE_1">
+			<Text>This luxury you possess must be shared with Parthia, don't you agree?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_OPEN_BORDERS_EXCHANGE_1">
+			<Text>There is something that I desire located past your lands, and I must reach it. Will you allow open passage?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_RESPONSE_REQUEST_1">
+			<Text>I must ask you this, for the good of Parthia.</Text>
+		</Row>
+		<!--AI Attacked by Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_ATTACKED_HOSTILE_1">
+			<Text>Now, it is good to see the real you. Look me up on the battlefield, and I'll put a spear right through your heart.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_ATTACKED_EXCITED_1">
+			<Text>Hah! I must say I've been looking for an opportunity like this to crush you for a while, and now you just gave it to me!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_ATTACKED_SAD_1">
+			<Text>I desired no war between us, but this is the path you chose. Come, send your army! Once you have nothing left, I will not be merciful. Never again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_ATTACKED_BETRAYED_1">
+			<Text>This causes me great suffering, my old friend... To think I once thought of you as one...</Text>
+		</Row>
+		<!--AI Declaring War on Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_DOW_GENERIC_1">
+			<Text>Now it is time to subjugate you into my realm. Don't worry, you are but one among many.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_DOW_LAND_1">
+			<Text>I require the land, and you possess it. Prove yourself worthy of them, or they will soon be mine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_DOW_LAND_2">
+			<Text>I must make of my Empire something greater, and your lands are just what I need.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_DOW_WORLD_CONQUEST_1">
+			<Text>I rule to achieve something greater. Your empire is on my way, and I'll spare no efforts to trample it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_DOW_OPPORTUNITY_1">
+			<Text>You are too weak to remain independent; if I don't act, someone else will.</Text>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_TOO_SOON_NO_PEACE_1">
+			<Text>Peace? There will be none until I claim what I must.</Text>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_BAD_1">
+			<Text>This will not end well, it seems.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_MITHRIDATES_GOOD_1">
+			<Text>This is good to hear.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_PARTHIA_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now listening to your ministrels and using your tunics. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DECISIONS_TCM_PARTHIA_HIRE_GOSAN">
+			<Text>Hire Court Gosan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TCM_PARTHIA_HIRE_GOSAN_DESC">
+			<Text>
+				We must hire the greatest minstrel to sing poems in our name and praise our deeds through the nation! However, this task might prove itself to be quite hard since the greatest Gosans are employed hereditarily by the other Royal Houses.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Parthia
+				[NEWLINE][ICON_BULLET]May only be enacted once per era
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{2_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]A Great Musician appears in your [ICON_CAPITAL] Capital that increases happiness when inside cities
+				[NEWLINE][ICON_BULLET]Gain {1_Culture} [ICON_CULTURE] Culture
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TCM_PARTHIA_HIRE_GOSAN_ENACTED">
+			<Text>
+				We have hired the greatest minstrel alive.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_TCM_GOSAN">
+			<Text>Parthian Minstrel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TCM_GOSAN_HELP">
+			<Text>This unit generates happiness if garrisoned</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DECISIONS_TCM_PARTHIA_REVIVE_PERSIAN_TRADITIONS">
+			<Text>Revive Iranian Traditions</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TCM_PARTHIA_REVIVE_PERSIAN_TRADITIONS_DESC">
+			<Text>
+				If we are truly the successors to the great ancient rulers of these lands, we must prove it so through our culture, language and religion.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Parthia
+				[NEWLINE][ICON_BULLET]May only be enacted once
+				[NEWLINE][ICON_BULLET]Must have conquered a foreign [ICON_CAPITAL] Capital
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]{2_Culture} [ICON_CULTURE] Culture
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE][ICON_BULLET]Courthouses are built 33% faster and generate 1 [ICON_GOLD] Gold
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TCM_PARTHIA_REVIVE_PERSIAN_TRADITIONS_ENACTED">
+			<Text>
+				We have restored the long lost traditions of our people.
+			</Text>
+		</Row>
+
+	</Language_en_US>
+</GameData>
+
+
+
+

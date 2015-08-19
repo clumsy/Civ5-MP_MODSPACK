@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="cddc60bd-7d86-466f-bede-91a804bdf0b6" version="9">
+  <Properties>
+    <Name>TarcisioCM - Parthia</Name>
+    <Teaser>Adds [COLOR_POSITIVE_TEXT]Parthia[ENDCOLOR] under Mithridates I. Requires BNW.</Teaser>
+    <Description>Adds [COLOR_POSITIVE_TEXT]Parthia[ENDCOLOR] under Mithridates I. Requires BNW.</Description>
+    <Authors>TarcisioCM</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events and Decisions" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety and Prestige" />
+    <Mod id="43868e8d-de88-48a1-a8d9-ce144e07f5e0" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="FED51E036169E43D073358DD647180B3" import="1">Art/DDS/horsearcher_flag.dds</File>
+    <File md5="BCC6DBE7FE60369F348C1FDE618E8BD1" import="1">Art/DDS/horsearcher_flag2.dds</File>
+    <File md5="6DE25752D7F26B082795C58A8A4087C6" import="1">Art/DDS/mithridates_screen.dds</File>
+    <File md5="527FF0DC72042E2752A201E5DADB2E60" import="1">Art/DDS/ParthiaDOM.dds</File>
+    <File md5="260EDF976D4D4EE1D2897E7B8B846387" import="1">Art/DDS/mithridates_scene.xml</File>
+    <File md5="0A8C9AAF9CEF6D7EF3B64590923D01F9" import="1">Art/DDS/map_parthia.dds</File>
+    <File md5="3D96EC3758198661228F1E7EFFE449AE" import="1">Art/DDS/parthiacata_flag.dds</File>
+    <File md5="18980FB8854BD3BFC2528A15964BEE4C" import="1">Art/DDS/parthiacata_flag2.dds</File>
+    <File md5="670C09C9014D753D684115210C350C11" import="1">Art/DDS/parthia_alphaicon128.dds</File>
+    <File md5="20A4989C4680C2DAB8B9AFCA2C9629A5" import="1">Art/DDS/parthia_alphaicon16.dds</File>
+    <File md5="81BEC723540800A6DF7CA2CF8A849532" import="1">Art/DDS/parthia_alphaicon24.dds</File>
+    <File md5="7ED3982855BC32A7BCE68FB8D482C0C5" import="1">Art/DDS/parthia_alphaicon256.dds</File>
+    <File md5="DCF0CDB69FAF15BBD5F39265A091D922" import="1">Art/DDS/parthia_alphaicon32.dds</File>
+    <File md5="9AF853C4F0BE8A13D4C51C2A7DB33949" import="1">Art/DDS/parthia_alphaicon48.dds</File>
+    <File md5="D6DBDFE448687431958C7EEC33BCA774" import="1">Art/DDS/parthia_alphaicon64.dds</File>
+    <File md5="5936F9C0356F3BE65FDF3C261D3DBA23" import="1">Art/DDS/parthia_alphaicon80.dds</File>
+    <File md5="4A29ABECBAF0849A2399242B8C0F7D87" import="1">Art/DDS/parthia_icon_atlas128.dds</File>
+    <File md5="9F38B4919009761FB52C09DD8CB150A3" import="1">Art/DDS/parthia_icon_atlas256.dds</File>
+    <File md5="BA2A411E7C55C5AAD10CD5C5FC43B102" import="1">Art/DDS/parthia_icon_atlas32.dds</File>
+    <File md5="A3CF5942360B142FC81FE4CB3A00712B" import="1">Art/DDS/parthia_icon_atlas45.dds</File>
+    <File md5="99A31757A38F16DA9F805C5DE4759C09" import="1">Art/DDS/parthia_icon_atlas64.dds</File>
+    <File md5="9DA83AF98122BA3F387B1AAC8C0A394A" import="1">Art/DDS/parthia_icon_atlas80.dds</File>
+    <File md5="B4488E6D26FE2D52F06601714E1B1A8D" import="1">Art/Model/HorseArcher_India.dds</File>
+    <File md5="81546D9507510C7434AF5830C4A6647D" import="1">Art/Model/HorseArcher_India.fxsxml</File>
+    <File md5="ED679F5B8A38E369D66336519C958B7F" import="1">Art/Model/HorseArcher_India.gr2</File>
+    <File md5="0096B708971C407C33F8D675D2E7F044" import="1">Art/Model/HorseArcher_India_gloss.dds</File>
+    <File md5="656894C65C0D6A048107F4FC66E8E5D1" import="1">Art/Model/HorseArcher_India_Horse.dds</File>
+    <File md5="5E2D8609DAD3E3A699E1E2B718601B30" import="1">Art/Model/HorseArcher_India_Horse_gloss.dds</File>
+    <File md5="F8CAF05E2EA7196C7274EE6232AC4D75" import="1">Art/Model/Knight_Persia.dds</File>
+    <File md5="4541401A9BB1499F76B82EEA6DCD61FF" import="1">Art/Model/Knight_Persia.fxsxml</File>
+    <File md5="58AB6FE86E3FE679DEA40C0C3D480612" import="1">Art/Model/Knight_Persia.gr2</File>
+    <File md5="8F439ED343C7B2A612F07BE809317BE5" import="1">Art/Model/Knight_Persia_gloss.dds</File>
+    <File md5="7C7E2DD773992614055A5188497CBF75" import="1">Art/Model/Knight_Persia_Horse.dds</File>
+    <File md5="FB5DF706C65770F25C443B34581B2774" import="1">Art/Model/Knight_Persia_Horse_gloss.dds</File>
+    <File md5="40E03A8D907001E4AD754B53C371374F" import="1">Art/parthiapeace.mp3</File>
+    <File md5="CBF61B2E9A4C9839EC31A3F3CA06803B" import="1">Art/parthiawar.mp3</File>
+    <File md5="27952B9D9FE41A84FBE0AF0BC017FF06" import="0">Diplomacy.sql</File>
+    <File md5="636EF410AE5088C1710CEDEEB64F445D" import="1">Lua/Events and Decisions Support/tcm_ParthiaDecisions.lua</File>
+    <File md5="D63DC8BB6AA0F310DD55B264DB49C7E2" import="1">Lua/PlotIterators.lua</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">Lua/SaveUtils.lua</File>
+    <File md5="CC64FDDF6AD1F183DE50B9D6D821D752" import="0">ModSupport.sql</File>
+    <File md5="B4CD58319A08D714EE26908076B7011C" import="0">Lua/Parthian_Lua.lua</File>
+    <File md5="850612B83A03398162D76FA61DA3F13C" import="0">XML/Civilization_Parthia.xml</File>
+    <File md5="41E038776C1D7CEB6985AA7A57CD56D2" import="0">XML/ArtDefEasternCataphract.xml</File>
+    <File md5="BDA4D6B986D13A8D269EFE8AF82C7011" import="0">XML/ArtDefParthiaHorseArcher.xml</File>
+    <File md5="7EFC11E77EFCC6626EB88DDE8AF015D9" import="0">XML/Buildings_Parthia.xml</File>
+    <File md5="8C543C1D9B5BA216B261B526990363F4" import="0">XML/Mithridates_Music.xml</File>
+    <File md5="257A5A14D9D4A98C69CF324A8CFBA236" import="0">XML/Units_Parthia.xml</File>
+    <File md5="E02B11622E27DF00DD9919DD29FFBF8A" import="0">XML/Leaders_Mithridates.xml</File>
+    <File md5="FA9A10E2FA1DC7D5169AEFA0DAB85010" import="0">XML/GameText.xml</File>
+    <File md5="B169BBAE2B936D2E9B78925413456F3D" import="0">XML/Parthia_Atlases.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Parthia_Atlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization_Parthia.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders_Mithridates.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units_Parthia.xml</UpdateDatabase>
+      <UpdateDatabase>XML/ArtDefEasternCataphract.xml</UpdateDatabase>
+      <UpdateDatabase>XML/ArtDefParthiaHorseArcher.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings_Parthia.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Mithridates_Music.xml</UpdateDatabase>
+      <UpdateDatabase>Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>ModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Parthian_Lua.lua">
+      <Name>Parthian Functions</Name>
+      <Description>y u need dis</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>
