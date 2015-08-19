@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/21/2014 8:13:32 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_TCM_BACTRIA_DESC">
+			<Text>Bactrian Kingdom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TCM_BACTRIA_SHORT_DESC">
+			<Text>Bactria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TCM_BACTRIA_ADJECTIVE">
+			<Text>Bactrian</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_TCM_BACTRIA_DOM">
+			<Text>Oh Great Eucratides, you lead the Bactrian people through war and conquest. Bactria is an exotic land, a last bastion of greek culture at the edge of the known world. Your wars with the Indo-Greek kings showed your legendary skills in battle, and only by treachery that you would be killed.[NEWLINE][NEWLINE]Oh Great King, it's once again time to take the Bactrian Throne for yourself, to defeat powerful foes on the battlefield and to emerge victorious! Can you command Greeks and Bactrians through countless wars, and win against all odds? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_BACTRIA_1">
+			<Text>Bactra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_BACTRIA_2">
+			<Text>Eucratideia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_BACTRIA_3">
+			<Text>Demetrias</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_BACTRIA_4">
+			<Text>Alexandria on Caucasus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_BACTRIA_5">
+			<Text>Drapsaka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_BACTRIA_6">
+			<Text>Marakanda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_BACTRIA_7">
+			<Text>Dalverzin Tepe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_BACTRIA_8">
+			<Text>Tillya Tepe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_BACTRIA_9">
+			<Text>Takht-i Sangin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_BACTRIA_10">
+			<Text>Alexandria Arachosia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_BACTRIA_11">
+			<Text>Alexandria Eschate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_BACTRIA_12">
+			<Text>Peucela</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_BACTRIA_13">
+			<Text>Sagala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_BACTRIA_14">
+			<Text>Sirkap</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_BACTRIA_15">
+			<Text>Bukhara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_BACTRIA_16">
+			<Text>Kapisene</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_BACTRIA_17">
+			<Text>Alexandria on Indus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_BACTRIA_18">
+			<Text>Demetrias in Patalene</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_BACTRIA_19">
+			<Text>Antiocheia Margiana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_BACTRIA_20">
+			<Text>Pura</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_TCM_BACTRIA_EUCRATIDES">
+			<Text>Eucratides</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TCM_EUCRATIDES_SHORT">
+			<Text>Empire of a Thousand Cities</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TCM_EUCRATIDES">
+			<Text>+2 [ICON_GOLD] Gold from [ICON_CONNECTED] City Connections. +15% [ICON_FOOD] Food in cities connected to the Capital. [ICON_OCCUPIED] Occupied cities connected to your Capital receive a free Courthouse.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_BACTRIA_EUCRATIDES_LIVED">
+			<Text>? - 145</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_BACTRIA_EUCRATIDES_NAME">
+			<Text>Eucratides I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_BACTRIA_EUCRATIDES_SUBTITLE">
+			<Text>Leader of Bactria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_BACTRIA_EUCRATIDES_TITLES_1">
+			<Text>King of Bactria</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_TCM_BACTRIA_EUCRATIDES_FIRST_GREETING_1">
+			<Text>Ah, another foreigner. And from where do you come this time? I am Eucratides, king of Bactria.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_BACTRIA_EUCRATIDES_FIRST_GREETING_2">
+			<Text>Hail great leader! I am Eucratides of Bactria. From which part of the world have you come?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_BACTRIA_EUCRATIDES_FIRST_GREETING_3">
+			<Text>I welcome you to the great kingdom of Bactria. I trust you are here as a friend, else your lands are soon to be part of this glorious kingdom.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_TCM_BACTRIA_EUCRATIDES_DEFEATED_1">
+			<Text>This was my fate all along, wasn't it? Nevertheless, your puny empire will never be as glorious as mine once was.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_TCM_SILK_CARAVANSARY">
+			<Text>Silk Caravanserai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TCM_SILK_CARAVANSARY_HELP">
+			<Text>Incoming trade routes generate +2 gold and +1 gold for that trade route owner. Land trade routes originating from this city have a 50% increase in range and produce an additional 2 [ICON_GOLD] Gold when connecting to another civilization.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_UNIT_TCM_HELLENISTIC_ELEPHANT">
+			<Text>Hellenistic Elephant</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_TCM_HELLENISTIC_ELEPHANT">
+			<Text>Powerful replacement for the Swordsman, that act as a mix of Cavalry and Infantry. Has a bonus of +15% combat strenght against fortified units and wounded units. Requires Iron and only Bactria may build it.</Text>
+		</Row>
+
+		
+
+		<Row Tag="TXT_KEY_PROMOTION_TCM_MIGHTY_CHARGE">
+			<Text>Mighty Charge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TCM_MIGHTY_CHARGE_HELP">
+			<Text>Stomp, stomp, stomp! Has a 15% combat strenght bonus when attacking fortified units and 25% combat strenght when attacking wounded units.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
+

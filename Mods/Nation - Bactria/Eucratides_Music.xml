@@ -1,0 +1,32 @@
+﻿<GameData>
+	<Audio_Sounds>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_TCM_EUCRATIDES_PEACE</SoundID>
+			<Filename>TCMBactriaPeace</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_TCM_EUCRATIDES_WAR</SoundID>
+			<Filename>TCMBactriaWar</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+	</Audio_Sounds>
+	<Audio_2DSounds>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_TCM_EUCRATIDES_PEACE</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_TCM_EUCRATIDES_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>80</MinVolume>
+			<MaxVolume>80</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_TCM_EUCRATIDES_WAR</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_TCM_EUCRATIDES_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>70</MinVolume>
+			<MaxVolume>70</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+	</Audio_2DSounds>
+</GameData>

@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="27e40ffd-e272-413d-a1f9-1f3be4bd2d29" version="3">
+  <Properties>
+    <Name>Bactrian Civilization</Name>
+    <Teaser>The Bactrian Kingdom, with Eucratides I as its ruler.</Teaser>
+    <Description>The Bactrian Kingdom, with Eucratides I as its ruler.</Description>
+    <Authors>TarcisioCM</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="9EC40B3228F1FA63C52D1CEE56B3043A" import="1">Art/alpha_bactria128.dds</File>
+    <File md5="18E4B1C4AA54338A43B8CA1CF13ACD21" import="1">Art/alpha_bactria16.dds</File>
+    <File md5="B5FB99124165F64A57C6364DF476DF1B" import="1">Art/alpha_bactria24.dds</File>
+    <File md5="E2895A9BC09C189753820A45577C52A5" import="1">Art/alpha_bactria256.dds</File>
+    <File md5="70585C91BF7EC444957EB23ED9D77AF1" import="1">Art/alpha_bactria32.dds</File>
+    <File md5="D10D06CD05A43577ACD5D9E2DA7041B7" import="1">Art/alpha_bactria48.dds</File>
+    <File md5="DDA9C9D096277C8ADF2090229A9E0744" import="1">Art/alpha_bactria64.dds</File>
+    <File md5="4B54E76BDCEF4F8441133D33A527D243" import="1">Art/alpha_bactria80.dds</File>
+    <File md5="F48723A542538F9B0793BE75F7069021" import="1">Art/alpha_bactrian_elephant.dds</File>
+    <File md5="CF5174B6FA56AA61B0D07E2B45BBEB0C" import="1">Art/bactrian_scene.dds</File>
+    <File md5="DC0799939641F7308934AE23B90DBAD2" import="1">Art/TCMBactriaPeace.mp3</File>
+    <File md5="B0EEF2AB6F98F5DCB1F923816EDC17D2" import="1">Art/bactria_elephant_sv.dds</File>
+    <File md5="ECC9E02EAF2368297B5D7703F9D68EDB" import="1">Art/bactria_icon_atlas128.dds</File>
+    <File md5="CB485E87265CE8AC0B7864EFA25DF0EE" import="1">Art/bactria_icon_atlas256.dds</File>
+    <File md5="55C42A3A59F7E6C57B4B0EE798D67782" import="1">Art/bactria_icon_atlas32.dds</File>
+    <File md5="BE0EF99FAA9FE7EE99E87C28D7B978A7" import="1">Art/bactria_icon_atlas45.dds</File>
+    <File md5="C9A8302B6C2D5B5FA5187E09E7B0FE94" import="1">Art/bactria_icon_atlas64.dds</File>
+    <File md5="E4EF08EB3E7AD9DA3196D63D6F9F28C3" import="1">Art/bactria_icon_atlas80.dds</File>
+    <File md5="E3F0A06097A1F091BF3EB221214B6B8F" import="1">Art/dawnofman_bactria.dds</File>
+    <File md5="4B378C8474C8E4A8D632F058429A2733" import="1">Art/Eucratides_Scene.xml</File>
+    <File md5="B46AC904EDAB307D9DE8356EC0E87313" import="1">Art/TCMBactriaWar.mp3</File>
+    <File md5="7E1B75BD19E21F5734B86C649D3C1785" import="1">Art/tcm_map_bactria.dds</File>
+    <File md5="A3F6C1C682CEA1CB658E356832CE880D" import="0">Bactria_TSL.sql</File>
+    <File md5="F94C5976328B746BA2F9679CFE37416D" import="0">Lua/Lua Script1.lua</File>
+    <File md5="3CEF2DA1742FED389A3C6AA8DBC9E19A" import="0">XML/Civilization_Bactria.xml</File>
+    <File md5="4CC5DFB52404063BAE41868886C2D043" import="0">XML/Building_Bactria.xml</File>
+    <File md5="71223DFFDE49380DDC5C5362E431C719" import="0">XML/ElephantArtDef.xml</File>
+    <File md5="3452317377F969D5F22855CD4CDD4C44" import="0">XML/Eucratides_Music.xml</File>
+    <File md5="D29266CD02CE0EECF10FAACDE18F2861" import="0">XML/Units_Bactria.xml</File>
+    <File md5="1DB33B7ECBBA81F2DD6E3E14888CFC24" import="0">XML/Icons.xml</File>
+    <File md5="D697DB3983AFF044D486363267AB3240" import="0">XML/GameText.xml</File>
+    <File md5="9F032C435141C68C66F82091C6A455FE" import="0">XML/Leader_Eucratides.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Civilization_Bactria.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Icons.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader_Eucratides.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Building_Bactria.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units_Bactria.xml</UpdateDatabase>
+      <UpdateDatabase>XML/ElephantArtDef.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Eucratides_Music.xml</UpdateDatabase>
+      <UpdateDatabase>Bactria_TSL.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Lua Script1.lua">
+      <Name>Bactrian Functions</Name>
+      <Description>FUNctions</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

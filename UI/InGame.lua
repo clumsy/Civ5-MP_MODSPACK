@@ -1476,6 +1476,9 @@ ContextPtr:LoadNewContext("Lydian_trait")
 -- Nation - Sri Lanka --
 ContextPtr:LoadNewContext("Sri_Lanka")
 
+-- Nation - Bactria --
+ContextPtr:LoadNewContext("Bactria_Lua")
+
 -- Nation - Cree --
 ContextPtr:LoadNewContext("Cree_Nations")
 ContextPtr:LoadNewContext("Gunstock")
