@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="38e64ae1-6426-4cb3-b0a4-9f364cbd1a9e" version="2">
+  <Properties>
+    <Name>TarcisioCM - Song</Name>
+    <Teaser>Adds [COLOR_POSITIVE_TEXT]Song[ENDCOLOR] under Taizu. Requires BNW</Teaser>
+    <Description>Adds [COLOR_POSITIVE_TEXT]Song[ENDCOLOR] under Taizu. Requires BNW</Description>
+    <Authors>TarcisioCM</Authors>
+    <SpecialThanks>Regalman</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events &amp; Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="43868e8d-de88-48a1-a8d9-ce144e07f5e0" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Unique Cultural Influence" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="469E949CDA8CA58E4A1B45F214E4F476" import="1">Art/DDS/tcmTaizuScene.xml</File>
+    <File md5="21A6636AAE4F5AD980FA60E75FE235DB" import="1">Art/DDS/tcmSongDOM.dds</File>
+    <File md5="D8431585298B59BA129596B6D64AFD2E" import="1">Art/DDS/tcmSongMap.dds</File>
+    <File md5="40DA2F9152C0ADE1A05BB30D83467D15" import="1">Art/DDS/tcmTaizuLeaderscreen.dds</File>
+    <File md5="8880DACC54B031241A80E307BCCF7643" import="1">Art/Icons/tcmFireLancerAlpha32.dds</File>
+    <File md5="528CA736F3E92A959CA985D0ABA3ECBE" import="1">Art/Icons/tcmFireLancerSV.dds</File>
+    <File md5="B2F114D59FDFF0A44F5B0DE89DFFABBB" import="1">Art/Icons/tcmJunkShipAlpha32.dds</File>
+    <File md5="3F8459E0F5D8F80CB36C5C4554D02A37" import="1">Art/Icons/tcmJunkShipSV.dds</File>
+    <File md5="9BFD87E622BB8B68135BD851BD08315F" import="1">Art/Icons/tcmSongAlpha128.dds</File>
+    <File md5="7143F96DEA53C424CDB52D7AF5D27A7C" import="1">Art/Icons/tcmSongAlpha16.dds</File>
+    <File md5="2FAA5CF956575F73F6C0FB62720FDB6F" import="1">Art/Icons/tcmSongAlpha24.dds</File>
+    <File md5="CCEEED62BF146F3195FD63EF318848A4" import="1">Art/Icons/tcmSongAlpha256.dds</File>
+    <File md5="2ACF4E492ED8BA6961288F8369CCDD41" import="1">Art/Icons/tcmSongAlpha32.dds</File>
+    <File md5="FAD8538679565598360120FDB3ED4F49" import="1">Art/Icons/tcmSongAlpha48.dds</File>
+    <File md5="EFAE5D105D7804A3E8275F6F0F7E5EBE" import="1">Art/Icons/tcmSongAlpha64.dds</File>
+    <File md5="57C6F660860008414D1FDC4D69153878" import="1">Art/Icons/tcmSongAlpha80.dds</File>
+    <File md5="DF0515DD816BB8BB21BCC9542E52B6C3" import="1">Art/Icons/tcmSongIcons128.dds</File>
+    <File md5="9CB717EB9AE5483CEC479377A027E035" import="1">Art/Icons/tcmSongIcons256.dds</File>
+    <File md5="5D12EDC35D61282CB3D119AB81F069E4" import="1">Art/Icons/tcmSongIcons32.dds</File>
+    <File md5="44A0B0399929E4E9531B3495435EE16E" import="1">Art/Icons/tcmSongIcons45.dds</File>
+    <File md5="1781A9FB98F147BA3167CE12325D162D" import="1">Art/Icons/tcmSongIcons64.dds</File>
+    <File md5="BCF9379A0A43D3CBFF52C0B33BEFF157" import="1">Art/Icons/tcmSongIcons80.dds</File>
+    <File md5="3E45AB1ADC70F2E5A3B4F36A41CAC3BD" import="1">Art/Models/tcmFireLancer.dds</File>
+    <File md5="5085405AED4AE2480FED94C0B9E0EEA9" import="1">Art/Models/tcmFireLancer.fxsxml</File>
+    <File md5="93D23A396BAC8CFEBE481726286C9DBE" import="1">Art/Models/tcmFireLancer.gr2</File>
+    <File md5="60843AD11B4C78C2A222B362E8F369BF" import="1">Art/Models/tcmFireLancer_sref.dds</File>
+    <File md5="5A580836015F9C850AB35F55E2B6E160" import="1">Art/Models/WarJunk.fxsxml</File>
+    <File md5="9055CFE68543E265F5F097FD57516888" import="1">Art/Models/WarJunk.gr2</File>
+    <File md5="7038C2D91B8CFDBE084AE650311D0165" import="1">Art/Models/WarJunk_diff.dds</File>
+    <File md5="A0259BA1FB1B544F89BBD5A07BE8B90F" import="1">Art/Models/WarJunk_sref.dds</File>
+    <File md5="6299045D2FFC0FD8FFE82711B4C5F77A" import="1">Art/Music/tcmSongPeace.mp3</File>
+    <File md5="05931E8E69C9EC5FCB04A664A896F46D" import="1">Art/Music/tcmSongWar.mp3</File>
+    <File md5="CE28E9FDAE9306293BA2A8716E72F9CD" import="0">Code/ArtDef.sql</File>
+    <File md5="625C27F62826C6ABC868ABF7D98E2072" import="1">Code/Events and Decisions/tcmSongDecisions.lua</File>
+    <File md5="E67EE6198BB267506B94941294698221" import="1">Code/Events and Decisions/tcmSongEvents.lua</File>
+    <File md5="F7E069E286192941D247A8D90878433B" import="0">Code/Functions.lua</File>
+    <File md5="F78FBFB164FF02DDAFE38EDAFD06A627" import="0">Code/Functions.xml</File>
+    <File md5="86EB38B88D149B1D5311A297E4DEAD06" import="0">Code/ModSupport.sql</File>
+    <File md5="1111BCB5762AC9872707C47E9D63EFA5" import="0">Code/MainCode.sql</File>
+    <File md5="A510AE2F8C61BD342B5C2ADE0E683622" import="0">Code/GameText.xml</File>
+    <File md5="3B7B1EE92949FC3B7B9308074F036BEB" import="1">Code/NewSaveUtils.lua</File>
+    <File md5="D63DC8BB6AA0F310DD55B264DB49C7E2" import="1">Code/PlotIterators.lua</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">Code/SaveUtils.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Code/MainCode.sql</UpdateDatabase>
+      <UpdateDatabase>Code/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Code/ArtDef.sql</UpdateDatabase>
+      <UpdateDatabase>Code/ModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Code/Functions.lua">
+      <Name>Song Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

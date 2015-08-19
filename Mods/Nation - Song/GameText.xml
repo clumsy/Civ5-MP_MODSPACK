@@ -1,0 +1,348 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/12/2015 7:08:18 AM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_TCM_SONG_DESC">
+			<Text>Song Dynasty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TCM_SONG_SHORT_DESC">
+			<Text>Song</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TCM_SONG_ADJECTIVE">
+			<Text>Song</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_DOM_TCM_SONG_TEXT">
+			<Text>Greetings, Emperor Taizu of the Song Dynasty. By uniting China and demilitarizing its society, you brought a time of prosperity and stability to your country that hadn't been seen in ages, and even despite many setbacks and calamities due to foreign invasions, both your Dynasty and China prospered. Developing on ancient technologies, it was during the time of the Song Dynasty that China gifted to this world the Compass, Gunpowder and many other technological achievements, and grew to be the most populous country on earth.[NEWLINE][NEWLINE]Oh great emperor and unitor, the heavens have bestowed upon you their mandate to rule over China again! Will you ascend to the title of Emperor, and safeguard China against all of her enemies? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_TCM_SONG_TITLE">
+			<Text>The Song Dynasty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TCM_SONG_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TCM_SONG_TEXT_1">
+			<Text>The Song dynasty of China began in 960 and continued until 1279. ThIS dynasty restored unity and made Song China the richest, most skilled, and most populous country on earth. The population of China doubled in size during the 10th and 11th centuries. It was the first government in world history to nationally issue banknotes or true paper money, and the first Chinese government to establish a permanent standing navy. This dynasty also saw the first known use of gunpowder, as well as the first discernment of true north using a compass. To repel the Jin, and later the Mongols, the Song developed revolutionary new military technology augmented by the use of gunpowder.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SONG_01">
+			<Text>Bianjing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SONG_02">
+			<Text>Lin'an</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SONG_03">
+			<Text>Yangzhou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SONG_04">
+			<Text>Guangzhou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SONG_05">
+			<Text>Xijing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SONG_06">
+			<Text>Fuzhou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SONG_07">
+			<Text>Chengdu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SONG_08">
+			<Text>Changsha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SONG_09">
+			<Text>Chongqing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SONG_10">
+			<Text>Quanzhou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SONG_11">
+			<Text>Xiangtan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SONG_12">
+			<Text>Jinling</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SONG_13">
+			<Text>Ganzhou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SONG_14">
+			<Text>Yan'an</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SONG_15">
+			<Text>Hongzhou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SONG_16">
+			<Text>Qingzhou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SONG_17">
+			<Text>Chang'an</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SONG_18">
+			<Text>Guiyang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SONG_19">
+			<Text>Guilin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SONG_20">
+			<Text>Baoji</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SONG_21">
+			<Text>Wuchang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SONG_22">
+			<Text>Zunyi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SONG_23">
+			<Text>Mianyang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SONG_24">
+			<Text>Tanzhou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SONG_25">
+			<Text>Xiangzhou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SONG_26">
+			<Text>Zhangzhou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SONG_27">
+			<Text>Jiangling</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SONG_28">
+			<Text>Hejian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SONG_29">
+			<Text>Taiyuan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SONG_30">
+			<Text>Yingzhou</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_TCM_TAIZU_FIRSTGREETING_1">
+			<Text>Welcome, my most esteemed guest, to China. My name is Zhao Kuangyin, founder of the Song Dynasty and emperor of China. May our relations be ever cordial, and never descend to war and bloodshed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TAIZU_DEFEATED_1">
+			<Text>And so ends my Dynasty. China welcomes you as Emperor; may your mandate of heaven be prosperous.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_SONG_1">
+			<Text>Liu</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_SONG_2">
+			<Text>Chao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_SONG_3">
+			<Text>Zeng</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_SONG_4">
+			<Text>Han</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_SONG_5">
+			<Text>Rong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_SONG_6">
+			<Text>Gou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_SONG_7">
+			<Text>Huan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_SONG_8">
+			<Text>Wang</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_SONG_9">
+			<Text>Ping</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_TCM_TAIZU_PEDIA_TEXT">
+			<Text>Zhao Kuangyin, also known by his temple name Taizu, was the founding emperor of imperial China's Song Dynasty, reigning from 960 until his death. A distinguished military general under the Later Zhou, he came to power by staging a coup d'état and forcing the young Emperor Gong of Later Zhou to abdicate power. During his reign, he conquered the states of Southern Tang, Later Shu, Southern Han and Jingnan, thus reunifying most of China proper and effectively ending the tumultuous Five Dynasties and Ten Kingdoms period. To strengthen his control, he lessened the power of military generals and relied on civilian officials in administration.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TAIZU_PEDIA_LIVED">
+			<Text>927 - 976</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TAIZU_PEDIA_NAME">
+			<Text>Taizu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TAIZU_PEDIA_SUBTITLE">
+			<Text>Leader of Song</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_TAIZU_PEDIA_TITLES_1">
+			<Text>Emperor</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_TCM_TAIZU">
+			<Text>Taizu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TCM_TAIZU_SONG_SHORT">
+			<Text>Imperial Examination</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TCM_TAIZU_SONG">
+			<Text>Cities have a free specialist slot of your choice, and specialists generate +1 [ICON_FOOD] Food. Gain [ICON_FOOD] Food in all cities and may rechoose the free specialist slot when a [ICON_GREAT_PEOPLE] Great Person is produced.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_CIV_TCM_SONG_ENGINEER">
+			<Text>Engineer Slot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TCM_SONG_SCIENTIST">
+			<Text>Scientist Slot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TCM_SONG_MERCHANT">
+			<Text>Merchant Slot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TCM_SONG_WRITER">
+			<Text>Writer Slot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TCM_SONG_ARTIST">
+			<Text>Artist Slot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TCM_SONG_MUSICIAN">
+			<Text>Musician Slot</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_TCM_JUNK_SHIP">
+			<Text>Junk Ship</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_TCM_JUNK_SHIP">
+			<Text>A ranged ship that only the Song may build. If damaged under 50% health, the Junk Ship gains +100% defensive [ICON_STRENGTH] Combat Strength and +1 [ICON_MOVES] Movement Point, and it generates [ICON_GOLD] Gold when it passes through a trade route ([ICON_GOLD] Gold increases with the number of specialists on the empire). Additionally, the Junk Ship confers the Great General bonus to nearby land military units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TCM_JUNK_SHIP_STRATEGY">
+			<Text>The Junk Ship is the Song Galleass replacement, that offers support to land military units by increasing their [ICON_STRENGTH] Combat Strength as a Great General. And, if damaged bellow 50% Health, the Junk Ship receives +100% defensive [ICON_STRENGTH] Combat Strength and gains +1 [ICON_MOVES] Movement Point. It also generates [ICON_GOLD] Gold when it passes through a trade route ([ICON_GOLD] Gold increases with the number of specialists on the empire)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_TCM_JUNK_SHIP_TEXT">
+			<Text>A Junk is an ancient Chinese sailing ship design that is still in use today. Junks were developed during the Song Dynasty. The historian Herbert Warington Smyth considered the junk as one of the most efficient ship designs, stating that "As an engine for carrying man and his commerce upon the high and stormy seas as well as on the vast inland waterways, it is doubtful if any class of vessel… is more suited or better adapted to its purpose than the Chinese or Indian junk, and it is certain that for flatness of sail and handiness, the Chinese rig is unsurpassed."</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_UNIT_TCM_FIRE_LANCER">
+			<Text>Fire Lancer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_TCM_FIRE_LANCER">
+			<Text>Only the Song may build this unit. The Fire Lancer is built faster if there are enemies inside the city limits, and if garrisoned on a city becomes an one tile ranged unit that costs no maintenance and decreases the [ICON_STRENGTH] Combat Strength of nearby enemies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TCM_FIRE_LANCER_STRATEGY">
+			<Text>The Fire Lancer is a Medieval Era melee-ranged hybrid unit that excels on city defense. Not only it is built faster while a city is under siege, it also becomes a ranged unit while garrisoned and costs no maintenance while on this form, additionally it also decreases the [ICON_STRENGTH] Combat Strength of nearby enemy units while garrisoned.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_TCM_FIRE_LANCER_TEXT">
+			<Text>The Fire Lance or Fire Spear was one of the first gunpowder weapons in the world. Initially made of bamboo tube with the projectile tied to a Chinese spear that fired a small projectile or poison dart along with the flame, these weapons had limited range of only a few feet. These short-ranged, one-shot, disposable weapons were often held in racks on city walls and gave Chinese defenders a tremendous tactical and psychological advantage when fired in volleys. They were ideal for dealing with enemies trying to scale city walls, or for holding the enemy at bay behind a breached gate.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_TCM_SONG_RIVER_YIELDER">
+			<Text>River Fleet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TCM_SONG_RIVER_YIELDER_HELP">
+			<Text>Grant +15% Combat Strength to nearby land military units; the range of this bonus extend through rivers</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_TCM_SONG_RIVER_COMBAT_STRENGTH">
+			<Text>Naval Support</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TCM_SONG_RIVER_COMBAT_STRENGTH_HELP">
+			<Text>+15% Combat Strength for the rest of the turn</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_TCM_SONG_JUNK_DEFENSE">
+			<Text>Separate Hull Compartments</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TCM_SONG_JUNK_DEFENSE_HELP">
+			<Text>Has +1 Movement Point and +100% Combat Strength due to being damaged</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_TCM_SONG_FIRE_LANCER_DEFENSE">
+			<Text>Gunpowder-armed Militia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TCM_SONG_FIRE_LANCER_DEFENSE_HELP">
+			<Text>Decreases the Combat Strength of nearby enemy units by 15%</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TCM_SONG_CHOOSE_SPECIALIST">
+			<Text>Choose a Specialist slot for this city.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_TCM_SONG_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now investing in your Junk Ships and abiding to your official imperial dress code. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_EVENT_TCM_SONG_REFORMISTS">
+			<Text>Reformist and Conservatives Clash</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TCM_SONG_REFORMISTS_DESC">
+			<Text>Wang Anshi has approached you with his intent to implement the "New Policies" reforms to China, but this was met with serious opposition by the conservative faction.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TCM_SONG_REFORMISTS_OUTCOME_1">
+			<Text>Support Wang Anshi and reform the Song Society</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TCM_SONG_REFORMISTS_OUTCOME_2">
+			<Text>Exile him and support the conservatives</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TCM_SONG_REFORMISTS_OUTCOME_RESULT_1">
+			<Text>
+				[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain 1 Magistrate[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_GREY]Can either gain or lose {1_Culture} [ICON_CULTURE] Culture.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TCM_SONG_REFORMISTS_OUTCOME_RESULT_2">
+			<Text>
+				[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain 1 Magistrate[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TCM_SONG_REFORMISTS_NOTIFICATION">
+			<Text>Reformist and Conservatives Clash</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TCM_SONG_REFORMISTS_OUTCOME_RESULT_NOTIFICATION_1">
+			<Text>Wang Anshi has received our full support.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TCM_SONG_REFORMISTS_OUTCOME_RESULT_NOTIFICATION_2">
+			<Text>We have exiled Wang Anshi.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DECISIONS_TCM_BANKNOTES">
+			<Text>Introduce Banknotes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TCM_BANKNOTES_DESC">
+			<Text>
+				The antiquated gold and silver coins have no place in our realm. We should introduce paper-made banknotes into the chinese economy, and... Maybe keep that gold and silver to ourselves...[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Song
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Medieval Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE][ICON_BULLET]Must have finished a Social Policy tree
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]Costs {1_Cost} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]Costs 1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Gain a free Social Policy
+				[NEWLINE][ICON_BULLET]Markets, Banks and Workshops yield +2 Gold.
+				[NEWLINE][ICON_BULLET]Gain {2_Gold} [ICON_GOLD] Gold. (More awarded for every specialist on the empire)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TCM_BANKNOTES_ENACTED">
+			<Text>
+				We have introduced paper money into the Chinese economy.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DECISIONS_TCM_STANDINGNAVY">
+			<Text>Establish a Standing Navy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TCM_STANDINGNAVY_DESC">
+			<Text>
+				To ensure the survival of our Dynasty we must protect China from all threats, from wherever they come. By establishing the first Standing Navy of China we will be able to defend both sea and rivers from foreign incursions.
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Song
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]Costs {1_Cost} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]Costs 1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Cities with a Harbor instantly gain a boost in Production and receive +2 Production.
+				[NEWLINE][ICON_BULLET]Naval units begin with +15 experience and are built 10% faster.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TCM_STANDINGNAVY_ENACTED">
+			<Text>
+				We have established a standing navy in China.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

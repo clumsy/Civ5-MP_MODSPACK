@@ -1503,6 +1503,9 @@ ContextPtr:LoadNewContext("Etruscan_Functions")
 -- Nation - Parthia --
 ContextPtr:LoadNewContext("Parthian_Lua")
 
+-- Nation - Song --
+ContextPtr:LoadNewContext("Song_Functions")
+
 -- Nation - Kilwa --
 ContextPtr:LoadNewContext("CityStatePopupGoldChanges")
 ContextPtr:LoadNewContext("JFD_KilwaFunctions")
