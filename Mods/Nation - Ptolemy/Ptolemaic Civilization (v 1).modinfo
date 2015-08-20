@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="bdd02aef-3fbc-45ac-9d56-e7a97897942b" version="1">
+  <Properties>
+    <Name>Ptolemaic Civilization</Name>
+    <Teaser>The Ptolemaic Kingdom, with Ptolemy I Soter I as its ruler.</Teaser>
+    <Description>The Ptolemaic Kingdom, with Ptolemy I Soter I as its ruler.</Description>
+    <Authors>TarcisioCM</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="CFE92C9BA815C533AFB4EB0E3BFC9AA4" import="1">Art/alpha_tcm_polyreme.dds</File>
+    <File md5="908051DF2344D30D1E786E6CCFD3B408" import="1">Art/DawnofMan_Ptolemy.dds</File>
+    <File md5="68D1A26118337303B42AE56D22D442CE" import="1">Art/ptolemypeace.mp3</File>
+    <File md5="494B97C92832E5787259D2F5D26C49E6" import="1">Art/ptolemywar.mp3</File>
+    <File md5="F536FE0BE81F842968A587D9DC4A5BD5" import="1">Art/ptolemy_alpha48.dds</File>
+    <File md5="484AD3B3D4203764CBE46946ABC9915D" import="1">Art/Ptolemy_Scene.xml</File>
+    <File md5="9E1AD46D584543171BE35D0692B4FDAF" import="1">Art/main_atlas_ptolemy128.dds</File>
+    <File md5="7AB763C2F07176E701671B8BF1DD0456" import="1">Art/main_atlas_ptolemy256.dds</File>
+    <File md5="A9DCC24556482B4712353A0B3F97C860" import="1">Art/main_atlas_ptolemy32.dds</File>
+    <File md5="7A2D12418ABA416089FC346FA7BA75EC" import="1">Art/main_atlas_ptolemy45.dds</File>
+    <File md5="EFED9B147A45C7865125192D0638F5D5" import="1">Art/main_atlas_ptolemy64.dds</File>
+    <File md5="1D7EA26CEE23A4AA6CF1630C7EC84B35" import="1">Art/main_atlas_ptolemy80.dds</File>
+    <File md5="375A7AF35B5043146E707992B8CA3850" import="1">Art/ptolemy_alpha128.dds</File>
+    <File md5="D48925E7C4C742D932EC9BD3515183B1" import="1">Art/ptolemy_alpha16.dds</File>
+    <File md5="3E220FCA379F4F59A46987280E656691" import="1">Art/ptolemy_alpha24.dds</File>
+    <File md5="923DE624EE05194A2F2A8A6521639949" import="1">Art/ptolemy_alpha256.dds</File>
+    <File md5="9DA93FF6C229973946476A013045C2F7" import="1">Art/ptolemy_alpha32.dds</File>
+    <File md5="5E20685BF1C62FD51877C8BC58A8F081" import="1">Art/ptolemy_alpha45.dds</File>
+    <File md5="4382CD8955029580AE9BC24430BC6BAB" import="1">Art/ptolemy_alpha64.dds</File>
+    <File md5="D0153E198014DBB1307FFEFC204C3F0E" import="1">Art/ptolemy_alpha80.dds</File>
+    <File md5="DCDEB02EE7EC362E814E69B234B21C37" import="1">Art/ptolemaic_scene.dds</File>
+    <File md5="0602C3ACA0747BC8945634773D2461A3" import="1">Art/tcm_map_ptolemy.dds</File>
+    <File md5="3AD2C9276F3B1F990F80D1B89969017B" import="1">Art/tcm_polyreme_sv.dds</File>
+    <File md5="67F3860B68E4A43086C8FA9AF178E9EC" import="0">PtolemaicTables.sql</File>
+    <File md5="CF8AC3C8A792C8F079DDFC65F6794024" import="0">Lua/Ptolemy_Functions.lua</File>
+    <File md5="B5A4E68776A94FF06C8BD457D431DA90" import="0">XML/Civilization_Ptolemaic.xml</File>
+    <File md5="A628396BD0D8E32378E302CD14D6426E" import="0">XML/Buildings_Ptolemaic.xml</File>
+    <File md5="1165AAA531C6066CFFE170A789F05748" import="0">XML/ArtDef_Ptolemaic.xml</File>
+    <File md5="C382EF6F3F3088541A5E9B8FD7532B73" import="0">XML/Music_Ptolemaic.xml</File>
+    <File md5="188913C4DE00089778CFAD385FAA3521" import="0">XML/IconAtlas.xml</File>
+    <File md5="49C2090B246ED41E4D1F7B78C93210AE" import="0">XML/GameText.xml</File>
+    <File md5="6B38B197737F533C909F0340D7290435" import="0">XML/Units_Ptolemaic.xml</File>
+    <File md5="F8A04E6F809A862DC1A4A84EB800ED7D" import="0">XML/Leader_Ptolemy.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>PtolemaicTables.sql</UpdateDatabase>
+      <UpdateDatabase>XML/ArtDef_Ptolemaic.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization_Ptolemaic.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/IconAtlas.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader_Ptolemy.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units_Ptolemaic.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings_Ptolemaic.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Music_Ptolemaic.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Ptolemy_Functions.lua">
+      <Name>Ptolemy Functions</Name>
+      <Description>muh functions</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

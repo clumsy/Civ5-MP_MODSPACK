@@ -1509,6 +1509,9 @@ ContextPtr:LoadNewContext("Parthian_Lua")
 -- Nation - Song --
 ContextPtr:LoadNewContext("Song_Functions")
 
+-- Nation - Ptolemy --
+ContextPtr:LoadNewContext("Ptolemy_Functions")
+
 -- Nation - Kilwa --
 ContextPtr:LoadNewContext("CityStatePopupGoldChanges")
 ContextPtr:LoadNewContext("JFD_KilwaFunctions")

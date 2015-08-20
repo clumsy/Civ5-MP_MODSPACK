@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/15/2014 7:17:41 AM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_TCM_PTOLEMAIC_DESC">
+			<Text>Ptolemaic Kingdom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TCM_PTOLEMAIC_SHORT_DESC">
+			<Text>The Ptolemies</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TCM_PTOLEMAIC_ADJECTIVE">
+			<Text>Ptolemaic</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_TCM_PTOLEMAIC_DOM">
+			<Text>Oh Great Diadochi, Basileu and Pharaoh Ptolemy I Soter - The Savior! You led Egypt through the turbulent times of Alexander's the Great death, and formed your own kingdom that would soon become the center of Arts, Sciences and Commerce of the hellenistic period. On your legendary Capital, Alexandria, you built great wonders of the ancient times such as the Great Lighthouse and the Great Library, that succumbed to the sands of time.[NEWLINE][NEWLINE]Oh divine Basileu, the time has come, for the envy of your rivals, to reinstate the Ptolemaic Dynasty! Can you defeat all that oppose you, and secure the legacy of the ptolemies?. Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_PTOLEMAIC_1">
+			<Text>Alexandria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_PTOLEMAIC_2">
+			<Text>Ptolemais Hermiou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_PTOLEMAIC_3">
+			<Text>Naucratis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_PTOLEMAIC_4">
+			<Text>Arsinoe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_PTOLEMAIC_5">
+			<Text>Oxyrhynchus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_PTOLEMAIC_6">
+			<Text>Pelousium</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_PTOLEMAIC_7">
+			<Text>Gaza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_PTOLEMAIC_8">
+			<Text>Berenice</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_PTOLEMAIC_9">
+			<Text>Paraitonion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_PTOLEMAIC_10">
+			<Text>Philadeplhia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_PTOLEMAIC_11">
+			<Text>Gerasa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_PTOLEMAIC_12">
+			<Text>Paphos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_PTOLEMAIC_13">
+			<Text>Perge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_PTOLEMAIC_14">
+			<Text>Side</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_PTOLEMAIC_15">
+			<Text>Cirene</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_PTOLEMAIC_16">
+			<Text>Pentapolis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_PTOLEMAIC_17">
+			<Text>Salamis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_PTOLEMAIC_18">
+			<Text>Hermopolis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_PTOLEMAIC_19">
+			<Text>Tyre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_PTOLEMAIC_20">
+			<Text>Byblos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_PTOLEMAIC_21">
+			<Text>Sidon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_PTOLEMAIC_22">
+			<Text>Jerusalem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_PTOLEMAIC_23">
+			<Text>Thebes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_PTOLEMAIC_24">
+			<Text>Memphis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_PTOLEMAIC_25">
+			<Text>Heliopolis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_PTOLEMAIC_26">
+			<Text>Elephantine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_PTOLEMAIC_27">
+			<Text>Coptos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_PTOLEMAIC_28">
+			<Text>Dendera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_PTOLEMAIC_29">
+			<Text>Rosetta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_PTOLEMAIC_30">
+			<Text>Sais</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_LEADER_TCM_PTOLEMY">
+			<Text>Ptolemy Soter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_PTOLEMY_NAME">
+			<Text>Ptolemy I Soter I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_PTOLEMY_SUBTITLE">
+			<Text>Leader of the Ptolemies</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_PTOLEMY_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_PTOLEMY_TEXT_1">
+			<Text>Ptolemy I Soter I also known as Ptolemy Lagides, c. 367 BC – c. 283 BC, was a Macedonian general under Alexander the Great, who became ruler of Egypt (323–283 BC) and founder of both the Ptolemaic Kingdom and the Ptolemaic Dynasty. In 305/4 BC he demanded the title of pharaoh.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_PTOLEMY_LIVED">
+			<Text>367 - 283 BC</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_PTOLEMY_TITLES_1">
+			<Text>Pharaoh of Egypt</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_TCM_PTOLEMY_FIRST_GREETING_1">
+			<Text>Be welcomed to the greatest kingdom of this era! Gaze upon my wonders that touch the very skies of Egypt, and then head back to your puny homeland.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_PTOLEMY_FIRST_GREETING_2">
+			<Text>Ah, another foreigner. Come and share the knowledge of your lands, or let it be forgotten to the sands of time.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_PTOLEMY_FIRST_GREETING_3">
+			<Text>This is my marvelous city. Spend as much time as you want here, for once you head back to your home, you might never again see such wonderful sight.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_PTOLEMY_DEFEATED_1">
+			<Text>You may have defeated me, but my wonders shall live forever!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_PTOLEMY_DEFEATED_2">
+			<Text>I am the pharaoh! I am the king! I command you to die!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_PTOLEMY_DEFEATED_3">
+			<Text>No! I am the true diadochi! I am a god! How could this have happened?</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_TRAIT_TCM_PTOLEMY_SHORT">
+			<Text>Capital of Hellenism</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_TRAIT_TCM_PTOLEMY">
+			<Text>+25% [ICON_PRODUCTION] Production towards Wonders and [ICON_GREAT_PEOPLE] Great Person generation at the [ICON_CAPITAL] Capital during [ICON_GOLDEN_AGE]Golden Ages. Maritime trade routes leaving the [ICON_CAPITAL] Capital generate aditional 2 [ICON_GOLD] Gold when connecting to another civilization.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_TCM_SERAPEUM">
+			<Text>Serapeum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TCM_SERAPEUM_HELP">
+			<Text>Replacement for Temple. Generate 2 [ICON_CULTURE] Culture and 1 [ICON_HAPPINESS_1] if built on conquered cities. On the outbreak of war, every Serapeum will spawn an appropriate military unit of the last Era.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_TCM_POLYREME">
+			<Text>Polyreme</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_TCM_POLYREME">
+			<Text>Unique Unit that can only be built by the ptolemies during Golden Ages. Has the Oversized Ship promotion, making close enemy units fight worse. Generate 1 [ICON_CULTURE] Culture if on a City, and 3 [ICON_CULTURE] Culture if that city has a Harbor.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_TCM_ENEMY_FEAR">
+			<Text>Oversized Ship</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TCM_ENEMY_FEAR_HELP">
+			<Text>Close enemy units will receive a 15% Combat Strenght penalty.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

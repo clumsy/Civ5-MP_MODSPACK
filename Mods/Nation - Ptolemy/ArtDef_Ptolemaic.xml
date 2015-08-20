@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<ArtDefine_UnitInfos>
+		<Row>
+			<Type>ART_DEF_UNIT_U_TCM_PTOLEMAIC_POLYREME</Type>
+			<DamageStates>3</DamageStates>
+		</Row>
+	</ArtDefine_UnitInfos>
+	<ArtDefine_UnitInfoMemberInfos>
+		<Row>
+			<UnitInfoType>ART_DEF_UNIT_U_TCM_PTOLEMAIC_POLYREME</UnitInfoType>
+			<UnitMemberInfoType>ART_DEF_UNIT_MEMBER_U_CARTHAGE_QUINQUEREME</UnitMemberInfoType>
+			<NumMembers>1</NumMembers>
+		</Row>
+	</ArtDefine_UnitInfoMemberInfos>
+	<ArtDefine_UnitMemberInfos>
+		<Row>
+			<Type>ART_DEF_UNIT_MEMBER_U_TCM_PTOLEMAIC_POLYREME</Type>
+			<Scale>0.0750000029802322</Scale>
+			<Domain>Sea</Domain>
+			<Model>U_Carthage_Quinquereme.fxsxml</Model>
+			<MaterialTypeTag>WOOD</MaterialTypeTag>
+			<MaterialTypeSoundOverrideTag>WOODLRG</MaterialTypeSoundOverrideTag>
+		</Row>
+	</ArtDefine_UnitMemberInfos>
+	<ArtDefine_UnitMemberCombats>
+		<Row>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_U_TCM_PTOLEMAIC_POLYREME</UnitMemberType>
+			<EnableActions>Idle Attack RunCharge AttackCity Bombard Death BombardDefend Run Fortify CombatReady AttackSurfaceToAir</EnableActions>
+			<HasShortRangedAttack>1</HasShortRangedAttack>
+			<HasLongRangedAttack>1</HasLongRangedAttack>
+			<HasLeftRightAttack>1</HasLeftRightAttack>
+			<HasRefaceAfterCombat>0</HasRefaceAfterCombat>
+			<HasIndependentWeaponFacing>1</HasIndependentWeaponFacing>
+		</Row>
+	</ArtDefine_UnitMemberCombats>
+	<ArtDefine_UnitMemberCombatWeapons>
+		<Row>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_U_TCM_PTOLEMAIC_POLYREME</UnitMemberType>
+			<Index>0</Index>
+			<SubIndex>0</SubIndex>
+			<VisKillStrengthMin>0.0</VisKillStrengthMin>
+			<VisKillStrengthMax>0.0</VisKillStrengthMax>
+			<WeaponTypeTag>ARROW</WeaponTypeTag>
+			<WeaponTypeSoundOverrideTag>ARROW</WeaponTypeSoundOverrideTag>
+		</Row>
+	</ArtDefine_UnitMemberCombatWeapons>
+	<ArtDefine_StrategicView>
+		<Row>
+			<StrategicViewType>ART_DEF_UNIT_U_TCM_PTOLEMAIC_POLYREME</StrategicViewType>
+			<TileType>Unit</TileType>
+			<Asset>tcm_polyreme_sv.dds</Asset>
+		</Row>
+	</ArtDefine_StrategicView>
+</GameData>
