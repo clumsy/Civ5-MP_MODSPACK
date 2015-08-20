@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="4300d870-5504-4cd7-a63d-5d9d02588ea6" version="2">
+  <Properties>
+    <Name>Suebian Civilization</Name>
+    <Teaser>The Kingdom of the Suebi, with Rechila as its leader.</Teaser>
+    <Description>The Kingdom of the Suebi, with Rechila as its leader.</Description>
+    <Authors>TarcísioCM</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="BDE4250B759DD6051468589062607FEE" import="1">Art/DawnofMan_Suebi.dds</File>
+    <File md5="44146E06111313D7A3DE91399E0F69AC" import="1">Art/Icons/strategic_knot.dds</File>
+    <File md5="7CF7FF2BD149826FC8F40A972DBF366D" import="1">Art/suebiwar.mp3</File>
+    <File md5="43FFCC9D6930DE2B41ABD7597D1CC6C5" import="1">Art/Icons/Alpha_Suebi_Icon128.dds</File>
+    <File md5="95D0181F0A4736F4EA4D8800ABAB249A" import="1">Art/Icons/Alpha_Suebi_Icon16.dds</File>
+    <File md5="0F7688213D4C94E46FBB06830C9042F0" import="1">Art/Icons/Alpha_Suebi_Icon24.dds</File>
+    <File md5="12447BB8441F658BCEA8BD977DAFE5B2" import="1">Art/Icons/Alpha_Suebi_Icon256.dds</File>
+    <File md5="AEDFAEDB7273D26D904C64B54B91239E" import="1">Art/Icons/Alpha_Suebi_Icon32.dds</File>
+    <File md5="2D6445CFE6825BAFD2E5CC43EA325D6A" import="1">Art/Icons/Alpha_Suebi_Icon48.dds</File>
+    <File md5="8ABC4254A3E56646D7B6AEFADD36F6A4" import="1">Art/Icons/Alpha_Suebi_Icon64.dds</File>
+    <File md5="0CA53754477BC24B156F5AE7BF3AA1F8" import="1">Art/Icons/Alpha_Suebi_Icon80.dds</File>
+    <File md5="AFF0BED5632D1BBF963BA3B1A4D82D3A" import="1">Art/Icons/knot_icon.dds</File>
+    <File md5="64CCA7E7386DF6A1DF31524C9B4E930C" import="1">Art/Models/PortugalSpearman.dds</File>
+    <File md5="64EC32624C65F718A9CE96F8E48BA24E" import="1">Art/Models/PortugalSpearman.fbx</File>
+    <File md5="A365A8575E101EB09030BA225CBE95B4" import="1">Art/Models/PortugalSpearman.fxsxml</File>
+    <File md5="E35D9BFD5E6734552BBF9803626B92A0" import="1">Art/Models/PortugalSpearman.gr2</File>
+    <File md5="D51B9A10451A4D4486C0D5322911C3F3" import="1">Art/Models/PortugalSpearman_sref.dds</File>
+    <File md5="BBB6942941394504205F052F6ED28AB3" import="1">Art/Rechila_Scene.xml</File>
+    <File md5="9E531B8C18D4DE4B14C9C7B40F1047AF" import="1">Art/Icons/main_icon_suebia128.dds</File>
+    <File md5="596BCCB8E735CF4F3343C26428222C73" import="1">Art/Icons/main_icon_suebia256.dds</File>
+    <File md5="C9F363ED13E2B55A508413F507D80619" import="1">Art/Icons/main_icon_suebia32.dds</File>
+    <File md5="7CBEF19A6D1A6F156AEB2AC30ED6835B" import="1">Art/Icons/main_icon_suebia45.dds</File>
+    <File md5="3EA110DA746341E2FC90001396098227" import="1">Art/Icons/main_icon_suebia64.dds</File>
+    <File md5="2E975BA1F906A17870F1725AEB933F29" import="1">Art/Icons/main_icon_suebia80.dds</File>
+    <File md5="5037A9BDEE34B54D0A643AA394DACE97" import="1">Art/leaderscene_Rechila.dds</File>
+    <File md5="608FD51A73C695F08FC4A5630F1ECE86" import="1">Art/map_suebi.dds</File>
+    <File md5="5FBA40813FCCE8EF7E2B505682BA4F92" import="1">Art/wilderness.ogg</File>
+    <File md5="A5632278F46A8CA8A70A483A162A306A" import="0">Lua/SuebiFunctions.lua</File>
+    <File md5="8905365F389E9E48D2AB7BDE7687174F" import="0">XML/Civilization/Civilization_Suebi.xml</File>
+    <File md5="B1F88CCE0856DC92956749EE4BF2BE29" import="0">XML/Civilization/Leader_Rechila.xml</File>
+    <File md5="9EB30377E75EBFB0992EE26DF647861B" import="0">XML/Others/ArtDef.xml</File>
+    <File md5="74FE04510080253155814FFC476B93B9" import="0">XML/Others/Rechila_Music.xml</File>
+    <File md5="6F6FBBFED3D52AE4F31639F9EB8337C6" import="0">XML/Others/GameText.xml</File>
+    <File md5="2B3941E2566EBCB9CAF2AC94A9FD64F3" import="0">XML/Others/IconAtlas.xml</File>
+    <File md5="12521F3610A70BFCAFF71287A0C5083C" import="0">XML/Uniques/Suebi_Units.xml</File>
+    <File md5="E8C3E5A85558FC18840761FB9AF55C00" import="0">XML/Uniques/Suebi_Buildings.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Civilization/Civilization_Suebi.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization/Leader_Rechila.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Others/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Others/IconAtlas.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Uniques/Suebi_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Uniques/Suebi_Units.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Others/ArtDef.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Others/Rechila_Music.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/SuebiFunctions.lua">
+      <Name>Suebi Functions</Name>
+      <Description>Functions for the Suebi Civilization</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

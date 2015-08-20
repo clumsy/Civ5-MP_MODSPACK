@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/12/2014 11:47:58 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_TCM_SUEBI_DESC">
+			<Text>Kingdom of the Suebi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TCM_SUEBI_ADJECTIVE">
+			<Text>Suebian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TCM_SUEBI_SHORT_DESC">
+			<Text>Suebi</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV_TCM_SUEBI_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TCM_SUEBI_TEXT_1">
+			<Text>The Kingdom of the Suebi - also known as Suevi or Kingdom of Gallaecia – was one of the barbarian kingdoms that succeeded the Western Roman Empire. Located on the northern Iberian Peninsula, they were later conquered by the Visigoths.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TCM_SUEBI_HEADING_2">
+			<Text>Geography and Climate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TCM_SUEBI_TEXT_2">
+			<Text>The Kingdom encompassed the northern region of the Iberian Peninsula, called Gallaecia, but with Rechila's conquests it extended over most of the peninsula.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TCM_SUEBI_HEADING_3">
+			<Text>The Suebi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TCM_SUEBI_TEXT_3">
+			<Text>The Suebi were one of the many "Barbarian" peoples that invaded the crumbling Western Roman Empire and formed their own kingdoms along the way. Differently from the other Germanic groups that participated on the fall of Rome, the Suebi didn't play a large role on Rome's downfall, refraining to raid roman territories on the Iberian Peninsula.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TCM_SUEBI_FACTOID_HEADING">
+			<Text>Suebian Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TCM_SUEBI_FACTOID_TEXT">
+			<Text>The Suebian King Rechiar was one of the first Catholic Christian kings among the Germanic peoples.[NEWLINE][NEWLINE]The Suebi minted their own coin, as a sign of authority and independence.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TCM_SUEBI_DOM">
+			<Text>Oh great king Rechila, may your enemies flee in terror as your army approaches! You arose to the throne after your father, King Hermeric, had annexed all Gallaecia and united its population. With your kingdom secured, you saw the opportunity for expansion and soon conquered most of the Iberian Peninsula. When finally the romans responded to your conquests, you bravely defeated their Visigothic coalition, marking the end of imperial attempts to retake Hispania.[NEWLINE][NEWLINE]Great King Rechila, your men await for your command, and there are enemies waiting to be sacked! Will you conquer these new lands, for riches and glory? Can you build a civilization that will stand the test of time.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SUEBI_BRAGA">
+			<Text>Braga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SUEBI_1">
+			<Text>Merida</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SUEBI_2">
+			<Text>Astorga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SUEBI_3">
+			<Text>Porto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SUEBI_4">
+			<Text>Mertola</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SUEBI_5">
+			<Text>Seville</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SUEBI_6">
+			<Text>Beja</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SUEBI_7">
+			<Text>Malaga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SUEBI_8">
+			<Text>Cordoba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SUEBI_9">
+			<Text>Cartagena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SUEBI_10">
+			<Text>Toledo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SUEBI_11">
+			<Text>Tui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SUEBI_12">
+			<Text>Dume</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SUEBI_13">
+			<Text>Lugo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SUEBI_14">
+			<Text>Lamego</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SUEBI_15">
+			<Text>Viseu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SUEBI_16">
+			<Text>Idanha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SUEBI_17">
+			<Text>Evora</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SUEBI_18">
+			<Text>Faro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SUEBI_19">
+			<Text>Tomar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SUEBI_20">
+			<Text>Tavira</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SUEBI_21">
+			<Text>Silves</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SUEBI_22">
+			<Text>Sintra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SUEBI_23">
+			<Text>Iria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_SUEBI_24">
+			<Text>Britonia</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_TCM_SUEBI_RECHILA">
+			<Text>Rechila</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_SUEBI_RECHILA_HEADING_1">
+			<Text>Rechila</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_SUEBI_RECHILA_TEXT_1">
+			<Text>Rechila was the Suebic King from 438 until his death on 448, ascending to the throne after his father Hermeric abdicated due to illness. Under his reign the Suebi expanded through the roman Hispania, modern day Portugal and Spain. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_SUEBI_RECHILA_LIVED">
+			<Text>? - 448 BC</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_SUEBI_RECHILA_NAME">
+			<Text>Rechila</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_SUEBI_RECHILA_SUBTITLE">
+			<Text>Leader of The Suebi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_SUEBI_RECHILA_TITLES_1">
+			<Text>King of the Suebi</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_TCM_SUEBI_RECHILA_FIRST_GREETING_1">
+			<Text>What is your purpose on these lands? Don't interfere in my conquests, and we wont have any problems.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_SUEBI_RECHILA_FIRST_GREETING_2">
+			<Text>Who are you, and what brings you here? I am the king of these lands, and soon of yours as well...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_SUEBI_RECHILA_FIRST_GREETING_3">
+			<Text>I am King Rechila of the Suebi. I see you have quite a few riches over there... Mind if I borrow them... For a while?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_TCM_SUEBI_RECHILA_DEFEATED_1">
+			<Text>I doubt you'll be able to hold these lands for much longer, and your puny kingdom will soon be over. Enjoy while it lasts</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_SUEBI_0">
+			<Text>Frumar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_SUEBI_1">
+			<Text>Malaric</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_SUEBI_2">
+			<Text>Eboric</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_SUEBI_3">
+			<Text>Andeca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_SUEBI_4">
+			<Text>Miro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_SUEBI_5">
+			<Text>Chararic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_SUEBI_6">
+			<Text>Theodemar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_SUEBI_7">
+			<Text>Hermeneric</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_SUEBI_8">
+			<Text>Veremund</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_SUEBI_9">
+			<Text>Aioulf</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_TCM_SUEBI_WARRIOR">
+			<Text>Raider</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_TCM_SUEBI_WARRIOR">
+			<Text>Receives Combat Strenght Bonus if it starts the turn on pillaged improvement, and heals completely on pillaging. Replaces the Spearman for the Suebi.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TCM_SUEBI_WARRIOR_STRATEGY">
+			<Text>The Raiders should be the backbone of your army on the early eras. Not only they are as strong as the Spearman they replace, they also completely Heal when pillaging. They also get another pillaging promotion: If they start the turn on pillaged improvements, they get 20% combat strenght bonus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_TCM_SUEBI_WARRIOR_TEXT">
+			<Text>The earliest spears were doubtless straight pieces of wood with crudely-sharpened ends; these would quickly break or become dull with service. The spear didn't become a reliable weapon until some early innovator discovered that he could harden the tip by lightly charring it over a fire. Eventually stone tips were employed, then of course metal. Spears are fairly simple weapons to learn, and they can be produced rapidly and cheaply, so they tend to be the backbone of early civilizations' armies.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_UNIT_TCM_SUEBI_SETTLER">
+			<Text>Migrant</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_TCM_SUEBI_SETTLER">
+			<Text>Replaces the Settler. Has double move on forests and can enter rival territory without Open Borders. May only be built by the Suebi.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TCM_SUEBI_SETTLER_STRATEGY">
+			<Text>The Migrant can get easily into the most inaccessible places, as it can enter rival territory and move faster on forests.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_TCM_SUEBI_SETTLER_TEXT">
+			<Text>The Migration Period, also known as the period of the Barbarian invasions or of the Völkerwanderung ("migration of peoples" in German), was a period of intensified human migration in Europe from about 400 to 800 AD. Historians consider it to be the transition from Late Antiquity to the Early Middle Ages. This period was marked by profound changes both within the Roman Empire and beyond its "barbarian frontier". The migrants who came first were Germanic tribes such as the Goths, Vandals, Angles, Saxons, Lombards, Suebi, Frisii and Franks; they were later pushed westwards by the Huns, Avars, Slavs, Bulgars and Alans.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_PROMOTION_TCM_SUEBI_STRENGHT">
+			<Text>Just Sacked Someplace</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TCM_SUEBI_STRENGHT_HELP">
+			<Text>+20% Combat Strenght for this turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TCM_SUEBI_SETTLER">
+			<Text>Barbarian Migrations</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TCM_SUEBI_SETTLER_HELP">
+			<Text>This unit may enter Rival Territory without open borders, and has double movement on forests.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TCM_SUEBI_RAIDER">
+			<Text>Raids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TCM_SUEBI_RAIDER_HELP">
+			<Text>Will completely heal on Pillage.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TRAIT_TCM_RECHILA_SHORT">
+			<Text>Internal Sackers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TCM_RECHILA">
+			<Text>Melee units garrisoned on cities will generate 50% more unhappiness and +40% more gold.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
+

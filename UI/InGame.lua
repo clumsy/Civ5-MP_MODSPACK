@@ -1512,6 +1512,9 @@ ContextPtr:LoadNewContext("Song_Functions")
 -- Nation - Ptolemy --
 ContextPtr:LoadNewContext("Ptolemy_Functions")
 
+-- Nation - Suebi --
+ContextPtr:LoadNewContext("SuebiFunctions")
+
 -- Nation - Kilwa --
 ContextPtr:LoadNewContext("CityStatePopupGoldChanges")
 ContextPtr:LoadNewContext("JFD_KilwaFunctions")

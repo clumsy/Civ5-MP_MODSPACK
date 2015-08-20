@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/15/2014 5:57:50 AM -->
+<GameData>
+	<Audio_Sounds>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_TCM_RECHILA_PEACE</SoundID>
+			<Filename>wilderness</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_TCM_RECHILA_WAR</SoundID>
+			<Filename>suebiwar</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+	</Audio_Sounds>
+	<Audio_2DSounds>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_TCM_RECHILA_PEACE</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_TCM_RECHILA_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>80</MinVolume>
+			<MaxVolume>80</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_TCM_RECHILA_WAR</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_TCM_RECHILA_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>80</MinVolume>
+			<MaxVolume>80</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+	</Audio_2DSounds>
+</GameData>
+
