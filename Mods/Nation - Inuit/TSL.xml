@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/8/2014 7:52:17 PM -->
+<GameData>
+	<!-- +++++++++++++++++++++++++++++ -->
+	<!-- Earth Giant map start position -->
+	<!-- +++++++++++++++++++++++++++++ -->
+	<Civilizations_YagemStartPosition>
+		<Row>
+			<Type>CIVILIZATION_CLINUIT</Type>
+			<X>158</X>
+			<Y>83</Y>
+		</Row>
+	</Civilizations_YagemStartPosition>
+	<!-- +++++++++++++++++++++++++++++ -->
+	<!-- Earth Huge map start position -->
+	<!-- +++++++++++++++++++++++++++++ -->
+	<Civilizations_YahemStartPosition>
+		<Row>
+			<Type>CIVILIZATION_CLINUIT</Type>
+			<X>35</X>
+			<Y>70</Y>
+		</Row>
+	</Civilizations_YahemStartPosition>
+	<!-- ++++++++++++++++++++++++++++++++++ -->
+	<!-- Earth Cordiform map start position -->
+	<!-- ++++++++++++++++++++++++++++++++++ -->
+	<Civilizations_CordiformStartPosition>
+		<Row>
+			<Type>CIVILIZATION_CLINUIT</Type>
+			<X>158</X>
+			<Y>83</Y>
+		</Row>
+	</Civilizations_CordiformStartPosition>
+</GameData>

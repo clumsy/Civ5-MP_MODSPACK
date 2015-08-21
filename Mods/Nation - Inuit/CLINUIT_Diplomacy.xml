@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/11/2013 8:40:42 PM -->
+
+<!--Copyright Firaxis Games 2010 -->
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_CLEKEUHNICK">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_CLEKEUHNICK_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CLEKEUHNICK">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_CLEKEUHNICK_DEFEATED%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CLEKEUHNICK">
+			<ResponseType>RESPONSE_GREETING_POLITE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_CLEKEUHNICK_POLITE_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CLEKEUHNICK">
+			<ResponseType>RESPONSE_GREETING_NEUTRAL_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_CLEKEUHNICK_NEUTRAL_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CLEKEUHNICK">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_CLEKEUHNICK_HOSTILE_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CLEKEUHNICK">
+			<ResponseType>RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_CLEKEUHNICK_HOSTILE_AGGRESSIVE_MILITARY_WARNING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CLEKEUHNICK">
+			<ResponseType>RESPONSE_EXPANSION_SERIOUS_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_CLEKEUHNICK_EXPANSION_SERIOUS_WARNING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CLEKEUHNICK">
+			<ResponseType>RESPONSE_REQUEST</ResponseType>
+			<Response>TXT_KEY_LEADER_CLEKEUHNICK_RESPONSE_REQUEST%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CLEKEUHNICK">
+			<ResponseType>RESPONSE_LUXURY_TRADE</ResponseType>
+			<Response>TXT_KEY_LEADER_CLEKEUHNICK_RESPONSE_LUXURY_TRADE%</Response>
+		</Row>
+		<Row LeaderType="LEADER_CLEKEUHNICK">
+			<ResponseType>RESPONSE_OPEN_BORDERS_EXCHANGE</ResponseType>
+			<Response>TXT_KEY_LEADER_CLEKEUHNICK_OPEN_BORDERS_EXCHANGE%</Response>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<!--General phrases -->
+
+		<!--Greeting (first time meeting) -->
+		<Row Tag="TXT_KEY_LEADER_CLEKEUHNICK_FIRSTGREETING_1">
+			<Text>A newcomer. Let us work together to prepare for the next disaster, so that we may both stand before it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CLEKEUHNICK_FIRSTGREETING_2">
+			<Text>Come, let us trade! It is good to know many people, to barter with them all.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CLEKEUHNICK_FIRSTGREETING_3">
+			<Text>The night grows long, but with it comes new faces. Let us get to know each other in peace.</Text>
+		</Row>
+		<!--Defeated and removed from game -->
+		<Row Tag="TXT_KEY_LEADER_CLEKEUHNICK_DEFEATED_1">
+			<Text>We will not be forgotten. You cannot find and stop us all.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CLEKEUHNICK_DEFEATED_2">
+			<Text>Our spirits will haunt this place, waiting for you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CLEKEUHNICK_DEFEATED_3">
+			<Text>I suppose that you are the new disaster.</Text>
+		</Row>
+		<!--Greetings (While Happy) -->
+		<Row Tag="TXT_KEY_LEADER_CLEKEUHNICK_POLITE_HELLO_1">
+			<Text>It is good to see you again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CLEKEUHNICK_POLITE_HELLO_2">
+			<Text>We welcome you to our homes.</Text>
+		</Row>
+		<!--Greetings (While Neutral) -->
+		<Row Tag="TXT_KEY_LEADER_CLEKEUHNICK_NEUTRAL_HELLO_1">
+			<Text>Come, trade. Barter.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CLEKEUHNICK_NEUTRAL_HELLO_2">
+			<Text>Have you come to share our lands?</Text>
+		</Row>
+		<!--Greetings (While Angry) -->
+		<Row Tag="TXT_KEY_LEADER_CLEKEUHNICK_HOSTILE_HELLO_1">
+			<Text>You have come to despoil our land and anger the spirits. Do not think we do not see this.</Text>
+		</Row> 
+		<Row Tag="TXT_KEY_LEADER_CLEKEUHNICK_HOSTILE_HELLO_2">
+			<Text>Do what you will, quickly. Then leave us.</Text>
+		</Row>
+		<!--Warns you about your army being too aggressive-->
+		<Row Tag="TXT_KEY_LEADER_CLEKEUHNICK_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>We see your forces crouching at our borders. Have you come for war, or just to try to scare us? It takes more to scare us than just a few men.</Text>
+		</Row>
+		<!--Stop building cities near me.-->
+		<Row Tag="TXT_KEY_LEADER_CLEKEUHNICK_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Stop settling near us. We are the masters of these lands, and we will not allow them to be taken from us.</Text>
+		</Row>
+		<!--Asks for something-->
+		<Row Tag="TXT_KEY_LEADER_CLEKEUHNICK_RESPONSE_REQUEST_1">
+			<Text>We want to trade with you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CLEKEUHNICK_RESPONSE_LUXURY_TRADE_1">
+			<Text>This is indeed a good trade.</Text>
+		</Row>
+		<!--Asks for Open Borders-->
+		<Row Tag="TXT_KEY_LEADER_CLEKEUHNICK_OPEN_BORDERS_EXCHANGE_1">
+			<Text>Let us expand our horizons and visit each others' lands.</Text>
+		</Row>
+	</Language_en_US>
+	<Language_KO_KR>
+		<!--General phrases -->
+
+		<!--Greeting (first time meeting) -->
+		<Row Tag="TXT_KEY_LEADER_CLEKEUHNICK_FIRSTGREETING_1">
+			<Text>이방인이여. 우리 서로 협력하여 다음 재앙의 대비를 합시다, 그럼으로 우리 모두 그것을 극복할 수 있을 것이오.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CLEKEUHNICK_FIRSTGREETING_2">
+			<Text>어서 오시오, 우리 거래합시다! 많은 이들을 알고 지내는 것은 좋은 일이오, 그들 모두와 물물교환을 할 수 있으니 말이지.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CLEKEUHNICK_FIRSTGREETING_3">
+			<Text>밤이 길어지는군, 하지만 그와함께 새 손님이 왔구려. 우리 평화속에서 서로에 대해 알아봅시다.</Text>
+		</Row>
+		<!--Defeated and removed from game -->
+		<Row Tag="TXT_KEY_LEADER_CLEKEUHNICK_DEFEATED_1">
+			<Text>우리는 잊혀지지 않소. 그대는 결코 우리 모두를 찾아내, 멈출 수 없을 것이오.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CLEKEUHNICK_DEFEATED_2">
+			<Text>우리들의 혼령이 이 땅을 맴돌 거요, 당신을 기다리면서 말이오.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CLEKEUHNICK_DEFEATED_3">
+			<Text>내 추측컨데 당신이야말로 새로운 재앙이 틀림없소.</Text>
+		</Row>
+		<!--Greetings (While Happy) -->
+		<Row Tag="TXT_KEY_LEADER_CLEKEUHNICK_POLITE_HELLO_1">
+			<Text>당신을 다시 만나서 반갑소.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CLEKEUHNICK_POLITE_HELLO_2">
+			<Text>우리 고향에 온것을 환영하오.</Text>
+		</Row>
+		<!--Greetings (While Neutral) -->
+		<Row Tag="TXT_KEY_LEADER_CLEKEUHNICK_NEUTRAL_HELLO_1">
+			<Text>오시오, 거래합시다. 물물교환은 어떻소.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CLEKEUHNICK_NEUTRAL_HELLO_2">
+			<Text>우리들의 토지를 함께 나누기 위해 찾아왔소?</Text>
+		</Row>
+		<!--Greetings (While Angry) -->
+		<Row Tag="TXT_KEY_LEADER_CLEKEUHNICK_HOSTILE_HELLO_1">
+			<Text>그대는 우리 땅을 황폐화시키고 혼령들을 노하게 하러왔군. 우리가 이것을 못 볼거라 생각치 마시오.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CLEKEUHNICK_HOSTILE_HELLO_2">
+			<Text>빠르게 그대의 용건만을 말하시오. 그리고 우리를 떠나시오.</Text>
+		</Row>
+		<!--Warns you about your army being too aggressive-->
+		<Row Tag="TXT_KEY_LEADER_CLEKEUHNICK_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>우리는 그대의 군대가 우리 국경에 웅크리고 있는 것을 목격했소. 그대는 전쟁을 하러 왔는지, 아니면 우리에게 겁을 주려는 것이오? 우리를 겁주려면 단순히 군사 이상의 것이 필요 할 거요.</Text>
+		</Row>
+		<!--Stop building cities near me.-->
+		<Row Tag="TXT_KEY_LEADER_CLEKEUHNICK_EXPANSION_SERIOUS_WARNING_1">
+			<Text>우리 근처에 확장하지 마시오. 우리가 바로 그 땅들의 주인이오, 그리고 우리는 그 땅들이 우리들로부터 빼앗기는걸 좌시하고 있지만은 않을 것이오.</Text>
+		</Row>
+		<!--Asks for something-->
+		<Row Tag="TXT_KEY_LEADER_CLEKEUHNICK_RESPONSE_REQUEST_1">
+			<Text>우리는 당신과 교역을 하고 싶소.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CLEKEUHNICK_RESPONSE_LUXURY_TRADE_1">
+			<Text>이것은 정말이지 좋은 교역이었소.</Text>
+		</Row>
+		<!--Asks for Open Borders-->
+		<Row Tag="TXT_KEY_LEADER_CLEKEUHNICK_OPEN_BORDERS_EXCHANGE_1">
+			<Text>우리 서로간의 지평선을 넓혀 서로간의 영토를 방문할 수 있게 합시다.</Text>
+		</Row>
+	</Language_KO_KR>
+</GameData>

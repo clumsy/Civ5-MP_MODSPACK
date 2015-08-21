@@ -1,0 +1,7 @@
+<Asset>
+  <Mesh file="seals_fished_pl" source="Max" />
+  <Texture file="Workboat_DIFF.dds" source="Max" />
+  <Texture file="Workboat_SREF.dds" source="Max" />
+  <Texture file="Resource_Whale_DIFF.dds" source="Max" />
+  <Texture file="black.dds" source="Max" />
+</Asset>

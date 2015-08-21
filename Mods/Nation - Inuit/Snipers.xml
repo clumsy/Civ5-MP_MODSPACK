@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/10/2014 4:25:18 PM -->
+<GameData>
+	<UnitClasses>
+		<Row>
+			<Type>UNITCLASS_INUIT_SNIPER</Type>
+			<Description>TXT_KEY_UNIT_INUIT_SNIPER</Description>
+			<DefaultUnit>UNIT_INUIT_SNIPER</DefaultUnit>
+		</Row>
+	</UnitClasses>
+	<Technologies>
+		<Row>
+			<Type>TECH_SNIPERFAKER</Type>
+			<Cost>-1</Cost>
+			<Description>TXT_KEY_TECH_SNIPERFAKER_TITLE</Description>
+			<Civilopedia>TXT_KEY_TECH_SNIPERFAKER_DESC</Civilopedia>
+			<Help>TXT_KEY_TECH_SNIPERFAKER_HELP</Help>
+			<Era>ERA_ANCIENT</Era>
+			<Trade>false</Trade>
+			<GoodyTech>false</GoodyTech>
+			<Disable>true</Disable>
+			<GridX>0</GridX>
+			<GridY>50</GridY>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>CLINUIT_ATLAS</IconAtlas>
+		</Row>
+	</Technologies>
+	<Units>
+		<Row>
+			<Class>UNITCLASS_INUIT_SNIPER</Class>
+			<Type>UNIT_INUIT_SNIPER</Type>
+			<PrereqTech>TECH_SNIPERFAKER</PrereqTech>
+			<Combat>35</Combat>
+			<RangedCombat>70</RangedCombat>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
+			<Moves>3</Moves>
+			<Range>2</Range>
+			<CombatClass>UNITCOMBAT_GUN</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_DEFENSE</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_INUIT_SNIPER</Description>
+			<Civilopedia>TXT_KEY_CIV5_INDUSTRIAL_INUIT_SNIPER_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_INUIT_SNIPER_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_INUIT_SNIPER</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<ObsoleteTech>TECH_MOBILE_TACTICS</ObsoleteTech>
+			<Pillage>true</Pillage>
+			<RangeAttackIgnoreLOS>true</RangeAttackIgnoreLOS>
+			<IgnoreBuildingDefense>false</IgnoreBuildingDefense>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_MECHANIZED_INFANTRY</GoodyHutUpgradeUnitClass>
+			<AdvancedStartCost>35</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<Conscription>6</Conscription>
+			<UnitArtInfo>ART_DEF_UNIT_INUIT_SNIPER</UnitArtInfo>
+			<UnitFlagAtlas>INUIT_SNIPER_FLAG</UnitFlagAtlas>
+			<UnitFlagIconOffset>0</UnitFlagIconOffset>
+			<IconAtlas>INUIT_SNIPER_ICON</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+		</Row>
+	</Units>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_SNIPER_DAMAGE</Type>
+			<Description>TXT_KEY_PROMOTION_SNIPER_DAMAGE</Description>
+			<Help>TXT_KEY_PROMOTION_SNIPER_DAMAGE_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>35</PortraitIndex>
+			<LostWithUpgrade>false</LostWithUpgrade>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<CityAttack>-50</CityAttack>
+			<PediaEntry>TXT_KEY_PEDIA_PROMOTION_SNIPER_DAMAGE</PediaEntry>
+		</Row>
+	</UnitPromotions>
+	<UnitPromotions_UnitCombatMods>
+		<Row>
+			<PromotionType>PROMOTION_SNIPER_DAMAGE</PromotionType>
+			<UnitCombatType>UNITCOMBAT_ARMOR</UnitCombatType>
+			<Modifier>-50</Modifier>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_SNIPER_DAMAGE</PromotionType>
+			<UnitCombatType>UNITCOMBAT_HELICOPTER</UnitCombatType>
+			<Modifier>-50</Modifier>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_SNIPER_DAMAGE</PromotionType>
+			<UnitCombatType>UNITCOMBAT_NAVALMELEE</UnitCombatType>
+			<Modifier>-50</Modifier>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_SNIPER_DAMAGE</PromotionType>
+			<UnitCombatType>UNITCOMBAT_NAVALRANGED</UnitCombatType>
+			<Modifier>-50</Modifier>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_SNIPER_DAMAGE</PromotionType>
+			<UnitCombatType>UNITCOMBAT_SUBMARINE</UnitCombatType>
+			<Modifier>-50</Modifier>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_SNIPER_DAMAGE</PromotionType>
+			<UnitCombatType>UNITCOMBAT_CARRIER</UnitCombatType>
+			<Modifier>-50</Modifier>
+		</Row>
+	</UnitPromotions_UnitCombatMods>
+	<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_INUIT_SNIPER</UnitType>
+			<UnitAIType>UNITAI_ATTACK</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_INUIT_SNIPER</UnitType>
+			<UnitAIType>UNITAI_DEFENSE</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_INUIT_SNIPER</UnitType>
+			<UnitAIType>UNITAI_EXPLORE</UnitAIType>
+		</Row>
+	</Unit_AITypes>
+	<Unit_Flavors>
+		<Row>
+			<UnitType>UNIT_INUIT_SNIPER</UnitType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>12</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_INUIT_SNIPER</UnitType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>12</Flavor>
+		</Row>
+	</Unit_Flavors>
+	<Unit_FreePromotions>
+		<Row>
+			<UnitType>UNIT_INUIT_SNIPER</UnitType>
+			<PromotionType>PROMOTION_MUST_SET_UP</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_INUIT_SNIPER</UnitType>
+			<PromotionType>PROMOTION_RANGE</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_INUIT_SNIPER</UnitType>
+			<PromotionType>PROMOTION_SNIPER_DAMAGE</PromotionType>
+		</Row>
+	</Unit_FreePromotions>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_UNIT_INUIT_SNIPER">
+			<Text>Sniper</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_INDUSTRIAL_INUIT_SNIPER_TEXT">
+			<Text>During the World Wars, the Canadian military made use of Inuit snipers, since the Inuit way of life, with its emphasis on hunting in barren wildernesses, lends itself to training up the world's greatest snipers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_INUIT_SNIPER_STRATEGY">
+			<Text>Snipers are best used to eliminate enemy infantry forces from beyond their reach.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_INUIT_SNIPER">
+			<Text>Has incredible range and high damage, but deals reduced damage to Armored targets and to Cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SNIPER_DAMAGE">
+			<Text>Hollowpoints</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SNIPER_DAMAGE_HELP">
+			<Text>Damage against Armored targets and Cities reduced by 50%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_SNIPERFAKER_TITLE">
+			<Text>Hidden Knowledge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_SNIPERFAKER_DESC">
+			<Text>You don't see this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_SNIPERFAKER_HELP">
+			<Text>You really don't see this.</Text>
+		</Row>
+	</Language_en_US>
+	<Language_KO_KR>
+
+		<Row Tag="TXT_KEY_UNIT_INUIT_SNIPER">
+
+			<Text>저격수</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_INDUSTRIAL_INUIT_SNIPER_TEXT">
+
+			<Text>세계대전 동안, 캐나다 군부는 이누이트족 저격수들을 기용했으며, 이는 야생의 불모지에서 사냥하는 이누이트족의 생활 방식에 기인한 것으로, 이들을 세계에서 제일 가는 저격수로 훈련시키는 데 일조했습니다.</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_UNIT_INUIT_SNIPER_STRATEGY">
+
+			<Text>저격수들은 적 보병 부대들을 그들의 사거리 밖에서 제거하는데 있어서 제일 효율적인 유닛입니다.</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_UNIT_HELP_INUIT_SNIPER">
+
+			<Text>뛰어난 사거리와 높은 피해량을 보유하지만, 기갑 유닛이나 도시들에 훨씬 적은 피해를 가합니다.</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_PROMOTION_SNIPER_DAMAGE">
+
+			<Text>할로포인트 탄환</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_PROMOTION_SNIPER_DAMAGE_HELP">
+
+			<Text>기갑 유닛과 도시들에 가하는 피해량이 50%로 줄어듭니다.</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_TECH_SNIPERFAKER_TITLE">
+
+			<Text>숨겨직 지식</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_TECH_SNIPERFAKER_DESC">
+
+			<Text>이걸 볼 일 없습니다</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_TECH_SNIPERFAKER_HELP">
+
+			<Text>정말로 볼 일 없습니다.</Text>
+
+		</Row>
+	</Language_KO_KR>
+</GameData>

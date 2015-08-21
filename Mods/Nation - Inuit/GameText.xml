@@ -1,0 +1,843 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/5/2013 9:04:33 AM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_CLINUIT_DESC">
+			<Text>The Inuit People</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_CLINUIT_SHORT_DESC">
+			<Text>The Inuit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_CLINUIT_ADJECTIVE">
+			<Text>Inuit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_CLINUIT_TEXT">
+			<Text>On a day when fire fell from the sky and burst from the earth, our people thanked you, Ekeuhnick, for their lives. As the land froze into a snowy wasteland, our people relied on you to teach us how to survive. Thanks to you, our people have always been the mightiest of survivors. With your guidance, we dared persist amid the frozen wilds of the Arctic. Eking out a living in a hostile land, we learned to master even the bleak winter landscape, clawing ourselves to the top of the food chain in a world populated by bears, walrus, and sudden blizzards.[NEWLINE][NEWLINE]Unique among peoples, we bound our people together through cultural folklore and histories which have become a national treasure valued the whole world over. Our society and unique way of life has attracted the attention of the international community.[NEWLINE][NEWLINE]Now, we look to you once more, Ekeuhnick. Our futures are fraught with peril, but your wisdom is unmatched. Will you lead us to new heights in a new land? Can you avoid the disasters of war, of starvation, of poverty? Can you mold and build an empire from within your lands that will stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IVAVIK">
+			<Text>Ivvavik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IQALUIT">
+			<Text>Iqaluit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_INUVIK">
+			<Text>Inuvik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KANGIQTINIQ">
+			<Text>Kangiqtiniq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AUYUITTUQ">
+			<Text>Auyuittuq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SIRMILIK">
+			<Text>Sirmilik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_UKKUSIKSALIK">
+			<Text>Ukkusiksalik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FROBISHER">
+			<Text>Qamani'tuaq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NIAQUNNGUUT">
+			<Text>Niaqunnguut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MITIMATILIK">
+			<Text>Mitimatilik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KINGAIT">
+			<Text>Kingait</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_APEXHILL">
+			<Text>Qurluqtuq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DORSET">
+			<Text>Qausuittuq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AKVILIGJUAQ">
+			<Text>Akviligjuaq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TUNINUQ">
+			<Text>Tuninuq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RANKININLET">
+			<Text>Kangirliniq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_QIKIQTARJUAQ">
+			<Text>Qikiqtarjuaq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SALLIQ">
+			<Text>Salliq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SANIKILUAQ">
+			<Text>Sanikiluaq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KUGAARUK">
+			<Text>Kugaaruk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MIDBAFFIN">
+			<Text>Mid Baffin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PANGNIRTUNG">
+			<Text>Pangnirtung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IPIARJUK">
+			<Text>Ipiarjuk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IKALUKTUTIAK">
+			<Text>Ikaluktutiak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IGLOOLIK">
+			<Text>Igloolik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GJOAHAVEN">
+			<Text>Uqsuqtuuq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TALOYOAK">
+			<Text>Taloyoak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TUKIK">
+			<Text>Kangiqtiniq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HALLBEACH">
+			<Text>Sanirajak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IGLULIGAARJUK">
+			<Text>Igluligaarjuk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CLEKEUHNICK_LIVED">
+			<Text>Unknown</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CLEKEUHNICK">
+			<Text>Ekeuhnick</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CLEKEUHNICK_NAME">
+			<Text>Ekeuhnick</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CLEKEUHNICK_SUBTITLE">
+			<Text>Elder of the Inuit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_CLINUIT">
+			<Text>Ekeuhnick</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CLINUIT_1">
+			<Text>Apanuugak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CLINUIT_2">
+			<Text>Issitoq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CLINUIT_3">
+			<Text>Ka-ha-si</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CLINUIT_4">
+			<Text>Taktuq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CLINUIT_5">
+			<Text>Atanarjuat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CLINUIT_6">
+			<Text>Eben</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CLINUIT_7">
+			<Text>Kunikpaa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CLINUIT_8">
+			<Text>Aguta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CLINUIT_9">
+			<Text>Tiguaq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CLINUIT_10">
+			<Text>Tuuluuquaq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CLINUIT_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CLINUIT_TEXT_1">
+			<Text>
+				The Inuit are a tribal people that live in northern Canada, Alaska and Greenland. They have lived there since around 1000 AD, and are the descendants of the ancient Thule culture, which is thought by some scholars to have crossed over the Bering Strait from Asia Alaska, later taking up most of the space in the most northerly parts of the American continent. Thule expansion effectively wiped out other ancient cultures, such as the Dorset, who lacked the dogs brought over by the Thule. For around 500 years, the Inuit had some measure of peace, with no centralized government and more of a cultural, collective union than any sort of nation. Soon, the Europeans came, and attempted to settle Inuit lands, making life worse for them. In the 20th century, however, the Inuit experienced a cultural renewal, and they have been treated more fairly by the others around them. Their cultures and traditions are respected the world over, and their quality of life has improved by having better access to health care. They still face many problems, caught up in the struggle to preserve their lands and ways of life amidst the pressures brought by progress and resource extraction at the hands of the Americans, Canadians, and Danes.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CLINUIT_HEADING_2">
+			<Text>Climate and Geography</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CLINUIT_TEXT_2">
+			<Text>
+				The Inuit settled and continue to live along the extreme northern coasts of Alaska, Canada, and Greenland. This far north, the planet gets very cold, and beneath the soil, the ice never melts. This would be in the areas where the snow melts, of course. Because of the ever-present ice, trees do not grow, as they cannot root properly. This phenomenon results in barren, windswept Tundra, populated by Caribou, Bears, and Wolves, among other animals. Temperatures vary greatly; they can go down to around -30° Celsius (-22 Fahrenheit) and can go up to around 30° Celsius (86° F) in the summer. Furthermore, because of the extreme angle of the Earth to the Sun, much of the Inuit land experiences summer months where the Sun never goes down, and winter months of perpetual darkness where the Sun never rises.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CLINUIT_HEADING_3">
+			<Text>The Great Disasters</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CLINUIT_TEXT_3">
+			<Text>Inuit legend and folklore tells of great disasters which shaped the Inuit people. According to these tales, the lands currently dwelt by the Inuit was once much warmer, lush, and green. Then a great disaster happened, in the form of a meteor, comet, or volcanic eruption. After the disaster, the land grew cold and many cultures died out -- but not the Inuit. As strange as this legend may seem, Historians believe that it did happen, and that, whatever the disaster was, it has left a permanent mark on the face of the world.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CLINUIT_HEADING_4">
+			<Text>Arrival of the Colonists</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CLINUIT_TEXT_4">
+			<Text>
+				In 1492, Christopher Columbus made the first voyage to America. Aside from the fact that he wasn’t first, this proved to be very important, because it got the Europeans interested in civilizing the land. The colonialists poured in, but the two that we really need to worry about here are the French and the British, rivals since time immemorial. In 1576, the British, while looking for a quick way to get from one side of America to the other by sea, managed to stumble upon the Inuit, who were busy minding their own business and keeping to their own way of life. Frobisher, the leader of the expedition, got some men to try to establish contact with the Inuit. Instead, the men disappeared. Unsatisfied with this result, Frobisher took the typical colonial view and took an Inuk to Europe, somewhat against his wishes. It turned out that the missing sailors were treated quite well by the Inuit, which may account for why they didn’t want to go back to Europe. Soon enough, missionaries poured in to help convert the heathen Inuit to the one true faith (which the Europeans couldn’t quite decide upon,) traders decided to sell their stuff to the Inuit, and colonists set up settlements all around the place for Inuit use – and for the use of British and French settlers.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CLINUIT_HEADING_5">
+			<Text>Life with the Colonists</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CLINUIT_TEXT_5">
+			<Text>
+				The Inuit way of life changed drastically with the arrival of the colonialists. For starters, the Europeans spread diseases that the Inuit had no immunity against. This, coupled with the Inuit's limited medical knowhow -- not much more limited that Europe's at the time -- resulted in massive population losses. The Colonies also had a mandate that harmed the Inuit: they were created to gather, on a good day, and exploit if necessary, the resources of the New World. Furthermore, colonial trading corporations, such as the Hudson's Bay Company, occupied much of the territory in and around the Inuit lands. This occupation affected Inuit trade with its neighbours, as they were now harder to reach, so they had to turn to exchanging resources with the British and the French. However, it wasn’t all doom and gloom. The Inuit were still able to trade a considerable amount of resources that they didn’t have before from the British, and were intermarried into their families. The presence of the Hudson's Bay Company driving a wedge through the territories helped stop warfare between the Inuit and their enemies -- at the possible cost of skirmishes with the Company itself. The Hudson's Bay Company also employed Inuk to do whaling and fishing for them. The British in particular were able to settle down peacefully with the Inuit, and gave several well-documented reports on their average way of life. This was a small-scale version of what is known as the Columbian Exchange; Europeans gave items to the Native Americans, and vice versa. In many ways, trade was better for both parties, and the Inuit didn’t lose as badly as they are often said to have.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CLINUIT_HEADING_6">
+			<Text>Life in the Dominion of Canada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CLINUIT_TEXT_6">
+			<Text>
+				Life in the British Dominion of Canada was of a fairly high standard, taking other Native-Colonial relations into account. Although the British were not overly sympathetic towards the Inuit, they never regarded them as a threat, and had good relations with them most of the time. Given the vast area covered by the Inuit, the Royal Canadian Mounted Police (or “Mounties”) were set up to patrol the ice-covered landscape. The region required patrolling, but the land was of very little use to the British itself, but useful to claim to avoid further threats and access to a passage to the Pacific Ocean. The Inuit were soon brought under full control of the Dominion of Canada, and were brought further towards full contact over the 19th Century, the last of them being contacted in the 1920s. Missionaries continued to roam the land to convert the Inuit to Christianity, and managed to do so very effectively through rituals designed to suit the Inuit. Multiple expeditions were set up to find out more about the Inuit territory. Several stations were set up to process the Inuit produce, and this was later shipped off to the British areas. Overall, the Inuit lifestyle contrasted with the colonial one, but they were able to get on remarkably well.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CLINUIT_HEADING_7">
+			<Text>Use for the Inuit lands</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CLINUIT_TEXT_7">
+			<Text>
+				In 1939, Canada, now a nation in her own right, declared war on Germany, and the Inuit lands had to be taken advantage of. They had a large amount of oil resources, and they began to become increasingly useful with the advent of modern planes. Military bases were established in the Inuit territory during the Cold War, to defend against possible attacks from the Soviet Union. These bases meant further contact with the Europeans, even though their main usage for the territory was to help defend Canada, and not to help the Inuit. However, the increased Canadian population had several benefits, including guns, which helped the Inuit in their hunting. Medicine was also introduced to the Inuit lands; this saw the growth rate expand rapidly, and the Inuit were able to expand further. But not all changes were good. The 1950s saw the goverment seeking to quell the Inuit culture because it was expanding too much and seemed to be causing a lot of problems with uncontrolled hunting. However, in 1953, Louis St. Laurent, the Prime Minister at the time, ordered 40 camps to be set up to help with education, healthcare and general necessities for the Inuit people, since he recognised a deprivation of these people from previous years. A lot of Inuit moved to these encampments as they offered a range of things, from clothing to housing, for them to use.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CLINUIT_HEADING_8">
+			<Text>
+				Recognition of the Inuit
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CLINUIT_TEXT_8">
+			<Text>
+				During the 1960s, the Inuit mostly lived in permanent housing in these settlements, for the most part abandoning their traditional way of life. However, this was a very dangerous move for them. As they had stuck to their Arctic ways for centuries, they had no further means of self-sufficiency to keep a strong economy. However, the sixties also saw a rise in Inuit political activity. Their way of life had almost completely died out by the 1980s, and they were little more than an impoverished minority in the harsh Canadian north. Through political activism and a renewed interest in their traditional culture, a renewal began for the Inuit, who had survived without any outside help in one of the harshest areas in the world for nearly a millennium. Through a lot of tough politics, they were able to create a better life for the Inuit people. In 1982, a milestone was reached with the signing of the Canadian Constitution act – this, at long last, recognised the Inuit as an Aboriginal people of Canada, although not a sovereign First Nation. As with any people that gets some degree of independence, the Inuit wanted a land to call (quite literally) “Home”. In 1993, the first steps towards their demands were met with the planning for a region of Canada that the Inuit were entitled to use. The name bestowed upon it was “Nunavut”, meaning “Our land”. In 1992, elections were held to see the amount of people who wanted separation between Nunavut (roughly corresponding to the Inuit lands before the arrival of the British) and the Northwest Territories, a region of Canada that covered the cold, barren landscape of North Canada. 85% of the inhabitants voted in favour of separating the two regions, and the transition was completed on April 1, 1999, with the founding of a new territory for the Inuit people.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CLINUIT_HEADING_9">
+			<Text>
+				The North Today
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_CLINUIT_TEXT_9">
+			<Text>The Inuit culture remains strong to this day. They still build igloos, and go out on snow sledges just like back in the old times. But now their way of life is assisted by items such as rifles, which help them to get food, by . They are represented in Canadian Parliament, albeit on a minor scale, but more so than in Greenland and the USA. There are still a lot of problems threatening their traditional way of life, such as problems with a Western diet, the ongoing search for oil, and a world-high suicide rate. The Inuit way of life is going strong: they have kept to their collectivist roots, not having one main leader for themselves, but rather multiple people that they can look to for advice. The laws of the Inuit are not on paper, but rather based on oral advise. Although the Inuit are now in the nation of Canada, and spread as far as Denmark’s region of Greenland, and the USA’s region of Alaska, they remain true to the traditions they have been taught for hundreds of years; they can only stand by what they have always known, and as long as nobody from the outside poses any threat, the Inuit will continue to carry on living the life they have created for themselves and done well with for thousands of years.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CLEKEUHNICK_HEADING_1">
+			<Text>Ekeuhnick, Inupiat Hero</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CLEKEUHNICK_TEXT_1">
+			<Text>Ekeuhnick's story is shrouded in the ancient past. He is a legendary character of the Inupiat people of Alaska, one of the "Eskimoes" -- meaning, the people of Northern Canada and Alaska that share a way of life with the Inuit and that is distinct from that of the First Nations. Even though Ekeuhnick is known only through oral legend, historians are convinced that he was indeed a real person -- possibly the first of the Inuit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CLEKEUHNICK_HEADING_2">
+			<Text>The Legend of Ekeuhnick</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CLEKEUHNICK_TEXT_2">
+			<Text>According to legend, Northern Alaska was once a warm, temperate climate. Ekeuhnick grew up there, a responsible young man who was loved by all. Everything changed when he met the Prophet Aungayoukuksuk. The prophet warmed him of the impending disaster: fire would rain from the sky and burst from the earth, killing all living creatures in the area. Furthermore, the land would become cold and inhospitable to human life. Ekeuhnick ran home to tell his people, who evacuated at his word because they trusted him.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CLEKEUHNICK_HEADING_3">
+			<Text>The Great Disaster</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CLEKEUHNICK_TEXT_3">
+			<Text>As the Prophet had predicted, the sky rained fire and the world of the Inupiat turned to a frozen wasteland. Ekeuhnick's people did not know how to survive in the new, harsh environment, but Ekeuhnick's innovative thinking brought about new ways to combat the new environment: fire, dogsleds, and parkas. Under Ekeuhnick's guidance, his people not only survived the harsh transition, but also became the modern Inuit peoples, whose culture has lasted to this day.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CLEKEUHNICK_HEADING_4">
+			<Text>Judgement of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CLEKEUHNICK_TEXT_4">
+			<Text>According to the Legend of Ekeuhnick, he managed to single-handedly save his people from certain death, and then train them to live in a new environment whose barren, harsh dark and cold is matched only by the Norweigan laplands. His lessons, beliefs, and techniques have been passed on for hundreds of years, becoming the foundation for a unique and valuable culture and way of life that would have been wiped out without his leadership. Clearly, Ekeuhnick's influence has stood the test of time.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CLINUIT_ADOPTCABLEBOWS_NAME">
+			<Text>Adopt Cable-Backed Bows</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CLINUIT_ADOPTCABLEBOWS_DESC">
+			<Text>By using drift wood and sinew, we have learned to improve the strength of our bows. We should spread this new technology to all Inuit peoples.[NEWLINE][NEWLINE]Requirements:[NEWLINE][ICON_BULLET]Player must be Inuit.[NEWLINE][ICON_BULLET]At least 3 sources of [ICON_RES_DEER] Deer or [ICON_RES_WHALE] Whales.[NEWLINE][ICON_BULLET]May only be enacted once per game.[NEWLINE]Costs:[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold [NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates [NEWLINE]Rewards: [NEWLINE][ICON_BULLET]Archery units trained in Coastal Cities gain +15 EXP.[NEWLINE][ICON_BULLET]These units gain an additional +5 EXP for each Deer and Whale worked by the city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CLINUIT_ADOPTCABLEBOWS_ADOPTED">
+			<Text>By using drift wood and sinew, we have learned to improve the strength of our bows. We should spread this new technology to all Inuit peoples.[NEWLINE][NEWLINE]Rewards: [NEWLINE][ICON_BULLET]Archery units trained in Coastal Cities gain +15 EXP.[NEWLINE][ICON_BULLET]These units gain an additional +5 EXP for each Deer and Whale worked by the city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CLINUIT_ELITESNIPERS_NAME">
+			<Text>Train Elite Snipers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CLINUIT_ELITESNIPERS_DESC">
+			<Text>A war looms upon the horizon, and thus the Inuit way of life is threatened. Let us turn our skills upon our enemies, and defend our people in this way.[NEWLINE][NEWLINE]Requirements:[NEWLINE][ICON_BULLET]Player must be Inuit.[NEWLINE][ICON_BULLET]Player must have researched Replaceable Parts[NEWLINE][ICON_BULLET]Player must have a Defensive Pact with another nation.[NEWLINE][ICON_BULLET]Can be enacted once per era.[NEWLINE]Costs:[NEWLINE][ICON)BULLET]{1_Gold} [ICON_GOLD] Gold [NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates [NEWLINE]Rewards: [NEWLINE][ICON_BULLET]Gain three Snipers. This is the only way to get Snipers. Snipers have increased range, sight, and movement, but must set up to attack and deal reduced damage to cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CLINUIT_ELITESNIPERS_ADOPTED">
+			<Text>A war looms upon the horizon, and thus the Inuit way of life is threatened. Let us turn our skills upon our enemies, and defend our people in this way.[NEWLINE][NEWLINE]Rewards: [NEWLINE][ICON_BULLET]Gain three Snipers. Snipers have increased range, sight, and movement, but must set up to attack and deal reduced damage to cities.</Text>
+		</Row>
+	</Language_en_US>
+
+	<Language_KO_KR>
+		<Row Tag="TXT_KEY_CIV_CLINUIT_DESC">
+			<Text>이누이트족</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_CLINUIT_SHORT_DESC">
+			<Text>이누이트</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV_CLINUIT_ADJECTIVE">
+
+			<Text>이누이트</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_DAWN_CLINUIT_TEXT">
+
+			<Text> 하늘에서 불이 내려와 대지위에서 폭발하던 날, 우리 민족은 그들의 삶에 대해 당신에게 감사했습니다, 에케우닉이여. 대지가 얼어붙은 눈투성이의 불모지로 변했을 때, 우리 백성들은 당신의 생존방식의 가르침에 의존했습니다. 당신께 감사하게도 우리 민족은 언제나 생존자 중에서 제일 강력했습니다. 당신의 인도하에, 우리는 극지의 얼어붙은 짐승들을 상대할 수 있었으며. 극한의 환경속에서, 주거를 마련할 수 있었고, 제일 추운 겨울을 대처하는 법에도 통달했고, 우리 스스로를 곰과, 바다코끼리와 갑작스런 눈보라가 존재하는 세계의 먹이사슬의 꼭대기까지 올라갈 수 있었나이다.[NEWLINE] [NEWLINE]특별한 사람들로서, 우리들은 백성들을 지금 전 세계의 보물이 된 우리들의 문화적 전승과 역사들속에서 한데 뭉치게했습니다. 우리의 사회와 독창적인 생활 방식은 국제 사회의 관심을 불러모았습니다.[NEWLINE][NEWLINE]이제, 우리는 다시 한 번 당신을 찾습니다, 에케우닉이시여. 우리들의 미래는 위험 속의 두려움에 놓여 있지만, 당신의 지혜에 견줄 것은 아무것도 없습니다. 당신께서 우리들을 새로운 땅에서 새로운 경지까지 이끌어주시겠습니까? 당신께서는 전쟁, 기아, 혹은 빈곤의 재난을 회피하실 수 있으시겠습니까? 당신의 영토를 결속시켜 영원토록 길이 남을 제국을 건설하실 수 있겠습니까?</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_IVAVIK">
+
+			<Text>이바비크</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_IQALUIT">
+
+			<Text>이콸루이트</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_INUVIK">
+
+			<Text>이누비크</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_KANGIQTINIQ">
+
+			<Text>캉긱티닉</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_AUYUITTUQ">
+
+			<Text>아유잇투크</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_SIRMILIK">
+
+			<Text>시르미리크</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_UKKUSIKSALIK">
+
+			<Text>욱쿠식살리크</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_FROBISHER">
+
+			<Text>콰마니톽</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_NIAQUNNGUUT">
+
+			<Text>니악쿤구트</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_MITIMATILIK">
+
+			<Text>미티마틸리크</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_KINGAIT">
+
+			<Text>킹가이트</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_APEXHILL">
+
+			<Text>쿨룩툭</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_DORSET">
+
+			<Text>콰쉿툭</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_AKVILIGJUAQ">
+
+			<Text>아크빌리그주악</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_TUNINUQ">
+
+			<Text>투니눅</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_RANKININLET">
+
+			<Text>캉길리닉</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_QIKIQTARJUAQ">
+
+			<Text>퀴킥타르쥬악</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_SALLIQ">
+
+			<Text>살릭</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_SANIKILUAQ">
+
+			<Text>사니킬루악</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_KUGAARUK">
+
+			<Text>쿠카아루크</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_MIDBAFFIN">
+
+			<Text>미드 바핀</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_PANGNIRTUNG">
+
+			<Text>팡니르퉁</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_IPIARJUK">
+
+			<Text>이피아르죽</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_IKALUKTUTIAK">
+
+			<Text>이칼루크투티아크</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_IGLOOLIK">
+
+			<Text>이글루리크</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_GJOAHAVEN">
+
+			<Text>욱수크투그</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_TALOYOAK">
+
+			<Text>탈로요아크</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_TUKIK">
+
+			<Text>캉긱티닉</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_HALLBEACH">
+
+			<Text>사니라자크</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_IGLULIGAARJUK">
+
+			<Text>이글루리가르주크</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CLINUIT_HEADING_1">
+
+			<Text>역사</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CLINUIT_TEXT_1">
+
+			<Text>에케우닉은 이누이트족의 첫 지도자들 중 한명이라고 믿어져오고 있습니다. 전설에 따르면 그는 그의 백성들에게 그들의 땅을 얼어붙게 만들 다가오는 재앙에 대하여 경고했습니다. 그는 또한 그들에게 새로운 혹독한 환경에서 살아남는 법을 가르쳤습니다.</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CLINUIT_LIVED">
+
+			<Text>불명</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_LEADER_CLEKEUHNICK">
+
+			<Text>에케우닉</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CLINUIT_NAME">
+
+			<Text>에케우닉</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CLINUIT_SUBTITLE">
+
+			<Text>이누이트족의 장로</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_LEADER_CLINUIT">
+
+			<Text>에케우닉</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_CLINUIT_1">
+
+			<Text>아파누가크</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_CLINUIT_2">
+
+			<Text>이씨토크</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_CLINUIT_3">
+
+			<Text>카하시</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_CLINUIT_4">
+
+			<Text>탁툭</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_CLINUIT_5">
+
+			<Text>아타나르주앗</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_CLINUIT_6">
+
+			<Text>툭큠마붕가</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_CLINUIT_7">
+
+			<Text>쿠닉파</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_CLINUIT_8">
+
+			<Text>아구타</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_CLINUIT_9">
+
+			<Text>티구악</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_CLINUIT_10">
+
+			<Text>툴루우콱</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_CLINUIT_HEADING_1">
+
+			<Text>역사</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_CLINUIT_TEXT_1">
+
+			<Text> 이누이트는 캐나다 북부, 알래스카 및 그린랜드에 거주하는 원시부족민의 형태를 이루는 민족입니다. 그들은 서기 1000년 가량 부터 그 곳에 살아온, 고대 툴레 문화의 후예들로서, 아시아 알래스카로부터 베링 해협을 건너온 지식인들로 여겨지고 있고, 이후 아메리카 대륙 북부의 대부분의 지역을 차지하게 됩니다. 툴레의 확장은 다른 고대 문명들을 완전히 쓸어버렸으며, 이 중에는 툴레가 데려온 개들이 부족했던 도셋도 포함됩니다. 500년간, 이누이트는 중앙집권형 정부나 문화, 집단 연합구조 없이 다른 다른 어떤 종류 국가들과도 평화를 유지하며 지내왔습니다. 금새, 유럽인들이 도착했으며, 이누이트의 영토에 정착을 시도했고, 그들의 삶을 더욱 힘들게 만들었습니다. 하지만, 20세기에 이누이트들은 문화적 개선을 경험하였으며, 그들 주위의 다른 민족들에게 좀 더 공정한 대우를 받기 시작했습니다. 그들의 문화와 전통들은 세계적으로 존중받고 있으며, 보다 나은 보건의료를 접함으로 그들의 삶의 질 또한 개선되었습니다. 그들은 여전히 다수의 문제들에 직면해 있으며, 그들의 영토와 삶의 방식을 보존하기 위해, 미국인, 캐나다인 및 덴마크인들에 의한 발전 및 자원 채취로 인한 압력에 대항해 몸부림치고 있습니다. </Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_CLINUIT_HEADING_2">
+
+			<Text>기후와 지질학</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_CLINUIT_TEXT_2">
+
+			<Text> 이누이트족은 알래스카, 캐나다 및 그린랜드의 혹독한 북해안에 정착해 지금까지 살고 있습니다.이 먼 북쪽의, 행성은 무척 추워지며, 흙 아래에 결코 녹지 않는 얼음이 있습니다. 이는 당연하겠지만 눈이 녹는 지역에 있을 것입니다. 만년설로 인해, 나무가 제대로 뿌리내리지 못해 자라지 못합니다. 이 현상은 순록, 곰, 늑대 및 다른 동물들이 서식하는, 척박하고, 바람이 몰아치는 툰드라 지대로 나타났습니다. 기온차가 굉장히 상당합니다; 이는 영하 30°C(22˚F)까지 내려갈 수 있으며 여름에 30˚C(86˚F)까지 상승합니다. 그리고, 지구와 태양의 각도로 인하여, 대부분의 이누이트족이 사는 지역은 태양이 절대로 지지 않는 몇 개월간의 여름을 경험하며, 해가 뜨지 않는 몇 개월간 지속되는 칠흑같은 어둠을 경험합니다. </Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_CLINUIT_HEADING_3">
+
+			<Text>대재앙</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_CLINUIT_TEXT_3">
+
+			<Text>이누이트의 전설과 설화는 이누이트 민족을 형성시키게 된 대재앙을 언급합니다. 이 이야기들에 따르면, 이누이트족이 살고 있는 이 땅이 한때는 훨씬 따스하고, 풀이 우거진 녹빛 대지였다고 합니다. 이후 대재앙이 닥쳐왔는데, 이는 운석, 유성 혹은 화산 폭발의 형태였습니다. 재앙 이후, 땅은 점점 더 추워졌고 --이누이트를 제외한-- 많은 문명들이 절멸했습니다. 이 전설이 기묘하게 보일지 모르나, 역사가들은 그것이 실제로 일어났었고, 그 재앙이 무엇이었든지 간에, 이 세계 표면에 영구적인 흔적을 남겼다고 믿고 있습니다.</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_CLINUIT_HEADING_4">
+
+			<Text>개척자들의 도착</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_CLINUIT_TEXT_4">
+
+			<Text> 1492년, 크리스토퍼 콜럼버스가 아메리카 대륙으로 첫 항해를 성공시켰습니다. 그가 첫번째가 아니었다는 사실을 제쳐두고서라도 이는 매우 중요한 것인데, 유럽인들이 이 따을 문명화시키는데 흥미를 보이게 되었기 때문입니다. 개척자들이 몰려들었지만, 여기서 우리가 주목할 만한 것은 기억도 안날만큼 오랜 숙적이었던 프랑스인과 영국인들입니다. 1576년에, 영국인들이 아메리카 대륙의 한쪽 면에서 다른 면으로 가는 해상으로의 지름길을 찾으려는 시도 중에, 자신들의 삶의 방식을 고수하고, 외부에 신경쓸 겨를이 없었던 이누이트족을 마주쳤습니다. 원정대장이었던 프로비셔는 몇 사람을 보내 이누이트족과 접선을 시도했습니다. 하지만, 그 사람들은 실종되었습니다. 결과는 불미스러웠고, 프로비셔는 전형적인 식민지주의자의 시선을 취하고 그가 기대했던 사실과는 다르게, 이누이트인 한명을 영국으로 데려갔습니다. 나중에서야 밝혀진 사실이지만, 실종된 선원들은 이누이트족에게 꽤 좋은 대접을 받고 있었으며, 이는 그들이 어째서 유럽으로 돌아가고 싶어하지 않았는지를 설명해주는 근거입니다. 그로부터 머지않아, 선교사들이 비종교적이었던 이누이트족들을 신실한 신자로(이에 대한 기준은 유럽인들도 명확하게 알지 못합니다) 개종시키기 위해 몰려오기 시작했으며, 상인들은 그들의 물품을 이누이트족에게 팔기로 결정했고, 또한 개척자들은 이누이트족이 사용하는 지역 전역에 걸쳐 이누이트족을 위한 -그리고 영국인과 프랑스인 정착민들을 위한- 정착지를 개척하기 시작했습니다. </Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_CLINUIT_HEADING_5">
+
+			<Text>개척자들과의 삶</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_CLINUIT_TEXT_5">
+
+			<Text> 개척자들이 도착하고 나서 이누이트족의 삶의 방식은 급격히 변화했습니다. 제일 처음, 유럽인들은 이누이트족이 전혀 면역력을 가지지 못한 질병을 옮겨와 퍼트렸습니다. 이는 이누이트의 제한된 의료 지식과 결부되어 -- 당시의 유럽보다 아주 크게 제한적이었던 것은 아닙니다 -- 엄청난 인구 감소로 이어졌습니다. 식민지들은 또한 이누이트 족에게 해를 끼치는 칙령들을 가지고 있었습니다: 이들은 날씨가 좋을 때, 신천지의 자원들을 탐사하고, 긁어모으기 위해 만들어졌습니다. 또한, 허드슨즈 베이 사 같은 식민지의 기업들은 이누이트족의 영역 주위의 상당부분을 점유했습니다. 이 점유는 이누이트족이 그들의 이웃과 거래하는 것에 영향을 끼쳤고, 이는 그들이 서로간에 왕래가 더 힘들어졌기 때문입니다. 때문에 이들은 그들의 자원을 영국인들이나 프랑스인들과 교역하는 것으로 눈돌릴 수 밖에 없었습니다. 하지만, 모든것이 마냥 암울하지만은 않았습니다. 이누이트족은 여전히 그들이 이전에는 가지지 못했던 상당수의 자원들을 영국인들로부터 구할 수 있었으며, 백인과 이들의 가족들간에 교혼이 이루어지기도 했습니다. 영역을 가로질러 쐐기를 박은 허드슨즈 베이 사의 존재는 이누이트족과 그들의 적간의 전쟁을 종식시키는데 일조했습니다 -- 회사 자체와 국지적 분쟁을 치르는 것을 감수하고서라도 말입니다. 또한 허드슨즈 베이 사는 이누이트인들을 그들을 위한 어업 및 포경 사업을 위해 고용했습니다. 영국인들은 이누이트족과 평화적으로 공존하며 정착할 수 있었고, 그들의 일반적인 삶의 방식에 대해 상당히 자세하게 기술한 여러 보고 문서들을 남겼습니다. 이는 컬럼비아 교약으로 알려져 있는 것의 축소판입니다; 유럽인들은 아메리카 원주민들에게 물품을 건내주었고, 역으로 물품을 건네받았습니다. 다양한 형태로써, 교역은 쌍방 모두에 이로웠고, 이누이트들은 그들이 종종 누렸다고 주장하는 것 처럼의 엄청난 손실을 겪지 않았습니다. </Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_CLINUIT_HEADING_6">
+
+			<Text>캐나다 자치령에서의 삶</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_CLINUIT_TEXT_6">
+
+			<Text> 다른 원주민-개척민 관계들을 고려한다면, 영국 캐나다 자치령 안에서의 삶은 제법 높은 수준이었다. 영국인들이 대다수가 이누이트들을 향한 연민을 가진 것은 아니었지만, 그들은 이누이트인들을 위협으로 여기지 않았고, 대부분의 시간을 그들과 우호적인 관계로 지냈다. 이누이트의 방대한 영토에서, 왕실 캐나다 기마 경찰(혹은 "기수")들이 얼음으로 뒤덮인 풍경을 순찰했다. 이 땅은 영국인들에게는 가치가 거의 없었으나, 닥쳐올 위협과 태평양으로 향하는 통로를 확보하기 위해서, 이 지역의 순찰을 필요로 했다. 이누이트는 금새 캐나다 자치령의 완전한 통제하에 놓였고, 이는 19세기에 완전한 협정을 맺기까지에 이르렀으며, 1920년대에 마지막 이누이트 부족이 협정에 서명했다. 선교사들은 계속해서 이누이트족들을 기독교로 전향시켜갔고, 이는 이누이트들의 풍습에 맞는 의식들을 사용함으로 무척 효율적이고 순조롭게 진행될 수 있었다. 이누이트의 영토에 대해 더 많은 것을 탐사하기 위한 원정이 다수 조직되었다. 여러개의 기지들이 이누이트의 생산능력을 검증하기 위해 세워졌으며, 이들은 나중에 영국인 정착지로 선적되어 보내졌다. 전반적으로, 이누이트의 삶의 방식이 개척자들의 것과 대조적이었으나, 그들은 무척이나 잘 어울려 생활할 수 있었다. </Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_CLINUIT_HEADING_7">
+
+			<Text>이누이트의 영토의 이용</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_CLINUIT_TEXT_7">
+
+			<Text> 1939년에, 독립된 국가 캐나다는 독일에 전쟁을 선포했고, 이누이트의 영토는 그들에게 우위를 선사했다. 그곳에는 엄청난 석유 자원이 매장되어 있었으며, 이는 근대 항공기의 출현과 함께 점점 더 유용해졌다. 냉전동안 소비에트 연방으로부터 올 지 모를 공격에 대비하여, 군사 기지들이 이누이트의 영역 내에 세워졌다. 이 기지들의 이 지역에서의 주 목적이 캐나다의 국방을 위해서였지 이누이트를 돕기 위함이 아님에도 불구하고, 이는 유럽인들과의 더 많은 접촉을 의미했다. 하지만, 늘어난 캐나다인 인구는 몇몇 이점을 불러왔는데, 이중에는 총도 있었고, 이는 이누이트의 사냥을 보다 손쉽게 만들어주었다. 의약품 또한 이누이트의 땅에 도입되었다; 이는 인구 성장 속도를 급속하게 증가시켰으며, 이누이트들이 보다 넓게 확장할 수 있게 해주었다. 하지만 모든 변화가 좋은 것만은 아니었다. 1950년대에 정부는 이누이트 문화를 진압하려고 했는데, 이는 그들이 지나치게 확장하고 있으며, 무분별한 사냥으로 인해 많은 문제가 발생하고 있기 때문이었다. 그러나, 1953년, 당시의 수상 루이 생로랑은 지난 나날동안 그들의 결핍을 알아채고, 40개의 야영지를 마련해 이누이트족의 교육, 보건 및 생필품에 대한 지원을 하라고 지시했다. 옷, 거주지 등, 그들이 사용할 수 있는 많은 것들을 제공하는 제안에 이끌려, 많은 이누이트인들이 그 야영지들로 이주했왔다. </Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_CLINUIT_HEADING_8">
+
+			<Text> 이누이트의 인식 </Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_CLINUIT_TEXT_8">
+
+			<Text> 1960년대 동안, 이누이트들은 그들의 전통적 삶의 방식을 포기한 채, 정착지들의 영구 주택에서 주거했다. 하지만, 이는 그들에게 있어 무척 위험한 시도였다. 수 세기동안 북극의 방식을 고수해온 그들에게 있어, 그들은 튼튼한 경제를 위한 자급 자족을 할 수 있는 대체 방편이 존재하지 않았다. 하지만 60년대에 이누이트들의 정치적 활동의 부상이 있었다. 그들의 삶의 방식은 1980년대에 이르러 거의 완전히 사장되었으며, 그들은 척박한 캐나다 북부의 빈곤한 소수민족에 지나지 않았다. 정치적 행보들 및 그들의 전통 문화에 대한 인식의 전환이 이루어지며, 천년동안 외부의 도움 없이 세계에서 제일 혹독한 곳에서 생존해온 이누이트족은 거듭나기 시작했다. 거친 정치판 속에서, 그들은 이누이트인들의 향상된 삶을 창조해낼 수 있었다. 1982년에, 마일스톤이 캐나다 헌법에 서명하는데 성공했다 - 비록 첫번째 독립국가를 이루지는 않았었지만, 이는 마침내, 이누이트인들을 캐나다의 원주민으로서 인식하는 것이었다. 자주권을 보장받은 모든 다른 이들과 같이, 이누이트들은 "고향집"(문자 그대로의)이라고 부를 수 있는 토지를 원했다. 1993년에, 그들의 요구를 향한 첫번째 디딤돌이 캐나다 내 이누이트인들을 위한 구역에 대한 계획안으로서 마련되었다. "누나부트"라고 이름붙여진 땅의 어원은 "우리들의 땅"이었다. 1992년에, 춥고, 황량한 풍경을 가진 캐나다 북캐나다의 캐나다 북서 지역들과 누나부트(영국인들이 도착하기 전 이누이트들이 원래 살던 지역과 대강 일치한다)의 분리를 원하는 이들의 통계를 확인하기 위해 선거가 치러졌다. 85%의 거주민들이 두 지역을 분리하는데 찬성했으며, 이의 이행이 5월 1일에 완료되었다. 1999년, 이누이트들의 새로운 영토가 확립되었다. </Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_CLINUIT_HEADING_9">
+
+			<Text> 오늘날의 북부 </Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_CLINUIT_TEXT_9">
+
+			<Text>이누이트 문화는 오늘날 여전히 강하게 잔존하고 있다. 그들은 여전히 이글루를 건설하며, 오래전에 그러했던 것 처럼, 눈썰매를 이끌고 외출한다. 하지만 그들의 삶의 방식은 소총같이 식량을 얻는데 도움을 주는 물품 등에 의해 보조되고 있다. 이들은 비록 소수일지라도 캐나다 국회에 대표되고 있으며, 이는 그린랜드와 미국에 비교하면 훨씬 많은 숫자이다. 그곳에는 여전히 그들의 전통적 생활 방식을 위협하는 많은 문제들이 산재하고 있는데, 이는 서구적 식단으로 인한 문제, 진행되고 있는 석유 자원의 탐사, 그리고 세계에서 상위권에 드는 자살율 등이다. 이누이트의 생활 양식은 여전히 강하게 남아 있다: 그들은 그들의 집단 사회의 근간을 유지하고 있으며, 그들만을 위한 한명의 주 지도자를 두지 않으나, 그들이 조언을 구할 수 있는 여러명의 사람들을 두고 있습니다. 이누이트의 법들은 종이에 적혀있지는 않지만, 구술적 조언에 기반하고 있다. 비록 이누이트가 캐나다라는 국가에 소속되어 있고, 덴마크의 그린랜드 및 미합중국의 알래스카 지역에 이르기까지 널리 분포하고 있지만, 그들은 그들에게 수세기동안 가르쳐져 내려온 전통들을 충실히 지켜오며 보전하고 있다; 그들은 그들이 언제나 알고 있었던 것들에 의존해서만 살아가며, 외부의 누군가가 다른 위협을 제시하지 않는 한, 이누이트족은 계속해서 그들 스스로 만들어내고 천년동안 잘 지내온 삶의 방식을 고수할 것이다. </Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CLEKEUHNICK_HEADING_1">
+
+			<Text>이누피아트의 영웅, 에케우닉</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CLEKEUHNICK_TEXT_1">
+
+			<Text>에케우닉의 일화는 아주 먼 고대부터 전해진다. 그는 알래스카의 "에스키모" -- 이는 북부 캐나다와 알래스카의 원주민들이 첫 국가들과 판이하게 다른 이누이트의 삶의 방식을 공유한다는 것을 의미한다 --라고 불리는, 한 이누피아트 민족의 전설적인 인물이다. 비록 에케우닉이 구전으로 전해지는 전설속에서만 알려져 있으나, 역사가들은 그가 실존했던 인물 -- 아마도 이누이트 민족의 시초-- 이었다고 확신하고 있다.</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CLEKEUHNICK_HEADING_2">
+
+			<Text>에케우닉의 전설</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CLEKEUHNICK_TEXT_2">
+
+			<Text>전설에 의하면, 알래스카 북부는 한때 따듯한 기온의 기후였다고 한다. 에케우닉은 그곳에서 자랐고, 모두에게 사랑받던 책임감있는 젊은이였다. 그가 예언자 아웅가요우쿡숙을 만나면서 모든 것이 바뀌었다. 예언자는 그에게 닥쳐오는 재앙에 대하여 경고했다: 하늘에서 불이 비오듯 떨어져 내릴것이며, 대지가 폭발할 것이고, 일대의 모든 살아있는 생물들을 죽일 것이라고 했다.또한, 땅이 점점 추워져 인간이 살기 적합하지 않게 될 것이라고도 했다. 에케우닉은 고향으로 달려가 그의 부족 사람들에게 이 사실을 알렸고, 그들은 그를 신뢰했기 때문에, 경고를 들은지 오래되지 않아 즉시 대피했다.</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CLEKEUHNICK_HEADING_3">
+
+			<Text>대재앙</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CLEKEUHNICK_TEXT_3">
+
+			<Text>예언자가 예측한 대로, 하늘에서 불이 비오듯 떨어져 내리기 시작했고, 이누피아트의 세계는 얼어붙은 황무지로 변모했다. 에케우닉의 민족들은 새롭고 혹독한 환경에서 생존하는 방법을 몰랐다, 하지만 에케우닉의 혁신적인 생각은 새로운 환경과 맞서 싸우는 새로운 방식들을 제공했다: 불, 개썰매, 파카. 에케우닉의 인도 아래, 그의 민족들은 혹독한 이주 속에서 살아남았을 뿐만 아니라, 오늘날의 이누이트 민족이 되었고, 그들의 문화는 오늘날까지 전해지고 있다.</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CLEKEUHNICK_HEADING_4">
+
+			<Text>역사의 평가</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CLEKEUHNICK_TEXT_4">
+
+			<Text>에케우닉의 전설에 의거하면, 그는 혼자서 그의 민족들을 확실한 죽음으로부터 구했으며, 그들을 노르웨이의 라플란드외에 어둠과 추위를 견줄만한 곳이 없는, 척박하고, 혹독한 낯선 환경속에서 살아가는 방법을 훈련시켰다. 그의 가르침, 믿음, 및 기술들은 수백년동안 전승되어 내려왔고, 독창적이고 귀중한 문화의 기반과 그의 리더십이 없었다면 사라져버렸을 삶의 방식이 되었다. 명백하게, 에케우닉의 영향은 오랜 세월이 지난 지금까지도 산재해 있다.</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_DECISIONS_CLINUIT_ADOPTCABLEBOWS_NAME">
+
+			<Text>이누이트식 케이블백 활의 채택</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_DECISIONS_CLINUIT_ADOPTCABLEBOWS_DESC">
+
+			<Text>부유목과 힘줄을 사용함으로서, 우리는 우리들의 활을 강화하는 법을 익혔습니다.우리는 이 신기술을 모든 이누이트 백성들에게 널리 퍼뜨려야 합니다. [NEWLINE][NEWLINE]요구조건:[NEWLINE][ICON_BULLET]플레이어는 이누이트여야만 합니다.[NEWLINE][ICON_BULLET]최소한 3개의[ICON_RES_DEER] 사슴 자원 혹은[ICON_RES_WHALE] 고래 자원.[NEWLINE][ICON_BULLET]이는 한 게임 당 한 번만 제정될 수 있습니다.[NEWLINE]가격:[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] 금 [NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] 법원 [NEWLINE]보상: [NEWLINE][ICON_BULLET]해안 도시들에서 훈련되는 궁사 유닉들은 +15의 EXP를 더 받습니다.[NEWLINE][ICON_BULLET]이 유닛들은 일꾼으로 활성화 된 모든 사슴 및 고래 자원들 각각마다 +5의 EXP를 받습니다.</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_DECISIONS_CLINUIT_ADOPTCABLEBOWS_ADOPTED">
+
+			<Text>부유목과 힘줄을 사용함으로서, 우리는 우리들의 활을 강화하는 법을 익혔습니다.우리는 이 신기술을 모든 이누이트 백성들에게 널리 퍼뜨려야 합니다.[NEWLINE][NEWLINE]보상: [NEWLINE][ICON_BULLET]해안도시에서 훈련되는 모든 궁사 유닛들은 +15의 EXP를 얻습니다.[NEWLINE][ICON_BULLET]이 유닛들은 일꾼으로 활성화 된 모든 사슴 및 고래 자원들 각각마다 +5의 EXP를 받습니다.</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_DECISIONS_CLINUIT_ELITESNIPERS_NAME">
+
+			<Text>정예 저격수 훈련</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_DECISIONS_CLINUIT_ELITESNIPERS_DESC">
+
+			<Text>지평선 너머 지척까지 전쟁이 다가오고 있으며, 그로인해 이누이트의 삶의 방식이 위협받고 있습니다. 우리들의 기술들을 우리의 적들을 향해 사용하고, 우리 백성들을 보호합시다.[NEWLINE][NEWLINE]요구조건:[NEWLINE][ICON_BULLET]플레이어는 이누이트여야만 합니다.[NEWLINE][ICON_BULLET]플레이어는 교환부품을 연구해야만 합니다.[NEWLINE][ICON_BULLET]플레이어는 다른 국가와 방위 협정을 체결하고 있어야만 합니다.[NEWLINE][ICON_BULLET]한 시대에 한번만 제정할 수 있습니다.[NEWLINE]비용:[NEWLINE][ICON)BULLET]{1_Gold} [ICON_GOLD] 금 [NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] 법원 [NEWLINE]보상: [NEWLINE][ICON_BULLET]세 명의 저격수를 얻습니다. 이는 저격수들을 얻는 유일한 방법입니다. 저격수들은 향상된 사거리, 시야 및 이동력을 지니고 있지만, 공격을 하기 위해서 준비를 해야만 하며 도시들에 훨씬 적은 피해를 줍니다.</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_DECISIONS_CLINUIT_ELITESNIPERS_ADOPTED">
+
+			<Text>지평선 너머 지척까지 전쟁이 다가오고 있으며, 그로인해 이누이트의 삶의 방식이 위협받고 있습니다. 우리들의 기술들을 우리의 적들을 향해 사용하고, 우리 백성들을 보호합시다.[NEWLINE][NEWLINE]보상: [NEWLINE][ICON_BULLET]세 명의 저격수를 얻습니다. 이는 저격수들을 얻는 유일한 방법입니다. 저격수들은 향상된 사거리, 시야 및 이동력을 지니고 있지만, 공격을 하기 위해서 준비를 해야만 하며 도시들에 훨씬 적은 피해를 줍니다.</Text>
+
+		</Row>
+	</Language_KO_KR>
+</GameData>

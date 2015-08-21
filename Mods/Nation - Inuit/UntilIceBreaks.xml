@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/5/2013 8:01:45 AM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_UNTILTHEICEBREAKS</Type>
+			<Description>TXT_KEY_TRAIT_UNTILTHEICEBREAKS</Description>
+			<ShortDescription>TXT_KEY_TRAIT_UNTILTHEICEBREAKS_SHORT</ShortDescription>
+		</Row>
+	</Traits>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_TRAIT_UNTILTHEICEBREAKS">
+			<Text>
+				Gain [ICON_FOOD] Food from claimed Snow, Tundra and Ice tiles outside workable city limits. [ICON_RES_FISH] Fish adjacent to Snow, Tundra and Ice will into a Luxury [ICON_RES_CLSEALS] Seals Resource and provides a [ICON_PRODUCTION] Production boost when improved.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_UNTILTHEICEBREAKS_SHORT">
+			<Text>Until the Ice Breaks</Text>
+		</Row>
+	</Language_en_US>
+	<Language_KO_KR>
+
+		<Row Tag="TXT_KEY_TRAIT_UNTILTHEICEBREAKS">
+
+			<Text>
+				도시의 일꾼 배치가 가능한 영역권 밖에 위치한, 모든 눈, 툰드라 및 얼음 타일로부터 [ICON_FOOD] 문화를 얻습니다. 설원, 툰드라, 얼음 타일에 인접한 [ICON_RES_FISH] 생선 자원을 개발시 사치품인 [ICON_RES_CLSEALS] 바다표범 자원으로 바꾸며, 폭발적인 [ICON_PRODUCTION] 생산력을 제공합니다.
+			</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_TRAIT_UNTILTHEICEBREAKS_SHORT">
+
+			<Text>얼음이 부서질 때 까지</Text>
+
+		</Row>
+	</Language_KO_KR>
+</GameData>

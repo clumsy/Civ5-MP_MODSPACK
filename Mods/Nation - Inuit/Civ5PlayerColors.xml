@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/5/2013 9:07:12 AM -->
+<GameData>
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_CLINUIT</Type>
+			<PrimaryColor>COLOR_PLAYER_CLINUIT_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_CLINUIT_BACKGROUND</SecondaryColor>
+			<TextColor>COLOR_PLAYER_BLUE_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_CLINUIT_ICON</Type>
+			<Red>0.9</Red>
+			<Green>0.9</Green>
+			<Blue>0.9</Blue>
+			<Alpha>1.0</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_CLINUIT_BACKGROUND</Type>
+			<Red>0.415</Red>
+			<Green>0.854</Green>
+			<Blue>0.913</Blue>
+			<Alpha>1.0</Alpha>
+		</Row>
+	</Colors>
+</GameData>

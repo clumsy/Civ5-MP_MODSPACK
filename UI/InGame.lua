@@ -1532,6 +1532,11 @@ ContextPtr:LoadNewContext("Lua_Germany")
 ContextPtr:LoadNewContext("CityStatePopupGoldChanges")
 ContextPtr:LoadNewContext("JFD_KilwaFunctions")
 
+-- Nation - Inuit --
+ContextPtr:LoadNewContext("InuitRelocation")
+ContextPtr:LoadNewContext("UntilTheIceBreaks")
+ContextPtr:LoadNewContext("Inuksuks")
+
 -- Nation - Xia --
 ContextPtr:LoadNewContext("Xia Mod Check")
 ContextPtr:LoadNewContext("XiaDynastyPopup")

@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="dcdaabd2-b424-4680-bdc0-d8692a1a9619" version="2">
+  <Properties>
+    <Name>[BNW] Colonialist Legacies - The Inuit (v.3)</Name>
+    <Stability>Beta</Stability>
+    <Teaser>Adds the much anticipated [COLOR_POSITIVE_TEXT]Inuit Peoples[ENDCOLOR] to the game, wardens of the north and rugged survivors of the Arctic Circle.</Teaser>
+    <Description>
+		[NEWLINE][NEWLINE]----
+		[NEWLINE][NEWLINE]Note:
+		[NEWLINE]- Requires the Brave New World expansion.
+		[NEWLINE]- Updates to the Mod will most likely break save games. Please do not update until you are ready to begin a new game.
+		[NEWLINE][NEWLINE]----
+		[NEWLINE][NEWLINE]Leader: Ekeuhnick
+		[NEWLINE][NEWLINE]UA: Until the Ice Breaks
+		[NEWLINE]UU: Unaaq
+		[NEWLINE]UI: Inuksuk
+	</Description>
+    <Authors>TPangolin, Neirai and Leugi </Authors>
+    <SpecialThanks>LastSword, JFD, regalmanemperor, Hiram, Viregel, Reedstilt, CharlatanAlley and Sukritact</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact's Decisions" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="5706BF34E2C4E028663AE1AD53339227" import="1">Art/black_4x4.dds</File>
+    <File md5="DCFC5B805BA74ED5F33B0FD5AB3BD763" import="1">Art/civ128.dds</File>
+    <File md5="11C53B95B60453118CECE0AF104DB030" import="1">Art/civ16.dds</File>
+    <File md5="6C45BC5E6225CA7FB26BCF2DC790140D" import="1">Art/civ24.dds</File>
+    <File md5="BF48EE88832B8C491AD068F76BAC3CEE" import="1">Art/civ256.dds</File>
+    <File md5="03B80402B191BC92733A7901FF28FB2E" import="1">Art/civ32.dds</File>
+    <File md5="E428CF2210A6C97DF1B95E3F76F959A9" import="1">Art/civ48.dds</File>
+    <File md5="354904EB7CED15264B54F2F12FD244E3" import="1">Art/civ64.dds</File>
+    <File md5="1E21FBFC8857B541F4C682F284BCD9FD" import="1">Art/civ80.dds</File>
+    <File md5="0012CB0F31F1CEFF966E50786106DE0D" import="1">Art/inuitleader128.dds</File>
+    <File md5="CD3135D0101A46638B6530F500DBA1A1" import="1">Art/inuitleader256.dds</File>
+    <File md5="DAF6C673C6D0A0A744B7F2FA51D1E61C" import="1">Art/inuitleader64.dds</File>
+    <File md5="29F4DB5C7591259FA6C5397CFA448ED8" import="1">Art/fish.dds</File>
+    <File md5="E2460965DC84D21B5D490DF505703E12" import="1">Art/fish_sv.dds</File>
+    <File md5="A439186A391829757397EC841CB70024" import="1">Art/InuitDoM.dds</File>
+    <File md5="375375788879B267A21E52646CE9751E" import="1">Art/inuiticon128.dds</File>
+    <File md5="A50A997AB488BA4CC237BFF3863C1B14" import="1">Art/inuiticon214.dds</File>
+    <File md5="E0F3056A305E17A4C95EC773A2478BD7" import="1">Art/inuiticon256.dds</File>
+    <File md5="BA261E51D8967E3AB29B4CCC868C646F" import="1">Art/inuiticon32.dds</File>
+    <File md5="5A68647FFD9DE082905B65043590DC73" import="1">Art/inuiticon45.dds</File>
+    <File md5="A83A866A416E81719EB8B36E885B172D" import="1">Art/inuiticon64.dds</File>
+    <File md5="EB7C40B42B50414DD9FA21B2981A19E6" import="1">Art/inuiticon80.dds</File>
+    <File md5="520247D0FB71DBF0E64AC8598544C4B5" import="1">Art/InuitLeader.dds</File>
+    <File md5="EA47DCEDF627A0AD2272017BCA35C52E" import="1">Art/Inuitmap.dds</File>
+    <File md5="62FA7BAFEF3BE363916CDEBF98090B06" import="1">Art/inuituu128.dds</File>
+    <File md5="1BF0A0E1EA25E1BE41991B2704C5B6EA" import="1">Art/inuituu256.dds</File>
+    <File md5="EAEF5CC88AC8548167442216D5FE0CA4" import="1">Art/inuituu45.dds</File>
+    <File md5="C731E98371187731BB8F7F313F5D5533" import="1">Art/inuituu64.dds</File>
+    <File md5="40870D6C12869AAA7E6DDCE8D7EAED4B" import="1">Art/inuituu80.dds</File>
+    <File md5="692798EDFEE89304533056B343365058" import="1">Art/Inuit_Sniper.dds</File>
+    <File md5="51EF1158E8A14EE74E9C0911E8CA631D" import="1">Art/Inuit_Sniper.fxsxml</File>
+    <File md5="707ABD6CB6DA6DD5650B167EB4E12802" import="1">Art/Inuit_Sniper.gr2</File>
+    <File md5="1E200BD23D07CD8DBFB1E3DA9E0E8DEC" import="1">Art/InukshukIcon64.dds</File>
+    <File md5="AC41C06BA721315512F26433220FEDF7" import="1">Art/no_gloss.dds</File>
+    <File md5="CD0FC91F7994C3591A113AAFB395F4BF" import="1">Art/seal128.dds</File>
+    <File md5="22074EDC32F977FCAF049D3A8AE3A8F7" import="1">Art/seal256.dds</File>
+    <File md5="E5D50B331EB56A2C4DDC97E6E7A3810A" import="1">Art/seal45.dds</File>
+    <File md5="12F9922691FD06E94B635B30C2F4D8B0" import="1">Art/seal64.dds</File>
+    <File md5="798EFBA01507EEC213DF32B2E1668A44" import="1">Art/seal80.dds</File>
+    <File md5="4958EF0FD141F6A116468352C40DABC5" import="1">Art/sniper128.dds</File>
+    <File md5="45E0E03E4139900CC341F7F35328ED89" import="1">Art/sniper256.dds</File>
+    <File md5="25B2F26CA79146A1D0414BD8D666568C" import="1">Art/sniper32.dds</File>
+    <File md5="867E48AEB7CF704EAD48B2B0AF3219C7" import="1">Art/sniper45.dds</File>
+    <File md5="74010456630CD609BEBCA2F83B83D664" import="1">Art/sniper64.dds</File>
+    <File md5="DD47778B71672C4BAA737902D4731989" import="1">Art/sniper80.dds</File>
+    <File md5="3B0E2280BE3B012A4CBC8A34994CB96F" import="1">Art/inukshuk01.fxsxml</File>
+    <File md5="6BC5B360A5BDBB0B0BB34ED100A58E37" import="1">Art/inukshuk01.gr2</File>
+    <File md5="C820533683511E40F7060DFCC492F249" import="1">Art/inukshuk02.fxsxml</File>
+    <File md5="23E8819BCECAD8ABB4F2E393A4B91824" import="1">Art/Inukshuk02.gr2</File>
+    <File md5="F806072C10E397C7350B31AC3B88139D" import="1">Art/inukshuk03.fxsxml</File>
+    <File md5="31DAE45A7B1A6DE655E01E6681348E44" import="1">Art/inukshuk03.gr2</File>
+    <File md5="D910ED56C4A59E5A2D2A8DFA0A8B0482" import="0">Art/InukshukDefine.sql</File>
+    <File md5="C39226447D5AEB0143555EEEC076585A" import="1">Art/InukshukIcon128.dds</File>
+    <File md5="B29E4E460F1A575F145B4E86AA66BEC4" import="1">Art/InukshukIcon16.dds</File>
+    <File md5="5ABB6483608BD8A497238234C39AA795" import="1">Art/InukshukIcon24.dds</File>
+    <File md5="20B040D18E0AF5906C70A497FE3B60DF" import="1">Art/InukshukIcon256.dds</File>
+    <File md5="FFA76E8F74137BF83C1AD9D58E4AF13A" import="1">Art/InukshukIcon32.dds</File>
+    <File md5="196F57ABBA4F83671931AB001E7EED56" import="1">Art/InukshukIcon45.dds</File>
+    <File md5="6B0423E4179A0E17BBFC365D6EFA46B3" import="1">Art/InukshukIcon48.dds</File>
+    <File md5="7F8622E389BC7EE7089FECF15C4E7474" import="1">Art/InukshukIcon80.dds</File>
+    <File md5="6DADE160FA55EA290EAB93724A584777" import="1">Art/inukshuk_decal.dds</File>
+    <File md5="3DCD8D6C5E24861C1527C2F682109EC0" import="1">Art/inukshuk_diff.dds</File>
+    <File md5="DB32E5C2D306819C2300AC7EFAA939C3" import="1">Art/inukshuk_hb.fxsxml</File>
+    <File md5="3810E0CD34CF544C3AE417E4B82E6909" import="1">Art/Inukshuk_hb.gr2</File>
+    <File md5="EC96D6973E325A9FE89E0945DDF6F4D8" import="1">Art/inukshuk_pl.fxsxml</File>
+    <File md5="59DAF73031445A7BBC0C578621237240" import="1">Art/Inukshuk_pl.gr2</File>
+    <File md5="F13375DE517DA8F1A06736A27CAA4E8B" import="1">Art/inukshuk_pl_diff.dds</File>
+    <File md5="FACF1B70DE7DDC8A3FA93E76E1E58410" import="1">Art/sniperSV.dds</File>
+    <File md5="4A888093DEE1942A9F039A17F8DEC158" import="1">Art/sv_inukshuk.dds</File>
+    <File md5="8B698E39AAA2E717CA217783469144DE" import="0">Art/UnaaqDefine.sql</File>
+    <File md5="D83138DD5B4D54BFC57A93C360237254" import="1">Art/u_inuit_unaaq.fxsxml</File>
+    <File md5="20329DAB2BD4E81F0FC1E492FDB5D43D" import="1">Art/u_inuit_unaaq.gr2</File>
+    <File md5="A1807C48019653B0105E350DD800425E" import="1">Art/u_inuit_unaaq_diff.dds</File>
+    <File md5="A7FB4543C694A82AD735BCDF38775C53" import="0">Lua/InuitRelocation.lua</File>
+    <File md5="640A1933831A572B118498316E57CC4D" import="0">Lua/Inuksuks.lua</File>
+    <File md5="000E5D6493F2382C9BF10EEC014C75C0" import="0">Lua/UntilTheIceBreaks.lua</File>
+    <File md5="D1F13837AFE319DB64CF4CC60F7F802A" import="1">XML/Art/InuitSealText_22.ggxml</File>
+    <File md5="FFDA7C6880DEE31FA5ED78DB7CB9AD82" import="1">XML/Art/Sealsfonticon.dds</File>
+    <File md5="E2A5A90D6D6109A76A67114917D0599C" import="0">XML/Art/TextIcon.sql</File>
+    <File md5="F17851E9DC5CA0121CE2595130F6E043" import="1">XML/Art/resource_seals_diff.dds</File>
+    <File md5="599ECB4EEE0648CC995A2618F11C1BEA" import="1">XML/Art/resource_seals_workboat_diff.dds</File>
+    <File md5="CAC9D84AE4721CEEBD685A6350015B8B" import="0">XML/Art/SealArt.sql</File>
+    <File md5="4230526772AE240D3E24A834CD610B95" import="1">XML/Art/seals.fxsxml</File>
+    <File md5="24DF279F04579A52B4FA75D33512BFE4" import="1">XML/Art/seals_fished.gr2</File>
+    <File md5="7AD15ECFE0FDE630C01FEF13C35C78E2" import="1">XML/Art/seals_fished_pl.gr2</File>
+    <File md5="9C35AE72FDBFF29313D5B27093B6D44A" import="1">XML/Art/seals_pl.fxsxml</File>
+    <File md5="9E5F3B71CB46BBB1992E5DB1B0BAF547" import="0">XML/Art/SniperDefine.xml</File>
+    <File md5="993312237CBF52A1B3E3EC485786D2E4" import="0">XML/Art/InuitAtlases.xml</File>
+    <File md5="E964B7550DAF2360268D2759F19887D0" import="0">XML/Civilizations/CLInuit.xml</File>
+    <File md5="2D6EC3237CE69495AB7196CEA77FA7E3" import="0">XML/Civilizations/UntilIceBreaks.xml</File>
+    <File md5="691254857E1E5D93C605D8BB2465E4C6" import="0">XML/Civilizations/Civ5PlayerColors.xml</File>
+    <File md5="4C5999FA06F3429ED60B2639B70F32B1" import="0">XML/Civilizations/Ekeuhnick.xml</File>
+    <File md5="0579768F88252EA7CEC85BB2682BC9BF" import="1">XML/Civilizations/CLEKEUHNICK_Scene.xml</File>
+    <File md5="2A6787FF40855B033166A295A2948109" import="0">XML/Inuksuk.xml</File>
+    <File md5="130D0C69C6A5B13BE1AF665DE49E0E23" import="1">XML/Mod Support/CLInuitDecisions.lua</File>
+    <File md5="46BDD89A89A39D5133E5E3414E0C97FB" import="0">XML/Mod Support/Decisions.sql</File>
+    <File md5="D324E7216FD988B772B02E42DA967F92" import="0">XML/Mod Support/TSL.xml</File>
+    <File md5="52B452E8BA3780D3F621382F51C053F6" import="1">XML/Music/InuitDOM.mp3</File>
+    <File md5="54CD5054C9D1967D2300E29DDCA21386" import="0">XML/Music/InuitMusic.xml</File>
+    <File md5="25C5B1B01D4F2D71D0B436B961DE3DA9" import="1">XML/Music/InuitPeace.mp3</File>
+    <File md5="1138F9A23B34EB5D6D386E308ADDE677" import="1">XML/Music/InuitSnowAmbience.mp3</File>
+    <File md5="10C358ED28B7F0C51CBF5E4DEB71C40C" import="1">XML/Music/InuitWar.mp3</File>
+    <File md5="422A7568EE64643369E266C7AB0053C8" import="0">XML/NewText/CLINUIT_Diplomacy.xml</File>
+    <File md5="188B0727400F57C78A812BDD63A36448" import="0">XML/NewText/GameText.xml</File>
+    <File md5="46B0EC083EED08D1AD68994D8FDC26FB" import="0">XML/Units/Snipers.xml</File>
+    <File md5="168126DAD0C0CA1CFB2F816EFFF73BA2" import="0">XML/Units/LuxurySeals.xml</File>
+    <File md5="AD32E2AE48B7B6CF877A90607D94CCE3" import="0">XML/Units/HiddenBuildings.xml</File>
+    <File md5="C69C03B52AE7E685B7057E6040B0A798" import="0">XML/Units/Unaaq.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Art/InuitAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Art/SniperDefine.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/Snipers.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Art/TextIcon.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Art/SealArt.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Units/LuxurySeals.xml</UpdateDatabase>
+      <UpdateDatabase>Art/InukshukDefine.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Music/InuitMusic.xml</UpdateDatabase>
+      <UpdateUserData>XML/Civilizations/CLEKEUHNICK_Scene.xml</UpdateUserData>
+      <UpdateDatabase>XML/NewText/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Inuksuk.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Civ5PlayerColors.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/HiddenBuildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/UntilIceBreaks.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Ekeuhnick.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NewText/CLINUIT_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>Art/UnaaqDefine.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Units/Unaaq.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/CLInuit.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Mod Support/TSL.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Mod Support/Decisions.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/InuitRelocation.lua">
+      <Name>Inuit Relocation</Name>
+      <Description>Moves the Inuit to the snowy north!</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/UntilTheIceBreaks.lua">
+      <Name>UntilTheIceBreaks</Name>
+      <Description>Gives function to the UA</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Inuksuks.lua">
+      <Name>Inuksuks</Name>
+      <Description>Inuksuk power</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>
