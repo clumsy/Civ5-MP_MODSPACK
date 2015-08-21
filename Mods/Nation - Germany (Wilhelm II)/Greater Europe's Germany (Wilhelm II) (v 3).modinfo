@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="4297bcd0-80d4-497d-82e5-e2ee6e0e009d" version="3">
+  <Properties>
+    <Name>Greater Europe's Germany (Wilhelm II)</Name>
+    <Teaser>This mod adds the German Empire into the game, with Wilhelm II as the leader</Teaser>
+    <Description>This mod adds the German Empire into the game, with Wilhelm II as the leader</Description>
+    <Authors>TarcisioCM, Viregel, Janboruta, COF</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events and Decisions" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="Piety and Prestige" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="43868e8d-de88-48a1-a8d9-ce144e07f5e0" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="DFF98B6D7B3FAFE7BBFBAE07B89A756C" import="0">Art/GermanWW1Alpha22.dds</File>
+    <File md5="A261F100227830E0E056C526720643FD" import="0">Art/GermanWW1Alpha45.dds</File>
+    <File md5="B365B69A51BB81E1D8EFAE2CEBBD632D" import="1">Art/stormtrooper32.dds</File>
+    <File md5="9BCB5617B7D9C9ACC4F63DFD81082AB2" import="1">Art/Stormtrooper/gergw1.dds</File>
+    <File md5="8BCCD98D36FB50516FF92ADB2474EC55" import="1">Art/Stormtrooper/gergw1.fxsxml</File>
+    <File md5="7F0730D4A157E40CBF26384BCF16851E" import="1">Art/Stormtrooper/gergw1.gr2</File>
+    <File md5="0C759F1CED95795CCFBE40C6BD9A963C" import="1">Art/Stormtrooper/no_gloss.dds</File>
+    <File md5="6877418102301C07ED05D3BB6996D904" import="1">Art/stormtrooper_sv.dds</File>
+    <File md5="C30ABE3EDA224229B56EB185CBA817A9" import="1">Art/uboat32.dds</File>
+    <File md5="DB3D1E6992414EBEEAA27A8F5C9C8001" import="1">Art/UBoat/U-Boat_Type_VII.blend</File>
+    <File md5="E08958BF3F5E24EFC74AFB24CCB9662E" import="1">Art/UBoat/U-Boat_Type_VII.dds</File>
+    <File md5="414D43262F63B5ACA8A62FA1BAD67994" import="1">Art/UBoat/U-Boat_Type_VII.fxsxml</File>
+    <File md5="7C5BE4B7EFE2DB505D9B733B1868A8C2" import="1">Art/UBoat/U-Boat_Type_VII.gr2</File>
+    <File md5="985DAE7A5C4D14F84350CC3BF560BA76" import="1">Art/UBoat/U-Boat_Type_VII.jpg</File>
+    <File md5="6A4AA57666D9CEE792D469018705322E" import="1">Art/UBoat/U-Boat_Type_VII_gloss.dds</File>
+    <File md5="9DD6F0DAD94D309AD48D532BEB3E5547" import="1">Art/uboat_sv.dds</File>
+    <File md5="248B973F568524390F1BE6B065FDC1C9" import="1">Art/WilhelmIIPeaceTheme.mp3</File>
+    <File md5="C239C2DA0FF1C11F77D12D1594EDEDFA" import="1">Art/WilhelmIIWarTheme.mp3</File>
+    <File md5="525A8C689172746C12DD3AE2FAD988ED" import="1">Art/WilhelmII_leaderscene.xml</File>
+    <File md5="492F235D6B38BC1FBECE6F70B3124816" import="1">Art/GermanWW1Alpha128.dds</File>
+    <File md5="221536BFEA3B9AA386F498171345E5DC" import="1">Art/GermanWW1Alpha16.dds</File>
+    <File md5="0C2C05E938FC2914F6BC37107EF2817A" import="1">Art/GermanWW1Alpha24.dds</File>
+    <File md5="D3DCF6338968BA00E717AA324ECC0921" import="1">Art/GermanWW1Alpha256.dds</File>
+    <File md5="BCD7B3BAC2277D8F5D0F7B1880A85407" import="1">Art/GermanWW1Alpha32.dds</File>
+    <File md5="1E52853246D29E13973D0FC2EFDD9EA7" import="1">Art/GermanWW1Alpha48.dds</File>
+    <File md5="C7ADC614F525B1D7AA8F2951842433B8" import="1">Art/GermanWW1Alpha64.dds</File>
+    <File md5="18EB68530ADE54DAEAA9388A79D5D61C" import="1">Art/GermanWW1Alpha80.dds</File>
+    <File md5="714CE5516968411B0C846C588526F043" import="1">Art/Icons_GermanEmpire128.dds</File>
+    <File md5="670B18D040177B6992E28DC26C2C7D56" import="1">Art/Icons_GermanEmpire256.dds</File>
+    <File md5="D5DE828FBCA90CBD0A7FEBD7C3DF6724" import="1">Art/Icons_GermanEmpire32.dds</File>
+    <File md5="5FA3ED8561214B5597019FF09D401CE8" import="1">Art/Icons_GermanEmpire45.dds</File>
+    <File md5="F809122DD8296A884C805F0845031981" import="1">Art/Icons_GermanEmpire64.dds</File>
+    <File md5="944D9B3B4D39F030964CB9889C1618DC" import="1">Art/Icons_GermanEmpire80.dds</File>
+    <File md5="65673393683CBCD1B054DD4AB2AFD996" import="1">Art/WilhelmII_dawnofman.dds</File>
+    <File md5="38952C9A8992C2AA94244FA1BF9D0642" import="1">Art/WilhelmII_GermanyMap.dds</File>
+    <File md5="44F173E58E17221DAFCBD640CB62FBAA" import="1">Art/WilhelmII_leaderscreen.dds</File>
+    <File md5="505D5C77AF98030C5325A6BE4A804FC1" import="0">Code/Civilization_Germany.xml</File>
+    <File md5="523FF0CDEF693179E12017F81D602E32" import="0">Code/Diplomacy_Germany.sql</File>
+    <File md5="EFF6EAD8579B31B332209FD300938B14" import="0">Code/ArtDef_UBoat.xml</File>
+    <File md5="CD27D43CEDC616E94F773473F2CA8814" import="0">Code/ArtDef_Stormtrooper.xml</File>
+    <File md5="997751566916C27390200CB1AFCF445B" import="1">Code/Events and Decisions/ge_WilhelmIIDecisions.lua</File>
+    <File md5="DC757A83C4C11A1F9E9F8FFB825AA88B" import="1">Code/Events and Decisions/ge_WilhelmIIEvents.lua</File>
+    <File md5="07DE017F04D6AE01948F906A67BFBBA4" import="0">Code/Music_Germany.xml</File>
+    <File md5="5B006321221599AE086EE522364FE6C6" import="0">Code/Leader_WilhelmII.xml</File>
+    <File md5="80E18512B07923771F078B874519FF48" import="0">Code/Lua_Germany.lua</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">Code/SaveUtils.lua</File>
+    <File md5="7D1BD38D3F0126E4C44742341A50CE99" import="0">Code/ModSupport.sql</File>
+    <File md5="7AC38FCD2389506C14125DCB857B6551" import="0">Code/Units_Germany.xml</File>
+    <File md5="854BB065D5CBB99B3CA8AC2705EF3C4F" import="0">Code/GameText.xml</File>
+    <File md5="493E8C7B554C6D90CF9B3043EBBD7764" import="0">Code/Icons_Germany.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Code/Civilization_Germany.xml</UpdateDatabase>
+      <UpdateDatabase>Code/Leader_WilhelmII.xml</UpdateDatabase>
+      <UpdateDatabase>Code/Diplomacy_Germany.sql</UpdateDatabase>
+      <UpdateDatabase>Code/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Code/Icons_Germany.xml</UpdateDatabase>
+      <UpdateDatabase>Code/ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Units_Germany.xml</UpdateDatabase>
+      <UpdateDatabase>Code/Music_Germany.xml</UpdateDatabase>
+      <UpdateDatabase>Code/ArtDef_UBoat.xml</UpdateDatabase>
+      <UpdateDatabase>Code/ArtDef_Stormtrooper.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Code/Lua_Germany.lua">
+      <Name>Wilhelm II Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

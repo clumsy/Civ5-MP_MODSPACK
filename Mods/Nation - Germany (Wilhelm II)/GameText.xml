@@ -1,0 +1,563 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/24/2014 3:38:19 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_GE_GERMANY_DESC">
+			<Text>German Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_GERMANY_SHORT_DESC">
+			<Text>Germany</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_GERMANY_ADJECTIVE">
+			<Text>German</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_GE_GERMANY_DOM">
+			<Text>Emperor Wilhelm II, you are in control of the glorious German Empire. Forged on the ruins of the Holy Roman Empire through blood and iron, the Germans stand strong and fiercely before the other european nations, with your armies unmatched and a land of industrious and brilliant people, Germany has produced many of the world's finest minds. However, the foolish alliances made all over Europe led the world into war, and your mighty empire was no more - Soon after its fall, the monstruosity of the Nazi Germany launched the world into a even bigger and bloodier war.[NEWLINE][NEWLINE]Bold Kaiser, Germany is broken and ravaged by the Great War, and they are in need of a strong leader for the bloody storm that is coming. Will you stand up for your people, and leave the shadows to become a true Emperor for Germany in these troubled times? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+
+		<!-- Vannila Civilopedia-->
+		<Row Tag="TXT_KEY_CIV_GE_GERMANY_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_GERMANY_HEADING_10">
+			<Text>The Fall of Germany (Part I)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_GERMANY_HEADING_11">
+			<Text>The Rise of Germany (Part II)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_GERMANY_HEADING_12">
+			<Text>The Fall of Germany (Part II)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_GERMANY_HEADING_13">
+			<Text>The Rise of Germany (Part III)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_GERMANY_HEADING_14">
+			<Text>The Fall of Germany (Part III)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_GERMANY_HEADING_15">
+			<Text>The Rise of Germany (Part IV)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_GERMANY_HEADING_2">
+			<Text>Climate and Terrain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_GERMANY_HEADING_3">
+			<Text>Pre-History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_GERMANY_HEADING_4">
+			<Text>The Romans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_GERMANY_HEADING_5">
+			<Text>Enter the Huns</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_GERMANY_HEADING_6">
+			<Text>The Franks</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_GERMANY_HEADING_7">
+			<Text>Charlemagne and the Holy Roman Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_GERMANY_HEADING_8">
+			<Text>The Rise of Germany (Part I)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_GERMANY_HEADING_9">
+			<Text>The Middle Ages</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_GERMANY_TEXT_1">
+			<Text>While various "Germanic" peoples have occupied northern-central Europe for thousands of years, the modern political entity known as "Germany" is extremely young, created almost singlehandedly by the brilliant Prussian politician Otto von Bismarck some 140 years ago. During its brief existence Germany has had a profound effect - for good and for bad - on human history.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_GERMANY_TEXT_10">
+			<Text>Frederick's heirs were unable to unify the increasingly fragmented Germany, and when Frederick II, Barbarossa's grandson, died in 1250, the crown was left vacant for some time. Although others would eventually claim the crown, none would again wield true monarchical power.[NEWLINE][NEWLINE]By the late 14th century the dissolution of Germany was all but complete.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_GERMANY_TEXT_11">
+			<Text>Germany would remain divided for some five long centuries. By the 18th century Austria (under the Habsburgs) and the kingdom of Prussia were the two dominant powers; at the beginning of the 19th Century both were engaged in the desperate struggles of the Napoleonic wars that convulsed Europe. In the Congress of Vienna in 1814 which followed Napoleon's defeat, many of the states which comprised the old German empire were joined together in the German Confederation. Austria and Prussia both sought to dominate the Confederation; their incessant squabbling and jockeying for position left the new state weak and divided.[NEWLINE][NEWLINE]In 1861 King William I of Prussia appointed Otto von Bismarck Prime Minister of Prussia. Three short years later Bismarck led his country into war with Denmark, adding that country to the growing Prussian empire. In 1866 Prussia went to war against Austria, after Bismarck's cunning machinations left the Habsburg Empire isolated and vulnerable. Prussia easily defeated its once mighty competitor, driving Austria from the Confederation.[NEWLINE][NEWLINE]In 1870 Prussia went to war with France, utilizing its incomparable railroad network to launch a lightning assault that the French were totally unprepared for. The French were crushed and the Prussians claimed the disputed territories of Alsace-Lorraine. Having decisively beaten the only two land powers who might have stopped them, Bismarck and the Prussians announced the formation of the German Empire, the direct ancestor of modern Germany. Germany would dominate central Europe for the next 50 years.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_GERMANY_TEXT_12">
+			<Text>The story of World War I is well known. At heart, that war was a horrible failure of diplomacy as lesser men tried to emulate Bismarck's tactics. In the years leading up to that cataclysmic event, the Great Powers of Europe found themselves almost helplessly falling into two armed camps, each side linked together by a labyrinthine of diplomatic agreements which left little room for actual diplomacy. Country A was treaty-bound to Country B, who had promised to come to Country C's aid if it went to war with Country D, who was similarly allied to Countries E, F, and G.[NEWLINE][NEWLINE]In 1914 the entire house of cards came tumbling down following a blatant attempt to engulf Serbia by Austria-Hungary. Using the assassination of an Austro-Hungarian nobleman by a Serbian anarchist as an excuse, Austria-Hungary declared war on Serbia. Russia honored its treaty with Serbia and declared war on Austria-Hungary, and Austria-Hungary's ally Germany mobilized its forces to attack Russia, which caused France (still smarting from the loss of Alsace-Lorraine 40 years earlier) to mobilize against Germany. England, France and Russia's ally, had little choice but to also declare war on Germany and Austria-Hungary.[NEWLINE][NEWLINE]Although it enjoyed great initial success early in the war, crippling Russia and overrunning half of France, Germany and its allies were unable to deliver the final killing blow to its enemies, and the war degenerated into a hideous stalemate which lasted for four horrible years of trench warfare. Britain's command of the seas and the United States' entry into the war finally broke Germany's will to resist. Sick of war, under pressure on all fronts and seeing no chance of victory, the German people revolted. The Kaiser fled to the Netherlands; the Germans declared a Republic, and on November 11 1918 they signed an Armistice agreement. By war's end some 15 million people had been killed and much of Europe was a stinking wasteland of mud, corpses and unexploded ordnance.[NEWLINE][NEWLINE]The victors were not overly kind to Germany following the war. France took back the disputed territories of Alsace-Lorraine, and the allies imposed huge war reparations on the already-destitute country, which was forbidden to maintain a significant military. (Austria-Hungary fared no better: the empire was dismembered on ethnic lines into Austria, Hungary, Czechoslovakia, and Yugoslavia, and the Ottoman Empire was similarly hacked into pieces.)[NEWLINE][NEWLINE]Germany was prostrate, bankrupt, and under threat of occupation if it did not pay huge sums of money to its neighbors (who it should be noted in fairness were not in much better shape themselves and who desperately needed the money to rebuild). Many wondered if Germany would ever be able to recover from the catastrophe of World War I.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_GERMANY_TEXT_13">
+			<Text>Again, the events leading up to World War II are well-known. Trading upon the anger and humiliation felt by the German people, Adolf Hitler and his fascist Nazi (National-Socialist) party gained control of the German government. The Germans rebuilt their country, economy and military with astonishing rapidity, while Jews, homosexuals, Gypsies and other minorities were persecuted with increasing ferocity.[NEWLINE][NEWLINE]While Germany's former enemies watched supinely, Hitler united Germany with Austria, then gobbled up Czechoslovakia. Isolated by France, England and the US, Stalin's Communist Russia helped Germany dismember helpless Poland. This caused France and England to declare war against Germany, but neither country had the military power to launch an offensive war against Hitler's growing army.[NEWLINE][NEWLINE]In 1940 Germany invaded France via the Netherlands, Belgium and the Low Countries. France's defenses were outflanked, and the German tanks made short work of the inferior French and British armaments. In a little over a month France had surrendered and the British had been driven off of the continent.[NEWLINE][NEWLINE]In 1941 Germany turned its attention to the East. The mighty German war machine carved a bloody swath into the belly of the Soviet Union, destroying entire Soviet armies hurled into its path to stem the assault. By late 1941 Germany seemed on the verge of destroying Soviet Russia and achieving undisputed mastery of continental Europe.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_GERMANY_TEXT_14">
+			<Text>Despite its early astonishing successes, Germany was unable to destroy the Soviet Union. Crippled by Stalin's purge of the officer's corps some years before and ill-equipped and ill-trained, the Soviet army fought heroically to stem the German advance. Though it cost them huge, terrible casualties to do so, the Red Army halted the Germans before they could capture Leningrad or Moscow, buying Stalin time to train and equip a huge military force with which to launch his counter-offensive.[NEWLINE][NEWLINE]In the Western Front, things were looking no better for Germany The United States had entered the war (following the Japanese attack on Pearl Harbor), and American and British forces began to undermine German power first in Africa and then Italy. As the Russian forces ground their way west against extraordinary German resistance, the Americans and British invaded France, opening up another front against Hitler's forces. Bled white and unable to defend fronts, the German army finally collapsed. Hitler committed suicide, and in May 7-8 1945 Germany surrendered.[NEWLINE][NEWLINE]Germany paid heavily for its transgressions. Millions of Germans died in the war, including a staggering number of German Jews who were murdered by their Germany countrymen. The Soviet Union (which itself suffered tens of millions of casualties) expanded its borders westward into Polish territory and Poland was in turn awarded German eastern territory, including all of Prussia, where fifteen million Germans were driven from their homes into what remained of Germany. Germany herself was divided and occupied by the Allies, Russia occupying Eastern Germany while France, the United Kingdom and the United States occupied Western Germany and half of Berlin.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_GERMANY_TEXT_15">
+			<Text>In the years after World War II Germany has made yet another remarkable comeback. Following the end of the Cold War and the collapse of the Soviet Union, East and West Germany have reunited, becoming once again an economic powerhouse unrivaled in Europe. Germany has become an enthusiastic member of the European Union, and perhaps most astonishingly, a close friend and ally of France. The German people seem to accept responsibility for their nation's horrible crimes in World War II and seem determined to make sure that they never reoccur. In short, Germany has become a powerful force for world peace and unity in the twenty-first century.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_GERMANY_TEXT_2">
+			<Text>Germany encompasses a variety of terrains, from snow-covered mountains in the south to rolling hills in the west to the flatlands of the east. It is crossed by several major rivers which provide water for crops and transport for goods. Its hills and mountains are rich with natural resources and its plains are fertile. Germany has a temperate climate and abundant rainfall, ideal for European-style agriculture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_GERMANY_TEXT_3">
+			<Text>For centuries northern-central Europe has been occupied by Germanic people, roughly defined as people who speak Germanic languages (rather than say the Romantic languages of Italy, France and Spain). Evidence suggests that Germanic tribes lived in northern Germany as far back as the Bronze Age. It appears that during this period Southern Germany was originally populated by peoples of Celtic origin; they were however eventually "Germanized" as the Germanic tribes' influence spread south.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_GERMANY_TEXT_4">
+			<Text>The first historical information on the Germanic tribes comes to us from about 50 BC, when the Roman general Julius Caesar encountered and fought various tribes while conquering the province of Gaul (an area roughly encompassing modern France). Caesar established the eastern border of Gaul at the Rhine River, beyond which most of the "barbaric" German tribes lived.[NEWLINE][NEWLINE]The Romans and Germanic people maintained an uneasy peace (punctuated by various raids and border skirmishes) for some forty years until approximately 10 BC, when the Roman armies invaded Germanic territory from two directions, crossing the Rhine to the west and the Danube to the east. This proved to be a catastrophic miscalculation: the barbarians were astonishingly tough opponents and a number of Roman legions were destroyed. The humiliated Romans retreated to the previous borders of the Danube and the Rhine, no further incursions were attempted for several centuries, and the two sides coexisted more or less peacefully until 350 AD.[NEWLINE][NEWLINE]During that period there was a good deal of commerce between the Romans and the Germans, with the Germans trading raw material in exchange for Roman manufactured and luxury goods. Over time the Germans learned pottery and advanced agricultural techniques from the Romans, and they even began using Roman money.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_GERMANY_TEXT_5">
+			<Text>As the fourth century progressed, the Germanic tribes began to come under increased pressure from "Hunnish" tribes migrating into Germanic territory from further east. This pushed the Germanic people into Roman territory. Over the next fifty-odd years parts of Rome were overrun by the Visigoths, Suebi and Vandals. The city of Rome itself was sacked several times, and several Roman emperors died fighting the invaders. The Romans eventually came to terms with some of the invaders, granting them territory and some measure of protection from the advancing Huns.[NEWLINE][NEWLINE]With the death of Attila in 453 the Hun Empire collapsed, and the Germanic tribes no longer needed Rome's protection. A number of tribes declared their independence from Rome, and within a short period a Visigoth kingdom was established in southwest Gaul, a Burgundian kingdom was declared in southeast Gaul, a Frankish kingdom was established in the north, and the Lombard kingdom was created on the Danube - and the Western Roman Empire ceased to exist.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_GERMANY_TEXT_6">
+			<Text>Once established in north-western Gaul, the "Franks" (the Germanic peoples in Roman Gaul) began to expand eastward across the Rhine and back into non-Romanized Germanic territory, where the non-Romanized Germanic tribes remained as stubbornly independent as ever. The subjugation of the tribes spanned three centuries of war, conquest, rebellion, treachery, punishment, and more war. Religion was one of the great impediments to peace: the Franks had become Christian and they sought to spread the gospel into the barbarian lands. The Germanic tribes were pagans and did not want to abandon their religion. Christianity would emerge victorious, eventually, but it was a long and difficult (and often bloody) process.[NEWLINE][NEWLINE]The Franks themselves were not a unified monolithic entity: they spent as much time fighting themselves as they did battling external foes. The earliest line of rulers, the Merovingians, remained in power until the middle of the seventh century, when they were overthrown by the Carolingians, a rival faction from the north. The Carolingians were blessed with a series of extremely able kings who, allied with the Catholic Church, extended Frankish power across much of central Europe.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_GERMANY_TEXT_7">
+			<Text>The greatest of the Carolingians, Charlemagne (742-814) was a brilliant military leader and a canny politician. He continued his father's and grandfather's subjugation of the Germanic tribes, and he extended his empire into southern France and then Italy. In exchange for protecting Rome from the Saracens and the Byzantines, the Pope crowned him Emperor of the Holy Roman Empire. Today Charlemagne is considered to be one of the founders of France and of Germany, not to mention the first man to unite Western Europe since the Romans.[NEWLINE][NEWLINE]Upon Charlemagne's death, his only son Louis I (Louis the Pious) assumed the throne. Louis had more than one son, and when he died the Empire was divided between them. Many years would pass before any single person would again rule so large a portion of Europe.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_GERMANY_TEXT_8">
+			<Text>Louis the Pious' son, Louis the German, inherited the eastern portion of the Holy Roman Empire, which included the Kingdom of Bavaria and other territories in what would become Medieval Germany. Much of his reign was spent fighting the Slavs, the Vikings and his brothers, inheritors of the middle and western portions of Charlemagne's empire (the areas which would later become France and the Benelux countries). Louis the German ruled for some 50 years (ca. 825-876), providing political stability to his war-torn kingdom. When not engaged in battle with his neighbors, Louis was an early patron of German letters who promoted the creation of monasteries in his kingdom.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_GERMANY_TEXT_9">
+			<Text>In the two centuries following Louis' reign, external pressure from Danes, Saracens and Magyars, weakened the central government, and as it proved incompetent to protect its citizens from attack, power devolved to local authorities, resulting in a patchwork of smaller mostly independent duchies who became independent political units in everything but name. Following the death of the last Carolingian German king, the German dukes elected first a Frankish duke to be king, but when he proved incompetent the title went to a Saxon duke.[NEWLINE][NEWLINE]The Saxons remained in power for some centuries. They successfully held off the attacks of the eastern barbarians (though an attempt to expand German power east proved disastrous). By the late 10th century Otto I had invaded and conquered much of Italy. Pope John XII crowned him Emperor, beginning a powerful alliance between the German state and the Church that lasted over a century.[NEWLINE][NEWLINE]This alliance was not permanent, however. Eventually, the popes grew to resent the German kings' increasing power over the Church's property and personnel. Reformers within the Church decried the corruption of bishops and abbots who purchased their positions from kings and duchies (the sin of "simony"), claiming that only the pope should make such appointments. Matters reached a peak in 1075, when King Henry IV demanded that Pope Gregory VII abdicate; Gregory responded by excommunicating Henry. Facing a civil war, Henry was forced to beg the pope for forgiveness. The pope gave it, but Henry was badly weakened and was unable to quash the rebellion, which dragged on for some 20 years. Although Henry IV survived, the German monarchy was permanently weakened by the struggle.[NEWLINE][NEWLINE]During this period German power continued to grow in Central Europe, as German kings and duchies conquered and colonized non-German territory to the east and west. King Frederick I (Frederick Barbarossa), who reigned from 1152-1190, campaigned to reconquer Lombardy and Italy. Although unsuccessful against the Lombards, he (and his heirs) did make substantial gains in Italy. Frederick died in 1190, while leading the ill-fated Third Crusade towards the Holy Land. According to legend he drowned while bathing.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_GERMANY_TITLE">
+			<Text>Germany</Text>
+		</Row>
+		<!-- End-->
+		<!--
+		<Row Tag="TXT_KEY_CIV_GE_GERMANY_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_GERMANY_TEXT_1">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_GERMANY_HEADING_2">
+			<Text>Climate and Terrain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_GERMANY_TEXT_2">
+			<Text>Germany encompasses a variety of terrains, from snow-covered mountains in the south to rolling hills in the west to the flatlands of the east to the coast in the north. It is crossed by several major rivers which provide water for crops and transport for goods. Its hills and mountains are poor with natural resources and its plains are not very fertile. Germany has a temperate climate and abundant rainfall, ideal for European-style agriculture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_GERMANY_HEADING_3">
+			<Text>Foundation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_GERMANY_TEXT_3">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_GERMANY_HEADING_4">
+			<Text>Bismarck Era</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_GERMANY_TEXT_4">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_GERMANY_HEADING_5">
+			<Text>Wilhelmine Era</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_GERMANY_TEXT_5">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_GERMANY_HEADING_6">
+			<Text>The Great War</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_GERMANY_TEXT_6">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_GERMANY_HEADING_7">
+			<Text>Legacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_GERMANY_TEXT_7">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_GERMANY_FACTOID_HEADING">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_GERMANY_FACTOID_TEXT">
+			<Text></Text>
+		</Row>-->
+
+		<Row Tag="TXT_KEY_CITY_NAME_GE_GERMANY_1">
+			<Text>Berlin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_GERMANY_2">
+			<Text>Königsberg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_GERMANY_3">
+			<Text>Hamburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_GERMANY_4">
+			<Text>Breslau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_GERMANY_5">
+			<Text>Munich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_GERMANY_6">
+			<Text>Frankfurt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_GERMANY_7">
+			<Text>Cologne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_GERMANY_8">
+			<Text>Danzig</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_GERMANY_9">
+			<Text>Strassburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_GERMANY_10">
+			<Text>Stettin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_GERMANY_11">
+			<Text>Essen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_GERMANY_12">
+			<Text>Posen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_GERMANY_13">
+			<Text>Dortmund</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_GERMANY_14">
+			<Text>Kattowitz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_GERMANY_15">
+			<Text>Stuttgart</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_GERMANY_16">
+			<Text>Magdeburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_GERMANY_17">
+			<Text>Düsseldorf</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_GERMANY_18">
+			<Text>Hannover</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_GERMANY_19">
+			<Text>Bremen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_GERMANY_20">
+			<Text>Metz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_GERMANY_21">
+			<Text>Duisburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_GERMANY_22">
+			<Text>Mainz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_GERMANY_23">
+			<Text>Leipzig</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_GERMANY_24">
+			<Text>Kiel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_GERMANY_25">
+			<Text>Dresden</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_GERMANY_26">
+			<Text>Schwerin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_GERMANY_27">
+			<Text>Bonn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_GERMANY_28">
+			<Text>Bochum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_GERMANY_29">
+			<Text>Bielefeld</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_GERMANY_30">
+			<Text>Karlsruhe</Text>
+		</Row>
+		
+
+		<Row Tag="TXT_KEY_LEADER_GE_WILHELMII">
+			<Text>Wilhelm II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GE_WILHELMII_HEADING_1">
+			<Text>Wilhelm II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GE_WILHELMII_TEXT_1">
+			<Text>Wilhelm II or William II was the last German Emperor (Kaiser) and King of Prussia, ruling the German Empire and the Kingdom of Prussia from 15 June 1888 to 9 November 1918. He was the eldest grandson of the British Queen Victoria and related to many monarchs and princes of Europe. Crowned in 1888, he dismissed the Chancellor, Otto von Bismarck, in 1890 and launched Germany on a bellicose "New Course" in foreign affairs that culminated in his support for Austria-Hungary in the crisis of July 1914 that led to the First World War. Bombastic and impetuous, he sometimes made tactless pronouncements on sensitive topics without consulting his ministers, culminating in a disastrous Daily Telegraph interview that cost him most of his power in 1908.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GE_WILHELMII_HEADING_2">
+			<Text>Early Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GE_WILHELMII_TEXT_2">
+			<Text>Wilhelm was born on 27 January 1859 at the Crown Prince's Palace in Berlin to Prince Frederick William of Prussia (the future Frederick III) and his wife, Victoria, Princess Royal, the eldest daughter of Britain's Queen Victoria. His mother was obsessed by his damaged arm. She blamed herself for the child's handicap and insisted that he become a good rider. The thought that he, as Heir to the Throne, should not be able to ride was intolerable to her. Riding lessons began when Wilhelm was eight and were a matter of endurance for Wilhelm. Over and over, the weeping prince was set on his horse and compelled to go through the paces. He fell off time after time but despite his tears was set on its back again. After weeks of torture he finally got it right and was able to maintain his balance.[NEWLINE][NEWLINE]Wilhelm possessed a quick intelligence, but unfortunately this was often overshadowed by a cantankerous temper. Despite his parents' (especially his mother's), efforts to educate their son in British attitudes towards democracy, he favoured his German tutors in aspiring to autocratic rule. He thus became alienated from his parents, suspecting them of putting Britain's interests first. [NEWLINE][NEWLINE]In many ways, Wilhelm was a victim of his inheritance and of Otto von Bismarck's machinations. Both sides of his family had suffered from mental illness, and this may explain his emotional instability. When Wilhelm was in his early twenties, Bismarck tried to separate him from his parents (who opposed Bismarck and his policies) with some success. Bismarck planned to use the young prince as a weapon against his parents in order to retain his own political dominance. Wilhelm thus developed a dysfunctional relationship with his parents, but especially with his English mother.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GE_WILHELMII_HEADING_3">
+			<Text>Emperor of Germany</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GE_WILHELMII_TEXT_3">
+			<Text>The German Emperor Wilhelm I died in Berlin on 9 March 1888, and Prince Wilhelm's father was proclaimed Emperor as Frederick III. He was already suffering from an incurable throat cancer and spent all 99 days of his reign fighting the disease before dying. On 15 June of that same year, his 29-year-old son succeeded him as German Emperor and King of Prussia. Although in his youth he had been a great admirer of Otto von Bismarck, Wilhelm's characteristic impatience soon brought him into conflict with the "Iron Chancellor", the dominant figure in the foundation of his empire. The new Emperor opposed Bismarck's careful foreign policy, preferring vigorous and rapid expansion to protect Germany's "place in the sun." Furthermore, the young Emperor had come to the throne with the determination that he was going to rule as well as reign, unlike his grandfather, who had largely been content to leave day-to-day administration to Bismarck. Early conflicts between Wilhelm II and his chancellor soon poisoned the relationship between the two men. Bismarck believed that Wilhelm was a lightweight who could be dominated, and he showed scant respect for Wilhelm's policies in the late 1880s. The final split between monarch and statesman occurred soon after an attempt by Bismarck to implement a far-reaching anti-Socialist law in early 1890.[NEWLINE][NEWLINE]Bismarck resigned at Wilhelm II's insistence in 1890, at the age of 75, to be succeeded as Chancellor of Germany and Minister-President of Prussia by Leo von Caprivi, who in turn was replaced by Chlodwig, Prince of Hohenlohe-Schillingsfürst, in 1894. Following the dismissal of Hohenlohe in 1900, Wilhelm appointed the man whom he regarded as "his own Bismarck", Bernhard von Bülow. In foreign policy Bismarck had achieved a fragile balance of interests between Germany, France and Russia—peace was at hand and Bismarck tried to keep it that way despite growing popular sentiment against Britain (regarding colonies) and especially against Russia. [NEWLINE][NEWLINE]With Bismarck's dismissal the Russians now expected a reversal of policy in Berlin, so they quickly came to terms with France, beginning the process that by 1914 largely isolated Germany. In the early twentieth century Wilhelm began to concentrate upon his real agenda; the creation of a German navy that would rival that of Britain and enable Germany to declare itself a word power. He ordered his military leaders to read Admiral Alfred Thayer Mahan's book, The Influence of Sea Power upon History, and spent hours drawing sketches of the ships that he wanted built. Bülow and Bethmann Hollweg, his loyal chancellors, looked after domestic affairs, while Wilhelm began to spread alarm in the chancellories of Europe with his increasingly eccentric views on foreign affairs.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GE_WILHELMII_HEADING_4">
+			<Text>World War I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GE_WILHELMII_TEXT_4">
+			<Text>Wilhelm was a friend of Franz Ferdinand, Archduke of Austria, and he was deeply shocked by his assassination on 28 June 1914. Wilhelm offered to support Austria-Hungary in crushing the Black Hand, the secret organization that had plotted the killing, and even sanctioned the use of force by Austria against the perceived source of the movement—Serbia (this is often called "the blank cheque"). Unknown to the Emperor, Austro-Hungarian ministers and generals had already convinced the 84-year-old Franz Joseph I of Austria to sign a declaration of war against Serbia. As a direct consequence, Russia began a general mobilization to attack Austria in defense of Serbia.[NEWLINE][NEWLINE]When it became clear that Germany would experience a war on two fronts and that the United Kingdom would enter the war if Germany attacked France through neutral Belgium, the panic-stricken Wilhelm attempted to redirect the main attack against Russia. In the original Schlieffen plan, Germany would attack the (supposed) weaker enemy first, meaning France. The plan supposed that it would take a long time before Russia was ready for war. Defeating France had been easy for Prussia in the Franco-Prussian War in 1870. At the 1914 border between France and Germany, an attack at this more southern part of France could be stopped by the French fortress along the border.[NEWLINE][NEWLINE]Wilhelm's role in wartime was of ever-decreasing power as he increasingly handled awards ceremonies and honorific duties. The high command continued with its strategy even when it was clear that the Schlieffen plan had failed. By 1916 the Empire had effectively become a military dictatorship under the control of Field Marshal Paul von Hindenburg and General Erich Ludendorff.  Increasingly cut off from reality and the political decision-making process, Wilhelm vacillated between defeatism and dreams of victory, depending upon the fortunes of his armies. Nevertheless, Wilhelm still retained the ultimate authority in matters of political appointment, and it was only after his consent had been gained that major changes to the high command could be effected.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GE_WILHELMII_HEADING_5">
+			<Text>Later Years</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GE_WILHELMII_TEXT_5">
+			<Text>Wilhelm was at the Imperial Army headquarters in Spa, Belgium, when the uprisings in Berlin and other centres took him by surprise in late 1918. Mutiny among the ranks of his beloved Kaiserliche Marine, the imperial navy, profoundly shocked him. After the outbreak of the German Revolution, Wilhelm could not make up his mind whether or not to abdicate. Up to that point, he accepted that he would likely have to give up the imperial crown, but still hoped to retain the Prussian kingship. The unreality of this belief was revealed when, in the hope of preserving the monarchy in the face of growing revolutionary unrest, Chancellor Prince Max of Baden announced Wilhelm's abdication of both titles on 9 November 1918.[NEWLINE][NEWLINE]On 10 November, Wilhelm—now Wilhelm Hohenzollern, private citizen—crossed the border by train and went into exile in the Netherlands, which had remained neutral throughout the war. Upon the conclusion of the Treaty of Versailles in early 1919, Article 227 expressly provided for the prosecution of Wilhelm "for a supreme offence against international morality and the sanctity of treaties", but Queen Wilhelmina refused to extradite him, despite appeals from the Allies. King George V wrote that he looked on his cousin as "the greatest criminal in history", but opposed Prime Minister David Lloyd George's proposal to "hang the Kaiser". President Woodrow Wilson of the United States rejected extradition, arguing that punishing Wilhelm for waging war would destabilize international order and lose the peace. Wilhelm first settled in Amerongen, where on 28 November he issued a belated formal statement of abdication as king of Prussia and released his soldiers and officials from their oath of loyalty to him, thus formally ending the Hohenzollerns' 400-year title as kings of Prussia. In 1922, Wilhelm published the first volume of his memoirs — a very slim volume that insisted he was not guilty of initiating the Great War, and defended his conduct throughout his reign, especially in matters of foreign policy. For the remaining twenty years of his life, he entertained guests (often of some standing) and kept himself updated on events in Europe. In the early 1930s, Wilhelm apparently hoped that the successes of the German Nazi Party would stimulate interest in a restoration of the monarchy, with his eldest grandson as the fourth Kaiser. His second wife, Hermine, actively petitioned the Nazi government on her husband's behalf. However, Adolf Hitler, himself a veteran of the First World War, like other leading Nazis, felt nothing but scorn for the man they blamed for Germany's greatest defeat, and the petitions were ignored.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GE_WILHELMII_HEADING_6">
+			<Text>Judgement of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GE_WILHELMII_TEXT_6">
+			<Text>The court-inspired writers considered him a martyr and a hero, often uncritically accepting the justifications provided in the Kaiser's own memoirs. Then there came those who judged Wilhelm to be completely unable to handle the great responsibilities of his position, a ruler too reckless to deal with power. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GE_WILHELMII_HEADING_7">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GE_WILHELMII_TEXT_7">
+			<Text>A traumatic breech birth left him with a withered left arm due to Erb's palsy, making his left arm about 6 inches (15 centimeters) shorter than his right arm, which he tried with some success to conceal. In many photos he carries a pair of white gloves in his left hand to make the arm seem longer, holds his left hand with his right, or has his crippled arm on the hilt of a sword or holding a cane to give the effect of a useful limb posed at a dignified angle. Historians have suggested that this disability affected his emotional development.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GE_WILHELMII_LIVED">
+			<Text>1859 - 1941 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GE_WILHELMII_NAME">
+			<Text>Wilhelm II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GE_WILHELMII_SUBTITLE">
+			<Text>Leader of the Germans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GE_WILHELMII_TITLES_1">
+			<Text>Emperor of Germany</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GE_WILHELMII_TITLES_2">
+			<Text>King of Prussia</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TRAIT_GE_GERMANY_SHORT">
+			<Text>The Schlieffen Plan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_GE_GERMANY">
+			<Text>Units gain +2 Movement Points on the first turn of war and +1 for the nine next. Military units are completely healed when workers are disbanded on the same tile, but they lose -25% combat strength for the rest of the war.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_BE_STORMTROOPER">
+			<Text>Stormtrooper</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BE_STORMTROOPER_TEXT">
+			<Text>Stormtroopers were specialist soldiers of the German Army in World War I. In the last years of the war, Stoßtruppen were trained to fight with "infiltration tactics", part of the Germans' new method of attack on enemy trenches. Men trained in these methods were known in Germany as Sturmmann (literally "storm man" but usually translated as "stormtrooper"), formed into companies of Sturmtruppen ("assault troops", more often and less exactly "storm troops"). The infiltration tactics of the stormtroopers are still in use today, in one form or another. Other armies have also used the term "assault troops", "shock troops" or fireteams for specialist soldiers who perform the infiltration tasks of stormtroopers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BE_STORMTROOPER_STRATEGY">
+			<Text>The Stormtrooper has no penalties for going defensive, however they have many bonuses to be used offensively instead, and in the frontlines. Their Combat Strength bonus against fortified units means they can break in through fortified positions, and they excel at killing other infantry units. While traversing to the enemy, they also have 25% extra defense against ranged attacks. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_BE_STORMTROOPER_INFANTRY">
+			<Text>Replaces the Great War Infantry. +40% Combat Strength against fortified units. Has bonus against other Gunpowder units and a 33% Combat Strength against ranged attacks promotion when in open terrain. </Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_GE_UBOAT">
+			<Text>U-boat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_INDUSTRIAL_GE_UBOAT_TEXT">
+			<Text>U-boat is the anglicised version of the German word U-Boot, a shortening of Unterseeboot, which means "undersea boat". While the German term refers to any submarine, the English one (in common with several other languages) refers specifically to military submarines operated by Germany, particularly in World War I and World War II. Although at times they were efficient fleet weapons against enemy naval warships, they were most effectively used in an economic warfare role (commerce raiding), enforcing a naval blockade against enemy shipping. The primary targets of the U-boat campaigns in both wars were the merchant convoys bringing supplies from Canada, the British Empire, and the United States to the islands of the United Kingdom and (during World War II) to the Soviet Union and the Allied Countries in the Mediterranean. Austro-Hungarian submarines of World War I (and before) were also known as U-boats.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GE_UBOAT_STRATEGY">
+			<Text>The U-boat is an excepcionally good offensive unit, as they can move after attacking enemy ships in blockaded cities, thus are able to perform hit and run tactics and get away with it using the submarine's invisibility, and they can gain enough experience for promotions by simply sinking an enemy Cargo Ship.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_GE_UBOAT">
+			<Text>Replaces the submarine. The U-boat can move after attacking in blockaded city waters and gain experience from sinking Cargo Ships.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_GE_STORMTROOPER">
+			<Text>Stormtrooper</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GE_STORMTROOPER_HELP">
+			<Text>This unit has +40% combat strength against fortified units and a 15% bonus against gunpowder units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GE_STORMTROOPER_OPENTERRAIN">
+			<Text>Crossing the No Man's Land</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GE_STORMTROOPER_OPENTERRAIN_HELP">
+			<Text>+33% Combat Strength bonus against ranged attacks on open terrain.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GE_UBOAT_BLOCKADE">
+			<Text>Submarine Blockade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GE_UBOAT_BLOCKADE_HELP">
+			<Text>+25% Combat Strength</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GE_GERMANYTRAIT">
+			<Text>Total War</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GE_GERMANYTRAIT_HELP">
+			<Text>-25% Combat Strength due to inexperienced citizens reinforcing the army.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GE_GERMANYMOVE1">
+			<Text>The Schlieffen Plan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GE_GERMANYMOVE1_HELP">
+			<Text>This unit has +1 Movement point.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GE_GERMANYMOVE2">
+			<Text>The Schlieffen Plan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GE_GERMANYMOVE2_HELP">
+			<Text>This unit has +2 Movement points.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DECISIONS_GE_GERMANY_FLEET">
+			<Text>Pass the Fleet Laws</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_GE_GERMANY_FLEET_DESC">
+			<Text>
+				Someone else has the largest fleet in the world! This is inadmissible! They make fun of our colonies, and of our naval prowess, and of our very nation! This will not stand! We must and will build a fleet of only the greatest warships to overshadow their petty boats, and take control of the seas![NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Germany (Wilhelm II)
+				[NEWLINE][ICON_BULLET]May only be enacted once
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Industrial Era
+				[NEWLINE][ICON_BULLET]Must have less ships than any other civilization
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]1200 [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+33% [ICON_PRODUCTION] Production towards naval units
+				[NEWLINE][ICON_BULLET]Harbors and Sea Ports are built 50% faster
+				[NEWLINE][ICON_BULLET]Harbors and Sea Ports yield +1 [ICON_PRODUCTION] Production
+				[NEWLINE][ICON_BULLET]Receives a free Great Admiral
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_GE_GERMANY_FLEET_ENACTED">
+			<Text>Soon our navy will be the mightiest in the world.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DECISIONS_GE_GERMANY_KWS">
+			<Text>Establish the Kaiser Wilhelm Society</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_GE_GERMANY_KWS_DESC">
+			<Text>
+				Although the Prussian education has proven itself to be most efficient, it's becoming unable to modernize in face of these new times. We must sponsor the Kaiser Wilhelm Society for the Advancement of Science![NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Germany (Wilhelm II)
+				[NEWLINE][ICON_BULLET]May only be enacted once
+				[NEWLINE][ICON_BULLET]Must have researched Education
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]800 [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]National College generates +2 [ICON_SCIENCE] Science
+				[NEWLINE][ICON_BULLET]University generates +1 Great Scientist point and yields +1 [ICON_SCIENCE] Science
+				[NEWLINE][ICON_BULLET]Cities with a library receive an University
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_GE_GERMANY_KWS_ENACTED">
+			<Text>We have sponsored the Kaiser Wilhelm Society for the Advancement of Science.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_GE_DISASTROUS_SPEECH">
+			<Text>Disastrous Speech</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_GE_DISASTROUS_SPEECH_DESC">
+			<Text>The Kaiser has provided us with yet another tactless comment in his recent speech, completely disregarding the interests of our country.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_GE_DISASTROUS_SPEECH_OUTCOME_1">
+			<Text>Woopsy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_GE_DISASTROUS_SPEECH_OUTCOME_2">
+			<Text>Divert Blame!!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_GE_DISASTROUS_SPEECH_OUTCOME_3">
+			<Text>Argh, you English are mad, mad, mad as March hares!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_GE_DISASTROUS_SPEECH_OUTCOME_RESULT_1">
+			<Text>
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]3 Turns of Anarchy in the empire
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_GE_DISASTROUS_SPEECH_OUTCOME_RESULT_2">
+			<Text>
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]5 Turns of resistance in your capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_GE_DISASTROUS_SPEECH_OUTCOME_RESULT_3">
+			<Text>
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose -200 [ICON_INFLUENCE] Influence with {1_CS}[ENDCOLOR]
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_GE_DISASTROUS_SPEECH_NOTIFICATION">
+			<Text>Disastrous Speech</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_GE_DISASTROUS_SPEECH_OUTCOME_RESULT_NOTIFICATION">
+			<Text>Kaiser Wilhelm II has made yet another disastrous speech.</Text>
+		</Row>
+
+		<!-- RYOGA's UNIQUE CULTURAL INFLUENCE -->
+		<Row Tag="TXT_KEY_GENERIC_GE_GERMANY_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now starting world wars and being obsessed with your navy. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+
+		<!--First Greeting messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_GE_WILHELMII_FIRSTGREETING_1">
+			<Text>Oh? Who are you? Who? From where? Uhh no, never heard of. I am Wilhelm II, and I'm sure you heard of me, the emperor of Germany!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GE_WILHELMII_FIRSTGREETING_2">
+			<Text>Are you here to see my navy? Oh sure not, no one is, whatever, it's just a damn bunch of ships anyway... Oh well, who are you then?</Text>
+		</Row>
+		<!--Defeated messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_GE_WILHELMII_DEFEATED_1">
+			<Text>What? Now thats just unfair! Where did you get all those troops out of sudden? Damn you! Damn you! Damn you!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GE_WILHELMII_DEFEATED_2">
+			<Text>This is an absurd! I am superior to you! My army is superior, and my navy too! You cheated! I don't know how but I'm sure you did!</Text>
+		</Row>
+		<!-- Human repeats an action too much, gets the following responses -->
+		<Row Tag="TXT_KEY_LEADER_GE_WILHELMII_REPEAT_TOO_MUCH_1">
+			<Text>Oh God just go away!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GE_WILHELMII_REPEAT_TRADE_TOO_MUCH_1">
+			<Text>Let me repeat that for you: I will not accept this deal.</Text>
+		</Row>
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_GE_WILHELMII_GREETING_HOSTILE_HELLO_1">
+			<Text>What are you doing showing your face uninvited around Germany? Who told you could get in here? Go away, shoo!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GE_WILHELMII_GREETING_POLITE_HELLO_1">
+			<Text>Oh, you got here quick! What can I do for you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GE_WILHELMII_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>Oh, it's just you. Sometimes I see myself wondering how can an empire with such a small army remain independent. Bet you don't even have a navy!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GE_WILHELMII_DENOUNCE_1">
+			<Text>Ahaha, try making any alliances now that everyone know what a fool you are![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GE_WILHELMII_DENOUNCE_2">
+			<Text>Ohh did you think I cared for your petty alliances and your stupid little navies? I do what I want![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GE_WILHELMII_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>This was just dumb of you, now with a single order I can just wipe you out of the face of Earth!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GE_WILHELMII_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>Hmm? Did you just say something? Sorry I cant hear you! Seems like your words mean nothing here!</Text>
+		</Row>
+		<!--AI Attacked by Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_GE_WILHELMII_ATTACKED_HOSTILE_1">
+			<Text>Ahh, a brilliant solution to our problems I must say! Please, could you prepare your civilians to be annexed into the German Empire for me? Would make things easier for both of us, you know.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GE_WILHELMII_ATTACKED_EXCITED_1">
+			<Text>Yes! Finally, now you'll be able to watch your navy being sunk by my superior ships and your army trumpled by my greater forces. It was just the oportunity I needed!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GE_WILHELMII_ATTACKED_SAD_1">
+			<Text>Well I'd rather not do this right now, but if you are giving away lands for free, sure, why not?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GE_WILHELMII_ATTACKED_BETRAYED_1">
+			<Text>What? What do you think you are doing? You will not get away with this! You will not!</Text>
+		</Row>
+		<!--AI Declaring War on Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_GE_WILHELMII_DOW_GENERIC_1">
+			<Text>Oh come on now, don't let this escalate into anything bigger. Surrender now, and save yourself from the trouble!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GE_WILHELMII_DOW_LAND_1">
+			<Text>Hmm, your lands were a tad bit too close to mine, turns out I need them. Say hello to my ships!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GE_WILHELMII_DOW_WORLD_CONQUEST_1">
+			<Text>Dont feel bad now, you are merely one of the belligerents in the world war that is to come! Soon all the world will be mine, including those damn, stupid british...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GE_WILHELMII_DOW_OPPORTUNITY_1">
+			<Text>Oh come on, don't give me that face, with an army so weak you were the one asking for it!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GE_WILHELMII_DOW_OPPORTUNITY_2">
+			<Text>Your empire is crumbling and I'd like a piece of it! A large one please.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GE_WILHELMII_DOW_DESPERATE_1">
+			<Text>I don't care for who you are and what fancy toys your army has, I'll crush you! I'll crush you again and again!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GE_WILHELMII_DOW_BETRAYAL_1">
+			<Text>What an interesting turn of events, don't you think? If before we had an alliance, now our empires will be only one! See how better everything will become?</Text>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		<Row Tag="TXT_KEY_LEADER_GE_WILHELMII_TOO_SOON_NO_PEACE_1">
+			<Text>Oh no, no. My armies are almost reaching your capital! Soon, it will not be with you that I'll be discussing the terms of surrender and annexation.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

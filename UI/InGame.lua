@@ -1515,6 +1515,9 @@ ContextPtr:LoadNewContext("Ptolemy_Functions")
 -- Nation - Suebi --
 ContextPtr:LoadNewContext("SuebiFunctions")
 
+-- Nation - Germany (Wilhelm II) --
+ContextPtr:LoadNewContext("Lua_Germany")
+
 -- Nation - Kilwa --
 ContextPtr:LoadNewContext("CityStatePopupGoldChanges")
 ContextPtr:LoadNewContext("JFD_KilwaFunctions")
