@@ -1,0 +1,878 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/27/2015 2:39:49 PM -->
+<GameData>
+
+
+	-<Civilizations>
+
+
+		-<Row>
+
+			<Type>CIVILIZATION_RBRUNEI</Type>
+
+			<Description>TXT_KEY_CIV_RBRUNEI_DESC</Description>
+
+			<Civilopedia>TXT_KEY_CIV5_RBRUNEI_PEDIA</Civilopedia>
+
+			<CivilopediaTag>TXT_KEY_CIV5_RBRUNEI</CivilopediaTag>
+
+			<Strategy/>
+
+			<Playable>1</Playable>
+
+			<AIPlayable>1</AIPlayable>
+
+			<ShortDescription>TXT_KEY_CIV_RBRUNEI_SHORT_DESC</ShortDescription>
+
+			<Adjective>TXT_KEY_CIV_RBRUNEI_ADJECTIVE</Adjective>
+
+			<DefaultPlayerColor>PLAYERCOLOR_RBRUNEI</DefaultPlayerColor>
+
+			<ArtDefineTag>ART_DEF_CIVILIZATION_INDONESIA</ArtDefineTag>
+
+			<ArtStyleType>ARTSTYLE_ASIAN</ArtStyleType>
+
+			<ArtStyleSuffix>_ASIA</ArtStyleSuffix>
+
+			<ArtStylePrefix>ASIAN</ArtStylePrefix>
+
+			<PortraitIndex>0</PortraitIndex>
+
+			<IconAtlas>RBRUNEI_ICON_ATLAS</IconAtlas>
+
+			<AlphaIconAtlas>RBRUNEI_ALPHA_ATLAS</AlphaIconAtlas>
+
+			<MapImage>BruneiMap.dds</MapImage>
+
+			<DawnOfManQuote>TXT_KEY_CIV5_DAWN_RBRUNEI_TEXT</DawnOfManQuote>
+
+			<DawnOfManImage>BruneiDOM.dds</DawnOfManImage>
+
+			<DawnOfManAudio/>
+
+			<SoundtrackTag>Indonesia</SoundtrackTag>
+
+		</Row>
+
+	</Civilizations>
+
+
+
+	-<Civilization_CityNames>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RBRUNEI</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RBRUNEI_0</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RBRUNEI</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RBRUNEI_1</CityName>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RBRUNEI</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RBRUNEI_2</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RBRUNEI</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RBRUNEI_3</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RBRUNEI</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RBRUNEI_4</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RBRUNEI</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RBRUNEI_5</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RBRUNEI</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RBRUNEI_6</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RBRUNEI</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RBRUNEI_7</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RBRUNEI</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RBRUNEI_8</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RBRUNEI</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RBRUNEI_9</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RBRUNEI</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RBRUNEI_10</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RBRUNEI</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RBRUNEI_11</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RBRUNEI</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RBRUNEI_12</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RBRUNEI</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RBRUNEI_13</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RBRUNEI</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RBRUNEI_14</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RBRUNEI</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RBRUNEI_15</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RBRUNEI</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RBRUNEI_16</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RBRUNEI</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RBRUNEI_17</CityName>
+
+		</Row>
+
+	</Civilization_CityNames>
+
+
+	-<Civilization_FreeBuildingClasses>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RBRUNEI</CivilizationType>
+
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+
+		</Row>
+
+	</Civilization_FreeBuildingClasses>
+
+
+	-<Civilization_FreeTechs>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RBRUNEI</CivilizationType>
+
+			<TechType>TECH_AGRICULTURE</TechType>
+
+		</Row>
+
+	</Civilization_FreeTechs>
+
+
+	-<Civilization_FreeUnits>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RBRUNEI</CivilizationType>
+
+			<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+
+			<UnitAIType>UNITAI_SETTLE</UnitAIType>
+
+			<Count>1</Count>
+
+		</Row>
+
+	</Civilization_FreeUnits>
+
+
+	-<Civilization_Leaders>
+		-
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RBRUNEI</CivilizationType>
+
+			<LeaderheadType>LEADER_RBOLKIAH</LeaderheadType>
+
+		</Row>
+
+	</Civilization_Leaders>
+
+
+	-<Civilization_Religions>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RBRUNEI</CivilizationType>
+
+			<ReligionType>RELIGION_ISLAM</ReligionType>
+
+		</Row>
+
+	</Civilization_Religions>
+
+
+	-<Civilization_SpyNames>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RBRUNEI</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RBRUNEI_0</SpyName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RBRUNEI</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RBRUNEI_1</SpyName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RBRUNEI</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RBRUNEI_2</SpyName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RBRUNEI</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RBRUNEI_3</SpyName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RBRUNEI</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RBRUNEI_4</SpyName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RBRUNEI</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RBRUNEI_5</SpyName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RBRUNEI</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RBRUNEI_6</SpyName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RBRUNEI</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RBRUNEI_7</SpyName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RBRUNEI</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RBRUNEI_8</SpyName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RBRUNEI</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RBRUNEI_9</SpyName>
+
+		</Row>
+
+	</Civilization_SpyNames>
+
+
+	-<Civilization_UnitClassOverrides>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RBRUNEI</CivilizationType>
+
+			<UnitClassType>UNITCLASS_CARAVEL</UnitClassType>
+
+			<UnitType>UNIT_RSEA_NOMAD</UnitType>
+
+		</Row>
+
+	</Civilization_UnitClassOverrides>
+
+
+	-<PlayerColors>
+
+
+		-<Row>
+
+			<Type>PLAYERCOLOR_RBRUNEI</Type>
+
+			<PrimaryColor>COLOR_PLAYER_RBRUNEI_ICON</PrimaryColor>
+
+			<SecondaryColor>COLOR_PLAYER_RBRUNEI_BACKGROUND</SecondaryColor>
+
+			<TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+
+		</Row>
+
+	</PlayerColors>
+
+
+	-<Colors>
+
+
+		-<Row>
+
+			<Type>COLOR_PLAYER_RBRUNEI_ICON</Type>
+
+			<Red>0.9023</Red>
+
+			<Green>0.9258</Green>
+
+			<Blue>0.2227</Blue>
+
+			<Alpha>1.0</Alpha>
+
+		</Row>
+
+
+		-<Row>
+
+			<Type>COLOR_PLAYER_RBRUNEI_BACKGROUND</Type>
+
+			<Red>0.7734</Red>
+
+			<Green>0.2813</Green>
+
+			<Blue>0.4805</Blue>
+
+			<Alpha>1.0</Alpha>
+
+		</Row>
+
+	</Colors>
+
+
+	-<Language_en_US>
+
+
+		-<Row Tag="TXT_KEY_CIV_RBRUNEI_DESC">
+
+			<Text>Bruneian Empire</Text>
+
+			<Gender>neuter:an</Gender>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_RBRUNEI_FACTOID_HEADING">
+
+			<Text>Brunei factoid</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_CIV5_RBRUNEI_FACTOID_TEXT">
+			-
+			<Text>Brunei is the only east asian country that is ruled in accordance to Sharia Law[NEWLINE][NEWLINE]Brunei has the second highest human development rates in Southeast Asia, and is one of two countries with public debt at 0%[NEWLINE][NEWLINE]Bruneians traditionally don't shake hands with the opposite sex[NEWLINE][NEWLINE]Bruneian healthcare and education is entirely subsidised, and Bruneians pay no personal income tax[NEWLINE][NEWLINE]Brunei has been ruled by the same royal dynasty for the last 600 years</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_RBRUNEI_TEXT">
+
+			<Text>Summary</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_RBRUNEI_HEADING_1">
+
+			<Text>History</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_RBRUNEI_HEADING_2">
+
+			<Text>Geography and Climate</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_RBRUNEI_HEADING_3">
+
+			<Text>Early legends</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_RBRUNEI_HEADING_4">
+
+			<Text>Chinese records</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_RBRUNEI_HEADING_5">
+
+			<Text>Conversion to Islam</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_RBRUNEI_HEADING_6">
+
+			<Text>The Castille war</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_RBRUNEI_HEADING_7">
+
+			<Text>Decline</Text>
+
+		</Row>
+
+		-<Row Tag="TXT_KEY_CIV5_RBRUNEI_HEADING_8">
+
+			<Text>Protectorate of Britain</Text>
+
+		</Row>
+
+		-<Row Tag="TXT_KEY_CIV5_RBRUNEI_HEADING_9">
+
+			<Text>The 20th century-Changing fortunes</Text>
+
+		</Row>
+
+		-<Row Tag="TXT_KEY_CIV5_RBRUNEI_HEADING_10">
+
+			<Text>Architects of Brunei</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_RBRUNEI_TEXT_1">
+
+			<Text>Brunei is a country located in the Northwest of the Island of Borneo in Southeast Asia. Though the current country is geographically very small, it once ruled a maritime Empire controlling the coastline of Borneo and parts of the phillipines. Despite it's size, modern Brunei is comparable to Singapore or Hong Kong in economic muscle, benefitting off vast Oil reserves.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_RBRUNEI_TEXT_2">
+
+			<Text>Brunei is a sovereign state located on the north coast of the island of Borneo in Southeast Asia. Apart from its coastline with the South China Sea, it is completely surrounded by the state of Sarawak, Malaysia; and it is separated into two parts by the Sarawak district of Limbang. It is the only sovereign state completely on the island of Borneo; the remainder of the island's territory is divided between the nations of Malaysia and Indonesia. The climate in Brunei is tropical equatorial and humid subtropical at higher altitudes with heavy rainfall.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_RBRUNEI_TEXT_3">
+
+			<Text>The early history of Brunei and its ruling dynasty is clouded in mystery. According to the official version of events, Brunei was founded by a band of fourteen saudara (brothers and first cousins), who eventually settled in the Brunei river near the present capital and chose one of their number as the first ruler. The first ruler chosen by the saudara to rule the newly founded state was Awang Alak Betatar, the son of Dewa Amas and the Sang Aji's daughter. He was not necessarily the eldest among them, but chosen to rule because of his fitness to do so. The official account states that he journeyed to Johor, embraced Islam, married the daughter of a Sultan "Bahkei" of Johor and received the title of Sultan Muhammad Shah from him. Alas, these events are dated to 1363 AD, some 150 years or so before the sultanate of Johor came into existence. Neither the Malay Annals, nor other records, show any connection between the Johor and Brunei dynasties, nor do they make mention of any Sultan "Bahkei". The earliest mention of any marriage connection with Brunei is in the sultanate of Pahang, an offshoot of the Malacca-Johor dynasty, much later in the sixteenth century. </Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_RBRUNEI_TEXT_4">
+
+			<Text>Excavations unearthed near the capital suggest that the Chinese may have controlled, or at least traded in the area as early as 835 AD. Camphor and pepper seem to have been prized objects of trade. Brunei hard camphor had a wholesale value equivalent to its own weight in silver. The kingdom was undoubtedly a very wealthy and cultured one. Ming dynasty accounts give detailed information about visits and tribute missions by rulers of P'o-ni during the late fourteenth and early fifteenth century. Their names and titles suggest either Hindu or Buddhist influence, not Islamic. The texts confirm that the state was tributary to the Hindu Javanese Majapahit Empire, but sought and received Chinese protection in 1408. Modern Bruneian writers make valiant attempts at trying to reconcile the official Islamised version of history with Western and Chinese sources. The Sinosized Sanskrit names are transliterated in such a way as to accord with Islamic names. Any names that cannot be arranged, are simply omitted from the Malay versions altogether.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_RBRUNEI_TEXT_5">
+
+			<Text>
+				After the death of its emperor, Hayam Wuruk, Majapahit entered the state of decline and was unable to control its overseas possessions. This opened the opportunity for Bruneian kings to expand their influence. Chinese Ming emperor Yung-lo, after ascending to throne in 1403, immediately dispatched envoys to various countries inviting them to pay tribute to Chinese court. Brunei immediately involved in lucrative tributary system with China. By the 15th century, the empire became a Muslim state, when the King of Brunei converted to Islam, brought by Muslim Indians and Arabs merchants from other parts of Maritime Southeast Asia, who came to trade and spread Islam. It controlled most of northern Borneo, and it became an important hub for the East and Western world trading system.  The Bruneian kings seems to cultivated alliance with regional seafaring peoples of Orang Laut and Bajau that formed their naval armada. The Dayaks, native tribes of interior Borneo however, were not under their control, as its influence seldom penetrated deep into the jungles. During the rule of Bolkiah, the fifth Sultan, the empire controlled over coastal areas of northwest Borneo (present-day Brunei, Sarawak and Sabah) and reach to Seludong (present-day Manila), Sulu Archipelago including parts of the island of Mindanao. In the 16th century, the Brunei empire's influence also extended as far as Kapuas River delta in West Kalimantan. The Malay Sultanate of Sambas in West Kalimantan and Sultanate of Sulu in Southern Philippines in particular has developed dynastic relations with the royal house of Brunei. Other Malay sultans of Pontianak, Samarinda as far as Banjarmasin, treated the Sultan of Brunei as their leader.
+			</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_RBRUNEI_TEXT_6">
+
+			<Text>
+				Since the middle of the 16th century, Europeans were eager to gain a foothold in South East Asia because of the spice trade. During that period, all the land routes from the Middle East to South East Asia were controlled by the Arabs, Persians, Turks, and Indian Muslims. The Europeans attempted to control the maritime route to South East Asia so they could trade with the Malays. It was during the reign of Sultan Saiful Rijal when the Castille War broke out. He faced two main problems which was that the Spanish wanted to spread Christianity and invade the Philippines.In 1576, the Spanish Governor in Manila was Francisco de Sande. He sent an official mission to neighbouring Brunei to meet Sultan Saiful Rijal. He explained to the Sultan that they wanted to have good relations with Brunei and also asked for permission to spread Christianity in Brunei (Roman Catholicism in Brunei was a legacy brought by Spaniards). At the same time, he demanded an end to Brunei proselytisim of Islam in the Philippines. Sultan Saiful Rijal would not agree to these terms and also expressed his opposition to the evangelisation of the Philippines, which he deemed part of Dar al-Islam. Spain declared war in 1578, attacking and capturing Brunei’s capital at the time, Kota Batu. This was achieved as a result in part of the assistance rendered to them by two noblemen, Pengiran Seri Lela and Pengiran Seri Ratna. The former had travelled to Manila to offer Brunei as a tributary of Spain for help to recover the throne usurped by his brother, Saiful Rijal.[4] The Spanish agreed that if they succeeded in conquering Brunei, Pengiran Seri Lela would indeed become the Sultan, while Pengiran Seri Ratna would be the new Bendahara. In March 1578, the Spanish fleet, led by De Sande himself, acting as Capitán General, started their journey towards Brunei. The expedition consisted of 400 Spaniards, 1,500 Filipino natives and 300 Borneans. The campaign was one of many, which also included action in Mindanao and Sulu. However, the Spanish suffered heavy losses due to a cholera or dysentery outbreak. They were so weakened by the illness that they decided to abandon Brunei to return to Manila on 26 June 1578, after just 72 days. Before doing so, they burned the mosque, a high structure with a five-tier roof. Pengiran Seri Lela died in August–September 1578, probably from the same illness that had afflicted his Spanish allies, although there was suspicion he could have been poisoned by the ruling Sultan. Seri Lela's daughter left with the Spanish and went on to marry a Christian Tagalog, named Agustín de Legazpi de Tondo. The local Brunei accounts differ greatly from the generally accepted view of events. The Castilian War entering the national conscience as a heroic episode, with the Spaniards being driven out by Bendahara Sakam, supposedly a brother of the ruling Sultan, and a thousand native warriors. This version, nevertheless, is disputed by most historians and considered a folk-hero recollection, probably created decades or centuries after.
+			</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_RBRUNEI_TEXT_7">
+
+			<Text> Not long afterwards, a fractious civil war of succession erupted, continuing for several years. A resolution only emerged once the sultan of Sulu, in the Philippines, intervened in support of one of the parties and tipped the balance of power in his favour. The fractious civil war had been bad enough, driving away trade and compelling people to emigrate elsewhere. However, the price of that help turned out to be enormously high. The victorious sultan also had to surrender a large slice of territory on the Northeast coast of Borneo to his saviour. Thereafter, the sultanate fell into a slow, long and steady decline. By the middle of the nineteenth century, the chief means of income were piracy and cattle raiding. As income had declined, taxation had increased to the point of extortion. This in turn drove more people away and encouraged rebellion in the provinces of the empire. It was not long before the session of territory became the main legitimate means of earning income. The remaining coastal regions and inland tracts of North Borneo were ceded to European adventurers and commercial interests. In the vast eastern territories, Sir James Brooke became first a vassal then independent Rajah of Sarawak. He embarked on a long process of annexation or seizure of provinces until at last, his territories encroached almost to Brunei town itself, and he made himself master of most of the Northern coast. Britain, needing a convenient coaling station, annexed the island of Labuan and its dependencies. By the late nineteenth century, the sultanate had shrunk to little more than Brunei water-town and the immediate hinterland.</Text>
+
+		</Row>
+
+		-<Row Tag="TXT_KEY_CIV5_RBRUNEI_TEXT_8">
+
+			<Text>An agreement with the British on 17th September 1888 halted the process of the shrinking sultanate up to a point and established a degree of protection. Alas, not enough to prevent the Brookes from encouraging a rebellion and wresting yet another slice of the sultanate, cutting the remaining territory in two. A new agreement with the British on 3rd December 1905 established a full protectorate, and prevented any further encroachment. The UK became responsible for defence and external affairs and appointed a permanent local Resident to advise the Sultan. Although this advice extended to the finer points of modern administration, the raising of revenue and fiscal control, interference in the internal administration of the sultanate was forbidden. Thereafter, attempts were made to develop the country but progress was painfully slow. Extremely limited resources and meagre revenues, resulted in just a few Malay schools being established, the creation of a police force, and departments of customs, lands and posts.</Text>
+
+		</Row>
+
+		-<Row Tag="TXT_KEY_CIV5_RBRUNEI_TEXT_9">
+
+			<Text>
+				Exploration for oil had begun as early as 1911 at Labi and Bukit Puan, then shifted to Tutong in 1923, until final success at Seria in 1929. The discovery of oil came like manna from heaven, assuring the sultanate with a future as the wealthiest country in the world, for its size. Gradually, government revenues began to rise, then escalate rapidly. For a decade or more, surpluses were being built because the speed of growth exceeded the ability to administer controlled spending. The once impoverished sultanate became a net lender to the government of the Straits Settlements in the 1930s. Japan occupied Brunei during the Second World War, helping itself to all the resources of the country. By the end of the war, the sultanate was in near ruin. Heavy fighting for control over Brunei Town saw much of it bombed out of existence. Food, materials and equipment were scarce until the late 1940s. The resumption of civilian rule after Japan's defeat witnessed a gradual loosening of Imperial controls. An amendment to the protectorate agreement on 29th September 1959, introduced the first written Constitution, ended the residential system and established an elected legislature with modern ministerial government. Although there had been hopes during the late 1950's and early 1960's that Brunei would join Malaysia, the Sultan consistently remained aloof from all overtures. The sultanate advanced rapidly as oil production expanded and revenues increased during the 1960's. This brought unwelcome interest from Indonesia, already engaged in "confrontation" with Malaysia with the aim of annexing the resource rich states of Sarawak and Sabah. President Sukarno supported a left wing inspired rural insurrection against the Brunei government. Although flying in police units from British North Borneo and Gurkhas from Malaya swiftly put this down, a hidden jungle campaign continued throughout Borneo for several subsequent years. British troops led by a Gurkha contingent together with the Brunei police and the new Royal Brunei Malay Regiment, saw-off these erstwhile "liberators". Unfortunately, the experience proved a watershed for democratic reform. The experiment with democracy was ended and the legislature dissolved.
+			</Text>
+
+		</Row>
+
+		-<Row Tag="TXT_KEY_CIV5_RBRUNEI_TEXT_10">
+
+			<Text>
+				Sultan Omar 'Ali Saif ud-din, the architect of the modern revival of Brunei's fortunes, abdicated in favour of his eldest son in 1967. However, as in the sultanate of old, the Begawan Sultan as he was known after his abdication, continued to wield considerable power and influence until his death. His son, Sultan Hassan al-Bolkiah, only gradually emerged from his father's guidance in the 1980's. Nevertheless, the two Sultans negotiated complete internal self-government on 23rd November 1971. The British would have preferred to see the sultanate join Malaysia or else become independent, but neither sultan were keen to see them go quite yet. The sultanate somewhat reluctantly agreed to full independence and became a full member of the Commonwealth on 1st January 1984. Since then, Sultan Hassan has led his nation into the forefront of regional and Islamic states. His people enjoy a standard of living, educational, health and other benefits, unrivalled almost anywhere on the planet. The former Brunei Town, renamed Bandar Seri Begawan in honour of his revered father, has changed out of all recognition from the sleepy water-town of old. It now boasts some magnificent buildings and monuments of world architectural merit. In recent years, the experiment in democracy that had been abandoned after the rebellion of 1960, has been revived. The Asian financial crisis of the 1990's has long passed, and the recent sharp rise in world oil prices has returned the sultanate to a period of economic boom.
+			</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_RBRUNEI_TITLE">
+
+			<Text>Brunei</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV_RBRUNEI_SHORT_DESC">
+
+			<Text>Brunei</Text>
+
+			<Gender>neuter:an</Gender>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV_RBRUNEI_ADJECTIVE">
+
+			<Text>Bruneian</Text>
+
+			<Gender>neuter:an</Gender>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_DAWN_RBRUNEI_TEXT">
+
+			<Text>May the blessings of God be on you Bolkiah, sixth Sultan of Brunei! You lead Brunei, a wealthy kingdom located in maritime Southeast Asia. First mentioned in old Chinese texts around 700 AD, Brunei was a regional power that dabbled in the politics and patronage of China, Srivijaya and Majapahit, before converting to Islam in the 15th century. It was under your reign, most esteemed Sultan when Brunei entered its height, as you oversaw not only an intellectual golden age, but also a military one as Brunei came to control the entire coastline of Borneo and beyond![NEWLINE][NEWLINE]Though its size is much diminished, modern Brunei is as much a power as ever, possessing vast reserves of Oil and a debt free economy, earning it a place as one of the wealthiest and most developed nations in the world![NEWLINE][NEWLINE]Beloved Sultan, Brunei must prepare for a second golden age, and it can only be brought about by your leadership. Will the Empire become the centre of the world’s trade once more? Or shall the nations of the world submit to your naval supremacy? Can you build a civilization to stand the test of time?</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RBRUNEI_0">
+
+			<Text>Bandar Brunei</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RBRUNEI_1">
+
+			<Text>Kuala Belait</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RBRUNEI_2">
+
+			<Text>Seria</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RBRUNEI_3">
+
+			<Text>Tutong</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RBRUNEI_4">
+
+			<Text>Bangar</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RBRUNEI_5">
+
+			<Text>Kota Batu</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RBRUNEI_6">
+
+			<Text>Muara</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RBRUNEI_7">
+
+			<Text>Sukang</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RBRUNEI_8">
+
+			<Text>Panaga</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RBRUNEI_9">
+
+			<Text>Gerudong</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RBRUNEI_10">
+
+			<Text>Gadong</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RBRUNEI_11">
+
+			<Text>Sukang</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RBRUNEI_12">
+
+			<Text>Labi</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RBRUNEI_13">
+
+			<Text>Lamut</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RBRUNEI_14">
+
+			<Text>Batang Duri</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RBRUNEI_15">
+
+			<Text>Bukit Puan</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RBRUNEI_16">
+
+			<Text>Melilas</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RBRUNEI_17">
+
+			<Text>Belait</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_SPY_NAME_RBRUNEI_0">
+
+			<Text>Awang</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_SPY_NAME_RBRUNEI_1">
+
+			<Text>Saiful</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_SPY_NAME_RBRUNEI_2">
+
+			<Text>Abdul</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_SPY_NAME_RBRUNEI_3">
+
+			<Text>Hassanal</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_SPY_NAME_RBRUNEI_4">
+
+			<Text>Syukri</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_SPY_NAME_RBRUNEI_5">
+
+			<Text>Zainul</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_SPY_NAME_RBRUNEI_6">
+
+			<Text>Saleha</Text>
+
+			<Gender>feminine</Gender>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_SPY_NAME_RBRUNEI_7">
+
+			<Text>Fadhila</Text>
+
+			<Gender>feminine</Gender>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_SPY_NAME_RBRUNEI_8">
+
+			<Text>Ezzah</Text>
+
+			<Gender>feminine</Gender>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_SPY_NAME_RBRUNEI_9">
+
+			<Text>Zaidirah</Text>
+
+			<Gender>feminine</Gender>
+
+		</Row>
+
+	</Language_en_US>
+  
+</GameData>

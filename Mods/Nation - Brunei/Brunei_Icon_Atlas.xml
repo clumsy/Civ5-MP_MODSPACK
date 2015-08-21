@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/17/2015 5:45:08 PM -->
+<GameData>
+
+	-<IconTextureAtlases>
+		- -
+
+		-<Row>
+
+			<Atlas>RBRUNEI_ICON_ATLAS</Atlas>
+
+			<IconSize>256</IconSize>
+
+			<Filename>BruneiAtlas256.dds</Filename>
+
+			<IconsPerRow>8</IconsPerRow>
+
+			<IconsPerColumn>8</IconsPerColumn>
+
+		</Row>
+		- - -
+
+		-<Row>
+
+			<Atlas>RBRUNEI_ICON_ATLAS</Atlas>
+
+			<IconSize>128</IconSize>
+
+			<Filename>BruneiAtlas128.dds</Filename>
+
+			<IconsPerRow>8</IconsPerRow>
+
+			<IconsPerColumn>8</IconsPerColumn>
+
+		</Row>
+		- - -
+
+		-<Row>
+
+			<Atlas>RBRUNEI_ICON_ATLAS</Atlas>
+
+			<IconSize>80</IconSize>
+
+			<Filename>BruneiAtlas80.dds</Filename>
+
+			<IconsPerRow>8</IconsPerRow>
+
+			<IconsPerColumn>8</IconsPerColumn>
+
+		</Row>
+		- - -
+
+		-<Row>
+
+			<Atlas>RBRUNEI_ICON_ATLAS</Atlas>
+
+			<IconSize>64</IconSize>
+
+			<Filename>BruneiAtlas64.dds</Filename>
+
+			<IconsPerRow>8</IconsPerRow>
+
+			<IconsPerColumn>8</IconsPerColumn>
+
+		</Row>
+		- - -
+
+		-<Row>
+
+			<Atlas>RBRUNEI_ICON_ATLAS</Atlas>
+
+			<IconSize>45</IconSize>
+
+			<Filename>BruneiAtlas45.dds</Filename>
+
+			<IconsPerRow>8</IconsPerRow>
+
+			<IconsPerColumn>8</IconsPerColumn>
+
+		</Row>
+		- - -
+
+		-<Row>
+
+			<Atlas>RBRUNEI_ICON_ATLAS</Atlas>
+
+			<IconSize>32</IconSize>
+
+			<Filename>BruneiAtlas32.dds</Filename>
+
+			<IconsPerRow>8</IconsPerRow>
+
+			<IconsPerColumn>8</IconsPerColumn>
+
+		</Row>
+		- - -
+
+		-<Row>
+
+			<Atlas>RBRUNEI_ALPHA_ATLAS</Atlas>
+
+			<IconSize>256</IconSize>
+
+			<Filename>BruneiAlpha256.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		- - -
+
+		-<Row>
+
+			<Atlas>RBRUNEI_ALPHA_ATLAS</Atlas>
+
+			<IconSize>128</IconSize>
+
+			<Filename>BruneiAlpha128.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		- - -
+
+		-<Row>
+
+			<Atlas>RBRUNEI_ALPHA_ATLAS</Atlas>
+
+			<IconSize>80</IconSize>
+
+			<Filename>BruneiAlpha80.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		- - -
+
+		-<Row>
+
+			<Atlas>RBRUNEI_ALPHA_ATLAS</Atlas>
+
+			<IconSize>64</IconSize>
+
+			<Filename>BruneiAlpha64.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		- - -
+
+		-<Row>
+
+			<Atlas>RBRUNEI_ALPHA_ATLAS</Atlas>
+
+			<IconSize>48</IconSize>
+
+			<Filename>BruneiAlpha48.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		- - -
+
+		-<Row>
+
+			<Atlas>RBRUNEI_ALPHA_ATLAS</Atlas>
+
+			<IconSize>45</IconSize>
+
+			<Filename>BruneiAlpha45.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		- - -
+
+		-<Row>
+
+			<Atlas>RBRUNEI_ALPHA_ATLAS</Atlas>
+
+			<IconSize>32</IconSize>
+
+			<Filename>BruneiAlpha32.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		- - -
+
+		-<Row>
+
+			<Atlas>RBRUNEI_ALPHA_ATLAS</Atlas>
+
+			<IconSize>24</IconSize>
+
+			<Filename>BruneiAlpha24.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		- - -
+
+		-<Row>
+
+			<Atlas>RBRUNEI_ALPHA_ATLAS</Atlas>
+
+			<IconSize>16</IconSize>
+
+			<Filename>BruneiAlpha16.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		- - -
+
+		-<Row>
+
+			<Atlas>RSEA_NOMAD_ALPHA</Atlas>
+
+			<IconSize>256</IconSize>
+
+			<Filename>SeaNomadFlag256.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		- - -
+
+		-<Row>
+
+			<Atlas>RSEA_NOMAD_ALPHA</Atlas>
+
+			<IconSize>128</IconSize>
+
+			<Filename>SeaNomadFlag128.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		- - -
+
+		-<Row>
+
+			<Atlas>RSEA_NOMAD_ALPHA</Atlas>
+
+			<IconSize>80</IconSize>
+
+			<Filename>SeaNomadFlag80.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		- - -
+
+		-<Row>
+
+			<Atlas>RSEA_NOMAD_ALPHA</Atlas>
+
+			<IconSize>64</IconSize>
+
+			<Filename>SeaNomadFlag64.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		- - -
+
+		-<Row>
+
+			<Atlas>RSEA_NOMAD_ALPHA</Atlas>
+
+			<IconSize>45</IconSize>
+
+			<Filename>SeaNomadFlag45.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		- - -
+
+		-<Row>
+
+			<Atlas>RSEA_NOMAD_ALPHA</Atlas>
+
+			<IconSize>32</IconSize>
+
+			<Filename>SeaNomadFlag32.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+
+
+		-<Row>
+
+			<Atlas>ACTION_KAMPONG_AYER</Atlas>
+
+			<IconSize>45</IconSize>
+
+			<Filename>KampongAyer45.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+
+
+		-<Row>
+
+			<Atlas>ACTION_KAMPONG_AYER</Atlas>
+
+			<IconSize>64</IconSize>
+
+			<Filename>KampongAyer64.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+
+	</IconTextureAtlases>
+  
+</GameData>

@@ -1495,6 +1495,9 @@ ContextPtr:LoadNewContext("FinnishFunctions")
 -- Nation - Goths --
 ContextPtr:LoadNewContext("Goth Lua Check")
 
+-- Nation - Brunei --
+ContextPtr:LoadNewContext("Brunei_Trait")
+
 -- Nation - Manx --
 ContextPtr:LoadNewContext("ManxUA")
 

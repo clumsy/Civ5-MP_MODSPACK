@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/5/2015 2:23:03 PM -->
+<GameData>
+
+
+	-<Audio_Sounds>
+
+
+		-<Row>
+
+			<SoundID>SND_LEADER_MUSIC_RBOLKIAH_PEACE</SoundID>
+
+			<Filename>DangMangalai</Filename>
+
+			<LoadType>DynamicResident</LoadType>
+
+		</Row>
+
+
+		-<Row>
+
+			<SoundID>SND_LEADER_MUSIC_RBOLKIAH_WAR</SoundID>
+
+			<Filename>Sacred_War</Filename>
+
+			<LoadType>DynamicResident</LoadType>
+
+		</Row>
+
+	</Audio_Sounds>
+
+
+	-<Audio_2DSounds>
+
+
+		-<Row>
+
+			<ScriptID>AS2D_LEADER_MUSIC_RBOLKIAH_PEACE</ScriptID>
+
+			<SoundID>SND_LEADER_MUSIC_RBOLKIAH_PEACE</SoundID>
+
+			<SoundType>GAME_MUSIC</SoundType>
+
+			<MinVolume>45</MinVolume>
+
+			<MaxVolume>45</MaxVolume>
+
+			<IsMusic>true</IsMusic>
+
+		</Row>
+
+
+		-<Row>
+
+			<ScriptID>AS2D_LEADER_MUSIC_RBOLKIAH_WAR</ScriptID>
+
+			<SoundID>SND_LEADER_MUSIC_RBOLKIAH_WAR</SoundID>
+
+			<SoundType>GAME_MUSIC</SoundType>
+
+			<MinVolume>60</MinVolume>
+
+			<MaxVolume>60</MaxVolume>
+
+			<IsMusic>true</IsMusic>
+
+		</Row>
+
+	</Audio_2DSounds>
+  
+</GameData>

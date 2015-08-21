@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/17/2015 8:53:34 PM -->
+<GameData>
+
+	-<Civilizations_YagemStartPosition>
+		- -
+
+		-<Row>
+
+			<Type>CIVILIZATION_RBRUNEI</Type>
+
+			<X>83</X>
+
+			<Y>33</Y>
+
+		</Row>
+
+	</Civilizations_YagemStartPosition>
+	- -
+
+	-<Civilizations_YahemStartPosition>
+		- -
+
+		-<Row>
+
+			<Type>CIVILIZATION_RBRUNEI</Type>
+
+			<X>106</X>
+
+			<Y>32</Y>
+
+		</Row>
+
+	</Civilizations_YahemStartPosition>
+	- -
+
+	-<Civilizations_CordiformStartPosition>
+		- -
+
+		-<Row>
+
+			<Type>CIVILIZATION_RBRUNEI</Type>
+
+			<X>68</X>
+
+			<Y>26</Y>
+
+		</Row>
+
+	</Civilizations_CordiformStartPosition>
+
+
+</GameData>

@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="5d7ee85c-6468-4286-b0f8-f7ac33248a43" version="1">
+  <Properties>
+    <Name>The Bruneian Empire</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>A mod adding Brunei to the game</Teaser>
+    <Description>A mod adding Brunei to the game</Description>
+    <Authors>ryanjames</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>0</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="RED" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YNAEMP" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV leader traits" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Unique Cultural Influence" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="Piety and Prestige" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="Cultral diversity" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="9E6F92BE10E1F1D21B89A37FEB3C6C20" import="1">Assets/Alpha Atlas/BruneiAlpha128.dds</File>
+    <File md5="D16BED3C15128A913A5B653FDB273409" import="1">Assets/Alpha Atlas/BruneiAlpha16.dds</File>
+    <File md5="C6CCE4B7EF30ADBA077D79578E5F1218" import="1">Assets/Alpha Atlas/BruneiAlpha24.dds</File>
+    <File md5="14D7622CCECDD281B487F59DD2131703" import="1">Assets/Alpha Atlas/BruneiAlpha256.dds</File>
+    <File md5="E20F7B9B1C82D8293A1834FAF6586B9A" import="1">Assets/Alpha Atlas/BruneiAlpha32.dds</File>
+    <File md5="391933E33CA6B6A03175463091B4F0D0" import="1">Assets/Alpha Atlas/BruneiAlpha45.dds</File>
+    <File md5="28AE70B6E9EC3E64630B2049F26440E8" import="1">Assets/Alpha Atlas/BruneiAlpha48.dds</File>
+    <File md5="AC6F2B90E6FC648E6F2A8860DE8E1503" import="1">Assets/Alpha Atlas/BruneiAlpha64.dds</File>
+    <File md5="DB2E259595A66A0C38E1771ED648DEEE" import="1">Assets/Alpha Atlas/BruneiAlpha80.dds</File>
+    <File md5="7A36DBF47EBBFB9BF0B2CFE2A886AE6E" import="1">Assets/Bolkiah_Scene.dds</File>
+    <File md5="20D32673475FEDBCD6D6436CE20DCBB6" import="1">Assets/BruneiDOM.dds</File>
+    <File md5="B0FA2D3BD2A339F28C27462F58C5AF76" import="1">Assets/BruneiMap.dds</File>
+    <File md5="AA4399D3CE61B022DD52A103058AE478" import="1">Assets/Coracle art/Coracle.fxsxml</File>
+    <File md5="863EE4E263ED6C01D436395F224DE1E4" import="1">Assets/Coracle art/Coracle.gr2</File>
+    <File md5="90610ABB61DEE694BD310FA69510AE53" import="1">Assets/Coracle art/Coracle_256.dds</File>
+    <File md5="05C2E773E75248A824AC28FE95288FDA" import="1">Assets/Coracle art/fx_triggers_coracle.ftsxml</File>
+    <File md5="AC41C06BA721315512F26433220FEDF7" import="1">Assets/Coracle art/no_gloss.dds</File>
+    <File md5="3F6A220F87E10B75CD6B7D4EAE7572D5" import="1">Assets/Icon Atlas/BruneiAtlas128.dds</File>
+    <File md5="018883363415C820304F00F67A954067" import="1">Assets/Icon Atlas/BruneiAtlas256.dds</File>
+    <File md5="87DFCA0162743A3FD013A725CD8F7413" import="1">Assets/Icon Atlas/BruneiAtlas32.dds</File>
+    <File md5="118D817A736B9D84436DF46CF176F82A" import="1">Assets/Icon Atlas/BruneiAtlas45.dds</File>
+    <File md5="9D0045906CFCCBB149EFA96B9A466F20" import="1">Assets/Icon Atlas/BruneiAtlas64.dds</File>
+    <File md5="CE673807F1031BE0D80431A1602FD88D" import="1">Assets/Icon Atlas/BruneiAtlas80.dds</File>
+    <File md5="3F6F8F960B8781F820EF1E96B261D5F4" import="1">Assets/Improvement Atlas/KampongAyer45.dds</File>
+    <File md5="656F9CF679AA933B2A5DCFE3C822167B" import="1">Assets/Improvement Atlas/KampongAyer64.dds</File>
+    <File md5="54DE65A103045A14414BC8B261B98764" import="1">Assets/Kampong Ayer art/crane.dds</File>
+    <File md5="AC41C06BA721315512F26433220FEDF7" import="1">Assets/Kampong Ayer art/no_gloss.dds</File>
+    <File md5="A8686E495EA53CBB20AB9C9873B2AF05" import="1">Assets/Kampong Ayer art/PacificVillage.fxsxml</File>
+    <File md5="83EC8617B95942EF98A53CD69F892563" import="1">Assets/Kampong Ayer art/PacificVillage.gr2</File>
+    <File md5="CEFF3964F833CC6A43EBB005BD058672" import="1">Assets/Kampong Ayer art/PacificVillage_HB.fxsxml</File>
+    <File md5="DF2D1DE7EE5723F42AA8F394BA681E25" import="1">Assets/Kampong Ayer art/PacificVillage_HB.gr2</File>
+    <File md5="70B1BD02228C81E603063F829248A96E" import="1">Assets/Kampong Ayer art/PacificVillage_PL.fxsxml</File>
+    <File md5="5AD0212A97E6FA6A458959BF60DE62E0" import="1">Assets/Kampong Ayer art/PacificVillage_PL.gr2</File>
+    <File md5="FC57BB14E0E85FFF1745668A61CAA7EA" import="1">Assets/Kampong Ayer art/southpacific.dds</File>
+    <File md5="690E2D0ABFB095818D4FAF76CF175CC2" import="1">Assets/Kampong Ayer art/southpacificpalace.dds</File>
+    <File md5="216DE6057848BFD050C82DA06DCBF2CD" import="1">Assets/Kampong Ayer art/well.dds</File>
+    <File md5="4A1995D1C45DADACDE900CF213861124" import="1">Assets/Music/Sacred_War.mp3</File>
+    <File md5="F8C0282A60ED74A08A11516EBC0A0DDA" import="1">Assets/Music/DangMangalai.mp3</File>
+    <File md5="DA7BEEE7047A9E2E2C9042F9186741E0" import="1">Assets/Unit Atlas/SeaNomadFlag128.dds</File>
+    <File md5="AB5ECC3FCF0C0B057AA2CDFC0B26682E" import="1">Assets/Unit Atlas/SeaNomadFlag256.dds</File>
+    <File md5="1B73B03CF8E20FA74E2FB67A70016280" import="1">Assets/Unit Atlas/SeaNomadFlag32.dds</File>
+    <File md5="85CE8D6CB9963EAC515D0A5A81DA7F1C" import="1">Assets/Unit Atlas/SeaNomadFlag45.dds</File>
+    <File md5="B748006AAFE1A8EFECCB4D27C73F3BEA" import="1">Assets/Unit Atlas/SeaNomadFlag64.dds</File>
+    <File md5="95B32433DC6B9C63B77133227B1B61DB" import="1">Assets/Unit Atlas/SeaNomadFlag80.dds</File>
+    <File md5="9ABE08A11235A58EAFE59567A53EB210" import="0">Lua/Brunei_Trait.lua</File>
+    <File md5="3F90FB31D39CAABCA3B0091B63666E52" import="1">Lua/PlotIterators.lua</File>
+    <File md5="FC01CF227F89FB3B826625651F5D60ED" import="0">SQL/Brunei_Cult_Diversity.sql</File>
+    <File md5="6F424016356CE7FA2EE6C23A0D962C39" import="0">SQL/Brunei_Leader_Traits.sql</File>
+    <File md5="1F9813F8EFD07DE2FDD5B39043DA7D6A" import="0">SQL/Brunei_PietyPrestige.sql</File>
+    <File md5="41482EA6E3709904A6EC8234A531560B" import="0">SQL/Brunei_RED.sql</File>
+    <File md5="1D3682A767B13315CACF0A3D97C59AC3" import="0">XML/Brunei_Civilisation.xml</File>
+    <File md5="68F9055FEDE705EF817C276505301D9D" import="0">XML/Brunei_Dummy_Building.xml</File>
+    <File md5="F76949765FA2CBE9B92793C7FFC370E1" import="0">XML/Brunei_Icon_Atlas.xml</File>
+    <File md5="ABE273B7CBD2E4FF957D11C329E9B6E7" import="0">XML/Brunei_Improvement.xml</File>
+    <File md5="5AB04DD1690BBAAD42D566D44BE342C5" import="0">XML/Brunei_Leader.xml</File>
+    <File md5="9B8813D217B0DDDD52BCD8E366A435C5" import="0">XML/Brunei_Music.xml</File>
+    <File md5="E046219BD1A31CCF702229207BDED8B0" import="1">XML/Brunei_Scene.xml</File>
+    <File md5="322A1D188ED6AFD798F962D3E7CF8F44" import="0">XML/Brunei_Trait.xml</File>
+    <File md5="532DFADF4334A9035A6564FBB03643D7" import="0">XML/Brunei_UCI.xml</File>
+    <File md5="F6D4C2173A3A5C39DAAC0C96294CC21D" import="0">XML/Brunei_Units.xml</File>
+    <File md5="B05754D98ADE545D7E315DAF20C40492" import="0">XML/Brunei_Unit_Art_Defines.xml</File>
+    <File md5="06BF132ACAD08DADF94287E092741298" import="0">XML/Brunei_YNAEMP.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Brunei_Civilisation.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Brunei_Leader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Brunei_Improvement.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Brunei_Units.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Brunei_Trait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Brunei_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Brunei_Music.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Brunei_RED.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Brunei_Dummy_Building.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Brunei_Unit_Art_Defines.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Brunei_Icon_Atlas.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Brunei_Cult_Diversity.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Brunei_Leader_Traits.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Brunei_PietyPrestige.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Brunei_YNAEMP.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Brunei_UCI.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Brunei_Trait.lua">
+      <Name>Brunei Trait</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

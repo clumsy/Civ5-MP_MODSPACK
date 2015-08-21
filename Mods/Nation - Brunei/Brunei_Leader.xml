@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/27/2015 8:04:15 PM -->
+<GameData>
+
+	<Leaders>
+		<Row>
+			<Type>LEADER_RBOLKIAH</Type>
+
+			<Description>TXT_KEY_LEADER_RBOLKIAH</Description>
+
+			<Civilopedia>TXT_KEY_LEADER_RBOLKIAH_PEDIA</Civilopedia>
+
+			<CivilopediaTag>TXT_KEY_CIVILOPEDIA_LEADERS_RBOLKIAH</CivilopediaTag>
+
+			<ArtDefineTag>Brunei_Scene.xml</ArtDefineTag>
+
+			<VictoryCompetitiveness>7</VictoryCompetitiveness>
+			<WonderCompetitiveness>6</WonderCompetitiveness>
+			<MinorCivCompetitiveness>7</MinorCivCompetitiveness>
+			<Boldness>4</Boldness>
+			<DiploBalance>7</DiploBalance>
+			<WarmongerHate>4</WarmongerHate>
+			<WorkAgainstWillingness>3</WorkAgainstWillingness>
+			<WorkWithWillingness>7</WorkWithWillingness>
+			<DenounceWillingness>4</DenounceWillingness>
+			<DoFWillingness>7</DoFWillingness>
+			<Loyalty>6</Loyalty>
+			<Neediness>6</Neediness>
+			<Forgiveness>7</Forgiveness>
+			<Chattiness>6</Chattiness>
+			<Meanness>5</Meanness>
+			<IconAtlas>RBRUNEI_ICON_ATLAS</IconAtlas>
+			<PortraitIndex>1</PortraitIndex>
+
+		</Row>
+	</Leaders>
+
+	<Leader_MajorCivApproachBiases>
+		<Row>
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_WAR</MajorCivApproachType>
+			<Bias>7</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_HOSTILE</MajorCivApproachType>
+			<Bias>5</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_DECEPTIVE</MajorCivApproachType>
+			<Bias>3</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_GUARDED</MajorCivApproachType>
+			<Bias>4</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_AFRAID</MajorCivApproachType>
+			<Bias>7</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_FRIENDLY</MajorCivApproachType>
+			<Bias>7</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_NEUTRAL</MajorCivApproachType>
+			<Bias>5</Bias>
+		</Row>
+	</Leader_MajorCivApproachBiases>
+
+	<Leader_MinorCivApproachBiases>
+		<Row>
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_IGNORE</MinorCivApproachType>
+			<Bias>3</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_FRIENDLY</MinorCivApproachType>
+			<Bias>7</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_PROTECTIVE</MinorCivApproachType>
+			<Bias>7</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_CONQUEST</MinorCivApproachType>
+			<Bias>6</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_BULLY</MinorCivApproachType>
+			<Bias>7</Bias>
+		</Row>
+	</Leader_MinorCivApproachBiases>
+
+	<Leader_Flavors>
+		<Row>
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+			<FlavorType>FLAVOR_RECON</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+			<FlavorType>FLAVOR_RANGED</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+			<FlavorType>FLAVOR_MOBILE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_RECON</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_GROWTH</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_TILE_IMPROVEMENT</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+			<FlavorType>FLAVOR_AIR</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+			<FlavorType>FLAVOR_TILE_IMPROVEMENT</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+			<FlavorType>FLAVOR_INFRASTRUCTURE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>9</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+			<FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+			<FlavorType>FLAVOR_DIPLOMACY</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+			<FlavorType>FLAVOR_SPACESHIP</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+			<FlavorType>FLAVOR_WATER_CONNECTION</FlavorType>
+			<Flavor>9</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+			<FlavorType>FLAVOR_NUKE</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+			<FlavorType>FLAVOR_USE_NUKE</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+			<FlavorType>FLAVOR_ESPIONAGE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+			<FlavorType>FLAVOR_ANTIAIR</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+			<FlavorType>FLAVOR_AIR_CARRIER</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+			<FlavorType>FLAVOR_ARCHAEOLOGY</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+			<FlavorType>FLAVOR_I_LAND_TRADE_ROUTE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+			<FlavorType>FLAVOR_I_SEA_TRADE_ROUTE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+			<FlavorType>FLAVOR_I_TRADE_ORIGIN</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+			<FlavorType>FLAVOR_I_TRADE_DESTINATION</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+			<FlavorType>FLAVOR_AIRLIFT</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+	</Leader_Flavors>
+
+
+
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_RBOLKIAH">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_RBOLKIAH_FIRSTGREETING_%</Response>
+		</Row>
+		<Row LeaderType="LEADER_RBOLKIAH">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_RBOLKIAH_DEFEATED_%</Response>
+		</Row>
+	</Diplomacy_Responses>
+
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_RBOLKIAH">
+			<Text>Bolkiah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RBOLKIAH_PEDIA">
+			<Text>Bolkiah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RBOLKIAH">
+			<Text>Test text.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RBOLKIAH_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RBOLKIAH_TEXT_1">
+			<Text>Sultan Bolkiah was the sixth Sultan of Brunei. He ascended the throne of Brunei upon the abdication of his father, Sultan Sulaiman, and ruled Brunei from 1485 to 1524. His reign marked the Golden Age of Brunei[1] and saw the Sultanate become the superpower of the Malay archipelago. Bolkiah frequently travelled abroad to gain new ideas for the development of the country, as well as seeking suggestions from his various chiefs.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RBOLKIAH_HEADING_2">
+			<Text>Reign</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RBOLKIAH_TEXT_2">
+			<Text>
+				Sultan Bolkiah's victory over Sulu and Seludong (modern day Manila), as well as his marriages to Laila Mecana, the daughter of Sulu Sultan Amir Ul-Ombra, widened Brunei's influence in the Philippines.This inreased Brunei's wealth as well as extending Islamic teachings in the region, resulting in the influence and power of Brunei reaching its peak during this period. Bolkiah's rule reached essentially all of coastal Borneo, as far south as Banjarmasin, and as far north as the island of Luzon, including Seludong (present-day Manila) in the Philippines.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RBOLKIAH_HEADING_3">
+			<Text>Death and succession</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RBOLKIAH_TEXT_3">
+			<Text>After his death, sultan Bolkiah was succeeded by his son, Abdul Kahar. He was buried in Kota Batu with his wife, Princess Leila Mechanai.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RBOLKIAH_HEADING_4">
+			<Text>Uncertainties</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RBOLKIAH_TEXT_4">
+			<Text>
+				The earliest historical record of the Sultans of Brunei is not clearly known due to the poor early documentation of Brunei history. In addition there has been an effort to Islamise the history, with the "official history" not matching up with verifiable foreign sources. The Batu Tarsilah - the genealogical record of the kings of Brunei - was not started until 1807. Therefore, much of the intepretation on history relied on earlier Chinese sources and legends. It seems that the early Sultanate of Brunei was dependent on Chinese support, and perhaps early Sultans were of Chinese origin. Furthermore the earliest Sultans may have been practising the Hindu or Buddhist religions, with early names indicating this origin.
+			</Text>
+		</Row>
+
+      	<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RBOLKIAH_SUBTITLE">
+			<Text>Leader of Brunei</Text>
+		</Row>
+
+		-<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RBOLKIAH_TITLES_1">
+			<Text>Sultan of Brunei</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RBOLKIAH_NAME">
+			<Text>Bolkiah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RBOLKIAH_LIVED">
+			<Text>Reign 1485 - 1524 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RBOLKIAH_FIRSTGREETING_1">
+			<Text>These shores are the sovereign lands of Brunei, what brings you to them?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RBOLKIAH_FIRSTGREETING_2">
+			<Text>Ah! Another one! You foreigners are popping up everywhere these days!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RBOLKIAH_FIRSTGREETING_3">
+			<Text>The children of God welcome you to Brunei, the abode of peace. I am their Sultan, Bolkiah.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RBOLKIAH_DEFEATED_1">
+			<Text>How could God abandon us now!?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RBOLKIAH_DEFEATED_2">
+			<Text>I suppose I should congratulate you on your victory, but to tell you the truth, I don't really feel like it.</Text>
+		</Row>
+	</Language_en_US>
+
+	-<Leader_Traits>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_RBOLKIAH</LeaderType>
+
+			<TraitType>TRAIT_RTHALASSOCRACY</TraitType>
+
+		</Row>
+
+	</Leader_Traits>
+  
+</GameData>

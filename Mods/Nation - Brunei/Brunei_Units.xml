@@ -1,0 +1,1832 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/28/2015 11:51:33 AM -->
+<GameData>
+
+
+	-<Units>
+
+
+		-<Row>
+
+			<Type>UNIT_RSEA_NOMAD</Type>
+
+			<Description>TXT_KEY_UNIT_RSEA_NOMAD</Description>
+
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_RSEA_NOMAD_TEXT</Civilopedia>
+
+			<Strategy>TXT_KEY_UNIT_RSEA_NOMAD_STRATEGY</Strategy>
+
+			<Help>TXT_KEY_UNIT_HELP_RSEA_NOMAD</Help>
+
+			<Combat>17</Combat>
+
+			<Cost>90</Cost>
+
+			<FaithCost>0</FaithCost>
+
+			<MoveAfterPurchase>0</MoveAfterPurchase>
+
+			<Moves>3</Moves>
+
+			<BaseSightRange>2</BaseSightRange>
+
+			<Class>UNITCLASS_CARAVEL</Class>
+
+			<CombatClass>UNITCOMBAT_NAVALMELEE</CombatClass>
+
+			<Domain>DOMAIN_SEA</Domain>
+
+			<DefaultUnitAI>UNITAI_EXPLORE_SEA</DefaultUnitAI>
+
+			<MilitarySupport>1</MilitarySupport>
+
+			<MilitaryProduction>1</MilitaryProduction>
+
+			<Pillage>1</Pillage>
+
+			<Mechanized>1</Mechanized>
+
+			<PrereqTech>TECH_ASTRONOMY</PrereqTech>
+
+			<ObsoleteTech>TECH_STEAM_POWER</ObsoleteTech>
+
+			<HurryCostModifier>30</HurryCostModifier>
+
+			<AdvancedStartCost>50</AdvancedStartCost>
+
+			<MinAreaSize>10</MinAreaSize>
+
+			<CombatLimit>100</CombatLimit>
+
+			<Trade>0</Trade>
+
+			<NumExoticGoods>0</NumExoticGoods>
+
+			<XPValueAttack>3</XPValueAttack>
+
+			<XPValueDefense>3</XPValueDefense>
+
+			<UnitArtInfo>ART_DEF_UNIT_CORACLE</UnitArtInfo>
+
+			<ShowInPedia>1</ShowInPedia>
+
+			<MoveRate>BOAT</MoveRate>
+
+			<UnitFlagIconOffset>0</UnitFlagIconOffset>
+
+			<PortraitIndex>2</PortraitIndex>
+
+			<IconAtlas>RBRUNEI_ICON_ATLAS</IconAtlas>
+
+			<UnitFlagAtlas>RSEA_NOMAD_ALPHA</UnitFlagAtlas>
+
+		</Row>
+
+		<Row>
+
+			<Type>UNIT_RBRUNEI_SEA_NOMAD</Type>
+
+			<Description>TXT_KEY_UNIT_RSEA_NOMAD</Description>
+
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_RSEA_NOMAD_TEXT</Civilopedia>
+
+			<Strategy>TXT_KEY_UNIT_RSEA_NOMAD_STRATEGY</Strategy>
+
+			<Help>TXT_KEY_UNIT_HELP_RSEA_NOMAD</Help>
+
+			<Combat>17</Combat>
+
+			<Cost>-1</Cost>
+
+			<FaithCost>-1</FaithCost>
+
+			<MoveAfterPurchase>0</MoveAfterPurchase>
+
+			<Moves>3</Moves>
+
+			<BaseSightRange>2</BaseSightRange>
+
+			<Class>UNITCLASS_CARAVEL</Class>
+
+			<CombatClass>UNITCOMBAT_NAVALMELEE</CombatClass>
+
+			<Domain>DOMAIN_SEA</Domain>
+
+			<DefaultUnitAI>UNITAI_EXPLORE_SEA</DefaultUnitAI>
+
+			<MilitarySupport>1</MilitarySupport>
+
+			<MilitaryProduction>1</MilitaryProduction>
+
+			<Pillage>1</Pillage>
+
+			<Mechanized>1</Mechanized>
+
+			<PrereqTech>TECH_NULL</PrereqTech>
+
+			<ObsoleteTech>TECH_STEAM_POWER</ObsoleteTech>
+
+			<HurryCostModifier>30</HurryCostModifier>
+
+			<AdvancedStartCost>50</AdvancedStartCost>
+
+			<MinAreaSize>10</MinAreaSize>
+
+			<CombatLimit>100</CombatLimit>
+
+			<NumExoticGoods>1</NumExoticGoods>
+
+			<XPValueAttack>3</XPValueAttack>
+
+			<XPValueDefense>3</XPValueDefense>
+
+			<UnitArtInfo>ART_DEF_UNIT_CORACLE</UnitArtInfo>
+
+			<ShowInPedia>1</ShowInPedia>
+
+			<MoveRate>BOAT</MoveRate>
+
+			<UnitFlagIconOffset>0</UnitFlagIconOffset>
+
+			<PortraitIndex>2</PortraitIndex>
+
+			<IconAtlas>RBRUNEI_ICON_ATLAS</IconAtlas>
+
+			<UnitFlagAtlas>RSEA_NOMAD_ALPHA</UnitFlagAtlas>
+
+		</Row>
+
+		-<Row>
+
+			<Type>UNIT_RBRUNEI_TRIREME</Type>
+
+			<Description>TXT_KEY_UNIT_TRIREME</Description>
+
+			<Civilopedia>TXT_KEY_CIV5_ANTIQUITY_TRIREME_TEXT</Civilopedia>
+
+			<Strategy>TXT_KEY_UNIT_TRIREME_STRATEGY</Strategy>
+
+			<Help>TXT_KEY_UNIT_HELP_TRIREME</Help>
+
+			<Combat>10</Combat>
+
+			<Cost>-1</Cost>
+
+			<Moves>4</Moves>
+
+			<FaithCost>-1</FaithCost>
+
+			<BaseSightRange>2</BaseSightRange>
+
+			<Class>UNITCLASS_TRIREME</Class>
+
+			<CombatClass>UNITCOMBAT_NAVALMELEE</CombatClass>
+
+			<Domain>DOMAIN_SEA</Domain>
+
+			<DefaultUnitAI>UNITAI_ATTACK_SEA</DefaultUnitAI>
+
+			<MilitarySupport>1</MilitarySupport>
+
+			<MilitaryProduction>1</MilitaryProduction>
+
+			<Pillage>1</Pillage>
+
+			<Mechanized>1</Mechanized>
+
+			<PrereqTech>TECH_NULL</PrereqTech>
+
+			<ObsoleteTech>TECH_ASTRONOMY</ObsoleteTech>
+
+			<AdvancedStartCost>30</AdvancedStartCost>
+
+			<MinAreaSize>10</MinAreaSize>
+
+			<CombatLimit>100</CombatLimit>
+
+			<NumExoticGoods>1</NumExoticGoods>
+
+			<XPValueAttack>3</XPValueAttack>
+
+			<XPValueDefense>3</XPValueDefense>
+
+			<UnitArtInfo>ART_DEF_UNIT_TRIREME</UnitArtInfo>
+
+			<ShowInPedia>1</ShowInPedia>
+
+			<MoveRate>WOODEN_BOAT</MoveRate>
+
+			<UnitFlagIconOffset>24</UnitFlagIconOffset>
+
+			<PortraitIndex>24</PortraitIndex>
+
+			<IconAtlas>UNIT_ATLAS_1</IconAtlas>
+
+			<UnitFlagAtlas>UNIT_FLAG_ATLAS</UnitFlagAtlas>
+
+		</Row>
+
+		-<Row>
+
+			<Type>UNIT_RBRUNEI_PRIVATEER</Type>
+
+			<Description>TXT_KEY_UNIT_PRIVATEER</Description>
+
+			<Civilopedia>TXT_KEY_CIV5_PRIVATEER_TEXT</Civilopedia>
+
+			<Strategy>TXT_KEY_UNIT_PRIVATEER_STRATEGY</Strategy>
+
+			<Help>TXT_KEY_UNIT_HELP_PRIVATEER</Help>
+
+			<Combat>25</Combat>
+
+			<FaithCost>-1</FaithCost>
+
+			<Cost>-1</Cost>
+
+			<Moves>5</Moves>
+
+			<BaseSightRange>2</BaseSightRange>
+
+			<Class>UNITCLASS_PRIVATEER</Class>
+
+			<CombatClass>UNITCOMBAT_NAVALMELEE</CombatClass>
+
+			<Domain>DOMAIN_SEA</Domain>
+
+			<DefaultUnitAI>UNITAI_PIRATE_SEA</DefaultUnitAI>
+
+			<MilitarySupport>1</MilitarySupport>
+
+			<MilitaryProduction>1</MilitaryProduction>
+
+			<Pillage>1</Pillage>
+
+			<Mechanized>1</Mechanized>
+
+			<PrereqTech>TECH_NULL</PrereqTech>
+
+			<ObsoleteTech>TECH_COMBUSTION</ObsoleteTech>
+
+			<HurryCostModifier>20</HurryCostModifier>
+
+			<AdvancedStartCost>50</AdvancedStartCost>
+
+			<MinAreaSize>10</MinAreaSize>
+			
+			<CombatLimit>100</CombatLimit>
+
+			<NumExoticGoods>1</NumExoticGoods>
+
+			<XPValueAttack>3</XPValueAttack>
+
+			<XPValueDefense>3</XPValueDefense>
+
+			<UnitArtInfo>ART_DEF_UNIT_XP_PRIVATEER</UnitArtInfo>
+
+			<ShowInPedia>1</ShowInPedia>
+
+			<MoveRate>WOODEN_BOAT</MoveRate>
+
+			<UnitFlagIconOffset>21</UnitFlagIconOffset>
+
+			<PortraitIndex>21</PortraitIndex>
+
+			<IconAtlas>EXPANSION_UNIT_ATLAS_1</IconAtlas>
+
+			<UnitFlagAtlas>EXPANSION_UNIT_FLAG_ATLAS</UnitFlagAtlas>
+
+		</Row>
+
+		-<Row>
+
+			<Type>UNIT_RBRUNEI_MISSILE_CRUISER</Type>
+
+			<Description>TXT_KEY_UNIT_MISSILE_CRUISER</Description>
+
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_MODERN_MISSLECRUISER_TEXT</Civilopedia>
+
+			<Strategy>TXT_KEY_UNIT_MISSILE_CRUISER_STRATEGY</Strategy>
+
+			<Help>TXT_KEY_UNIT_HELP_MISSILE_CRUISER</Help>
+
+			<Combat>80</Combat>
+
+			<RangedCombat>100</RangedCombat>
+
+			<FaithCost>-1</FaithCost>
+
+			<Cost>-1</Cost>
+
+			<Moves>7</Moves>
+
+			<Range>3</Range>
+
+			<BaseSightRange>2</BaseSightRange>
+
+			<Class>UNITCLASS_MISSILE_CRUISER</Class>
+
+			<CombatClass>UNITCOMBAT_NAVALRANGED</CombatClass>
+
+			<Domain>DOMAIN_SEA</Domain>
+
+			<DefaultUnitAI>UNITAI_ASSAULT_SEA</DefaultUnitAI>
+
+			<MilitarySupport>1</MilitarySupport>
+
+			<MilitaryProduction>1</MilitaryProduction>
+
+			<Pillage>1</Pillage>
+
+			<IgnoreBuildingDefense>1</IgnoreBuildingDefense>
+
+			<Mechanized>1</Mechanized>
+
+			<PrereqTech>TECH_NULL</PrereqTech>
+
+			<AdvancedStartCost>60</AdvancedStartCost>
+
+			<MinAreaSize>10</MinAreaSize>
+
+			<AirInterceptRange>3</AirInterceptRange>
+
+			<CombatLimit>100</CombatLimit>
+
+			<NumExoticGoods>1</NumExoticGoods>
+
+			<PolicyType/>
+
+			<XPValueAttack>3</XPValueAttack>
+
+			<XPValueDefense>3</XPValueDefense>
+
+			<SpecialCargo>SPECIALUNIT_MISSILE</SpecialCargo>
+
+			<DomainCargo>DOMAIN_AIR</DomainCargo>
+
+			<UnitArtInfo>ART_DEF_UNIT_MISSILE_CRUISER</UnitArtInfo>
+
+			<ShowInPedia>1</ShowInPedia>
+
+			<MoveRate>BOAT</MoveRate>
+
+			<UnitFlagIconOffset>80</UnitFlagIconOffset>
+
+			<PortraitIndex>33</PortraitIndex>
+
+			<IconAtlas>UNIT_ATLAS_2</IconAtlas>
+
+			<UnitFlagAtlas>UNIT_FLAG_ATLAS</UnitFlagAtlas>
+
+		</Row>
+
+		-<Row>
+
+			<Type>UNIT_RBRUNEI_IRONCLAD</Type>
+
+			<Description>TXT_KEY_UNIT_IRONCLAD</Description>
+
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_IRONCLAD_TEXT</Civilopedia>
+
+			<Strategy>TXT_KEY_UNIT_IRONCLAD_STRATEGY</Strategy>
+
+			<Help>TXT_KEY_UNIT_HELP_IRONCLAD</Help>
+
+			<Combat>45</Combat>
+
+			<FaithCost>-1</FaithCost>
+
+			<Cost>-1</Cost>
+
+			<Moves>3</Moves>
+
+			<BaseSightRange>2</BaseSightRange>
+
+			<Class>UNITCLASS_IRONCLAD</Class>
+
+			<CombatClass>UNITCOMBAT_NAVALMELEE</CombatClass>
+
+			<Domain>DOMAIN_SEA</Domain>
+
+			<DefaultUnitAI>UNITAI_ATTACK_SEA</DefaultUnitAI>
+
+			<MilitarySupport>1</MilitarySupport>
+
+			<MilitaryProduction>1</MilitaryProduction>
+
+			<Pillage>1</Pillage>
+
+			<Mechanized>1</Mechanized>
+
+			<PrereqTech>TECH_NULL</PrereqTech>
+
+			<ObsoleteTech>TECH_COMBUSTION</ObsoleteTech>
+
+			<AdvancedStartCost>50</AdvancedStartCost>
+
+			<MinAreaSize>10</MinAreaSize>
+
+			<CombatLimit>100</CombatLimit>
+
+			<NumExoticGoods>1</NumExoticGoods>
+
+			<XPValueAttack>3</XPValueAttack>
+
+			<XPValueDefense>3</XPValueDefense>
+
+			<UnitArtInfo>ART_DEF_UNIT_IRONCLAD</UnitArtInfo>
+
+			<ShowInPedia>1</ShowInPedia>
+
+			<MoveRate>BOAT</MoveRate>
+
+			<UnitFlagIconOffset>53</UnitFlagIconOffset>
+
+			<PortraitIndex>10</PortraitIndex>
+
+			<IconAtlas>UNIT_ATLAS_2</IconAtlas>
+
+			<UnitFlagAtlas>UNIT_FLAG_ATLAS</UnitFlagAtlas>
+
+		</Row>
+
+		-<Row>
+
+			<Type>UNIT_RBRUNEI_GALLEASS</Type>
+
+			<Description>TXT_KEY_UNIT_GALLEASS</Description>
+
+			<Civilopedia>TXT_KEY_CIV5_GALLEASS_TEXT</Civilopedia>
+
+			<Strategy>TXT_KEY_UNIT_GALLEASS_STRATEGY</Strategy>
+
+			<Help>TXT_KEY_UNIT_HELP_GALLEASS</Help>
+
+			<Combat>16</Combat>
+
+			<RangedCombat>17</RangedCombat>
+			
+			<FaithCost>-1</FaithCost>
+
+			<Cost>-1</Cost>
+
+			<Moves>3</Moves>
+
+			<Range>2</Range>
+
+			<BaseSightRange>2</BaseSightRange>
+
+			<Class>UNITCLASS_GALLEASS</Class>
+
+			<CombatClass>UNITCOMBAT_NAVALRANGED</CombatClass>
+
+			<Domain>DOMAIN_SEA</Domain>
+
+			<DefaultUnitAI>UNITAI_ASSAULT_SEA</DefaultUnitAI>
+
+			<MilitarySupport>1</MilitarySupport>
+
+			<MilitaryProduction>1</MilitaryProduction>
+
+			<Pillage>1</Pillage>
+
+			<PrereqTech>TECH_NULL</PrereqTech>
+
+			<ObsoleteTech>TECH_NAVIGATION</ObsoleteTech>
+
+			<AdvancedStartCost>30</AdvancedStartCost>
+
+			<MinAreaSize>10</MinAreaSize>
+
+			<NukeDamageLevel>-1</NukeDamageLevel>
+
+			<CombatLimit>100</CombatLimit>
+
+			<NumExoticGoods>1</NumExoticGoods>
+
+			<XPValueAttack>3</XPValueAttack>
+
+			<XPValueDefense>3</XPValueDefense>
+
+			<UnitArtInfo>ART_DEF_UNIT_GALLEASS</UnitArtInfo>
+
+			<ShowInPedia>1</ShowInPedia>
+
+			<MoveRate>WOODEN_BOAT</MoveRate>
+
+			<UnitFlagIconOffset>14</UnitFlagIconOffset>
+
+			<PortraitIndex>14</PortraitIndex>
+
+			<IconAtlas>EXPANSION_UNIT_ATLAS_1</IconAtlas>
+
+			<UnitFlagAtlas>EXPANSION_UNIT_FLAG_ATLAS</UnitFlagAtlas>
+
+		</Row>
+
+		-<Row>
+
+			<Type>UNIT_RBRUNEI_FRIGATE</Type>
+
+			<Description>TXT_KEY_UNIT_FRIGATE</Description>
+
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_FRIGATE_TEXT</Civilopedia>
+
+			<Strategy>TXT_KEY_UNIT_FRIGATE_STRATEGY</Strategy>
+
+			<Help>TXT_KEY_UNIT_HELP_FRIGATE</Help>
+
+			<Combat>25</Combat>
+
+			<RangedCombat>28</RangedCombat>
+
+			<FaithCost>-1</FaithCost>
+
+			<Cost>-1</Cost>
+
+			<Moves>5</Moves>
+
+			<Range>2</Range>
+
+			<BaseSightRange>2</BaseSightRange>
+
+			<Class>UNITCLASS_FRIGATE</Class>
+
+			<CombatClass>UNITCOMBAT_NAVALRANGED</CombatClass>
+
+			<Domain>DOMAIN_SEA</Domain>
+
+			<DefaultUnitAI>UNITAI_ASSAULT_SEA</DefaultUnitAI>
+
+			<MilitarySupport>1</MilitarySupport>
+
+			<MilitaryProduction>1</MilitaryProduction>
+
+			<Pillage>1</Pillage>
+
+			<Mechanized>1</Mechanized>
+
+			<PrereqTech>TECH_NULL</PrereqTech>
+
+			<ObsoleteTech>TECH_ELECTRONICS</ObsoleteTech>
+
+			<HurryCostModifier>20</HurryCostModifier>
+
+			<AdvancedStartCost>50</AdvancedStartCost>
+
+			<MinAreaSize>10</MinAreaSize>
+
+			<NukeDamageLevel>-1</NukeDamageLevel>
+
+			<CombatLimit>100</CombatLimit>
+
+			<NumExoticGoods>1</NumExoticGoods>
+
+			<XPValueAttack>3</XPValueAttack>
+
+			<XPValueDefense>3</XPValueDefense>
+
+			<UnitArtInfo>ART_DEF_UNIT_FRIGATE</UnitArtInfo>
+
+			<ShowInPedia>1</ShowInPedia>
+
+			<MoveRate>WOODEN_BOAT</MoveRate>
+
+			<UnitFlagIconOffset>51</UnitFlagIconOffset>
+
+			<PortraitIndex>8</PortraitIndex>
+
+			<IconAtlas>UNIT_ATLAS_2</IconAtlas>
+
+			<UnitFlagAtlas>UNIT_FLAG_ATLAS</UnitFlagAtlas>
+
+		</Row>
+
+		-<Row>
+
+			<Type>UNIT_RBRUNEI_DESTROYER</Type>
+
+			<Description>TXT_KEY_UNIT_DESTROYER</Description>
+
+			<Civilopedia>TXT_KEY_CIV5_INDUSTRIAL_DESTROYER_TEXT</Civilopedia>
+
+			<Strategy>TXT_KEY_UNIT_DESTROYER_STRATEGY</Strategy>
+
+			<Help>TXT_KEY_UNIT_HELP_DESTROYER</Help>
+
+			<Combat>55</Combat>
+
+			<FaithCost>-1</FaithCost>
+
+			<Cost>-1</Cost>
+
+			<Moves>6</Moves>
+
+			<BaseSightRange>2</BaseSightRange>
+
+			<Class>UNITCLASS_DESTROYER</Class>
+
+			<CombatClass>UNITCOMBAT_NAVALMELEE</CombatClass>
+
+			<Domain>DOMAIN_SEA</Domain>
+
+			<DefaultUnitAI>UNITAI_ATTACK_SEA</DefaultUnitAI>
+
+			<MilitarySupport>1</MilitarySupport>
+
+			<MilitaryProduction>1</MilitaryProduction>
+
+			<Pillage>1</Pillage>
+
+			<IgnoreBuildingDefense>1</IgnoreBuildingDefense>
+
+			<Mechanized>1</Mechanized>
+
+			<PrereqTech>TECH_NULL</PrereqTech>
+
+			<AdvancedStartCost>60</AdvancedStartCost>
+
+			<MinAreaSize>10</MinAreaSize>
+
+			<AirInterceptRange>2</AirInterceptRange>
+
+			<CombatLimit>100</CombatLimit>
+
+			<NumExoticGoods>1</NumExoticGoods>
+
+			<XPValueAttack>3</XPValueAttack>
+
+			<XPValueDefense>3</XPValueDefense>
+
+			<UnitArtInfo>ART_DEF_UNIT_DESTROYER</UnitArtInfo>
+
+			<ShowInPedia>1</ShowInPedia>
+
+			<MoveRate>BOAT</MoveRate>
+
+			<UnitFlagIconOffset>67</UnitFlagIconOffset>
+
+			<PortraitIndex>20</PortraitIndex>
+
+			<IconAtlas>UNIT_ATLAS_2</IconAtlas>
+
+			<UnitFlagAtlas>UNIT_FLAG_ATLAS</UnitFlagAtlas>
+
+		</Row>
+
+		-<Row>
+
+			<Type>UNIT_RBRUNEI_CARRIER</Type>
+
+			<Description>TXT_KEY_UNIT_CARRIER</Description>
+
+			<Civilopedia>TXT_KEY_CIV5_INDUSTRIAL_CARRIER_TEXT</Civilopedia>
+
+			<Strategy>TXT_KEY_UNIT_CARRIER_STRATEGY</Strategy>
+
+			<Help>TXT_KEY_UNIT_HELP_CARRIER</Help>
+
+			<Combat>40</Combat>
+
+			<FaithCost>-1</FaithCost>
+
+			<Cost>-1</Cost>
+
+			<Moves>5</Moves>
+			
+			<BaseSightRange>2</BaseSightRange>
+
+			<Class>UNITCLASS_CARRIER</Class>
+
+			<CombatClass>UNITCOMBAT_CARRIER</CombatClass>
+
+			<Domain>DOMAIN_SEA</Domain>
+
+			<DefaultUnitAI>UNITAI_CARRIER_SEA</DefaultUnitAI>
+
+			<MilitarySupport>1</MilitarySupport>
+
+			<MilitaryProduction>1</MilitaryProduction>
+
+			<Pillage>1</Pillage>
+
+			<IgnoreBuildingDefense>1</IgnoreBuildingDefense>
+			
+			<Mechanized>1</Mechanized>
+
+			<PrereqTech>TECH_NULL</PrereqTech>
+
+			<AdvancedStartCost>60</AdvancedStartCost>
+
+			<MinAreaSize>10</MinAreaSize>
+
+			<NukeDamageLevel>-1</NukeDamageLevel>
+
+			<CombatLimit>100</CombatLimit>
+
+			<NumExoticGoods>1</NumExoticGoods>
+
+			<XPValueAttack>3</XPValueAttack>
+
+			<XPValueDefense>3</XPValueDefense>
+
+			<SpecialCargo>SPECIALUNIT_FIGHTER</SpecialCargo>
+
+			<DomainCargo>DOMAIN_AIR</DomainCargo>
+			
+			<UnitArtInfo>ART_DEF_UNIT_CARRIER</UnitArtInfo>
+
+			<ShowInPedia>1</ShowInPedia>
+
+			<MoveRate>BOAT</MoveRate>
+
+			<UnitFlagIconOffset>70</UnitFlagIconOffset>
+
+			<PortraitIndex>23</PortraitIndex>
+
+			<IconAtlas>UNIT_ATLAS_2</IconAtlas>
+
+			<UnitFlagAtlas>UNIT_FLAG_ATLAS</UnitFlagAtlas>
+
+		</Row>
+
+		-<Row>
+
+			<Type>UNIT_RBRUNEI_CARAVEL</Type>
+
+			<Description>TXT_KEY_UNIT_CARAVEL</Description>
+
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_CARAVEL_TEXT</Civilopedia>
+
+			<Strategy>TXT_KEY_UNIT_CARAVEL_STRATEGY</Strategy>
+
+			<Help>TXT_KEY_UNIT_HELP_CARAVEL</Help>
+
+			<Combat>20</Combat>
+
+			<FaithCost>-1</FaithCost>
+
+			<Cost>-1</Cost>
+
+			<Moves>4</Moves>
+
+			<BaseSightRange>2</BaseSightRange>
+
+			<Class>UNITCLASS_CARAVEL</Class>
+
+			<CombatClass>UNITCOMBAT_NAVALMELEE</CombatClass>
+
+			<Domain>DOMAIN_SEA</Domain>
+
+			<DefaultUnitAI>UNITAI_EXPLORE_SEA</DefaultUnitAI>
+
+			<MilitarySupport>1</MilitarySupport>
+
+			<MilitaryProduction>1</MilitaryProduction>
+
+			<Pillage>1</Pillage>
+
+			<Mechanized>1</Mechanized>
+
+			<PrereqTech>TECH_NULL</PrereqTech>
+
+			<ObsoleteTech>TECH_STEAM_POWER</ObsoleteTech>
+
+			<HurryCostModifier>30</HurryCostModifier>
+
+			<AdvancedStartCost>50</AdvancedStartCost>
+
+			<MinAreaSize>10</MinAreaSize>
+
+			<NukeDamageLevel>-1</NukeDamageLevel>
+
+			<CombatLimit>100</CombatLimit>
+
+			<NumExoticGoods>1</NumExoticGoods>
+
+			<XPValueAttack>3</XPValueAttack>
+
+			<XPValueDefense>3</XPValueDefense>
+
+			<UnitArtInfo>ART_DEF_UNIT_CARAVEL</UnitArtInfo>
+
+			<ShowInPedia>1</ShowInPedia>
+
+			<MoveRate>BOAT</MoveRate>
+
+			<UnitFlagIconOffset>42</UnitFlagIconOffset>
+
+			<PortraitIndex>43</PortraitIndex>
+
+			<IconAtlas>UNIT_ATLAS_1</IconAtlas>
+
+			<UnitFlagAtlas>UNIT_FLAG_ATLAS</UnitFlagAtlas>
+
+		</Row>
+
+		-<Row>
+
+			<Type>UNIT_RBRUNEI_BATTLESHIP</Type>
+
+			<Description>TXT_KEY_UNIT_BATTLESHIP</Description>
+
+			<Civilopedia>TXT_KEY_CIV5_INDUSTRIAL_BATTLESHIP_TEXT</Civilopedia>
+
+			<Strategy>TXT_KEY_UNIT_BATTLESHIP_STRATEGY</Strategy>
+
+			<Help>TXT_KEY_UNIT_HELP_BATTLESHIP</Help>
+			
+			<Combat>55</Combat>
+
+			<RangedCombat>65</RangedCombat>
+
+			<FaithCost>-1</FaithCost>
+
+			<Cost>-1</Cost>
+
+			<Moves>5</Moves>
+
+			<Range>3</Range>
+
+			<BaseSightRange>2</BaseSightRange>
+
+			<Class>UNITCLASS_BATTLESHIP</Class>
+
+			<CombatClass>UNITCOMBAT_NAVALRANGED</CombatClass>
+
+			<Domain>DOMAIN_SEA</Domain>
+
+			<DefaultUnitAI>UNITAI_ASSAULT_SEA</DefaultUnitAI>
+
+			<MilitarySupport>1</MilitarySupport>
+
+			<MilitaryProduction>1</MilitaryProduction>
+
+			<Pillage>1</Pillage>
+
+			<IgnoreBuildingDefense>1</IgnoreBuildingDefense>
+
+			<Mechanized>1</Mechanized>
+
+			<PrereqTech>TECH_NULL</PrereqTech>
+
+			<AdvancedStartCost>60</AdvancedStartCost>
+
+			<MinAreaSize>10</MinAreaSize>
+			
+			<NukeDamageLevel>-1</NukeDamageLevel>
+
+			<CombatLimit>100</CombatLimit>
+
+			<NumExoticGoods>1</NumExoticGoods>
+
+			<XPValueAttack>3</XPValueAttack>
+
+			<XPValueDefense>3</XPValueDefense>
+
+			<UnitArtInfo>ART_DEF_UNIT_BATTLESHIP</UnitArtInfo>
+
+			<ShowInPedia>1</ShowInPedia>
+
+			<MoveRate>BOAT</MoveRate>
+
+			<UnitFlagIconOffset>68</UnitFlagIconOffset>
+
+			<PortraitIndex>21</PortraitIndex>
+
+			<IconAtlas>UNIT_ATLAS_2</IconAtlas>
+
+			<UnitFlagAtlas>UNIT_FLAG_ATLAS</UnitFlagAtlas>
+
+		</Row>
+
+	</Units>
+
+
+	-<Unit_AITypes>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RSEA_NOMAD</UnitType>
+
+			<UnitAIType>UNITAI_ATTACK_SEA</UnitAIType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RSEA_NOMAD</UnitType>
+
+			<UnitAIType>UNITAI_RESERVE_SEA</UnitAIType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RSEA_NOMAD</UnitType>
+
+			<UnitAIType>UNITAI_ESCORT_SEA</UnitAIType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RSEA_NOMAD</UnitType>
+
+			<UnitAIType>UNITAI_EXPLORE_SEA</UnitAIType>
+
+		</Row>
+
+		-<Row>
+
+			<UnitType>UNIT_RSEA_NOMAD</UnitType>
+
+			<UnitAIType>UNITAI_PIRATE_SEA</UnitAIType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_SEA_NOMAD</UnitType>
+
+			<UnitAIType>UNITAI_ATTACK_SEA</UnitAIType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_SEA_NOMAD</UnitType>
+
+			<UnitAIType>UNITAI_RESERVE_SEA</UnitAIType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_SEA_NOMAD</UnitType>
+
+			<UnitAIType>UNITAI_ESCORT_SEA</UnitAIType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_SEA_NOMAD</UnitType>
+
+			<UnitAIType>UNITAI_EXPLORE_SEA</UnitAIType>
+
+		</Row>
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_SEA_NOMAD</UnitType>
+
+			<UnitAIType>UNITAI_PIRATE_SEA</UnitAIType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_BATTLESHIP</UnitType>
+
+			<UnitAIType>UNITAI_ASSAULT_SEA</UnitAIType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_BATTLESHIP</UnitType>
+
+			<UnitAIType>UNITAI_RESERVE_SEA</UnitAIType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_BATTLESHIP</UnitType>
+
+			<UnitAIType>UNITAI_ESCORT_SEA</UnitAIType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_CARAVEL</UnitType>
+
+			<UnitAIType>UNITAI_ATTACK_SEA</UnitAIType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_CARAVEL</UnitType>
+
+			<UnitAIType>UNITAI_RESERVE_SEA</UnitAIType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_CARAVEL</UnitType>
+
+			<UnitAIType>UNITAI_ESCORT_SEA</UnitAIType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_CARAVEL</UnitType>
+
+			<UnitAIType>UNITAI_EXPLORE_SEA</UnitAIType>
+
+		</Row>
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_CARRIER</UnitType>
+
+			<UnitAIType>UNITAI_CARRIER_SEA</UnitAIType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_FRIGATE</UnitType>
+
+			<UnitAIType>UNITAI_ASSAULT_SEA</UnitAIType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_FRIGATE</UnitType>
+
+			<UnitAIType>UNITAI_RESERVE_SEA</UnitAIType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_FRIGATE</UnitType>
+
+			<UnitAIType>UNITAI_ESCORT_SEA</UnitAIType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_GALLEASS</UnitType>
+
+			<UnitAIType>UNITAI_ASSAULT_SEA</UnitAIType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_GALLEASS</UnitType>
+
+			<UnitAIType>UNITAI_RESERVE_SEA</UnitAIType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_GALLEASS</UnitType>
+
+			<UnitAIType>UNITAI_ESCORT_SEA</UnitAIType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_GALLEASS</UnitType>
+
+			<UnitAIType>UNITAI_EXPLORE_SEA</UnitAIType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_DESTROYER</UnitType>
+
+			<UnitAIType>UNITAI_ATTACK_SEA</UnitAIType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_DESTROYER</UnitType>
+
+			<UnitAIType>UNITAI_RESERVE_SEA</UnitAIType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_DESTROYER</UnitType>
+
+			<UnitAIType>UNITAI_ESCORT_SEA</UnitAIType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_DESTROYER</UnitType>
+
+			<UnitAIType>UNITAI_EXPLORE_SEA</UnitAIType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_IRONCLAD</UnitType>
+
+			<UnitAIType>UNITAI_ATTACK_SEA</UnitAIType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_IRONCLAD</UnitType>
+
+			<UnitAIType>UNITAI_RESERVE_SEA</UnitAIType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_IRONCLAD</UnitType>
+
+			<UnitAIType>UNITAI_ESCORT_SEA</UnitAIType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_MISSILE_CRUISER</UnitType>
+
+			<UnitAIType>UNITAI_ASSAULT_SEA</UnitAIType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_MISSILE_CRUISER</UnitType>
+
+			<UnitAIType>UNITAI_RESERVE_SEA</UnitAIType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_MISSILE_CRUISER</UnitType>
+
+			<UnitAIType>UNITAI_ESCORT_SEA</UnitAIType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_MISSILE_CRUISER</UnitType>
+
+			<UnitAIType>UNITAI_MISSILE_CARRIER_SEA</UnitAIType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_PRIVATEER</UnitType>
+
+			<UnitAIType>UNITAI_ATTACK_SEA</UnitAIType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_PRIVATEER</UnitType>
+
+			<UnitAIType>UNITAI_RESERVE_SEA</UnitAIType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_PRIVATEER</UnitType>
+
+			<UnitAIType>UNITAI_ESCORT_SEA</UnitAIType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_PRIVATEER</UnitType>
+
+			<UnitAIType>UNITAI_EXPLORE_SEA</UnitAIType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_PRIVATEER</UnitType>
+
+			<UnitAIType>UNITAI_PIRATE_SEA</UnitAIType>
+
+		</Row>
+
+	</Unit_AITypes>
+
+
+	-<Unit_ClassUpgrades>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RSEA_NOMAD</UnitType>
+
+			<UnitClassType>UNITCLASS_IRONCLAD</UnitClassType>
+
+		</Row>
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_SEA_NOMAD</UnitType>
+
+			<UnitClassType>UNITCLASS_IRONCLAD</UnitClassType>
+
+		</Row>
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_CARAVEL</UnitType>
+
+			<UnitClassType>UNITCLASS_IRONCLAD</UnitClassType>
+
+		</Row>
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_FRIGATE</UnitType>
+
+			<UnitClassType>UNITCLASS_BATTLESHIP</UnitClassType>
+
+		</Row>
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_GALLEASS</UnitType>
+
+			<UnitClassType>UNITCLASS_FRIGATE</UnitClassType>
+
+		</Row>
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_IRONCLAD</UnitType>
+
+			<UnitClassType>UNITCLASS_DESTROYER</UnitClassType>
+
+		</Row>
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_PRIVATEER</UnitType>
+
+			<UnitClassType>UNITCLASS_DESTROYER</UnitClassType>
+
+		</Row>
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_TRIREME</UnitType>
+
+			<UnitClassType>UNITCLASS_CARAVEL</UnitClassType>
+
+		</Row>
+
+	</Unit_ClassUpgrades>
+
+
+	-<Unit_FreePromotions>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RSEA_NOMAD</UnitType>
+
+			<PromotionType>PROMOTION_EXTRA_SIGHT_I</PromotionType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RSEA_NOMAD</UnitType>
+
+			<PromotionType>PROMOTION_WITHDRAW_BEFORE_MELEE</PromotionType>
+
+		</Row>
+
+		-<Row>
+
+			<UnitType>UNIT_RSEA_NOMAD</UnitType>
+
+			<PromotionType>PROMOTION_PRIZE_SHIPS</PromotionType>
+
+		</Row>
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_SEA_NOMAD</UnitType>
+
+			<PromotionType>PROMOTION_STEAM_POWERED</PromotionType>
+
+		</Row>
+
+		-<Row>
+
+			<UnitType>UNIT_RSEA_NOMAD</UnitType>
+
+			<PromotionType>PROMOTION_STEAM_POWERED</PromotionType>
+
+		</Row>
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_SEA_NOMAD</UnitType>
+
+			<PromotionType>PROMOTION_EXTRA_SIGHT_I</PromotionType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_SEA_NOMAD</UnitType>
+
+			<PromotionType>PROMOTION_WITHDRAW_BEFORE_MELEE</PromotionType>
+
+		</Row>
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_SEA_NOMAD</UnitType>
+
+			<PromotionType>PROMOTION_PRIZE_SHIPS</PromotionType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_BATTLESHIP</UnitType>
+
+			<PromotionType>PROMOTION_INDIRECT_FIRE</PromotionType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_BATTLESHIP</UnitType>
+
+			<PromotionType>PROMOTION_ONLY_DEFENSIVE</PromotionType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_CARAVEL</UnitType>
+
+			<PromotionType>PROMOTION_EXTRA_SIGHT_I</PromotionType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_CARAVEL</UnitType>
+
+			<PromotionType>PROMOTION_WITHDRAW_BEFORE_MELEE</PromotionType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_CARRIER</UnitType>
+
+			<PromotionType>PROMOTION_CARGO_II</PromotionType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_CARRIER</UnitType>
+
+			<PromotionType>PROMOTION_ONLY_DEFENSIVE</PromotionType>
+
+		</Row>
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_FRIGATE</UnitType>
+
+			<PromotionType>PROMOTION_ONLY_DEFENSIVE</PromotionType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_GALLEASS</UnitType>
+
+			<PromotionType>PROMOTION_OCEAN_IMPASSABLE</PromotionType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_GALLEASS</UnitType>
+
+			<PromotionType>PROMOTION_ONLY_DEFENSIVE</PromotionType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_DESTROYER</UnitType>
+
+			<PromotionType>PROMOTION_SEE_INVISIBLE_SUBMARINE</PromotionType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_DESTROYER</UnitType>
+
+			<PromotionType>PROMOTION_INTERCEPTION_II</PromotionType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_DESTROYER</UnitType>
+
+			<PromotionType>PROMOTION_ANTI_SUBMARINE_II</PromotionType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_DESTROYER</UnitType>
+
+			<PromotionType>PROMOTION_WITHDRAW_BEFORE_MELEE</PromotionType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_IRONCLAD</UnitType>
+
+			<PromotionType>PROMOTION_STEAM_POWERED</PromotionType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_IRONCLAD</UnitType>
+
+			<PromotionType>PROMOTION_FIRE_SUPPORT</PromotionType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_MISSILE_CRUISER</UnitType>
+
+			<PromotionType>PROMOTION_SEE_INVISIBLE_SUBMARINE</PromotionType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_MISSILE_CRUISER</UnitType>
+
+			<PromotionType>PROMOTION_ANTI_SUBMARINE_II</PromotionType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_MISSILE_CRUISER</UnitType>
+
+			<PromotionType>PROMOTION_CARGO_III</PromotionType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_MISSILE_CRUISER</UnitType>
+
+			<PromotionType>PROMOTION_INTERCEPTION_IV</PromotionType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_MISSILE_CRUISER</UnitType>
+
+			<PromotionType>PROMOTION_ONLY_DEFENSIVE</PromotionType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_PRIVATEER</UnitType>
+
+			<PromotionType>PROMOTION_COASTAL_RAIDER_1</PromotionType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_PRIVATEER</UnitType>
+
+			<PromotionType>PROMOTION_PRIZE_SHIPS</PromotionType>
+
+		</Row>
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_PRIVATEER</UnitType>
+
+			<PromotionType>PROMOTION_SELL_EXOTIC_GOODS</PromotionType>
+
+		</Row>
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_SEA_NOMAD</UnitType>
+
+			<PromotionType>PROMOTION_SELL_EXOTIC_GOODS</PromotionType>
+
+		</Row>
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_FRIGATE</UnitType>
+
+			<PromotionType>PROMOTION_SELL_EXOTIC_GOODS</PromotionType>
+
+		</Row>
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_TRIREME</UnitType>
+
+			<PromotionType>PROMOTION_SELL_EXOTIC_GOODS</PromotionType>
+
+		</Row>
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_GALLEASS</UnitType>
+
+			<PromotionType>PROMOTION_SELL_EXOTIC_GOODS</PromotionType>
+
+		</Row>
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_CARAVEL</UnitType>
+
+			<PromotionType>PROMOTION_SELL_EXOTIC_GOODS</PromotionType>
+
+		</Row>
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_DESTROYER</UnitType>
+
+			<PromotionType>PROMOTION_SELL_EXOTIC_GOODS</PromotionType>
+
+		</Row>
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_BATTLESHIP</UnitType>
+
+			<PromotionType>PROMOTION_SELL_EXOTIC_GOODS</PromotionType>
+
+		</Row>
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_CARRIER</UnitType>
+
+			<PromotionType>PROMOTION_SELL_EXOTIC_GOODS</PromotionType>
+
+		</Row>
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_MISSILE_CARRIER</UnitType>
+
+			<PromotionType>PROMOTION_SELL_EXOTIC_GOODS</PromotionType>
+
+		</Row>
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_IRONCLAD</UnitType>
+
+			<PromotionType>PROMOTION_SELL_EXOTIC_GOODS</PromotionType>
+
+		</Row>
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_TRIREME</UnitType>
+
+			<PromotionType>PROMOTION_OCEAN_IMPASSABLE</PromotionType>
+
+		</Row>
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_GALLEASS</UnitType>
+
+			<PromotionType>PROMOTION_OCEAN_IMPASSABLE</PromotionType>
+
+		</Row>
+
+	</Unit_FreePromotions>
+
+
+	-<Unit_Flavors>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RSEA_NOMAD</UnitType>
+
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+
+			<Flavor>6</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RSEA_NOMAD</UnitType>
+
+			<FlavorType>FLAVOR_NAVAL_RECON</FlavorType>
+
+			<Flavor>10</Flavor>
+
+		</Row>
+
+	</Unit_Flavors>
+
+
+	<Unit_ResourceQuantityRequirements>
+
+
+	-<Row>
+
+		<UnitType>UNIT_RBRUNEI_BATTLESHIP</UnitType>
+
+		<ResourceType>RESOURCE_OIL</ResourceType>
+
+		<Cost>1</Cost>
+
+	</Row>
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_FRIGATE</UnitType>
+
+			<ResourceType>RESOURCE_IRON</ResourceType>
+
+			<Cost>1</Cost>
+
+		</Row>
+
+		-<Row>
+
+			<UnitType>UNIT_RBRUNEI_IRONCLAD</UnitType>
+
+			<ResourceType>RESOURCE_COAL</ResourceType>
+
+			<Cost>1</Cost>
+
+		</Row>
+
+	</Unit_ResourceQuantityRequirements>
+
+
+	-<UnitGameplay2DScripts>
+
+
+		-<Row>
+
+			<UnitType>UNIT_RSEA_NOMAD</UnitType>
+
+			<SelectionSound>AS2D_SELECT_CARAVEL</SelectionSound>
+
+			<FirstSelectionSound>AS2D_BIRTH_CARAVEL</FirstSelectionSound>
+
+		</Row>
+
+	</UnitGameplay2DScripts>
+
+
+	-<Language_en_US>
+
+
+		-<Row Tag="TXT_KEY_UNIT_RSEA_NOMAD">
+
+			<Text>Sea Nomad</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RSEA_NOMAD_TEXT">
+
+
+			-<Text>Sea Nomads are a collection of ethnic groups that roam the oceans of Maritime Southeast Asia. For generations, Sea Nomads have lived almost entirely on the move in distinct vessels such as the Lepa and Vinta, though there are some settled communities on the coast. In the 15th century, they were recruited as mercenaries by Brunei, and formed a large and significant part of the navy. They often acted like privateers, raiding the coastal settlements and cargo ships of the enemy.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_UNIT_RSEA_NOMAD_STRATEGY">
+
+			<Text>Though it is significantly weaker and has less movement than the regular caravel, the Sea Nomad has a much lower production cost. It does however gain doublement along the coastline, which makes it quite cabable of large scale exploration despite reduced default movement. It also gains the prize ships promotion, allowing it to capture enemy ships. By mass producing the Sea Nomad, Brunei can easily overwhelm an enemy fleet through sheer numbers, and then turn that fleet against their former owners!</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_UNIT_HELP_RSEA_NOMAD">
+
+			<Text>Replaces the Caravel; Much weaker with less movement, but less costly to build. May capture enemy ships and gains double movement on the coast.</Text>
+
+		</Row>
+
+	</Language_en_US>
+  
+</GameData>

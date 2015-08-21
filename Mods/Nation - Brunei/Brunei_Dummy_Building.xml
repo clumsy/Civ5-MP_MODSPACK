@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/7/2015 12:15:43 PM -->
+<GameData>
+
+	<Buildings>
+
+		-<Row>
+
+			<Type>BUILDING_RBRUNEI_OIL_DUMMY_1</Type>
+
+			<BuildingClass>BUILDINGCLASS_RBRUNEI_OIL_DUMMY_1</BuildingClass>
+
+			<Cost>-1</Cost>
+
+			<FaithCost>-1</FaithCost>
+
+			<PrereqTech>NULL</PrereqTech>
+
+			<GreatWorkCount>-1</GreatWorkCount>
+
+			<ArtDefineTag>NONE</ArtDefineTag>
+
+			<MinAreaSize>-1</MinAreaSize>
+
+			<NeverCapture>true</NeverCapture>
+
+			<HurryCostModifier>-1</HurryCostModifier>
+
+			<PortraitIndex>0</PortraitIndex>
+
+			<IconAtlas>CIV_COLOR_ATLAS</IconAtlas>
+
+			<TradeRouteSeaGoldBonus>200</TradeRouteSeaGoldBonus>
+
+			<TradeRouteLandGoldBonus>200</TradeRouteLandGoldBonus>
+			
+		</Row>
+
+		-<Row>
+
+			<Type>BUILDING_RBRUNEI_OIL_DUMMY_3</Type>
+
+			<BuildingClass>BUILDINGCLASS_RBRUNEI_OIL_DUMMY_3</BuildingClass>
+
+			<Cost>-1</Cost>
+
+			<FaithCost>-1</FaithCost>
+
+			<PrereqTech>NULL</PrereqTech>
+
+			<GreatWorkCount>-1</GreatWorkCount>
+
+			<ArtDefineTag>NONE</ArtDefineTag>
+
+			<MinAreaSize>-1</MinAreaSize>
+
+			<NeverCapture>true</NeverCapture>
+
+			<HurryCostModifier>-1</HurryCostModifier>
+
+			<PortraitIndex>0</PortraitIndex>
+
+			<IconAtlas>CIV_COLOR_ATLAS</IconAtlas>
+
+			<TradeRouteSeaGoldBonus>200</TradeRouteSeaGoldBonus>
+
+			<TradeRouteLandGoldBonus>200</TradeRouteLandGoldBonus>
+
+		</Row>
+
+		-<Row>
+
+			<Type>BUILDING_RBRUNEI_OIL_DUMMY_4</Type>
+
+			<BuildingClass>BUILDINGCLASS_RBRUNEI_OIL_DUMMY_4</BuildingClass>
+
+			<Cost>-1</Cost>
+
+			<FaithCost>-1</FaithCost>
+
+			<PrereqTech>NULL</PrereqTech>
+
+			<GreatWorkCount>-1</GreatWorkCount>
+
+			<ArtDefineTag>NONE</ArtDefineTag>
+
+			<MinAreaSize>-1</MinAreaSize>
+
+			<NeverCapture>true</NeverCapture>
+
+			<HurryCostModifier>-1</HurryCostModifier>
+
+			<PortraitIndex>0</PortraitIndex>
+
+			<IconAtlas>CIV_COLOR_ATLAS</IconAtlas>
+
+			<TradeRouteSeaGoldBonus>200</TradeRouteSeaGoldBonus>
+
+			<TradeRouteLandGoldBonus>200</TradeRouteLandGoldBonus>
+
+		</Row>
+
+		-<Row>
+
+			<Type>BUILDING_RBRUNEI_OIL_DUMMY_2</Type>
+
+			<BuildingClass>BUILDINGCLASS_RBRUNEI_OIL_DUMMY_2</BuildingClass>
+
+			<Cost>-1</Cost>
+
+			<FaithCost>-1</FaithCost>
+
+			<PrereqTech>NULL</PrereqTech>
+
+			<GreatWorkCount>-1</GreatWorkCount>
+
+			<ArtDefineTag>NONE</ArtDefineTag>
+
+			<MinAreaSize>-1</MinAreaSize>
+
+			<NeverCapture>true</NeverCapture>
+
+			<HurryCostModifier>-1</HurryCostModifier>
+
+			<PortraitIndex>0</PortraitIndex>
+
+			<IconAtlas>CIV_COLOR_ATLAS</IconAtlas>
+
+			<TradeRouteSeaGoldBonus>200</TradeRouteSeaGoldBonus>
+
+			<TradeRouteLandGoldBonus>200</TradeRouteLandGoldBonus>
+
+		</Row>
+
+		-<Row>
+
+			<Type>BUILDING_RBRUNEI_OIL_DUMMY_5</Type>
+
+			<BuildingClass>BUILDINGCLASS_RBRUNEI_OIL_DUMMY_5</BuildingClass>
+
+			<Cost>-1</Cost>
+
+			<FaithCost>-1</FaithCost>
+
+			<PrereqTech>NULL</PrereqTech>
+
+			<GreatWorkCount>-1</GreatWorkCount>
+
+			<ArtDefineTag>NONE</ArtDefineTag>
+
+			<MinAreaSize>-1</MinAreaSize>
+
+			<NeverCapture>true</NeverCapture>
+
+			<HurryCostModifier>-1</HurryCostModifier>
+
+			<PortraitIndex>0</PortraitIndex>
+
+			<IconAtlas>CIV_COLOR_ATLAS</IconAtlas>
+
+			<TradeRouteSeaGoldBonus>200</TradeRouteSeaGoldBonus>
+
+			<TradeRouteLandGoldBonus>200</TradeRouteLandGoldBonus>
+
+		</Row>
+
+	</Buildings>
+
+	<BuildingClasses>
+
+		-<Row>
+
+			<Type>BUILDINGCLASS_RBRUNEI_OIL_DUMMY_1</Type>
+
+			<DefaultBuilding>BUILDING_RBRUNEI_OIL_DUMMY_1</DefaultBuilding>
+
+		</Row>
+
+		-<Row>
+
+			<Type>BUILDINGCLASS_RBRUNEI_OIL_DUMMY_2</Type>
+
+			<DefaultBuilding>BUILDING_RBRUNEI_OIL_DUMMY_2</DefaultBuilding>
+
+		</Row>
+
+		-<Row>
+
+			<Type>BUILDINGCLASS_RBRUNEI_OIL_DUMMY_3</Type>
+
+			<DefaultBuilding>BUILDING_RBRUNEI_OIL_DUMMY_3</DefaultBuilding>
+
+		</Row>
+
+		-<Row>
+
+			<Type>BUILDINGCLASS_RBRUNEI_OIL_DUMMY_4</Type>
+
+			<DefaultBuilding>BUILDING_RBRUNEI_OIL_DUMMY_4</DefaultBuilding>
+
+		</Row>
+
+		-<Row>
+
+			<Type>BUILDINGCLASS_RBRUNEI_OIL_DUMMY_5</Type>
+
+			<DefaultBuilding>BUILDING_RBRUNEI_OIL_DUMMY_5</DefaultBuilding>
+
+		</Row>
+		
+	</BuildingClasses>
+
+  
+</GameData>

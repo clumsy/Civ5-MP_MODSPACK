@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/5/2015 12:19:58 PM -->
+<GameData>
+
+
+	-<Traits>
+
+
+		-<Row>
+
+			<Type>TRAIT_RTHALASSOCRACY</Type>
+
+			<Description>TXT_KEY_TRAIT_RTHALASSOCRACY</Description>
+
+			<ShortDescription>TXT_KEY_TRAIT_RTHALASSOCRACY_SHORT</ShortDescription>
+
+		</Row>
+
+	</Traits>
+
+
+	-<Language_en_US>
+
+
+		-<Row Tag="TXT_KEY_TRAIT_RTHALASSOCRACY">
+
+			<Text>+2 [ICON_GOLD] gold from outgoing [ICON_INTERNATIONAL_TRADE] trade routes per source of [ICON_RES_OIL] worked by the origin city. Naval units have a 33% chance of being able to sell exotic goods when built.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_TRAIT_RTHALASSOCRACY_SHORT">
+
+			<Text>Darussalam</Text>
+
+		</Row>
+
+	</Language_en_US>
+  
+</GameData>

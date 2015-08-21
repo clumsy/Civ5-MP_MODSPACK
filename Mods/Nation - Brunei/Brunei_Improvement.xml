@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/27/2015 2:48:29 PM -->
+<GameData>
+
+
+
+	-<Improvements>
+
+
+		-<Row>
+
+			<Type>IMPROVEMENT_CUSTOM_IMPROVEMENT_B_1</Type>
+
+			<Description>TXT_KEY_IMPROVEMENT_CUSTOM_IMPROVEMENT_B_1</Description>
+
+			<Civilopedia>TXT_KEY_IMPROVEMENT_CUSTOM_IMPROVEMENT_B_1_TEXT</Civilopedia>
+
+			<Help>TXT_KEY_IMPROVEMENT_CUSTOM_IMPROVEMENT_B_1_HELP</Help>
+
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT_B_1</ArtDefineTag>
+
+			<PillageGold>30</PillageGold>
+
+			<PortraitIndex>3</PortraitIndex>
+
+			<IconAtlas>RBRUNEI_ICON_ATLAS</IconAtlas>
+
+			<CivilizationType>CIVILIZATION_RBRUNEI</CivilizationType>
+
+			<RequiresFlatlands>1</RequiresFlatlands>
+
+			<Coastal>1</Coastal>
+
+			<SpecificCivRequired>1</SpecificCivRequired>
+
+			<DefenseModifier>25</DefenseModifier>
+
+		</Row>
+
+	</Improvements>
+
+
+	-<Improvement_Yields>
+
+
+		-<Row>
+
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_B_1</ImprovementType>
+
+			<YieldType>YIELD_FOOD</YieldType>
+
+			<Yield>1</Yield>
+
+		</Row>
+
+
+		-<Row>
+
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_B_1</ImprovementType>
+
+			<YieldType>YIELD_CULTURE</YieldType>
+
+			<Yield>1</Yield>
+
+		</Row>
+
+	</Improvement_Yields>
+
+	-<Improvement_TechYieldChanges>
+
+
+		-<Row>
+
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_B_1</ImprovementType>
+
+			<TechType>TECH_NAVIGATION</TechType>
+
+			<YieldType>YIELD_GOLD</YieldType>
+
+			<Yield>1</Yield>
+
+		</Row>
+
+	</Improvement_TechYieldChanges>
+
+
+	-<Improvement_ValidTerrains>
+
+
+		-<Row>
+
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_B_1</ImprovementType>
+
+			<TerrainType>TERRAIN_GRASS</TerrainType>
+
+		</Row>
+
+
+		-<Row>
+
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_B_1</ImprovementType>
+
+			<TerrainType>TERRAIN_PLAINS</TerrainType>
+
+		</Row>
+
+
+		-<Row>
+
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_B_1</ImprovementType>
+
+			<TerrainType>TERRAIN_DESERT</TerrainType>
+
+		</Row>
+
+
+		-<Row>
+
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_B_1</ImprovementType>
+
+			<TerrainType>TERRAIN_TUNDRA</TerrainType>
+
+		</Row>
+
+	</Improvement_ValidTerrains>
+
+
+	-<Improvement_ValidFeatures>
+
+
+		-<Row>
+
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_B_1</ImprovementType>
+
+			<FeatureType>FEATURE_JUNGLE</FeatureType>
+
+		</Row>
+
+
+		-<Row>
+
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_B_1</ImprovementType>
+
+			<FeatureType>FEATURE_FOREST</FeatureType>
+
+		</Row>
+
+	</Improvement_ValidFeatures>
+
+
+
+	-<ArtDefine_Landmarks>
+
+
+		-<Row>
+
+			<Era>Any</Era>
+
+			<State>Constructed</State>
+
+			<Scale>1.0</Scale>
+
+			<ImprovementType>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT_B_1</ImprovementType>
+
+			<LayoutHandler>SNAPSHOT</LayoutHandler>
+
+			<ResourceType>ART_DEF_RESOURCE_ALL</ResourceType>
+
+			<Model>PacificVillage.fxsxml</Model>
+
+		</Row>
+
+
+		-<Row>
+
+			<Era>Any</Era>
+
+			<State>Pillaged</State>
+
+			<Scale>1.0</Scale>
+
+			<ImprovementType>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT_B_1</ImprovementType>
+
+			<LayoutHandler>SNAPSHOT</LayoutHandler>
+
+			<ResourceType>ART_DEF_RESOURCE_ALL</ResourceType>
+
+			<Model>PacificVillage_PL.fxsxml</Model>
+
+		</Row>
+
+
+		-<Row>
+
+			<Era>Any</Era>
+
+			<State>UnderConstruction</State>
+
+			<Scale>1.0</Scale>
+
+			<ImprovementType>ART_DEF_IMPROVEMENT_CUSTOM_IMPROVEMENT_B_1</ImprovementType>
+
+			<LayoutHandler>SNAPSHOT</LayoutHandler>
+
+			<ResourceType>ART_DEF_RESOURCE_ALL</ResourceType>
+
+			<Model>PacificVillage_HB.fxsxml</Model>
+
+		</Row>
+
+	</ArtDefine_Landmarks>
+
+
+	-<Builds>
+
+
+		-<Row>
+
+			<Type>BUILD_CUSTOM_IMPROVEMENT_B_1</Type>
+
+			<PrereqTech>TECH_COMPASS</PrereqTech>
+
+			<Time>700</Time>
+
+			<ImprovementType>IMPROVEMENT_CUSTOM_IMPROVEMENT_B_1</ImprovementType>
+
+			<Description>TXT_KEY_BUILD_CUSTOM_IMPROVEMENT_B_1</Description>
+
+			<Help>TXT_KEY_BUILD_CUSTOM_IMPROVEMENT_B_1_HELP</Help>
+
+			<Recommendation>TXT_KEY_BUILD_CUSTOM_IMPROVEMENT_B_1_REC</Recommendation>
+
+			<EntityEvent>ENTITY_EVENT_BUILD</EntityEvent>
+
+			<HotKey>KB_Z</HotKey>
+
+			<OrderPriority>9R</OrderPriority>
+
+			<IconIndex>0</IconIndex>
+
+			<IconAtlas>ACTION_KAMPONG_AYER</IconAtlas>
+
+		</Row>
+
+	</Builds>
+
+
+	-<BuildFeatures>
+
+
+		-<Row>
+
+			<BuildType>BUILD_CUSTOM_IMPROVEMENT_B_1</BuildType>
+
+			<FeatureType>FEATURE_FOREST</FeatureType>
+
+			<PrereqTech>TECH_MINING</PrereqTech>
+
+			<Time>400</Time>
+
+			<Production>20</Production>
+
+			<Remove>true</Remove>
+
+		</Row>
+
+
+		-<Row>
+
+			<BuildType>BUILD_CUSTOM_IMPROVEMENT_B_1</BuildType>
+
+			<FeatureType>FEATURE_JUNGLE</FeatureType>
+
+			<PrereqTech>TECH_BRONZE_WORKING</PrereqTech>
+
+			<Time>700</Time>
+
+			<Remove>true</Remove>
+
+		</Row>
+
+
+		-<Row>
+
+			<BuildType>BUILD_CUSTOM_IMPROVEMENT_B_1</BuildType>
+
+			<FeatureType>FEATURE_MARSH</FeatureType>
+
+			<PrereqTech>TECH_MASONRY</PrereqTech>
+
+			<Time>600</Time>
+
+		</Row>
+
+	</BuildFeatures>
+
+
+	-<Unit_Builds>
+
+
+		-<Row>
+
+			<UnitType>UNIT_WORKER</UnitType>
+
+			<BuildType>BUILD_CUSTOM_IMPROVEMENT_B_1</BuildType>
+
+		</Row>
+
+	</Unit_Builds>
+
+
+	-<Language_en_US>
+
+
+		-<Row Tag="TXT_KEY_IMPROVEMENT_CUSTOM_IMPROVEMENT_B_1">
+
+			<Text>Kampong Ayer</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_IMPROVEMENT_CUSTOM_IMPROVEMENT_B_1_TEXT">
+
+			<Text>Kampong Ayer, or 'Water village' is the name of a district of Brunei where 10% of the population lives. It consists of a series of wooden walkways that link houses on stilts, and has been nicknamed "Venice of the East". It is considered an important part of Bruneian heritage and culture. Historically, Brunei's commercial power depended on it's many coastal towns and colonies which served as depots and entrepots to the trading networks of maritime southeast Asia, allowing the Empire's influence to control the entire coastline of Borneo and beyond.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_IMPROVEMENT_CUSTOM_IMPROVEMENT_B_1_HELP">
+
+			<Text>Only buildable by Brunei, and must be built on the coast and on flat land. Unlocked at compass, yields +1 [ICON_FOOD] food and +1 [ICON_CULTURE], as well as +1 [ICON_GOLD] gold at navigation. Yields extra gold when a cargo ship is adjacent to it.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_BUILD_CUSTOM_IMPROVEMENT_B_1">
+
+			<Text>Construct a [LINK=IMPROVEMENT_CUSTOM_IMPROVEMENT_B_1]Kampong Ayer[\LINK]</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_BUILD_CUSTOM_IMPROVEMENT_B_1_HELP">
+
+			<Text>Only buildable by Brunei, and must be built on the coast and on flat land. Unlocked at compass, yields +1 [ICON_FOOD] food and +1 [ICON_CULTURE], as well as +1 [ICON_GOLD] gold at navigation. Yields extra gold when a cargo ship is adjacent to it.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_BUILD_CUSTOM_IMPROVEMENT_B_1_REC">
+
+			<Text>It will increase the [ICON_FOOD] food, [ICON_CULTURE] culture and [ICON_GOLD] gold output of this tile!</Text>
+
+		</Row>
+
+	</Language_en_US>
+  
+</GameData>
