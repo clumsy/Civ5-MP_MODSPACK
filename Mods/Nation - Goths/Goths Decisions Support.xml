@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<Language_en_US>	
+		<!--Free the Slaves-->
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_GOTHS_SLAVES">
+			<Text>Free the Slaves</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_GOTHS_SLAVES_DESC">
+			<Text>At long last we have captured the Eternal City and all of its riches are ours by right! Yet, for all their civilization, our enemies had enslaved thousands of our people. It is time to force the city's senate to free these slaves and restore our people.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Goths
+				[NEWLINE][ICON_BULLET]Must own the original [ICON_CAPITAL] Capital of at least 1 other Civilization
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate
+				[NEWLINE][ICON_BULLET]All foreign [ICON_CAPITAL] Capitals you own lose -1 [ICON_CITIZEN] Population
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Captured Cities produce no [ICON_RESISTANCE] Resistance
+				[NEWLINE][ICON_BULLET]A "We Love the King Day" is triggered in your [ICON_CAPITAL] Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_GOTHS_SLAVES_ENACTED_DESC">
+			<Text>At long last we have captured the Eternal City and all of its riches are ours by right! Yet, for all their civilization, our enemies had enslaved thousands of our people. It is time to force the city's senate to free these slaves and restore our people.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Captured Cities produce no [ICON_RESISTANCE] Resistance
+				[NEWLINE][ICON_BULLET]A "We Love the King Day" is triggered in your [ICON_CAPITAL] Capital
+			</Text>
+		</Row>	
+		<!--To War!-->
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_GOTHS_TO_WAR">
+			<Text>Drauhtinon!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_GOTHS_TO_WAR_DESC">
+			<Text>Mighty King! Our enemies have enslaved our men and massacred our wives and children. They believe themselves unconquerable, as their noble families live in decadence off the suffering of the poor. Let us sound the horns of war and prove our strength as we claim their riches as our own.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Goths
+				[NEWLINE][ICON_BULLET]Player must be at War
+				[NEWLINE][ICON_BULLET]May only be enacted before the Renaissance Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]A Great General appears near your [ICON_CAPITAL] Capital
+				[NEWLINE][ICON_BULLET]All Melee Units recieve the Double Plunder promotion
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_GOTHS_TO_WAR_ENACTED_DESC">
+			<Text>Mighty King! Our enemies have enslaved our men and massacred our wives and children. They believe themselves unconquerable, as their noble families live in decadence off the suffering of the poor. Let us sound the horns of war and prove our strength as we claim their riches as our own.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]A Great General appears near your [ICON_CAPITAL] Capital
+				[NEWLINE][ICON_BULLET]All Melee Units recieve the Double Plunder promotion
+			</Text>
+		</Row>
+		<!--Convert the Goths-->
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_GOTHS_ARIANISM">
+			<Text>Convert the Goths</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_GOTHS_ARIANISM_DESC">
+			<Text>A missionary from the Eastern Empire has approached our camps. He has translated their sacred text into our native tongue and urges us to adopt their creed.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Goths
+				[NEWLINE][ICON_BULLET]At least 1 Religion must have been founded
+				[NEWLINE][ICON_BULLET]May only be enacted before the Industrial Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Faith} [ICON_PEACE] Faith
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Missionaries gain +1 [ICON_MOVES] Movement
+				[NEWLINE][ICON_BULLET]Religious Units cost 15% less [ICON_PEACE] Faith
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_GOTHS_ARIANISM_ENACTED_DESC">
+			<Text>A missionary from the Eastern Empire has approached our camps. He has translated their sacred text into our native tongue and urges us to adopt their creed.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Missionaries gain +1 [ICON_MOVES] Movement
+				[NEWLINE][ICON_BULLET]Religious Units cost 15% less [ICON_PEACE] Faith
+			</Text>
+		</Row>
+		<!--Dummy Policy-->
+		<Row Tag="TXT_KEY_POLICY_WULFILA_MISSIONARIES">
+			<Text>Wulfila Missionaries</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_WULFILA_MISSIONARIES_TEXT">
+			<Text>Wulfila Missionaries</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_WULFILA_MISSIONARIES_HELP">
+			<Text>15% discount on all purchases of religious units and buildings with [ICON_PEACE] Faith.</Text>
+		</Row>
+		<!-- West vs East -->
+		<Row Tag="TXT_KEY_EVENT_TOMATEKH_VISI_OSTRO_GOTHS">
+			<Text>Gothic Expansion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TOMATEKH_VISI_OSTRO_GOTHS_DESC">
+			<Text>Our civilization is flourishing and many of our kinsmen are looking to settle new lands. We must choose where to lead our people. If we go west, we may find work as imperial mercenaries. Steppe nomads control the east, but, if we persevere, we may be able to found our own kingdom.[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TOMATEKH_VISI_OSTRO_GOTHS_OUTCOME_1">
+			<Text>Become the Visigoths</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TOMATEKH_VISI_OSTRO_GOTHS_OUTCOME_2">
+			<Text>Become the Ostrogoths</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TOMATEKH_VISI_OSTRO_GOTHS_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]The [ICON_GOLD] Gold cost of upgrading military units will be reduced by 10%[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TOMATEKH_VISI_OSTRO_GOTHS_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+5% [ICON_PRODUCTION] Production when constructing Buildings[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOMATEKH_VISI_OSTRO_GOTHS_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>Our people have begun to settle in the west, forming the Visigoths!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOMATEKH_VISI_OSTRO_GOTHS_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>Our people have begun to settle in the east, forming the Ostrogoths!</Text>
+		</Row>
+	</Language_en_US>
+	<Policies>
+		<Row>
+			<Type>POLICY_WULFILA_MISSIONARIES</Type>
+			<Description>TXT_KEY_POLICY_WULFILA_MISSIONARIES</Description>
+			<Civilopedia>TXT_KEY_POLICY_WULFILA_MISSIONARIES_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_WULFILA_MISSIONARIES_HELP</Help>
+			<GridX>1000</GridX>
+			<GridY>1000</GridY>
+			<PortraitIndex>47</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+			<FaithCostModifier>-15</FaithCostModifier>
+		</Row>
+	</Policies>
+</GameData>

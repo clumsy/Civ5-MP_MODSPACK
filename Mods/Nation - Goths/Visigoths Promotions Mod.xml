@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_VISIGOTHS_MOD_ENEMY_ROUTE</Type>
+			<Description>TXT_KEY_PROMOTION_VISIGOTHS_MOD_ENEMY_ROUTE</Description>
+			<Help>TXT_KEY_PROMOTION_VISIGOTHS_MOD_ENEMY_ROUTE_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<LostWithUpgrade>true</LostWithUpgrade>
+			<EnemyRoute>true</EnemyRoute>
+			<PortraitIndex>33</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_VISIGOTHS_MOD_ENEMY_ROUTE</PediaEntry>
+		</Row>
+		<Row>
+			<Type>PROMOTION_VISIGOTHS_MOD_HEAL_ON_PILLAGE</Type>
+			<Description>TXT_KEY_PROMOTION_VISIGOTHS_MOD_HEAL_ON_PILLAGE</Description>
+			<Help>TXT_KEY_PROMOTION_VISIGOTHS_MOD_HEAL_ON_PILLAGE_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<!--<LostWithUpgrade>true</LostWithUpgrade>-->
+			<!--<HealOnPillage>true</HealOnPillage>-->
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_VISIGOTHS_MOD_HEAL_ON_PILLAGE</PediaEntry>
+		</Row>
+	</UnitPromotions>
+</GameData>

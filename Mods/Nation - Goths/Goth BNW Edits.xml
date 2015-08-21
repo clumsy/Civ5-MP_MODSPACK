@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_GOTH_DUMMY</Type>
+			<BuildingClass>BUILDINGCLASS_GOTH_DUMMY</BuildingClass>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<Description>TXT_KEY_BUILDING_GOTH_DUMMY_DESC</Description>
+			<Civilopedia>TXT_KEY_CIVLOPEDIA_GOTH_DUMMY_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_GOTH_DUMMY_STRATEGY</Strategy>
+			<ArtDefineTag>MONUMENT</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>NW_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+			<ConquestProb>100</ConquestProb>
+			<NukeImmune>true</NukeImmune>
+		</Row>
+		<Row>
+			<Type>BUILDING_GOTHS_EVENTS_VISIGOTHS_DUMMY</Type>
+			<BuildingClass>BUILDINGCLASS_GOTHS_EVENTS_DUMMY</BuildingClass>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<Description>TXT_KEY_BUILDING_GOTH_VISIGOTHS_DUMMY_DESC</Description>
+			<Civilopedia>TXT_KEY_CIVLOPEDIA_GOTH_DUMMY_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_GOTH_DUMMY_STRATEGY</Strategy>
+			<ArtDefineTag>MONUMENT</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<UnitUpgradeCostMod>-10</UnitUpgradeCostMod>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>36</PortraitIndex>
+		</Row>
+		<Row>
+			<Type>BUILDING_GOTHS_EVENTS_OSTROGOTHS_DUMMY</Type>
+			<BuildingClass>BUILDINGCLASS_GOTHS_EVENTS_DUMMY</BuildingClass>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<Description>TXT_KEY_BUILDING_GOTH_OSTROGOTHS_DUMMY_DESC</Description>
+			<Civilopedia>TXT_KEY_CIVLOPEDIA_GOTH_DUMMY_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_GOTH_DUMMY_STRATEGY</Strategy>
+			<ArtDefineTag>MONUMENT</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<BuildingProductionModifier>5</BuildingProductionModifier>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>36</PortraitIndex>
+		</Row>
+	</Buildings>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_GOTH_DUMMY</Type>
+			<DefaultBuilding>BUILDING_GOTH_DUMMY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_GOTH_DUMMY_DESC</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_GOTHS_EVENTS_DUMMY</Type>
+			<DefaultBuilding>BUILDING_GOTHS_EVENTS_VISIGOTHS_DUMMY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_GOTH_VISIGOTHS_DUMMY_DESC</Description>
+		</Row>	
+	</BuildingClasses>
+	<Civilization_BuildingClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_GOTH_DUMMY</BuildingClassType>
+			<BuildingType/>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MINOR</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_GOTH_DUMMY</BuildingClassType>
+			<BuildingType/>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_GOTHS_EVENTS_DUMMY</BuildingClassType>
+			<BuildingType/>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MINOR</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_GOTHS_EVENTS_DUMMY</BuildingClassType>
+			<BuildingType/>
+		</Row>		
+	</Civilization_BuildingClassOverrides>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_GOTH_DUMMY_DESC">
+			<Text>Ruins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_GOTH_DUMMY_TEXT">
+			<Text>The Sack of Rome occurred on August 24, 410. The city was attacked by the Visigoths, led by Alaric I. At that time, Rome was no longer the capital of the Western Roman Empire, replaced in this position initially by Mediolanum and then later Ravenna. Nevertheless, the city of Rome retained a paramount position as "the eternal city" and a spiritual center of the Empire. The sack was to prove a major shock to contemporaries, friends and foes of the Empire alike. This was the first time in almost 800 years that Rome had fallen to an enemy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GOTH_DUMMY_STRATEGY">
+			<Text>This building cannot be constructed but rather facilitates the Goth's unique abilities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GOTH_VISIGOTHS_DUMMY_DESC">
+			<Text>Visigoths Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GOTH_OSTROGOTHS_DUMMY_DESC">
+			<Text>Ostrogoths Dummy</Text>
+		</Row>
+	</Language_en_US>
+	<Language_RU_RU>
+		<Row Tag="TXT_KEY_BUILDING_GOTH_DUMMY_DESC">
+			<Text>Ruins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_GOTH_DUMMY_TEXT">
+			<Text>The Sack of Rome occurred on August 24, 410. The city was attacked by the Visigoths, led by Alaric I. At that time, Rome was no longer the capital of the Western Roman Empire, replaced in this position initially by Mediolanum and then later Ravenna. Nevertheless, the city of Rome retained a paramount position as "the eternal city" and a spiritual center of the Empire. The sack was to prove a major shock to contemporaries, friends and foes of the Empire alike. This was the first time in almost 800 years that Rome had fallen to an enemy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GOTH_DUMMY_STRATEGY">
+			<Text>This building cannot be constructed but rather facilitates the Goth's unique abilities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GOTH_VISIGOTHS_DUMMY_DESC">
+			<Text>Visigoths Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GOTH_OSTROGOTHS_DUMMY_DESC">
+			<Text>Ostrogoths Dummy</Text>
+		</Row>		
+	</Language_RU_RU>
+	<Language_PL_PL>
+		<Row Tag="TXT_KEY_BUILDING_GOTH_DUMMY_DESC">
+			<Text>Ruins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_GOTH_DUMMY_TEXT">
+			<Text>The Sack of Rome occurred on August 24, 410. The city was attacked by the Visigoths, led by Alaric I. At that time, Rome was no longer the capital of the Western Roman Empire, replaced in this position initially by Mediolanum and then later Ravenna. Nevertheless, the city of Rome retained a paramount position as "the eternal city" and a spiritual center of the Empire. The sack was to prove a major shock to contemporaries, friends and foes of the Empire alike. This was the first time in almost 800 years that Rome had fallen to an enemy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GOTH_DUMMY_STRATEGY">
+			<Text>This building cannot be constructed but rather facilitates the Goth's unique abilities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GOTH_VISIGOTHS_DUMMY_DESC">
+			<Text>Visigoths Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GOTH_OSTROGOTHS_DUMMY_DESC">
+			<Text>Ostrogoths Dummy</Text>
+		</Row>		
+	</Language_PL_PL>
+	<Language_KO_KR>
+		<Row Tag="TXT_KEY_BUILDING_GOTH_DUMMY_DESC">
+			<Text>Ruins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_GOTH_DUMMY_TEXT">
+			<Text>The Sack of Rome occurred on August 24, 410. The city was attacked by the Visigoths, led by Alaric I. At that time, Rome was no longer the capital of the Western Roman Empire, replaced in this position initially by Mediolanum and then later Ravenna. Nevertheless, the city of Rome retained a paramount position as "the eternal city" and a spiritual center of the Empire. The sack was to prove a major shock to contemporaries, friends and foes of the Empire alike. This was the first time in almost 800 years that Rome had fallen to an enemy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GOTH_DUMMY_STRATEGY">
+			<Text>This building cannot be constructed but rather facilitates the Goth's unique abilities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GOTH_VISIGOTHS_DUMMY_DESC">
+			<Text>Visigoths Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GOTH_OSTROGOTHS_DUMMY_DESC">
+			<Text>Ostrogoths Dummy</Text>
+		</Row>		
+	</Language_KO_KR>
+	<Language_JA_JP>
+		<Row Tag="TXT_KEY_BUILDING_GOTH_DUMMY_DESC">
+			<Text>Ruins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_GOTH_DUMMY_TEXT">
+			<Text>The Sack of Rome occurred on August 24, 410. The city was attacked by the Visigoths, led by Alaric I. At that time, Rome was no longer the capital of the Western Roman Empire, replaced in this position initially by Mediolanum and then later Ravenna. Nevertheless, the city of Rome retained a paramount position as "the eternal city" and a spiritual center of the Empire. The sack was to prove a major shock to contemporaries, friends and foes of the Empire alike. This was the first time in almost 800 years that Rome had fallen to an enemy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GOTH_DUMMY_STRATEGY">
+			<Text>This building cannot be constructed but rather facilitates the Goth's unique abilities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GOTH_VISIGOTHS_DUMMY_DESC">
+			<Text>Visigoths Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GOTH_OSTROGOTHS_DUMMY_DESC">
+			<Text>Ostrogoths Dummy</Text>
+		</Row>		
+	</Language_JA_JP>
+	<Language_IT_IT>
+		<Row Tag="TXT_KEY_BUILDING_GOTH_DUMMY_DESC">
+			<Text>Ruins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_GOTH_DUMMY_TEXT">
+			<Text>The Sack of Rome occurred on August 24, 410. The city was attacked by the Visigoths, led by Alaric I. At that time, Rome was no longer the capital of the Western Roman Empire, replaced in this position initially by Mediolanum and then later Ravenna. Nevertheless, the city of Rome retained a paramount position as "the eternal city" and a spiritual center of the Empire. The sack was to prove a major shock to contemporaries, friends and foes of the Empire alike. This was the first time in almost 800 years that Rome had fallen to an enemy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GOTH_DUMMY_STRATEGY">
+			<Text>This building cannot be constructed but rather facilitates the Goth's unique abilities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GOTH_VISIGOTHS_DUMMY_DESC">
+			<Text>Visigoths Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GOTH_OSTROGOTHS_DUMMY_DESC">
+			<Text>Ostrogoths Dummy</Text>
+		</Row>		
+	</Language_IT_IT>
+	<Language_FR_FR>
+		<Row Tag="TXT_KEY_BUILDING_GOTH_DUMMY_DESC">
+			<Text>Ruins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_GOTH_DUMMY_TEXT">
+			<Text>The Sack of Rome occurred on August 24, 410. The city was attacked by the Visigoths, led by Alaric I. At that time, Rome was no longer the capital of the Western Roman Empire, replaced in this position initially by Mediolanum and then later Ravenna. Nevertheless, the city of Rome retained a paramount position as "the eternal city" and a spiritual center of the Empire. The sack was to prove a major shock to contemporaries, friends and foes of the Empire alike. This was the first time in almost 800 years that Rome had fallen to an enemy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GOTH_DUMMY_STRATEGY">
+			<Text>This building cannot be constructed but rather facilitates the Goth's unique abilities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GOTH_VISIGOTHS_DUMMY_DESC">
+			<Text>Visigoths Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GOTH_OSTROGOTHS_DUMMY_DESC">
+			<Text>Ostrogoths Dummy</Text>
+		</Row>		
+	</Language_FR_FR>
+	<Language_ES_ES>
+		<Row Tag="TXT_KEY_BUILDING_GOTH_DUMMY_DESC">
+			<Text>Ruins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_GOTH_DUMMY_TEXT">
+			<Text>The Sack of Rome occurred on August 24, 410. The city was attacked by the Visigoths, led by Alaric I. At that time, Rome was no longer the capital of the Western Roman Empire, replaced in this position initially by Mediolanum and then later Ravenna. Nevertheless, the city of Rome retained a paramount position as "the eternal city" and a spiritual center of the Empire. The sack was to prove a major shock to contemporaries, friends and foes of the Empire alike. This was the first time in almost 800 years that Rome had fallen to an enemy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GOTH_DUMMY_STRATEGY">
+			<Text>This building cannot be constructed but rather facilitates the Goth's unique abilities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GOTH_VISIGOTHS_DUMMY_DESC">
+			<Text>Visigoths Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GOTH_OSTROGOTHS_DUMMY_DESC">
+			<Text>Ostrogoths Dummy</Text>
+		</Row>		
+	</Language_ES_ES>
+	<Language_DE_DE>
+		<Row Tag="TXT_KEY_BUILDING_GOTH_DUMMY_DESC">
+			<Text>Ruins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_GOTH_DUMMY_TEXT">
+			<Text>The Sack of Rome occurred on August 24, 410. The city was attacked by the Visigoths, led by Alaric I. At that time, Rome was no longer the capital of the Western Roman Empire, replaced in this position initially by Mediolanum and then later Ravenna. Nevertheless, the city of Rome retained a paramount position as "the eternal city" and a spiritual center of the Empire. The sack was to prove a major shock to contemporaries, friends and foes of the Empire alike. This was the first time in almost 800 years that Rome had fallen to an enemy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GOTH_DUMMY_STRATEGY">
+			<Text>This building cannot be constructed but rather facilitates the Goth's unique abilities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GOTH_VISIGOTHS_DUMMY_DESC">
+			<Text>Visigoths Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GOTH_OSTROGOTHS_DUMMY_DESC">
+			<Text>Ostrogoths Dummy</Text>
+		</Row>		
+	</Language_DE_DE>
+</GameData>

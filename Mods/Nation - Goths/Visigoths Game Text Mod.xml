@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<Language_en_US>
+		<!-- -->
+		<Row Tag="TXT_KEY_UNIT_VISIGOTHS_MOD_GADRAUHT">
+			<Text>Gadrauht</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNIT_VISIGOTHS_MOD_GADRAUHT_TEXT">
+			<Text>The Gothic tribes had no standing army, instead relying on Gadrauhts, or short-term militia. Generally armed with thrusting spears, throwing spears and shields, although some had swords and bows, these unarmored levies were particularly effective in melee in rough terrain where the rigid military formations the Romans favored proved unwieldy. Commonly organized in hundafabs, literally "hundred armed men," along tribal lines, the Gadrauhts were unreliable in pitched battle, as likely to fight to the last man as to flee when the tide turned against them.[NEWLINE][NEWLINE]The usage of the Roman road network was critical to Alaric's campaign against the Roman Empire. Moving swiftly along Roman roads, Alaric was able to sack the cities of Aquileia and Cremona as well as ravage the lands along the Adriatic Sea. It was at this point that Alaric set his sights on the eternal city for the first time and lay siege in AD 408. The Visigoths would again surround Rome in AD 409. Finally, in AD 410 on August 24, Alaric and his troops sacked the city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VISIGOTHS_MOD_GADRAUHT_HELP">
+			<Text>Front-line land Unit which can only be built by the Goths. The Gadrauht heals double when pillaging a non-road Improvement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VISIGOTHS_MOD_GADRAUHT_STRATEGY">
+			<Text>The Gadrauht is the Gothic unique unit replacing the Swordsman. The Gadrauht heals double when pillaging a non-road Improvement and receives a bonus when fighting in Rough Terrain.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_PROMOTION_VISIGOTHS_MOD_ENEMY_ROUTE">
+			<Text>Familiar Pathways</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VISIGOTHS_MOD_ENEMY_ROUTE_HELP">
+			<Text>May use [COLOR_POSITIVE_TEXT]Enemy Roads[ENDCOLOR] during wartime.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VISIGOTHS_MOD_HEAL_ON_PILLAGE">
+			<Text>Healthy Plundering</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VISIGOTHS_MOD_HEAL_ON_PILLAGE_HELP">
+			<Text>Heals double when pillaging a non-road Improvement.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_BUILDING_VISGOTHS_MOD_HOV">
+			<Text>Hov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_BUILDINGS_VISIGOTHS_MOD_HOV_TEXT">
+			<Text>A Hov was a structure, sometimes no more than a roofless palisade but far more substantial in large Goth settlements, where the pagan "blot" (ritual animal sacrifice) took place. Amid great fanfare, the blot was conducted by the Germanic druids to insure good harvests, hunting or victory in war. The sacrifice was usually by means of decapitation; Agathias of Myrina wrote during the Gothic War (535-554 AD) that the Goths would "sacrifice horses, cattle and countless other animals by beheading them, and imagine that they are performing an act of piety thereby." If the tribe was under extreme threat, it was not unknown for the druids to even conduct human sacrifice of captives or slaves in the Hov.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VISIGOTHS_MOD_HOV_STRATEGY">
+			<Text>The Hov is the Gothic unique building, replacing the Stable. It increases the city's production of Land Units (as opposed to just Mounted Units) and grants additional [ICON_PEACE] Faith with access to [ICON_RES_HORSE] Horses, [ICON_RES_SHEEP] Sheep, and [ICON_RES_COW] Cattle resources. However, the city must have at least one of these resources improved with a Pasture before it can be built.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VISIGOTHS_MOD_HOV_HELP">
+			<Text>+10% [ICON_PRODUCTION] Production when building Land Units.[NEWLINE][NEWLINE]Each source of [ICON_RES_HORSE] Horses [ICON_RES_SHEEP] Sheep and [ICON_RES_COW] Cattle worked by this City produces +1 [ICON_PEACE] Faith and +1 [ICON_PRODUCTION] Production.[NEWLINE][NEWLINE]City must have at least one of these resources improved with a Pasture.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_VISIGOTHS_MOD_DESC">
+			<Text>Gothic Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VISIGOTHS_MOD_SHORT_DESC">
+			<Text>The Goths</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_VISIGOTHS_MOD_ADJECTIVE">
+			<Text>Gothic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VISIGOTHS_MOD">
+			<Text>The Goths</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_VISIGOTHS_MOD_TITLE">
+			<Text>The Goths</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_VISIGOTHS_MOD_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_VISIGOTHS_MOD_TEXT_1">
+			<Text>The Goths were an east European tribe of Scandinavian origins whose two branches, Visigoths and Ostrogoths, played a significant role in the fall of the Roman Empire. Although sharing common language, customs and beliefs, the Visigoths and Ostrogoths followed divergent paths and each founded a medieval kingdom.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_VISIGOTHS_MOD_HEADING_2">
+			<Text>Climate and Terrain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_VISIGOTHS_MOD_TEXT_2">
+			<Text>The Gothic culture covered a wide area from their origins in Scandinavia, to their migration across Eastern Europe, and their conquests of the Roman Empire and Iberia. The geography of Scandinavia is extremely varied. Notable are the Norwegian fjords, the Scandinavian Mountains, the flat, low areas in Denmark, and the archipelagos of Sweden and Norway. Sweden has many lakes and moraines, legacies of the ice age. The Balkans are covered by mountain ranges running from north-west to south-east.[NEWLINE][NEWLINE]On the Adriatic and Aegean coasts the climate is Mediterranean, on the Black Sea coast the climate is humid subtropical and oceanic, and in the inland it is humid continental. In the northern part of the peninsula and on the mountains, winters are frosty and snowy, while summers are hot and dry. In the southern part winters are milder. Iberia primarily consists of the Meseta Central, a highland plateau rimmed and dissected by mountain ranges. Other landforms include narrow coastal plains and some lowland river valleys, the most prominent of which is the Andalusian Plain in the southwest.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_VISIGOTHS_MOD_HEADING_3">
+			<Text>Scandinavian Origins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_VISIGOTHS_MOD_TEXT_3">
+			<Text>According to Jordanes's 'Getica', written in the mid-6th century, the earliest migrating Goths sailed from Scandza under King Berig in three ships and named the place at which they landed after themselves; Gothiscandza. From there they entered the land of the Ulmerugi who were spread along the southern coast of the Baltic Sea, expelled them, and also subdued the neighbouring Vandals. Regarding the location of Gothiscandza, Jordanes states that one shipload "dwelled in the province of Spesis on an island surrounded by the shallow waters of the Vistula."[NEWLINE][NEWLINE]The earliest material culture associated with the Goths on the southern coast of the Baltic Sea is the Wielbark Culture, centered around the modern region of Pomerania in northern Poland. This culture replaced the local Oksywie or Oxhöft culture in the 1st century, when a Scandinavian settlement was established in a buffer zone between the Oksywie culture and the Przeworsk culture.[NEWLINE][NEWLINE]The Goths are believed to have crossed the Baltic Sea sometime between the end of this period (ca 300 BC) and AD 100. Early archaeological evidence in the traditional Swedish province of Östergötland suggests a general depopulation during this period. However, this is not confirmed in more recent publications. The settlement in today's Poland may correspond to the introduction of Scandinavian burial traditions, such as the stone circles and the stelae especially common on the island of Gotland and other parts of southern Sweden.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_VISIGOTHS_MOD_HEADING_4">
+			<Text>The Visigoths</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_VISIGOTHS_MOD_TEXT_4">
+			<Text>The Visigoths settled in Dacia, where they remained peacefully co-existing with the Romans until 376 AD, when their leader appealed to the Byzantine Emperor Valens to move his people south of the Danube to find refuge from the Huns. The treaty lasted until 395, the year that Alaric I took the Visigoth throne. In 408, Roman troops massacred the families of approximately 30,000 barbarian soldiers serving as mercenaries under Roman command. Alaric promptly declared war and invaded Italy, with Byzantine approval. After military victories and three sieges of Rome itself, Alaric's Visigoths captured the city in August 410. Rome was plundered and sacked, and Alaric set up a Visigoth kingdom in Italy. Over the next century, the Visigoths expanded their borders at a steady pace, eventually controlling southern Gaul and all of Iberia. With the capital at Toulouse, the Visigoths forced the Vandals from Iberia, but lost Italy. In 507 the Franks under Clovis decisively defeated the Visigoths at the Battle of Vouille and wrested control of Gaul from them. It was the beginning of a slow decline. The last king of the Visigoths, Roderic, was killed facing the Ummayad onslaught in 711 which marked the opening of the Muslim conquest of Iberia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_VISIGOTHS_MOD_HEADING_5">
+			<Text>The Ostrogoths</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_VISIGOTHS_MOD_TEXT_5">
+			<Text>The history of the Ostrogoths is somewhat less tangled. After the southern migration they established a vast but thinly populated kingdom between the Danube and Dneipr rivers. It was a multi-tribal empire, ruled by Gothic nobility and included Sarmatians, Gepids, Dacians as well as smaller Celtic and Slavic tribes. The rise of the Huns overwhelmed the polyglot kingdom, and the Ostrogoths accepted Hunnic rule and joined forces. The Ostrogoths were one of Attila's principle vassals fighting in Europe, as at the Battle of Chalons in 451 AD. But in revolt upon Attila's death, the Ostrogoths under Theodemir shattered the power of Attila's heirs at Nedao three years later. The year 454 also saw the birth of Theodoric the Great. In 471 he became king of the Ostrogoths. Within 20 years Theodoric ruled all of Italy, as well as much of the Balkans. But the weakness of the Ostrogoth rule quickly showed itself upon his death. The Byzantines took the offensive and forced the Ostrogoth king Totila to abandon Rome. In 553, at the Battle of Mons Lactarius, the remaining supporters of Totila were killed, captured or executed. The Ostrogoth remnants retreated and resettled in Austria. And the Ostrogoths disappeared from history.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_VISIGOTHS_MOD_HEADING_6">
+			<Text>Legacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_VISIGOTHS_MOD_TEXT_6">
+			<Text>In Medieval and Modern Spain, the Visigoths were believed to be the origin of the Spanish nobility. By the early 7th century, the ethnic distinction between Visigoths and Hispano-Romans had all but disappeared, but recognition of a Gothic origin, e.g. on gravestones, still survived among the nobility. The 7th-century Visigothic aristocracy saw itself as bearers of a particular Gothic consciousness and as guardians of old traditions such as Germanic namegiving; probably these traditions were on the whole restricted to the family sphere (Hispano-Roman nobles did service for Visigothic nobles already in the 5th century and the two branches of Spanish aristocracy had fully adopted similar customs two centuries later).[NEWLINE][NEWLINE]The Goths' relationship with Sweden became an important part of Swedish nationalism, and until the 19th century the Swedes were commonly considered to be the direct descendants of the Goths. Today, Swedish scholars identify this as a cultural movement called Gothicismus, which included an enthusiasm for things Old Norse.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_VISIGOTHS_MOD_STATBOX">
+			<Text>[NEWLINE]        Leader: Alaric[NEWLINE]        Unique Unit: Gadrauht[NEWLINE]        Unique Building: Hov[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_VISIGOTHS_MOD_FACTOID_HEADING">
+			<Text>Gothic Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_VISIGOTHS_MOD_FACTOID_TEXT">
+			<Text>Although the Visigoths plundered Rome, they treated its inhabitants humanely and burned only a few buildings. Christian churches were not pillaged, and protection was afforded the thousands of pagans and Christians who took refuge there.[NEWLINE][NEWLINE]Gothic is an extinct Germanic language that was spoken by the Goths. It is known today primarily from the Wulfila Bible, a 4th-century Bible translation, and is the only East Germanic language with a sizable text corpus. All others, including Burgundian and Vandalic, are known, if at all, only from proper names that survived in historical accounts, and from loan-words in other languages such as Portuguese, Spanish and French.[NEWLINE][NEWLINE]In Spain, a man acting with arrogance would be said to be "haciéndose los godos" ("making himself to act like the Goths").</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_VISIGOTHS_MOD_TEXT">
+			<Text>Hail Alaric, King of the Visigoths, Sacker of Rome, your people shout your name and raise their swords to you! From the shores of Scandinavia your people came and spread across Europe. In the East, the Ostrogoths successfully revolted against the Huns. In the West, the Visigoths conquered Iberia. Even the eternal city fell before your might! Yet, you also possessed the heart and wisdom of a true leader. You forced the senate to free the slaves and treated her citizens with kindness. You paid homage to their gods and let all worship as they might. However - divided, conquered, forgotten - the legacy of the Goths has faded with the passage of time.[NEWLINE][NEWLINE]Mighty King, once again the glories of civilization stand before you. New cities have emerged, their towers scraping the very heavens themselves. The noble blood of your people cries out to you! Will you claim these newfound riches as your own? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_VISIGOTHS_MOD_ALARIC_DESC">
+			<Text>Alaric</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VISIGOTHS_MOD_ALARIC_LIVED">
+			<Text>AD 370 - 410</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VISIGOTHS_MOD_ALARIC_NAME">
+			<Text>Alaric I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VISIGOTHS_MOD_ALARIC_SUBTITLE">
+			<Text>Leader of the Goths</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VISIGOTHS_MOD_ALARIC_TITLES_1">
+			<Text>King of the Visigoths</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VISIGOTHS_MOD_ALARIC_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VISIGOTHS_MOD_ALARIC_TEXT_1">
+			<Text>Alaric I was the King of the Visigoths from AD 395 - 410. He is most famous for his sack of Rome in AD 410, which marked a decisive event in the decline of the Roman Empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VISIGOTHS_MOD_ALARIC_HEADING_2">
+			<Text>Early life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VISIGOTHS_MOD_ALARIC_TEXT_2">
+			<Text>Born c. AD 370 on Peuce Island at the mouth of the Danube in present day Romania, Alaric belonged to the noble Balti dynasty of the Tervingian Goths. After their setbacks against the Huns, Alaric was probably a child during the Goths mass-migration across the Danube and their subsequent war with Rome.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VISIGOTHS_MOD_ALARIC_HEADING_3">
+			<Text>In Service of Rome</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VISIGOTHS_MOD_ALARIC_TEXT_3">
+			<Text>In the face of the Huns' advance, the Visigoths entered Byzantine service as auxiliaries for the right to settle in Roman lands. As a young man, Alaric joined the legions. In AD 394 he led a Gothic force to aid the empire in defeating the rebel Arbogast. The next year Alaric was elected chief of the Visigoths.[NEWLINE][NEWLINE]That same year, Theodosius, emperor of Byzantium and Alaric's patron, died. Despite his service to the empire and role as the king of the Visigoths, Alaric was ignored and dismissed in the shuffling of imperial offices that followed. Soon after Theodosius' death Alaric struck at Eastern Rome. Ravaging Greece, he reached the walls of Constantinople in AD 397, whereupon the emperor appointed Alaric magister militum, who had autonomous military authority.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VISIGOTHS_MOD_ALARIC_HEADING_4">
+			<Text>The Sack of Rome</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VISIGOTHS_MOD_ALARIC_TEXT_4">
+			<Text>In AD 407, after estrangement between the two halves of the empire threatened civil war, Alaric led a Visigoth army across the Julian Alps to the outskirts of Rome. Starvation eventually led the Roman Senate to negotiate. Alaric kept his forces in the region, and when the Senate reneged on its treaty, he besieged Rome again. Following this siege, and another settlement with the Senate in AD 409, in which Alaric set up a puppet emperor in Rome, the Visigoths marched north.[NEWLINE][NEWLINE]But it was not long before Alaric was forced to return to dethrone his puppet and declare himself king in Italy. In August 410, the Visigoths burst through the Porto Salaria into the city. Alaric showed amazing clemency to the people of Rome; Christian churches were not pillaged, and protection was afforded the thousands of pagans and Christians who took refuge there.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VISIGOTHS_MOD_ALARIC_HEADING_5">
+			<Text>Death and Funeral</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VISIGOTHS_MOD_ALARIC_TEXT_5">
+			<Text>Alaric, having penetrated the city, marched southwards into Calabria. He desired to invade Africa, which, thanks to its grain, had become the key to holding Italy. But a storm battered his ships into pieces and many of his soldiers drowned. Alaric died soon after in Cosenza, probably of fever, at the age of forty. His body was, according to legend, buried under the riverbed of the Busento. The stream was temporarily turned aside from its course while the grave was dug wherein the Gothic chief and some of his most precious spoils were interred. When the work was finished, the river was turned back into its usual channel and the captives by whose hands the labor had been accomplished were put to death that none might learn their secret. Alaric was succeeded in the command of the Gothic army by his brother-in-law, Ataulf, who married Honorius' sister Galla Placidia three years later .</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VISIGOTHS_MOD_ALARIC_HEADING_6">
+			<Text>Factoid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VISIGOTHS_MOD_ALARIC_TEXT_6">
+			<Text>In AD 394 Alaric served as a leader of foederati under the Roman Emperor Theodosius I, in the campaign which crushed the usurper Eugenius. As the Battle of the Frigidus, which terminated this campaign, was fought at the passes of the Julian Alps, Alaric probably learned the weakness of Italy's natural defences on its northeastern frontier at the head of the Adriatic.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_TRAIT_SACKER_OF_ROME_SHORT">
+			<Text>Sacker of Rome</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SACKER_OF_ROME">
+			<Text>Non-mounted land military units may use enemy roads before the Industrial Era. Capturing a foreign [ICON_CAPITAL] Capital triggers a [ICON_GOLDEN_AGE] Golden Age.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_ARHEIMAR">
+			<Text>Árheimar</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_GOTHISCANDZA">
+			<Text>Gothiscandza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_RAVENNA">
+			<Text>Ravenna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_TOULOUSE">
+			<Text>Toulouse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_RECCOPOLIS">
+			<Text>Reccopolis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_VICTORIACUM">
+			<Text>Victoriacum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_LUGO_ID_EST_LUCEO">
+			<Text>Lucgo id est Luceo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_OLOGICUS">
+			<Text>Ologicus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_BAIYARA">
+			<Text>Baiyara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_TYRAS">
+			<Text>Tyras</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_OLBIA">
+			<Text>Olbia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_TURDA">
+			<Text>Turda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_APULON">
+			<Text>Apulon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_TOLETUM">
+			<Text>Toletum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_NOVAE">
+			<Text>Novae</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_NARBO">
+			<Text>Narbo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_CORDUBA">
+			<Text>Corduba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_OIUM">
+			<Text>Oium</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_TYRIN">
+			<Text>Tyrin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_SKUPI">
+			<Text>Skupi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_OESCUS">
+			<Text>Oescus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_VERONA">
+			<Text>Verona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_SIRMUM">
+			<Text>Sirmum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_SINGIDUNUM">
+			<Text>Singidunum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_PAVIA">
+			<Text>Pavia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_TARRAGONA">
+			<Text>Tarragona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_SARAGOSSA">
+			<Text>Saragossa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_MALAGA">
+			<Text>Malaga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_PALENCIA">
+			<Text>Palencia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_NURSIA">
+			<Text>Nursia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_FERVIR">
+			<Text>Fervir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_HALLIN">
+			<Text>Hallin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_HERULER">
+			<Text>Heruler</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_BERGIO">
+			<Text>Bergio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_THEUSTES">
+			<Text>Theustes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_VIMINACIUM">
+			<Text>Viminacium</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_REMESIANA">
+			<Text>Remesiana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_RATIARIA">
+			<Text>Ratiaria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_MARCIANOPILIS">
+			<Text>Marcianopolis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_TOMI">
+			<Text>Tomi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_ISTROS">
+			<Text>Istros</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_EUNIXI">
+			<Text>Eunixi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_TAETEL">
+			<Text>Taetel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_RUGI">
+			<Text>Rugi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_AROCHI">
+			<Text>Arochi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_RANII">
+			<Text>Ranii</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VISIGOTHS_MOD_NICOPOLIS_AS_ISTRUM">
+			<Text>Nicopolis ad Istrum</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_SPY_NAME_VISIGOTHS_MOD_0">
+			<Text>Ailwin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VISIGOTHS_MOD_1">
+			<Text>Baldric</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VISIGOTHS_MOD_2">
+			<Text>Gamel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VISIGOTHS_MOD_3">
+			<Text>Masci</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VISIGOTHS_MOD_4">
+			<Text>Savaric</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VISIGOTHS_MOD_5">
+			<Text>Isolda</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VISIGOTHS_MOD_6">
+			<Text>Estrilda</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VISIGOTHS_MOD_7">
+			<Text>Sabelina</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VISIGOTHS_MOD_8">
+			<Text>Sybilla</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VISIGOTHS_MOD_9">
+			<Text>Golda</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_LEADER_VISIGOTHS_MOD_ALARIC_FIRST_GREETING_1">
+			<Text>Hail, warrior! I am Alaric of the Goths. That's quite a magnificent city you have there. Mind if I "visit"...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VISIGOTHS_MOD_ALARIC_FIRST_GREETING_2">
+			<Text>Another one? Far greater countries than yours have fallen before me. The thicker the hay, the easier it is mowed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VISIGOTHS_MOD_ALARIC_DEFEATED_1">
+			<Text>My blood may stain your sword, but remember that even the greatest cities eventually fall.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VISIGOTHS_MOD_ALARIC_DEFEATED_2">
+			<Text>In death, even the rivers change their course. What legacy shall you leave?</Text>
+		</Row>		
+		<!-- -->
+		<Row Tag="TXT_KEY_GENERIC_VISIGOTHS_MOD_INFLUENTIAL_ON_AI_1">
+			<Text>Children are running around kicking sandcastles and toy towers as their parents claim descent from the "Noble Goths". I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_VISIGOTHS_MOD_ALARIC">
+			<Text>Freyja</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- -->
+	</Language_en_US>
+</GameData>

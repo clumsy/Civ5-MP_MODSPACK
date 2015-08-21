@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<UnitMemberArtInfos>
+	<UnitMemberArtInfo>
+		<Type>ART_DEF_UNIT_GOTHS_SWORDSMAN_MEMBER_MOD</Type>
+		<fScale>0.14</fScale>
+		<Granny>gadrauhts_swordsman.fxsxml</Granny>
+		<Combat>
+			<Defaults>ART_DEF_TEMPLATE_SWORDSMAN</Defaults>
+		</Combat>
+		<MaterialTypeTag>CLOTH</MaterialTypeTag>
+		<MaterialTypeSoundOverrideTag>FLESH</MaterialTypeSoundOverrideTag>
+	</UnitMemberArtInfo>
+	<UnitMemberArtInfo>
+		<Type>ART_DEF_UNIT_GOTHS_SWORDSMAN_MEMBER_MOD_ALT</Type>
+		<fScale>0.14</fScale>
+		<Granny>SpainWarrior.fxsxml</Granny>
+		<Combat>
+			<Defaults>ART_DEF_TEMPLATE_SWORDSMAN</Defaults>
+		</Combat>
+		<MaterialTypeTag>CLOTH</MaterialTypeTag>
+		<MaterialTypeSoundOverrideTag>FLESH</MaterialTypeSoundOverrideTag>
+	</UnitMemberArtInfo>
+</UnitMemberArtInfos>	

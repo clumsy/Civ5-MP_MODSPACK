@@ -1488,6 +1488,9 @@ ContextPtr:LoadNewContext("CityInfoStack")
 -- Nation - Finland --
 ContextPtr:LoadNewContext("FinnishFunctions")
 
+-- Nation - Goths --
+ContextPtr:LoadNewContext("Goth Lua Check")
+
 -- Nation - Manx --
 ContextPtr:LoadNewContext("ManxUA")
 

@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="161f4dde-bbb8-41d2-8201-30250d9ba890" version="61">
+  <Properties>
+    <Name>The Goths (BNW or GK)</Name>
+    <Teaser>Adds the Goths to the base game. Requires either the Brave New World or Gods and Kings expansions.</Teaser>
+    <Description>Adds the Goths to the base game.
+[NEWLINE][NEWLINE]~~~
+[NEWLINE][NEWLINE]Note: 
+[NEWLINE]- This civilization requires either the Brave New World or the Gods and Kings expansion. 
+[NEWLINE]- Updates to the Mod will most likely break save games. Please do not update until you are ready to begin a new game.
+[NEWLINE][NEWLINE]~~~
+[NEWLINE][NEWLINE]Leader: Alaric
+[NEWLINE]UA: Sacker of Rome
+[NEWLINE]UU: Gadrauht
+[NEWLINE]UB: Hov</Description>
+    <Authors>Tomatekh</Authors>
+    <SpecialThanks>Janboruta, JFD, Andrew Holt</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <Homepage>http://forums.civfanatics.com/showthread.php?t=472751</Homepage>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>60</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events and Decisions" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="Culturual Diversity" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Cultural Influence" />
+    <Mod id="43868e8d-de88-48a1-a8d9-ce144e07f5e0" minversion="0" maxversion="999" title="ExCE" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="C. Patch" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="C. Balance Patch" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D." />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="Piety" />
+    <Mod id="d99bf7aa-51ac-4bef-bd88-d765b28e260e" minversion="0" maxversion="999" title="Prestiege" />
+  </References>
+  <Blocks>
+    <Mod id="2626e6a3-a0fd-478d-a5ab-0d9dee67ed0a" minversion="0" maxversion="999" title="YnAEMP Patch" />
+  </Blocks>
+  <Files>
+    <File md5="CCBE4B2694E9AAC209C8C2304911741B" import="1">Art/AlaricLeaderScreen.dds</File>
+    <File md5="E27211BDD57C8CD2A5965356D2F7F70C" import="1">Art/GothsAlphaAtlas/GothsAlphaAtlas128.dds</File>
+    <File md5="39DF11DF9A1FA638B2DE5260CD322F02" import="1">Art/GothsAlphaAtlas/GothsAlphaAtlas16.dds</File>
+    <File md5="52FAB54673F83C3DA749FF94086BA388" import="1">Art/GothsAlphaAtlas/GothsAlphaAtlas24.dds</File>
+    <File md5="FE8883DDADFAC26D2BD93B63DEDF036B" import="1">Art/GothsAlphaAtlas/GothsAlphaAtlas32.dds</File>
+    <File md5="33D54AE1C5EC5DDD2D30833FB3A32D0A" import="1">Art/GothsAlphaAtlas/GothsAlphaAtlas48.dds</File>
+    <File md5="B54E9008F643837BDD3A0CF0E076AD23" import="1">Art/GothsAlphaAtlas/GothsAlphaAtlas64.dds</File>
+    <File md5="EB00DC0E708A67A66C4E99E7A9E39930" import="1">Art/GothsAtlas/GothsModAtlas128.dds</File>
+    <File md5="A195F47905FF12355F0C4E715944DFCC" import="1">Art/GothsAtlas/GothsModAtlas214.dds</File>
+    <File md5="53288DAF3CEFF23AD522712B8395BB89" import="1">Art/GothsAtlas/GothsModAtlas256.dds</File>
+    <File md5="46D6A79D04B4F3856E9193D670DA4E5B" import="1">Art/GothsAtlas/GothsModAtlas32.dds</File>
+    <File md5="8BBD2D37E358A2C6BBE2EFC3A5D1DACF" import="1">Art/GothsAtlas/GothsModAtlas45.dds</File>
+    <File md5="77964B70A321ADEC0493CECBB87E4E8B" import="1">Art/GothsAtlas/GothsModAtlas64.dds</File>
+    <File md5="FD7F46E45858B147CCDB954C8B799998" import="1">Art/GothsAtlas/GothsModAtlas80.dds</File>
+    <File md5="3A8BE2A6957370D6C31BC58D57E23B59" import="1">Art/GothsUnit/Alt UU Graphic/2012-10-03_SpainWarrior.jpg</File>
+    <File md5="0BE33FC9C028C3BA79623C5FC67EEC41" import="1">Art/GothsUnit/Alt UU Graphic/SpainWarrior.dds</File>
+    <File md5="474F3515C180C7C1C77B8BB943AC7A1D" import="1">Art/GothsUnit/Alt UU Graphic/SpainWarrior.fbx</File>
+    <File md5="2F84C951F83FA10E016AFFD18CC44535" import="1">Art/GothsUnit/Alt UU Graphic/SpainWarrior.fxsxml</File>
+    <File md5="2C1C6D4A8AF55CD681F265E77C8EE09E" import="1">Art/GothsUnit/Alt UU Graphic/SpainWarrior.gr2</File>
+    <File md5="3ECA60A72A32E08F062D0DCC3346E442" import="1">Art/GothsUnit/Alt UU Graphic/SpainWarrior.jpg</File>
+    <File md5="5FCDE4D56BE65BF2C441BE13AACA98D8" import="1">Art/GothsUnit/Alt UU Graphic/SpainWarrior_sref.dds</File>
+    <File md5="70DAB595AB832DAF266982E01AB5138E" import="1">Art/GothsUnit/Alt UU Graphic/SpainWarrior_Template.blend</File>
+    <File md5="7B7EA49A30C90CDDA01B76F3B6551F84" import="1">Art/GothsUnit/fx_triggers_gadrauhts_swordsman.ftsxml</File>
+    <File md5="83C0B25F8C20460225A8870FBCB1B1DC" import="1">Art/GothsUnit/gadrauhts_swordsman.fxsxml</File>
+    <File md5="A440543BC4EEF50EBD9689D9B843C3F8" import="1">Art/GothsUnit/gadrauhts_swordsman.gr2</File>
+    <File md5="BD193D6778E4DB50BE848E3A1F22EFD4" import="1">Art/GothsUnit/gadrauhts_swordsman_attacka.gr2</File>
+    <File md5="15409230258671E3F4DC30972B5D11CA" import="1">Art/GothsUnit/gadrauhts_swordsman_attackb.gr2</File>
+    <File md5="DE775FD4A90CEB3933ADA275EDACE760" import="1">Art/GothsUnit/gadrauhts_swordsman_attack_city.gr2</File>
+    <File md5="8E6F0ACC795B0599ACC57844D812CCA7" import="1">Art/GothsUnit/gadrauhts_swordsman_bombard_defense.gr2</File>
+    <File md5="C5684E70A20644F1B12BC36D8B834F71" import="1">Art/GothsUnit/gadrauhts_swordsman_bombard_defense_idle.gr2</File>
+    <File md5="1E4E4A2CC94B6567C327FA030F5F5C49" import="1">Art/GothsUnit/gadrauhts_swordsman_bombard_defense_idle_trans_idlea.gr2</File>
+    <File md5="31329CB5885AC913E3BB944ED2F5267B" import="1">Art/GothsUnit/gadrauhts_swordsman_charge_attack.gr2</File>
+    <File md5="7DE4348C86F0207AAFF2D5D722658C88" import="1">Art/GothsUnit/gadrauhts_swordsman_charge_run.gr2</File>
+    <File md5="27F79CC73A7849C7C363710D98A3C9AF" import="1">Art/GothsUnit/gadrauhts_swordsman_charge_start_run.gr2</File>
+    <File md5="C55AB6D51BEE6CF7A871DE2F4C0DE158" import="1">Art/GothsUnit/gadrauhts_swordsman_combat_ready.gr2</File>
+    <File md5="5455B0C84BDF088800BDB693D751AF1D" import="1">Art/GothsUnit/gadrauhts_swordsman_combat_ready_idle.gr2</File>
+    <File md5="229710E7F9390DC582A5EA9481D0300B" import="1">Art/GothsUnit/gadrauhts_swordsman_combat_ready_idle_trans_idlea.gr2</File>
+    <File md5="584820895E4622CF359A06FA6C94B969" import="1">Art/GothsUnit/gadrauhts_swordsman_deatha.gr2</File>
+    <File md5="43CD97F91AFCBBB3F774F39749227E32" import="1">Art/GothsUnit/gadrauhts_swordsman_deatha_idle.gr2</File>
+    <File md5="0FDC35D8E39965145084C259B09652AA" import="1">Art/GothsUnit/gadrauhts_swordsman_deathb.gr2</File>
+    <File md5="E78E42D21E9BD5543AD002ED91CC0C17" import="1">Art/GothsUnit/gadrauhts_swordsman_deathb_idle.gr2</File>
+    <File md5="BFEBA49A7868FF2E508D4D6980FD6429" import="1">Art/GothsUnit/gadrauhts_swordsman_diff.dds</File>
+    <File md5="B563A4AE28DFE1BDA4C716D2DD97FE10" import="1">Art/GothsUnit/gadrauhts_swordsman_dig.gr2</File>
+    <File md5="6DEB635C0C6D294AD970638AE71BCDD5" import="1">Art/GothsUnit/gadrauhts_swordsman_fidgeta.gr2</File>
+    <File md5="6D0C3C7F954CB9918BFA3721C4C3951E" import="1">Art/GothsUnit/gadrauhts_swordsman_fidgetb.gr2</File>
+    <File md5="C4D540D3CEBF11FF9E2604252DE95D27" import="1">Art/GothsUnit/gadrauhts_swordsman_fortify.gr2</File>
+    <File md5="2B820190ED5D9C25B3AA871DE05127F3" import="1">Art/GothsUnit/gadrauhts_swordsman_fortify_idle.gr2</File>
+    <File md5="2458C13E02C199BD7B1CC26430671802" import="1">Art/GothsUnit/gadrauhts_swordsman_fortify_idle_fidget.gr2</File>
+    <File md5="9A1A3AE34D3822A0C093186120739664" import="1">Art/GothsUnit/gadrauhts_swordsman_fortify_idle_trans_combat_ready_idle.gr2</File>
+    <File md5="F262569C1707BC14740949B2E395FFA2" import="1">Art/GothsUnit/gadrauhts_swordsman_fortify_idle_trans_idlea.gr2</File>
+    <File md5="D75279D881F81D6ED7DEF13174EA82C2" import="1">Art/GothsUnit/gadrauhts_swordsman_idlea.gr2</File>
+    <File md5="5A67D45FBD7611B48CE4623FF240E199" import="1">Art/GothsUnit/gadrauhts_swordsman_idlea_trans_idleb.gr2</File>
+    <File md5="311C133E4B03344EEC9B9817CBCBA92A" import="1">Art/GothsUnit/gadrauhts_swordsman_idleb.gr2</File>
+    <File md5="05AF76FED4A738DD70E29FBC06505A96" import="1">Art/GothsUnit/gadrauhts_swordsman_idleb_trans_idlea.gr2</File>
+    <File md5="C6E0E70D2B044E5FF81E220426BBCBF6" import="1">Art/GothsUnit/gadrauhts_swordsman_run.gr2</File>
+    <File md5="1A622308CE0D4CEB0306BD973F668EF9" import="1">Art/GothsUnit/gadrauhts_swordsman_shuffle.gr2</File>
+    <File md5="9F320E34B203948C59C723ED35F7D44A" import="1">Art/GothsUnit/gadrauhts_swordsman_sref.dds</File>
+    <File md5="9173373660BA46240A8D9D8CCB27DCD7" import="1">Art/GothsUnit/gadrauhts_swordsman_start_dig.gr2</File>
+    <File md5="00EECE94E61FAAE5F2FCA8DDBE7013ED" import="1">Art/GothsUnit/gadrauhts_swordsman_start_run.gr2</File>
+    <File md5="7998F5ABEA0D84C45DE7E68B9E60397C" import="1">Art/GothsUnit/gadrauhts_swordsman_stop_dig.gr2</File>
+    <File md5="73BF51ED31CA7F8D79F0B03C34962CD2" import="1">Art/GothsUnit/gadrauhts_swordsman_stop_run.gr2</File>
+    <File md5="4ACCA191D92EDCF53A637670E3D53F89" import="1">Art/GothsUnit/gadrauhts_swordsman_stop_run_idleb.gr2</File>
+    <File md5="C84A306BFB9FE4965A6F12451A19438F" import="1">Art/GothsUnit/gadrauhts_swordsman_victory.gr2</File>
+    <File md5="DA87F167DEEBBB525BD8FCD819248928" import="1">Art/GothsUnit/GothsUnitAtlas/GothsUnitAlphaAtlas.dds</File>
+    <File md5="95F37E6DE35563C65869E2F42442AB21" import="1">Art/GothsUnit/GothsUnitAtlas/sv_GothsUnit.dds</File>
+    <File md5="6CA9D0D26FEFC76C50EF74CEC9E79944" import="1">Art/GothsUnit/unit_environment_dull.dds</File>
+    <File md5="6256FE131AAE98F8CAE6FC9D66757F7C" import="1">Art/GothsUnit/unit_environment_sharp.dds</File>
+    <File md5="48928C9DD4121A8035B9F23EEA5E03F8" import="1">Art/GothsUnit/unit_irradiance.dds</File>
+    <File md5="E2A6BBBC5ED6194BAD14CC68B093E8EF" import="1">Art/Visigoths_DOM_Mod.dds</File>
+    <File md5="18C74D7033EC2013B317BF76B1A7419C" import="1">Art/Visigoths_Map_Mod.dds</File>
+    <File md5="02D91FCAC963B7AA51DF3E7134F7DBE4" import="0">BNW/Goth BNW Edits.xml</File>
+    <File md5="CE3405A53B53F724DFC96929A36226DD" import="0">Decisions/Goths Decisions SQL.sql</File>
+    <File md5="2C7A08813510446ABA75BA76D27A4F80" import="0">Decisions/Goths Decisions Support.xml</File>
+    <File md5="0FF8248C60A805C2C84D14C53C58B43E" import="1">Decisions/TomatekhGothsDecisions.lua</File>
+    <File md5="B45CBE71FCA0FA4A5D7C870B934FC0B9" import="1">Decisions/TomatekhGothsEvents.lua</File>
+    <File md5="A9AB2CC98937A06E372FBDD2AAE7D2CA" import="0">Lua/Goth Lua Check.lua</File>
+    <File md5="DC615076B04A146E5B9C346BF8FF1535" import="1">Lua/Goth Mod Via Appia Script.lua</File>
+    <File md5="B21EE92CA6009F46D277C3E67594479B" import="1">Sounds/AlaricPeace.ogg</File>
+    <File md5="54F6171D8B1859BF0A62CF4DEFE0D06E" import="1">Sounds/AlaricWar.ogg</File>
+    <File md5="2FDC136B96CA285768EF7DE353B0D753" import="1">Sounds/GothsDoM.mp3</File>
+    <File md5="2D46C3EB9CE4E1303027D3570E6D81A8" import="0">SQL/Goths GK DLC Edit.sql</File>
+    <File md5="C1C29D6A26B8BC9C085FC5832E608A99" import="1">SQL/Goths Unit Skin Mod.sql</File>
+    <File md5="4BB97563202790B214234A0548305920" import="1">XML/Art/civ5artdefines_unitmembers.xml</File>
+    <File md5="5233A8D5278A36F62E088BD9B0A3E071" import="1">XML/Art/civ5artdefines_units.xml</File>
+    <File md5="83EEBF8D62B1487679180FD79647655A" import="0">XML/Art/Visigoths Strategic View Mod.xml</File>
+    <File md5="A8CE03A3AE822EBCB334B9E3D575793D" import="0">XML/Art/Visigoths Unit Atlas Mod.xml</File>
+    <File md5="3D7973888282D875B88FBC13DBC40928" import="1">XML/Art/Visigoths_Leader_Scene_Mod.xml</File>
+    <File md5="BF8C8137288B713C2EAC97A5CD67E279" import="0">XML/Buildings/Visigoths Building Mod.xml</File>
+    <File md5="A063A7BB531ABC47B4E64E9DAD3211D1" import="0">XML/Civilizations/Visigoths Civ Mod.xml</File>
+    <File md5="06F7FA4B473F25871F1CE4441EF9789F" import="0">XML/Civilizations/Visigoths Leader Mod.xml</File>
+    <File md5="C7CBE516CF326DD79A90F42DD49DA001" import="0">XML/Civilizations/Visigoths Traits Mod.xml</File>
+    <File md5="FACD40D74F746E6801477981CBAAB83D" import="0">XML/Diplomacy/Visigoths Diplomacy Mod.xml</File>
+    <File md5="E99DBB19CCCBEF6D4521A0956D7FC05C" import="0">XML/Sounds/Goths Sound Mod.xml</File>
+    <File md5="F2B3DADC2A28F261DB93FA74F9D50DF7" import="0">XML/Text/Non English XML Tags/Visigoths Game Text DE_DE.xml</File>
+    <File md5="CA9688860D56B8D3FA7C61A433007938" import="0">XML/Text/Non English XML Tags/Visigoths Game Text ES_ES.xml</File>
+    <File md5="0B1219FC05591D956160B9624E6E2886" import="0">XML/Text/Non English XML Tags/Visigoths Game Text FR_FR.xml</File>
+    <File md5="BBEF4A5FA429B83330E95F220BEF9ACE" import="0">XML/Text/Non English XML Tags/Visigoths Game Text IT_IT.xml</File>
+    <File md5="087BC5BA6B64DE0C66ADB30239E388A4" import="0">XML/Text/Non English XML Tags/Visigoths Game Text JA_JP.xml</File>
+    <File md5="76654096AA9C228FF915484199DA3A9A" import="0">XML/Text/Non English XML Tags/Visigoths Game Text KO_KR.xml</File>
+    <File md5="DC176862A694E55744C2C64F0A2C61C8" import="0">XML/Text/Non English XML Tags/Visigoths Game Text PL_PL.xml</File>
+    <File md5="C808D6C9B781D84BD192D40FB2F6F21A" import="0">XML/Text/Non English XML Tags/Visigoths Game Text RU_RU.xml</File>
+    <File md5="7781E83E35A5A4EC4272D3BE9D7B84E9" import="0">XML/Text/Visigoths Game Text Mod.xml</File>
+    <File md5="CD4E17DC9A2CEBBCEAF0D64CDF9DAB61" import="0">XML/Units/Visigoths Promotions Mod.xml</File>
+    <File md5="FC6FF9D4BE610160DAF9D80EAEA106BC" import="0">XML/Units/Visigoths Units Mod.xml</File>
+    <File md5="A51C68E2F89E6097A8A0A6C1AA3D1112" import="0">YnAEMP/Goths YnAEMP Compatability.sql</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>SQL/Goths Unit Skin Mod.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Visigoths Civ Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Visigoths Leader Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Visigoths Traits Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Visigoths Building Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Art/Visigoths Unit Atlas Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/Visigoths Units Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/Visigoths Promotions Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Art/Visigoths_Leader_Scene_Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Diplomacy/Visigoths Diplomacy Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Art/Visigoths Strategic View Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Sounds/Goths Sound Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Visigoths Game Text Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Visigoths Game Text DE_DE.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Visigoths Game Text ES_ES.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Visigoths Game Text FR_FR.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Visigoths Game Text IT_IT.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Visigoths Game Text JA_JP.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Visigoths Game Text KO_KR.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Visigoths Game Text PL_PL.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Visigoths Game Text RU_RU.xml</UpdateDatabase>
+      <UpdateDatabase>BNW/Goth BNW Edits.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Goths GK DLC Edit.sql</UpdateDatabase>
+      <UpdateDatabase>YnAEMP/Goths YnAEMP Compatability.sql</UpdateDatabase>
+      <UpdateDatabase>Decisions/Goths Decisions SQL.sql</UpdateDatabase>
+      <UpdateDatabase>Decisions/Goths Decisions Support.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Goth Lua Check.lua">
+      <Name>Road Script</Name>
+      <Description>Road Script</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>
