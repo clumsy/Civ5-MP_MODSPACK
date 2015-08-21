@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="533a8505-bca2-44a4-820d-a705fcae46f4" version="3">
+  <Properties>
+    <Name>TarcisioCM - Rome (Aurelian)</Name>
+    <Teaser>Adds [COLOR_POSITIVE_TEXT]Rome[ENDCOLOR] under Aurelian. Requires BNW.</Teaser>
+    <Description>Adds [COLOR_POSITIVE_TEXT]Rome[ENDCOLOR] under Aurelian. Requires BNW.
+
+For more information, visit the thread "TarcisioCM's Civilizations" in civfanatics.</Description>
+    <Authors>TarcisioCM</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="8c101299-95c5-4b28-b7ed-4e0f774857ef" minversion="0" maxversion="999" title="Historical Religions (BNW or GK)" />
+    <Mod id="6bc3cb6e-a697-491e-9347-5e3e02640f00" minversion="0" maxversion="999" title="Historical Religions Edit (BNW or GK)" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="Piety and Prestige" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events and Decisions" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="43868e8d-de88-48a1-a8d9-ce144e07f5e0" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="673F08655E75593E309C137FDCF48785" import="1">Art/alphaTcm_Aurelian128.dds</File>
+    <File md5="B6EB749700402DA6B5EEB8CF6D10B88E" import="1">Art/alphaTcm_Aurelian16.dds</File>
+    <File md5="039A4F1D0DA6D91036FE7AD23B15C0C9" import="1">Art/alphaTcm_Aurelian24.dds</File>
+    <File md5="02012CD67DDECCDCE90485AADCCF5694" import="1">Art/alphaTcm_Aurelian256.dds</File>
+    <File md5="0BA80E9FD723E32D609C70EEDBEBA907" import="1">Art/alphaTcm_Aurelian32.dds</File>
+    <File md5="5EE79B8A9D202E2A63E49112162C81EC" import="1">Art/alphaTcm_Aurelian48.dds</File>
+    <File md5="84B2D122F0010E4AFDF2D968001AD07C" import="1">Art/alphaTcm_Aurelian64.dds</File>
+    <File md5="8A037C4D9EDB45F3962C13FCAB73ECB1" import="1">Art/alphaTcm_Aurelian80.dds</File>
+    <File md5="6F3251494AD2833DBA01AEFD65C3206E" import="1">Art/Dalmatian Cavalry/Horseman_Rome.dds</File>
+    <File md5="4FEEEC98E1DAD5E423AC4C9A4E9BCECA" import="1">Art/Dalmatian Cavalry/Horseman_Rome.fxsxml</File>
+    <File md5="0BF523CB0C7366E470648378BD93A188" import="1">Art/Dalmatian Cavalry/Horseman_Rome.gr2</File>
+    <File md5="A98ADFEA26935A988B40BE31403729B9" import="1">Art/Dalmatian Cavalry/Horseman_Rome_gloss.dds</File>
+    <File md5="DF527F3E69F8B8083512A3CBE6D85809" import="1">Art/Dalmatian Cavalry/Horseman_Rome_Horse.dds</File>
+    <File md5="AC41C06BA721315512F26433220FEDF7" import="1">Art/Dalmatian Cavalry/no_gloss.dds</File>
+    <File md5="000AD315F2860483BF7B0BC7AEA79ED4" import="1">Art/tcmAurelianPeace.mp3</File>
+    <File md5="C9A8E70B1F475A663AC962271D34A4BE" import="1">Art/tcmAurelianWar.mp3</File>
+    <File md5="A041A393258F4A671BA89BC6FEC75A1B" import="1">Art/tcmAurelian_dawnofman.dds</File>
+    <File md5="943C391F5C91F391C7D7FE86F843022A" import="1">Art/tcmAurelian_leaderscene.xml</File>
+    <File md5="7703E4C308800CCB3EE0172ED35E378E" import="1">Art/iconTcm_Aurelian128.dds</File>
+    <File md5="E5B2C0BA2A7A40CFF734531794096EA0" import="1">Art/iconTcm_Aurelian256.dds</File>
+    <File md5="A4B64677B8BEF7E7B54F1FA23E998958" import="1">Art/iconTcm_Aurelian32.dds</File>
+    <File md5="4A5C1587B58F73A0ACDCA1506F702CB8" import="1">Art/iconTcm_Aurelian45.dds</File>
+    <File md5="CBF4B77D8ED220493B123D6F77A22192" import="1">Art/iconTcm_Aurelian64.dds</File>
+    <File md5="6DF3B444B881C6EEC8E0A775CF702709" import="1">Art/iconTcm_Aurelian80.dds</File>
+    <File md5="9FBE2FB3D0F059A23DBEE2576CD59563" import="1">Art/tcmAurelian_leaderscreen.dds</File>
+    <File md5="72F9F3BC391EF02E83D4E0670CFC7D7D" import="1">Art/tcmAurelian_map.dds</File>
+    <File md5="B64CC6D37A09F3DBF3E29AD55F6E45AA" import="1">Art/tcm_DalmatianCavalry.dds</File>
+    <File md5="B36C8D250A09FFF44A90106C9A5C3E76" import="1">Art/tcm_SVDalmatianCavalry.dds</File>
+    <File md5="9773904B77924A0B054D7BFAA5FC0BD8" import="0">Rome/ArtDef_DalmatianCavalry.xml</File>
+    <File md5="955FA26A8DDB3E47315B7518FAB1E4CE" import="0">Rome/Buildings.xml</File>
+    <File md5="D545A2EB3390C772E95709C1DDEF7C7B" import="0">Rome/Civilization.xml</File>
+    <File md5="422387575FD1C58135E1EB312A5D24FB" import="0">Rome/Functions.lua</File>
+    <File md5="0156C12FEC8574EB1C2FD12629690733" import="0">Rome/GameText.xml</File>
+    <File md5="B89C4DD1626964FA14CEB3A35ACA0756" import="0">Rome/Icons.xml</File>
+    <File md5="F9D446AB35E993BDEF0C25B55B715E05" import="0">Rome/Leader.xml</File>
+    <File md5="C3533EF7DD9E576E8BE1C6C1B9B993CB" import="0">Rome/ModSupport.sql</File>
+    <File md5="9A9D47BA0D3AE9E873A4ADF8B8D7079D" import="0">Rome/Music.xml</File>
+    <File md5="8EBECCCA1078CAD550C463047F2725A8" import="0">Rome/Ryoga's Unique Cultural Influence Support/GameText.xml</File>
+    <File md5="86694ED6FDFBB1E03DBEB85143EAC162" import="0">Rome/Sukritact's Decisions Support/Decisions.sql</File>
+    <File md5="8DC2801A841169FC65792A6BBA834CFD" import="0">Rome/Sukritact's Decisions Support/GameText.xml</File>
+    <File md5="6AA79A117E4D079F1AA345AD8FEA7E6A" import="0">Rome/Sukritact's Events Support/EventFunctions.lua</File>
+    <File md5="82FF3561BAC2F7BFD34EE48226695920" import="0">Rome/Sukritact's Events Support/Events.sql</File>
+    <File md5="D009BFC47A32DD62983633B7D42B4047" import="0">Rome/Sukritact's Events Support/GameText.xml</File>
+    <File md5="89D09778B2CA16A380CA097438C9AA86" import="1">Rome/Sukritact's Events Support/TCM_AurelianEvents.lua</File>
+    <File md5="B01DA9EAA9290DBB11A4EAC24D660713" import="1">Rome/Sukritact's Decisions Support/TCM_AurelianDecisions.lua</File>
+    <File md5="5BBB958364A0A183DC259718507DEB9F" import="0">Rome/Units.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Rome/ArtDef_DalmatianCavalry.xml</UpdateDatabase>
+      <UpdateDatabase>Rome/Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>Rome/Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>Rome/Icons.xml</UpdateDatabase>
+      <UpdateDatabase>Rome/Leader.xml</UpdateDatabase>
+      <UpdateDatabase>Rome/Music.xml</UpdateDatabase>
+      <UpdateDatabase>Rome/Units.xml</UpdateDatabase>
+      <UpdateDatabase>Rome/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Rome/Ryoga's Unique Cultural Influence Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Rome/Sukritact's Decisions Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Rome/Sukritact's Decisions Support/Decisions.sql</UpdateDatabase>
+      <UpdateDatabase>Rome/Sukritact's Events Support/Events.sql</UpdateDatabase>
+      <UpdateDatabase>Rome/Sukritact's Events Support/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Rome/ModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Rome/Functions.lua">
+      <Name>Aurelian Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Rome/Sukritact's Events Support/EventFunctions.lua">
+      <Name>Aurelian Events</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

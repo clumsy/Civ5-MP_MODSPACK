@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/24/2014 4:29:22 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_TCM_AURELIAN_ROME_DESC">
+			<Text>Roman Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TCM_AURELIAN_ROME_SHORT_DESC">
+			<Text>Rome</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TCM_AURELIAN_ROME_ADJECTIVE">
+			<Text>Roman</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_CIV5_TCM_AURELIAN_DOM">
+			<Text>Hail master and god, Aurelian of Rome the restorer of the World! Born from humble beginnings, you rose through the military ranks to become the emperor yourself, and unlike most of your predecessors acted like one - Reconquered the rebellious "Empires" that fragmented from mighty Rome, uprooted the corruption and proudly marched against a foreign force, the Sassanids like the glorious days of old.[NEWLINE][NEWLINE]Venerable Emperor, your death prevented a lasting political stability within the empire, but by reuniting it you breathed life to the Roman world for another millenium - Until Constantinople fell for the Ottomans in 1453. Can you reunite the world once more? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV_TCM_AURELIAN_ROME_TITLE">
+			<Text>The Roman Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TCM_AURELIAN_ROME_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TCM_AURELIAN_ROME_TEXT_1">
+			<Text>The Roman Empire was the post-Republican period of the ancient Roman civilization, characterized by government headed by emperors, and large territorial holdings around the Mediterranean Sea in Europe, Africa, and Asia. While the republic had lasted around 500 years, the western part of the empire endured for for some 500 years, while the eastern part was to last until 1453 ad, when it fell to the ottomans. The empire was among the most powerful economic, cultural, political and military forces in the world of its time. It was the largest empire of the Classical antiquity period, and one of the largest empires in world history. At its height under Trajan, it covered 6.8 million square kilometers and held sway over some 70 million people, at that time, 21% of the world's entire population.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_AURELIAN_ROME_1">
+			<Text>Rome</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_AURELIAN_ROME_PALMYRA">
+			<Text>Palmyra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_AURELIAN_ROME_AUGUSTA">
+			<Text>Augusta Treverorum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_AURELIAN_ROME_2">
+			<Text>Ravenna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_AURELIAN_ROME_3">
+			<Text>Neapolis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_AURELIAN_ROME_4">
+			<Text>Serdica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_AURELIAN_ROME_5">
+			<Text>Capua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_AURELIAN_ROME_6">
+			<Text>Carthage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_AURELIAN_ROME_7">
+			<Text>Naissus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_AURELIAN_ROME_8">
+			<Text>Alexandria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_AURELIAN_ROME_9">
+			<Text>Nicomedia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_AURELIAN_ROME_10">
+			<Text>Corduba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_AURELIAN_ROME_11">
+			<Text>Ephesus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_AURELIAN_ROME_12">
+			<Text>Caesarea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_AURELIAN_ROME_13">
+			<Text>Caralis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_AURELIAN_ROME_14">
+			<Text>Londinium</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_AURELIAN_ROME_15">
+			<Text>Orleans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_AURELIAN_ROME_16">
+			<Text>Cyrene</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_AURELIAN_ROME_17">
+			<Text>Viminacium</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_AURELIAN_ROME_18">
+			<Text>Corinthus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_AURELIAN_ROME_19">
+			<Text>Tyana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_AURELIAN_ROME_20">
+			<Text>Tomi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_AURELIAN_ROME_21">
+			<Text>Syracusae</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_AURELIAN_ROME_22">
+			<Text>Lambaesis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_AURELIAN_ROME_23">
+			<Text>Trapezus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_AURELIAN_ROME_24">
+			<Text>Burdingala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_AURELIAN_ROME_25">
+			<Text>Mutina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_AURELIAN_ROME_26">
+			<Text>Cemenelum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_AURELIAN_ROME_27">
+			<Text>Narbo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_AURELIAN_ROME_28">
+			<Text>Thessalonica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_AURELIAN_ROME_29">
+			<Text>Nicopolis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_AURELIAN_ROME_30">
+			<Text>Misenum</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_AURELIAN_ROME_0">
+			<Text>Lucia</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_AURELIAN_ROME_1">
+			<Text>Mucapor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_AURELIAN_ROME_2">
+			<Text>Eros</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_AURELIAN_ROME_3">
+			<Text>Tetricus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_AURELIAN_ROME_4">
+			<Text>Adventus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_AURELIAN_ROME_5">
+			<Text>Flavius</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_AURELIAN_ROME_6">
+			<Text>Licina</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_AURELIAN_ROME_7">
+			<Text>Brutus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_AURELIAN_ROME_8">
+			<Text>Regula</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_AURELIAN_ROME_9">
+			<Text>Biggus</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_TCM_AURELIAN">
+			<Text>Aurelian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TCM_AURELIAN_SHORT">
+			<Text>Restorer of the World</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TCM_AURELIAN">
+			<Text>Military units gain +25% [ICON_STRENGTH] Combat Strength during the war after capturing an enemy [ICON_CAPITAL] Capital, and a We Love The King Day starts on yours.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_AURELIAN_HEADING_1">
+			<Text>Aurelian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_AURELIAN_TEXT_1">
+			<Text>Aurelian was Roman Emperor from 270 to 275. Born in humble circumstances, he rose through the military ranks to become emperor. During his reign, he defeated the Alamanni after a devastating war. He also defeated the Goths, Vandals, Juthungi, Sarmatians, and Carpi. Aurelian restored the Empire's eastern provinces after his conquest of the Palmyrene Empire in 273. The following year he conquered the Gallic Empire in the west, reuniting the Empire in its entirety. He was also responsible for the construction of the Aurelian Walls in Rome, and the abandonment of the province of Dacia. His successes were instrumental in ending the Roman Empire's Crisis of the Third Century, earning him the title Restitutor Orbis or 'Restorer of the World'.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_AURELIAN_HEADING_2">
+			<Text>Legacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_AURELIAN_TEXT_2">
+			<Text>Aurelian's short reign reunited a fragmented Empire while saving Rome from barbarian invasions that had reached Italy itself. His death prevented a full restoration of political stability and a lasting dynasty that could end the cycle of assassination of Emperors and civil war that marked this period. Even so, he brought the Empire through a very critical period in its history, and without Aurelian it never would have survived the invasions and fragmentation of the decade in which he reigned. Much hard fighting remained for his successors before the Empire finally regained the initiative against the Persians and the northern barbarian peoples and it would be another twenty years or more before Diocletian fully restored stability and ended the Crisis of the third century. However, after that the Western half of the Empire would survive another two hundred years, while the East would last another millennium and, for that Aurelian must be allowed much of the credit.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_TCM_AURELIAN_FIRST_GREETING_1">
+			<Text>Welcome to civilization, barbarian. I am Aurelian, the restorer of the world and sole emperor of Rome.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_AURELIAN_FIRST_GREETING_2">
+			<Text>I happily greet you into my camp, barbarian, for I hope that I will never have to build one of these on your lands. What brings you to Rome?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_AURELIAN_DEFEATED_1">
+			<Text>So be it. Tales of the Roman splendour will last for ages, while your petty kingdom will be forgotten to history.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_AURELIAN_DEFEATED_2">
+			<Text>So be it. Tales of the Roman splendour will last for ages, while your petty kingdom will be forgotten to history.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_AURELIAN_LIVED">
+			<Text>c 214 - 275 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_AURELIAN_NAME">
+			<Text>Aurelian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_AURELIAN_SUBTITLE">
+			<Text>Leader of the Roman Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_AURELIAN_TITLES_1">
+			<Text>Roman Emperor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_TCM_AURELIAN_TITLES_2">
+			<Text>Restitutor Orbis ("Restorer of the World")</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_TCM_DALMATIAN_CAVALRY">
+			<Text>Dalmatian Cavalry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_TCM_DALMATIAN_CAVALRY">
+			<Text>Replaces the Horseman. While on a Fort or Citadel, receive +25% [ICON_STRENGTH] Combat Strength when attacking and gain the base Combat Strength of the strongest unit available. Gain +1 [ICON_MOVES] Movement if next to a Great General.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TCM_DALMATIAN_CAVALRY_STRATEGY">
+			<Text>The Dalmatian Cavalry is the roman replacement for the Horseman. It gains +1 movement if next to a Great General, and while on the same tile as a Fort or Citadel, it receives +25% [ICON_STRENGTH] Combat Strength when attacking (But only the normal bonus when defending), and additionaly they gain the base Combat Strength of the most powerful unit you can build if they have passed through a Fort or Citadel this turn.  It's useful to be used alongside with a Great General, since the move and citadel bonuses.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_TCM_DALMATIAN_CAVALRY_TEXT">
+			<Text>The equites Dalmatae, Latin for "Dalmatian horsemen" were a class of cavalry in the Late Roman army.  They were one of several categories of cavalry unit or vexillatio created between the 260s and 290s as part of a poorly understood reorganization and expansion of Roman cavalry forces.  The equites Dalmatae appear to have contributed to the victories of Claudius II (268-270) over the Goths in 269, and they participated in Aurelian’s reconquest of Palmyra in 272-3. Subsequently, probably under the Tetrarchy or Constantine I, most of the equites Dalmatae were permanently assigned to the garrisons of frontier provinces.</Text>
+		</Row>	
+
+		<Row Tag="TXT_KEY_BUILDING_TEMPLUM_SOLIS_DESC">
+			<Text>Templum Solis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TEMPLUM_SOLIS_HELP">
+			<Text>Unless it's a Holy City, this city immediately adopts your Pantheon upon being built for the first time and converts followers to your Pantheon until a Religion spreads to the Capital. If built on the capital, grant +1 [ICON_HAPPINESS_1] Happiness for every city following your pantheon as majority religion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TEMPLUM_SOLIS_STRATEGY">
+			<Text>Useful on the early game for conquest, the Templum Solis is able to uproot enemies' religions with your own pantheon and make your empire able to support more cities, although their effects fall off later on the game. As such, try to be as much active as possibly, military, on the early game.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_TEMPLUM_SOLIS_TEXT">
+			<Text>Sol Invictus ("Unconquered Sun") was the official sun god of the later Roman Empire and a patron of soldiers. In 274 the Roman emperor Aurelian made it an official cult alongside the traditional Roman cults. The god was favored by emperors after Aurelian and appeared on their coins until Constantine I. Aurelian also built a new temple for Sol, bringing the total number of temples for the god in Rome to (at least) four.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_TCM_RESTORER_BONUS">
+			<Text>Restorer of the World</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TCM_RESTORER_BONUS_HELP">
+			<Text>This unit gains +25% [ICON_STRENGTH] Combat Strength until the war is ended.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_TCM_DALMATIAN_BONUS">
+			<Text>Frontier Garrison</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TCM_DALMATIAN_BONUS_HELP">
+			<Text>This unit gains +25% [ICON_STRENGTH] Combat Strength when attacking from Forts or Citadels.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

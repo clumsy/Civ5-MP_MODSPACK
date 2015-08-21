@@ -1479,6 +1479,10 @@ ContextPtr:LoadNewContext("Sri_Lanka")
 -- Nation - Bactria --
 ContextPtr:LoadNewContext("Bactria_Lua")
 
+-- Nation - Rome (Aurelian) --
+ContextPtr:LoadNewContext("Aurelian_Functions")
+ContextPtr:LoadNewContext("Aurelian_EventFunctions")
+
 -- Nation - Cree --
 ContextPtr:LoadNewContext("Cree_Nations")
 ContextPtr:LoadNewContext("Gunstock")

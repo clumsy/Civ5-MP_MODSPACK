@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/7/2014 9:44:03 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_DECISIONS_TCM_AURELIAN_ROME_SOL_INVICTUS">
+			<Text>Establish the Cult to Sol Invictus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TCM_AURELIAN_ROME_SOL_INVICTUS_DESC">
+			<Text>
+				Our empire is vast and the worshiped deities many. To rule these lands, we must unite our people under one faith and one emperor.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Rome (Aurelian)
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Classical Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Templum Solis are built 100% faster
+				[NEWLINE][ICON_BULLET]Every Templum Solis generates +1 [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]Receive a Templum Solis in the Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TCM_AURELIAN_ROME_SOL_INVICTUS_ENACTED_DESC">
+			<Text>
+				Our empire is vast and the worshiped deities many. To rule these lands, we must unite our people under one faith and one emperor.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Templum Solis are built 100% faster
+				[NEWLINE][ICON_BULLET]Every Templum Solis generates +1 [ICON_GOLD] Gold
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DECISIONS_TCM_AURELIAN_ROME_CORRUPTION">
+			<Text>Prosecute the Corrupt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TCM_AURELIAN_ROME_CORRUPTION_DESC">
+			<Text>
+				Under careless guidance, corruption runs rampant across the Roman empire. We must uproot this evil from our civilization by prosecuting any corrupt official.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Rome (Aurelian)
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]-25% Maintenance from buildings.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TCM_AURELIAN_ROME_CORRUPTION_ENACTED_DESC">
+			<Text>
+				Under careless guidance, corruption used to run rampant across the Roman empire. We have uprooted this evil by prosecuting any corrupt official.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]-25% Maintenance from buildings.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

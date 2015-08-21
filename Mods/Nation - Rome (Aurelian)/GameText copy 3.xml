@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_EVENT_TCM_AURELIAN_MINT_WORKERS">
+			<Text>Corrupt Mint Workers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TCM_AURELIAN_MINT_WORKERS_DESC">
+			<Text>
+				Corrupt officials are plaguing our mints and stealing the silver for years, producing coins of inferior quality. We should end this and reform the coinage.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TCM_AURELIAN_MINT_WORKERS_OUTCOME_1">
+			<Text>We must end this!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TCM_AURELIAN_MINT_WORKERS_OUTCOME_2">
+			<Text>This isn't good... Unless I can get my share of it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TCM_AURELIAN_MINT_WORKERS_OUTCOME_3">
+			<Text>We cannot deal with this at the moment.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TCM_AURELIAN_MINT_WORKERS_OUTCOME_RESULT_1">
+			<Text>
+				[ICON_BULLET][COLOR_POSITIVE_TEXT]+1 [ICON_GOLD] Gold from Gold, Silver and Copper resources[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]+10% [ICON_GOLD] Gold from mints[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_NEGATIVE_TEXT]3 Turns of [ICON_RESISTANCE] Resistance in the [ICON_CAPITAL] Capital[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TCM_AURELIAN_MINT_WORKERS_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+1 [ICON_HAPPINESS_1] Happiness from mints[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TCM_AURELIAN_MINT_WORKERS_OUTCOME_RESULT_3">
+			<Text>
+				[ICON_BULLET][COLOR_POSITIVE_TEXT]+2 [ICON_HAPPINESS_1] Happiness from mints for 25 turns[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_NEGATIVE_TEXT]-25% Gold from mints for 25 turns[ENDCOLOR]
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
