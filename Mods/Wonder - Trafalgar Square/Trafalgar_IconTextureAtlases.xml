@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>BW_ATLAS_TRAFALGAR</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>TRAFALGAR_icon256.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BW_ATLAS_TRAFALGAR</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>TRAFALGAR_icon128.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BW_ATLAS_TRAFALGAR</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>TRAFALGAR_icon64.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BW_ATLAS_TRAFALGAR</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>TRAFALGAR_icon80.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BW_ATLAS_TRAFALGAR</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>TRAFALGAR_icon45.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+</GameData>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_TRAFALGAR">
+			<Text>Trafalgar Square</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_TRAFALGAR_HELP">
+			<Text>+5 [ICON_GOLD] Gold and +4 [ICON_HAPPINESS_1] Happiness with the Monarchy Policy</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_TRAFALGAR_QUOTE">
+			<Text>[NEWLINE]"Time is everything; five minutes make the difference between victory and defeat"[NEWLINE] - Lord Nelson[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_TRAFALGAR_PEDIA">
+			<Text>Trafalgar Square is a public area located in the heart of the City of Westminster, in London, England. Redevelopment of the existing area, known as Charing Cross, began in 1820 under the guide of architect John Nash, who in turn was commisioned by King George IV, and was completed in 1845. The name commemorates the Battle of Trafalgar, a naval battle fought between England and Napoleonic France during the Napoleonic Wars. In the center of the square is Nelson's column, a monument dedicate to Admiral Horatio Nelson, who died at the battle which was the square's namesake. The column features four cast iron plates made from captured French guns, each depicting a famous battle in the Napoleonic Wars. The base of the column is guarded by four Lion statues. </Text>
+		</Row>
+	</Language_en_US>
+</GameData>

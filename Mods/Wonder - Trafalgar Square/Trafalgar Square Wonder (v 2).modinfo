@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="d6e29963-56c8-4fc1-8a0c-2f9f08817748" version="2">
+  <Properties>
+    <Name>Trafalgar Square Wonder</Name>
+    <Teaser>Located in the heart of London's City of Westminster, Trafalgar Square is a royally-owned public space. Constructed under orders</Teaser>
+    <Description>Located in the heart of London's City of Westminster, Trafalgar Square is a royally-owned public space. Constructed under orders from King George IV from 1820 to 1845, Trafalgar Square was built upon an earlier public space known as Charing Cross; the modern name commemorates a naval battle between England and Napoleonic France earlier in the century. In the center of the square stands Nelson's column, a large column dedicated to Admiral Horatio Nelson, whom died in the aforementioned battle. Ingame, Trafalgar Square provides +4  Happiness and +5  Gold with the Monarchy policy, and becomes available with Steam Power.</Description>
+    <Authors>Pouakai, sukritact</Authors>
+    <SpecialThanks>Ambrox62, Moriboe</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>0</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="E6053A2EA8AC6F6865571EDAD7080042" import="1">Art/Trafalgar_icon128.dds</File>
+    <File md5="43B9F1C06EBCCC5AFA7182DE0171E1F5" import="1">Art/Trafalgar_icon256.dds</File>
+    <File md5="B0349CF43C235FA9B7BB8C5641AFE6A6" import="1">Art/Trafalgar_icon45.dds</File>
+    <File md5="21FB6A7A5945566E46BE7463555BDC68" import="1">Art/Trafalgar_icon64.dds</File>
+    <File md5="6E2681C4F4252FCABCF4B2BB82D3A894" import="1">Art/Trafalgar_icon80.dds</File>
+    <File md5="8012D595C432362EC67948B2D4D986CF" import="1">Art/Trafalgar_splash.dds</File>
+    <File md5="9FFCAF0024227C4C854E4D8108721C5C" import="0">XML/Buildings/Trafalgar_BuildingClasses.xml</File>
+    <File md5="269207912BED539312FD13092A69896F" import="0">XML/Buildings/Trafalgar_Buildings.xml</File>
+    <File md5="A891D17F1D9B21DAF6039661FF184116" import="0">XML/Civilizations/Trafalgar_Civilizations.xml</File>
+    <File md5="3821F2FA0DB5FDAA5DD3F5949E1B2E9F" import="0">XML/GameInfo/Trafalgar_IconTextureAtlases.xml</File>
+    <File md5="407AF4081F5D942A614235F0726C6ABA" import="0">XML/GameInfo/Trafalgar_Policies.xml</File>
+    <File md5="15721DEB6C16645D1F2D201EE229EAFC" import="0">XML/Text/Trafalgar_text_en_US.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Buildings/Trafalgar_BuildingClasses.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Trafalgar_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Trafalgar_Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/Trafalgar_IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/Trafalgar_Policies.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Trafalgar_text_en_US.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>
