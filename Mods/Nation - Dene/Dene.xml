@@ -1,0 +1,516 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/7/2014 9:02:11 PM -->
+<GameData>
+	<Civilizations>
+		<Row>
+			<Type>CIVILIZATION_DENEFIRSTNATION</Type>
+			<Description>TXT_KEY_CIV_DENEFIRSTNATION_DESC</Description>
+			<Civilopedia/>
+			<CivilopediaTag>TXT_KEY_CIV5_DENEFIRSTNATION</CivilopediaTag>
+			<Strategy/>
+			<Playable>1</Playable>
+			<AIPlayable>1</AIPlayable>
+			<ShortDescription>TXT_KEY_CIV_DENEFIRSTNATION_SHORT_DESC</ShortDescription>
+			<Adjective>TXT_KEY_CIV_DENEFIRSTNATION_ADJECTIVE</Adjective>
+			<DefaultPlayerColor>PLAYERCOLOR_DENEFIRSTNATION</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_IROQUOIS</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_SOUTH_AMERICA</ArtStyleType>
+			<ArtStyleSuffix>_AMER</ArtStyleSuffix>
+			<ArtStylePrefix>AMERICAN </ArtStylePrefix>
+			<DerivativeCiv/>
+			<PortraitIndex>0</PortraitIndex>
+			<!--not really -->
+			<IconAtlas>DENEFIRSTNATION_ATLAS</IconAtlas>
+			<AlphaIconAtlas>DENEFIRSTNATION_ALPHA</AlphaIconAtlas>
+			<MapImage>FirstNationDene_Map.dds</MapImage>
+			<DawnOfManQuote>TXT_KEY_CIV5_DAWN_DENEFIRSTNATION_TEXT</DawnOfManQuote>
+			<DawnOfManImage>ThanadelthurDOM.dds</DawnOfManImage>
+			<DawnOfManAudio>AS2D_DOM_SPEECH_DENETHANADELTHUR</DawnOfManAudio>
+			<PackageID/>
+			<SoundtrackTag>IROQUOIS</SoundtrackTag>
+			<!-- Will change?-->
+		</Row>
+	</Civilizations>
+	<Civilization_CityNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DENEFIRSTNATION_0</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DENEFIRSTNATION_1</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DENEFIRSTNATION_2</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DENEFIRSTNATION_3</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DENEFIRSTNATION_4</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DENEFIRSTNATION_5</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DENEFIRSTNATION_6</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DENEFIRSTNATION_7</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DENEFIRSTNATION_8</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DENEFIRSTNATION_9</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DENEFIRSTNATION_10</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DENEFIRSTNATION_11</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DENEFIRSTNATION_12</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DENEFIRSTNATION_13</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DENEFIRSTNATION_14</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DENEFIRSTNATION_15</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DENEFIRSTNATION_16</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DENEFIRSTNATION_17</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DENEFIRSTNATION_18</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DENEFIRSTNATION_19</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DENEFIRSTNATION_20</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DENEFIRSTNATION_21</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DENEFIRSTNATION_22</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DENEFIRSTNATION_23</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DENEFIRSTNATION_24</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DENEFIRSTNATION_25</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DENEFIRSTNATION_26</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DENEFIRSTNATION_27</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DENEFIRSTNATION_28</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENEFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DENEFIRSTNATION_29</CityName>
+		</Row>
+	</Civilization_CityNames>
+	<!-- Civilization_DisableTechs -->
+	<Civilization_FreeBuildingClasses>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENEFIRSTNATION</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+		</Row>
+	</Civilization_FreeBuildingClasses>
+	<Civilization_FreeTechs>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENEFIRSTNATION</CivilizationType>
+			<TechType>TECH_AGRICULTURE</TechType>
+		</Row>
+	</Civilization_FreeTechs>
+	<Civilization_FreeUnits>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENEFIRSTNATION</CivilizationType>
+			<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+			<UnitAIType>UNITAI_SETTLE</UnitAIType>
+			<Count>1</Count>
+		</Row>
+	</Civilization_FreeUnits>
+	<Civilization_Leaders>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENEFIRSTNATION</CivilizationType>
+			<LeaderheadType>LEADER_DENETHANADELTHUR</LeaderheadType>
+		</Row>
+	</Civilization_Leaders>
+	<Civilization_Religions>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENEFIRSTNATION</CivilizationType>
+			<ReligionType>RELIGION_PROTESTANTISM</ReligionType>
+		</Row>
+	</Civilization_Religions>
+	<Civilization_SpyNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENEFIRSTNATION</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_DENEFIRSTNATION_0</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENEFIRSTNATION</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_DENEFIRSTNATION_1</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENEFIRSTNATION</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_DENEFIRSTNATION_2</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENEFIRSTNATION</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_DENEFIRSTNATION_3</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENEFIRSTNATION</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_DENEFIRSTNATION_4</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENEFIRSTNATION</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_DENEFIRSTNATION_5</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENEFIRSTNATION</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_DENEFIRSTNATION_6</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENEFIRSTNATION</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_DENEFIRSTNATION_7</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENEFIRSTNATION</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_DENEFIRSTNATION_8</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENEFIRSTNATION</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_DENEFIRSTNATION_9</SpyName>
+		</Row>
+	</Civilization_SpyNames>
+	<Civilization_UnitClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENEFIRSTNATION</CivilizationType>
+			<UnitClassType>UNITCLASS_PROPHET</UnitClassType>
+			<UnitType>UNIT_DENEDRUMMER</UnitType>
+		</Row>
+	</Civilization_UnitClassOverrides>
+	<Civilization_BuildingClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENEFIRSTNATION</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_DENESCREENWIDGETS</BuildingClassType>
+			<BuildingType>BUILDING_DENESCREENWIDGETS</BuildingType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENEFIRSTNATION</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_TEMPLE</BuildingClassType>
+			<BuildingType>BUILDING_MUSICTEMPLE</BuildingType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENEFIRSTNATION</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_SHRINE</BuildingClassType>
+			<BuildingType>BUILDING_MUSICSHRINE</BuildingType>
+		</Row>
+	</Civilization_BuildingClassOverrides>
+	<Civilization_Start_Region_Priority>
+		<Row>
+			<CivilizationType>CIVILIZATION_DENEFIRSTNATION</CivilizationType>
+			<RegionType>REGION_TUNDRA</RegionType>
+		</Row>
+	</Civilization_Start_Region_Priority>
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_DENEFIRSTNATION</Type>
+			<PrimaryColor>COLOR_PLAYER_DENEFIRSTNATION_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_DENEFIRSTNATION_BACKGROUND</SecondaryColor>
+			<TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_DENEFIRSTNATION_ICON</Type>
+			<Red>0.020</Red>
+			<Green>0.769</Green>
+			<Blue>0.125</Blue>
+			<Alpha>1.0</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_DENEFIRSTNATION_BACKGROUND</Type>
+			<Red>0.000</Red>
+			<Green>0.118</Green>
+			<Blue>0.251</Blue>
+			<Alpha>1.0</Alpha>
+		</Row>
+	</Colors>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_DENEFIRSTNATION_DESC">
+			<Text>The Dene Peoples</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DENEFIRSTNATION_FACTOID_HEADING">
+			<Text>Dene Factoid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DENEFIRSTNATION_FACTOID_TEXT">
+			<Text>Dene is pronounced "Dih-NAY," with the accent of the second syllable.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DENEFIRSTNATION_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DENEFIRSTNATION_HEADING_2">
+			<Text>Before Colonization</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DENEFIRSTNATION_HEADING_3">
+			<Text>Subgroups</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DENEFIRSTNATION_HEADING_4">
+			<Text>Their Land</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DENEFIRSTNATION_HEADING_5">
+			<Text>Dene Music</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DENEFIRSTNATION_HEADING_6">
+			<Text>Social Organization</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DENEFIRSTNATION_HEADING_7">
+			<Text>Conflict with the Inuit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DENEFIRSTNATION_HEADING_8">
+			<Text>Encounters with the White Man</Text>
+		</Row>
+		<Row tag="TXT_KEY_CIV5_DENEFIRSTNATION_HEADING_9">
+			<Text>Modern Days</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DENEFIRSTNATION_TEXT_1">
+			<Text>The Dene are a native people heralding mainly from the vast frozen northern regions of what is now modern-day Canada, although they also lived in certain areas now belonging to the U.S., particularly the state of Alaska. Composed of many various tribes, most notably the Chipewyan, Tlicho, Yellowknives, Slavey and Sahtu peoples, although the ranks of Dene are not limited to these groups. With that said, a number of the tribes once associated with the Dene have become extinct, such as Tsetsaut people, who were located in what is now the Portland Canal area, close to the Alaskan border. The Dene were the first people to settle in the Northwest Territories, which they refer to as Denendeh.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DENEFIRSTNATION_TEXT_2">
+			<Text>Though the idea of a land bridge is controversial among modern scientists, it is believed that the Dene may have travelled from Asia through Alaska to settle Canada and the Northern United States. What is agreed on, however, is that before the advent of European travellers, the Dene had a large, far-flung presence -- isolated Dene peoples such as the Navajo live in the southern States.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DENEFIRSTNATION_TEXT_3">
+			<Text>Major tribes of the Dene include, but are not limited to: Thanadelthur's people, the Chipewyan; the Yellowknives, named for their use of metal deposits in weapon and tool manufacture; the Slaves or Slaveys, named that way because that's what everyone around them used them for; the Hares and Beavers, who lived off of those animals; and the Dogribs, who were said to be descendants of a legendary dog man.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DENEFIRSTNATION_TEXT_4">
+			<Text>The Dene are known for inhabiting the boreal forests of Canada, as well as much of the stark sub-arctic regions of North America. As such, the native Dene lived in some of the coldest climes ever inhabited by humans without advanced technology all year round. As a people, they tended to settle near large bodies of water, particularly the Great Slave and Bear Lakes. Their lands stretched from Alaska in the West to the Hudson Bay in the East, and as far North and South as they could push and resist the Inuit and Cree.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DENEFIRSTNATION_TEXT_5">
+			<Text>Music and dance are an integral part of Dene society. Dances and the songs for these dances are created by drummers and past down through generations. By tradition, Dene drummers leave their works unsigned, although this is not a taboo -- just a tradition.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DENEFIRSTNATION_TEXT_6">
+			<Text>Dene Society didn't typically have a lot of social strata. Dene people were people, and while some tribes had a tendancy to treat women very badly, others elevated women above their menfolk in value. A person's identity was usually rooted in their family and kin, and family ownership may pass matrilineally or patrilineally, depending on the tribe. One social rule seemed to be universal, however: respect the Elders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DENEFIRSTNATION_TEXT_7">
+			<Text>Due to cultural differences, the Dene often clashed with the Inuit tribes. It was not until 1996 that representatives from both Dene and Inuit origins were able to finally put a number of longstanding feuds to rest through joint participation in a healing ceremony. A number of these grievances had managed to last for hundreds of years.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DENEFIRSTNATION_TEXT_8">
+			<Text>Thanadelthur was one of the first Dene to ever meet the English explorer/traders of the Hudson's Bay Company. For trade reasons, the Bay Company wanted an end to the Cree/Dene conflicts. With the help of Thanadelthur, they were able to forge a peace between the tribes. Yet, not all of the interactions with Canada were positive. The early histories of interaction between Canada and the Dene are marred by many instances of disagreement, misunderstanding, and exploitation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DENEFIRSTNATION_TEXT_9">
+			<Text>In modern times, the Dene have become increasingly involved in political expressions and aspirations. Dene citizens have become influential contributors to many fields of work, including law, medicine, and politics. Many Dene have risen to influential posts in the Canadian government. This has enabled the Canadian government to work more closely with the Dene, ensuring that the Dene gain greater respect and that their cultural ways are better protected. In 2014, the Supreme Court of Canada ruled to allow a tribe of Dene to have "aboriginal title" of their traditional lands, giving them the final say on any resource development in the area.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DENEFIRSTNATION_TITLE">
+			<Text>Dene</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_DENEFIRSTNATION_SHORT_DESC">
+			<Text>The Dene</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_DENEFIRSTNATION_ADJECTIVE">
+			<Text>Dene</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_DENEFIRSTNATION_TEXT">
+			<Text>
+				Thanadelthur! Your name resonates with great fortune and purpose. You were born into a people surrounded with enemies - the Inuit to the north and the Cree to the south. It was a desperate time for other reasons as well - the British were in the process of exploring North America, bringing with them foreign ways and deadly weapons.[NEWLINE][NEWLINE]Your story begins in the darkest of ways. Cree warriors attacked your home and took many women away as slaves. You were one of the captives. You lived in Cree captivity for many years before escaping out into the wilds with a number of other Dene women. Free, but surrounded by the hostile environment, you began the long trek home. Of all of the escapees, only you would survive. You would make first contact with the English explorers, who would later return you to your people.[NEWLINE][NEWLINE]Despite your traumatic past, you used your time with the Cree and the English to your advantage. Armed with the experiential knowledge of the Cree and English ways of life, you led your people to an understanding of their enemies, forging lasting peace between the Dene, Cree, and the English.[NEWLINE][NEWLINE]Thanadelthur! Your grace and tenacity is a beacon for all nations! Be faithful to your calling  - lead us! Learn about each of the peoples of the world and forge peace that will stand the test of time.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DENEFIRSTNATION_0">
+			<Text>Somba K'e</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DENEFIRSTNATION_1">
+			<Text>Beghaniche'ere</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DENEFIRSTNATION_2">
+			<Text>Behchoko</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DENEFIRSTNATION_3">
+			<Text>Dalu Tue</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DENEFIRSTNATION_4">
+			<Text>Deline</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DENEFIRSTNATION_5">
+			<Text>Deninoo Kue</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DENEFIRSTNATION_6">
+			<Text>Dettah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DENEFIRSTNATION_7">
+			<Text>Echaot'l Koe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DENEFIRSTNATION_8">
+			<Text>Gameti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DENEFIRSTNATION_9">
+			<Text>Gani Kue</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DENEFIRSTNATION_10">
+			<Text>K'agee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DENEFIRSTNATION_11">
+			<Text>Ka'hbamitue</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DENEFIRSTNATION_12">
+			<Text>Liidli Kue</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DENEFIRSTNATION_13">
+			<Text>Lutsel K'e</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DENEFIRSTNATION_14">
+			<Text>N'Dilo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DENEFIRSTNATION_15">
+			<Text>Pehdzeh Ki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DENEFIRSTNATION_16">
+			<Text>Radeyilikoe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DENEFIRSTNATION_17">
+			<Text>Tazen Tue</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DENEFIRSTNATION_18">
+			<Text>Thebacha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DENEFIRSTNATION_19">
+			<Text>Titelase Tue</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DENEFIRSTNATION_20">
+			<Text>Tlegohli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DENEFIRSTNATION_21">
+			<Text>Ts'eouli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DENEFIRSTNATION_22">
+			<Text>Tsokine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DENEFIRSTNATION_23">
+			<Text>Tthek'ehdeli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DENEFIRSTNATION_24">
+			<Text>Ttheltue</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DENEFIRSTNATION_25">
+			<Text>Tthenaago</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DENEFIRSTNATION_26">
+			<Text>Tulita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DENEFIRSTNATION_27">
+			<Text>Wekweeti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DENEFIRSTNATION_28">
+			<Text>Whati</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DENEFIRSTNATION_29">
+			<Text>Xatl’odehchee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DENEFIRSTNATION_0">
+			<Text>Leela</Text>
+			<gender>feminine</gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DENEFIRSTNATION_1">
+			<Text>Herman</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DENEFIRSTNATION_2">
+			<Text>Matonaabe</Text>
+			<gender>masculine</gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DENEFIRSTNATION_3">
+			<Text>Tahmoht</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DENEFIRSTNATION_4">
+			<Text>Van Camp</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DENEFIRSTNATION_5">
+			<Text>Wezdin</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DENEFIRSTNATION_6">
+			<Text>Rivet</Text>
+			<gender>masculine</gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DENEFIRSTNATION_7">
+			<Text>Ethel</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DENEFIRSTNATION_8">
+			<Text>Yatsule</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DENEFIRSTNATION_9">
+			<Text>Chief Victor</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<!--<Row Tag="TXT_KEY_CITYSTATE_MONTEVIDEO">
+			<Text>Montevideo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MONTEVIDEO_ADJ">
+			<Text>Montevidean</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONTEVIDEO_TEXT">
+			<Text>Montevideo is the largest city, the capital, and the chief port of Uruguay.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_DUBAI">
+			<Text>Dubai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_DUBAI_ADJ">
+			<Text>Dubai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DUBAI_TEXT">
+			<Text>Dubai is a city in the United Arab Emirates, located within the emirate of the same name.</Text>
+		</Row>-->
+	</Language_en_US>
+</GameData>

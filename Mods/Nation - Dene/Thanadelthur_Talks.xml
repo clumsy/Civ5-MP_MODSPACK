@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/18/2014 5:11:55 PM -->
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_DENETHANADELTHUR">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_DENETHANADELTHUR_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_DENETHANADELTHUR">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_DENETHANADELTHUR_DEFEATED%</Response>
+		</Row>
+		<Row LeaderType="LEADER_DENETHANADELTHUR">
+			<ResponseType>RESPONSE_GREETING_POLITE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_DENETHANADELTHUR_POLITE_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_DENETHANADELTHUR">
+			<ResponseType>RESPONSE_GREETING_NEUTRAL_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_DENETHANADELTHUR_NEUTRAL_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_DENETHANADELTHUR">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_DENETHANADELTHUR_HOSTILE_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_DENETHANADELTHUR">
+			<ResponseType>RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING</ResponseType>
+			<Response>TXT_KEY_DENETHANADELTHUR_HOSTILE_AGGRESSIVE_MILITARY_WARNING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_DENETHANADELTHUR">
+			<ResponseType>RESPONSE_EXPANSION_SERIOUS_WARNING</ResponseType>
+			<Response>TXT_KEY_DENETHANADELTHUR_EXPANSION_SERIOUS_WARNING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_DENETHANADELTHUR">
+			<ResponseType>RESPONSE_REQUEST</ResponseType>
+			<Response>TXT_KEY_LEADER_DENETHANADELTHUR_RESPONSE_REQUEST%</Response>
+		</Row>
+		<Row LeaderType="LEADER_DENETHANADELTHUR">
+			<ResponseType>RESPONSE_LUXURY_TRADE</ResponseType>
+			<Response>TXT_KEY_LEADER_DENETHANADELTHUR_RESPONSE_LUXURY_TRADE%</Response>
+		</Row>
+		<Row LeaderType="LEADER_DENETHANADELTHUR">
+			<ResponseType>RESPONSE_OPEN_BORDERS_EXCHANGE</ResponseType>
+			<Response>TXT_KEY_LEADER_DENETHANADELTHUR_OPEN_BORDERS_EXCHANGE%</Response>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<!--General phrases -->
+		<!--Greeting (first time meeting) -->
+		<Row Tag="TXT_KEY_LEADER_DENETHANADELTHUR_FIRSTGREETING_1">
+			<Text>Welcome! This night is beautiful, the fire is bright, and the drums are playing.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DENETHANADELTHUR_FIRSTGREETING_2">
+			<Text>Another stranger? We will need to see more of each other soon, I think.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DENETHANADELTHUR_FIRSTGREETING_3">
+			<Text>Hello, stranger. Let me introduce you to my people, our elders, and our drummers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DENETHANADELTHUR_DEFEATED_1">
+			<Text>I've survived worse. Just watch.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DENETHANADELTHUR_DEFEATED_2">
+			<Text>Even defeat is an opportunity for peace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DENETHANADELTHUR_DEFEATED_3">
+			<Text>You will never crush my spirit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DENETHANADELTHUR_POLITE_HELLO_1">
+			<Text>Ahh, my friends. I was hoping to see you again. Your ways are so fascinating</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DENETHANADELTHUR_POLITE_HELLO_2">
+			<Text>There is always room for you in my home.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DENETHANADELTHUR_POLITE_HELLO_3">
+			<Text>I knew you would come soon. Our drums are so entrancing that you cannot stay away.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DENETHANADELTHUR_NEUTRAL_HELLO_1">
+			<Text>It is good that you have come. We should keep learning about each other so that we may become friends.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DENETHANADELTHUR_NEUTRAL_HELLO_2">
+			<Text>There is room for you here.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DENETHANADELTHUR_NEUTRAL_HELLO_3">
+			<Text>Come. Listen to the drums of my people</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DENETHANADELTHUR_HOSTILE_HELLO_1">
+			<Text>If we could learn of each other, we would not have to be enemies like this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DENETHANADELTHUR_HOSTILE_HELLO_2">
+			<Text>More bluster. More angry words. More wasted lives. Why do you even bother to seek me out?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DENETHANADELTHUR_HOSTILE_HELLO_3">
+			<Text>Let me play for you the song of my people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DENETHANADELTHUR_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Bah! Are you planning to take my sisters, my mothers, my daughters? We see your lecherous men hiding in wait on our borders like cowards.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DENETHANADELTHUR_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Our lands have been severed before, our people lost to us. We will fight to prevent you from doing that again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DENETHANADELTHUR_REQUEST_1">
+			<Text>Could we have some of that?.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DENETHANADELTHUR_LUXURY_TRADE_1">
+			<Text>Please bring us some more of that!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DENETHANADELTHUR_OPEN_BORDERS_EXCHANGE_1">
+			<Text>If we mingle our peoples together, we will all learn to become one people!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

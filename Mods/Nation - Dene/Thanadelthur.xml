@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/18/2014 4:55:48 PM -->
+<GameData>
+	<Leaders>
+		<Row>
+			<Type>LEADER_DENETHANADELTHUR</Type>
+			<Description>TXT_KEY_LEADER_DENETHANADELTHUR</Description>
+			<Civilopedia>TXT_KEY_LEADER_DENETHANADELTHUR_PEDIA</Civilopedia>
+			<CivilopediaTag>TXT_KEY_CIVILOPEDIA_LEADERS_DENETHANADELTHUR</CivilopediaTag>
+			<ArtDefineTag>Thanadelthur_Scene.xml</ArtDefineTag>
+			<VictoryCompetitiveness>3</VictoryCompetitiveness>
+			<WonderCompetitiveness>3</WonderCompetitiveness>
+			<MinorCivCompetitiveness>4</MinorCivCompetitiveness>
+			<Boldness>9</Boldness>
+			<DiploBalance>7</DiploBalance>
+			<WarmongerHate>3</WarmongerHate>
+			<WorkAgainstWillingness>2</WorkAgainstWillingness>
+			<WorkWithWillingness>4</WorkWithWillingness>
+			<DenounceWillingness>7</DenounceWillingness>
+			<DoFWillingness>8</DoFWillingness>
+			<Loyalty>9</Loyalty>
+			<Neediness>6</Neediness>
+			<Forgiveness>5</Forgiveness>
+			<Chattiness>6</Chattiness>
+			<Meanness>2</Meanness>
+			<PortraitIndex>0</PortraitIndex>
+			<!-- Not right-->
+			<IconAtlas>DENETHANADELTHUR_ICON</IconAtlas>
+			<PackageID/>
+		</Row>
+	</Leaders>
+	<Leader_MajorCivApproachBiases>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_WAR</MajorCivApproachType>
+			<Bias>6</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_HOSTILE</MajorCivApproachType>
+			<Bias>4</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_DECEPTIVE</MajorCivApproachType>
+			<Bias>3</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_GUARDED</MajorCivApproachType>
+			<Bias>5</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_AFRAID</MajorCivApproachType>
+			<Bias>6</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_FRIENDLY</MajorCivApproachType>
+			<Bias>7</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_NEUTRAL</MajorCivApproachType>
+			<Bias>7</Bias>
+		</Row>
+	</Leader_MajorCivApproachBiases>
+	<Leader_MinorCivApproachBiases>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_IGNORE</MinorCivApproachType>
+			<Bias>2</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_FRIENDLY</MinorCivApproachType>
+			<Bias>5</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_PROTECTIVE</MinorCivApproachType>
+			<Bias>3</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_CONQUEST</MinorCivApproachType>
+			<Bias>6</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_BULLY</MinorCivApproachType>
+			<Bias>2</Bias>
+		</Row>
+	</Leader_MinorCivApproachBiases>
+	<Leader_Flavors>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<FlavorType>FLAVOR_RECON</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<FlavorType>FLAVOR_RANGED</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<FlavorType>FLAVOR_MOBILE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_RECON</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_GROWTH</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_TILE_IMPROVEMENT</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<FlavorType>FLAVOR_AIR</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<FlavorType>FLAVOR_TILE_IMPROVEMENT</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<FlavorType>FLAVOR_INFRASTRUCTURE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<FlavorType>FLAVOR_DIPLOMACY</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<FlavorType>FLAVOR_SPACESHIP</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<FlavorType>FLAVOR_WATER_CONNECTION</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<FlavorType>FLAVOR_NUKE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<FlavorType>FLAVOR_USE_NUKE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<FlavorType>FLAVOR_ESPIONAGE</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<FlavorType>FLAVOR_ANTIAIR</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<FlavorType>FLAVOR_AIR_CARRIER</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<FlavorType>FLAVOR_ARCHAEOLOGY</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<FlavorType>FLAVOR_I_LAND_TRADE_ROUTE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<FlavorType>FLAVOR_I_SEA_TRADE_ROUTE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<FlavorType>FLAVOR_I_TRADE_ORIGIN</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<FlavorType>FLAVOR_I_TRADE_DESTINATION</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<FlavorType>FLAVOR_AIRLIFT</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+	</Leader_Flavors>
+	<Leader_Traits>
+		<Row>
+			<LeaderType>LEADER_DENETHANADELTHUR</LeaderType>
+			<TraitType>TRAIT_DENEDRUMMERS</TraitType>
+		</Row>
+	</Leader_Traits>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_DENETHANADELTHUR">
+			<Text>Thanadelthur</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DENETHANADELTHUR_PEDIA">
+			<Text>Thanadelthur, also known as "Slave Woman," escaped Cree captivity and is enshrined as a colonial-era hero by Dene, Cree, and Canadian histories.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DENETHANADELTHUR_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DENETHANADELTHUR_HEADING_2">
+			<Text>Early Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DENETHANADELTHUR_HEADING_3">
+			<Text>Captured by the Cree</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DENETHANADELTHUR_HEADING_4">
+			<Text>The Hudson’s Bay Company</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DENETHANADELTHUR_HEADING_5">
+			<Text>Peace Between the Dene and Cree</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DENETHANADELTHUR_HEADING_6">
+			<Text>Untimely Death</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DENETHANADELTHUR_HEADING_7">
+			<Text>Judgment of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DENETHANADELTHUR_NAME">
+			<Text>Thanadelthur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DENETHANADELTHUR_SUBTITLE">
+			<Text>Ex-Slave</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DENETHANADELTHUR_TEXT_1">
+			<Text>Disappointingly little is known about Thanadelthur, a Chipewyan tribeswoman who played a key role in establishing a longstanding peace treaty between the Chipewyans, one of the major Dene clans, and the Cree. While neither the two civilizations’ greatest warriors could bring an end to the conflict, it would be the decisive actions of a single young woman that eventually brought an end to the struggle. She would also prove instrumental in enabling trade between the native tribes and the burgeoning Hudson’s Bay Company, whose records refer to her as the “Slave Woman”, who owe much of their success to her.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DENETHANADELTHUR_TEXT_2">
+			<Text>There is very little solid information in regards to Thanadelthur’s earliest years. However, while it is difficult to confirm which year she was born it, it is commonly believed that she was born in the year 1697. The majority of Chipewyan knowledge was still being passed down purely through oral tradition at the time and as a result there is little in the way of records in regards to Thanadelthur’s childhood.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DENETHANADELTHUR_TEXT_3">
+			<Text>In 1713, Thanadelthur, accompanied by a group of fellow Chipewyans, was attacked and then captured by a group of Crees. After spending an entire winter season as a prisoner, Thanadelthur managed to escape, alongside another woman who had also been a captive of the Cree. Now in lands unfamiliar to them, Thanadelthur and her sole companion planned to find their way home. For a year they made their way through the wilderness, suffering from cold and hunger and unable to find their homeland, until the woman accompanying Thanadelthur passed away, leaving her alone in the world.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DENETHANADELTHUR_TEXT_4">
+			<Text>Thanadelthur would not be lonely for long, however. Just five days after the passing of her companion, she was discovered by hunters from the Hudson’s Bay Company. Realising that they would prove to be her best chance for survival, Thanadelthur allowed the hunters to the settlement of York Factory in Manitoba, where the headquarters of the Hudson’s Bay Company’s Northern Department was then located. There she would meet with James Knight, a director of the company and appointed governor of the settlement, who was in need of an interpreter versed in the native languages of the region, a role which would suit Thanadelthur perfectly. She would be needed to order for the Hudson’s Bay Company to create a peace treaty between the Cree and the Chipewyan Dene. The nearby Cree received firearms from visiting Europeans and had taken to opening fire on members of other tribes as they attempted to reach the trading posts belonging to the Hudson’s Bay Company in order to sell furs. The Cree, who possessed the land where the trading posts had been built, saw the other tribes as little more than invaders. The fighting between the native tribes had quite the negative effect on the Hudson’s Bay Company’s business and, with Thanadelthur’s help, they intended to bring peace between the warring clans.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DENETHANADELTHUR_TEXT_5">
+			<Text>On the 27th of June 1715, accompanied by William Stuart, who acted as a representative for the Hudson’s Bay Company, and an escort group of one hundred and fifty Cree, set out to meet with the Chipewyan tribes. Armed with numerous gifts James Knight had given her to present to the Chipewyans, Thanadelthur became an envoy of the Hudson’s Bay Company. But while the company’s gifts were indeed useful, it was Thanadeltur’s eloquent and persuasive speech, as well as her unstoppable determination to end the conflict between the Chipewyans and Cree, which is credited as the true means by which peace was achieved. When a group of the Crees accompanying Thanadeltur on her peace mission murdered a party of Chipewyans and claimed that they had done so in an act of self-defence, all but Thanadelthur believed that they had failed. Unswayed by the unfortunate event, Thanadelthur told her companions to wait while she tracked down a large group of Chipewyans preparing to exact vengeance for the murder of their kin. Despite the situation becoming so dire, Thanadeltur would not back down and spoke at length with her fellow Chipewyans until she could convince them to meet with the Cree, who had long been their traditional enemies. Ten days after she had first left her Cree companions, Thanadelthur returned with a large group of curious Chipewyans. The resulting peace talks were a resounding success.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DENETHANADELTHUR_TEXT_6">
+			<Text>After peace between the Crees and Chipewyans was accomplished, Thanadelthur returned to York Factory one last time, where she and the Chipewyann tribesmen who now accompanied her spent the winter months of 1716. Knight told Thanadelthur of his next mission for her: to announce to her fellow Chipewyans that the company planned to establish a trading post at Churchill River, an assignment that she was quite excited to take part in. Sadly, Thanadelthur never returned home and died on the 5th of February 1717 of a severe illness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DENETHANADELTHUR_TITLES_1">
+			<Text>"Slave Woman"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DENETHANADELTHUR_LIVED">
+			<Text>1697-1717</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DENETHANADELTHUR_TEXT_7">
+			<Text>While she only lived for such a short period of time, the impact Thanadelthur had on relations between the Dene and the Cree was so impressive that she was posthumously declared a person of national importance by the Historic Sites and Monuments Board of Canada in 2000.</Text>
+		</Row>	
+	</Language_en_US>
+</GameData>

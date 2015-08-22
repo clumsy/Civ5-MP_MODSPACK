@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/18/2014 7:53:32 PM -->
+<GameData>
+	<ArtDefine_UnitInfos>
+		<Row>
+			<Type>ART_DEF_UNIT_DENEDRUMMER</Type>
+			<DamageStates>1</DamageStates>
+			<Formation>EarlyGreatArtist</Formation>
+		</Row>
+	</ArtDefine_UnitInfos>
+	<ArtDefine_UnitMemberInfos>
+		<Row>
+			<Type>ART_DEF_UNIT_MEMBER_DENEDRUMMER</Type>
+			<Scale>0.119999997317791</Scale>
+			<Model>SacredDrummer.fxsxml</Model>
+			<MaterialTypeSoundOverrideTag>FLESH</MaterialTypeSoundOverrideTag>
+		</Row>
+	</ArtDefine_UnitMemberInfos>
+	<ArtDefine_UnitMemberCombats>
+		<Row>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_DENEDRUMMER</UnitMemberType>
+			<EnableActions>Idle Death BombardDefend Run</EnableActions>
+			<HasRefaceAfterCombat>1</HasRefaceAfterCombat>
+		</Row>
+	</ArtDefine_UnitMemberCombats>
+	<ArtDefine_UnitInfoMemberInfos>
+		<Row>
+			<UnitInfoType>ART_DEF_UNIT_DENEDRUMMER</UnitInfoType>
+			<UnitMemberInfoType>ART_DEF_UNIT_MEMBER_DENEDRUMMER</UnitMemberInfoType>
+			<NumMembers>3</NumMembers>
+		</Row>
+	</ArtDefine_UnitInfoMemberInfos>
+	<ArtDefine_StrategicView>
+		<Row>
+			<StrategicViewType>ART_DEF_UNIT_DENEDRUMMER</StrategicViewType>
+			<TileType>Unit</TileType>
+			<Asset>deneunitsv.dds</Asset>
+		</Row>
+	</ArtDefine_StrategicView>
+</GameData>

@@ -1546,6 +1546,9 @@ ContextPtr:LoadNewContext("Inuksuks")
 -- Nation - Colombia --
 ContextPtr:LoadNewContext("CaptureScripts")
 
+-- Nation - Dene --
+ContextPtr:LoadNewContext("DeneLua")
+
 -- Nation - Blackfoot --
 ContextPtr:LoadNewContext("CountingCoup")
 ContextPtr:LoadNewContext("PlaceBison")
