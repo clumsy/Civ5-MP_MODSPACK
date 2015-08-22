@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/29/2014 6:07:47 PM -->
+<GameData>
+
+	<Buildings>
+
+		<Row>
+		<Type>BUILDING_MRESORT</Type>
+		<BuildingClass>BUILDINGCLASS_STADIUM</BuildingClass>
+		<Cost>500</Cost>
+		<PrereqTech>TECH_REFRIGERATION</PrereqTech>
+		<Description>TXT_KEY_BUILDING_MRESORT</Description>
+		<Civilopedia>TXT_KEY_CIV5_BUILDINGS_MRESORT_TEXT</Civilopedia>
+		<Strategy>TXT_KEY_BUILDING_MRESORT_STRATEGY</Strategy>
+		<Help>TXT_KEY_BUILDING_MRESORT_HELP</Help>
+		<ArtDefineTag>STADIUM</ArtDefineTag>
+		<LandmarksTourismPercent>34</LandmarksTourismPercent>
+		<GreatWorksTourismModifier>34</GreatWorksTourismModifier>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>25</HurryCostModifier>
+		<IconAtlas>ANDORRA_ICON_ATLAS</IconAtlas>
+		<PortraitIndex>3</PortraitIndex>
+		<Happiness>3</Happiness>
+		<Hill>true</Hill>
+		<GoldMaintenance>3</GoldMaintenance>
+	    </Row>
+
+		-<Row>
+
+			<Type>BUILDING_ADUMMY1</Type>
+
+			<BuildingClass>BUILDINGCLASS_ADUMMY1</BuildingClass>
+
+			<Cost>-1</Cost>
+
+			<FaithCost>-1</FaithCost>
+
+			<PrereqTech>NULL</PrereqTech>
+
+			<GreatWorkCount>-1</GreatWorkCount>
+
+			<ArtDefineTag>NONE</ArtDefineTag>
+
+			<MinAreaSize>-1</MinAreaSize>
+
+			<NeverCapture>true</NeverCapture>
+
+			<HurryCostModifier>-1</HurryCostModifier>
+
+			<PortraitIndex>0</PortraitIndex>
+
+			<IconAtlas>CIV_COLOR_ATLAS</IconAtlas>
+
+			<FreePolicies>1</FreePolicies>
+
+		</Row>
+
+		-<Row>
+
+			<Type>BUILDING_ADUMMY2</Type>
+
+			<BuildingClass>BUILDINGCLASS_ADUMMY2</BuildingClass>
+
+			<Cost>-1</Cost>
+
+			<FaithCost>-1</FaithCost>
+
+			<PrereqTech>NULL</PrereqTech>
+
+			<GreatWorkCount>-1</GreatWorkCount>
+
+			<ArtDefineTag>NONE</ArtDefineTag>
+
+			<MinAreaSize>-1</MinAreaSize>
+
+			<NeverCapture>true</NeverCapture>
+
+			<HurryCostModifier>-1</HurryCostModifier>
+
+			<PortraitIndex>0</PortraitIndex>
+
+			<IconAtlas>CIV_COLOR_ATLAS</IconAtlas>
+
+			<FreePolicies>1</FreePolicies>
+
+		</Row>
+
+		-<Row>
+
+			<Type>BUILDING_ADUMMY3</Type>
+
+			<BuildingClass>BUILDINGCLASS_ADUMMY3</BuildingClass>
+
+			<Cost>-1</Cost>
+
+			<FaithCost>-1</FaithCost>
+
+			<PrereqTech>NULL</PrereqTech>
+
+			<GreatWorkCount>-1</GreatWorkCount>
+
+			<ArtDefineTag>NONE</ArtDefineTag>
+
+			<MinAreaSize>-1</MinAreaSize>
+
+			<NeverCapture>true</NeverCapture>
+
+			<HurryCostModifier>-1</HurryCostModifier>
+
+			<PortraitIndex>0</PortraitIndex>
+
+			<IconAtlas>CIV_COLOR_ATLAS</IconAtlas>
+
+			<FreePolicies>1</FreePolicies>
+
+		</Row>
+
+		-<Row>
+
+			<Type>BUILDING_ADUMMY4</Type>
+
+			<BuildingClass>BUILDINGCLASS_ADUMMY4</BuildingClass>
+
+			<Cost>-1</Cost>
+
+			<FaithCost>-1</FaithCost>
+
+			<PrereqTech>NULL</PrereqTech>
+
+			<GreatWorkCount>-1</GreatWorkCount>
+
+			<ArtDefineTag>NONE</ArtDefineTag>
+
+			<MinAreaSize>-1</MinAreaSize>
+
+			<NeverCapture>true</NeverCapture>
+
+			<HurryCostModifier>-1</HurryCostModifier>
+
+			<PortraitIndex>0</PortraitIndex>
+
+			<IconAtlas>CIV_COLOR_ATLAS</IconAtlas>
+
+			<FreePolicies>1</FreePolicies>
+
+		</Row>
+
+		-<Row>
+
+			<Type>BUILDING_ADUMMY5</Type>
+
+			<BuildingClass>BUILDINGCLASS_ADUMMY5</BuildingClass>
+
+			<Cost>-1</Cost>
+
+			<FaithCost>-1</FaithCost>
+
+			<PrereqTech>NULL</PrereqTech>
+
+			<GreatWorkCount>-1</GreatWorkCount>
+
+			<ArtDefineTag>NONE</ArtDefineTag>
+
+			<MinAreaSize>-1</MinAreaSize>
+
+			<NeverCapture>true</NeverCapture>
+
+			<HurryCostModifier>-1</HurryCostModifier>
+
+			<PortraitIndex>0</PortraitIndex>
+
+			<IconAtlas>CIV_COLOR_ATLAS</IconAtlas>
+
+			<FreePolicies>1</FreePolicies>
+
+		</Row>
+
+		-<Row>
+
+			<Type>BUILDING_ADUMMY6</Type>
+
+			<BuildingClass>BUILDINGCLASS_ADUMMY6</BuildingClass>
+
+			<Cost>-1</Cost>
+
+			<FaithCost>-1</FaithCost>
+
+			<PrereqTech>NULL</PrereqTech>
+
+			<GreatWorkCount>-1</GreatWorkCount>
+
+			<ArtDefineTag>NONE</ArtDefineTag>
+
+			<MinAreaSize>-1</MinAreaSize>
+
+			<NeverCapture>true</NeverCapture>
+
+			<HurryCostModifier>-1</HurryCostModifier>
+
+			<PortraitIndex>0</PortraitIndex>
+
+			<IconAtlas>CIV_COLOR_ATLAS</IconAtlas>
+
+			<FreePolicies>1</FreePolicies>
+
+		</Row>
+
+		-<Row>
+
+			<Type>BUILDING_ADUMMY7</Type>
+
+			<BuildingClass>BUILDINGCLASS_ADUMMY7</BuildingClass>
+
+			<Cost>-1</Cost>
+
+			<FaithCost>-1</FaithCost>
+
+			<PrereqTech>NULL</PrereqTech>
+
+			<GreatWorkCount>-1</GreatWorkCount>
+
+			<ArtDefineTag>NONE</ArtDefineTag>
+
+			<MinAreaSize>-1</MinAreaSize>
+
+			<NeverCapture>true</NeverCapture>
+
+			<HurryCostModifier>-1</HurryCostModifier>
+
+			<PortraitIndex>0</PortraitIndex>
+
+			<IconAtlas>CIV_COLOR_ATLAS</IconAtlas>
+
+			<FreePolicies>1</FreePolicies>
+
+		</Row>
+
+		-<Row>
+
+			<Type>BUILDING_ADUMMY8</Type>
+
+			<BuildingClass>BUILDINGCLASS_ADUMMY8</BuildingClass>
+
+			<Cost>-1</Cost>
+
+			<FaithCost>-1</FaithCost>
+
+			<PrereqTech>NULL</PrereqTech>
+
+			<GreatWorkCount>-1</GreatWorkCount>
+
+			<ArtDefineTag>NONE</ArtDefineTag>
+
+			<MinAreaSize>-1</MinAreaSize>
+
+			<NeverCapture>true</NeverCapture>
+
+			<HurryCostModifier>-1</HurryCostModifier>
+
+			<PortraitIndex>0</PortraitIndex>
+
+			<IconAtlas>CIV_COLOR_ATLAS</IconAtlas>
+
+			<FreePolicies>1</FreePolicies>
+
+		</Row>
+
+		-<Row>
+
+			<Type>BUILDING_ADUMMY9</Type>
+
+			<BuildingClass>BUILDINGCLASS_ADUMMY9</BuildingClass>
+
+			<Cost>-1</Cost>
+
+			<FaithCost>-1</FaithCost>
+
+			<PrereqTech>NULL</PrereqTech>
+
+			<GreatWorkCount>-1</GreatWorkCount>
+
+			<ArtDefineTag>NONE</ArtDefineTag>
+
+			<MinAreaSize>-1</MinAreaSize>
+
+			<NeverCapture>true</NeverCapture>
+
+			<HurryCostModifier>-1</HurryCostModifier>
+
+			<PortraitIndex>0</PortraitIndex>
+
+			<IconAtlas>CIV_COLOR_ATLAS</IconAtlas>
+
+			<FreePolicies>1</FreePolicies>
+
+		</Row>
+
+    </Buildings>
+
+	-<BuildingClasses>
+
+
+		-<Row>
+
+			<Type>BUILDINGCLASS_ADUMMY1</Type>
+
+			<DefaultBuilding>BUILDING_ADUMMY1</DefaultBuilding>
+
+			<Description>Andorra Dummy 1</Description>
+
+		</Row>
+
+		-<Row>
+
+			<Type>BUILDINGCLASS_ADUMMY2</Type>
+
+			<DefaultBuilding>BUILDING_ADUMMY2</DefaultBuilding>
+
+			<Description>Andorra Dummy 2</Description>
+
+		</Row>
+
+		-<Row>
+
+			<Type>BUILDINGCLASS_ADUMMY3</Type>
+
+			<DefaultBuilding>BUILDING_ADUMMY3</DefaultBuilding>
+
+			<Description>Andorra Dummy 3</Description>
+
+		</Row>
+
+		-<Row>
+
+			<Type>BUILDINGCLASS_ADUMMY4</Type>
+
+			<DefaultBuilding>BUILDING_ADUMMY4</DefaultBuilding>
+
+			<Description>Andorra Dummy 4</Description>
+
+		</Row>
+
+		-<Row>
+
+			<Type>BUILDINGCLASS_ADUMMY5</Type>
+
+			<DefaultBuilding>BUILDING_ADUMMY5</DefaultBuilding>
+
+			<Description>Andorra Dummy 5</Description>
+
+		</Row>
+
+		-<Row>
+
+			<Type>BUILDINGCLASS_ADUMMY6</Type>
+
+			<DefaultBuilding>BUILDING_ADUMMY6</DefaultBuilding>
+
+			<Description>Andorra Dummy 6</Description>
+
+		</Row>
+
+		-<Row>
+
+			<Type>BUILDINGCLASS_ADUMMY7</Type>
+
+			<DefaultBuilding>BUILDING_ADUMMY7</DefaultBuilding>
+
+			<Description>Andorra Dummy 7</Description>
+
+		</Row>
+
+		-<Row>
+
+			<Type>BUILDINGCLASS_ADUMMY8</Type>
+
+			<DefaultBuilding>BUILDING_ADUMMY8</DefaultBuilding>
+
+			<Description>Andorra Dummy 8</Description>
+
+		</Row>
+
+		-<Row>
+
+			<Type>BUILDINGCLASS_ADUMMY9</Type>
+
+			<DefaultBuilding>BUILDING_ADUMMY9</DefaultBuilding>
+
+			<Description>Andorra Dummy 9</Description>
+
+		</Row>
+
+		</BuildingClasses>
+
+
+
+		<Building_ClassesNeededInCity>
+
+		<Row>
+
+			<BuildingType>BUILDING_MRESORT</BuildingType>
+
+			<BuildingClassType>BUILDINGCLASS_THEATRE</BuildingClassType>
+
+		</Row>
+
+	</Building_ClassesNeededInCity>
+
+	-<Building_Flavors>
+
+
+		-<Row>
+
+			<BuildingType>BUILDING_MRESORT</BuildingType>
+
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+
+			<Flavor>50</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<BuildingType>BUILDING_MRESORT</BuildingType>
+
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+
+			<Flavor>10</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<BuildingType>BUILDING_MRESORT</BuildingType>
+
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+
+			<Flavor>10</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<BuildingType>BUILDING_MRESORT</BuildingType>
+
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+
+			<Flavor>40</Flavor>
+
+		</Row>
+
+	</Building_Flavors>
+
+
+	<Language_en_US>
+
+
+		<Row Tag="TXT_KEY_BUILDING_MRESORT">
+
+			<Text>Muntanya resort</Text>
+
+			<Gender>neuter:the</Gender>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_MRESORT_TEXT">
+
+			<Text>Andorra's tourism based economy relies heavily on it's various natural spring water spas and ski resorts, the latter of which covers around 175km of ski ground. The most famous spa is the Caldea Andorra, one of the largest of it's kind in europe.</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_BUILDING_MRESORT_STRATEGY">
+
+			<Text>The Muntanya (mountain) resort converts 34% of culture from great works, wonders and landmarks into tourism, greatly increasing Andorra's tourism output compared to other civilizations. It even increases happiness by more than the stadium, which it replaces! The catch is that only cities built on hills can build the Mountain Resort, so plan your cities carefully!</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_BUILDING_MRESORT_HELP">
+
+			<Text>Replaces the Stadium; The Muntanya resort converts 34% of culture from great works, wonders and landmarks into tourism. May only be built in cities built on hills. </Text>
+
+		</Row>
+
+
+	</Language_en_US>
+  
+</GameData>

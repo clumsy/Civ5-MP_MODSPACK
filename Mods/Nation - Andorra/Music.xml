@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/5/2014 5:00:27 PM -->
+<GameData>
+
+
+	<Audio_Sounds>
+
+
+		<Row>
+
+			<SoundID>SND_LEADER_MUSIC_ROGER_BERNARD_PEACE</SoundID>
+
+			<Filename>El_Gran_Carleymany</Filename>
+
+			<LoadType>DynamicResident</LoadType>
+
+		</Row>
+
+
+		<Row>
+
+			<SoundID>SND_LEADER_MUSIC_ROGER_BERNARD_WAR</SoundID>
+
+			<Filename>Granados</Filename>
+
+			<LoadType>DynamicResident</LoadType>
+
+		</Row>
+
+	</Audio_Sounds>
+
+
+	<Audio_2DSounds>
+
+
+		<Row>
+
+			<ScriptID>AS2D_LEADER_MUSIC_ROGER_BERNARD_PEACE</ScriptID>
+
+			<SoundID>SND_LEADER_MUSIC_ROGER_BERNARD_PEACE</SoundID>
+
+			<SoundType>GAME_MUSIC</SoundType>
+
+			<MinVolume>60</MinVolume>
+
+			<MaxVolume>60</MaxVolume>
+
+			<IsMusic>true</IsMusic>
+
+		</Row>
+
+
+		<Row>
+
+			<ScriptID>AS2D_LEADER_MUSIC_ROGER_BERNARD_WAR</ScriptID>
+
+			<SoundID>SND_LEADER_MUSIC_ROGER_BERNARD_WAR</SoundID>
+
+			<SoundType>GAME_MUSIC</SoundType>
+
+			<MinVolume>60</MinVolume>
+
+			<MaxVolume>60</MaxVolume>
+
+			<IsMusic>true</IsMusic>
+
+		</Row>
+
+	</Audio_2DSounds>
+	
+</GameData>

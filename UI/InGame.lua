@@ -1532,6 +1532,9 @@ ContextPtr:LoadNewContext("Lua_Germany")
 ContextPtr:LoadNewContext("CityStatePopupGoldChanges")
 ContextPtr:LoadNewContext("JFD_KilwaFunctions")
 
+-- Nation - Andorra --
+ContextPtr:LoadNewContext("Andorra_trait")
+
 -- Nation - Inuit --
 ContextPtr:LoadNewContext("InuitRelocation")
 ContextPtr:LoadNewContext("UntilTheIceBreaks")

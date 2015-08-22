@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/29/2014 11:50:41 PM -->
+<GameData>
+
+	<Traits>
+		<Row>
+			<Type>TRAIT_PARIAGE</Type>
+			<Description>TXT_KEY_TRAIT_PARIAGE</Description>
+			<ShortDescription>TXT_KEY_TRAIT_PARIAGE_SHORT</ShortDescription>
+		</Row>
+	</Traits>
+
+	<Policies>
+		<Row>
+			<Type>POLICY_ANDORRA_GREAT_WORK</Type>
+		</Row>
+	</Policies>
+	<Policy_GreatWorkYieldChanges>
+		<Row>
+			<PolicyType>POLICY_ANDORRA_GREAT_WORK</PolicyType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Policy_GreatWorkYieldChanges>
+
+
+	<Language_en_US>
+
+
+		<Row Tag="TXT_KEY_TRAIT_PARIAGE">
+
+			<Text>Gain a free social policy when you complete a social policy tree. Great works yield +1 [ICON_CULTURE] culture.</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_TRAIT_PARIAGE_SHORT">
+
+			<Text>The Pareage</Text>
+
+		</Row>
+
+	</Language_en_US>
+	
+</GameData>

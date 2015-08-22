@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="7cf77470-5e0b-4b17-8de8-784a28c732ca" version="4">
+  <Properties>
+    <Name>The Principality of Andorra</Name>
+    <Teaser>A mod adding the principality of Andorra to the game</Teaser>
+    <Description>A mod adding the principality of Andorra to the game</Description>
+    <Authors>ryanjames, davey_henninger</Authors>
+    <SpecialThanks>Viregel, Kiang</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>0</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YNAEMP" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV leader traits" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Unique Cultural influence" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="Piety and Prestige" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="Cultural diversity" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="RED" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="519A47EAEF247F6434438878F035DB0F" import="1">Assets/Art/AndorraDOM.dds</File>
+    <File md5="7BB45CD2950F41E8C14C5F5FD3DAC261" import="1">Assets/Art/Art defines/civ5_sparm1.blend</File>
+    <File md5="6053DA459E5DA79785918BE35C346D06" import="1">Assets/Art/Art defines/civ5_sparm1.fbx</File>
+    <File md5="207E8B1B47D7DB0C4917DD17C6776B35" import="1">Assets/Art/Art defines/civ5_sparm1.fxsxml</File>
+    <File md5="C9D7151AA993DE8414A5633C137E4746" import="1">Assets/Art/Art defines/civ5_sparm1.gr2</File>
+    <File md5="18C3A8EAC7C5F272EBD6866BF852D582" import="1">Assets/Art/Art defines/civ5_sparm2.blend</File>
+    <File md5="DA3170B1D9A9DD088E9B499B15206212" import="1">Assets/Art/Art defines/civ5_sparm2.fbx</File>
+    <File md5="28CB9C56B93D4EFFF21EF6ABC3D28FB6" import="1">Assets/Art/Art defines/civ5_sparm2.fxsxml</File>
+    <File md5="4EFE82F08B7CBD17A436DA27CBDA50C4" import="1">Assets/Art/Art defines/civ5_sparm2.gr2</File>
+    <File md5="14EF8AFA9BEA33397D9D7EFF2DBF4874" import="1">Assets/Art/Art defines/civ5_sparm3.blend</File>
+    <File md5="96B1FA9C667E82427FE050488E6512F5" import="1">Assets/Art/Art defines/civ5_sparm3.fbx</File>
+    <File md5="0295D62E2C335BEEA22179051F1F1104" import="1">Assets/Art/Art defines/civ5_sparm3.fxsxml</File>
+    <File md5="12C7750D8D92DC84CE58128D1627321C" import="1">Assets/Art/Art defines/civ5_sparm3.gr2</File>
+    <File md5="9502362ABFE315A069C3BD0513DB791D" import="1">Assets/Art/Art defines/sparm1.dds</File>
+    <File md5="27971AEE590B5445ADF90457B751E09C" import="1">Assets/Art/Art defines/sparm1_sref.dds</File>
+    <File md5="A247608D668C25C2B46A2D586C9234A6" import="1">Assets/Art/Art defines/sparm2.dds</File>
+    <File md5="9519526BD3A1E146C57FC4FFE9138BBC" import="1">Assets/Art/Art defines/sparm2_sref.dds</File>
+    <File md5="CADE8AFBEFE00C7BD0428504876F5DB2" import="1">Assets/Art/Art defines/sparm3.dds</File>
+    <File md5="08D41D435695FCCD9C61F1FAFC9324C6" import="1">Assets/Art/Art defines/sparm3_sref.dds</File>
+    <File md5="D3A551D00ED3C6B897FBB8D319C41912" import="1">Assets/Art/Icon atlas/AndorraAlpha128.dds</File>
+    <File md5="585D27BD2C5A82FD7BD147E1C1DD37FB" import="1">Assets/Art/Icon atlas/AndorraAlpha16.dds</File>
+    <File md5="A4F504440E7B95F546278482465D2584" import="1">Assets/Art/Icon atlas/AndorraAlpha24.dds</File>
+    <File md5="11706D48DC13DAAC784630D44A8DA97B" import="1">Assets/Art/Icon atlas/AndorraAlpha256.dds</File>
+    <File md5="C0A08FA811DA3D724963E2650BCED0DE" import="1">Assets/Art/Icon atlas/AndorraAlpha32.dds</File>
+    <File md5="D7F9818B51B15374589F4EABAFC80F8B" import="1">Assets/Art/Icon atlas/AndorraAlpha45.dds</File>
+    <File md5="37F5F716B45919D731A32C4B608CEEAE" import="1">Assets/Art/Icon atlas/AndorraAlpha48.dds</File>
+    <File md5="AC3DEE9BB8F7073264A411E1CA7F1B18" import="1">Assets/Art/Icon atlas/AndorraAlpha64.dds</File>
+    <File md5="2F998B64BE97FBF9FAF55923C9F73378" import="1">Assets/Art/Icon atlas/AndorraAlpha80.dds</File>
+    <File md5="BCDCB3A7E2DC7FF7F107D92AD9441B37" import="1">Assets/Art/Icon atlas/AndorraAtlas128.dds</File>
+    <File md5="90AD038C687802B9E5BE711BF8DD09EA" import="1">Assets/Art/Icon atlas/AndorraAtlas256.dds</File>
+    <File md5="2EACB1C8D7BF1465A13C210FC64BC92D" import="1">Assets/Art/Icon atlas/AndorraAtlas32.dds</File>
+    <File md5="C927483955C67BC7BE8CEB4B0454109B" import="1">Assets/Art/Icon atlas/AndorraAtlas45.dds</File>
+    <File md5="EFE0C6B47E747347293F2260E3D7B324" import="1">Assets/Art/Icon atlas/AndorraAtlas64.dds</File>
+    <File md5="EAB73A549EDDF9C232E00A562882BC38" import="1">Assets/Art/Icon atlas/AndorraAtlas80.dds</File>
+    <File md5="D785AEB81A3427012193835F87A2700A" import="1">Assets/Art/Icon atlas/Sometentflag128.dds</File>
+    <File md5="66202B457CFD32BD51A954CD749EC385" import="1">Assets/Art/Icon atlas/Sometentflag256.dds</File>
+    <File md5="A70E7D368267FAF208665717B66EEC2E" import="1">Assets/Art/Icon atlas/Sometentflag32.dds</File>
+    <File md5="46D762F4CFA5C9973FE1DF57D1100F92" import="1">Assets/Art/Icon atlas/Sometentflag45.dds</File>
+    <File md5="2E2F761CA55CECE860B35D842321A96D" import="1">Assets/Art/Icon atlas/Sometentflag64.dds</File>
+    <File md5="F3F37FEE6834F2DE271680D08D158FBF" import="1">Assets/Art/Icon atlas/Sometentflag80.dds</File>
+    <File md5="42102CAD9C9DB76751DCD625B4E99FCA" import="1">Assets/Art/Andorra_map.dds</File>
+    <File md5="C8C0E00F06051B72E3B8029F99679156" import="1">Assets/Art/RogerBernard.dds</File>
+    <File md5="AE2B21EAD684EAB4EEAF1F6E24CC7D83" import="1">Assets/Granados.mp3</File>
+    <File md5="6A195CC6EB02EB7534020F57696AB167" import="1">Assets/El_Gran_Carleymany.mp3</File>
+    <File md5="1C315DB0F49BEDABE72C88939A6294B8" import="0">Lua/Andorra_trait.lua</File>
+    <File md5="63FB7E65437C7C18331C692AE170E54B" import="0">SQL/Andorra_cultural_diversity_support.sql</File>
+    <File md5="9E449F438ECB7C6ED0DCA51A8A7B0C8C" import="0">SQL/Andorra_Leader_Traits.sql</File>
+    <File md5="E25199A296C82B3D778C9891A083A830" import="0">SQL/Andorra_PietyPrestige.sql</File>
+    <File md5="28AF3929123619852A713DA1907C110C" import="0">SQL/Andorra_RED.sql</File>
+    <File md5="5998648605D9EAA0F0D10DAF73DE9657" import="0">XML/Andorra_civilisation.xml</File>
+    <File md5="CD63D9BBC3406CEFB2EDBB08B0971BE0" import="0">XML/Andorra_trait.xml</File>
+    <File md5="927A653C0F77161504CC263DD4FF96AD" import="0">XML/Andorra_UCI.xml</File>
+    <File md5="70547F91C714487A1D7B265F13906B11" import="0">XML/Andorra_YNAEMP_support.xml</File>
+    <File md5="8832E6EE52D8A27CE3995FD1B2FFCF24" import="1">XML/Roger_Scene.xml</File>
+    <File md5="6D91E684590317B521BBA7F81449C767" import="0">XML/Icon_atlas.xml</File>
+    <File md5="958A291E99EAE7ADF7BC285EF17E2ABA" import="0">XML/Leader.xml</File>
+    <File md5="03B7E3199143736E36CF960865C21D9A" import="0">XML/Music.xml</File>
+    <File md5="753AC30D51897852AC86CB33F616CD4F" import="0">XML/Sometent.xml</File>
+    <File md5="5C26195CCEAC79A73C25B482987378E1" import="0">XML/Buildings.xml</File>
+    <File md5="64128D8B8302C9E8AA24D4E631537543" import="0">XML/Sometent_art_defines.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Andorra_civilisation.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Andorra_trait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Roger_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Icon_atlas.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Music.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Sometent.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Sometent_art_defines.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Andorra_YNAEMP_support.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Andorra_cultural_diversity_support.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Andorra_Leader_Traits.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Andorra_PietyPrestige.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Andorra_RED.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Andorra_UCI.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Andorra_trait.lua">
+      <Name>Trait</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

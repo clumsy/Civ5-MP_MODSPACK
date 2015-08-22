@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/29/2014 5:58:29 PM -->
+<GameData>
+
+	<units>
+
+	<Row>
+		<Class>UNITCLASS_RIFLEMAN</Class>
+		<Type>UNIT_SOMETENT</Type>
+		<PrereqTech>TECH_RIFLING</PrereqTech>
+		<Combat>31</Combat>
+		<Cost>125</Cost>
+		<FaithCost>450</FaithCost>
+		<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
+		<Moves>2</Moves>
+		<CombatClass>UNITCOMBAT_GUN</CombatClass>
+		<Domain>DOMAIN_LAND</Domain>
+		<DefaultUnitAI>UNITAI_DEFENSE</DefaultUnitAI>
+		<Description>TXT_KEY_UNIT_SOMETENT</Description>
+		<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_SOMETENT_TEXT</Civilopedia>
+		<Strategy>TXT_KEY_UNIT_SOMETENT_STRATEGY</Strategy>
+		<Help>TXT_KEY_UNIT_HELP_SOMETENT</Help>
+		<MilitarySupport>true</MilitarySupport>
+		<MilitaryProduction>true</MilitaryProduction>
+		<Pillage>true</Pillage>
+		<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+		<ObsoleteTech>TECH_REPLACEABLE_PARTS</ObsoleteTech>
+		<GoodyHutUpgradeUnitClass>UNITCLASS_GREAT_WAR_INFANTRY</GoodyHutUpgradeUnitClass>
+		<AdvancedStartCost>30</AdvancedStartCost>
+		<XPValueAttack>3</XPValueAttack>
+		<XPValueDefense>3</XPValueDefense>
+		<Conscription>5</Conscription>
+		<UnitArtInfo>ART_DEF_UNIT_SOMETENT</UnitArtInfo>
+		<UnitFlagIconOffset>0</UnitFlagIconOffset>
+		<IconAtlas>ANDORRA_ICON_ATLAS</IconAtlas>
+		<PortraitIndex>2</PortraitIndex>
+		<UnitFlagAtlas>SOMETENT_ALPHA</UnitFlagAtlas>
+	</Row>
+
+	</units>
+	
+	-<Unit_AITypes>
+
+
+		-<Row>
+
+			<UnitType>UNIT_SOMETENT</UnitType>
+
+			<UnitAIType>UNITAI_ATTACK</UnitAIType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_SOMETENT</UnitType>
+
+			<UnitAIType>UNITAI_DEFENSE</UnitAIType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_SOMETENT</UnitType>
+
+			<UnitAIType>UNITAI_EXPLORE</UnitAIType>
+
+		</Row>
+
+	</Unit_AITypes>
+
+
+
+
+
+	-<Unit_ClassUpgrades>
+
+
+		-<Row>
+
+			<UnitType>UNIT_SOMETENT</UnitType>
+
+			<UnitClassType>UNITCLASS_GREAT_WAR_INFANTRY</UnitClassType>
+
+		</Row>
+
+	</Unit_ClassUpgrades>
+
+
+	-<Unit_FreePromotions>
+
+		-<Row>
+
+			<UnitType>UNIT_SOMETENT</UnitType>
+
+			<PromotionType>PROMOTION_ALTITUDE_TRAINING</PromotionType>
+
+		</Row>
+
+	</Unit_FreePromotions>
+
+
+	-<Unit_Flavors>
+
+
+		-<Row>
+
+			<UnitType>UNIT_SOMETENT</UnitType>
+
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+
+			<Flavor>10</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_SOMETENT</UnitType>
+
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+
+			<Flavor>20</Flavor>
+
+		</Row>
+
+	</Unit_Flavors>
+
+	-<UnitGameplay2DScripts>
+
+
+		-<Row>
+
+			<UnitType>UNIT_SOMETENT</UnitType>
+
+			<SelectionSound>AS2D_SELECT_MUSKETMAN</SelectionSound>
+
+			<FirstSelectionSound>AS2D_BIRTH_MUSKETMAN</FirstSelectionSound>
+
+		</Row>
+
+	</UnitGameplay2DScripts>
+
+
+	-<Language_en_US>
+
+
+		-<Row Tag="TXT_KEY_UNIT_SOMETENT">
+
+			<Text>Sometent</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_RENAISSANCE_SOMETENT_TEXT">
+
+
+			-<Text>Sometent are paramilitary groups and militia made up of farmers and labourers who, during times of national emergency in Catalonia and Andorra arm themselves to defend their parishes. Though not very well trained, they have been significant in Andorran and Catalonian history, having joined various wars or made public arrests of various notable figures.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_UNIT_SOMETENT_STRATEGY">
+
+			<Text>The low cost (almost 50% less production!) and altitude training promotion making Sometent very useful in fending off invasions and ambushing enemy troops. Though they have lower combat strength, if you use their numbers and the terrain to your advantage, Sometent can easily turn the tide of a war.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_UNIT_HELP_SOMETENT">
+
+			<Text>Weaker than the rifleman which is replaces, the Sometent is much cheaper and excels at fighting in hilly terrain.</Text>
+
+		</Row>
+
+	</Language_en_US>
+
+</GameData>

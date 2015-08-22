@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/8/2014 4:53:35 PM -->
+<GameData>
+
+	<Leaders>
+		<Row>
+			<Type>LEADER_ROGER_BERNARD</Type>
+
+			<Description>TXT_KEY_LEADER_ROGER_BERNARD</Description>
+
+			<Civilopedia>TXT_KEY_LEADER_ROGER_BERNARD_PEDIA</Civilopedia>
+
+			<CivilopediaTag>TXT_KEY_CIVILOPEDIA_LEADERS_ROGER_BERNARD</CivilopediaTag>
+
+			<ArtDefineTag>Roger_Scene.xml</ArtDefineTag>
+
+			<VictoryCompetitiveness>6</VictoryCompetitiveness>
+			<WonderCompetitiveness>7</WonderCompetitiveness>
+			<MinorCivCompetitiveness>5</MinorCivCompetitiveness>
+			<Boldness>6</Boldness>
+			<DiploBalance>4</DiploBalance>
+			<WarmongerHate>6</WarmongerHate>
+			<WorkAgainstWillingness>5</WorkAgainstWillingness>
+			<WorkWithWillingness>5</WorkWithWillingness>
+			<DenounceWillingness>6</DenounceWillingness>
+			<DoFWillingness>8</DoFWillingness>
+			<Loyalty>9</Loyalty>
+			<Neediness>7</Neediness>
+			<Forgiveness>7</Forgiveness>
+			<Chattiness>7</Chattiness>
+			<Meanness>3</Meanness>
+			<IconAtlas>ANDORRA_ICON_ATLAS</IconAtlas>
+			<PortraitIndex>1</PortraitIndex>
+
+		</Row>
+	</Leaders>
+
+	<Leader_MajorCivApproachBiases>
+		<Row>
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_WAR</MajorCivApproachType>
+			<Bias>7</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_HOSTILE</MajorCivApproachType>
+			<Bias>3</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_DECEPTIVE</MajorCivApproachType>
+			<Bias>4</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_GUARDED</MajorCivApproachType>
+			<Bias>7</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_AFRAID</MajorCivApproachType>
+			<Bias>4</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_FRIENDLY</MajorCivApproachType>
+			<Bias>7</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_NEUTRAL</MajorCivApproachType>
+			<Bias>7</Bias>
+		</Row>
+	</Leader_MajorCivApproachBiases>
+
+	<Leader_MinorCivApproachBiases>
+		<Row>
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_IGNORE</MinorCivApproachType>
+			<Bias>4</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_FRIENDLY</MinorCivApproachType>
+			<Bias>7</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_PROTECTIVE</MinorCivApproachType>
+			<Bias>7</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_CONQUEST</MinorCivApproachType>
+			<Bias>3</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_BULLY</MinorCivApproachType>
+			<Bias>3</Bias>
+		</Row>
+	</Leader_MinorCivApproachBiases>
+
+	<Leader_Flavors>
+		<Row>
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+			<FlavorType>FLAVOR_RECON</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+			<FlavorType>FLAVOR_RANGED</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+			<FlavorType>FLAVOR_MOBILE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_RECON</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_GROWTH</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_TILE_IMPROVEMENT</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+			<FlavorType>FLAVOR_AIR</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+			<FlavorType>FLAVOR_TILE_IMPROVEMENT</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+			<FlavorType>FLAVOR_INFRASTRUCTURE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+			<FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+			<FlavorType>FLAVOR_DIPLOMACY</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+			<FlavorType>FLAVOR_SPACESHIP</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+			<FlavorType>FLAVOR_WATER_CONNECTION</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+			<FlavorType>FLAVOR_NUKE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+			<FlavorType>FLAVOR_USE_NUKE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+			<FlavorType>FLAVOR_ESPIONAGE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+			<FlavorType>FLAVOR_ANTIAIR</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+			<FlavorType>FLAVOR_AIR_CARRIER</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+			<FlavorType>FLAVOR_ARCHAEOLOGY</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+			<FlavorType>FLAVOR_I_LAND_TRADE_ROUTE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+			<FlavorType>FLAVOR_I_SEA_TRADE_ROUTE</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+			<FlavorType>FLAVOR_I_TRADE_ORIGIN</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+			<FlavorType>FLAVOR_I_TRADE_DESTINATION</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+			<FlavorType>FLAVOR_AIRLIFT</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+	</Leader_Flavors>
+
+	
+
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_ROGER_BERNARD">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_ROGER_BERNARD_FIRSTGREETING_%</Response>
+		</Row>
+		<Row LeaderType="LEADER_ROGER_BERNARD">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_ROGER_BERNARD_DEFEATED_%</Response>
+		</Row>
+	</Diplomacy_Responses>
+
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_ROGER_BERNARD">
+			<Text>Roger Bernard III</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ROGER_BERNARD_PEDIA">
+			<Text>Roger Bernard III</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ROGER_BERNARD">
+			<Text>Test text.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ROGER_BERNARD_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ROGER_BERNARD_TEXT_1">
+			<Text>Roger-Bernard III (1243 – 3 March 1302) was the Count of Foix from 1265 to his death. He was the son of Roger IV of Foix and Brunissende of Cardona. He entered into conflicts with both Philip III of France and Peter III of Aragon, who held him in captivity for a time. He was nevertheless a distinguished poet and troubadour.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ROGER_BERNARD_HEADING_2">
+			<Text>Conflict with the French Monarchy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ROGER_BERNARD_TEXT_2">
+			<Text>
+				His conflict with Philip III was rooted in the longstanding desire of the French monarchy to establish its authority in Languedoc, where, since the 10th century, it had been practically a nonentity. In 1272, Roger-Bernard allied with Gerald VI, Count of Armagnac to attack the lord of Sompuy, who, however, applied for protection to the king. This brought the king and the count into direct opposition. Ignoring the royal command, the two counts went to war. Philip, claiming rights as the heir of his uncle invaded Languedoc at the head of a large army. Roger-Bernard fled to his castle at Foix and the Seneschal of Toulouse seized his lands. Roger-Bernard, meanwhile, placed himself under the competing protection of James I of Aragon, who endeavoured to negotiate a peace. Roger-Bernard, however, demanded harsh and unacceptable conditions. On 3 June, King Philip began the siege of Foix and on 5 June, the citadel fell. Roger-Bernard surrendered and was carted off to prison in Carcassonne. The dispute between James and Philip, however, did not immediately abate. The former refused to relinquish what he held on behalf of the imprisoned count. On 8 February 1273, the conflict was resolved and the king of Aragon gave up his claims. Before the end of that year, the count of Foix was released and did homage to the king of France, receiving back a portion of his confiscated lands. Roger-Bernard's relationship with Philip III was thereafter solid, with Philip even considering him his most loyal and faithful vassal</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ROGER_BERNARD_HEADING_3">
+			<Text>Formation of Andorra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ROGER_BERNARD_TEXT_3">
+			<Text>Perhaps the most lasting of Roger-Bernard's policies was his diplomatic agreement with the bishop of Urgell concerning the possession of Andorra, a small montane territory with a long history of quarrels over its lordship between bishop and count. On 8 September 1278, after long negotiations, the count and the bishop concluded a paréage, a form of condominium, over the disputed country. Though slightly modified a little later (the same year), the paréage remains the governing system of Andorra to this day, though the office of Count of Foix has devolved to the Presidency of France since that time.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ROGER_BERNARD_HEADING_4">
+			<Text>Conflict with Aragon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ROGER_BERNARD_TEXT_4">
+			<Text>
+				In Spring 1280, the long-stewing conflict between Roger-Bernard and Peter of Aragon broke out into open rebellion. The count of Foix formed a coalition of other dissatisfied Catalan nobles, including Arnold Roger I of Pallars Sobirà and Ermengol X of Urgell, and revolted against Peter. Besieged in Balaguer, he was forced to surrender on 22 July and was imprisoned. While the other leaders of the revolt were released the next year, Roger-Bernard languished in an Aragonese dungeon until December 1283, at which time it was politically expedient to free him in exchange for the viscounty of Castelbon in an effort to stave off French aggression in the form of the so-called Aragonese Crusade. Roger-Bernard, however, was not beholden to the then-excommunicate king of Aragon and readily sided with the invading French. First, on 25 May 1285, Elne and then, on 7 September, Girona surrendered to their French besiegers, negotiating the surrenders with the count of Foix.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ROGER_BERNARD_SUBTITLE">
+			<Text>Count of Foix, Prince of Andorra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ROGER_BERNARD_NAME">
+			<Text>Roger Bernard III</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ROGER_BERNARD_LIVED">
+			<Text>1243 - 1302 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ROGER_BERNARD_FIRSTGREETING_1">
+			<Text>Welcome my Friend, I am Roger Bernard III, Count of Foix and Prince of Andorra. Would you like to hear a Ballad I have been working on?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ROGER_BERNARD_FIRSTGREETING_2">
+			<Text>Bonjour, hola and hello, I am Roger Bernard, and this is Andorra. Would you like me to regale you with a poem about my exploits?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ROGER_BERNARD_FIRSTGREETING_3">
+			<Text>And who are you, who dares to tread in the valleys of Andorra? Haha, forgive me my friend, I jest, did you have a pleasant trip?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ROGER_BERNARD_DEFEATED_1">
+			<Text>How could such a distaster occur? Oh woe is me, struck down as if I were nothing more than a child.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ROGER_BERNARD_DEFEATED_2">
+			<Text>My experience in both war and diplomacy have failed me, and the Andorran people. God will forgive me, but he shant forgive you.</Text>
+		</Row>
+	</Language_en_US>
+
+	-<Leader_Traits>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_ROGER_BERNARD</LeaderType>
+
+			<TraitType>TRAIT_PARIAGE</TraitType>
+
+		</Row>
+
+	</Leader_Traits>
+
+
+</GameData>

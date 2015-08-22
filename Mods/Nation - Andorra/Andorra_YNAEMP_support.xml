@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/6/2015 9:11:23 PM -->
+<GameData>
+
+
+	-<Civilizations_YagemStartPosition>
+		-
+
+		-<Row>
+
+			<Type>CIVILIZATION_ANDORRA</Type>
+
+			<X>11</X>
+
+			<Y>61</Y>
+
+		</Row>
+
+	</Civilizations_YagemStartPosition>
+	-
+
+	-<Civilizations_YahemStartPosition>
+		-
+
+		-<Row>
+
+			<Type>CIVILIZATION_ANDORRA</Type>
+
+			<X>57</X>
+
+			<Y>57</Y>
+
+		</Row>
+
+	</Civilizations_YahemStartPosition>
+	-
+
+	-<Civilizations_CordiformStartPosition>
+		-
+
+		-<Row>
+
+			<Type>CIVILIZATION_ANDORRA</Type>
+
+			<X>33</X>
+
+			<Y>24</Y>
+
+		</Row>
+
+	</Civilizations_CordiformStartPosition>
+  
+</GameData>

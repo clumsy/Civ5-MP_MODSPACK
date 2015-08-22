@@ -1,0 +1,886 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<GameData>
+
+
+	<Civilizations>
+
+
+		<Row>
+
+		<Type>CIVILIZATION_ANDORRA</Type>
+
+		<Description>TXT_KEY_CIV_ANDORRA_DESC</Description>
+
+		<Civilopedia>TXT_KEY_CIV5_ANDORRA_PEDIA</Civilopedia>
+
+		<CivilopediaTag>TXT_KEY_CIV5_ANDORRA</CivilopediaTag>
+
+		<Strategy/>
+
+		<Playable>1</Playable>
+
+		<AIPlayable>1</AIPlayable>
+
+		<ShortDescription>TXT_KEY_CIV_ANDORRA_SHORT_DESC</ShortDescription>
+
+		<Adjective>TXT_KEY_CIV_ANDORRA_ADJECTIVE</Adjective>
+
+		<DefaultPlayerColor>PLAYERCOLOR_ANDORRA</DefaultPlayerColor>
+
+		<ArtDefineTag>ART_DEF_CIVILIZATION_SPAIN</ArtDefineTag>
+
+		<ArtStyleType>ARTSTYLE_GRECO_ROMAN</ArtStyleType>
+
+		<ArtStyleSuffix>_MED</ArtStyleSuffix>
+
+		<ArtStylePrefix>MEDITERRANEAN</ArtStylePrefix>
+
+		<PortraitIndex>0</PortraitIndex>
+
+		<IconAtlas>ANDORRA_ICON_ATLAS</IconAtlas>
+
+		<AlphaIconAtlas>ANDORRA_ALPHA_ATLAS</AlphaIconAtlas>
+
+		<MapImage>Andorra_map.dds</MapImage>
+
+		<DawnOfManQuote>TXT_KEY_CIV5_DAWN_ANDORRA_TEXT</DawnOfManQuote>
+
+		<DawnOfManImage>AndorraDOM.dds</DawnOfManImage>
+
+		<DawnOfManAudio></DawnOfManAudio>
+
+		<SoundtrackTag>Spain</SoundtrackTag>
+
+	</Row>
+
+   </Civilizations>
+
+			<Civilization_BuildingClassOverrides>
+
+				<Row>
+
+					<CivilizationType>CIVILIZATION_ANDORRA</CivilizationType>
+
+					<BuildingClassType>BUILDINGCLASS_STADIUM</BuildingClassType>
+
+					<BuildingType>BUILDING_MRESORT</BuildingType>
+
+				</Row>
+
+			</Civilization_BuildingClassOverrides>
+
+
+	<Civilization_CityNames>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_ANDORRA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_ANDORRA_0</CityName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_ANDORRA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_ANDORRA_1</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_ANDORRA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_ANDORRA_2</CityName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_ANDORRA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_ANDORRA_3</CityName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_ANDORRA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_ANDORRA_4</CityName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_ANDORRA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_ANDORRA_5</CityName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_ANDORRA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_ANDORRA_6</CityName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_ANDORRA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_ANDORRA_7</CityName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_ANDORRA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_ANDORRA_8</CityName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_ANDORRA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_ANDORRA_9</CityName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_ANDORRA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_ANDORRA_10</CityName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_ANDORRA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_ANDORRA_11</CityName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_ANDORRA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_ANDORRA_12</CityName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_ANDORRA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_ANDORRA_13</CityName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_ANDORRA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_ANDORRA_14</CityName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_ANDORRA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_ANDORRA_15</CityName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_ANDORRA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_ANDORRA_16</CityName>
+
+		</Row>
+
+
+
+	</Civilization_CityNames>
+
+
+	<Civilization_FreeBuildingClasses>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_ANDORRA</CivilizationType>
+
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+
+		</Row>
+
+	</Civilization_FreeBuildingClasses>
+
+
+	<Civilization_FreeTechs>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_ANDORRA</CivilizationType>
+
+			<TechType>TECH_AGRICULTURE</TechType>
+
+		</Row>
+
+	</Civilization_FreeTechs>
+
+
+	<Civilization_FreeUnits>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_ANDORRA</CivilizationType>
+
+			<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+
+			<UnitAIType>UNITAI_SETTLE</UnitAIType>
+
+			<Count>1</Count>
+
+		</Row>
+
+	</Civilization_FreeUnits>
+
+
+	<Civilization_Leaders>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_ANDORRA</CivilizationType>
+
+			<LeaderheadType>LEADER_ROGER_BERNARD</LeaderheadType>
+
+		</Row>
+
+	</Civilization_Leaders>
+
+
+	<Civilization_Religions>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_ANDORRA</CivilizationType>
+
+			<ReligionType>RELIGION_CHRISTIANITY</ReligionType>
+
+		</Row>
+
+	</Civilization_Religions>
+
+
+	<Civilization_SpyNames>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_ANDORRA</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_ANDORRA_0</SpyName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_ANDORRA</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_ANDORRA_1</SpyName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_ANDORRA</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_ANDORRA_2</SpyName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_ANDORRA</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_ANDORRA_3</SpyName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_ANDORRA</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_ANDORRA_4</SpyName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_ANDORRA</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_ANDORRA_5</SpyName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_ANDORRA</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_ANDORRA_6</SpyName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_ANDORRA</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_ANDORRA_7</SpyName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_ANDORRA</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_ANDORRA_8</SpyName>
+
+		</Row>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_ANDORRA</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_ANDORRA_9</SpyName>
+
+		</Row>
+
+	</Civilization_SpyNames>
+
+
+	<Civilization_UnitClassOverrides>
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_ANDORRA</CivilizationType>
+
+			<UnitClassType>UNITCLASS_RIFLEMAN</UnitClassType>
+
+			<UnitType>UNIT_SOMETENT</UnitType>
+
+		</Row>
+
+	</Civilization_UnitClassOverrides>
+
+
+	<Civilization_Start_Region_Priority>
+
+
+		<Row>
+
+			<CivilizationType>CIVILIZATION_ANDORRA</CivilizationType>
+
+			<RegionType>REGION_HILLS</RegionType>
+
+		</Row>
+
+	</Civilization_Start_Region_Priority>
+
+	<PlayerColors>
+
+
+		<Row>
+
+			<Type>PLAYERCOLOR_ANDORRA</Type>
+
+			<PrimaryColor>COLOR_PLAYER_ANDORRA_ICON</PrimaryColor>
+
+			<SecondaryColor>COLOR_PLAYER_ANDORRA_BACKGROUND</SecondaryColor>
+
+			<TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+
+		</Row>
+
+	</PlayerColors>
+
+
+	<Colors>
+
+
+		<Row>
+
+			<Type>COLOR_PLAYER_ANDORRA_ICON</Type>
+
+			<Red>0.5804</Red>
+
+			<Green>0.2235</Green>
+
+			<Blue>0.0863</Blue>
+
+			<Alpha>1.0</Alpha>
+
+		</Row>
+
+		<Row>
+
+			<Type>COLOR_PLAYER_ANDORRA_BACKGROUND</Type>
+
+			<Red>0.71</Red>
+
+			<Green>0.6902</Green>
+
+			<Blue>0.3961</Blue>
+
+			<Alpha>1.0</Alpha>
+
+		</Row>
+
+	</Colors>
+
+
+	<Language_en_US>
+
+
+		<Row Tag="TXT_KEY_CIV_ANDORRA_DESC">
+
+			<Text>Principality of Andorra</Text>
+
+			<Gender>neuter:an</Gender>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_ANDORRA_FACTOID_HEADING">
+
+			<Text>Andorra factoid</Text>
+
+		</Row>
+
+		-<Row Tag="TXT_KEY_CIV5_ANDORRA_FACTOID_TEXT">
+			-
+			<Text>As of december 2014, Andorra's people have the longest lifespan in the world[NEWLINE][NEWLINE]Andorra has 10 million tourists annually, despite a population of a mere 100'000[NEWLINE][NEWLINE]Around 80% of Andorra's economy is based on tourism.[NEWLINE][NEWLINE]Andorra's borders have remained completely unchanged since 1278, when the Pareage was established.</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_ANDORRA_TEXT">
+
+
+			<Text>Summary</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_ANDORRA_HEADING_1">
+
+			<Text>History</Text>
+
+		</Row>
+
+		
+		<Row Tag="TXT_KEY_CIV5_ANDORRA_HEADING_2">
+
+			<Text>Geography and Climate</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_ANDORRA_HEADING_3">
+
+			<Text>Prehistory</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_ANDORRA_HEADING_4">
+
+			<Text>Charlemagne and the Marca Hispania</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_ANDORRA_HEADING_5">
+
+			<Text>Roger Bernard III and the Pareage</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_ANDORRA_HEADING_6">
+
+			<Text>The Council Of the Land</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_ANDORRA_HEADING_7">
+
+			<Text>The French revolution</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_ANDORRA_HEADING_8">
+
+			<Text>All hail King Boris I of Andorra!</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_ANDORRA_HEADING_9">
+
+			<Text>Modern times</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_ANDORRA_TEXT_1">
+
+
+			<Text>Andorra is a nation that lies in the deep valleys of the Pyrenees between Spain and France. Though a small nation, Andorra has persisted throughout the centuries with relative safety from outside powers, and in the last few decades has opened up to the outside world and has flourished under a tourism industry so large it would put it's neighbors to shame!</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_ANDORRA_TEXT_2">
+
+
+			<Text>Situated in the Pyrenees, Andorra is a land of rugged mountains and conifer forests in an area of 468 square Km. Essentially Catalan in culture, the Andorran people are fond of musicical styles and dances such as Sardana and the Contrapas, but outside styles such as Jazz flourish in festivals such as those in Escaldes-Ergodany. Andorra also has a rich history of legal pieces of writing such as the Pareage, the unique consitution of Andorra.</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_ANDORRA_TEXT_3">
+
+
+			<Text>The valleys of Andorra have been inhabited for thousands of years. Achaeologists have discovered artifacts (pottery, primitive jewelry, etc.) dating back to the Neolithic period. Bronze Age artifacts have been found near the villages of Cedre and La Serra d'Enclar. However, there is very little solid documentation. Historians speculate that the original inhabitants of the valleys of Andorra were related to the Basque people of northern Spain, and that the name Andorra is of Basque derivation. Other pre-roman inhabitants included Celt tribal migrations, Iberians from the south, and a small tribe called the Andosinos, mentioned by Polybius when he was describing the Punic Wars.</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_ANDORRA_TEXT_4">
+
+
+			<Text>Andorra claims it is the last independent survivor of the Marca Hispanica, the buffer states created by Charlemagne to keep the Islamic Moors from advancing into Christian France. Tradition holds that Charlemagne granted a charter to the Andorran people in return for their fighting the Moors. In the 9th century, Charlemagne's grandson, Charles the Bald, named the Count of Urgell as overlord of Andorra. A descendant of the count later gave the lands to the Diocese of Urgell, headed by Bishop of Urgell.</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_ANDORRA_TEXT_5">
+
+
+			<Text>
+				In the 11th century, fearing military action by neighboring lords, the bishop placed himself under the protection of the Lord of Caboet, a Catalan nobleman. Later, the Count of Foix became heir to the Lord of Caboet through marriage, and a dispute arose between the French Count and the Catalan bishop over Andorra. In 1278, the conflict was resolved by the signing of a pareage, which provided that Andorra's sovereignty be shared between the Count of Foix, who at the time was Roger Bernard III, and the Bishop of La Seu d'Urgell. The pareage, a feudal institution recognizing the principle of equality of rights shared by two rulers, gave the small state its territory and political form. In return, Andorra pays an annual tribute or questia to the co-rulers consisting of four hams, forty loaves of bread, and some wine</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_ANDORRA_TEXT_6">
+
+
+			<Text>In 1419 the people of Andorra petitioned the co-rulers for permission to establish a local parliament, which would consider local issues. This was granted, and the Council Of The Land was established. The members of the Council were elected by the "heads of household", which in practice meant males over the age of 25. There were four representatives from each of the six parishes, resulting in a membership of twenty-four.</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_ANDORRA_TEXT_7">
+
+
+			<Text>
+				In 1793, the French revolutionary government refused the traditional Andorran tribute as smacking of feudalism and renounced its suzerainty, despite the wish of the Andorrans to enjoy French protection and avoid being under exclusively Spanish influence. Andorra remained neutral during the Napoleonic Wars. Napoleon restored the co-principality in 1806 after the Andorrans petitioned him to do so. French title to the principality subsequently passed from the kings to the president of France.</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_ANDORRA_TEXT_8">
+
+
+			<Text>
+				In 1933 several disaffected Andorrans, some in high positions in the government, sponsored the attempt of Boris de Skossyreff (himself a Russian) to proclaim himself King Boris I of Andorra. Several days later "King Boris" was removed by several guardsmen of the Bishop of Urgell, but the resultant turmoil culminated in the nation's judicial authority, the Tribunal de Corts, firing the members of the Council Of The Land. In order to prevent the total dissolution of law and order, the French government sent squads of gendarmes to keep domestic order. Within a short time, the Andorrans held elections, re-established the Council Of The Land, with all men over the age of twenty-four being allowed to vote, and all men over thirty allowed to hold office.</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_ANDORRA_TEXT_9">
+
+
+			<Text>Long an impoverished land having little contact with any nations other than adjoining France and Spain, Andorra after World War II achieved considerable prosperity through a developing tourist industry. This development, abetted by improvements in transport and communications, has tended to break down Andorra’s isolation and to bring Andorrans into the mainstream of European history. Public demands for democratic reforms led to the extension of the franchise to women in the 1970s and to the creation of new and more fully autonomous organs of government in the early 1980s.</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_ANDORRA_TITLE">
+
+			<Text>Andorra</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV_ANDORRA_SHORT_DESC">
+
+			<Text>Andorra</Text>
+
+			<Gender>neuter:an</Gender>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV_ANDORRA_ADJECTIVE">
+
+			<Text>Andorran</Text>
+
+			<Gender>neuter:an</Gender>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_DAWN_ANDORRA_TEXT">
+
+			<Text>Greetings Roger Bernard III, warrior, diplomat and skilled troubadour. You rule the people of Andorra, a tiny principality that lies in the steep valleys of the Pyrenees. Your people, though small in number have persisted throughout the centuries to become the nation they are today.[NEWLINE][NEWLINE]Andorra was created by Charlemagne as one of the Marca Hispanica when he gifted a charter to the Andorran people. In return for fighting the moors, Andorra was given sovereignty. However it was only in 1278, when you, Roger Bernard ended decades of conflict between your family and the bishop of Urgell by signing the Pariage, a legal document and constitution from which Andorra owes its hundreds of years of stability to that still forms the framework for the Andorran Diarchy today.[NEWLINE][NEWLINE]Roger Bernard, the time has come again for you to offer leadership to Andorra. Today, the nation is thriving, with its many ski resorts and high standards of living, however if the nation is to truly prosper, you must safe guard it and spread its culture far and wide! Will you create a new nation, one that is free from foreign incursions? Can you build a civilization to stand the test of time?</Text>
+		
+		
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_ANDORRA_0">
+
+			<Text>Andorra La Vella</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_ANDORRA_1">
+
+			<Text>Escaldes</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_ANDORRA_2">
+
+			<Text>Engordany</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_ANDORRA_3">
+
+			<Text>Encamp</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_ANDORRA_4">
+
+			<Text>Julia de Loria</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_ANDORRA_5">
+
+			<Text>La Massana</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_ANDORRA_6">
+
+			<Text>Santa Coloma</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_ANDORRA_7">
+
+			<Text>Ordino</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_ANDORRA_8">
+
+			<Text>El Pas de la Casa</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_ANDORRA_9">
+
+			<Text>Canillo</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_ANDORRA_10">
+
+			<Text>Arsinal</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_ANDORRA_11">
+
+			<Text>Les bons</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_ANDORRA_12">
+
+			<Text>El Tarter</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_ANDORRA_13">
+
+			<Text>Sispony</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_ANDORRA_14">
+
+			<Text>Vila</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_ANDORRA_15">
+
+			<Text>Soldeu</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_ANDORRA_16">
+
+			<Text>Incles</Text>
+
+		</Row>
+
+
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_ANDORRA_0">
+
+			<Text>Sebastian</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_ANDORRA_1">
+
+			<Text>Felip</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_ANDORRA_2">
+
+			<Text>Nicolau</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_ANDORRA_3">
+
+			<Text>Roderic</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_ANDORRA_4">
+
+			<Text>Victor</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_ANDORRA_5">
+
+			<Text>Andreu</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_ANDORRA_6">
+
+			<Text>Sofia</Text>
+
+			<Gender>feminine</Gender>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_ANDORRA_7">
+
+			<Text>Francesca</Text>
+
+			<Gender>feminine</Gender>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_ANDORRA_8">
+
+			<Text>Julia</Text>
+
+			<Gender>feminine</Gender>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_ANDORRA_9">
+
+			<Text>Mariona</Text>
+
+			<Gender>feminine</Gender>
+
+		</Row>
+
+	</Language_en_US>
+
+</GameData>
