@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/9/2014 9:40:48 AM -->
+<GameData>
+	<Leaders>
+		<Row>
+			<Type>LEADER_BLACKFOOTCROWFOOT</Type>
+			<Description>TXT_KEY_LEADER_BLACKFOOTCROWFOOT</Description>
+			<Civilopedia>TXT_KEY_LEADER_BLACKFOOTCROWFOOT_PEDIA</Civilopedia>
+			<CivilopediaTag>TXT_KEY_CIVILOPEDIA_LEADERS_BLACKFOOTCROWFOOT</CivilopediaTag>
+			<ArtDefineTag>BlackfootCrowfoot_Scene.xml</ArtDefineTag>
+			<VictoryCompetitiveness>8</VictoryCompetitiveness>
+			<WonderCompetitiveness>4</WonderCompetitiveness>
+			<MinorCivCompetitiveness>4</MinorCivCompetitiveness>
+			<Boldness>8</Boldness>
+			<DiploBalance>7</DiploBalance>
+			<WarmongerHate>7</WarmongerHate>
+			<WorkAgainstWillingness>6</WorkAgainstWillingness>
+			<WorkWithWillingness>6</WorkWithWillingness>
+			<DenounceWillingness>7</DenounceWillingness>
+			<DoFWillingness>7</DoFWillingness>
+			<Loyalty>7</Loyalty>
+			<Neediness>6</Neediness>
+			<Forgiveness>7</Forgiveness>
+			<Chattiness>5</Chattiness>
+			<Meanness>3</Meanness>
+			<PortraitIndex>1</PortraitIndex>
+			<!-- Not right-->
+			<IconAtlas>BLACKFOOTFIRSTNATION_ATLAS</IconAtlas>
+			<PackageID/>
+		</Row>
+	</Leaders>
+	<Leader_MajorCivApproachBiases>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_WAR</MajorCivApproachType>
+			<Bias>3</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_HOSTILE</MajorCivApproachType>
+			<Bias>4</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_DECEPTIVE</MajorCivApproachType>
+			<Bias>2</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_GUARDED</MajorCivApproachType>
+			<Bias>8</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_AFRAID</MajorCivApproachType>
+			<Bias>2</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_FRIENDLY</MajorCivApproachType>
+			<Bias>8</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_NEUTRAL</MajorCivApproachType>
+			<Bias>4</Bias>
+		</Row>
+	</Leader_MajorCivApproachBiases>
+	<Leader_MinorCivApproachBiases>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_IGNORE</MinorCivApproachType>
+			<Bias>2</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_FRIENDLY</MinorCivApproachType>
+			<Bias>7</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_PROTECTIVE</MinorCivApproachType>
+			<Bias>4</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_CONQUEST</MinorCivApproachType>
+			<Bias>7</Bias>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<MinorCivApproachType>MINOR_CIV_APPROACH_BULLY</MinorCivApproachType>
+			<Bias>3</Bias>
+		</Row>
+	</Leader_MinorCivApproachBiases>
+	<Leader_Flavors>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>9</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>9</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+			<Flavor>9</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<FlavorType>FLAVOR_RECON</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<FlavorType>FLAVOR_RANGED</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<FlavorType>FLAVOR_MOBILE</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_RECON</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_GROWTH</FlavorType>
+			<Flavor>1</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<FlavorType>FLAVOR_NAVAL_TILE_IMPROVEMENT</FlavorType>
+			<Flavor>1</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<FlavorType>FLAVOR_AIR</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<FlavorType>FLAVOR_TILE_IMPROVEMENT</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<FlavorType>FLAVOR_INFRASTRUCTURE</FlavorType>
+			<Flavor>9</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>2</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<FlavorType>FLAVOR_DIPLOMACY</FlavorType>
+			<Flavor>9</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<FlavorType>FLAVOR_SPACESHIP</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<FlavorType>FLAVOR_WATER_CONNECTION</FlavorType>
+			<Flavor>1</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<FlavorType>FLAVOR_NUKE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<FlavorType>FLAVOR_USE_NUKE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<FlavorType>FLAVOR_ESPIONAGE</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<FlavorType>FLAVOR_ANTIAIR</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<FlavorType>FLAVOR_AIR_CARRIER</FlavorType>
+			<Flavor>1</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<FlavorType>FLAVOR_ARCHAEOLOGY</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<FlavorType>FLAVOR_I_LAND_TRADE_ROUTE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<FlavorType>FLAVOR_I_SEA_TRADE_ROUTE</FlavorType>
+			<Flavor>1</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<FlavorType>FLAVOR_I_TRADE_ORIGIN</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<FlavorType>FLAVOR_I_TRADE_DESTINATION</FlavorType>
+			<Flavor>3</Flavor>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<FlavorType>FLAVOR_AIRLIFT</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+	</Leader_Flavors>
+	<Leader_Traits>
+		<Row>
+			<LeaderType>LEADER_BLACKFOOTCROWFOOT</LeaderType>
+			<TraitType>TRAIT_BLACKFOOTSACREDWATERS</TraitType>
+		</Row>
+	</Leader_Traits>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_BLACKFOOTCROWFOOT">
+			<Text>Crowfoot</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BLACKFOOTCROWFOOT_PEDIA">
+			<Text>Crowfoot was an influential Blackfoot chief at the time of the foundation of Canada. Crowfoot brought lasting peace between the Blackfoot and Cree, who had always been bitter enemies, and allowed the Canadians to build a major railway through Blackfoot lands, a railway that would span across all of Canada.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BLACKFOOTCROWFOOT_NAME">
+			<Text>Crowfoot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BLACKFOOTCROWFOOT_SUBTITLE">
+			<Text>Blackfoot Peace Chief</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BLACKFOOTCROWFOOT_HEADING_1">
+			<Text>Early Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BLACKFOOTCROWFOOT_HEADING_2">
+			<Text>Poundmaker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BLACKFOOTCROWFOOT_HEADING_3">
+			<Text>War with Canada?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BLACKFOOTCROWFOOT_HEADING_4">
+			<Text>The Canadian Pacific Railway</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BLACKFOOTCROWFOOT_HEADING_5">
+			<Text>Death</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BLACKFOOTCROWFOOT_TEXT_1">
+			<Text>Crowfoot was born to the Káínaa, members of the Blackfoot Confederacy. After his father was kiled in an enemy raid, his mother remarried and moved her young son to the Siksikáwa, another member band of the Blackfoot. There, he would survive many battles and injuries, becoming a decorated warrior and possibly even war chief, although he was best known for his role as Blackfoot Peace Chief.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BLACKFOOTCROWFOOT_TEXT_2">
+			<Text>As Peace Chief, one of Crowfoot's first and greatest acts was to adopt a Cree boy as his own son. The Cree had always been enemies of the Blackfoot, but by raising a Cree as his own, Crowfoot hoped to bridge the gap between the two nations. And bridge the gap he did: this son, Poundmaker, grew up to be Peace Chief of the Cree and the two forged lasting peace between the rival nations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BLACKFOOTCROWFOOT_TEXT_3">
+			<Text>During Crowfoot's tenure as Peace Chief, the Lakota people who were allies of the Blackfoot declared war on Canada. They came to Crowfoot to ask him for aid in their war. Crowfoot refused, cutting ties with the Lakota and banishing them from Blackfoot lands. For this, he was heralded as a hero by Canadians and the English alike. But Crowfoot didn't stop there. As the Lakota war began to wind down, Crowfoot worked as a diplomat, helping to work peace out between the Lakota, Canada, and the Blackfoot.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BLACKFOOTCROWFOOT_TEXT_4">
+			<Text>Canada, as you should know, is very large. With a lack of true infrastructure, such a nation could not survive. John A. MacDonald, first Prime Minister of Canada, planned to unite the country with a huge railway stretching from the east to the west. The problem was, this railway needed to run straight through Blackfoot lands. Crowfoot graciously allowed MacDonald to run the railway through his lands. For this, he was given a lifetime of free tickets to ride, allowing him to go down to Ottawa whenever he needed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BLACKFOOTCROWFOOT_TEXT_5">
+			<Text>Crowfoot exercised his right to railway travel on several occaisions, but the travel was always hard on his health. When his son Poundmaker was imprisoned on counts of treason (Poundmaker chose to accept charges on behalf of certain members of his people rather than risk war with Canada,) Crowfoot traveled to Ottawa to ask for his pardon. Unfortunately, Crowfoot succumbed to tuberculosis before he had a chance to meet with the Prime Minister, and had to return home, where he died.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BLACKFOOTCROWFOOT_FACTOID_HEADING">
+			<Text>Lester B. Pearson Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BLACKFOOTCROWFOOT_FACTOID_TEXT">
+			<Text>The current Canadian flag (the one with the maple leaf and the two red stripes at the side and the white stripe down the middle) was designed by Lester B. Pearson as part of his policies, and was later implemented while he was in government.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BLACKFOOTCROWFOOT_TITLES_1">
+			<Text>Chief</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BLACKFOOTCROWFOOT_LIVED">
+			<Text>1820s - 1890</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

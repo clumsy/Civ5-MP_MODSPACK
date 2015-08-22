@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/27/2014 2:02:53 PM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_BLACKFOOTSACREDWATERS</Type>
+			<Description>TXT_KEY_TRAIT_BLACKFOOTSACREDWATERS</Description>
+			<ShortDescription>TXT_KEY_TRAIT_BLACKFOOTSACREDWATERS_SHORT</ShortDescription>
+		</Row>
+	</Traits>
+	<Trait_FreePromotionUnitCombats>
+		<Row>
+			<TraitType>TRAIT_BLACKFOOTSACREDWATERS</TraitType>
+			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+			<PromotionType>PROMOTION_COUNTSCOUP1</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_BLACKFOOTSACREDWATERS</TraitType>
+			<UnitCombatType>UNITCOMBAT_RECON</UnitCombatType>
+			<PromotionType>PROMOTION_COUNTSCOUP1</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_BLACKFOOTSACREDWATERS</TraitType>
+			<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
+			<PromotionType>PROMOTION_COUNTSCOUP1</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_BLACKFOOTSACREDWATERS</TraitType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+			<PromotionType>PROMOTION_COUNTSCOUP1</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_BLACKFOOTSACREDWATERS</TraitType>
+			<UnitCombatType>UNITCOMBAT_GUN</UnitCombatType>
+			<PromotionType>PROMOTION_COUNTSCOUP1</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_BLACKFOOTSACREDWATERS</TraitType>
+			<UnitCombatType>UNITCOMBAT_ARMOR</UnitCombatType>
+			<PromotionType>PROMOTION_COUNTSCOUP1</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_BLACKFOOTSACREDWATERS</TraitType>
+			<UnitCombatType>UNITCOMBAT_HELICOPTER</UnitCombatType>
+			<PromotionType>PROMOTION_COUNTSCOUP1</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_BLACKFOOTSACREDWATERS</TraitType>
+			<UnitCombatType>UNITCOMBAT_NAVALRANGED</UnitCombatType>
+			<PromotionType>PROMOTION_COUNTSCOUP1</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_BLACKFOOTSACREDWATERS</TraitType>
+			<UnitCombatType>UNITCOMBAT_NAVALMELEE</UnitCombatType>
+			<PromotionType>PROMOTION_COUNTSCOUP1</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_BLACKFOOTSACREDWATERS</TraitType>
+			<UnitCombatType>UNITCOMBAT_SUBMARINE</UnitCombatType>
+			<PromotionType>PROMOTION_COUNTSCOUP1</PromotionType>
+		</Row>
+	</Trait_FreePromotionUnitCombats>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_TRAIT_BLACKFOOTSACREDWATERS">
+			<Text>
+				Your combat units gain experience whenever they begin a turn next to a hostile non-Barbarian unit, or on a tile containing [ICON_RES_BISON] Bison. All units that begin their turns on [ICON_RES_BISON] Bison in Blackfoot lands receive attrition damage.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_BLACKFOOTSACREDWATERS_SHORT">
+			<Text>Counting Coup</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

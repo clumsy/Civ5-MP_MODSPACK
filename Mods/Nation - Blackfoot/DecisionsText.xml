@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/29/2014 8:39:45 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag ="TXT_KEY_DECISIONS_BLACKFOOTFIRSTNATION_HONORWARRIORSOCIETY_NAME">
+			<Text>Honor the Warrior Society</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_DECISIONS_BLACKFOOTFIRSTNATION_HONORWARRIORSOCIETY_DESC">
+			<Text>
+				The Warrior Society was one of several societies, or guilds, that an adult male Blackfoot could belong to. The Warrior Society placed emphasis on bravery, cunning, combat, and generally being a badass. Lead your people in elevating the Warrior Society as leaders of your people.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Blackfoot
+				[NEWLINE][ICON_BULLET]Must have researched Guilds
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Whenever one of your units is promoted, gain a small amount of [ICON_CULTURE] Culture and [ICON_GOLDEN_AGE] Golden Age points.
+				[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: The amount you receive increases as the unit increases in level.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_DECISIONS_BLACKFOOTFIRSTNATION_HONORWARRIORSOCIETY_ADOPTED">
+			<Text>
+				The Warrior Society was one of several societies, or guilds, that an adult male Blackfoot could belong to. The Warrior Society placed emphasis on bravery, cunning, combat, and generally being a badass. Lead your people in elevating the Warrior Society as leaders of your people.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Whenever one of your units is promoted, gain a small amount of [ICON_CULTURE] Culture and [ICON_GOLDEN_AGE] Golden Age points.
+				[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: The amount you receive increases as the unit increases in level.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_DECISIONS_BLACKFOOTFIRSTNATION_HONORWARRIORSOCIETY_NOTIFICATION">
+			<Text>Stories of your {1_Unit}'s brave deeds have generated {2_Culture} Culture and {3_Golden} Golden Age points for your people.</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_DECISIONS_BLACKFOOTFIRSTNATION_PRESERVEBUFFALO_NAME">
+			<Text>Preserve the Buffalo</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_DECISIONS_BLACKFOOTFIRSTNATION_PRESERVEBUFFALO_DESC">
+			<Text>
+				The Buffalo are an integral part of our lives. As our populations soar and as others encroach upon our lands, the Buffalo numbers may not be able to keep up. If we lose the Buffalo, we will be crippled as a people. Let us work to preserve these great beasts.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Blackfoot
+				[NEWLINE][ICON_BULLET]Player must have [ICON_RES_BISON] Bison
+				[NEWLINE][ICON_BULLET]Player's total population must overshadow the population of [ICON_RES_BISON] Bison
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET][ICON_RES_BISON] No longer provide bonus [ICON_FOOD] food, but provide +2 [ICON_HAPPINESS_1] Happiness and provide [ICON_CULTURE] Culture if improved.
+			</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_DECISIONS_BLACKFOOTFIRSTNATION_PRESERVEBUFFALO_ADOPTED">
+			<Text>
+				The Buffalo are an integral part of our lives. As our populations soar and as others encroach upon our lands, the Buffalo numbers may not be able to keep up. If we lose the Buffalo, we will be crippled as a people. Let us work to preserve these great beasts.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET][ICON_RES_BISON] Bison no longer provide bonus [ICON_FOOD] food, but provide +2 [ICON_HAPPINESS_1] Happiness and provide [ICON_CULTURE] Culture if improved.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

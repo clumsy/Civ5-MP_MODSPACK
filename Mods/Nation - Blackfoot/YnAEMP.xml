@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/25/2014 7:54:11 AM -->
+<GameData>
+	<Civilizations_YagemStartPosition>
+		<Row>
+			<Type>CIVILIZATION_BLACKFOOTFIRSTNATION</Type>
+			<X>134</X>
+			<Y>74</Y>
+		</Row>
+	</Civilizations_YagemStartPosition>
+	<!-- +++++++++++++++++++++++++++++ -->
+	<!-- Earth Huge map start position -->
+	<!-- +++++++++++++++++++++++++++++ -->
+	<Civilizations_YahemStartPosition>
+		<Row>
+			<Type>CIVILIZATION_BLACKFOOTFIRSTNATION</Type>
+			<X>17</X>
+			<Y>62</Y>
+		</Row>
+	</Civilizations_YahemStartPosition>
+	<!-- ++++++++++++++++++++++++++++++++++ -->
+	<!-- Earth Cordiform map start position -->
+	<!-- ++++++++++++++++++++++++++++++++++ -->
+	<Civilizations_CordiformStartPosition>
+		<Row>
+			<Type>CIVILIZATION_BLACKFOOTFIRSTNATION</Type>
+			<X>13</X>
+			<Y>40</Y>
+		</Row>
+	</Civilizations_CordiformStartPosition>
+</GameData>

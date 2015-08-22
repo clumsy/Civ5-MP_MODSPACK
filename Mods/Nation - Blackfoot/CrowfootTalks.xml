@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/9/2014 9:56:06 AM -->
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_BLACKFOOTCROWFOOT">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_BLACKFOOTCROWFOOT_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_BLACKFOOTCROWFOOT">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_BLACKFOOTCROWFOOT_DEFEATED%</Response>
+		</Row>
+		<Row LeaderType="LEADER_BLACKFOOTCROWFOOT">
+			<ResponseType>RESPONSE_GREETING_POLITE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_BLACKFOOTCROWFOOT_POLITE_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_BLACKFOOTCROWFOOT">
+			<ResponseType>RESPONSE_GREETING_NEUTRAL_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_BLACKFOOTCROWFOOT_NEUTRAL_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_BLACKFOOTCROWFOOT">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_BLACKFOOTCROWFOOT_HOSTILE_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_BLACKFOOTCROWFOOT">
+			<ResponseType>RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING</ResponseType>
+			<Response>TXT_KEY_BLACKFOOTCROWFOOT_HOSTILE_AGGRESSIVE_MILITARY_WARNING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_BLACKFOOTCROWFOOT">
+			<ResponseType>RESPONSE_EXPANSION_SERIOUS_WARNING</ResponseType>
+			<Response>TXT_KEY_BLACKFOOTCROWFOOT_EXPANSION_SERIOUS_WARNING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_BLACKFOOTCROWFOOT">
+			<ResponseType>RESPONSE_REQUEST</ResponseType>
+			<Response>TXT_KEY_LEADER_BLACKFOOTCROWFOOT_RESPONSE_REQUEST%</Response>
+		</Row>
+		<Row LeaderType="LEADER_BLACKFOOTCROWFOOT">
+			<ResponseType>RESPONSE_LUXURY_TRADE</ResponseType>
+			<Response>TXT_KEY_LEADER_BLACKFOOTCROWFOOT_RESPONSE_LUXURY_TRADE%</Response>
+		</Row>
+		<Row LeaderType="LEADER_BLACKFOOTCROWFOOT">
+			<ResponseType>RESPONSE_OPEN_BORDERS_EXCHANGE</ResponseType>
+			<Response>TXT_KEY_LEADER_BLACKFOOTCROWFOOT_OPEN_BORDERS_EXCHANGE%</Response>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<!--General phrases -->
+		<!--Greeting (first time meeting) -->
+		<Row Tag="TXT_KEY_LEADER_BLACKFOOTCROWFOOT_FIRSTGREETING_1">
+			<Text>Out from nowhere rides a stranger. What will come of this, nobody can say.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BLACKFOOTCROWFOOT_FIRSTGREETING_2">
+			<Text>I am very pleased to have come here, to this place, and to have met you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BLACKFOOTCROWFOOT_FIRSTGREETING_3">
+			<Text>Hello. I am very happy that we have all gathered here, in this place. I, Chief Crowfoot, am a lover of peace. But know this: we Blackfoot are fierce enemies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BLACKFOOTCROWFOOT_DEFEATED_1">
+			<Text>Even the fiercest of warriors cannot always win.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BLACKFOOTCROWFOOT_DEFEATED_2">
+			<Text>At least the land will know peace again. Such cannot be said for us, however.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BLACKFOOTCROWFOOT_DEFEATED_3">
+			<Text>What is life? It is the flash of a firefly in the night. It is the breath of a buffalo in the wintertime. It is the little shadow which runs across the grass and loses itself in the sunset.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BLACKFOOTCROWFOOT_POLITE_HELLO_1">
+			<Text>It is good that we have all come together again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BLACKFOOTCROWFOOT_POLITE_HELLO_2">
+			<Text>Hello. How is everything at your end of the world?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BLACKFOOTCROWFOOT_POLITE_HELLO_3">
+			<Text>Very good to see you again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BLACKFOOTCROWFOOT_NEUTRAL_HELLO_1">
+			<Text>A pleasant morning to you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BLACKFOOTCROWFOOT_NEUTRAL_HELLO_2">
+			<Text>It is good to be here.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BLACKFOOTCROWFOOT_NEUTRAL_HELLO_3">
+			<Text>You?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BLACKFOOTCROWFOOT_HOSTILE_HELLO_1">
+			<Text>Not good.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BLACKFOOTCROWFOOT_HOSTILE_HELLO_2">
+			<Text>We should pursue peace together, instead of the path of war that you seem so fixed upon.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BLACKFOOTCROWFOOT_HOSTILE_HELLO_3">
+			<Text>Have you come to seek peace? I warn you, we are very accomplished on the battlefield.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BLACKFOOTCROWFOOT_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Our people are very brave. My warriors have enjoyed the fact that your army is sitting on our borders, since they have gained much honor and pride by pranking and playing with them. But if they don't leave, eventually someone is going to get killed. And, since the Blackfoot are such great combatants, it will probably be your men. Withdraw immediately, so that we can have peace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BLACKFOOTCROWFOOT_EXPANSION_SERIOUS_WARNING_1">
+			<Text>The Blackfoot do their best to live in harmony with our land. But how can we if you keep taking it all and exploiting it? This is not the path to peace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BLACKFOOTCROWFOOT_REQUEST_1">
+			<Text>I am very happy about this request.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BLACKFOOTCROWFOOT_LUXURY_TRADE_1">
+			<Text>This is almost perfect!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BLACKFOOTCROWFOOT_OPEN_BORDERS_EXCHANGE_1">
+			<Text>It would be very beneficial to open our lands to each other. We would love a greater world to explore and gain honor in, while you could, maybe, do something with our land. Have you ever thought of massive railways?</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

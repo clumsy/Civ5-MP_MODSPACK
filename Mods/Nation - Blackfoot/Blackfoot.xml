@@ -1,0 +1,507 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/7/2014 9:02:11 PM -->
+<GameData>
+	<Civilizations>
+		<Row>
+			<Type>CIVILIZATION_BLACKFOOTFIRSTNATION</Type>
+			<Description>TXT_KEY_CIV_BLACKFOOTFIRSTNATION_DESC</Description>
+			<Civilopedia/>
+			<CivilopediaTag>TXT_KEY_CIV5_BLACKFOOTFIRSTNATION</CivilopediaTag>
+			<Strategy/>
+			<Playable>1</Playable>
+			<AIPlayable>1</AIPlayable>
+			<ShortDescription>TXT_KEY_CIV_BLACKFOOTFIRSTNATION_SHORT_DESC</ShortDescription>
+			<Adjective>TXT_KEY_CIV_BLACKFOOTFIRSTNATION_ADJECTIVE</Adjective>
+			<DefaultPlayerColor>PLAYERCOLOR_BLACKFOOTFIRSTNATION</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_IROQUOIS</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_SOUTH_AMERICA</ArtStyleType>
+			<ArtStyleSuffix>_AMER</ArtStyleSuffix>
+			<ArtStylePrefix>AMERICAN </ArtStylePrefix>
+			<DerivativeCiv/>
+			<PortraitIndex>0</PortraitIndex>
+			<!--not really -->
+			<IconAtlas>BLACKFOOTFIRSTNATION_ATLAS</IconAtlas>
+			<AlphaIconAtlas>BLACKFOOTFIRSTNATION_ALPHA</AlphaIconAtlas>
+			<MapImage>BlackfootMap.dds</MapImage>
+			<DawnOfManQuote>TXT_KEY_CIV5_DAWN_BLACKFOOTFIRSTNATION_TEXT</DawnOfManQuote>
+			<DawnOfManImage>CrowfootDOM.dds</DawnOfManImage>
+			<DawnOfManAudio>AS2D_DOM_SPEECH_BLACKFOOTFIRSTNATION</DawnOfManAudio>
+			<SoundtrackTag>IROQUOIS</SoundtrackTag>
+				<!-- Will change? -->
+			<PackageID/>
+			<!-- Will change?-->
+		</Row>
+	</Civilizations>
+	<Civilization_CityNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_BLACKFOOTFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_0</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BLACKFOOTFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_1</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BLACKFOOTFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_2</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BLACKFOOTFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_3</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BLACKFOOTFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_4</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BLACKFOOTFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_5</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BLACKFOOTFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_6</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BLACKFOOTFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_7</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BLACKFOOTFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_8</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BLACKFOOTFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_9</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BLACKFOOTFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_10</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BLACKFOOTFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_11</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BLACKFOOTFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_12</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BLACKFOOTFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_13</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BLACKFOOTFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_14</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BLACKFOOTFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_15</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BLACKFOOTFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_16</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BLACKFOOTFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_17</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BLACKFOOTFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_18</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BLACKFOOTFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_19</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BLACKFOOTFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_20</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BLACKFOOTFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_21</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BLACKFOOTFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_22</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BLACKFOOTFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_23</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BLACKFOOTFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_24</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BLACKFOOTFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_25</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BLACKFOOTFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_26</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BLACKFOOTFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_27</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BLACKFOOTFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_28</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BLACKFOOTFIRSTNATION</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_29</CityName>
+		</Row>
+	</Civilization_CityNames>
+	<!-- Civilization_DisableTechs -->
+	<Civilization_FreeBuildingClasses>
+		<Row>
+			<CivilizationType>CIVILIZATION_BLACKFOOTFIRSTNATION</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+		</Row>
+	</Civilization_FreeBuildingClasses>
+	<Civilization_FreeTechs>
+		<Row>
+			<CivilizationType>CIVILIZATION_BLACKFOOTFIRSTNATION</CivilizationType>
+			<TechType>TECH_AGRICULTURE</TechType>
+		</Row>
+	</Civilization_FreeTechs>
+	<Civilization_FreeUnits>
+		<Row>
+			<CivilizationType>CIVILIZATION_BLACKFOOTFIRSTNATION</CivilizationType>
+			<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+			<UnitAIType>UNITAI_SETTLE</UnitAIType>
+			<Count>1</Count>
+		</Row>
+	</Civilization_FreeUnits>
+	<Civilization_Leaders>
+		<Row>
+			<CivilizationType>CIVILIZATION_BLACKFOOTFIRSTNATION</CivilizationType>
+			<LeaderheadType>LEADER_BLACKFOOTCROWFOOT</LeaderheadType>
+		</Row>
+	</Civilization_Leaders>
+	<Civilization_Religions>
+		<Row>
+			<CivilizationType>CIVILIZATION_BLACKFOOTFIRSTNATION</CivilizationType>
+			<ReligionType>RELIGION_CHRISTIANITY</ReligionType>
+		</Row>
+	</Civilization_Religions>
+	<Civilization_SpyNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_BLACKFOOTFIRSTNATION</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_BLACKFOOTFIRSTNATION_0</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BLACKFOOTFIRSTNATION</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_BLACKFOOTFIRSTNATION_1</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BLACKFOOTFIRSTNATION</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_BLACKFOOTFIRSTNATION_2</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BLACKFOOTFIRSTNATION</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_BLACKFOOTFIRSTNATION_3</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BLACKFOOTFIRSTNATION</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_BLACKFOOTFIRSTNATION_4</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BLACKFOOTFIRSTNATION</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_BLACKFOOTFIRSTNATION_5</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BLACKFOOTFIRSTNATION</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_BLACKFOOTFIRSTNATION_6</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BLACKFOOTFIRSTNATION</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_BLACKFOOTFIRSTNATION_7</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BLACKFOOTFIRSTNATION</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_BLACKFOOTFIRSTNATION_8</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BLACKFOOTFIRSTNATION</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_BLACKFOOTFIRSTNATION_9</SpyName>
+		</Row>
+	</Civilization_SpyNames>
+	<Civilization_BuildingClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_BLACKFOOTFIRSTNATION</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_SHRINE</BuildingClassType>
+			<BuildingType>BUILDING_WATERSHRINE</BuildingType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BLACKFOOTFIRSTNATION</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_WATERMILL</BuildingClassType>
+			<BuildingType>BUILDING_BUFFALOPOUND</BuildingType>
+		</Row>
+	</Civilization_BuildingClassOverrides>
+	<Civilization_Start_Region_Priority>
+		<Row>
+			<CivilizationType>CIVILIZATION_BLACKFOOTFIRSTNATION</CivilizationType>
+			<RegionType>REGION_PLAINS</RegionType>
+		</Row>
+	</Civilization_Start_Region_Priority>
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_BLACKFOOTFIRSTNATION</Type>
+			<PrimaryColor>COLOR_PLAYER_BLACKFOOTFIRSTNATION_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_BLACKFOOTFIRSTNATION_BACKGROUND</SecondaryColor>
+			<TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_BLACKFOOTFIRSTNATION_ICON</Type>
+			<Red>1.000</Red>
+			<Green>0.796</Green>
+			<Blue>0.494</Blue>
+			<Alpha>1.0</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_BLACKFOOTFIRSTNATION_BACKGROUND</Type>
+			<Red>0.0</Red>
+			<Green>0.196</Green>
+			<Blue>0.333</Blue>
+			<Alpha>1.0</Alpha>
+		</Row>
+	</Colors>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_BLACKFOOTFIRSTNATION_DESC">
+			<Text>The Blackfoot</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BLACKFOOTFIRSTNATION_FACTOID_HEADING">
+			<Text>Blackfoot Factoid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BLACKFOOTFIRSTNATION_FACTOID_TEXT">
+			<Text> Historically, the Blackfoot have avoided anything found under bodies of water. This was because the Blackfoot believed in a race of "underwater people" who were spirits. Entering water could be interpreted as invading the water peoples' land, which would bring an end to the water peoples' friendship, which the Blackfoot saw as a source of magic and blessings.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BLACKFOOTFIRSTNATION_HEADING_1">
+			<Text>Before Colonization</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BLACKFOOTFIRSTNATION_HEADING_2">
+			<Text>Their Lands</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BLACKFOOTFIRSTNATION_HEADING_3">
+			<Text>The Blackfoot Confederacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BLACKFOOTFIRSTNATION_HEADING_4">
+			<Text>The Buffalo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BLACKFOOTFIRSTNATION_HEADING_5">
+			<Text>Social Organization</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BLACKFOOTFIRSTNATION_HEADING_6">
+			<Text>War Chiefs and Counting Coup</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BLACKFOOTFIRSTNATION_HEADING_7">
+			<Text>Meeting the White Man</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BLACKFOOTFIRSTNATION_HEADING_8">
+			<Text>Relationship with Canada</Text>
+		</Row>
+		<Row tag="TXT_KEY_CIV5_BLACKFOOTFIRSTNATION_HEADING_9">
+			<text>Hard Times and Modern Days</text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BLACKFOOTFIRSTNATION_STATBOX">
+			<Text>[NEWLINE]        Leader: Crowfoot[NEWLINE]        Unique Building: Buffalo Pound[NEWLINE]        Unique Unit: Nato-oh Siskoom[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BLACKFOOTFIRSTNATION_TEXT_1">
+			<Text>Before the arrival of the white man, the Blackfoot lived a nomadic lifestyle on the plains of Canada and America, following the buffalo living off of their hunting and foraging chokecherries, skirmishing with other tribes to win honor and prestige, and avoiding the dangers of the Canadian winters.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BLACKFOOTFIRSTNATION_TEXT_2">
+			<Text>The Blackfoot lived on the unforgettable prairies of what is now Alberta in Canada and Montana in the United States. This vast, seemingly endless flatland has a huge horizon all around it. In the day, these lands are hot, but at night, and in winter, they become very cold. To strangers, it is a forboding land with no discernable features, but to those who knew it well, such as the Blackfoot, it was a land full of life and of promise, abundant with animals and wild fruits.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BLACKFOOTFIRSTNATION_TEXT_3">
+			<Text>The Blackfoot Confederacy is a collective name for a number of tribes of Plains Indians who shared a common language and kinship, as well as similar enemies. Bison hunters and trout fishermen, they banded together to share hunting and foraging territory and ultimately to protect it against encroaching enemies. They were the Piikáni, or "Blackfeet," the Káínaa, or "Bloods," meaning "bloodthirsty," and the Siksikáwa, or "Blackfoot."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BLACKFOOTFIRSTNATION_TEXT_4">
+			<Text>The Blackfoot depended upon the Buffalo to provide them with food, clothing, and tools. At one point, the Buffalo seemed an endless supply of food for valorous hunters, since hunting the Buffalo was no easy task. But the Blackfoot were the most valorous of prairie hunters, and devised several effective, if dangerous, methods to ensure success for the hunt. The Buffalo provided the Blackfoot with fresh meat, jerky, and pemmican. When the arrival of horses, guns, and multitudes of colonial immigrants substantially increased the demand for Buffalo, the animals were hunted to near extinction. Thankfully, careful conservation efforts have helped to repopulate Buffalo. In the meantime, however, the loss of Buffalo hunting was devestating on the Blackfoot way of life and on the Blackfoot themselves, many of which starved without access to Buffalo meat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BLACKFOOTFIRSTNATION_TEXT_5">
+			<Text>Like most other Plains Indian First Nations, the Blackfoot had elected chiefs. Unlike popular understandings of chiefdom, Blackfoot chiefs did not rule their people. Instead, they were elected representatives who served their people, more like employees of their bands than kings. In times of peace, the chiefs were Peace Chiefs. Their job, a dreadful responsibility, was to advise the band in order to prevent any war from breaking out. If the band fell into war, the Peace Chief would be forced to step down and let a War Chief take over.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BLACKFOOTFIRSTNATION_TEXT_6">
+			<Text>The War Chief was the most successful member of the Blackfoot Warrior Society. Success, however, was measured not in battles won or enemies killed. Such a War Chief would surely be bloodthirsty and lead to many losses on both sides of any war, something the Blackfoot would avoid at all costs. Instead, like all of the other Plains Indians, the Blackfoot treated cunning, stealth, and bravery as the highest success through a custom known a "Counting Coup." In this custom, a warrior wins great honor if he is able to touch a living enemy with his hands and then escape unharmed (or relatively so) to tell about it. Whenever a non-Blackfoot scored such a feat of bravery and agility, that warrior would put a feather in his hair. This lead to the Holywood custom of having such "chiefs" with many, many feathers in their head-dresses. These "chiefs" would not necessarily be chiefs at all, but instead mighty warriors. The Blackfoot do not count coup with feathers, however, instead choosing to count with strips of white and black clothing, beginning with iconic black moccasins.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BLACKFOOTFIRSTNATION_TEXT_7">
+			<Text>When the Blackfoot first met with the European Colonists, they understood the Europeans to be a powerful nation with great armies. So, in an attempt to impress the Europeans with their might, they sent their entire Warrior Society (all the Blackfoot who had counted coup at least once) to meet the colonists. The Europeans mistook the Warriors to be the Blackfoot leadership and gave them the name "Blackfoot" because each Warrior had black moccasins on: the first band used to count coup.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BLACKFOOTFIRSTNATION_TEXT_8">
+			<Text>The Blackfoot were well known for their warlike tendancies and for the tensions between themselves and white settlers. Despite this reputation, however, the Blackfoot traditionally refused to go to war either with the United States or with Canada. When the Lakota people, neighbors of the Blackfoot, declared war on Canada, they sent messengers to bring the Blackfoot into war alongside them. They were refused, rebuffed by the Blackfoot chief Crowfoot, who chased them from his lands. England and Canada were strongly impressed by Crowfoot's loyalty, and praised the Blackfoot openly in the streets of London and Ottawa.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BLACKFOOTFIRSTNATION_TEXT_9">
+			<Text>The Blackfoot did not fare well in the United States. Forced into reservations and faced with a dwindling supply of Buffalo, the Blackfoot often came into conflict with the American armies, resulting in skirmishes and even a major massacre of the Blackfoot people. In the 1870 and 1880s, the government changed the borders on the Blackfoot reservations without warning or discussion. By this point, the Blackfoot were dependant on government aid. In the 1880s, when this aid failed to arrive, many Blackfoot starved to death. Even worse, the governments of the United States and of Canada began campaigns to assimilate the Blackfoot into the Eurocentric white way of life. These campaigns banned traditional language, clothing, and ways of life as well as forcing children into boarding schools and forcing their families to own different properties. Although in modern days these campaigns have been dismantled, the massive cultural damage they dealt has major negative implications to this very day.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BLACKFOOTFIRSTNATION_TITLE">
+			<Text>Blackfoot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_BLACKFOOTFIRSTNATION_SHORT_DESC">
+			<Text>The Blackfoot</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_BLACKFOOTFIRSTNATION_ADJECTIVE">
+			<Text>Blackfoot</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_BLACKFOOTFIRSTNATION_TEXT">
+			<Text>
+				The sun shines fully upon you, Crowfoot, chief of the Blackfoot Confederacy! Born from within a time of bloodshed, you were a great warrior and gritty survivor, fighting more than a dozen great battles and overcoming many injuries. Yet you are most remembered for your contributions to the cause of peace. You adopted a son from amongst your enemies, nurturing him as your own so that he, Poundmaker, could bring about peace between his people, the Cree, and yours. You chose to let the Canadian Pacific Railway run through your territory, allowing the fledging nation of Canada to bind her many lands together into one. You worked tirelessly to bring about peace between all men before tragically succumbing to Tuberculosis.[NEWLINE][NEWLINE]Now, more than ever before, we look to you, Chief Crowfoot. In this strange land, we are surrounded on all sides by enemies. We call upon you for your wisdom and experience. Turn these enemies into friends, or defeat them in battle. Bind our nations together, or lead us in great exploits against the ones who oppose us. Forge, for us and for all who choose to join us, a civilization that can stand the test of time.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_0">
+			<Text>Siksikáwa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_1">
+			<Text>Káínaa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_2">
+			<Text>Aapátohsipikáni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_3">
+			<Text>Aamsskáápipikani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_4">
+			<Text>A'aninin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_5">
+			<Text>Tsúùtínà</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_6">
+			<Text>Ahahpitape</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_7">
+			<Text>Ahkaiyikokakinik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_8">
+			<Text>Kiyi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_9">
+			<Text>Sikutsipmaik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_10">
+			<Text>Sikopoksimaik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_11">
+			<Text>Tsiniksistsoyik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_12">
+			<Text>Ipoksimaik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_13">
+			<Text>Kutaiimik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_14">
+			<Text>Silkokitsimik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_15">
+			<Text>Nitawyik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_16">
+			<Text>Apikaivik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_17">
+			<Text>Miahwahpitsik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_18">
+			<Text>Nitakoskitsipupik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_19">
+			<Text>Nitikskik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_20">
+			<Text>Inuksik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_21">
+			<Text>Miawkinaiyik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_22">
+			<Text>Esksinaitupik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_23">
+			<Text>Inuksikahkopwaik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_24">
+			<Text>Kahmitaik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_25">
+			<Text>Kutaisotsiman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_26">
+			<Text>Nitotsiksisstanik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_27">
+			<Text>Motwainaik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_28">
+			<Text>Mokumik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BLACKFOOTFIRSTNATION_29">
+			<Text>Motahtosik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BLACKFOOTFIRSTNATION_0">
+			<Text>Naapi</Text>
+			<gender>masculine</gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BLACKFOOTFIRSTNATION_1">
+			<Text>Kipitaakii</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BLACKFOOTFIRSTNATION_2">
+			<Text>Iipisowaahs</Text>
+			<gender>masculine</gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BLACKFOOTFIRSTNATION_3">
+			<Text>Guy on a Buffalo</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BLACKFOOTFIRSTNATION_4">
+			<Text>Katoyis</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BLACKFOOTFIRSTNATION_5">
+			<Text>Pi'tamaka</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BLACKFOOTFIRSTNATION_6">
+			<Text>Hate Woman</Text>
+			<gender>feminine</gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BLACKFOOTFIRSTNATION_7">
+			<Text>Reevis</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BLACKFOOTFIRSTNATION_8">
+			<Text>Aatsista-Mahkan</Text>
+			<Gender>masculine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BLACKFOOTFIRSTNATION_9">
+			<Text>Big Snake</Text>
+			<Gender>masculine</Gender>
+		</Row>		
+		<!--<Row Tag="TXT_KEY_CITYSTATE_MONTEVIDEO">
+			<Text>Montevideo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MONTEVIDEO_ADJ">
+			<Text>Montevidean</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONTEVIDEO_TEXT">
+			<Text>Montevideo is the largest city, the capital, and the chief port of Uruguay.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_DUBAI">
+			<Text>Dubai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_DUBAI_ADJ">
+			<Text>Dubai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DUBAI_TEXT">
+			<Text>Dubai is a city in the United Arab Emirates, located within the emirate of the same name.</Text>
+		</Row>-->
+	</Language_en_US>
+</GameData>

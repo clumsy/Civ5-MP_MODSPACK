@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/8/2014 12:21:26 PM -->
+<GameData>
+	<Resources>
+		<Row>
+			<Type>RESOURCE_PRESERVEDBISON</Type>
+			<TechCityTrade>TECH_TRAPPING</TechCityTrade>
+			<Description>TXT_KEY_NEWWORLD_SCENARIO_RESOURCE_BISON</Description>
+			<Civilopedia>TXT_KEY_NEWWORLD_SCENARIO_CIV5_RESOURCE_BISON_TEXT</Civilopedia>
+			<ResourceClassType>RESOURCECLASS_BONUS</ResourceClassType>
+			<ArtDefineTag>ART_DEF_RESOURCE_BISON</ArtDefineTag>
+			<Happiness>4</Happiness>
+			<IconString>[ICON_RES_BISON]</IconString>
+			<PortraitIndex>1</PortraitIndex>
+			<IconAtlas>RESOURCE_ATLAS_DLC_07</IconAtlas>
+		</Row>
+	</Resources>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_COUNTSCOUP1</Type>
+			<Description>TXT_KEY_PROMOTION_COUNTSCOUP1</Description>
+			<Help>TXT_KEY_PROMOTION_COUNTSCOUP1_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>24</PortraitIndex>
+			<LostWithUpgrade>false</LostWithUpgrade>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PEDIA_PROMOTION_COUNTSCOUP1</PediaEntry>
+		</Row>
+		<!--<Row>
+			<Type>PROMOTION_COUNTSCOUP2</Type>
+			<Description>TXT_KEY_PROMOTION_COUNTSCOUP1</Description>
+			<Help>TXT_KEY_PROMOTION_COUNTSCOUP1_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>24</PortraitIndex>
+			<LostWithUpgrade>false</LostWithUpgrade>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PEDIA_PROMOTION_COUNTSCOUP1</PediaEntry>
+			<HasPostCombatPromotions>true</HasPostCombatPromotions>
+		</Row>
+		<Row>
+			<Type>PROMOTION_COUNTSCOUP3</Type>
+			<Description>TXT_KEY_PROMOTION_COUNTSCOUP1</Description>
+			<Help>TXT_KEY_PROMOTION_COUNTSCOUP1_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>24</PortraitIndex>
+			<LostWithUpgrade>false</LostWithUpgrade>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PEDIA_PROMOTION_COUNTSCOUP1</PediaEntry>
+			<HasPostCombatPromotions>true</HasPostCombatPromotions>
+		</Row>
+		<Row>
+			<Type>PROMOTION_COUNTSCOUP4</Type>
+			<Description>TXT_KEY_PROMOTION_COUNTSCOUP1</Description>
+			<Help>TXT_KEY_PROMOTION_COUNTSCOUP1_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>24</PortraitIndex>
+			<LostWithUpgrade>false</LostWithUpgrade>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PEDIA_PROMOTION_COUNTSCOUP1</PediaEntry>
+			<HasPostCombatPromotions>true</HasPostCombatPromotions>
+		</Row>
+		<Row>
+			<Type>PROMOTION_CHECKINGBRAVERY1</Type>
+			<Description>TXT_KEY_PROMOTION_CHECKINGBRAVERY1</Description>
+			<Help>TXT_KEY_PROMOTION_CHECKINGBRAVERY1_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>24</PortraitIndex>
+			<LostWithUpgrade>false</LostWithUpgrade>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PEDIA_PROMOTION_CHECKINGBRAVERY1</PediaEntry>
+		</Row>
+		<Row>
+			<Type>PROMOTION_CHECKINGBRAVERY2</Type>
+			<Description>TXT_KEY_PROMOTION_CHECKINGBRAVERY1</Description>
+			<Help>TXT_KEY_PROMOTION_CHECKINGBRAVERY2_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>24</PortraitIndex>
+			<LostWithUpgrade>false</LostWithUpgrade>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PEDIA_PROMOTION_CHECKINGBRAVERY1</PediaEntry>
+		</Row>
+		<Row>
+			<Type>PROMOTION_CHECKINGBRAVERY3</Type>
+			<Description>TXT_KEY_PROMOTION_CHECKINGBRAVERY1</Description>
+			<Help>TXT_KEY_PROMOTION_CHECKINGBRAVERY3_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>24</PortraitIndex>
+			<LostWithUpgrade>false</LostWithUpgrade>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PEDIA_PROMOTION_CHECKINGBRAVERY1</PediaEntry>
+		</Row>
+		<Row>
+			<Type>PROMOTION_CHECKINGBRAVERY4</Type>
+			<Description>TXT_KEY_PROMOTION_CHECKINGBRAVERY1</Description>
+			<Help>TXT_KEY_PROMOTION_CHECKINGBRAVERY4_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>24</PortraitIndex>
+			<LostWithUpgrade>false</LostWithUpgrade>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PEDIA_PROMOTION_CHECKINGBRAVERY1</PediaEntry>
+		</Row>
+		<Row>
+			<Type>PROMOTION_LEGENDARYBLACKFOOT</Type>
+			<Description>TXT_KEY_PROMOTION_LEGENDARYBLACKFOOT</Description>
+			<Help>TXT_KEY_PROMOTION_LEGENDARYBLACKFOOT_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>24</PortraitIndex>
+			<LostWithUpgrade>false</LostWithUpgrade>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_LEGENDARYBLACKFOOT</PediaEntry>
+		</Row>-->
+	</UnitPromotions>
+	<!--<UnitPromotions_PostCombatRandomPromotion>
+		<Row>
+			<PromotionType>PROMOTION_COUNTSCOUP1</PromotionType>
+			<NewPromotion>PROMOTION_CHECKINGBRAVERY1</NewPromotion>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_COUNTSCOUP2</PromotionType>
+			<NewPromotion>PROMOTION_CHECKINGBRAVERY2</NewPromotion>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_COUNTSCOUP3</PromotionType>
+			<NewPromotion>PROMOTION_CHECKINGBRAVERY3</NewPromotion>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_COUNTSCOUP4</PromotionType>
+			<NewPromotion>PROMOTION_CHECKINGBRAVERY4</NewPromotion>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_COUNTSCOUP5</PromotionType>
+			<NewPromotion>PROMOTION_CHECKINGBRAVERY5</NewPromotion>
+		</Row>
+	</UnitPromotions_PostCombatRandomPromotion>-->
+	<Buildings>
+		<Row>
+			<Type>BUILDING_WATERSHRINE</Type>
+			<BuildingClass>BUILDINGCLASS_SHRINE</BuildingClass>
+			<FreeStartEra>ERA_MEDIEVAL</FreeStartEra>
+			<MaxStartEra>ERA_RENAISSANCE</MaxStartEra>
+			<Cost>40</Cost>
+			<GoldMaintenance>0</GoldMaintenance>
+			<PrereqTech>TECH_AGRICULTURE</PrereqTech>
+			<Description>TXT_KEY_BUILDING_WATERSHRINE</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_WATERSHRINE_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_WATERSHRINE_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_WATERSHRINE_HELP</Help>
+			<ArtDefineTag>TEMPLE</ArtDefineTag>
+			<ConquestProb>66</ConquestProb>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>BLACKFOOTFIRSTNATION_ATLAS</IconAtlas>
+			<PortraitIndex>3</PortraitIndex>
+		</Row>
+		<Row>
+			<Type>BUILDING_BUFFALOPOUND</Type>
+			<BuildingClass>BUILDINGCLASS_WATERMILL</BuildingClass>
+			<Cost>75</Cost>
+			<GoldMaintenance>1</GoldMaintenance>
+			<PrereqTech>TECH_TRAPPING</PrereqTech>
+			<Description>TXT_KEY_BUILDING_BUFFALOPOUND</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_BUFFALOPOUND_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_BUFFALOPOUND_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_BUFFALOPOUND_HELP</Help>
+			<ArtDefineTag>ART_DEF_BUILDING_WATERMILL</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>BLACKFOOTFIRSTNATION_ATLAS</IconAtlas>
+			<NearbyTerrainRequired>TERRAIN_PLAINS</NearbyTerrainRequired>
+			<PortraitIndex>2</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Improvement_ResourceTypes>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CAMP</ImprovementType>
+			<ResourceType>RESOURCE_PRESERVEDBISON</ResourceType>
+		</Row>
+	</Improvement_ResourceTypes>
+	<Improvement_ResourceType_Yields>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CAMP</ImprovementType>
+			<ResourceType>RESOURCE_PRESERVEDBISON</ResourceType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Improvement_ResourceType_Yields>
+	<Resource_TerrainBooleans>
+		<Row>
+			<ResourceType>RESOURCE_PRESERVEDBISON</ResourceType>
+			<TerrainType>TERRAIN_GRASS</TerrainType>
+		</Row>
+		<Row>
+			<ResourceType>RESOURCE_PRESERVEDBISON</ResourceType>
+			<TerrainType>TERRAIN_PLAINS</TerrainType>
+		</Row>
+	</Resource_TerrainBooleans>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_WATERSHRINE</BuildingType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<Building_ResourceYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_BUFFALOPOUND</BuildingType>
+			<ResourceType>RESOURCE_BISON</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_BUFFALOPOUND</BuildingType>
+			<ResourceType>RESOURCE_BISON</ResourceType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_ResourceYieldChanges>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_BUFFALOPOUND</BuildingType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>25</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_BUFFALOPOUND</BuildingType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_BUFFALOPOUND</BuildingType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_WATERSHRINE</BuildingType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>25</Flavor>
+		</Row>
+	</Building_Flavors>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_WATERSHRINE">
+			<Text>Nato-oh Siskoom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WATERSHRINE_HELP">
+			<Text>Requires no maintenance and is available earlier than the Shrine that it replaces. Building the Nato-oh Siskoom near to fresh water, especially river mouths, will give a burst of [ICON_PEACE] Faith.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_WATERSHRINE_TEXT">
+			<Text>Traditionally, the Blackfoot believed that they were allied to a race of underwater spirit-people known as the Suyitapis. The Suyitapis were seen as the power source for many sacred items. Because of this, the Blackfoot hold a traditional disdain or taboo for entering or taking from bodies of water.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WATERSHRINE_STRATEGY">
+			<Text>In order to capitalize on the Nato-oh Siskoom's bonus faith, place cities near sources of fresh water -- especially Lakes and Oases.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BUFFALOPOUND">
+			<Text>Buffalo Pound</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BUFFALOPOUND_HELP">
+			<Text>Unlike the Water Mill it replaces, requires Plains instead of a River and gives +1 [ICON_FOOD] and +1 [ICON_PRODUCTION] Production to sources of [ICON_RES_BISON] Bison worked by the city. Reveals a nearby source of Bison.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_BUFFALOPOUND_TEXT">
+			<Text>Buffalo Pounds were typically fenced off dugouts that the Blackfoot would chase buffalo into. Once the buffalo was within the pound, it would be easier to kill.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BUFFALOPOUND_STRATEGY">
+			<Text>Make sure to build Camps on your new [ICON_RES_BISON] Bison resources.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COUNTSCOUP1">
+			<Text>Counts Coup</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PROMOTION_COUNTSCOUP1">
+			<Text>Counting Coup</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COUNTSCOUP1_HELP">
+			<Text>This unit gains a small amount of experience when it starts its turn adjacent to a non-barbarian enemy, or on a tile containing [ICON_RES_BISON] Bison.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BLACKFOOTFIRSTNATION_WATERSHRINE_NOTIFICATION">
+			<Text>Our Elders believe that the Suyitapis inhabit local waters. This revelation has inspired {2_Faith}[ICON_PEACE] Faith in the people of {1_Place}.</Text>
+		</Row>
+		<!--<Row Tag="TXT_KEY_PROMOTION_COUNTSCOUP2">
+			<Text>Counts Coup</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COUNTSCOUP2_HELP">
+			<Text>This unit will gain great honor among its people if it fights inside friendly or enemy territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COUNTSCOUP3">
+			<Text>Counts Coup</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COUNTSCOUP3_HELP">
+			<Text>This unit will gain great honor among its people if it fights inside enemy territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COUNTSCOUP4">
+			<Text>Counts Coup</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COUNTSCOUP4_HELP">
+			<Text>This unit will gain great honor among its people if it fights inside enemy territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COUNTSCOUP5">
+			<Text>Counts Coup</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COUNTSCOUP5_HELP">
+			<Text>This unit will gain great honor among its people if it fights inside enemy territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CHECKINGBRAVERY1">
+			<Text>?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CHECKINGBRAVERY2">
+			<Text>?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CHECKINGBRAVERY3">
+			<Text>?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CHECKINGBRAVERY4">
+			<Text>?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CHECKINGBRAVERY5">
+			<Text>?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CHECKINGBRAVERY1_HELP">
+			<Text>Not all attacks are worthy of admiration. If this one was, you will gain 10 bonus experience.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CHECKINGBRAVERY2_HELP">
+			<Text>Not all attacks are worthy of admiration. If this one was, your exploits will be remembered by your people, increasing their culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CHECKINGBRAVERY3_HELP">
+			<Text>Not all attacks are worthy of admiration. If this one was, you will gain the Leadership promotion and a shot of culture (requires unit level 3.)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CHECKINGBRAVERY4_HELP">
+			<Text>Not all attacks are worthy of admiration. If this one was, you will become a legendary Blackfoot! (requires unit level 4.)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CHECKINGBRAVERY5_HELP">
+			<Text>Not all attacks are worthy of admiration. If this one was, you will shake the nations and become a legend in the hearts of your people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LEGENDARYBLACKFOOT">
+			<Text>Legend</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LEGENDARYBLACKFOOT_HELP">
+			<Text>You are without a doubt a legend among the Blackfoot. When you fight in enemy territory, it will bring us closer to a Golden Age.</Text>
+		</Row>-->
+	</Language_en_US>
+</GameData>

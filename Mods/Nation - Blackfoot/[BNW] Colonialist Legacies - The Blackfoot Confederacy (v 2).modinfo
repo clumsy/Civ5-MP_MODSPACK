@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="90090edf-4691-4393-b7ed-e7f07e240387" version="2">
+  <Properties>
+    <Name>[BNW] Colonialist Legacies - The Blackfoot Confederacy</Name>
+    <Teaser>Adds the warlike [COLOR_POSITIVE_TEXT]Blackfoot Nations[ENDCOLOR] to the game, led by the mighty Crowfoot.</Teaser>
+    <Description>[NEWLINE][NEWLINE]----
+  [NEWLINE][NEWLINE]Note:
+  [NEWLINE]- Requires the Brave New World expansion.
+  [NEWLINE]- Updates to the Mod will most likely break save games. Please do not update until you are ready to begin a new game.
+  [NEWLINE][NEWLINE]----
+  [NEWLINE][NEWLINE]Leader: Crowfoot
+  [NEWLINE][NEWLINE]UA: Counting Coup
+  [NEWLINE]UB:  Nato-oh Siskoom
+  [NEWLINE]UB: Buffalo Pound</Description>
+    <Authors>Neirai, TPangolin</Authors>
+    <SpecialThanks>JFD, Sukritact</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <Homepage>http://forums.civfanatics.com/showthread.php?t=512802</Homepage>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="08F32A26EC5984BDC74B7355864158DF" import="1">Art/BlackfootAlpha_24.dds</File>
+    <File md5="7D636C71951D17CFB5CC805FD80F9D88" import="1">Art/BlackfootAlpha_32.dds</File>
+    <File md5="847EA92E65783957521AF931B6028046" import="1">Art/BlackfootAlpha_48.dds</File>
+    <File md5="AADA738FA310FBB7690FAB0A4D0572FF" import="1">Art/BlackfootAlpha_64.dds</File>
+    <File md5="058564FB5AEAFD26BB1219FDFAE2190B" import="1">Art/BlackFootAtlas_128.dds</File>
+    <File md5="FAB31E7C87E62471A14FA0615B90B1C1" import="1">Art/BlackFootAtlas_256.dds</File>
+    <File md5="55F0CEF53D601CCE5DB5EF09AE83CFD6" import="1">Art/BlackFootAtlas_32.dds</File>
+    <File md5="DB64FA379CC46DFAB0D04ED39F4D7AB9" import="1">Art/BlackFootAtlas_45.dds</File>
+    <File md5="6421317E7BCA96124A3A455529CF8B2A" import="1">Art/BlackFootAtlas_64.dds</File>
+    <File md5="D31C177BAB01C3FEA156516A19C8ED1F" import="1">Art/BlackFootAtlas_80.dds</File>
+    <File md5="DBBD29D12C5ADB00F935D72436C1C758" import="1">Art/BlackfootMap.dds</File>
+    <File md5="89EDBDEC5B639082FB4D41A1D15A05D4" import="1">Art/BuffaloFontIcons.dds</File>
+    <File md5="BFBA7CBA5CD7B0EBB125C54B30097165" import="1">Art/CrowfootDOM.dds</File>
+    <File md5="7E13CDBE85491DCD167D0C7D9CC0F2A9" import="1">Art/BlackfootCrowfoot_Scene.dds</File>
+    <File md5="9A0AD45F0C3925200D254E780E070C9C" import="0">Art/BlackFootAtlas.xml</File>
+    <File md5="1B2F5BCACAE0B1F341F0FD4D156940BA" import="0">Civ/Blackfoot.xml</File>
+    <File md5="E6E60B874294C921CBBEFBD47A3A6E7F" import="1">Civ/BlackfootCrowfoot_Scene.xml</File>
+    <File md5="CD6AE9A5646F55DF70621035D7A50176" import="1">Civ/BlackfootDOM.mp3</File>
+    <File md5="24BC9E62350B249A7FA1566A51ACBF96" import="1">Civ/BlackfootPeace.mp3</File>
+    <File md5="DE812A8458A501019367D88FA83B536B" import="1">Civ/BlackfootWar.mp3</File>
+    <File md5="5F6BFD4CB61DB9C8921E5CFDC97DC7F7" import="0">Civ/Crowfoot.xml</File>
+    <File md5="F839878DF6CA0E031E74A779F3FF76B3" import="0">Civ/CrowfootTalks.xml</File>
+    <File md5="F252F14F7518EBF0510C152D68A08740" import="0">Civ/CountingCoup.xml</File>
+    <File md5="62D5A1DD23B4A4FD345FDA48A75480F1" import="0">Civ/BlackfootMusic.xml</File>
+    <File md5="F94E5E0AE8D40C6FD5CC4EC5FF599D81" import="0">Lua/CountingCoup.lua</File>
+    <File md5="F681A4B7A2794A148828F01C13A5AE8F" import="0">Lua/WaterShrine.lua</File>
+    <File md5="4C6FFB27ABA570463BC1236F73C7DA99" import="0">Lua/PlaceBison.lua</File>
+    <File md5="2AB06F0DAAA7AB98C09E31A61FA3A73C" import="0">Mod Support/Decisions.sql</File>
+    <File md5="8CA4787382D1F5D6864D8A5887E7CC87" import="1">Mod Support/CLBlackfootDecisions.lua</File>
+    <File md5="38EB45086604D2347161A9B38B7CA62F" import="0">Mod Support/DecisionsText.xml</File>
+    <File md5="D049CABED172F2CAD8AF53946E705044" import="0">Mod Support/PietyandPrestige.sql</File>
+    <File md5="94055984D5B1D200191EBD9FC0860445" import="0">Mod Support/UCI.xml</File>
+    <File md5="F3DF4F9FEAFA6C93D847FFB5D1007D33" import="0">Mod Support/YnAEMP.xml</File>
+    <File md5="25AEA1D2E67FC84B7F7BFBA3F22AD982" import="0">Units/BlackfootBuildings.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Civ/BlackfootMusic.xml</UpdateDatabase>
+      <UpdateDatabase>Art/BlackFootAtlas.xml</UpdateDatabase>
+      <UpdateDatabase>Units/BlackfootBuildings.xml</UpdateDatabase>
+      <UpdateDatabase>Civ/CrowfootTalks.xml</UpdateDatabase>
+      <UpdateDatabase>Civ/CountingCoup.xml</UpdateDatabase>
+      <UpdateDatabase>Civ/Crowfoot.xml</UpdateDatabase>
+      <UpdateDatabase>Civ/Blackfoot.xml</UpdateDatabase>
+      <UpdateDatabase>Mod Support/UCI.xml</UpdateDatabase>
+      <UpdateDatabase>Mod Support/YnAEMP.xml</UpdateDatabase>
+      <UpdateDatabase>Mod Support/DecisionsText.xml</UpdateDatabase>
+      <UpdateDatabase>Mod Support/Decisions.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Support/PietyandPrestige.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/CountingCoup.lua">
+      <Name>Counting</Name>
+      <Description>Enables Blackfoot Coup Counting</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/PlaceBison.lua">
+      <Name>PlaceBison</Name>
+      <Description>Places Bison when you build a Buffalo Pound</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/WaterShrine.lua">
+      <Name>WaterShrines</Name>
+      <Description>Enables Water Shrines to produce faith bursts.</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

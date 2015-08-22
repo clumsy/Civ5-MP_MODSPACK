@@ -1543,6 +1543,11 @@ ContextPtr:LoadNewContext("InuitRelocation")
 ContextPtr:LoadNewContext("UntilTheIceBreaks")
 ContextPtr:LoadNewContext("Inuksuks")
 
+-- Nation - Blackfoot --
+ContextPtr:LoadNewContext("CountingCoup")
+ContextPtr:LoadNewContext("PlaceBison")
+ContextPtr:LoadNewContext("WaterShrine")
+
 -- Nation - Xia --
 ContextPtr:LoadNewContext("Xia Mod Check")
 ContextPtr:LoadNewContext("XiaDynastyPopup")
