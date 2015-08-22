@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/18/2013 1:17:59 PM -->
+<GameData>
+	<Language_en_US>
+
+		<!--General phrases -->
+		<!--Greeting (first time meeting) -->
+		<Row Tag="TXT_KEY_LEADER_BOLIVAR_FIRSTGREETING_1">
+			<Text>Well Met. I'm Simon Bolivar, El Libertador. Welcome to my greatest project: The Gran Colombia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOLIVAR_FIRSTGREETING_2">
+			<Text>Greetings, I hope you can be an ally of our freedom. I'm Simon Bolivar, El Libertador, founder of the Gran Colombia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOLIVAR_FIRSTGREETING_3">
+			<Text>My name is Simon Bolivar, El Libertador. Will you aid us in the path of our freedom?</Text>
+		</Row>
+		
+		<!--Defeated and removed from game -->
+		<Row Tag="TXT_KEY_LEADER_BOLIVAR_DEFEATED_1">
+			<Text>And the Gran Colombia, lies defeated. But the dreams of freedom will not perish!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOLIVAR_DEFEATED_2">
+			<Text>So, it is the end of this dream... Let's hope justice manages to punish you eventually.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOLIVAR_DEFEATED_3">
+			<Text>And so its come to this... I devoted my life to building this Gran Colombia, so know that this is not the end!.</Text>
+		</Row>
+	</Language_en_US>
+	<Language_ES_ES>
+
+		<!--General phrases -->
+		<!--Greeting (first time meeting) -->
+		<Row Tag="TXT_KEY_LEADER_BOLIVAR_FIRSTGREETING_1">
+			<Text>¡Saludos!, yo soy el Libertador de las Américas, Simón Bolivar. Bienvenido a mi más grande proyecto: la Gran Colombia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOLIVAR_FIRSTGREETING_2">
+			<Text>¡Saludos!, yo soy el Libertador de las Américas, Simón Bolivar. Bienvenido a mi más grande proyecto: la Gran Colombia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOLIVAR_FIRSTGREETING_3">
+			<Text>¡Saludos!, yo soy el Libertador de las Américas, Simón Bolivar. Bienvenido a mi más grande proyecto: la Gran Colombia.</Text>
+		</Row>
+
+		<!--Defeated and removed from game -->
+		<Row Tag="TXT_KEY_LEADER_BOLIVAR_DEFEATED_1">
+			<Text>Podrás haber destruído a la Gran Colombia, ¡pero el sueño por una patria grande seguirá ardiendo!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOLIVAR_DEFEATED_2">
+			<Text>Podrás haber destruído a la Gran Colombia, ¡pero el sueño por una patria grande seguirá ardiendo!.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOLIVAR_DEFEATED_3">
+			<Text>Podrás haber destruído a la Gran Colombia, ¡pero el sueño por una patria grande seguirá ardiendo!</Text>
+		</Row>
+	</Language_ES_ES>
+
+</GameData>

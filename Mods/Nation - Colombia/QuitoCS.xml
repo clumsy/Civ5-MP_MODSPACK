@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/6/2013 9:18:46 AM -->
+<GameData>
+	<Language_en_US>
+		<Update>
+			<Set Text="Quito"/>
+			<Where Tag="TXT_KEY_CITYSTATE_BOGOTA"/>
+		</Update>
+		<Update>
+			<Set Text="Quito"/>
+			<Where Tag="TXT_KEY_CITYSTATE_BOGOTA_ADJ"/>
+		</Update>
+		<Update>
+			<Set Text="Quito, formally San Francisco de Quito, is the capital city of Ecuador, and at an elevation of 9,350 feet (2,800 meters above sea level), it is the highest capital city in the world housing the administrative, legislative and judicial functions. It is located in north-central Ecuador in the Guayllabamba river basin, on the eastern slopes of Pichincha, an active stratovolcano in the Andes mountains. With a population of 2,239,191 according to the last census (2010), Quito is the second most populous city in Ecuador, after Guayaquil. It is also the capital of the Pichincha province and the seat of Metropolitan District of Quito. The canton recorded a population of 1,842,201 residents in the 2001 national census. In 2008, the city was designated as the headquarters of the Union of South American Nations.
+
+[NEWLINE][NEWLINEThe historic center of Quito has one of the largest, least-altered and best-preserved historic centers in the Americas.[4] Quito, along with Kraków, were the first World Cultural Heritage Sites declared by UNESCO in 1978. The central square of Quito is located about 25 kilometres (16 mi) south of the equator; the city itself extends to within about 1 kilometre (0.62 mi) of zero latitude. A monument and museum marking the general location of the equator is known locally as la mitad del mundo (the middle of the world), to avoid confusion, as the word ecuador is Spanish for equator."/>
+			<Where Tag="TXT_KEY_CIV5_BOGOTA_TEXT"/>
+		</Update>
+	</Language_en_US>
+	<Language_ES_ES>
+		<Update>
+			<Set Text="Quito"/>
+			<Where Tag="TXT_KEY_CITYSTATE_BOGOTA"/>
+		</Update>
+		<Update>
+			<Set Text="de Quito"/>
+			<Where Tag="TXT_KEY_CITYSTATE_BOGOTA_ADJ"/>
+		</Update>
+		<Update>
+			<Set Text="San Francisco de Quito, es la ciudad capital de Ecuador y también de la provincia de Pichincha, es la segunda ciudad más grande y poblada del Ecuador. Además es cabecera cantonal o distrital del Distrito Metropolitano de Quito.
+
+[NEWLINE][NEWLINE]Está ubicada sobre la hoya de Guayllabamba en las laderas orientales del estratovolcán activo Pichincha, en la parte occidental de los Andes. Se encuentra aproximadamente en las coordenadas 0°13′23″S 78°30′45″O y su altitud promedio es de 2800 msnm La ciudad está dividida en 32 parroquias, las cuales se subdividen en barrios.
+
+[NEWLINE][NEWLINE]La fecha de su primera fundación es incierta; los registros más antiguos se hallan en la hacienda del Inga alrededor del año 10300 a.c. El Inca Huayna Capac convirtió a Quito en una ciudad importante del norte del Tahuantinsuyo, y durante varios lapsos de tiempo se movilizó entre esta y Tomebamba, esta última capital norteña del Imperio. Sin embargo, se utiliza la conquista española de la ciudad, el 6 de diciembre de 1534, como su nacimiento. La Escuela quiteña es como se ha llamado al conjunto de manifestaciones artísticas y de artistas que se desarrolló en el territorio de la Real Audiencia de Quito. La Escuela Quiteña alcanzó su época de mayor esplendor entre los siglos XVII y XVIII, llegando a adquirir gran prestigio entre las otras colonias americanas e incluso en la corte española de Madrid. El 24 de mayo de 1822 el ejército independista comandado por el General Antonio José de Sucre venció a las fuerzas realistas leales al rey de España quienes estaban bajo las órdenes de Melchor de Aymerich, en la denominada Batalla de Pichincha. Gracias a la victoria de las tropas grancolombinas, se consiguió la liberación de Quito y la independencia de las provincias pertenecientes a la Real Audiencia de Quito. El 13 de mayo de 1830 se crea la República del Ecuador, con Quito como capital tras separarse de la Gran Colombia.
+
+[NEWLINE][NEWLINE]Quito es el centro político de la República, alberga los principales organismos gubernamentales, culturales, financieros -al ser el hogar de la mayoría de bancos de la Nación-, administrativos y comerciales del país -la mayoría de empresas transnacionales que trabajan en Ecuador tienen su matriz en la urbe-. La ciudad, a más de ser la capital administrativa del Ecuador, es la nueva capital económica del país, según el censo económico de 2010. Es la primera ciudad declarada, junto a Cracovia en Polonia, como Patrimonio Cultural de la Humanidad por la Unesco, el 18 de septiembre de 1978. Quito posee el centro histórico más grande, menos alterado y el mejor preservado de América."/>
+			<Where Tag="TXT_KEY_CIV5_BOGOTA_TEXT"/>
+		</Update>
+	</Language_ES_ES>
+	<MinorCivilizations>
+		<Update>
+			<Set ArtStyleType="ARTSTYLE_GRECO_ROMAN"/>
+			<Where Type="MINOR_CIV_BOGOTA"/>
+		</Update>
+	</MinorCivilizations>
+
+</GameData>

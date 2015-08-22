@@ -1543,6 +1543,9 @@ ContextPtr:LoadNewContext("InuitRelocation")
 ContextPtr:LoadNewContext("UntilTheIceBreaks")
 ContextPtr:LoadNewContext("Inuksuks")
 
+-- Nation - Colombia --
+ContextPtr:LoadNewContext("CaptureScripts")
+
 -- Nation - Blackfoot --
 ContextPtr:LoadNewContext("CountingCoup")
 ContextPtr:LoadNewContext("PlaceBison")

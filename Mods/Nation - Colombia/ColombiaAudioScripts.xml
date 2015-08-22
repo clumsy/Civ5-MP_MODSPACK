@@ -1,0 +1,47 @@
+<GameData>
+	<Audio_Sounds>
+
+		<!--Bolivar Music-->
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_BOLIVAR_PEACE</SoundID>
+			<Filename>BolivarPeace</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_BOLIVAR_WAR</SoundID>
+			<Filename>BolivarWar</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<!--Bolivar Music-->
+	</Audio_Sounds>
+	<Audio_2DSounds>
+		<!--Bolivar Music For Audio Scripts-->
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_BOLIVAR_PEACE</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_BOLIVAR_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>55</MinVolume>
+			<MaxVolume>55</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_BOLIVAR_WAR</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_BOLIVAR_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>50</MinVolume>
+			<MaxVolume>50</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_AMBIENCE_LEADER_BOLIVAR_AMBIENCE</ScriptID>
+			<SoundID>SND_AMBIENCE_NAPOLEON_AMBIENCE</SoundID>
+			<SoundType>GAME_SFX</SoundType>
+			<Looping>true</Looping>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+		</Row>
+		<!--Bolivar Music-->
+	</Audio_2DSounds>
+	
+
+</GameData>

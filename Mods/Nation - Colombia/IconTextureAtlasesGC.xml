@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/18/2013 1:08:56 PM -->
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>CIV_COLOR_ATLAS_GRANCOLOMBIA</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>GranColombiaIcon256.dds</Filename>
+			<IconsPerRow>2</IconsPerRow>
+			<IconsPerColumn>2</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CIV_COLOR_ATLAS_GRANCOLOMBIA_ALPHA</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>AlphaGranColombiaIcon256.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+
+		<Row>
+			<Atlas>CIV_COLOR_ATLAS_GRANCOLOMBIA</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>GranColombiaIcon128.dds</Filename>
+			<IconsPerRow>2</IconsPerRow>
+			<IconsPerColumn>2</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CIV_COLOR_ATLAS_GRANCOLOMBIA_ALPHA</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>AlphaGranColombiaIcon128.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+
+
+		<Row>
+			<Atlas>CIV_COLOR_ATLAS_GRANCOLOMBIA</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>GranColombiaIcon64.dds</Filename>
+			<IconsPerRow>2</IconsPerRow>
+			<IconsPerColumn>2</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CIV_COLOR_ATLAS_GRANCOLOMBIA_ALPHA</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>AlphaGranColombiaIcon64.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+
+
+		<Row>
+			<Atlas>CIV_COLOR_ATLAS_GRANCOLOMBIA</Atlas>
+			<IconSize>32</IconSize>
+			<Filename>GranColombiaIcon32.dds</Filename>
+			<IconsPerRow>2</IconsPerRow>
+			<IconsPerColumn>2</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CIV_COLOR_ATLAS_GRANCOLOMBIA_ALPHA</Atlas>
+			<IconSize>32</IconSize>
+			<Filename>AlphaGranColombiaIcon32.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+
+
+		<Row>
+			<Atlas>CIV_COLOR_ATLAS_GRANCOLOMBIA</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>GranColombiaIcon45.dds</Filename>
+			<IconsPerRow>4</IconsPerRow>
+			<IconsPerColumn>4</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CIV_COLOR_ATLAS_GRANCOLOMBIA_ALPHA</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>AlphaGranColombiaIcon45.dds</Filename>
+			<IconsPerRow>4</IconsPerRow>
+			<IconsPerColumn>4</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CIV_COLOR_ATLAS_GRANCOLOMBIA_ALPHA</Atlas>
+			<IconSize>48</IconSize>
+			<Filename>AlphaGranColombiaIcon48.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+
+		<Row>
+			<Atlas>CIV_COLOR_ATLAS_GRANCOLOMBIA_ALPHA</Atlas>
+			<IconSize>16</IconSize>
+			<Filename>AlphaGranColombiaIcon16.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+
+		<Row>
+			<Atlas>CIV_COLOR_ATLAS_GRANCOLOMBIA_ALPHA</Atlas>
+			<IconSize>24</IconSize>
+			<Filename>AlphaGranColombiaIcon24.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+
+
+		<Row>
+			<Atlas>CIV_COLOR_ATLAS_GRANCOLOMBIA</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>GranColombiaIcon80.dds</Filename>
+			<IconsPerRow>2</IconsPerRow>
+			<IconsPerColumn>2</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CIV_COLOR_ATLAS_GRANCOLOMBIA_ALPHA</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>AlphaGranColombiaIcon80.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+
+		<Row>
+			<Atlas>LLANERO_FLAG</Atlas>
+			<IconSize>32</IconSize>
+			<Filename>LlaneroFlag.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>INDEPENDIST_FLAG</Atlas>
+			<IconSize>32</IconSize>
+			<Filename>IndependistFlag.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+</GameData>

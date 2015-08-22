@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/6/2013 9:18:46 AM -->
+<GameData>
+	<Language_en_US>
+		<Update>
+			<Set Text="San Juan"/>
+			<Where Tag="TXT_KEY_CITYSTATE_PANAMA_CITY"/>
+		</Update>
+		<Update>
+			<Set Text="San Juan"/>
+			<Where Tag="TXT_KEY_CITYSTATE_PANAMA_CITY_ADJ"/>
+		</Update>
+		<Update>
+			<Set Text="San Juan (Saint John), officially Municipio de la Ciudad Capital San Juan Bautista (Municipality of the Capital City, Saint John the Baptist), is the capital and most populous municipality in Puerto Rico, an unincorporated territory of the United States. As of the 2010 census, it had a population of 395,326 making it the 46th-largest city under the jurisdiction of the United States. San Juan was founded by Spanish colonists in 1521, who called it Ciudad de Puerto Rico (Rich Port City). Puerto Rico's capital is the second oldest European-established city in the Americas, after Santo Domingo, in the Dominican Republic. Several historical buildings are located in San Juan; among the most notable are the city's former defensive forts, Fort San Felipe del Morro and Fort San Cristóbal, and La Fortaleza, the oldest executive mansion in continuous use in the Americas.
+
+Today, San Juan is one of Puerto Rico's most important seaports, and is the island's manufacturing[citation needed], financial, cultural, and tourism center. The population of the Metropolitan Statistical Area, including San Juan and the municipalities of Bayamón, Guaynabo, Cataño, Canóvanas, Caguas, Toa Alta, Toa Baja, Carolina and Trujillo Alto, is about 2 million inhabitants; thus, about half the population of Puerto Rico now lives and works in this area. San Juan is also a principal city of the San Juan-Caguas-Fajardo Combined Statistical Area. The city has been the host of numerous important events within the sports community, including the 1979 Pan American Games, 1966 Central American and Caribbean Games, events of the 2006, 2009 and 2013 World Baseball Classics, the Caribbean Series and the Special Olympics and MLB San Juan Series in 2010."/>
+			<Where Tag="TXT_KEY_CIV5_PANAMA_TEXT"/>
+		</Update>
+	</Language_en_US>
+	<Language_ES_ES>
+		<Update>
+			<Set Text="San Juan"/>
+			<Where Tag="TXT_KEY_CITYSTATE_PANAMA_CITY"/>
+		</Update>
+		<Update>
+			<Set Text="de San Juan"/>
+			<Where Tag="TXT_KEY_CITYSTATE_PANAMA_CITY_ADJ"/>
+		</Update>
+		<Update>
+			<Set Text="San Juan (nombre oficial: Municipio Autónomo de San Juan Bautista) es uno de los 78 municipios y ciudad capital del Estado Libre Asociado de Puerto Rico. En el Censo de 2010 tenía una población de 395.326 habitantes y una densidad poblacional de 1.983,45 personas por km².
+
+[NEWLINE][NEWLINE]En el plano económico, es el más importante centro económico e industrial de Puerto Rico, y su área metropolitana concentra la mayor parte de la actividad económica de la Isla. Destaca por ser una de las ciudades en América Latina con mejor confort urbano; además es la segunda ciudad latinoamericana con mayor ingreso per cápita (US$25,451 en 2012), solo detrás de Brasilia. Es la decimoséptima ciudad por el tamaño de su producto interno bruto en Latinoamérica (de unos US$34 460 millones), siendo una de las más atractivas para invertir en la América hispanohablante"/>
+			<Where Tag="TXT_KEY_CIV5_PANAMA_TEXT"/>
+		</Update>
+	</Language_ES_ES>
+	<MinorCivilizations>
+		<Update>
+			<Set ArtStyleType="ARTSTYLE_GRECO_ROMAN"/>
+			<Where Type="MINOR_CIV_PANAMA_CITY"/>
+		</Update>	
+	</MinorCivilizations>
+
+</GameData>

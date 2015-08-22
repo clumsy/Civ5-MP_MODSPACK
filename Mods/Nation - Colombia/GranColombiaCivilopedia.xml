@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/23/2013 9:52:57 AM -->
+<GameData>
+	
+	<Language_en_US>
+	
+	<Row Tag="TXT_KEY_BUILDING_COLOMBIAN_HELP">
+		
+			<Text>This city is Colombian</Text>
+		
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_COLOMBIAN">
+		
+			<Text>Colombian City</Text>
+		
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_COLOMBIAN_TEXT">
+		
+			<Text> </Text>
+		
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_COLOMBIAN_STRATEGY">
+		
+			<Text> </Text>
+		
+		</Row>
+		
+		<Row Tag="TXT_KEY_TRAIT_INDEPENDENCE_SHORT">
+		
+			<Text>The Independence of a Continent</Text>
+		
+		</Row>
+		
+		<Row Tag="TXT_KEY_TRAIT_INDEPENDENCE">
+		
+			<Text>[ICON_OCCUPIED]Occupied cities start with a Courthouse. Liberating a Civilization or a [ICON_CITY_STATE]City-State starts a [ICON_GOLDEN_AGE]Golden Age. Great People may be upgraded to Libertadores, losing the ability of building Citadels.</Text>
+		
+		</Row>
+		
+		<Row Tag="TXT_KEY_CIV5_DAWN_GRANCOLOMBIA_TITLE">
+		
+			<Text>Gran Colombia</Text>
+		
+		</Row>
+		
+		<Row Tag="TXT_KEY_CIV5_DAWN_GRANCOLOMBIA_TEXT">
+		
+			<Text>
+				Great Libertador, Simon Bolivar. You led South America to its independency against the Spanish Empire.
+				[NEWLINE][NEWLINE]Following the triumph over the Spanish monarchy, you participated in the foundation of the first union of independent nations in Hispanic-America, a republic, which was named Gran Colombia. You led Venezuela, Colombia (including Panama at the time), Ecuador, Peru , and Bolivia to independence, and helped lay the foundations for democratic ideology in much of Latin America.
+				[NEWLINE][NEWLINE]Your dream had been to engender an American Revolution-style federation among all the newly independent republics, with a government set up solely to recognize and uphold the rights of the individual. The dream didn't live long however, as clashing interests within the Libertadores of each region made the idea lose strenght and influence, it was the only and short time so many countries in South America were under only one government.
+				[NEWLINE][NEWLINE]These differences still manage to generate problems to South America. Will you help them reunite again? Will you build a civilization that will stand the test of time?
+			</Text>
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_CIV5_GRANCOLOMBIA_TITLE">
+			<Text>Gran Colombia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GRANCOLOMBIA_HEADING_1">
+			<Text>Overview</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GRANCOLOMBIA_HEADING_2">
+			<Text>Origin of the name</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GRANCOLOMBIA_HEADING_3">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GRANCOLOMBIA_HEADING_4">
+			<Text>Federalists and Separatists</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GRANCOLOMBIA_HEADING_5">
+			<Text>Aftermath</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GRANCOLOMBIA_TEXT_1">
+			<Text>
+				Gran Colombia (Great Colombia) is a name used today for the state that encompassed much of northern South America and part of southern Central America from 1819 to 1831. This short-lived republic included the territories of present-day Colombia, Venezuela, Ecuador, Panama, northern Peru and northwest Brazil. The first three were the successor states to Gran Colombia at its dissolution. Panama was separated from Colombia in 1903. Since Gran Colombia's territory corresponded more or less to the original jurisdiction of the former Viceroyalty of New Granada, it also claimed the Caribbean coast of Costa Rica and Nicaragua, the Mosquito Coast, and Guayana Esequiba in Guyana.
+				[NEWLINE][NEWLINE]
+				Its existence was marked by a struggle between those who supported a centralized government with a strong presidency and those who supported a decentralized, federal form of government. At the same time, another political division emerged between those who supported the Constitution of Cucuta and two groups who sought to do away with the Constitution, either in favor of breaking up the nation into smaller republics or maintaining the union but creating an even stronger presidency. The faction that favored constitutional rule coalesced around Vice-President Francisco de Paula Santander, while those who supported the creation of a stronger presidency were led by President Simon Bolivar. The two men had been allies in the war against Spanish rule, but by 1825, their differences had become public and were an important part of the political instability from that year onward.
+			</Text>
+		</Row>
+		
+		
+		<Row Tag="TXT_KEY_CIV5_GRANCOLOMBIA_LLANERO_HEADING">
+			<Text>Llanero</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GRANCOLOMBIA_LLANERO">
+			<Text>Llanero</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GRANCOLOMBIA_INDEPENDIST">
+			<Text>Libertador</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GRANCOLOMBIA_LLANERO_TEXT">
+			<Text>
+				A llanero (Plainsman) is a Venezuelan or Colombian herder. The name is taken from the Llanos grasslands occupying western Venezuela and eastern Colombia. The Llanero were originally part Spanish and Indian and have a strong culture including a distinctive form of music.
+				[NEWLINE][NEWLINE]
+				During the wars of independence, Llaneros served in both armies and provided the bulk of the cavalry during the war. In 1819, an army of Llaneros, led by Simon Bolivar and Jose Antonio Paez, defeated the Spanish with a surprise attack when they crossed over the Orinoco plains and the Andes mountains.
+				[NEWLINE][NEWLINE]
+				Prior to Spanish settlement in 1548, the Llanos were occupied by indigenous groups. Andalusian monks established settlements close to native American villages and accomplished conversion through a mixture of persuasion and force.
+				[NEWLINE][NEWLINE]
+				The Spaniards started to graze cattle on the grasslands of the llanos and the Llanero were originally a mixture of Spaniards and Indians. Indeed, Llaneros still use many terms dating from the 16th and 17th centuries. From 1640 to 1790, outlaw slaves lived in cumbes, or outlaw slave communities, and intermarried with the Llanero.
+				[NEWLINE][NEWLINE]
+				By the end of the 18th century, the region exported 30,000 mules a year to the Antilles and salted meat for the 1.5 million slaves there and in Cuba. There were 1.2 million cattle in the area by 1815.
+				[NEWLINE][NEWLINE]
+				When the Wars of Liberation started, the Spanish enlisted the Llaneros, playing on their dislike of the criollos of the independence movement. Bolivar realized that the plains were critical to success in the wars of liberation – they offered freedom of movement, as well as the capacity to feed his army.
+				[NEWLINE][NEWLINE]
+				He therefore sought to enlist the Llaneros to his cause and gradually succeeded by enduring the same hardships as they did – the Llaneros called him culo de hierro – or "iron buttocks" – for his endurance on horseback.
+				[NEWLINE][NEWLINE]
+				The Llaneros led by Paez proved crucial in Bolivar's campaign. After leading his forces including the Llanero troops over the eastern Andes, Bolivar won a critical victory at the Battle of Boyaca on August 7, 1819. Three days later, he captured Bogota in what was the turning point of wars of liberation.
+				[NEWLINE][NEWLINE]
+				The Llaneros would also prove to be vital in future battles in the campaign. Paez's Bravos de Apure or lancers were again critical in the Battle of Carabobo on June 24, 1821, and allowed Bolivar to capture Caracas. Paez would become the first President of Venezuela.
+				[NEWLINE][NEWLINE]
+				During the 1850s, a hide boom stimulated the local economy. A boom in Great Egret feathers in the early 1930s in Europe led to them being called white gold until the trade was banned.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GRANCOLOMBIA_INDEPENDIST_HEADING">
+			<Text>Gran Colombia Libertador</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GRANCOLOMBIA_INDEPENDIST_TEXT">
+			<Text>
+				Indpendists, known as Libertadores ("Liberators") were the principal leaders of the Latin American wars of independence from Spain and Portugal. They are named that way in contrast with the Conquistadors, who were so far the only Spanish/Portuguese peoples recorded in the South American history.
+				[NEWLINE][NEWLINE]
+				They were largely bourgeois, criollos (local-born people of European, mostly of Spanish or Portuguese, ancestry) influenced by liberalism and in most cases with military training in the metropole (mother country).
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BOLIVAR_LIVED">
+			<Text>24 July 1783 – 17 December 1830</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BOLIVAR_NAME">
+			<Text>Simon Jose Antonio de la Santisima Trinidad Bolivar y Palacios Ponte y Blanco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BOLIVAR_SUBTITLE">
+			<Text>El Libertador</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BOLIVAR_TITLES_1">
+			<Text>El Libertador</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BOLIVAR_HEADING_1">
+			<Text>Overview</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BOLIVAR_TEXT_1">
+			<Text>
+				Simon Jose Antonio de la Santisima Trinidad Bolivar y Palacios Ponte y Blanco (24 July 1783 – 17 December 1830), commonly known as Simon Bolivar was a Venezuelan military and political leader. Bolivar played a key role in Latin America's successful struggle for independence from the Spanish Empire, and is today considered one of the most influential politicians in the history of the Americas.
+				[NEWLINE][NEWLINE]
+				Following the triumph over the Spanish monarchy, Bolivar participated in the foundation of the first union of independent nations in Hispanic-America, a republic, which was named Gran Colombia, of which he was president from 1819 to 1830. Bolivar remains regarded in Hispanic-America as a hero, visionary, revolutionary, and liberator. During his lifetime, he led Venezuela, Colombia (including Panama at the time), Ecuador, Peru (together with Don Jose de San Martin), and Bolivia to independence, and helped lay the foundations for democratic ideology in much of Latin America.
+			</Text>
+		</Row>	
+		
+		
+		
+		<Row Tag="TXT_KEY_CIV_GRANCOLOMBIA_ADJECTIVE">
+			<Text>Colombian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GRANCOLOMBIA_DESC">
+			<Text>The Gran Colombia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GRANCOLOMBIA_SHORT_DESC">
+			<Text>Gran Colombia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOLIVAR">
+			<Text>Simon Bolivar</Text>
+		</Row>
+
+
+		
+		<Row Tag="TXT_KEY_CIV5_GRANCOLOMBIA_LLANERO_HELP">
+			<Text>The Llanero has a combat bonus on Open terrain, and also transfers its movement to Libertadores, unlike the Lancer which it replaces.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GRANCOLOMBIA_LLANERO_INFO">
+			<Text>The Gran Colombia Llanero has a combat bonus on Open terrain, and also transfers its movement to Libertadores.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GRANCOLOMBIA_LLANERO_STRATEGY">
+			<Text>The Llaneros have a lot of mobility and their ability to increase the movement of Libertadores can help in changing the tide of battle. </Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_GRANCOLOMBIA_INDEPENDIST_HELP">
+			<Text>This Colombian Great Unit is the replacement of the Great General. The Libertador grants a bonus against cities when adjacent to a city. It can also write a political treatise, which generates a big ammount of [ICON_CULTURE] Culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GRANCOLOMBIA_INDEPENDIST_INFO">
+			<Text>The Libertador is a Unique Great Person available to the Colombians, that increases combat against cities when adjacent to a city, and may write a political treatise. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GRANCOLOMBIA_INDEPENDIST_STRATEGY">
+			<Text>As a replacement for the Great Generals, the Libertadors get an important advantage, as the extra combat strenght near cities can prove handy when conquering or liberating cities.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_REPUBLIQUETTE_TEXT">
+			<Text>A Republiqueta is a mighty fortification that can only be constructed by an Libertador on a particularly defensible piece of terrain. Republiquetas were special forts built during the South American Independence Wars, Ayopaya being the most succesful. They allowed important strikes nearby strategic places. You can construct a Republiqueta anywhere within your territory, or outside. Upon constructing the Republiqueta, your Culture borders will also expand to surround the Republiqueta on all sides by one hex. If the new Culture border claims hexes already owned by another civilization, you will incur a diplomatic penalty as a result. Any unit stationed within a Republiqueta receives a 100% defensive strength bonus. Additionally, any enemy unit which ends its turn next to a Republiqueta takes 30 damage (damage does not stack with other Republiquetas).</Text>
+		</Row>
+			
+			
+		<Row Tag="TXT_KEY_BUILD_REPUBLIQUETTE_HELP">
+		
+			<Text>+100% [ICON_STRENGTH] Defensive Strength for any Unit stationed in this Tile. Any enemy unit which ends its turn next to the Republiqueta takes 30 damage (damage does not stack with other Citadels). Constructing the Republiqueta will expand your Culture borders to surround the Republiqueta, and will consume this unit. If the new Culture border claims hexes already owned by another civilization, you will incur a diplomatic penalty as a result.</Text>
+			
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_LLANERO">
+			<Text>Fight to Death</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LLANERO_HELP">
+			<Text>Increased Combat Bonus in Open Terrain (No Hills, No Forests, No Jungle). Movement speed transferred to near Great Generals.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_LIBERATIONIST">
+			<Text>Liberation Campaign</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LIBERATIONIST_HELP">
+			<Text>Gives +50% bonus vs. Cities to all friendly units within 2 tiles, but not on the same tile, of the Libertador when adjacent to a city.</Text>
+		</Row>
+
+		
+
+
+		<Row Tag="TXT_KEY_IMPROVEMENT_REPUBLIQUETTE">
+		
+			<Text>Republiqueta</Text>
+	
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_REPUBLIQUETTE">
+
+			<Text>Build Republiqueta</Text>
+
+		</Row>
+		<Update>
+			<Set Text="Supported against Cities"/>
+			<Where Tag="TXT_KEY_EUPANEL_CITY_SAPPED"/>
+		</Update>
+	</Language_en_US>
+	<Language_ES_ES>
+
+		<Row Tag="TXT_KEY_TRAIT_INDEPENDENCE_SHORT">
+
+			<Text>La Independencia de la Patria Grande</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_TRAIT_INDEPENDENCE">
+
+			<Text>Las Ciudades Ocupadas [ICON_OCCUPIED] empiezan con una Delegación. Liberar una civilización o una Ciudad-Estado empieza una Edad de Oro [ICON_GOLDEN_AGE]. Los Grandes personajes pueden transformarse en Libertadores, perdiendo la abilidad de construir ciudadelas.</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_DAWN_GRANCOLOMBIA_TITLE">
+
+			<Text>Gran Colombia</Text>
+
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_DAWN_GRANCOLOMBIA_TEXT">
+
+			<Text>
+				Gran Libertador, Simón Bolivar. Lideraste a Sudamérica para su independencia contra las colonias españolas.
+				[NEWLINE][NEWLINE]Después del triunfo contra la corona española, participaste en la fundación de la primera unión de naciones independientes en Hispano-América, la República de la Gran Colombia. Lideraste a Venezuela, Colombia, Ecuador, Peru y Bolivia a su independencia, y sentaste las bases para las ideologías democráticas en gran parte de Latino América.
+				[NEWLINE][NEWLINE]Tu sueño fue el crear una federación entre todas las nuevas repúblicas. Sin embargo, este sueño no duró demasiado, por intereses colindantes dentro del gobierno de cada región.
+				[NEWLINE][NEWLINE]Estos intereses aún generan problemas al continente. Reunirás nuevamente a la gente de la Patria Grande? Construirás una civilización que sobrepase las pruebas del tiempo?
+			</Text>
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_CIV5_GRANCOLOMBIA_TITLE">
+			<Text>Gran Colombia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GRANCOLOMBIA_HEADING_1">
+			<Text>Descripción General</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_CIV5_GRANCOLOMBIA_TEXT_1">
+			<Text>
+				Gran Colombia es un extinto país suramericano creado en 1821 por el congreso reunido en la ciudad de Cúcuta con el nombre de República de Colombia. Dicho término se emplea por la historiografía para distinguirla de la actual Colombia, que para ese entonces se llamaba Nueva Granada.
+
+				[NEWLINE][NEWLINE]Esta república existió jurídicamente entre 1821 y 1831 y se configuró a partir de la unión de las anteriores entidades coloniales del Virreinato de la Nueva Granada, Capitanía General de Venezuela y Presidencia de Quito, al igual que la Provincia Libre de Guayaquil. Su superficie correspondía a los territorios de las actuales repúblicas de Colombia, Ecuador, Panamá y Venezuela (incluyendo la Guayana Esequiba, en reclamación guyano-venezolana); y otros territorios que pasaron a Brasil, Perú y Nicaragua por acuerdos internacionales celebrados entre estos países y las repúblicas surgidas de la disolución grancolombiana.
+
+				[NEWLINE][NEWLINE]Si bien la Gran Colombia fue creada mediante la Ley Fundamental de la República de Colombia expedida durante el Congreso de Angostura (1819), el Estado como fruto de la unión de dichos pueblos no vio la luz hasta el Congreso de Cúcuta (1821), donde se redactó la Constitución nacional con la cual se implementó y reglamentó su creación, al igual que la vida política e institucional del nuevo país.
+
+				[NEWLINE][NEWLINE]El país se disolvió a finales de la década de 1820 e inicios de los años 1830, por las grandes diferencias políticas que existían entre partidarios del federalismo y el centralismo, así como por las tensiones regionales entre los pueblos que integraban la república.
+			</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIV5_GRANCOLOMBIA_LLANERO_HEADING">
+			<Text>Llanero</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GRANCOLOMBIA_LLANERO">
+			<Text>Llanero</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GRANCOLOMBIA_INDEPENDIST">
+			<Text>Libertador</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GRANCOLOMBIA_LLANERO_TEXT">
+			<Text>
+				El llanero es la persona oriunda de los Llanos de la zona intertropical de la cuenca del río Orinoco que comprende los dos países del norte de Suramérica,Venezuela y Colombia.En Venezuela es conocida como Región de los Llanos y en Colombia la región es conocida como los Llanos Orientales, los Llanos u Orinoquía.
+
+				[NEWLINE][NEWLINE]El llanero, figura común a los dos países vecinos, es comúnmente identificado con un jinete colombiano y/o venezolano que se dedica por lo general al cuidado de ganado en las grandes haciendas ganaderas de la región. Esta ocupación se remonta a la época colonial. Los Llaneros jugaron un papel decisivo en las épicas batallas de las guerras de independencia suramericanas, en batallas como Urica, Las Queseras del Medio, Pantano de Vargas, Boyacá, Batalla de Junin, Batalla de Ayacucho y Carabobo.
+
+				[NEWLINE][NEWLINE]Con la disolución de la Gran Colombia en 1830 los Llanos quedaron divididos internacionalmente, aun así la unidad cultural continuó por medio de las manifestaciones culturales que los unen.
+
+				[NEWLINE][NEWLINE]La época de máximo apogeo en los llanos venezolanos fue durante mediados y finales del siglo XIX cuando Venezuela dependía principalmente de su ganadería y agricultura. En cuanto a Colombia, los departamentos llaneros fueron catalogados como territorios nacionales hasta 1959 cuando Meta fue elevado a departamento; los demás fueron elevados en 1991 y hoy son fundamentales para la economía colombiana porque allí se encuentras sus principales yacimientos de hidrocarburos y gran parte de su riqueza ganadera y agrícola.
+
+				[NEWLINE][NEWLINE]La palabra Llanero se deriva del Llano, la manera como se conoce generalmente la región en ambos países y el mismo puede equipararse a la figura del gaucho en Argentina, Uruguay y Río Grande del Sur (estado brasileño), a la del huaso en Chile, al cowboy estadounidense el charro mexicano y el qorilazo en Perú de finales del siglo XIX.
+
+				[NEWLINE][NEWLINE]Varias décadas de sincretismo cultural dieron lugar a lo que hoy se conoce como el folclor y tradiciones llaneras; los constantes desplazamientos geográficos de individuos hacia la región desde la época de la conquista hasta el día de hoy, permitieron el surgimiento de una amalgama de costumbres que, junto a las tradiciones de indígenas autóctonos, conforman la característica raza llanera. Por ello, en la escena de lo cultural existen tan variadas, como fascinantes manifestaciones, representadas por su danza y música, el joropo; por sus obras escritas, el poema llanero; por sus costumbres tradicionales, el trabajo de llano; por su deporte, el coleo; y por sus fiestas más populares. Todo ello se convierte, entonces, en exponente del brío y la rusticidad de la raza llanera.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GRANCOLOMBIA_INDEPENDIST_HEADING">
+			<Text>Gran Colombia Libertador</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GRANCOLOMBIA_INDEPENDIST_TEXT">
+			<Text>
+				Libertadores es el nombre con el que se conoce en América Latina a los próceres nacionalistas de la independencia de Hispanoamérica, que hoy son considerados como "padres de la patria" de las nuevas naciones. Los más decisivos fueron el venezolano Simón Bolívar y el argentino José de San Martín.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BOLIVAR_LIVED">
+			<Text>24 de Julio de 1783 – 17 de Diciembre 1830</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BOLIVAR_NAME">
+			<Text>Simon Jose Antonio de la Santisima Trinidad Bolivar y Palacios Ponte y Blanco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BOLIVAR_SUBTITLE">
+			<Text>El Libertador</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BOLIVAR_TITLES_1">
+			<Text>El Libertador</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BOLIVAR_HEADING_1">
+			<Text>Datos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BOLIVAR_TEXT_1">
+			<Text>
+				Simón José Antonio de la Santísima Trinidad Bolívar y Palacios Ponte-Andrade y Blanco, mejor conocido como Simón Bolívar, (Caracas, Capitanía General de Venezuela, 24 de julio de 1783 — Santa Marta, República de Colombia, 17 de diciembre de 1830) fue un militar y político venezolano de la época pre-republicana de la Capitanía General de Venezuela; fundador de la Gran Colombia y una de las figuras más destacadas de la emancipación americana frente al Imperio español. Contribuyó de manera decisiva a la independencia de las actuales Bolivia, Colombia, Ecuador, Panamá, Perú y Venezuela.
+
+				[NEWLINE][NEWLINE]En 1813 le fue concedido el título honorífico de Libertador por el Cabildo de Mérida en Venezuela que, tras serle ratificado en Caracas ese mismo año, quedó asociado a su nombre. Los problemas para llevar adelante sus planes fueron tan frecuentes que llegó a afirmar de sí mismo que era "el hombre de las dificultades" en una carta dirigida al general Francisco de Paula Santander en 1825.
+
+				[NEWLINE][NEWLINE]Participó en la fundación de la Gran Colombia, nación que intentó consolidar como una gran confederación política y militar en América, de la cual fue Presidente. Bolívar es considerado por sus acciones e ideas el "Hombre de América" y una destacada figura de la Historia Universal, ya que dejó un legado político en diversos países latinoamericanos, algunos de los cuales lo han convertido en objeto de veneración nacionalista. Ha recibido honores en varias partes del mundo a través de estatuas o monumentos, parques, plazas, etc. Así mismo, sus ideas y posturas política-sociales dieron origen a una corriente o postura llamada bolivarianismo.
+			</Text>
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_CIV_GRANCOLOMBIA_ADJECTIVE">
+			<Text>colombiano|colombiana|colombianos|colombianas</Text>
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GRANCOLOMBIA_DESC">
+			<Text>La Gran Colombia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GRANCOLOMBIA_SHORT_DESC">
+			<Text>La Gran Colombia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BOLIVAR">
+			<Text>Simon Bolivar</Text>
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_CIV5_GRANCOLOMBIA_LLANERO_HELP">
+			<Text>El llanero recibe un bono al combate en tierras abiertas, y tranfiere su movimiento a los Libertadores, a diferencia del Lancero, al cuál reemplaza.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GRANCOLOMBIA_LLANERO_INFO">
+			<Text>El llanero recibe un bono al combate en tierras abiertas, y tranfiere su movimiento a los Libertadores, a diferencia del Lancero, al cuál reemplaza.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GRANCOLOMBIA_LLANERO_STRATEGY">
+			<Text>El llanero recibe un bono al combate en tierras abiertas, y tranfiere su movimiento a los Libertadores, a diferencia del Lancero, al cuál reemplaza.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_GRANCOLOMBIA_INDEPENDIST_HELP">
+			<Text>Reemplazo colombiano del Gran General. El libertador otorga un bono al combate contra las ciudades cuando se encuentra al lado de una ciudad. Además puede escribir tratados políticos para generar una gran cantidad de Cultura [ICON_CULTURE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GRANCOLOMBIA_INDEPENDIST_INFO">
+			<Text>Reemplazo colombiano del Gran General. El libertador otorga un bono al combate contra las ciudades cuando se encuentra al lado de una ciudad. Además puede escribir tratados políticos para generar una gran cantidad de Cultura [ICON_CULTURE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GRANCOLOMBIA_INDEPENDIST_STRATEGY">
+			<Text>Reemplazo colombiano del Gran General. El libertador otorga un bono al combate contra las ciudades cuando se encuentra al lado de una ciudad. Además puede escribir tratados políticos para generar una gran cantidad de Cultura [ICON_CULTURE]</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_PROMOTION_LLANERO">
+			<Text>Guerra a Muerte</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LLANERO_HELP">
+			<Text>Recibe un bono al combate en tierras abiertas, y tranfiere su movimiento a los Libertadores</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_LIBERATIONIST">
+			<Text>Campaña Libertaria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LIBERATIONIST_HELP">
+			<Text>+50% de combate a las unidades cercanas en 2 cuadros, pero no en el mismo cuadro, debe estar adyacente a una ciudad.</Text>
+		</Row>
+
+
+
+		<Update>
+			<Set Text="Apoyado contra ciudades"/>
+			<Where Tag="TXT_KEY_EUPANEL_CITY_SAPPED"/>
+		</Update>
+	</Language_ES_ES>
+
+</GameData>

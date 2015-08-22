@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="a8278e2d-2c9c-42ea-b08f-aa09313ff929" version="2">
+  <Properties>
+    <Name>Gran Colombia Civilization</Name>
+    <Teaser>Adds Gran Colombia as a Civilization, with Simon Bolivar as its leader! Requires Brave New World</Teaser>
+    <Description>Adds Gran Colombia as a Civilization, with Simon Bolivar as its leader! Special thanks to Zipa_DH for the map and the Civ Icon, whoward for  the CaptureScripts and True_Candyman for ideas on the Unique Unit. And to daberkk  for the horseman model I based the Llanero on.</Description>
+    <Authors>Leugi, whoward</Authors>
+    <SpecialThanks>Zipa_DH, True_Candyman, bernie14, danrell, whoward, homosubi</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>0</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="4BBD2A51D5E01563935A8CD7CE2D7C5E" import="1">ArtDefineIndependist.sql</File>
+    <File md5="00F5597D71C4BBE5915A4AD93995D21E" import="1">ArtDefineLlanero.sql</File>
+    <File md5="22D9F26D4BE88AF1B1AFD00C5F88CEFC" import="1">Art/Icons/AlphaGranColombiaIcon128.dds</File>
+    <File md5="FEBF2A633764256D5C5D2E451F917CDD" import="1">Art/Icons/AlphaGranColombiaIcon16.dds</File>
+    <File md5="C10A4E3B61C87DE41B877640D6C6B91A" import="1">Art/Icons/AlphaGranColombiaIcon24.dds</File>
+    <File md5="7DCD3773A6E0685A29A1D91FB4890039" import="1">Art/Icons/AlphaGranColombiaIcon256.dds</File>
+    <File md5="6294916E5071FA239A971A81AEDCAC1B" import="1">Art/Icons/AlphaGranColombiaIcon32.dds</File>
+    <File md5="189E5BA7A81F56D7CAB6DB7B6DAB464E" import="1">Art/Icons/AlphaGranColombiaIcon45.dds</File>
+    <File md5="C14BE2A9EA4BCB95E11299603AEC2B3A" import="1">Art/Icons/AlphaGranColombiaIcon48.dds</File>
+    <File md5="F208983269C42B0DAFC618AE887E534D" import="1">Art/Icons/AlphaGranColombiaIcon64.dds</File>
+    <File md5="714E4D94D26924E1CB4EF90747DF6BCB" import="1">Art/Icons/AlphaGranColombiaIcon80.dds</File>
+    <File md5="7DC1C7FA3C63D715630284460B8383FE" import="1">Art/Icons/GranColombiaIcon128.dds</File>
+    <File md5="3C8AB0B66D761EB69BE10A2B9EBB0E9F" import="1">Art/Icons/GranColombiaIcon256.dds</File>
+    <File md5="235B2C9B5AE4578307B80E7E91538305" import="1">Art/Icons/GranColombiaIcon32.dds</File>
+    <File md5="1005BD1ADBF27FCE454F53C0AAE9DA4F" import="1">Art/Icons/GranColombiaIcon45.dds</File>
+    <File md5="7BD6AF50295D85BEB99C524B3646E6E8" import="1">Art/Icons/GranColombiaIcon64.dds</File>
+    <File md5="29E2682297E965C30B8A21B2E2AABA1A" import="1">Art/Icons/GranColombiaIcon80.dds</File>
+    <File md5="022D1A6CF2EE79FE43F6DE47AAACD169" import="1">Art/Icons/GranColombiaMap.dds</File>
+    <File md5="BD467F348BCF580603E14BBB47D7054C" import="1">Art/Icons/IndependistFlag.dds</File>
+    <File md5="E7C1FDE01F99C2C4D9A12E67CAC29C53" import="1">Art/Icons/LlaneroFlag.dds</File>
+    <File md5="09C0576F85176400504DFFC5F3ED8341" import="1">Art/Leader/Bolivar.dds</File>
+    <File md5="D9BD81E8E1519EAAA670C947CDBD8E62" import="1">Art/Leader/BolivarDOM.dds</File>
+    <File md5="24D84754D3628B04B8BB118621559478" import="1">Art/Units/independist.dds</File>
+    <File md5="FE7666ECDC2A1FDD80F349FCC9330E2F" import="1">Art/Units/independist.fxsxml</File>
+    <File md5="D735CCCFED34E2DC13627563938EA35E" import="1">Art/Units/independist.gr2</File>
+    <File md5="265FCEB3E3AF30BD8632A237868F631F" import="1">Art/Units/independist_sref.dds</File>
+    <File md5="8D187DDE531DE97416B8AEBDD4D6B9B8" import="1">Art/Units/Llanero.dds</File>
+    <File md5="2295F752239D49657EE6165CEC8DE582" import="1">Art/Units/Llanero.fxsxml</File>
+    <File md5="70C46E0708A978FDE9BDDCC7FAD1B81F" import="1">Art/Units/Llanero.gr2</File>
+    <File md5="C52348B54F94859816323E6B2352117C" import="1">Art/Units/Llanero_gloss.dds</File>
+    <File md5="EF22E34CAE3CAD8F98198D4BE0EBBBB6" import="1">Art/Units/Llanero_Horse.dds</File>
+    <File md5="AC41C06BA721315512F26433220FEDF7" import="1">Art/Units/no_gloss.dds</File>
+    <File md5="02BE62409555FA582631A46CFF6802B0" import="1">CaptureScripts.lua</File>
+    <File md5="6FF7833412F0CF089BDFCD4714C70816" import="0">XML/Civilization/CivGC.xml</File>
+    <File md5="FBC0D0E2DAB743E2F9C10CED674BF24A" import="0">XML/Civilization/SanJuanCS.xml</File>
+    <File md5="38BA6CD188053E8A58F1AFADCA671587" import="0">XML/Civilization/QuitoCS.xml</File>
+    <File md5="185F83B240B8C5B929FBF21D96A38581" import="0">XML/Civilization/TraitsGC.xml</File>
+    <File md5="EBA4DC72B3444DA5E317F2FC625CEA22" import="1">XML/Icons/IconTextureAtlasesGC.xml</File>
+    <File md5="2B7E258652FDF19D9ACE97997DBC29EF" import="1">XML/Leader/BolivarDiplomaticResponses.xml</File>
+    <File md5="C08A0B3FACB485AC4E426EFAE926650B" import="1">XML/Leader/BolivarPeace.mp3</File>
+    <File md5="992719B0396EE4166EDA4E40FFDB6669" import="1">XML/Leader/BolivarWar.mp3</File>
+    <File md5="2F0C4710238D8CA3960854408980944B" import="1">XML/Leader/Bolivar_Scene.xml</File>
+    <File md5="254CD937342C9A2BF5EAB822148655F2" import="1">XML/Leader/Leader_Bolivar.xml</File>
+    <File md5="AB2D5184DA5CD32D845921D516A0E046" import="0">XML/Music/ColombiaAudioScripts.xml</File>
+    <File md5="2B36B2E124833CD3E480A1B42C2959CD" import="0">XML/Text/BolivarSpeech.xml</File>
+    <File md5="326739B04540E9256C59F9D609C6FE62" import="0">XML/Text/CIV5GameText_Names_GC.xml</File>
+    <File md5="92C7BE16D8894D6E1BD66219BC761504" import="0">XML/Text/GranColombiaCivilopedia.xml</File>
+    <File md5="232771DD43DB7E75F4912181EFF33191" import="0">XML/Units/FakeUntrainableUnit.xml</File>
+    <File md5="EF262A2C85CD2E8521DF509736732DE0" import="0">XML/Units/NewUnitsGC.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML\Civilization\CivGC.xml</UpdateDatabase>
+      <UpdateDatabase>XML\Civilization\TraitsGC.xml</UpdateDatabase>
+      <UpdateDatabase>XML\Leader\Bolivar_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>XML\Leader\BolivarDiplomaticResponses.xml</UpdateDatabase>
+      <UpdateDatabase>XML\Leader\Leader_Bolivar.xml</UpdateDatabase>
+      <UpdateDatabase>XML\Text\BolivarSpeech.xml</UpdateDatabase>
+      <UpdateDatabase>XML\Text\CIV5GameText_Names_GC.xml</UpdateDatabase>
+      <UpdateDatabase>XML\Text\GranColombiaCivilopedia.xml</UpdateDatabase>
+      <UpdateDatabase>XML\Units\NewUnitsGC.xml</UpdateDatabase>
+      <UpdateDatabase>ArtDefineLlanero.sql</UpdateDatabase>
+      <UpdateDatabase>XML\Icons\IconTextureAtlasesGC.xml</UpdateDatabase>
+      <UpdateDatabase>ArtDefineIndependist.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Units/FakeUntrainableUnit.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization/QuitoCS.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization/SanJuanCS.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Music/ColombiaAudioScripts.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="CaptureScripts.lua">
+      <Name>GranColombiaTrait</Name>
+      <Description>GranColombiaTrait</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

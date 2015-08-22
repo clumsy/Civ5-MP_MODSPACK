@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<!-- Sid Meier's Civilization V -->
+<!-- Copyright Firaxis Games 2010 -->
+<!-- -->
+<!-- Game Text Cities -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITY_NAME_GRANCOLOMBIA_01">
+			<Text>Bogotá</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GRANCOLOMBIA_02">
+			<Text>Caracas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GRANCOLOMBIA_03">
+			<Text>Quito</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GRANCOLOMBIA_04">
+			<Text>Panamá</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GRANCOLOMBIA_05">
+			<Text>Santo Tomás</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GRANCOLOMBIA_06">
+			<Text>Magangue</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GRANCOLOMBIA_07">
+			<Text>Guayaquil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GRANCOLOMBIA_08">
+			<Text>Maracaibo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GRANCOLOMBIA_09">
+			<Text>Cumana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GRANCOLOMBIA_10">
+			<Text>Puerto Cabello</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GRANCOLOMBIA_11">
+			<Text>Popayán</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GRANCOLOMBIA_12">
+			<Text>Angostura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GRANCOLOMBIA_13">
+			<Text>Santiago de Cali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GRANCOLOMBIA_14">
+			<Text>Tuja</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GRANCOLOMBIA_15">
+			<Text>Medellán</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GRANCOLOMBIA_16">
+			<Text>Santa Marta</Text>
+		</Row>
+
+
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_GRANCOLOMBIA_0">
+			<Text>Rodriguez</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GRANCOLOMBIA_1">
+			<Text>San Martán</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GRANCOLOMBIA_2">
+			<Text>Castilla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GRANCOLOMBIA_3">
+			<Text>Artigas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GRANCOLOMBIA_4">
+			<Text>Hidalgo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GRANCOLOMBIA_5">
+			<Text>Saenz</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GRANCOLOMBIA_6">
+			<Text>Miranda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GRANCOLOMBIA_7">
+			<Text>Ssima</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GRANCOLOMBIA_8">
+			<Text>Piar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GRANCOLOMBIA_9">
+			<Text>Arenales</Text>
+		</Row>
+
+		
+		
+		<Row Tag="TXT_KEY_GRANCOLOMBIA_INDEPENDIST_01">
+			<Text>Jose de San Martín</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GRANCOLOMBIA_INDEPENDIST_02">
+			<Text>Ramón Castilla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GRANCOLOMBIA_INDEPENDIST_03">
+			<Text>Andrés de Santa Cruz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GRANCOLOMBIA_INDEPENDIST_04">
+			<Text>Manuel Belgrano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GRANCOLOMBIA_INDEPENDIST_05">
+			<Text>Jose de San Martin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GRANCOLOMBIA_INDEPENDIST_06">
+			<Text>Francisco de Miranda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GRANCOLOMBIA_INDEPENDIST_07">
+			<Text>Mariano Moreno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GRANCOLOMBIA_INDEPENDIST_08">
+			<Text>Bernardo O'Higgins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GRANCOLOMBIA_INDEPENDIST_09">
+			<Text>Antonio Jose de Sucre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GRANCOLOMBIA_INDEPENDIST_10">
+			<Text>Jose Miguel Lanza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GRANCOLOMBIA_INDEPENDIST_11">
+			<Text>Manuel Ascencio Padilla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GRANCOLOMBIA_INDEPENDIST_12">
+			<Text>Eustaquio Mendez</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GRANCOLOMBIA_INDEPENDIST_13">
+			<Text>Manuel Piar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GRANCOLOMBIA_INDEPENDIST_14">
+			<Text>Jose Felix Ribas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GRANCOLOMBIA_INDEPENDIST_15">
+			<Text>Santander</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GRANCOLOMBIA_INDEPENDIST_16">
+			<Text>Arenales</Text>
+		</Row>
+		
+	</Language_en_US>
+	<Language_ES_ES>
+		<Row Tag="TXT_KEY_CITY_NAME_GRANCOLOMBIA_01">
+			<Text>Bogotá</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GRANCOLOMBIA_02">
+			<Text>Caracas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GRANCOLOMBIA_03">
+			<Text>Quito</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GRANCOLOMBIA_04">
+			<Text>Panamá</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GRANCOLOMBIA_05">
+			<Text>Santo Tomás</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GRANCOLOMBIA_06">
+			<Text>Magangue</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GRANCOLOMBIA_07">
+			<Text>Guayaquil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GRANCOLOMBIA_08">
+			<Text>Maracaibo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GRANCOLOMBIA_09">
+			<Text>Cumana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GRANCOLOMBIA_10">
+			<Text>Puerto Cabello</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GRANCOLOMBIA_11">
+			<Text>Popayán</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GRANCOLOMBIA_12">
+			<Text>Angostura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GRANCOLOMBIA_13">
+			<Text>Santiago de Cali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GRANCOLOMBIA_14">
+			<Text>Tuja</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GRANCOLOMBIA_15">
+			<Text>Medellán</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GRANCOLOMBIA_16">
+			<Text>Santa Marta</Text>
+		</Row>
+
+
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_GRANCOLOMBIA_0">
+			<Text>Rodriguez</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GRANCOLOMBIA_1">
+			<Text>San Martán</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GRANCOLOMBIA_2">
+			<Text>Castilla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GRANCOLOMBIA_3">
+			<Text>Artigas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GRANCOLOMBIA_4">
+			<Text>Hidalgo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GRANCOLOMBIA_5">
+			<Text>Saenz</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GRANCOLOMBIA_6">
+			<Text>Miranda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GRANCOLOMBIA_7">
+			<Text>Ssima</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GRANCOLOMBIA_8">
+			<Text>Piar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GRANCOLOMBIA_9">
+			<Text>Arenales</Text>
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_GRANCOLOMBIA_INDEPENDIST_01">
+			<Text>Jose de San Martín</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GRANCOLOMBIA_INDEPENDIST_02">
+			<Text>Ramón Castilla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GRANCOLOMBIA_INDEPENDIST_03">
+			<Text>Andrés de Santa Cruz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GRANCOLOMBIA_INDEPENDIST_04">
+			<Text>Manuel Belgrano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GRANCOLOMBIA_INDEPENDIST_05">
+			<Text>Jose de San Martin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GRANCOLOMBIA_INDEPENDIST_06">
+			<Text>Francisco de Miranda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GRANCOLOMBIA_INDEPENDIST_07">
+			<Text>Mariano Moreno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GRANCOLOMBIA_INDEPENDIST_08">
+			<Text>Bernardo O'Higgins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GRANCOLOMBIA_INDEPENDIST_09">
+			<Text>Antonio Jose de Sucre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GRANCOLOMBIA_INDEPENDIST_10">
+			<Text>Jose Miguel Lanza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GRANCOLOMBIA_INDEPENDIST_11">
+			<Text>Manuel Ascencio Padilla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GRANCOLOMBIA_INDEPENDIST_12">
+			<Text>Eustaquio Mendez</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GRANCOLOMBIA_INDEPENDIST_13">
+			<Text>Manuel Piar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GRANCOLOMBIA_INDEPENDIST_14">
+			<Text>Jose Felix Ribas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GRANCOLOMBIA_INDEPENDIST_15">
+			<Text>Santander</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GRANCOLOMBIA_INDEPENDIST_16">
+			<Text>Arenales</Text>
+		</Row>
+
+	</Language_ES_ES>
+</GameData>

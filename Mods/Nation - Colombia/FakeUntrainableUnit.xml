@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/18/2013 7:24:37 PM -->
+<GameData>
+	<Technologies>
+		<InsertOrAbort>
+			<Type>TECH_FORBIDDEN</Type>
+			<Cost>20</Cost>
+			<Description>TXT_KEY_2TECH_FORBIDDEN_TITLE</Description>
+			<Civilopedia>TXT_KEY_2TECH_FORBIDDEN_HELP</Civilopedia>
+			<Help>TXT_KEY_2TECH_FORBIDDEN_HELP</Help>
+			<Era>ERA_FUTURE</Era>
+			<GridX>28</GridX>
+			<GridY>28</GridY>
+			<Quote>TXT_KEY_2TECH_FORBIDDEN_HELP</Quote>
+			<PortraitIndex>82</PortraitIndex>
+			<IconAtlas>UNIT_ATLAS_2</IconAtlas>
+		</InsertOrAbort>	
+	</Technologies>
+	<Technology_PrereqTechs>
+		<InsertOrAbort>
+			<TechType>TECH_FORBIDDEN</TechType>
+			<PrereqTech>TECH_FORBIDDEN</PrereqTech>
+		</InsertOrAbort>	
+	</Technology_PrereqTechs>
+	<UnitClasses>
+		<InsertOrAbort>
+			<Type>UNITCLASS_GREATPERSON_PROMOTION</Type>
+			<Description>TXT_KEY_2GREATPERSON_PROMOTION</Description>
+			<DefaultUnit>UNIT_GREATPERSON_PROMOTION</DefaultUnit>
+		</InsertOrAbort>	
+	</UnitClasses>
+	<Units>
+		<InsertOrAbort>
+			<Class>UNITCLASS_GREATPERSON_PROMOTION</Class>
+			<Type>UNIT_GREATPERSON_PROMOTION</Type>
+			<PrereqTech>TECH_FORBIDDEN</PrereqTech>
+			<Moves>0</Moves>
+			<Cost>-1</Cost>
+			<Description>TXT_KEY_2PROMOTION_GREAT_PERSON</Description>
+			<Civilopedia>TXT_KEY_2PROMOTION_GREAT_PERSON</Civilopedia>
+			<ShowInPedia>false</ShowInPedia>
+			<Strategy>TXT_KEY_2PROMOTION_GREAT_PERSON</Strategy>
+			<Help>TXT_KEY_2PROMOTION_GREAT_PERSON</Help>
+			<Food>true</Food>
+			<Found>true</Found>
+			<CombatLimit>0</CombatLimit>
+			<UnitArtInfo>ART_DEF_UNIT__SETTLER</UnitArtInfo>
+			<UnitFlagIconOffset>82</UnitFlagIconOffset>
+			<IconAtlas>UNIT_ATLAS_2</IconAtlas>
+		</InsertOrAbort>
+	</Units>
+	<Unit_ClassUpgrades>
+		<InsertOrAbort>
+			<UnitType>UNIT_MERCHANT</UnitType>
+			<UnitClassType>UNITCLASS_GREATPERSON_PROMOTION</UnitClassType>
+		</InsertOrAbort>
+		<InsertOrAbort>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<UnitClassType>UNITCLASS_GREATPERSON_PROMOTION</UnitClassType>
+		</InsertOrAbort>
+		<InsertOrAbort>
+			<UnitType>UNIT_SCIENTIST</UnitType>
+			<UnitClassType>UNITCLASS_GREATPERSON_PROMOTION</UnitClassType>
+		</InsertOrAbort>
+		<InsertOrAbort>
+			<UnitType>UNIT_ENGINEER</UnitType>
+			<UnitClassType>UNITCLASS_GREATPERSON_PROMOTION</UnitClassType>
+		</InsertOrAbort>
+		<InsertOrAbort>
+			<UnitType>UNIT_PROPHET</UnitType>
+			<UnitClassType>UNITCLASS_GREATPERSON_PROMOTION</UnitClassType>
+		</InsertOrAbort>
+		<InsertOrAbort>
+			<UnitType>UNIT_WRITER</UnitType>
+			<UnitClassType>UNITCLASS_GREATPERSON_PROMOTION</UnitClassType>
+		</InsertOrAbort>
+		<InsertOrAbort>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<UnitClassType>UNITCLASS_GREATPERSON_PROMOTION</UnitClassType>
+		</InsertOrAbort>
+		<InsertOrAbort>
+			<UnitType>UNIT_GREAT_GENERAL</UnitType>
+			<UnitClassType>UNITCLASS_GREATPERSON_PROMOTION</UnitClassType>
+		</InsertOrAbort>
+	</Unit_ClassUpgrades>
+	<UnitPromotions>
+		<InsertOrAbort>
+			<Type>PROMOTION_GREAT_PERSON</Type>
+			<Description>TXT_KEY_2PROMOTION_GREAT_PERSON</Description>
+			<Help>TXT_KEY_2PROMOTION_GREAT_PERSON_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<OrderPriority>99</OrderPriority>
+			<LostWithUpgrade>true</LostWithUpgrade>
+			<CannotBeChosen>true</CannotBeChosen>
+			<UpgradeDiscount>-400</UpgradeDiscount>
+			<PortraitIndex>16</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_2PEDIA_PROMOTION_GREAT_PERSON</PediaEntry>
+		</InsertOrAbort>	
+	</UnitPromotions>
+	<Unit_FreePromotions>
+		<InsertOrAbort>
+			<UnitType>UNIT_MERCHANT</UnitType>
+			<PromotionType>PROMOTION_GREAT_PERSON</PromotionType>
+		</InsertOrAbort>
+		<InsertOrAbort>
+			<UnitType>UNIT_ARTIST</UnitType>
+			<PromotionType>PROMOTION_GREAT_PERSON</PromotionType>
+		</InsertOrAbort>
+		<InsertOrAbort>
+			<UnitType>UNIT_SCIENTIST</UnitType>
+			<PromotionType>PROMOTION_GREAT_PERSON</PromotionType>
+		</InsertOrAbort>
+		<InsertOrAbort>
+			<UnitType>UNIT_ENGINEER</UnitType>
+			<PromotionType>PROMOTION_GREAT_PERSON</PromotionType>
+		</InsertOrAbort>
+		<InsertOrAbort>
+			<UnitType>UNIT_PROPHET</UnitType>
+			<PromotionType>PROMOTION_GREAT_PERSON</PromotionType>
+		</InsertOrAbort>
+		<InsertOrAbort>
+			<UnitType>UNIT_WRITER</UnitType>
+			<PromotionType>PROMOTION_GREAT_PERSON</PromotionType>
+		</InsertOrAbort>
+		<InsertOrAbort>
+			<UnitType>UNIT_MUSICIAN</UnitType>
+			<PromotionType>PROMOTION_GREAT_PERSON</PromotionType>
+		</InsertOrAbort>
+		<InsertOrAbort>
+			<UnitType>UNIT_GREAT_GENERAL</UnitType>
+			<PromotionType>PROMOTION_GREAT_PERSON</PromotionType>
+		</InsertOrAbort>
+		
+	</Unit_FreePromotions>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_2TECH_FORBIDDEN_TITLE">
+			<Text>Forbidden Knowledge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_2TECH_FORBIDDEN_HELP">
+			<Text>You shouldn't even be seeing this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_2PROMOTION_GREAT_PERSON">
+			<Text>Greatness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_2PROMOTION_GREAT_PERSON_HELP">
+			<Text>This unit is a Great Person, it has abilities that shall trascend history.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_2PEDIA_PROMOTION_GREAT_PERSON">
+			<Text>Some people are called for Greatness. Great People are special units that may not be produced through normal means, and have special abilities.</Text>
+		</Row>
+		
+	</Language_en_US>
+	<Language_ES_ES>
+		<Row Tag="TXT_KEY_2TECH_FORBIDDEN_TITLE">
+			<Text>Conocimientos Prohibidos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_2TECH_FORBIDDEN_HELP">
+			<Text>Ni siquiera deberías estar viendo esto.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_2PROMOTION_GREAT_PERSON">
+			<Text>Grandeza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_2PROMOTION_GREAT_PERSON_HELP">
+			<Text>Esta unidad es un Gran Personaje, tiene habilidades que lo harán trascender la historia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_2PEDIA_PROMOTION_GREAT_PERSON">
+			<Text>Algunas personas están llamadas a la grandeza. Los grandes personajes tienen habilidades que pueden cambiar el curso del juego.</Text>
+		</Row>
+
+	</Language_ES_ES>
+</GameData>
