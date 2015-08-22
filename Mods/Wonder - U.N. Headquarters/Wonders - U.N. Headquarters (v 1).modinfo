@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="d1dca48e-6b14-4efe-816b-587b027ffbd7" version="1">
+  <Properties>
+    <Name>Wonders - U.N. Headquarters</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>The headquarters of the United Nations is a complex in New York City.</Teaser>
+    <Description>The headquarters of the United Nations is a complex in New York City. The complex has served as the official headquarters of the United Nations since its completion in 1952. It is located in the Turtle Bay neighborhood of the borough of Manhattan, on spacious grounds overlooking the East River. Its borders are First Avenue on the west, East 42nd Street to the south, East 48th Street on the north and the East River to the east. Turtle Bay is occasionally used as a metonym for the U.N. headquarters or for the U.N. as a whole. Grants 3 additional Delegates in the World Congress. Available with Globalization.
+
+[NEWLINE][NEWLINE]
+
+Requires Brave New World.
+
+[NEWLINE][NEWLINE]
+
+Follow me on twitter @fourfourhero to get notifications about updates to this mod as well as others.</Description>
+    <Authors>Envoy (@fourfourhero)</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="3B4074D89BFEB60C4F478FC46CBED18E" import="0">XML/Buildings/UnitedNations_Buildings.xml</File>
+    <File md5="BB065EB9544AAE78AA57F1013C6015F8" import="0">XML/Civilizations/UnitedNations_Civilizations.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Buildings/UnitedNations_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/UnitedNations_Civilizations.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

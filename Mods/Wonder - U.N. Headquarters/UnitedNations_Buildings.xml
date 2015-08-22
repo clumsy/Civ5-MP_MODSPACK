@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_UNITED_NATIONS_HQ</Type>
+			<DefaultBuilding>BUILDING_UNITED_NATIONS_HQ</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_UNITED_NATIONS_HQ</Description>
+			<MaxGlobalInstances>1</MaxGlobalInstances>
+		</Row>
+	</BuildingClasses>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_UNITED_NATIONS_HQ</Type>
+			<BuildingClass>BUILDINGCLASS_UNITED_NATIONS_HQ</BuildingClass>
+			<Cost>1500</Cost>
+			<PrereqTech>TECH_GLOBALIZATION</PrereqTech>
+			<Help>TXT_KEY_WONDER_UNITED_NATIONS_HQ_HELP</Help>
+			<Description>TXT_KEY_BUILDING_UNITED_NATIONS_HQ</Description>
+			<Civilopedia>TXT_KEY_WONDER_UNITED_NATIONS_HQ_DESC</Civilopedia>
+			<Quote>TXT_KEY_WONDER_UNITEDNATIONS_QUOTE</Quote>
+			<ArtDefineTag>UNITED NATIONS</ArtDefineTag>
+			<NukeImmune>true</NukeImmune>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>100</ConquestProb>
+			<DisplayPosition>1</DisplayPosition>			
+			<ExtraLeagueVotes>3</ExtraLeagueVotes>				
+			<IconAtlas>BW_ATLAS_2</IconAtlas>
+			<PortraitIndex>26</PortraitIndex>
+			<WonderSplashImage>WonderConceptUN.dds</WonderSplashImage>
+			<WonderSplashAudio>AS2D_WONDER_SPEECH_UNITED_NATIONS</WonderSplashAudio>
+		</Row>
+	</Buildings>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_UNITED_NATIONS_HQ</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_UNITED_NATIONS_HQ</BuildingType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_UNITED_NATIONS_HQ</BuildingType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>25</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_UNITED_NATIONS_HQ</BuildingType>
+			<FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+	</Building_Flavors>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_UNITED_NATIONS_HQ">
+			<Text>U.N. Headquarters</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_UNITED_NATIONS_HQ_HELP">
+			<Text>Grants 3 additional Delegates in the World Congress.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_UNITED_NATIONS_HQ_DESC">
+			<Text>The headquarters of the United Nations is a complex in New York City. The complex has served as the official headquarters of the United Nations since its completion in 1952. It is located in the Turtle Bay neighborhood of the borough of Manhattan, on spacious grounds overlooking the East River. Its borders are First Avenue on the west, East 42nd Street to the south, East 48th Street on the north and the East River to the east. Turtle Bay is occasionally used as a metonym for the U.N. headquarters or for the U.N. as a whole.[NEWLINE][NEWLINE]Although it is situated in New York City, the land occupied by the United Nations Headquarters and the spaces of buildings that it rents are under the sole administration of the United Nations. They are technically extraterritorial through a treaty agreement with the U.S. government. However, in exchange for local police and fire protection and other services, the U.N. agrees to acknowledge most local, state, and federal laws.[NEWLINE][NEWLINE]The United Nations Headquarters complex was constructed in stages with the core complex completed between 1948-1952. The Headquarters occupies a site beside the East River, on 17 acres (69,000 m2) of land purchased from the foremost New York real estate developer of the time, William Zeckendorf, Sr. Nelson Rockefeller arranged this purchase, after an initial offer to locate it on the Rockefeller family estate of Kykuit was rejected as being too isolated from Manhattan. The US$8.5 million purchase was then funded by his father, John D. Rockefeller, Jr., who donated it to the city. Wallace Harrison, the personal architectural adviser for the Rockefeller family, and a prominent corporate architect, served as the Director of Planning for the United Nations Headquarters. His firm, Harrison and Abramovitz, oversaw the execution of the design.</Text>
+		</Row>		
+	</Language_en_US>
+</GameData>
