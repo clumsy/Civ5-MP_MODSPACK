@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>BW_ATLAS_WESTMINSTER</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>WESTMINSTER_256.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BW_ATLAS_WESTMINSTER</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>WESTMINSTER_128.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BW_ATLAS_WESTMINSTER</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>WESTMINSTER_64.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BW_ATLAS_WESTMINSTER</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>WESTMINSTER_80.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BW_ATLAS_WESTMINSTER</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>WESTMINSTER_45.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+</GameData>

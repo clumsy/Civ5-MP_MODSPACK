@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_WESTMINSTER">
+			<Text>Westminster Abbey</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_WESTMINSTER_HELP">
+			<Text>+2 [ICON_CULTURE] Culture for every social policy tree entered. Additional +4 [ICON_CULTURE] Culture for every Completed Social policy tree.</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_WESTMINSTER_QUOTE">
+			<Text>[NEWLINE]"In this world there are only two tragedies. One is not getting what one wants, and the other is getting it"[NEWLINE] - Oscar Wilde[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_WESTMINSTER_PEDIA">
+			<Text>The Collegiate Church of St Peter at Westminster, more commonly known as Westminster Abbey, is a mostly Gothic church in Westminster, London. It is the traditional site for coronations and burials for English and British monarchs. According to tradition the Abbey was founded during the time of Bishop Mellitus; circa 600, build when a fisherman saw a vision of Saint Peter at the river Thames. The known origin of the Abbey dates back as far as around 960-970, where Saint Dunstan and King Edgar installed Benedictine monks in the Abbey.[NEWLINE][NEWLINE]Edward the Confessor began rebuilding the Abbey between 1042 and 1052 to provide himself a royal burial church; it would be the first church in England in the Norman Romanesque style. While not completed until 1090 the Abbey was consecrated on December 28 1065 - one week before Edward's death. His successor, Harold Godwinson, may have been crowned at the Abbey, but the first documented coronation is that of William the Conqueror. The present church was build by Henry III in 1245; the Abbey became the coronation site of Norman kings but none were buried there until Henry III. Henry even constructed a shrine inside the Abbey to venere King Edward. The construction continued on and off between 1245 all the way to 1517 and was mostly complete by Henry Yevele, the commissioned architect during the reign of Richard II. The iconic towers adorning the western facade of the Abbey were built between 1722 and 1745 by Nicholas Hawksmoor; this was one of many restorations and constructions that occurred in and around Westminster Abbey to give it its current look.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

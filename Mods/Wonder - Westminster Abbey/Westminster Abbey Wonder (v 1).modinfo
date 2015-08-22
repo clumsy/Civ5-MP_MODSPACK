@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="7d2ac9f1-212b-4a58-a43d-7d105d77000e" version="1">
+  <Properties>
+    <Name>Westminster Abbey Wonder</Name>
+    <Teaser>Westminster Abbey</Teaser>
+    <Description>Westminster Abbey is a large church located in the city of Westminster which is in turn within London in the United Kingdom.The site has been home to a religious building for well over a millenium, although construction on the current church was only begun during the reign of Henry III in 1245, partially as a site for his burial. Since the completion of the church it has been the burial site for many monarchs and notable people of England, to the extent that the South Transept is also known as Poet's Corner. It also features memorials to several more prominent figures, such as William Shakespeare and Oscar Wilde, as well as being the location for Royal Weddings, coronations and funerals, among other things. Ingame, Westminster Abbey provides +2 Culture for every Social Policy tree adopted, and a further +4 for every completed tree, while it requires Chivalry.</Description>
+    <Authors>Pouakai, sukritact, Chrissifniotis</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="DA7B1A9941941768AB8871B3D49CE45D" import="1">Art/Westminster_128.dds</File>
+    <File md5="6564E4D8E552FD69A08E14ACF87D5203" import="1">Art/Westminster_256.dds</File>
+    <File md5="E8B69F4D091112FD9D8E58E406819A91" import="1">Art/Westminster_45.dds</File>
+    <File md5="5A532773534142523403C8D75316C3C7" import="1">Art/Westminster_64.dds</File>
+    <File md5="1F4644255DC452D9360B732AA282DA10" import="1">Art/Westminster_80.dds</File>
+    <File md5="5E21C0276C8A14AB8FD8FBA284E470B9" import="1">Art/Westminster_splash.dds</File>
+    <File md5="BEFD8726060336B418565C58058E775B" import="0">XML/Buildings/Westminster_BuildingClasses.xml</File>
+    <File md5="41645680DEDE23290C06AEF47CF6D0C3" import="0">XML/Buildings/Westminster_Buildings.xml</File>
+    <File md5="6FC93D2B5771185B7B3B5C35E4E08C0A" import="0">XML/Civilizations/Westminster_Civilizations.xml</File>
+    <File md5="536CF9D952F0E3802B9B965C221F3DBA" import="0">XML/GameInfo/Westminster_Policies.xml</File>
+    <File md5="456439F41D6C1278B4F44713714D979C" import="0">XML/GameInfo/Westminster_IconTextureAtlases.xml</File>
+    <File md5="35EF7BD1E4D55781BCCDBE7B5F91FCDC" import="0">XML/Text/Westminster_text_EN_US.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Buildings/Westminster_BuildingClasses.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Westminster_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Westminster_Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/Westminster_IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/Westminster_Policies.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Westminster_text_EN_US.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>
