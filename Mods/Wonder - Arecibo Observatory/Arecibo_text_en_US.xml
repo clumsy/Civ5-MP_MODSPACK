@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_ARECIBO">
+			<Text>Arecibo Observatory</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_WONDER_ARECIBO_HELP">
+			<Text>+50% [ICON_PRODUCTION] Production when building Spaceship Parts. A free Great Scientist appears near the city in which the wonder is built.</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_ARECIBO_QUOTE">
+			<Text>
+				[NEWLINE]"The surface of the Earth is the shore of the cosmic ocean. From it we have learned most of what we know. Recently, we have waded a little out to sea, enough to dampen our toes or, at most, wet our ankles. The water seems inviting. The ocean calls."[NEWLINE] - Carl Sagan[NEWLINE]</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_WONDER_ARECIBO_PEDIA">
+			<Text> The Arecibo Observatory is the world's largest Radio Telescope, at 305 metres (1000 feet) in width. It was constructed in 1963 in a naturally-formed sinkhole near Arecibo, Puerto Rico. It consists of the dish, which is on the ground, and a large reciever suspended above the dish by three towers which vary in height due to ground elevation. Since its construction in 1963, the observatory has been used for a variety of different purposes. Originally designed to study Earth's Ionosphere (The layer of Earth's atmosphere above 85 kilometres where solar radiation still affects the atmosphere. Auroras form in this layer), the Arecibo Observatory has since made a variety of discoveries and been used for several research projects. In 1990, the telescope was used to discover the first ever known Exo-planets (Planets existing outside our own Solar System). It was also used to discover Neutron stars (stars that half half a million times more mass than Earth in an area equivalent to the size of Brooklyn, New York). It has also been used for countless other astronomical discoveries. In 1974, the Observatory sent a message of binary characters, consisting of the numbers 1 to 10, DNA makeup, the solar system and more information, towards a star cluster known as globular cluser M13, around 25,000 light years away, in the hope of contacting intelligent life. </Text>
+		</Row>
+	</Language_en_US>
+</GameData>

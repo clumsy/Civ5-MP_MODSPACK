@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_ARECIBO</Type>
+			<DefaultBuilding>BUILDING_ARECIBO</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_ARECIBO</Description>
+			<MaxGlobalInstances>1</MaxGlobalInstances>
+		</Row>
+	</BuildingClasses>
+</GameData>

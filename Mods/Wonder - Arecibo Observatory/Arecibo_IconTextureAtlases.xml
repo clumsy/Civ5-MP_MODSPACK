@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>BW_ATLAS_ARECIBO</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>ARECIBO_256.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BW_ATLAS_ARECIBO</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>ARECIBO_128.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BW_ATLAS_ARECIBO</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>ARECIBO_64.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BW_ATLAS_ARECIBO</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>ARECIBO_80.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>BW_ATLAS_ARECIBO</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>ARECIBO_45.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+</GameData>
