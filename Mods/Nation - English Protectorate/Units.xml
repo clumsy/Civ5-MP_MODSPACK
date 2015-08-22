@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/12/2014 5:48:57 PM -->
+
+
+	<GameData>
+
+
+		-<Units>
+
+
+			-<Row>
+
+				<Type>UNIT_ROUNDHEAD</Type>
+
+				<Description>TXT_KEY_UNIT_ROUNDHEAD</Description>
+
+				<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_ROUNDHEAD_TEXT</Civilopedia>
+
+				<Strategy>TXT_KEY_UNIT_ROUNDHEAD_STRATEGY</Strategy>
+
+				<Help>TXT_KEY_UNIT_HELP_ROUNDHEAD</Help>
+
+				<Combat>26</Combat>
+
+				<Cost>120</Cost>
+
+				<FaithCost>300</FaithCost>
+
+				<RequiresFaithPurchaseEnabled>1</RequiresFaithPurchaseEnabled>
+
+				<Moves>2</Moves>
+
+				<Class>UNITCLASS_MUSKETMAN</Class>
+
+				<CombatClass>UNITCOMBAT_GUN</CombatClass>
+
+				<Domain>DOMAIN_LAND</Domain>
+
+				<DefaultUnitAI>UNITAI_ATTACK</DefaultUnitAI>
+
+				<MilitarySupport>1</MilitarySupport>
+
+				<MilitaryProduction>1</MilitaryProduction>
+
+				<Pillage>1</Pillage>
+
+				<PrereqTech>TECH_GUNPOWDER</PrereqTech>
+
+				<ObsoleteTech>TECH_RIFLING</ObsoleteTech>
+
+				<GoodyHutUpgradeUnitClass>UNITCLASS_RIFLEMAN</GoodyHutUpgradeUnitClass>
+
+				<AdvancedStartCost>25</AdvancedStartCost>
+
+				<MinAreaSize>-1</MinAreaSize>
+
+				<NukeDamageLevel>-1</NukeDamageLevel>
+				
+				<CombatLimit>100</CombatLimit>
+
+				<XPValueAttack>3</XPValueAttack>
+
+				<XPValueDefense>3</XPValueDefense>
+
+				<Conscription>4</Conscription>
+				
+				<UnitArtInfo>ART_DEF_UNIT_MUSKETMAN</UnitArtInfo>
+
+				<ShowInPedia>1</ShowInPedia>
+
+				<MoveRate>BIPED</MoveRate>
+
+				<UnitFlagIconOffset>0</UnitFlagIconOffset>
+
+				<PortraitIndex>2</PortraitIndex>
+
+				<IconAtlas>CROMWELL_ATLAS</IconAtlas>
+
+				<UnitFlagAtlas>ROUNDHEAD_ALPHA</UnitFlagAtlas>
+
+			</Row>
+
+			-<Row>
+
+				<Class>UNITCLASS_LANCER</Class>
+
+				<Type>UNIT_IRONSIDE</Type>
+
+				<PrereqTech>TECH_METALLURGY</PrereqTech>
+
+				<Combat>30</Combat>
+
+				<Cost>185</Cost>
+
+				<FaithCost>370</FaithCost>
+
+				<RequiresFaithPurchaseEnabled>1</RequiresFaithPurchaseEnabled>
+
+				<Moves>4</Moves>
+
+				<CombatClass>UNITCOMBAT_MOUNTED</CombatClass>
+
+				<Domain>DOMAIN_LAND</Domain>
+
+				<DefaultUnitAI>UNITAI_FAST_ATTACK</DefaultUnitAI>
+
+				<Description>TXT_KEY_UNIT_IRONSIDE</Description>
+
+				<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_IRONSIDE_TEXT</Civilopedia>
+
+				<Strategy>TXT_KEY_UNIT_IRONSIDE_STRATEGY</Strategy>
+
+				<Help>TXT_KEY_UNIT_HELP_IRONSIDE</Help>
+
+				<MilitarySupport>1</MilitarySupport>
+
+				<MilitaryProduction>1</MilitaryProduction>
+
+				<Pillage>1</Pillage>
+
+				<ObsoleteTech>TECH_MILITARY_SCIENCE</ObsoleteTech>
+
+				<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+
+				<GoodyHutUpgradeUnitClass>UNITCLASS_CAVALRY</GoodyHutUpgradeUnitClass>
+
+				<AdvancedStartCost>30</AdvancedStartCost>
+
+				<XPValueAttack>3</XPValueAttack>
+
+				<XPValueDefense>3</XPValueDefense>
+
+				<UnitArtInfo>ART_DEF_UNIT_IRONSIDE</UnitArtInfo>
+
+				<UnitFlagIconOffset>0</UnitFlagIconOffset>
+
+				<IconAtlas>CROMWELL_ATLAS</IconAtlas>
+
+				<PortraitIndex>3</PortraitIndex>
+
+				<MoveRate>QUADRUPED</MoveRate>
+
+				<UnitFlagAtlas>IRONSIDE_ALPHA</UnitFlagAtlas>
+
+			</Row>
+			
+		</Units>
+
+
+		-<Unit_AITypes>
+
+
+			-<Row>
+
+				<UnitType>UNIT_ROUNDHEAD</UnitType>
+
+				<UnitAIType>UNITAI_ATTACK</UnitAIType>
+
+			</Row>
+
+
+			-<Row>
+
+				<UnitType>UNIT_ROUNDHEAD</UnitType>
+
+				<UnitAIType>UNITAI_DEFENSE</UnitAIType>
+
+			</Row>
+
+
+			-<Row>
+
+				<UnitType>UNIT_ROUNDHEAD</UnitType>
+
+				<UnitAIType>UNITAI_EXPLORE</UnitAIType>
+
+			</Row>
+
+			-<Row>
+
+				<UnitType>UNIT_IRONSIDE</UnitType>
+
+				<UnitAIType>UNITAI_DEFENSE</UnitAIType>
+
+			</Row>
+
+
+			-<Row>
+
+				<UnitType>UNIT_IRONSIDE</UnitType>
+
+				<UnitAIType>UNITAI_ATTACK</UnitAIType>
+
+			</Row>
+
+
+			-<Row>
+
+				<UnitType>UNIT_IRONSIDE</UnitType>
+
+				<UnitAIType>UNITAI_FAST_ATTACK</UnitAIType>
+
+			</Row>
+
+		</Unit_AITypes>
+
+		-<Unit_ClassUpgrades>
+
+
+			-<Row>
+
+				<UnitType>UNIT_ROUNDHEAD</UnitType>
+
+				<UnitClassType>UNITCLASS_RIFLEMAN</UnitClassType>
+
+			</Row>
+
+			-<Row>
+
+				<UnitType>UNIT_IRONSIDE</UnitType>
+
+				<UnitClassType>UNITCLASS_CAVALRY</UnitClassType>
+
+			</Row>
+
+		</Unit_ClassUpgrades>
+
+		-<Unit_FreePromotions>
+
+
+			-<Row>
+
+				<UnitType>UNIT_ROUNDHEAD</UnitType>
+
+				<PromotionType>PROMOTION_GENERAL_STACKING</PromotionType>
+
+			</Row>
+
+			-<Row>
+
+				<UnitType>UNIT_IRONSIDE</UnitType>
+
+				<PromotionType>PROMOTION_NO_DEFENSIVE_BONUSES</PromotionType>
+
+			</Row>
+
+
+			-<Row>
+
+				<UnitType>UNIT_IRONSIDE</UnitType>
+
+				<PromotionType>PROMOTION_CAN_MOVE_AFTER_ATTACKING</PromotionType>
+
+			</Row>
+
+
+			-<Row>
+
+				<UnitType>UNIT_IRONSIDE</UnitType>
+
+				<PromotionType>PROMOTION_CITY_PENALTY</PromotionType>
+
+			</Row>
+
+
+			-<Row>
+
+				<UnitType>UNIT_IRONSIDE</UnitType>
+
+				<PromotionType>PROMOTION_SPAWN_GENERALS_II</PromotionType>
+
+			</Row>
+
+
+			-<Row>
+
+				<UnitType>UNIT_IRONSIDE</UnitType>
+
+				<PromotionType>PROMOTION_FORMATION_1</PromotionType>
+
+			</Row>
+
+		</Unit_FreePromotions>
+
+
+
+		-<Unit_Flavors>
+
+
+			-<Row>
+
+				<UnitType>UNIT_ROUNDHEAD</UnitType>
+
+				<FlavorType>FLAVOR_OFFENSE</FlavorType>
+
+				<Flavor>12</Flavor>
+
+			</Row>
+
+
+			-<Row>
+
+				<UnitType>UNIT_ROUNDHEAD</UnitType>
+
+				<FlavorType>FLAVOR_DEFENSE</FlavorType>
+
+				<Flavor>12</Flavor>
+
+			</Row>
+
+			-<Row>
+
+				<UnitType>UNIT_IRONSIDE</UnitType>
+
+				<FlavorType>FLAVOR_OFFENSE</FlavorType>
+
+				<Flavor>15</Flavor>
+
+			</Row>
+
+
+			-<Row>
+
+				<UnitType>UNIT_IRONSIDE</UnitType>
+
+				<FlavorType>FLAVOR_DEFENSE</FlavorType>
+
+				<Flavor>9</Flavor>
+
+			</Row>
+
+
+			-<Row>
+
+				<UnitType>UNIT_IRONSIDE</UnitType>
+
+				<FlavorType>FLAVOR_MOBILE</FlavorType>
+
+				<Flavor>15</Flavor>
+
+			</Row>
+
+		</Unit_Flavors>
+
+		-<Unit_ResourceQuantityRequirements>
+
+
+			-<Row>
+
+				<UnitType>UNIT_IRONSIDE</UnitType>
+
+				<ResourceType>RESOURCE_HORSE</ResourceType>
+
+				<Cost>1</Cost>
+
+			</Row>
+
+		</Unit_ResourceQuantityRequirements>
+
+
+		-<UnitGameplay2DScripts>
+
+
+			-<Row>
+
+				<UnitType>UNIT_ROUNDHEAD</UnitType>
+
+				<SelectionSound>AS2D_SELECT_MUSKETMAN</SelectionSound>
+
+				<FirstSelectionSound>AS2D_BIRTH_MUSKETMAN</FirstSelectionSound>
+
+			</Row>
+
+			-<Row>
+
+				<UnitType>UNIT_IRONSIDE</UnitType>
+
+				<SelectionSound>AS2D_SELECT_CAVALRY</SelectionSound>
+
+				<FirstSelectionSound>AS2D_BIRTH_CAVALRY</FirstSelectionSound>
+
+			</Row>
+
+		</UnitGameplay2DScripts>
+
+
+		
+  
+</GameData>

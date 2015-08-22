@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/19/2015 11:44:24 AM -->
+<GameData>
+
+	<EventsAddin_Support>
+		<Row>
+			<FileName>RJProtectorate_Events.lua</FileName>
+		</Row>
+	</EventsAddin_Support>
+	<Language_en_US>
+		<!-- Execution of Charles I -->
+		<Row Tag="TXT_KEY_EVENT_RJ_EXECUTION_CHARLES_I">
+			<Text>Execution of Charles I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_RJ_EXECUTION_CHARLES_I_DESC">
+			<Text>
+				Evidence has come to light that the Second civil war was orchestrated by our trecherous King. A peace settlement is going nowhere and the army demands justice! We have no choice but to charge him with treason!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_RJ_EXECUTION_CHARLES_I_OUTCOME_1">
+			<Text>Tis but a cruel necessity</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_RJ_EXECUTION_CHARLES_I_OUTCOME_RESULT_1">
+			<Text>
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLDEN_AGE] Golden Age Points[ENDCOLOR][NEWLINE]
+				[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain a free Social Policy[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RJ_EXECUTION_CHARLES_I_RESULT_1_NOTIFICATION">
+			<Text>The King is dead! Long live the Republic!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_RJ_EXECUTION_CHARLES_I">
+			<Text>The King of England has been executed by his Parliament. It is now a commonwealth</Text>
+		</Row>
+		<!-- The Case of James Nayler -->
+		<Row Tag="TXT_KEY_EVENT_RJ_CASE_JAMES_NAYLER">
+			<Text>The Case of James Nayler</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_RJ_CASE_JAMES_NAYLER_DESC">
+			<Text>
+				We have recieved news that a Quaker has re-enacted the arrival of Christ in Jerusalem . . . By riding into Bristol on a donkey. Fear not, for we have already put him into a pillory, pierced his tongue with a hot iron, whipped him, well, you get the idea.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_RJ_CASE_JAMES_NAYLER_OUTCOME_1">
+			<Text>This is terrible, he is but a harmless fool, we must have religious tolerance, whether Parliament wants it or not!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_RJ_CASE_JAMES_NAYLER_OUTCOME_2">
+			<Text>And rightfully so, we must not have blasphemers undermine our Godly nation!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_RJ_CASE_JAMES_NAYLER_OUTCOME_RESULT_1">
+			<Text>
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_PEACE] Faith[ENDCOLOR][NEWLINE]
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {2_Num} [ICON_GOLDEN_AGE] Golden Age Points[ENDCOLOR][NEWLINE]
+				[ICON_BULLET][COLOR_POSITIVE_TEXT]A free Great Prophet appears[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_RJ_CASE_JAMES_NAYLER_OUTCOME_RESULT_2">
+			<Text>
+				[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_PEACE] Faith[ENDCOLOR]
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_RJ_CASE_JAMES_NAYLER_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>Parliament is in chaos over the allowance of greater religious tolerance, but radical sects seem to be thriving!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RJ_CASE_JAMES_NAYLER_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>The gentry and Parliament are happy with the clamping down of radical sects, it has given the nation much greater religious uniformity</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_RJ_CASE_JAMES_NAYLER">
+			<Text>England is in uproar over a man who re-enacted the arrival of Christ in Jerusalem.</Text>
+		</Row>
+	</Language_en_US>
+  
+</GameData>

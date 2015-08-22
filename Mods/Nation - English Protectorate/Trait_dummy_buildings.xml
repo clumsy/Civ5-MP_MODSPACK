@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/15/2014 5:06:31 PM -->
+<GameData>
+	
+	<Buildings>
+
+		<Row>
+			<Type>BUILDING_PROTECTORATE_PRODUCTION</Type>
+			<BuildingClass>BUILDINGCLASS_PROTECTORATE_PRODUCTION</BuildingClass>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<ArtDefineTag>NONE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<NeverCapture>true</NeverCapture>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>CIV_COLOR_ATLAS</IconAtlas>
+			<MilitaryProductionModifier>1</MilitaryProductionModifier>
+		</Row>
+
+		<Row>
+			<Type>BUILDING_PROTECTORATE_FAITH_FROM_POLICIES</Type>
+			<BuildingClass>BUILDINGCLASS_PROTECTORATE_FAITH_FROM_POLICIES</BuildingClass>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<ArtDefineTag>NONE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<NeverCapture>true</NeverCapture>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>CIV_COLOR_ATLAS</IconAtlas>
+		</Row>
+
+		<Row>
+			<Type>BUILDING_PROTECTORATE_FAITH_1</Type>
+			<BuildingClass>BUILDINGCLASS_PROTECTORATE_FAITH_1</BuildingClass>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<ArtDefineTag>NONE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<NeverCapture>true</NeverCapture>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>CIV_COLOR_ATLAS</IconAtlas>
+		</Row>
+
+
+		<Row>
+			<Type>BUILDING_PROTECTORATE_FAITH_2</Type>
+			<BuildingClass>BUILDINGCLASS_PROTECTORATE_FAITH_2</BuildingClass>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<ArtDefineTag>NONE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<NeverCapture>true</NeverCapture>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>CIV_COLOR_ATLAS</IconAtlas>
+		</Row>
+
+		<Row>
+			<Type>BUILDING_PROTECTORATE_FAITH_3</Type>
+			<BuildingClass>BUILDINGCLASS_PROTECTORATE_FAITH_3</BuildingClass>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<ArtDefineTag>NONE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<NeverCapture>true</NeverCapture>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>CIV_COLOR_ATLAS</IconAtlas>
+		</Row>
+		
+		
+
+	</Buildings>
+
+	<BuildingClasses>
+		
+		<Row>
+			<Type>BUILDINGCLASS_PROTECTORATE_PRODUCTION</Type>
+			<DefaultBuilding>BUILDING_PROTECTORATE_PRODUCTION</DefaultBuilding>
+		</Row>
+
+		<Row>
+			<Type>BUILDINGCLASS_PROTECTORATE_FAITH_FROM_POLICIES</Type>
+			<DefaultBuilding>BUILDING_PROTECTORATE_FAITH_FROM_POLICIES</DefaultBuilding>
+		</Row>
+
+		<Row>
+			<Type>BUILDINGCLASS_PROTECTORATE_FAITH_1</Type>
+			<DefaultBuilding>BUILDING_PROTECTORATE_FAITH_1</DefaultBuilding>
+		</Row>
+
+		<Row>
+			<Type>BUILDINGCLASS_PROTECTORATE_FAITH_2</Type>
+			<DefaultBuilding>BUILDING_PROTECTORATE_FAITH_2</DefaultBuilding>
+		</Row>
+
+		<Row>
+			<Type>BUILDINGCLASS_PROTECTORATE_FAITH_3</Type>
+			<DefaultBuilding>BUILDING_PROTECTORATE_FAITH_3</DefaultBuilding>
+		</Row>
+		
+	</BuildingClasses>
+
+	<Building_YieldChanges>
+
+		<Row>
+
+			<BuildingType>BUILDING_PROTECTORATE_FAITH_FROM_POLICIES</BuildingType>
+
+			<YieldType>YIELD_FAITH</YieldType>
+
+			<Yield>2</Yield>
+
+		</Row>
+
+		<Row>
+
+			<BuildingType>BUILDING_PROTECTORATE_FAITH_1</BuildingType>
+
+			<YieldType>YIELD_FAITH</YieldType>
+
+			<Yield>1</Yield>
+
+		</Row>
+
+		<Row>
+
+			<BuildingType>BUILDING_PROTECTORATE_FAITH_2</BuildingType>
+
+			<YieldType>YIELD_FAITH</YieldType>
+
+			<Yield>1</Yield>
+
+		</Row>
+
+		<Row>
+
+			<BuildingType>BUILDING_PROTECTORATE_FAITH_3</BuildingType>
+
+			<YieldType>YIELD_FAITH</YieldType>
+
+			<Yield>2</Yield>
+
+		</Row>
+
+	</Building_YieldChanges>
+  
+</GameData>

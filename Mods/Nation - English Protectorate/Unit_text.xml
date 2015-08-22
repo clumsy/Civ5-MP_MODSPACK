@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/18/2014 8:16:37 PM -->
+<GameData>
+
+	-<Language_en_US>
+
+
+		-<Row Tag="TXT_KEY_UNIT_ROUNDHEAD">
+
+			<Text>Roundhead</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_ROUNDHEAD_TEXT">
+
+
+			-<Text>The Roundheads was the nickname given to Parliament and its forces by its Royalist enemies on account of the short cropped hair of many of the Puritans and craftsmen who supported Parliament. Despite this, it soon became symbolic of the honest, hard working and deeply pious soliders that formed the beating heart of the New Model Army.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_UNIT_ROUNDHEAD_STRATEGY">
+
+			<Text>The Roundhead is a slightly stronger version of the Musketman that also benefits more from great generals, and has a lower production cost. Combined with the protectorate's UA, Roundheads are easy to produce on a large scale, and by taking advantage of the Ironsides increased great general generation, they can quickly become a fighting force worthy of the title "The New model army".</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_UNIT_HELP_ROUNDHEAD">
+
+			<Text>One of the first gunpowder units of the game. This Unit has a slightly higher [ICON_STRENGTH] Combat Strength than the Musketman, which it replaces. Gains extra [ICON_STRENGTH] from Great generals and has reduced production cost.</Text>
+
+		</Row>
+
+		-<Row Tag="TXT_KEY_UNIT_IRONSIDE">
+
+			<Text>Ironside</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_UNIT_HELP_IRONSIDE">
+
+		<Text>Replaces the Lancer; Has much higher combat strength and gains great generals II promotion. Upgrades to cavalry instead of anti tank gun.</Text>
+
+	</Row>
+
+		-<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_IRONSIDE_TEXT">
+
+
+			-<Text>Nicknamed by Prince Rupert of the Rhine, Charles I nephew and cavalry commander, the Ironsides were Cromwell's own regiment of cavalry. Well equipped and extremely disciplined, the Ironsides focused on simply winning battles rather than chasing a routing enemy or attacking a supply camp as opposed to other cavalry regiments, and fought with a religious zeal unlike anywhere else in europe. </Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_UNIT_IRONSIDE_STRATEGY">
+
+			<Text>A lancer replacement, the Ironside has far greater [ICON_STRENGTH] combat strength and excels at generating great generals. Unlike the Lancer, it upgrades to cavalry.</Text>
+
+		</Row>
+
+	</Language_en_US>
+  
+</GameData>

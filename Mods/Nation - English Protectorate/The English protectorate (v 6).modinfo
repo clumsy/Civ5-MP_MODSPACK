@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="ad844d5c-7a8c-4fc5-84b8-9d6a665c49c6" version="6">
+  <Properties>
+    <Name>The English protectorate</Name>
+    <Teaser>A mod adding the protectorate of England to the game</Teaser>
+    <Description>A mod adding the protectorate of England to the game</Description>
+    <Authors>ryanjames</Authors>
+    <SpecialThanks>viregel, davey_henninger, JFD</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>0</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="RED" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events and decisions" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="Cultural diversity" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Unique cultural influence" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="Piety and Prestige" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV leader traits" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YNAEMP" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="FAEB4006DB13A54B9058584532BDA25C" import="1">Assets/Art_assets/Atlases/CIconAtlas128.dds</File>
+    <File md5="D45BC3D902CF76E96A0445C5F10FB63E" import="1">Assets/Art_assets/Atlases/CIconAtlas256.dds</File>
+    <File md5="E7450A36C30E0D6DEA125DE0DE06A006" import="1">Assets/Art_assets/Atlases/CIconAtlas32.dds</File>
+    <File md5="7D1856E5C4F8F4EAE7351BEC47FA0711" import="1">Assets/Art_assets/Atlases/CIconAtlas45.dds</File>
+    <File md5="BBCFF9A5A5E68FEF4F0E06482EAACA27" import="1">Assets/Art_assets/Atlases/CIconAtlas64.dds</File>
+    <File md5="ACE4A651A863370F06F50D165BEBF13C" import="1">Assets/Art_assets/Atlases/CIconAtlas80.dds</File>
+    <File md5="A1E989BA67710FE251DBA7A70F806C7D" import="1">Assets/Art_assets/Atlases/CromAlpha128.dds</File>
+    <File md5="1F765F7951B5D9C5356E928C40A81A63" import="1">Assets/Art_assets/Atlases/CromAlpha16.dds</File>
+    <File md5="1F765F7951B5D9C5356E928C40A81A63" import="1">Assets/Art_assets/Atlases/CromAlpha24.dds</File>
+    <File md5="0AC267DF929CE380EAE492ECD15582D3" import="1">Assets/Art_assets/Atlases/CromAlpha256.dds</File>
+    <File md5="B7F58A207FF6B7B2EBF5E24750493E2B" import="1">Assets/Art_assets/Atlases/CromAlpha32.dds</File>
+    <File md5="B3F0FFA47E1A795B133BD873ADC1F9C5" import="1">Assets/Art_assets/Atlases/CromAlpha45.dds</File>
+    <File md5="FD8969FFD9CFC4AB6FA3C4AD0F81CBDE" import="1">Assets/Art_assets/Atlases/CromAlpha48.dds</File>
+    <File md5="9CBA36766379BA11D1CAAD38AD0F50FA" import="1">Assets/Art_assets/Atlases/CromAlpha64.dds</File>
+    <File md5="EE345D82D7DFED04739EED97EC6380EE" import="1">Assets/Art_assets/Atlases/CromAlpha80.dds</File>
+    <File md5="8842FF97C90A9A6254EA5EF661D65AB8" import="1">Assets/Art_assets/Atlases/Unit flags/Ironsideflag128.dds</File>
+    <File md5="A1E49DCDD54BC75ACFA8C986C877BD0E" import="1">Assets/Art_assets/Atlases/Unit flags/Ironsideflag256.dds</File>
+    <File md5="4B9DC83088A6BDB32012F431DE645EC3" import="1">Assets/Art_assets/Atlases/Unit flags/Ironsideflag32.dds</File>
+    <File md5="43E3209B5F2B196FFFC01FD2133EA5C3" import="1">Assets/Art_assets/Atlases/Unit flags/Ironsideflag45.dds</File>
+    <File md5="5F888D890A08DD189676CA60760AEC40" import="1">Assets/Art_assets/Atlases/Unit flags/Ironsideflag64.dds</File>
+    <File md5="E691BB25A16A74CE94A222126243384B" import="1">Assets/Art_assets/Atlases/Unit flags/Ironsideflag80.dds</File>
+    <File md5="B1AA82AF988176D6E47142E795237204" import="1">Assets/Art_assets/Atlases/Unit flags/Roundheadflag128.dds</File>
+    <File md5="A46A940EC756352547BCD6E553C09504" import="1">Assets/Art_assets/Atlases/Unit flags/Roundheadflag256.dds</File>
+    <File md5="6A19D679E308806A0B8F2D27ACD773C2" import="1">Assets/Art_assets/Atlases/Unit flags/Roundheadflag32.dds</File>
+    <File md5="B5AED4B617F95A12DDC396358D5FA25A" import="1">Assets/Art_assets/Atlases/Unit flags/Roundheadflag45.dds</File>
+    <File md5="AE0F21636521D3BC6B50F45FA86F78BB" import="1">Assets/Art_assets/Atlases/Unit flags/Roundheadflag64.dds</File>
+    <File md5="6C99787B95E5D653DDEB5808DAE3C395" import="1">Assets/Art_assets/Atlases/Unit flags/Roundheadflag80.dds</File>
+    <File md5="DA9E25CA8E563EF7CA7762E1430D34D5" import="1">Assets/Art_assets/CromwellDOM.dds</File>
+    <File md5="F022D331763A210F1B3DD8FA46A5BF33" import="1">Assets/Art_assets/Cromwell_diplo.dds</File>
+    <File md5="13550F6F108F0B723A6FA1637C8E7AAC" import="1">Assets/Art_assets/MapProtectorate.dds</File>
+    <File md5="5FFF62E41272C8D58C987C9CC62F3658" import="1">Assets/Lua/RJProtectorate_Decisions.lua</File>
+    <File md5="D34F4B35717FACD063CEEBDE2ED588E9" import="1">Assets/Lua/RJProtectorate_Events.lua</File>
+    <File md5="08943E7A8E35119630256F7A57D77E88" import="0">Assets/Lua/Trait.lua</File>
+    <File md5="7127BE522124757CB02A042AFC22B280" import="1">Assets/TheNewArmy.mp3</File>
+    <File md5="7D7D58EEFFB0C8744B02AD0635D3739C" import="1">Assets/Intermission.mp3</File>
+    <File md5="0D26193EAE3D81B0A0D56747514E5DBF" import="1">Assets/Art_assets/confederate_cavalry_diff.dds</File>
+    <File md5="5153CC917DEC990CDB4F911F01B34859" import="1">Assets/Art_assets/confederate_cavalry_sref.dds</File>
+    <File md5="1D56F010221DF548FB1C48064665400A" import="1">Assets/Art_assets/cuirassier.fxsxml</File>
+    <File md5="3C1D864B7DF9E7153020F4C193EADB7A" import="1">Assets/Art_assets/cuirassier.gr2</File>
+    <File md5="FD03DEC64E2F89C50CBEF2FAC46DDB1F" import="1">Assets/Art_assets/musketman_diff.dds</File>
+    <File md5="9A394373B38692C543E8C8D6353A9C52" import="1">Assets/Art_assets/musketman_sref.dds</File>
+    <File md5="51D4FAAB21AC4EEC4AAFDCC945A91733" import="1">Assets/Art_assets/u_french_musketeer_diff.dds</File>
+    <File md5="5F75B69AFD02477F0057234F5C649F7B" import="1">Assets/Art_assets/u_french_musketeer_sref.dds</File>
+    <File md5="52427DED54D86AE348E21899C9543A6C" import="0">SQL/Cromwell_Leader_traits.sql</File>
+    <File md5="FFC3C0C663953359A2B12E059560CB05" import="0">SQL/Cromwell_Piety_Prestige.sql</File>
+    <File md5="42A10A7653612D59DF54C25915911FC0" import="0">SQL/Cromwell_RED.sql</File>
+    <File md5="18D6D0ECD35FAFAF6296FC151004076C" import="0">SQL/Cultural_diversity_support.sql</File>
+    <File md5="46286A80C8A2493E57266E0E110EDDF3" import="0">XML/Civilization.xml</File>
+    <File md5="88DCC2A453F8C5C6CF9D57255C08BC3F" import="0">XML/Cromwell.xml</File>
+    <File md5="E5E49DC5D9A403643DB8FA5C7AC7C681" import="0">XML/Cromwell_Decisions.xml</File>
+    <File md5="90D79AB9985DAF27D108E3016A9DB6F5" import="0">XML/Cromwell_Events.xml</File>
+    <File md5="0FE349166760A4B12D07F5FD0A3BFBA0" import="1">XML/Cromwell_scene.xml</File>
+    <File md5="88AADEA5C2C4D398E7133155DF9A3E09" import="0">XML/Cromwell_Unique_Influence.xml</File>
+    <File md5="35EB56E0F43BAD9BD70036E89DA2055C" import="0">XML/Cromwell_YNAEMP_support.xml</File>
+    <File md5="DEF956C7E45529C1DCCB02AD5A69BF8D" import="0">XML/Trait.xml</File>
+    <File md5="9EA37EE2DDD96374DCE4278AFBE9DBF3" import="0">XML/Trait_dummy_buildings.xml</File>
+    <File md5="AE9BA2D9FEEA177C29196C8E47BB493A" import="0">XML/Icon_atlas.xml</File>
+    <File md5="B7516274D342397645A50FC86C194F75" import="0">XML/Ironside_art_defines.xml</File>
+    <File md5="E3425B3FDF0B2F4F786F1FFF8258A4B0" import="0">XML/Music.xml</File>
+    <File md5="C0F47CEEDF16FAEE160C5479E9867A21" import="0">XML/Units.xml</File>
+    <File md5="0EA95FD81B3F4258EB7B3F215511C351" import="0">XML/Unit_text.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Cromwell.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Trait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Music.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Unit_text.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Ironside_art_defines.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Icon_atlas.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Cromwell_scene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Trait_dummy_buildings.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Cultural_diversity_support.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Cromwell_YNAEMP_support.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Cromwell_Leader_traits.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Cromwell_Piety_Prestige.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Cromwell_RED.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Cromwell_Decisions.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Cromwell_Unique_Influence.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Cromwell_Events.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Assets/Lua/Trait.lua">
+      <Name>trait1</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

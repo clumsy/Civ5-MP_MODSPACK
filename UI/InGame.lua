@@ -1549,6 +1549,9 @@ ContextPtr:LoadNewContext("CaptureScripts")
 -- Nation - Dene --
 ContextPtr:LoadNewContext("DeneLua")
 
+-- Nation - English Protectorate --
+ContextPtr:LoadNewContext("EnglishProtectorateTrait")
+
 -- Nation - Blackfoot --
 ContextPtr:LoadNewContext("CountingCoup")
 ContextPtr:LoadNewContext("PlaceBison")

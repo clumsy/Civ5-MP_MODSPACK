@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/15/2014 8:55:16 PM -->
+<GameData>
+
+
+	-<ArtDefine_UnitInfos>
+
+
+		-<Row>
+
+			<Type>ART_DEF_UNIT_IRONSIDE</Type>
+
+			<DamageStates>1</DamageStates>
+
+			<Formation>DefaultCavalry</Formation>
+
+		</Row>
+
+	</ArtDefine_UnitInfos>
+
+
+	-<ArtDefine_UnitInfoMemberInfos>
+
+
+		-<Row>
+
+			<UnitInfoType>ART_DEF_UNIT_IRONSIDE</UnitInfoType>
+
+			<UnitMemberInfoType>ART_DEF_UNIT_MEMBER_IRONSIDE</UnitMemberInfoType>
+
+			<NumMembers>6</NumMembers>
+
+		</Row>
+
+	</ArtDefine_UnitInfoMemberInfos>
+
+
+	-<ArtDefine_UnitMemberInfos>
+
+
+		-<Row>
+
+			<Type>ART_DEF_UNIT_MEMBER_IRONSIDE</Type>
+
+			<Scale>0.119999997317791</Scale>
+
+			<Model>cuirassier.fxsxml</Model>
+
+			<MaterialTypeTag>CLOTH</MaterialTypeTag>
+
+			<MaterialTypeSoundOverrideTag>FLESH</MaterialTypeSoundOverrideTag>
+
+		</Row>
+
+	</ArtDefine_UnitMemberInfos>
+
+
+	-<ArtDefine_UnitMemberCombats>
+
+
+		-<Row>
+
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_IRONSIDE</UnitMemberType>
+
+			<EnableActions>Idle Attack RunCharge AttackCity Bombard Death BombardDefend Run Fortify CombatReady Walk</EnableActions>
+
+			<ShortMoveRadius>24.0</ShortMoveRadius>
+
+			<ShortMoveRate>0.349999994039536</ShortMoveRate>
+
+			<TurnRateMin>0.5</TurnRateMin>
+
+			<TurnRateMax>0.75</TurnRateMax>
+
+			<TurnFacingRateMin>15.0</TurnFacingRateMin>
+
+			<TurnFacingRateMax>20.0</TurnFacingRateMax>
+
+			<TargetHeight>12.0</TargetHeight>
+
+			<HasShortRangedAttack>1</HasShortRangedAttack>
+
+			<HasStationaryMelee>1</HasStationaryMelee>
+
+			<HasRefaceAfterCombat>1</HasRefaceAfterCombat>
+
+			<ReformBeforeCombat>1</ReformBeforeCombat>
+
+			<OnlyTurnInMovementActions>1</OnlyTurnInMovementActions>
+
+		</Row>
+
+	</ArtDefine_UnitMemberCombats>
+
+
+	-<ArtDefine_UnitMemberCombatWeapons>
+
+
+		-<Row>
+
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_IRONSIDE</UnitMemberType>
+
+			<Index>0</Index>
+
+			<SubIndex>0</SubIndex>
+
+			<WeaponTypeTag>BULLET</WeaponTypeTag>
+
+			<WeaponTypeSoundOverrideTag>BULLET</WeaponTypeSoundOverrideTag>
+
+		</Row>
+
+	</ArtDefine_UnitMemberCombatWeapons>
+
+
+	-<ArtDefine_StrategicView>
+
+
+		-<Row>
+
+			<StrategicViewType>ART_DEF_UNIT_IRONSIDE</StrategicViewType>
+
+			<TileType>Unit</TileType>
+
+			<Asset>SV_Cavalry.dds</Asset>
+
+		</Row>
+
+	</ArtDefine_StrategicView>
+  
+</GameData>

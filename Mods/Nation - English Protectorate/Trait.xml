@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/15/2014 9:42:09 PM -->
+<GameData>
+
+
+	-<Traits>
+
+
+		-<Row>
+
+			<Type>TRAIT_CROMWELL_ISAWESOME</Type>
+
+			<Description>TXT_KEY_TRAIT_CROMWELL_ISAWESOME</Description>
+
+			<ShortDescription>TXT_KEY_TRAIT_CROMWELL_ISAWESOME_SHORT</ShortDescription>
+
+		</Row>
+
+	</Traits>
+
+    -<Language_en_US>
+
+
+		-<Row Tag="TXT_KEY_TRAIT_CROMWELL_ISAWESOME">
+
+			<Text>Military [ICON_PRODUCTION] production is increased by 1% for every 4 [ICON_PEACE] faith per turn. +2 [ICON_PEACE] faith per turn for every 3 social policies adopted. Barracks, Armouries and Military Academies yield [ICON_PEACE] faith.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_TRAIT_CROMWELL_ISAWESOME_SHORT">
+
+			<Text>New Model Army</Text>
+
+		</Row>
+
+	</Language_en_US>
+
+  
+</GameData>

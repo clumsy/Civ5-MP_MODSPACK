@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/10/2014 4:56:14 PM -->
+<GameData>
+
+
+	-<Civilizations>
+
+
+		-<Row>
+
+			<Type>CIVILIZATION_PROTECTORATE</Type>
+
+			<Description>TXT_KEY_CIV_PROTECTORATE_DESC</Description>
+			
+			<Civilopedia>TXT_KEY_CIV5_PROTECTORATE_PEDIA</Civilopedia>
+			
+			<CivilopediaTag>TXT_KEY_CIV5_PROTECTORATE</CivilopediaTag>
+
+			<Strategy/>
+
+			<Playable>1</Playable>
+
+			<AIPlayable>1</AIPlayable>
+
+			<ShortDescription>TXT_KEY_CIV_PROTECTORATE_SHORT_DESC</ShortDescription>
+
+			<Adjective>TXT_KEY_CIV_PROTECTORATE_ADJECTIVE</Adjective>
+
+			<DefaultPlayerColor>PLAYERCOLOR_PROTECTORATE</DefaultPlayerColor>
+
+			<ArtDefineTag>ART_DEF_CIVILIZATION_PROTECTORATE</ArtDefineTag>
+
+			<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+
+			<ArtStyleSuffix>_EURO</ArtStyleSuffix>
+
+			<ArtStylePrefix>EUROPEAN</ArtStylePrefix>
+
+			<DerivativeCiv/>
+
+			<PortraitIndex>0</PortraitIndex>
+
+			<IconAtlas>CROMWELL_ATLAS</IconAtlas>
+
+			<AlphaIconAtlas>CROMWELL_ALPHA</AlphaIconAtlas>
+
+			<MapImage>MapProtectorate.dds</MapImage>
+
+			<DawnOfManQuote>TXT_KEY_CIV5_DAWN_PROTECTORATE_TEXT</DawnOfManQuote>
+
+			<DawnOfManImage>CromwellDOM.dds</DawnOfManImage>
+
+			<SoundtrackTag>England</SoundtrackTag>
+
+		</Row>
+
+	</Civilizations>
+
+
+
+	-<Civilization_CityNames>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_PROTECTORATE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_PROTECTORATE_0</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_PROTECTORATE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_PROTECTORATE_1</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_PROTECTORATE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_PROTECTORATE_2</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_PROTECTORATE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_PROTECTORATE_3</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_PROTECTORATE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_PROTECTORATE_4</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_PROTECTORATE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_PROTECTORATE_5</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_PROTECTORATE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_PROTECTORATE_6</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_PROTECTORATE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_PROTECTORATE_7</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_PROTECTORATE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_PROTECTORATE_8</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_PROTECTORATE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_PROTECTORATE_9</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_PROTECTORATE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_PROTECTORATE_10</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_PROTECTORATE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_PROTECTORATE_11</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_PROTECTORATE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_PROTECTORATE_12</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_PROTECTORATE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_PROTECTORATE_13</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_PROTECTORATE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_PROTECTORATE_14</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_PROTECTORATE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_PROTECTORATE_15</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_PROTECTORATE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_PROTECTORATE_16</CityName>
+
+		</Row>
+
+
+
+	</Civilization_CityNames>
+
+
+
+	-<Civilization_FreeBuildingClasses>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_PROTECTORATE</CivilizationType>
+
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+
+		</Row>
+
+	</Civilization_FreeBuildingClasses>
+
+
+	-<Civilization_FreeTechs>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_PROTECTORATE</CivilizationType>
+
+			<TechType>TECH_AGRICULTURE</TechType>
+
+		</Row>
+
+	</Civilization_FreeTechs>
+
+
+	-<Civilization_FreeUnits>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_PROTECTORATE</CivilizationType>
+
+			<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+
+			<UnitAIType>UNITAI_SETTLE</UnitAIType>
+
+			<Count>1</Count>
+
+		</Row>
+
+	</Civilization_FreeUnits>
+
+
+	-<Civilization_Leaders>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_PROTECTORATE</CivilizationType>
+
+			<LeaderheadType>LEADER_CROMWELL</LeaderheadType>
+
+		</Row>
+
+	</Civilization_Leaders>
+
+
+	-<Civilization_Religions>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_PROTECTORATE</CivilizationType>
+
+			<ReligionType>RELIGION_PROTESTANTISM</ReligionType>
+
+		</Row>
+
+	</Civilization_Religions>
+
+
+	-<Civilization_SpyNames>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_PROTECTORATE</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_PROTECTORATE_0</SpyName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_PROTECTORATE</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_PROTECTORATE_1</SpyName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_PROTECTORATE</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_PROTECTORATE_2</SpyName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_PROTECTORATE</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_PROTECTORATE_3</SpyName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_PROTECTORATE</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_PROTECTORATE_4</SpyName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_PROTECTORATE</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_PROTECTORATE_5</SpyName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_PROTECTORATE</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_PROTECTORATE_6</SpyName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_PROTECTORATE</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_PROTECTORATE_7</SpyName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_PROTECTORATE</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_PROTECTORATE_8</SpyName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_PROTECTORATE</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_PROTECTORATE_9</SpyName>
+
+		</Row>
+
+	</Civilization_SpyNames>
+
+
+	-<Civilization_UnitClassOverrides>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_PROTECTORATE</CivilizationType>
+
+			<UnitClassType>UNITCLASS_LANCER</UnitClassType>
+
+			<UnitType>UNIT_IRONSIDE</UnitType>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_PROTECTORATE</CivilizationType>
+
+			<UnitClassType>UNITCLASS_MUSKETMAN</UnitClassType>
+
+			<UnitType>UNIT_ROUNDHEAD</UnitType>
+
+		</Row>
+
+	</Civilization_UnitClassOverrides>
+
+
+	-<Civilization_Start_Along_Ocean>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_PROTECTORATE</CivilizationType>
+
+			<StartAlongOcean>1</StartAlongOcean>
+
+		</Row>
+
+	</Civilization_Start_Along_Ocean>
+
+
+
+	-<PlayerColors>
+
+
+		-<Row>
+
+			<Type>PLAYERCOLOR_PROTECTORATE</Type>
+
+			<PrimaryColor>COLOR_PLAYER_PROTECTORATE_ICON</PrimaryColor>
+
+			<SecondaryColor>COLOR_PLAYER_PROTECTORATE_BACKGROUND</SecondaryColor>
+
+			<TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+
+		</Row>
+
+	</PlayerColors>
+
+
+	-<Colors>
+
+
+		-<Row>
+
+			<Type>COLOR_PLAYER_PROTECTORATE_ICON</Type>
+
+			<Red>0</Red>
+
+			<Green>0</Green>
+
+			<Blue>0.502</Blue>
+
+			<Alpha>1.0</Alpha>
+
+		</Row>
+
+	</Colors>
+
+
+	-<Colors>
+
+
+		-<Row>
+
+			<Type>COLOR_PLAYER_PROTECTORATE_BACKGROUND</Type>
+
+			<Red>0.701</Red>
+
+			<Green>0.573</Green>
+
+			<Blue>0.055</Blue>
+
+			<Alpha>1.0</Alpha>
+
+		</Row>
+
+	</Colors>
+
+
+	-<Language_en_US>
+
+
+		-<Row Tag="TXT_KEY_CIV_PROTECTORATE_DESC">
+
+			<Text>English protectorate</Text>
+
+			<Gender>neuter:an</Gender>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_PROTECTORATE_FACTOID_HEADING">
+
+			<Text>Protectorate Factoid</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_PROTECTORATE_FACTOID_TEXT">
+
+
+			-<Text>During the period 1647-60, Christmas was banned as it was viewed as a Popish and pagan ceremony.[NEWLINE][NEWLINE]Contrary to popular belief, Cromwell did not impose a strict, puritanical dictatorship. He was actually quite tolerant letting Jews return to the country and imposing no state church upon the nation.[NEWLINE][NEWLINE]After the restoration, Cromwell's head was taken and put upon a pike at the gate of London until it became a collectors item in the 18th and 19th century. It was finally reburied at cambridge in 1960.[NEWLINE][NEWLINE]At one point, Cromwell was offered the role as King of England, however he declined.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_PROTECTORATE_HEADING_1">
+
+			<Text>Background to the English civil war</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_PROTECTORATE_HEADING_10">
+
+			<Text>The death of Cromwell and the restoration</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_PROTECTORATE_HEADING_11">
+
+			<Text>Legacy</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_PROTECTORATE_HEADING_2">
+
+			<Text>Civil war breaks out!</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_PROTECTORATE_HEADING_3">
+
+			<Text>The Royalist High tide</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_PROTECTORATE_HEADING_4">
+
+			<Text>The New Model ordinance and Naseby</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_PROTECTORATE_HEADING_5">
+
+			<Text>The failure to reach a settlement and the Second civil war</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_PROTECTORATE_HEADING_6">
+
+			<Text>Prides purge, the king's execution and the commonwealth</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_PROTECTORATE_HEADING_7">
+
+			<Text>Conquest of Ireland and Scotland</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_PROTECTORATE_HEADING_8">
+
+			<Text>The expulsion of the rump and the protectorate</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_PROTECTORATE_HEADING_9">
+
+			<Text>Foreign affairs and social reform</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_PROTECTORATE_TEXT_1">
+
+
+			-<Text>The protectorate was created as a result of the English civil war, a new republic led by Oliver Cromwell, Lord protector. The events leading upto the civil war are quite complicated, but all centre around King Charles I. Ascending to the throne in 1625, Charles' absolutist tendecies and belief in his own infallibility led him to dissolve parliament in 1629, with no intention of restoring it. It was only in 1640, after what was known as the 11 years tyranny that charles recalled parliament to fund a war against Scotland. Parliament, angry at the authoritarian rule and tax innovations of Charles launched a series of attacks on his prerogative, restricting his power and impeaching his advisors. After a series of tense debates, Charles attempted a coup known as the arrest of the 5 members, however it was unsuccessful and he was expulsed from London by an angry mob, the country was on the verge of civil war!</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_PROTECTORATE_TEXT_10">
+
+
+			-<Text>However, when Cromwell died in 1658 and his son, Richard Cromwell succeeded him. However, Richard had little experience at government and even less military experience and thus did not have the authority commanded by his father. Old problems of the army's interference emerged and Richard resigned in 1659. The country descended into political chaos once more, until the Scottish governer, George Monck called a new parliament that declared Charles I's son, Charles II the rightful monarch of England, and thus England entered the period known as "The restoration" and the Protectorate was no more.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_PROTECTORATE_TEXT_11">
+
+
+			-<Text>The English civil wars and the interregnum is one of the strangest and most controversial periods of history. Compared to the French and American revolutions, it can be viewed as one of the revolutions that ended outdated, autocratic monarchies or systems of government and replaced them with modern democracy with a capitalist economy. Certainly the war was one for liberty, supported by the economically independent gentry or traders. However it can also be viewed as a religious revolution, and a conservative revolution as parliament sought to restore the english constitution and enact religious reform. It's also seen as a fiscal and military revolution as the New Model army was the evolution of feudal, ill-equipped armies becoming a well trained permanent aswell as national army supported by increasingly inventive and efficient tazation methods.[NEWLINE][NEWLINE]As the revolution occured centuries before more modern revolutions, we could say that it occured too early. The conservative English had very mixed support for the regime, and politics was always stifled by fears of radical changes, and in some ways the restoration of the monarchy as if nothing had occured can be seen as "a step back". Regardless, the Protectorate is a fascinating period of English history, engineered by a series of unlikely events and moulded by the imposing yet compassionate figure of Oliver Cromwell. The world may have been very different had England been a Republic.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_PROTECTORATE_TEXT_2">
+
+
+			-<Text>The following months involved frequent, failed negotiations and a scramble for resources as King Charles found support in Cornwall, wales and parts of the north, Parliament controlled London, east Anglia and several key towns such as Bristol and Newcastle. Eventually, when talks again failed, the King raised his standard at Nottingham and declared war against his own parliament.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_PROTECTORATE_TEXT_3">
+
+
+			-<Text>Despite parliament's control of London, one of the largest towns in europe aswell as the majority of the nation's trade, the Royalists made startling progress, capturing major towns such as Bristol and conquering large swathes of Yorkshire and Cornwall. However parliament began to gain ground, making an alliance with the Scots and conquering York at Marston moor, destroying Royalist control of the north.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_PROTECTORATE_TEXT_4">
+
+
+			-<Text>As the war dragged on, fractures began to appear in parliament, some were disturbed by the Scottish Alliance and the increasing strain on the nation. It was Oliver Cromwell who suggested the self denying ordinance, that politicians hand in their commissions so that proper soldiers commanded the army. Along with the New model Ordinance, uniting parliamentary militia into a single national force, these ordinances served to completely reform the way parliament fought the war, shattering the Royalist effort at Naseby in 1645, spelling defeat for the king.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_PROTECTORATE_TEXT_5">
+
+
+			-<Text>In 1647, the King was captured by the Scots and handed over to parliament, the first civil war had ended. However a peace settlement would be all but difficult to achieve. Within parliament, two parties had emerged, the presybyterians who hoped to enoforce a new, presbyterian church on England, and the independents who wanted no national church, and defended the beliefs of the many sects that arose during the war, and were backed by the army. Parliament argued over a numbers of things, what to do with the king, the army and the church, meanwhile Charles, hoping to promote divisions rejected all peace settlements given to him. In 1648 Charles offered a deal with the Scots to invade England and put him back on the throne (the Scots feared parliament would make a radical decision, or harm their church). However, the invasion of the Scots and the Royalist revolts of the second English civil war were shortlived, put down in 1649, but it completely changed the political mood, Charles could no longer be trusted.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_PROTECTORATE_TEXT_6">
+
+
+			-<Text>The Army was furious with parliament for reopening negotiations, and so instigated a coup known as "Pride's purge". Parliament was purged of it's presbyterian MPs, leaving the independents and the army to stage the trial of King Charles. Throughout the trial, King Charles rejected claims of treason against the people of England, refusing to even recognise the authority of the court. However his composure slipped when he was sentenced to death on a cold january morning. After the King's execution, the rump parliament (the remaining MPs after the purge) declared a new republic, the Commonwealth. </Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_PROTECTORATE_TEXT_7">
+
+
+			-<Text>To secure the new regime, Oliver Cromwell mounted campaigns againsts the Celtic kingdoms of Scotland and Ireland, which were technically part of the Commonwealth (King Charles was King of Ireland and Scotland). The Irish campaign was a brutal affair across 9 months. Cromwell struck hard at the Catholic rebels in massacres such as Drogheda, but brought the war to a rapid conclusion. Next he subjagated Scotland, destroying a Scottish army of 22'000 at Dunbar in a tactical masterpiece with a mere 10'000 men. After these battles, Cromwell expected the rump parliament to further secure the regime with major reforms, but he was mistaken.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_PROTECTORATE_TEXT_8">
+
+
+			-<Text>The rump, though initially supported the army's actions were filled with conservatives and MPs shocked by the King's death. When they planned new elections in 1653, Cromwell launched a scathing attack, criticising the rump of it's failure to the English people and expulsing it with 30 armed men. Thus Cromwell established the "Barebones" parliament with him as Lord Protector and the Protectorate of England, Scotland and Ireland.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_PROTECTORATE_TEXT_9">
+
+
+			-<Text>With the greatest european fighting force of the time on his side, the New Model army, Cromwell did not hesitate to quell potential threats from abroad. First there was the Anglo dutch war (1652-54) over trade and ownership of parts of the North sea and English channel, which was a victory for england. Next the Protectorate launched an exdpition to capture Hispanolia and launched a naval war against spain, capturing Jamaica. During Cromwell's rule, the nation experienced major reform, furthering the reformation and not tying the nation to a single, intolerant church. Aswell as this, Cromwell hoped to establish himself as a constitutional figure and to create a new civilian government to ensure the survival of the new republic.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_PROTECTORATE_TITLE">
+
+			<Text>The Protectorate</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV_PROTECTORATE_SHORT_DESC">
+
+			<Text>The Protectorate</Text>
+
+			<Gender>neuter:an</Gender>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV_PROTECTORATE_ADJECTIVE">
+
+			<Text>Parliamentarian</Text>
+
+			<Gender>neuter:an</Gender>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_DAWN_PROTECTORATE_TEXT">
+
+			<Text>We salute you Oliver Cromwell, Lord Protector of England, Ireland and Scotland. You lead the British Isles as a unified protectorate, a mighty nation that won respect and fear from all the nations of Europe. A pious and humble man, you spent much of your life in relative obscurity until civil war broke out between King Charles I of England and his parliament. Despite no previous military experience, you distinguished yourself as brilliant cavalry commander at the battles of Marston Moor and Naseby, eventually culminating in the creation of the New model Army, England’s first national armed force.[NEWLINE][NEWLINE]After the civil war you stood as representative of grievances of the army, and as a symbol of religious toleration which led you to purge parliament and instigate the execution of the treacherous king. You later went on to establish yourself as Lord Protector of England. Under your rule, the British Isles, England especially experienced great religious and social reform, ending decades of anarchy and bringing unity to the land once more.[NEWLINE][NEWLINE]Oh Divine instrument of providence, the people of England are oppressed once more and have fallen from God’s favour. Will you rescue the nation from tyranny and dithering politicians? Or will you secure your legacy as a master tactician? Can you build a civilization to stand the test of time?</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_PROTECTORATE_0">
+
+			<Text>London</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_PROTECTORATE_1">
+
+			<Text>Norwich</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_PROTECTORATE_2">
+
+			<Text>York</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_PROTECTORATE_3">
+
+			<Text>Bristol</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_PROTECTORATE_4">
+
+			<Text>Newcastle</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_PROTECTORATE_5">
+
+			<Text>Hull</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_PROTECTORATE_6">
+
+			<Text>Nottingham</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_PROTECTORATE_7">
+
+			<Text>Worcester</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_PROTECTORATE_8">
+
+			<Text>Cambridge</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_PROTECTORATE_9">
+
+			<Text>Exeter</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_PROTECTORATE_10">
+
+			<Text>Ipswich</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_PROTECTORATE_11">
+
+			<Text>Salisbury</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_PROTECTORATE_12">
+
+			<Text>Colchester</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_PROTECTORATE_13">
+
+			<Text>Coventry</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_PROTECTORATE_14">
+
+			<Text>Plymouth</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_PROTECTORATE_15">
+
+			<Text>Portsmouth</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_PROTECTORATE_16">
+
+			<Text>Gloucester</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_SPY_NAME_PROTECTORATE_0">
+
+			<Text>Pym</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_SPY_NAME_PROTECTORATE_1">
+
+			<Text>Paulina</Text>
+
+			<Gender>feminine</Gender>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_SPY_NAME_PROTECTORATE_2">
+
+			<Text>Denzil</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_SPY_NAME_PROTECTORATE_3">
+
+			<Text>Catherine</Text>
+
+			<Gender>feminine</Gender>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_SPY_NAME_PROTECTORATE_4">
+
+			<Text>Anne</Text>
+
+			<Gender>feminine</Gender>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_SPY_NAME_PROTECTORATE_5">
+
+			<Text>Montagu</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_SPY_NAME_PROTECTORATE_6">
+
+			<Text>Fairfax</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_SPY_NAME_PROTECTORATE_7">
+
+			<Text>Fiennes</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_SPY_NAME_PROTECTORATE_8">
+
+			<Text>Hampden</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_SPY_NAME_PROTECTORATE_9">
+
+			<Text>Elizabeth</Text>
+
+			<Gender>feminine</Gender>
+
+		</Row>
+
+	</Language_en_US>
+  
+</GameData>

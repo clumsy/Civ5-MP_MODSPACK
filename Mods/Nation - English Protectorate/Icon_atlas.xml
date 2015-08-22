@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/6/2014 5:12:57 PM -->
+<GameData>
+
+	-<IconTextureAtlases>
+
+
+		-<Row>
+
+			<Atlas>CROMWELL_ATLAS</Atlas>
+
+			<IconSize>256</IconSize>
+
+			<Filename>CIconAtlas256.dds</Filename>
+
+			<IconsPerRow>8</IconsPerRow>
+
+			<IconsPerColumn>8</IconsPerColumn>
+
+		</Row>
+
+
+		-<Row>
+
+			<Atlas>CROMWELL_ATLAS</Atlas>
+
+			<IconSize>128</IconSize>
+
+			<Filename>CIconAtlas128.dds</Filename>
+
+			<IconsPerRow>8</IconsPerRow>
+
+			<IconsPerColumn>8</IconsPerColumn>
+
+		</Row>
+
+
+		-<Row>
+
+			<Atlas>CROMWELL_ATLAS</Atlas>
+
+			<IconSize>80</IconSize>
+
+			<Filename>CIconAtlas80.dds</Filename>
+
+			<IconsPerRow>8</IconsPerRow>
+
+			<IconsPerColumn>8</IconsPerColumn>
+
+		</Row>
+
+
+		-<Row>
+
+			<Atlas>CROMWELL_ATLAS</Atlas>
+
+			<IconSize>64</IconSize>
+
+			<Filename>CIconAtlas64.dds</Filename>
+
+			<IconsPerRow>8</IconsPerRow>
+
+			<IconsPerColumn>8</IconsPerColumn>
+
+		</Row>
+
+
+		-<Row>
+
+			<Atlas>CROMWELL_ATLAS</Atlas>
+
+			<IconSize>45</IconSize>
+
+			<Filename>CIconAtlas45.dds</Filename>
+
+			<IconsPerRow>8</IconsPerRow>
+
+			<IconsPerColumn>8</IconsPerColumn>
+
+		</Row>
+
+
+		-<Row>
+
+			<Atlas>CROMWELL_ATLAS</Atlas>
+
+			<IconSize>32</IconSize>
+
+			<Filename>CIconAtlas32.dds</Filename>
+
+			<IconsPerRow>8</IconsPerRow>
+
+			<IconsPerColumn>8</IconsPerColumn>
+
+		</Row>
+
+
+		-<Row>
+
+			<Atlas>CROMWELL_ALPHA</Atlas>
+
+			<IconSize>256</IconSize>
+
+			<Filename>CromAlpha256.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+
+
+		-<Row>
+
+			<Atlas>CROMWELL_ALPHA</Atlas>
+
+			<IconSize>128</IconSize>
+
+			<Filename>CromAlpha128.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+
+
+		-<Row>
+
+			<Atlas>CROMWELL_ALPHA</Atlas>
+
+			<IconSize>80</IconSize>
+
+			<Filename>CromAlpha80.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+
+
+		-<Row>
+
+			<Atlas>CROMWELL_ALPHA</Atlas>
+
+			<IconSize>64</IconSize>
+
+			<Filename>CromAlpha64.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+
+
+		-<Row>
+
+			<Atlas>CROMWELL_ALPHA</Atlas>
+
+			<IconSize>48</IconSize>
+
+			<Filename>CromAlpha48.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+
+
+		-<Row>
+
+			<Atlas>CROMWELL_ALPHA</Atlas>
+
+			<IconSize>45</IconSize>
+
+			<Filename>CromAlpha45.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+
+
+		-<Row>
+
+			<Atlas>CROMWELL_ALPHA</Atlas>
+
+			<IconSize>32</IconSize>
+
+			<Filename>CromAlpha32.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+
+
+		-<Row>
+
+			<Atlas>CROMWELL_ALPHA</Atlas>
+
+			<IconSize>24</IconSize>
+
+			<Filename>CromAlpha24.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+
+
+		-<Row>
+
+			<Atlas>CROMWELL_ALPHA</Atlas>
+
+			<IconSize>16</IconSize>
+
+			<Filename>CromAlpha16.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+
+
+		-<Row>
+
+			<Atlas>IRONSIDE_ALPHA</Atlas>
+
+			<IconSize>256</IconSize>
+
+			<Filename>Ironsideflag256.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+
+
+		-<Row>
+
+			<Atlas>IRONSIDE_ALPHA</Atlas>
+
+			<IconSize>128</IconSize>
+
+			<Filename>Ironsideflag128.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+
+
+		-<Row>
+
+			<Atlas>IRONSIDE_ALPHA</Atlas>
+
+			<IconSize>80</IconSize>
+
+			<Filename>Ironsideflag80.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+
+
+		-<Row>
+
+			<Atlas>IRONSIDE_ALPHA</Atlas>
+
+			<IconSize>64</IconSize>
+
+			<Filename>Ironsideflag64.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+
+
+		-<Row>
+
+			<Atlas>IRONSIDE_ALPHA</Atlas>
+
+			<IconSize>45</IconSize>
+
+			<Filename>Ironsideflag45.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+
+
+		-<Row>
+
+			<Atlas>IRONSIDE_ALPHA</Atlas>
+
+			<IconSize>32</IconSize>
+
+			<Filename>Ironsideflag32.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+
+		-<Row>
+
+			<Atlas>ROUNDHEAD_ALPHA</Atlas>
+
+			<IconSize>256</IconSize>
+
+			<Filename>Roundheadflag256.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+
+
+		-<Row>
+
+			<Atlas>ROUNDHEAD_ALPHA</Atlas>
+
+			<IconSize>128</IconSize>
+
+			<Filename>Roundheadflag128.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+
+
+		-<Row>
+
+			<Atlas>ROUNDHEAD_ALPHA</Atlas>
+
+			<IconSize>80</IconSize>
+
+			<Filename>Roundheadflag80.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+
+
+		-<Row>
+
+			<Atlas>ROUNDHEAD_ALPHA</Atlas>
+
+			<IconSize>64</IconSize>
+
+			<Filename>Roundheadflag64.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+
+
+		-<Row>
+
+			<Atlas>ROUNDHEAD_ALPHA</Atlas>
+
+			<IconSize>45</IconSize>
+
+			<Filename>Roundheadflag45.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+
+
+		-<Row>
+
+			<Atlas>ROUNDHEAD_ALPHA</Atlas>
+
+			<IconSize>32</IconSize>
+
+			<Filename>Roundheadflag32.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+
+	</IconTextureAtlases>
+  
+</GameData>

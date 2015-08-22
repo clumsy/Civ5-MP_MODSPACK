@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/18/2015 9:51:45 PM -->
+<GameData>
+
+	<DecisionsAddin_Support>
+		<Row>
+			<FileName>RJProtectorate_Decisions.lua</FileName>
+		</Row>
+	</DecisionsAddin_Support>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_RJ_INSTITUTE_MAJOR_GENERALS</Type>
+			<DefaultBuilding>BUILDING_RJ_INSTITUTE_MAJOR_GENERALS</DefaultBuilding>
+			<Description>Institute Major Generals</Description>
+		</Row>
+	</BuildingClasses>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_RJ_INSTITUTE_MAJOR_GENERALS</Type>
+			<BuildingClass>BUILDINGCLASS_RJ_INSTITUTE_MAJOR_GENERALS</BuildingClass>
+			<Cost>-1</Cost>
+			<PrereqTech>NONE</PrereqTech>
+			<Description>Institute Major Generals</Description>
+			<ArtDefineTag>ART_DEF_BUILDING_FORGE</ArtDefineTag>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NukeImmune>true</NukeImmune>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<MinAreaSize>-1</MinAreaSize>>
+			<NeverCapture>true</NeverCapture>
+			<IconAtlas>CROMWELL_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_RJ_INSTITUTE_MAJOR_GENERALS</BuildingType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_RJ_NEW_MODEL_ORDINANCE</Type>
+			<Description>New Model Army</Description>
+			<Help>Gains experience 50% faster.</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<ExperiencePercent>50</ExperiencePercent>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>New Model Army</PediaEntry>
+		</Row>
+	</UnitPromotions>
+	<Policies>
+		<Row>
+			<Type>POLICY_RJ_NEW_MODEL_ORDINANCE</Type>
+			<UnitGoldMaintenanceMod>5</UnitGoldMaintenanceMod>
+		</Row>
+	</Policies>
+	<Language_en_US>
+		<!--New Model and Self Denying Ordinance-->
+		<Row Tag="TXT_KEY_DECISIONS_RJ_NEW_MODEL_ORDINANCE">
+			<Text>New Model and Self Denying Ordinances</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_RJ_NEW_MODEL_ORDINANCE_DESC">
+			<Text>
+				The Army is in a terribly disorganised state, led by foolish gentry politicians. Perhaps we should pass reform to create a single, national force, aswell as purge our commanders and replace them with true soldiers! Apart from, of course, yourself, Cromwell.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Protectorate
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Renaissance Era
+				[NEWLINE][ICON_BULLET]May only be enacted once
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE][ICON_BULLET]Unit [ICON_GOLD] maintenance cost increased by 5%
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]A free General appears near the [ICON_CAPITAL] Capital
+				[NEWLINE][ICON_BULLET]Units gain experience 50% faster
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_RJ_NEW_MODEL_ORDINANCE_ENACTED_DESC">
+			<Text>
+				The Army is in a terribly disorganised state, led by foolish gentry politicians. Perhaps we should pass reform to create a single, national force, aswell as purge our commanders and replace them with true soldiers! Apart from, of course, yourself, Cromwell.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]A free General appears near the [ICON_CAPITAL] Capital
+				[NEWLINE][ICON_BULLET]Units gain experience 50% faster
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_RJ_NEW_MODEL_ORDINANCE">
+			<Text>England's army has been reformed into a single, effective fighting force led by common soldiers rather than aristocrats.</Text>
+		</Row>
+
+		<!--Institute rule of the Major Generals-->
+		<Row Tag="TXT_KEY_DECISIONS_RJ_INSTITUTE_MAJOR_GENERALS">
+			<Text>Institute rule of the Major Generals</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_RJ_INSTITUTE_MAJOR_GENERALS_DESC">
+			<Text>
+				Unfortunately a civilian government does not seem to be functioning well, the army proposes that England should be divided into 11 military districts. Along with that, trivial things such as alehouses and Christmas should be banned to create a Godly nation![NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Protectorate
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Medieval Era
+				[NEWLINE][ICON_BULLET]May only be enacted once
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]{2_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+25% [ICON_PEACE] Faith
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_RJ_INSTITUTE_MAJOR_GENERALS_ENACTED_DESC">
+			<Text>
+				Unfortunately a civilian government does not seem to be functioning well, the army proposes that England should be divided into 11 military districts. Along with that, trivial things such as alehouses and Christmas should be banned to create a Godly nation![NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+25% [ICON_PEACE] Faith
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_RJ_INSTITUTE_MAJOR_GENERALS">
+			<Text>England has been placed under military rule. Christmas has also been banned.</Text>
+		</Row>
+	</Language_en_US>
+  
+</GameData>

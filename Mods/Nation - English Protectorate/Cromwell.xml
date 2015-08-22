@@ -1,0 +1,863 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/13/2014 10:08:45 PM -->
+<GameData>
+
+
+	-<Leaders>
+
+
+		-<Row>
+
+			<Type>LEADER_CROMWELL</Type>
+
+			<Description>TXT_KEY_LEADER_CROMWELL</Description>
+
+			<Civilopedia>TXT_KEY_LEADER_CROMWELL_PEDIA</Civilopedia>
+
+			<CivilopediaTag>TXT_KEY_CIVILOPEDIA_LEADERS_CROMWELL</CivilopediaTag>
+
+			<ArtDefineTag>Cromwell_scene.xml</ArtDefineTag>
+
+			<VictoryCompetitiveness>7</VictoryCompetitiveness>
+
+			<WonderCompetitiveness>4</WonderCompetitiveness>
+
+			<MinorCivCompetitiveness>6</MinorCivCompetitiveness>
+
+			<Boldness>8</Boldness>
+
+			<DiploBalance>8</DiploBalance>
+
+			<WarmongerHate>7</WarmongerHate>
+
+			<WorkAgainstWillingness>4</WorkAgainstWillingness>
+
+			<WorkWithWillingness>6</WorkWithWillingness>
+
+			<DenounceWillingness>7</DenounceWillingness>
+
+			<DoFWillingness>3</DoFWillingness>
+
+			<Loyalty>6</Loyalty>
+
+			<Neediness>2</Neediness>
+
+			<Forgiveness>3</Forgiveness>
+
+			<Chattiness>5</Chattiness>
+
+			<Meanness>5</Meanness>
+
+			<PortraitIndex>1</PortraitIndex>
+
+			<IconAtlas>CROMWELL_ATLAS</IconAtlas>
+
+		</Row>
+
+	</Leaders>
+
+
+	-<Leader_MajorCivApproachBiases>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_WAR</MajorCivApproachType>
+
+			<Bias>7</Bias>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_HOSTILE</MajorCivApproachType>
+
+			<Bias>7</Bias>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_DECEPTIVE</MajorCivApproachType>
+
+			<Bias>3</Bias>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_GUARDED</MajorCivApproachType>
+
+			<Bias>7</Bias>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_AFRAID</MajorCivApproachType>
+
+			<Bias>3</Bias>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_FRIENDLY</MajorCivApproachType>
+
+			<Bias>5</Bias>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_NEUTRAL</MajorCivApproachType>
+
+			<Bias>3</Bias>
+
+		</Row>
+
+	</Leader_MajorCivApproachBiases>
+
+
+	-<Leader_MinorCivApproachBiases>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<MinorCivApproachType>MINOR_CIV_APPROACH_IGNORE</MinorCivApproachType>
+
+			<Bias>3</Bias>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<MinorCivApproachType>MINOR_CIV_APPROACH_FRIENDLY</MinorCivApproachType>
+
+			<Bias>6</Bias>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<MinorCivApproachType>MINOR_CIV_APPROACH_PROTECTIVE</MinorCivApproachType>
+
+			<Bias>7</Bias>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<MinorCivApproachType>MINOR_CIV_APPROACH_CONQUEST</MinorCivApproachType>
+
+			<Bias>4</Bias>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<MinorCivApproachType>MINOR_CIV_APPROACH_BULLY</MinorCivApproachType>
+
+			<Bias>4</Bias>
+
+		</Row>
+
+	</Leader_MinorCivApproachBiases>
+
+
+	-<Leader_Flavors>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+
+			<Flavor>8</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+
+			<Flavor>6</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+
+			<Flavor>5</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+
+			<Flavor>8</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<FlavorType>FLAVOR_RECON</FlavorType>
+
+			<Flavor>7</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<FlavorType>FLAVOR_RANGED</FlavorType>
+
+			<Flavor>4</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<FlavorType>FLAVOR_MOBILE</FlavorType>
+
+			<Flavor>8</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+
+			<Flavor>7</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<FlavorType>FLAVOR_NAVAL_RECON</FlavorType>
+
+			<Flavor>6</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<FlavorType>FLAVOR_NAVAL_GROWTH</FlavorType>
+
+			<Flavor>7</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<FlavorType>FLAVOR_NAVAL_TILE_IMPROVEMENT</FlavorType>
+
+			<Flavor>7</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<FlavorType>FLAVOR_AIR</FlavorType>
+
+			<Flavor>6</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+
+			<Flavor>6</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+
+			<Flavor>5</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<FlavorType>FLAVOR_TILE_IMPROVEMENT</FlavorType>
+
+			<Flavor>6</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<FlavorType>FLAVOR_INFRASTRUCTURE</FlavorType>
+
+			<Flavor>7</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+
+			<Flavor>8</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+
+			<Flavor>7</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+
+			<Flavor>6</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+
+			<Flavor>5</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+
+			<Flavor>5</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+
+			<Flavor>5</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+
+			<Flavor>4</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+
+			<Flavor>9</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<FlavorType>FLAVOR_DIPLOMACY</FlavorType>
+
+			<Flavor>9</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<FlavorType>FLAVOR_SPACESHIP</FlavorType>
+
+			<Flavor>6</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<FlavorType>FLAVOR_WATER_CONNECTION</FlavorType>
+
+			<Flavor>7</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<FlavorType>FLAVOR_NUKE</FlavorType>
+
+			<Flavor>5</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<FlavorType>FLAVOR_USE_NUKE</FlavorType>
+
+			<Flavor>7</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<FlavorType>FLAVOR_ESPIONAGE</FlavorType>
+
+			<Flavor>7</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<FlavorType>FLAVOR_ANTIAIR</FlavorType>
+
+			<Flavor>5</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<FlavorType>FLAVOR_AIR_CARRIER</FlavorType>
+
+			<Flavor>5</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<FlavorType>FLAVOR_I_LAND_TRADE_ROUTE</FlavorType>
+
+			<Flavor>3</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<FlavorType>FLAVOR_I_SEA_TRADE_ROUTE</FlavorType>
+
+			<Flavor>8</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<FlavorType>FLAVOR_ARCHAEOLOGY</FlavorType>
+
+			<Flavor>5</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<FlavorType>FLAVOR_I_TRADE_ORIGIN</FlavorType>
+
+			<Flavor>5</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<FlavorType>FLAVOR_I_TRADE_DESTINATION</FlavorType>
+
+			<Flavor>5</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<FlavorType>FLAVOR_AIRLIFT</FlavorType>
+
+			<Flavor>5</Flavor>
+
+		</Row>
+
+	</Leader_Flavors>
+
+
+	-<Leader_Traits>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_CROMWELL</LeaderType>
+
+			<TraitType>TRAIT_CROMWELL_ISAWESOME</TraitType>
+
+		</Row>
+
+	</Leader_Traits>
+
+
+	<Diplomacy_Responses>
+
+
+		<Row LeaderType="LEADER_CROMWELL">
+
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+
+			<Response>TXT_KEY_LEADER_CROMWELL_FIRSTGREETING_%</Response>
+
+		</Row>
+
+
+		<Row LeaderType="LEADER_CROMWELL">
+
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+
+			<Response>TXT_KEY_LEADER_CROMWELL_DEFEATED_%</Response>
+
+		</Row>
+
+	</Diplomacy_Responses>
+
+
+	-<Language_en_US>
+
+
+		-<Row Tag="TXT_KEY_LEADER_CROMWELL">
+
+			<Text>Oliver Cromwell</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_LEADER_CROMWELL_PEDIA">
+
+
+			-<Text>Oliver Cromwell was Lord Protector of England, Ireland and Scotland from 1599-1658. A zealot, he believed in providence, that God set out his plan so that just men could express his will. He increasingly believed that he was a servant of God, but rather than lose touch will reality it made him an extremely decisive and in some ways noble figure. Though he is often portrayed as Dictorial and strict, he was actually a compassionate man who offered protection to religious sects believing that no man could truly know God.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CROMWELL_HEADING_1">
+
+			<Text>Early life</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CROMWELL_HEADING_2">
+
+			<Text>Role in the Long parliament</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CROMWELL_HEADING_3">
+
+			<Text>Role in the English Civil war and the new model army</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CROMWELL_HEADING_4">
+
+			<Text>Conflict with parliament</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CROMWELL_HEADING_5">
+
+			<Text>Regicide!</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CROMWELL_HEADING_6">
+
+			<Text>Celtic campaigns-Cromwell's darkest and finest hours</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CROMWELL_HEADING_7">
+
+			<Text>Expulsion of the rump and the Protectorate</Text>
+
+		</Row>
+
+		-<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CROMWELL_HEADING_8">
+
+			<Text>Legacy of Cromwell</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CROMWELL_LIVED">
+
+			<Text>1599 - 1658 AD</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CROMWELL_NAME">
+
+			<Text>Oliver Cromwell</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CROMWELL_SUBTITLE">
+
+			<Text>Lord protector of England, Ireland and Scotland</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CROMWELL_TEXT_1">
+
+
+			-<Text>Cromwell's early life was relatively bland, he was born in Huntingdon in 1599. The Cromwells were a family that had greatly benefitted from the reformation and the wealth it gave to gentry families, however by the early 1600s this reserve was running low and Cromwell's early life was something of a struggle, though he was educated at Cambridge. Later, Cromwell entered what was described as "acute melancholy" or depression, but experienced a religious conversion which greatly influenced his views. He had been saved by God for a purpose, but what purpose?</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CROMWELL_TEXT_2">
+
+
+			-<Text>Cromwell's role in the long parliament was relatively small, and yet he already began to attract attention. He had a fiery, authroitive personality and was a skilled orator, making long rambling speeches criticising the catholic-esque reforms in the Anglican church and the King's disregard of the rights of parliament. However, in parliament he had a number of political allies in family members and strengthened his position as one of the "Godly", puritan MPs favouring greater reformation.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CROMWELL_TEXT_3">
+
+
+			-<Text>Cromwell first started with a regiment of cavalry in the war, but quickly rose to prominence and gained promotions, especially after the battle of Marston moor where his cavalry were christened Ironsides. He went on to criticise the somewhat incompetent aristocratic leaders of the parliamentary war effort, such as the Earl of Manchester. He proposed that they be replaced with professional soldiers and later played a direct role in the creation of the New Model Army to replace the disorganised county militias with a proper, national army, one of his greatest achievements. His actions quickly brought the war to a conclusion in 1647, by which point he was nationally known and the unofficial figurehead of the army.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CROMWELL_TEXT_4">
+
+
+			-<Text>After the war, the parliament made a few mistakes which made the peace making process more complex. It attempted to disband the army, send the remainder to Ireland and pay the soldiers 8 weeks arrears pay, not nearly what they were actually owed. Cromwell became the figurehead, the only soldier with influence in parliament and hoping to protect the army's rights and prevent a new national church from being created. These conflicts escalated in the 2nd English civil war, a plot orchestrated by the defeated king which hardened attitudes and directly led to Pride's purge by colonel Pride. The remains of parliament was mockingly called the rump</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CROMWELL_TEXT_5">
+
+
+			-<Text>After Pride's purge, Cromwell reluctantly decided on a trial for King Charles. The trial shocked the nation, as such a thing was incomprehensible at the time, but it went forward and Charles was found guilty of treason against the people of England and executed. According to legend Cromwell called it "A cruel necessity". However, Cromwell and the rump had the task of building support for the new republic.</Text>
+
+		</Row>
+		
+
+		-<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CROMWELL_TEXT_6">
+
+
+			-<Text>Charles had been King of both Scotland and Ireland, but this did not mean they were part of England. Ireland had been in rebellion in 1641, and Cromwell went with the New Model Army in a brutal, 9 month campaign that featured large scale civilian massacres. The reason for the brutality was the fact that the Irish rebels had committed atrocities against protestant settlers, and Cromwell viewed the Irish Catholics as servants of the anti christ. What's more, Ireland could have been used asa stepping stone by France or Spain to conquer the nation, and laying waste to the nation was Cromwell's decision to secure the regime. Whatever the motive, it's one of Cromwell's most heavily criticised actions. The Scots were a different matter, another protestant nation, they had fought side by side against the King and had a much better army than the Irish rebels, but had declared Charles II as the rightful king of Scotland, Ireland and England. Cromwell headed north to face the Scots near Dunbar. The Scots were based on a hill with a force twice as big, 22'000 men, however Cromwell's military genius made the battle a disaster for the Scots. Cromwell quickly realised that here was an opportunity for him to turn the tables on the Scots. He knew that an attack on the Scottish right flank would leave the left flank unengaged and that a successful push against the right would roll the latter back. On observing the manouevre, he is said to have exclaimed, "The Lord hath delivered them into our hands!".</Text>
+
+		</Row>
+		
+
+		-<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CROMWELL_TEXT_7">
+
+
+			-<Text>By 1653, after successful campaigns, Cromwell expected the rump to have made progress in reforming the nation. However, the relatively conservative and incompetent members of the rump had made very little effort, and so Cromwell delivered a punishing speech, accusing them of betraying England, exclaiming "You are no Parliament!". He ejected the rump and established the Protectorate, with him as Lord Protector. He set out to heal and restore the nation by beginning a great amount of moral and religious reforms, and allowing Jews back into the country 350 years after they were expelled by Edward I. These reforms were to heal the nation from the horros of the civil war and the regicide of the King, but in some ways failed to preserve the Protectorate. He was also involved in wars such as the Anglo dutch war which secured dominance over trade for England in the English channel which helped to legitimise the nation in the eyes of foreigners.</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CROMWELL_TEXT_8">
+
+
+			-<Text>Cromwell is argurably one of the most controversial people in English history. Some historians view him as a fanatical monster, others see him as the greatest military mind of his time and some view him as England's saviour. However, Cromwell was not a simple man, his actions were largely based on what he felt God wanted him to do, and yet he was very passionate and quite moderate compared to some, advocating freedom of worship and the promotion of soldiers of humble origin, something that seriously irked his superiors during the civil wars. Was he a Champion of English liberty, or a puritanical dictator? That's for you to decide.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_CROMWELL_TITLES_1">
+
+			<Text>Lord protector</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_LEADER_CROMWELL_FIRSTGREETING_1">
+
+			<Text>I am Oliver Cromwell, Lord protector of the English people. Long live Parliament! Long live the Republic!</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_LEADER_CROMWELL_FIRSTGREETING_2">
+
+			<Text>Greetings to thee, I am Oliver Cromwell, and we are Englishmen, that is one good fact.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_LEADER_CROMWELL_FIRSTGREETING_3">
+
+			<Text>It is divine providence that we should meet. Tell me, do you put your trust in God?</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_LEADER_CROMWELL_DEFEATED_1">
+
+			<Text>I need pity. I know what I feel. Great place and business in the world is not worth looking after.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_LEADER_CROMWELL_DEFEATED_2">
+
+			<Text>I believed myself to be a divine instrument, but it appears the lord has favoured others. Or perhaps he is waiting for the right moment to strike ye down.</Text>
+
+		</Row>
+
+	</Language_en_US>
+  
+</GameData>
