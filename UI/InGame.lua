@@ -1535,6 +1535,9 @@ ContextPtr:LoadNewContext("JFD_KilwaFunctions")
 -- Nation - Andorra --
 ContextPtr:LoadNewContext("Andorra_trait")
 
+-- Nation - Austria-Hungary --
+ContextPtr:LoadNewContext("GE_AustriaHungaryFunctions")
+
 -- Nation - Inuit --
 ContextPtr:LoadNewContext("InuitRelocation")
 ContextPtr:LoadNewContext("UntilTheIceBreaks")

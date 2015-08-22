@@ -1,0 +1,33 @@
+<GameData>
+	<Audio_Sounds>
+
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_GE_FRANZ_JOSEPH_PEACE</SoundID>
+			<Filename>GE_FranzJosephPeace</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_GE_FRANZ_JOSEPH_WAR</SoundID>
+			<Filename>GE_FranzJosephWar</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+	</Audio_Sounds>
+	<Audio_2DSounds>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_GE_FRANZ_JOSEPH_PEACE</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_GE_FRANZ_JOSEPH_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_GE_FRANZ_JOSEPH_WAR</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_GE_FRANZ_JOSEPH_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>50</MinVolume>
+			<MaxVolume>50</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+	</Audio_2DSounds>
+</GameData>

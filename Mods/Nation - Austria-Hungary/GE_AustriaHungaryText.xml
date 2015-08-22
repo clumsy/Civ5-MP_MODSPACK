@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/19/2013 1:20:28 PM -->
+<GameData>
+	<Language_en_US>
+		<!--City List-->
+		<Row Tag="TXT_KEY_CITY_GE_AUSTRIA_HUNGARY_01">
+			<Text>Vienna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_AUSTRIA_HUNGARY_02">
+			<Text>Budapest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_AUSTRIA_HUNGARY_03">
+			<Text>Prague</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_AUSTRIA_HUNGARY_04">
+			<Text>Trieste</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_AUSTRIA_HUNGARY_05">
+			<Text>Lemberg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_AUSTRIA_HUNGARY_06">
+			<Text>Krakow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_AUSTRIA_HUNGARY_07">
+			<Text>Graz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_AUSTRIA_HUNGARY_08">
+			<Text>Szeged</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_AUSTRIA_HUNGARY_09">
+			<Text>Brno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_AUSTRIA_HUNGARY_10">
+			<Text>Subotica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_AUSTRIA_HUNGARY_11">
+			<Text>Debrecen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_AUSTRIA_HUNGARY_12">
+			<Text>Tschernowitz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_AUSTRIA_HUNGARY_13">
+			<Text>Zagreb</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_AUSTRIA_HUNGARY_14">
+			<Text>Pressburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_AUSTRIA_HUNGARY_15">
+			<Text>Miskolc</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_AUSTRIA_HUNGARY_16">
+			<Text>Timisoara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_AUSTRIA_HUNGARY_17">
+			<Text>Oradea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_AUSTRIA_HUNGARY_18">
+			<Text>Kolozsvar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_AUSTRIA_HUNGARY_19">
+			<Text>Sarajevo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_AUSTRIA_HUNGARY_20">
+			<Text>Split</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_AUSTRIA_HUNGARY_21">
+			<Text>Zara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_AUSTRIA_HUNGARY_22">
+			<Text>Rijeka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_AUSTRIA_HUNGARY_23">
+			<Text>Salzburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_AUSTRIA_HUNGARY_24">
+			<Text>Opava</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_AUSTRIA_HUNGARY_25">
+			<Text>Pula</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_AUSTRIA_HUNGARY_26">
+			<Text>Klagenfurt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_AUSTRIA_HUNGARY_27">
+			<Text>Ljubljana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_GE_AUSTRIA_HUNGARY_28">
+			<Text>Mostar</Text>
+		</Row>
+		
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_GE_AUSTRIA_HUNGARY_0">
+			<Text>Felix</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GE_AUSTRIA_HUNGARY_1">
+			<Text>Bence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GE_AUSTRIA_HUNGARY_2">
+			<Text>Jakub</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GE_AUSTRIA_HUNGARY_3">
+			<Text>Sivejik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GE_AUSTRIA_HUNGARY_4">
+			<Text>Jan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GE_AUSTRIA_HUNGARY_5">
+			<Text>Anna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GE_AUSTRIA_HUNGARY_6">
+			<Text>Sophia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GE_AUSTRIA_HUNGARY_7">
+			<Text>Adele</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GE_AUSTRIA_HUNGARY_8">
+			<Text>Kristina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GE_AUSTRIA_HUNGARY_9">
+			<Text>Julia</Text>
+		</Row>
+		
+		<!--Demonyms-->
+		<Row Tag="TXT_KEY_CIV_GE_AUSTRIA_HUNGARY_ADJECTIVE">
+			<Text>Austro-Hungarian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_AUSTRIA_HUNGARY_DESC">
+			<Text>Austro-Hungarian Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_AUSTRIA_HUNGARY_SHORT_DESC">
+			<Text>Austria-Hungary</Text>
+		</Row>
+		
+		<!--Civ Info-->
+		<Row Tag="TXT_KEY_LEADER_GE_FRANZ_JOSEPH">
+			<Text>Franz Joseph</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GE_AUSTRIA_HUNGARY_DOM">
+			<Text>Great Franz Joseph of the Austro-Hungarian Empire, people far and wide throughout the lands cry for you to become their leader once more! Owing to your establishment of a state right in the heart of Europe, you were noted as a ruler of one of the so-called "Great Powers" of the day. Able to unite your people against foes that could crush the empire, forming a stable alliance with the new state of Germany in the process, your wisdom managed to save people that would have otherwise been subject to far harsher foreign domination. However, with the advent of war in 1914 and your death two years later, the empire that you had so carefuly crafted collapsed, but your legacy lives on today.[NEWLINE][NEWLINE]Oh strong and mighty Kaiser Franz Joseph, your former realm needs you to reassume control. Can you creat a new state to empower your people's will? Can you fend off all enemies of the state to preserve the peace? Can you build a civilisation to stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_GE_CROWNLANDS">
+			<Text>Building a courthouse in puppet cities triggers We Love The King Day in all cities. During We Love The King Day, [ICON_GREAT_PEOPLE] Great Person generation is increased.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_GE_CROWNLANDS_SHORT">
+			<Text>Crownlands</Text>
+		</Row>
+		
+		<!--Civ Pedias-->
+		<Row Tag="TXT_KEY_CIV5_GE_AUSTRIA_HUNGARY_TITLE">
+			<Text>Austria-Hungary</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GE_AUSTRIA_HUNGARY_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GE_AUSTRIA_HUNGARY_TEXT_1">
+			<Text>Austria-Hungary was a state in central Europe that aimed to continue the Habsburg Empire in this new form. Owing to the vast amount of cultures within it, Austria-Hungary was often unstable politically, and had ethnic infighting for much of its existence. Founded as a result of the Compromise of 1867, unity in the region was fragile. Austria and Hungary remained distinct entities within the state, each having their own passports despite being legally part of the same country. The union was far more a personal monarchical union than a full-scale political one, as most regions had a significant degree of autonomy, with centralised matters only being to do with defence and the like. Throughout the 19th century, Austria-Hungary prospered, as a cultural capital of the world. However, due to the close alliance with the upstart German Empire, Austria-Hungary found itself isolated from many other countries around it. In the south, the Serbs were desperate to regain lands incorporated into Austria-Hungary, despite them having only got independence a few years beforehand. As an ally of Russia, Serbia was able to push these claims. In 1914, Austria-Hungary sent an ultimatum to Serbia, stating that if they did not agree with all of the points, then they would be in a state of war. The points were so power-taking that the Austro-Hungarian Empire did not think they could possibly agree, thus giving them a casus belli; however, much to their surprise and disappointment, the Serbs agreed with everything aside from one clause in point six of the ultimatum. Angered, Austria-Hungary invaded anyway. However, with incredibly outdated military not ready to even fight against the upstart Serbian nation, Austria-Hungary succumed to its weakness in having too many ethnicities held in the one state against their will. Though Austria tried to incorporate itself into the remnants of the German Empire, the newfound League of Nations denied this, instead splitting Central Europe into more or less what it is today.</Text>
+		</Row>
+		
+		<!--Leader Pedias-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_GE_FRANZ_JOSEPH_DESC">
+			<Text>Franz Joseph II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_GE_FRANZ_JOSEPH_LIVED">
+			<Text>1830 - 1916 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_GE_FRANZ_JOSEPH_NAME">
+			<Text>Franz Joseph</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_GE_FRANZ_JOSEPH_SUBTITLE">
+			<Text>Leader of Austria-Hungary</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_GE_FRANZ_JOSEPH_TITLES_1">
+			<Text>Emperor of Austria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_GE_FRANZ_JOSEPH_TITLES_2">
+			<Text>King of Hungary</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_GE_FRANZ_JOSEPH_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_GE_FRANZ_JOSEPH_TEXT_1">
+			<Text>Kaiser Franz Joseph I was the sole monarch of Austria-Hungary for most of its history, from his ascension to the throne in 1848 to his death in the dire years of the First World War. Always aiming to consolidate his power, Franz Joseph soon saw that many people under the Austro-Hungarian banner were unhappy with this nationality, something he sought out to put an end to. With the vast amount of ethnic groups within Austria-Hungary, Franz Joseph aimed to unite them all and go forwards as one unified nation. Throughout the years, he saw Austria-Hungary retain its fragile position in Central Europe, though the lack of progress lead to outdated technology, leaving the military large, but almost obsolete. Towards the end of his reign, Franz Joseph entered a military alliance with Wilhelm II of Germany, the Central Powers. In 1914, a Serbian nationalist group, the Black Hand, assassinated Franz Ferdinand, Franz Joseph’s heir to the throne of Austria-Hungary. Angered by this, Franz Joseph declared war on Serbia, triggering a complex system of alliances that ultimately started the First World War. With the army in shambles, Franz Joseph found himself losing time after time to the upstart Serbians, and with his death two years into this conflict, the state he had so carefully crafted was doomed for destruction.</Text>
+		</Row>
+		
+		<!--Unique Unit-->
+		<Row Tag="TXT_KEY_UNIT_GE_GRENZER">
+			<Text>Grenzer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_GE_AUSTRIA_HUNGARY_GRENZER">
+			<Text>An earlier, but weaker version of the Great War Infantry. Has a [ICON_STRENGTH] Combat Bonus based on the amount of promotions it has.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GE_GRENZER_STRATEGY">
+			<Text>Replaces the Great War Infantry, though comes earlier and is weaker. Fights better based on the number of promotions it has.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GE_AUSTRIA_HUNGARY_GRENZER_TEXT">
+			<Text>Created to defend the Habsburg’s southern gains from the Ottomans, the Grenz Infantry were an elite Croatian division of the Austro-Hungarian army tasked with manning the border with the Caliphate. Always cautious of another attack from them, it was vital that the border was secured at all times, even keeping a division there when there was no threat from the Ottomans. While at war, Austria-Hungary would use these border guards to fight in other theaters, making them among the most legendary units of the Austro-Hungarians.</Text>
+		</Row>
+		
+		<!--Unique Building-->
+		<Row Tag="TXT_KEY_BUILDING_GE_CONCERT_HALL">
+			<Text>Concert Hall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GE_CONCERT_HALL_HELP">
+			<Text>When the Great Work Slot is filled, gain +2 [ICON_GOLDEN_AGE] Golden Age points.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GE_CONCERT_HALL_STRATEGY">
+			<Text>Replaces the Opera House, and yields +2 [ICON_HAPPINESS_1] Happiness. Filling the Great Work of Music slot will generate [ICON_GOLDEN_AGE] Golden Age points.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_GE_AUSTRIA_HUNGARY_CONCERT_HALL_TEXT">
+			<Text>Vienna is known for its culture, and during the 19th century, it was at its height, with people like Mozart composing music in the Habsburg domains. Aside from the coffee shops, Vienna (along with the rest of Austria-Hungary) is known for its concert halls, which remain a tradition throughout Austria to this day. One such example of a concert hall in Vienna would be the Musikverein, renowned for its acoustics and regarded by many as one of the greatest concert halls in the world. The land that the hall is on was provided by none other than Franz Joseph, and remains in great use to this day, housing the Vienna Philharmonic Orchestra.</Text>
+		</Row>
+
+		<!--Diplomacy-->
+		<Row Tag="TXT_KEY_LEADER_GE_FRANZ_JOSEPH_FIRSTGREETING_1">
+			<Text>Welcome to the Austro-Hungarian Crownlands, my friend. Would you care for some culture? Allow me to introduce it to you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GE_FRANZ_JOSEPH_FIRSTGREETING_2">
+			<Text>I, Franz Joseph, Emperor of Austria-Hungary, bid you welcome to my lands. Care for a look around? The mountains are lovely here...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GE_FRANZ_JOSEPH_DEFEATED_1">
+			<Text>Damned fool! You have wiped out countless people and put them under your ever-opressing rule. At least they're united.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GE_FRANZ_JOSEPH_DEFEATED_2">
+			<Text>How this day came about I do not know. Though that smirk shall no longer be on your face when the empire strikes back.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GE_FRANZ_JOSEPH_DECLARE_WAR_1">
+			<Text>Prepare to get crushed by Austria-Hungary and her allies! This will be over by Christmas, I tell you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GE_FRANZ_JOSEPH_DECLARE_WAR_2">
+			<Text>I just wanted to say how much of a mess your empire's looking. Oh, and we declare war on you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GE_FRANZ_JOSEPH_ATTACKED_1">
+			<Text>Ha! You really think you're a match for us, let alone our friends? This should be quick.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GE_FRANZ_JOSEPH_ATTACKED_2">
+			<Text>This should be fun. Several nations backing one cause is as good as our victory.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

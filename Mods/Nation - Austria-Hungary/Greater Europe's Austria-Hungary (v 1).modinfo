@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="1c8a9c9b-b7ef-43c2-8360-1c3ecf4e0256" version="1">
+  <Properties>
+    <Name>Greater Europe's Austria-Hungary</Name>
+    <Teaser>Austria-Hungary was a state in central Europe that aimed to continue the Habsburg Empire in this new form. Owing to the vast amo</Teaser>
+    <Description>Adds the Austro-Hungarian Empire into the game. Requires BNW.
+
+[QUOTE][b]UA: Crownlands[/b] - Building a courthouse in puppett cities triggers We Love The King Day in all cities. During We Love The King Day, Great Person generation is increased.
+
+[b]UU: Grenzer[/b] - An earlier, but weaker version of the Great War Infantry. Has a Combat Bonus based on the amount of promotions it has.
+
+[b]UB: Concert Hall[/b] - When the Great Work Slot is filled, gain +2 Golden Age points.[/QUOTE]
+
+[QUOTE]Credits: 
+XML - Viregel
+Art - JanBoruta
+Lua - JFD
+Origanal Lua and Planning - TarcisioCM
+Origanal Map and Civ Icon - COF
+Grenzer Model - Bernie14
+Peace Theme: [URL="http://www.youtube.com/watch?v=wepT8SM87dc"]Gott Erhalte Franz Den Kaiser[/URL]
+War Theme: [URL="http://www.youtube.com/watch?v=tXUhum5CrRs&amp;amp;index=19&amp;amp;list=PL4E3FFF3270096380"]Andreas Waldetoft - War (Hearts of Iron II) [/URL][/QUOTE]</Description>
+    <Authors>TarcisioCM, JanBoruta, Viregel, JFD</Authors>
+    <SpecialThanks>COF</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD's Piety and Prestige" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="47905047888ED0220E0A83114FC3D8A2" import="1">Art/Audio/GE_FranzJosephPeace.mp3</File>
+    <File md5="87CECBE9F07B33DCA8F126C9FF885385" import="1">Art/Audio/GE_FranzJosephWar.mp3</File>
+    <File md5="A54699E64CA31799FC9BAB6A293AD943" import="1">Art/Icons/GE_AustriaHungaryAlphaAtlas_128.dds</File>
+    <File md5="E3C0805FEF7FA2995A9080B9454E1A4B" import="1">Art/Icons/GE_AustriaHungaryAlphaAtlas_16.dds</File>
+    <File md5="6A1F0BB706B9DA44D3201B9D47BD95D5" import="1">Art/Icons/GE_AustriaHungaryAlphaAtlas_22.dds</File>
+    <File md5="35A71A5DF91544BE641764A8D2E4EA5A" import="1">Art/Icons/GE_AustriaHungaryAlphaAtlas_24.dds</File>
+    <File md5="CFBEF33B12771784358F63ED84F9E92B" import="1">Art/Icons/GE_AustriaHungaryAlphaAtlas_32.dds</File>
+    <File md5="CA5AD392762B6900DFC516DA8D00C9B3" import="1">Art/Icons/GE_AustriaHungaryAlphaAtlas_45.dds</File>
+    <File md5="7B720F7B93FB2A66879FDF19AA195C05" import="1">Art/Icons/GE_AustriaHungaryAlphaAtlas_48.dds</File>
+    <File md5="988F2DE7BD6A36B32E8F88A49ED8B322" import="1">Art/Icons/GE_AustriaHungaryAlphaAtlas_64.dds</File>
+    <File md5="351AD0AA4FA2BFA26CA5CB0913556D4D" import="1">Art/Icons/GE_AustriaHungaryAlphaAtlas_80.dds</File>
+    <File md5="B08E7BDD1E780B475AD8C1384CDB13BB" import="1">Art/Icons/GE_AustriaHungaryAtlas_128.dds</File>
+    <File md5="F0E44547A2201CD970392E709E36351D" import="1">Art/Icons/GE_AustriaHungaryAtlas_256.dds</File>
+    <File md5="C437F926AF85E3587CB66080451545E8" import="1">Art/Icons/GE_AustriaHungaryAtlas_32.dds</File>
+    <File md5="044CD7050D1206CF9A9D718A17E3018B" import="1">Art/Icons/GE_AustriaHungaryAtlas_45.dds</File>
+    <File md5="0E2078E5DD30A5840B4FC976F90C7560" import="1">Art/Icons/GE_AustriaHungaryAtlas_64.dds</File>
+    <File md5="353F77FA3A5AC8B6E3BB7A3650E78205" import="1">Art/Icons/GE_AustriaHungaryAtlas_80.dds</File>
+    <File md5="A049A69D82756F7B5DD1B44DBAC50C82" import="1">Art/Icons/sv_grenzer.dds</File>
+    <File md5="4B203379C103725873832275A65291DC" import="1">Art/Leader/AustriaHungaryMap.dds</File>
+    <File md5="D5162DD7294D740F063EB48C31FC9D48" import="1">Art/Leader/FranzJosephDoM.dds</File>
+    <File md5="04E120625D05B725FD060E44E14D43EA" import="1">Art/Leader/FranzJosephLH.dds</File>
+    <File md5="B3E8D79D68EAB2BA3239581E384A4946" import="1">Art/Rifleman Austria/ausrm2.dds</File>
+    <File md5="5E7FDB63884C9DE8A7BCA2CCB650C64B" import="1">Art/Rifleman Austria/ausrm2_sref.dds</File>
+    <File md5="4FBCF9371C87D0F61076731CE5DBFC73" import="1">Art/Rifleman Austria/civ5_ausrm2.blend</File>
+    <File md5="79C18F6DEC716E7F5BF1AA22A3225FBE" import="1">Art/Rifleman Austria/civ5_ausrm2.fbx</File>
+    <File md5="CB330F4F1B7A107507AD4D567D4661A5" import="1">Art/Rifleman Austria/civ5_ausrm2.fxsxml</File>
+    <File md5="12F3C4A007AF2890E6BF340A98842145" import="1">Art/Rifleman Austria/civ5_ausrm2.gr2</File>
+    <File md5="48DD0814FE9549F33C306E4B2FA9AEAC" import="0">Art/Rifleman Austria/GrenzerArtDefines.sql</File>
+    <File md5="E5E002574FAE41D1FB63B048170EC250" import="0">Compatibility/JFD's Cultural Diversity.sql</File>
+    <File md5="59AB613BBFB748D70054FD8135DC14FD" import="0">Compatibility/JFD's Piety and Prestige.sql</File>
+    <File md5="1121737E5CA75632A8DF3CA89E2CCC00" import="0">Compatibility/YnAEMP.sql</File>
+    <File md5="A3DF2F61D658AF8DCD70AABF9824370F" import="0">Lua/GE_AustriaHungaryFunctions.lua</File>
+    <File md5="B39943509028A174312465E16A46EC79" import="0">XML/GE_AustriaHungaryAtlas.xml</File>
+    <File md5="D77D44E6021F95B3F37F6E296711BC57" import="0">XML/GE_AustriaHungaryAudio.xml</File>
+    <File md5="2F2A8E3F7F9820617819D84133C398A5" import="0">XML/GE_AustriaHungaryBuildings.xml</File>
+    <File md5="DA4C8D9F9C03D2036AAD6A87627F3E35" import="0">XML/GE_AustriaHungaryCivilisation.xml</File>
+    <File md5="FD7E9838F0DD09B21F40FE5A676E6E68" import="0">XML/GE_AustriaHungaryText.xml</File>
+    <File md5="6DB8D5207A34DF497A8DBED1F5B5C62A" import="0">XML/GE_AustriaHungaryTrait.xml</File>
+    <File md5="103EAB730665EF6BEE75D42A67B825EA" import="0">XML/GE_AustriaHungaryUnits.xml</File>
+    <File md5="CA8A12A3901B5A66CA254243F6122027" import="1">XML/GE_FranzJosephScene.xml</File>
+    <File md5="762B0CF64024CBD0CD45B53F2A28D9F7" import="0">XML/GE_FranzJoseph.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/Rifleman Austria/GrenzerArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>XML/GE_AustriaHungaryAtlas.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GE_AustriaHungaryAudio.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GE_AustriaHungaryBuildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GE_AustriaHungaryCivilisation.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GE_AustriaHungaryText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GE_AustriaHungaryTrait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GE_AustriaHungaryUnits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GE_FranzJoseph.xml</UpdateDatabase>
+      <UpdateDatabase>Compatibility/JFD's Cultural Diversity.sql</UpdateDatabase>
+      <UpdateDatabase>Compatibility/JFD's Piety and Prestige.sql</UpdateDatabase>
+      <UpdateDatabase>Compatibility/YnAEMP.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/GE_AustriaHungaryFunctions.lua">
+      <Name>Austria Hungary Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

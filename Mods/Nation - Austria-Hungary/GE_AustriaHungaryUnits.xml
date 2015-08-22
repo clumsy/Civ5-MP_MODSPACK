@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/19/2013 1:42:12 PM -->
+<GameData>
+	<Units>
+		<Row>
+			<Class>UNITCLASS_GREAT_WAR_INFANTRY</Class>
+			<Type>UNIT_GE_GRENZER</Type>
+			<PrereqTech>TECH_STEAM_POWER</PrereqTech>
+			<Combat>47</Combat>
+			<Cost>250</Cost>
+			<FaithCost>500</FaithCost>
+			<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
+			<Moves>2</Moves>
+			<CombatClass>UNITCOMBAT_GUN</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_FAST_ATTACK</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_GE_GRENZER</Description>
+			<Civilopedia>TXT_KEY_CIV5_GE_AUSTRIA_HUNGARY_GRENZER_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_GE_GRENZER_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_GE_AUSTRIA_HUNGARY_GRENZER</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<ObsoleteTech>TECH_PLASTIC</ObsoleteTech>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_INFANTRY</GoodyHutUpgradeUnitClass>
+			<AdvancedStartCost>30</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_GRENZER</UnitArtInfo>
+			<UnitFlagAtlas>CIV_COLOR_ATLAS_GRENZER</UnitFlagAtlas>
+			<UnitFlagIconOffset>0</UnitFlagIconOffset>
+			<IconAtlas>CIV_COLOR_ATLAS_GE_AUSTRIA_HUNGARY</IconAtlas>
+			<PortraitIndex>2</PortraitIndex>
+		</Row>
+	</Units>
+	<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_GE_GRENZER</UnitType>
+			<UnitAIType>UNITAI_ATTACK</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_GE_GRENZER</UnitType>
+			<UnitAIType>UNITAI_EXPLORE</UnitAIType>
+		</Row>
+	</Unit_AITypes>
+	<Unit_ClassUpgrades>
+		<Row>
+			<UnitType>UNIT_GE_GRENZER</UnitType>
+			<UnitClassType>UNITCLASS_INFANTRY</UnitClassType>
+		</Row>
+	</Unit_ClassUpgrades>
+</GameData>
