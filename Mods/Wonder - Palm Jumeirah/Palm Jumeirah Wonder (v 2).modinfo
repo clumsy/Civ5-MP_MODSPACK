@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="c657ab15-1e2f-4a05-bc13-321b075c42dc" version="2">
+  <Properties>
+    <Name>Palm Jumeirah Wonder</Name>
+    <Teaser>Palm Jumeirah is an enormous artificial archipelago located of the Dubai coast. When seen from above, the main trunk and sixteen</Teaser>
+    <Description>Palm Jumeirah is an enormous artificial archipelago located of the Dubai coast. When seen from above, the main trunk and sixteen offshoots form the shape of a palm with a total area of over 25 square kilometres, equivelent of over 800 American Football fields. The construction over doubled Dubai's coastline when completed, and now serves as an iconic location for resorts and luxury hotels, as well as the Middle East's first Monorail. Ingame, Palm Jumeirah provides +15  Gold from every Atoll tile, and requires Globalization</Description>
+    <Authors>Pouakai, sukritact</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>0</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="E457FCD38AA660C6E924BFD32F82F9D6" import="1">Art/Palm_icon128.dds</File>
+    <File md5="4B73B15FB77F5389BF019C0B0BA475B4" import="1">Art/Palm_icon256.dds</File>
+    <File md5="81C7877B7C3E94B80BAB815BBD0603B8" import="1">Art/Palm_icon45.dds</File>
+    <File md5="CEB4352F7ACED4C1FDABD353D5F1183A" import="1">Art/Palm_icon64.dds</File>
+    <File md5="C00C97378479E504121A8E43E50896BB" import="1">Art/Palm_icon80.dds</File>
+    <File md5="E3A073AB7A2CBAB9D548638A71E005D6" import="1">Art/Palm_Splash.dds</File>
+    <File md5="B1F3F780B4DB5ADFA67215FCDDFB5395" import="0">XML/Buildings/Palm_BuildingClasses.xml</File>
+    <File md5="53520A90E7959F058F3D3129EF572ACF" import="0">XML/Buildings/Palm_Buildings.xml</File>
+    <File md5="DA74150DD44AA5A2E6E646D527CECDD5" import="0">XML/Civilizations/Palm_Civilizations.xml</File>
+    <File md5="81247415A41CDE9E9A330A4580A2F873" import="0">XML/GameInfo/Palm_IconTextureAtlases.xml</File>
+    <File md5="997819619A9FD45C9C9A1FE2CA33A010" import="0">XML/Text/Palm_text_en_US.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Buildings/Palm_BuildingClasses.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Palm_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Palm_Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/Palm_IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Palm_text_en_US.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>
