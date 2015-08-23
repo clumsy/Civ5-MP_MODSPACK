@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="1de6dca7-6371-4714-8a82-516eebe5883e" version="1">
+  <Properties>
+    <Name>The County of the Palatinate</Name>
+    <Teaser>A mod adding the County of the Palatinate to the game</Teaser>
+    <Description>A mod adding the County of the Palatinate to the game</Description>
+    <Authors>ryanjames, Laticlavius</Authors>
+    <SpecialThanks>davey_henninger, Viregel, Firebug, TarcisioCM</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>0</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="RED modpack" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YNAEMP" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV leader traits" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="Cultural diversity" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="6DB1133579AC670BFB8EB2B16567DECC" import="1">Assets/Alpha Atlas/PalatineAlpha128.dds</File>
+    <File md5="ABD433AAA0CAB3AD65186F2BEC2C37F4" import="1">Assets/Alpha Atlas/PalatineAlpha16.dds</File>
+    <File md5="5C549E0058BE85B09F635CC885F564E7" import="1">Assets/Alpha Atlas/PalatineAlpha24.dds</File>
+    <File md5="8D020718EAB6CFE436E76BAB09D8907F" import="1">Assets/Alpha Atlas/PalatineAlpha256.dds</File>
+    <File md5="D6C4E79B26D7EBAC03F40259997C9913" import="1">Assets/Alpha Atlas/PalatineAlpha32.dds</File>
+    <File md5="DFD07349906E6E51FACA90127AD9AB43" import="1">Assets/Alpha Atlas/PalatineAlpha45.dds</File>
+    <File md5="C01B803B404531C4CF66F2D10CF19A0D" import="1">Assets/Alpha Atlas/PalatineAlpha48.dds</File>
+    <File md5="2D9A811F56D13C92015746F2897CD476" import="1">Assets/Alpha Atlas/PalatineAlpha64.dds</File>
+    <File md5="AD225610CF051B3C3366E0C16A2DC923" import="1">Assets/Alpha Atlas/PalatineAlpha80.dds</File>
+    <File md5="BF4AD64429645D125CEB0418903CB6EE" import="1">Assets/Icon Atlas/PalatineAtlas128.dds</File>
+    <File md5="0B5F43BB57B4F273153D50C59937DB96" import="1">Assets/Icon Atlas/PalatineAtlas256.dds</File>
+    <File md5="2A068C40C8F5D48EF313448325CCFA4A" import="1">Assets/Icon Atlas/PalatineAtlas32.dds</File>
+    <File md5="F27FA127C0B9B571B8CAD9D4D6A71B4A" import="1">Assets/Icon Atlas/PalatineAtlas45.dds</File>
+    <File md5="67106F5F60A65ACFB69E15EF0D6FFEAA" import="1">Assets/Icon Atlas/PalatineAtlas64.dds</File>
+    <File md5="02BF1B5CBB6AC94FD2B98F660028CC1C" import="1">Assets/Icon Atlas/PalatineAtlas80.dds</File>
+    <File md5="D435BFB3DE69BCB43933C8A4612AC009" import="1">Assets/Michael_Praetorius.mp3</File>
+    <File md5="49B8BC7A0BD6FEC8F22B9D878D7C9420" import="1">Assets/Otto_DOM.dds</File>
+    <File md5="44405BC8A8B3D7B2402DAA7A09FCD435" import="1">Assets/Palatinate_map.dds</File>
+    <File md5="47FD3C502B115F9096A456C32C6C8E73" import="1">Assets/PalatineLS.dds</File>
+    <File md5="9D8F5723C32C3F3015A99A1083A05A10" import="1">Assets/Solenka.mp3</File>
+    <File md5="99998D75B0AADDA6B0E65DEB37C22B89" import="1">Assets/Unit flag Atlas/Electorflag128.dds</File>
+    <File md5="D7296DE56A0718B7D406666230292563" import="1">Assets/Unit flag Atlas/Electorflag256.dds</File>
+    <File md5="71BCD4EC1323D2F69E97648476414725" import="1">Assets/Unit flag Atlas/Electorflag32.dds</File>
+    <File md5="91CAE4960FED3D15384EEB9DF3533334" import="1">Assets/Unit flag Atlas/Electorflag45.dds</File>
+    <File md5="540F3BE42317826660AAEA31F66E7EAA" import="1">Assets/Unit flag Atlas/Electorflag64.dds</File>
+    <File md5="AED8A7772AC0FF6ADEC83E6F04355D07" import="1">Assets/Unit flag Atlas/Electorflag80.dds</File>
+    <File md5="9B10651D141BBBD77E2E00A7EFCB2B00" import="0">Lua/Palatine_Trait.lua</File>
+    <File md5="C6FBAC646FE75C237077D0B50F91A3F8" import="0">SQL/Palatinate_RED_Support.sql</File>
+    <File md5="765ECCBAAD7217E3EC67DAF7D20D686D" import="0">SQL/Palatine_Civ_IV_Leader_traits.sql</File>
+    <File md5="64D87083A30D3EC008A41262EBF35394" import="0">SQL/Palatine_Diversity_Support.sql</File>
+    <File md5="F051096F87B8CF8DB9DA36BB3D08FE48" import="0">SQL/Palatine_trait.sql</File>
+    <File md5="33896E986C2FA327E6D5E092DD9FD77E" import="0">XML/Palatine_Buildings.xml</File>
+    <File md5="3B448DFEEA94C2AA6BD954C3DFA43A5E" import="0">XML/Palatine_civilisation.xml</File>
+    <File md5="19E40E0D2181CFC95237EAAE552A9BA6" import="0">XML/Palatine_Icons.xml</File>
+    <File md5="5595F2F9FAC23E45D7C1B40137BE82BF" import="0">XML/Palatine_Leader.xml</File>
+    <File md5="450B1A3206DBCF74C6D7CAFAF390EA0D" import="1">XML/PalatineLeaderScene.xml</File>
+    <File md5="2D5B5CAD4F6E0584BDEC99595B369FDB" import="0">XML/Palatine_Music.xml</File>
+    <File md5="981DEC821FB9C564FAFB1BE9DC957126" import="0">XML/Palatine_trait.xml</File>
+    <File md5="64A4C321C1DFAA06AB33210802CFBBFB" import="0">XML/Palatine_Units.xml</File>
+    <File md5="8CE878C5A5127F54372FB720AC54ED95" import="0">XML/Palatine_YNAEMP.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Palatine_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Palatine_civilisation.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Palatine_Leader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Palatine_Music.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Palatine_trait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Palatine_Units.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Palatinate_RED_Support.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Palatine_trait.sql</UpdateDatabase>
+      <UpdateDatabase>XML/PalatineLeaderScene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Palatine_Icons.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Palatine_YNAEMP.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Palatine_Diversity_Support.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Palatine_Civ_IV_Leader_traits.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Palatine_Trait.lua">
+      <Name>Bastion of reformation</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

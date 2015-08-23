@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/24/2015 7:40:30 PM -->
+<GameData>
+
+	-<Civilizations>
+
+
+		-<Row>
+
+			<Type>CIVILIZATION_RPALATINATE</Type>
+
+			<Description>TXT_KEY_CIV_RPALATINATE_DESC</Description>
+
+			<Civilopedia>TXT_KEY_CIV5_RPALATINATE_PEDIA</Civilopedia>
+
+			<CivilopediaTag>TXT_KEY_CIV5_RPALATINATE</CivilopediaTag>
+
+			<Strategy/>
+
+			<Playable>1</Playable>
+
+			<AIPlayable>1</AIPlayable>
+
+			<ShortDescription>TXT_KEY_CIV_RPALATINATE_SHORT_DESC</ShortDescription>
+
+			<Adjective>TXT_KEY_CIV_RPALATINATE_ADJECTIVE</Adjective>
+
+			<DefaultPlayerColor>PLAYERCOLOR_RPALATINATE</DefaultPlayerColor>
+
+			<ArtDefineTag>ART_DEF_CIVILIZATION_GERMANY</ArtDefineTag>
+
+			<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+
+			<ArtStyleSuffix>_EURO</ArtStyleSuffix>
+
+			<ArtStylePrefix>EUROPEAN</ArtStylePrefix>
+
+			<PortraitIndex>0</PortraitIndex>
+
+			<IconAtlas>RPALATINATE_ICON_ATLAS</IconAtlas>
+
+			<AlphaIconAtlas>RPALATINATE_ALPHA_ATLAS</AlphaIconAtlas>
+
+			<MapImage>Palatinate_map.dds</MapImage>
+
+			<DawnOfManQuote>TXT_KEY_CIV5_DAWN_RPALATINATE_TEXT</DawnOfManQuote>
+
+			<DawnOfManImage>Otto_DOM.dds</DawnOfManImage>
+
+			<DawnOfManAudio/>
+
+			<SoundtrackTag>Germany</SoundtrackTag>
+
+		</Row>
+
+	</Civilizations>
+
+
+	-<Civilization_BuildingClassOverrides>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RPALATINATE</CivilizationType>
+
+			<BuildingClassType>BUILDINGCLASS_OXFORD_UNIVERSITY</BuildingClassType>
+
+			<BuildingType>BUILDING_HEIDELBERG_UNIVERSITY</BuildingType>
+
+		</Row>
+
+	</Civilization_BuildingClassOverrides>
+
+
+	-<Civilization_CityNames>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RPALATINATE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RPALATINATE_0</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RPALATINATE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RPALATINATE_1</CityName>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RPALATINATE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RPALATINATE_2</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RPALATINATE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RPALATINATE_3</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RPALATINATE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RPALATINATE_4</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RPALATINATE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RPALATINATE_5</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RPALATINATE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RPALATINATE_6</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RPALATINATE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RPALATINATE_7</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RPALATINATE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RPALATINATE_8</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RPALATINATE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RPALATINATE_9</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RPALATINATE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RPALATINATE_10</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RPALATINATE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RPALATINATE_11</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RPALATINATE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RPALATINATE_12</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RPALATINATE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RPALATINATE_13</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RPALATINATE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RPALATINATE_14</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RPALATINATE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RPALATINATE_15</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RPALATINATE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RPALATINATE_16</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RPALATINATE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RPALATINATE_17</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RPALATINATE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RPALATINATE_18</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RPALATINATE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RPALATINATE_19</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RPALATINATE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RPALATINATE_20</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RPALATINATE</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RPALATINATE_21</CityName>
+
+		</Row>
+
+	</Civilization_CityNames>
+
+
+	-<Civilization_FreeBuildingClasses>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RPALATINATE</CivilizationType>
+
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+
+		</Row>
+
+	</Civilization_FreeBuildingClasses>
+
+
+	-<Civilization_FreeTechs>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RPALATINATE</CivilizationType>
+
+			<TechType>TECH_AGRICULTURE</TechType>
+
+		</Row>
+
+	</Civilization_FreeTechs>
+
+
+	-<Civilization_FreeUnits>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RPALATINATE</CivilizationType>
+
+			<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+
+			<UnitAIType>UNITAI_SETTLE</UnitAIType>
+
+			<Count>1</Count>
+
+		</Row>
+
+	</Civilization_FreeUnits>
+
+
+	-<Civilization_Leaders>
+		-
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RPALATINATE</CivilizationType>
+
+			<LeaderheadType>LEADER_OTTO_HENRY</LeaderheadType>
+
+		</Row>
+
+	</Civilization_Leaders>
+
+
+	-<Civilization_Religions>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RPALATINATE</CivilizationType>
+
+			<ReligionType>RELIGION_PROTESTANTISM</ReligionType>
+
+		</Row>
+
+	</Civilization_Religions>
+
+
+	-<Civilization_SpyNames>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RPALATINATE</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RPALATINATE_0</SpyName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RPALATINATE</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RPALATINATE_1</SpyName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RPALATINATE</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RPALATINATE_2</SpyName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RPALATINATE</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RPALATINATE_3</SpyName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RPALATINATE</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RPALATINATE_4</SpyName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RPALATINATE</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RPALATINATE_5</SpyName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RPALATINATE</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RPALATINATE_6</SpyName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RPALATINATE</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RPALATINATE_7</SpyName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RPALATINATE</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RPALATINATE_8</SpyName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RPALATINATE</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RPALATINATE_9</SpyName>
+
+		</Row>
+
+	</Civilization_SpyNames>
+
+
+	-<Civilization_UnitClassOverrides>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RPALATINATE</CivilizationType>
+
+			<UnitClassType>UNITCLASS_MERCHANT</UnitClassType>
+
+			<UnitType>UNIT_ELECTOR</UnitType>
+
+		</Row>
+
+	</Civilization_UnitClassOverrides>
+
+
+<Civilization_Start_Along_River>
+		<Row>
+			<CivilizationType>CIVILIZATION_RPALATINATE</CivilizationType>
+			<StartAlongRiver>true</StartAlongRiver>
+		</Row>
+</Civilization_Start_Along_River>
+
+
+
+	-<PlayerColors>
+
+
+		-<Row>
+
+			<Type>PLAYERCOLOR_RPALATINATE</Type>
+
+			<PrimaryColor>COLOR_PLAYER_RPALATINATE_ICON</PrimaryColor>
+
+			<SecondaryColor>COLOR_PLAYER_RPALATINATE_BACKGROUND</SecondaryColor>
+
+			<TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+
+		</Row>
+
+	</PlayerColors>
+
+
+	-<Colors>
+
+
+		-<Row>
+
+			<Type>COLOR_PLAYER_RPALATINATE_ICON</Type>
+
+			<Red>0.98828</Red>
+
+			<Green>0.88672</Green>
+
+			<Blue>0.42578</Blue>
+
+			<Alpha>1.0</Alpha>
+
+		</Row>
+
+
+		-<Row>
+
+			<Type>COLOR_PLAYER_RPALATINATE_BACKGROUND</Type>
+
+			<Red>0.28516</Red>
+
+			<Green>0.16406</Green>
+
+			<Blue>0.04688</Blue>
+
+			<Alpha>1.0</Alpha>
+
+		</Row>
+
+	</Colors>
+
+
+	-<Language_en_US>
+
+
+		-<Row Tag="TXT_KEY_CIV_RPALATINATE_DESC">
+
+			<Text>Palatine Empire</Text>
+
+			<Gender>neuter:an</Gender>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_RPALATINATE_FACTOID_HEADING">
+
+			<Text>Palatine factoid</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_CIV5_RPALATINATE_FACTOID_TEXT">
+			-
+			<Text>The Palatinate and the region is famous for its viniculture[NEWLINE][NEWLINE]The Heidelberg University is one of the oldest in Europe.[NEWLINE][NEWLINE]Palatine peasants organized the first democratic festival know as the Hambach Festival[NEWLINE]PNEWLINE] Helmut Kohl and Hans Geiger are both from The Palatinate[NEWLINE][NEWLINE] The Palatinate houses the biggest Chemical Company in the World.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_RPALATINATE_TEXT">
+
+			<Text>Summary</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_RPALATINATE_HEADING_1">
+
+			<Text>History</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_RPALATINATE_HEADING_2">
+
+			<Text>Geography and Climate</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_RPALATINATE_HEADING_3">
+
+			<Text>Origins</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_RPALATINATE_HEADING_4">
+
+			<Text>The Electoral Palatinate and the reformation</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_RPALATINATE_HEADING_5">
+
+		<Text>Legacy</Text>
+
+	    </Row>
+		
+
+		-<Row Tag="TXT_KEY_CIV5_RPALATINATE_TEXT_1">
+
+			<Text>(Electoral-Palatinate) was among the most important secular territories of the Holy Roman Empire. During the denominational age it rose to be one of the most active and leading protestant forces in the empire. 1214 the Palatinate passed from the House of Welf to the House of Wittelsbach and from 1329 the line of Wittelsbach-Palatinate started. Since 1356 The County of Palatinate also became an Electoral State that meant, that they now had the right to partake in the election for the German King.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_RPALATINATE_TEXT_2">
+
+			<Text>The Electoral-Palatinate was located between the upper- and the middle Rhine, between the moselle-river and kraichgau-region, with its heartland at the lower neckar-river. Residential city was Heidelberg and later Mannheim. The Electoral-Palatinates territory wasn't coherent, but for these times typical, rather more like a rag carpet with enclaves and exclaves as well as regions that where shared with other territories. Former Electoral-Palatinate areas are now found in the German States of Baden-Wuerttemberg, Rhineland-Palatinate, Hesse, Bavaria and Saarland as well as in the now French regions of Alsace and Lorraine. </Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_RPALATINATE_TEXT_3">
+
+			<Text>The beginning of Electoral-Palatinate wasn't based on a territory but rather on the authoritive function of the Prince-Elector that originated in the Merovingian dynasty. A Man named Trudulf was the first to be chosen as a Prince-Elector under King Childebert I. The Counts Palatine of the Rhine This Position was passed all the way down until 1156 to Conrad of Hohenstaufen, a half brother of Emperor Barbarossa. This strengthened the Prince-Electors Position and lead through multiple reigns of Prince-Electors to the founding of the Capital of Heidelberg as well as the addition of the Donnersberg, Nahegau, Haardt and Bergstraße regions as a result of a heritage. Rise of the Wittelsbach dynasty until the country's division in 1410 In 1214 Louis I, Duke of Bavaria was the first to inherit the Role of the Prince-Elector in the County, this lead to multiple events. Firstly the Wittelsbach House split into two lines, one for Bavaria the other for Palatinate. At least since 1198, the Count Palatine of the Rhine had held the rights that they were allowed to elect the Emperor; with the written record of the seven electors of the Golden Bull in 1356 they permanently received a prominent position in the kingdom. Furthermore they were granted the office of the imperial vicar, as well as the Office of the Steward of the Empire. During this time the name of the Electoral-Palatinate gradually became the name for the territory of the Elector of the Palatinate. In 1386 Prince-Elector Rupert I founded the third oldest University of the Holy Roman Empire in Heidelberg. This underlined the cultural claim; Electoral-Palatinate was now counted as one of the most important territories of the Old Empire, which could be seen when Rupert III Became King of the Romans in 1400. </Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_RPALATINATE_TEXT_4">
+
+			<Text>After losing the succession war of landshut, the Prince-Electors concentrated on rebuilding their County. Electoral Palatinate was one o to the more affluent areas in the Holy Roman Empire, mainly due to its fertile soil that allowed the cultivation of wine. It also established a relatively efficient management, with the Council and later the Supreme Council in Heidelberg as the central organ of government. Under Otto-Henry, Electoral-Palatinate became the last secular territory that converted to Protestantism, but grew to be a major role in all protestant affairs. After Otto-Henrys death, the County became Calvinist, supporting revolutions in the Netherlands. Later Periods After the failure of King Fredericks failed „Advanture“ as the Bohemian King, the Thirty Years War broke out, from which the County couldn't recover to its former might and importance. First, they fell to Bavaria and later under Napoleon, where divided. In 1803 it was resolved. Religion Electoral-Palatinate was Catholic up until the 16. Century was Prince-Electors first Introduced the Protestant believe and later the Calvinist branch. During this time it was a very important factor both to inner and outer political affairs. </Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_RPALATINATE_TEXT_5">
+
+			<Text>After all, the County Palatinate of the Rhine was a very important part of the Holy Roman Empire. It put in Kings, sparked wars and formed itself into an important religious, military and industrial County that would influence People far abroad its own borders. </Text>
+
+		</Row>
+
+
+
+		-<Row Tag="TXT_KEY_CIV5_RPALATINATE_TITLE">
+
+			<Text>The Electoral Palatinate</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV_RPALATINATE_SHORT_DESC">
+
+			<Text>The Palatinate</Text>
+
+			<Gender>neuter:an</Gender>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV_RPALATINATE_ADJECTIVE">
+
+			<Text>Palatine</Text>
+
+			<Gender>neuter:an</Gender>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_DAWN_RPALATINATE_TEXT">
+
+			<Text>Highborn Prince-elector Otto-Henry, honorful ruler of the beautiful County Palatinate of the Rhine! Your lands bear fruitful soils and your people grow to be wise and God-fearing men, blessed with the privilege to elect the Emperor of the mighty Holy Roman Empire. The Palatinate has proven itself to be a religiously and scientifically progressive State. Despite suffering from ongoing attacks, both military and diplomatic from your Catholic neighbors, the Electoral-Palatinate remained an international religious, artistic and scientific example.[NEWLINE][NEWLINE]Gracious Prince-elector Otto-Henry, the Palatine people trust in you to bring them peace and wealth. They pray to God for you, that you may have the strength and astuteness, to protect and serve them once more. Will you find new ways to enlarge your State, or nourish the Reformation of Religion and Science? Can you build a civilization that will stand the test of time?</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RPALATINATE_0">
+
+			<Text>Heidelberg</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RPALATINATE_1">
+
+			<Text>Alzey</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RPALATINATE_2">
+
+			<Text>Neustadt an der Haardt</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RPALATINATE_3">
+
+			<Text>Germersheim</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RPALATINATE_4">
+
+			<Text>Mosbach</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RPALATINATE_5">
+
+			<Text>Kaiserslautern</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RPALATINATE_6">
+
+			<Text>Kreuznach</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RPALATINATE_7">
+
+			<Text>Oppenheim</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RPALATINATE_8">
+
+			<Text>Bretten</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RPALATINATE_9">
+
+			<Text>Bacharach</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RPALATINATE_10">
+
+			<Text>Stromberg</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RPALATINATE_11">
+
+			<Text>Ladenburg</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RPALATINATE_12">
+
+			<Text>Lindenfels</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RPALATINATE_13">
+
+			<Text>Otzberg</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RPALATINATE_14">
+
+			<Text>Eberbach</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RPALATINATE_15">
+
+			<Text>Frankenthal</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RPALATINATE_16">
+
+			<Text>Weinheim</Text>
+
+		</Row>
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RPALATINATE_17">
+
+			<Text>Habloch</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RPALATINATE_18">
+
+			<Text>Mannheim</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RPALATINATE_19">
+
+			<Text>Ludwigshafen</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RPALATINATE_20">
+
+			<Text>Landau</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RPALATINATE_21">
+
+			<Text>Bad Durkeim</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_SPY_NAME_RPALATINATE_0">
+
+			<Text>Helmut Kohl</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_SPY_NAME_RPALATINATE_1">
+
+			<Text>Hans Geiger</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_SPY_NAME_RPALATINATE_2">
+
+			<Text>Johann</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_SPY_NAME_RPALATINATE_3">
+
+			<Text>Friedrick</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_SPY_NAME_RPALATINATE_4">
+
+			<Text>Willhelm</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_SPY_NAME_RPALATINATE_5">
+
+			<Text>Manfred</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_SPY_NAME_RPALATINATE_6">
+
+			<Text>Maria</Text>
+
+			<Gender>feminine</Gender>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_SPY_NAME_RPALATINATE_7">
+
+			<Text>Gertrud</Text>
+
+			<Gender>feminine</Gender>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_SPY_NAME_RPALATINATE_8">
+
+			<Text>Traudel</Text>
+
+			<Gender>feminine</Gender>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_SPY_NAME_RPALATINATE_9">
+
+			<Text>Hedwig</Text>
+
+			<Gender>feminine</Gender>
+
+		</Row>
+
+	</Language_en_US>
+
+
+</GameData>

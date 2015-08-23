@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/24/2015 7:41:43 PM -->
+<GameData>
+
+
+	<Audio_Sounds>
+
+
+		<Row>
+
+			<SoundID>SND_LEADER_MUSIC_OTTO_HENRY_PEACE</SoundID>
+
+			<Filename>Michael_Praetorius</Filename>
+
+			<LoadType>DynamicResident</LoadType>
+
+		</Row>
+
+
+		<Row>
+
+			<SoundID>SND_LEADER_MUSIC_OTTO_HENRY_WAR</SoundID>
+
+			<Filename>Solenka</Filename>
+
+			<LoadType>DynamicResident</LoadType>
+
+		</Row>
+
+	</Audio_Sounds>
+
+
+	<Audio_2DSounds>
+
+
+		<Row>
+
+			<ScriptID>AS2D_LEADER_MUSIC_OTTO_HENRY_PEACE</ScriptID>
+
+			<SoundID>SND_LEADER_MUSIC_OTTO_HENRY_PEACE</SoundID>
+
+			<SoundType>GAME_MUSIC</SoundType>
+
+			<MinVolume>60</MinVolume>
+
+			<MaxVolume>60</MaxVolume>
+
+			<IsMusic>true</IsMusic>
+
+		</Row>
+
+
+		<Row>
+
+			<ScriptID>AS2D_LEADER_MUSIC_OTTO_HENRY_WAR</ScriptID>
+
+			<SoundID>SND_LEADER_MUSIC_OTTO_HENRY_WAR</SoundID>
+
+			<SoundType>GAME_MUSIC</SoundType>
+
+			<MinVolume>60</MinVolume>
+
+			<MaxVolume>60</MaxVolume>
+
+			<IsMusic>true</IsMusic>
+
+		</Row>
+
+	</Audio_2DSounds>
+
+
+
+</GameData>

@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/24/2015 7:41:15 PM -->
+<GameData>
+
+	-<Leaders>
+
+
+		-<Row>
+
+			<Type>LEADER_OTTO_HENRY</Type>
+
+			<Description>TXT_KEY_LEADER_OTTO_HENRY</Description>
+
+			<Civilopedia>TXT_KEY_LEADER_OTTO_HENRY_PEDIA</Civilopedia>
+
+			<CivilopediaTag>TXT_KEY_CIVILOPEDIA_LEADERS_OTTO_HENRY</CivilopediaTag>
+
+			<ArtDefineTag>PalatineLeaderScene.xml</ArtDefineTag>
+
+			<VictoryCompetitiveness>6</VictoryCompetitiveness>
+
+			<WonderCompetitiveness>4</WonderCompetitiveness>
+
+			<MinorCivCompetitiveness>8</MinorCivCompetitiveness>
+
+			<Boldness>4</Boldness>
+
+			<DiploBalance>7</DiploBalance>
+
+			<WarmongerHate>7</WarmongerHate>
+
+			<WorkAgainstWillingness>3</WorkAgainstWillingness>
+
+			<WorkWithWillingness>8</WorkWithWillingness>
+
+			<DenounceWillingness>4</DenounceWillingness>
+
+			<DoFWillingness>6</DoFWillingness>
+
+			<Loyalty>6</Loyalty>
+
+			<Neediness>6</Neediness>
+
+			<Forgiveness>7</Forgiveness>
+
+			<Chattiness>5</Chattiness>
+
+			<Meanness>4</Meanness>
+
+			<IconAtlas>RPALATINATE_ICON_ATLAS</IconAtlas>
+
+			<PortraitIndex>1</PortraitIndex>
+
+		</Row>
+
+	</Leaders>
+
+
+	-<Leader_MajorCivApproachBiases>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_WAR</MajorCivApproachType>
+
+			<Bias>7</Bias>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_HOSTILE</MajorCivApproachType>
+
+			<Bias>3</Bias>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_DECEPTIVE</MajorCivApproachType>
+
+			<Bias>4</Bias>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_GUARDED</MajorCivApproachType>
+
+			<Bias>6</Bias>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_AFRAID</MajorCivApproachType>
+
+			<Bias>7</Bias>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_FRIENDLY</MajorCivApproachType>
+
+			<Bias>7</Bias>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_NEUTRAL</MajorCivApproachType>
+
+			<Bias>8</Bias>
+
+		</Row>
+
+	</Leader_MajorCivApproachBiases>
+
+
+	-<Leader_MinorCivApproachBiases>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<MinorCivApproachType>MINOR_CIV_APPROACH_IGNORE</MinorCivApproachType>
+
+			<Bias>3</Bias>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<MinorCivApproachType>MINOR_CIV_APPROACH_FRIENDLY</MinorCivApproachType>
+
+			<Bias>8</Bias>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<MinorCivApproachType>MINOR_CIV_APPROACH_PROTECTIVE</MinorCivApproachType>
+
+			<Bias>8</Bias>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<MinorCivApproachType>MINOR_CIV_APPROACH_CONQUEST</MinorCivApproachType>
+
+			<Bias>4</Bias>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<MinorCivApproachType>MINOR_CIV_APPROACH_BULLY</MinorCivApproachType>
+
+			<Bias>4</Bias>
+
+		</Row>
+
+	</Leader_MinorCivApproachBiases>
+
+
+	-<Leader_Flavors>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+
+			<Flavor>4</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+
+			<Flavor>7</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+
+			<Flavor>7</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+
+			<Flavor>4</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<FlavorType>FLAVOR_RECON</FlavorType>
+
+			<Flavor>5</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<FlavorType>FLAVOR_RANGED</FlavorType>
+
+			<Flavor>6</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<FlavorType>FLAVOR_MOBILE</FlavorType>
+
+			<Flavor>6</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+
+			<Flavor>4</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<FlavorType>FLAVOR_NAVAL_RECON</FlavorType>
+
+			<Flavor>3</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<FlavorType>FLAVOR_NAVAL_GROWTH</FlavorType>
+
+			<Flavor>4</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<FlavorType>FLAVOR_NAVAL_TILE_IMPROVEMENT</FlavorType>
+
+			<Flavor>5</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<FlavorType>FLAVOR_AIR</FlavorType>
+
+			<Flavor>5</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+
+			<Flavor>5</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+
+			<Flavor>7</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<FlavorType>FLAVOR_TILE_IMPROVEMENT</FlavorType>
+
+			<Flavor>7</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<FlavorType>FLAVOR_INFRASTRUCTURE</FlavorType>
+
+			<Flavor>7</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+
+			<Flavor>6</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+
+			<Flavor>8</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+
+			<Flavor>8</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+
+			<Flavor>6</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+
+			<Flavor>6</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+
+			<Flavor>7</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+
+			<Flavor>4</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+
+			<Flavor>8</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<FlavorType>FLAVOR_DIPLOMACY</FlavorType>
+
+			<Flavor>8</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<FlavorType>FLAVOR_SPACESHIP</FlavorType>
+
+			<Flavor>7</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<FlavorType>FLAVOR_WATER_CONNECTION</FlavorType>
+
+			<Flavor>3</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<FlavorType>FLAVOR_NUKE</FlavorType>
+
+			<Flavor>3</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<FlavorType>FLAVOR_USE_NUKE</FlavorType>
+
+			<Flavor>3</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<FlavorType>FLAVOR_ESPIONAGE</FlavorType>
+
+			<Flavor>5</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<FlavorType>FLAVOR_ANTIAIR</FlavorType>
+
+			<Flavor>6</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<FlavorType>FLAVOR_AIR_CARRIER</FlavorType>
+
+			<Flavor>4</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<FlavorType>FLAVOR_ARCHAEOLOGY</FlavorType>
+
+			<Flavor>7</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<FlavorType>FLAVOR_I_LAND_TRADE_ROUTE</FlavorType>
+
+			<Flavor>6</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<FlavorType>FLAVOR_I_SEA_TRADE_ROUTE</FlavorType>
+
+			<Flavor>4</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<FlavorType>FLAVOR_I_TRADE_ORIGIN</FlavorType>
+
+			<Flavor>5</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<FlavorType>FLAVOR_I_TRADE_DESTINATION</FlavorType>
+
+			<Flavor>5</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<FlavorType>FLAVOR_AIRLIFT</FlavorType>
+
+			<Flavor>4</Flavor>
+
+		</Row>
+
+	</Leader_Flavors>
+
+
+	-<Diplomacy_Responses>
+
+
+		-<Row LeaderType="LEADER_OTTO_HENRY">
+
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+
+			<Response>TXT_KEY_LEADER_OTTO_HENRY_FIRSTGREETING_%</Response>
+
+		</Row>
+
+
+		-<Row LeaderType="LEADER_OTTO_HENRY">
+
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+
+			<Response>TXT_KEY_LEADER_OTTO_HENRY_DEFEATED_%</Response>
+
+		</Row>
+
+	</Diplomacy_Responses>
+
+
+	-<Language_en_US>
+
+
+		-<Row Tag="TXT_KEY_LEADER_OTTO_HENRY">
+
+			<Text>Otto Henry</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_LEADER_OTTO_HENRY_PEDIA">
+
+			<Text>Otto Henry</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OTTO_HENRY">
+
+			<Text>Otto Henry</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OTTO_HENRY_HEADING_1">
+
+			<Text>History</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OTTO_HENRY_TEXT_1">
+
+			<Text>Otto-Henry was one of the most well known and popular Prince-Electors in Electoral Palatinate, despite him only reigning for three years from 1556 till 1559. His reputation as a fun-loving man with a high artistic sense, that manifested itself in the Otto-Henry-Building in Castle Heidelberg, as well as in his collective passion for Paintings and Carpets, Sculptures, Coins and Books, goes a long way. In the end his name was connected to important incidents that contributed to his fame: the introduction of the reformation into Eloctoral Palatinate, the reformation of the University of Heidelberg and last but not least him being the last Prince-Elector of the Wittelsbach bloodline in the County Palatine of the Rhine.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OTTO_HENRY_HEADING_2">
+
+			<Text>Early life and small prince-ship</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OTTO_HENRY_TEXT_2">
+
+			<Text>Otto-Henry's popularity based on his physiognomy. During all of his life he was seriously overweight, in old age almost being unable to move at all. The accompanying ailments plagued him throughout his life. Even as a young man, he had to be treated for rheumatism and dropsy. Together with his Brother Philipp he grew up without parents and after he was put in succession behind his Uncle Frederick, he lived a life waiting as Small-Prince in the duchy Palatinate-Neuburg. That his hereditary claim would be fulfilled one day was rather unlikely, because he would only come to power if Ludwig V. and Frederick II. Both died child-less. His watchword „With Time...“proved only true after years of waiting in 1556. In 1529 he married Susanna, a sister of the Dukes of Bavaria, with which he stayed happily, but child-less, till his death. In 1542 Otto-Henry confessed his Protestantism and introduced it in his duchy Palatinate-Neuburg. In his early years, he fiercely persecuted the protestant denomination, following the Bavarian example. There is not much known about the reason behind his conversion, but opportunism can easily be ruled out in the face of the difficult situation that was created between him and his Bavarian neighbour, that tried to dissuade him from his reformatory ways. Once converted, he held true to his passion for the reformation during his whole life. After suffering from bankruptcy and facing a war, as well as the interim, he was forced to leave his duchy to live a much simpler life, first in Heidelberg and later in the City of Weinheim. In 1552, after eight years, he finally gained his lands back and quickly re-established the protestant regulation.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OTTO_HENRY_HEADING_3">
+
+			<Text>Three years as Elector Palatine</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OTTO_HENRY_TEXT_3">
+
+			<Text>Because of this it wasn't surprising at all, that Otto-Henry, after he took rule in early 1556, promptly started the remodelling of Electoral-Palatinate to a protestant County. In April of the same year he passed a religious mandate, forcing certain changes to church culture and service. Almost simultaneously to the mandate a new church regulation was adopted that oriented itself on Württemberg example. In 1557 he issued a mandate in which the abolition of images and altars was ordered. Monasteries were largely untouched. Only the monasteries of Lorsch and Schonau as well as the Heiligstift in Heidelgerg where closed. Particularly the monastery of Lorsch was of interest to Otto-Henry because of its great Library that held a treasure of manuscripts and prints. The library was later united with the electoral Library and formed the base for the Bibliotheca Palatina that was erected on the empire in the Heiliggeist-Church and used by many Scholars. Otto-Henry also reformed the University of Heidelberg, professorships and their salaries where re-organized, many newly occupied. The faculty of art was remodelled after humanistic principles and upgraded to being equal to the other three upper faculties. Though holding fast to basic matters of Protestantism, he retained openness for the whole protestant spectrum. Outstanding foreign scholars like French theologian Pierre Boquin or Switzerland’s medic Thomas Erastus received a place in Heidelberg.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OTTO_HENRY_HEADING_4">
+
+			<Text>Imperial politics</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OTTO_HENRY_TEXT_4">
+
+			<Text>Likewise to his own territory, Otto-Henry conducted uncompromising politics in protestant interests. That meant to break with the mediating and reconciliation politics of both of his predecessors. He even tried to revise the religious peace of Augsburg that he viewed as too restrictive for the protestant side. While most of the protestant Prince-Electors oriented themselves to bi-denominationism after 1555, Otto-Henry stood up for a general liberation, he even wanted to see an extended right too choose a denomination for spiritual leaders and simple citizens. Particularly the disposal of the Reservatum Ecclesiasticum would have opened territorial perspectives for Electoral-Palatinate, especially in terms of the catholic dioceses of Worms and Speyer. Otto-Henry wasn't satisfied with the status-quo with regard on territorial- and denominational reasons. His goal remained the religious unity of the imperial states, but with protestant sign, for a decision against the true protestant faith was not intended. For this, He was willing to use his most powerful political leverage: the refusal of his part on the Oñate treaty. Typical for his attitude were negotiations in 1558 where he'd rather gave up the shire of Hagenau then stopping his reformational efforts in the rest of the Holy Roman Empire.</Text>
+
+		</Row>
+
+		-<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OTTO_HENRY_HEADING_5">
+
+			<Text>Historical judgement</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OTTO_HENRY_TEXT_5">
+
+			<Text>To enforce his denominational political Goals, Otto-Henry strove to form a close front against the Emperor and the Catholics. He was concerned with political as well as theological unity, that threatend to get lost in intra-protestant doctrinal differences. Electoral-Palatinate became the opposing player to Electoral-Saxony in terms of the leading role in the protestant camp. His Anti-Habsburg politics also didn't found support from both Prince-Electors of Saxony and Brandenburg. Regardless of his short rule of only three years and changing situations regarding denominations in Electoral-Palatinate, Otto-Henry set the course for Politics, that were followed by all of his successors until the thirty-years war. With Otto-Henry the oldest aristocratic bloodline of Palatinate, the Wittelsbach dynasty, died.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OTTO_HENRY_SUBTITLE">
+
+			<Text>Prince-elector and count of the Palatinate</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OTTO_HENRY_NAME">
+
+			<Text>Otto Henry</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_OTTO_HENRY_LIVED">
+
+			<Text>1502 - 1559 AD</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_LEADER_OTTO_HENRY_FIRSTGREETING_1">
+
+			<Text>The Palatinate greets you, I am Elector Palatine Otto Henry, come we have much to discuss.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_LEADER_OTTO_HENRY_FIRSTGREETING_2">
+
+			<Text>Welcome, I am the Elector Palatine. I'll shortly be attending a meeting with anabaptists, so make this quick.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_LEADER_OTTO_HENRY_FIRSTGREETING_3">
+
+			<Text>Welcome to the wonderful Palatinate County, may our wine be tasteful and our scholars be useful to you.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_LEADER_OTTO_HENRY_DEFEATED_1">
+
+			<Text>May God have mercy with my people. You defeated me.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_LEADER_OTTO_HENRY_DEFEATED_2">
+
+			<Text>You may destroy us, but the flame of reformation burns on!</Text>
+
+		</Row>
+
+	</Language_en_US>
+	-
+
+	-<Leader_Traits>
+		-
+
+		-<Row>
+
+			<LeaderType>LEADER_OTTO_HENRY</LeaderType>
+
+			<TraitType>TRAIT_BASTION_REFORMATION</TraitType>
+
+		</Row>
+
+	</Leader_Traits>
+  
+</GameData>

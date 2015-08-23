@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/24/2015 7:40:42 PM -->
+<GameData>
+
+	-<Buildings>
+
+
+		-<Row>
+
+			<Type>BUILDING_HEIDELBERG_UNIVERSITY</Type>
+
+			<Description>TXT_KEY_BUILDING_HEIDELBERG_UNIVERSITY</Description>
+
+			<Civilopedia>TXT_KEY_BUILDING_HEIDELBERG_UNIVERSITY_PEDIA</Civilopedia>
+
+			<Strategy>TXT_KEY_BUILDING_HEIDELBERG_UNIVERSITY_STRATEGY</Strategy>
+
+			<Help>TXT_KEY_BUILDING_HEIDELBERG_UNIVERSITY_HELP</Help>
+
+			<MutuallyExclusiveGroup>-1</MutuallyExclusiveGroup>
+
+			<NeverCapture>1</NeverCapture>
+
+			<NukeImmune>1</NukeImmune>
+
+			<Cost>250</Cost>
+
+			<HurryCostModifier>-1</HurryCostModifier>
+
+			<MinAreaSize>-1</MinAreaSize>
+
+			<FreeTechs>1</FreeTechs>
+
+			<BuildingClass>BUILDINGCLASS_OXFORD_UNIVERSITY</BuildingClass>
+
+			<PrereqTech>TECH_EDUCATION</PrereqTech>
+
+			<PortraitIndex>3</PortraitIndex>
+
+			<WonderSplashAnchor>R,T</WonderSplashAnchor>
+
+			<IconAtlas>RPALATINATE_ICON_ATLAS</IconAtlas>
+
+			<FreeBuildingThisCity>BUILDINGCLASS_UNIVERSITY</FreeBuildingThisCity>
+
+			<SpecialistType>SPECIALIST_MERCHANT</SpecialistType>
+
+			<SpecialistCount>3</SpecialistCount>
+		</Row>
+
+		<Row>
+			<Type>BUILDING_PALATINATE_FAITH_1</Type>
+			<BuildingClass>BUILDINGCLASS_PALATINATE_FAITH_1</BuildingClass>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<ArtDefineTag>NONE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<NeverCapture>true</NeverCapture>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>CIV_COLOR_ATLAS</IconAtlas>
+		</Row>
+
+
+		<Row>
+			<Type>BUILDING_PALATINATE_FAITH_2</Type>
+			<BuildingClass>BUILDINGCLASS_PALATINATE_FAITH_2</BuildingClass>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<ArtDefineTag>NONE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<NeverCapture>true</NeverCapture>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>CIV_COLOR_ATLAS</IconAtlas>
+		</Row>
+
+		<Row>
+			<Type>BUILDING_PALATINATE_FAITH_3</Type>
+			<BuildingClass>BUILDINGCLASS_PALATINATE_FAITH_3</BuildingClass>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<ArtDefineTag>NONE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<NeverCapture>true</NeverCapture>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>CIV_COLOR_ATLAS</IconAtlas>
+		</Row>
+
+	</Buildings>
+
+	<BuildingClasses>
+
+		<Row>
+			<Type>BUILDINGCLASS_PALATINATE_FAITH_1</Type>
+			<DefaultBuilding>BUILDING_PALATINATE_FAITH_1</DefaultBuilding>
+		</Row>
+
+		<Row>
+			<Type>BUILDINGCLASS_PALATINATE_FAITH_2</Type>
+			<DefaultBuilding>BUILDING_PALATINATE_FAITH_2</DefaultBuilding>
+		</Row>
+
+		<Row>
+			<Type>BUILDINGCLASS_PALATINATE_FAITH_3</Type>
+			<DefaultBuilding>BUILDING_PALATINATE_FAITH_3</DefaultBuilding>
+		</Row>
+
+	</BuildingClasses>
+
+	<Building_YieldModifiers>
+
+		<Row>
+			<BuildingType>BUILDING_HEIDELBERG_UNIVERSITY</BuildingType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>25</Yield>
+		</Row>
+
+	</Building_YieldModifiers>
+
+	-<Building_Flavors>
+
+
+		-<Row>
+
+			<BuildingType>BUILDING_HEIDELBERG_UNIVERSITY</BuildingType>
+
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+
+			<Flavor>50</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<BuildingType>BUILDING_HEIDELBERG_UNIVERSITY</BuildingType>
+
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+
+			<Flavor>20</Flavor>
+
+		</Row>
+
+	</Building_Flavors>
+
+	<Building_YieldChanges>
+
+		<Row>
+
+			<BuildingType>BUILDING_PALATINATE_FAITH_1</BuildingType>
+
+			<YieldType>YIELD_FAITH</YieldType>
+
+			<Yield>1</Yield>
+
+		</Row>
+
+		<Row>
+
+			<BuildingType>BUILDING_PALATINATE_FAITH_2</BuildingType>
+
+			<YieldType>YIELD_FAITH</YieldType>
+
+			<Yield>2</Yield>
+
+		</Row>
+
+		<Row>
+
+			<BuildingType>BUILDING_PALATINATE_FAITH_3</BuildingType>
+
+			<YieldType>YIELD_FAITH</YieldType>
+
+			<Yield>3</Yield>
+
+		</Row>
+
+	</Building_YieldChanges>
+
+
+
+	-<Language_en_US>
+
+
+		-<Row Tag="TXT_KEY_BUILDING_HEIDELBERG_UNIVERSITY">
+
+			<Text>Heidelberg University</Text>
+
+			<Gender>neuter:the</Gender>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_BUILDING_HEIDELBERG_UNIVERSITY_PEDIA">
+
+
+			-<Text>
+
+				Heidelberg University is the oldest university in Germany, and third oldest in the former Holy Roman Empire. Founded in fall of 1385, Heidelberg University had four Faculties: Theology, Law, Medicine and Philosophie. Famous Heidelberg graduates include Robert Bunsen, Karl Drais,Theodor Hänsch, Joseph Goebbles, Philipp Melanchthon, Robert Schumann, Helmut Kohl, and many more.
+
+
+			</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_BUILDING_HEIDELBERG_UNIVERSITY_STRATEGY">
+
+			<Text>A unique Palatine national wonder, Heidelberg university has 3 [ICON_GREAT_PEOPLE] merchant specialist slots and 25% [ICON_RESEARCH] science instead of regular culture yields and great work slots. It also gives a free university aside from a free tech, and does not require a university in all cities to be built. That said, Heidelberg University should be built straight away in your strongest science city before other universities. The extra merchant slots make it very easy to produce lots of [ICON_GOLD] gold and the Palatine unique unit, the Elector</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_BUILDING_HEIDELBERG_UNIVERSITY_HELP">
+
+			<Text>Replaces Oxford University; Does not require a university in all cities to be built. 1 Free Technology and a free university. Three [ICON_GREAT_PEOPLE] merchant specialist slots and 25% [ICON_RESEARCH] science in the city where it is built.</Text>
+
+		</Row>
+
+	</Language_en_US>
+
+</GameData>

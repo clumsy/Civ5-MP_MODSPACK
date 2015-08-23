@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/3/2015 12:13:44 PM -->
+<GameData>
+
+
+	-<Civilizations_YagemStartPosition>
+		-
+
+		-<Row>
+
+			<Type>CIVILIZATION_RPALATINATE</Type>
+
+			<X>18</X>
+
+			<Y>67</Y>
+
+		</Row>
+
+	</Civilizations_YagemStartPosition>
+	-
+
+	-<Civilizations_YahemStartPosition>
+		-
+
+		-<Row>
+
+			<Type>CIVILIZATION_RPALATINATE</Type>
+
+			<X>62</X>
+
+			<Y>60</Y>
+
+		</Row>
+
+	</Civilizations_YahemStartPosition>
+	-
+
+	-<Civilizations_CordiformStartPosition>
+		-
+
+		-<Row>
+
+			<Type>CIVILIZATION_RPALATINATE</Type>
+
+			<X>37</X>
+
+			<Y>30</Y>
+
+		</Row>
+
+	</Civilizations_CordiformStartPosition>
+  
+</GameData>

@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/24/2015 7:40:56 PM -->
+<GameData>
+
+	<units>
+
+		<Row>
+			<Class>UNITCLASS_MERCHANT</Class>
+			<Type>UNIT_ELECTOR</Type>
+			<Cost>-1</Cost>
+			<Moves>2</Moves>
+			<CivilianAttackPriority>CIVILIAN_ATTACK_PRIORITY_HIGH</CivilianAttackPriority>
+			<Special>SPECIALUNIT_PEOPLE</Special>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_PROPHET</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_ELECTOR</Description>
+			<Civilopedia>TXT_KEY_CIV5_ELECTOR_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_ELECTOR_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_ELECTOR</Help>
+			<AdvancedStartCost>-1</AdvancedStartCost>
+			<WorkRate>1</WorkRate>
+			<CombatLimit>0</CombatLimit>
+			<BaseGold>300</BaseGold>
+			<NumGoldPerEra>100</NumGoldPerEra>
+			<UnitArtInfo>ART_DEF_UNIT_U_VENETIAN_MERCHANT</UnitArtInfo>
+			<UnitFlagIconOffset>0</UnitFlagIconOffset>
+			<IconAtlas>RPALATINATE_ICON_ATLAS</IconAtlas>
+			<PortraitIndex>2</PortraitIndex>
+			<MoveRate>GREAT_PERSON</MoveRate>
+			<SpreadReligion>true</SpreadReligion>
+			<ReligionSpreads>3</ReligionSpreads>
+			<ReligiousStrength>1000</ReligiousStrength>
+			<BaseCultureTurnsToCount>8</BaseCultureTurnsToCount>
+			<UnitFlagAtlas>ELECTOR_ALPHA</UnitFlagAtlas>
+		</Row>
+
+	</units>
+
+
+	-<Unit_Builds>
+
+		<Delete>
+			<UnitType>UNIT_ELECTOR</UnitType>
+			<BuildType>BUILD_CUSTOMS_HOUSE</BuildType>
+		</Delete>
+
+		-<Row>
+
+			<UnitType>UNIT_ELECTOR</UnitType>
+
+			<BuildType>BUILD_CUSTOMS_HOUSE</BuildType>
+
+		</Row>
+
+		<Delete>
+			<UnitType>UNIT_ELECTOR</UnitType>
+			<BuildType>BUILD_HOLY_SITE</BuildType>
+		</Delete>
+		<Row>
+			<UnitType>UNIT_ELECTOR</UnitType>
+			<BuildType>BUILD_HOLY_SITE</BuildType>
+		</Row>
+
+	</Unit_Builds>
+
+
+
+
+
+	-<Unit_Flavors>
+
+
+		-<Row>
+
+			<UnitType>UNIT_ELECTOR</UnitType>
+
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+
+			<Flavor>1</Flavor>
+
+		</Row>
+
+	</Unit_Flavors>
+
+
+
+
+
+	-<Unit_UniqueNames>
+
+
+		-<Row>
+
+			<UnitType>UNIT_ELECTOR</UnitType>
+
+			<UniqueName>TXT_KEY_GREAT_PERSON_ELECTOR1</UniqueName>
+
+			<GreatWorkType/>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_ELECTOR</UnitType>
+
+			<UniqueName>TXT_KEY_GREAT_PERSON_ELECTOR2</UniqueName>
+
+			<GreatWorkType/>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_ELECTOR</UnitType>
+
+			<UniqueName>TXT_KEY_GREAT_PERSON_ELECTOR3</UniqueName>
+
+			<GreatWorkType/>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_ELECTOR</UnitType>
+
+			<UniqueName>TXT_KEY_GREAT_PERSON_ELECTOR4</UniqueName>
+
+			<GreatWorkType/>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_ELECTOR</UnitType>
+
+			<UniqueName>TXT_KEY_GREAT_PERSON_ELECTOR5</UniqueName>
+
+			<GreatWorkType/>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_ELECTOR</UnitType>
+
+			<UniqueName>TXT_KEY_GREAT_PERSON_ELECTOR6</UniqueName>
+
+			<GreatWorkType/>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_ELECTOR</UnitType>
+
+			<UniqueName>TXT_KEY_GREAT_PERSON_ELECTOR7</UniqueName>
+
+			<GreatWorkType/>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_ELECTOR</UnitType>
+
+			<UniqueName>TXT_KEY_GREAT_PERSON_ELECTOR8</UniqueName>
+
+			<GreatWorkType/>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_ELECTOR</UnitType>
+
+			<UniqueName>TXT_KEY_GREAT_PERSON_ELECTOR9</UniqueName>
+
+			<GreatWorkType/>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_ELECTOR</UnitType>
+
+			<UniqueName>TXT_KEY_GREAT_PERSON_ELECTOR10</UniqueName>
+
+			<GreatWorkType/>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_ELECTOR</UnitType>
+
+			<UniqueName>TXT_KEY_GREAT_PERSON_ELECTOR11</UniqueName>
+
+			<GreatWorkType/>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_ELECTOR</UnitType>
+
+			<UniqueName>TXT_KEY_GREAT_PERSON_ELECTOR12</UniqueName>
+
+			<GreatWorkType/>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_ELECTOR</UnitType>
+
+			<UniqueName>TXT_KEY_GREAT_PERSON_ELECTOR13</UniqueName>
+
+			<GreatWorkType/>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_ELECTOR</UnitType>
+
+			<UniqueName>TXT_KEY_GREAT_PERSON_ELECTOR14</UniqueName>
+
+			<GreatWorkType/>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_ELECTOR</UnitType>
+
+			<UniqueName>TXT_KEY_GREAT_PERSON_ELECTOR15</UniqueName>
+
+			<GreatWorkType/>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_ELECTOR</UnitType>
+
+			<UniqueName>TXT_KEY_GREAT_PERSON_ELECTOR16</UniqueName>
+
+			<GreatWorkType/>
+
+		</Row>
+
+
+
+	</Unit_UniqueNames>
+
+
+	-<UnitGameplay2DScripts>
+
+
+		-<Row>
+
+			<UnitType>UNIT_ELECTOR</UnitType>
+
+			<SelectionSound>AS2D_BUILD_UNIT</SelectionSound>
+
+			<FirstSelectionSound>AS2D_BUILD_UNIT</FirstSelectionSound>
+
+		</Row>
+
+	</UnitGameplay2DScripts>
+
+
+	-<Language_en_US>
+
+
+		-<Row Tag="TXT_KEY_UNIT_ELECTOR">
+
+			<Text>Elector</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_ELECTOR_TEXT">
+
+
+			-<Text>
+
+				The prince-electors (or simply electors) of the Holy Roman Empire were the members of the electoral college of the Holy Roman Empire, having since the 13th century the privilege of electing the King of the Romans or, from the middle of the 16th century onwards, directly the Holy Roman Emperor. There were three spiritual Prince-bishops and four secular Prince-electors needed in order to elect the Ruler. The Palatine Elector (or should that be Elector Palatine?) was the Prince-elector of the Palatinate, and characterised it as one of the much more important states within the Holy Roman Empire.
+
+			</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_UNIT_ELECTOR_STRATEGY">
+
+			<Text>The Elector is a diverse unit with a wide range of abilities, but it is also limited, activating any of it's abilities will cause the unit to be expended. As a result, it should be used in accordance to the situation of your empire, if you need a strong social policy fast, write a treatise, or build a holy site to boost faith production. A good strategy is to send an Elector to non-allied city states, convert a couple, and then begin a trade mission to net even more influence with some gold.</Text>
+
+		</Row>
+
+		-<Row Tag="TXT_KEY_UNIT_HELP_ELECTOR">
+
+			<Text>Replaces the Great Merchant; Has 3 conversions and may build holy sites. May write a political treatise. Regular Great Merchant abilities.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_GREAT_PERSON_ELECTOR1">
+
+			<Text>Ruprecht II</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_GREAT_PERSON_ELECTOR2">
+
+			<Text>Ruprecht III</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_GREAT_PERSON_ELECTOR3">
+
+			<Text>Ludwig III</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_GREAT_PERSON_ELECTOR4">
+
+			<Text>Ludwig IV</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_GREAT_PERSON_ELECTOR5">
+
+			<Text>Philipp the Righteous</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_GREAT_PERSON_ELECTOR6">
+
+			<Text>Ludwig VI</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_GREAT_PERSON_ELECTOR7">
+
+			<Text>Frederick the Victorious</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_GREAT_PERSON_ELECTOR8">
+
+			<Text>Ludwig the Peaceful</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_GREAT_PERSON_ELECTOR9">
+
+			<Text>Frederick the Wise</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_GREAT_PERSON_ELECTOR10">
+
+			<Text>Frederick IV</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_GREAT_PERSON_ELECTOR11">
+
+			<Text>Karl</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_GREAT_PERSON_ELECTOR12">
+
+			<Text>Karl II</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_GREAT_PERSON_ELECTOR13">
+
+			<Text>Philipp Wilhelm</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_GREAT_PERSON_ELECTOR14">
+
+			<Text>Johann Wilhelm</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_GREAT_PERSON_ELECTOR15">
+
+			<Text>Karl III</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_GREAT_PERSON_ELECTOR16">
+
+			<Text>Karl IV</Text>
+
+		</Row>
+
+
+
+	</Language_en_US>
+
+
+</GameData>

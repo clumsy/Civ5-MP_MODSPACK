@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/24/2015 7:54:05 PM -->
+<GameData>
+
+	<Traits>
+		<Row>
+			<Type>TRAIT_BASTION_REFORMATION</Type>
+			<Description>TXT_KEY_TRAIT_BASTION_REFORMATION</Description>
+			<ShortDescription>TXT_KEY_TRAIT_BASTION_REFORMATION_SHORT</ShortDescription>
+		</Row>
+	</Traits>
+
+	<Language_en_US>
+
+
+		<Row Tag="TXT_KEY_TRAIT_BASTION_REFORMATION">
+
+			<Text>When a city state adopts your religion, gain 30 [ICON_INFLUENCE] influence. Libraries, Universities and Public Schools yield [ICON_PEACE] faith</Text>
+
+		</Row>
+
+
+		<Row Tag="TXT_KEY_TRAIT_BASTION_REFORMATION_SHORT">
+
+			<Text>Bastion of Reformation</Text>
+
+		</Row>
+
+	</Language_en_US>
+
+
+</GameData>

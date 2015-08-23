@@ -1549,6 +1549,9 @@ ContextPtr:LoadNewContext("CaptureScripts")
 -- Nation - Dene --
 ContextPtr:LoadNewContext("DeneLua")
 
+-- Nation - Palatinate --
+ContextPtr:LoadNewContext("Palatine_Trait")
+
 -- Nation - English Protectorate --
 ContextPtr:LoadNewContext("EnglishProtectorateTrait")
 
