@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="3379e756-c036-40ef-914c-23d36135e7a9" version="3">
+  <Properties>
+    <Name>JFD's The Kingdom of Italy</Name>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]the Kingdom of Italy[ENDCOLOR] with Mussolini to the game.</Teaser>
+    <Description>See CivFanatics or Steam Workshop for full details.</Description>
+    <Authors>JFD, Janboruta</Authors>
+    <SpecialThanks>DonStamos, LeeS, giupmat</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events and Decisions" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety &amp; Prestige" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack    " />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="43868e8d-de88-48a1-a8d9-ce144e07f5e0" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="B9A3BFFD1DB3EC9F3757C8EA96BB9B61" import="1">Art/Diplomacy/Mussolini_Diplo.dds</File>
+    <File md5="6C70061BCC6DC4152E37C501B3B24FD4" import="1">Art/Diplomacy/Mussolini_Scene.xml</File>
+    <File md5="0B3EDF7C3F4DF4B3E29BE9693EC17179" import="0">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Animations Export.jpg</File>
+    <File md5="62C8B0D2EEEC81E954EC81B8A9246305" import="0">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Animations Import.jpg</File>
+    <File md5="2B24689CCD06205DB313CC9AC7E011C8" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Celtic_MD_DieA.gr2</File>
+    <File md5="7206EE5492876ADBA8B2C8FD3FAA74AE" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Celtic_MD_DieA_Fade.gr2</File>
+    <File md5="4B5358D2164010D3A5903C29041B1A43" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Celtic_MD_Fidget.gr2</File>
+    <File md5="893C52F40FA4B8A6D34C357B3026BD0C" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Celtic_MD_FortifyA.gr2</File>
+    <File md5="1868588C74E1E65884B7E44529B9ABB3" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Celtic_MD_FortifyA_Idle.gr2</File>
+    <File md5="59A1B6C695FBB87F6DCB78B26CC667C1" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Celtic_MD_HurtA.gr2</File>
+    <File md5="34B37CEC922754C393E21F37C534D078" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Celtic_MD_Idle.gr2</File>
+    <File md5="493A9BDF462A060493F4E26DB015C520" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Celtic_MD_Run.gr2</File>
+    <File md5="C5739FEA2C4725D62797D075D67FB025" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Celtic_MD_StrikeA.gr2</File>
+    <File md5="ADEB832C086934E630BF6C0902F2A56A" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Chinese_MD_DieA.gr2</File>
+    <File md5="40E4590E57EBB9917A11002309A3EA9E" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Chinese_MD_DieA_Fade.gr2</File>
+    <File md5="CB98C27CA2FC04656B518FE6479E0D4E" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Chinese_MD_Fidget.gr2</File>
+    <File md5="36D7E2AEC37A1A682C30914A9C6F671C" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Chinese_MD_FortifyA.gr2</File>
+    <File md5="5C651D74E5A48F9109F6C22ED72313A4" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Chinese_MD_FortifyA_Idle.gr2</File>
+    <File md5="FAF4E55A82A1A2F5759C86A705F9F68B" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Chinese_MD_HurtA.gr2</File>
+    <File md5="E9AE568DD0DDB11377702127C042B9D2" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Chinese_MD_Idle.gr2</File>
+    <File md5="BD9F6871C171C4C3FC3F7BA6DB672053" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Chinese_MD_Run.gr2</File>
+    <File md5="67AA377A5118D6AC9B5DA86819D33FA2" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/Chariot_Chinese_MD_StrikeA.gr2</File>
+    <File md5="3C80432357489FE72E7655F875BDB824" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/chariot_md_diea.gr2</File>
+    <File md5="5D52FA980E997549B0922C5C52BA64B1" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/chariot_md_diea_fade.gr2</File>
+    <File md5="43581AC9B98CF1055A0AFED3887E45AE" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/chariot_md_fidget.gr2</File>
+    <File md5="E6E19537717C935860CD9BD2FA6752EC" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/chariot_md_fortifya.gr2</File>
+    <File md5="1CA9DFD66BF306F5C9F3AD0C3028B12A" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/chariot_md_fortifya_idle.gr2</File>
+    <File md5="005FB3C34DBCA7AE12948BE7DA72CBA8" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/chariot_md_hurta.gr2</File>
+    <File md5="AE6DA18C5A2A9EEE0837BF3700B7A8D6" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/chariot_md_idle.gr2</File>
+    <File md5="D111DE946B028FF2D7E25F100562393D" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/chariot_md_run.gr2</File>
+    <File md5="D0C084D38F967E1619552481F721DD7B" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/chariot_md_strikea.gr2</File>
+    <File md5="5AD6804BB0A75E34C88FE9EA0BE6111E" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/egyptianwarchariot_md_diea.gr2</File>
+    <File md5="A1E3EC5A7FB67ACB252508175ED1A855" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/egyptianwarchariot_md_diea_fade.gr2</File>
+    <File md5="718CFD0F011CB22C22C33CFEF290380E" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/egyptianwarchariot_md_fidget.gr2</File>
+    <File md5="B819EBD3EBBFD1698E6F2161106A4A8A" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/egyptianwarchariot_md_fortifya.gr2</File>
+    <File md5="8E2DB4941285625D50CE5561F524F229" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/egyptianwarchariot_md_fortifya_idle.gr2</File>
+    <File md5="5D8CA3748BFE19C118E9887BC9CEBB9B" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/egyptianwarchariot_md_hurta.gr2</File>
+    <File md5="36DF45372BD78107F202633840D29F54" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/egyptianwarchariot_md_idle.gr2</File>
+    <File md5="0B942ED57C082D5AD8E3DBCE9E9FA81D" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/egyptianwarchariot_md_run.gr2</File>
+    <File md5="DB01D3C200F41A9339CF6E7B56228E56" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/egyptianwarchariot_md_strikea.gr2</File>
+    <File md5="B77A8D871F6552712B4CA6C3EAD22AA6" import="1">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/fx_triggers_Chariot_Civ4.ftsxml</File>
+    <File md5="8B435DA891615E52AB0297A3FDD15927" import="0">Art/Graphics/Animations and Effects/Edited_Animations/Animations_Chariot/[Chariot_XML_Code].txt</File>
+    <File md5="23214A5A23A6D255DCBEC721754C45A9" import="1">Art/Graphics/Infantry_Italy_v3.dds</File>
+    <File md5="50771ECBDAD0E0C8F8A4D62ABD8B77E4" import="1">Art/Graphics/Infantry_Italy_v3.fxsxml</File>
+    <File md5="AD00E42CDB3B37A554C4DF679BD9AF15" import="1">Art/Graphics/Infantry_Italy_v3.gr2</File>
+    <File md5="AC41C06BA721315512F26433220FEDF7" import="1">Art/Graphics/no_gloss.dds</File>
+    <File md5="DB3B2190E855BAC5F22FF18FBC6BA38A" import="1">Art/Graphics/sv_Carabineiri.dds</File>
+    <File md5="6E403EE69D003525E36FF878409725AA" import="1">Art/Graphics/sv_confederate_ironclad_acw.dds</File>
+    <File md5="E0B125DBC0C7D2741A0077E52B3864F3" import="1">Art/IconAtlas/JFD_ItalyAlphaAtlas_128.dds</File>
+    <File md5="12D1C0F7BA46604DCD4A701BD0ABD989" import="1">Art/IconAtlas/JFD_ItalyAlphaAtlas_16.dds</File>
+    <File md5="DC22B3C7B651E092F1C87C4F22E691DA" import="1">Art/IconAtlas/JFD_ItalyAlphaAtlas_22.dds</File>
+    <File md5="789671024F09315ED71204CDD5D79968" import="1">Art/IconAtlas/JFD_ItalyAlphaAtlas_24.dds</File>
+    <File md5="9AE7341CCC6EABFD3CFD4EEDC16D705A" import="1">Art/IconAtlas/JFD_ItalyAlphaAtlas_32.dds</File>
+    <File md5="0D0CB69A5264573E9A6F2D32464C57BA" import="1">Art/IconAtlas/JFD_ItalyAlphaAtlas_45.dds</File>
+    <File md5="4B1BBD15D65CFA89060C1EEE148C3F39" import="1">Art/IconAtlas/JFD_ItalyAlphaAtlas_48.dds</File>
+    <File md5="DD528B0DA7119DED02F1E6362B349690" import="1">Art/IconAtlas/JFD_ItalyAlphaAtlas_64.dds</File>
+    <File md5="4BF4144042DB9F87514F4E10CE10D4C0" import="1">Art/IconAtlas/JFD_ItalyAlphaAtlas_80.dds</File>
+    <File md5="B836888F3389017852A1CDE45C46C7FD" import="1">Art/IconAtlas/JFD_ItalyAtlas_128.dds</File>
+    <File md5="7EACA3F708D8197377990C31A3ACE811" import="1">Art/IconAtlas/JFD_ItalyAtlas_256.dds</File>
+    <File md5="433081C4A49F5EDE16E33C03D2283DF5" import="1">Art/IconAtlas/JFD_ItalyAtlas_32.dds</File>
+    <File md5="C9EDE4906D1E316BB25C913158804531" import="1">Art/IconAtlas/JFD_ItalyAtlas_45.dds</File>
+    <File md5="D349DBEC29AD96AD1A7C27083AAC0F22" import="1">Art/IconAtlas/JFD_ItalyAtlas_64.dds</File>
+    <File md5="B375BD0F180EAC20E1027D021A3D3F4A" import="1">Art/IconAtlas/JFD_ItalyAtlas_80.dds</File>
+    <File md5="4F74D3A1E15E320928D50B64821D8C1E" import="1">Art/IconAtlas/UnitFlagCarabineiriAtlas_32.dds</File>
+    <File md5="9655D8BA50C1BF72EE052BA554BFDFF6" import="1">Art/Map/DOM_Mussolini.dds</File>
+    <File md5="4B1345B9881AD6E3AB5C223DFDCA972A" import="1">Art/Map/ItalyMap512.dds</File>
+    <File md5="29DA75FC39145D7C3F514511CBF949EB" import="1">Audio/Mussolini_Peace.mp3</File>
+    <File md5="A77C81D50FD04AC9C4FC3F4F768F8E17" import="1">Audio/Mussolini_War.mp3</File>
+    <File md5="6BF5EE5ABB3DD71B4B12DC3710CEE130" import="0">Core/JFD_ItalyMussolini_ArtDefines.sql</File>
+    <File md5="AA90A42EAE0E37618DD152C9755AD5F8" import="0">Core/JFD_ItalyMussolini_GameDefines.sql</File>
+    <File md5="D54439643E306E7B8FCFE25A6A79204A" import="0">Core/JFD_ItalyMussolini_GameDefines_Diplomacy.sql</File>
+    <File md5="DC41017842BEEF8C95821BDB8CA33CC3" import="0">Core/JFD_ItalyMussolini_GameDefines_ModSupport.sql</File>
+    <File md5="245A3E2AFC3D3622068F035C104D5532" import="0">Core/JFD_ItalyMussolini_GameText.xml</File>
+    <File md5="3788D58D290F79F100C73CFEA99775B6" import="0">Core/JFD_ItalyMussolini_GameText_Diplomacy.xml</File>
+    <File md5="84F3BC3C9F332A393435195F4B593C31" import="0">Core/JFD_ItalyMussolini_GameText_ModSupport.xml</File>
+    <File md5="3665EA7314EC7714D3F5520365D7702A" import="0">DeleteMissingReferences.xml</File>
+    <File md5="9B9672F674DBEBFE209647B75EB38639" import="1">Lua/JFD_ItalyMussolini_Decisions.lua</File>
+    <File md5="AECF84825D870871BA8207A649F48593" import="1">Lua/JFD_ItalyMussolini_Events.lua</File>
+    <File md5="5E602AD534C2783004B0E5026CA581B5" import="0">Lua/JFD_ItalyMussolini_Functions.lua</File>
+    <File md5="86C1C3EDCE4699DE320A932C4E70E22C" import="0">Lua/Sukritact's MCIS/CityInfoStack.lua</File>
+    <File md5="120EB71025973A8A48B38314241DD0B3" import="0">Lua/Sukritact's MCIS/CityInfoStack.xml</File>
+    <File md5="EF8FF849A1E1F8CF839DA56AD7FB8041" import="0">Lua/Sukritact's MCIS/JFD_ItalyMussolini_CityInfo.lua</File>
+    <File md5="8BAB016A8F94F7500F70F495C0181E7F" import="0">Lua/Sukritact's MCIS/JFD_ItalyMussolini_CityInfo.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/JFD_ItalyMussolini_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_ItalyMussolini_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_ItalyMussolini_GameDefines_Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_ItalyMussolini_GameDefines_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_ItalyMussolini_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_ItalyMussolini_GameText_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_ItalyMussolini_GameText_ModSupport.xml</UpdateDatabase>
+      <UpdateDatabase>DeleteMissingReferences.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Sukritact's MCIS/CityInfoStack.lua">
+      <Name>Sukritact's MCIS</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Sukritact's MCIS/JFD_ItalyMussolini_CityInfo.lua">
+      <Name>JFD_ItalyMussolini_CityInfo</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_ItalyMussolini_Functions.lua">
+      <Name>JFD_ItalyMussoliniFunctions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

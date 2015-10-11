@@ -1570,6 +1570,11 @@ ContextPtr:LoadNewContext("ShangOraclePopup")
 -- Nation - Serbia --
 ContextPtr:LoadNewContext("DJSH Serbia functions")
 
+-- Nation - Italy --
+ContextPtr:LoadNewContext("CityInfoStack")
+ContextPtr:LoadNewContext("JFD_ItalyMussolini_CityInfo")
+ContextPtr:LoadNewContext("JFD_ItalyMussolini_Functions")
+
 -- Nation - Canada --
 ContextPtr:LoadNewContext("BonusTradeVoyageurs")
 ContextPtr:LoadNewContext("CanadianBrotherhoodScript")

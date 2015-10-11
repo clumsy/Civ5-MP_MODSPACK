@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/4/2014 8:45:16 AM -->
+<GameData>
+	<Language_en_US>
+		<!--ITALY-->
+		<Row Tag="TXT_KEY_CIV_JFD_ITALY_SHORT_DESC">
+			<Text>Italy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_ITALY_ADJECTIVE">
+			<Text>Italian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_ITALY_DESC">
+			<Text>Italian Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_ITALY_TEXT_1">
+			<Text>The Kingdom of Italy was a state founded in 1861 when King Victor Emmanuel II of Sardinia was proclaimed King of Italy. The state was founded as a result of the unification of Italy under the influence of the Kingdom of Sardinia, which was its legal predecessor state. It existed until 1946 when the Italians opted for a republican constitution.[NEWLINE][NEWLINE]Italy declared war on Austria in alliance with Prussia in 1866: despite an unsuccessful campaign, it received the region of Veneto following Bismarck's victory. Italian troops entered Rome in 1870, ending more than one thousand years of Papal temporal power. Italy accepted Bismarck's proposal to enter in a Triple Alliance with Germany and Austria-Hungary in 1882, following strong disagreements with France about the respective colonial expansions. However, even if relations with Berlin became very friendly, the alliance with Vienna remained purely formal, as the Italian lands of Trentino and Trieste were still under Austro-Hungarian rule. So, in 1915, Italy accepted the British invitation to join the Allies in World War I because the western allies promised territorial compensation (at the expense of Austria-Hungary) for participation that were more generous than Vienna's offer in exchange for Italian neutrality. Victory in the war gave Italy a permanent seat in the Council of the League of Nations.[NEWLINE][NEWLINE]"Fascist Italy" is the era of National Fascist Party rule from 1922 to 1943 with Benito Mussolini as totalitarian leader. The fascists imposed totalitarian rule and crushed the political and intellectual opposition, while promoting economic modernization, traditional social values, and a rapprochement with the Catholic Church. "The Fascist regime passed through several relatively distinct phases," says Payne (1996). The first phase 1923–25 was nominally a continuation of the parliamentary system, albeit with a "legally organized executive dictatorship." Then came the second phase, "the construction of the Fascist dictatorship proper from 1925 to 1929." The third phase, with less activism, was 1929–34. The fourth phase, 1935–40, was characterized by an aggressive foreign policy, warfare in Ethiopia, which was launched from Italian Somaliland and Eritrea, confrontations with the League of Nations sanctions, growing economic autarchy, and semi-Nazification. The war itself (1940–43) was the fifth phase with its disasters and defeats, while the rump Salo regime under German control was the final stage (1943–45).[NEWLINE][NEWLINE]Italy was allied with Nazi Germany in World War II until 1943. It switched sides to the Allies after ousting Mussolini and shutting down the Fascist party in areas (south of Rome) controlled by the Allied invaders. The remnant fascist state in northern Italy that continued fighting against the Allies was a puppet state of Nazi Germany, the "Italian Social Republic", still led by Mussolini and his loyalist Fascists. Shortly after the war, civil discontent led to the Italian constitutional referendum, 1946 on whether Italy would remain a monarchy or become a republic. Italians decided to abandon the monarchy and form the Italian Republic, which is the present form of Italy today.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_ITALY_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<!--City Names-->
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_NAPLES">
+			<Text>Naples</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_TURIN">
+			<Text>Turin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_MILAN">
+			<Text>Milan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_MODENA">
+			<Text>Modena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_BRESCIA">
+			<Text>Brescia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_VICENZA">
+			<Text>Vicenza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_PRATO">
+			<Text>Prato</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_TRIESTE">
+			<Text>Trieste</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_MESSINA">
+			<Text>Messina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_ASTI">
+			<Text>Asti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_PISA">
+			<Text>Pisa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_FORLI">
+			<Text>Forli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_SALERNO">
+			<Text>Salerno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_FOGGIA">
+			<Text>Foggia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_CAGLIARI">
+			<Text>Cagliari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_LIVORNO">
+			<Text>Livorno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_PARMA">
+			<Text>Parma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_VERONA">
+			<Text>Verona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_CATANIA">
+			<Text>Catania</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_BARI">
+			<Text>Bari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_BOLOGNA">
+			<Text>Bologna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_FLORENCE">
+			<Text>Florence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_GENOA">
+			<Text>Genoa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_VENICE">
+			<Text>Venice</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_PALERMO">
+			<Text>Palermo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_RIMINI">
+			<Text>Rimini</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_SASSARI">
+			<Text>Sassari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_MONZA">
+			<Text>Monza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_PESCARA">
+			<Text>Pescara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_BERGAMO">
+			<Text>Bergamo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_LATINA">
+			<Text>Latina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_PERUGIA">
+			<Text>Perugia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_TARANTO">
+			<Text>Taranto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_NOVARA">
+			<Text>Novara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_FERRARA">
+			<Text>Ferrara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_SIRACUSA">
+			<Text>Siracusa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_PADUA">
+			<Text>Padua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_TERNI">
+			<Text>Terni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_VITTORIA">
+			<Text>Vittoria</Text>
+		</Row>
+		<!--Spy Names-->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ITALY_9">
+			<Text>Segretissimo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ITALY_8">
+			<Text>Duccio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ITALY_7">
+			<Text>Dominecco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ITALY_6">
+			<Text>Bruno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ITALY_5">
+			<Text>Arnoldo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ITALY_4">
+			<Text>Jimmy the Snitch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ITALY_3">
+			<Text>Cesare Beccaria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ITALY_2">
+			<Text>Vernay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ITALY_1">
+			<Text>Amleto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ITALY_0">
+			<Text>Vittorio</Text>
+		</Row>
+		<!--MUSSOLINI-->
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI">
+			<Text>Mussolini</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_MUSSOLINI_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_MUSSOLINI_TEXT_1">
+			<Text>Benito Amilcare Andrea Mussolini was an Italian politician, journalist, and leader of the National Fascist Party, ruling the country as Prime Minister from 1922 until his ousting in 1943. He ruled constitutionally until 1925, when he dropped all pretense of democracy and set up a legal dictatorship. Known as Il Duce ("the leader"), Mussolini was one of the key figures in the creation of fascism.[NEWLINE][NEWLINE]Originally a member of the Italian Socialist Party (PSI), Mussolini was expelled from the PSI due to his opposition to the party's stance on neutrality in World War I. Mussolini denounced the PSI, and later founded the fascist movement. Following the March on Rome in October 1922 he became the youngest Prime Minister in Italian history until the appointment of Matteo Renzi on February 2014. After destroying all political opposition through his secret police and outlawing labor strikes, Mussolini and his fascist followers consolidated their power through a series of laws that transformed the nation into a one-party dictatorship. Within five years he had established dictatorial authority by both legal and extraordinary means, aspiring to create a totalitarian state. Mussolini remained in power until he was deposed by King Victor Emmanuel III in 1943. A few months later, he became the leader of the Italian Social Republic, a German client regime in northern Italy; he held this post until his death in 1945.[NEWLINE][NEWLINE]Since 1939, Mussolini had sought to delay a major war in Europe until at least 1942. Germany invaded Poland on 1 September 1939, starting World War II. On 10 June 1940, Mussolini sided with Germany, though he was aware that Italy did not have the military capacity in 1940 to carry out a long war with France and the United Kingdom. Mussolini believed that after the imminent French surrender, Italy could gain territorial concessions from France and then he could concentrate his forces on a major offensive in Egypt, where British and Commonwealth forces were outnumbered by Italian forces. However the UK refused to accept German proposals for a peace that would involve accepting Germany's victories in Eastern and Western Europe, plans for a German invasion of the UK did not proceed, and the war continued.[NEWLINE][NEWLINE]On 24 July 1943, soon after the start of the Allied invasion of Italy, Mussolini was defeated in the vote at the Grand Council of Fascism, and the King had him arrested the following day. On 12 September 1943, Mussolini was rescued from prison in the Gran Sasso raid by German special forces. In late April 1945, with total defeat looming, Mussolini attempted to escape north, only to be quickly captured and summarily executed near Lake Como by Italian partisans. His body was then taken to Milan where it was hung upside down at a service station for public viewing and to provide confirmation of his demise.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_MUSSOLINI_LIVED">
+			<Text>1883 - 1945</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_MUSSOLINI_NAME">
+			<Text>Mussolini</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_MUSSOLINI_SUBTITLE">
+			<Text>Prime Minister of Italy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_MUSSOLINI_TITLES_1">
+			<Text>Head of Government, Duce of Fascism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_MUSSOLINI_DAWN">
+			<Text>The people stand at attention for His Excellency, Benito Mussolini, founder of fascism and harbinger of the glory of the Roman Empire. As leader of the National Fascist Party, you took power as Italy's Prime Minister, and with it sought to design a state conceived in the ideals of a lost inheritance to the ancient Roman Empire and its claim to the Mediterranean. With the conquest of Ethiopia in 1936, you would propel Italy through triumphs across Africa, bringing it glory and power denied by her weak and liberal Kingship. In 1940, Italy would be entered into the Second World War to the aide of the German Chancellor, Adolf Hitler, where you would continue your imperial designs into eastern Europe and Egypt, until your totalitarian government would be finally be deposed by King Victor Emmanuel III in 1943.[NEWLINE][NEWLINE]Supreme leader, the Italian people do not forget your glorious vision of their future. Italy lays in wait for the dormant legacy of theirs to be rebirthed. Can you seize power and raise from the ashes an empire befitting to glory of Rome past? Can you dominate the lands that were once that of an empire to behold? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!--MARE NOSTRUM-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_ITALY">
+			<Text>Earn [ICON_GOLDEN_AGE] Golden Age points from settling or conquering coastal cities. +15% [ICON_PRODUCTION] Production toward buildings that already exist in the [ICON_CAPITAL] Capital when in a [ICON_GOLDEN_AGE] Golden Age.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_ITALY_SHORT">
+			<Text>Mare Nostrum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_ITALIAN_PRODUCTION_HELP">
+			<Text>+15% [ICON_PRODUCTION] Production toward buildings.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_ITALY_CITY_VIEW_HELP">
+			<Text>+15% [ICON_PRODUCTION] Production toward buildings that exist in the [ICON_CAPITAL] Capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_ITALIAN_PRODUCTION">
+			<Text>JFD: Italian Production</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_ITALIAN_MARE_NOSTRUM">
+			<Text>[COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] [ICON_GOLDEN_AGE] Golden Age points from the pursuit of Mare Nostrum.</Text>
+		</Row>
+		<!--CARABINIER-->
+		<Row Tag="TXT_KEY_UNIT_JFD_CARABINEIRI">
+			<Text>Carabinier</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_CARABINEIRI_TEXT">
+			<Text>The Carabinieri is the national police force of Italy. Originally a branch of the military of the Kingdom of Sardinia, the Carabinieri became the "First Force" during the unification of Italy and become the first national military organisation for the Kingdom when it was formed in 1861. Although the Carabinieri were instrumental in maintaining order during the rule of Benito Mussolini, it was also responsible for his downfall, as a result of the intervention of Nazi Germany in Italian politics which resulted in many of their numbers forcibly disbanded. Today, the Carabinieri is an active member of the Italian Armed Forces.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_CARABINEIRI_STRATEGY">
+			<Text>The Carabinier is the unique Infantry for Italy. When garrisoned in a city in [ICON_RESISTANCE] resistance, this unit hastens the speed at which that city is assimilated into the empire. It also gains a 15% [ICON_STRENGTH] Combat bonus vs. Gun units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_JFD_CARABINEIRI">
+			<Text>Late-game Infantry unit effective against Gun Units. Speeds assimlation of cities in [ICON_RESISTANCE] Resistance when garrisoned.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_CARABINEIRI">
+			<Text>Bonus vs Gun (15)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_CARABINEIRI_HELP">
+			<Text>Bonus vs Gun (15)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_CARABINEIRI_POLICING">
+			<Text>Nei Secoli Fedele</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_CARABINEIRI_POLICING_HELP">
+			<Text>Garrison this unit in a city in [ICON_RESISTANCE] resistance to hasten assimilation.</Text>
+		</Row>
+	</Language_en_US>
+	<Language_it_IT>
+		<!--ITALY-->
+		<Row Tag="TXT_KEY_CIV_JFD_ITALY_SHORT_DESC">
+			<Text>Italia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_ITALY_ADJECTIVE">
+			<Text>italiano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_ITALY_DESC">
+			<Text>Regno d'Italia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_ITALY_TEXT_1">
+			<Text>Il Regno d'Italia fu fondato nel 1861, quando il re Vittorio Emanuele II di Sardegna, in seguito alle guerre risorgimentali, fu proclamato Re d'Italia. Lo stato fu il risultato dell'unificazione nazionale italiana sotto la sovranità del Regno di Sardegna. Cessò di esistere nel 1946, quando si trasformò nella Repubblica Italiana in seguito ad un referendum costituzionale.[NEWLINE][NEWLINE]Nel 1866 l'Italia partecipò al fianco della Prussia alla guerra austro-prussiana, nel tentativo di riconquistare i territori sotto dominazione straniera. Nonostante le sconfitte ottenute sul campo l'Italia ottenne la regione del Veneto in qualità di vincitore formale del conflitto. Successivamente, nel 1882, accettò la proposta di Bismarck di entrare nella Triplice Alleanza, con Germania ed Impero Austro-ungarico a seguito della tensione sorta con la Francia per questioni di possedimenti coloniali. Tuttavia anche se le relazioni con Berlino furono sempre molto amichevoli, il rapporto con Vienna rimase sempre molto freddo per via dell'occupazione austriaca nei territori di Trentino e Trieste. Così nel 1915, quando l'Inghilterra la invitò ad unirsi agli Alleati nel corso della Prima Guerra Mondiale, l'Italia accettò di buon grado perché le furono promesse ricompense territoriali maggiori rispetto a quelle che Vienna avrebbe offerto in cambio della sua neutralità. La vittoria della guerra diede all'Italia un posto permanente nella Società delle Nazioni.[NEWLINE][NEWLINE]Il Ventennio Fascista è il periodo in cui il Partito Nazionale Fascista dominò il Paese, con Benito Mussolini a capo del governo. I fascisti imposero un regime totalitario e schiacciarono l'opposizione politica ed intellettuale, promuovendo nel contempo la modernizzazione economica, i valori sociali tradizionali ed il riavvicinamento alla Chiesa cattolica. "Il regime fascista ha attraversato diverse fasi relativamente distine", spiega lo storico Stanley Payne nel 1996. "La prima fase, dal '23 al '25, è stata formalmente una continuazione del sistema parlamentare anche se con un «governo dittatoriale giuridicamente riconosciuto». Successivamente è giunta la seconda fase, quella della vera dittatura, dal '25 al '29. La terza fase, con meno attivismo, è andata dal '29 al '34. La quarta fase, 1935-1940, è stata caratterizzata da una politica estera aggressiva, dalla guerra in Etiopia, partita dalla Somalia italiana e dall'Eritrea, dallo scontro con le sanzioni della Società delle Nazioni, dalla crescente autarchia economica e dalla semi-nazificazione. La guerra in sé (1940-1943) è stata la quinta fase, con i suoi disastri e sconfitte, mentre la Repubblica di Salò sotto il controllo tedesco è stata la fase conclusiva".[NEWLINE] [NEWLINE]L'Italia fu alleata della Germania Nazista fino al 1943, durante la Seconda Guerra Mondiale. Successivamente cambiò schieramento passando agli Alleati a seguito della cacciata di Mussolini e della morte del partito fascista. La Repubblica Sociale Italiana, ancora una volta guidata da Mussolini e dai fascisti lealisti, fu lo stato fascista che continuò ad esistere nel nord Italia, continuando a combattere contro gli Alleati, ma altro non era che uno stato fantoccio della Germania nazista. Poco dopo la guerra, il malcontento civile portò al referendum costituzionale italiano con il quale gli italiani decisero di abbandonare la monarchia a favore della repubblica, attuale forma di governo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_ITALY_HEADING_1">
+			<Text>Storia</Text>
+		</Row>
+		<!--City Names-->
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_NAPLES">
+			<Text>Napoli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_TURIN">
+			<Text>Torino</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_MILAN">
+			<Text>Milano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_MODENA">
+			<Text>Modena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_BRESCIA">
+			<Text>Brescia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_VICENZA">
+			<Text>Vicenza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_PRATO">
+			<Text>Prato</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_TRIESTE">
+			<Text>Trieste</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_MESSINA">
+			<Text>Messina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_ASTI">
+			<Text>Asti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_PISA">
+			<Text>Pisa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_FORLI">
+			<Text>Forlì</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_SALERNO">
+			<Text>Salerno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_FOGGIA">
+			<Text>Foggia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_CAGLIARI">
+			<Text>Cagliari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_LIVORNO">
+			<Text>Livorno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_PARMA">
+			<Text>Parma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_VERONA">
+			<Text>Verona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_CATANIA">
+			<Text>Catania</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_BARI">
+			<Text>Bari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_BOLOGNA">
+			<Text>Bologna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_FLORENCE">
+			<Text>Firenze</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_GENOA">
+			<Text>Genova</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_VENICE">
+			<Text>Venezia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_PALERMO">
+			<Text>Palermo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_RIMINI">
+			<Text>Rimini</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_SASSARI">
+			<Text>Sassari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_MONZA">
+			<Text>Monza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_PESCARA">
+			<Text>Pescara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_BERGAMO">
+			<Text>Bergamo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_LATINA">
+			<Text>Latina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_PERUGIA">
+			<Text>Perugia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_TARANTO">
+			<Text>Taranto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_NOVARA">
+			<Text>Novara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_FERRARA">
+			<Text>Ferrara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_SIRACUSA">
+			<Text>Siracusa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_PADUA">
+			<Text>Padova</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_TERNI">
+			<Text>Terni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_JFD_ITALY_VITTORIA">
+			<Text>Vittoria</Text>
+		</Row>
+		<!--Spy Names-->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ITALY_9">
+			<Text>Segretissimo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ITALY_8">
+			<Text>Duccio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ITALY_7">
+			<Text>Dominecco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ITALY_6">
+			<Text>Bruno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ITALY_5">
+			<Text>Osvaldo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ITALY_4">
+			<Text>Ivonne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ITALY_3">
+			<Text>Solone</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ITALY_2">
+			<Text>Varo Duemila</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ITALY_1">
+			<Text>Rodano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ITALY_0">
+			<Text>Vittorio</Text>
+		</Row>
+		<!--MUSSOLINI-->
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI">
+			<Text>Mussolini</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_MUSSOLINI_HEADING_1">
+			<Text>Storia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_MUSSOLINI_TEXT_1">
+			<Text>Benito Amilcare Andrea Mussolini (Dovia di Predappio, 29 luglio 1883- Giulino di Mezzegra, 28 aprile 1945) fu uomo politico e giornalista italiano, fondatore del fascismo e Primo Ministro con poteri dittatoriali dal 1922 al 1943; Presidente della Repubblica Sociale Italiana dal settembre 1943 all'aprile 1945. Conosciuto con l'appellativo di Duce, fu la figura chiave nella creazione del fascismo.[NEWLINE][NEWLINE]Esponente di spicco del Partito Socialista Italiano, direttore dell'"Avanti!" dal 1912, e convinto anti-interventista negli anni immediatamente precedenti la Prima Guerra Mondiale, Mussolini nel 1914 cambiò radicalmente opinione e si dichiarò a favore dell'intervento in guerra. Espulso dal PSI, fondò un proprio giornale, "Il Popolo d'Italia", su posizioni nazionaliste, vicine alla piccola borghesia. Nel dopoguerra, approfittando dell'instabilità politica e cavalcando lo scontento nazionale per la "vittoria mutilata", fondò il Partito Fascista (1921) e si presentò al Paese con un programma politico nazionalista e autoritario, con forti elementi antisocialisti e antisindacali che gli valsero l'appoggio dei ceti industriali e agrari.Forzando la mano delle istituzioni, con l'aiuto di atti di squadrismo e d'intimidazione politica che culminarono il 28 ottobre del 1922 con la Marcia su Roma, Mussolini ottenne l'incarico di costituire il Governo (novembre del 1922) e dopo il contestato successo alle elezioni politiche del '24, instaurò nel '25 la dittatura, risolvendo con forza la delicata situazione venutasi a creare dopo l'assassinio di Giacomo Matteotti.[NEWLINE][NEWLINE]Certo di una veloce soluzione del conflitto, entrò nella Seconda Guerra Mondiale al fianco della Germania Nazista.[NEWLINE][NEWLINE]In seguito alla disfatta italiana e alla messa in minoranza durante il Gran Consiglio del Fascismo del 24 luglio del 1943, fu arrestato per ordine del Re (25 luglio) e successivamente tradotto a Campo Imperatore. Liberato dalle forze speciali tedesche, e ormai in balia delle decisioni di Hitler, instaurò nell'Italia settentrionale, non ancora liberata dagli Alleati, la Repubblica Sociale Italiana. Il 28 aprile del 1945, durante il tentativo di fuga in Svizzera travestito da militare tedesco, fu scoperto e arrestato dai partigiani, che lo giustiziarono insieme alla sua compagna Claretta Petacci. Il suo corpo fu poi esposto al pubblico impiccato a testa in giù perché fosse visibile a tutti e non persistessero dubbi circa la sua morte.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_MUSSOLINI_LIVED">
+			<Text>1883 - 1945</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_MUSSOLINI_NAME">
+			<Text>Mussolini</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_MUSSOLINI_SUBTITLE">
+			<Text>Primo Ministro dell'Italia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_MUSSOLINI_TITLES_1">
+			<Text>Capo del Governo, Duce del Fascismo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_MUSSOLINI_DAWN">
+			<Text>Le genti offrono il saluto romano in ordinato rispetto fascista per Sua Eccellenza Benito Mussolini, fondatore del fascismo e fautore della nuova gloria dell'Impero Romano. Come capo del Partito Nazionale Fascista, hai ottenuto la carica di Primo Ministro e cercato di realizzare uno stato concepito sugli ideali di una perduta eredità di "Roma caput mundi" e del suo impero, reclamando come tua tutta l'area mediterranea. Facendo leva sulla conquista dell'Etiopia nel 1936 volevi spingere l'Italia a trionfi in tutta l'Africa, portando gloria e potere negate dalla debole e liberale guida del re. Nel 1940, guidasti l'Italia nella Seconda Guerra Mondiale al fianco del Cancelliere tedesco Adolf Hitler, per continuare l'espansione secondo le tue mire imperiali in Europa centrale ed Egitto.[NEWLINE][NEWLINE]Oh, Duce, il popolo italiano non può dimenticare la tua gloriosa visione del suo futuro. L'Italia resta in attesa che la sua eredità dormiente rinasca. Riuscirai a prendere il potere ed a sollevare dalle sue ceneri un impero degno della gloria della Roma passata? Riuscirai infine a dominare le terre che una volta erano parti del più grande degli imperi passati? Sarai in grado di costruire una civiltà in grado di resistere alla prova del tempo?</Text>
+		</Row>
+		<!--DIPLOMACY-->
+		<!--First Greeting messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_FIRSTGREETING_1">
+			<Text>Potresti pensare che io sia un Dio, ma posso assicurarti che Dio non è degno del mio nome. Io sono Benito Mussolini. Benvenuto nel mio Impero.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_FIRSTGREETING_2">
+			<Text>Io sono Benito Mussolini. Mi aspettavo che un giorno ci saremmo incontrati.</Text>
+		</Row>
+		<!--Defeated messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_DEFEATED_1">
+			<Text>Hai ucciso non un uomo qualunque, oggi. Forse è davvero questa la vittoria.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_DEFEATED_2">
+			<Text>Il mio Impero continuerà a combattere, non si arrenderà mai. Perché è diritto della mia gente continuare a difendere l'eredità di Roma.</Text>
+		</Row>
+		<!-- Human repeats an action too much, gets the following responses -->
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_REPEAT_TOO_MUCH_1">
+			<Text>Mi stai dando sui nervi. Vai ad importunare qualcun'altro.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_REPEAT_TRADE_TOO_MUCH_1">
+			<Text>Non sono interessato a continuare questa ridicola trattativa con te.</Text>
+		</Row>
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_GREETING_HOSTILE_HELLO_1">
+			<Text>Perché mi importuni?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_GREETING_POLITE_HELLO_1">
+			<Text>Sì, camerata?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>Non sono interessato a sentire ancora delle tue meschine guerre. Ho un Impero da forgiare, e farlo velocemente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_GREETING_HUMAN_AT_WAR_1">
+			<Text>Sei in guerra, se non lo avessi capito. E la stai facendo davvero male, come avevo immaginato.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>La tua aggressione ha causato allarme; è una minaccia per il giusto corso dei miei piani imnperiali. Non permetterò che le cose vadano avanti così.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_MUSSOLINI_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>Le terre che hai annesso così liberamente appartengono all'Impero di Roma. Ricusane la proprietà o me le prenderò con la forza.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>Le tue recenti annessioni stanno causando allarme tra le mie forze armate. Quei territori appartengono all'Impero di Roma. Voglio chiederti di cessare immediatamente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>Il territorio che hai colonizzato così liberamente appartiene all'Impero di Roma. Ricusane la proprietà o me le prenderò con la forza.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>La tua rapida espansione è fonte di allarme: quei territori sono di proprietà dell'Impero Romano. Ti chiedo di cessare immediatamente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>Il tuo esercito è famoso per potenza e grandezza. Dovrei tenerlo ben presente se fossi un tuo nemico.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>La tua economia è famosa per la sua salute e la sua solidità. Spero di poterti aiutare a raggiungere la prosperità comune.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_GREETING_HOSTILE_HUMAN_FEW_CITIES_1">
+			<Text>Hai soltanto qualche misera città! Come puoi pensare di avere qualche possibilità contro un impero grande e potente come il mio?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>Il primo compito di un governante è avere potere e controllo su tutto. È evidente che non hai idea di come gestire la tua gente, con quel patetico esercito.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>La tua brama di guerra è davvero vergognosa. Non sai cosa sia l'onore.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_TOO_SOON_FOR_DOF_1">
+			<Text>Prima di un passo così importante devi guadagnarti la mia fiducia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_TOO_SOON_FOR_DOF_2">
+			<Text>Roma è amica soltanto di chi si mostra leale.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_DENOUNCE_1">
+			<Text>Non posso tollerare oltre la tua miserabile opposizione ai miei disegni. Il mondo deve sapere che tu sei un nemico di Roma.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]Mussolini ci ha denuciato pubblicamente! NOTA: Non sei in guerra.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Ho alleati più grandi di te, loro non si faranno abbindolare dal tuo inganno politico.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>Denunciando Roma hai voltato le spalle a tutte le civilità.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_HUMAN_DOFED_FRIEND_1">
+			<Text>Un alleato di {1_CivName} è un mio alleato.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_HUMAN_DOFED_ENEMY_1">
+			<Text>{1_CivName} non è una civiltà degna di fiducia. Se sei dalla loro parte non sei più degno dell'amicizia di Roma.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>Chiaramente non hai idea di dove risieda il vero potere di questo mondo. {1_CivName} è tra i miei alleati ed è stato stupido denunciarli.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>È meraviglioso vedere che ci sono altre civiltà che non si fanno piegare da {1_CivName}. Tu ed io sappiamo bene chi sono i nemici del nostro progresso.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>Ho avuto notizia della dichiarazione di amicizia tra il tuo popolo e {1_CivName}. Sarò lieto di fare lo stesso.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>La tua recente dichiarazione di amicizia con {1_CivName} mi disgusta. È evidente che hanno bisogno di una lezione.</Text>
+		</Row>
+		<!-- General Diplo Text -->
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_COOP_WAR_REQUEST_1">
+			<Text>{1_PlayerName:textkey} è un nemico del mio Impero. Ti chiedo assistenza nel ripulire il mio cammino dalla loro presenza.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_COOP_WAR_REQUEST_2">
+			<Text>{1_PlayerName:textkey} ha portato soltanto barbarie sul mio cammino verso la gloria. Vuoi unirti a me nella guerra contro di lui, amico mio?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_COOP_WAR_TIME_1">
+			<Text>È tempo per {1_PlayerName: textkey} di essere schiacciato dall'Impero Romano. Confido che voi siate disposti a sostenere il nostro accordo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_DEC_FRIENDSHIP_1">
+			<Text>So che mi servirai bene nel forgiare il glorioso Impero di Roma.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_DEC_FRIENDSHIP_2">
+			<Text>Ritengo sia il caso che i nostri imperi traggano vantaggio da una forte dichiarazione di alleanza. Darebbe ai nostri nemici qualcosa da temere.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Il mio Stato Maggiore riporta che un gran numero di tue unità militari sono state avvistate lungo i nostri confini. Ti chiedo di spostarle altrove, eliminando questa fonte di inquietudine nella mia popolazione.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_PLOT_BUYING_WARNING_1">
+			<Text>Le tue recenti acquisizioni territoriali sono fonte di allarme: quei territori sono di proprietà dell'Impero Romano. Ti chiedo di cessare immediatamente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>I territori che continui a reclamare con tanta leggerezza sono di proprietà di Roma. Ricusane la proprietà al più presto o sarò costretto a riprendermeli direttamente dal tuo molle ventre.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_EXPANSION_SERIOUS_WARNING_1">
+			<Text>I territori che hai acquisito, reclamandoli come tuoi, appartengono di diritto al popolo di Roma. Ti invito ad abbandonarli o sarò costretto a riprendermeli col fuoco dei miei indomiti soldati.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_EXPANSION_WARNING">
+			<Text>La tua rapida espansione in territori che Roma considera suoi sta causando allarme nel mio popolo. Ti consiglio di cessare immediatamente tali iniziative.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_RETURNED_CIVILIAN_1">
+			<Text>Il Duce ti offre la sua gratitudine per la liberazione dei civili italiani.</Text>
+		</Row>
+		<!--Insults-->
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_INSULT_JFD_MUSSOLINI_1">
+			<Text>Sei soltanto un oppressore di deboli, un tiranno. La corona di cui ti fregi è impastata con l'ignoranza del tuo popolo e con il sangue dei giusti. Di certo non hai pensato che te lo meritavi, vero?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_INSULT_JFD_MUSSOLINI_2">
+			<Text>Ho pensato di farti sapere che il popolo fascista non è d'accordo con la tua tirannia. Tant'è che ho iniziato a soffiare venti di rivoluzione nella vostra direzione.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_INSULT_JFD_MUSSOLINI_3">
+			<Text>La tua ingiusta tirannia vedrà presto la sua fine. Ho pensato di avvertirti per darti una possibilità di rimediare. In fretta.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_INSULT_JFD_MUSSOLINI_4">
+			<Text>Ah, sei tu. Le mie scuse, qualche volta ti confondo con quei barbari che sono costretto a schiacciare di tanto in tanto.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_INSULT_MILITARY_1">
+			<Text>Pensavo che ti avrebbe fatto piacere sapere che il tuo esercito rispecchia le tue debolezze. Meglio guardarsi le spalle.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_INSULT_MILITARY_2">
+			<Text>Con un esercito così debole è una sorpresa che il tuo impero non sia stato spazzato via da un'invasione di barbari.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_INSULT_BULLY_1">
+			<Text>Trovo che sia davvero una vergogna che ci siano capi, a questo mondo, che traggono divertimento angariando i deboli. Non sei d'accordo?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_INSULT_UNHAPPINESS_1">
+			<Text>Non sono affatto sorpreso sentire che il tuo popolo ti considera un miserabile: deve essere davvero difficile vivere oppressi dalla tua ottusa tirannide. Ma non avvilirti, amico mio, spero di cambiare le cose molto presto.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_INSULT_CITIES_1">
+			<Text>È venuto alla mia attenzione che la tua civiltà sembra essere piuttosto gracile. Avete semplicemente dimenticato di espandere i vostri confini oppure avete trovato qualche difficoltà nel farlo?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_INSULT_POPULATION_1">
+			<Text>Viaggiatori italiani riferiscono che la vostra economia naviga in acque tumultuose. Se me lo chiedi con abbastanza enfasi il glorioso popolo di Roma potrebbe aiutarvi. Oh, in realtà non vi aiuteremo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_INSULT_CULTURE_1">
+			<Text>Che spettacolo triste... il tuo popolo è così rozzo, privo di ogni cultura. Cosa fanno i tuoi cittadini tutto il giorno, pestano riso in stupidi mortai e battono le rocce insieme?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_INSULT_CULTURE_2">
+			<Text>Dicerie sostengono che la tua cultura è talmente ridicola che persino i barbari si tengono alla larga dalle tue terre. Che mi dici in proposito?</Text>
+		</Row>
+		<!--Public Declarations-->
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey}, dalla poderosa voce del suo duce, annuncia al mondo che proteggerà {1_MinorCivName:textkey}. Vessare o attaccare gli amici di Roma sarà considerato un atto di guerra.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} non proteggerà più {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<!-- Human is asking the AI for something -->
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_DONT_SETTLE_NO_1">
+			<Text>Ridicolo. Quel territorio è del popolo di Roma per diritto.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_DONT_SETTLE_YES_1">
+			<Text>Per ora voglio essere generoso ed accettare la tua richiesta. Un giorno, però, potrei non essere così gentile.</Text>
+		</Row>
+		<!--Deal Offers and related-->
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_LUXURY_TRADE_1">
+			<Text>Concludiamo questo accordo commerciale.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_OPEN_BORDERS_EXCHANGE_1">
+			<Text>È mia opinione che otterremo mutui benefici dall'apertura reciproca dei nostri confini.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_RESPONSE_REQUEST_1">
+			<Text>Sono qui a chiedere la tua assistenza, amico mio.</Text>
+		</Row>
+		<!--AI Attacked by Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_ATTACKED_HOSTILE_1">
+			<Text>L'ora è giunta, dunque. Roma stava comunque per attaccarti, non credo proprio che il mio indomito popolo sia impreparato.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_ATTACKED_EXCITED_1">
+			<Text>Tu sei parte del Romano Impero ed è tempo per te di realizzare il tuo destino diventando una parte di esso.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_ATTACKED_SAD_1">
+			<Text>Tu sei parte del Romano Impero ed è tempo per te di realizzare il tuo destino diventando una parte di esso.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_ATTACKED_BETRAYED_1">
+			<Text>Roma stava comunque per attaccarti, non credo che il mio Stato Maggiore sia colto di sorpresa.</Text>
+		</Row>
+		<!--AI Declaring War on Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_DOW_GENERIC_1">
+			<Text>Tu sei parte del Romano Impero ed è tempo per te di realizzare il tuo destino diventando una parte di esso.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_DOW_LAND_1">
+			<Text>I tuoi territori appartengono ai romani, quindi a me. È giunto il tempo che io reclami l'eredità del mio popolo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_DOW_LAND_2">
+			<Text>Non vedi? Tu sei una pieta miliare lungo il cammino di recupero dei territori del glorioso Impero Romano!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_DOW_WORLD_CONQUEST_1">
+			<Text>Se il mondo non è romano, è soltanto un covo di barbari. È tempo di colpire duramente il tuo popolo e permettere così alla grande fenice di risorgere dalle ceneri del passato.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_DOW_OPPORTUNITY_1">
+			<Text>La tua debolezza è il mio più grande vantaggio. Il potere del mio impero permetterà di annientare le mura delle tue città, con un sussurro.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_DOW_DESPERATE_1">
+			<Text>No, il mio compito non è terminato. La resurrezione dell'Impero di Roma sarà la mia eredità per i posteri.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_DOW_DESPERATE_2">
+			<Text>Prima della mia fine, Roma rinascerà, e tu sarai la sua culla.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_DOW_BETRAYAL_1">
+			<Text>Ebbene sì, ti sto tradendo. Ecco perché sono un politico: non sono legato da alcun codice dei regnanti, così Dio non potrà criticarmi per questa azione.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_DOW_REGRET_1">
+			<Text>Mi spiace solo di dover muovere guerra contro un tale sciocco come te, che dovresti essere più saggio. Molte vite avrebbero potuto essere risparmiate.</Text>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_TOO_SOON_NO_PEACE_1">
+			<Text>Non è tempo per la pace, ora. La pace arriverà quando i tuoi domini apparterranno a Roma.</Text>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_BAD_1">
+			<Text>Sfidare me e l'indomito popolo di Roma è una mossa molto stupida.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MUSSOLINI_GOOD_1">
+			<Text>Bene. Si sapeva che eri velleitario.</Text>
+		</Row>
+		<!--MARE NOSTRUM-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_ITALY">
+			<Text>Guadagna [ICON_GOLDEN_AGE] punti Età dell'Oro Golden fondando o conquistando città costiere. +15% [ICON_PRODUCTION] Produzione costruendo edifici che già esistono nella [ICON_CAPITAL] capitale durante una [ICON_GOLDEN_AGE] Età dell'Oro.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_ITALY_SHORT">
+			<Text>Mare Nostrum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_ITALIAN_PRODUCTION_HELP">
+			<Text>+15% [ICON_PRODUCTION] Produzione nei confronti degli edifici.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_ITALIAN_PRODUCTION">
+			<Text>JFD: Produzione italiana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_ITALIAN_MARE_NOSTRUM">
+			<Text>+{1_Num} [ICON_GOLDEN_AGE] punti Età dell'Oro perseguendo Mare Nostrum.</Text>
+		</Row>
+		<!--CARABINIER-->
+		<Row Tag="TXT_KEY_UNIT_JFD_CARABINEIRI">
+			<Text>Carabiniere</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_CARABINEIRI_TEXT">
+			<Text>L'Arma dei Carabinieri è una delle forze nazionali di polizia. Originariamente era un ramo delle forze armate del Regno di Sardegna, divenne la "prima forza" durante l'unità d'Italia e poi la prima organizzazione militare nazionale del Regno quando fu formato, nel 1861. Sebbene i Carabinieri contribuirono a garantire l'ordine durante il governo di Benito Mussolini, furono anche responsabili della sua rovina come conseguenza dell'intervento della Germania nazista nella politica italiana e portando allo scioglimento forzato di una grande parte dei loro ranghi. Oggi i carabinieri sono elevati a rango di forza armata autonoma.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_CARABINEIRI_STRATEGY">
+			<Text>Il carabiniere è un'unità di fanteria della Grande Guerra esclusiva per l'Italia. Quando posta a guarnigione di una città in [ICON_RESISTANCE] rivolta, permette di velocizzarne drasticamente l'assimilazione nella civiltà. Guadagna anche 15% [ICON_STRENGTH] di bonus di combattimento contro unità dotate di cannoni.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_JFD_CARABINEIRI">
+			<Text>+15% bonus contro unità dotate di cannoni. Accelera l'assimilazione quando è a presidio di una città in [ICON_RESISTANCE] rivolta.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_CARABINEIRI">
+			<Text>Bonus contro cannoni (15)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_CARABINEIRI_HELP">
+			<Text>Bonus contro cannoni (15)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_CARABINEIRI_POLICING">
+			<Text>Nei Secoli Fedele</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_CARABINEIRI_POLICING_HELP">
+			<Text>Posto a guarnigione di una città in [ICON_RESISTANCE] rivolta ne accelera l'assimilazione.</Text>
+		</Row>
+	</Language_it_IT>
+</GameData>

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- JFD's EXPLORATION CONTINUED EXPANDED -->
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_ITALY_MUSSOLINI_01">
+			<Text>Asmara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_ITALY_MUSSOLINI_02">
+			<Text>Jimma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_ITALY_MUSSOLINI_03">
+			<Text>Harar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_ITALY_MUSSOLINI_04">
+			<Text>Scioa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_ITALY_MUSSOLINI_05">
+			<Text>Triana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_ITALY_MUSSOLINI_06">
+			<Text>Rodi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_ITALY_MUSSOLINI_07">
+			<Text>Palma</Text>
+		</Row>
+		<!-- RYOGA's UNIQUE CULTURAL INFLUENCE -->
+		<Row Tag="TXT_KEY_GENERIC_JFD_ITALY_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now demanding punctuality for their trains and strength for their armed forces. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<!-- SUKRITACT's DECISIONS -->
+		<!--Organise the Blackshirts-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ITALY_BLACKSHIRTS">
+			<Text>Organise the Blackshirts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ITALY_BLACKSHIRTS_DESC">
+			<Text>
+				The Blackshirts have long been nothing more than a band of young and disgruntled soldiers. Their will is strong, and their potential for loyalty stronger. It would be wise to organise support for our leadership from these men.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Italy (Mussolini)
+				[NEWLINE][ICON_BULLET]Must have researched Rifling
+				[NEWLINE][ICON_BULLET]Must be a Gun Unit in the [ICON_CAPITAL] Capital
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]The [ICON_CAPITAL] Capital's garrison gains the Blackshirt promotion
+				[NEWLINE][ICON_BULLET]Gun Units may be upgraded with the Blackshirt promotion to earn [ICON_GOLDEN_AGE] Golden Age points from kills
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ITALY_BLACKSHIRTS_ENACTED_DESC">
+			<Text>
+				The Blackshirts have long been nothing more than a band of young and disgruntled soldiers. Their will is strong, and their potential for loyalty stronger. It would be wise to organise support for our leadership from these men.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Gun Units may be upgraded with the Blackshirts promotion, allowing them to earn [ICON_GOLDEN_AGE] Golden Age points from kills
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_BLACKSHIRTS">
+			<Text>Italian Servicemen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_BLACKSHIRTS_HELP">
+			<Text>May become a member of the Blackshirts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_BLACKSHIRT_GA">
+			<Text>Blackshirt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_BLACKSHIRT_GA_HELP">
+			<Text>Earn points toward a [ICON_GOLDEN_AGE] Golden Age for each enemy killed.</Text>
+		</Row>
+		<!--Create the National Balilla Operation-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ITALY_BALILLA">
+			<Text>Create the National Balilla Operation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ITALY_BALILLA_DESC">
+			<Text>
+				Italy's youth have too much free time. With that free time, they should be learning the ways of our nation's ideology. That is why we must create the National Balilla Operation; to encourage children to love their Duce and to serve their empire.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Italy (Mussolini)
+				[NEWLINE][ICON_BULLET]Must have adopted an Ideology
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Public Schools increase [ICON_TOURISM] Tourism output by 10%
+				[NEWLINE][ICON_BULLET]Public Schools yield +1 [ICON_PRODUCTION] Production, [ICON_GOLD] Gold, or [ICON_FOOD] Food depending upon if the player has adopted Autocracy, Freedom, or Order
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ITALY_BALILLA_ENACTED_DESC">
+			<Text>
+				Italy's youth have too much free time. With that free time, they should be learning the ways of our nation's ideology. That is why we must create the National Balilla Operation; to encourage children to love their Duce and to serve their empire.[NEWLINE]
+				[NEWLINE][ICON_BULLET]Public Schools increase [ICON_TOURISM] Tourism output by 10%
+				[NEWLINE][ICON_BULLET]Public Schools yield +1 [ICON_PRODUCTION] Production, [ICON_GOLD] Gold, or [ICON_FOOD] Food depending upon if the player has adopted Autocracy, Freedom, or Order
+			</Text>
+		</Row>
+		<!-- SUKRITACT's EVENTS -->
+		<!-- Nemi Ships -->
+		<Row Tag="TXT_KEY_EVENT_JFD_ITALY_NEMI_SHIPS">
+			<Text>Nemi Ships</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_ITALY_NEMI_SHIPS_DESC">
+			<Text>
+				Ancient ships, remnant to our great, Roman past, have been discovered at the bottom of Lake Nemi. The ships are elaborate works of art and engineering; adorned with technology not thought possible of the age. They are a priceless testimony to the legacy of our ancestors.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_ITALY_NEMI_SHIPS_OUTCOME_1">
+			<Text>Have them recovered.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_ITALY_NEMI_SHIPS_OUTCOME_2">
+			<Text>Leave them be.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_ITALY_NEMI_SHIPS_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLD] Gold[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain a free Artifact[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_ITALY_NEMI_SHIPS_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_CULTURE] Culture[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_ITALY_NEMI_SHIPS_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have managed to successfully recover the ancient Ships at the bottom of Lake Nemi.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_ITALY_NEMI_SHIPS_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have decided to leave the Nemi Ships as they are.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ARTIFACT_JFD_NEMI_SHIPS">
+			<Text>Shipwreck</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_ITALY_NEMI_SHIPS">
+			<Text>An ancient shipwreck has been recovered in Italy.</Text>
+		</Row>
+		<!-- Blackshirt Riots -->
+		<Row Tag="TXT_KEY_EVENT_JFD_ITALY_BLACKSHIRT_VIOLENCE">
+			<Text>Blackshirt Riots</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_ITALY_BLACKSHIRT_VIOLENCE_DESC">
+			<Text>
+				A well-known opponent of our government policies has turned up dead and we have been accused of his assassination, sparking riots in the middle of Rome - led by members of our own Blackshirts no less! Whether the claims are true or not, we need to act on this matter before it gets out of hand.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_ITALY_BLACKSHIRT_VIOLENCE_OUTCOME_1">
+			<Text>We deny the claims. Have the most unruly thrown in jail.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_ITALY_BLACKSHIRT_VIOLENCE_OUTCOME_2">
+			<Text>We shall accept the blame for this, but find some way to justify it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_ITALY_BLACKSHIRT_VIOLENCE_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]50% chance the [ICON_CAPITAL] Capital goes into [ICON_RESISTANCE] Resistance for 2 turns[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_ITALY_BLACKSHIRT_VIOLENCE_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]The [ICON_CAPITAL] Capital goes into [ICON_RESISTANCE] Resistance for 1 turn[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]50% chance you gain {1_Num} [ICON_GOLDEN_AGE] Golden Age points[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_ITALY_BLACKSHIRT_VIOLENCE_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have thrown the perpetrators of the blackshirt riots in jail.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_ITALY_BLACKSHIRT_VIOLENCE_OUTCOME_RESULT_1_ALT_NOTIFICATION">
+			<Text>We have thrown the perpetrators of the blackshirt riots in jail. Unfortunately, this has only worsened the violence.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_ITALY_BLACKSHIRT_VIOLENCE_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have accepted blame for the murder of a member of the opposition, and have orchestrated proganda to support our actions. In doing so, have managed to offset long-term damage to our position - though a few important government officials remain unconvinced.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_ITALY_BLACKSHIRT_VIOLENCE_OUTCOME_RESULT_2_ALT_NOTIFICATION">
+			<Text>We have accepted blame for the murder of a member of the opposition, and have orchestrated proganda to support our actions. In doing so, have managed to shine sympathy upon our political position - though a few important government officials remain unconvinced.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_ITALY_BLACKSHIRT_VIOLENCE_1">
+			<Text>Benito Mussolini's Blackshirt paramilitary have rioted against the recent assassination of an opposition member of the Italian government, accusing Mussolini of orchestrating the murder. Mussolini denied the claims.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_ITALY_BLACKSHIRT_VIOLENCE_2">
+			<Text>Benito Mussolini's Blackshirt paramilitary have rioted against the recent assassination of an opposition member of the Italian government, accusing Mussolini of orchestrating the murder. Mussolini accepted the claims.</Text>
+		</Row>
+		<!-- Late Trains -->
+		<Row Tag="TXT_KEY_EVENT_JFD_ITALY_LATE_TRAINS">
+			<Text>Late Trains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_ITALY_LATE_TRAINS_DESC">
+			<Text>
+				A recent report from our Minister of Transporation has revealed that none of our trains have ever been on time! This is embarrassing news - what chaos it might cause should this report be made public. We must do something about this matter immediately.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_ITALY_LATE_TRAINS_OUTCOME_1">
+			<Text>Have the Minister executed, and publish a report which claims the opposite.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_ITALY_LATE_TRAINS_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]All cities begin celebrating We Love the King Day for 5 turns[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_ITALY_LATE_TRAINS_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have published a report which claims that Italy's trains always run on time. And the stupid public have fallen for it! Rejoice!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_ITALY_LATE_TRAINS">
+			<Text>A recent report from the government of Benito Mussolini has claimed that Italy's trains are always on time. In other news, Italy's Minister of Transporation has been found to have committed suicde by trainspotting.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
