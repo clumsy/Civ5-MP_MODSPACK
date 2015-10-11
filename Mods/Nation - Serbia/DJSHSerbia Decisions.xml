@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/1/2015 9:56:14 AM -->
+<GameData>
+	<DecisionsAddin_Support>
+		<Row>
+			<FileName>DJSHSerbia Decisions.lua</FileName>
+		</Row>
+	</DecisionsAddin_Support>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_DJSH_MONASTERY_HOLY_ARCHANGELS</Type>
+			<DefaultBuilding>BUILDING_DJSH_MONASTERY_HOLY_ARCHANGELS</DefaultBuilding>
+			<Description>Holy Archangels</Description>
+		</Row>
+	</BuildingClasses>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_DJSH_MONASTERY_HOLY_ARCHANGELS</Type>
+			<BuildingClass>BUILDINGCLASS_DJSH_MONASTERY_HOLY_ARCHANGELS</BuildingClass>
+			<Cost>-1</Cost>
+			<PrereqTech>NONE</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<Description>Holy Archangels</Description>
+			<ArtDefineTag>ART_DEF_BUILDING_FORGE</ArtDefineTag>
+			<NukeImmune>true</NukeImmune>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<MinAreaSize>-1</MinAreaSize>>
+			<NeverCapture>true</NeverCapture>
+			<FreePolicies>1</FreePolicies>
+			<IconAtlas>CIV_DJSH_SERBIA_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Policies>
+		<Row>
+			<Type>POLICY_DJSH_MONASTERY_HOLY_ARCHANGELS</Type>
+		</Row>
+	</Policies>
+	<Policy_BuildingClassProductionModifiers>
+		<Row>
+			<PolicyType>POLICY_DJSH_MONASTERY_HOLY_ARCHANGELS</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_SHRINE</BuildingClassType>
+			<ProductionModifier>33</ProductionModifier>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DJSH_MONASTERY_HOLY_ARCHANGELS</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_TEMPLE</BuildingClassType>
+			<ProductionModifier>33</ProductionModifier>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DJSH_MONASTERY_HOLY_ARCHANGELS</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_MONUMENT</BuildingClassType>
+			<ProductionModifier>33</ProductionModifier>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DJSH_MONASTERY_HOLY_ARCHANGELS</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_AMPHITHEATER</BuildingClassType>
+			<ProductionModifier>33</ProductionModifier>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DJSH_MONASTERY_HOLY_ARCHANGELS</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_OPERA_HOUSE</BuildingClassType>
+			<ProductionModifier>33</ProductionModifier>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DJSH_MONASTERY_HOLY_ARCHANGELS</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_MUSEUM</BuildingClassType>
+			<ProductionModifier>33</ProductionModifier>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_DJSH_MONASTERY_HOLY_ARCHANGELS</PolicyType>
+			<BuildingClassType>BUILDINGCLASS_BROADCAST_TOWER</BuildingClassType>
+			<ProductionModifier>33</ProductionModifier>
+		</Row>
+	</Policy_BuildingClassProductionModifiers>
+</GameData>

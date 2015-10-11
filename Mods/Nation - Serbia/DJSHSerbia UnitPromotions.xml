@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/21/2013 6:51:09 PM -->
+<GameData>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_ENDURING</Type>
+			<Description>Enduring</Description>
+			<Help>Ignore terrain cost.</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>59</PortraitIndex>
+			<CannotBeChosen>true</CannotBeChosen>
+			<IgnoreTerrainCost>true</IgnoreTerrainCost>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>Enduring</PediaEntry>
+		</Row>
+		<Row>
+			<Type>PROMOTION_GUSAR_LIGHT_CAVALRY</Type>
+			<Description>Gusar Light Cavalry</Description>
+			<Help>This unit is a Gusar!</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>59</PortraitIndex>
+			<CannotBeChosen>true</CannotBeChosen>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>Gusar Light Cavalry</PediaEntry>
+		</Row>
+		<Row>
+			<Type>PROMOTION_GUSAR_CHARGE</Type>
+			<Description>Gusar Charge</Description>
+			<Help>+40% [ICON_STRENGTH] Combat Strength when attacking units.</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>59</PortraitIndex>
+			<CannotBeChosen>true</CannotBeChosen>
+			<AttackMod>40</AttackMod>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>Gusar Charge</PediaEntry>
+		</Row>
+		<Row>
+			<Type>PROMOTION_DJSH_SERBIA_KNIGHT</Type>
+			<Description>Gusar's Support</Description>
+			<Help>+20% [ICON_STRENGTH] Combat Strength if there is an adjacent Gusar.</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>59</PortraitIndex>
+			<CannotBeChosen>true</CannotBeChosen>
+			<CombatPercent>20</CombatPercent>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>Gusar's Support</PediaEntry>
+		</Row>
+	</UnitPromotions>
+	<UnitPromotions_CivilianUnitType>
+		<Row>
+			<PromotionType>PROMOTION_ENDURING</PromotionType>
+			<UnitType>UNIT_WORKER</UnitType>
+		</Row>
+	</UnitPromotions_CivilianUnitType>
+	<UnitPromotions_UnitCombats>
+		<Row>
+			<PromotionType>PROMOTION_GUSAR_LIGHT_CAVALRY</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_GUSAR_CHARGE</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_DJSH_SERBIA_KNIGHT</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+		</Row>
+	</UnitPromotions_UnitCombats>
+</GameData>

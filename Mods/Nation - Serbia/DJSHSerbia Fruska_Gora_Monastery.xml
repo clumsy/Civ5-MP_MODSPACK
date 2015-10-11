@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/6/2013 7:11:22 PM -->
+<GameData>
+	<Builds>
+		<Row>
+			<Type>BUILD_FRUSKA_GORA_MONASTERY</Type>
+			<PrereqTech>TECH_PHILOSOPHY</PrereqTech>
+			<Time>700</Time>
+			<ImprovementType>IMPROVEMENT_FRUSKA_GORA_MONASTERY</ImprovementType>
+			<Description>Construct a [LINK=IMPROVEMENT_FRUSKA_GORA_MONASTERY]Fruska Gora Monastery[\LINK]</Description>
+			<Help>May only be constructed on Hills and on Strategic Resources. May not be adjacent to another Fruska Gora Monastery.Provides a small, medium or large [ICON_CULTURE] Culture boost when constructed. Cannot be removed.</Help>
+			<Recommendation>It will increase the [ICON_CULTURE] Culture, [ICON_PEACE] Faith and [ICON_RESEARCH] Science output of this tile!</Recommendation>
+			<EntityEvent>ENTITY_EVENT_BUILD</EntityEvent>
+			<OrderPriority>1</OrderPriority>
+			<AltDown>1</AltDown>
+			<IconIndex>0</IconIndex>
+			<IconAtlas>ACTION_DJSH_SERBIA</IconAtlas>
+		</Row>
+	</Builds>
+	<ArtDefine_StrategicView>
+		<Replace>
+			<StrategicViewType>ART_DEF_IMPROVEMENT_FRUSKA_GORA_MONASTERY</StrategicViewType>
+			<TileType>Improvement</TileType>
+			<Asset>Fruska_Gora.dds</Asset>
+		</Replace>
+	</ArtDefine_StrategicView>
+	<Improvements>
+		<Row>
+			<Type>IMPROVEMENT_FRUSKA_GORA_MONASTERY</Type>
+			<Description>Fruska Gora Monastery</Description>
+			<Help>May only be constructed on Hills. May not be adjacent to another Fruska Gora Monastery.Provides a small, medium or large [ICON_CULTURE] Culture boost when constructed. Cannot be removed.</Help>
+			<Civilopedia>Thanks to its hospitable environment, there are also over a dozen Serbian Orthodox monasteries located on Fruska Gora. According to historical data, these monastic communities were historically recorded since the first decades of the 16th century. Legends, however, place their founding to the period between the 12th and 15th centuries. The monasteries are concentrated in an area 50 kilometers long, and 10 kilometers wide. In the course of centuries of their existence, these monasteries sustained the spiritual and political life of the Serbian nation. In the eighteenth century the monasteries became the home of monks from Raca monastery in the Bajina Bašta municipality by the Drina River. These monks were writers famous for their illuminated manuscripts.[NEWLINE][NEWLINE]The monasteries were founded in a period of great wars and migrations, and they became centers where the cult of the Brankovic Family (the last of the Serbian despotic families) was carefully nurtured, using the Nemanjic family dynasty as a model. Of equal importance in understanding the spiritual life of the Fruska Gora monasteries are the cults of individual saints, whose relics attracted both pilgrims and patrons to the monasteries. The donations of pilgrims and the highly developed sense of patronage among the Serbs served to heighten religious feelings, stimulating the further construction, decoration and replenishment of the monasteries. Monasteries of Fruska Gora are a unique part of the religious, educational, and cultural being of the Serbian nation, and cultural heritage of Yugoslavia.</Civilopedia>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_FRUSKA_GORA_MONASTERY</ArtDefineTag>
+			<SpecificCivRequired>true</SpecificCivRequired>
+			<CivilizationType>CIVILIZATION_DJSH_SERBIA</CivilizationType>
+			<Permanent>true</Permanent>
+			<HillsMakesValid>true</HillsMakesValid>
+			<NoTwoAdjacent>true</NoTwoAdjacent>
+			<PillageGold>35</PillageGold>
+			<PortraitIndex>2</PortraitIndex>
+			<IconAtlas>CIV_DJSH_SERBIA_ATLAS</IconAtlas>
+		</Row>
+	</Improvements>
+	<Unit_Builds>
+		<Row>
+			<UnitType>UNIT_WORKER</UnitType>
+			<BuildType>BUILD_FRUSKA_GORA_MONASTERY</BuildType>
+		</Row>
+	</Unit_Builds>
+	<Improvement_ValidTerrains>
+		<Row>
+			<ImprovementType>IMPROVEMENT_FRUSKA_GORA_MONASTERY</ImprovementType>
+			<TerrainType>TERRAIN_HILL</TerrainType>
+		</Row>
+	</Improvement_ValidTerrains>
+	<Improvement_Yields>
+		<Row>
+			<ImprovementType>IMPROVEMENT_FRUSKA_GORA_MONASTERY</ImprovementType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_FRUSKA_GORA_MONASTERY</ImprovementType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_FRUSKA_GORA_MONASTERY</ImprovementType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Improvement_Yields>
+	<Improvement_ResourceTypes>
+		<Row>
+			<ImprovementType>IMPROVEMENT_FRUSKA_GORA_MONASTERY</ImprovementType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_FRUSKA_GORA_MONASTERY</ImprovementType>
+			<ResourceType>RESOURCE_COAL</ResourceType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_FRUSKA_GORA_MONASTERY</ImprovementType>
+			<ResourceType>RESOURCE_ALUMINUM</ResourceType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_FRUSKA_GORA_MONASTERY</ImprovementType>
+			<ResourceType>RESOURCE_URANIUM</ResourceType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_FRUSKA_GORA_MONASTERY</ImprovementType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_FRUSKA_GORA_MONASTERY</ImprovementType>
+			<ResourceType>RESOURCE_OIL</ResourceType>
+		</Row>
+	</Improvement_ResourceTypes>
+</GameData>

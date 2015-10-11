@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/12/2015 10:27:19 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- JFD's EXPLORATION CONTINUED EXPANDED -->
+		<Row Tag="TXT_KEY_COLONY_NAME_DJSH_SERBIA_01">
+			<Text>Ohrid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_DJSH_SERBIA_02">
+			<Text>Skopje</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_DJSH_SERBIA_03">
+			<Text>Debar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_DJSH_SERBIA_04">
+			<Text>Larissa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_DJSH_SERBIA_05">
+			<Text>Stip</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_DJSH_SERBIA_06">
+			<Text>Strumica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_DJSH_SERBIA_07">
+			<Text>Edessa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_DJSH_SERBIA_08">
+			<Text>Kastoria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_DJSH_SERBIA_09">
+			<Text>Trikala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_DJSH_SERBIA_10">
+			<Text>Ioannina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_DJSH_SERBIA_11">
+			<Text>Petrich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_DJSH_SERBIA_12">
+			<Text>Melnik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_DJSH_SERBIA_13">
+			<Text>Belovo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_DJSH_SERBIA_14">
+			<Text>Kotor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_DJSH_SERBIA_15">
+			<Text>Bar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_DJSH_SERBIA_16">
+			<Text>Skadar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_DJSH_SERBIA_17">
+			<Text>Trebinje</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_DJSH_SERBIA_18">
+			<Text>Prilep</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

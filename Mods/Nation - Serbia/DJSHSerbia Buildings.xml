@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/18/2013 11:05:06 PM -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_ENDURING</Type>
+			<DefaultBuilding>BUILDING_ENDURING</DefaultBuilding>
+			<Description>Enduring</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_KEFALIJA</Type>
+			<DefaultBuilding>BUILDING_KEFALIJA</DefaultBuilding>
+			<Description>Kefalija</Description>
+		</Row>
+	</BuildingClasses>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_ENDURING</Type>
+			<BuildingClass>BUILDINGCLASS_ENDURING</BuildingClass>
+			<Cost>-1</Cost>
+			<PrereqTech>NULL</PrereqTech>
+			<Help>Bestows the "Enduring" promotion upon Workers.</Help>
+			<Description>Enduring</Description>
+			<ArtDefineTag>ART_DEF_BUILDING_FORGE</ArtDefineTag>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<MinAreaSize>10</MinAreaSize>
+			<FreePromotion>PROMOTION_ENDURING</FreePromotion>
+			<HurryCostModifier>25</HurryCostModifier>
+			<DisplayPosition>16</DisplayPosition>
+			<IconAtlas>CIV_DJSH_SERBIA_ATLAS</IconAtlas>
+			<NeverCapture>true</NeverCapture>
+			<PortraitIndex>0</PortraitIndex>
+		</Row>
+		<Row>
+			<Type>BUILDING_KEFALIJA</Type>
+			<BuildingClass>BUILDINGCLASS_KEFALIJA</BuildingClass>
+			<Cost>-1</Cost>
+			<PrereqTech>NULL</PrereqTech>
+			<Help>Free Kefalija.</Help>
+			<Description>Kefalija</Description>
+			<ArtDefineTag>ART_DEF_BUILDING_FORGE</ArtDefineTag>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<MinAreaSize>10</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<DisplayPosition>16</DisplayPosition>
+			<IconAtlas>CIV_DJSH_SERBIA_ATLAS</IconAtlas>
+			<NeverCapture>true</NeverCapture>
+			<PortraitIndex>0</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_FreeUnits>
+		<Row>
+			<BuildingType>BUILDING_KEFALIJA</BuildingType>
+			<UnitType>UNIT_KEFALIJA</UnitType>
+			<NumUnits>1</NumUnits>
+		</Row>
+	</Building_FreeUnits>
+</GameData>

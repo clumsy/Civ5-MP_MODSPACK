@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/1/2015 11:16:46 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- Aiding Jelena -->
+		<Row Tag="TXT_KEY_EVENT_DJSH_SERBIA_JELENA">
+			<Text>Aiding Jelena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DJSH_SERBIA_JELENA_DESC">
+			<Text>
+				Your sister, Jelena, wants to secure parts of Hum for herself and her son after the death of her husband Mladen III. Should we send aid?[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DJSH_SERBIA_JELENA_OUTCOME_1">
+			<Text>Yes, we cannot abandon Jelena.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DJSH_SERBIA_JELENA_OUTCOME_2">
+			<Text>No, but send a small detachment to secure her and her family.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DJSH_SERBIA_JELENA_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]3 Gusars appear near the [ICON_CAPITAL] Capital.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DJSH_SERBIA_JELENA_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+1 [ICON_CITIZEN] Citizen in the [ICON_CAPITAL] Capital.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DJSH_SERBIA_JELENA_RESULT_1_NOTIFICATION">
+			<Text>Jelena was aided by the Serbian army.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DJSH_SERBIA_JELENA_RESULT_2_NOTIFICATION">
+			<Text>Jelena was brought safely to the Serbian Empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_DJSH_SERBIA_JELENA">
+			<Text>Jelena, sister of Dusan of Serbia, has requested his aid.</Text>
+		</Row>
+		<!-- Coronation as Emperor -->
+		<Row Tag="TXT_KEY_EVENT_DJSH_SERBIA_EMPEROR_CORONATION">
+			<Text>Coronation as Emperor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DJSH_SERBIA_EMPEROR_CORONATION_DESC">
+			<Text>
+				The most important religious leaders of the Empire have agreed that you should be crowned as the Emperor and autocrat of Serbs and Romans![NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DJSH_SERBIA_EMPEROR_CORONATION_OUTCOME_1">
+			<Text>Excellent. Our might shall overcome all.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DJSH_SERBIA_EMPEROR_CORONATION_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]A 10-turn We Love The King Day starts in all Cities.[ENDCOLOR]</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_DJSH_SERBIA_EMPEROR_CORONATION_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>Dusan of Serbia was crowned emperor and autocrat of Serbs and Romans.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_DJSH_SERBIA_EMPEROR_CORONATION">
+			<Text>Dusan of Serbia was crowned emperor and autocrat of Serbs and Romans.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/9/2015 8:18:43 PM -->
+<GameData>
+	<Unit_UniqueNames>
+		<Row>
+			<UnitType>UNIT_GREAT_GENERAL</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_DJSH_DUSAN</UniqueName>
+			<CivilizationType>CIVILIZATION_DJSH_SERBIA</CivilizationType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_GREAT_GENERAL</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_DJSH_PRELJUB</UniqueName>
+			<CivilizationType>CIVILIZATION_DJSH_SERBIA</CivilizationType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_GREAT_GENERAL</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_DJSH_STEFAN_DECANSKI</UniqueName>
+			<CivilizationType>CIVILIZATION_DJSH_SERBIA</CivilizationType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_GREAT_GENERAL</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_DJSH_KARADORDE</UniqueName>
+			<CivilizationType>CIVILIZATION_DJSH_SERBIA</CivilizationType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_GREAT_GENERAL</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_DJSH_JANKO_KATIC</UniqueName>
+			<CivilizationType>CIVILIZATION_DJSH_SERBIA</CivilizationType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_GREAT_GENERAL</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_DJSH_VELJKO_PETROVIC</UniqueName>
+			<CivilizationType>CIVILIZATION_DJSH_SERBIA</CivilizationType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_GREAT_GENERAL</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_DJSH_VOJIHNA</UniqueName>
+			<CivilizationType>CIVILIZATION_DJSH_SERBIA</CivilizationType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_GREAT_GENERAL</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_DJSH_STEFAN_LAZAREVIC</UniqueName>
+			<CivilizationType>CIVILIZATION_DJSH_SERBIA</CivilizationType>
+		</Row>
+	</Unit_UniqueNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DJSH_DUSAN">
+			<Text>Dusan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DJSH_PRELJUB">
+			<Text>Preljub</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DJSH_STEFAN_DECANSKI">
+			<Text>Stefan Decanski</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DJSH_KARADORDE">
+			<Text>Karadorde</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DJSH_JANKO_KATIC">
+			<Text>Janko Katic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DJSH_VELJKO_PETROVIC">
+			<Text>Veljko Petrovic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DJSH_VOJIHNA">
+			<Text>Vojinha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DJSH_STEFAN_LAZAREVIC">
+			<Text>Stefan Lazarevic</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

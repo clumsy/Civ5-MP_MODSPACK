@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/18/2013 10:24:05 PM -->
+<GameData>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_DJSH_SERBIA_ICON</Type>
+			<Red>0.9255</Red>
+			<Green>0.3804</Green>
+			<Blue>0.3804</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_DJSH_SERBIA_BACKGROUND</Type>
+			<Red>1</Red>
+			<Green>0.9215</Green>
+			<Blue>0.498</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+	</Colors>
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_DJSH_SERBIA</Type>
+			<PrimaryColor>COLOR_PLAYER_DJSH_SERBIA_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_DJSH_SERBIA_BACKGROUND</SecondaryColor>
+			<TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+</GameData>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/1/2015 9:40:45 AM -->
+<GameData>
+	<Language_en_US>
+		<!--Enact Dusan's Code-->
+		<Row Tag="TXT_KEY_DECISIONS_DJSH_SERBIA_ENACT_DUSANS_CODE">
+			<Text>Enact Dusan's Code</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DJSH_SERBIA_ENACT_DUSANS_CODE_DESC">
+			<Text>
+				We should expand on our code of laws. It should regulate as many aspects of life as possible; the purpose of this is to help our people to save themselves for the afterlife! Our experts on law should not only translate important foreign code of laws, but we should also make our own![NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Serbia (Dusan)
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Medieval Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per era
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]Note: [ICON_GOLD] Gold Cost is based on number of adopted Policies[ENDCOLOR]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Gain {2_Faith} [ICON_PEACE] Faith
+				[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: [ICON_PEACE] Faith gained is based on number of adopted Policies[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DJSH_SERBIA_ENACT_DUSANS_CODE_ENACTED_DESC">
+			<Text>
+				We should expand on our code of laws. It should regulate as many aspects of life as possible; the purpose of this is to help our people to save themselves for the afterlife! Our experts on law should not only translate important foreign code of laws, but we should also make our own![NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Gain {2_Faith} [ICON_PEACE] Faith
+				[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: [ICON_PEACE] Faith gained is based on number of adopted Policies[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_DJSH_SERBIA_ENACT_DUSANS_CODE">
+			<Text>Dusan of Serbia expanded Dusan's Code.</Text>
+		</Row>
+
+		<!--Monastery of the Holy Archangels-->
+		<Row Tag="TXT_KEY_DECISIONS_DJSH_MONASTERY_HOLY_ARCHANGELS">
+			<Text>Monastery of the Holy Archangels</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DJSH_MONASTERY_HOLY_ARCHANGELS_DESC">
+			<Text>
+				A grand monastery should be constructed that will serve as the center of Serbian culture and religion. It should have a name that impresses nobles and peasants alike: the Monastery of Holy Archangels.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Serbia (Dusan)
+				[NEWLINE][ICON_BULLET]Player must have founded a Religion
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Medieval Era
+				[NEWLINE][ICON_BULLET]May only be enacted once
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]1 free Social Policy
+				[NEWLINE][ICON_BULLET]Construct [ICON_PEACE] Religious and [ICON_CULTURE] Cultural Buildings 33% faster
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DJSH_MONASTERY_HOLY_ARCHANGELS_ENACTED_DESC">
+			<Text>
+				A grand monastery should be constructed that will serve as the center of Serbian culture and religion. It should have a name that impresses nobles and peasants alike: the Monastery of Holy Archangels.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]1 free Social Policy
+				[NEWLINE][ICON_BULLET]Construct [ICON_PEACE] Religious and [ICON_CULTURE] Cultural Buildings 33% faster
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_DJSH_MONASTERY_HOLY_ARCHANGELS">
+			<Text>Dusan of Serbia constructed the Monastery of the Holy Archangels.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
+			

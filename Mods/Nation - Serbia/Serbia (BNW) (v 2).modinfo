@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="d559919f-4c49-4444-b3f5-ae4ac0055029" version="2">
+  <Properties>
+    <Name>Serbia (BNW)</Name>
+    <Teaser>This mod adds Serbia to the game as a playable civilization.</Teaser>
+    <Description>This mod adds Serbia to the game as a playable civilization. Requires Brave New World.[NEWLINE][NEWLINE]
+
+Leader: Stephen Uros IV Dusan[NEWLINE][NEWLINE]
+
+UA: Artisans of Studenica - Workers ignore terrain cost. Free Kefalija when founding a City, which can improve unimproved Mine Resources (+2 [ICON_PRODUCTION] Production and +1 [ICON_GOLD] Gold). Extra +1 [ICON_GOLD] Gold and [ICON_PRODUCTION] Production from completed Policy Trees.[NEWLINE][NEWLINE]
+
+UI: Fruska Gora Monastery - Buildable on Hills. May only be constructed on Hills and on Strategic Resources. May not be adjacent to another Fruska Gora Monastery.Provides a small, medium or large [ICON_CULTURE] Culture boost when constructed. Cannot be removed.[NEWLINE][NEWLINE]
+
+UU: Gusar. Replaces the Pikeman. The Gusar is a mounted unit with 4 [ICON_MOVES] Movement Points and Promotions Mounted Units would have. It is just as effective against other Mounted Units as the Pikeman, but does not require [ICON_RES_HORSE] Horses. These units gain a large Attack bonus versus units when next to a damaged friendly unit. Knights adjacent to Gusars gain +20% [ICON_STRENGTH] Combat Strength.</Description>
+    <Authors>User</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Unique Cultural Influence" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="Piety and Prestige" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="fe245559-0525-41bb-9e1c-b281e018b5fc" minversion="0" maxversion="999" title="Civilization Appropriate Great General and Admiral Names" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact's Events and Decisions" />
+    <Mod id="43868e8d-de88-48a1-a8d9-ce144e07f5e0" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="6BFC4E3F1DCAAB92E7865A373312E825" import="1">Art/AlphaGusar32.dds</File>
+    <File md5="6D09B9E16A47E9304556917F27D51B91" import="1">Art/AlphaSerbia128.dds</File>
+    <File md5="8025F0D29B3BC62EEFA07722D47D252B" import="1">Art/AlphaSerbia16.dds</File>
+    <File md5="CE46D76D56500DD7F1E12B8DDBE3F5D9" import="1">Art/AlphaSerbia24.dds</File>
+    <File md5="C031D8929F8169CE0E1210FBFC66FFBD" import="1">Art/AlphaSerbia256.dds</File>
+    <File md5="AE112F6CB8DB94AF45A55140AA9FE63C" import="1">Art/AlphaSerbia32.dds</File>
+    <File md5="AE62FA67571E7855D13419648F446708" import="1">Art/AlphaSerbia45.dds</File>
+    <File md5="F199978C6D443AD896C9EA3AB26979B7" import="1">Art/AlphaSerbia48.dds</File>
+    <File md5="40A6C19EA2941D4512683626D2514DE1" import="1">Art/AlphaSerbia64.dds</File>
+    <File md5="34FF5C6D8530A2F2744EEB96DCA33E7C" import="1">Art/AlphaSerbia80.dds</File>
+    <File md5="3CE72277B19364009601D37D314C29D1" import="1">Art/DJSHSerbia Unit Skin/Knight_Viking.dds</File>
+    <File md5="5D5CCE821FE1333CA5D6CF9E1FC6282E" import="1">Art/DJSHSerbia Unit Skin/Knight_Viking.fxsxml</File>
+    <File md5="15FA9E518D6FA4222AB4AB4EBB7B1A3B" import="1">Art/DJSHSerbia Unit Skin/Knight_Viking.gr2</File>
+    <File md5="74B6F26D3019C8604881D6B0FDD5FFB9" import="1">Art/DJSHSerbia Unit Skin/Knight_Viking_gloss.dds</File>
+    <File md5="9C3DAC2C82462CB2B3D2954567C43E89" import="1">Art/DJSHSerbia Unit Skin/Knight_Viking_Horse.dds</File>
+    <File md5="0E7A882C3A69636C0B3A5454C9FEBB09" import="1">Art/DJSHSerbia Unit Skin/Knight_Viking_Horse_gloss.dds</File>
+    <File md5="3F805B2AB893F36BBFABA59C381A47E9" import="1">Art/Fruska_Gora.dds</File>
+    <File md5="26A79BF2DD6A3BA14EDA4869749D2E64" import="1">Art/Music/DJSHSerbiaWar.mp3</File>
+    <File md5="B170DB16B42AA65334F2E88A82457D2D" import="1">Art/Music/DJSHSerbiaPeace.mp3</File>
+    <File md5="7238A29C10DAA973B8C63D933BBBB6DD" import="1">Art/Serbia_Icons128.dds</File>
+    <File md5="26001489B2714B38EF2137BB2420231B" import="1">Art/Serbia_Icons256.dds</File>
+    <File md5="B40F1757683197516E10084AEF8B9436" import="1">Art/Serbia_Icons32.dds</File>
+    <File md5="7F117D246EF4B3B0273B5D6B694159C6" import="1">Art/Serbia_Icons45.dds</File>
+    <File md5="4E654E2994D55294C6396062125FCFB4" import="1">Art/Serbia_Icons64.dds</File>
+    <File md5="C2328B276D1DA6DD676343A0228022CF" import="1">Art/Serbia_Icons80.dds</File>
+    <File md5="9F173093BAC997682DF18E73ABB88B92" import="1">Art/Serbia_Scene.xml</File>
+    <File md5="9ECB810A9692F24DBE0E8BB6F1575920" import="1">Art/MapSerbia512.dds</File>
+    <File md5="7A683A2F9477884C73083E9E50932BDE" import="1">Art/Serbia_diplo.dds</File>
+    <File md5="64304511D5D9D820AE01F556B7527355" import="1">Art/Serbia_DOM.dds</File>
+    <File md5="12E4EE30913BA3B0E33B3282A223DC77" import="1">Art/sistineTI_B.gr2</File>
+    <File md5="1FA20CCA1D22D98553FB081914135E8A" import="1">Art/sistineTI_HB.gr2</File>
+    <File md5="FE2823796109C79060EFF19D7971E80B" import="1">Art/UISerbia128.dds</File>
+    <File md5="78144997663F35B7890DFFBC7AD01751" import="1">Art/UISerbia256.dds</File>
+    <File md5="C8D5BF0D8A3E59E6B86AB9DD6AF69F6F" import="1">Art/UISerbia32.dds</File>
+    <File md5="0FED747282ECC7E5CF9FF03B5567A256" import="1">Art/UISerbia45.dds</File>
+    <File md5="C83BE7B90EC7685EF7F0BAE7EF3542C5" import="1">Art/UISerbia64.dds</File>
+    <File md5="405FC31C3558BAE06BBED86B10BB0242" import="1">Art/UISerbia80.dds</File>
+    <File md5="BE9BDE63875788A62455721BF3996A54" import="1">Art/sistineTI_B.fxsxml</File>
+    <File md5="9986CACE6AD8C97DFDD06C57056AE7F7" import="1">Art/sistineTI_HB.fxsxml</File>
+    <File md5="976C29F37CA05B5409B0EB17D73F19A7" import="1">Art/Wonder_grnd_diff.dds</File>
+    <File md5="3E72CE4C071592D55FB4C08E3D4FCE87" import="1">Art/wonder_grnd_h.dds</File>
+    <File md5="C4089962F18D8E73929965C380301DEB" import="1">Art/WTI_PL.gr2</File>
+    <File md5="4DCBDD65E117E4242917B61765FC406D" import="1">Art/WTI_PL.fxsxml</File>
+    <File md5="1C90051E26BC4617340C433BB648E1D2" import="0">Lua/DJSH Serbia functions.lua</File>
+    <File md5="7493C90904EC93DD17D344E8BE8EC206" import="0">Mod Support for Serbia/Barathor's YnAEMP.sql</File>
+    <File md5="5F75F7B2D5793686FFC06BAE42859D51" import="0">Mod Support for Serbia/Bingles' Civ IV Traits.sql</File>
+    <File md5="4DA11DD0E26043127F527A29653B433A" import="0">Mod Support for Serbia/Civilization Appropriate Great General and Great Admiral Names.xml</File>
+    <File md5="54978528CBA89E3ABD176D2074890A21" import="0">Mod Support for Serbia/Cultural Diversity.sql</File>
+    <File md5="1EA261DE77A3CF22B92ABF0AE6218AC8" import="0">Mod Support for Serbia/Decisions/DJSHSerbia Decisions GameText.xml</File>
+    <File md5="5171D72A3CDB90778374E6B93CF6FE7A" import="1">Mod Support for Serbia/Decisions/DJSHSerbia Decisions.lua</File>
+    <File md5="090B4D38586A5DA2FFF0285885D7F4E2" import="0">Mod Support for Serbia/Decisions/DJSHSerbia Decisions.xml</File>
+    <File md5="9AC8ECB5998C32EB241BF8C615DF19CA" import="0">Mod Support for Serbia/Ethnic Units.sql</File>
+    <File md5="9E8CE16ADF56D14FA51791BE85CFD35B" import="0">Mod Support for Serbia/Events/DJSHSerbia Events GameText.xml</File>
+    <File md5="126DA6D57511DDBDF1EF07BB96E5BA7A" import="1">Mod Support for Serbia/Events/DJSHSerbia Events.lua</File>
+    <File md5="A49C104677113F40FFFAE337C161A23A" import="0">Mod Support for Serbia/Events/DJSHSerbia Events.xml</File>
+    <File md5="BB41CC625450DCAD0727FC280711D214" import="0">Mod Support for Serbia/hazel16's Map Labels.sql</File>
+    <File md5="C4703EF4E4F9EAD828EE1B8B6723D23B" import="0">Mod Support for Serbia/JFD's Exploration Continued Expanded/Exploration Continued Expanded.sql</File>
+    <File md5="0CF5CB2B0D3FFE61C9BBD8F3E16B08B1" import="0">Mod Support for Serbia/JFD's Exploration Continued Expanded/Exploration Continued Expanded.xml</File>
+    <File md5="CE5ECB1AB274A40ED679310E96E8FEEF" import="0">Mod Support for Serbia/JFD's Piety and Prestige.sql</File>
+    <File md5="CBDD77C7C1D654E530324B9349310CE6" import="0">Mod Support for Serbia/Ryoga's Unique Cultural Influence.xml</File>
+    <File md5="25364792C71A56A0FB0A0AB2E6E0F10A" import="0">SQL/Fruska_Gora_Monastery.sql</File>
+    <File md5="80E74ED6001C4AEBF617D0013D5528BB" import="0">XML/DJSHSerbia Kefalija Graphics.xml</File>
+    <File md5="C260B24CC21493F32A33FC4A69A29E08" import="0">XML/DJSHSerbia Policies.xml</File>
+    <File md5="C0055A5F37A52F21F782BA20C15E5D5F" import="0">XML/DJSHSerbia ImprovedMine.xml</File>
+    <File md5="90CA20445F5885B88E351C704020307E" import="0">XML/DJSHSerbia Gusar Graphics.xml</File>
+    <File md5="C9C9C9F4BEBD98C13A7E05BC7B25B167" import="0">XML/DJSHSerbia Music.xml</File>
+    <File md5="DDF0F54EDF4897C6D93A19BC7ECEFA8A" import="0">XML/DJSHSerbia Diplomacy.xml</File>
+    <File md5="3A1D4D439FA0A7A6EA4A74F43477B18C" import="0">XML/DJSHSerbia Buildings.xml</File>
+    <File md5="ECB49AE05A0D264CAC8FB517BFE702AB" import="0">XML/DJSHSerbia IconTextureAtlases.xml</File>
+    <File md5="F5126F2D835F7C93B3123C0037D1A97B" import="0">XML/DJSHSerbia Leader.xml</File>
+    <File md5="E3D2FD9D96490B6CB40291A8EE234F1C" import="0">XML/DJSHSerbia UnitPromotions.xml</File>
+    <File md5="527BE724F2DD3A111F591CF6C3547F07" import="0">XML/DJSHSerbia Units.xml</File>
+    <File md5="5FC83155E6991074589487D05D72D61E" import="0">XML/Civilizations/DJSHSerbia Colors.xml</File>
+    <File md5="89159B9892B105BB914D1BF64EFDDAA3" import="0">XML/Civilizations/DJSHSerbia Traits.xml</File>
+    <File md5="1E4632A7D61ECB375EB92BCE57823B4F" import="0">XML/Civilizations/DJSHSerbia Civilization.xml</File>
+    <File md5="7BD6EF025436CDB7E918EA8591BE3485" import="0">XML/DJSHSerbia Fruska_Gora_Monastery.xml</File>
+    <File md5="94A04320D85F27F8D7139B91B9278BFE" import="0">XML/DJSHSerbia GameText.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/Serbia_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Fruska_Gora_Monastery.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/DJSHSerbia Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/DJSHSerbia Colors.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/DJSHSerbia Traits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/DJSHSerbia Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/DJSHSerbia IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/DJSHSerbia Leader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/DJSHSerbia UnitPromotions.xml</UpdateDatabase>
+      <UpdateDatabase>XML/DJSHSerbia Units.xml</UpdateDatabase>
+      <UpdateDatabase>XML/DJSHSerbia Fruska_Gora_Monastery.xml</UpdateDatabase>
+      <UpdateDatabase>XML/DJSHSerbia GameText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/DJSHSerbia Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>XML/DJSHSerbia ImprovedMine.xml</UpdateDatabase>
+      <UpdateDatabase>XML/DJSHSerbia Policies.xml</UpdateDatabase>
+      <UpdateDatabase>XML/DJSHSerbia Kefalija Graphics.xml</UpdateDatabase>
+      <UpdateDatabase>Mod Support for Serbia/Barathor's YnAEMP.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Support for Serbia/Bingles' Civ IV Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Support for Serbia/Ethnic Units.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Support for Serbia/Ryoga's Unique Cultural Influence.xml</UpdateDatabase>
+      <UpdateDatabase>Mod Support for Serbia/hazel16's Map Labels.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Support for Serbia/JFD's Piety and Prestige.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Support for Serbia/Cultural Diversity.sql</UpdateDatabase>
+      <UpdateDatabase>XML/DJSHSerbia Gusar Graphics.xml</UpdateDatabase>
+      <UpdateDatabase>XML/DJSHSerbia Music.xml</UpdateDatabase>
+      <UpdateDatabase>Mod Support for Serbia/Decisions/DJSHSerbia Decisions GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Mod Support for Serbia/Decisions/DJSHSerbia Decisions.xml</UpdateDatabase>
+      <UpdateDatabase>Mod Support for Serbia/Events/DJSHSerbia Events GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Mod Support for Serbia/Events/DJSHSerbia Events.xml</UpdateDatabase>
+      <UpdateDatabase>Mod Support for Serbia/JFD's Exploration Continued Expanded/Exploration Continued Expanded.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Support for Serbia/JFD's Exploration Continued Expanded/Exploration Continued Expanded.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/DJSH Serbia functions.lua">
+      <Name>GusarSerbia</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/2/2015 10:18:50 AM -->
+<GameData>
+	<EventsAddin_Support>
+		<Row>
+			<FileName>DJSHNepal Events.lua</FileName>
+		</Row>
+	</EventsAddin_Support>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_DJSH_NEPAL_EUROVISITORS_SCIENCE</Type>
+			<DefaultBuilding>BUILDING_DJSH_NEPAL_EUROVISITORS_SCIENCE</DefaultBuilding>
+			<Description>Euro Visitors Science</Description>
+			<MaxPlayerInstances>1</MaxPlayerInstances>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_DJSH_NEPAL_EUROVISITORS_FAITH</Type>
+			<DefaultBuilding>BUILDING_DJSH_NEPAL_EUROVISITORS_FAITH</DefaultBuilding>
+			<Description>Euro Visitors Faith</Description>
+			<MaxPlayerInstances>1</MaxPlayerInstances>
+		</Row>
+	</BuildingClasses>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_DJSH_NEPAL_EUROVISITORS_SCIENCE</Type>
+			<BuildingClass>BUILDINGCLASS_DJSH_NEPAL_EUROVISITORS_SCIENCE</BuildingClass>
+			<Cost>-1</Cost>
+			<PrereqTech>NONE</PrereqTech>
+			<Description>Euro Visitors Science</Description>
+			<ArtDefineTag>ART_DEF_BUILDING_FORGE</ArtDefineTag>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NukeImmune>true</NukeImmune>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<MinAreaSize>-1</MinAreaSize>>
+			<NeverCapture>true</NeverCapture>
+			<IconAtlas>CIV_DJSH_NEPAL_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+		</Row>
+		<Row>
+			<Type>BUILDING_DJSH_NEPAL_EUROVISITORS_FAITH</Type>
+			<BuildingClass>BUILDINGCLASS_DJSH_NEPAL_EUROVISITORS_FAITH</BuildingClass>
+			<Cost>-1</Cost>
+			<PrereqTech>NONE</PrereqTech>
+			<Description>Euro Visitors Faith</Description>
+			<ArtDefineTag>ART_DEF_BUILDING_FORGE</ArtDefineTag>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NukeImmune>true</NukeImmune>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<MinAreaSize>-1</MinAreaSize>>
+			<NeverCapture>true</NeverCapture>
+			<IconAtlas>CIV_DJSH_NEPAL_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_DJSH_NEPAL_EUROVISITORS_FAITH</BuildingType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>4</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<Building_YieldModifiers>
+		<Row>
+			<BuildingType>BUILDING_DJSH_NEPAL_EUROVISITORS_SCIENCE</BuildingType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>10</Yield>
+		</Row>
+	</Building_YieldModifiers>
+</GameData>
