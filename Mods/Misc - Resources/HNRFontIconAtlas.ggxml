@@ -10,7 +10,7 @@
             </layers>
         </style>
     </styles>
-    <glyphs fudgeadv="0" ascadj="-6" spacing="0" count="79" height="0" ascent="0" descent="0">
+    <glyphs fudgeadv="0" ascadj="-6" spacing="0" count="80" height="0" ascent="0" descent="0">
         <glyph ch="1" u="0" v="0" width="22" height="22" a="0" b="22" c="0" originx="0" originy="22" />
         <glyph ch="2" u="22" v="0" width="22" height="22" a="0" b="22" c="0" originx="0" originy="22" />
         <glyph ch="3" u="44" v="0" width="22" height="22" a="0" b="22" c="0" originx="0" originy="22" />
@@ -90,6 +90,7 @@
         <glyph ch="77" u="220" v="132" width="22" height="22" a="0" b="22" c="0" originx="0" originy="22" />
         <glyph ch="78" u="0" v="154" width="22" height="22" a="0" b="22" c="0" originx="0" originy="22" />
         <glyph ch="79" u="22" v="154" width="22" height="22" a="0" b="22" c="0" originx="0" originy="22" />
+        <glyph ch="80" u="198" v="44" width="22" height="22" a="0" b="22" c="0" originx="0" originy="22" />
     </glyphs>
     <imports count="79">
         <import ch="1" src="D:\artdev\Civilization5\UI\Icons\Font Icons\PNG\000 bullet point.png" originx="0" originy="22" />
