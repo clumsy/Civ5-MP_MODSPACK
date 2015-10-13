@@ -1591,7 +1591,11 @@ ContextPtr:LoadNewContext("YieldFromMusic")
 ContextPtr:LoadNewContext("YieldOthersGW")
 ContextPtr:LoadNewContext("FakeJungleBias")
 
--- Nation - Resources --
+-- Nation - Peru --
+ContextPtr:LoadNewContext("GoldFromWondersTrait")
+ContextPtr:LoadNewContext("PeaceBuildingTrait")
+
+-- Misc - Resources --
 ContextPtr:LoadNewContext("HNR_Main")
 --ContextPtr:LoadNewContext("OnHNRLoad")
 

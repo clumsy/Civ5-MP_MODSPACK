@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="38806a8c-100f-4ce0-865c-bdaf12ffc28a" version="1">
+  <Properties>
+    <Name>Peru Civilization</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Peruvian Civilization to Brave New World, with Ramón Castilla as its Leader!</Teaser>
+    <Description>Adds the Peruvian Civilization to Brave New World, with Ramón Castilla as its Leader!
+
+
+
+Special Thanks to Tomatekh for his help on the UA, JanBoruta for his amazing Hussar Icon, bernie14 for the Hussar model and Viregel for the Civilopedia text.</Description>
+    <Authors>Leugi</Authors>
+    <SpecialThanks>Tomatekh, Viregel and JanBoruta</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="23485913-0d8a-4064-b43e-75eca7af120d" minversion="0" maxversion="999" title="Mestizo Soundtrack" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="0C38EA5C7CC034D5D47689654895AB45" import="1">Art/Husares/flag_husares.dds</File>
+    <File md5="633132D49DF8FBB4BA4C07D5CB0EF479" import="1">Art/Husares/husares.fxsxml</File>
+    <File md5="700BB8A15270069E55929BFFA0C9E440" import="1">Art/Husares/husares_de_junin.gr2</File>
+    <File md5="BFDD5A425A80983B60F6DACD54B6AB1D" import="1">Art/Husares/husares_diff.dds</File>
+    <File md5="621FF3654EF32271C34CB1F9FB011A94" import="1">Art/Husares/husares_sref.dds</File>
+    <File md5="5A085BABFD9EB8C2184C93652B12FD5E" import="1">Art/Husares/sv_husares.dds</File>
+    <File md5="B28FE93A5D5D756A470E6E3EEC12E77D" import="1">Art/Icons/PeruIcons128.dds</File>
+    <File md5="52C6D65E96FDAB5A060A60EC4FAB3913" import="1">Art/Icons/PeruIcons16.dds</File>
+    <File md5="1AE7D5A1C33DA0208E0305BFE728AAA7" import="1">Art/Icons/PeruIcons24.dds</File>
+    <File md5="F3998468A8E6C8D7F413513475DC2119" import="1">Art/Icons/PeruIcons256.dds</File>
+    <File md5="A30334163194690952B6BBDE420C540D" import="1">Art/Icons/PeruIcons32.dds</File>
+    <File md5="2CCE316B02C2EBCAB40C14C30D8F2B27" import="1">Art/Icons/PeruIcons45.dds</File>
+    <File md5="3BD28E1FE6EBC421EC8CD940EA6E33B3" import="1">Art/Icons/PeruIcons48.dds</File>
+    <File md5="B2311DCEED49717E3B1B1955D1EDF44C" import="1">Art/Icons/PeruIcons64.dds</File>
+    <File md5="22B89FA176CACA7987D8F8E84AF15BD6" import="1">Art/Icons/PeruIcons80.dds</File>
+    <File md5="86D019684CC80C41A48B0E419AEBEEC7" import="1">Art/Leader/Ramon.dds</File>
+    <File md5="AE62FF0A7960638E787E867973FFA2A5" import="1">Art/Leader/PeruMap.dds</File>
+    <File md5="CB8ACF23A8B6D6B93CB2F2465C51D2BA" import="1">Art/Leader/DOMRamon.dds</File>
+    <File md5="457322243E1F7BB0B904255759EFD205" import="0">Lua/GoldFromWondersTrait.lua</File>
+    <File md5="B5A88EF0A608E98B4308AF2F1FB520DD" import="0">Lua/PeaceBuildingTrait.lua</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">Lua/SaveUtils.lua</File>
+    <File md5="037170D96F7A78B64F02F7E2937B77B0" import="0">sql/ArtDefHusares.sql</File>
+    <File md5="3EF5CB1F415CAD75BF6C7D8173CDAC38" import="1">sql/PeruTables.sql</File>
+    <File md5="A60F977FF291EDCA1B064CA17ACE5888" import="0">sql/TSL.sql</File>
+    <File md5="F5188B4CC0046CBCC8B7D3A28D37F60C" import="0">XML/Atlas/IconAtlasPeru.xml</File>
+    <File md5="FC82682E19C0FE8300DCCB0A2B21A163" import="0">XML/Buildings/BuildingsPeru.xml</File>
+    <File md5="36AF9B66ADBA04709D085CF8E0ECA680" import="0">XML/Civilization/CivPeru.xml</File>
+    <File md5="95EB16B7535545BC5CF71EC333EA8B2A" import="0">XML/Civilization/TraitsPeru.xml</File>
+    <File md5="8A9EA7C412B210D3DCA0AB458388CFE6" import="0">XML/Leader/RamonMusic.xml</File>
+    <File md5="DBBFA186A8F090B244D06FB47B29FA60" import="1">XML/Leader/RamonPeace.mp3</File>
+    <File md5="B43FEF270A7FF725060CD1F61BEBFD60" import="1">XML/Leader/RamonScene.xml</File>
+    <File md5="69C511A9D11BE6939899ED438A2AF5A0" import="0">XML/Leader/LeaderRamon.xml</File>
+    <File md5="67134D8BF12989D51E0EE56DC1581B9B" import="1">XML/Leader/RamonWar.mp3</File>
+    <File md5="DDBBE7AC17A6C1B7A13F875D67E637FF" import="0">XML/Text/TextPeru.xml</File>
+    <File md5="A8176F4ABB2E98DA40E6DFCA4256004C" import="0">XML/Units/UnitsPeru.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>sql/PeruTables.sql</UpdateDatabase>
+      <UpdateDatabase>sql/ArtDefHusares.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Atlas/IconAtlasPeru.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/BuildingsPeru.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization/CivPeru.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization/TraitsPeru.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader/RamonMusic.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader/LeaderRamon.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader/RamonScene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/TextPeru.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/UnitsPeru.xml</UpdateDatabase>
+      <UpdateDatabase>sql/TSL.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/GoldFromWondersTrait.lua">
+      <Name>Gold From Wonders</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/PeaceBuildingTrait.lua">
+      <Name>Peace Building</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

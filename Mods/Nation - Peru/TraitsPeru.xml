@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/18/2014 10:20:04 AM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_RECONSTRUCCION</Type>
+			<Description>TXT_KEY_TRAIT_RECONSTRUCCION</Description>
+			<ShortDescription>TXT_KEY_TRAIT_RECONSTRUCCION_SHORT</ShortDescription>
+			<PeruPeaceBuilding>BUILDING_PERU</PeruPeaceBuilding>
+			<PeruGoldFromWonders>2</PeruGoldFromWonders>
+		</Row>
+	</Traits>
+	<Trait_ImprovementYieldChanges>
+		<Row>
+			<TraitType>TRAIT_RECONSTRUCCION</TraitType>
+			<ImprovementType>IMPROVEMENT_LANDMARK</ImprovementType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Trait_ImprovementYieldChanges>
+
+	<BuildingClasses>
+		<InsertOrAbort>
+			<Type>BUILDINGCLASS_PERU</Type>
+			<DefaultBuilding>BUILDING_PERU</DefaultBuilding>
+		</InsertOrAbort>
+	</BuildingClasses>
+	<Buildings>
+		<InsertOrAbort>
+			<Type>BUILDING_PERU</Type>
+			<BuildingClass>BUILDINGCLASS_PERU</BuildingClass>
+			<Cost>-1</Cost>
+			<PrereqTech>NULL</PrereqTech>
+			<MinAreaSize>-1</MinAreaSize>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<FaithCost>-1</FaithCost>
+			<BuildingProductionModifier>20</BuildingProductionModifier>
+			<WonderProductionModifier>20</WonderProductionModifier>
+			<IconAtlas>CIV_COLOR_ATLAS_PERU</IconAtlas>
+			<PortraitIndex>2</PortraitIndex>
+		</InsertOrAbort>
+	</Buildings>
+</GameData>

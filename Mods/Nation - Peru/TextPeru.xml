@@ -1,0 +1,651 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/19/2013 1:20:28 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_PEACEBONUS_NOTIFICATION_TITLE">
+			<Text>Bonus from Peace Treaty!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEACEBONUS_NOTIFICATION">
+			<Text>Because of signing a Peace Treaty, all cities receive a [ICON_PRODUCTION]Production Bonus!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PEACEBONUS_END_NOTIFICATION_TITLE">
+			<Text>Bonuses from Peace Treaties lost</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEACEBONUS_END_NOTIFICATION">
+			<Text>Because of the end of all Peace Treaties, cities no longer receive special Bonuses</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_ARCHAEOLOGIST_TITLE">
+			<Text>Archaeologist Points:</Text>
+		</Row>
+		<!-- Civilization Stuff-->
+
+		<Row Tag="TXT_KEY_PERU_SHORT_DESC">
+			<Text>Perú</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PERU_DESC">
+			<Text>Peruvian Republic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PERU_ADJECTIVE">
+			<Text>Peruvian</Text>
+		</Row>
+
+		<!-- Trait-->
+		<Row Tag="TXT_KEY_TRAIT_RECONSTRUCCION_SHORT">
+			<Text>Reconstrucción Nacional</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TRAIT_RECONSTRUCCION">
+			<Text>
+				For the duration of peace treaties receive +20% more [ICON_PRODUCTION]Production towards buildings. Landmarks and World Wonders provide +2 [ICON_GOLD]Gold.
+			</Text>
+		</Row>
+
+
+		<!-- Civilization Pedia-->
+
+		<Row Tag="TXT_KEY_CIV5_PERU_DOM_TEXT">
+			<Text>
+				Greetings, Presidente Castilla! The people of Peru cheer as you come back to take the office up once again.
+
+				[NEWLINE][NEWLINE]Although at first you enrolled to serve in the Spanish colonial army, you soon defected and joined the Libertadores in 1821. After bloody battles in which you fought under the command of famed generals San Martin and Bolivar, you saw the independence of your country being wrestled from the Spaniards in 1824. From then on, your social standing steadily increased and you assumed many important positions within the country. Yet after the failed invasion of Bolivia in 1841, the country fell into anarchy and you laid down your sight on a bigger prize: presidency. During those years of internal strife, you defeated various upstart caudillos usurping the highest office of the country and reinstated Manuel Menendez as the head of state. Soon after, in 1845, it was you whom the people of Peru elected as President. Under your long-lived administration, the country was reconstructed and had its first railroads built, facilitating transport and trade. The economy recovered, and the strengthened nation enjoyed a period of stability - a short period, put to and end by violent border conflicts with Ecuador and Chile.
+
+				[NEWLINE][NEWLINE]Presidente, matters of state await your attention! The country is in turmoil and its integrity is at stake. Will you defeat your enemies in the fields of battle and forge an empire with the might of your army? Or will you attend the economy, expand the country's infrastructure and trade with Peru's neighbours? Will you build a civilization that will stand the test of time?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PERU_TITLE">
+			<Text>Peru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PERU_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PERU_HEADING_2">
+			<Text>Climate and Terrain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PERU_HEADING_3">
+			<Text>Native People</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PERU_HEADING_4">
+			<Text>Horse-men!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PERU_HEADING_5">
+			<Text>Colonial Peru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PERU_HEADING_6">
+			<Text>Independence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PERU_HEADING_7">
+			<Text>Territorial Wars and Rebuilding the Nation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PERU_HEADING_8">
+			<Text>Aristocratic Republic and Return to Democracy</Text>
+		</Row>
+		<Row tag="TXT_KEY_CIV5_PERU_HEADING_9">
+			<text>Modern Peru</text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PERU_STATBOX">
+			<Text>[NEWLINE]        Leader: Ramon Castilla[NEWLINE]        Unique Unit: Husares de Junin[NEWLINE]        Unique Building:Museo Andino[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PERU_TEXT_1">
+			<Text>On the east coast of the Pacific lies an incredibly diverse nation, rich in culture, geography and people - the country being the Republic of Peru. For most of its history, Peru was inhabited by indigenous people such as the Nazca, the Norte Chico, and the Uru - but perhaps the most notable are the Incas. Through almost constant war, they established an empire that spanned from modern-day Columbia in the north to Argentina in the south. However, due to a complex situation, they were taken over by the Spanish conquistadors, and the colony of Peru was formed. However, in 1810, the Wars of Independence were triggered, and Peru got full independence from Spain in 1821, although Spain refused to recognise it until 1866. However, Peru got into wars with neighbouring states, and lost a lot of territory in the process. Peru was turned into a flawed democracy during the 20th century, but since the authoritarian leaders were ousted, Peru has made a full return to democracy. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PERU_TEXT_2">
+			<Text>Peru is quite varied in its geography - on one hand, it has a large portion of Pacific coastline, while on the other, it has one of the most beautiful mountain ranges on the planet, the Andes. These mountains run right through the country and serve as a major tourism attraction. The nation also has a jungle to its eastern side, which is a flattened plain covered by the extension of the Amazon Rainforest. All three of these areas have a large number of rivers due to the extent of potential sources in the Andes. Scattered around the country are massive man-made works of unknown origin or usage, most notably Maccu Picchu and the Nazca Lines. These are of vast importance to archaeologists, making Peru a large centre for archaeological discoveries.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PERU_TEXT_3">
+			<Text>Before the Spanish colonised Peru, there was a vast number of native people there already. Of these, the Norte Chicos were one of the first. They maintained a large land area around Peru's Pacific coast. Today, little is known about them, but more mysterious yet is the Nazca civilization, which flourished in the arid, dust-ridden areas of Peru. They are notable for the construction of the Nazca Lines, huge glyphs in the ground, with an unknown meaning, although the best guess is they were to do with astronomy. The Incas, however, left a larger legacy than them; to this day, there are descendants of the Incas living in Peru, and they helped form the basis for the amount of violence that was going to ensue after the Spanish attack on them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PERU_TEXT_4">
+			<Text>In 1552, Francisco Pizarro came to the lands now known as Peru. He was attracted by the sounds of an empire there, and soon found it to be the Incas. Pizarro initially allied with the Incans, but he soon turned to war, and attempted to eradicate them multiple times, but didn't succeed at first. Pizarro even had the best technology of the day, far superior to the Incas (they didn't even have horses), although they were greater in number. Enraged, the Incans struck back at him, but through a combination on disease and civil war, he eventually conquered the entire Incan Empire. Pizarro soon proclaimed Peru a colony of Spain, and founded colonies there, and wend on several expeditions to find the precious metals that lay there. He was soon promoted to Governor of Peru by the Spanish crown, and before long, Peru was completely under Spanish rule.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PERU_TEXT_5">
+			<Text>Lima, the modern day capital of Peru, was founded by Pizarro, and was the seat of Spanish colonials for around three-hundred years. The city was proclaimed the "Ciudad de Reyes", or "City of Kings", and served as an administrative centre for Peru. The former Incan capital, Cusco, was almost immediately repopulated by the Spanish, and quickly turned into a major city. Economic growth in the region also took place due to the abundance of natural resources, such Potosi, a large mountain laden with precious minerals and now in Bolivia due to later territorial changes. Despite the savage murder of the Peruvian natives, Spanish rule was not left unquestioned, and several rebellions took place (mainly by the natives) to resist the foreign rule. However, these revolts were ruthlessly suppressed, until they became too large in number to quell.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PERU_TEXT_6">
+			<Text>Peru gained its independence after several revolutionaries, such as José de San Martin and Simon Bolivar vouched for it. Martin was an Argentine revolutionary who had lead his nation to independence, and initially sparked the calls for Peruvian independence. Martin invaded Peru, and the Spanish attempted to stop him many times, but ultimately failed to halt his invasion. In 1821, Martin proclaimed Peruvian independence, with the words;From this moment on, Peru is free and independent, by the general will of the people and the justice of its cause that God defends. Long live the homeland! Long live freedom! Long live our independence!". Independence was formally consolidated in 1824, but it took until 1879 for Spain to recognise its independence. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PERU_TEXT_7">
+			<Text>Soon after becoming independent, Peru created a short-lived union with Bolivia. This union failed in all aspects, and Peru was once more a separate state. They quickly got into territorial disputes with their neighbours, such as Chile and Bolivia. In 1887, the War of the Pacific began when Bolivia invoked a pact with Peru to go to war with Chile. The results were disastrous; Bolivia lost its entire coastline, and it resulted in losses of some Atacama regions from Peru. After the war, the country was left in ruins. A vast number of reforms were needed to keep the nation going. The government began a "National Reconstruction" program, which proved to be massively successful in propelling Peru towards a modernised society. Although there were many internal struggles during this period, Peru kept some form of political stability.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PERU_TEXT_8">
+			<Text>After the reforms, Peru became increasingly dictatorial, but stability was kept in the region. Fighters teamed up in Lima to create a new government, dubbed the "Aristocratic Republic", as most of the new presidents could be described as upper-class. To maintain this relative peace and prosperity, the government took loans from the United States of America, and worked hard to keep the country as productive as possible. Soon after, a global economic crisis took place, and Peru had to find a path to escape. Again, the rulers were dictatorial, but the Republic of Peru continued to exist as a state. After a long period of restoration, Peru was eventually turned back to democracy, with the first signs of change happening in the late seventies or early eighties. By 2000, Peru was almost completely democratic. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PERU_TEXT_9">
+			<Text>Today, Peru is a fairly successful state. While it does not participate in global events as much as some other Latin American countries, it does have one of the world's fastest growing and best economies. Peru is also notable as a place of huge archaeological importance, with some of the world's most diverse and famous creations. Its climate zones are also very diverse, appealing to tourists. Tours around Peru are becoming increasingly popular, and generally speaking, Peru is becoming a more popular country for many different reasons. The government at the moment is once again elected by the Peruvian people, and is fully democratic. Although Peru has lost many regions since its initial founding, it has still yet to yield to complete destruction, but as long as Peru continues with its current progress, that is unlikly to happen.  </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PERU_FACTOID_TEXT">
+			<Text>Out of all the South American colonial countries, Peru was the last one to become independent.</Text>
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_01">
+			<Text>Lima</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_02">
+			<Text>Arequipa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_03">
+			<Text>Trujillo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_04">
+			<Text>Chiclayo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_05">
+			<Text>Iquitos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_06">
+			<Text>Piura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_07">
+			<Text>Chimbote</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_08">
+			<Text>Huancayo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_09">
+			<Text>Tacna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_10 ">
+			<Text>Ica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_11">
+			<Text>Pucallpa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_12">
+			<Text>Sullana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_13">
+			<Text>Julica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_14">
+			<Text>Chincha Alta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_15">
+			<Text>Puno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_16">
+			<Text>Ayacucho</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_17">
+			<Text>Huánuco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_18">
+			<Text>Talara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_19">
+			<Text>Tumbes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_20">
+			<Text>Huaraz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_21">
+			<Text>Tarapoto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_22">
+			<Text>Huacho</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_23">
+			<Text>Huaral</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_24">
+			<Text>Paita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_25">
+			<Text>Jaén</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_26">
+			<Text>Cerro de Pasco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_27">
+			<Text>Llo</Text>
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_PERU_0">
+			<Text>Francisco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PERU_1">
+			<Text>Gonzalo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PERU_2">
+			<Text>Hernando</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PERU_3">
+			<Text>Juan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PERU_4">
+			<Text>Hombrellama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PERU_5">
+			<Text>El X</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PERU_6">
+			<Text>Manuel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PERU_7">
+			<Text>Jose</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PERU_8">
+			<Text>Pedro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PERU_9">
+			<Text>Juana</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+
+		<!-- Leader! -->
+		
+		<Row Tag="TXT_KEY_LEADER_RAMON">
+			<Text>Ramón Castilla</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_RAMONCASTILLA_LIVED">
+			<Text>1796 - 1867</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RAMONCASTILLA_NAME">
+			<Text>Ramón Castilla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RAMONCASTILLA_SUBTITLE">
+			<Text>Leader of Peru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RAMONCASTILLA_TITLES_1">
+			<Text>President of Peru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RAMONCASTILLA_HEADING_1">
+			<Text>Early Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RAMONCASTILLA_HEADING_2">
+			<Text>The Bolivarian Cause</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RAMONCASTILLA_HEADING_3">
+			<Text>Leadership of Peru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RAMONCASTILLA_HEADING_4">
+			<Text>Activities outside Presidency</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RAMONCASTILLA_HEADING_5">
+			<Text>Judgement of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RAMONCASTILLA_TEXT_1">
+			<Text>Ramon Castilla was born in Tarapacá, Peru, on August 31st 1797, which was then part of the Viceroyalty of Spain. His father had an Argentine and Spanish background, while his mother, a native of Peru, was part Aymara. Aged ten, Ramon Castilla travelled to Lima to study with his brother, and later went to Concepción, Chile, to continue with his education. Ten years later, he enlisted in the Spanish Colonial Army to put a revolt lead by José de San Martin to liberate Peru. However, he was taken prisoner by the revolutionary. However, he managed to escape in 1821, but soon deserted the Spanish army and instead turned to Martin, helping the fight for independence instead. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RAMONCASTILLA_TEXT_2">
+			<Text>Castilla quickly rose through the military ranks, and kept on the side of the independence cause. Castilla joined Simon Bolivar's army, who was quickly named "The Liberator of Peru" by the National Congress. However, Peru still faced many problems. Before long, Peru was left in a state of anarchy.  Manuel Ignacio de Vivanco soon assumed control; however, he was soon stopped by Castilla and his companion, Domingo Nieto. Soon enough, Nieto was installed as president, but he died a few months later. To avoid another state of anarchy, Castilla installed  Manuel Menéndez, a former Vice President, as the new leader of the state to achieve a transitional democracy.  </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RAMONCASTILLA_TEXT_3">
+			<Text>Before long, Castilla went for the post of president himself, and in 1845, he won the presidential election. At this time, Guano exports were booming, making up a large portion of Peru's economy. Railroads were also built around the country, massively helping Peruvian trade around the nation. After six years in power, Castilla stepped down, but was soon annoyed at the new president. Castilla staged revolts against slavery, and soon regained the presidency of Peru. During this second term, there was a border dispute with Ecuador over some jungle territory. He failed to secure an agreement, but the rest of his time in power was dedicated to helping the indigenous people of Peru, freeing the slaves, and a new constitution for the nation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RAMONCASTILLA_TEXT_4">
+			<Text>Castilla again left the post of President, but continued to be involved in politics. When his successor died, he refused to recognise the new president, Pedro Diez Canseco, who soon had Castilla exiled to Gibraltar. While Castilla was absent from the nation, Spain tried - and failed - to reconquer Peru. Castilla once more returned to Peru, but was exiled to Chile by the president. Castilla decided to make another attempt to regain power and help the Peruvians, and in 1867, he went back to Peru. However, Castillo was nearly seventy at the time, and suffering from illness, he died in Tarapacá on the 30th of May, aged sixty-seven, and known as a liberator and fighter for the country that had exiled him so many times.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RAMONCASTILLA_TEXT_5">
+			<Text>Ramon's legacy is different in many ways to other South American caudillos (Latin American military leaders). Although he revolted against the Spanish and gained independence for the nation, he constantly denounced the government in power and brought Peru into anarchy. However, this was all thought through by Castillo - he tried to seize power to do something himself several times when the government was being ineffective, or for the greater good of the people. For example, Castillo once sparked revolts over slavery, wanting the act to be brought down, right after he had stepped down from the post of president. Castillo's legacy is truly a remarkable one; a leader aiming to create a democratic nation out of a struggling one, by any means necessary.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RAMONCASTILLA_FACTOID_HEADING">
+			<Text>Ramon Castilla Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RAMONCASTILLA_FACTOID_TEXT">
+			<Text></Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_LEADER_RAMON_FIRSTGREETING_1">
+			<Text>Greetings friend, I'm Ramon Castilla; and I have seen every change of this particular land, and there's nothing I wouldn't do for it... Welcome.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMON_FIRSTGREETING_2">
+			<Text>Salutations to you, great leader. I'm Ramon Castilla... And... I'm quite busy right now, making this land move forward, to be fairly honest.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMON_FIRSTGREETING_3">
+			<Text>Hmn... Nice to see a new face here, I hope you contribute to the development of our nations, so we won't have to meet each other in battle needlessly.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_RAMON_DEFEATED_1">
+			<Text>A man is made by the quality of his enemies, I wonder if it's more a compliment to you or me...</Text>
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_UNIT_PERU_HUSARES_DE_JUIN">
+			<Text>Husares de Junín</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PERU_HUSARES_DE_JUNIN_HELP">
+			<Text>Replacement for Lancer. Increased damage against Fortified oponents, and also on Flanking attacks unlike the Lancer which it replaces.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PERU_HUSARES_DE_JUNIN_TEXT">
+			<Text>The Husares de Junin are one of the oldest components of the Peruvian army. They were founded by José de San Martin during the Liberation of Chile, and later they were proclaimed the National Guard of Peru. After their remarkable performance at the Battle of Junin, they were renamed the Husares de Junin as a symbol of their valour. The Husares took part in numerous battles, originally to consolidate Peruvian independence, and later in an attempt to defend Peru. Although they are no longer used in military action, they remain part of the Peruvian army, and have a largely ceremonial role as the National Guard of Peru, and often take part in military parades and ceremonies in the state, mostly due to the fact that horses are mostly obsolete on the battlefield.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PERU_HUSARES_DE_JUNIN_STRATEGY">
+			<Text>The Husares de Junín are an ideal unit for making best use of Peru's ability - to force the enemy to go for peace! When used properly, the unit can be unstoppable. As it ignores Zone of Control (ZoC), it can rush past the infantry and head straight for the back lines of unit formations. To top it off, these units can also damage fortified opponents more severely, making sure you can maintain order by destroying anyone who dares to come near your land. These units make it really easy to subdue an enemy into a peace treaty due to their speed and destructive power, making sure you benefit from Peru's Golden Age bonus of +5 Production per city. Overall, they are a very powerful unit, no matter if they are defending Peruvian territory or claiming land that should be.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HUSARES">
+			<Text>Battle of Junín</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HUSARES_HELP">
+			<Text>The unit receives a combat bonus against Fortified Units, and also increased combat on Flanking Attacks</Text>
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_BUILDING_MUSEO ANDINO">
+			<Text>Museo Andino</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_MUSEO_ANDINO_HELP">
+			<Text>Replacement for Museum. Generates points towards the generation of Archaeologists. Earn a special theming bonus for combining artifacts from different civilizations and different eras.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PERU_MUSEO_ANDINO_TEXT">
+			<Text>Peru is known for its vast amount of treasures, so this building is designed to represent that. Rich in history and culture, Peru has a tradition of maintaining the precious artefacts it has. The Museo Andino ("Andean Museum" in English) is a name given to places of historical relevance that house artefacts and other works of the past. The name is due to the vast amount of riches that hail from the Andean mountains, including mineral wealth, and treasures such as the Incan wonders of the past.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PERU_MUSEO_ANDINO_STRATEGY">
+			<Text>At the time when archaeology and tourism becomes important, the Museo Andino is right there to serve a purpose as a building to assist you with these findings. It generates points towards archaeologists, making it a very important building for getting them out there to search for Antiquity sites. The building also serves another purpose - to gain more tourism from these sites. The Museo Andio gives a theaming bonus from works of different eras and different civilizations, so you should get your archaeologists all over the world to find diverse artifacts to make best use of that. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_ANDES_MUSEUM_THEMING_BONUS_HELP">
+			<Text>Different combinations of artifacts and art will generate different bonuses. To maximize the Theming Bonus try searching for Artifacts of Different Eras and Civilizations </Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_MUSEUM_ANDES">
+			<Text>Peruvian Museum of Andean Civilizations</Text>
+		</Row>
+		
+		
+		
+	</Language_en_US>
+
+
+
+
+	<Language_ES_ES>
+		<Row Tag="TXT_KEY_PEACEBONUS_NOTIFICATION_TITLE">
+			<Text>¡Bonificación por Tratado de Paz!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEACEBONUS_NOTIFICATION">
+			<Text>¡Por haber firmado un Tratado de Paz, las ciudades reciben una bonificación de Producción [ICON_PRODUCTION]!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PEACEBONUS_END_NOTIFICATION_TITLE">
+			<Text>Bonificacion por Tratado de Paz removida</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEACEBONUS_END_NOTIFICATION">
+			<Text>Las ciudades ya no reciben bonificaciones especiales pues todos los Tratados de Paz expiraron.</Text>
+		</Row>
+		<!-- Civilization Stuff-->
+
+		<Row Tag="TXT_KEY_PERU_SHORT_DESC">
+			<Text>Perú</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PERU_DESC">
+			<Text>República Peruana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PERU_ADJECTIVE">
+			<Text>peruano|peruana|peruanos|peruanas</Text>
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
+		</Row>
+
+		<!-- Trait-->
+		<Row Tag="TXT_KEY_TRAIT_RECONSTRUCCION_SHORT">
+			<Text>Reconstrucción Nacional</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TRAIT_RECONSTRUCCION">
+			<Text>Mientras exista un Tratado de Paz vigente, recibe 20% más de Producción[ICON_PRODUCTION] para construcciones. Las Maravillas Mundiales generan +2 de Oro [ICON_GOLD]
+			</Text>
+		</Row>
+
+
+		<!-- Civilization Pedia-->
+
+		<Row Tag="TXT_KEY_CIV5_PERU_DOM_TEXT">
+			<Text>
+				Saludos, ¡Presidente Castilla! La gente de Perú se regocija al tenerte nuevamente en el asiento presidencial.
+
+				[NEWLINE][NEWLINE]Si bien serviste primero en la armada de las Colonias Españolas, pronto decidiste unirte a los Libertadores en 1821. Después de sangrientas batallas en las cuales peleaste bajo el liderazgo de los famosos generales San Martín y Bolívar, lograste desatar la independencia de tu país frente a los Españoles en 1824. Desde entonces, fuiste asendiendo de rango rápidamente, asumiendo importantes roles dentro del naciente país. Sin embargo, después de la invasión fallida a Bolivia en 1841, el país se sumó en una anarquía total, llevándote a posar tu murada en un rol mayor: La Presidencia. Durante esos años de conflictos internos, derrotaste a varios caudillos que buscaban usurpar los más altos puestos dentro del País, reinstaurando a Manuel Menendez como cabeza de estado. Poco después, en 1845, fuiste tú quien fue elegido como el Presidente del Perú. Bajo tu administración, el país fue reconstruído y tuvo sus primeras líneas de tren, facilitando el transporte y el comercio. La economía se estabilizó, y la revitalizada nación disfrutó un momento de gloria —un momento corto, por su final violento por los conflictos limítrofes con Ecuador 
+				
+				[NEWLINE][NEWLINE]Presidente, problemas de gran estatura esperan su atención. El país se encuentra creciendo en búsqueda de estabilidad. ¿Derrotarás a tus enemigos en los campos de batalla para forjar un nuevo país? ¿Atenderás la economía, expandiendo la infraestructura y el comercio del Perú con sus vecinos? ¿Construirás una Civilización que pase las pruebas del tiempo?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PERU_TITLE">
+			<Text>Perú</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PERU_HEADING_1">
+			<Text>Historia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PERU_TEXT_1">
+			<Text>
+				OEl Perú (en quechua y en aimara: Piruw), o la República del Perú, es una república unitaria descentralizada situada en la parte occidental e intertropical de América del Sur. Limita al oeste con el océano Pacífico y con los países de Ecuador y Colombia al norte, Brasil al este, Bolivia al sureste, y Chile al sur. Su territorio se compone de diversos paisajes: los valles, las mesetas y las altas cumbres de los Andes se despliegan al oeste hacia la costa desértica y a el este hacia la Amazonia. Es uno de los países de mayor diversidad biológica del mundo y de mayores recursos minerales.9 10
+
+				El Antiguo Perú fue una región de sucesivas civilizaciones desde el surgimiento de Caral-Supe en el 3200 a. C.11 El Imperio incaico fue el último Estado autóctono o indígena, el cual dominó gran parte del occidente sudamericano hacia el siglo XV. Con el siguiente siglo advino la Conquista del incario, tras la cual el territorio se configuró como un virreinato del Imperio español articulado en torno a la explotación de plata y oro con trabajo forzado de indígenas y de esclavos traídos de África en minas y haciendas. Las reformas borbónicas del siglo XVIII suscitaron diversos levantamientos contra la autoridad colonial, cuyo máximo exponente fue la rebelión de Túpac Amaru II.12
+
+				Con la ocupación de España y la promulgación de la constitución de 1812, se difundieron ideas de autonomía política en la América española. La Independencia se proclamó formalmente en 1821, y fue saldada en la batalla de Ayacucho tres años después.13 El país se mantuvo en recesión y bajo el caudillismo militar hasta la bonanza y declive de la era del Guano, que culminó poco antes de la Guerra del Pacífico. En la posguerra, se cimentó una política oligárquica que prevaleció hasta el fin del Oncenio. Los sucesivos gobiernos democráticos fueron constantemente interrumpidos por golpes de Estado.14
+
+				En 1968, se impuso una dictadura militar que introdujo diversas y profundas reformas de corte nacionalista.15 El gobierno democrático y representativo fue restablecido en 1980, así también se dieron inicio un sangriento conflicto armado entre los grupos terroristas de Sendero Luminoso y el MRTA y el Estado en la sierra sur así como la crisis inflacionaria de fines de la década. En los años 1990 se implementó un modelo neoliberal, cuyas bases continúan vigentes. A inicios del siglo XXI, el país experimenta un importante crecimiento económico y reducción de la pobreza, aún soportando una fuerte desigualdad y una renta per cápita por debajo de la media mundial.16 Entre sus principales actividades económicas se incluyen la agricultura de exportación, la pesca, la minería y la manufactura de productos como los textiles.17
+
+				La cultura peruana es diversa como resultado del intenso mestizaje originado en la colonia. A ello se une la posterior influencia de migraciones decimonónicas procedentes de China, Japón y Europa. El idioma principal y más hablado es el español, aunque un número significativo de peruanos habla diversas lenguas nativas, siendo la más extendida el quechua sureño.18 Políticamente, el país está organizado como una república presidencialista con un sistema multipartidista estructurado bajo los principios de separación de poderes y descentralización. Administrativamente, se divide en veinticuatro departamentos y la Provincia Constitucional del Callao.
+			</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_01">
+			<Text>Lima</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_02">
+			<Text>Arequipa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_03">
+			<Text>Trujillo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_04">
+			<Text>Chiclayo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_05">
+			<Text>Iquitos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_06">
+			<Text>Piura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_07">
+			<Text>Chimbote</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_08">
+			<Text>Huancayo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_09">
+			<Text>Tacna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_10 ">
+			<Text>Ica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_11">
+			<Text>Pucallpa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_12">
+			<Text>Sullana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_13">
+			<Text>Julica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_14">
+			<Text>Chincha Alta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_15">
+			<Text>Puno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_16">
+			<Text>Ayacucho</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_17">
+			<Text>Huánuco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_18">
+			<Text>Talara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_19">
+			<Text>Tumbes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_20">
+			<Text>Huaraz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_21">
+			<Text>Tarapoto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_22">
+			<Text>Huacho</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_23">
+			<Text>Huaral</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_24">
+			<Text>Paita</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_25">
+			<Text>Jaén</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_26">
+			<Text>Cerro de Pasco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERU_27">
+			<Text>Llo</Text>
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_PERU_0">
+			<Text>Francisco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PERU_1">
+			<Text>Gonzalo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PERU_2">
+			<Text>Hernando</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PERU_3">
+			<Text>Juan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PERU_4">
+			<Text>Hombrellama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PERU_5">
+			<Text>El X</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PERU_6">
+			<Text>Manuel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PERU_7">
+			<Text>Jose</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PERU_8">
+			<Text>Pedro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PERU_9">
+			<Text>Juana</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+
+		<!-- Leader! -->
+
+		<Row Tag="TXT_KEY_LEADER_RAMON">
+			<Text>Ramon Castilla</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_RAMONCASTILLA_LIVED">
+			<Text>1796 - 1867</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RAMONCASTILLA_NAME">
+			<Text>Ramon Castilla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RAMONCASTILLA_SUBTITLE">
+			<Text>Líder del Perú</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RAMONCASTILLA_TITLES_1">
+			<Text>Presidente de Perú</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RAMONCASTILLA_HEADING_1">
+			<Text>Historia</Text>
+		</Row>
+	
+		<Row Tag="TXT_KEY_CIV5_RAMONCASTILLA_TEXT_1">
+			<Text>Ramón Castilla y Marquesado (Tarapacá, Virreinato del Perú, 31 de agosto de 1797 - Tiliviche, Tarapacá, Perú, 30 de mayo de 1867), fue un militar y político peruano que asumió el cargo de Presidente del Perú en cuatro ocasiones: dos veces como Presidente Constitucional (1845-51 y 1858-62) y dos veces como Presidente Provisorio (1855-58 y 1863). Gobernó en total 12 años, siendo el presidente que más años rigió en el Perú republicano, después de Augusto B. Leguía. Es considerado el primer presidente progresista e innovador de la República peruana,1 y a decir del historiador Jorge Basadre, con él empezó realmente el período republicano en el Perú, pues sus antecesores habían dedicado más tiempo a las guerras y contiendas civiles. Sus importantes reformas en la política y la sociedad de su tiempo confirman estos asertos; la más recordada de sus obras es la manumisión de los esclavos negros, decretada oficialmente en 1854.2 Pero también dio la ley de la libertad de prensa;3 abolió el tributo indígena;4 fundó el servicio diplomático;5 reformó la administración pública;6 estableció el presupuesto;7 pagó la deuda externa e interna; organizó el Consejo de Ministros, creando su presidencia;8 inició la reforma educativa abandonando los moldes coloniales; modernizó el ejército; creó una fuerza naval respetable. Su mandato coincidió con la introducción de varios adelantos técnicos en el Perú como el telégrafo,9 , el alumbrado a gas;10 y los ferrocarriles. Ramón Castilla también destaca por dar un impulso al desarrollo de la Amazonía,[cita requerida] entre otras obras. Es considerado patrono del Arma de Caballería del Ejército Peruano. </Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_LEADER_RAMON_FIRSTGREETING_1">
+			<Text>Saludos, mi amigo, soy Ramón Castilla, y llegué a conocer cada esquina de estas tan peculiares tierras, no hay nada que no haría por ellas... Bienvenido.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMON_FIRSTGREETING_2">
+			<Text>Saludos a tí, gran líder. Soy Ramón Castilla... Y... Para ser franco, en este momento estoy algo ocupado moviendo este país hacia adelante.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAMON_FIRSTGREETING_3">
+			<Text>Hmn... Es bueno ver un nuevo rostro por aquí, espero ayudes a contribuir al desarrollo de nuestras naciones, y así no tener que encontrarnos en batallas innecesarias.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_RAMON_DEFEATED_1">
+			<Text>Un hombre está hecho por la calidad de sus enemigos... Me pregunto si es más un cumplido a tí, o a mí...</Text>
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_UNIT_PERU_HUSARES_DE_JUIN">
+			<Text>Husares de Junín</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PERU_HUSARES_DE_JUNIN_HELP">
+			<Text>Reemplazo para el Lancero. Genera mayor daño contra enemigos fortificados, y tiene un bono de ataque al flanquear al oponente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PERU_HUSARES_DE_JUNIN_TEXT">
+			<Text>
+				Los Húsares de Junín, oficialmente Regimiento de Caballería «Glorioso Húsares de Junín» N° 1 - Libertador del Perú, es una unidad histórica del Ejército del Perú y desde su creación nunca ha sido desactivada habiendo estado presente en los acontecimientos más importantes de la historia nacional peruana.
+
+				Debido a su trascendencia histórica fueron designados para estar presentes en la reincorporación de Tacna al territorio del Perú el 28 de agosto de 1929.
+
+				Fueron la Guardia Montada del Presidente de la República desde el 5 de marzo de 1987 hasta el 27 de julio de 2012, fecha en que fueron relevados por el Regimiento de Caballería «Mariscal Domingo Nieto» en cumplimiento a lo dispuesto en la Resolución Ministerial No 139-2012/DE/EP del 2 de febrero de 2012, firmada durante el gobierno del presidente Ollanta Humala.3
+
+				Su sede estuvo ubicada en el Cuartel "Barbones", en el centro histórico de Lima, regresando al Comando de Educación y Doctrina del Ejército - Chorrillos donde estuvo acantonado hasta 1987.4 Su misión actual es presentarse en todas las ceremonias oficiales, con su Bandera de Guerra y Escolta y su Banda Regimentaria de Guerra de Clarines
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PERU_HUSARES_DE_JUNIN_STRATEGY">
+			<Text>Reemplazo para el Lancero. Genera mayor daño contra enemigos fortificados, y tiene un bono de ataque al flanquear al oponente.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HUSARES">
+			<Text>Batalla de Junín</Text>
+		</Row>
+		<Row Tag="TTXT_KEY_PROMOTION_HUSARES_HELP">
+			<Text>Genera mayor daño contra enemigos fortificados, y tiene un bono de ataque al flanquear al oponente.</Text>
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_BUILDING_MUSEO ANDINO">
+			<Text>Museo Andino</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_MUSEO_ANDINO_HELP">
+			<Text>Reemplazo para el Museo, genera puntos hacia la producción de Arqueólogos y adquiere una bonificación especial por combinar artefactos de distintas civilizaciones y eras.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PERU_MUSEO_ANDINO_TEXT">
+			<Text>
+				El turismo constituye la tercera industria más grande de la nación, detrás de la pesca y la minería.197 El turismo se dirige mayoritariamente hacia los monumentos arqueológicos, pues cuenta con más de cien mil sitios arqueológicos.198 De acuerdo con un estudio del gobierno peruano, el índice de satisfacción de los turistas después de visitar el Perú es del 94 %. Es la industria de más rápido crecimiento en el país, creció anualmente a un ritmo del 25 % en los últimos cinco años, siendo la tasa de crecimiento más alto que cualquier otro país en América del Sur.199
+
+				El turismo tiene un impacto del 7 % del PBI del Perú,200 es regulado y estimulado por la Comisión de Promoción del Perú para la Exportación y el Turismo del Ministerio de Comercio Exterior y Turismo. Los países más populares de origen de los turistas son Chile, Estados Unidos, Ecuador, Argentina, Colombia, Brasil, España, Bolivia, Francia, Venezuela, Alemania, Reino Unido, Italia, Japón y México.201 El turismo emplea al 11 % de la población económicamente activa del país (484 000 empleos directos y 340 000 indirectos), la mayor parte en hostelería y en el transporte.
+
+				Los lugares más visitados por los turistas son las ciudades de Lima y su centro histórico, Cuzco que se caracteriza por su arquitectura incaica y colonial pero sus principales atractivos son el Valle Sagrado de los Incas y Machu Picchu, Arequipa por el centro histórico, también por el Valle del Colca y finalmente Puno por el lago Titicaca. El principal circuito turístico del país es el circuito sur, que engloba ciudades como; Ica, Nazca, Paracas, Arequipa, Chivay, Puno, Cuzco, Ayacucho y Puerto Maldonado, con atractivos arquitectónicos, culturales y naturales. La segunda ruta en importancia es la del Callejón de Huaylas, en el departamento de Áncash, sede del turismo de aventura y principal punto de referencia de la cocina novoandina.
+
+				Perú tiene muchas otras rutas turísticas. Entre éstas están las del valle del río Mantaro, con la ciudad de Huancayo como uno de sus ejes, y el Valle de Tarma como otro eje que a su vez es la entrada a la selva central. La costa central sur (departamento de Ica y provincia de Cañete) y la ciudad norteña de Trujillo donde se encuentra Chan Chan la ciudadela de adobe más grande del planeta,202 el tradicional balneario de Huanchaco y las Huacas del Sol y de la Luna pertenecientes a la cultura Chimú. Según el Ministerio de Comercio Exterior y Turismo la visita de turistas extranjeros aumentó en 10 % durante el año 2012 y habría generado US$ 3229 millones en divisas para el país.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PERU_MUSEO_ANDINO_STRATEGY">
+			<Text>At the time when archaeology and tourism becomes important, the Museo Andino is right there to serve a purpose as a building to assist you with these findings. It generates points towards archaeologists, making it a very important building for getting them out there to search for Antiquity sites. The building also serves another purpose - to gain more tourism from these sites. The Museo Andio gives a theaming bonus from works of different eras and different civilizations, so you should get your archaeologists all over the world to find diverse artifacts to make best use of that. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_ANDES_MUSEUM_THEMING_BONUS_HELP">
+			<Text>Reemplazo para el Museo, genera puntos hacia la producción de Arqueólogos y adquiere una bonificación especial por combinar artefactos de distintas civilizaciones y eras. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_MUSEUM_ANDES">
+			<Text>Museo Peruano de Civilizaciones Andinas</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_UNIT_ARCHAEOLOGIST_TITLE">
+			<Text>Puntos de Arqueologo:</Text>
+		</Row>
+	</Language_ES_ES>
+</GameData>
