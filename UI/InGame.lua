@@ -1583,6 +1583,14 @@ ContextPtr:LoadNewContext("CanadianRCMPHappiness")
 ContextPtr:LoadNewContext("GarrisonArtilleryScript")
 ContextPtr:LoadNewContext("GivesHorses")
 
+-- Nation - Paraguay --
+ContextPtr:LoadNewContext("AcaCarayaIgnoreinside")
+ContextPtr:LoadNewContext("HighestTourismCulture")
+ContextPtr:LoadNewContext("MisionesJungleBonus")
+ContextPtr:LoadNewContext("YieldFromMusic")
+ContextPtr:LoadNewContext("YieldOthersGW")
+ContextPtr:LoadNewContext("FakeJungleBias")
+
 -- Nation - Resources --
 ContextPtr:LoadNewContext("HNR_Main")
 --ContextPtr:LoadNewContext("OnHNRLoad")

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/28/2014 12:06:40 PM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_MESTIZAJE</Type>
+			<Description>TXT_KEY_TRAIT_MESTIZAJE</Description>
+			<ShortDescription>TXT_KEY_TRAIT_MESTIZAJE_SHORT</ShortDescription>
+			<FreeBuilding>BUILDING_MESTIZAJE</FreeBuilding>
+			<HighestTourismCulture>8</HighestTourismCulture>
+		</Row>
+	</Traits>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_MESTIZAJE</Type>
+			<DefaultBuilding>BUILDING_MESTIZAJE</DefaultBuilding>
+		</Row>
+	</BuildingClasses>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_MESTIZAJE</Type>
+			<BuildingClass>BUILDINGCLASS_MESTIZAJE</BuildingClass>
+			<Cost>-1</Cost>
+			<PrereqTech>NULL</PrereqTech>
+			<MinAreaSize>-1</MinAreaSize>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<FaithCost>-1</FaithCost>
+			<IconAtlas>MEXICO_ATLAS</IconAtlas>
+			<PortraitIndex>2</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_YieldFromMusic>
+		<Row>
+			<BuildingType>BUILDING_MESTIZAJE</BuildingType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_YieldFromMusic>
+	<Building_YieldFromOthersGreatWorks>
+		<Row>
+			<BuildingType>BUILDING_MESTIZAJE</BuildingType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_YieldFromOthersGreatWorks>
+
+</GameData>

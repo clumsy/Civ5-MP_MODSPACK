@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="9ea21c0c-a230-438a-9e5a-3b438ce928c5" version="1">
+  <Properties>
+    <Name>Paraguay Civilization [BNW]</Name>
+    <Teaser>Adds the Paraguay Civilization to Brave New World with Gaspar de Francia as its leader!</Teaser>
+    <Description>Adds the Paraguay Civilization to Brave New World with Gaspar de Francia as its leader!</Description>
+    <Authors>Leugi, JanBoruta, Viregel</Authors>
+    <SpecialThanks>Sukritact</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>0</AffectsSavedGames>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="EED6EB16AAD49DC7280CC0B814928B55" import="0">Alternate/Buildings/BuildingsParaguay.xml</File>
+    <File md5="6C5B3C4B916EAA87A96C976793E72E9E" import="0">Alternate/Civilization/TraitsParaguay.xml</File>
+    <File md5="E03D18D98EDFA55EDF61C0C04B9C2C2E" import="0">Alternate/ReadmeforAlternateVersion.txt</File>
+    <File md5="899B32550D0ED82C8B7577C7D5C4F570" import="0">Alternate/Text/ParaguayText.xml</File>
+    <File md5="65DA98270DEEFF5E9B60878A7459BE6C" import="1">Art/AcaCaraya/aca_caraya.fxsxml</File>
+    <File md5="DB888FDCE796BAE1EB0C670D9AF980A0" import="1">Art/AcaCaraya/aca_caraya.gr2</File>
+    <File md5="B52E64390033B2455BE50C4CDC02E973" import="1">Art/AcaCaraya/aca_caraya_diff.dds</File>
+    <File md5="E41EF1BC66EAD0E06D3322F808D3AD61" import="1">Art/AcaCaraya/aca_caraya_sref.dds</File>
+    <File md5="421AEECA186826FB03FF1775D9772342" import="1">Art/AcaCaraya/flag_caraya.dds</File>
+    <File md5="48C4B4D7E511B21D4DF5AEF26F99F591" import="1">Art/AcaCaraya/sv_caraya.dds</File>
+    <File md5="C20029A9AAF32F91C2FF006EC095E640" import="1">Art/Icons/ParaguayIcons128.dds</File>
+    <File md5="5D213C999FECC9DAC06BA7E56A9D86E3" import="1">Art/Icons/ParaguayIcons16.dds</File>
+    <File md5="963C16B626CC01B971E79ABEBBD2B233" import="1">Art/Icons/ParaguayIcons24.dds</File>
+    <File md5="F025B16C2AA96A6ED46832FCF5B8BFDC" import="1">Art/Icons/ParaguayIcons256.dds</File>
+    <File md5="B39CD856345E074EA2912B500B7A0101" import="1">Art/Icons/ParaguayIcons32.dds</File>
+    <File md5="6B827F3E5627C9F71ADA163711DE1699" import="1">Art/Icons/ParaguayIcons45.dds</File>
+    <File md5="E2B7280C93872DE4E119F5C7102AFF73" import="1">Art/Icons/ParaguayIcons48.dds</File>
+    <File md5="87376C1880224902C93CDC2008D34DC5" import="1">Art/Icons/ParaguayIcons64.dds</File>
+    <File md5="10227874EC6DF67833A02BC33E58C5C3" import="1">Art/Icons/ParaguayIcons80.dds</File>
+    <File md5="13F1ED1455CF9A562A3714F81EAF6AA2" import="1">Art/Leader/Gaspar.dds</File>
+    <File md5="196EE861265E5B6D0584726A811EA772" import="1">Art/Leader/GasparDOM.dds</File>
+    <File md5="2E7C55B67D89724678470607E211ED8B" import="1">Art/Leader/ParaguayMap.dds</File>
+    <File md5="7BF22BAFF9BCC9234EB38892EBA67B34" import="0">Lua/AcaCarayaIgnoreinside.lua</File>
+    <File md5="59EBD2672B68890E6B164933519F9413" import="1">Lua/CultureOverview.lua</File>
+    <File md5="5E1285B7F8FE8F74BC257F812FD16203" import="0">Lua/FakeJungleBias.lua</File>
+    <File md5="B9EAACF9BC6B6A16304381B565A5D842" import="0">Lua/HighestTourismCulture.lua</File>
+    <File md5="58DC2CECC47D7811D56D217D2F24B5C9" import="0">Lua/MisionesJungleBonus.lua</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">Lua/SaveUtils.lua</File>
+    <File md5="D83D8C482F42517FA1FD8CC117C0C059" import="0">Lua/YieldFromMusic.lua</File>
+    <File md5="A210BDDA786F3406038FF423B5E6BD33" import="0">Lua/YieldOthersGW.lua</File>
+    <File md5="0941D93892025ED49B0FD8CFDEF215F3" import="1">Music/GasparPeace.mp3</File>
+    <File md5="7ED7575B46D06B1AC37B5629EA13C4D3" import="1">Music/GasparWar.mp3</File>
+    <File md5="09C501152E166D7C21CF11D12ADAAD5F" import="0">Sql/CarayaDefines.sql</File>
+    <File md5="2653738FB7622CFA918D23018C440B07" import="0">Sql/ParaguayNewTables.sql</File>
+    <File md5="DDCA2F9DFB5D0ABE0BB018B466356986" import="0">Sql/TSLParaguay.sql</File>
+    <File md5="5F09FE1741F644BB8384DCB236E5B4C9" import="0">XML/Atlas/IconAtlasParaguay.xml</File>
+    <File md5="FE7642A84A8844943104791300BB8793" import="0">XML/Buildings/BuildingsParaguay.xml</File>
+    <File md5="4E9B0E89A476EA3F8A5FD84E15413B2A" import="0">XML/Civilization/CivParaguay.xml</File>
+    <File md5="9AB5C768574F47E7D3EA9DCE5A984769" import="0">XML/Civilization/TraitsParaguay.xml</File>
+    <File md5="6249184A20EA65EE54F488BDD93E37FA" import="0">XML/Leader/LeaderGaspar.xml</File>
+    <File md5="DD87AD53164FFD6DE03B1C9CAFFF6914" import="0">XML/Leader/GasparMusic.xml</File>
+    <File md5="5CA83BD02F1B185889EC5D546AA31FE8" import="1">XML/Leader/GasparScene.xml</File>
+    <File md5="4B62ACF5EB95AFBB55DD20349C8D04A3" import="0">XML/Text/ParaguayText.xml</File>
+    <File md5="A673F05F78E1410718A4F342EF985443" import="0">XML/Units/UnitsParaguay.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Sql/ParaguayNewTables.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization/CivParaguay.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization/TraitsParaguay.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader/GasparMusic.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader/LeaderGaspar.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Atlas/IconAtlasParaguay.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/UnitsParaguay.xml</UpdateDatabase>
+      <UpdateDatabase>Sql/CarayaDefines.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/BuildingsParaguay.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/ParaguayText.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/AcaCarayaIgnoreinside.lua">
+      <Name>Promotion while Inside</Name>
+      <Description>Promotion while Inside</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/HighestTourismCulture.lua">
+      <Name>Culture from Highest Tourism</Name>
+      <Description>Culture from Highest Tourism</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/MisionesJungleBonus.lua">
+      <Name>Building Jungle Bonus</Name>
+      <Description>Building Jungle Bonus</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/YieldFromMusic.lua">
+      <Name>Yield from Music Works</Name>
+      <Description>Yield from Music Works</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/YieldOthersGW.lua">
+      <Name>Yield from Other players GWs</Name>
+      <Description>Yield from Othe Players GWs</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/FakeJungleBias.lua">
+      <Name>Fake Jungle Bias</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

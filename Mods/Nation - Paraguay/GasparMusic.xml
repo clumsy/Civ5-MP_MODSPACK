@@ -1,0 +1,32 @@
+<GameData>
+	<Audio_Sounds>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_GASPAR_PEACE</SoundID>
+			<Filename>GasparPeace</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_GASPAR_WAR</SoundID>
+			<Filename>GasparWar</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+	</Audio_Sounds>
+	<Audio_2DSounds>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_GASPAR_PEACE</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_GASPAR_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>50</MinVolume>
+			<MaxVolume>50</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_GASPAR_WAR</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_GASPAR_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>64</MinVolume>
+			<MaxVolume>64</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+	</Audio_2DSounds>
+</GameData>
