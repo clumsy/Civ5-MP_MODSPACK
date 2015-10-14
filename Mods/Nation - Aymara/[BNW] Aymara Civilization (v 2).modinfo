@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="0cc282bb-8642-44a3-9e53-c367805022f5" version="2">
+  <Properties>
+    <Name>[BNW] Aymara Civilization</Name>
+    <Teaser>This mod will add the [COLOR_POSITIVE_TEXT]Aymara Civilization[ENDCOLOR] to Brave New World, with Tupac Katari as its leader.</Teaser>
+    <Description>This mod will add the [COLOR_POSITIVE_TEXT]Aymara Civilization[ENDCOLOR] to Brave New World, with Tupac Katari as its leader.</Description>
+    <Authors>Leugi,</Authors>
+    <SpecialThanks>Tomatekh, JanBoruta, Neirai</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <Homepage>http://forums.civfanatics.com/showthread.php?t=488283</Homepage>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>1</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>0</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events and Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Packs" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="5379B7698E51D076504396CA6DB8EE79" import="1">Art/AlphaQullanaIcon128.dds</File>
+    <File md5="7E5C6E9C5B89DD41A8A9DBCD7C66A337" import="1">Art/AlphaQullanaIcon24.dds</File>
+    <File md5="FBBAD4B9C996A397AE63B91827BDDF4E" import="1">Art/AlphaQullanaIcon256.dds</File>
+    <File md5="CAE189D7F0E56989A0983FDC2841B5D2" import="1">Art/AlphaQullanaIcon32.dds</File>
+    <File md5="861132C25A016ADF56FBA1A312DDA965" import="1">Art/AlphaQullanaIcon45.dds</File>
+    <File md5="57869F39B6A25D815150E76DB4FAC018" import="1">Art/AlphaQullanaIcon48.dds</File>
+    <File md5="9F22335D6A222F5A07F1A350FC56D6C3" import="1">Art/AlphaQullanaIcon64.dds</File>
+    <File md5="542D5B2E8749DBCD4190962BA8F450EA" import="1">Art/AlphaQullanaIcon80.dds</File>
+    <File md5="8CFEDF256DA74718284384E882671517" import="1">Art/flag_mallku.dds</File>
+    <File md5="58772F9650107DCFCB87C75E67018E07" import="1">Art/Katari.dds</File>
+    <File md5="FDC521C4D90BD1EB4673E9FBDB9110C8" import="1">Art/KatariDom.dds</File>
+    <File md5="4AF008267DFEBFD4A34A1B7CCCF71799" import="1">Art/mallku.dds</File>
+    <File md5="F5EBEB929BE2B7A735BC3D5B6582D95D" import="1">Art/mallku_poncho.fxsxml</File>
+    <File md5="2E7653B0D3F3A74D0BDDC3B5A136A824" import="1">Art/mallku_poncho.gr2</File>
+    <File md5="D7E511B123F2D304BE1777A73754977A" import="1">Art/MapQullana.dds</File>
+    <File md5="20B8B4FF0DA130C43CBF23503531D0F6" import="1">Art/PonchoFlag32.dds</File>
+    <File md5="AA0592D184314A62EE3D2A1C469666F5" import="1">Art/QullanaIcon128.dds</File>
+    <File md5="D2A5D1DADC175AD26E666627262E172F" import="1">Art/QullanaIcon24.dds</File>
+    <File md5="595E9F936F2B60FF9CA65B53AF211A06" import="1">Art/QullanaIcon256.dds</File>
+    <File md5="FAA0B8B1DD5F76E6FFE04515EC394953" import="1">Art/QullanaIcon32.dds</File>
+    <File md5="E246561B14DE5AC1BCB0A401C795FB25" import="1">Art/QullanaIcon45.dds</File>
+    <File md5="28EC0F404089C88D5CCE661F328F164B" import="1">Art/QullanaIcon48.dds</File>
+    <File md5="7F491743F1D1B6873E6062B640AD0B2E" import="1">Art/QullanaIcon64.dds</File>
+    <File md5="86E51C58D42D277F5279300D0AF97E7D" import="1">Art/QullanaIcon80.dds</File>
+    <File md5="FBF1AF0AA62C66AC432EEFA58AAA226D" import="1">Art/sv_mallku.dds</File>
+    <File md5="B42A676042BAC104273D08EEBCDBB71E" import="1">Art/sv_poncho.dds</File>
+    <File md5="76D14BF8EC99BCE25716E3316BB5CBEB" import="0">Decisions/AymaraDecisions.xml</File>
+    <File md5="FF107551D35F005BF5AA8A5F7BBD9777" import="0">Decisions/DummyAymaraPolicies.xml</File>
+    <File md5="C66B339302FBDC2BBD68F789931ABDF1" import="1">Decisions/LeugiAymaraDecisions.lua</File>
+    <File md5="D4BFAF461E3B5AE31904C091FD702452" import="0">Lua/CocaPlantation.lua</File>
+    <File md5="EE8CB0F31E9D0046D5166F19883AE904" import="0">Lua/Dualism.lua</File>
+    <File md5="54B5EC08C41E0EC99E66393DA5E5BCA4" import="0">Lua/FaithfromCSRoutes.lua</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">Lua/SaveUtils.lua</File>
+    <File md5="4FEC4DDA56C067E9E61D5C9835A25AAB" import="0">Lua/SettlerRecover.lua</File>
+    <File md5="3C85D8BC7CABB4B6213019B61388BDCE" import="1">Models/MallkuFemale/mallku_female.fxsxml</File>
+    <File md5="28C5EE96A69FC60A4F6019C87CD64FAC" import="1">Models/MallkuFemale/mallku_female.gr2</File>
+    <File md5="8BE1FD3998692BE967217D406ABE888D" import="1">Models/MallkuMale/mallku_male.fxsxml</File>
+    <File md5="257CC6CE1EBBB8E8D8E2631789B78E52" import="1">Models/MallkuMale/mallku_male.gr2</File>
+    <File md5="5F6B620792EC8E9EEB4D05BB46BAEDF2" import="1">Models/mallku_diff.dds</File>
+    <File md5="C3AED162ECD4377ECC9FA44F9A0678A5" import="1">Models/u_qullana_revolutionary.fxsxml</File>
+    <File md5="F32D3A16156EC53513C8769A3CB7DDB8" import="1">Models/u_qullana_revolutionary.gr2</File>
+    <File md5="A70F424B993412DE081C4A80D9BCF328" import="1">Models/u_qullana_revolutionary_diff.dds</File>
+    <File md5="1DEA30E4F4402C79A3F521F902F113FD" import="1">Models/u_qullana_revolutionary_sref.dds</File>
+    <File md5="46643334A3146D329766187B937B6686" import="1">Models/WiphalaBearer/wiphala.fxsxml</File>
+    <File md5="CE61702580B0526385403984BB3D422C" import="1">Models/WiphalaBearer/wiphala.gr2</File>
+    <File md5="14BA84A1FCF4E5BBD3E0F0BD256E9410" import="1">NewArt/CocaLeaf/Coca_fonticon.dds</File>
+    <File md5="3068F0E1262A2FC2AFE9C0F90F1C0895" import="1">NewArt/CocaLeaf/Coca_fonticon.ggxml</File>
+    <File md5="281747F00C5617AAF04E5BA4777569AC" import="1">NewArt/CocaLeaf/Coca_Fonticon.xml</File>
+    <File md5="260590433133955977F613681CD12D68" import="1">NewArt/CocaLeaf/sv_coca.dds</File>
+    <File md5="4A7D0E484D656D139CB183FE299CF7D4" import="1">NewArt/NewAymaraIcons128.dds</File>
+    <File md5="70600459B029A6C1C3476337AA9BBA76" import="1">NewArt/NewAymaraIcons16.dds</File>
+    <File md5="1E355C9AA89540185800662718FA3DB4" import="1">NewArt/NewAymaraIcons24.dds</File>
+    <File md5="26ED44F4BE1337198E8A76C87033F09F" import="1">NewArt/NewAymaraIcons256.dds</File>
+    <File md5="A02F5C27CFEEB088220468AD1AD30255" import="1">NewArt/NewAymaraIcons32.dds</File>
+    <File md5="706136022A048EF58CE630FE664C2E95" import="1">NewArt/NewAymaraIcons45.dds</File>
+    <File md5="12704964BB0ADA6BFD6B8A9DCC0E2B9B" import="1">NewArt/NewAymaraIcons48.dds</File>
+    <File md5="11ADEAB67EFDC22C64F28F9E106ED71C" import="1">NewArt/NewAymaraIcons64.dds</File>
+    <File md5="4588A093B47C5A1AA525A40A75418B77" import="1">NewArt/NewAymaraIcons80.dds</File>
+    <File md5="DE2D04CBB37B22A0F5CEA1837C0888AD" import="0">SQL/AymaraReligions.sql</File>
+    <File md5="7C646EDC85469C910C24998A09490562" import="0">SQL/CocaLeaf.sql</File>
+    <File md5="80225809B404A108DB8860F3C42E54DF" import="0">SQL/NewUnitArtDefines.sql</File>
+    <File md5="D41D8CD98F00B204E9800998ECF8427E" import="0">SQL/TablesAymara.sql</File>
+    <File md5="A60F977FF291EDCA1B064CA17ACE5888" import="0">SQL/TSL.sql</File>
+    <File md5="B5E74813BDC93634463E88A3FF8B58D4" import="0">XML/Buildings/BuildingsAymara.xml</File>
+    <File md5="756E13949EDDA219692CBD558EA55573" import="0">XML/Civilization/CivAymara.xml</File>
+    <File md5="9B9B2464B24DCC107245190DE64C393D" import="0">XML/Civilization/NewTraits.xml</File>
+    <File md5="53A8D9AE1B5BF8B19C13730D85D47268" import="0">XML/GameInfo/IconTextureAtlases.xml</File>
+    <File md5="1A4336EBA1DB79C3B9DB6E13ACFE8BE7" import="0">XML/Improvements/CocaArtDef.xml</File>
+    <File md5="18EBFE8F4E2AEA39142F2BD4ACA408C6" import="0">XML/Improvements/CocaPlantation.xml</File>
+    <File md5="5A8416130549D99EEDDFE3749A655B9E" import="0">XML/Leaders/DiplomaticResponses.xml</File>
+    <File md5="CFABC0488167689F18D2DDBB1C65375D" import="1">XML/Leaders/KatariPeace.mp3</File>
+    <File md5="7061BC5CFEED535CEE3A0FF864A40643" import="1">XML/Leaders/KatariWar.mp3</File>
+    <File md5="DD0293595E6B017A7B1BE51FE8A5F1E8" import="1">XML/Leaders/Katari_Scene.xml</File>
+    <File md5="D721F0EE0B3AEE8D4408DF2B18D16B8C" import="0">XML/Leaders/Leader_Katari.xml</File>
+    <File md5="A3ED31160FFBD7CDB1006242D627B7B0" import="0">XML/Music/AymaraMusic.xml</File>
+    <File md5="425F0D44459167AAA45464BB41C3F2A7" import="0">XML/NewText/AymaraText.xml</File>
+    <File md5="4DD2D9187AF2DC8157D8B3D00A1F25C4" import="0">XML/NewText/KatariSpeech.xml</File>
+    <File md5="7F002B76CA35ADBF5FE4F7FC130C6EAD" import="0">XML/Units/NewUnits.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>SQL/TablesAymara.sql</UpdateDatabase>
+      <UpdateDatabase>XML\Leaders\Katari_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>XML\Civilization\CivAymara.xml</UpdateDatabase>
+      <UpdateDatabase>XML\GameInfo\Civ5Specialists.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NewText/AymaraText.xml</UpdateDatabase>
+      <UpdateDatabase>XML\GameInfo\IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML\Leaders\Leader_Katari.xml</UpdateDatabase>
+      <UpdateDatabase>XML\Leaders\DiplomaticResponses.xml</UpdateDatabase>
+      <UpdateDatabase>XML\Civilization\NewTraits.xml</UpdateDatabase>
+      <UpdateDatabase>XML\Units\NewUnits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/BuildingsAymara.xml</UpdateDatabase>
+      <UpdateDatabase>XML\NewText\KatariSpeech.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/NewUnitArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Music/AymaraMusic.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/TSL.sql</UpdateDatabase>
+      <UpdateDatabase>Decisions/AymaraDecisions.xml</UpdateDatabase>
+      <UpdateDatabase>Decisions/DummyAymaraPolicies.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Improvements/CocaPlantation.xml</UpdateDatabase>
+      <UpdateDatabase>NewArt/CocaLeaf/Coca_Fonticon.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/CocaLeaf.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/AymaraReligions.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/SettlerRecover.lua">
+      <Name>Eternal Settler</Name>
+      <Description>Eternal Settler</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Dualism.lua">
+      <Name>Poncho Rojo Upgrades</Name>
+      <Description>Poncho Rojo Upgrades</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/CocaPlantation.lua">
+      <Name>Coca Plantation</Name>
+      <Description>Coca Plantation</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/FaithfromCSRoutes.lua">
+      <Name>Faith From Routes</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

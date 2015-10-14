@@ -1,0 +1,586 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/26/2013 2:46:09 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_QULLANA_NOTIFICATION_TITLE">
+			<Text>Faith and Combat Boost</Text>
+		</Row>
+		<Row Tag="TXT_KEY_QULLANA_NOTIFICATION">
+			<Text>Because of having an even number of cities, your you earn more [ICON_PEACE]Faith per turn and receive a combat bonus!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOT_QULLANA_NOTIFICATION_TITLE">
+			<Text>Combat and Faith Boost Lost</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOT_QULLANA_NOTIFICATION">
+			<Text>Because of having an odd number of cities, your units lose their combat bonus and you lose the extra yields.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_QULLANA_01">
+			<Text>Hatun Colla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_QULLANA_02">
+			<Text>Lupacas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_QULLANA_03">
+			<Text>Pacajes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_QULLANA_04">
+			<Text>Quillacas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_QULLANA_05">
+			<Text>Zora Zora</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_QULLANA_06">
+			<Text>Carangas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_QULLANA_07">
+			<Text>Chichas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_QULLANA_08">
+			<Text>Charcas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_QULLANA_09">
+			<Text>Chuís</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_QULLANA_10">
+			<Text>Cara Caras</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_QULLANA_11">
+			<Text>Lipes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_QULLANA_12">
+			<Text>Warisata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_QULLANA_13">
+			<Text>Ayaviri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_QULLANA_14">
+			<Text>Pulacayo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_QULLANA_15">
+			<Text>Achacachi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_QULLANA_16">
+			<Text>Jesús de Machaca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_QULLANA_17">
+			<Text>Canchis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_QULLANA_18">
+			<Text>Quillacollo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_QULLANA_ADJECTIVE">
+			<Text>Aymara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_QULLANA_DESC">
+			<Text>Señoríos Aymaras</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_QULLANA_SHORT_DESC">
+			<Text>The Aymara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_QULLANA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_QULLANA_DOM_TEXT_1">
+			<Text>
+				Blessings of Pachamama upon you, Tupac Katari. You led the proud Aymara people to rebel against the Spanish Colonies.[NEWLINE][NEWLINE] Having noticed the oppresion that your people lived at the colonies at a young age, you decided to lead the most important indigenous revolutionary movement before the South American Independence war. In that, you continued symbolically and literally the attempts of both Tomas Katari and Tupak Amari; both of them also great indigenist revolutionaries. You formed the Quichwa Aymara Confederation, the great union of the Qullana, which united those that were oppresed by the colonies to lead a revolution.[NEWLINE][NEWLINE]In the end however, your army was defeated at Peñas, in 1781. Moments before your death, your final words echoed through the Altiplano: "You kill me now, but I'll come back and be millions...".[NEWLINE][NEWLINE] Great revolutionary, mallku of the Aymara people, heed the call of those that still fight against their oppresion. Your people still call you for you to lead them to freedom, will you accept once again their calling? Will you build a civilization that will stand the test of time?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_QULLANA_TEXT_1">
+			<Text>
+				Blessings of Pachamama upon you, Tupac Katari. You led the proud Aymara people to rebel against the Spanish Colonies.[NEWLINE][NEWLINE] Having noticed the oppresion that your people lived at the colonies at a young age, you decided to lead the most important indigenous revolutionary movement before the South American Independence war. In that, you continued symbolically and literally the attempts of both Tomas Katari and Tupak Amaru; both of them also great indigenist revolutionaries. You formed the Quichwa Aymara Confederation, the great union of the Qullana, which united those that were oppresed by the colonies to lead a revolution.[NEWLINE][NEWLINE]In the end however, your army was defeated at Peñas, in 1781. Moments before your death, your final words echoed through the Altiplano: "You kill me now, but I'll come back and be millions...".[NEWLINE][NEWLINE] Great revolutionary, mallku of the Aymara people, heed the call of those that still fight against their oppresion. Your people still call you for you to lead them to freedom, will you accept once again their calling? Will you build a civilization that will stand the test of time?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_KATARI_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_KATARI_TEXT_1">
+			<Text>Túpac Katari or Catari (also Túpaj Katari) (c. 1750 – 15 November 1781), born Julián Apasa Nina, was a leader in the rebellions of indigenous people of Bolivia against the Spanish Colonies in the early 1780s.[NEWLINE][NEWLINE]A member of the Qullana, Apasa took the name "Tupac Katari" to honor two rebel leaders: Tomás Katari, and Túpac Amaru II. ("Katari" means "serpent, large snake" in Qullana; "Amaru" means the same in Quechua, the language of Tupac Amaru. "Tupac" means "brilliant, resplendent" in both languages.) He raised an army of some 40,000 and laid siege to the city of La Paz in 1781. Katari and his wife, Bartolina Sisa set up court in El Alto and maintained the siege for 184 days, from March to June and from August to October. Sisa was a commander of the siege, and played the crucial rule following Katari's capture in April. The siege was broken by colonial troops who advanced from Lima and Buenos Aires.[NEWLINE][NEWLINE]Katari laid siege again later in the year, this time joined by Andrés Túpac Amaru, nephew of Túpac Amaru II. But Katari was again unsuccessful.[NEWLINE][NEWLINE]By August 5th, Túpac Katari and his forces had again besieged the city, and a few weeks later they were joined by forces led by Andrés Túpac Amaru. In mid-September, another cousin of the Inca rebel, Miguel Bastidas Túpac Amaru, arrived to help prosecute the siege before it was finally broken by loyalists led by Josef Reseguín on October 17, 1781. As the royalist noose tightened, Túpac Katari was captured after a feast and was executed on November 13, and Diego Cristóbal Túpac Amaru was captured at Marcapata, in Quispicanchis, on March 15, 1782. Seeing few alternatives, Miguel Bastidas Túpac Amaru obtained a pardon by assisting the Spanish in suppressing what was left of the rebellion.[NEWLINE][NEWLINE]Despite his subsequent betrayal, defeat, torture, and execution (torn by his extremities into four pieces, or Quartering), Túpac Katari is remembered as a hero by modern indigenous movements in Bolivia, who call themselves Katarismo, specially inspired by his phrase "You kill me now, but I'll come back and be millions". A Bolivian guerrilla group, the Tupac Katari Guerrilla Army, also bears his name.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_KATARI_LIVED">
+			<Text>1750 - 1751 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_KATARI_NAME">
+			<Text>Tupac Katari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_KATARI_SUBTITLE">
+			<Text>Indigenist Revolutionary</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KATARI">
+			<Text>Tupac Katari</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_KATARI_FACT_1">
+			<Text>Although "Tupac Katari" are both Quechua words, Tupac Katari spoke mostly Aymara.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_KATARI_FACT_2">
+			<Text>Before becoming a revolutionary, Julian Apaza was a bread baker and a sacristan at Ayo Ayo. Some say that the Church at Ayo Ayo inspired his revolutionary ideals.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_KATARI_FACT_3">
+			<Text>
+				His last words were "You kill me now, but I'll come back as millions", which in Aymara is quoted as follows: "Naya saparukiw jiwayapxitata, nayxarusti waranqa, waranqanakaw kut'anixa...
+				".</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_KATARI_FACT_4">
+			<Text>
+				A popular story says that the day Tupac Katari was born, a couple of Mallkus (Indigenist name for the Condors, which is also used by their leaders) were seen in the mountains, one symbolizing the Aymara people and another symbolizing the Quechua people.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_KATARI_FACT_5">
+			<Text>
+				After his dismemberment, his right hand was buried at Achacachi, his left hand at Ayo Ayo, his left leg at Caquiaviri and his right hand at Chulumani.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_KATARI_FACT_6">
+			<Text>
+				A satellite being made in Bolivia will adopt Tupac Katari's name as a way of recognizing his fight.
+			</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_KATARI_TITLES_1">
+			<Text>Mallku</Text>
+		</Row>
+		
+
+
+		<Row Tag="TXT_KEY_TRAIT_AYLLU_TRADITION">
+			<Text>Land Trade Routes established with City-States grant [ICON_FOOD] Food and [ICON_PEACE] Faith based on the amount of gold earned through the Trade Route. Having an even number of Cities grants a combat bonus and increased [ICON_PEACE] Faith in all cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_AYLLU_TRADITION_SHORT">
+			<Text>Dualism and Reciprocity</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_QULLANA_REDPONCHO">
+			<Text>Poncho Rojo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_REDPONCHO">
+			<Text>Skirmisher unit, the Poncho Rojo has an extra movement on hills and may move after pillaging.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_REDPONCHO_TEXT">
+			<Text>The Aymara Ponchos Rojos (Red Ponchos) are an indigenist revolutionary group in Bolivia. They call themselves the "Original Indigenous of Omasuyos" and fight to defend the rights of the qullana indigenous that live in Bolivia. As such, they usually carry an old musket and a traditional whip, and are dressed with an autentic Andean red poncho, to identify themselves. Although they are not precisely an army, their strenght comes by the fact they always strike in big numbers. Once time passed by, the Revolutionaries kept their muskets and their whips even though they are obsolete by now.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AMERICAN_REDPONCHO_STRATEGY">
+			<Text>The Poncho Rojo is ideal to generate unhappiness in the enemies' territory. Pillaging and moving away is useful to destroy all luxury and strategical resources of the enemy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_QULLANA_0">
+			<Text>Waman Puma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_QULLANA_1">
+			<Text>Mamani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_QULLANA_2">
+			<Text>Quispe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_QULLANA_3">
+			<Text>Condori</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_QULLANA_4">
+			<Text>Wascar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_QULLANA_5">
+			<Text>Choque Canqui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_QULLANA_6">
+			<Text>Layme</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_QULLANA_7">
+			<Text>Sisa</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_QULLANA_8">
+			<Text>Apaza</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_QULLANA_9">
+			<Text>Arpasi</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_PROMOTION_MALLKU">
+			<Text>Chief of the Community</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MALLKU_HELP">
+			<Text>Grants a Combat Bonus to adjacent units. The unit is lost upon leaving friendly territory</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_MALLKU_SPEED">
+			<Text>Condor of the Andes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MALLKU_SPEED_HELP">
+			<Text>Extra Movement on Hills and Extra sight</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_PONCHO">
+			<Text>Revolutionary</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PONCHO_HELP">
+			<Text>May move after pillaging and gain extra movement on Hills.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_PROMOTION_PONCHO_0">
+			<Text>Traditional Warrior</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PONCHO_1_HELP">
+			<Text>Combat Bonus after the Discovery of Rifling</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PONCHO_2_HELP">
+			<Text>Combat Bonus after the Discovery of Replaceable Parts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PONCHO_3_HELP">
+			<Text>Combat Bonus after the Discovery of Plastics</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_UNIT_MALLKU">
+			<Text>Mallku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MALLKU_HELP">
+			<Text>Aymara replacement for the Settler, cheaper and doesn't stop city growth when trained. Mallkus get extra movement on hills and more sight. After founding a City, the Mallku stays alive and earns the Great General promotion, but its lost upon leaving territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MALLKU_STRATEGY">
+			<Text>The Mallku are a mobile bonus in friendly lands. They are best used defensevily, as they'll die quickly when leaving friendly territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MALLKU_TEXT">
+			<Text>
+				Mallku is a title roughly translating as "prince" or "leader" in the Aymara language of South America. They recognise an Apu Mallku as their "supreme leader" or "king". There is also an institution called the Council of Mallkus and Amautas which acts rather like an upper house of the indigenous parliament of the Andes region and consists of four delegates from each of the modern Latin American states that comprise the Greater Collasuyu region.
+				[NEWLINE][NEWLINE]Mallkus are the heads of the Ayllus, the family-based system of the Andean civilizations. They have the responsibility of managing the community and the crops.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_APACHETA">
+			<Text>Apacheta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_APACHETA_HELP">
+			<Text>Replacement for Shrine. +25% Land Trade Route Range. Generates +1 [ICON_PEACE] Faith if there's a Land Trade Route originating from this City.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_APACHETA_TEXT">
+			<Text>
+				An apacheta is a stone cairn, a small pile of rocks, built along the trail, the term has a broader spiritual meaning especially in the andean cultures.
+
+				[NEWLINE][NEWLINE]Apacheta were built by the Aymara as they climbed the trail up the Andean mountain passes. They picked up a small stone and carried it for a short distance to the summit. They then added the stone to an existing apacheta located along the trail or left the stone as the beginning of a new apacheta. Travelers then said a prayer to the gods for luck and protection during their travels and for the elimination of travel fatigue. If no suitable stone was available, travelers would add other objects such as sea shells or coca leaves. In addition to being a source of spiritual power, apachetas also served as trail markers for the rugged mountain terrain.
+
+				[NEWLINE][NEWLINE]The word apacheta means “the source where the flow begins” and refers to either the spiritual flow or the flow of the mighty Amazon River, the source of sustenance for many Aymara. They were an important part of the Vertical Trade system
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_APACHETA_STRATEGY">
+			<Text>Apachetas can be used to extend the range of Trade Routes, allowing you to earn more faith through them when connected to City States
+				</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_RESOURCE_COCA">
+			<Text>Coca Leaf</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_COCA_TEXT">
+			<Text>
+				Although more known for its relation with Cocaine, Coca is a plant with a complex array of mineral nutrients, essential oils, and varied compounds with greater or lesser pharmacological effects – one of which happens to be the alkaloid cocaine, which in its concentrated, synthesized form is a stimulant with possible addictive properties.
+
+				[NEWLINE][NEWLINE]The coca leaf has been chewed and brewed for tea traditionally for centuries among its indigenous peoples in the Andean region – and does not cause any harm and is beneficial to human health.
+
+				[NEWLINE][NEWLINE]The traditional method of chewing coca leaf, called acullico, consists of keeping a saliva-soaked ball of coca leaves in the mouth together with an alkaline substance that assists in extracting cocaine from the leaves.
+
+				[NEWLINE][NEWLINE]When chewed, coca acts as a mild stimulant and suppresses hunger, thirst, pain, and fatigue. It helps overcome altitude sickness. Coca chewing and drinking of coca tea is carried out daily by millions of people in the Andes without problems, and is considered sacred within indigenous cultures. Coca tea is widely used, even outside the Andean Amazon region. Coca has an established use spread among all social classes, in two Northern provinces of Argentina. There is an increasing use of coca flour as a food supplement.
+
+				[NEWLINE][NEWLINE]Because of its stimulant effect coca leaf was originally used in the soft drink Coca Cola. In 1903 it was removed and a decocainized coca extract is one of the flavouring ingredients.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_IMPROVEMENT_COCA_PLANTATION">
+			<Text>Coca Leaf Plantation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_COCA_PLANTATION">
+			<Text>Build a Coca Leaf Plantation</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILD_COCA_PLANTATION_HELP">
+			<Text>Building a Plantation here will connect a source of [ICON_RES_COCA] Coca Leaf for the empire!</Text>
+		</Row>
+	</Language_en_US>
+
+
+
+
+	<Language_ES_ES>
+		<Row Tag="TXT_KEY_QULLANA_NOTIFICATION_TITLE">
+			<Text>Bonificación de Velocidad de Trabajo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_QULLANA_NOTIFICATION">
+			<Text>Al tener un número par de ciudadanos, tus trabajadores trabajan más rápido!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOT_QULLANA_NOTIFICATION_TITLE">
+			<Text>Bonificación de Velocidad de Trabajo perdida</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOT_QULLANA_NOTIFICATION">
+			<Text>>Al tener un número impar de ciudadanos, tus trabajadores trabajan a velocidad normal.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_CITY_NAME_QULLANA_01">
+			<Text>Hatun Colla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_QULLANA_02">
+			<Text>Lupacas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_QULLANA_03">
+			<Text>Pacajes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_QULLANA_04">
+			<Text>Quillacas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_QULLANA_05">
+			<Text>Zora Zora</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_QULLANA_06">
+			<Text>Carangas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_QULLANA_07">
+			<Text>Chichas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_QULLANA_08">
+			<Text>Charcas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_QULLANA_09">
+			<Text>Chuís</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_QULLANA_10">
+			<Text>Cara Caras</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_QULLANA_11">
+			<Text>Lipes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_QULLANA_12">
+			<Text>Warisata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_QULLANA_13">
+			<Text>Ayaviri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_QULLANA_14">
+			<Text>Pulacayo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_QULLANA_15">
+			<Text>Achacachi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_QULLANA_16">
+			<Text>Jesús de Machaca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_QULLANA_17">
+			<Text>Canchis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_QULLANA_18">
+			<Text>Quillacollo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_QULLANA_ADJECTIVE">
+			<Text>aymara|aymara|aymara|aymara</Text>
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_QULLANA_DESC">
+			<Text>Señoríos Aymaras</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_QULLANA_SHORT_DESC">
+			<Text>Los aymara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_QULLANA_HEADING_1">
+			<Text>Historia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_QULLANA_DOM_TEXT_1">
+			<Text>
+				Que las bendiciones de la Pachamama, madre tierra, sigan tu camino, Tupac Katari. Lideraste al orgulloso pueblo aymara para rebelarse contra las Colonias Españolas.[NEWLINE][NEWLINE]Notando la opresión que tu gente vivía en las colonias desde tu niñez, decidiste llevar acabo la más importante revolución indígena en Sudamérica, previa a la guerra de la Independencia. Al hacerlo, continuaste simbólica y literalmente los intentos de Tomás Katari y Tupak Amaru; ambos también líderes indígenas. Conformaste la Confederación Quichwa Aymara, la gran unión de los Qullana, que unió a todos los oprimidos para la revolución.[NEWLINE][NEWLINE]Al final, sin embargo, tus tropas fueron derrotadas en Peñas, en 1781. Momentos previos a tu muerte, tus últimas palabras se escucharon en todo el Altiplano: "Me matan ahora, pero volveré y seré millones...".[NEWLINE][NEWLINE]Gran revolucionario, mallku de los aymara, escucha el llamdao de aquello que aún luchan contra la opresión y la injusticia. Tu gente aún clama to nombre para que los lideres a la libertad, aceptarás su llamado? Construirás una civilización que soporte las pruebas del tiempo?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_QULLANA_TEXT_1">
+			<Text>
+				Que las bendiciones de la Pachamama, madre tierra, sigan tu camino, Tupac Katari. Lideraste al orgulloso pueblo aymara para rebelarse contra las Colonias Españolas.[NEWLINE][NEWLINE]Notando la opresión que tu gente vivía en las colonias desde tu niñez, decidiste llevar acabo la más importante revolución indígena en Sudamérica, previa a la guerra de la Independencia. Al hacerlo, continuaste simbólica y literalmente los intentos de Tomás Katari y Tupak Amaru; ambos también líderes indígenas. Conformaste la Confederación Quichwa Aymara, la gran unión de los Qullana, que unió a todos los oprimidos para la revolución.[NEWLINE][NEWLINE]Al final, sin embargo, tus tropas fueron derrotadas en Peñas, en 1781. Momentos previos a tu muerte, tus últimas palabras se escucharon en todo el Altiplano: "Me matan ahora, pero volveré y seré millones...".[NEWLINE][NEWLINE]Gran revolucionario, mallku de los aymara, escucha el llamdao de aquello que aún luchan contra la opresión y la injusticia. Tu gente aún clama to nombre para que los lideres a la libertad, aceptarás su llamado? Construirás una civilización que soporte las pruebas del tiempo?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_KATARI_HEADING_1">
+			<Text>Historia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_KATARI_TEXT_1">
+			<Text>
+				Julián Apaza Nina, más conocido como Túpac Catari, Túpaj Katari o, simplemente Katari (Ayo Ayo, provincia de Sica Sica, Virreinato del Perú, 1750 – La Paz, 15 de noviembre de 1781) fue un indígena aimara que lideró una de las rebeliones más extensas contra el Imperio Español en el Alto Perú, junto a su esposa Bartolina Sisa; y su hermana menor Gregoria Apaza.
+
+				[NEWLINE][NEWLINE]Fue sacristán y panadero antes de iniciar su rebelión. Adoptó el seudónimo de Túpac Katari en homenaje al cacique-Inca rebelde Túpac Amaru II que se levantó en Cusco; y Tomás Catari, cacique de Chayanta.
+
+				[NEWLINE][NEWLINE]Como parte del levantamiento, Túpac Katari formó un ejército de cuarenta mil hombres y cercó dos veces por un tiempo en 1781 a la ciudad española de La Paz, pero los dos intentos terminaron en fracaso por maniobras políticas y militares de los españoles, así como alianzas con líderes indígenas contrarios a Túpac Catari. Finalmente todos los cabecillas de la rebelión fueron apresados y ejecutados, incluida su esposa, Bartolina Sisa, y su hermana, Gregoria Apaza.
+
+				[NEWLINE][NEWLINE]Este levantamiento indígena de finales del siglo XVIII fue el más extenso geográficamente y con más apoyo. Tomó dos años a los virreinatos afectados sofocarlo.
+
+				[NEWLINE][NEWLINE]Los rebeldes asediaron la ciudad de La Paz desde el 13 de marzo de 1781 durante ciento nueve días sin éxito, debido a la resistencia y al apoyo de tropas mandadas desde Buenos Aires. En ese contexto el virrey Agustín de Jáuregui aprovechó la baja moral de los rebeldes para ofrecer amnistía a los que se rindieran, lo cual dio muchos frutos, incluyendo algunos líderes del movimiento. Túpac Katari, que no había aceptado la amnistía y se dirigió a Achacachi para reorganizar sus fuerzas dispersas, fue traicionado por algunos de sus seguidores y luego apresado por los españoles, la noche del 9 de noviembre de 1781.
+
+				[NEWLINE][NEWLINE]Durante el segundo cerco se unió a los rebeldes túpackataristas, Andrés Túpac Amaru, sobrino de Túpac Amaru II y vinculado sentimentalmente a Gregoria Apaza, hermana menor de Túpac Catari.
+
+				[NEWLINE][NEWLINE]Como recompensa moral de los esfuerzos y sacrificios que tuvieron que soportar los españoles de la ciudad de La Paz, por cédula real del 20 de mayo de 1784, a la ciudad de La Paz le fue otorgada el título de "noble, valerosa y fiel".
+
+				[NEWLINE][NEWLINE]Después de ser apresado fue sometido a tortura y seis días después fue sentenciado, en ejecución similar a la de Túpac Amaru II, a ser atado de sus extremidades para que tirasen cuatro caballos de ellas, siendo finalmente descuartizado. Sus partes fueron repartidas por el Alto Perú, en señal de “escarmiento a los indios rebeldes”, su cabeza fue expuesta en el cerro de K’ili K’ili (La Paz), su brazo derecho en Ayo Ayo, el izquierdo en Achacachi, su pierna derecha en Chulumani, y la izquierda en Caquiaviri.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_KATARI_LIVED">
+			<Text>1750 - 1751 d.C.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_KATARI_NAME">
+			<Text>Tupac Katari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_KATARI_SUBTITLE">
+			<Text>Líder Revolucionario Indígena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_KATARI">
+			<Text>Tupac Katari</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_KATARI_FACT_1">
+			<Text>Aunque las palabras "Tupac Katari" son ambas de origen Quechua, Tupac Katari habló sobre todo Aymara.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_KATARI_FACT_3">
+			<Text>
+				Sus últimas palabras fueron "Me matan ahora, pero volveré y seré millones", que en aymara originalmente fueron: "Naya saparukiw jiwayapxitata, nayxarusti waranqa, waranqanakaw kut'anixa..."
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_KATARI_FACT_4">
+			<Text>
+				Una historia popular relata que el día en el que Tupac Katari nación, un par de Mallkus fueron vistos en las montañas, simbolizando a los Aymara y a los Quechua.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_KATARI_FACT_6">
+			<Text>
+				Un satélite en Bolivia tomará el nombre de Tupac Katari, como una forma de reconocer su lucha.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_KATARI_TITLES_1">
+			<Text>Mallku</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_TRAIT_AYLLU_TRADITION">
+			<Text>Cada vez que tengas un número par de  Ciudadanos[ICON_CITIZEN] en el imperio, los trabajadores incrementan su ritmo de trabajo y recibe 4 puntos de Fé [ICON_FAITH]. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_AYLLU_TRADITION_SHORT">
+			<Text>Dualismo y Reciprocidad</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_QULLANA_REDPONCHO">
+			<Text>Poncho Rojo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_REDPONCHO">
+			<Text>El Poncho Rojo tiene más movimiento en montañas, y puede moverse después del pillaje, a diferencia del Mosquete, al cual reemplaza, puede ser obtenido desde los trabajadores.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_REDPONCHO_TEXT">
+			<Text>
+				Los Aymaras Indígenas Originarios del Jach´a Omasuyos (Provincia Omasuyos), también llamados "Ponchos Rojos", son un movimiento indígena revolucionario que se levantó contra la adversidad de un medio político-social que consideraba normal la situación de inferioridad y dependencia en que se situaban. Los Ponchos Rojos es una milicia conformada en su mayoría por reservistas aimaras del ejército boliviano de la región andina de Omasuyos.
+
+				La fecha de su origen es incierta, pero se supo de su existencia cuando combatió de manera irregular el año 2003 al gobierno de Gonzalo Sanchez de Lozada y cuando anuncio el año 2007 que defenderia la integridad territorial de Bolivia ante la amenaza de los separatistas de la ciudad de Santa Cruz de la Sierra. El 23 de noviembre de 2007, en un acto público, los Ponchos Rojos degollaron a dos perros como señal de amenaza para los separatistas. El gobierno boliviano y la opinión publica en general reprochó estas acciones.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_AMERICAN_REDPONCHO_STRATEGY">
+			<Text>El Poncho Rojo es ideal para generar infelicidad en el territorio enemigo, por su movimiento extra al destruir mejoras de terreno.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_QULLANA_0">
+			<Text>Waman Puma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_QULLANA_1">
+			<Text>Mamani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_QULLANA_2">
+			<Text>Quispe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_QULLANA_3">
+			<Text>Condori</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_QULLANA_4">
+			<Text>Wascar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_QULLANA_5">
+			<Text>Choque Canqui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_QULLANA_6">
+			<Text>Layme</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_QULLANA_7">
+			<Text>Sisa</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_QULLANA_8">
+			<Text>Apaza</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_QULLANA_9">
+			<Text>Arpasi</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_PROMOTION_MALLKU">
+			<Text>Jefe de la Comunidad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MALLKU_HELP">
+			<Text>-10% de Combate en enemigos adyacentes. La unidad se pierde al salir de su territorio</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_MALLKU_SPEED">
+			<Text>Cóndor de los Andes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MALLKU_SPEED_HELP">
+			<Text>+2 de Movimiento. Ignora los impedimentos del terreno.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_PONCHO">
+			<Text>Revolucionario</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PONCHO_HELP">
+			<Text>Puede moverse después del pillaje y tiene un movimiento extra en colinas. 
+			</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_PROMOTION_PONCHO_0">
+			<Text>Guerrero Tradicional</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PONCHO_1_HELP">
+			<Text>Bono de combate por descubrir la tecnología de Rifles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PONCHO_2_HELP">
+			<Text>Bono de combate por descubrir la tecnología de Partes Reemplazables</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PONCHO_3_HELP">
+			<Text>Bono de combate por descubrir la tecnología del Plástico</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_MALLKU">
+			<Text>Mallku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MALLKU_HELP">
+			<Text>Reemplazo aymara para el colono. Los Mallkus adquieren un punto más de movimiento, e ignoran los impedimentos del terreno. Al fundar una ciudad, el Mallku se mantiene vivo, y adquiere un ascenso que reduce el combate de enemigos adyacentes, pero no puede salir de su territorio.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MALLKU_STRATEGY">
+			<Text>The Mallku son un bono de combate en sus tierras, que puede moverse de un lado a otro, eso los hace estratégicamente importantes como una unidad especialmente única.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MALLKU_TEXT">
+			<Text>
+				Mallku es un título que significa "líder" o "príncipe" para la cultura Aymara. Se reconoce un Apu Mallku como un líder de varias comunidades aymara. Además existe el consejo de los Mallkus y Amautas, que funciona como una especie de parlamento aymara. Son las cabezas de los Ayllus, el sistema basado en familias de las civilizaciones andinas. Tienen la responsabilidad de liderar las comunidades y la cosecha, además de proteger las comunidades de invasiones y otros peligros.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_QULLANA">
+			<Text>Marka Aymara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_QULLANA_HELP">
+			<Text>Esta ciudad es una Marka Aymara, puede establecer rutas de Comida[ICON_FOOD] y Producción[ICON_PRODUCTION] con otras Markas Aymaras</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_QULLANA_TEXT">
+			<Text>
+				Un aillu o aillo (en quechua o aimara: ayllu) es una forma de comunidad familiar extensa originaria de la región andina con una descendencia común –real o supuesta– que trabaja en forma colectiva (véase ayni) en un territorio de propiedad común. El aillu era una agrupación de familias que se consideraba descendiente de un lejano antepasado común.
+
+				El Mallku era el jefe del aillu y quien se encargaba de distribuir las tierras, organizar los trabajos colectivos y actuar como juez de la comunidad. El cargo de curaca o jefe no se heredaba, sino que era seleccionado a través de un ritual especial; en algunas ocasiones eran nombrados directamente desde el Cuzco.
+
+				El estado también guardaba comida en caso que un aillu tuviera una emergencia que no les permitiera trabajar su tierra (por inundaciones, terremotos o enfermedad de gran parte del aillu). Los miembros de cada aillu también debían utilizar parte de su tiempo para trabajar la tierra que se apartaba para los dioses y los líderes religiosos. Aparte del trabajo ya mencionado, cada aillu debía proveer hombres para hacer obras públicas como construir caminos, puentes y edificios públicos. A este trabajo se le denominaba la mita.
+			</Text>
+		</Row>
+	</Language_ES_ES>
+</GameData>
+  

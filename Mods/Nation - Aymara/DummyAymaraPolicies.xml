@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/18/2014 2:20:01 PM -->
+<GameData>
+	<Policies>
+		<Row>
+			<Type>POLICY_PULACAYO</Type>
+			<Description>TXT_KEY_POLICY_FREE_RELIGION</Description>
+			<Civilopedia>TXT_KEY_POLICY_FREERELIGION_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_FREE_RELIGION_HELP</Help>
+			<GridX>1000</GridX>
+			<GridY>1000</GridY>
+			<PortraitIndex>47</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+		</Row>
+		<Row>
+			<Type>POLICY_COCA</Type>
+			<Description>TXT_KEY_POLICY_FREE_RELIGION</Description>
+			<Civilopedia>TXT_KEY_POLICY_FREERELIGION_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_FREE_RELIGION_HELP</Help>
+			<GridX>1000</GridX>
+			<GridY>1000</GridY>
+			<PortraitIndex>47</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+		</Row>
+	</Policies>
+</GameData>

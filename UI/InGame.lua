@@ -1591,6 +1591,12 @@ ContextPtr:LoadNewContext("YieldFromMusic")
 ContextPtr:LoadNewContext("YieldOthersGW")
 ContextPtr:LoadNewContext("FakeJungleBias")
 
+-- Nation - Aymara --
+ContextPtr:LoadNewContext("SettlerRecover")
+ContextPtr:LoadNewContext("Dualism")
+ContextPtr:LoadNewContext("CocaPlantation")
+ContextPtr:LoadNewContext("FaithfromCSRoutes")
+
 -- Nation - Peru --
 ContextPtr:LoadNewContext("GoldFromWondersTrait")
 ContextPtr:LoadNewContext("PeaceBuildingTrait")

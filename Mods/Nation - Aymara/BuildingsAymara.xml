@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/30/2013 5:52:01 PM -->
+<GameData>
+	<BuildingClasses>
+
+		<Row>
+			<Type>BUILDINGCLASS_QULLANA_BONUS</Type>
+			<DefaultBuilding>BUILDING_QULLANA_BONUS</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_QULLANA</Description>
+			<NoLimit>true</NoLimit>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_APACHETA_BONUS</Type>
+			<DefaultBuilding>BUILDING_APACHETA_BONUS</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_APACHETA</Description>
+			<NoLimit>true</NoLimit>
+		</Row>
+
+
+	</BuildingClasses>
+	<Buildings>
+
+		<Replace>
+			<Type>BUILDING_APACHETA</Type>
+			<BuildingClass>BUILDINGCLASS_SHRINE</BuildingClass>
+			<FreeStartEra>ERA_MEDIEVAL</FreeStartEra>
+			<MaxStartEra>ERA_RENAISSANCE</MaxStartEra>
+			<Cost>45</Cost>
+			<TradeRouteLandDistanceModifier>25</TradeRouteLandDistanceModifier>
+			<GoldMaintenance>1</GoldMaintenance>
+			<PrereqTech>TECH_POTTERY</PrereqTech>
+			<Description>TXT_KEY_BUILDING_APACHETA</Description>
+			<Help>TXT_KEY_BUILDING_APACHETA_HELP</Help>
+			<Civilopedia>TXT_KEY_BUILDING_APACHETA_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_APACHETA_STRATEGY</Strategy>
+			<ArtDefineTag>TEMPLE</ArtDefineTag>
+			<ConquestProb>66</ConquestProb>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>NEW_QULLANA_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+		</Replace>
+		
+		
+		<Row>
+			<Type>BUILDING_QULLANA_BONUS</Type>
+			<BuildingClass>BUILDINGCLASS_QULLANA_BONUS</BuildingClass>
+			<Cost>-1</Cost>
+			<Help>TXT_KEY_BUILDING_QULLANA_HELP</Help>
+			<Description>TXT_KEY_BUILDING_QULLANA</Description>
+			<Civilopedia>TXT_KEY_BUILDINGS_QULLANA_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_QULLANA_HELP</Strategy>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NukeImmune>true</NukeImmune>
+			<MinAreaSize>-1</MinAreaSize>
+			<NeverCapture>true</NeverCapture>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>CIV_COLOR_ATLAS_QULLANA</IconAtlas>
+		</Row>
+	
+		
+		<Row>
+			<Type>BUILDING_APACHETA_BONUS</Type>
+			<BuildingClass>BUILDINGCLASS_APACHETA_BONUS</BuildingClass>
+			<Cost>-1</Cost>
+			<Help>TXT_KEY_BUILDING_QULLANA_HELP</Help>
+			<Description>TXT_KEY_BUILDING_QULLANA</Description>
+			<Civilopedia>TXT_KEY_BUILDINGS_QULLANA_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_QULLANA_HELP</Strategy>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NukeImmune>true</NukeImmune>
+			<MinAreaSize>-1</MinAreaSize>
+			<NeverCapture>true</NeverCapture>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>CIV_COLOR_ATLAS_QULLANA</IconAtlas>
+		</Row>
+
+
+	</Buildings>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_QULLANA_BONUS</BuildingType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_APACHETA</BuildingType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_APACHETA_BONUS</BuildingType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<Building_YieldModifiers>
+		<Row>
+			<BuildingType>BUILDING_QULLANA_BONUS</BuildingType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>25</Yield>
+		</Row>
+	</Building_YieldModifiers>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_APACHETA</BuildingType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>100</Flavor>
+		</Row>
+	</Building_Flavors>
+</GameData>

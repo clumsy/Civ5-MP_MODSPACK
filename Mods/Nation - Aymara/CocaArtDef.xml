@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/18/2014 2:01:57 PM -->
+<GameData>
+	<ArtDefine_Landmarks>
+		<!-- COCA - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<Row>
+			<Era>Any</Era>
+			<State>Any</State>
+			<Scale>0.939999997615814</Scale>
+			<ImprovementType>ART_DEF_IMPROVEMENT_NONE</ImprovementType>
+			<LayoutHandler>SNAPSHOT</LayoutHandler>
+			<ResourceType>ART_DEF_RESOURCE_COCA</ResourceType>
+			<Model>cocoa.fxsxml</Model>
+			<TerrainContour>1</TerrainContour>
+		</Row>
+		<Row>
+			<Era>Ancient</Era>
+			<State>UnderConstruction</State>
+			<Scale>0.959999978542328</Scale>
+			<ImprovementType>ART_DEF_IMPROVEMENT_PLANTATION</ImprovementType>
+			<LayoutHandler>SNAPSHOT</LayoutHandler>
+			<ResourceType>ART_DEF_RESOURCE_COCA</ResourceType>
+			<Model>plantation_mid_cocoa_hb.fxsxml</Model>
+			<TerrainContour>1</TerrainContour>
+		</Row>
+		<Row>
+			<Era>Ancient</Era>
+			<State>Constructed</State>
+			<Scale>0.959999978542328</Scale>
+			<ImprovementType>ART_DEF_IMPROVEMENT_PLANTATION</ImprovementType>
+			<LayoutHandler>SNAPSHOT</LayoutHandler>
+			<ResourceType>ART_DEF_RESOURCE_COCA</ResourceType>
+			<Model>plantation_mid_cocoa.fxsxml</Model>
+			<TerrainContour>1</TerrainContour>
+		</Row>
+		<Row>
+			<Era>Ancient</Era>
+			<State>Pillaged</State>
+			<Scale>0.959999978542328</Scale>
+			<ImprovementType>ART_DEF_IMPROVEMENT_PLANTATION</ImprovementType>
+			<LayoutHandler>SNAPSHOT</LayoutHandler>
+			<ResourceType>ART_DEF_RESOURCE_COCA</ResourceType>
+			<Model>plantation_mid_cocoa_pil.fxsxml</Model>
+			<TerrainContour>1</TerrainContour>
+		</Row>
+		<Row>
+			<Era>Industrial</Era>
+			<State>UnderConstruction</State>
+			<Scale>0.959999978542328</Scale>
+			<ImprovementType>ART_DEF_IMPROVEMENT_PLANTATION</ImprovementType>
+			<LayoutHandler>SNAPSHOT</LayoutHandler>
+			<ResourceType>ART_DEF_RESOURCE_COCA</ResourceType>
+			<Model>plantation_ind_cocoa_hb.fxsxml</Model>
+			<TerrainContour>1</TerrainContour>
+		</Row>
+		<Row>
+			<Era>Industrial</Era>
+			<State>Constructed</State>
+			<Scale>0.959999978542328</Scale>
+			<ImprovementType>ART_DEF_IMPROVEMENT_PLANTATION</ImprovementType>
+			<LayoutHandler>SNAPSHOT</LayoutHandler>
+			<ResourceType>ART_DEF_RESOURCE_COCA</ResourceType>
+			<Model>plantation_ind_cocoa.fxsxml</Model>
+			<TerrainContour>1</TerrainContour>
+		</Row>
+		<Row>
+			<Era>Industrial</Era>
+			<State>Pillaged</State>
+			<Scale>0.959999978542328</Scale>
+			<ImprovementType>ART_DEF_IMPROVEMENT_PLANTATION</ImprovementType>
+			<LayoutHandler>SNAPSHOT</LayoutHandler>
+			<ResourceType>ART_DEF_RESOURCE_COCA</ResourceType>
+			<Model>plantation_ind_cocoa_pil.fxsxml</Model>
+			<TerrainContour>1</TerrainContour>
+		</Row>
+	</ArtDefine_Landmarks>
+	<ArtDefine_StrategicView>
+		<Row>
+			<StrategicViewType>ART_DEF_RESOURCE_COCA</StrategicViewType>
+			<TileType>Resource</TileType>
+			<Asset>sv_coca.dds</Asset>
+		</Row>
+		
+	</ArtDefine_StrategicView>	
+		
+</GameData>

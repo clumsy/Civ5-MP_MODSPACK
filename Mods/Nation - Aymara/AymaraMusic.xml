@@ -1,0 +1,47 @@
+<GameData>
+	<Audio_Sounds>
+
+		<!--Katari Music-->
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_KATARI_PEACE</SoundID>
+			<Filename>KatariPeace</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_KATARI_WAR</SoundID>
+			<Filename>KatariWar</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<!--Katari Music-->
+	</Audio_Sounds>
+	<Audio_2DSounds>
+		<!--Katari Music For Audio Scripts-->
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_KATARI_PEACE</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_KATARI_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_KATARI_WAR</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_KATARI_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>55</MinVolume>
+			<MaxVolume>55</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_AMBIENCE_LEADER_KATARI_AMBIENCE</ScriptID>
+			<SoundID>SND_AMBIENCE_MONTEZUMA_AMBIENCE</SoundID>
+			<SoundType>GAME_SFX</SoundType>
+			<Looping>true</Looping>
+			<MinVolume>20</MinVolume>
+			<MaxVolume>20</MaxVolume>
+		</Row>
+		<!--Katari Music-->
+	</Audio_2DSounds>
+
+
+</GameData>

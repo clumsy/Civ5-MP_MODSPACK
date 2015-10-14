@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<DecisionsAddin_Support>
+		<Row>
+			<FileName>LeugiAymaraDecisions.lua</FileName>
+		</Row>
+	</DecisionsAddin_Support>
+	<Language_en_US>
+		<!--Tesis de Pulacayo-->
+		<Row Tag="TXT_KEY_DECISIONS_LEUGI_PULACAYO">
+			<Text>Tesis de Pulacayo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_LEUGI_PULACAYO_DESC">
+			<Text>
+				Our territory has been the envy of outside powers for many years now, and something must be done to preserve our culture and traditions from the evil intentions of outsiders. The people of Achacachi, Omasuyos and Pulacayo believe we must defend ourselves, lest the outsiders dominate us. For this, some changes must be forced.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Aymara.
+				[NEWLINE][ICON_BULLET]Must have discovered Gunpowder
+				[NEWLINE][ICON_BULLET]May only be enacted once
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]4 Magistrates
+				[NEWLINE][ICON_BULLET]700 Faith
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Allows the player to train Ponchos Rojos
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_LEUGI_PULACAYO_ENACTED_DESC">
+			<Text>
+				Our territory has been the envy of outside powers for many years now, and something must be done to preserve our culture and traditions from the evil intentions of outsiders. The people of Achacachi, Omasuyos and Pulacayo believe we must defend ourselves, lest the outsiders dominate us. For this, some changes must be forced.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Allows the player to train Ponchos Rojos
+				[NEWLINE][ICON_BULLET]Receive 2 Ponchos Rojos
+			</Text>
+		</Row>
+		<!--Sacred Leaf-->
+		<Row Tag="TXT_KEY_DECISIONS_LEUGI_SACRED_LEAF">
+			<Text>Adopt the Akullicu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_LEUGI_SACRED_LEAF_DESC">
+			<Text>
+				Our people, our workers and planters, have discovered a new type of leaf. A leaf that grows on the Yunga regions, and that, some say, has mystic properties; the Coca leaf. Our wise Yatiris suggested we rise some Coca plantations, to receive this blessing of Pachamama herself[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Aymara
+				[NEWLINE][ICON_BULLET]Must have discovered Chemistry
+				[NEWLINE][ICON_BULLET]May only be enacted once
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 Magistrates
+				[NEWLINE][ICON_BULLET]1500 Faith
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Allows your Mallkus to build Plantations on Hill tiles to earn a free Coca Leaf Luxury Resource
+				[NEWLINE][ICON_BULLET]Receive a Mallku
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_LEUGI_SACRED_LEAF_ENACTED_DESC">
+			<Text>
+				Our people, our workers and planters, have discovered a new type of leaf. A leaf that grows on the Yunga regions, and that, some say, has mystic properties; the Coca leaf. Our wise Yatiris suggested we rise some Coca plantations, to receive this blessing of Pachamama herself[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Allows your Mallkus to build Plantations on Hill tiles to earn a free Coca Leaf Luxury Resource
+				[NEWLINE][ICON_BULLET]Receive a Mallku
+			</Text>
+		</Row>
+	</Language_en_US>
+
+
+	<Language_ES_ES>
+	
+	</Language_ES_ES>
+</GameData>
+
