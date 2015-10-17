@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/18/2013 1:17:59 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_GE_OENGUS_FIRSTGREETING_1">
+			<Text>Welcome to the Pictish lands. I'm Oengus map Fergus, ruler of the people. I hope you mean no harm to them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GE_OENGUS_FIRSTGREETING_2">
+			<Text>You must be a leader like me; if you bring trouble, then you might as well surrender now.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GE_OENGUS_DEFEATED_1">
+			<Text>The lands are yours, as is my crown and people, but not their spirit. We will return!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GE_OENGUS_DEFEATED_2">
+			<Text>I may be gone, but I can now reside in heaven. Have a nice trip to hell.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GE_OENGUS_DECLAREWAR_1">
+			<Text>We have had enough of the evils you bring here! On behalf of the Picts, I declare war agianst you!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GE_OENGUS_DECLAREWAR_2">
+			<Text>I don't know if we're able to end you, but we will put the pressure on until we are buried in the ground.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GE_OENGUS_ATTACKED_1">
+			<Text>Ha! You really expect to be a match for us? Come on now, we have enemies to crush.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GE_OENGUS_ATTACKED_2">
+			<Text>I want no relation to the outside world. Such savages.</Text>
+		</Row>
+	</Language_en_US>
+
+</GameData>

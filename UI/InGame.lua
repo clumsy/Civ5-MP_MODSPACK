@@ -1604,6 +1604,9 @@ ContextPtr:LoadNewContext("PeaceBuildingTrait")
 -- Nation - Thracia --
 ContextPtr:LoadNewContext("ThraceFunctions")
 
+-- Nation - Picts --
+ContextPtr:LoadNewContext("Pict Functions")
+
 -- Misc - Events & Decisions --
 ContextPtr:LoadNewContext("BuildingYieldFromCityStates")
 ContextPtr:LoadNewContext("LuaEvents.PlayerEnteredNewEra")

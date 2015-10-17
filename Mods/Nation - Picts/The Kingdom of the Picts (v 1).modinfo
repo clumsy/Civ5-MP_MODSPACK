@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="448425c2-5eef-41b5-8d77-63e79c55836e" version="1">
+  <Properties>
+    <Name>The Kingdom of the Picts</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>[B]The Picts[/B] were a loosely confederated group of tribes that resided in modern-day Scotland.</Teaser>
+    <Description>This mod adds the Picts to the game. Requires BNW. THe ingame information is below. 
+
+[B]Leader: Oengus I[/B] 
+
+[B]UA: Sign of the Beast[/B]
++2 Culture for every citizen following a Pantheon belief. City-States may join your empire when a larger empire is nearby. 
+
+[B]UU: Caledonii[/B]
+Replaces Spearman. Gains additional movement in Hills, as well as a Combat Bonus in Rough Terrain.  
+
+[B]UB: Broch[/B]
+Replaces Walls. Grants a promotion to every melee unit trained in the city. 
+
+[B]Promotions[/B]
+Son of Cait 
+15% Combat Bonus in Hills. 
+
+Son of Ce
+Double movement around Rivers. 
+
+Son of Fotla
+15% Combat Bonus in Foreign lands. 
+
+Son of Fib
++3 Culture while garrisoned. 
+
+Son of Fidach
++2 Happiness while garrisoned. 
+
+Son of Circinn
+20% Combat Bonus in Friendly Territory.
+
+Son of Fortriu
+25% Defensive Bonus.
+
+[B]UU: Carabanto (New Celtic UU):[/B]
+Has an additional Movement Point over the Chariot Archer it replaces, and ignores Zone of Control. It is also a melee unit, though preforms a ranged attack before melee.
+
+That's it for features. If anyone wants historical justifications, feel free to ask given I didn't write up a civilopedia (but I plan to in the next update). 
+
+That said, the Greater Europe team is recruiting! At the moment, I (Viregel) seem to be doing rather a lot of it myself, and while that may be good for the wellbeing of others, it's not exactly fitting what I want to eventually achieve, as a team effort. If your skill be art, pedias, code or even modeling, anything really, feel free to come forwards! 
+
+[B]Credits:[/B]
+XML, concept and (some) art: Viregel
+Civ Icon and Lua: JFD
+Leader Icon: JanBoruta
+Civ Map: TarscioCM
+Testing: Tomatekh
+
+Peace Music: A Song of Talesin - The Picts
+War Music: Knights of Honor - Sword and Faith</Description>
+    <Authors>Viregel, JFD, TarscioCM, JanBoruta</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="D65E73D2D39CD51ECA951C72B6B77B03" import="1">Art/Icons/PictsIcons128.dds</File>
+    <File md5="FB1657FEF72E20F9C63FBD69197F1CEE" import="1">Art/Icons/PictsIcons256.dds</File>
+    <File md5="744FC2AFF6005D0A9F45F566431E3E54" import="1">Art/Icons/PictsIcons32.dds</File>
+    <File md5="4453676CD768B0789BF2E629F12FD863" import="1">Art/Icons/PictsIcons45.dds</File>
+    <File md5="086CE666407723DBD5F099EFCC4057E1" import="1">Art/Icons/PictsIcons64.dds</File>
+    <File md5="E20E120ACD730229110E87DF5B062A92" import="1">Art/Icons/PictsIcons80.dds</File>
+    <File md5="6C9B1B497BC82C3D3F1139DF036E830E" import="1">Art/Icons/AlphaPictsIcon128.dds</File>
+    <File md5="7BE46A29971F9025A5A0D8312CF8170D" import="1">Art/Icons/AlphaPictsIcon24.dds</File>
+    <File md5="A9C901BA78CA882E47F6EBB56604A605" import="1">Art/Icons/AlphaPictsIcon32.dds</File>
+    <File md5="4AC4A081E4A02F3CED29955733E69977" import="1">Art/Icons/AlphaPictsIcon48.dds</File>
+    <File md5="8AC1C0DA159076E677DA3A47871A1455" import="1">Art/Icons/AlphaPictsIcon64.dds</File>
+    <File md5="E386844A063117447F50529202D2EE1E" import="1">Art/Leader/PictsMap.dds</File>
+    <File md5="3FD65C386399D475E93ADC5B26D6E8DC" import="1">Art/Leader/Oengus.dds</File>
+    <File md5="D8114B40F2735C88B3152BFFA747FB1B" import="1">Art/Leader/OengusDOM.dds</File>
+    <File md5="5A8D49E1A361FBEB1E8D69DB41750C30" import="0">LUA/Pict Functions.lua</File>
+    <File md5="BBDC1AB455CE1E8704F2A62366E27EFB" import="0">XML/Art/IconTextureAtlasesPicts.xml</File>
+    <File md5="3720019DA967BCA64B38C04E31B9BDF2" import="0">XML/Buildings/BuildingsPicts.xml</File>
+    <File md5="694418CBDDD3780C811B08C9990BDA06" import="0">XML/Civilization/CivPicts.xml</File>
+    <File md5="C8AB13F8A9E65E1459853813657A4A8B" import="0">XML/Civilization/TraitsPicts.xml</File>
+    <File md5="A84D163654E7BE5E3EBD28B5423A5181" import="0">XML/Leader/OengusSpeech.xml</File>
+    <File md5="A31F2EBC5C1989CBA45EE638046192C8" import="0">XML/Leader/PictsMusic.xml</File>
+    <File md5="09C92A2B6F6A19120AF5021B4B9457D2" import="0">XML/Leader/Leader_Oengus.xml</File>
+    <File md5="728382702C166AD3548101D160AA9715" import="0">XML/Leader/OengusDiplomaticResponses.xml</File>
+    <File md5="93C9F0CB21C06425C8D92BB7D5E00C44" import="1">XML/Leader/OengusPeace.mp3</File>
+    <File md5="8C6AD3FBDF510E79C3CE9A796116C309" import="1">XML/Leader/OengusWar.mp3</File>
+    <File md5="976FF4663B38C8604A63E35B8D500C84" import="1">XML/Leader/Oengus_Scene.xml</File>
+    <File md5="53C6A53691D41707366B8A4A5C251302" import="1">XML/Leader/GEPictsDoM.mp3</File>
+    <File md5="C4EE18559350E5B05D528921D8337CD6" import="0">XML/Promotions/Promotions.xml</File>
+    <File md5="025D32A3C11E2A2A7469752F9413F332" import="0">XML/Text/GameTextPicts.xml</File>
+    <File md5="646708777624F50F0B6702A3F544242D" import="0">XML/Units/NewUnitsPicts.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Art/IconTextureAtlasesPicts.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/BuildingsPicts.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization/CivPicts.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization/TraitsPicts.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader/Leader_Oengus.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader/Oengus_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader/OengusDiplomaticResponses.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader/PictsMusic.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/GameTextPicts.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/NewUnitsPicts.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Promotions/Promotions.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="LUA/Pict Functions.lua">
+      <Name>Pict Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

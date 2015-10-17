@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/18/2013 1:08:56 PM -->
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>CIV_COLOR_ATLAS_GE_PICTS</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>PictsIcons256.dds</Filename>
+			<IconsPerRow>2</IconsPerRow>
+			<IconsPerColumn>2</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CIV_COLOR_ATLAS_GE_PICTS_ALPHA</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>AlphaPictsIcon256.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+
+		<Row>
+			<Atlas>CIV_COLOR_ATLAS_GE_PICTS</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>PictsIcons128.dds</Filename>
+			<IconsPerRow>2</IconsPerRow>
+			<IconsPerColumn>2</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CIV_COLOR_ATLAS_GE_PICTS_ALPHA</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>AlphaPictsIcon128.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+
+
+		<Row>
+			<Atlas>CIV_COLOR_ATLAS_GE_PICTS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>PictsIcons64.dds</Filename>
+			<IconsPerRow>2</IconsPerRow>
+			<IconsPerColumn>2</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CIV_COLOR_ATLAS_GE_PICTS_ALPHA</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>AlphaPictsIcon64.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+
+
+		<Row>
+			<Atlas>CIV_COLOR_ATLAS_GE_PICTS</Atlas>
+			<IconSize>32</IconSize>
+			<Filename>PictsIcons32.dds</Filename>
+			<IconsPerRow>2</IconsPerRow>
+			<IconsPerColumn>2</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CIV_COLOR_ATLAS_GE_PICTS_ALPHA</Atlas>
+			<IconSize>32</IconSize>
+			<Filename>AlphaPictsIcon32.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CIV_COLOR_ATLAS_GE_PICTS_ALPHA</Atlas>
+			<IconSize>48</IconSize>
+			<Filename>AlphaPictsIcon48.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CIV_COLOR_ATLAS_GE_PICTS_ALPHA</Atlas>
+			<IconSize>24</IconSize>
+			<Filename>AlphaPictsIcon24.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CIV_COLOR_ATLAS_GE_PICTS_ALPHA</Atlas>
+			<IconSize>16</IconSize>
+			<Filename>AlphaPictsIcon16.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		
+		<Row>
+			<Atlas>CIV_COLOR_ATLAS_GE_PICTS</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>PictsIcons45.dds</Filename>
+			<IconsPerRow>2</IconsPerRow>
+			<IconsPerColumn>2</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CIV_COLOR_ATLAS_GE_PICTS_ALPHA</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>AlphaPictsIcon45.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		
+		<Row>
+			<Atlas>CIV_COLOR_ATLAS_GE_PICTS</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>PictsIcons80.dds</Filename>
+			<IconsPerRow>2</IconsPerRow>
+			<IconsPerColumn>2</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CIV_COLOR_ATLAS_GE_PICTS_ALPHA</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>AlphaPictsIcon80.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+</GameData>

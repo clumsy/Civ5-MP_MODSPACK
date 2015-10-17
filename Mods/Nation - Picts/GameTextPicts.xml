@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/18/2013 1:17:48 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_PICTS_01">
+			<Text>Caledones</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_PICTS_02">
+			<Text>Abernethy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_PICTS_03">
+			<Text>Scone</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_PICTS_04">
+			<Text>St Andrews</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_PICTS_05">
+			<Text>Aberlemno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_PICTS_06">
+			<Text>Forres</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_PICTS_07">
+			<Text>Forfar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_PICTS_08">
+			<Text>Strathpeffer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_PICTS_09">
+			<Text>Ardgay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_PICTS_10">
+			<Text>Tain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_PICTS_11">
+			<Text>Portmahomack</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_PICTS_12">
+			<Text>Tote</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_PICTS_13">
+			<Text>Pitlochry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_PICTS_14">
+			<Text>Eassie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_PICTS_15">
+			<Text>Kirriemuir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_PICTS_16">
+			<Text>Shandwick</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_PICTS_17">
+			<Text>Rosemarkie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_PICTS_18">
+			<Text>Anwoth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_PICTS_19">
+			<Text>Auchenblae</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_PICTS_20">
+			<Text>Carnostie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_PICTS_21">
+			<Text>Dunning</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_PICTS_22">
+			<Text>Golspie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_PICTS_23">
+			<Text>Elgin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_PICTS_24">
+			<Text>Brechin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_GE_PICTS_25">
+			<Text>Dunblane</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV_GE_PICTS_ADJECTIVE">
+			<Text>Pictish</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_PICTS_DESC">
+			<Text>Pictish Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_GE_PICTS_SHORT_DESC">
+			<Text>The Picts</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_GE_PICTS_DOM">
+			<Text>Oengus I, son of Fergus and King of the Picts, your people cry out for you to lead them back to their glory days! For years, your people lived in peace, until threatened by the might of the Roman Empire, which was dangerously close to the southern border of your land. United against them, a Pictish confederation was formed to oppose the Romans. With utmost vigour and strength, the Romans were pushed back, a boundary for them, the metaphorical end of the world. Yet your people still prospered; and by 410 AD, with the Romans gone for good, the Picts could show their might once more. With both artistic skill and fury on the battlefield, your people were unrivaled in their area for almost all their history. Leading up to the pinnacle of the kingdom, you ascended to the throne, and from there, managed to see away the Gaelic threat for the rest of the kingdom’s history. Since then, the Picts and the Gaels merged to form the Kingdom of Alba, which has never lost its pride to this day.[NEWLINE][NEWLINE]Chief and King, the Picts are united once more, ready to fight for you. Will you help them recover what was once theirs? Will you battle with them once more, and help them see off any external powers? Can you build a civilisation that will stand the test of time?</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_CIV5_GE_PICTS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_GE_PICTS_TEXT_1">
+			<Text></Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_GE_OENGUS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_GE_OENGUS_TEXT_1">
+			<Text></Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_GE_OENGUS_LIVED">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_GE_OENGUS_NAME">
+			<Text>Oengus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_GE_OENGUS_SUBTITLE">
+			<Text>Leader of The Picts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GE_OENGUS">
+			<Text>Oengus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_GE_OENGUS_TITLES_1">
+			<Text>King</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SIGN_OF_THE_BEAST">
+			<Text>+2 [ICON_CULTURE] Culture for every citizen following a Pantheon belief. Cities that have followed your Pantheon for at least 10 turns gain +2 [ICON_HAPPINESS] Happiness, and Conquered Cities also get no Occupied Unhappiness from this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SIGN_OF_THE_BEAST_SHORT">
+			<Text>Sign of the Beast</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_UNIT_GE_PICTS_CALEDONII">
+			<Text>Caledonii</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GE_PICTS_CALEDONII_STRATEGY">
+			<Text>Replaces Spearman. Gains additional movement in Hills, as well as a Combat Bonus in rough terrain.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GE_PICTS_CALEDONII_HELP">
+			<Text>Replaces Spearman. Gains additional movement in Hills, as well as a Combat Bonus in rough terrain.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CIV5_GE_PICTS_CALEDONII_CIVILOPEDIA">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_CELTS_CARBANTO">
+			<Text>Carbanto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CELTS_CARBANTO_STRATEGY">
+			<Text>Has an additional Movement Point over the Chariot Archer it replaces, and ignores Zone of Control. It is also a melee unit, though preforms a ranged attack before melee.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CELTS_CARBANTO_HELP">
+			<Text>Has an additional Movement Point over the Chariot Archer it replaces, and ignores Zone of Control. It is also a melee unit, though preforms a ranged attack before melee.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CIV5_CELTS_CARBANTO_TEXT">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_GE_PICTS_0">
+			<Text>Alpin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GE_PICTS_1">
+			<Text>Uist</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GE_PICTS_2">
+			<Text>Gede</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GE_PICTS_3">
+			<Text>Cinioch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GE_PICTS_4">
+			<Text>Briochan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GE_PICTS_5">
+			<Text>Drust</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GE_PICTS_6">
+			<Text>Breth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GE_PICTS_7">
+			<Text>Denbecan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GE_PICTS_8">
+			<Text>Eoganan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GE_PICTS_9">
+			<Text>Forcus</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_BUILDING_GE_PICTS_BROCH">
+			<Text>Broch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GE_PICTS_BROCH_HELP">
+			<Text>Replaces Walls. Grants a promotion to every melee unit trained in the city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GE_PICTS_BROCH_STRATEGY">
+			<Text>Replaces Walls. Grants a promotion to every melee unit trained in the city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GE_PICTS_BROCH_TEXT">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_UNKNOWN_SON">
+			<Text>Unknown Son</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_UNKNOWN_SON_HELP">
+			<Text>Unknown Son promotion. After the first round of combat, this is replaced with a more useful promotion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SON_OF_CAIT">
+			<Text>Son of Cait</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SON_OF_CAIT_HELP">
+			<Text>+20% Combat Strength in Hills.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SON_OF_CE">
+			<Text>Son of Ce</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SON_OF_CE_HELP">
+			<Text>No Combat Penalty for attacking over Rivers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SON_OF_FOTLA">
+			<Text>Son of Fotla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SON_OF_FOTLA_HELP">
+			<Text>20% Combat Bonus in Foreign Lands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SON_OF_FIB">
+			<Text>Son of Fib</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SON_OF_FIB_HELP">
+			<Text>+3 Culture while garrisoned.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SON_OF_FIDACH">
+			<Text>Son of Fidach</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SON_OF_FIDACH_HELP">
+			<Text>+2 Happiness while garrisoned.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SON_OF_CIRCINN">
+			<Text>Son of Circinn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SON_OF_CIRCINN_HELP">
+			<Text>15% Combat Bonus in Friendly Territory..</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SON_OF_FORTRIU">
+			<Text>Son of Fortriu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SON_OF_FORTRIU_HELP">
+			<Text>25% Defensive Bonus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CALEDONII_FOREST_PEOPLE">
+			<Text>People of the Forest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CALEDONII_FOREST_PEOPLE_HELP">
+			<Text>Gains a 10% Combat Bonus in Rough Terrain, along with double movement in Hills.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
