@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="6d5f8663-6ad4-47f8-aff3-b3080315ee11" version="1">
+  <Properties>
+    <Name>MC's Thracian Civilisation</Name>
+    <Teaser>The Thracians inhabited what is now known as Bulgaria for centuries, both by their military might and their cultural prowess. Th</Teaser>
+    <Description>The Thracians inhabited what is now known as Bulgaria for centuries, both by their military might and their cultural prowess. Though a tribal people, the Thracians were occasionally united under the one king, the most successful of which was likely the Odrysian Kingdom of Thrace. Often treated as barbaric by outsiders, Thracians were warlike, and showed this in their dominance of the lands just outside the influence of the Delian League and Macedon.
+
+[QUOTE]
+[b][h1]The Thracians[/h1][/b]
+
+[i][h1]UA: Hand of Sabazios[/h1][/i]
+Units fight better near Barbarian Encampments and earn Golden Age points from killing Barbarians. Upon capturing a city, all units within two tiles of this city receive bonus XP.
+
+[i][h1]UU: Falxman[/h1][/i]
++25% Combat Strength when attacking, -25% when defending.
+
+[i][h1]UA: Peltast[/h1][/i]
+Gains a Combat Bonus when adjacent to an enemy unit. May move after attacking. 
+[/QUOTE]
+
+Credits:
+Viregel: XML
+Janboruta: Art/Unit Reskins
+Leugi: Unit Models
+JFD: Lua
+Sukritact: Events and Decisions Support
+Tomatekh: Pedias
+Pouakai: Assistance with XML
+
+[i]Music Credits:[/i]
+Praetorians OST - 03 - Through Tears to Victory: The Calm 
+Rome Total War Soundtrack - Journey to Rome part 2</Description>
+    <Authors>Janboruta, Viregel, JFD, Leugi, Sukritact, Tomatekh, Pouakai</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5 " minversion="0" maxversion="999" title="Historical Religions Complete" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety &amp; Prestige" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact's Events and Decisions" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="A16C3E787F694899654A2891CB8285F2" import="1">Art/Audio/SitalcesDoM.mp3</File>
+    <File md5="816EB3AE7993D6B6A403108155C4E674" import="1">Art/Audio/SitalcesPeace.mp3</File>
+    <File md5="60FE46A265081B8FE59B3F59CBA4B7B5" import="1">Art/Audio/SitalcesWar.mp3</File>
+    <File md5="7DD31A1A9CFE74F3A8676F3257D8DF1F" import="1">Art/Diplo/Sitalces_Diplo.dds</File>
+    <File md5="D9B8BA6CADAA1F9B8710234A7ABECBF0" import="1">Art/IconAtlas/MC_ThraceAlphaAtlas_128.dds</File>
+    <File md5="CE3A031EE6B5F07D762CA71F0D1F5B66" import="1">Art/IconAtlas/MC_ThraceAlphaAtlas_16.dds</File>
+    <File md5="A6B000AED63623460F3A95964F234FFB" import="1">Art/IconAtlas/MC_ThraceAlphaAtlas_24.dds</File>
+    <File md5="9F3FA0A78F0BC17E9C2CF26EC6855FD4" import="1">Art/IconAtlas/MC_ThraceAlphaAtlas_32.dds</File>
+    <File md5="84045F5AF42B09EC8012FA52B57C1516" import="1">Art/IconAtlas/MC_ThraceAlphaAtlas_45.dds</File>
+    <File md5="DCD83C872DDFA62348318365F934840B" import="1">Art/IconAtlas/MC_ThraceAlphaAtlas_48.dds</File>
+    <File md5="18AE89AA6314B3E1C242385B37A04C83" import="1">Art/IconAtlas/MC_ThraceAlphaAtlas_64.dds</File>
+    <File md5="00B431ECD86DAC25E63A55FB3F923C35" import="1">Art/IconAtlas/MC_ThraceAlphaAtlas_80.dds</File>
+    <File md5="F7DA23BF35579339A092878317E77778" import="1">Art/IconAtlas/MC_ThraceAtlas_128.dds</File>
+    <File md5="03C862F486ACBEAAB32BE4A608FA2ADF" import="1">Art/IconAtlas/MC_ThraceAtlas_256.dds</File>
+    <File md5="B30398E33E32C319DB35BE45A2852FD4" import="1">Art/IconAtlas/MC_ThraceAtlas_32.dds</File>
+    <File md5="9DE091B7AF93AB68B0AC49E5990CCE4E" import="1">Art/IconAtlas/MC_ThraceAtlas_45.dds</File>
+    <File md5="C806EF7F37649C414EF809B85BA242C7" import="1">Art/IconAtlas/MC_ThraceAtlas_64.dds</File>
+    <File md5="CB1977A714580E5C31AD6CA6BFB7A607" import="1">Art/IconAtlas/MC_ThraceAtlas_80.dds</File>
+    <File md5="145F615060B4F8B898B946FFD1F00A3F" import="1">Art/Map/Sitalces_DOM.dds</File>
+    <File md5="23052169E1DF348FACA9BB432D2A92C7" import="1">Art/Map/ThraceMap512.dds</File>
+    <File md5="2FD0BE91B803328116E60890F82C8AD6" import="1">Art/Unit Models/Fx_Triggers_GreekPeltast.ftsxml</File>
+    <File md5="5ECACF4F5F35A66D42AD418B37D6C8E4" import="1">Art/Unit Models/GreekPeltast.dds</File>
+    <File md5="D1FF747C429CA72BC2A2CC2E9D8E027C" import="1">Art/Unit Models/GreekPeltast.fxsxml</File>
+    <File md5="940E3A27F3612684D79B3FD356B4265C" import="1">Art/Unit Models/GreekPeltast.gr2</File>
+    <File md5="F447A37260DD3465AB6B6767D3259163" import="1">Art/Unit Models/GreekPeltast_sref.dds</File>
+    <File md5="32432C3822C0AEE3D7C20CE26D50605A" import="1">Art/Unit Models/thracian_falxman.dds</File>
+    <File md5="C672E2EAB640C21FEB3D05573F226CB7" import="1">Art/Unit Models/thracian_falxman.fxsxml</File>
+    <File md5="3AD0C7F064C0DC81F1AD4E5997249664" import="1">Art/Unit Models/thracian_falxman.gr2</File>
+    <File md5="47882956B51181018E024879FFDFBF23" import="1">Art/Unit Models/thracian_falxman_sref.dds</File>
+    <File md5="B5DCCB50DE86E961795A9950E7F9F682" import="0">Art/Units/ArtDefines.sql</File>
+    <File md5="93B96D3F6A83A8DA8622DF5F900440CA" import="1">Art/Units/flag_ThracianFalxman_32.dds</File>
+    <File md5="DC729E0EF1E3F393B70BC5D52EF4B690" import="1">Art/Units/flag_ThracianPeltast_32.dds</File>
+    <File md5="3837ECCC03E5AD323983C1AF543741DB" import="1">Art/Units/sv_ThracianFalxman.dds</File>
+    <File md5="43E5C58AAF4662FAFCA97AEE9A24395B" import="1">Art/Units/sv_ThracianPeltast.dds</File>
+    <File md5="C0A68B039877B82908596EADC0D828D3" import="0">Compatibility/CulturalDiversity.sql</File>
+    <File md5="534DDF3A2F3139E84AF4D8C3BBB107E9" import="1">Compatibility/Decisions Support/Thrace_Decisions.lua</File>
+    <File md5="0A1F7228E9C210A71F14ADA0026CA5A9" import="0">Compatibility/Decisions Support/Thrace_Decisions.sql</File>
+    <File md5="FC28F3493CD180B634543326E6E9CAD2" import="0">Compatibility/Decisions Support/Thrace_EN_US.xml</File>
+    <File md5="8EC227FBAF203D91B8302C83F2C6BC83" import="0">Compatibility/EthnicUnits.sql</File>
+    <File md5="003321F12F971F3B1E23A1CD39F35C78" import="0">Compatibility/HistoricalReligions.sql</File>
+    <File md5="CF5EA1E5AC86E3C00DDFD8C37D1F8494" import="0">Compatibility/PietyAndPrestige.sql</File>
+    <File md5="A930E05BFF4B8FD5C2E42128A2FEC4AD" import="1">Lua/PlotIterators.lua/PlotIterators.lua</File>
+    <File md5="FE5C76FA824CDEC03F29F0572447CEBB" import="0">Lua/ThraceFunctions.lua</File>
+    <File md5="8BB176E4C143D745B794ADD82466FAA6" import="0">XML/DiplomacyResponses.sql</File>
+    <File md5="D91B73607A3EE9F0CE5322007E9E938C" import="1">XML/Sitalces_Leaderhead.xml</File>
+    <File md5="86F0B82879497429785EC68E34839A84" import="0">XML/Thrace_Civilizations.xml</File>
+    <File md5="20C2F1C4753EC6442577104D85173A7C" import="0">XML/Thrace_IconTextureAtlases.xml</File>
+    <File md5="A2115FE5191723DC578385E602006F8C" import="0">XML/Thrace_Leader.xml</File>
+    <File md5="DB79C3C7C39E5C142FBA7986BFC66892" import="0">XML/Thrace_Sounds.xml</File>
+    <File md5="72104BABE1D705CCCD3DB266E4BF5DB1" import="0">XML/Thrace_Text.xml</File>
+    <File md5="12C5AEE7A1AA5D1511B8832DA3721E4A" import="0">XML/Thrace_Traits.xml</File>
+    <File md5="703583B7C091C64DA482A1B1BA584138" import="0">XML/Thrace_Units.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Sitalces_Leaderhead.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Thrace_Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Thrace_IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Thrace_Leader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Thrace_Sounds.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Thrace_Text.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Thrace_Traits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Thrace_Units.xml</UpdateDatabase>
+      <UpdateDatabase>Compatibility/HistoricalReligions.sql</UpdateDatabase>
+      <UpdateDatabase>Compatibility/EthnicUnits.sql</UpdateDatabase>
+      <UpdateDatabase>Compatibility/CulturalDiversity.sql</UpdateDatabase>
+      <UpdateDatabase>Compatibility/PietyAndPrestige.sql</UpdateDatabase>
+      <UpdateDatabase>Art/Units/ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Compatibility/Decisions Support/Thrace_Decisions.sql</UpdateDatabase>
+      <UpdateDatabase>Compatibility/Decisions Support/Thrace_EN_US.xml</UpdateDatabase>
+      <UpdateDatabase>XML/DiplomacyResponses.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/ThraceFunctions.lua">
+      <Name>Thrace Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

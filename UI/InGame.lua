@@ -1601,6 +1601,9 @@ ContextPtr:LoadNewContext("FaithfromCSRoutes")
 ContextPtr:LoadNewContext("GoldFromWondersTrait")
 ContextPtr:LoadNewContext("PeaceBuildingTrait")
 
+-- Nation - Thracia --
+ContextPtr:LoadNewContext("ThraceFunctions")
+
 -- Misc - Events & Decisions --
 ContextPtr:LoadNewContext("BuildingYieldFromCityStates")
 ContextPtr:LoadNewContext("LuaEvents.PlayerEnteredNewEra")

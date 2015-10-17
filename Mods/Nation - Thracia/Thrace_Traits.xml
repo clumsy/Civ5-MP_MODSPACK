@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_MC_HAND_OF_SABAZIOS</Type>
+			<Description>TXT_KEY_TRAIT_MC_HAND_OF_SABAZIOS</Description>
+			<ShortDescription>TXT_KEY_TRAIT_MC_HAND_OF_SABAZIOS_SHORT</ShortDescription>
+			<NearbyImprovementCombatBonus>10</NearbyImprovementCombatBonus>
+			<NearbyImprovementBonusRange>2</NearbyImprovementBonusRange>
+			<CombatBonusImprovement>IMPROVEMENT_BARBARIAN_CAMP</CombatBonusImprovement>
+		</Row>
+	</Traits>
+</GameData>

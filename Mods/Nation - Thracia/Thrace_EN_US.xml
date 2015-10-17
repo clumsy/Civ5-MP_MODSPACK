@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_DECISIONS_THRACEEXECUTE">
+			<Text>Execute Sub-Kings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_THRACEEXECUTE_DESC">
+			<Text>
+				The confederation of our tribes is fragile, and the threat of civil war is growing. We must take action before the situation gets dire. The autonomy of petty local chiefs is more trouble than benefit. We should get rid of them and consolidate our power. Centralising the government will allow us to more clearly see the greater good of our kingdom.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Thracians
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE][ICON_BULLET]Unenacts the "Recognise Sub-Kings" Decision if enacted
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]-1 [ICON_UNHAPPINESS] Unhappiness for every 2 [ICON_CITIZEN] Citizens in the [ICON_CAPITAL] Capital
+				[NEWLINE][ICON_BULLET]All Land Military Units gain +10 XP
+				[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]Note: [ICON_CULTURE] Culture cost will increase with the number of Land Military Units you own[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_THRACEEXECUTE_ENACTED_DESC">
+			<Text>
+				The confederation of our tribes is fragile, and the threat of civil war is growing. We must take action before the situation gets dire. The autonomy of petty local chiefs is more trouble than benefit. We should get rid of them and consolidate our power. Centralising the government will allow us to more clearly see the greater good of our kingdom.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]-1 [ICON_UNHAPPINESS] Unhappiness for every 2 [ICON_CITIZEN] Citizens in the [ICON_CAPITAL] Capital
+				[NEWLINE][ICON_BULLET]All Land Military Units gain +10 XP
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_THRACERECOGNISE">
+			<Text>Recognise Sub-Kings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_THRACERECOGNISE_DESC">
+			<Text>
+				The confederation of our tribes is fragile, and the threat of civil war is growing. We must take action before the situation gets dire. Recognising the autonomy of tribes and their local chiefs as sub-kings, subordinate only to us - the high king, would ease the tension among the tribes and let us concentrate on the greater good of our kingdom.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Thracians
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE][ICON_BULLET]Unenacts the "Execute Sub-Kings" Decision if enacted
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_HAPPINESS_1] Happiness for every city
+				[NEWLINE][ICON_BULLET]All Land Military Units gain +10 XP
+				[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]Note: [ICON_CULTURE] Culture cost will increase with the number of Land Military Units you own[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_THRACERECOGNISE_ENACTED_DESC">
+			<Text>
+				The confederation of our tribes is fragile, and the threat of civil war is growing. We must take action before the situation gets dire. Recognising the autonomy of tribes and their local chiefs as sub-kings, subordinate only to us - the high king, would ease the tension among the tribes and let us concentrate on the greater good of our kingdom.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_HAPPINESS_1] Happiness for every city
+				[NEWLINE][ICON_BULLET]All Land Military Units gain +10 XP
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

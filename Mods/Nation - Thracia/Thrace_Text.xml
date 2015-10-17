@@ -1,0 +1,467 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!--Unique Units-->
+		<Row Tag="TXT_KEY_UNIT_MC_FALXMAN">
+			<Text>Falxman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_FALXMAN_HELP">
+			<Text>+25% [ICON_STRENGTH] Combat Strength when attacking, -25% [ICON_STRENGTH] when defending.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_FALXMAN_STRATEGY">
+			<Text>A Classical Era unit only available to build to Thrace, the Falxman is both stronger and weaker at the same time - while succuming to attacks on it, the Falxman is able to inflict more damage when it is attacking, making them an important offensive unit. Even if you're not at war when they come around, you're likely to need them to clear out Barbarian Encampments.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_FALXMAN_CIVILOPEDIA">
+			<Text>Several Balkan tribes in ancient times have developed and perfected a variety of curved weapons, reminiscent of - or even derived from - agricultural tools. The Dacian two-handed falx and one-handed sica based on a farmer's sickle, along with the Thracian rhomphaia reminiscent of a scythe, are prime examples of such weapons. Such pieces of equipment, especially the two-handed variants, possessed terrifying cutting power, mostly thanks to their size - indeed those were polearms, averaging at about 1.8 metres in length. Owing to their barbarian origin, Dacian falxmen and rhomphaia-wielding Thracians were usually unarmoured - save for a bronze helmet - and instead relied on their ferocity, speed and agility to perform devastating charges and inflict significant casualties while on the offense. For this, Thracian warriors were prized mercenaries, despite their half-barbaric outlook and the love of plunder.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_PELTAST">
+			<Text>Peltast</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_PELTAST_HELP">
+			<Text>Gains a [ICON_STRENGTH] Combat Bonus when adjacent to an enemy unit. May move after attacking. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_PELTAST_STRATEGY">
+			<Text>Though a ranged unit, the Peltast is very good at working on the front line - and then running away. With the powerful ability to inflict more damage on adjacent enemies, and then being able to move after attacking, the Peltast is perfect for causing damage to the enemy as well as getting away quickly.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_PELTAST_CIVILOPEDIA">
+			<Text>Even though the Thracians became gradually Hellenised through trade with Greek settlements along the Black Sea coast, the Greeks themselves learned a few things from the savage Balkan tribes. Thracian military customs were one such thing. Peltasts (gr. "pelte" - light shield of curved shape) were light infantry skirmishers, whose speed and hunting skills allowed them to harass heavy, unwieldy enemy formations with deadly javelin volleys and fall back before the adversary was able to respond with his own missile troops. Clad in brightly-coloured, patterned Thracian cloaks, the nimble peltasts became synonymous with raiders and harassers. Greeks were quick to learn, and by the times of Alexander the Great employed screens of light skirmishers themselves, protecting the front of their pike phalanxes. Gradually, Greek peltasts became auxilliary melee infantry with round shields, a pair of javelins and leather armour.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_RHOMPHAIA_BLADES">
+			<Text>Rhomphaia Blades</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_RHOMPHAIA_BLADES_HELP">
+			<Text>+25% [ICON_STRENGTH] Combat Strength when attacking, -25% [ICON_STRENGTH] when defending.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_PELTAST">
+			<Text>Javelin Warriors</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_PELTAST_HELP">
+			<Text>When adjacent to an enemy unit, this unit gains +15% [ICON_STRENGTH] Combat Strength.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_THRACE_ENCAMPMENT_BONUS">
+			<Text>Hand of Sabazios</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_THRACE_ENCAMPMENT_BONUS_HELP">
+			<Text>+15% [ICON_STRENGTH] Combat Strength when near Barbarian Encampments.</Text>
+		</Row>
+
+		<!--Unique Ability-->
+		<Row Tag="TXT_KEY_TRAIT_MC_HAND_OF_SABAZIOS_SHORT">
+			<Text>Hand of Sabazios</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_MC_HAND_OF_SABAZIOS">
+			<Text>Units fight better near Barbarian Encampments and earn [ICON_GOLDEN_AGE] Golden Age points from killing Barbarians. Upon capturing a city, all units within two tiles of this city receive bonus XP.</Text>
+		</Row>
+		
+		<!--Spy Names-->
+		<Row Tag="TXT_KEY_SPY_NAME_MC_THRACE_0">
+			<Text>Amadocus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_THRACE_1">
+			<Text>Orpheus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_THRACE_2">
+			<Text>Meda</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_THRACE_3">
+			<Text>Burebista</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_THRACE_4">
+			<Text>Rhodopis</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_THRACE_5">
+			<Text>Spartacus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_THRACE_6">
+			<Text>Phyllis</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_THRACE_7">
+			<Text>Rhoemetalces</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_THRACE_8">
+			<Text>Harpalyce</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_THRACE_9">
+			<Text>Cersobleptes</Text>
+		</Row>
+		<!--Denonyms-->
+		<Row Tag="TXT_KEY_MC_THRACE_DESC">
+			<Text>Odrysian Kingdom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_THRACE_SHORT_DESC">
+			<Text>The Thracians</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_MC_THRACE_ADJECTIVE">
+			<Text>Thracian</Text>
+		</Row>
+		<!--Civilopedias-->
+		<Row Tag="TXT_KEY_MC_THRACE">
+			<Text>The Thracians</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_THRACE_TITLE">
+			<Text>The Odrysian Kingdom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_THRACE_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_THRACE_TEXT_1">
+			<Text>Heroductus once said of the Thracians as one of the largest cultures in the world, second only to the Indians, and possibly the world’s greatest military force, if not for their decentralised system. Though his claims may have been tentious, they are certainly accurate enough to see where he was coming from; though the Thracians dominated what would become present-day Bulgaria, they rarely expanded far beyond this, despite having a vast military force. However, during its period of Balkan dominance, Thrace was unified several times; and on several occasions, they were able to spread their word far beyond their borders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_THRACE_HEADING_2">
+			<Text>Climate and Terrain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_THRACE_TEXT_2">
+			<Text>Dominating the Balkans at the time, Thrace had a fairly diverse range of climate regions. At the northernmost borders lay the Danube Delta, in present-day Romania; to the south lay the border with the Delian League, which is roughly the same as the Bulgarian-Greek border to this day. With territories right into the heart of the Balkans, much of the Thracian territory was dominated by mountain scenes; however, most of the Thracian tribes tended to dwell in river plains, such as the Artescus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_THRACE_HEADING_3">
+			<Text>Early History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_THRACE_TEXT_3">
+			<Text>Though the Greeks thought of the Thracians as uncivilised and barbaric, this could not have been further from the truth. While warlike, the Thracians had a thriving culture prior to their Hellenisation; many arts and crafts were already present in Thracian society before the Greeks. Akin to the Gauls in France and the Celts all over Europe, the Thracians, while culturally distinct, lived in small, fortified villages. Proper cities were almost unheard of, with the only major population centre being Seuthopolis. Most of these villages were hilltop based, allowing for extra defensive capabilities; this contrasted with the traditional tribal plains life of the area. The Greeks were early to try to colonise Thrace, founding many cities along her coast; however, Thrace, remarkably, tended to keep to the rural lifestyle it had previously had. Thrace was dominated by the Persians south of the Danube for a while as well; however, this did not deter the Thracians at all from their lifestyle.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_THRACE_HEADING_4">
+			<Text>The Thracian Kingdoms</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_THRACE_TEXT_4">
+			<Text>It is unknown when exactly the Thracians rose to dominate the lands north of Greece, but by the 5th century BC, this had certainly happened. With the sudden rise in prominence, and the gradual unification of the Thracian tribes into the one kingdom, it was no doubt that they would be a truly terrifying force, and should be seen as such. In this age, the Thracians finally had a centralised government, and found that they could use this power with devastating effect, entering war after war to expand their territory further. In a few short years, the Odrysian Kingdom of Thrace was able to dominate the eastern Balkans, posing threat to many of the Greek kingdoms. In general, the Thracians were warlike, and valued it in much the same way as the likes of the Vikings later would. However, the Thracian culture only thrived further in this period; due to increased connections with the Greeks, the Thracians were able to use their knowledge to advance themselves. In Thrace, a group called the Ctistae were prominent in the field of philosophy; though not as well-known as the Greeks, they were still able to show that Thrace was going strong culturally.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_THRACE_HEADING_5">
+			<Text>Greek Influence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_THRACE_TEXT_5">
+			<Text>In the 4th century BC, Macedon’s expansion into Thracian lands caused Thrace to slowly assimilate into Greek culture; the southern part of the territory was taken by Macedon for the next century and a half. To a lesser extent, other Hellenic rulers took over parts of Thrace as part of their expansion, causing the Thracians to adopt more and more elements of Greek culture. At the same time, the Celtic culture made their way to the southern borders of Thrace, albeit never having too much of an effect on Thracian culture. These Celts later moved into Anatolia, well away from the Thracian lands. However, in the north, archaeological evidence has indicated that a Celtic subgroup, the Scordisci, lived in more or less the same area as the Thracians did, yet with little, if any conflict between them. Thrace’s borders had always been ill-defined, but they did not get more vague with the advent of other cultures assimilating themselves into the border regions of Thrace. However, with this buildup of cultural forces in the region, conflict with someone became inevitable. Though Thrace had previously been at war with Macedon, along with other Hellenic kingdoms, it had never truly lost or gained much through these wars. Now, with the borders of Thracian culture becoming less and less apparent, it became more likely that Thrace would be assimilated into another group.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_THRACE_HEADING_6">
+			<Text>Provincia Thracia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_THRACE_TEXT_6">
+			<Text>Though Thrace had been in conflict with Macedon for years, they were forced to unite when a larger enemy - the Romans - threatened the existence of both. With the growing Roman influence over the area, Macedon became part of the Roman Empire, much to the dismay of many of the inhabitants, and made those around fear that they might be the next. The Thracians resurged, fighting back against the Romans to slow, if not destroy their advance. However, a couple of the Thracian and Macedonian tribes decided to ally with the Romans instead, which only helped the Romans expand into Thrace. Slowly, Thrace was assimilated from a group of tribes to a Roman province, though the rural lifestyle of the Thracians made it harder to maintain rule over. Instead of establishing new cities in Thrace, the Romans instead placed the bulk of their military in neighbouring provinces, asserting their authority over any revolt that could take place. As the Thracians continued to back the Romans in several cases, it became apparent that assimilation was almost inevitable. After Rometalices III was murdered by his wife with no heir, the Romans were finally able to claim Thrace as part of the ever-expanding empire. Over time, the Thracians slowly adopted the Roman culture and way of life, leaving the Kingdom of Thrace lost to the mists of time.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_THRACE_HEADING_7">
+			<Text>Into Modernity</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_THRACE_TEXT_7">
+			<Text>Conflict and struggle would continue to mark Thracian lands into modernity. As the Roman Empire began to collapse by the mid-5th century, much of Thrace fell into the hands of Germanic tribal rulers. Thrace's northern territory would eventually be incorporated into the first Bulgarian Empire in the 8th century. However, the surviving Eastern Roman Empire, later known as the Byzantine Empire, would continue to lay claim to Thracian lands and struggle with the Bulgarians up until the early 14th century. This period also saw raids by the Golden Horde in 1265 as well as the Catalan Company in 1307. By 1352 the Ottoman Empire began incursions into the region, subduing it within two decades and ruling for more than five centuries. The Congress of Berlin would see northern Thrace incorporated into Eastern Rumelia, and ultimately, in ten more years, reunited with Bulgaria. The rest of Thrace would be divided among Bulgaria, Greece, and Turkey at the beginning of the 20th century following the Balkan and first World War. Today, Thrace remains a geographic term used by these three states.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_THRACE_STATBOX">
+			<Text>[NEWLINE]        Leader: Sitalces I[NEWLINE]        Unique Unit: Peltast       Unique Unit: Falxman[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_THRACE_FACTOID_HEADING">
+			<Text>Thracian Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_THRACE_FACTOID_TEXT">
+			<Text>"Thrace" is actually an exonym applied by the Greeks and not a native term employed by the various Thracian tribes themselves. It roughly derives from the Greek "thrasso", meaning "to stir trouble".[NEWLINE][NEWLINE]The famous gladiator Spartacus was originally from Thrace before his enslavement by Rome.</Text>
+		</Row>
+		<!--City List-->
+		<Row Tag="TXT_KEY_CITY_NAME_MC_THRACE_0">
+			<Text>Seuthopolis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_THRACE_1">
+			<Text>Uskudama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_THRACE_2">
+			<Text>Serdica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_THRACE_3">
+			<Text>Eumolpias</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_THRACE_4">
+			<Text>Kabyle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_THRACE_5">
+			<Text>Peristera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_THRACE_6">
+			<Text>Besapara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_THRACE_7">
+			<Text>Odessos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_THRACE_8">
+			<Text>Selymnos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_THRACE_9">
+			<Text>Beroe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_THRACE_10">
+			<Text>Stenimachos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_THRACE_11">
+			<Text>Storgozia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_THRACE_12">
+			<Text>Pautalia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_THRACE_13">
+			<Text>Tyrsis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_THRACE_14">
+			<Text>Aetos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_THRACE_15">
+			<Text>Artanes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_THRACE_16">
+			<Text>Melsambria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_THRACE_17">
+			<Text>Bargala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_THRACE_18">
+			<Text>Ratiaria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_THRACE_19">
+			<Text>Istros</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_THRACE_20">
+			<Text>Antheia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_THRACE_21">
+			<Text>Bylazora</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_THRACE_22">
+			<Text>Stobi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_THRACE_23">
+			<Text>Salmydessus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_THRACE_24">
+			<Text>Terme</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_THRACE_25">
+			<Text>Naissos</Text>
+		</Row>
+		<!-- Leader Civlopedia Text -->
+		<Row Tag="TXT_KEY_LEADER_MC_SITALCES_DESC">
+			<Text>Sitalces</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_SITALCES_LIVED">
+			<Text>? - 424 BC</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_SITALCES_NAME">
+			<Text>Sitalces</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_SITALCES_SUBTITLE">
+			<Text>King of Thrace</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_SITALCES_TITLES_1">
+			<Text>Ruler of the Odrysian Kingdom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_SITALCES_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_SITALCES_TEXT_1">
+			<Text>One of the great Thracian and Odrysian kings, Sitalces came to power at a young age after losing his father to war. Though ill-equipped for leading the Thracians, Sitalces was well versed in the art of war and was able to lead his army to battle soon after his ascension to the throne, significantly expanding Thracian territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_SITALCES_HEADING_2">
+			<Text>Rule</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_SITALCES_TEXT_2">
+			<Text>According to the Greek historians Herodotus and Thucydides, a royal dynasty emerged from among the Odrysian tribe in Thrace around the end of the 5th century BC, which came to dominate much of the area and peoples between the Danube and the Aegean for the next century. At the death of his father Teres I in 431 BC, Sitacles ascended the Odrysian throne. The rich state that spread from the Danube to the Aegean built roads to develop trade and trained a powerful army.[NEWLINE][NEWLINE]It is said that, during the reign of Sitalces, the Odrysians could place in the field an army of 150,000, one-third of which consisted of cavalry. Sitalces immediately set out to conquer new lands for Thrace, expanding massively in the north. In 429 BC, Sitalces allied himself with the Athenians and organized a massive campaign with a vast army from independent Thracian and Paeonian tribes. Thus, Thrace became involved in the Peloponnesian War. The closest rival to Thrace was the young kingdom of Macedon, which could well have been wiped off the map at this point. With Sitalces leading the way, Thrace defeated Macedon battle after battle, slowly plowing into their ruined lands. However, Sitalces was assassinated before he could take the whole of Macedon. With no strong leader on the frontline the Thracian advance was drastically reduced, limiting the amount of land Thrace could have potentially won from the war.[NEWLINE][NEWLINE]Sitalces was succeeded by his nephew, Seuthes I. Seuthes' reign would directly lead to the end of the Sitalces' campaign into Macedon as Seuthes was ultimately bribed by the Macedonian king, Perdiccas II. Lacking the military aptitude of his predecessor, Seuthes would also lead an unsuccessful campaign against Athens. However, under Seuthes the Odrysian material prosperity by no means declined. It was not till after the death of Seuthes, that the power of the Odrysians rapidly waned before the rising kingdom of Macedon.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_SITALCES_HEADING_3">
+			<Text>Verdict of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_SITALCES_TEXT_3">
+			<Text>Sitalces is often regarded as one of the greatest Thracian kings. His reign saw significant increases in Thracian lands, and, during which, the Odrysian power had become so threatening that Macedon sent regular tribute and entered into diplomatic marriage with Sitalces' son. He proved not only a good military leader but a shrewd diplomatic, securing an alliance with the Athenians and forcing Thracian tribes that had previously defected the Odrysian alliance to acknowledge his sovereignty.</Text>
+		</Row>
+		<!-- DOM Text-->
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_MC_THRACE_TEXT">
+			<Text>Hail, King Sitalces, ruler of the Odrysian Kingdom of Thrace! The Thracians are an ancient people, having settled along the western coast of the Black Sea since time immemorial. Despite being regarded by some as barbarians, your people are cultured and industrious, proficient in art, music and warfare. Yet it was not until the reign of your father, Teres I, who expelled the unwelcome Persian overlords, that the bickering tribes were united under one banner to form a single Thracian kingdom. Through your political and military prowess, you expanded the boundaries of your kingdom, and threatened the very existence of fledging Macedon, which would soon grow to awe the world. During your rule, Thrace Hellenised under the influence of Greek colonists, yet it was the Greeks who adopted Thracian weapons, armour and military ideas; ideas which would even come to inspire the ever-expanding Rome herself in years to come. [NEWLINE][NEWLINE]Oh brave Sitalces, the tribes are divided again, and your people yearn for a leader. Will you don your armour, take up your arms and unite your people once more? Will you build a civilisation that will stand the test of time? </Text>
+		</Row>
+		<!--Diplo Text-->
+		<Row Tag="TXT_KEY_LEADER_MC_SITALCES_FIRSTGREETING_1">
+			<Text>Welcome to the Thracian lands, my friend. We shall dine tonight to celebrate your arrival!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_SITALCES_FIRSTGREETING_2">
+			<Text>Who approaches Sitalces, King of Thrace? I welcome this newcomer, whether they be friend or foe.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_SITALCES_DEFEATED_1">
+			<Text>We have lost. Let them celebrate today, for we shall return tomorrow!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_SITALCES_DEFEATED_2">
+			<Text>It is not often that my foes get the upper hand, and never have they beaten me! How is this so?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_SITALCES_ATTACKED_1">
+			<Text>Oh, good to know you wanted to start the fight. We were preparing to crush you anyway.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_SITALCES_ATTACKED_2">
+			<Text>If you want to make war, then very well, we shall make war too. Gladly.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_SITALCES_DECLARE_WAR_1">
+			<Text>It seems that your nation is in a terrible state. Let us fix that for you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_SITALCES_DECLARE_WAR_2">
+			<Text>Pity that I couldn't hold back any longer; victory would have been all the sweeter.</Text>
+		</Row>
+		<!--First Greeting messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_SITALCES_FIRSTGREETING_3">
+			<Text>Before you is the greatest warrior in all of Thrace. You would be careful and fair in our dealings, won't you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SITALCES_FIRSTGREETING_4">
+			<Text>I am Sitalces, King of Thrace and all her proud holdings. What do you seek here?</Text>
+		</Row>
+		<!--Defeated messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_SITALCES_DEFEATED_3">
+			<Text>I may have fallen, but the spirit of Thrace is a resilient one.</Text>
+		</Row>
+		<!-- Human repeats an action too much, gets the following responses -->
+		<Row Tag="TXT_KEY_LEADER_SITALCES_REPEAT_TOO_MUCH_1">
+			<Text>...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SITALCES_REPEAT_TRADE_TOO_MUCH_1">
+			<Text>This deal reeks of thoughtlessness and injustice.</Text>
+		</Row>
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_SITALCES_GREETING_HOSTILE_HELLO_1">
+			<Text>What is your business, you cowardly tyrant?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SITALCES_GREETING_POLITE_HELLO_1">
+			<Text>Welcome my filos, do you need any help?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SITALCES_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>Your desire for blood and conquest is unnerving.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SITALCES_GREETING_HUMAN_AT_WAR_1">
+			<Text>I bid you well in your conflict situation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SITALCES_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>My scouts warn me of your approaching army. I would warn you to direct them away.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SITALCES_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>I will not sit by idly if you continue on your path of aggresively claiming our land. Consider this a dire warning or your people will cease to exist.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SITALCES_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>I would request you stop buying lands close to us. It will be a lot better for us if we co-existed peacefully.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SITALCES_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>Your aggressive expansion must be stopped. I take these actions as a threat to my kingdom!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SITALCES_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>While I have this opportunity, I should mention that your expansion has worried my fellow tribesmen. Why are you here?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SITALCES_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>My people are very happy knowing you back us with your brave and countless warriors.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SITALCES_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>You're empire is famous for its strong economy. I hope desire hasn't gotten ahold of you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SITALCES_GREETING_HOSTILE_HUMAN_FEW_CITIES_1">
+			<Text>You call your collection of villages an empire?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SITALCES_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>Uour military is extremely small. Someone else might devour it soon.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SITALCES_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>We don't deal with dishonorable people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SITALCES_TOO_SOON_FOR_DOF_1">
+			<Text>I'm sorry.I think this is just to early for me to determine the type of person you are.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SITALCES_DENOUNCE_1">
+			<Text>You have proven that you possess no hint of valor or honor.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SITALCES_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Be careful, others think the same of you as well.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SITALCES_HUMAN_DOFED_FRIEND_1">
+			<Text>It is wonderful that you are friends with{1_CivName}! I am very glad to hear it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SITALCES_HUMAN_DOFED_ENEMY_1">
+			<Text>{1_CivName} is not to be trusted. I suggest you do not get too close to them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SITALCES_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>I strongly urge you to reconsider your position with {1_CivName}. They have been nothing but good friends to us.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SITALCES_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>I agree that {1_CivName} is not to be trusted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SITALCES_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>I noticed that you have declared your friendship with {1_CivName}. I and my brethren has decided to follow in your footsteps.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SITALCES_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>Oh great, now the vermin are breeding. Now I have to deal with both you and {1_CivName}?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SITALCES_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>I share your convictions that {1_CivName} only causes problems for our cause. Perhaps the combination of our denouncements will have them rethink their position in this world.</Text>
+		</Row>
+		<!-- General Diplo Text -->
+		<Row Tag="TXT_KEY_LEADER_SITALCES_DEC_FRIENDSHIP_1">
+			<Text>Would you be willing to make our friendship public? It will strengthen the bond our people already have.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SITALCES_DEC_FRIENDSHIP_2">
+			<Text>A peaceful homeland is what my people want, and so do yours. A declaration of friendship will go a long way toward this goal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SITALCES_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>I have been tipped of an army coming too close to my domains. If it yours by any chance, I would ask you to move it away. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SITALCES_PLOT_BUYING_WARNING_1">
+			<Text>I will warn you that your plot buying does not bode well with my fellow tribesmen. This will have consequences if it continues.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SITALCES_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>I am outraged to hear that you are still acquiring lands that I consider to be mine. This is a serious offense!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SITALCES_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Your expansion is troubling my people. I will warn you to stop or face the proud and might warriors of Thrace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SITALCES_EXPANSION_WARNING">
+			<Text>I would advise you to stray from your current path of expansion. You might bring terrible forces upon your people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SITALCES_RETURNED_CIVILIAN_1">
+			<Text>Let today be the day Thrace rejoices as her civilians come home. Your actions will speak for you eternally</Text>
+		</Row>
+		<!--Public Declarations-->
+		<Row Tag="TXT_KEY_LEADER_SITALCES_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}. Attacking the City-State will greatly damage relations and may lead to war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SITALCES_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<!-- Human is asking the AI for something -->
+		<Row Tag="TXT_KEY_LEADER_SITALCES_DONT_SETTLE_NO_1">
+			<Text>I require those lands to support our people. I will not yield to such an insulting demand.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SITALCES_DONT_SETTLE_YES_1">
+			<Text>As you wish. My settlers will never bother you again.</Text>
+		</Row>
+		<!--Deal Offers and related-->
+		<Row Tag="TXT_KEY_LEADER_SITALCES_LUXURY_TRADE_1">
+			<Text>I propose this deal as a way for our nations to prosper.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SITALCES_OPEN_BORDERS_EXCHANGE_1">
+			<Text>Free movement between our empires would be of great help for both our people. What do you say?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SITALCES_RESPONSE_REQUEST_1">
+			<Text>I have to ask you for assistance at such a point in our time. Will you help us?</Text>
+		</Row>
+		<!--AI Attacked by Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_SITALCES_ATTACKED_HOSTILE_1">
+			<Text>To the last man we will die fighting!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SITALCES_ATTACKED_EXCITED_1">
+			<Text>We have stood for eons, and we will continue to do so.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SITALCES_ATTACKED_SAD_1">
+			<Text>I regret to announce the end of our relations and a beginning of war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SITALCES_ATTACKED_BETRAYED_1">
+			<Text>I trusted you, but don't worry, you will no longer exist to betray anyone else.</Text>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		<Row Tag="TXT_KEY_LEADER_SITALCES_TOO_SOON_NO_PEACE_1">
+			<Text>I will not make peace. Not until the soul of your people is crushed and your lands made mine.</Text>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		<Row Tag="TXT_KEY_LEADER_SITALCES_BAD_1">
+			<Text>You have given me saddening news.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SITALCES_GOOD_1">
+			<Text>The mighty tribes of Thrace are forever thankful.</Text>
+		</Row>
+	</Language_en_US>	
+</GameData>
