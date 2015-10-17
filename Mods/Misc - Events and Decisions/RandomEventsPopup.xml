@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Context>
+	<Box Color="Black.128" Size="Full.Full" ID="FullScreenOverlay" ConsumeMouse="1">
+		<Grid ID="MainGrid" Size="800,600" Offset="8.0" Anchor="C,C" Color="0,0,0,0" ConsumeMouse="1">
+			<Grid Anchor="R.T" Offset="0,0" Size="800,632" Style="Grid9DetailFive140" ID="BlackGridFrame" />
+
+			<Stack ID="EventInfoStack" Anchor="C,T" Size="800,1" Offset="0,0" StackGrowth="Bottom" Padding="0">
+				<Label Anchor="C,T" Offset="0,70" String="" ID="EventTitle" Font="TwCenMT24" FontStyle="Shadow" ColorSet="Beige_Black_Alpha" />
+				<Label Anchor="L,T" String="" ID="EventDescription" Offset="0,30" WrapWidth="700" Font="TwCenMT16" FontStyle="Shadow" ColorSet="Beige_Black_Alpha" />
+				<Image Anchor="C,C" Offset="0,30" Texture="bar340x2.dds" Size="340.1"/>
+			</Stack>
+			<Stack ID="EventOptionStack" Anchor="C,T" Offset="50,110" Color="50,50,50,150" StackGrowth="Bottom" Padding="0"/>
+		</Grid>
+	</Box>
+	
+	<Instance Name="EventOptionInstance">
+		<Box Color="0,0,0,0" Anchor="C,T" Offset="0,0" Size="780,1" ID="EventOptionBox">
+			<GridButton ID="EventOptionButton" Anchor="C,C" String="" Font="TwCenMT20" Style="BaseButton" Size="650,32" Offset="35,0" StateOffsetIncrement="0,0" NormalState="Beige_Black"  MouseOver="White_Black" ButtonDown="Beige_Black_Alpha" ToolTip="" >
+				<Label ID="FlavorText" Anchor="C,C" Offset="0,0" String="TXT_KEY_MODDING_BACK" Font="TwCenMT20" ColorSet="Beige_Black_Alpha" FontStyle="Shadow"/>
+			</GridButton>
+		</Box>
+	</Instance>
+</Context>

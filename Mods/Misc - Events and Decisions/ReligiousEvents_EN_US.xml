@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/8/2014 11:45:18 AM -->
+<GameData>
+	<Language_en_US>
+		<!----------------------------------------------------------------
+						Generic Religious Events
+		------------------------------------------------------------------>
+		<!-- Religious Project -->
+		<Row Tag="TXT_KEY_EVENT_RELIGIOUSPROJECT">
+			<Text>Religious Project</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_RELIGIOUSPROJECT_DESC">
+			<Text>
+				The people of {1_City} have long desired a great place of worship, thus, they have gathered to construct a {2_Building} in their city, as a show of their piety and devotion.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_RELIGIOUSPROJECT_OUTCOME_1">
+			<Text>
+				Wonderful news!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_RELIGIOUSPROJECT_OUTCOME_2">
+			<Text>
+				As a pious man, I too shall do my part.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_RELIGIOUSPROJECT_OUTCOME_1_DESC">
+			<Text>
+				[ICON_BULLET][COLOR_POSITIVE_TEXT]A {1_Building} is built in {2_City}[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_RELIGIOUSPROJECT_OUTCOME_2_DESC">
+			<Text>
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Cost} [ICON_GOLD] Gold[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]A {2_Building} is built in {3_City}[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {4_iReward} [ICON_PEACE] Faith[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_RELIGIOUSPROJECT_NOTIFICATION">
+			<Text>
+				The devout of {1_City} have come together to construct a {2_Building}.
+			</Text>
+		</Row>		
+		<!----------------------------------------------------------------
+						Specific Religious Events
+								Buddhism
+		------------------------------------------------------------------>
+		<!-- Buddha's Footprint -->
+		<Row Tag="TXT_KEY_EVENT_BUDDHAFOOTPRINTS">
+			<Text>Buddha's Footprint</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_BUDDHAFOOTPRINTS_DESC">
+			<Text>
+				A puddle of water resembling a large footprint was found near {1_City}. It has been declared to be a footprint of the Lord Buddha. Buddhist legend holds that during his lifetime the Buddha flew and left his footprints in all lands where his teachings would be acknowledged. As the mark has been claimed to be a footprint of Buddha, voices have been raised in support of building a temple around it.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_BUDDHAFOOTPRINTS_OUTCOME_1">
+			<Text>
+				Fund the temple.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_BUDDHAFOOTPRINTS_OUTCOME_2">
+			<Text>
+				Perhaps it'd be wise to send men to investigate.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_BUDDHAFOOTPRINTS_OUTCOME_3">
+			<Text>
+				I have no time for such foolish beliefs!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_BUDDHAFOOTPRINTS_OUTCOME_1_DESC">
+			<Text>
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLD] Gold[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]{2_City} begins celebrating 20 turns of 'We Love the King Day'[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_BUDDHAFOOTPRINTS_OUTCOME_2_DESC">
+			<Text>
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_PEACE] Faith[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {2_Reward} [ICON_RESEARCH] Science[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_BUDDHAFOOTPRINTS_NOTIFICATION">
+			<Text>
+				A footprint of the Lord Buddha has been found near {1_City}.
+			</Text>
+		</Row>
+		<!-- Buddhist Project -->
+		<Row Tag="TXT_KEY_EVENT_BUDDHISTPROJECT">
+			<Text>Buddhist Project</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_BUDDHISTPROJECT_DESC">
+			<Text>
+				Merit making has long been a central part of the Buddhist faith; part of this is aiding, whether through physical or monetary means, in the construction of religious projects. The people of {1_City} have gathered to construct a {2_Building} in their city.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_BUDDHISTPROJECT_OUTCOME_1">
+			<Text>
+				They will surely reap the rewards of their Karma!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_BUDDHISTPROJECT_OUTCOME_2">
+			<Text>
+				I too must contribute! It is only right!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_BUDDHISTPROJECT_OUTCOME_1_DESC">
+			<Text>
+				[ICON_BULLET][COLOR_POSITIVE_TEXT]A {1_Building} is built in {2_City}[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_BUDDHISTPROJECT_OUTCOME_2_DESC">
+			<Text>
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Cost} [ICON_GOLD] Gold[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]A {2_Building} is built in {3_City}[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {4_iReward} [ICON_PEACE] Faith[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_BUDDHISTPROJECT_NOTIFICATION">
+			<Text>
+				The devout Buddhists of {1_City} have come together to construct a {2_Building}.
+			</Text>
+		</Row>
+		<!----------------------------------------------------------------
+								Christianity
+		------------------------------------------------------------------>
+		<!-- Christian Project -->
+		<Row Tag="TXT_KEY_EVENT_CHRISTIANPROJECT">
+			<Text>Christian Project</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_CHRISTIANPROJECT_DESC">
+			<Text>
+				To properly worship God, our people need a place wherein they might properly pray and contemplate. It is with this in mind that the people of {1_City} have gathered to construct a {2_Building} in their city.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_CHRISTIANPROJECT_OUTCOME_1">
+			<Text>
+				The structure will serve as a testament to our faith!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_CHRISTIANPROJECT_OUTCOME_2">
+			<Text>
+				As one of the Christian faith, I will also contribute to the construction of this edifice.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_CHRISTIANPROJECT_OUTCOME_1_DESC">
+			<Text>
+				[ICON_BULLET][COLOR_POSITIVE_TEXT]A {1_Building} is built in {2_City}[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_CHRISTIANPROJECT_OUTCOME_2_DESC">
+			<Text>
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Cost} [ICON_GOLD] Gold[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]A {2_Building} is built in {3_City}[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {4_iReward} [ICON_PEACE] Faith[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_CHRISTIANPROJECT_NOTIFICATION">
+			<Text>
+				The devout Christians of {1_City} have come together to construct a {2_Building}.
+			</Text>
+		</Row>
+		<!-- Marian Apparition -->
+		<Row Tag="TXT_KEY_EVENT_CATHOLICAPPARITION">
+			<Text>Marian Apparition</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_CATHOLICAPPARITION_DESC">
+			<Text>
+				A group of adolescent children, siblings from a small village near [city] confessed to their local priest that they have been visited by none other than the Virgin Mary. They described in detail what the Lady had shown them - visions of Heaven and Hell, prophecies of a great war, and reconcilement of a great nation in Her name. The children insisted that their confessions are meant to remain secret, but the priest decided to share the information with his superiors. What should we do?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_CATHOLICAPPARITION_OUTCOME_1">
+			<Text>
+				We ought to construct a sanctuary in the place to commemorate the miracle.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_CATHOLICAPPARITION_OUTCOME_2">
+			<Text>
+				We must investigate the veracity of this tale first, else our doctrine might suffer.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_CATHOLICAPPARITION_OUTCOME_3">
+			<Text>
+				Dismiss the priest. This is mere folklore.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_CATHOLICAPPARITION_OUTCOME_1_DESC">
+			<Text>
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLD] Gold[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {2_Reward} [ICON_PEACE] Faith[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_CATHOLICAPPARITION_OUTCOME_2_DESC">
+			<Text>
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_PEACE] Faith[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {2_Reward} [ICON_RESEARCH] Science[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_CATHOLICAPPARITION_NOTIFICATION">
+			<Text>
+				Children claim to have seen an apparition of the Blessed Virgin Mary near {1_City}.
+			</Text>
+		</Row>
+		<!-- New Biblical Canon -->
+		<Row Tag="TXT_KEY_EVENT_PROTESTANTCANON">
+			<Text>New Biblical Canon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PROTESTANTCANON_DESC">
+			<Text>
+				There is unrest in the clergy. Theologians claim that the Holy Bible needs to undergo changes and rearrangements in order to reflect our faith better. Some of the scholars view several books of the Old Testament to be contradictory to our doctrines, while others question the canonicity of the Apocrypha. A great council has been called to discuss the issue. What change should we endorse?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PROTESTANTCANON_OUTCOME_1">
+			<Text>
+				Remove the Deuterocanonical books from the Old Testament.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PROTESTANTCANON_OUTCOME_2">
+			<Text>
+				Remove the Apocrypha.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PROTESTANTCANON_OUTCOME_3">
+			<Text>
+				Neither of those. The Bible is holy and must not be altered.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PROTESTANTCANON_OUTCOME_1_DESC">
+			<Text>
+				[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Reward} [ICON_CULTURE] Culture[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PROTESTANTCANON_OUTCOME_2_DESC">
+			<Text>
+				[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Reward} [ICON_RESEARCH] Science[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PROTESTANTCANON_OUTCOME_3_DESC">
+			<Text>
+				[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Reward} [ICON_PEACE] Faith[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_PROTESTANTCANON_NOTIFICATION">
+			<Text>
+				We have resolved a debate over the contents of the Holy Bible.
+			</Text>
+		</Row>
+		<!-- Iconoclasm -->
+		<Row Tag="TXT_KEY_EVENT_ORTHODOXICONOCLASM">
+			<Text>Iconoclasm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_ORTHODOXICONOCLASM_DESC">
+			<Text>
+				A recent reinterpretation of the Bible has led a number of bishops and secular officials to believe that icon-making and any kind of portrayal of the divine is against the will of God. To atone for this alleged sin and to protect our empire from divine retribution, they seek to destroy all the icons and holy images throughout the realm. People are taking sides, and the threat of social unrest is growing by the day. We must take action! 
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_ORTHODOXICONOCLASM_OUTCOME_1">
+			<Text>
+				Support the iconoclasts and destroy all icons.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_ORTHODOXICONOCLASM_OUTCOME_2">
+			<Text>
+				Support the iconodules and protect the icon-makers.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_ORTHODOXICONOCLASM_OUTCOME_3">
+			<Text>
+				Call a Holy Synod and reconcile both parties.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_ORTHODOXICONOCLASM_OUTCOME_1_DESC">
+			<Text>
+				[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Reward} [ICON_PEACE] Faith[NEWLINE][ICON_BULLET]Gain {2_Reward} [ICON_CULTURE] Culture[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_ORTHODOXICONOCLASM_OUTCOME_2_DESC">
+			<Text>
+				[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Cost} [ICON_GOLD] Gold[NEWLINE][ICON_BULLET]Gain {2_Reward} [ICON_CULTURE] Culture[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_ORTHODOXICONOCLASM_OUTCOME_3_DESC">
+			<Text>
+				[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Reward} [ICON_PEACE] Faith[NEWLINE][ICON_BULLET]Gain {2_Reward} [ICON_RESEARCH] Science[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_ORTHODOXICONOCLASM_NOTIFICATION">
+			<Text>
+				We have resolved a debate over the acceptability of the making of religious icons.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

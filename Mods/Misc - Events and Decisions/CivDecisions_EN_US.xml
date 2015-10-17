@@ -1,0 +1,2382 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/8/2014 11:45:18 AM -->
+<GameData>
+	<Language_en_US>
+		<!----------------------------------------------------------------
+						Civ Specific Decisions
+		------------------------------------------------------------------>
+		<!-- Siam -->
+		<Row Tag="TXT_KEY_DECISIONS_THAIALPHABET">
+			<Text>Create the Thai Alphabet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_THAIALPHABET_DESC">
+			<Text>
+				King Ramkhamhaeng is traditionally held to be the creator of the Thai Alphabet; a complex script with 44 consonants, 15 vowel symbols that combine into at least 28 vowel forms, and 4 tone diacritics.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Siam
+				[NEWLINE][ICON_BULLET]Must have Wats in all Cities
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive a free Technology
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_THAIALPHABET_ENACTED_DESC">
+			<Text>
+				King Ramkhamhaeng is traditionally held to be the creator of the Thai Alphabet; a complex script with 44 consonants, 15 vowel symbols that combine into at least 28 vowel forms, and 4 tone diacritics.[NEWLINE]
+				[NEWLINE][ICON_BULLET]Receive a free Technology
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SIAMEMBASSIES">
+			<Text>Send Out Embassies</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SIAMEMBASSIES_DESC">
+			<Text>
+				We have often sent lavish gifts and embassies to the many lesser nations to show to them our might and goodwill. Let us do so again on an unprecedented scale! We shall proclaim to the world the glory of Siam, so that we might properly and permanently establish our position as the greatest empire on earth![NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Siam
+				[NEWLINE][ICON_BULLET]Player must know at least 4 City-States[NEWLINE][ICON_BULLET]Player must be at Peace
+				[NEWLINE][ICON_BULLET]May only be enacted in the Renaissance or Industrial Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive between +10 and +40 [ICON_INFLUENCE] Influence with all met City-States
+				[NEWLINE][ICON_BULLET]The resting point for [ICON_INFLUENCE] Influence with all City-States is increased by 10
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SIAMEMBASSIES_ENACTED_DESC">
+			<Text>
+				We have often sent lavish gifts and embassies to the many lesser nations to show to them our might and goodwill. Let us do so again on an unprecedented scale! We shall proclaim to the world the glory of Siam, so that we might properly and permanently establish our position as the greatest empire on earth![NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive between +10 and +40 [ICON_INFLUENCE] Influence with all met City-States
+				[NEWLINE][ICON_BULLET]The resting point for [ICON_INFLUENCE] Influence with all City-States is increased by 10
+			</Text>
+		</Row>
+		<!-- Venice -->
+		<Row Tag="TXT_KEY_DECISIONS_STMARK">
+			<Text>Rescue the Relics of St. Mark</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_STMARK_DESC">
+			<Text>
+				The body of St. Mark, our patron saint, has been discovered abroad. It is our sacred duty to return him to his rightful place in Venice!
+				[NEWLINE][NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Venice
+				[NEWLINE][ICON_BULLET]Must have a Trade Route with a City State[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]-30 [ICON_INFLUENCE] Influence with a random City State[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Saint Mark's Basilica is built in the Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_STMARK_ENACTED_DESC">
+			<Text>
+				The body of St. Mark, our patron saint, has been discovered abroad. It is our sacred duty to return him to his rightful place in Venice![NEWLINE][NEWLINE]Rewards:[NEWLINE][ICON_BULLET]Saint Mark's Basilica is built in the Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_VENETIANARSENALE">
+			<Text>Found the Arsenale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_VENETIANARSENALE_DESC">
+			<Text>
+				Trade is the life blood of Venice and the protection of our trade routes is vital to our trading interests. For this, we need a strong navy. Let us found a shipyard to build for us a navy that will be the envy of the world![NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Venice
+				[NEWLINE][ICON_BULLET]Player must have a Coastal city				
+				[NEWLINE][ICON_BULLET]Must have researched Compass
+				[NEWLINE][ICON_BULLET]All Trade Route Slots must be used
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+33% [ICON_PRODUCTION] Production when training Naval Units
+				[NEWLINE][ICON_BULLET]Receive 3 Great Galleasses
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_VENETIANARSENALE_ENACTED_DESC">
+			<Text>
+				Trade is the life blood of Venice and the protection of our trade routes is vital to our trading interests. For this, we need a strong navy. Let us found a shipyard to build for us a navy that will be the envy of the world![NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+33% [ICON_PRODUCTION] Production when training Naval Units
+				[NEWLINE][ICON_BULLET]Receive 3 Great Galleasses
+			</Text>
+		</Row>
+		<!-- Poland -->
+		<Row Tag="TXT_KEY_DECISIONS_POLANDSEJM">
+			<Text>Hold the Great Sejm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_POLANDSEJM_DESC">
+			<Text>
+				In this age of reason, the policies of our country are being rendered backwards and obsolete. We must hold a Great Sejm, to address the defects of our realm, thoroughly reform it, and thus rejuvenate it, so that Poland will be in the vanguard of enlightenment and liberty once again. 
+				[NEWLINE]
+				[NEWLINE]Requirement/Restrictions: 
+				[NEWLINE][ICON_BULLET]Player must be Poland
+				[NEWLINE][ICON_BULLET]May only be enacted in Renaissance or Industrial Era
+				[NEWLINE][ICON_BULLET]May not be enacted during a [ICON_GOLDEN_AGE] Golden Age
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET] +1 Happiness [ICON_HAPPINESS_1] for every 2 Social Policies
+				[NEWLINE][ICON_BULLET] Receive Gold [ICON_GOLD] each time a Social Policy is adopted
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_POLANDSEJM_ENACTED_DESC">
+			<Text>
+				In this age of reason, the policies of our country are being rendered backwards and obsolete. We must hold a Great Sejm, to address the defects of our realm, thoroughly reform it, and thus rejuvenate it, so that Poland will be in the vanguard of enlightenment and liberty once again. 
+				[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET] +1 Happiness [ICON_HAPPINESS_1] for every 2 Social Policies
+				[NEWLINE][ICON_BULLET] Receive Gold [ICON_GOLD] each time a Social Policy is adopted
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_POLANDUNIVERSITY">
+			<Text>Establish the Main Crown School</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_POLANDUNIVERSITY_DESC">
+			<Text>
+				The fate of the kingdom doesn't rely solely on the might of its army. In times of peace, a force of scholars, lawyers and doctors is what keeps the realm strong. Thus, let us found a place of higher learning, to ensure that Poland will always have an educated elite it deserves.
+				[NEWLINE]
+				[NEWLINE]Requirement/Restrictions: 
+				[NEWLINE][ICON_BULLET]Player must be Poland
+				[NEWLINE][ICON_BULLET]May only be enacted in Medieval or Renaissance Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]The Jagiellonian University is built in the capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_POLANDUNIVERSITY_ENACTED_DESC">
+			<Text>
+				The fate of the kingdom doesn't rely solely on the might of its army. In times of peace, a force of scholars, lawyers and doctors is what keeps the realm strong. Thus, let us found a place of higher learning, to ensure that Poland will always have an educated elite it deserves.
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]The Jagiellonian University is built in the capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BUILDING_POLANDUNIVERSITY">
+			<Text>Jagiellonian University</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BUILDING_POLANDUNIVERSITY_CIVILOPEDIA">
+			<Text>
+				The Jagiellonian University, or The Main Crown School, is a research university founded in 1364 by Casimir III the Great in Kazimierz (since 1791 a district of Kraków). It is the oldest university in Poland, the second oldest university in Central Europe (after Charles University in Prague) and one of the oldest universities in the world.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BUILDING_POLANDUNIVERSITY_HELP">
+			<Text>
+				Boosts city [ICON_CULTURE] Culture output by 10%. +25% [ICON_GREAT_PEOPLE] Great People generation in this City.[NEWLINE][NEWLINE]May only be acquired by Poland through the "Establish the Main Crown School" decision.
+			</Text>
+		</Row>
+		<!-- Inca -->
+		<Row Tag="TXT_KEY_DECISIONS_INCANQUIPUCAMAYOCS">
+			<Text>Recruit Quipucamayocs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_INCANQUIPUCAMAYOCS_DESC">
+			<Text>
+				As our empire expands so too must its bureaucracy and so we will need more Quipucamayocs to manage our Quipus and ensure that our accounts are correctly recorded and taxes properly collected. Let us hire or train additional Quipucamayocs to help us manage the finances of our empire.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Inca
+				[NEWLINE][ICON_BULLET]Must have researched Mathematics
+				[NEWLINE][ICON_BULLET]May only be enacted once per era
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: the amount received increases with the number of Farms and Terrace Farms in the Empire[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_INCANQUIPUCAMAYOCS_ENACTED_DESC">
+			<Text>
+				As our empire expands so too must its bureaucracy and so we will need more Quipucamayocs to manage our Quipus and ensure that our accounts are correctly recorded and taxes properly collected. Let us hire or train additional Quipucamayocs to help us manage the finances of our empire.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Lump sum of [ICON_GOLD] Gold
+				[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: the amount received increases with the number of Farms and Terrace Farms in the Empire[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_INCANCHASQUIS">
+			<Text>Establish the Chasqui System</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_INCANCHASQUIS_DESC">
+			<Text>
+				The Inca Empire spans many leagues and while our road networks are extensive, it still takes time for important missives to travel throughout the empire. We hire Chasquis to remedy this: runners who will be able to deliver messages and objects quickly and efficiently.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Inca
+				[NEWLINE][ICON_BULLET]All cities must be connected to the Capital[NEWLINE][ICON_BULLET]There must be a Worker in the Capital
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE][ICON_BULLET]The Worker is disbanded
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_GOLD] Gold in every City
+				[NEWLINE][ICON_BULLET]+25% [ICON_GOLD] Gold from [ICON_CONNECTED] City Connections
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_INCANCHASQUIS_ENACTED_DESC">
+			<Text>
+				The Inca Empire spans many leagues and while our road networks are extensive, it still takes time for important missives to travel throughout the empire. We hire Chasquis to remedy this: runners who will be able to deliver messages and objects quickly and efficiently.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_GOLD] Gold in every City
+				[NEWLINE][ICON_BULLET]+25% [ICON_GOLD] Gold from [ICON_CONNECTED] City Connections
+			</Text>
+		</Row>
+		<!-- Spain -->
+		<Row Tag="TXT_KEY_DECISIONS_SPAINCOLUMBUS">
+			<Text>Fund Columbus's Expedition</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SPAINCOLUMBUS_DESC">
+			<Text>
+				Explorer Christopher Columbus made two attempts in 1485 and 1488 to convince the King of Portugal, John III, to finance an expedition to try and find a western route to the Orient. After being rejected the second time, Columbus turned his efforts towards the Spanish Crown. Backed up by Italian investors, Columbus finally managed to convince King Ferdinand to agree to the expedition. In August 1492, after having been made 'Admiral of the Seas' and promised a share of the profits, Columbus finally set sail.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Spain
+				[NEWLINE][ICON_BULLET]Must have researched Astronomy
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]2 Caravels appear near the Capital
+				[NEWLINE][ICON_BULLET]A Great Admiral appears near the Capital
+				[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]Warning: Your Capital should be within working range of an Ocean[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SPAINCOLUMBUS_ENACTED_DESC">
+			<Text>
+				Explorer Christopher Columbus made two attempts in 1485 and 1488 to convince the King of Portugal, John III, to finance an expedition to try and find a western route to the Orient. After being rejected the second time, Columbus turned his efforts towards the Spanish Crown. Backed up by Italian investors, Columbus finally managed to convince King Ferdinand to agree to the expedition. In August 1492, after having been made 'Admiral of the Seas' and promised a share of the profits, Columbus finally set sail.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]2 Caravels appear near the Capital
+				[NEWLINE][ICON_BULLET]A Great Admiral appear near the Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SPANISHINQUISITION">
+			<Text>Establish the Spanish Inquisition</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SPANISHINQUISITION_DESC">
+			<Text>
+				In the early years of the 16th century, to combat the rising tide of religious unorthodoxy, the Pope gave Cardinal Ximénes of Spain leave to move without let or hindrance throughout the land, in a reign of violence, terror and torture that makes a smashing film. This was the Spanish Inquisition...[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Spain
+				[NEWLINE][ICON_BULLET]Player must have a majority religion
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]{2_Faith} [ICON_PEACE] Faith
+				[NEWLINE][ICON_BULLET]All non-majority religions are removed from your empire
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SPANISHINQUISITION_ENACTED_DESC">
+			<Text>
+				In the early years of the 16th century, to combat the rising tide of religious unorthodoxy, the Pope gave Cardinal Ximénes of Spain leave to move without let or hindrance throughout the land, in a reign of violence, terror and torture that makes a smashing film. This was the Spanish Inquisition...[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Lump sum of [ICON_PEACE] Faith
+				[NEWLINE][ICON_BULLET]All non-majority religions are removed from your empire
+			</Text>
+		</Row>
+		<!-- Netherlands -->
+		<Row Tag="TXT_KEY_DECISIONS_DUTCHWISSELBANK">
+			<Text>Found the Amsterdamsche Wisselbank</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DUTCHWISSELBANK_DESC">
+			<Text>
+				The problem with metal coinage was that it was virtually impossible to make coins of equal weight at all mints. This makes moving wealth around, the life blood of trade, difficult. The Wisselbank traded metal money for Amsterdam paper money that had to be used in the city for bills over 600 guilders. This created a medium of exchange that everyone could be confident in the value of, facilitating exchange.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Netherlands
+				[NEWLINE][ICON_BULLET]May only be enacted in the Renaissance or Industrial Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]{2_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive a free Bank in the Capital
+				[NEWLINE][ICON_BULLET]+5 [ICON_GOLD] Gold in the Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DUTCHWISSELBANK_ENACTED_DESC">
+			<Text>
+				The problem with metal coinage was that it was virtually impossible to make coins of equal weight at all mints. This makes moving wealth around, the life blood of trade, difficult. The Wisselbank traded metal money for Amsterdam paper money that had to be used in the city for bills over 600 guilders. This created a medium of exchange that everyone could be confident in the value of, facilitating exchange.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive a free Bank in the Capital
+				[NEWLINE][ICON_BULLET]+5 [ICON_GOLD] Gold in the Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DUTCHNAVY">
+			<Text>Modernise the Merchant Navy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DUTCHNAVY_DESC">
+			<Text>
+				The newly invented Fluyt is a specialised cargo vessel capable of carrying a large load with a very small crew and are designed to be built cheaply and in large numbers. We should make this ship the standard for our merchants.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Netherlands
+				[NEWLINE][ICON_BULLET]May only be enacted in the Renaissance or Industrial Era
+				[NEWLINE][ICON_BULLET]There must be a Great Merchant or a Great Admiral in the Capital
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]The Great Merchant or Great Admiral is disbanded
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Allows the establishing 2 additional trade routes
+				[NEWLINE][ICON_BULLET]2 Cargo Ships appear in the Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DUTCHNAVY_ENACTED_DESC">
+			<Text>
+				The newly invented Fluyt is a specialised cargo vessel capable of carrying a large load with a very small crew and are designed to be built cheaply and in large numbers. We should make this ship the standard for our merchants.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Allows the establishing 2 additional trade routes
+				[NEWLINE][ICON_BULLET]2 Cargo Ships appear in the Capital
+			</Text>
+		</Row>
+		<!-- Germany -->
+		<Row Tag="TXT_KEY_DECISIONS_GERMANCONFEDERATION">
+			<Text>Consolidate the German Confederation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_GERMANCONFEDERATION_DESC">
+			<Text>
+				The North German Confederation or Norddeutscher Bund was a federation of 22 independent states of northern Germany, with nearly 30 million inhabitants. It was the first modern German nation state and the basis for the later German Empire, when several south German states such as Bavaria joined. According to modern scholars the Confederation and the Empire are identical as a state, although technically the Empire was a new foundation.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Germany
+				[NEWLINE][ICON_BULLET]May only be enacted in the Industrial or Modern Era
+				[NEWLINE][ICON_BULLET]Must be allied to at least 4 City States
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]The Bundesrat is built in the Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_GERMANCONFEDERATION_ENACTED_DESC">
+			<Text>
+				The North German Confederation or Norddeutscher Bund was a federation of 22 independent states of northern Germany, with nearly 30 million inhabitants. It was the first modern German nation state and the basis for the later German Empire, when several south German states such as Bavaria joined. According to modern scholars the Confederation and the Empire are identical as a state, although technically the Empire was a new foundation.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]The Bundesrat is built in the Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BUILDING_GERMANCONFEDERATION">
+			<Text>Bundesrat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BUILDING_GERMANCONFEDERATION_CIVILOPEDIA">
+			<Text>
+				The German Bundesrat is a legislative body that represents the sixteen Länder (federal states) of Germany at the national level. The Bundesrat meets at the former Prussian House of Lords in Berlin. Its second seat is located in the former West German capital Bonn. The Bundesrat participates in legislation, alongside the Bundestag, the directly elected representation of the people of Germany, with laws affecting state competences and all constitutional changes requiring the consent of the body. Functioning similarly, it is often described as an upper house along the lines of US Senate, the Canadian Senate or the British House of Lords, although the German constitution does not declare the Bundestag and Bundesrat to form houses of a bicameral parliament. Officially, it is generally referred to as a "constitutional body" alongside the Bundestag, the Federal President, the Federal Cabinet and the Federal Constitutional Court.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BUILDING_GERMANCONFEDERATION_HELP">
+			<Text>
+				1 Free Social Policy. +1 [ICON_CULTURE] Culture for every allied City State.[NEWLINE][NEWLINE]May only be acquired by Germany through the "Consolidate the German Confederation" decision.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_GERMANTHURNUNDTAXIS">
+			<Text>Thurn und Taxis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_GERMANTHURNUNDTAXIS_DESC">
+			<Text>
+				The House of Thurn und Taxis pioneered the German postal service, a complex network of the communication which covers various European regions and all of Germany.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Germany
+				[NEWLINE][ICON_BULLET]May only be enacted in the Renaissance or Industrial Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Each Trade Route generates +2 [ICON_RESEARCH] Science in the Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_GERMANTHURNUNDTAXIS_ENACTED_DESC">
+			<Text>
+				The House of Thurn und Taxis pioneered the German postal service, a complex network of the communication which covers various European regions and all of Germany.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Each Trade Route generates +2 [ICON_RESEARCH] Science in the Capital
+			</Text>
+		</Row>
+		<!-- Rome -->
+		<Row Tag="TXT_KEY_DECISIONS_ROMANCONCRETE">
+			<Text>Introduce Concrete</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ROMANCONCRETE_DESC">
+			<Text>
+				The development of concrete transformed Roman construction methods. The addition of Pozzolana, a sandy black volcanic ash named after an area around the Bay of Naples, created a stronger paste which allowed for construction underwater, something crucial for bridge building. Concrete also allowed the construction of elaborate architectural features, such as curved columns and arches, the most notable examples of these being in the Pantheon in Rome.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Rome
+				[NEWLINE][ICON_BULLET]Must have researched Engineering
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Science} [ICON_RESEARCH] Science
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+10% [ICON_PRODUCTION] Production when constructing Buildings or Wonders in the Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ROMANCONCRETE_ENACTED_DESC">
+			<Text>
+				The development of concrete transformed Roman construction methods. The addition of Pozzolana, a sandy black volcanic ash named after an area around the Bay of Naples, created a stronger paste which allowed for construction underwater, something crucial for bridge building. Concrete also allowed the construction of elaborate architectural features, such as curved columns and arches, the most notable examples of these being in the Pantheon in Rome.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+10% [ICON_PRODUCTION] Production when constructing Buildings or Wonders in the Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ROMANPANEM">
+			<Text>Panem et Circenses</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ROMANPANEM_DESC">
+			<Text>
+				"Already long ago, from when we sold our vote to no man, the People have abdicated our duties; for the People who once upon a time handed out military command, high civil office, legions - everything, now restrains itself and anxiously hopes for just two things: bread and circuses."[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Rome
+				[NEWLINE][ICON_BULLET]May not be enacted in the Ancient Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per era
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]"We Love the King Day" in all cities
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ROMANPANEM_ENACTED_DESC">
+			<Text>
+				"Already long ago, from when we sold our vote to no man, the People have abdicated our duties; for the People who once upon a time handed out military command, high civil office, legions - everything, now restrains itself and anxiously hopes for just two things: bread and circuses."[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]"We Love the King Day" in all cities
+			</Text>
+		</Row>
+		<!-- Polynesia -->
+		<Row Tag="TXT_KEY_DECISIONS_POLYNESIAPADDLE">
+			<Text>Proclaim the Kanawai Mamalahoe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_POLYNESIAPADDLE_DESC">
+			<Text>
+				Let us bring peace to our civilians by proclaiming the Kanawai Mamalahoe; the Law of the Splintered Paddle, that every elderly person, woman and child might lie by the roadside in safety.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Polynesia
+				[NEWLINE][ICON_BULLET]Must have 5 Military Units or more
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Empire enters a [ICON_GOLDEN_AGE] Golden Age
+				[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: The length of the [ICON_GOLDEN_AGE] Golden Age will depend on the number of units; if enacted now it will last {2_Turns} turns[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_POLYNESIAPADDLE_ENACTED_DESC">
+			<Text>
+				Let us bring peace to our civilians by proclaiming the Kanawai Mamalahoe; the Law of the Splintered Paddle, that every elderly person, woman and child might lie by the roadside in safety.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Empire enters a [ICON_GOLDEN_AGE] Golden Age
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_POLYNESIARUNANGA">
+			<Text>Revive the Runanga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_POLYNESIARUNANGA_DESC">
+			<Text>
+				In the 1850s, in response to the European colonisation of New Zealand and the alienation of Maori land, the Maori began reviving the ancient tribal Runanga or chiefly war councils.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Polynesia
+				[NEWLINE][ICON_BULLET]There must be a Unit with the Haka War Dance Promotion in the Capital
+				[NEWLINE][ICON_BULLET]May only be enacted in the Industrial or Modern Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]The unit is disbanded
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive a free Social Policy
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_POLYNESIARUNANGA_ENACTED_DESC">
+			<Text>
+				In the 1850s, in response to the European colonisation of New Zealand and the alienation of Maori land, the Maori began reviving the ancient tribal Runanga or chiefly war councils.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive a free Social Policy
+			</Text>
+		</Row>
+		<!-- Egypt -->
+		<Row Tag="TXT_KEY_DECISIONS_EGYPTIANNOME">
+			<Text>Establish the Nomes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_EGYPTIANNOME_DESC">
+			<Text>
+				Ancient Egypt was divided into 42 subdivisions called Nomes or Sepats; this division remained in place for more than three millennia. The areas of the individual Nomes and their ordering remained remarkably stable. Some, like Xois in the Delta or Khent in Upper Egypt, were first mentioned on the Palermo stone, which was inscribed in the Fifth Dynasty. The names of a few, like the nome of Bubastis, appeared no earlier than the New Kingdom.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Egypt
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Cost} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]{1_Cost} [ICON_PEACE] Faith
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Unlocks the "Empower the Pharaoh" Decision
+				[NEWLINE][ICON_BULLET]Unlocks the "Empower the Nomarchs" Decision
+				[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: The two unlocked Decisions will allow you to gain [ICON_GOLD] Gold or [ICON_PEACE] Faith from Enacting Decisions[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_EGYPTIANNOME_ENACTED_DESC">
+			<Text>
+				Ancient Egypt was divided into 42 subdivisions called Nomes or Sepats; this division remained in place for more than three millennia. The areas of the individual Nomes and their ordering remained remarkably stable. Some, like Xois in the Delta or Khent in Upper Egypt, were first mentioned on the Palermo stone, which was inscribed in the Fifth Dynasty. The names of a few, like the nome of Bubastis, appeared no earlier than the New Kingdom.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Unlocks the "Empower the Pharaoh" Decision
+				[NEWLINE][ICON_BULLET]Unlocks the "Empower the Nomarchs" Decision
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_EGYPTIANPHARAOH">
+			<Text>Empower the Pharaoh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_EGYPTIANPHARAOH_DESC">
+			<Text>
+				Centralise power within the empire. Let our Pharaoh, {1_Name} Setepenre, the Lord of the Two Lands, reign supreme as God-King over all of Egypt! Long may he reign![NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Egypt
+				[NEWLINE][ICON_BULLET]"Establish the Nomes" must be enacted
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE][ICON_BULLET]Unenacts the "Empower the Nomarchs" Decision if enacted
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive {2_Reward} [ICON_PEACE] Faith when you enact a decision.
+				[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: the amount received will increase as you advance through the Eras[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_EGYPTIANPHARAOH_ENACTED_DESC">
+			<Text>
+				Centralise power within the empire. Let our Pharaoh, {1_Name} Setepenre, the Lord of the Two Lands, reign supreme as God-King over all of Egypt! Long may he reign![NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive {2_Reward} [ICON_PEACE] Faith when you enact a decision.
+				[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: the amount received will increase as you advance through the Eras[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_EGYPTIANNOMARCH">
+			<Text>Empower the Nomarchs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_EGYPTIANNOMARCH_DESC">
+			<Text>
+				Lessen the burden on Pharaoh's shoulders and de-centralise power within the empire. Let the Nomarchs assume greater control over their respective Nomes[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Egypt
+				[NEWLINE][ICON_BULLET]"Establish the Nomes" must be enacted
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE][ICON_BULLET]Unenacts the "Empower the Pharaoh" Decision if enacted
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive {1_Reward} [ICON_GOLD] Gold when you enact a decision.
+				[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: the amount received will increase as you advance through the Eras[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_EGYPTIANNOMARCH_ENACTED_DESC">
+			<Text>
+				Lessen the burden on Pharaoh's shoulders and de-centralise power within the empire. Let the Nomarchs assume greater control over their respective Nomes[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive {1_Reward} [ICON_GOLD] Gold when you enact a decision.
+				[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: the amount received will increase as you advance through the Eras[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_EGYPTMONUMENTS">
+			<Text>Develop Hieroglyphs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_EGYPTMONUMENTS_DESC">
+			<Text>
+				We have long recorded our history on papyrus and in stone by simply depicting the event. Let us take this further and develop a system in which sounds and ideas can be explicitly invoked using a symbol to which they have been assigned. With it we will be better able to honour our dead and praise the gods![NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Egypt
+				[NEWLINE][ICON_BULLET]Must have researched Masonry
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Cost} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET][ICON_CULTURE] Culture and [ICON_PEACE] Faith yields from Wonders are added to the city during construction.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_EGYPTMONUMENTS_ENACTED_DESC">
+			<Text>
+				We have long recorded our history on papyrus and in stone by simply depicting the event. Let us take this further and develop a system in which sounds and ideas can be explicitly invoked using a symbol to which they have been assigned. With it we will be better able to honour our dead and praise the gods![NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET][ICON_CULTURE] Culture and [ICON_PEACE] Faith yields from Wonders are added to the city during construction.
+			</Text>
+		</Row>
+		<!-- Sweden -->
+		<Row Tag="TXT_KEY_DECISIONS_SWEDENINDELNINGSVERKET">
+			<Text>Create Indelningsverket</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SWEDENINDELNINGSVERKET_DESC">
+			<Text>
+				Sweden's "Indelningsverk", or military-tenure system was a military organization where the soldiers were given a croft to live on and cultivate, where the harvest served as their wages. Thus the country could maintain a large army in both times of peace and of war. If a peasant assumed the responsibility of maintaining an enlisted rider, his horse and equipment, he was exempted from conscription and freed from paying taxes. The peasants could cooperate in groups of 2-5 farms and maintain a soldier or a sailor.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Sweden
+				[NEWLINE][ICON_BULLET]Must have researched Rifling
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Cost} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]3 Caroleans appear near the Capital
+				[NEWLINE][ICON_BULLET]1 Hakkapeliitta appears in the Capital
+				[NEWLINE][ICON_BULLET]1 Great General appears in the Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SWEDENINDELNINGSVERKET_ENACTED_DESC">
+			<Text>
+				Sweden's "Indelningsverk", or military-tenure system was a military organization where the soldiers were given a croft to live on and cultivate, where the harvest served as their wages. Thus the country could maintain a large army in both times of peace and of war. If a peasant assumed the responsibility of maintaining an enlisted rider, his horse and equipment, he was exempted from conscription and freed from paying taxes. The peasants could cooperate in groups of 2-5 farms and maintain a soldier or a sailor.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]3 Caroleans appear near the Capital
+				[NEWLINE][ICON_BULLET]1 Hakkapeliitta appears in the Capital
+				[NEWLINE][ICON_BULLET]1 Great General appears in the Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SWEDISHRIKSDAG">
+			<Text>Kung och Riksdag</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SWEDISHRIKSDAG_DESC">
+			<Text>
+				The Swedish Kings often depended on cooperation with the Estates, especially with the large peasant class to balance out the nobility. During Gustavus Adolphus reign, however, a historic compromise was made with the nobility, who pledged to loyally put their resources to the nation's disposal in return for new privileges.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Sweden
+				[NEWLINE][ICON_BULLET]May only be enacted during a [ICON_GOLDEN_AGE] Golden Age
+				[NEWLINE][ICON_BULLET]May only be enacted in the Renaissance or Industrial Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]2 randomly selected Great People from the following classes appear in the Capital[NEWLINE][ICON_BULLET]Great Writer[NEWLINE][ICON_BULLET]Great Engineer[NEWLINE][ICON_BULLET]Great Scientist[NEWLINE][ICON_BULLET]Great Merchant[NEWLINE][ICON_BULLET]Great General
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SWEDISHRIKSDAG_ENACTED_DESC">
+			<Text>
+				The Swedish Kings often depended on cooperation with the Estates, especially with the large peasant class to balance out the nobility. During Gustavus Adolphus reign, however, a historic compromise was made with the nobility, who pledged to loyally put their resources to the nation's disposal in return for new privileges.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]2 randomly selected Great People from the following classes appear in the Capital[NEWLINE][ICON_BULLET]Great Writer[NEWLINE][ICON_BULLET]Great Engineer[NEWLINE][ICON_BULLET]Great Scientist[NEWLINE][ICON_BULLET]Great Merchant[NEWLINE][ICON_BULLET]Great General
+			</Text>
+		</Row>
+		<!-- Russia -->
+		<Row Tag="TXT_KEY_DECISIONS_RUSSIANSTRELTSY">
+			<Text>Found the Streltsy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_RUSSIANSTRELTSY_DESC">
+			<Text>
+				In order to ensure that we have an army that is capable of defending our realm we should create a standing army of musket armed troops to supplement our levies.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Russia
+				[NEWLINE][ICON_BULLET]Must have researched Gunpowder
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Cost} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]6 Musketmen appear near the Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_RUSSIANSTRELTSY_ENACTED_DESC">
+			<Text>
+				In order to ensure that we have an army that is capable of defending our realm we should create a standing army of musket armed troops to supplement our levies.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]6 Musketmen appear near the Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_RUSSIAOPRICHNINA">
+			<Text>Send the Oprichniki to {1_City}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_RUSSIAOPRICHNINA_DESC">
+			<Text>
+				The hereditary nobility is the biggest threat to our control of the state. We will send the Oprichniki to {1_City} to purge the city of those nobles whose loyalty is questionable.[NEWLINE][NEWLINE]Requirement/Restrictions:[NEWLINE][ICON_BULLET]Player must be Russia[NEWLINE][ICON_BULLET]{1_City} must have a Constabulary[NEWLINE][ICON_BULLET]May not be enacted after the Atomic era[NEWLINE][ICON_BULLET]May only be enacted once per City[NEWLINE]Costs:[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates[NEWLINE]Rewards:[NEWLINE][ICON_BULLET]{2_Reward} [ICON_GOLD] Gold[NEWLINE][ICON_BULLET]{2_Reward} [ICON_CULTURE] Culture
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_RUSSIAOPRICHNINA_ENACTED_DESC">
+			<Text>
+				The hereditary nobility is the biggest threat to our control of the state. We will send the Oprichniki to {1_City} to purge the city of those nobles whose loyalty is questionable.[NEWLINE][NEWLINE]Requirement/Restrictions:[NEWLINE]Rewards:[NEWLINE][ICON_BULLET]Lump sum of [ICON_GOLD] Gold[NEWLINE][ICON_BULLET]Lump sum of [ICON_CULTURE] Culture
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_RUSSIAOPRICHNINA_NOTE">
+			<Text>
+				[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: Construct Constabularies to unlock this Decision in other cities[ENDCOLOR]
+			</Text>
+		</Row>
+		<!-- Shoshone -->
+		<Row Tag="TXT_KEY_DECISIONS_SHOSHONECOMANCHE">
+			<Text>Found the Comanche Nation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SHOSHONECOMANCHE_DESC">
+			<Text>
+				The Comanche emerged as a distinct group shortly before 1700, when they broke off from the Shoshone people living along the upper Platte River in Wyoming. In 1680 the Comanche acquired horses from the Pueblo Indians after the Pueblo Revolt. They separated from the Shoshone after this, as the horses allowed them greater mobility in their search for better hunting grounds.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Shoshone
+				[NEWLINE][ICON_BULLET]May not be enacted before the Industrial era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]{1_Reward} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]5 [ICON_RES_HORSE] Horses
+				[NEWLINE][ICON_BULLET]3 Comanche Riders appear near the Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SHOSHONECOMANCHE_ENACTED_DESC">
+			<Text>
+				The Comanche emerged as a distinct group shortly before 1700, when they broke off from the Shoshone people living along the upper Platte River in Wyoming. In 1680 the Comanche acquired horses from the Pueblo Indians after the Pueblo Revolt. They separated from the Shoshone after this, as the horses allowed them greater mobility in their search for better hunting grounds.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Lump sum of [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]5 [ICON_RES_HORSE] Horses
+				[NEWLINE][ICON_BULLET]3 Comanche Riders appear near the Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SHOSHONEWILDERNESS">
+			<Text>Explore the Wilderness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SHOSHONEWILDERNESS_DESC">
+			<Text>
+				Before us lies a vast and treacherous world! We must send out Pathfinders to explore the lands that we may be prepared for whatever challenges await us.[NEWLINE][NEWLINE]Requirement/Restrictions:[NEWLINE][ICON_BULLET]Player must be Shoshone[NEWLINE][ICON_BULLET]May only be enacted in the Ancient era[NEWLINE][ICON_BULLET]May only be enacted once per game[NEWLINE]Costs:[NEWLINE][ICON_BULLET]{1_Reward} [ICON_CULTURE] Culture[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates[NEWLINE]Rewards:[NEWLINE][ICON_BULLET]2 Pathfinders appear near the Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SHOSHONEWILDERNESS_ENACTED_DESC">
+			<Text>
+				Before us lies a vast and treacherous world! We must send out Pathfinders to explore the lands that we may be prepared for whatever challenges await us.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]2 Pathfinders appear near the Capital
+			</Text>
+		</Row>
+		<!-- Iroquois -->
+		<Row Tag="TXT_KEY_DECISIONS_IROQUOISWAR">
+			<Text>Call a Mourning War against {1_Name}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_IROQUOISWAR_DESC">
+			<Text>
+				It is a long-established tradition of our people to adopt those we capture into the tribe. To replenish our numbers and ensure our ability to thrive and expand, we will call a Mourning War against {1_Name}.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Iroquois
+				[NEWLINE][ICON_BULLET]Must have a Melee Unit in the Capital
+				[NEWLINE][ICON_BULLET]May not be enacted after the end of the Medieval Era[NEWLINE][ICON_BULLET]May only be enacted once per City State[NEWLINE][ICON_BULLET]May only be enacted 5 times per game[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{2_Chance}% chance the unit is killed
+				[NEWLINE][ICON_BULLET]-60 [ICON_INFLUENCE] Influence with {1_Name}
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]{3_Reward} [ICON_FOOD] Food
+				[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: Higher level units are less likely to be killed[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_IROQUOISWAR_ENACTED_DESC">
+			<Text>
+				It is a long-established tradition of our people to adopt those we capture into the tribe. To replenish our numbers and ensure our ability to thrive and expand, we will call a Mourning War against {1_Name}.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Lump sum of [ICON_FOOD] Food
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_IROQUOISLAWOFPEACE">
+			<Text>Ratify the Gayanashagowa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_IROQUOISLAWOFPEACE_DESC">
+			<Text>
+				We are many peoples, scattered and divided. Yet at the same time we are also one people; the Haudenosaunee. Ratifying the Great Law of Peace will bind the Iroquois Confederation together with a formal constitution and announce our unity to the world![NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Iroquois
+				[NEWLINE][ICON_BULLET]Must have at least 3 Cities
+				[NEWLINE][ICON_BULLET]All cities must be connected to the Capital[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+10% [ICON_CULTURE] Culture in all Cities
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_IROQUOISLAWOFPEACE_ENACTED_DESC">
+			<Text>
+				We are many peoples, scattered and divided. Yet at the same time we are also one people; the Haudenosaunee. Ratifying the Great Law of Peace will bind the Iroquois Confederation together with a formal constitution and announce our unity to the world![NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+10% [ICON_CULTURE] Culture in all Cities
+			</Text>
+		</Row>
+		<!-- Byzantium -->
+		<Row Tag="TXT_KEY_DECISIONS_BYZANTIUMWALLS">
+			<Text>Raise the Theodosian Walls</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BYZANTIUMWALLS_DESC">
+			<Text>
+				The Theodosian Walls were built during the reign of Emperor Theodosius II in the early 5th century, but they still remain some of the most formidable fortifications built by human hands.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Byzantium
+				[NEWLINE][ICON_BULLET]Must have researched Masonry
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE][ICON_BULLET]{1_Cost} [ICON_GOLD] Gold
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]The Theodosian Walls are built in the Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BYZANTIUMWALLS_ENACTED_DESC">
+			<Text>
+				The Theodosian Walls were built during the reign of Emperor Theodosius II in the early 5th century, but they still remain some of the most formidable fortifications built by human hands.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]The Theodosian Walls are built in the Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BUILDING_BYZANTIUMWALLS">
+			<Text>
+				Theodosian Walls
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BUILDING_BYZANTIUMWALLS_CIVILOPEDIA">
+			<Text>
+				The despair of its enemies, the walls of Constantinople were the most famous of the medieval world, singular not only in scale, but in their construction and design, which integrated man-made defenses with natural obstacles. Their principal composition was mortared rubble, faced with blocks of fitted limestone and reinforced by courses of layered red brick. To enhance the integrity of the overall network, the towers and walls were built independently of one another. The entire city was enclosed in a defensive circuit of 14 miles of walls, reinforced by more than 400 towers and bastions, and several strong points and fortresses. The strongest construction faced west, against an approach by land. There, along a four-mile stretch of rolling land, stand the legendary Theodosian Walls, their depths blending together, the merlons overlapping like teeth in the mouth of an Olympian shark. There an enemy had to attack a linear obstacle of four belts, each ascending above the other, with a depth of some 200 feet.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BUILDING_BYZANTIUMWALLS_HELP">
+			<Text>
+				+1 [ICON_PEACE] Faith from all Walls. Provides Walls for free in the city in which it is built.[NEWLINE][NEWLINE]May only be acquired by Byzantium through the "Raise the Theodosian Walls" decision.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BYZANTIUMPORPHYROGENNETOS">
+			<Text>Establish the Succession Laws of Porphyrogennetos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BYZANTIUMPORPHYROGENNETOS_DESC">
+			<Text>
+				Henceforth, all those born to the reigning Basileus shall be given the title "Porphyrogennetos" - "Born in the Purple". They shall be given precedence in the matter of succession.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Byzantium
+				[NEWLINE][ICON_BULLET]Must have completed at least 1 Social Policy tree
+				[NEWLINE][ICON_BULLET]May only be enacted during a [ICON_GOLDEN_AGE] Golden Age
+				[NEWLINE][ICON_BULLET]May only be enacted in the Classical or Medieval Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Cost} [ICON_GOLD] Gold
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BYZANTIUMPORPHYROGENNETOS_ENACTED_DESC">
+			<Text>
+				Henceforth, all those born to the reigning Basileus shall be given the title "Porphyrogennetos" - "Born in the Purple". They shall be given precedence in the matter of succession.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+			</Text>
+		</Row>
+		<!-- Indonesia -->
+		<Row Tag="TXT_KEY_DECISIONS_INDONESIASUMPAHPALAPA">
+			<Text>Sumpah Palapa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_INDONESIASUMPAHPALAPA_DESC">
+			<Text>
+				"I, Gajah Mada, as prime minister, will not taste food with spices if I have not united Nusantara. I will not taste food with spices if I have not defeated Gurun, Seram, Tanjungpura, Haru, Pahang, Dompo, Bali, Sunda, Palembang, Tumasik."[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Indonesia
+				[NEWLINE][ICON_BULLET]Player must be at War
+				[NEWLINE][ICON_BULLET]Must have at least 3 units with the Mystic Blade or related Promotions inside or adjacent the Capital
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+30 XP for the 3 units
+				[NEWLINE][ICON_BULLET]A Great General appears in the Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_INDONESIASUMPAHPALAPA_ENACTED_DESC">
+			<Text>
+				"I, Gajah Mada, as prime minister, will not taste food with spices if I have not united Nusantara. I will not taste food with spices if I have not defeated Gurun, Seram, Tanjungpura, Haru, Pahang, Dompo, Bali, Sunda, Palembang, Tumasik."[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+15 XP for the 3 units
+				[NEWLINE][ICON_BULLET]A Great General appears in the Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_INDONESIASPICE">
+			<Text>Take Control of the Spice Trade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_INDONESIASPICE_DESC">
+			<Text>
+				Nutmeg, clover, humble black pepper. Every grain is worth its weight in gold in the eyes of those cursed with less spicy national cuisines. Our spices' desirability abroad puts us in a position to dominate in international trade.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Indonesia
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE][ICON_BULLET]Player must have a domestic source of at least 1 of the following: {1_Resources}
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Allows the establishing 2 additional trade routes
+				[NEWLINE][ICON_BULLET]2 Cargo Ships appear in the Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_INDONESIASPICE_ENACTED_DESC">
+			<Text>
+				Nutmeg, clover, humble black pepper. Every grain is worth its weight in gold in the eyes of those cursed with less spicy national cuisines. Our spices' desirability abroad puts us in a position to dominate in international trade.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Allows the establishing 2 additional trade routes
+				[NEWLINE][ICON_BULLET]2 Cargo Ships appear in the Capital
+			</Text>
+		</Row>
+		<!-- America -->
+		<Row Tag="TXT_KEY_DECISIONS_AMERICAEMANCIPATION">
+			<Text>Emancipation Proclamation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_AMERICAEMANCIPATION_DESC">
+			<Text>
+				The Emancipation Proclamation is the collective name for two executive presidential orders issued by President Abraham Lincoln during the Civil War, declaring the emancipation of all slaves in the Southern United States.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be America
+				[NEWLINE][ICON_BULLET]May only be enacted in the Industrial or Modern Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Empire enters a [ICON_GOLDEN_AGE] Golden Age
+				[NEWLINE][ICON_BULLET]"We Love the King Day" in all cities
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_AMERICAEMANCIPATION_ENACTED_DESC">
+			<Text>
+				The Emancipation Proclamation is the collective name for two executive presidential orders issued by President Abraham Lincoln during the Civil War, declaring the emancipation of all slaves in the Southern United States.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Empire enters a [ICON_GOLDEN_AGE] Golden Age
+				[NEWLINE][ICON_BULLET]"We Love the King Day" in all cities
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_AMERICANPURCHASE">
+			<Text>The Louisiana Purchase</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_AMERICANPURCHASE_DESC">
+			<Text>
+				In 1803 Napoleon of France was hard pressed for cash as he was set on a dream of European hegemony. He therefore offered the Louisiana Territory, a vast region between the Mississippi and the Rockies against a lump sum of 15 million dollars. The President and the Senate agreed and the United States nearly doubled its size.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be America
+				[NEWLINE][ICON_BULLET]Must have completed at least 1 Social Policy tree
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Founded cities start with additional territory
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_AMERICANPURCHASE_ENACTED_DESC">
+			<Text>
+				In 1803 Napoleon of France was hard pressed for cash as he was set on a dream of European hegemony. He therefore offered the Louisiana Territory, a vast region between the Mississippi and the Rockies against a lump sum of 15 million dollars. The President and the Senate agreed and the United States nearly doubled its size.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Founded cities start with additional territory
+			</Text>
+		</Row>
+		<!-- Arabia -->
+		<Row Tag="TXT_KEY_DECISIONS_ARABIAHOUSEOFWISDOM">
+			<Text>Found the House of Wisdom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ARABIAHOUSEOFWISDOM_DESC">
+			<Text>
+				Our nation prospers through trade. Merchants from across the world flock to Arabia bringing with them innovative ideas and priceless tomes. We shall build a library wherein these tomes and ideas may be translated, stored, collected and refined, transforming our capital into a great centre of learning![NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Arabia
+				[NEWLINE][ICON_BULLET]Must have researched Guilds
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]{2_Reward} [ICON_RESEARCH] Science
+				[NEWLINE][ICON_BULLET]+20% [ICON_RESEARCH] Science from Caravansaries[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: the amount received will increase with the number of Trade Units[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ARABIAHOUSEOFWISDOM_ENACTED_DESC">
+			<Text>
+				Our nation prospers through trade. Merchants from across the world flock to Arabia bringing with them innovative ideas and priceless tomes. We shall build a library wherein these tomes and ideas may be translated, stored, collected and refined, transforming our capital into a great centre of learning![NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Lump sum of [ICON_RESEARCH] Science
+				[NEWLINE][ICON_BULLET]+10% [ICON_RESEARCH] Science from Caravansaries
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ARABIASALADIN">
+			<Text>Anoint Amir al-Mu'minin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ARABIASALADIN_DESC">
+			<Text>
+				Arabia shines as a beacon for the faithful! And so it is our sacred duty to protect this Holy Land. Let us be anointed as "Amir al-Mu'minin", Commander of the Faithful, that we might inspire our troops to battle against the heathens and heretics around us.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Arabia
+				[NEWLINE][ICON_BULLET]Player must be at War
+				[NEWLINE][ICON_BULLET]Player must have a majority religion
+				[NEWLINE][ICON_BULLET]Player must have at least 75% religious unity
+				[NEWLINE][ICON_BULLET]May only be enacted in the Medieval era[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]1 Great General appears in the Capital[NEWLINE][ICON_BULLET]Existing Combat Units recieve {1_XP} XP[NEWLINE][ICON_BULLET]Newly trained Combat Units start with an additional {2_XP} XP
+				{3_UnityText}
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ARABIASALADIN_ENACTED_DESC">
+			<Text>
+				Arabia shines as a beacon for the faithful! And so it is our sacred duty to protect this Holy Land. Let us be anointed as "Amir al-Mu'minin", Commander of the Faithful, that we might inspire our troops to battle against the heathens and heretics around us.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]1 Great General appears in the Capital[NEWLINE][ICON_BULLET]Existing Combat Units recieve {1_XP} XP[NEWLINE][ICON_BULLET]Newly trained Combat Units start with an additional {2_XP} XP
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ARABIASALADIN_NOTE">
+			<Text>[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: The XP your units receive increase with religious unity within the empire; currently your religious unity is at {1_Percent}%. This amount is fixed when the decision is enacted.</Text>
+		</Row>
+		<!-- France -->
+		<Row Tag="TXT_KEY_DECISIONS_FRANCEARMEE">
+			<Text>Organise the Grande Armée</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_FRANCEARMEE_DESC">
+			<Text>
+				The blood of our empire is carried through the veins of our soldiers, and they deserve the utmost veneration. Reorganising and renaming our military to the Grand Army will inspire our men to aspire to greatness.
+				[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be France
+				[NEWLINE][ICON_BULLET]Must have researched Gunpowder
+				[NEWLINE][ICON_BULLET]Must have at least 8 Gunpowder Units
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All Gunpowder Units are 25% more likely to generate a Great General
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_FRANCEARMEE_ENACTED_DESC">
+			<Text>
+				The blood of our empire is carried through the veins of our soldiers, and they deserve the utmost veneration. Reorganising and renaming our military to the Grand Army will inspire our men to aspire to greatness.
+				[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All Gun Units are 25% more likely to generate a Great General
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DECISIONS_FRANCEARMEE_DESC">
+			<Text>Grande Armée</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DECISIONS_FRANCEARMEE_HELP">
+			<Text>25% more likely to generate a Great General in Combat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_FRANCEESTATES">
+			<Text>Create the Estates-General</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_FRANCEESTATES_DESC">
+			<Text>
+				Because of the size of our empire, it is difficult to know the needs of all our people. We should create the Estates-General to ensure that the concerns of all our subjects reach our court.
+				[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be France
+				[NEWLINE][ICON_BULLET]Must have completed at least 2 Social Policy trees
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]-10% Social Policy cost.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_FRANCEESTATES_ENACTED_DESC">
+			<Text>
+				Because of the size of our empire, it is difficult to know the needs of all our people. We should create the Estates-General to ensure that the concerns of all our subjects reach our court.
+				[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]-10% Social Policy cost.
+			</Text>
+		</Row>
+		<!-- Ottomans -->
+		<Row Tag="TXT_KEY_DECISIONS_OTTOMANKANUNI">
+			<Text>The Law code of Suleiman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_OTTOMANKANUNI_DESC">
+			<Text>
+				Suleiman is one of the greatest rulers in history. While the West knows him as Suleiman the Great or Magnificent, in his homeland he is called Kanuni - Lawgiver - thanks to his huge legal reforms and just rule. By codifying the secular laws, 'kanun', he lessened the importance of the rigid Muslim Shari'ah laws.
+				[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Ottomans
+				[NEWLINE][ICON_BULLET]Player must have at least 4 cities[NEWLINE][ICON_BULLET]May not be enacted before the Renaissance era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_HAPPINESS_1] Happiness for every city
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_OTTOMANKANUNI_ENACTED_DESC">
+			<Text>
+				Suleiman is one of the greatest rulers in history. While the West knows him as Suleiman the Great or Magnificent, in his homeland he is called Kanuni - Lawgiver - thanks to his huge legal reforms and just rule. By codifying the secular laws, 'kanun', he lessened the importance of the rigid Muslim Shari'ah laws.
+				[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_HAPPINESS_1] Happiness for every city
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_OTTOMANGUNPOWDER">
+			<Text>Become a Gunpowder Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_OTTOMANGUNPOWDER_DESC">
+			<Text>
+				All our generals agree; gunpowder will revolutionise warfare. In order to ensure the Ottoman war machine remains the greatest, it is paramount that we commission for our army, muskets and bombards, and train our soldiers in their use, beginning our transition into a Gunpowder Empire.
+				[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Ottomans
+				[NEWLINE][ICON_BULLET]Must have researched Gunpowder
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All Gunpowder and Siege Units receive +50% [ICON_STRENGTH] Combat Strength against Cities
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_OTTOMANGUNPOWDER_ENACTED_DESC">
+			<Text>
+				All our generals agree; gunpowder will revolutionise warfare. In order to ensure the Ottoman war machine remains the greatest, it is paramount that we commission for our army, muskets and bombards, and train our soldiers in their use, beginning our transition into a Gunpowder Empire.
+				[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All Gunpowder and Siege Units receive +50% [ICON_STRENGTH] Combat Strength against Cities
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DECISIONS_OTTOMANGUNPOWDER_DESC">
+			<Text>Great Bombard</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DECISIONS_OTTOMANGUNPOWDER_HELP">
+			<Text>+50% [ICON_STRENGTH] Combat Strength against Cities</Text>
+		</Row>
+		<!-- England -->
+		<Row Tag="TXT_KEY_DECISIONS_ENGLISHVIRGINIA">
+			<Text>Patronise the Virginia Company</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ENGLISHVIRGINIA_DESC">
+			<Text>
+				Distant shores hold promise of great wealth for our empire. We should give our consent for our merchants to fund the efforts of colonisation, for the good of the Crown.
+				[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be England
+				[NEWLINE][ICON_BULLET]Player must have researched Astronomy[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Founded cities claim and improve all Luxury Resources within 2 tiles
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ENGLISHVIRGINIA_ENACTED_DESC">
+			<Text>
+				Distant shores hold promise of great wealth for our empire. We should give our consent for our merchants to fund the efforts of colonisation, for the good of the Crown.
+				[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Founded cities claim and improve all Luxury Resources within 2 tiles	
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ENGLISHARMADA">
+			<Text>Create the Counter Armada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ENGLISHARMADA_DESC">
+			<Text>
+				Our naval might is our best defense. Any breach to it could spell disaster. We should ensure that our fleet is prepared for any navy that might oppose it.
+				[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be England
+				[NEWLINE][ICON_BULLET]Player must have at least 5 Naval Units
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]A Great Admiral appears in the Capital[NEWLINE][ICON_BULLET]Newly trained Naval Units begin with additional XP
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ENGLISHARMADA_ENACTED_DESC">
+			<Text>
+				Our naval might is our best defense. Any breach to it could spell disaster. We should ensure that our fleet is prepared for any navy that might oppose it.
+				[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]A Great Admiral appears in the Capital[NEWLINE][ICON_BULLET]Newly trained Naval Units begin with additional XP
+			</Text>
+		</Row>
+		<!-- Denmark -->
+		<Row Tag="TXT_KEY_DECISIONS_DENMARKRAID">
+			<Text>Go on a Viking against {1_Name}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DENMARKRAID_DESC">
+			<Text>
+				The people of {1_Name} are rich and fat. We shall do what our people have always done, and call a raid against them. Our blades will fall upon them as we claim their riches for our own![NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Denmark
+				[NEWLINE][ICON_BULLET]Must have a Melee Unit in the Capital
+				[NEWLINE][ICON_BULLET]May not be enacted after the end of the Medieval Era[NEWLINE][ICON_BULLET]May only be enacted once per City State[NEWLINE][ICON_BULLET]May only be enacted 8 times per game[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{2_Chance}% chance the unit is killed
+				[NEWLINE][ICON_BULLET]-60 [ICON_INFLUENCE] Influence with {1_Name}
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]{3_Reward} [ICON_GOLD] Gold
+				[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: Higher level units are less likely to be killed[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DENMARKRAID_ENACTED_DESC">
+			<Text>
+				The people of {1_Name} are rich and fat. We shall do what our people have always done, and call a raid against them. Our blades will fall upon them as we claim their riches for our own![NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Lump sum of [ICON_GOLD] Gold
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DENMARKTHING">
+			<Text>Formalise the Thing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DENMARKTHING_DESC">
+			<Text>
+				Our people have long held Things or assemblies at regular intervals to address the grievances and disputes between clans. Giving the Thing a bigger role to play in our government should lower the costs of maintaining peace within the nation, and allow us to focus on outward expansion.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Denmark
+				[NEWLINE][ICON_BULLET]Must have at least 8 Melee Units
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Medieval era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Cost} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]-20% Unit [ICON_GOLD] Gold maintenance costs
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DENMARKTHING_ENACTED_DESC">
+			<Text>
+				Our people have long held Things or assemblies at regular intervals to address the grievances and disputes between clans. Giving the Thing a bigger role to play in our government should lower the costs of maintaining peace within the nation, and allow us to focus on outward expansion.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]-20% Unit [ICON_GOLD] Gold maintenance costs
+			</Text>
+		</Row>
+		<!-- Aztecs -->
+		<Row Tag="TXT_KEY_DECISIONS_AZTECIMPERIALARMY">
+			<Text>Form the Imperial Jaguars and Eagles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_AZTECIMPERIALARMY_DESC">
+			<Text>
+				As the Aztec empire grows, so does her enemies. With the presence of other grand empires in the world, we must reform the military with an imperial army directly under the control of the Emperor. The Jaguar and Eagle were already prestigious titles for the warriors - they now also entail life-long service in the Imperial Army, becoming even more desirable for the empire's youth.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Aztecs
+				[NEWLINE][ICON_BULLET]Must have at least 5 Units with the Jaguar's [COLOR_POSITIVE_TEXT]"Combat Bonus in Forest/Jungle"[ENDCOLOR] promotion[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]30 XP for all Units with the Jaguar's [COLOR_POSITIVE_TEXT]"Combat Bonus in Forest/Jungle"[ENDCOLOR] promotion
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_AZTECIMPERIALARMY_ENACTED_DESC">
+			<Text>
+				As the Aztec empire grows, so does her enemies. With the presence of other grand empires in the world, we must reform the military with an imperial army directly under the control of the Emperor. The Jaguar and Eagle were already prestigious titles for the warriors - they now also entail life-long service in the Imperial Army, becoming even more desirable for the empire's youth.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]30 XP for all Units with the Jaguar's [COLOR_POSITIVE_TEXT]"Combat Bonus in Forest/Jungle"[ENDCOLOR] promotion
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_AZTECFLOWERWAR">
+			<Text>Instigate the Flower Wars</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_AZTECFLOWERWAR_DESC">
+			<Text>
+				To please the gods, we need human sacrifices, so we will arrange Flower Wars with the smaller kingdoms around us. Captives taken in these wars shall be sacrificed to the gods, and as an added bonus, we can take this as a chance to keep those smaller kingdoms in check.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Aztecs
+				[NEWLINE][ICON_BULLET]Player must have researched Civil Service[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Gain 3 more [ICON_INFLUENCE] Influence (at Standard speed) per turn with City-States you could demand tribute from.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_AZTECFLOWERWAR_ENACTED_DESC">
+			<Text>
+				To please the gods, we need human sacrifices, so we will arrange Flower Wars with the smaller kingdoms around us. Captives taken in these wars shall be sacrificed to the gods, and as an added bonus, we can take this as a chance to keep those smaller kingdoms in check.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Gain 3 more [ICON_INFLUENCE] Influence (at Standard speed) per turn with City-States you could demand tribute from.
+			</Text>
+		</Row>
+		<!-- Carthage -->
+		<Row Tag="TXT_KEY_DECISIONS_CARTHAGEHANNO">
+			<Text>Dispatch Hanno's Voyage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CARTHAGEHANNO_DESC">
+			<Text>
+				Our ancestors, the Phoenicians, were great colonists, and it was because of their brave acumen that they left behind our wealthy city of Carthage. We should follow in their pursuit of new lands which to claim, and fund an expeditionary fleet.
+				[NEWLINE]   	 
+				[NEWLINE]Requirements/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Carthage
+				[NEWLINE][ICON_BULLET]Player must have a Coastal city
+				[NEWLINE][ICON_BULLET]Player must have the Technology required to train Naval Units
+				[NEWLINE][ICON_BULLET]May only be enacted once per era	 
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates	 
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive a free Settler, 2 Naval Units and a Great Admiral
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CARTHAGEHANNO_ENACTED_DESC">
+			<Text>
+				Our ancestors, the Phoenicians, were great colonists, and it was because of their brave acumen that they left behind our wealthy city of Carthage. We should follow in their pursuit of new lands which to claim, and fund an expeditionary fleet.
+				[NEWLINE]   	 	 
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive a free Settler, 2 Naval Units and a Great Admiral
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CARTHAGECOTHONS">
+			<Text>Expand the Cothons</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CARTHAGECOTHONS_DESC">
+			<Text>
+				Carthage grows and our empire's many harbors are fast filling with ships. We should expand all the Cothons within the empire in order to facilitate trade and meet the needs of our merchants, ensuring that Carthage will continue to prosper.
+				[NEWLINE]   	 
+				[NEWLINE]Requirements/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Carthage
+				[NEWLINE][ICON_BULLET]Player must have at least 4 cities
+				[NEWLINE][ICON_BULLET]May only be enacted during a [ICON_GOLDEN_AGE] Golden Age
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates	 
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+2 [ICON_GOLD] Gold from every Harbor
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CARTHAGECOTHONS_ENACTED_DESC">
+			<Text>
+				Carthage grows and our empire's many harbors are fast filling with ships. We should expand all the Cothons within the empire in order to facilitate trade and meet the needs of our merchants, ensuring that Carthage will continue to prosper.
+				[NEWLINE]   	  
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+2 [ICON_GOLD] Gold from every Harbor
+			</Text>
+		</Row>
+		<!-- Maya -->
+		<Row Tag="TXT_KEY_DECISIONS_MAYABALLGAME">
+			<Text>Construct Pok-Ta-Pok Ballcourts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MAYABALLGAME_DESC">
+			<Text>
+				The sport of Pok-Ta-Pok has long held great significance in Mayan culture, and it entertains our people greatly as well. Ordering the construction of Ballcourts and endorsing games throughout the empire will help promote our culture.
+				[NEWLINE]   	 
+				[NEWLINE]Requirements/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Maya
+				[NEWLINE][ICON_BULLET]Player must have Pyramids in all cities[NEWLINE][ICON_BULLET]Player must have researched Theology[NEWLINE][ICON_BULLET]May only be enacted once per game	 
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]3 [ICON_MAGISTRATES] Magistrates	 
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+2 [ICON_CULTURE] Culture from every Pyramid
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MAYABALLGAME_ENACTED_DESC">
+			<Text>
+				The sport of Pok-Ta-Pok has long held great significance in Mayan culture, and it entertains our people greatly as well. Ordering the construction of Ballcourts and endorsing games throughout the empire will help promote our culture.
+				[NEWLINE] 
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+2 [ICON_CULTURE] Culture from every Pyramid
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MAYAATLATL">
+			<Text>Improve our Atlatls</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MAYAATLATL_DESC">
+			<Text>
+				Recent developments have rendered the Atlatl obsolete, this truly is a shame as they are much easier to produce. Perhaps with some time and investment, we will be able to improve on current designs and allow the Atlatl to compete with contemporary weapons, so that we will be able to continue supplying our soldiers with Atlatls.
+				[NEWLINE]   	 
+				[NEWLINE]Requirements/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Maya
+				[NEWLINE][ICON_BULLET]Player must own Atlatlists
+				[NEWLINE][ICON_BULLET]Player must have researched Construction[NEWLINE][ICON_BULLET]May only be enacted once per game	 
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates	 
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+20% [ICON_PRODUCTION] Production when training Archery units
+				[NEWLINE][ICON_BULLET]All existing Atlatlists are upgraded to Composite Bowmen
+				[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]The [ICON_GOLD] Gold Cost will increase for each Atlatlist you own[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MAYAATLATL_ENACTED_DESC">
+			<Text>
+				Recent developments have rendered the Atlatl obsolete, this truly is a shame as they are much easier to produce. Perhaps with some time and investment, we will be able to improve on current designs and allow the Atlatl to compete with contemporary weapons, so that we will be able to continue supplying our soldiers with Atlatls.
+				[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+20% [ICON_PRODUCTION] Production when training Archery units
+				[NEWLINE][ICON_BULLET]All existing Atlatlists are upgraded to Composite Bowmen
+			</Text>
+		</Row>
+		<!-- Korea -->
+		<Row Tag="TXT_KEY_DECISIONS_KOREANHANGUL">
+			<Text>Introduce Hangul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_KOREANHANGUL_DESC">
+			<Text>
+				The current writing system we use is woefully unsuited to the Korean language. While the elite may have time to waste memorising thousands of characters for most commoners this only serves as an unnecessary barrier against the spread of knowledge. At your command, our scholars shall strive to create an alphabet uniquely suited to Korean, which will allow all our people to be able to read and write.
+				[NEWLINE]   	 
+				[NEWLINE]Requirements/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Korea
+				[NEWLINE][ICON_BULLET]May only be enacted in Medieval or Renaissance Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game	 
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Science} [ICON_RESEARCH] Science
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_RESEARCH] Science from every Farm
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_KOREANHANGUL_ENACTED_DESC">
+			<Text>
+				The current writing system we use is woefully unsuited to the Korean language. While the elite may have time to waste memorising thousands of characters for most commoners this only serves as an unnecessary barrier against the spread of knowledge. At your command, our scholars shall strive to create an alphabet uniquely suited to Korean, which will allow all our people to be able to read and write.
+				[NEWLINE]   	 
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_RESEARCH] Science from every Farm
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_KOREANGUNPOWDER">
+			<Text>Subsidise the development of Gunpowder Weaponry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_KOREANGUNPOWDER_DESC">
+			<Text>
+				The Hwach'a has shown itself to be a fearsome weapon, proving once and for all the utility that gunpowder could have in the Korean Army. It is only logical that we should continue to research the possible militaristic uses of gunpowder.
+				[NEWLINE]
+				[NEWLINE]Requirements/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Korea
+				[NEWLINE][ICON_BULLET]Must have researched Physics
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates	 
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]2 Hwach'a appear near the Capital
+				[NEWLINE][ICON_BULLET]+15% [ICON_PRODUCTION] Production when training Gunpowder and Siege units
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_KOREANGUNPOWDER_ENACTED_DESC">
+			<Text>
+				The Hwach'a has shown itself to be a fearsome weapon, proving once and for all the utility that gunpowder could have in the Korean Army. It is only logical that we should continue to research the possible militaristic uses of gunpowder.
+				[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]2 Hwach'a appear near the Capital
+				[NEWLINE][ICON_BULLET]+15% [ICON_PRODUCTION] Production when training Gunpowder and Siege units
+			</Text>
+		</Row>
+		<!-- Songhai -->
+		<Row Tag="TXT_KEY_DECISIONS_SONGHAISANKORE">
+			<Text>Recruit Scholars for the Sankoré University</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SONGHAISANKORE_DESC">
+			<Text>
+				In order for Songhai to truly be great, we must not neglect the cultural and intellectual needs of our people. Let us recruit Scholars to staff the Sankoré Madrasah and the many other centres of learning within the nation.
+				[NEWLINE]
+				[NEWLINE]Requirements/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Songhai
+				[NEWLINE][ICON_BULLET]Player must have researched Education[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]{2_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates	 
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_RESEARCH] Science and +1 [ICON_CULTURE] Culture from every Mud Pyramid Mosque
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SONGHAISANKORE_ENACTED_DESC">
+			<Text>
+				In order for Songhai to truly be great, we must not neglect the cultural and intellectual needs of our people. Let us recruit Scholars to staff the Sankoré Madrasah and the many other centres of learning within the nation.
+				[NEWLINE]	 
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_RESEARCH] Science and +1 [ICON_CULTURE] Culture from every Mud Pyramid Mosque
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SONGHAITRADEROUTE">
+			<Text>Police our Trade Routes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SONGHAITRADEROUTE_DESC">
+			<Text>
+				Our army needs gold to support it, gold which we earn through trade. We would do well to dedicate some of our troops and funds to protecting our merchants; helping to ensure a continual flow of money into the Songhai Empire.
+				[NEWLINE]
+				[NEWLINE]Requirements/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Songhai
+				[NEWLINE][ICON_BULLET]Player must have at least 2 Trade Routes[NEWLINE][ICON_BULLET]May only be enacted once per era
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates	 
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive a Military Unit for every Trade Route
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SONGHAITRADEROUTE_ENACTED_DESC">
+			<Text>
+				Our army needs gold to support it, gold which we earn through trade. We would do well to dedicate some of our troops and funds to protecting our merchants; helping to ensure a continual flow of money into the Songhai Empire.
+				[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive a Military Unit for every Trade Route
+			</Text>
+		</Row>
+		<!-- Portugal -->
+		<Row Tag="TXT_KEY_DECISIONS_PORTUGALCASADAINDIA">
+			<Text>Institute the Casa da Índia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_PORTUGALCASADAINDIA_DESC">
+			<Text>
+				Trade is at the centre of our empire's prosperity; it is the lifeblood of our kingdom. But our prosperity is wounded by ill management, and trade opportunities have slipped beyond our reach. Let us consolidate all trade beneath the authority of one economic institution; the Casa da Índia, to ensure that all trade flows through Portugal.[NEWLINE]
+				[NEWLINE]Requirements/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Portugal
+				[NEWLINE][ICON_BULLET]All Trade Route Slots must be used
+				[NEWLINE][ICON_BULLET]May not be enacted before the Medieval era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates	 
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive 2 additional Trade Routes
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_PORTUGALCASADAINDIA_ENACTED_DESC">
+			<Text>
+				Trade is at the centre of our empire's prosperity; it is the lifeblood of our kingdom. But our prosperity is wounded by ill management, and trade opportunities have slipped beyond our reach. Let us consolidate all trade beneath the authority of one economic institution; the Casa da Índia, to ensure that all trade flows through Portugal.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive 2 additional Trade Routes
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_PORTUGALTRADETAXES">
+			<Text>Collect Trade Taxes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_PORTUGALTRADETAXES_DESC">
+			<Text>
+				With each feitoria established, the Crown has bestowed a grant to ensure its prosperity. In return, the feitoria manages all taxation on trade that passes through it, which belongs to the Crown. It is time for that grant to pay off, and to collect those taxes that rightfully belong to Portugal.
+				[NEWLINE]
+				[NEWLINE]Requirements/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Portugal
+				[NEWLINE][ICON_BULLET]Player must own at least 8 Naval Units[NEWLINE][ICON_BULLET]Must have researched Navigation[NEWLINE][ICON_BULLET]May only be enacted once per era
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates	 
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_GOLD] Gold
+				[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: The amount you receive increases with the number of Naval Units (including Cargo Ships)[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_PORTUGALTRADETAXES_ENACTED_DESC">
+			<Text>
+				With each feitoria established, the Crown has bestowed a grant to ensure its prosperity. In return, the feitoria manages all taxation on trade that passes through it, which belongs to the Crown. It is time for that grant to pay off, and to collect those taxes that rightfully belong to Portugal.
+				[NEWLINE] 
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Lump sum of [ICON_GOLD] Gold
+				[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: The amount you receive increases with the number of Naval Units (including Cargo Ships)[ENDCOLOR]
+			</Text>
+		</Row>
+		<!-- Assyria  -->
+		<Row Tag="TXT_KEY_DECISIONS_ASSYRIARESETTLEMENT">
+			<Text>Issue Resettlement Orders</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ASSYRIARESETTLEMENT_DESC">
+			<Text>
+				The Assyrian war machine is merciless and brutally efficient, local populations will be massacred, our foes' former lands will be ravaged by war and left desolate. We shall fund and send forth loyal colonists to repopulate the cities and revive the soil.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Assyria
+				[NEWLINE][ICON_BULLET]Player must be at war
+				[NEWLINE][ICON_BULLET]Must have researched Bronze Working
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All pillaged improvements within 3 tiles are repaired whenever a city is captured
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ASSYRIARESETTLEMENT_ENACTED_DESC">
+			<Text>
+				The Assyrian war machine is merciless and brutally efficient, local populations will be massacred, our foes' former lands will be ravaged by war and left desolate. We shall fund and send forth loyal colonists to repopulate the cities and revive the soil.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All pillaged improvements within 3 tiles are repaired whenever a city is captured
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ASSYRIANILKU">
+			<Text>Call for Ilku-Services</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ASSYRIANILKU_DESC">
+			<Text>
+				As dictated by the Ilku System, all free male citizens under the protection of the Assyrian Empire are obliged to serve in the army for a time. It is time for us to collect our dues and call our men into battle.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Assyria
+				[NEWLINE][ICON_BULLET]Must have researched Mathematics
+				[NEWLINE][ICON_BULLET]May only be enacted once per era
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive a Military Unit for every City
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ASSYRIANILKU_ENACTED_DESC">
+			<Text>
+				As dictated by the Ilku System, all free male citizens under the protection of the Assyrian Empire are obliged to serve in the army for a time. It is time for us to collect our dues and call our men into battle.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive a Military Unit for every City
+			</Text>
+		</Row>
+		<!-- Austria  -->
+		<Row Tag="TXT_KEY_DECISIONS_AUSTRIANHOFKRIEGSRAT">
+			<Text>Found the Hofkriegsrat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_AUSTRIANHOFKRIEGSRAT_DESC">
+			<Text>
+				Our Imperial Forces are well-trained and disciplined, but they lack a strong institution to command them. Who better to manage to affairs of our army then men who have seen battle? Let us create a council of war - the Hofkriegsrat - to oversee the administration of our forces during war and peace.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Austria
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Renaissance Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+15% [ICON_PRODUCTION] Production when training Archery and Mounted Units
+				[NEWLINE][ICON_BULLET]+20% [ICON_PRODUCTION] Production when training Melee and Gunpowder Units
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_AUSTRIANHOFKRIEGSRAT_ENACTED_DESC">
+			<Text>
+				Our Imperial Forces are well-trained and disciplined, but they lack a strong institution to command them. Who better to manage to affairs of our army then men who have seen battle? Let us create a council of war - the Hofkriegsrat - to oversee the administration of our forces during war and peace.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+15% [ICON_PRODUCTION] Production when training Archery and Mounted Units
+				[NEWLINE][ICON_BULLET]+20% [ICON_PRODUCTION] Production when training Melee and Gunpowder Units
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_AUSTRIANHABSBURG">
+			<Text>Tu Felix Austria Nube</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_AUSTRIANHABSBURG_DESC">
+			<Text>
+				With some time and careful work, we will be able to establish the House of Habsburg as the most illustrious and respected royal line in all the world. Lesser nations shall flock to join glorious Austria! Bella gerant alii, tu felix Austria nube![NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Austria
+				[NEWLINE][ICON_BULLET]Must have completed at least 1 Social Policy tree
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET][ICON_GOLD] Gold gifts to City-States produce 10% more [ICON_INFLUENCE] Influence
+				[NEWLINE][ICON_BULLET]When a City-State joins your empire through Diplomatic Marriage, it starts a "We Love the King Day" and provides an additional [ICON_MAGISTRATES] Magistrate 
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_AUSTRIANHABSBURG_ENACTED_DESC">
+			<Text>
+				With some time and careful work, we will be able to establish the House of Habsburg as the most illustrious and respected royal line in all the world. Lesser nations shall flock to join glorious Austria! Bella gerant alii, tu felix Austria nube![NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET][ICON_GOLD] Gold gifts to City-States produce 10% more [ICON_INFLUENCE] Influence
+				[NEWLINE][ICON_BULLET]When a City-State joins your empire through Diplomatic Marriage, it starts a "We Love the King Day" and provides an additional [ICON_MAGISTRATES] Magistrate 
+			</Text>
+		</Row>
+		<!-- Brazil -->
+		<Row Tag="TXT_KEY_DECISIONS_BRAZILETHANOL">
+			<Text>Develop Ethanol Fuel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BRAZILETHANOL_DESC">
+			<Text>Our scientists have developed a renewable form of biofuel from sugarcane. We should research ways to improve and utilize this process to greatly increase our fuel reserves.
+				[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Brazil
+				[NEWLINE][ICON_BULLET]Must have researched Combustion
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_RESEARCH] Science from every Plantation
+				[NEWLINE][ICON_BULLET]3 [ICON_RES_OIL] Oil
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BRAZILETHANOL_ENACTED_DESC">
+			<Text>Our scientists have developed a renewable form of biofuel from sugarcane. We should research ways to improve and utilize this process to greatly increase our fuel reserves.
+				[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_RESEARCH] Science from every Plantation
+				[NEWLINE][ICON_BULLET]3 [ICON_RES_OIL] Oil
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BRAZILBANDEIRANTES">
+			<Text>Dispatch the Bandeirantes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BRAZILBANDEIRANTES_DESC">
+			<Text>
+				The frontier is vast and unexplored. Rumours of riches that await in and beyond the jungle have captured the minds of our people. We should organize the most fearless adventurers into bandeiras, that will explore the wilderness in search of wealth and new lands to settle.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Brazil
+				[NEWLINE][ICON_BULLET]Must have researched Gunpowder
+				[NEWLINE][ICON_BULLET]May only be enacted once per game 
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]{2_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All Melee Units receive the Woodsman promotion
+				[NEWLINE][ICON_BULLET]+1 [ICON_CULTURE] Culture from every Brazilwood Camp
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BRAZILBANDEIRANTES_ENACTED_DESC">
+			<Text>
+				The frontier is vast and unexplored. Rumours of riches that await in and beyond the jungle have captured the minds of our people. We should organize the most fearless adventurers into bandeiras, that will explore the wilderness in search of wealth and new lands to settle.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All Melee Units receive the Woodsman promotion
+				[NEWLINE][ICON_BULLET]+1 [ICON_CULTURE] Culture from every Brazilwood Camp
+			</Text>
+		</Row>
+		<!-- China -->
+		<Row Tag="TXT_KEY_DECISIONS_CHINAIMPERIALEXAM">
+			<Text>Establish the Imperial Exams</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CHINAIMPERIALEXAM_DESC">
+			<Text>
+				For many centuries, the bureaucracy has been dominated by commanders of war. But in order for China to be truly united under Heaven, the bureaucracy must be re-created in an image of cultural unity. Let us establish the imperial examinations, and elevate those who know our culture best to the highest of offices.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be China
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Classical Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Build Paper Makers in half the usual time[NEWLINE][ICON_BULLET]+1 [ICON_CULTURE] Culture from Paper Makers and Universities
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CHINAIMPERIALEXAM_ENACTED_DESC">
+			<Text>
+				For many centuries, the bureaucracy has been dominated by commanders of war. But in order for China to be truly united under Heaven, the bureaucracy must be re-created in an image of cultural unity. Let us establish the imperial examinations, and elevate those who know our culture best to the highest of offices.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Build Paper Makers in half the usual time[NEWLINE][ICON_BULLET]+1 [ICON_CULTURE] Culture from Paper Makers and Universities
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CHINAFUBINGZHI">
+			<Text>Create the Fubing System</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CHINAFUBINGZHI_DESC">
+			<Text>
+				China is a vast land, and demands a vast army to defend it. But without good, professional soldiers, we must turn to the men of the soil for this service. It is the duty of every able-bodied man to serve their celestial empire, and so it shall be their duty for report to its service at least two months in a year.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be China
+				[NEWLINE][ICON_BULLET]Player must have a Great General in the Capital[NEWLINE][ICON_BULLET]Player must have at least 5 Infantry Units[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Classical Era[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]The Great General is disbanded
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+25% [ICON_PRODUCTION] Production when training Archery and Melee Units
+				[NEWLINE][ICON_BULLET]-10% Unit [ICON_GOLD] Gold maintenance costs
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CHINAFUBINGZHI_ENACTED_DESC">
+			<Text>
+				China is a vast land, and demands a vast army to defend it. But without good, professional soldiers, we must turn to the men of the soil for this service. It is the duty of every able-bodied man to serve their celestial empire, and so it shall be their duty for report to its service at least two months in a year.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+25% [ICON_PRODUCTION] Production when training Archery and Melee Units
+				[NEWLINE][ICON_BULLET]-10% Unit [ICON_GOLD] Gold maintenance costs
+			</Text>
+		</Row>
+		<!-- Persia -->
+		<Row Tag="TXT_KEY_DECISIONS_PERSIASATRAPY">
+			<Text>Establish the Satrapies</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_PERSIASATRAPY_DESC">
+			<Text>
+				Our empire is vast and many peoples populate it. We should appoint local governors, accustomed to local traditions and politics, to ensure peace and stability in our most remote lands.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Persia
+				[NEWLINE][ICON_BULLET]Must have Satrap's Courts built in all cities founded by the player
+				[NEWLINE][ICON_BULLET]May only be enacted once per game 
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]3 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Build Markets and Satrap's Courts in half the usual time[NEWLINE][ICON_BULLET]+2 [ICON_HAPPINESS_1] Happiness for each Satrap's Court
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_PERSIASATRAPY_ENACTED_DESC">
+			<Text>
+				Our empire is vast and many peoples populate it. We should appoint local governors, accustomed to local traditions and politics, to ensure peace and stability in our most remote lands.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Build Markets and Satrap's Courts in half the usual time[NEWLINE][ICON_BULLET]+2 [ICON_HAPPINESS_1] Happiness for each Satrap's Court
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_PERSIASAVARAN">
+			<Text>Create the Savaran Cavalry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_PERSIASAVARAN_DESC">
+			<Text>
+				The times are changing. The armoured horseman is now king of the battlefield. Therefore, our noble hosts shall be re-organized into the new Savaran cavalry.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Persia
+				[NEWLINE][ICON_BULLET]Must have researched Horseback Riding[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Allows the training of Cataphracts
+				[NEWLINE][ICON_BULLET]Newly trained Mounted Units begin with additional XP
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_PERSIASAVARAN_ENACTED_DESC">
+			<Text>
+				The times are changing. The armoured horseman is now king of the battlefield. Therefore, our noble hosts shall be re-organized into the new Savaran cavalry.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Allows the training of Cataphracts
+				[NEWLINE][ICON_BULLET]Newly trained Mounted Units begin with additional XP
+			</Text>
+		</Row>
+		<!-- Morocco -->
+		<Row Tag="TXT_KEY_DECISIONS_MOROCCOBLACKGUARD">
+			<Text>Establish the Black Guard</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MOROCCOBLACKGUARD_DESC">
+			<Text>
+				We have tamed the desert, and gained the allegiance of many tribes that dwell there. The most fiercely loyal are the people of the darkest skin. We should train them and make them the backbone of our army.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Morocco
+				[NEWLINE][ICON_BULLET]May be enacted from the start of the Renaissance Era
+				[NEWLINE][ICON_BULLET]Must have built at least five Kasbahs
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Melee and Gun units receive +25% [ICON_STRENGTH] Combat Strength in friendly territory
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MOROCCOBLACKGUARD_ENACTED_DESC">
+			<Text>
+				We have tamed the desert, and gained the allegiance of many tribes that dwell there. The most fiercely loyal are the people of the darkest skin. We should train them and make them the backbone of our army.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Melee and Gun units receive +25% [ICON_STRENGTH] Combat Strength in friendly territory
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DECISIONS_MOROCCOBLACKGUAR_DESC">
+			<Text>Servants of al-Bukhari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DECISIONS_MOROCCOBLACKGUAR_HELP">
+			<Text>+25% [ICON_STRENGTH] Combat Strength in friendly territory</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MOROCCOPLUNDER">
+			<Text>Plunder Campaign</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MOROCCOPLUNDER_DESC">
+			<Text>
+				Our rivals grow richer and richer, filling their coffers with stolen gold. We cannot stay behind, lest we become destitute and irrelevant on the world stage. We need to find more funds; even if it means getting them abroad.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Morocco
+				[NEWLINE][ICON_BULLET]Must have researched Gunpowder
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Units gain [ICON_GOLD] Gold from kills
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MOROCCOPLUNDER_ENACTED_DESC">
+			<Text>
+				Our rivals grow richer and richer, filling their coffers with stolen gold. We cannot stay behind, lest we become destitute and irrelevant on the world stage. We need to find more funds; even if it means getting them abroad.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Units gain [ICON_GOLD] Gold from kills
+			</Text>
+		</Row>
+		<!-- Mongolia -->
+		<Row Tag="TXT_KEY_DECISIONS_MONGOLIAEXECUTION">
+			<Text>Incorporate Subdued Peoples</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MONGOLIAEXECUTION_DESC">
+			<Text>
+				The Khan is a great conqueror, but he is a great master too. Instead of driving defeated tribes away, or enslaving them, he has decreed to incorporate them into our own tribe, and let them seek glory under the banners of the Khan. Such an act of mercy and benevolence will inspire loyalty unseen before.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Mongolia
+				[NEWLINE][ICON_BULLET]Must have conquered at least one city
+				[NEWLINE][ICON_BULLET]May be enacted from the beginning of Medieval Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]3 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Courthouses are built at double speed
+				[NEWLINE][ICON_BULLET]+4 [ICON_GOLD] Gold from every Courthouse
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MONGOLIAEXECUTION_ENACTED_DESC">
+			<Text>
+				The Khan is a great conqueror, but he is a great master too. Instead of driving defeated tribes away, or enslaving them, he has decreed to incorporate them into our own tribe, and let them seek glory under the banners of the Khan. Such an act of mercy and benevolence will inspire loyalty unseen before.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Courthouses are built at double speed
+				[NEWLINE][ICON_BULLET]+4 [ICON_GOLD] Gold from every Courthouse
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MONGOLIASILKROAD">
+			<Text>Establish the Yam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MONGOLIASILKROAD_DESC">
+			<Text>
+				The Horde swept across the lands like a deadly wind. Lands of the Khanate are bound only by the horizon. Trade can now flourish, safe from banditry and foreign incursions. Let us establish a system of checkpoints throughout our trade routes that both our messengers and merchants may use to rest and recuperate, then continue on their way.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Mongolia
+				[NEWLINE][ICON_BULLET]Must own at least 3 conquered cities
+				[NEWLINE][ICON_BULLET]May be enacted from the beginning of Medieval Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]May establish another Trade Route
+				[NEWLINE][ICON_BULLET]Land Trade Route range is increased by 50%
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MONGOLIASILKROAD_ENACTED_DESC">
+			<Text>
+				The Horde swept across the lands like a deadly wind. Lands of the Khanate are bound only by the horizon. Trade can now flourish, safe from banditry and foreign incursions. Let us establish a system of checkpoints throughout our trade routes that both our messengers and merchants may use to rest and recuperate, then continue on their way.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]May establish another Trade Route
+				[NEWLINE][ICON_BULLET]Land Trade Route range is increased by 50%
+			</Text>
+		</Row>
+		<!-- Babylon -->
+		<Row Tag="TXT_KEY_DECISIONS_BABYLONOBSERVATORY">
+			<Text>Collate the Star Catalogues</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BABYLONOBSERVATORY_DESC">
+			<Text>
+				Long have we observed the heavens, and through the work of our astronomers and mathematicians, we have noticed patterns in the movements of the stars. Let us compile all the information we have on the night skies into a single volume that future generations of scientists may better benefit from it.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Babylon
+				[NEWLINE][ICON_BULLET]Must have researched Philosophy[NEWLINE][ICON_BULLET]Must not have an Observatory in the Capital[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]An Observatory is built in the Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BABYLONOBSERVATORY_ENACTED_DESC">
+			<Text>
+				Long have we observed the heavens, and through the work of our astronomers and mathematicians, we have noticed patterns in the movements of the stars. Let us compile all the information we have on the night skies into a single volume that future generations of scientists may better benefit from it.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]An Observatory is built in the Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BABYLONGATES">
+			<Text>Construct the Ishtar Gate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BABYLONGATES_DESC">
+			<Text>
+				The Gods have watched over our city since the most ancient of times. They helped Babylon in peace and war, providing us with abundant crops protecting us from our foes. We shall construct a monument, a wonder, dedicated to them as a sign of our most sincere gratitude and reverence.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Babylon
+				[NEWLINE][ICON_BULLET]Must have researched Masonry
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Cost} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]{2_Reward} [ICON_PEACE] Faith
+				[NEWLINE][ICON_BULLET]The Ishtar Gates are built in the Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BABYLONGATES_ENACTED_DESC">
+			<Text>
+				The Gods have watched over our city since the most ancient of times. They helped Babylon in peace and war, providing us with abundant crops protecting us from our foes. We shall construct a monument, a wonder, dedicated to them as a sign of our most sincere gratitude and reverence.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Lump sum of [ICON_PEACE] Faith
+				[NEWLINE][ICON_BULLET]The Ishtar Gates are built in the Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BUILDING_BABYLONGATES">
+			<Text>
+				Ishtar Gate
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BUILDING_BABYLONGATES_CIVILOPEDIA">
+			<Text>
+				The Ishtar Gate was constructed by the Babylonian King Nebuchadnezzar II circa 575 BCE. It was the eighth gate of the city of Babylon (in present day Iraq) and was the main entrance into the city. The Ishtar Gate was part of Nebuchadnezzar's plan to beautify his empire's capital and during the first half of the 6th century BCE, he also restored the temple of Marduk and built the renowned wonder: the Hanging Gardens as part of this plan. The magnificence of the Ishtar Gate was so well known that it made the initial list of the Seven Wonders of the Ancient World. However, it was later replaced by the Lighthouse of Alexandria, but some authors (Antipater of Sidon and Calliamchus of Cyrene) wrote that the "Gates of Ishtar" and "Walls of Babylon" should still be considered one of the wonders.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BUILDING_BABYLONGATES_HELP">
+			<Text>
+				+2 [ICON_FOOD] Food from all Walls.[NEWLINE][NEWLINE]May only be acquired by Babylon through the "Construct the Ishtar Gate" decision.
+			</Text>
+		</Row>
+		<!-- Celts -->
+		<Row Tag="TXT_KEY_DECISIONS_CELTSTINTRADE">
+			<Text>Capitalise on the Tin trade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CELTSTINTRADE_DESC">
+			<Text>
+				Foreign peoples have come to our lands bearing precious stones and coin. We have the resource - tin - they say is vital for creation of their metal weapons and tools. So we should take the opportunity to request appropriate prices for our riches.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Celts
+				[NEWLINE][ICON_BULLET]Must have at least 2 Trade Routes
+				[NEWLINE][ICON_BULLET]Must have researched Bronze Working
+				[NEWLINE][ICON_BULLET]May only be enacted once per game 
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Naval Trade Route range increased by 25% 
+				[NEWLINE][ICON_BULLET]Trade Routes to and from other civilizations generate +2 [ICON_GOLD] Gold
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CELTSTINTRADE_ENACTED_DESC">
+			<Text>
+				Foreign peoples have come to our lands bearing precious stones and coin. We have the resource - tin - they say is vital for creation of their metal weapons and tools. So we should take the opportunity to request appropriate prices for our riches.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Naval Trade Route range increased by 25% 
+				[NEWLINE][ICON_BULLET]Trade Routes to and from other civilizations generate +2 [ICON_GOLD] Gold
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CELTSUILLEANNPIPES">
+			<Text>Refine the Uilleann pipes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CELTSUILLEANNPIPES_DESC">
+			<Text>
+				The most skilled musicians of our country have created a new musical instrument, based on older examples of the bagpipes. It is much more complex, and requires a skillful piper to play properly, but its sound and melody are unique. We should refine the design and make the Uilleann pipes our national instrument.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Celts
+				[NEWLINE][ICON_BULLET]Must have at least one Ceilidh Hall
+				[NEWLINE][ICON_BULLET]May only be enacted once per game 
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]{2_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]Receive 2 free Great Musicians
+				[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: The amount of [ICON_CULTURE] Culture you receive increases with the number of Ceilidh Halls and Amphitheatres in your empire[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CELTSUILLEANNPIPES_ENACTED_DESC">
+			<Text>
+				The most skilled musicians of our country have created a new musical instrument, based on older examples of the bagpipes. It is much more complex, and requires a skillful piper to play properly, but its sound and melody are unique. We should refine the design and make the Uilleann pipes our national instrument.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Lump sum of [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]Receive 2 free Great Musicians
+			</Text>
+		</Row>
+		<!-- Greece -->
+		<Row Tag="TXT_KEY_DECISIONS_GREECEPHILHELLENISM">
+			<Text>Rally the Philhellenes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_GREECEPHILHELLENISM_DESC">
+			<Text>
+				The minds of the world are captivated by our ancient history and intrigued by our culture, and the numbers of Philhellenes swell by the day. We should make sure that our foreign friends help us in times of need. 
+				[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Greece
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Industrial Era
+				[NEWLINE][ICON_BULLET]Player must have completed at least 2 Social Policy trees
+				[NEWLINE][ICON_BULLET]Player must be allied to at least 3 City States
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Allied City States will gift Military Units whenever Greece enters into war against a major civilization
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_GREECEPHILHELLENISM_ENACTED_DESC">
+			<Text>
+				The minds of the world are captivated by our ancient history and intrigued by our culture, and the numbers of Philhellenes swell by the day. We should make sure that our foreign friends help us in times of need. 
+				[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Allied City States will gift Military Units whenever Greece enters into war against a major civilization
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_GREECEPHILHELLENISM_NOTIFICATION">
+			<Text>
+				The Philhellenes of the world rally to your aid, sending you troops to help in your struggle!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_GREECEPHALANX">
+			<Text>Develop the Phalanx formation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_GREECEPHALANX_DESC">
+			<Text>
+				War never changes, but tactics do. The old hoplite formation is obsolete and no longer fit for the fields of battle. We should make use of the sarissa pike and instruct our warriors to wield it with skill and in unison.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Greece
+				[NEWLINE][ICON_BULLET]Must have at least 5 Hoplites
+				[NEWLINE][ICON_BULLET]Must have researched Iron Working
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All Hoplites are instantly upgraded to Pikemen and gain the [COLOR_POSITIVE_TEXT]"Phalanx"[ENDCOLOR] Promotion
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_GREECEPHALANX_ENACTED_DESC">
+			<Text>
+				War never changes, but tactics do. The old hoplite formation is obsolete and no longer fit for the fields of battle. We should make use of the sarissa pike and instruct our warriors to wield it with skill and in unison.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All Hoplites are instantly upgraded to Pikemen and gain the [COLOR_POSITIVE_TEXT]"Phalanx"[ENDCOLOR] Promotion
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DECISIONS_GREECEPHALANX_DESC">
+			<Text>Phalanx</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DECISIONS_GREECEPHALANX_HELP">
+			<Text>+25% [ICON_STRENGTH] Combat Strength when adjacent to a friendly Unit.</Text>
+		</Row>
+		<!-- India -->
+		<Row Tag="TXT_KEY_DECISIONS_INDIARELIGIONS">
+			<Text>Found the House of Worship</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_INDIARELIGIONS_DESC">
+			<Text>
+				Many ancient faiths lie scattered throughout our empire, espousing sacred philosophy and ruminative worship. But these faiths all share a common unity,and for the good of the empire, should be converged into one. Let us found a place for spiritual leaders to come and discuss their faiths, that one they they might be reconciled.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be India
+				[NEWLINE][ICON_BULLET]Player must have more than one religion in the empire[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Faith} [ICON_PEACE] Faith
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+2 [ICON_PEACE] Faith for every citizen in the Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_INDIARELIGIONS_ENACTED_DESC">
+			<Text>
+				Many ancient faiths lie scattered throughout our empire, espousing sacred philosophy and ruminative worship. But these faiths all share a common unity,and for the good of the empire, should be converged into one. Let us found a place for spiritual leaders to come and discuss their faiths, that one they they might be reconciled.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+2 [ICON_PEACE] Faith for every citizen in the Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_INDIADEVANGARISCRIPT">
+			<Text>Standardise the Devanagari Script</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_INDIADEVANGARISCRIPT_DESC">
+			<Text>
+				Sanskrit is one of our most ancient and sacred languages, but is weighed down by disunity in its application. Let us standardise one alphabet across the empire to be used as the written form of our most sacred tongue.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be India
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Medieval Era[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive a lump sum [ICON_CULTURE] Culture and [ICON_RESEARCH] Science whenever a City grows
+				[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: The amount you receive increases with the size of the City[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_INDIADEVANGARISCRIPT_ENACTED_DESC">
+			<Text>
+				Sanskrit is one of our most ancient and sacred languages, but is weighed down by disunity in its application. Let us standardise one alphabet across the empire to be used as the written form of our most sacred tongue.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive a lump sum [ICON_CULTURE] Culture and [ICON_RESEARCH] Science whenever a City grows
+				[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: The amount you receive increases with the size of the City[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_INDIADEVANGARISCRIPT_NOTIFICATION">
+			<Text>The study of Sanskrit in the city of {1_City} has earned you {2_Reward} [ICON_CULTURE] Culture and [ICON_RESEARCH] Science</Text>
+		</Row>
+		<!-- Japan -->
+		<Row Tag="TXT_KEY_DECISIONS_JAPANSHOGUNATE">
+			<Text>Appoint the Shogun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JAPANSHOGUNATE_DESC">
+			<Text>
+				We are Emperor, and we are divine. Yet the worldly matters are outside of our grasp, outside the safety and tranquillity of our palace. We should appoint a representative who will tend Japan in our name. A man from the greatest of clans, and of utmost competence.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Japan
+				[NEWLINE][ICON_BULLET]Player must have Castles in at least 50% of their cities[NEWLINE][ICON_BULLET]May only be enacted once per game 
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]A Great General appears
+				[NEWLINE][ICON_BULLET]Two Samurai appear
+				[NEWLINE][ICON_BULLET]+2 [ICON_CULTURE] Culture from Castles
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JAPANSHOGUNATE_ENACTED_DESC">
+			<Text>
+				We are Emperor, and we are divine. Yet the worldly matters are outside of our grasp, outside the safety and tranquillity of our palace. We should appoint a representative who will tend Japan in our name. A man from the greatest of clans, and of utmost competence.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]A Great General appears
+				[NEWLINE][ICON_BULLET]Two Samurai appear
+				[NEWLINE][ICON_BULLET]+2 [ICON_CULTURE] Culture from Castles
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JAPANTHEATRE">
+			<Text>Patronise the Theatres</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JAPANTHEATRE_DESC">
+			<Text>
+				The arts are flourishing in Japan. Actors and musicians carry our culture and tell our land's history throughout the country. Whether it's the stately Noh, or the extravagant Kabuki, our theatre is, by far, the most important. We should reward our artists for their tireless efforts.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Japan
+				[NEWLINE][ICON_BULLET]Must have at least one Amphitheatre
+				[NEWLINE][ICON_BULLET]Must have at least one Opera House
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]A Great Musician appears
+				[NEWLINE][ICON_BULLET]Amphitheatres and Opera Houses provide +1 [ICON_CULTURE] Culture and +1 [ICON_HAPPINESS_1] Happiness
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JAPANTHEATRE_ENACTED_DESC">
+			<Text>
+				The arts are flourishing in Japan. Actors and musicians carry our culture and tell our land's history throughout the country. Whether it's the stately Noh, or the extravagant Kabuki, our theatre is, by far, the most important. We should reward our artists for their tireless efforts.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]A Great Musician appears
+				[NEWLINE][ICON_BULLET]Amphitheatres and Opera Houses provide +1 [ICON_CULTURE] Culture and +1 [ICON_HAPPINESS_1] Happiness
+			</Text>
+		</Row>
+		<!-- Ethiopia -->
+		<Row Tag="TXT_KEY_DECISIONS_ETHIOPIACOINAGE">
+			<Text>Mint Aksumite coinage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ETHIOPIACOINAGE_DESC">
+			<Text>
+				Our empire grows in power by the day, and its trade connections bring it wealth and exotic items. To confirm our sovereignty and prestige, we should order the minting of our own coin.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Ethiopia
+				[NEWLINE][ICON_BULLET]Must have Steles in all cities
+				[NEWLINE][ICON_BULLET]Must have researched Currency
+				[NEWLINE][ICON_BULLET]May only be enacted once per game 
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Cost} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+2 [ICON_GOLD] Gold from all your Trade Routes[NEWLINE][ICON_BULLET]The Palace generates +2 [ICON_GOLD] Gold
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ETHIOPIACOINAGE_ENACTED_DESC">
+			<Text>
+				Our empire grows in power by the day, and its trade connections bring it wealth and exotic items. To confirm our sovereignty and prestige, we should order the minting of our own coin.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+2 [ICON_GOLD] Gold from all your Trade Routes[NEWLINE][ICON_BULLET]The Palace generates +2 [ICON_GOLD] Gold
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ETHIOPIASOLOMONIC">
+			<Text>Establish the Solomonic Dynasty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ETHIOPIASOLOMONIC_DESC">
+			<Text>
+				Scholars and men of faith at our court have concluded that our royalty comes from an unbroken line of rulers and descends directly from the great King Solomon himself. Surely this is a sign of favour of the Heavens! We should assume the title of the Conquering Lion of Judah to commemorate our great ancestor and to reinvigorate faith among our people.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Ethiopia
+				[NEWLINE][ICON_BULLET]Must have researched Theology
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Faith} [ICON_PEACE] Faith
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Missionaries may spread religion an extra time
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ETHIOPIASOLOMONIC_ENACTED_DESC">
+			<Text>
+				Scholars and men of faith at our court have concluded that our royalty comes from an unbroken line of rulers and descends directly from the great King Solomon himself. Surely this is a sign of favour of the Heavens! We should assume the title of the Conquering Lion of Judah to commemorate our great ancestor and to reinvigorate faith among our people.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Missionaries may spread religion an extra time
+			</Text>
+		</Row>
+		<!-- Huns -->
+		<Row Tag="TXT_KEY_DECISIONS_HUNSRANSOM_EXAMPLE">
+			<Text>Demand a Ransom from a Civilization</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_HUNSRANSOM_EXAMPLE_DESC">
+			<Text>
+				Our glorious army stands ready to wreak havoc upon the many "great" nations around us. Let us exploit this and use it to our advantage! We will demand payment from our neighbours in return for an assurance of their continued safety[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Huns
+				[NEWLINE][ICON_BULLET]Must be at war against a Civilization[NEWLINE][ICON_BULLET]Must have a more powerful army than that Civilization[NEWLINE][ICON_BULLET]Must have Combat Units within that Civilization's territory[NEWLINE][ICON_BULLET]Must be able to make peace with that Civilization[NEWLINE][ICON_BULLET]May only be enacted once per Civilization[NEWLINE][ICON_BULLET]May only be enacted 3 times per game[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Lump sum of [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]Peace is made with that Civilization[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: The amount you receive increases with the number of Combat Units within that Civilization's territory[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_HUNSRANSOM">
+			<Text>Demand a Ransom from {1_Civ}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_HUNSRANSOM_DESC">
+			<Text>
+				Our glorious army stands ready to wreak havoc upon {1_Civ}'s lands. Let us exploit this and use it to our advantage! We will demand payment from {1_Civ} in return for an assurance of their continued safety[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Huns
+				[NEWLINE][ICON_BULLET]Must be at war against {1_Civ}[NEWLINE][ICON_BULLET]Must have a more powerful army than {1_Civ}[NEWLINE][ICON_BULLET]Must have Combat Units within {1_Civ}'s territory[NEWLINE][ICON_BULLET]Must be able to make peace with {1_Civ}[NEWLINE][ICON_BULLET]May only be enacted once per Civilization[NEWLINE][ICON_BULLET]May only be enacted 3 times per game[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]{2_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]Peace is made with {1_Civ}[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: The amount you receive increases with the number of Combat Units within {1_Civ}'s territory[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_HUNSRANSOM_ENACTED_DESC">
+			<Text>
+				Our glorious army stands ready to wreak havoc upon {1_Civ}'s lands. Let us exploit this and use it to our advantage! We will demand payment from {1_Civ} in return for an assurance of their continued safety[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Lump sum of [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]Peace is made with {1_Civ}[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: The amount you receive increases with the number of Combat Units within {1_Civ}'s territory[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_HUNSRANSOM_NOT_WILLING">
+			<Text>
+				[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]This Decision cannot be enacted as {1_Civ} is unwilling to make peace![ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_HUNSRECURVEBOW">
+			<Text>Refine the Recurve Bow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_HUNSRECURVEBOW_DESC">
+			<Text>
+				Our people are born in the saddle. They are master horsemen and brilliant hunters, but our adversaries grow in strength. We must perfect our weapons in order to ensure our people's safety and let our warriors use their skill to the fullest.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Huns
+				[NEWLINE][ICON_BULLET]Must have researched The Wheel
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+20% Ranged Strength for Archery Units[NEWLINE][ICON_BULLET]2 Archery Units appear near the Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_HUNSRECURVEBOW_ENACTED_DESC">
+			<Text>
+				Our people are born in the saddle. They are master horsemen and brilliant hunters, but our adversaries grow in strength. We must perfect our weapons in order to ensure our people's safety and let our warriors use their skill to the fullest.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+33% Ranged Strength for Archery Units[NEWLINE][ICON_BULLET]2 Archery Units appear near the Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DECISIONS_HUNSRECURVEBOW_DESC">
+			<Text>Refined Recurve Bow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DECISIONS_HUNSRECURVEBOW_HELP">
+			<Text>+20% Ranged Strength</Text>
+		</Row>
+		<!-- Zulu -->
+		<Row Tag="TXT_KEY_DECISIONS_ZULUAMABUTHO">
+			<Text>Implement Amabutho Conscription</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ZULUAMABUTHO_DESC">
+			<Text>
+				Our troops are poorly organized and our enemies are feeling envious of our rich and fertile lands. Yet our tribes are filled with strong and young men, fresh and eager to see battle. Conscripting the young and re-organizing our army will ensure that our military does not flounder.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Zulu
+				[NEWLINE][ICON_BULLET]Must have researched Civil Service[NEWLINE][ICON_BULLET]Must have at least 3 Population in all cities[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]-1 [ICON_CITIZEN] Population in all cities[NEWLINE][ICON_BULLET]3 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive a free Military Unit every fourth time a city grows
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ZULUAMABUTHO_ENACTED_DESC">
+			<Text>
+				Our troops are poorly organized and our enemies are feeling envious of our rich and fertile lands. Yet our tribes are filled with strong and young men, fresh and eager to see battle. Conscripting the young and re-organizing our army will ensure that our military does not flounder.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive a free Military Unit every fourth time a city grows
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ZULUAMABUTHO_NOTIFICATION">
+			<Text>
+				A new Amabutho has been conscripted from {1_City} and is awaiting orders!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ZULUUDIBI">
+			<Text>Recruit Udibi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ZULUUDIBI_DESC">
+			<Text>
+				While children cannot fight, they can still do much to help our soldiers. We will recruit Udibi or Apprentice Warriors, to help carry supplies, rations and extra weapons until they come of an age to formally join the army, helping us reinforce our men more efficiently.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Zulu
+				[NEWLINE][ICON_BULLET]Must have Ikandas built in all cities founded by the player
+				[NEWLINE][ICON_BULLET]May only be enacted once per era	 
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All Land Military Units gain +10 XP and are fully healed
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_ZULUUDIBI_ENACTED_DESC">
+			<Text>
+				While children cannot fight, they can still do much to help our soldiers. We will recruit Udibi or Apprentice Warriors, to help carry supplies, rations and extra weapons until they come of an age to formally join the army, helping us reinforce our men more efficiently.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Zulu
+				[NEWLINE][ICON_BULLET]Must have Ikandas built in all cities founded by the player
+				[NEWLINE][ICON_BULLET]May only be enacted once per era	 
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All Land Military Units gain +10 XP and are fully healed
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

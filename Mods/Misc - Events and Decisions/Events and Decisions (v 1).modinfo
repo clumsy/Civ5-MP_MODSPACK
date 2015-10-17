@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="1f941088-b185-4159-865c-472df81247b2" version="1">
+  <Properties>
+    <Name>Events and Decisions</Name>
+    <Teaser>Events and Decisions</Teaser>
+    <Description>Events and Decisions</Description>
+    <Authors>Home</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="13CEA281AE04D3295B540C7C3F03548F" import="1">Art/Atlas/CoreDecisions_Atlas_128.dds</File>
+    <File md5="584B870FC8B5157876D09CC3F0E9AFDE" import="1">Art/Atlas/CoreDecisions_Atlas_256.dds</File>
+    <File md5="39B6185C5AC3E87BE1152B27655BF8A7" import="1">Art/Atlas/CoreDecisions_Atlas_45.dds</File>
+    <File md5="FB5847336C5739EB3931FABB3095E20A" import="1">Art/Atlas/CoreDecisions_Atlas_64.dds</File>
+    <File md5="D7BFC1BADE08CAE40578661767EA3F3C" import="1">Art/Atlas/CoreDecisions_Atlas_80.dds</File>
+    <File md5="CBEBE0EA044AC31D8C589BA3C7EA55A3" import="1">Art/Atlas/DC45_EnactDecision.dds</File>
+    <File md5="90D1C1143C6385CDDF4D4D6EEC5CE8A7" import="1">Art/Atlas/NotificationDecision128.dds</File>
+    <File md5="79F775E87AD8A1561ECAA87F560969AD" import="1">Art/FontIcons/Magistrates_fonticon.dds</File>
+    <File md5="076F47AE5D267B59F426B769964BA7B4" import="1">Art/FontIcons/Magistrates_fonticons.ggxml</File>
+    <File md5="5AE17944D8ED31762CC8D0CA73712E99" import="1">Art/WonderConceptSanMarco.dds</File>
+    <File md5="F398705150E0F2889D1631A52FAC1368" import="0">Core/DecisionsAddinSupport.sql</File>
+    <File md5="DB24338C5E67D0D4B8C67705713A4520" import="1">Core/Decisions/Civ Decisions/CivDecisions.lua</File>
+    <File md5="9B5B62B448C540B3E6B32FB4182B99A0" import="0">Core/Decisions/Civ Decisions/CivDecisions.sql</File>
+    <File md5="A36A66F4DA0B70C7430B12CB8E508CED" import="0">Core/Decisions/Civ Decisions/CivDecisions_EN_US.xml</File>
+    <File md5="61F1A8E282EC61E58C5A2956D9666476" import="0">Core/Decisions/Civ Decisions/SanMarco_EN_US.xml</File>
+    <File md5="6357EBD3F3EB3D88626817540E152C61" import="1">Core/Decisions/Core Decisions/CoreDecisions.lua</File>
+    <File md5="8ACAE0F92C1166C511699B6923166E71" import="0">Core/Decisions/Core Decisions/CoreDecisions.sql</File>
+    <File md5="B95276E9D433E174511CB6463401C72B" import="0">Core/Decisions/Core Decisions/CoreDecisions_EN_US.xml</File>
+    <File md5="2750A4F4525578823CD7F048A34A67FE" import="1">Core/Decisions/Religious Decisions/ReligiousDecisions.lua</File>
+    <File md5="3A3BA79ED7777AF90C641B827F654C65" import="0">Core/Decisions/Religious Decisions/ReligiousDecisions_EN_US.xml</File>
+    <File md5="FC97CB8E96156ACE9D13A51DCC30E73B" import="0">Core/Decisions_IconTextureAtlases.xml</File>
+    <File md5="0387C691E6BB8A2894CC809944DC25C9" import="1">Core/Events/Civ Events/CivEvents.lua</File>
+    <File md5="9DA8917027E1415D84B443D6B1830377" import="0">Core/Events/Civ Events/CivEvents_EN_US.xml</File>
+    <File md5="5760925802CCDB7768904292C782A9DE" import="0">Core/Events/Civ Events/CivEvents.sql</File>
+    <File md5="7ABAD96939EBE8F0B0282CC86A344599" import="0">Core/Events/CoreEvents/CoreEvents_EN_US.xml</File>
+    <File md5="5D489C5678D3E3F214E432A051535B24" import="1">Core/Events/CoreEvents/CoreEvents.lua</File>
+    <File md5="1E98CA6E171E65B0A9ADD685D66F7B8B" import="1">Core/Events/Religious Events/ReligiousEvents.lua</File>
+    <File md5="ED12415E539A88474571437C521295A0" import="0">Core/Events/Religious Events/ReligiousEvents_EN_US.xml</File>
+    <File md5="C87C8341D9138716F63355D0FCF36203" import="1">EventsAndDecisions_Settings.lua</File>
+    <File md5="DEC099CF37A2A3ABC5FA7EFEB9C6D0F1" import="0">Lua/BuildingResourcePerEra.lua</File>
+    <File md5="52FA7F16770D5B6656A9096C45010B76" import="0">Lua/BuildingYieldFromCityStates.lua</File>
+    <File md5="4DA5F52240EE0CB7C727B0F91C94F048" import="1">Lua/EventsAndDecisions_Utilities.lua</File>
+    <File md5="1F27C1E67A74B81C03AD62C56CB2D56A" import="0">Lua/San Marco/SanMarco_Functions.lua</File>
+    <File md5="6CB8C241C57E8D228C8B7DC21552560F" import="0">Lua/San Marco/SanMarco_Functions.xml</File>
+    <File md5="50E4CE423551171940DB2FF5BC3F6550" import="0">Lua/Sukritact_ChangeResearchProgress.lua</File>
+    <File md5="92E3F1CB9B1BD88C5F5E30E60F1CBF6E" import="0">Lua/LuaEvents/LuaEvents.PlayerEnteredNewEra.lua</File>
+    <File md5="8A5FC22EB73A2C2106DE16D1A3E98AF2" import="1">Lua/Sukritact_SaveUtils.lua</File>
+    <File md5="D63DC8BB6AA0F310DD55B264DB49C7E2" import="1">Lua/PlotIterators.lua</File>
+    <File md5="64DF635BD57CDEB13DC1038934568A7E" import="0">Lua/UI/CityInfoStack.lua</File>
+    <File md5="120EB71025973A8A48B38314241DD0B3" import="0">Lua/UI/CityInfoStack.xml</File>
+    <File md5="2539D241E62A3CBDE9B2759EC2A1CDE6" import="0">Lua/UI/EnactDescisionsPopup.lua</File>
+    <File md5="C6415E65EF21C7D489B2A7DE4AC50317" import="0">Lua/UI/EnactDescisionsPopup.xml</File>
+    <File md5="32C0C914D8CD3D955C7A4A37E2A8FFE5" import="0">Lua/UI/RandomEventsPopup.xml</File>
+    <File md5="77FE0F92AD13C74F433EEA52436ED648" import="0">Lua/UI/RandomEventsPopup.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/DecisionsAddinSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Decisions/Core Decisions/CoreDecisions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Decisions/Core Decisions/CoreDecisions_EN_US.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Decisions/Civ Decisions/CivDecisions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Decisions/Civ Decisions/CivDecisions_EN_US.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Decisions/Religious Decisions/ReligiousDecisions_EN_US.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Decisions_IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Events/CoreEvents/CoreEvents_EN_US.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Events/Civ Events/CivEvents_EN_US.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Events/Religious Events/ReligiousEvents_EN_US.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Decisions/Civ Decisions/SanMarco_EN_US.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/UI/EnactDescisionsPopup.xml">
+      <Name>EnactDescisionsPopup</Name>
+      <Description>EnactDescisionsPopup</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/BuildingYieldFromCityStates.lua">
+      <Name>BuildingYieldFromCityStates</Name>
+      <Description>BuildingYieldFromCityStates</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/LuaEvents/LuaEvents.PlayerEnteredNewEra.lua">
+      <Name>LuaEvents.PlayerEnteredNewEra</Name>
+      <Description>LuaEvents.PlayerEnteredNewEra</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/BuildingResourcePerEra.lua">
+      <Name>BuildingResourcePerEra</Name>
+      <Description>BuildingResourcePerEra</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Sukritact_ChangeResearchProgress.lua">
+      <Name>Sukritact_ChangeResearchProgress</Name>
+      <Description>Sukritact_ChangeResearchProgress</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/UI/RandomEventsPopup.xml">
+      <Name>RandomEventsPopup</Name>
+      <Description>RandomEventsPopup</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/UI/CityInfoStack.xml">
+      <Name>CityInfoStack</Name>
+      <Description>CityInfoStack</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/San Marco/SanMarco_Functions.lua">
+      <Name>SanMarco_Functions</Name>
+      <Description>SanMarco_Functions</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

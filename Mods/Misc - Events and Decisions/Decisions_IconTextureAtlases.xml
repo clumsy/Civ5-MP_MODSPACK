@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/11/2014 5:12:39 PM -->
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>CORE_DECISIONS_ATLAS</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>CoreDecisions_Atlas_256.dds</Filename>
+			<IconsPerRow>4</IconsPerRow>
+			<IconsPerColumn>2</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CORE_DECISIONS_ATLAS</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>CoreDecisions_Atlas_128.dds</Filename>
+			<IconsPerRow>4</IconsPerRow>
+			<IconsPerColumn>2</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CORE_DECISIONS_ATLAS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>CoreDecisions_Atlas_64.dds</Filename>
+			<IconsPerRow>4</IconsPerRow>
+			<IconsPerColumn>2</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CORE_DECISIONS_ATLAS</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>CoreDecisions_Atlas_80.dds</Filename>
+			<IconsPerRow>4</IconsPerRow>
+			<IconsPerColumn>2</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CORE_DECISIONS_ATLAS</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>CoreDecisions_Atlas_45.dds</Filename>
+			<IconsPerRow>4</IconsPerRow>
+			<IconsPerColumn>2</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+	<IconFontTextures>
+		<Row>
+			<IconFontTexture>ICON_FONT_TEXTURE_MAGISTRATES</IconFontTexture>
+			<IconFontTextureFile>Magistrates_fonticons</IconFontTextureFile>
+		</Row>
+	</IconFontTextures>
+	<IconFontMapping>
+		<Row>
+			<IconName>ICON_MAGISTRATES</IconName>
+			<IconFontTexture>ICON_FONT_TEXTURE_MAGISTRATES</IconFontTexture>
+			<IconMapping>1</IconMapping>
+		</Row>
+	</IconFontMapping>
+</GameData>

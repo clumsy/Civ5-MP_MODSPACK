@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Context ColorSet="Beige_Black_Alpha" Font="TwCenMT16" FontStyle="Shadow">
+	<ToolTipType Name="MW_SanMarco_Tooltip" >
+		<Grid Size="280,90" Offset="8.0" Padding="8,8" Style="GridBlack8" NoClip="1" ID='Box'>
+			<Label Anchor='C,T' Offset="0,10" ID="Heading" String="Brief description" LeadingOffset="-5" WrapWidth="268" Font="TwCenMT18" ColorSet="Beige_Black" />
+			<Label Offset="12,35" ID="Body" String="Brief description" LeadingOffset="-5" WrapWidth="268" Font="TwCenMT16" ColorSet="Beige_Black" />
+		</Grid>
+	</ToolTipType>
+</Context>

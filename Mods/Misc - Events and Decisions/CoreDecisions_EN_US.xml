@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/8/2014 11:45:18 AM -->
+<GameData>
+	<Language_en_US>
+		<!-- Interface -->
+		<Row Tag="TXT_KEY_ENACT_DECISIONS">
+			<Text>Enact Decisions</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ENACT_DECISIONS_SUB">
+			<Text>You have {1_Magistrates} [ICON_MAGISTRATES] Magistrates</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ENACT_BUTTON">
+			<Text>Enact</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LOCKED_BUTTON">
+			<Text>Locked</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ENACTED_BUTTON">
+			<Text>Enacted</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ENACTED_HEADER">
+			<Text>[ICON_MINUS] Enacted Decisions</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ENACTED_HEADER_COLLAPSED">
+			<Text>[ICON_PLUS] Enacted Decisions</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ENACTABLE_HEADER">
+			<Text>[ICON_MINUS] Enactable Decisions</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ENACTABLE_HEADER_COLLAPSED">
+			<Text>[ICON_PLUS] Enactable Decisions</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LOCKED_HEADER">
+			<Text>[ICON_MINUS] Locked Decisions</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LOCKED_HEADER_COLLAPSED">
+			<Text>[ICON_PLUS] Locked Decisions</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISION_NAME_SORT">
+			<Text>Name</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISION_TYPE_SORT">
+			<Text>Type</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ENACT_ALERT">
+			<Text>"{1_Decision}" has been enacted!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISION_NOTIFICATION_TITLE">
+			<Text>New Decisions Available</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISION_NOTIFICATION">
+			<Text>New Decisions are available to be enacted! Go to the Enact Decisions panel to enact them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RIGHT_CLICK_NOTE">
+			<Text>[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Right click for more info on {1_Civilopedia}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_MAGISTRATES">
+			<Text>Magistrates</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MAGISTRATES_TEXT">
+			<Text>In ancient Rome, the word magistratus referred to one of the highest offices of state, and analogous offices in the local authorities such as municipium, which were subordinate only to the legislature of which they generally were members, often even ex officio, and often combined judicial and executive power, together constituting one jurisdiction. In Rome itself, the highest magistrates were members of the so-called cursus honorum -'career of honors'. They held both judicial and executive power within their sphere of responsibility (hence the modern use of the term "magistrate" to denote both judicial and executive officers), and also had the power to issue ius honorarium, or magisterial law. The Consul was the highest Roman magistrate. The Praetor (the office was later divided into two, the Urban and Peregrine Praetors) was the highest judge in matters of private law between individual citizens, while the Curule Aediles, who supervised public works in the city, exercised a limited civil jurisdiction in relation to the market. Roman magistrates were not lawyers, but were advised by jurists who were experts in the law.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_MAGISTRATES_HELP">
+			<Text>Used to enact Decisions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PALACE_HELP_DECISIONS">
+			<Text>Indicates this City is the [ICON_CAPITAL] Capital of the empire. Contains 1 slot for a Great Work of Art.[NEWLINE][NEWLINE][ICON_CONNECTED] Connecting other Cities to the [ICON_CAPITAL] Capital by Road will produce additional [ICON_GOLD] Gold.[NEWLINE][NEWLINE]Provides 2 [ICON_MAGISTRATES] Magistrates at the start of the game.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_NATIONALCOURT">
+			<Text>Judiciary Court</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_NATIONALCOURT_CIVILOPEDIA">
+			<Text>The Judiciary (also known as the judicial system or court system) is the system of courts that interprets and applies the law in the name of the state. The judiciary also provides a mechanism for the resolution of disputes. Under the doctrine of the separation of powers, the judiciary generally does not make law (that is, in a plenary fashion, which is the responsibility of the legislature) or enforce law (which is the responsibility of the executive), but rather interprets law and applies it to the facts of each case. This branch of the state is often tasked with ensuring equal justice under law. It usually consists of a court of final appeal (called the "Supreme court" or "Constitutional court"), together with lower courts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_NATIONALCOURT_HELP">
+			<Text>Provides 3 [ICON_MAGISTRATES] Magistrates on completion and 1 [ICON_MAGISTRATES] Magistrate when entering a new era.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_NATIONALCOURT_STRATEGY">
+			<Text>The Judiciary Court provides a large number of [ICON_MAGISTRATES] Magistrates upon completion, as well as an additional [ICON_MAGISTRATES] Magistrate for each new era, making the Judiciary Court a useful building for enacting decisions.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Generic Decisions
+		------------------------------------------------------------------>
+		<!-- Tax Reform -->
+		<Row Tag="TXT_KEY_DECISIONS_TAXREFORM">
+			<Text>Initiate Tax Reforms</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TAXREFORM_DESC">
+			<Text>
+				There is one thing we cannot escape - the need for money. A reform of our tax system will ensure that each citizen pays his dues and that we have the money we need.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]May not be enacted in the Ancient Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per era
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]{2_Gold} [ICON_GOLD] Gold
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TAXREFORM_ENACTED_DESC">
+			<Text>
+				There is one thing we cannot escape - the need for money. A reform of our tax system will ensure that each citizen pays his dues and that we have the money we need.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Lump sum of [ICON_GOLD] Gold
+			</Text>
+		</Row>
+		<!-- Formalize Scales, Weights and Measures -->
+		<Row Tag="TXT_KEY_DECISIONS_WEIGHTSFORMAL">
+			<Text>Formalize Scales, Weights and Measures</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_WEIGHTSFORMAL_DESC">
+			<Text>
+				Have you ever tried converting perches to pikes, and realized along the way that you lost a number? Headaches? Sleepless nights? Not anymore! Our bureaucracy offers to formalize the weights and measures system.[NEWLINE][NEWLINE]Requirement/Restrictions:[NEWLINE][ICON_BULLET]Must have researched Mathematics[NEWLINE][ICON_BULLET]May only be enacted once per game[NEWLINE]Costs:[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates[NEWLINE]Rewards:[NEWLINE][ICON_BULLET]+25% [ICON_GOLD] Gold in all cities
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_WEIGHTSFORMAL_ENACTED_DESC">
+			<Text>
+				Have you ever tried converting perches to pikes, and realized along the way that you lost a number? Headaches? Sleepless nights? Not anymore! Our bureaucracy offers to formalize the weights and measures system.[NEWLINE][NEWLINE]Rewards:[NEWLINE][ICON_BULLET]+25% [ICON_GOLD] Gold in all cities
+			</Text>
+		</Row>
+		<!-- Invite Great Person -->
+		<Row Tag="TXT_KEY_DECISIONS_INVITEGREATPERSON">
+			<Text>Request the Services of a Great Person</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_INVITEGREATPERSON_DESC">
+			<Text>
+				There has been recent talk of a man of great skill in our lands. We should request his services for the good of the nation.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Classical Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per era
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]A Great Person of one of the following classes appears in the Capital
+				[NEWLINE][ICON_BULLET]Great Engineer
+				[NEWLINE][ICON_BULLET]Great Scientist
+				[NEWLINE][ICON_BULLET]Great Merchant
+				[NEWLINE][ICON_BULLET]Great General
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_INVITEGREATPERSON_ENACTED_DESC">
+			<Text>
+				There has been recent talk of a man of great skill in our lands. We should request his services for the good of the nation.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]A Great Person of one of the following classes appears in the Capital
+				[NEWLINE][ICON_BULLET]Great Engineer
+				[NEWLINE][ICON_BULLET]Great Scientist
+				[NEWLINE][ICON_BULLET]Great Merchant
+				[NEWLINE][ICON_BULLET]Great General
+			</Text>
+		</Row>
+		<!-- Promote the Arts -->
+		<Row Tag="TXT_KEY_DECISIONS_PROMOTETHEARTS">
+			<Text>Promote the Arts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_PROMOTETHEARTS_DESC">
+			<Text>
+				Our quest towards a culturally cultivated society begins here. Our artistic wonders will go down in history as the most marvelous of this era.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Classical Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per era
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]A Great Person of one of the following classes appears in the Capital
+				[NEWLINE][ICON_BULLET]Great Writer
+				[NEWLINE][ICON_BULLET]Great Artist
+				[NEWLINE][ICON_BULLET]Great Musician
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_PROMOTETHEARTS_ENACTED_DESC">
+			<Text>
+				Our quest towards a culturally cultivated society begins here. Our artistic wonders will go down in history as the most marvelous of this era.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]A Great Person of one of the following classes appears in the Capital
+				[NEWLINE][ICON_BULLET]Great Writer
+				[NEWLINE][ICON_BULLET]Great Artist
+				[NEWLINE][ICON_BULLET]Great Musician
+			</Text>
+		</Row>
+		<!-- Codify Laws -->
+		<Row Tag="TXT_KEY_DECISIONS_CODEOFLAWS">
+			<Text>Codify Laws</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CODEOFLAWS_DESC">
+			<Text>
+				Over the years various laws and decrees have been accumulated. In the interests of efficient administration it would be better to codify them into a single corpus of law so everyone will know their rights.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Must have researched Philosophy
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] Culture
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]A Code of Laws is compiled in the Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_CODEOFLAWS_ENACTED_DESC">
+			<Text>
+				Over the years various laws and decrees have been accumulated. In the interests of efficient administration it would be better to codify them into a single corpus of law so everyone will know their rights.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]The Code of Laws is compiled in the Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BUILDING_CODEOFLAWS">
+			<Text>Code of Laws</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BUILDING_CODEOFLAWS_CIVILOPEDIA">
+			<Text>The earliest tribal civilizations were bonded together by mutual needs and beliefs. These groups were ruled by a tribal chieftain, who acted as an advisor, and enforcer of the will of the gods. No formal laws existed in these early cultures, but fear of the gods and a sense of tribal customs and morality kept order in the tribe. As societies became larger and more diverse, the need arose for established rules of conduct. The earliest known codes of laws existed in Babylon, India, and Palestine. The Twelve Tables of Rome, written in 500 BC, and its successors such as the Justinian Code, were the first codes of law to distinguish between public law, which involves the state, and private law, which concerns disputes between citizens. Roman law was the first formalized written system of laws, and went on to influence many of the legal systems of the modern world.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BUILDING_CODEOFLAWS_HELP">
+			<Text>Length of [ICON_GOLDEN_AGE] Golden Ages increased by 25%.[NEWLINE][NEWLINE]May only be acquired through the "Codify Laws" decision.</Text>
+		</Row>
+		<!-- Nationalise the Utilities -->
+		<Row Tag="TXT_KEY_DECISIONS_NATIONALISEUTILITIES">
+			<Text>Nationalise the Utilities</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_NATIONALISEUTILITIES_DESC">
+			<Text>
+				We should nationalise those industries which are essential for our people's welfare. The industries' owners won't like it, but the nation will be better off for it in the long run.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Must have researched Industrialization
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE][ICON_BULLET]{2_Turns} turns of [ICON_RESISTANCE] Resistance in the Capital
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive a free Factory in the Capital
+				[NEWLINE][ICON_BULLET]Factories produce +1 [ICON_PRODUCTION] Production
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_NATIONALISEUTILITIES_ENACTED_DESC">
+			<Text>
+				We should nationalize those industries which are essential for our people's welfare. The industries' owners won't like it, but the nation will be better off for it in the long run.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive a free Factory in the Capital
+				[NEWLINE][ICON_BULLET]Factories produce +1 [ICON_PRODUCTION] Production
+			</Text>
+		</Row>
+		<!-- Subsidise Public Transport -->
+		<Row Tag="TXT_KEY_DECISIONS_PUBLICTRANSPORT">
+			<Text>Subsidise Public Transport in {1_City}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_PUBLICTRANSPORT_DESC">
+			<Text>
+				Problems with traffic congestion hinder productivity in {1_City}. If we were to promote public transport, we should be able to ensure that both people and resources can get to where they need to be on time.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Must have researched Steam Power[NEWLINE][ICON_BULLET]{1_City} Must a Population of 20 or more[NEWLINE][ICON_BULLET]May only be enacted once per City
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{2_Gold} [ICON_GOLD] Gold
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]A Public Transportation System is built in {1_City}
+				[NEWLINE][ICON_BULLET]Starts a "We Love the King Day"
+				{3_Note}
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_PUBLICTRANSPORT_ENACTED_DESC">
+			<Text>
+				Problems with traffic congestion hinder productivity in {1_City}. If we were to promote public transport, we should be able to ensure that both people and resources can get to where they need to be on time.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]A Public Transportation System is built in {1_City}
+				[NEWLINE][ICON_BULLET]Starts a "We Love the King Day"
+				{2_Note}
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_PUBLICTRANSPORT_NOTE">
+			<Text>
+				[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: To unlock this Decision in other cities, ensure they have a population of  20 or more[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BUILDING_PUBLICTRANSPORT">
+			<Text>Public Transportation System</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BUILDING_PUBLICTRANSPORT_CIVILOPEDIA">
+			<Text>At the turn of the twentieth century, most modern cities were cesspools of filth. In the United States, the affluent often moved to the suburbs, using automobiles to return to their jobs in the cities. In Europe, on the other hand, where most roads had been designed for horses, not cars, impressive systems of Public Transportation became the most effective way for large numbers of people to get about. As an added bonus, these mass transit systems greatly decreased the amount of pollution created. Subways, trolleys, monorails and buses have become staples in major metropolises like London, Barcelona and even in major US cities like New York City.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_BUILDING_PUBLICTRANSPORT_HELP">
+			<Text>May only be acquired through the "Subsidise Public Transport" decision.</Text>
+		</Row>
+		<!-- Set Up a Universities Funding Council -->
+		<Row Tag="TXT_KEY_DECISIONS_UNIVERSITYGRANTS">
+			<Text>Set Up a Universities Funding Council</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_UNIVERSITYGRANTS_DESC">
+			<Text>
+				Universities require funding. Appointing a few people to manage where our money goes should allow the best universities to prosper and help advance out nation.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Must have researched Archaeology[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive a free Technology
+				[NEWLINE][ICON_BULLET]2 Archaeologists appear near the Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_UNIVERSITYGRANTS_ENACTED_DESC">
+			<Text>
+				Universities require funding. Appointing a few people to manage where our money goes should allow the best universities to prosper and help advance out nation.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive a free Technology
+				[NEWLINE][ICON_BULLET]2 Archaeologists appear near the Capital
+			</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Establish a National Language Council
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_DECISIONS_LANGUAGECOUNCIL">
+			<Text>Establish a National Language Council</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_LANGUAGECOUNCIL_DESC">
+			<Text>
+				In order to strengthen our nation's unity, our advisors have suggested that we officially adopt an official language and set up a body to ensure that its use remains consistent throughout the nation. Let us take their advice and establish {1_CouncilName}[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Must have adopted an Ideology[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive a free Technology
+				[NEWLINE][ICON_BULLET]2 Archaeologists appear near the Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_LANGUAGECOUNCIL_ENACTED_DESC">
+			<Text>
+				Universities require funding. Appointing a few people to manage where our money goes should allow the best universities to prosper and help advance out nation.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive a free Technology
+				[NEWLINE][ICON_BULLET]2 Archaeologists appear near the Capital
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

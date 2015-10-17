@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!----------------------------------------------------------------
+						General Religious Decisions
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_DECISIONS_LUMPSUM">
+			<Text>Lump sum of </Text>
+		</Row>	
+		<!-- Holy Book -->
+		<Row Tag="TXT_KEY_DECISIONS_HOLYBOOK">
+			<Text>Commission an Illustrated Holy Book</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_HOLYBOOK_DESC">
+			<Text>
+				Books are expensive; a finely illustrated book is even more so. Regardless, as a faithful follower of {1_Religion}, you should obtain a copy.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_HOLYBOOK_COST">
+			<Text>
+				[NEWLINE]Requirement/Restrictions:[NEWLINE][ICON_BULLET]Player's majority religion must be {1_Religion}[NEWLINE][ICON_BULLET]Must not have researched Printing Press[NEWLINE][ICON_BULLET]May not be enacted in the Ancient Era[NEWLINE][ICON_BULLET]May only be enacted once per game[NEWLINE]Costs:[NEWLINE][ICON_BULLET]{2_Gold} [ICON_GOLD] Gold
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_HOLYBOOK_REWARD">
+			<Text>
+				[NEWLINE]Rewards:[NEWLINE][ICON_BULLET]{1_Faith} [ICON_PEACE] Faith
+			</Text>
+		</Row>
+		<!-- Holy Festival -->
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1_COST">
+			<Text>[NEWLINE]Requirement/Restrictions:[NEWLINE][ICON_BULLET]Player's majority religion must be {1_Religion}[NEWLINE][ICON_BULLET]May only be enacted once per era[NEWLINE]Costs:[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1_REWARD">
+			<Text>[NEWLINE]Rewards:</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1">
+			<Text>Hold a Holy Festival</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1_DESC">
+			<Text>Truly this has been a great era! Let us show our gratitude! Let us hold a grand festival in honour of the Gods![NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1_NOTE">
+			<Text>[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: The bonuses you receive with increase with era and religious unity within the empire; currently your religious unity is at {1_Percent}%</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Buddhism
+		------------------------------------------------------------------>
+		<!-- Tripitaka -->
+		<Row Tag="TXT_KEY_DECISIONS_HOLYBOOK_BUDDHISM">
+			<Text>Acquire the Tripitaka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_HOLYBOOK_DESC_BUDDHISM">
+			<Text>
+				The Buddhist scriptures, the Tripitaka, can take up to 40 separate books to contain. Without an easy way to reproduce them, they are naturally expensive and hard to come by. Nonetheless, we should try to acquire a set ourselves.[NEWLINE]
+			</Text>
+		</Row>
+		<!-- Buddhist Council -->
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1BUDDHISM">
+			<Text>Hold a Buddhist Council</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1_DESCBUDDHISM">
+			<Text>The Sangha have grown lax; interpretations of the Dhamma vary greatly between different monks. This is unacceptable. We must hold a council to resolve these matters and revitalise Buddhism.[NEWLINE]</Text>
+		</Row>
+		<!-- Sangha Reform -->
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1THERAVADA">
+			<Text>Reform the Sangha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1_DESCTHERAVADA">
+			<Text>Buddhism has a tendency to mingle with local beliefs and incorporate them. We should remove these superstitious beliefs from the Buddhist monastic order and take this opportunity to bring the doctrines of Buddhism in line with our furthered understanding of the natural world.[NEWLINE]</Text>
+		</Row>
+		<!-- Search for the New Dalai Lama -->
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1VAJRAYANA">
+			<Text>Search for the New Dalai Lama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1_DESCVAJRAYANA">
+			<Text>His Holiness the Dalai Lama has passed from this earth! Let us begin our search for his reincarnation that we might bring him to lead the Buddhist order once again.[NEWLINE]</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Christianity
+		------------------------------------------------------------------>
+		<!-- Bible -->
+		<Row Tag="TXT_KEY_DECISIONS_HOLYBOOK_CHRISTIANITY">
+			<Text>Commission a Biblical Manuscript</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_HOLYBOOK_DESC_CHRISTIANITY">
+			<Text>
+				The act of reproducing and illustrating the Holy Bible by hand is extensive and laborious; naturally this means the manuscript can be quite costly. This should be no barrier to obtaining a copy for ourselves however.[NEWLINE]
+			</Text>
+		</Row>
+
+		<!--  Church Leaders  -->
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1CHRISTIANITY">
+			<Text>Appoint Church Leaders</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1_DESCCHRISTIANITY">
+			<Text>The Church lacks men to lead it. We are in a position to correct this. Let us aid the Church in seeking out wise and godly men to appoint as the leaders of Christianity![NEWLINE]</Text>
+		</Row>
+		<!-- Catholic -->
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1CATHOLICISM">
+			<Text>Convene the Papal Conclave</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1_DESCCATHOLICISM">
+			<Text>The Catholic Church has been leaderless since the departure of our previous pope. The Papal Conclave must be convened so a new pope may be elected.[NEWLINE]</Text>
+		</Row>
+		<!-- Orthodox -->
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1ORTHODOXY">
+			<Text>Call an Ecumenical Council</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1_DESCORTHODOXY">
+			<Text>Many disagreements have arisen on doctrinal and disciplinary matters within the Church. These should be quickly resolved. A Ecumenical Council must be called.[NEWLINE]</Text>
+		</Row>
+		<!-- Oriental Orthodox -->
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1CHRISTIAN_ORIENTAL_ORTHODOX"> 
+			<Text>Elect a new Patriarch</Text> 
+		</Row> 
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1_DESCCHRISTIAN_ORIENTAL_ORTHODOX"> 
+			<Text>The seat of our patriarchate has remained empty since the death of our previous archbishop. The Holy Synod must convene and elect a new patriarch.[NEWLINE]</Text> 
+		</Row> 
+		<!-- Protestant -->
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1PROTESTANTISM"> 
+			<Text>Write a Confession of Faith</Text> 
+		</Row> 
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1_DESCPROTESTANTISM"> 
+			<Text>Our churches have a long history of composing Confessions of Faith; formal declarations of belief. Though many serve as theses for debate, others seek unity between groups on controversial doctrines. Let us draft our own Confession in an effort to formalize doctrinal standards.[NEWLINE]</Text> 
+		</Row> 	
+		<!---------------------------------------------------------------- 
+						Confucianism 
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_DECISIONS_HOLYBOOK_CONFUCIANISM"> 
+			<Text>Gather the Four Books and Five Classics</Text> 
+		</Row> 
+		<Row Tag="TXT_KEY_DECISIONS_HOLYBOOK_DESC_CONFUCIANISM"> 
+			<Text> 
+				The Fours Books and Five Classics are the ancient texts that comprise the teachings of our faith. We would have these sacred works gathered and secured within our possession, so that they may be forever safe and never blemished.[NEWLINE]
+			</Text> 
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1CONFUCIANISM"> 
+			<Text>Perform the Grand Ceremony</Text> 
+		</Row> 
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1_DESCCONFUCIANISM"> 
+			<Text>The Grand Ceremony at the Temple of Confucius is a celebration of music, song, and dance in honour of Confucius. Sacrifice is offered and ritual is conducted to develop traditional culture and create a harmonious society. Let us support the temple by contributing to this year's festivities.[NEWLINE]</Text> 
+		</Row> 
+		<!----------------------------------------------------------------
+						Judaism
+		------------------------------------------------------------------>
+		<!-- Sefer Torah -->
+		<Row Tag="TXT_KEY_DECISIONS_HOLYBOOK_JUDAISM">
+			<Text>Commission a Sefer Torah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_HOLYBOOK_DESC_JUDAISM">
+			<Text>
+				The production of a Sefer Torah is a momentous thing; each of its 304,805 letters must be rendered by hand and the standards that must be met for the Sefer Torah to be valid are strict and specific. The resulting scroll is of course sacred and costly.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1JUDAISM">
+			<Text>Celebrate Passover</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1_DESCJUDAISM">
+			<Text>Passover is celebrated every year to commemorate the liberation of the Jewish people from slavery. Spend lavishly and make this year's celebration one to be remembered![NEWLINE]</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Islam
+		------------------------------------------------------------------>
+		<!-- Quran -->
+		<Row Tag="TXT_KEY_DECISIONS_HOLYBOOK_ISLAM">
+			<Text>Obtain a Qur'anic Manuscript</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_HOLYBOOK_DESC_ISLAM">
+			<Text>
+				A Qur'an is a magnificent thing; the calligraphic style alone can be a marvel. Of course, the fact that there is no way to reproduce it except by hand means that a copy will not come cheaply.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1ISLAM">
+			<Text>Go on Hajj to the Holy City</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1_DESCISLAM">
+			<Text>Going on a pilgrimage is one of the pillars of Islam, and this is something every able bodied Muslim is expected to do once in his life.[NEWLINE]</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Hinduism
+		------------------------------------------------------------------>
+		<!-- Bhagavad Gita -->
+		<Row Tag="TXT_KEY_DECISIONS_HOLYBOOK_HINDUISM"> 
+			<Text>Create the Bhagavad Gita</Text> 
+		</Row> 
+		<Row Tag="TXT_KEY_DECISIONS_HOLYBOOK_DESC_HINDUISM"> 
+			<Text> 
+				Our diverse faith, composed of many enlightened teachings on the ways of life and spirit, is an empowering force. We should synthesis these teachings into one scripture; the holy Bhagavad Gita, and unite our faithful beneath our common understandings.[NEWLINE][NEWLINE]Requirement/Restrictions:[NEWLINE][ICON_BULLET]Player's majority religion must be Hinduism[NEWLINE][ICON_BULLET]Must not have researched Printing Press[NEWLINE][ICON_BULLET]May only be enacted once per game[NEWLINE]Costs:[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold[NEWLINE]Rewards:[NEWLINE][ICON_BULLET]{2_Faith} [ICON_PEACE] Faith 
+			</Text> 
+		</Row> 
+		<!-- Diwali Feast -->
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1HINDUISM">
+			<Text>Hold a Diwali Feast</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1_DESCHINDUISM">
+			<Text>Diwali is the traditional Hindu harvest feast. It celebrates the triumph of light over darkness, good over evil and hope over despair. Take special care this year, and make this year's feast one to be remembered.[NEWLINE]</Text>
+		</Row>
+		<!---------------------------------------------------------------- 
+						Shinto 
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_DECISIONS_HOLYBOOK_SHINTO"> 
+			<Text>Compile the Kojiki</Text> 
+		</Row> 
+		<Row Tag="TXT_KEY_DECISIONS_HOLYBOOK_DESC_SHINTO"> 
+			<Text> 
+				There are many songs and poems that honour the spirits, but none yet so great as would be a single chronicle containing all. This would be an expensive task, but one truly worthy of our time.[NEWLINE]
+			</Text> 
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1SHINTO"> 
+			<Text>Rebuild the Ise-Jingu</Text> 
+		</Row> 
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1_DESCSHINTO"> 
+			<Text>The Ise-Jingu is one of our most sacred shrines, dedicated to the goddess Amaterasu and housing the sacred Yata no Kagami. Every 20 years we dismantle and rebuild the shrine as an act of renewal and purification. Let us hold festivals to celebrate the event and contribute to the rebuilding ceremony.[NEWLINE]</Text> 
+		</Row> 	
+		<!---------------------------------------------------------------- 
+						Sikhism 
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_DECISIONS_HOLYBOOK_SIKHISM"> 
+			<Text>Initiate the Guru Granth Sahib</Text> 
+		</Row> 
+		<Row Tag="TXT_KEY_DECISIONS_HOLYBOOK_DESC_SIKHISM"> 
+			<Text> 
+				Gurus have since past, contributing their wisdom and knowledge to their successors for centuries. Now is the time to compile all Gurbani into one sacred volume, the likes of which would become the perpetual authority on our faith.[NEWLINE]
+			</Text> 
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1SIKHISM"> 
+			<Text>Gurpurab of Guru Nanak</Text> 
+		</Row> 
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1_DESCSIKHISM"> 
+			<Text>Kartik Puranmashi has arrived and we celebrate the birth of our founder and spiritual leader Guru Nanak. Let us recite the sacred texts in our gurdwaras and hold a procession of song and swordsmanship to reaffirm our devotion.[NEWLINE]</Text> 
+		</Row> 	
+		<!---------------------------------------------------------------- 
+						Tengriism 
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_DECISIONS_HOLYBOOK_TENGRIISM"> 
+			<Text>Compile the Irk Bitig</Text> 
+		</Row> 
+		<Row Tag="TXT_KEY_DECISIONS_HOLYBOOK_DESC_TENGRIISM"> 
+			<Text> 
+				Our shamans have received visions from Tengri Ülgen during their travels to the heavens. Let our scribes compile these omens so that they may guide us in times to come.[NEWLINE] 
+			</Text> 
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1TENGRIISM"> 
+			<Text>Sacrifice to the Yer-Sub</Text> 
+		</Row> 
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1_DESCTENGRIISM"> 
+			<Text>We must appease the spirits of nature and of our ancestors. Before we feast, let us hang the white ram from a tree and sacrifice the red horse to ensure the fertility of our cattle.[NEWLINE]</Text> 
+		</Row> 	
+		<!---------------------------------------------------------------- 
+						Taoism 
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_DECISIONS_HOLYBOOK_TAOISM"> 
+			<Text>Patronise the compilation of the Daozang</Text> 
+		</Row> 
+		<Row Tag="TXT_KEY_DECISIONS_HOLYBOOK_DESC_TAOISM"> 
+			<Text> 
+				The teachings of our sacred traditions are scattered throughout thousands of texts. Monks have long sought to compile these texts into one chronicle, but their efforts have thus far failed. It would be in keeping with the spirit of our traditions to patronise them in this endeavour.[NEWLINE] 
+			</Text> 
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1TAOISM"> 
+			<Text>Perform the Chiao</Text> 
+		</Row> 
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1_DESCTAOISM"> 
+			<Text>The Chiao is a rite of cosmic renewal which brings order and restores the balance of the universe and the community. Let us sponsor festivities and processions for the local villages, as our priests dedicate our offerings to the gods and ask them to bring us peace and prosperity.[NEWLINE]</Text> 
+		</Row>
+		<!---------------------------------------------------------------- 
+						Zoroastrianism 
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_DECISIONS_HOLYBOOK_ZOROASTRIANISM"> 
+			<Text>Compose the Avesta</Text> 
+		</Row> 
+		<Row Tag="TXT_KEY_DECISIONS_HOLYBOOK_DESC_ZOROASTRIANISM"> 
+			<Text> 
+				Our faith comprises of many hymns and texts espousing the goodness of Zoroaster, but they are not one, and lie across many sacred works. Praise be upon the good king that would compose these texts into one holy collection.[NEWLINE]
+			</Text> 
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1ZOROASTRIANISM"> 
+			<Text>Celebrate Sadeh</Text> 
+		</Row> 
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1_DESCZOROASTRIANISM"> 
+			<Text>At the start of the long winter we gather to celebrate Sadeh. Along our rivers and in our temples, let us light huge bonfires to assist the revival of the sun and its summer light as we fight off the demons of cold and darkness.[NEWLINE]</Text> 
+		</Row> 	 
+		<!----------------------------------------------------------------
+						Other:
+		------------------------------------------------------------------>
+	<!-- Forn Sidr -->
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1FORN_SIDR">
+			<Text>Hold a Great Blot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1_DESCFORN_SIDR">
+			<Text>Hold a great blot together with your vassals and offer sacrifice to the gods of Valhalla for good harvests and success on the battlefield.[NEWLINE]</Text>
+		</Row>
+	<!-- Pesejet -->
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1PESEDJET"> 
+			<Text>Heb-Sed Festival</Text> 
+		</Row> 
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1_DESCPESEDJET"> 
+			<Text>Great Pharaoh, the time has come to hold a royal jubilee and renew your divine right of kingship. Let us race the Apis bull and offer sacrifice to Ma'at and Wadjit.[NEWLINE]</Text> 
+		</Row> 
+	<!-- Hellenism --> 
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1HELLENISM"> 
+			<Text>Prepare the Hecatomb</Text> 
+		</Row> 
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1_DESCHELLENISM"> 
+			<Text>Let us prepare the 100 cattle needed to offer sacrifice to the patron deity of our great city. Afterwards we shall mix wine and sing a joyous paean so that the gods may take pleasure in our voices.[NEWLINE]</Text> 
+		</Row> 
+	<!-- Chaldeanism --> 
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1CHALDEANISM"> 
+			<Text>Celebrate the Akitu</Text> 
+		</Row> 
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1_DESCCHALDEANISM"> 
+			<Text>A new half year has begun and your subjects are already preparing a festival to celebrate the sowing of the barley. Let us move the statute of Marduk from the great house and honour his victory of Tiamat, renewing our great city and asking Marduk’s blessings for the coming year.[NEWLINE]</Text> 
+		</Row> 
+	<!-- Pachism -->
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1PACHISM"> 
+			<Text>Celebrate the Inti Raymi</Text> 
+		</Row> 
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1_DESCPACHISM"> 
+			<Text>The winter solstice is fast approaching and already your subjects have begun to organize dances and processions for the festival. We should prepare sacrifice for Inti and Pachamama to ensure a good harvest in the coming season.[NEWLINE]</Text> 
+		</Row> 
+	<!-- Tlateomatiliztli --> 
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1TLATEOMATILIZTLI"> 
+			<Text>Perform the Xiuhmolpilli</Text> 
+		</Row> 
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1_DESCTLATEOMATILIZTLI"> 
+			<Text>The Binding of the Years is approaching as our calendar completes its cycle. Our subjects should fast as the priests of Huehueteotl prepare the sacrifice to light the new sacred fire.[NEWLINE]</Text> 
+		</Row> 
+	<!-- Orenda --> 
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1ORENDA"> 
+			<Text>Midwinter Festival</Text> 
+		</Row> 
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1_DESCORENDA"> 
+			<Text>The first new moon of the year symbolizes a time to give thanks to the spirits and renew our connection with them. Let us stir the ashes of our hearths and have the False Face cleanse the village before holding a great feast in honour of Hahgwehdiyu.[NEWLINE]</Text> 
+		</Row> 
+	<!-- Pohakantenna --> 
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1POHAKANTENNA"> 
+			<Text>Organize a Father Dance</Text> 
+		</Row> 
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1_DESCPOHAKANTENNA"> 
+			<Text>It is through dance and song that we direct the heart of the spirits. Let us gather and hold a round dance to give thanks to A'po for the coming season.[NEWLINE]</Text> 
+		</Row> 
+	<!-- Amatongo -->
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1AMATONGO"> 
+			<Text>Kraal Sacrifice</Text> 
+		</Row> 
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1_DESCAMATONGO"> 
+			<Text>Our sangoma fear that the amadholozi have grown displeased with our actions. We should sacrifice cattle in the umsamo of our chief to help placate and honour our ancestors.[NEWLINE]</Text> 
+		</Row> 
+	<!-- Druidism -->
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1DRUIDISM"> 
+			<Text>Celebrate Samhain</Text> 
+		</Row> 
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1_DESCDRUIDISM"> 
+			<Text>The harvest season has come to an end and our people have begun feasting to celebrate the new year. Let us bring new fire into our houses as we put out the old, and allow our diviners to forecast the fate of the coming year.[NEWLINE]</Text> 
+		</Row> 
+	<!-- Manaism -->
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1MANAISM"> 
+			<Text>Celebrate Makahiki</Text> 
+		</Row> 
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1_DESCMANAISM"> 
+			<Text>The Makahiki season has arrived and our warriors put down their spears to celebrate the new year. Let our priests offer ho'okupu to Lono, as our people feast and wrestle to prove their strength.[NEWLINE]</Text> 
+		</Row> 
+	<!-- Canaanism -->
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1CANAANISM"> 
+			<Text>Symposium of the Sun</Text> 
+		</Row> 
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1_DESCCANAANISM"> 
+			<Text>Let us hold a funerary feast to celebrate Ba'al Hamon's victory over Mot. Have our priests drink from the bronze cup and offer our children in sacrifice to ensure prosperity in the coming year.[NEWLINE]</Text> 
+		</Row>
+	<!-- Wakan Tanka -->
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1WAKAN_TANKA"> 
+			<Text>Hold a Sun Dance</Text> 
+		</Row> 
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1_DESCWAKAN_TANKA"> 
+			<Text>Our people wish to hold a sun dance to give thanks and renewal to the Great Spirit. Let our warriors pierce their skin and offer themselves as prayer for the benefit of their family and band.[NEWLINE]</Text> 
+		</Row> 
+	<!-- Liim Dingermes -->
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1LIIM_DINGERMES"> 
+			<Text>Purulli Festival</Text> 
+		</Row> 
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1_DESCLIIM_DINGERMES"> 
+			<Text>My Lord, our land prospers and thrives as we approach the new year. Let Tarhun affirm your divine kingship as we celebrate his victory over Illuyanka.[NEWLINE]</Text> 
+		</Row> 
+	<!-- Nzambiism --> 
+		 <Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1NZAMBIISM"> 
+			<Text>Create a Nkisi</Text> 
+		</Row> 
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1_DESCNZAMBIISM"> 
+			<Text>Our people strive for a closer connection to their ancestors. Let us create a vessel for the spirits to protect us and provide good fortune in the coming season.[NEWLINE]</Text> 
+		</Row> 
+	<!-- Noaidevuohta -->
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1NOAIDEVUOHTA"> 
+			<Text>Hold a Drum Ceremony</Text> 
+		</Row> 
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1_DESCNOAIDEVUOHTA"> 
+			<Text>The noaidi can mediate between this world and the next. Let us hold a ceremony so that they may journey to saivo and negotiate with the spirits and forefathers to improve our fate.[NEWLINE]</Text> 
+		</Row> 
+	<!-- Itan -->
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1ITAN"> 
+			<Text>Hold an Egungun Festival</Text> 
+		</Row> 
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1_DESCITAN"> 
+			<Text>Through drumming and dance our priests can become one with our ancestors to teach and guide our community. Let us hold a festival to honour the dead and assure our ancestors their place among the living.[NEWLINE]</Text> 
+		</Row> 
+	<!-- Wiltran Mapu -->
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1WILTRAN_MAPU"> 
+			<Text>Nguillatun Festival</Text> 
+		</Row> 
+		<Row Tag="TXT_KEY_DECISIONS_RELIGIONEVENTS_1_DESCWILTRAN_MAPU"> 
+			<Text>During the full moon of harvest season, our community comes together to celebrate the Nguillatun and give thanks for our good fortune. Let the machi play the kultrun and pifilka to reestablish balance and heal the natural order.[NEWLINE]</Text> 
+		</Row> 
+	</Language_en_US>
+</GameData>

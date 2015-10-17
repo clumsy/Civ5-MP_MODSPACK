@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Description tags -->
+		<Row Tag="TXT_KEY_BUILDING_SAN_MARCO_BASILICA_DESC">
+			<Text>St Mark's Basilica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SAN_MARCO_BASILICA_DUMMY">
+			<Text>St Mark's Basilica Dummy: +1[ICON_CULTURE] Culture</Text>
+		</Row>
+		<!-- Help tags -->
+		<Row Tag="TXT_KEY_BUILDING_SAN_MARCO_BASILICA_HELP">
+			<Text>Gain 10% of the [ICON_CULTURE] Culture of all cities this City has a Trade Route with. Contains a prebuilt Artifact.[NEWLINE][NEWLINE]May only be acquired by Venice through the "Rescue the Relics of St. Mark" decision.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SAN_MARCO_BASILICA_INFO">
+			<Text>You gain 10% of the [ICON_CULTURE] Culture of all cities this City has a Trade Route with. (the final sum is rounded up).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SAN_MARCO_BASILICA_PER_CITY">
+			<Text>[NEWLINE]+{1_Num}[ICON_CULTURE] Culture from {2_City}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SAN_MARCO_BASILICA_TOTAL">
+			<Text>[NEWLINE]+{1_Num}[ICON_CULTURE] Culture (rounded up from +{2_Num}[ICON_CULTURE] Culture)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WONDER_SAN_MARCO_BASILICA_NO_CULTURE_YIELDING_ROUTES">
+			<Text>[NEWLINE]You are not earning any [ICON_CULTURE] Culture from your Trade Routes.</Text>
+		</Row>
+		<!-- Great Works tags -->
+		<Row Tag="TXT_KEY_GREAT_WORK_STMARK">
+			<Text>Relics of St. Mark</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAN_MARCO_BASILICA_THEMING_BONUS_HELP">
+			<Text>To maximize your bonus, make sure the Great Work Slots are all filled with Artifacts from the city owner.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THEMING_BONUS_SAN_MARCO_BASILICA">
+			<Text>The Chiesa d'Oro</Text>
+		</Row>
+		<!-- Quote tags -->
+		<Row Tag="TXT_KEY_WONDER_SAN_MARCO_BASILICA_QUOTE">
+			<Text>
+				[NEWLINE]"It is the most splendid city I have ever seen, and the one which governs itself the most wisely." [NEWLINE]- Philippe de Commines[NEWLINE][TAB]
+			</Text>
+		</Row>
+		<!-- Pedia tags -->
+		<Row Tag="TXT_KEY_BUILDING_SAN_MARCO_BASILICA_PEDIA">
+			<Text>
+				The Patriarchal Cathedral Basilica of Saint Mark (officially known in Italian as the Basilica Cattedrale Patriarcale di San Marco and commonly known as Saint Mark's Basilica) is the cathedral church of the Roman Catholic Archdiocese of Venice, northern Italy. It is the most famous of the city's churches and one of the best known examples of Italo-Byzantine architecture. It lies at the eastern end of the Piazza San Marco, adjacent and connected to the Doge's Palace. Originally it was the chapel of the Doge, and has only been the city's cathedral since 1807, when it became the seat of the Patriarch of Venice, archbishop of the Roman Catholic Archdiocese of Venice, formerly at San Pietro di Castello.
+				[NEWLINE][NEWLINE]For its opulent design, gold ground mosaics, and its status as a symbol of Venetian wealth and power, from the 11th century on the building has been known by the nickname Chiesa d'Oro
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

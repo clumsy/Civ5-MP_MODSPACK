@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/8/2014 11:45:18 AM -->
+<GameData>
+	<Language_en_US>
+		<!----------------------------------------------------------------
+						Civ Events
+		------------------------------------------------------------------>
+		<!-- White Elephant Found -->
+		<Row Tag="TXT_KEY_EVENT_WHITEELEPHANT">
+			<Text>White Elephant Found</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_WHITEELEPHANT_DESC">
+			<Text>
+				We've managed to get hold of a White Elephant, this is of course, a very auspicious omen; our empire is guaranteed prosperity in the years to come!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_WHITEELEPHANT_OUTCOME_1">
+			<Text>
+				This is wonderful news!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_WHITEELEPHANT_OUTCOME_1_DESC">
+			<Text>
+				[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_GA} [ICON_GOLDEN_AGE] Golden Age Points[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {2_Num} [ICON_CULTURE] Culture[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_WHITEELEPHANT_OUTCOME_1_NOTIFICATION">
+			<Text>
+				A White Elephant has been found in our empire.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

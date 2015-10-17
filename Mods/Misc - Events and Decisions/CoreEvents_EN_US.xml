@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/8/2014 11:45:18 AM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_EVENT_OUTCOME_NOTHING">
+				<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Nothing[ENDCOLOR]</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Generic Events
+		------------------------------------------------------------------>
+		<!-- Comet Sighted -->
+		<Row Tag="TXT_KEY_EVENT_COMETSIGHTED">
+			<Text>Comet Sighted</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_COMETSIGHTED_DESC">
+			<Text>
+				People are often superstitious and the appearance of a comet has convinced many that the end of times is soon to come. Whether or not this is actually the case, this is bound to cause some instability within the nation.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_COMETSIGHTED_DESC_2">
+			<Text>
+				A comet was sighted in the sky. Some believe that this portends fell times ahead. Others believe that they are in fact pixie fairies floating in the sky. There are also those who believe that this comet is most probably a giant ball of ice floating through the sky and the long tail is created due to the energy of the sun. The arguments amongst three equally viable theories is stimulating the pursuit of knowledge in our country.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_COMETSIGHTED_OUTCOME_1">
+			<Text>
+				It's an omen.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_COMETSIGHTED_OUTCOME_2">
+			<Text>
+				The end is nigh!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_COMETSIGHTED_OUTCOME_3">
+			<Text>
+				Stop looking at the sky!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_COMETSIGHTED_OUTCOME_4">
+			<Text>
+				Thank God we live in such enlightened times.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_COMETSIGHTED_OUTCOME_5">
+			<Text>
+				Keep looking at the sky!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_COMETSIGHTED_OUTCOME_NEGATIVE">
+			<Text>
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Cost} [ICON_GOLDEN_AGE] Golden Age Points[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_COMETSIGHTED_OUTCOME_POSITIVE">
+			<Text>
+				[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Cost} [ICON_GOLDEN_AGE] Golden Age Points[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_COMETSIGHTED_NOTIFICATION_NEGATIVE">
+			<Text>
+				The sighting of a comet has caused panic throughout the nation!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_COMETSIGHTED_NOTIFICATION_POSITIVE">
+			<Text>
+				The sighting of a comet has sparked conversation throughout the nation!
+			</Text>
+		</Row>
+		<!-- Artists Protest the Eiffel Tower -->
+		<Row Tag="TXT_KEY_EVENT_EIFFELPROTEST">
+			<Text>Artists Protest the Eiffel Tower</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_EIFFELPROTEST_DESC">
+			<Text>
+				"We, writers, painters, sculptors, architects and passionate devotees of the hitherto untouched beauty of {1_City}, protest with all our strength, with all our indignation in the name of slighted {2_Adj} taste, against the erection of this useless and monstrous Eiffel Tower. To bring our arguments home, imagine for a moment a giddy, ridiculous tower dominating {1_City} like a gigantic black smokestack, crushing under its barbaric bulk all of our humiliated monuments which will disappear in this ghastly dream."
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_EIFFELPROTEST_OUTCOME_1">
+			<Text>
+				Idiots.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_EIFFELPROTEST_OUTCOME_1_NOTIFICATION">
+			<Text>
+				Artists staged a protest againt the Eiffel Tower.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_EIFFELPROTEST_OUTCOME_2">
+			<Text>
+				We can't take it down! We're using it as a radio tower!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_EIFFELPROTEST_OUTCOME_2_DESC">
+			<Text>
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Cost} [ICON_GOLD] Gold[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]A Broadcast Tower is built in {2_City}[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_EIFFELPROTEST_OUTCOME_2_NOTIFICATION">
+			<Text>
+				The Eiffel Tower has been converted into a Broadcast Tower!
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_EIFFELPROTEST_OUTCOME_3">
+			<Text>
+				Fine, let's tear it down.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_EIFFELPROTEST_OUTCOME_3_DESC">
+			<Text>
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]The Eiffel Tower is dismantled[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Receive 3 free Great Artists[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_EIFFELPROTEST_OUTCOME_3_NOTIFICATION">
+			<Text>
+				In response to criticism, the Eiffel Tower has been torn down. Local artists celebrate its removal!
+			</Text>
+		</Row>
+		<!-- Excellent Official -->
+		<Row Tag="TXT_KEY_EVENT_EXCELLENTOFFICIAL">
+			<Text>Excellent Official</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_EXCELLENTOFFICIAL_DESC">
+			<Text>Our newly hired government officials have proven to be particularly skilled and efficient. Their administrative efforts can only serve to benefit the nation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_EXCELLENTOFFICIAL_OUTCOME_1">
+			<Text>Splendid!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_EXCELLENTOFFICIAL_OUTCOME_1_DESC">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+1 [ICON_MAGISTRATES] Magistrates[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_EXCELLENTOFFICIAL_OUTCOME_1_NOTIFICATION">
+			<Text>Newly hired government officials are exceeding all expectations.</Text>
+		</Row>
+		<!-- Desitute Noble -->
+		<Row Tag="TXT_KEY_EVENT_JFD_DESTITUTE_NOBLE">
+				<Text>A Destitute Noble arrives at the Court</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_DESTITUTE_NOBLE_DESC">
+				<Text>A destitute nobleman has arrived at your court. He is without Lord and pledges his service your name. The nobleman is ragged and unkempt, but adorned with many scars, and has evidently fielded many battles. It is up to you what is to be done with him.
+				</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_DESTITUTE_NOBLE_OUTCOME_1">
+				<Text>Turn him away! We don't need him stinking up the Court!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_DESTITUTE_NOBLE_OUTCOME_2">
+				<Text>Have him cleaned up and suited with armor.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_DESTITUTE_NOBLE_OUTCOME_3">
+				<Text>Confiscate what little estate he possesses and then have him executed!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_DESTITUTE_NOBLE_OUTCOME_RESULT_2">
+				<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLD] Gold[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain a free Great General[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_DESTITUTE_NOBLE_OUTCOME_RESULT_3">
+				<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLDEN_AGE] Golden Age points[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {2_Num} [ICON_GOLD] Gold[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_DESTITUTE_NOBLE_OUTCOME_RESULT_1_NOTIFICATION">
+				<Text>We have turned away a destitute nobleman seeking refuge with our Court.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_DESTITUTE_NOBLE_OUTCOME_RESULT_2_NOTIFICATION">
+				<Text>We have recruited a destitute nobleman to the service of our Court.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_DESTITUTE_NOBLE_OUTCOME_RESULT_3_NOTIFICATION">
+				<Text>We have executed a wandering nobleman for treachery against his lord and have confiscated his estate.</Text>
+		</Row>
+		<!-- The Guest Star -->
+		<Row Tag="TXT_KEY_EVENT_THEGUESTSTAR">
+				<Text>The Guest Star</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_THEGUESTSTAR_DESC">
+				<Text>The year is 1054, a star has appeared in the heavens. It glows with a breathtaking brilliance, captivating the entirety of the nation. The event is surely one of great significance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_THEGUESTSTAR_OUTCOME_1">
+				<Text>Such beauty! This should inspire our artists.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_THEGUESTSTAR_OUTCOME_2">
+				<Text>The astronomers will go wild over this!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_THEGUESTSTAR_OUTCOME_RESULT_1">
+				<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain 2 free Great Artists[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_THEGUESTSTAR_OUTCOME_RESULT_2">
+				<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain a free Great Scientist[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_THEGUESTSTAR_NOTIFICATION">
+				<Text>The nation is captivated by the appearance of a magnificent star in the heavens.</Text>
+		</Row>
+		<!-- Solar Eclipse -->
+		<Row Tag="TXT_KEY_EVENT_SOLARECLIPSE">
+				<Text>Solar Eclipse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SOLARECLIPSE_DESC">
+				<Text>The nation stares in awe as the Sun slowly disappears behind the black disc suspended in the sky, and the world turns to darkness despite it being mid-day. Your subjects are absolutely terrified.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SOLARECLIPSE_OUTCOME_1">
+				<Text>Our prayers and sacrifices shall bring back the light.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SOLARECLIPSE_OUTCOME_2">
+				<Text>There must be a reasonable explanation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SOLARECLIPSE_OUTCOME_3">
+				<Text>Divine intervention set the heavens in motion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SOLARECLIPSE_OUTCOME_4">
+				<Text>The laws of gravity dictate the motions of the sun and moon.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SOLARECLIPSE_OUTCOME_5">
+				<Text>A new dawn for the Iroquois Confederacy!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SOLARECLIPSE_OUTCOME_RESULT_1">
+				<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_PEACE] Faith[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SOLARECLIPSE_OUTCOME_RESULT_2">
+				<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_RESEARCH] Science[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SOLARECLIPSE_OUTCOME_RESULT_3">
+				<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_PEACE] Faith[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_CULTURE] Culture[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SOLARECLIPSE_OUTCOME_RESULT_4">
+				<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_RESEARCH] Science[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_CULTURE] Culture[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SOLARECLIPSE_OUTCOME_RESULT_5">
+				<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_PEACE] Faith[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_CULTURE] Culture[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SOLARECLIPSE_NOTIFICATION">
+				<Text>A solar eclipse astounds the nation.</Text>
+		</Row>
+		<!-- Successful Embassy -->
+		<Row Tag="TXT_KEY_EVENT_SUCESSFULEMBASSY">
+			<Text>Successful Embassy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SUCESSFULEMBASSY_DESC">
+			<Text>Our ambassadors have been very good at spreading a favourable opinion of {1_Civ} among the {2_CS_Adj} governors and politicians. Our reputation with them has increased.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SUCESSFULEMBASSY_OUTCOME_1">
+			<Text>That is good to hear!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SUCESSFULEMBASSY_OUTCOME_1_DESC">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_INFLUENCE] Influence with {2_CS}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SUCESSFULEMBASSY_OUTCOME_1_NOTIFICATION">
+			<Text>Our influence in {1_CS} has increased thanks to the efforts of our ambassadors.</Text>
+		</Row>
+		<!-- Death of a Great Artist -->
+		<Row Tag="TXT_KEY_EVENT_JFD_DEATH_OF_A_GREAT_ARTIST">
+				<Text>Death of a Great Artist</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_DEATH_OF_A_GREAT_ARTIST_DESC">
+				<Text>A Great Artist, known throughout the world for their magnificent marble sculptures of our greatest heroes, has recently met a grisly end. In their will, they have left behind their work as a testimony to the enduring character of the empire. Some of these works would be worth a hefty value to the right buyer, but they could also stand for the purpose for which they were created.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_DEATH_OF_A_GREAT_ARTIST_OUTCOME_1">
+				<Text>Sell the art. Filling our coffers is the best way for this Artist to honour the empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_DEATH_OF_A_GREAT_ARTIST_OUTCOME_2">
+				<Text>We must take care and have this art put into storage.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_DEATH_OF_A_GREAT_ARTIST_OUTCOME_3">
+				<Text>Let us have this art put on display for the public to admire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_DEATH_OF_A_GREAT_ARTIST_OUTCOME_RESULT_1">
+				<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_GOLD] Gold[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_DEATH_OF_A_GREAT_ARTIST_OUTCOME_RESULT_2">
+				<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLD] Gold[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {2_Num} [ICON_CULTURE] Culture[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_DEATH_OF_A_GREAT_ARTIST_OUTCOME_RESULT_3">
+				<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLD] Gold[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain a free Great Work of Art</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_DEATH_OF_A_GREAT_ARTIST_OUTCOME_RESULT_1_NOTIFICATION">
+				<Text>A great collection of art left to the state has been sold to a private collector.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_DEATH_OF_A_GREAT_ARTIST_OUTCOME_RESULT_2_NOTIFICATION">
+				<Text>A great collection of art left to the state has been put into storage.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_DEATH_OF_A_GREAT_ARTIST_OUTCOME_RESULT_3_NOTIFICATION">
+				<Text>A great collection of art left to the state has been put on public display.</Text>
+		</Row>
+		<!-- Incompetent Diplomat -->
+		<Row Tag="TXT_KEY_EVENT_INCOMPETENTDIPLOMAT">
+			<Text>Incompetent Diplomat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_INCOMPETENTDIPLOMAT_DESC">
+			<Text>One of our diplomats, showing a lack of tact, has made some outrageous statements in front of {1_CS_Adj} dignitaries, shocking and angering them. The man has embarrassed our country and damaged relations with {2_CS}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_INCOMPETENTDIPLOMAT_OUTCOME_1">
+			<Text>Time heals all wounds...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_INCOMPETENTDIPLOMAT_OUTCOME_2">
+			<Text>Perhaps we can smooth this over?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_INCOMPETENTDIPLOMAT_OUTCOME_3">
+			<Text>We've been planning to conquer them anyway.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_INCOMPETENTDIPLOMAT_OUTCOME_1_DESC">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_INFLUENCE] Influence with {2_CS}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_INCOMPETENTDIPLOMAT_OUTCOME_2_DESC">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_CULTURE] Culture[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {2_Reward} [ICON_INFLUENCE] Influence with {3_CS}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_INCOMPETENTDIPLOMAT_OUTCOME_3_DESC">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_INFLUENCE] Influence with {2_CS}[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Receive a free Military Unit[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_INCOMPETENTDIPLOMAT_OUTCOME_1_NOTIFICATION">
+			<Text>A {1_CivAdj} diplomat made some insulting comments in front of {2_CSAdj} dignitaries.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_INCOMPETENTDIPLOMAT_OUTCOME_2_NOTIFICATION">
+			<Text>The {1_CivAdj} government placated {2_CSAdj} dignitaries after a diplomat made some insulting comments.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_INCOMPETENTDIPLOMAT_OUTCOME_3_NOTIFICATION">
+			<Text>{1_CivAdj} diplomats displayed open hostility to {2_CSAdj} dignitaries.</Text>
+		</Row>
+		<!-- Bountiful Harvest -->
+		<Row Tag="TXT_KEY_EVENT_BOUNTIFULHARVEST">
+			<Text>Bountiful Harvest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_BOUNTIFULHARVEST_DESC">
+			<Text>Owing to this year's excellent weather, the local farmers of {1_City} report an amazing surplus of food. Rarely has the earth ever yielded so much!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_BOUNTIFULHARVEST_OUTCOME_1">
+			<Text>Food for all!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_BOUNTIFULHARVEST_OUTCOME_1_DESC">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_FOOD] Food in {2_City}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_BOUNTIFULHARVEST_OUTCOME_1_NOTIFICATION">
+			<Text>Farmers report excellent harvests in {1_City}.</Text>
+		</Row>
+		<!-- Mercenaries -->
+		<Row Tag="TXT_KEY_EVENT_JFD_MERCENARY_SERVICES">
+			<Text>Mercenaries</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_MERCENARY_SERVICES_DESC">
+			<Text>
+				A band of mercenaries, fresh from some foreign war now settled, has arrived at your Palace, and offer their services to you. These are no mere vagabonds; these are professional soldiers. If not us, then they might turn to our enemies.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_MERCENARY_SERVICES_OUTCOME_1">
+			<Text>Turn them away! We shall have no foreigners in our armies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_MERCENARY_SERVICES_OUTCOME_2">
+			<Text>Alas, we cannot afford to pay these mercenaries! We must turn them away.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_MERCENARY_SERVICES_OUTCOME_3">
+			<Text>Pay them; bring them into our service.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_MERCENARY_SERVICES_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]50% chance that the Mercenaries will become Barbarians and attack you[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_CULTURE] Culture[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_MERCENARY_SERVICES_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Nothing[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_MERCENARY_SERVICES_OUTCOME_RESULT_3">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLD] Gold[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain two free Infantry Units[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_MERCENARY_SERVICES_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>A band of mercenaries have been turned away, and have launched an attack upon us in response!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_MERCENARY_SERVICES_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>A band of mercenaries have been turned away.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_MERCENARY_SERVICES_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>A band of mercenaries have been hired into our service.</Text>
+		</Row>
+		<!-- A Beast Stalks the Capital -->
+		<Row Tag="TXT_KEY_EVENT_JFD_MONSTROUS_BEAST">
+			<Text>A Beast Stalks the Capital</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_MONSTROUS_BEAST_DESC">
+			<Text>Rumours have begun to filter into the Palace that a monstrous beast stalks the city streets at the dead of night. Eye-witnesses claim that the beast is a demon, others claim it is the elusive wild haggis. Regardless, it is beginning to disquiet the city, and so the matter must be dealt with.[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_MONSTROUS_BEAST_OUTCOME_1">
+			<Text>I do not address mere rumours. I have an empire to run.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_MONSTROUS_BEAST_OUTCOME_2">
+			<Text>Send out the guard and bring back the pelt of this beast.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_MONSTROUS_BEAST_OUTCOME_3">
+			<Text>I shall hunt this beast myself; it shall pay tribute to my enduring grace as ruler.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_MONSTROUS_BEAST_OUTCOME_4">
+			<Text>Capture it, put it in a zoo, and charge extra to have it seen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_MONSTROUS_BEAST_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_PRODUCTION] Production in the [ICON_CAPITAL] Capital</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_MONSTROUS_BEAST_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLD] Gold[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Your [ICON_CAPITAL] Capital's garrison gains 10 XP[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_MONSTROUS_BEAST_OUTCOME_RESULT_3">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_GOLDEN_AGE] Golden Age points</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_JFD_MONSTROUS_BEAST_OUTCOME_RESULT_4">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLD] Gold[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]60% chance to gain {1_Num} [ICON_CULTURE] Culture[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_MONSTROUS_BEAST_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have dismissed rumours that a great beast stalks the Capital's streets. Those deaths are simply from not enough obedience to the empire!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_MONSTROUS_BEAST_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have sent out a garrison to investigate rumours of a great beast which stalks the Capital's streets.[NEWLINE][NEWLINE]And our garrison has come back triumphant! Though it has required some medical attention to account for a few missing limbs, at least they learnt some valuable experience.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_MONSTROUS_BEAST_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>We have successfully slain a great beast that had been causing great distress to the people of our Capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_MONSTROUS_BEAST_OUTCOME_RESULT_4_NOTIFICATION">
+			<Text>We have captured a beast which had stalked our Capital's streets and have placed it on public display. And with what success! The people clamour to gaze upon it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_MONSTROUS_BEAST_OUTCOME_RESULT_4_ALT_NOTIFICATION">
+			<Text>We have captured a beast which stalked our Capital's streets and have placed it on public display. But to our dismay, the beast was too simply ugly to put on display, so we had to throw it away.</Text>
+		</Row>
+		<!-- Struck Oil -->
+		<Row Tag="TXT_KEY_EVENT_STRUCKOIL">
+			<Text>Struck Oil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_STRUCKOIL_DESC">
+			<Text>Glorious news! Our workers have found a rich source of oil near {1_City}! The oil is sitting there, just waiting for us to drill it out.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_STRUCKOIL_OUTCOME_1">
+			<Text>Wonderful!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_STRUCKOIL_OUTCOME_1_DESC">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]A source of [ICON_RES_OIL] Oil is revealed[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_STRUCKOIL_OUTCOME_1_NOTIFICATION">
+			<Text>Workers found a source of oil near {1_City}.</Text>
+		</Row>
+		<!-- Sandstorm -->
+		<Row Tag="TXT_KEY_EVENT_SANDSTORM">
+			<Text>Sandstorm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SANDSTORM_DESC">
+			<Text>A sandstorm near {1_City} has damaged some structures in the area; nothing that cannot be fixed. More interestingly these storms have also unearthed some ancient ruins from beneath the desert.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SANDSTORM_OUTCOME_1">
+			<Text>Interesting...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SANDSTORM_OUTCOME_2">
+			<Text>We must send out an expedition!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SANDSTORM_OUTCOME_1_DESC">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]An Antiquity Site is revealed[NEWLINE][ICON_BULLET][COLOR_NEGATIVE_TEXT]Any Improvements on the same tile are pillaged[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SANDSTORM_OUTCOME_2_DESC">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]An Antiquity Site is revealed[NEWLINE][ICON_BULLET]Gain a free Archaeologist[NEWLINE][ICON_BULLET][COLOR_NEGATIVE_TEXT]Any Improvements on the same tile are pillaged[NEWLINE][ICON_BULLET]Lose {1_Num} [ICON_GOLD] Gold[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SANDSTORM_OUTCOME_1_NOTIFICATION">
+			<Text>Sandstorms have unearthed ruins near {1_City}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SANDSTORM_OUTCOME_2_NOTIFICATION">
+			<Text>Sandstorms have unearthed ruins near {1_City}. An expedition has been sent out to investigate.</Text>
+		</Row>
+		<!-- Social Reforms -->
+		<Row Tag="TXT_KEY_EVENT_SOCIALREFORMS">
+			<Text>Social Reforms</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SOCIALREFORMS_DESC">
+			<Text>Your advisors have proposed a number of policies that would likely profit our nation greatly if taken into effect. They are extremely radical however and it is possible that many will not take well to the changes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SOCIALREFORMS_OUTCOME_1">
+			<Text>Ignore the proposals.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SOCIALREFORMS_OUTCOME_2">
+			<Text>Implement the proposals.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SOCIALREFORMS_OUTCOME_2_DESC">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Amount} [ICON_CULTURE] Culture[NEWLINE][COLOR_NEGATIVE_TEXT][ICON_BULLET]20% chance the empire enters into [ICON_RESISTANCE] Anarchy for 2 turns[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SOCIALREFORMS_OUTCOME_1_NOTIFICATION">
+			<Text>We have ignored a number of proposed policies on the grounds that they are too radical to be implemented.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SOCIALREFORMS_OUTCOME_2_NOTIFICATION_ALT1">
+			<Text>We have implemented some policies proposed by our advisors and they have gone excellently!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SOCIALREFORMS_OUTCOME_2_NOTIFICATION_ALT2">
+			<Text>We have implemented some extremely radical policies proposed by our advisors. Unfortunately, this has caused some uproar in the nation.</Text>
+		</Row>
+		<!-- Technological Breakthrough -->
+		<Row Tag="TXT_KEY_EVENT_TECHNOLOGICALBREAKTHROUGH">
+			<Text>Technological Breakthrough</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TECHNOLOGICALBREAKTHROUGH_DESC">
+			<Text>Our ministers report that there has been a local development that is relevant to our understanding of {1_TechName}. They advise we investigate to learn if we can incorporate this new information into our current research.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TECHNOLOGICALBREAKTHROUGH_OUTCOME_1">
+			<Text>Just send some people for a cursory investigation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TECHNOLOGICALBREAKTHROUGH_OUTCOME_2">
+			<Text>Investigate thoroughly and with scepticism.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TECHNOLOGICALBREAKTHROUGH_OUTCOME_1_DESC">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Amount} [ICON_RESEARCH] Science[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TECHNOLOGICALBREAKTHROUGH_OUTCOME_2_DESC">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]50% chance you gain {1_Amount} [ICON_RESEARCH] Science[NEWLINE][COLOR_NEGATIVE_TEXT][ICON_BULLET]50% chance nothing happens[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TECHNOLOGICALBREAKTHROUGH_OUTCOME_1_NOTIFICATION">
+			<Text>Local developments have aided us in our research of {1_TechName} slightly.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TECHNOLOGICALBREAKTHROUGH_OUTCOME_2_NOTIFICATION_ALT1">
+			<Text>Investigation of local developments have revealed that they are of great importance to our understanding of {1_TechName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TECHNOLOGICALBREAKTHROUGH_OUTCOME_2_NOTIFICATION_ALT2">
+			<Text>Investigation of local developments have revealed that they are of no importance to our understanding of {1_TechName}.</Text>
+		</Row>
+		<!-- Gift to the State -->
+		<Row Tag="TXT_KEY_EVENT_STATEGIFT">
+			<Text>Gift to the State</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_STATEGIFT_DESC">
+			<Text>Good governments would sometimes prompt the nobility and the businessmen of the realm to donate cash to the treasury, out of pure patriotism or in exchange for the sales or transfer of honorary titles and positions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_STATEGIFT_OUTCOME_1">
+			<Text>Into our coffers!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_STATEGIFT_OUTCOME_1_DESC">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Amount} [ICON_GOLD] Gold[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_STATEGIFT_OUTCOME_1_NOTIFICATION">
+			<Text>Our government has received a generous donation.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
