@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/4/2014 8:08:26 PM -->
+<GameData>
+	<Policies>
+		<Row>
+			<Type>POLICY_SAFAVID_DUMMY</Type>
+		</Row>
+	</Policies>
+	<Policy_YieldModifiers>
+		<Row>
+			<PolicyType>POLICY_SAFAVID_DUMMY</PolicyType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>15</Yield>
+		</Row>
+	</Policy_YieldModifiers>	
+</GameData>

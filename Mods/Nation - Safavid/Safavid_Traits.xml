@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by regalman-->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_STORM_ARDABIL</Type>
+			<Description>TXT_KEY_TRAIT_STORM_ARDABIL</Description>
+			<ShortDescription>TXT_KEY_TRAIT_STORM_ARDABIL_SHORT</ShortDescription>
+		</Row>
+	</Traits>
+</GameData>

@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="60e9b2bc-42ba-4c9a-a304-0035512091e7" version="1">
+  <Properties>
+    <Name>Light In The East - The Safavid Empire</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds [COLOR_POSITIVE_TEXT]the Safavids under Shah Abbas I[ENDCOLOR]</Teaser>
+    <Description>[NEWLINE]
+[NEWLINE]~~~
+[NEWLINE]Note: 
+[NEWLINE]- This civilization requires the Brave New World expansion.
+[NEWLINE]- Updates will most likely break saves. Do not update unless you are ready to start a new game.
+[NEWLINE]
+[NEWLINE]~~~
+[NEWLINE]
+[NEWLINE]
+[NEWLINE]Leader:  Abbas I
+[NEWLINE]Capital: Isfahan
+[NEWLINE]UA: During war with another Civilization, Production is increased by 15% in all cities. Upon declaring friendship, the Safavids and their friends gain a 5% boost in their Culture per turn.
+[NEWLINE]UU: Qizilbash, replaces Lancer. Gives +1 Faith, +1 Culture and +1 Gold for every turn spent in enemy territory.
+[NEWLINE]UB: Karkhane, replaces Workshop. Provides 1 copy a luxury resource: Carpets
+[NEWLINE]
+[NEWLINE]Support:
+[NEWLINE]- YNAEMP 
+[NEWLINE]- Ethnic Units 
+[NEWLINE]- Historical Religions Complete/Islamic Denominations 
+[NEWLINE]- Piety and Prestige by JFD
+[NEWLINE]- Events and Decisions 
+[NEWLINE]- R.E.D. Modpack
+[NEWLINE]- Map Labels
+[NEWLINE]- Cultural Diversity
+[NEWLINE]- Unique Cultural Influence
+[NEWLINE]
+[NEWLINE]Credits:
+[NEWLINE]Viregel - pedias,DOM text and ideas
+[NEWLINE]Janboruta - Abbas, Qizilbash icons and flag
+[NEWLINE]Leugi - leaderscene, ideas
+[NEWLINE]bane_ - half of UA and Qizilbash ability code, ideas
+[NEWLINE]JFD - other half of UA code
+[NEWLINE]Wolfdog - Qizilbash model
+[NEWLINE]Sukritact - help with Karkhane icon
+[NEWLINE]Barathor - Carpets icon
+[NEWLINE]Tomatekh - Diplomacy Lines and Civ icon, Historical Religions support ,Map Labels support, Events and Decision support, Qizilbash pedia
+[NEWLINE]COF - city and spy list, Abbas pedia
+[NEWLINE]CharlatanAlley - DOM voiceover
+[NEWLINE]regalman - (Main author), xml, map, Karkhane and Carpets pedias, Abbas  pedias
+[NEWLINE]Music - Prince of Persia OST
+[NEWLINE]
+[NEWLINE]</Description>
+    <Authors>Regalman, Viregel, Tomatekh, Leugi, bane_</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YNAEMP by Gedemon" />
+    <Mod id="488c2bae-ea94-45f8-8d79-7e943d41e3ca" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="524fba76-d0be-447f-9c89-fc56462f9f63" minversion="0" maxversion="999" title="Islamic Denominations " />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="Piety and Prestige" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events &amp; Decisions" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="Cultural Diversity" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="A4D31D84E7844A463239A1D08ECBA9A8" import="1">Art/Art/Atlases/SafavidAlpha128.dds</File>
+    <File md5="66F3B764E54503515D95D5EA9BD00013" import="1">Art/Art/Atlases/SafavidAlpha16.dds</File>
+    <File md5="3AD15151DB39A6CB666B05BDF4B3F988" import="1">Art/Art/Atlases/SafavidAlpha24.dds</File>
+    <File md5="ED490606DCC108A164852A28C8141BAB" import="1">Art/Art/Atlases/SafavidAlpha32.dds</File>
+    <File md5="5F5FE27FC5D73D24CEE1E6C3AB36FBBC" import="1">Art/Art/Atlases/SafavidAlpha48.dds</File>
+    <File md5="4F39906486F58C59D73F6CF421586A45" import="1">Art/Art/Atlases/SafavidAlpha64.dds</File>
+    <File md5="128ED1CA105FE94C9134E378AF4767E0" import="1">Art/Art/Atlases/SafavidAtlas128.dds</File>
+    <File md5="738F17789CF4CB8A01816D3CC7ABDA6E" import="1">Art/Art/Atlases/SafavidAtlas16.dds</File>
+    <File md5="E8E4D4CB99209DEEDB01F5291184D5E6" import="1">Art/Art/Atlases/SafavidAtlas24.dds</File>
+    <File md5="A53E08D34E50271C046B7D10C0B6409D" import="1">Art/Art/Atlases/SafavidAtlas256.dds</File>
+    <File md5="61AC5D1DECB0FC0FD30BFF5268CEBC32" import="1">Art/Art/Atlases/SafavidAtlas32.dds</File>
+    <File md5="644348CAF2ADBEAE232D6A01D30E40B6" import="1">Art/Art/Atlases/SafavidAtlas45.dds</File>
+    <File md5="07D273EE461D2AC59344E141D76F04F3" import="1">Art/Art/Atlases/SafavidAtlas48.dds</File>
+    <File md5="1DD6F4563D30D48472C51958C615BEDB" import="1">Art/Art/Atlases/SafavidAtlas64.dds</File>
+    <File md5="B27DACA68B12650C254ECA21D20F1DFC" import="1">Art/Art/Atlases/SafavidAtlas80.dds</File>
+    <File md5="77161DED8DC41707E0727C54A5B0F6F2" import="1">Art/Art/Font Icon/carpet_fonticons.xml</File>
+    <File md5="176364DEB26B212453187004EB630467" import="1">Art/Art/Font Icon/carpet_fonticons.ggxml</File>
+    <File md5="6E04C87FF8F27FA98940A1A10DA3895E" import="1">Art/Art/Font Icon/carpet_fonticons.dds</File>
+    <File md5="6E2D64050F8EED82DC5369915345C77F" import="1">Art/Art/Scenes/Abbas_Diplo.dds</File>
+    <File md5="BE58043676F41FED44BCC10B68068A27" import="1">Art/Art/Scenes/Abbas_DOM.dds</File>
+    <File md5="3A8D14FC3EC353D7A62B62DE36ED0C97" import="1">Art/Art/Scenes/Abbas_Leaderhead.xml</File>
+    <File md5="DB5E4E97AC3B4585650B53D07A126EAA" import="1">Art/Art/Scenes/Safavid_Map512.dds</File>
+    <File md5="07C62F83450C22E56B83CBB76DDF4367" import="1">Art/Art/Unit/flagicon32_Qizilbash.dds</File>
+    <File md5="78A6F2883C4C21D3323A8A81CE9DD530" import="1">Art/Art/Unit/Qizilbash.fxsxml</File>
+    <File md5="BF7A0B5266C995DE0186619E36177D6D" import="1">Art/Art/Unit/Qizilbash.gr2</File>
+    <File md5="D192F7FD909322517282A0921EC8E266" import="1">Art/Art/Unit/Qizilbash_Horse_diff.dds</File>
+    <File md5="E625CA5926A4051425188E4BA8DC293D" import="1">Art/Art/Unit/Qizilbash_Horse_sref.dds</File>
+    <File md5="A6006F4D12DA75430F2FFF4D3D413BAC" import="1">Art/Art/Unit/Qizilbash_Rider_diff.dds</File>
+    <File md5="74417EFAEF1EF645B98C57E6C69C7DD2" import="1">Art/Art/Unit/Qizilbash_Rider_sref.dds</File>
+    <File md5="91DC271E4B3C185F3262E5996B6CE6AA" import="1">Art/Art/Unit/sv_Qizilbash.dds</File>
+    <File md5="D137ACF4DC159326C5F3905154133F88" import="1">Art/Audio/SafavidPeace.mp3</File>
+    <File md5="C48F9C053088E1392A14FE2F4571B954" import="1">Art/Audio/SafavidWar.mp3</File>
+    <File md5="82A30D6BCBFFE6F546FC5E29AA5D03D5" import="1">Art/Audio/SafavidDOM.mp3</File>
+    <File md5="39D17F0A6280C16E514CEC92A937874B" import="0">Code/Buildings/Safavid_BuildingClasses.xml</File>
+    <File md5="DA3FCDE56675C0CE3F5D8EF692E2CD54" import="0">Code/Buildings/Safavid_Buildings.xml</File>
+    <File md5="20613D3DD44EC6FCCD6F3E395BD1E064" import="0">Code/Civilizations/Safavid_Civilizations.xml</File>
+    <File md5="3EE6B0CFEE938A49E7AABAB2194C1778" import="0">Code/Civilizations/Safavid_Strategic.xml</File>
+    <File md5="9B32719059E89184533F2292E28DD941" import="0">Code/GameInfo/Safavid_IconTextureAtlases.xml</File>
+    <File md5="0772D00B287AB249DEA6F4B4CB044578" import="0">Code/GameInfo/Safavid_Policies.xml</File>
+    <File md5="DAA5C98C2C8ADABC1E13E9BA655DDD4D" import="0">Code/GameInfo/Safavid_Sounds.xml</File>
+    <File md5="E3FB9A47486E95D1084205D42895CA3C" import="0">Code/GameInfo/Safavid_Traits.xml</File>
+    <File md5="3FD51765F56BF253CBD5D842A460F62C" import="0">Code/Leaders/Safavid_Leader.xml</File>
+    <File md5="19C0248CD3B8126ABDF89A75EB7A3516" import="0">Code/Lua/IncreasedWarProduction.lua</File>
+    <File md5="3B7B1EE92949FC3B7B9308074F036BEB" import="1">Code/Lua/NewSaveUtils.lua</File>
+    <File md5="D63DC8BB6AA0F310DD55B264DB49C7E2" import="1">Code/Lua/PlotIterators.lua</File>
+    <File md5="7E29AA0A6BE16A3EAD9448F52E9AF74F" import="0">Code/Lua/QizilbashandUA.lua</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">Code/Lua/SaveUtils.lua</File>
+    <File md5="02BD593CD3A259E3E2164F6832DDA9E5" import="0">Code/Mod compatibility/CulturalDiversity.sql</File>
+    <File md5="FF1D5AE629E6196330E371EB5554A08A" import="0">Code/Mod compatibility/Ethnic_units_Safavid.sql</File>
+    <File md5="3B645186E4D955C7222725F9F3517E50" import="0">Code/Mod compatibility/MapLabels.sql</File>
+    <File md5="0E9337E95CDF3BAEF02EBD782D6B6D58" import="0">Code/Mod compatibility/PietyPrestige.sql</File>
+    <File md5="0D0493DC94C73DC7AA041EEFC75216D1" import="0">Code/Mod compatibility/islamdenominations.sql</File>
+    <File md5="8031CDCA15BB23BFE3FD4EF89638A9F4" import="1">Code/Mod compatibility/SafavidDecisionsSupport.lua</File>
+    <File md5="81830EB60EDCCDAB434F4663D316FDCD" import="0">Code/Mod compatibility/SafavidEaDSupport.sql</File>
+    <File md5="33C9EC5B3184D85DC137B9759F2E772C" import="0">Code/Mod compatibility/SafavidEaDText.xml</File>
+    <File md5="DEEABBCFEBEB3EDD87450CBD389C2CDD" import="1">Code/Mod compatibility/SafavidEventsSupport.lua</File>
+    <File md5="59971E6AB648682A9A01345762A5606D" import="0">Code/Mod compatibility/Safavid_Influential_text.xml</File>
+    <File md5="86937AF0772C2B694F37C836A275E007" import="0">Code/Mod compatibility/TSLstartSafavid.sql</File>
+    <File md5="9C556F7C619989F4ECE921027D92F4AB" import="0">Code/SQL/ArtDefineQizilbash.sql</File>
+    <File md5="83384D6E1120C2A930E2AEF6CE529DF5" import="0">Code/SQL/Civilization_StartNearResource.sql</File>
+    <File md5="814B0555734A8B79D9FF3E8B263C8307" import="0">Code/SQL/Safavid_Diplomacy.sql</File>
+    <File md5="3DE3A767AC5F7702C0BFCC0A712E5AE9" import="0">Code/Terrain/Carpets.xml</File>
+    <File md5="804BA242B714D3C35A883BC05CC0C399" import="0">Code/Text/Safavid_Text.xml</File>
+    <File md5="AC4421AEA978DFEAB419CE2B6F9FD1E4" import="0">Code/Units/Safavid_Units.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Code/SQL/Civilization_StartNearResource.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Terrain/Carpets.xml</UpdateDatabase>
+      <UpdateDatabase>Code/Civilizations/Safavid_Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>Code/Leaders/Safavid_Leader.xml</UpdateDatabase>
+      <UpdateDatabase>Art/Art/Font Icon/carpet_fonticons.xml</UpdateDatabase>
+      <UpdateDatabase>Art/Art/Scenes/Abbas_Leaderhead.xml</UpdateDatabase>
+      <UpdateDatabase>Code/Buildings/Safavid_BuildingClasses.xml</UpdateDatabase>
+      <UpdateDatabase>Code/Buildings/Safavid_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>Code/Civilizations/Safavid_Strategic.xml</UpdateDatabase>
+      <UpdateDatabase>Code/GameInfo/Safavid_Policies.xml</UpdateDatabase>
+      <UpdateDatabase>Code/GameInfo/Safavid_Sounds.xml</UpdateDatabase>
+      <UpdateDatabase>Code/GameInfo/Safavid_Traits.xml</UpdateDatabase>
+      <UpdateDatabase>Code/Mod compatibility/Ethnic_units_Safavid.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Mod compatibility/islamdenominations.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Mod compatibility/TSLstartSafavid.sql</UpdateDatabase>
+      <UpdateDatabase>Code/SQL/ArtDefineQizilbash.sql</UpdateDatabase>
+      <UpdateDatabase>Code/SQL/Safavid_Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Text/Safavid_Text.xml</UpdateDatabase>
+      <UpdateDatabase>Code/Units/Safavid_Units.xml</UpdateDatabase>
+      <UpdateDatabase>Code/Mod compatibility/PietyPrestige.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Mod compatibility/SafavidEaDSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Mod compatibility/SafavidEaDText.xml</UpdateDatabase>
+      <UpdateDatabase>Code/Mod compatibility/CulturalDiversity.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Mod compatibility/Safavid_Influential_text.xml</UpdateDatabase>
+      <UpdateDatabase>Code/Mod compatibility/MapLabels.sql</UpdateDatabase>
+      <UpdateDatabase>Code/GameInfo/Safavid_IconTextureAtlases.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Code/Lua/IncreasedWarProduction.lua">
+      <Name>IncreasedWarProduction</Name>
+      <Description>IncreasedWarProduction</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Code/Lua/QizilbashandUA.lua">
+      <Name>QizilbashandUA</Name>
+      <Description>QizilbashandUA</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

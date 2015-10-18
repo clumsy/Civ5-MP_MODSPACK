@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!-- Safavid Emissaries -->
+		<Row Tag="TXT_KEY_DECISIONS_SAFAVID_EMISSARIES">
+			<Text>Send Emissaries</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SAFAVID_EMISSARIES_DESC">
+			<Text>Empires faraway share common foes with us. We should reach out to them for unity against our enemies. Let us dispatch emissaries to these faraway lands.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Safavids
+				[NEWLINE][ICON_BULLET]Player must be friendly with at least 3 City-States
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All Friendly City-States become Allied
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SAFAVID_EMISSARIES_ENACTED_DESC">
+			<Text>Empires faraway share common foes with us. We should reach out to them for unity against our enemies. Let us dispatch emissaries to these faraway lands.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]All Friendly City-States become Allied
+			</Text>
+		</Row>
+		<!--Modernize the Army-->
+		<Row Tag="TXT_KEY_DECISIONS_SAFAVID_MODERNIZE_ARMY">
+			<Text>Modernize the Army</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SAFAVID_MODERNIZE_ARMY_DESC">
+			<Text>Our empire is being exploited by her more advanced neighbors as a result of her inferior army. We should invest our time into evaluating our current military position and search where we can improve. This would greatly help us in standing up to the aggressors and securing our position. Let us utilize our resources and use them for our military.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Safavids
+				[NEWLINE][ICON_BULLET]Must have researched Gunpowder
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Units cost 50% less [ICON_GOLD] Gold to Upgrade
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_SAFAVID_MODERNIZE_ARMY_ENACTED_DESC">
+			<Text>Our empire is being exploited by her more advanced neighbors as a result of her inferior army. We should invest our time into evaluating our current military position and look where we can improve. This would greatly help us in standing up to the aggressors and securing our position. Let us utilize our resources and use them for our military.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Units cost 50% less [ICON_GOLD] Gold to Upgrade
+			</Text>
+		</Row>
+		<!-- Shirley Brothers -->
+		<Row Tag="TXT_KEY_EVENT_SHIRLEY_BROTHERS">
+			<Text>Arrival of the Shirley Brothers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SHIRLEY_BROTHERS_DESC">
+			<Text>Great Ruler! Two foreigners known as the "Shirley Brothers" have arrived at our court offering us their services. They claim that they are able to improve our military might by implementing advanced technology from their lands. Should we accept their offer?[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SHIRLEY_BROTHERS_OUTCOME_1">
+			<Text>Accept the gracious offer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SHIRLEY_BROTHERS_OUTCOME_2">
+			<Text>Lies! Our military is the greatest there is!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SHIRLEY_BROTHERS_OUTCOME_3">
+			<Text>Turn them away. They will only waste our resources.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SHIRLEY_BROTHERS_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+15% [ICON_PRODUCTION] Production when building Military Units[NEWLINE][ICON_BULLET][COLOR_NEGATIVE_TEXT]Unit [ICON_GOLD] Gold Maintenance costs increased by 10%[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SHIRLEY_BROTHERS_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]A Great General appears near your [ICON_CAPITAL] Capital[NEWLINE][ICON_BULLET][COLOR_NEGATIVE_TEXT]Units lose any XP accumulated past their current level[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SHIRLEY_BROTHERS_OUTCOME_RESULT_3">
+			<Text>[ICON_BULLET]No effect</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHIRLEY_BROTHERS_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have requested the services of the Shirley brothers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHIRLEY_BROTHERS_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>A Great General has been born because of our national pride!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SHIRLEY_BROTHERS_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>We have rejected the offer of the Shirley brothers.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_POLICY_SHIRLEY_BROTHERS">
+			<Text>Shirley Brothers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_SHIRLEY_BROTHERS_TEXT">
+			<Text>Shirley Brothers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_SHIRLEY_BROTHERS_MOD_HELP">
+			<Text>+15% [ICON_PRODUCTION] Production when building Military Units. Unit [ICON_GOLD] Gold Maintenance costs increased by 10%</Text>
+		</Row>
+		<!-- Crown Prince -->
+		<Row Tag="TXT_KEY_EVENT_SAFAVID_CROWN_PRINCE">
+			<Text>Crown Prince Conspiracy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SAFAVID_CROWN_PRINCE_DESC">
+			<Text>Great Shah! A source has broken silence on a very intriguing news. It appears that your favoured son has been plotting a horrible plan in the last months. His goal was to murder you and take your place as the ruler of our great empire. What will you do?[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SAFAVID_CROWN_PRINCE_OUTCOME_1">
+			<Text>My son? All I see is a treacherous dead man.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SAFAVID_CROWN_PRINCE_OUTCOME_2">
+			<Text>He is still my son, but he deserves imprisonment.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SAFAVID_CROWN_PRINCE_OUTCOME_3">
+			<Text>So what? He is my son and I love him no matter what.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SAFAVID_CROWN_PRINCE_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]5 turns of [ICON_RESISTANCE] Resistance in the [ICON_CAPITAL] Capital[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SAFAVID_CROWN_PRINCE_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose all current [ICON_GOLDEN_AGE] Golden Age progress[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SAFAVID_CROWN_PRINCE_OUTCOME_RESULT_3">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]-5 [ICON_HAPPINESS_4] Happiness[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAFAVID_CROWN_PRINCE_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have decreed that the Crown Prince be executed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAFAVID_CROWN_PRINCE_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have decreed that the Crown Prince be imprisoned.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAFAVID_CROWN_PRINCE_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>We have turned a blind eye to the plotting of the Crown Prince.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_POLICY_SAFAVID_CROWN_PRINCE">
+			<Text>Crown Prince</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_SAFAVID_CROWN_PRINCE_TEXT">
+			<Text>Crown Prince</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_SAFAVID_CROWN_PRINCE_HELP">
+			<Text>-5 [ICON_HAPPINESS_4] Happiness</Text>
+		</Row>
+		<!-- Qizilbash Secession -->
+		<Row Tag="TXT_KEY_EVENT_SAFAVID_QIZILBASH_SECESSION">
+			<Text>Qizilbash Secession</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SAFAVID_QIZILBASH_SECESSION_DESC">
+			<Text>Leader, I am saddened to inform you that our results in military actions have been dropping. The cause for this is considered to be the useless Qizilbash. These once great warriors are nothing more than a burden for us. How should we handle this situation?[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SAFAVID_QIZILBASH_SECESSION_OUTCOME_1">
+			<Text>Remove them from their positions of power, they are a curse.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SAFAVID_QIZILBASH_SECESSION_OUTCOME_2">
+			<Text>We should equip them with better arms.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SAFAVID_QIZILBASH_SECESSION_OUTCOME_3">
+			<Text>Keep them as they are, for they made this great empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SAFAVID_QIZILBASH_SECESSION_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+15% [ICON_PRODUCTION] Production when building Mounted Units[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Gold} [ICON_GOLD] Gold[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_NEGATIVE_TEXT]All Qizilbash are disbanded[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_NEGATIVE_TEXT]Newly trained Qizilbash have -25% [ICON_STRENGTH] Combat Strength[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SAFAVID_QIZILBASH_SECESSION_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]All Qizilbash are upgraded into Cavalry[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Gold} [ICON_GOLD] Gold[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_SAFAVID_QIZILBASH_SECESSION_OUTCOME_RESULT_3">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Enter a [ICON_GOLDEN_AGE] Golden Age[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAFAVID_QIZILBASH_SECESSION_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>We have severed the Qizilbash from our power structure.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAFAVID_QIZILBASH_SECESSION_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have armed the Qizilbash with better weapons.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAFAVID_QIZILBASH_SECESSION_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>We have decided to keep them in our empire's administration</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_POLICY_SAFAVID_QIZILBASH">
+			<Text>Qizilbash Secession</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_SAFAVID_QIZILBASH_TEXT">
+			<Text>Qizilbash Secession</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_SAFAVID_QIZILBASH_HELP">
+			<Text>+15% [ICON_PRODUCTION] Production when building Mounted Units. Unit [ICON_GOLD] Gold Maintenance costs increased by 10%</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_PROMOTION_SAFVID_MODERN_ARMY">
+			<Text>Gunpowder Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PROMOTION_SAFVID_MODERN_ARMY_HELP">
+			<Text>Costs 50% less [ICON_GOLD] Gold to Upgrade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_QIZILBASH_SECESSION">
+			<Text>Qizilbash Secession</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PROMOTION_QIZILBASH_SECESSION_HELP">
+			<Text>-25% [ICON_STRENGTH] Combat Strength</Text>
+		</Row>
+	</Language_en_US>
+	<Policies>
+		<Row>
+			<Type>POLICY_SHIRLEY_BROTHERS</Type>
+			<Description>TXT_KEY_POLICY_SHIRLEY_BROTHERS</Description>
+			<Civilopedia>TXT_KEY_POLICY_SHIRLEY_BROTHERS_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_SHIRLEY_BROTHERS_MOD_HELP</Help>
+			<GridX>1000</GridX>
+			<GridY>1000</GridY>
+			<PortraitIndex>47</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+			<MilitaryProductionModifier>15</MilitaryProductionModifier>
+			<UnitGoldMaintenanceMod>10</UnitGoldMaintenanceMod>
+		</Row>
+		<Row>
+			<Type>POLICY_SAFAVID_CROWN_PRINCE</Type>
+			<Description>TXT_KEY_POLICY_SAFAVID_CROWN_PRINCE</Description>
+			<Civilopedia>TXT_KEY_POLICY_SAFAVID_CROWN_PRINCE_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_SAFAVID_CROWN_PRINCE_HELP</Help>
+			<GridX>1000</GridX>
+			<GridY>1000</GridY>
+			<PortraitIndex>47</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+			<ExtraHappiness>-5</ExtraHappiness>
+		</Row>
+		<Row>
+			<Type>POLICY_SAFAVID_QIZILBASH</Type>
+			<Description>TXT_KEY_POLICY_SAFAVID_QIZILBASH</Description>
+			<Civilopedia>TXT_KEY_POLICY_SAFAVID_QIZILBASH_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_SAFAVID_QIZILBASH_HELP</Help>
+			<GridX>1000</GridX>
+			<GridY>1000</GridY>
+			<PortraitIndex>47</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+		</Row>
+	</Policies>
+	<Policy_UnitCombatProductionModifiers>
+		<Row>
+			<PolicyType>POLICY_SAFAVID_QIZILBASH</PolicyType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+			<ProductionModifier>15</ProductionModifier>
+		</Row>
+	</Policy_UnitCombatProductionModifiers>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_SAFVID_MODERN_ARMY</Type>
+			<Description>TXT_KEY_PROMOTION_SAFVID_MODERN_ARMY</Description>
+			<Help>TXT_KEY_PROMOTION_PROMOTION_SAFVID_MODERN_ARMY_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_SAFVID_MODERN_ARMY</PediaEntry>
+			<UpgradeDiscount>50</UpgradeDiscount>
+		</Row>
+		<Row>
+			<Type>PROMOTION_QIZILBASH_SECESSION</Type>
+			<Description>TXT_KEY_PROMOTION_QIZILBASH_SECESSION</Description>
+			<Help>TXT_KEY_PROMOTION_PROMOTION_QIZILBASH_SECESSION_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<LostWithUpgrade>true</LostWithUpgrade>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_QIZILBASH_SECESSION</PediaEntry>
+			<CombatPercent>-25</CombatPercent>
+		</Row>
+	</UnitPromotions>
+</GameData>
+

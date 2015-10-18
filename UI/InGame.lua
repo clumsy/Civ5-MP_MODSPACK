@@ -1601,6 +1601,10 @@ ContextPtr:LoadNewContext("FaithfromCSRoutes")
 ContextPtr:LoadNewContext("GoldFromWondersTrait")
 ContextPtr:LoadNewContext("PeaceBuildingTrait")
 
+-- Nation - Safavid --
+ContextPtr:LoadNewContext("IncreasedWarProduction")
+ContextPtr:LoadNewContext("QizilbashandUA")
+
 -- Nation - Thracia --
 ContextPtr:LoadNewContext("ThraceFunctions")
 

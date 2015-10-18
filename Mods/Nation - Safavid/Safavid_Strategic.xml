@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by regalman -->
+<GameData>
+	<ArtDefine_StrategicView>
+		<Replace>
+			<StrategicViewType>ART_DEF_UNIT_QIZILBASH</StrategicViewType>
+			<TileType>Unit</TileType>
+			<Asset>sv_Qizilbash.dds</Asset>
+		</Replace>
+	</ArtDefine_StrategicView>
+</GameData>

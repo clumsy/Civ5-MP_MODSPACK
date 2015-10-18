@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/3/2012 8:08:10 PM -->
+<GameData>
+	<Resources>
+		<Row>
+			<Type>RESOURCE_CARPET_MOD_SAFAVID</Type>
+			<Happiness>4</Happiness>
+			<TechCityTrade>TECH_AGRICULTURE</TechCityTrade>
+			<Description>TXT_KEY_RESOURCE_CARPET_MOD_SAFAVID</Description>
+			<Civilopedia>TXT_KEY_CIV5_RESOURCE_CARPET_MOD_SAFAVID_TEXT</Civilopedia>
+			<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+			<ArtDefineTag>ART_DEF_RESOURCE_SUGAR</ArtDefineTag>
+			<AltArtDefineTag>ART_DEF_RESOURCE_SUGAR</AltArtDefineTag>
+			<AIObjective>3</AIObjective>
+			<PlacementOrder>4</PlacementOrder>
+			<ConstAppearance>50</ConstAppearance>
+			<MinAreaSize>3</MinAreaSize>
+			<MaxLatitude>0</MaxLatitude>
+			<RandApp1>25</RandApp1>
+			<RandApp2>25</RandApp2>
+			<Player>67</Player>
+			<IconString>[ICON_RES_CARPET_MOD_SAFAVID]</IconString>
+			<IconAtlas>SAFAVID_ATLAS</IconAtlas>
+			<PortraitIndex>2</PortraitIndex>
+		</Row>
+	</Resources>
+	<Resource_Flavors>
+		<Row>
+			<ResourceType>RESOURCE_CARPET_MOD_SAFAVID</ResourceType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+	</Resource_Flavors>
+</GameData>

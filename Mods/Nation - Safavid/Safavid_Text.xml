@@ -1,0 +1,501 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Viregel, Tomatekh , COF and regalman -->
+<GameData>
+	<Language_en_US>
+		<!--Unique Building-->
+		<Row Tag="TXT_KEY_BUILDING_KARKHANE">
+			<Text>Karkhane</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KARKHANE_HELP">
+			<Text>Workshop replacement.Only the Safavids may build it. Provides 1 copy of [ICON_RES_CARPET_MOD_SAFAVID] Carpets.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KARKHANE_STRATEGY">
+			<Text>The Karkhane is a Medieval-era building. It increases the [ICON_PRODUCTION] Production of a city. It also provides 1 copy of a luxury resource: [ICON_RES_CARPET_MOD_SAFAVID] Carpets.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_KARKHANE_PEDIA">
+			<Text>Carpets have played a huge role in culture of Persia since ancient times. During the Sassanian era, Persian carpets became renowned for their beauty and exquisite designs, and as a result, their export boomed. Karkhanes began to pop up mostly under the Timurids, who revived the Persian arts after the devastation left by the Mongol conquests. During the Renaissance, the Karkhanes of Tabriz and Isfahan produced the most beautiful of carpets that came to be famous among European Nobility and Royalty. Modern day Karkhanes produce hundreds of carpets each day to meet demand at home and abroad, which are sold for large sums of money.</Text>
+		</Row>
+		<!--Resource-->
+		<Row Tag="TXT_KEY_RESOURCE_CARPET_MOD_SAFAVID">
+			<Text>Carpets</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_CARPET_MOD_SAFAVID_TEXT">
+			<Text>Carpets have been produced and used as home furnishings for thousands of years. They evolved from simple floor and entrance coverings that protected nomadic people from the cold to valuable possessions of kings and noblemen who looked upon them as signs of wealth, prestige and distinction. In the beginning, the manufacturing processes were extremely costly in terms of the human efforts expended in harvesting fibres, spinning yarns by hand, dyeing the yarns and knotting short lengths by hand into arrays of backing yarns arranged on frames. Mechanization of spinning and weaving in Europe in the 18th century reduced the cost of woven carpets, paving the way to increased carpet consumption in Europe and North America. Hand knotted carpets and rugs continued to be produced on a limited scale to serve the luxury market.</Text>
+		</Row>
+		<!--Unique Unit-->
+		<Row Tag="TXT_KEY_UNIT_QIZILBASH">
+			<Text>Qizilbash</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_QIZILBASH_HELP">
+			<Text>Invasion focused mounted unit, only the Safavids may built it. It gives +1 [ICON_CULTURE] Culture, +1 [ICON_GOLD] Gold and +1 [ICON_PEACE] Faith for every turn it spends in enemy territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_QIZILBASH_STRATEGY">
+			<Text>The Qizilbash is a Safavid unique unit with a heavy focus on bonuses from invading. It gives +1 [ICON_CULTURE] Culture, +1 [ICON_GOLD] Gold and +1 [ICON_PEACE] Faith for every turn it spends in enemy territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_QIZILBASH_CIVILOPEDIA">
+			<Text>The Qizilbash ("Red Head") were a coalition of predominantly seven Turkman tribes who wore a red tark (a distinctive twelve-gored cap) to signify their support for the founders of the Safavid dynasty in Iran. Although from different backgrounds, the Qizilbash were united in their adherence to Safavi Shia Islam. The name was originally a pejorative label given to them by their Sunni Ottoman foes, but soon was adopted as a mark of pride.[NEWLINE][NEWLINE]Isma'il was the first pir (spiritual guide) of the Safavid order to assume the political role of shah. He rallied the support of around 7000, the collective Qizilbash, on a punitive campaign against the Shirvanshah and ultimately moved south to conquer Tabriz. This is understood as the beginning of the Safavid state. The Qizilbash themselves acquired an almost mythic character, said to enter battlefields unarmed (believing Isma'il's miraculous powers would shield them) and to devour men alive in submission and devotion to their Godhead.[NEWLINE][NEWLINE]Spiritual authority translated itself into political power for more individuals than just the shah. Loyalty to the Safavid house and to its visionary cause won the Qizilbash a monopoly over positions at court, in the provinces, and in the military. However, so long as the Qizilbash maintained their political sway, the religious dyarchy that the Safavids had created with their profession of Imamism would exist in a state of conflict. Isma'il and his successor, Tahmasb (1524-76), attempted to subdue the religiosity of the Qizilbash, but these attempts were sporadic and lacked the real power of systematic enforcement. Qizilbash Islam would maintain its hegemony for nearly a century and the Safavids would have to play up their revolutionary character.</Text>
+		</Row>
+		<!--Unique Ability-->
+		<Row Tag="TXT_KEY_TRAIT_STORM_ARDABIL_SHORT">
+			<Text>Storm of Ardabil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_STORM_ARDABIL">
+			<Text>During war with another Civilization, [ICON_PRODUCTION] Production is increased by 15%. Upon declaring friendship, the Safavids and their friend gain a +5% boost in [ICON_CULTURE] Culture per turn.</Text>
+		</Row>
+		<!--Spy Names-->
+		<Row Tag="TXT_KEY_SPY_NAME_SAFAVIDS_0">
+			<Text>Ismail</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SAFAVIDS_1">
+			<Text>Tahmasp</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SAFAVIDS_2">
+			<Text>Maryam</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SAFAVIDS_3">
+			<Text>Safi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SAFAVIDS_4">
+			<Text>Fatemah</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SAFAVIDS_5">
+			<Text>Mirza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SAFAVIDS_6">
+			<Text>Anis</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SAFAVIDS_7">
+			<Text>Husayn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SAFAVIDS_8">
+			<Text>Negin</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SAFAVIDS_9">
+			<Text>Faridah</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--Denonyms-->
+		<Row Tag="TXT_KEY_SAFAVIDS_DESC">
+			<Text>Safavid Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SAFAVIDS_SHORT_DESC">
+			<Text>The Safavids</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_SAFAVIDS_ADJECTIVE">
+			<Text>Safavid</Text>
+		</Row>
+		<!--Civilopedias-->
+		<Row Tag="TXT_KEY_SAFAVIDS">
+			<Text>The Safavids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SAFAVIDS_TITLE">
+			<Text>The Safavid Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SAFAVIDS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SAFAVIDS_TEXT_1">
+			<Text>One of the greatest periods in modern Persian history, the Safavid dynasty was among the three dominant Islamic empires at the time - the others being the Ottomans and the Mughals - which were known as the “gunpowder empires”. These three massive empires dominated the Middle East for almost two centuries before they finally disintegrated; however, the Safavids are the only one of these three to survive almost intact from foreign domination during this time. While the Ottomans were confined to Anatolia after the First World War and the former Mughal territory was assimilated into India and Pakistan, the Safavids remain strong in the sense that their legacy has remained almost unscathed in the modern-day nation of Iran; they helped to assert an independent Iranian identity above all else, something that remains to this day. Their conquests in Greater Persia were legendary and a peak in Iran’s history, but their work at home as well, with their grandiose monuments and stunning architecture, leaves a firm cultural mark on present-day Iran. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SAFAVIDS_HEADING_2">
+			<Text>Origins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SAFAVIDS_TEXT_2">
+			<Text>The Safavid kings claimed themselves to be descendants of the family of the Islamic prophet Muhammad, though this is highly disputed by scholars today. In general, it is thought that they hailed from Persian Kurdistan, though there is still some disparity over this. The origins of the Safavids begin with the establishment of Safaviyya, a Sufi Kurdish order founded by Safi-ad-din Ardabili, who gave his name to the dynasty.  During this period, the Safavid dynasty was more of a religious order than an imperial force, only coming to power around four centuries after their establishment. Leadership of the Safaviyya saw no shortage of candidates; Shaykh Junayd, for example, assumed power in order to make land gains, and throughout its early history, there were many disputes over control. However, with the decline of the Timurid Empire in 1505, a new power vacuum had opened right next to the stronghold of Safavid control, so the stage was set for them becoming a dominant power in Iran. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SAFAVIDS_HEADING_3">
+			<Text>Into Power</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SAFAVIDS_TEXT_3">
+			<Text>The proper Safavid dynasty was founded by Shah Ismail I in 1501; not only did he establish the dynasty as a whole, but he edged into power in the failing Iranian state. His background is highly disputed, as he was bilingual from birth, and his actual nationality is unknown. Regardless, it was under his rule that the Safavids began rule in Iran. Safavid power was primarily based on their Islamic military, the Qizilbash, Shi’a Muslims of mainly Kurdish and Anatolian origin. They backed the Safavids, having come from roughly the same area, and were able to help the dynasty establish themselves as competent managers against their fiercest rivals - the Ottomans. During the reign of Shah Ismail alone, huge gains were made in Anatolia against the Ottomans, and equally significant ones in the north-east, seized from the Uzbeks. With this rapid expansion, it was no wonder that the dynasty would soon have to maintain the peace at home in this upstart empire; and it was no time at all until that was achieved. However, in the early days of the conquests, the Ottomans struck back and captured the Safavid capital, setting them back somewhat. This was avenged later in the Safavids’ history, under Shah Abbas I. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SAFAVIDS_HEADING_4">
+			<Text>Administration and Conquest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SAFAVIDS_TEXT_4">
+			<Text>Shah Tahmasp was the longest reigning Safavid monarch, being in power for 52 years. During this time, he was forced to reform the military and government structure to make it effective come the next war. For a start, the Qizilbash system was incredibly disorganised; internal rivalries plagued them, and as a result, Shah Tahmasp had to reorganise them to boost morale and make them an effective fighting machine; they proved to be deadly in later wars. Similarly, the government structure was badly done. Too much power resided in the hands of local governors for much to be done. Tahmasp removed a lot of this local power, instead taking it into the Shah’s hands, and overall centralised a lot of the government, which was seen as necessary at the time, and probably was for the Safavid state to continue running well. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SAFAVIDS_HEADING_5">
+			<Text>Rise of the Mughals</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SAFAVIDS_TEXT_5">
+			<Text>The Mughals, an Islamic dynasty with control over a very large Hindu population, were an obvious threat to the Safavids. Even in their early days, the two saw many clashes, with the Safavids eventually expanding into a lot of the western Mughal lands. Often seen as a rival as big as the Ottomans, there was no wonder that the Safavids saw it as necessary to fight back against them, as they too had the power of gunpowder. However, in the Safavid military, the Qizilbash regiments were slow to utilise the gunpowder. This made for enormous setbacks to the Safavids; not only did they have to upgrade their standing military to use gunpowder weaponry, but they were also forced to create an army to defend their state while they waited for the upgrade to pass sufficiently. Many clashes later took place between the Mughals and the Safavids, often just bickering over lands, but in the end they united against a common foe - the Uzbeks. However, during the reign of Tahmasp, relations between the Safavids and the Mughals prospered in many more ways than this; when one of the Mughal emperors sought refuge from an uprising against him in Safavid lands, they not only agreed, but recognised him as emperor, not using his absence to take over as much of the Mughal land as they could. These ties with the Mughals lasted until both empires finally fell to their many other foes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SAFAVIDS_HEADING_6">
+			<Text>Decline</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SAFAVIDS_TEXT_6">
+			<Text>In spite of the great artistic and architectural talent brought forth by the Safavids, their military advancements still were not quite enough to combat the growing Ottoman and Uzbek powers. Though these would likely have not hindered the Safavids along, the increasing colonialist powers of the Dutch and British had taken naval control of the region, and effectively stripped the Iranian lands of their iron ore. Furthermore, uprisings throughout the empire, due to the massive amount of ethnic groups under the one banner, further stalled the empire’s advancement, eventually leading to its end. The Afghans soon managed to become independent and flourish in the early years after the death of the Safavids; this was one of their worst losses. Though their lands in Anatolia were retained, their eastern territories very quickly separated from Iranian control towards the end of the empire. In 1731, the empire drew to a close, with uprisings everywhere and the state in complete decline, ready to start afresh with another ruling dynasty. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SAFAVIDS_HEADING_7">
+			<Text>Legacy Today</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SAFAVIDS_TEXT_7">
+			<Text>Though the Safavids were usurped in 1736, they left a legacy in both the immediate aftermath of their downfall, and in the world today. For a start, their conquests into the Middle East were actively pursued after their downfall; their reign was seen as the start of modern Iran, and as a result, they covered all of what the present day state is. Even towards the end of their rule, they had acquired sovereignty over so many territories it would be impossible to say that they accomplished nothing. However, the Safavids were also great patrons of the art; the many great monuments that stunned the capital, Isfahan, and many other cities, only add to Iran’s culture today, and must have made them a cultural centre of the world in their heyday. Overall, while the Safavids only had control of Iran for around 200 years, it would be impossible to say that they did not bring around changes that affect Iran and the world today; had it not been for them, the entire area may well have been run over by their many foes, as the Safavids, fierce and wise, were able to provide Iran with the support it needed to survive and thrive. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SAFAVIDS_STATBOX">
+			<Text>[NEWLINE]        Leader: Abbas I[NEWLINE]        Unique Unit:	Qizilbash[NEWLINE]        Unique Building: Karkhane[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SAFAVIDS_FACTOID_HEADING">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_SAFAVIDS_FACTOID_TEXT">
+			<Text>The Safavids brought Shi'a islam to the Iranian Plateau and the surrounding areas, as a result of forceful conversions undertaken during the reign of their founder, Shah Ismail I.</Text>
+		</Row>
+		<!--City List-->
+		<Row Tag="TXT_KEY_CITY_NAME_SAFAVIDS_0">
+			<Text>Isfahan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAFAVIDS_1">
+			<Text>Tabriz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAFAVIDS_2">
+			<Text>Qazvin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAFAVIDS_3">
+			<Text>Shiraz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAFAVIDS_4">
+			<Text>Rey</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAFAVIDS_5">
+			<Text>Qom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAFAVIDS_6">
+			<Text>Mashhad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAFAVIDS_7">
+			<Text>Baghdad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAFAVIDS_8">
+			<Text>Yerevan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAFAVIDS_9">
+			<Text>Baku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAFAVIDS_10">
+			<Text>Ardabil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAFAVIDS_11">
+			<Text>Bandar Abbas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAFAVIDS_12">
+			<Text>Herat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAFAVIDS_13">
+			<Text>Nishapur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAFAVIDS_14">
+			<Text>Tiflis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAFAVIDS_15">
+			<Text>Kirman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAFAVIDS_16">
+			<Text>Bam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAFAVIDS_17">
+			<Text>Yazd</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAFAVIDS_18">
+			<Text>Zaranj</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAFAVIDS_19">
+			<Text>Alamut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAFAVIDS_20">
+			<Text>Chaldiran</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAFAVIDS_21">
+			<Text>Maragha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAFAVIDS_22">
+			<Text>Jask</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAFAVIDS_23">
+			<Text>Merv</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAFAVIDS_24">
+			<Text>Mosul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAFAVIDS_25">
+			<Text>Kandahar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAFAVIDS_26">
+			<Text>Astarabad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAFAVIDS_27">
+			<Text>Birjand</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAFAVIDS_28">
+			<Text>Derbent</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAFAVIDS_29">
+			<Text>Ganja</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAFAVIDS_30">
+			<Text>Shahpur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAFAVIDS_31">
+			<Text>Zanjan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAFAVIDS_32">
+			<Text>Sultanyah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAFAVIDS_33">
+			<Text>Rasht</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAFAVIDS_34">
+			<Text>Bam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAFAVIDS_35">
+			<Text>Hamadan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAFAVIDS_36">
+			<Text>Zahedan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAFAVIDS_37">
+			<Text>Orumiyeh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAFAVIDS_38">
+			<Text>Basra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SAFAVIDS_39">
+			<Text>Kirmanshah</Text>
+		</Row>
+		<!-- Leader Civlopedia Text -->
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_DESC">
+			<Text>Abbas I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_LIVED">
+			<Text>c. 1571 - 1629</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_NAME">
+			<Text>Abbas I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_SUBTITLE">
+			<Text>Shahanshah of Iran</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_TITLES_1">
+			<Text>Great Shah of Persia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_TITLES_2">
+			<Text>Padshah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_TEXT_1">
+			<Text>Often hailed as the greatest of Safavid leaders, Shah Abbas does not fall short of this mark. Coming to the throne at the age of 16 as a result of his father’s abdication due to Iran’s massive internal conflicts, Abbas was not expected to do well as monarch; however, he was able to establish the Safavids as a major power in the Middle East and the world, bringing Iran out of the state of decline it had previously been in. Furthermore, Abbas’ commissions in the capital brought about a new cultural golden age for Persia, with his grandiose monuments honouring his reign. Abbas is still seen as one of Persia’s greatest ever leaders in modern-day Iran, showing off his glory in all ways possible. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_HEADING_2">
+			<Text>Early Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_TEXT_2">
+			<Text>Abbas was born in Herat, in present-day Afghanistan, though at the time part of the expansive Safavid Empire. At the time of his birth, his father was the named successor to the throne, his grandfather in the position of Shah. Because he had an elder brother, Abbas’ interests always came second for his parents. His father was a weak sovereign unable to stop the march of the Ottomans and the Uzbek Khanates. The queen was murdered after antagonizing the power Qizilbash tribes that had forged the empire. The Crown Prince and Abbas’ older brother, Hamza, initiated a campaign against the Ottoman Beyliks and Eyalets to the west, but his suspicious death halted any hopes the crumbling empire had left. At 14, Abbas came under the guardianship of the Qizilbash governor of the eastern Safavid province of Khorasan. The governor, Murshid, intended to install install Abbas on the throne and use him as a figurehead, and so when time was ripe, he invaded the Safavid capital of Qazvin, overthrew Abbas’ father and proclaimed the Abbas I as Shah.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_HEADING_3">
+			<Text>Abbas Takes Power</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_TEXT_3">
+			<Text>Abbas had inherited the empire when it was in a dire state. The Ottomans had captured one of the previous Safavid capitals, Tabriz and the Uzbek hordes pushed deeper into Safavid territory in the east. Meanwhile the growing power of the wealthy Mughal empire in the Subcontinent threatened Safavid control over Afghanistan. Abbas first went after the plotters of his mother’s death, executing four prominent leaders amongst the Qizilbash. Next, he freed himself of Murshid the “kingmaker”. Murshid had forced Abbas to marry his brother Hamza’s widow and confined him to the palace while he divided the important administrative posts amongst his friends and family. When the eastern Uzbek armies captured Herat and massacred the city’s population, Abbas plotted with four Qizilbash leaders to kill Murshid. Free from his grasp, Abbas was now able to lead the Safavids in whatever way he saw fit. Abbas realised re-establishing Persia was necessary before he met his enemies in combat. And so in 1590, Abbas traveled to sign the humiliating Treaty of Istanbul, which ceded control of Safavid lands from Dagestan and the North Caucasus to Kurdistan and Lorestan to the Ottoman Sultan.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_HEADING_4">
+			<Text>Diminishing The Qizilbash</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_TEXT_4">
+			<Text>The Qizilbash had once been a formidable force during the times of Ismail I, the founder of the Safavid dynasty. But, as gunpowder began playing a vital role in warfare, these tribes refused to adapt to this new technology. To counter their influence, Abbas began employing soldiers from Georgia, Armenia and Circassia,  who were known as the Ghulams. Next, he gradually started demoting the Qizilbash officers in the government, removing them from highest offices and replacing them with these Ghulams. This would lead to Abbas having direct control over all his provinces, and later resolved the financial problems that had plagued the empire under the Qizilbash. However, this would lead to a competition between the Ghulams and the Qizilbash. Most of the Queen-Mothers were now Caucasian and this created many intrigues as they competed for their sons to be designated as the heir.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_HEADING_5">
+			<Text>Reformation of The Military</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_TEXT_5">
+			<Text>As the enemies of the dynasty of that time, the Uzbeks and the Mughals, were taking Persian territory as Abbas was reforming his outdated army in order to confront them and the Ottomans. The reformation was based on the sidelining of the Qizilbash and putting the new armies of 40,000 ghulams, which were always conscripted from ethnic Georgians and Circassians, and Iranians to the battlefield. The new army had no loyalty but to the shah himself. Upon their creation they had the but to the shah himself. Upon their creation they had the largest cavalry in the world, consisting of 10,000-15,000 cavalry armed with muskets and other weapons. Other units such as musketeers, artillery and ghulams were also present in larger numbers.                                                                                                                                                   New laws were created, such as allowing up to 500 of his new cannons to be present in a single battle, and punishment for looting. These reformations were partially achievable due to advice from a number of European envoys.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_HEADING_6">
+			<Text>Conquests</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_TEXT_6">
+			<Text>Abbas first directed his attention to the disorganized Uzbeks who hadn’t utilized modern warfare techniques. The Safavids gunpowder regiments smashed through the Uzbek lines, pushing them back to Oxus river. The Safavids would also later capture the Uzbek capitals of Samarkand and Bukhara. After these string of victories, Abbas moved his capital from Qazvin to Isfahan, where he rebuilt the city in his own style. Now the Safavid might was directed to their arch rival, the strong Ottoman empire. After declaring war by way of shaving the Turkish ambassador’s beard, Abbas swooped in with his now modern and competitive army. In a wave of battles, he retook the western provinces, eventually taking Tabriz and then continuing his march deep into Anatolia. The newly formed artillery corps proved to be the most useful, as countless Ottoman fortifications were subject to total ruin. The Ottoman response fell prey to an ambush, and Abbas launched another campaign, this time making huge gains in Mesopotamia. Profiting from the confusion in Safavid lands, the Mughal emperor Akbar had taken Kandahar in 1590. Now as the war with the Ottomans was over, Abbas declared war on the Mughals and with lighting speed took back Kandahar. Abbas also expelled the Portuguese from Hormuz with the help of England, and established a new city, Bandar Abbas, that would become the principal port of the empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_HEADING_7">
+			<Text>Reviving The Arts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_TEXT_7">
+			<Text>The first Shah, Ismail I, followed a strong policy of restoration of old Shia places, such as Karbala, Najaf, and Samarra in Iraq and Mashhad in the east of Iran etc., while perpetuating Timurid traditions. It was not until the reign of Shah Abbas that marked the beginning of the Safavid architectural bloom. Firstly, he ordered the change of the capital, this wasn’t new to the empire as this was the third time it occurred. The capital was now Isfahan, a city with a  more centralised location , thus serving a larger role in the empire. The city was heavily modernized with new mosques, a pavilion and an oratory. The, arguably, most important creation was the Naqsh-e Jahan Square, a large square which would serve as the center of the capital, and the empire itself. Additionally, Abbas brought in 300 Chinese potters to encourage the local production of oriental-style pottery. Under Abbas' reign, carpet weaving became an important part of the Persian culture, as wealthy Europeans started importing rugs. Silk production became a monopoly of the crown, and manuscripts, bookbinding, and ceramics were important exports also.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_HEADING_8">
+			<Text>Family and Death</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_TEXT_8">
+			<Text>Abbas had 3 sons to secure his succession. However, the crown prince was executed as a result of rumors and Abbas’ paranoid nature. He immediately regretted his action and fell into a state of despair. His second son, wrongly thinking that his father was on his deathbed, began celebrating the news with his supporters, which included some Qizilbash. Abbas ordered him blinded, thereby making him ineligible to be Shah. The blinding was only partially successful and the prince's followers planned to smuggle him out of the country to safety to the Mughals whose aid they would use to overthrow Abbas and install Mohammed on the throne. But the plot was betrayed, the prince's followers were executed and the prince himself imprisoned in the fortress of Alamut where he would later be murdered by Abbas' successor. Abbas groomed his last son, but for some reason, he too was blinded. Unexpectedly, Abbas now chose as heir Sam Mirza, a cruel and introverted character. Abbas’ condition was troubled from 1621 onwards. He finally passed away in a palace on the Caspian sea in 1629.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_HEADING_9">
+			<Text>Legacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_TEXT_9">
+			<Text>Abbas gained strong support from the common people. Sources report him spending much of his time among them, personally visiting bazaars and other public places in Isfahan. Short in stature but physically strong until his health declined in his final years, Abbas could go for long periods without needing to sleep or eat and could ride great distances. At the age of 19 Abbas shaved off his beard, keeping only his moustache, thus setting a fashion in Iran. The most remarkable of his achievements are surely the conquests and restoring the self-esteem of the Persian people. He was a brilliant strategist and tactician whose chief characteristic was prudence. Abbas I proved himself to be a talented administrator and military leader, and a ruthless autocrat. His reign was the outstanding creative period of the Safavid era. But the civil wars and troubles of his childhood left him with a dark twist of suspicion and brutality at the centre of his personality. His attitude towards religious minorities, especially Christians warmed the relationship between the Safavids and Europe.</Text>
+		</Row>
+		<!-- DOM Text-->
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_SAFAVIDS_TEXT">
+			<Text>Wise and faithful Shah Abbas of the Safavid Dynasty of Iran, your people await your guidance to prosper once more! During your time as emperor, you were able to not only fight several successful wars, but also to build vast monuments in what is now today Iran. This legacy lives on in society today, but even at the time of your rule, you were able to do much to help your people. Victories over such mighty and legendary empires as the Ottomans and the Mughals assured your place in history, which were accomplished in part by your military reform. Taking back land that was undeniably yours, the stage was already set for you becoming one of Persia's greatest ever leaders. Showing great mercy and tolerance, you presided over an era of prosperity and arts, and the empire was undoubtedly in a better state by the time of your passing.[NEWLINE][NEWLINE]Shah Abbas, a leader is needed to give your nation the power it needs. Can you keep the military in check to ensure resounding victories for you and devastating defeats for your enemies? Can you get back the artistic and architectural talent that was once shown on such a scale? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!--First Greeting messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_FIRSTGREETING_1">
+			<Text>Welcome! I am Abbas, son of Mohammad and Shahanshah of Iran. How may my empire help such a tiny kingdom as yours?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_FIRSTGREETING_2">
+			<Text>Salam! I am Abbas, Shahanshah of Persia! You are welcome in my empire assuming you're not secretly plotting against me.</Text>
+		</Row>
+		<!--Defeated messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_DEFEATED_1">
+			<Text>May my head be a sacrifice on the path of the guide of truth. There are many hundreds like me ready to offer their lives.</Text>
+		</Row>
+		<!-- Human repeats an action too much, gets the following responses -->
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_REPEAT_TOO_MUCH_1">
+			<Text>...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_REPEAT_TRADE_TOO_MUCH_1">
+			<Text>Were all the world equal, how would its affairs be successful?</Text>
+		</Row>
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_GREETING_HOSTILE_HELLO_1">
+			<Text>It is only in the name of Allah, the most gracious, the most merciful, that I have agreed to meet with you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_GREETING_POLITE_HELLO_1">
+			<Text>A flower has blossomed on the tree, and is now come to be a companion to the Shah.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>The qizilbash are giving me enough trouble, that I don't have time for your meaningless war. If you have other business, state it quickly.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_GREETING_HUMAN_AT_WAR_1">
+			<Text>My country knows all too well the ravages of war, and it has taken us years to reclaim our lands. How may we help?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>Your ambitions of expansion have final piqued my interest. I must warn against stepping beyond your bounds.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>I must warn against further expansion into our lands!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>I hope that your aggressive expansion will not cause us any problems in the future. I would hate to think you couldn't be trusted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>The strength of your army reflects the strength of your character and extent of knowledge.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>We have both worked hard to make our empires centers of commerce and diplomacy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_GREETING_HOSTILE_HUMAN_FEW_CITIES_1">
+			<Text>The size of your empire reflects poorly on your character.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>I wish there to be a great fight that I might encounter my foes face to face.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>Is he a man who marches with his army against a single foe?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_TOO_SOON_FOR_DOF_1">
+			<Text>I'm sorry, but it is too early for us to declare this openly.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_DENOUNCE_1">
+			<Text>This whole time you've been plotting against me! Just like my sons, and my uncle, and my father[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>You act as if your denouncement matters. Already I've begun to organize my armies and plan campaigns against your people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_HUMAN_DOFED_FRIEND_1">
+			<Text>It is wonderful that you are friends with{1_CivName}! They have proven themselves trustworthy!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_HUMAN_DOFED_ENEMY_1">
+			<Text>{1_CivName} is not to be trusted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>I strongly urge you to reconsider your position with {1_CivName}. There is much to be learned from them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>I agree that {1_CivName} is not to be trusted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>I noticed that you have declared your friendship with {1_CivName}. I applaud the decision and have decided to take them as my brother as well.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>I was going to deal with you after I dealt with {1_CivName} anyway</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>I share your convictions that {1_CivName} only causes problems for our cause. Perhaps the combination of our denouncements will have them rethink their position in this world.</Text>
+		</Row>
+		<!-- General Diplo Text -->
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_DEC_FRIENDSHIP_1">
+			<Text>I want nothing more than for our two great countries to be at peace and harmony, and to prosper greatly. A declaration of friendship will go a long way toward this goal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>I must warn that I am ready to match you in force if you do not move your army from my borders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_PLOT_BUYING_WARNING_1">
+			<Text>Your ambitions of expansion have final piqued my interest. I must warn against stepping beyond your bounds.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Your aggressive expansion threatens the stability of my empire. I will not let you claim these lands so easily.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_EXPANSION_WARNING">
+			<Text>Your ambitions of expansion have final piqued my interest. I must warn against stepping beyond your bounds.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_RETURNED_CIVILIAN_1">
+			<Text>You have proven yourself one of the few worthy of trust. You have my thanks.</Text>
+		</Row>
+		<!--Public Declarations-->
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}. Attacking the City-State will greatly damage relations and may lead to war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<!-- Human is asking the AI for something -->
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_DONT_SETTLE_NO_1">
+			<Text>These lands once belonged to my father's father. I will not so readily abandon my claim.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_DONT_SETTLE_YES_1">
+			<Text>I'll agree for now. Know that I might be back to conquer these lands in the future.</Text>
+        </Row>
+		<!--Deal Offers and related-->
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_LUXURY_TRADE_1">
+			<Text>I sincerely hope that through trade we can achieve what others could only through war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_OPEN_BORDERS_EXCHANGE_1">
+			<Text>I believe there is much to be achieved for our people should we allow them such freedoms.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_RESPONSE_REQUEST_1">
+			<Text>A man must know his perfection and do what work he can do.</Text>
+		</Row>
+		<!--AI Attacked by Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_ATTACKED_HOSTILE_1">
+			<Text>There is a commandment in God's books. Know for certain that it decrees blood for blood!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_ATTACKED_EXCITED_1">
+			<Text>When I make up my mind to take the field, let them come and let me fight them alone.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_ATTACKED_SAD_1">
+			<Text>A pity! Would that there were a suitable occasion, that the foe should see a man better than himself!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_ATTACKED_BETRAYED_1">
+			<Text>Men sizi basa dusmur?m! I thought I could trust you!</Text>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_TOO_SOON_NO_PEACE_1">
+			<Text>Nobody says to the one devoid of energy, "This is a Man." Better is death for a liar lacking ardour.</Text>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_BAD_1">
+			<Text>Disappointing... as usual.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ABBAS_I_GOOD_1">
+			<Text>Exalt the greatness of God for having guided you.</Text>
+		</Row>
+	</Language_en_US>	
+</GameData>
