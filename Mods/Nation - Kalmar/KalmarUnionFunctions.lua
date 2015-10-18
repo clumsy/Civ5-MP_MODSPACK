@@ -8,7 +8,7 @@ print ("Sveriges, Danmarks og Norges enkeltkalmarunionen stiger!")
 function GE_KalmarGarrisonedBorderExpansion (playerID)
 		local player = Players[playerID]
             for city in player:Cities() do
-                 if city:GetGarrisonedUnit():GetUnitType(GameInfoTypes["UNIT_GE_KALMAR_UNION_BALTIC_WARSHIP"]) then
+                 if (city:GetGarrisonedUnit() ~= nil and city:GetGarrisonedUnit():GetUnitType(GameInfoTypes["UNIT_GE_KALMAR_UNION_BALTIC_WARSHIP"])) then
                          city:SetNumRealBuilding(GameInfoTypes["BUILDING_GE_BALTIC_EXPANSION"], 1)
                  else
 					if city:IsHasBuilding(GameInfoTypes["BUILDING_GE_BALTIC_EXPANSION"]) then
