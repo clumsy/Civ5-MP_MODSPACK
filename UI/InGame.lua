@@ -1612,14 +1612,14 @@ ContextPtr:LoadNewContext("ThraceFunctions")
 ContextPtr:LoadNewContext("Pict Functions")
 
 -- Misc - Events & Decisions --
-ContextPtr:LoadNewContext("BuildingYieldFromCityStates")
-ContextPtr:LoadNewContext("LuaEvents.PlayerEnteredNewEra")
-ContextPtr:LoadNewContext("BuildingResourcePerEra")
-ContextPtr:LoadNewContext("Sukritact_ChangeResearchProgress")
-ContextPtr:LoadNewContext("RandomEventsPopup")
-ContextPtr:LoadNewContext("SanMarco_Functions")
-ContextPtr:LoadNewContext("CityInfoStack")
-ContextPtr:LoadNewContext("EnactDescisionsPopup")
+--ContextPtr:LoadNewContext("BuildingYieldFromCityStates")
+--ContextPtr:LoadNewContext("LuaEvents.PlayerEnteredNewEra")
+--ContextPtr:LoadNewContext("BuildingResourcePerEra")
+--ContextPtr:LoadNewContext("Sukritact_ChangeResearchProgress")
+--ContextPtr:LoadNewContext("RandomEventsPopup")
+--ContextPtr:LoadNewContext("SanMarco_Functions")
+--ContextPtr:LoadNewContext("CityInfoStack")
+--ContextPtr:LoadNewContext("EnactDescisionsPopup")
 
 -- Misc - Resources --
 ContextPtr:LoadNewContext("HNR_Main")
