@@ -70,7 +70,7 @@ function ModerateWhaleBows(player)
 		if Decisions_CLInuitAdoptCableBows then
 			for pCity in pPlayer:Cities() do
 				local pPlot = pCity:Plot()
-				if pPlot:IsCoastalLand() then
+				if (pCity ~= nil and pPlot:IsCoastalLand()) then
 					pCity:SetNumRealBuildings(GameInfoTypes.BUILDING_ACBWIDGETBIG, 1)
 					local iGuts = 0
 					for pCityPlot = 0, pCity:GetNumCityPlots() - 1, 1 do
@@ -146,7 +146,6 @@ local Decisions_CLInuitTrainEliteSnipers = {}
 	end
 	)
 	
-	GameEvents:
 Decisions_AddCivilisationSpecific(GameInfoTypes["CIVILIZATION_CLINUIT"], "Decisions_CLInuitTrainEliteSnipers", Decisions_CLInuitTrainEliteSnipers)
 --=======================================================================================================================
 --=======================================================================================================================

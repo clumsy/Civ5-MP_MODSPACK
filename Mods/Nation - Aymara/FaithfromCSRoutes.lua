@@ -80,12 +80,12 @@ function OnCityCaptureComplete(iOldOwner, bIsCapital, iCityX, iCityY, iNewOwner,
 	local pCity = Map.GetPlot(iCityX, iCityY):GetPlotCity()
 	CityID = pCity:GetID()
 	pPlot = pCity:Plot()
-	iOldFaith = load ( pPlot, "" .. CityID .. "QFaithFromRoutes" .. icsplayer .. "")
-	iOldFood = load( pPlayer, "" .. CityID .. "QFoodFromRoutes" .. icsplayer .. "")
+	iOldFaith = load ( pPlot, "" .. CityID .. "QFaithFromRoutes")
+	iOldFood = load( pPlayer, "" .. CityID .. "QFoodFromRoutes")
 	local nFaith = 0
 	local nFood = 0
-	save(  pPlayer,  "" .. CityID .. "QFoodFromRoutes" .. icsplayer .. "", nFood)
-	save(  pPlot,  "" .. CityID .. "QFaithFromRoutes" .. icsplayer .. "", nFaith)
+	save(  pPlayer,  "" .. CityID .. "QFoodFromRoutes", nFood)
+	save(  pPlot,  "" .. CityID .. "QFaithFromRoutes", nFaith)
 	if iOldFaith == nil then
 					Game.SetPlotExtraYield(pPlot:GetX(), pPlot:GetY(), GameInfoTypes.YIELD_FAITH, nFaith)
 				else

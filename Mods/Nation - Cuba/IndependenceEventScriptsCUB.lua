@@ -119,7 +119,7 @@ Events.SerialEventUnitCreated.Add(KillTourism)
 
 function OnCityCaptureComplete(iOldOwner, bIsCapital, iCityX, iCityY, iNewOwner, iPop, bConquest)
   --print("A city has been acquired by someone ...")
-	local pNewOwner = Players[iNewOwner]
+	local pPlayer = Players[iNewOwner] -- new owner
 	local plotCity = Map.GetPlot(iCityX, iCityY):GetPlotCity()
 	pCity = plotCity:GetID()
 	if (pPlayer:HasPolicy(GameInfo.Policies["POLICY_LATINAMERICAN_INDEPENDENCE"].ID)) then
