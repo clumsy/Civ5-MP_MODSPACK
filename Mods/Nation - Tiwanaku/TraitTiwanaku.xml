@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/8/2014 9:36:45 AM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_CHAKANA</Type>
+			<Description>TXT_KEY_TRAIT_CHAKANA</Description>
+			<ShortDescription>TXT_KEY_TRAIT_CHAKANA_SHORT</ShortDescription>
+			<!-- New Tables; please note the FreeBuildingonTech checks for the total ammount of said building for a Player; so if the player 
+			already has 3 Shrines (in this case) it will only gift 1; a good option for altering this is creating an alternate version of the building; 
+			but you'd have to copy the effects from policies and etc. In this case its not necessary because the tech to unlock the free buildings 
+			is also the prereq tech; so its impossible the player has Shrines before the condition is met -->
+			<FreeBuildingonTech>BUILDING_TIWANAKU_SHRINE</FreeBuildingonTech>
+			<FreeBuildingTechPrereq>TECH_POTTERY</FreeBuildingTechPrereq>
+			<NumFreeBuildingonTech>4</NumFreeBuildingonTech>
+			<!-- New Tables -->
+			<CityUnhappinessModifier>-10</CityUnhappinessModifier>
+
+		</Row>
+	</Traits>
+	
+</GameData>

@@ -1611,6 +1611,11 @@ ContextPtr:LoadNewContext("ThraceFunctions")
 -- Nation - Picts --
 ContextPtr:LoadNewContext("Pict Functions")
 
+-- Nation - Tiwanaku --
+ContextPtr:LoadNewContext("FreeShrineScript")
+ContextPtr:LoadNewContext("MissionaryReplace")
+ContextPtr:LoadNewContext("TiwaDialog")
+
 -- Misc - Events & Decisions --
 --ContextPtr:LoadNewContext("BuildingYieldFromCityStates")
 --ContextPtr:LoadNewContext("LuaEvents.PlayerEnteredNewEra")

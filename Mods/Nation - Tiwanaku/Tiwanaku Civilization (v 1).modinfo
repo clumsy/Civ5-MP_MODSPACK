@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="f53be758-9b1c-4c19-88c9-0a0b92b7c956" version="1">
+  <Properties>
+    <Name>Tiwanaku Civilization</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds Tiwanaku as a playable civilization for Brave New World.</Teaser>
+    <Description>Adds Tiwanaku as a playable civilization for Brave New World.</Description>
+    <Authors>Leugi</Authors>
+    <SpecialThanks>LastSword</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="CDC5F1A7A3A8FE1D47C55AC92926668E" import="1">Art/Amauta/amauta.fxsxml</File>
+    <File md5="FE44CDCEB697283AA06DCDDF1F7DE888" import="1">Art/Amauta/Amauta.gr2</File>
+    <File md5="09A646FE041CD0F45B8BFAB365051394" import="1">Art/Amauta/amauta2.gr2</File>
+    <File md5="816621C3FB876E60C9117B14A5B913D0" import="1">Art/Amauta/amauta_diff.dds</File>
+    <File md5="45675B57A120E2CB6016827EAA7DF317" import="1">Art/Amauta/flag_amauta.dds</File>
+    <File md5="2ADDBA491712E7E851E58542BD6E0CFE" import="1">Art/Amauta/sv_amauta.dds</File>
+    <File md5="CFDD4F3C5FF0089957A9E34D464C2DEE" import="1">Art/Chatallata/akapana_diff.dds</File>
+    <File md5="93AA12EFFAB2F3CDC497FFCB40E986DF" import="1">Art/Chatallata/akapana_sref.dds</File>
+    <File md5="BF2F0F72366E4E6729F60F7A93117698" import="1">Art/Chatallata/chatallatadecal.dds</File>
+    <File md5="BDE0526F9310B547F1977DBFF76BEF22" import="1">Art/Chatallata/chatallata_1.fxsxml</File>
+    <File md5="6972E4F30AB9CB4F10FDA3C998D37422" import="1">Art/Chatallata/chatallata_1.gr2</File>
+    <File md5="0F55313763A6EBAE8E204FDA54D182EF" import="1">Art/Chatallata/chatallata_2.fxsxml</File>
+    <File md5="79B1094B84E17892DF2649B8A69008EB" import="1">Art/Chatallata/chatallata_2.gr2</File>
+    <File md5="3ED7AFEFCAAD3EE402590B9FBAE3D870" import="1">Art/Chatallata/chatallata_3.fxsxml</File>
+    <File md5="B1B47C1D631B3D3BEFC19EAABA93D175" import="1">Art/Chatallata/chatallata_3.gr2</File>
+    <File md5="B105A036E48BE090881EE06B8E75E9E0" import="1">Art/Chatallata/chatallata_4.fxsxml</File>
+    <File md5="DA5841F544C98534066C32DBB220F345" import="1">Art/Chatallata/chatallata_4.gr2</File>
+    <File md5="76163A9EC9E7B596D24FFDED2FAD9467" import="1">Art/Chatallata/chatallata_5.fxsxml</File>
+    <File md5="61DA2347F52F9B7155432238534BAB9A" import="1">Art/Chatallata/chatallata_5.gr2</File>
+    <File md5="E173063592BA7ED5EC0FFDD1E0887A88" import="1">Art/Chatallata/chatallata_6.fxsxml</File>
+    <File md5="4E279C18F9AB60858EF3DC554BA3084F" import="1">Art/Chatallata/chatallata_6.gr2</File>
+    <File md5="909E4EDC4AD50B8D1978A040909EB77F" import="1">Art/Chatallata/chatallata_hb.fxsxml</File>
+    <File md5="8A6B2848188EF943144F7EFF9121C48F" import="1">Art/Chatallata/chatallata_hb.gr2</File>
+    <File md5="5514654813036A8FED674C566737DB3D" import="1">Art/Chatallata/chatallata_pl.fxsxml</File>
+    <File md5="13E32A3D275F83EF4BE7C5ACBC6B6DD6" import="1">Art/Chatallata/chatallata_pl.gr2</File>
+    <File md5="CC20E049DA4C04D5867FD85C2B8E87BE" import="1">Art/Chatallata/kalasasaya_diff.dds</File>
+    <File md5="3A7ACEF7CCC551D8561D7385911517AB" import="1">Art/Chatallata/kalasasaya_sref.dds</File>
+    <File md5="46C1BBE80C7E2A7D7CF08589BDCB9AE2" import="1">Art/Chatallata/sv_chatallata.dds</File>
+    <File md5="121BDBC1C57159D267C6D983096BF380" import="1">Art/Chatallata/templete_diff.dds</File>
+    <File md5="ADF4514BE8CC4A64AEB6FDD74936E4F6" import="1">Art/Chatallata/templete_sref.dds</File>
+    <File md5="9FA7B3061096C5143E7708A03765E7F3" import="1">Art/Icons/TiwanakuIcon128.dds</File>
+    <File md5="870FF7447C56307B7211A4BDF84A493D" import="1">Art/Icons/TiwanakuIcon16.dds</File>
+    <File md5="FE0D1D5F7C5E3616DF365A7B2B764468" import="1">Art/Icons/TiwanakuIcon24.dds</File>
+    <File md5="E37367681B262B327AD03DD766071E9B" import="1">Art/Icons/TiwanakuIcon256.dds</File>
+    <File md5="602A56924F9BB0725C03AD90B30159D6" import="1">Art/Icons/TiwanakuIcon32.dds</File>
+    <File md5="329031C6F3C083CE3931C0171C976164" import="1">Art/Icons/TiwanakuIcon45.dds</File>
+    <File md5="6C4920B4626328E8A502EE6D76E94535" import="1">Art/Icons/TiwanakuIcon48.dds</File>
+    <File md5="F36CE8D3C62F7B9DCD6034936E064922" import="1">Art/Icons/TiwanakuIcon64.dds</File>
+    <File md5="5736783054860C980573F0A8FEC802B0" import="1">Art/Icons/TiwanakuIcon80.dds</File>
+    <File md5="445B58976B53669F74ED5FE33220FBA0" import="1">Art/Leader/HuyustusDOM.dds</File>
+    <File md5="CDC5139D7019067619A88D5EADF72599" import="1">Art/Leader/LeaderHuyustus.dds</File>
+    <File md5="C26D3202AAA1607106DDFC083596D87B" import="1">Art/Leader/TiwanakuMap.dds</File>
+    <File md5="6FD950731C37B61E3DDDF48E50BA3C26" import="0">CustomUI/TiwaDialog.lua</File>
+    <File md5="294BB2319E14D1BE8A41AFEE7F6525BF" import="0">CustomUI/TiwaDialog.xml</File>
+    <File md5="556B8220B7E584BD4EE183BE8DE8C279" import="0">Lua/FreeShrineScript.lua</File>
+    <File md5="E3C231D489FCE91E79980CFE7BF759CE" import="0">Lua/MissionaryReplace.lua</File>
+    <File md5="29777DEC93D8BA23A3FEA25AA30B4215" import="0">SQL/ArtDefsTiwanaku.sql</File>
+    <File md5="A60F977FF291EDCA1B064CA17ACE5888" import="0">SQL/TSL.sql</File>
+    <File md5="33BD71D1BACAEAC522B34AECCFEFBACB" import="0">XML/Atlas/IconAtlasTiwanaku.xml</File>
+    <File md5="920208EEC98EE070CC42C382D5D93560" import="0">XML/Buildings/BuildingsTiwanaku.xml</File>
+    <File md5="08E1BBDDE54B74E95CE051257AEC6BC4" import="0">XML/Civilization/AddTraitTiwa.sql</File>
+    <File md5="F539AE1096F11B3D084E1D2E8C1EE172" import="0">XML/Civilization/CivilizationTiwanaku.xml</File>
+    <File md5="8F2BEF2C3EBDBCC58C01791357A37FA4" import="0">XML/Civilization/TraitTiwanaku.xml</File>
+    <File md5="609F8A5923170AE64808718184269702" import="0">XML/Improvements/TiwanakuImprovements.xml</File>
+    <File md5="FD2DF1CD0A1A265F489E6C96573AC52B" import="0">XML/Leader/HuyustusMusic.xml</File>
+    <File md5="724AEB5C1A508AE0926B8246D6A985C2" import="1">XML/Leader/HuyustusPeace.mp3</File>
+    <File md5="CCBDC4746E9867062F71F0638841E4D8" import="1">XML/Leader/Huyustus_Scene.xml</File>
+    <File md5="DCC4A3792FBF9C19D10DBB86C256CC79" import="0">XML/Leader/LeaderHuyustus.xml</File>
+    <File md5="B5596620817CB4E70F726F2D84103E5D" import="0">XML/Text/TiwanakuText.xml</File>
+    <File md5="68D27E2E0470D78EDAE472E1DE33CCEA" import="0">XML/Units/TiwanakuUnits.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Civilization/AddTraitTiwa.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/ArtDefsTiwanaku.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Atlas/IconAtlasTiwanaku.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/BuildingsTiwanaku.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization/CivilizationTiwanaku.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Improvements/TiwanakuImprovements.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader/HuyustusMusic.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader/LeaderHuyustus.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/TiwanakuText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/TiwanakuUnits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization/TraitTiwanaku.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader/Huyustus_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/TSL.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/FreeShrineScript.lua">
+      <Name>FreeShrine</Name>
+      <Description>The Script that determines the way of getting the Free Shrine, it uses tables so you can also use it as you wish</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/MissionaryReplace.lua">
+      <Name>Missionary Override</Name>
+      <Description>The script that allows custom missionaries</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="CustomUI/TiwaDialog.xml">
+      <Name>TiwaDialog</Name>
+      <Description>TiwaDialog</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/7/2014 10:44:00 PM -->
+<GameData>
+
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_TIWANAKU_INFLUENCE</Type>
+			<DefaultBuilding>BUILDING_TIWANAKU_INFLUENCE</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_TIWANAKU_INFLUENCE</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_TIWANAKU_NEVER</Type>
+			<DefaultBuilding>BUILDING_TIWANAKU_NEVER</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_TIWANAKU_NEVER</Description>
+		</Row>
+
+		<Row>
+			<Type>BUILDINGCLASS_TIWANAKU_SHRINE</Type>
+			<DefaultBuilding>BUILDING_TIWANAKU_SHRINE</DefaultBuilding>
+			<Description>TXT_KEY_TIWANAKU_TECH</Description>
+		</Row>
+	</BuildingClasses>
+	<Buildings>
+
+		<Row>
+			<Type>BUILDING_TIWANAKU_INFLUENCE</Type>
+			<BuildingClass>BUILDINGCLASS_TIWANAKU_INFLUENCE</BuildingClass>
+			<Cost>-1</Cost>
+			<Help>TXT_KEY_TRAIT_CHAKANA_SHORT</Help>
+			<Description>TXT_KEY_TRAIT_CHAKANA_SHORT</Description>
+			<Civilopedia>TXT_KEY_TRAIT_CHAKANA</Civilopedia>
+			<Strategy>TXT_KEY_TRAIT_CHAKANA</Strategy>
+			<ArtDefineTag>THE PYRAMIDS</ArtDefineTag>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NukeImmune>true</NukeImmune>
+			<MinAreaSize>-1</MinAreaSize>
+			<NeverCapture>true</NeverCapture>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>CIV_COLOR_ATLAS_BOLIVIA</IconAtlas>
+		</Row>
+		<Row>
+			<Type>BUILDING_TIWANAKU_NEVER</Type>
+			<BuildingClass>BUILDINGCLASS_TIWANAKU_NEVER</BuildingClass>
+			<Cost>-1</Cost>
+			<Help>TXT_KEY_TRAIT_CHAKANA_SHORT</Help>
+			<Description>TXT_KEY_TRAIT_CHAKANA_SHORT</Description>
+			<Civilopedia>TXT_KEY_TRAIT_CHAKANA</Civilopedia>
+			<Strategy>TXT_KEY_TRAIT_CHAKANA</Strategy>
+			<ArtDefineTag>THE PYRAMIDS</ArtDefineTag>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NukeImmune>true</NukeImmune>
+			<MinAreaSize>-1</MinAreaSize>
+			<NeverCapture>true</NeverCapture>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>CIV_COLOR_ATLAS_BOLIVIA</IconAtlas>
+		</Row>
+		<Row>
+			<Type>BUILDING_TIWANAKU_SHRINE</Type>
+			<BuildingClass>BUILDINGCLASS_TIWANAKU_SHRINE</BuildingClass>
+			<Cost>-1</Cost>
+			<Help>TXT_KEY_TRAIT_CHAKANA_SHORT</Help>
+			<Description>TXT_KEY_TRAIT_CHAKANA_SHORT</Description>
+			<Civilopedia>TXT_KEY_TRAIT_CHAKANA</Civilopedia>
+			<Strategy>TXT_KEY_TRAIT_CHAKANA</Strategy>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NukeImmune>true</NukeImmune>
+			<FreeBuildingThisCity>BUILDINGCLASS_SHRINE</FreeBuildingThisCity>
+			<MinAreaSize>-1</MinAreaSize>
+
+			<NeverCapture>true</NeverCapture>
+			<PortraitIndex>1</PortraitIndex>
+			<IconAtlas>CIV_COLOR_ATLAS_TIWANAKU</IconAtlas>
+		</Row>
+
+	</Buildings>
+
+
+</GameData>

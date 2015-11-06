@@ -1,0 +1,13 @@
+<Asset>
+  <Mesh file="chatallata_pl.gr2" source="Max" />
+  <Texture file="PL_Lumbermill_MID_DIFF.dds" source="Max" />
+  <Texture file="PL_Lumbermill_MID_Decal_D.dds" source="Max" />
+  <Texture file="Generic_Grey_8.dds" source="Max" />
+  <Texture file="HB_Lumbermill_MID_SREF.dds" source="Max" />
+  <Texture file="Lumbermill_MID_Decal_H.dds" source="Max" />
+  <BoneUsage>
+    <Bone name="FX_PillagedSmoke" />
+  </BoneUsage>
+  <TimedTrigger file="FX_Triggers_PL_Lumbermill_MID.ftsxml" source="Tool" model="PL_MID_Lumbermill" state="0,1,2,3" />
+  <DecisionTree file="StaticLandmarkDecisionTree.ddtxml" source="Tool" />
+</Asset>

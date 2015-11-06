@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/19/2013 1:20:28 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_TEST_DIALOG_BUTTON_TIWA_BACK">
+			<Text>Go Back</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TEST_DIALOG_BUTTON_TIWA_OK">
+			<Text>Accept</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TEST_DIALOG_BUTTON_TIWA_OK_TT">
+			<Text>Acquire the City-State as part of your empire! (May increase [ICON_HAPPINESS_4] Unhappiness)
+			[NEWLINE]NOTE: Some dissident citizens may be lost.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TEST_DIALOG_BUTTON_TIWA_VIEW">
+			<Text>Find on Map</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TEST_DIALOG_BUTTON_TIWA_NEVER">
+			<Text>Never</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TEST_DIALOG_BUTTON_TIWA_NEVER_TT">
+			<Text>NOTE: This action cannot be undone</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TEST_DIALOG_BUTTON_TIWA_LATER">
+			<Text>Not Now</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TEST_DIALOG_BUTTON_TIWA_LATER_TT">
+			<Text>NOTE: You'll have to wait until they decide again</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TEST_TIWAPOPUP">
+			<Text>The citizens of [ICON_CITY_STATE]{1_LeaderName} have been influenced by your
+			[NEWLINE]religion and diplomacy and want to join your empire!</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_TIWA_INFLUENCED_NOTIFICATION_TITLE">
+			<Text>{1_Toldname} has joined the Tiwanaku empire!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TIWA_INFLUENCED_NOTIFICATION">
+			<Text>The citizens of {1_Toldname} have been influenced by Tiwanaku to join their culture and religion, and the city is now known as {2_Tnewname}!</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_TIWA_INFLUENCED_NOTIFICATION_UNMET_TITLE">
+			<Text>{1_Toldname} has joined an Unmet Civilization!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TIWA_INFLUENCED_NOTIFICATION_UNMET">
+			<Text>The citizens of {1_Toldname} have been influenced by an Unmet Civilization to join their culture and religion, and the city is now known as {2_Tnewname}!</Text>
+		</Row>
+		
+		
+		
+		<Row Tag="TXT_KEY_TIWA_INFLUENCE_NOTIFICATION_TITLE">
+			<Text>{1_Toldname} is being influenced!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TIWA_INFLUENCE_NOTIFICATION">
+			<Text>The citizens of {1_Toldname} have been influenced by you, in 5 turns they will ask you to join your empire if you keep your alliance and religion with them!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUYUSTUS">
+			<Text>Huyustus</Text>
+		</Row>
+		<!--Leader Speech -->
+		<!--Greeting (first time meeting) -->
+		<Row Tag="TXT_KEY_LEADER_HUYUSTUS_FIRSTGREETING_1">
+			<Text>Welcome, fair traveler. We're the people of Tiwanaku, join us while we wait to join the stars.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUYUSTUS_FIRSTGREETING_2">
+			<Text>Salutations, wanderer. I'm Huyustus, behold as the Sun enters through its door!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUYUSTUS_FIRSTGREETING_3">
+			<Text>The stars did not lie, a person with great power was near. I'm Huyustus, guide to the people of Tiwanaku.</Text>
+		</Row>
+
+		<!--Defeated and removed from game -->
+		<Row Tag="TXT_KEY_LEADER_HUYUSTUS_DEFEATED_1">
+			<Text>At least now, we will join our ancestors.</Text>
+		</Row>
+		
+		
+		<Update>
+			<Set Text="Machu"/>
+			<Where Tag="TXT_KEY_CITY_NAME_TIWANAKU"/>
+		</Update>
+		<Update>
+			<Set Text="Willcabamba"/>
+			<Where Tag="TXT_KEY_CITY_NAME_MACHU"/>
+		</Update>
+		<Update>
+			<Set Text="Tomebamba"/>
+			<Where Tag="TXT_KEY_CITY_NAME_VILCABAMBA"/>
+		</Update>
+
+			<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_01">
+				<Text>Tiwanaku</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_02">
+				<Text>Pariti</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_03">
+				<Text>Lukurmata</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_04">
+				<Text>Wankane</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_05">
+				<Text>Pokotia</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_06">
+				<Text>Pajchiri</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_07">
+				<Text>Ojjo</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_08">
+				<Text>Omo</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_09">
+				<Text>Atacama</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_10">
+				<Text>Pampa Koani</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_11">
+				<Text>Machaca</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_12">
+				<Text>Pucará</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_13">
+				<Text>Wiracochapampa</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_14">
+				<Text>Wilcawaín</Text>
+			</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_15">
+			<Text>Cajamarquilla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_16">
+			<Text>Pachacámac</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_17">
+			<Text>Wariwillca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_18">
+			<Text>Piquillacta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_19">
+			<Text>Ichabamba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_20">
+			<Text>Hongo Pampa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_21">
+			<Text>Huilcahuaín</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_22">
+			<Text>Chimu Cápac</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_23">
+			<Text>Socos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_24">
+			<Text>Maymi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_25">
+			<Text>Atarco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_27">
+			<Text>Azángaro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_28">
+			<Text>Qonchopata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_29">
+			<Text>Jargampata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_30">
+			<Text>Jincamoqo</Text>
+		</Row>
+
+			<Row Tag="TXT_KEY_CIV_TIWANAKU_ADJECTIVE">
+				<Text>Tiwanaku</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV_TIWANAKU_DESC">
+				<Text>Tiwanaku Empire</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV_TIWANAKU_SHORT_DESC">
+				<Text>Tiwanaku</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_TIWANAKU_HEADING_1">
+				<Text>History</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_TIWANAKU_DOM_TEXT_1">
+				<Text>
+					Oh great cacique, Huyustus, guide to the enigmatic people of Tiwanaku. Truly the glory of your empire outshone that of many.
+					[NEWLINE][NEWLINE]Established on the Titicaca Basin, the most productive environment in the Andes, your culture developed architecture, science, and faith to a degree not seen before in the area. Your influence reached into the Yungas, bringing your way of life to many other cultures in the regions of Peru, Bolivia, and the people of the Northern regions of Argentina and Chile. Your neighboors were drawn to the great city of Tiwanaku, due to your strong religion, and force was rarely necessary to expand.
+					[NEWLINE][NEWLINE]At the height of your growth, your people built impressive monuments such as the pyramid of Akapana, or the great Pumapunku; establishing the greatest empire of America, before that of the Inca. You managed to share your extent and culture with another great empire, the Wari. But your people disappeared due to unknown reasons.
+					[NEWLINE][NEWLINE]Huyustus, legends tell of how you led the people of Tiwanaku to the stars, will you help them show your brightness to the world once more? Will you build a civilization that will stand the test of time?
+				</Text>
+			</Row>
+		<Row Tag="TXT_KEY_CIV_TIWANAKU_PEDIA">
+			<Text>
+				Tiwanaku (Spanish: ''Tiahuanaco and Tiahuanacu'') is a Pre-Columbian archaeological site in western Bolivia, South America. It is the capital of an empire that extended into present-day Peru and Chile, flourishing from AD 300 to AD 1000.
+				Tiwanaku is recognized by Andean scholars as one of the most important civilizations prior to the Inca Empire; it was the ritual and administrative capital of a major state power for approximately five hundred years. The ruins of the ancient city state are near the south-eastern shore of Lake Titicaca in the La Paz Department, Ingavi Province, Tiwanaku Municipality, about 72 km (45 mi) west of La Paz.
+				The site was first recorded in written history by Spanish conquistador Pedro Cieza de León. He came upon the remains of Tiwanaku in 1549 while searching for the Inca capital Qullasuyu.[1]
+				[NEWLINE][NEWLINE]Some have hypothesized that Tiwanaku's modern name is related to the Aymara term taypiqala, meaning "stone in the center", alluding to the belief that it lay at the center of the world.[2] The name by which Tiwanaku was known to its inhabitants may have been lost as they had no written language.
+				The area around Tiwanaku may have been inhabited as early as 1500 BC as a small agricultural village.[5] Most research has studied the Tiwanaku IV and V periods between AD 300 and AD 1000, during which the polity grew significantly in power. During the time period between 300 BC and AD 300, Tiwanaku is thought to have been a moral and cosmological center to which many people made pilgrimages. Researchers believe it achieved this standing prior to expanding its powerful empire.[1] In 1945, Arthur Posnansky[6] estimated that Tiwanaku dated to 15,000 BC, based on his archaeoastronomical techniques. In the 21st century, experts decisively concluded Posnansky's dates were invalid and a "sorry example of misused archaeoastronomical evidence."[7]
+				Tiwanaku's location between the lake and dry highlands provided key resources of fish, wild birds, plants, and herding grounds for camelidae, particularly llamas.[8] The Titicaca Basin is the most productive environment in the area, with predictable and abundant rainfall. The Tiwanaku culture developed expanded farming. To the east, the Altiplano is an area of very dry arid land.[1] The Tiwanaku developed a distinctive farming technique known as "flooded-raised field" agriculture (suka kollus) to deal with the high-altitude Titicaca Basin. Such fields were used widely in regional architecture, together with irrigated fields, pasture, terraced fields and qochas (artificial ponds).[1]
+				[NEWLINE][NEWLINE]Artificially raised planting mounds are separated by shallow canals filled with water. The canals supply moisture for growing crops, but they also absorb heat from solar radiation during the day. This heat is gradually emitted during the bitterly cold nights and provide thermal insulation against the endemic frost in the region. Traces of similar landscape management have been found in the Llanos de Moxos region (Amazonian flood plains of the Moxos).[9] Over time, the canals also were used to farm edible fish. The resulting canal sludge was dredged for fertilizer. The fields grew to cover nearly the entire surface of the lake[citation needed] and although they were not uniform in size or shape, all had the same primary function.[9]
+				Though labor-intensive, suka kollus produce impressive yields. While traditional agriculture in the region typically yields 2.4 metric tons of potatoes per hectare, and modern agriculture (with artificial fertilizers and pesticides) yields about 14.5 metric tons per hectare, suka kollu agriculture yields an average of 21 tons per hectare.[1]
+				[NEWLINE][NEWLINE]Modern agricultural researchers have re-introduced the technique of suka kollus. Significantly, the experimental suka kollus fields recreated in the 1980s by University of Chicago´s Alan Kolata and Oswaldo Rivera suffered only a 10% decrease in production following a 1988 freeze that killed 70-90% of the rest of the region's production.[10] Development by the Tiwanaku of this kind of protection against killing frosts in an agrarian civilization was invaluable to their growth.[10]
+				As the population grew, occupational niches developed, and people began to specialize in certain skills. There was an increase in artisans, who worked in pottery, jewelry and textiles. Like the later Incas, the Tiwanaku had few commercial or market institutions. Instead, the culture relied on elite redistribution.[11] That is, the elites of the empire controlled essentially all economic output, but were expected to provide each commoner with all the resources needed to perform his or her function. Selected occupations include agriculturists, herders, pastoralists, etc. Such separation of occupations was accompanied by hierarchichal stratification within the empire.[12]
+				[NEWLINE][NEWLINE]The elites of Tiwanaku lived inside four walls that were surrounded by a moat. This moat, some believe, was to create the image of a sacred island. Inside the walls were many images devoted to human origin, which only the elites would see. Commoners may have ever entered this structure only for ceremonial purposes since it was home to the holiest of shrines.
+				Around AD 400 a state in the Titicaca basin began to develop and an urban capital was built at Tiwanaku.[13] Tiwanaku expanded its reaches into the Yungas and brought its culture and way of life to many other cultures in Peru, Bolivia, and the people of the Northern regions of Argentina and Chile. It was not exclusively a military or violent culture. In order to expand its reach, Tiwanaku used politics to create colonies, negotiate trade agreements (which made the other cultures rather dependent), and establish state cults.[14]
+				Others were drawn into the Tiwanaku empire due to religious beliefs, as it continued as a religious center. Force was rarely necessary for the empire to expand, but on the northern end of the Basin, resistance was present. There is evidence that bases of some statues were taken from other cultures and carried all the way back to the capital city of Tiwanaku, where the stones were placed in a subordinate position to the Gods of the Tiwanaku. They displayed the power their empire had over many.[15]
+				The Tiwanaku conducted human sacrifices on top of a building known as the Akipana. People were disemboweled and torn apart shortly after death and laid out for all to see. It is speculated that this ritual was a form of dedication to the gods. Research showed that one man who was sacrificed was not a native to the Titicaca Basin, leaving room to think that sacrifices were most likely not of people originally within the society.[1]
+				The community grew to urban proportions between AD 600 and AD 800, becoming an important regional power in the southern Andes. Early estimates figured that the city had covered approximately 6.5 square kilometers at its maximum, with between 15,000–30,000 inhabitants.[1] However, satellite imaging since the late 20th century has caused researchers to dramatically raise their estimates of population. They found that the extent of fossilized suka kollus across the three primary valleys of Tiwanaku appeared to have the capacity to support a population of between 285,000 and 1,482,000 people.[10]
+				The empire continued to grow, absorbing cultures rather than eradicating them. William H. Isbell states that "Tiahuanaco underwent a dramatic transformation between AD 600 and AD 700 that established new monumental standards for civic architecture and greatly increased the resident population." [16] Archaeologists note a noticeable adoption of Tiwanaku ceramics in the cultures that became part of the empire. Tiwanaku gained its power through the trade it implemented among the cities within its empire.[14] The elites gained their status by control of the surplus of food obtained from all regions, which they redistributed among all the people. Control of llama herds became very significant to Tiwanaku. The animals were essential for transporting crops and goods between the center and periphery of the empire. The animals may also have symbolized the distance between the commoners and the elites.
+				The elites' power continued to grow along with the surplus of resources until about AD 950. At this time a dramatic shift in climate occurred,[1] as is typical for the region.[17][18] A significant drop in precipitation occurred in the Titicaca Basin, and some archaeologists suggest a great drought occurred. As the rain was reduced, many of the cities furthest away from Lake Titicaca began to produce fewer crops to give to the elites. As the surplus of food dropped, the elites' power began to fall. Due to the resiliency of the raised fields, the capital city became the last place of agricultural production. With continued drought, people died or moved elsewhere. Tiwanaku disappeared around AD 1000. The land was not inhabited again for many years.[1] In isolated places, some remnants of the Tiwanaku people, such as the Uros, may be direct descendants of the people.
+				Beyond the northern frontier of the Tiwanaku state, a new power started to emerge in the beginning of the 13th century, the Inca Empire.
+				In AD 1445 Pachacuti Inca Yupanqui (the ninth Inca) began conquest of the Titicaca regions. He incorporated and developed what was left from the Tiwanaku patterns of culture, and the Inca officials were superimposed upon the existing local officials. Quechua was made the official language and sun worship the official religion. So, the last traces of the Tiwanaku civilization were integrated or abandoned.
+			</Text>
+		</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_HUYUSTUS_HEADING_1">
+				<Text>History</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_HUYUSTUS_TEXT_1">
+				<Text>
+					Huyustus is the only name that prevailed from Tiwanaku. Sources indicate he was a cacique and tinker of the great Empire. In the legends an myths of the Aymara, Huyustus is the one who sent all his kingdom (Tiwanaku) to the reign of the stars, explaining with the myth the dissapearance of Tiwanaku. Huyustus is called "Mallku" by the Aymara, which emphasizes its role as a leader. For the Inca, Huyustus is considered either the precursor of the Inca Empire (granting them their lands) or a cruel leader who made their ancestors dissappear.
+				</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_HUYUSTUS_LIVED">
+				<Text>Unknown date</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_HUYUSTUS_NAME">
+				<Text>Huyustus</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_HUYUSTUS_SUBTITLE">
+				<Text>Cacique of Tiwanaku</Text>
+			</Row>
+			
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_HUYUSTUS_TITLES_1">
+				<Text>Unknown</Text>
+			</Row>
+			<Row Tag="TXT_KEY_TRAIT_CHAKANA">
+				<Text>
+					Upon the discovery of Pottery, receive a free Shrine in your first four cities. Until the World Congress is founded, allied City-States that have been following your religion may eventually join the empire.
+				</Text>
+			</Row>
+			<Row Tag="TXT_KEY_TRAIT_CHAKANA_SHORT">
+				<Text>Chakana Theocracy</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_TIWANAKU_0">
+				<Text>Chachapuma</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_TIWANAKU_1">
+				<Text>Pumakatari</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_TIWANAKU_2">
+				<Text>Puquina</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_TIWANAKU_3">
+				<Text>Akachachi</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_TIWANAKU_4">
+				<Text>Willka</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_TIWANAKU_5">
+				<Text>Chakan</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_TIWANAKU_6">
+				<Text>Cheratari</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_TIWANAKU_7">
+				<Text>Akapuma</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_TIWANAKU_8">
+				<Text>Amauchapa</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_TIWANAKU_9">
+				<Text>Pachapuma</Text>
+			</Row>
+
+
+		
+		<Row Tag="TXT_KEY_UNIT_KALLAWAYA">
+			<Text>Sisqeno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_KALLAWAYA_HELP">
+			<Text>Replacement for the Missionary. The Sisqeno may perform a Challa Ritual on Chatallatas and Great Person Tile Improvements, increasing its yields by 2 (on Chatallatas, +1 of each yield)..</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_KALLAWAYA_STRATEGY">
+			<Text>The Sisqeno may be used for spreading religions and also for increasing the yields from a city. Use which caution, since performing the Challa will consume the Sisqeno.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_KALLAWAYA_TEXT">
+			<Text>
+				No local written language has yet been deciphered (quipus remains poorly understood). What is known of Tiwanaku religious beliefs is based on archaeological interpretation and some myths, which may have been passed down to the Incas and the Spanish. They seem to have worshipped many gods, perhaps centered around agriculture. One of the most important gods was Viracocha[citation needed], the god of action, shaper of many worlds, and destroyer of many worlds. He created people, with two servants, on a great piece of rock. Then he drew sections on the rock and sent his servants to name the tribes in those areas. In Tiwanaku, he created the people out of rock and brought life to them through the earth. The Tiwanaku believed that Viracocha created giants to move the massive stones that comprise much of their archaeology, but then grew unhappy with the giants and created a flood to destroy them[citation needed].
+				Viracocha is carved into the noted Gateway of the Sun, to overlook his people and lands. The Gateway of the Sun is a monolithic structure of regular, non-monumental size. Its dimensions suggest that other regularly sized buildings existed at the site. It was found at Kalasasaya, but due to the similarity of other gateways found at Pumapunku, it is thought to have been originally part of a series of doorways there.[1]
+				It is recognized for its singular, great frieze. This is thought to represent a main deity figure surrounded by either calendar signs or natural forces for agricultural worship. Along with Viracocha, another statue is in the Gateway of the Sun. This statue is believed to be associated with the weather:
+				"a celestial high god that personified various elements of natural forces intimately associated the productive potential of altiplano ecology: the sun, wind, rain, hail - in brief, a personification of atmospherics that most directly affect agricultural production in either a positive or negative manner",[1]
+				It has twelve faces covered by a solar mask, and at the base thirty running or kneeling figures.[1] Some scientists believe that this statue is a representation of the calendar with twelve months and thirty days in each month.[1]
+				Other evidence points to a system of ancestor worship at Tiwanaku. The preservation, use, and reconfiguration of mummy bundles and skeletal remains, as with the later Inca, may suggest that this is the case.[1] Later cultures within the area made use of large "above ground burial chambers for the social elite ... known as "chullpas".[1] Similar, though smaller, structures were found within the site of Tiwanaku.[1]
+				Kolata suggests that, like the later Inka, the inhabitants of Tiwanaku may have practiced similar rituals and rites in relation to the dead. The Akapana East Building has evidence of ancestor burial. The human remains at Akapana East seem to be less for show and more for proper burial. The skeletons show many cut marks that were most likely made by defleshing or excarnation after death. The remains were then bundled up and buried rather than left out in the open.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_IMPROVEMENT_CHATALLATA">
+			<Text>Chatallata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_CHATALLATA_TEXT">
+			<Text>
+				Tiwanaku monumental architecture is characterized by large stones of exceptional workmanship. In contrast to the masonry style of the later Inca, Tiwanaku stone architecture usually employs rectangular ashlar blocks laid in regular courses. Their monumental structures were frequently fitted with elaborate drainage systems. The drainage systems of the Akapana and Pumapunku structures include conduits composed of red sandstone blocks held together by ternary (copper/arsenic/nickel) bronze architectural cramps. The I-shaped architectural cramps of the Akapana were created by cold hammering of ingots. In contrast, the cramps of the Pumapunku were created by pouring molten metal into I-shaped sockets.[19] The blocks have flat faces that do not need to be fitted upon placement because the grooves make it possible for the blocks to be shifted by ropes into place. The main architectural appeal of the site comes from the carved images and designs on some of these blocks, carved doorways, and giant stone monoliths.
+				[NEWLINE][NEWLINE]The quarries that supplied the stone blocks for Tiwanaku lie at significant distances from this site. The red sandstone used in this site's structures has been determined by petrographic analysis to come from a quarry 10 kilometers away—a remarkable distance considering that the largest of these stones weighs 131 metric tons. The green andesite stones that were used to create the most elaborate carvings and monoliths originate from the Copacabana peninsula, located across Lake Titicaca. One theory is that these giant andesite stones, which weigh over 40 tons, were transported some 90 kilometers across Lake Titicaca on reed boats, then laboriously dragged another 10 kilometers to the city.
+				[NEWLINE][NEWLINE]The buildings that have been excavated include the Akapana, Akapana East, and Pumapunku stepped platforms, the Kalasasaya, the Kheri Kala, and Putuni enclosures, and the Semi-Subterranean Temple. These may be visited by the public.
+				The Akapana is an approximately cross-shaped pyramidal structure that is 257 m wide, 197 m broad at its maximum, and 16.5 m tall. At its center appears to have been a sunken court. This was nearly destroyed by a deep looters excavation that extends from the center of this structure to its eastern side. Material from the looters excavation was dumped off the eastern side of the Akapana. A staircase with sculptures is present on its western side. Possible residential complexes might have occupied both the northeast and southeast corners of this structure.
+				Originally, the Akapana was thought to have been made from a modified hill. Twenty-first century studies have shown that it is a manmade earthen mound, faced with a mixture of large and small stone blocks. The dirt comprising Akapana appears to have been excavated from the "moat" that surrounds the site.[20] The largest stone block within the Akapana, made of andesite, is estimated to weigh 65.70 metric tons. The structure was possibly for the shaman-puma relationship or transformation through shape shifting. Tenon puma and human heads stud the upper terraces.
+				[NEWLINE][NEWLINE]The Akapana East was built on the eastern side of early Tiwanaku. Later it was considered a boundary between the ceremonial center and the urban area. It was made of a thick, prepared floor of sand and clay, which supported a group of buildings. Yellow and red clay were used in different areas for what seems like aesthetic purposes. It was swept clean of all domestic refuse, signaling its great importance to the culture.
+				Main article: Pumapunku
+				The Pumapunku is a man-made platform built on an east-west axis like the Akapana. It is a rectangular terraced earthen mound faced with megalithic blocks. It is 167.36 m wide along its north-south axis and 116.7 m broad along its east-west axis, and is 5 m tall. Identical 20-meter wide projections extend 27.6 meters north and south from the northeast and southeast corners of the Pumapunku. Walled and unwalled courts and an esplanade are associated with this structure.
+				A prominent feature of the Pumapunka is a large stone terrace; it is 6.75 by 38.72 meters in dimension and paved with large stone blocks. It is called the "Plataforma Lítica". The Plataforma Lítica contains the largest stone block found in the Tiwanaku Site. Ponce Sangines the block is estimated to weigh 131 metric tons. The second largest stone block found within the Pumapunka is estimated to be 85 metric tons.
+				[NEWLINE][NEWLINE]The Kalasasaya is a large courtyard over three hundred feet long, outlined by a high gateway. It is located to the north of the Akapana and west of the Semi-Subterranean Temple. Within the courtyard is where explorers found the Gateway of the Sun. Since the late 20th century, researchers have theorized that this was not the gateway's original location. Near the courtyard is the Semi-Subterranean Temple; a square sunken courtyard that is unique for its north-south rather than east-west axis. The walls are covered with tenon heads of many different styles, suggesting that the structure was reused for different purposes over time.[25] It was built with walls of sandstone pillars and smaller blocks of Ashlar masonry.[25][26] The largest stone block in the Kalasasaya is estimated to weigh 26.95 metric tons.
+				[NEWLINE][NEWLINE]Within many of the site's structures are impressive gateways; the ones of monumental scale are placed on artificial mounds, platforms, or sunken courts. Many gateways show iconography of "Staffed Gods." This iconography also is used on some oversized vessels, indicating an importance to the culture. This iconography is most present on the Gateway of the Sun.
+				[NEWLINE][NEWLINE]The Gateway of the Sun and others located at Pumapunku are not complete. They are missing part of a typical recessed frame known as a chambranle, which typically have sockets for clamps to support later additions. These architectural examples, as well as the recently discovered Akapana Gate, have a unique detail and demonstrate high skill in stone-cutting. This reveals a knowledge of descriptive geometry. The regularity of elements suggest they are part of a system of proportions.
+				[NEWLINE][NEWLINE]Many theories for the skill of Tiwanaku's architectural construction have been proposed. One is that they used a luk’a, which is a standard measurement of about sixty centimeters. Another argument is for the Pythagorean Ratio. This idea calls for right triangles at a ratio of five to four to three used in the gateways to measure all parts. Lastly Protzen and Nair argue that Tiwanaku had a system set for individual elements dependent on context and composition. This is shown in the construction of similar gateways ranging from diminutive to monumental size, proving that scaling factors did not affect proportion. With each added element, the individual pieces were shifted to fit together.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CHATALLATA">
+			<Text>Build Chatallata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CHATALLATA_HELP">
+			<Text>Unlocked at the discovery of Construction, may only be built on flatlands without grass. The Chatallata yields +1 [ICON_RESEARCH] Science and +2 [ICON_PEACE] when built next to a city; and +1 of both yields when built next to a mountain, after the discovery of Astronomy, both yields are increased by 1 even when far from mountains or cities. The Chatallata is destroyed when pillaged.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CHATALLATA_REC">
+			<Text>Building a Chatallata will increase the [ICON_RESEARCH] Science and [ICON_PEACE] Faith in the empire!</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_IMPROVEMENT_CHALLA_CHATALLATA">
+			<Text>Enhanced Chatallata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_CHALLA_HOLY_SITE">
+			<Text>Enhanced Holy Site</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_CHALLA_CUSTOMS_HOUSE">
+			<Text>Enhanced Customs House</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_CHALLA_MANUFACTORY">
+			<Text>Enhanced Manufactory</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_CHALLA_ACADEMY">
+			<Text>Enhanced Academy</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILD_CHALLA">
+			<Text>Perform a Challa Ritual</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CHALLA_HELP">
+			<Text>The Improvement on this tile will be enhanced, receiving +2 of its yields (+1 of each yield if it is a Chatallata)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CHALLA_REC">
+			<Text>The Improvement on this tile will be enhanced, receiving +2 of its yields (+1 of each yield if it is a Chatallata)</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TIWANAKU_INFLUENCE">
+			<Text>Religious Domination from Tiwanaku</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TIWANAKU_INFLUENCE_HELP">
+			<Text>Tiwanaku is influencing this City-State with its religion, which can result in the City-State joining Tiwanaku!</Text>
+		</Row>
+	</Language_en_US>
+	
+	<!-- __________________________________________________________________________________________________________________________________ -->
+
+	<Language_ES_ES>
+		<Row Tag="TXT_KEY_TEST_DIALOG_BUTTON_TIWA_BACK">
+			<Text>Volver</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TEST_DIALOG_BUTTON_TIWA_OK">
+			<Text>Aceptar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TEST_DIALOG_BUTTON_TIWA_OK_TT">
+			<Text>¡Adquiere la Ciudad-Estado como parte de tu imperio! (puede incrementar la Infelicidad [ICON_HAPPINNESS_4])
+				[NEWLINE]NOTA: Algunos ciudadanos disidentes pueden perderse-
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TEST_DIALOG_BUTTON_TIWA_VIEW">
+			<Text>Ver en el Mapa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TEST_DIALOG_BUTTON_TIWA_NEVER">
+			<Text>Nunca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TEST_DIALOG_BUTTON_TIWA_NEVER_TT">
+			<Text>NOTA: Esta acción no puede deshacerse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TEST_DIALOG_BUTTON_TIWA_LATER">
+			<Text>Ahora no</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TEST_DIALOG_BUTTON_TIWA_LATER_TT">
+			<Text>NOTA: Deberás esperar un largo tiempo para decidir otra vez</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TEST_TIWAPOPUP">
+			<Text>
+				¡Los ciudadanos de [ICON_CITY_STATE]{1_LeaderName} fueron influenciados por tu
+				[NEWLINE] religión y diplomacia, y quieren unirse a tu imperio!
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TIWA_INFLUENCED_NOTIFICATION_TITLE">
+			<Text>¡{1_Toldname} se unió al imperio Tiwanakota!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TIWA_INFLUENCED_NOTIFICATION">
+			<Text>¡Los ciudadanos de {1_Toldname} fueron influenciados por Tiwanaku para unirse a su cultura y religión, y la ciudad ahora es conocida como {2_Tnewname}!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TIWA_INFLUENCED_NOTIFICATION_UNMET_TITLE">
+			<Text>¡{1_Toldname} se unió a una Civilización Desconocida!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TIWA_INFLUENCED_NOTIFICATION_UNMET">
+			<Text>¡Los ciudadanos de {1_Toldname} fueron influenciados por una civilización desconocida para unirse a su cultura y religión, y la ciudad ahora es conocida como {2_Tnewname}!!</Text>
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_TIWA_INFLUENCE_NOTIFICATION_TITLE">
+			<Text>¡{1_Toldname} está siendo influenciada!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TIWA_INFLUENCE_NOTIFICATION">
+			<Text>Los ciudadanos de {1_Toldname} están siendo influenciados por tí, en 5 turnos te buscarán para formar parte del imperio, si mantienes tu relación y religión con ellos.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUYUSTUS">
+			<Text>Huyustus</Text>
+		</Row>
+		<!--Leader Speech -->
+		<!--Greeting (first time meeting) -->
+		<Row Tag="TXT_KEY_LEADER_HUYUSTUS_FIRSTGREETING_1">
+			<Text>Bienvenido, viajero. Somos la gente de Tiwanaku, unétenos mientras esperamos a llegar a las estrellas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUYUSTUS_FIRSTGREETING_2">
+			<Text>Saludos, peregrino. Soy Huyustus. ¡Observa mientras el sol entra por su puerta!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUYUSTUS_FIRSTGREETING_3">
+			<Text>Las estrellas no mintieron, una persona de gran poder se acercaba. Soy Huyustus, guía del pueblo de Tiwanaku.</Text>
+		</Row>
+
+		<!--Defeated and removed from game -->
+		<Row Tag="TXT_KEY_LEADER_HUYUSTUS_DEFEATED_1">
+			<Text>Al menos ahora, podermos unirnos a nuestros ancestros.</Text>
+		</Row>
+
+
+		<Update>
+			<Set Text="Machu"/>
+			<Where Tag="TXT_KEY_CITY_NAME_TIWANAKU"/>
+		</Update>
+		<Update>
+			<Set Text="Willcabamba"/>
+			<Where Tag="TXT_KEY_CITY_NAME_MACHU"/>
+		</Update>
+		<Update>
+			<Set Text="Tomebamba"/>
+			<Where Tag="TXT_KEY_CITY_NAME_VILCABAMBA"/>
+		</Update>
+
+		<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_01">
+			<Text>Tiwanaku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_02">
+			<Text>Wankane</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_03">
+			<Text>Lukurmata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_04">
+			<Text>Pariti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_05">
+			<Text>Pokotia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_06">
+			<Text>Pajchiri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_07">
+			<Text>Ojjo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_08">
+			<Text>Omo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_09">
+			<Text>Atacama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_10">
+			<Text>Pampa Koani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_11">
+			<Text>Machaca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_12">
+			<Text>Pucará</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_13">
+			<Text>Wiracochapampa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_14">
+			<Text>Wilcawaín</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_15">
+			<Text>Cajamarquilla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_16">
+			<Text>Pachacámac</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_17">
+			<Text>Wariwillca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_18">
+			<Text>Piquillacta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_19">
+			<Text>Ichabamba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_20">
+			<Text>Hongo Pampa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_21">
+			<Text>Huilcahuaín</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_22">
+			<Text>Chimu Cápac</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_23">
+			<Text>Socos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_24">
+			<Text>Maymi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_25">
+			<Text>Atarco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_27">
+			<Text>Azángaro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_28">
+			<Text>Qonchopata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_29">
+			<Text>Jargampata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIWANAKU_30">
+			<Text>Jincamoqo</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV_TIWANAKU_ADJECTIVE">
+			<Text>tiwanakota|tiwanakota|tiwanakotas|tiwanakotas</Text>
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TIWANAKU_DESC">
+			<Text>Imperio de Tiwanaku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TIWANAKU_SHORT_DESC">
+			<Text>Tiwanaku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TIWANAKU_HEADING_1">
+			<Text>Historia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TIWANAKU_DOM_TEXT_1">
+			<Text>
+				Oh gran cacique, Huyustus, guía de la enigmática gente de Tiwanaku. Ciertamente la gloria de tu imperio sobrepasó la de muchos.
+				[NEWLINE][NEWLINE]Establecidos a orillas del Titicaca, el ambiente más productivo de los Andes, tu cultura desarrolló arquitectura, ciencia y creencias en un grado no conocido antes en el área. La influencia de tu gente llegó hasta los Yungas, llevando tus formas de vida a muchas otras culturas en las regiones de Perú, Bolivia y la gente de las regiones del norte de Argentina y Chile. Sin la necesidad de armas, tus vecinos fueron llevados a la gran ciudad de Tiwanaku, por su fuerza religiosa.
+				[NEWLINE][NEWLINE]En lo más alto de su crecimiento, tu gente construyó impresionantes monumentos como la pirámide de Akapana, o el gran Pumapunku; estableciendo el más grande imperio de América, antes de los Incas. Lograste compartir tu extensión y cultura con otro gran imperio, el de los Wari. Pero tu gente desapareció misteriosamente.
+				[NEWLINE][NEWLINE]Huysutus, las leyendas hablan de cómo guíaste a tu gente a las estrellas, ¿ayudarás a mostrar su brillo nuevamente? ¿Construirás una civilización que sobrepase las pruebas del tiempo?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TIWANAKU_PEDIA">
+			<Text>
+				Tiwanaku (Spanish: ''Tiahuanaco and Tiahuanacu'') is a Pre-Columbian archaeological site in western Bolivia, South America. It is the capital of an empire that extended into present-day Peru and Chile, flourishing from AD 300 to AD 1000.
+				TTiahuanaco o Tiwanaku es una antigua ciudad arqueológica , capital de la cultura tiahuanaco ubicada en el altiplano boliviano en la margen oriental del río Tiwanaku, a 15 km al sudeste del lago Titicaca, correspondiente al Departamento de La Paz.
+				[NEWLINE][NEWLINE]Tiahuanaco fue el centro de la civilización tiahuanaco, una cultura preincaica que basaba su economía en la agricultura y la ganadería, y que abarcó los territorios de la meseta del Collao, entre el occidente de Bolivia, el sur del Perú, el noroeste de Argentina y el norte de Chile, regiones desde las cuales irradió su influencia tecnológica y religiosa hacia otras civilizaciones contemporáneas a ella.
+				La ciudad de Tiahuanaco se caracteriza por su arquitectura decorada con relieves y planos incisos colocados sobre estelas; está compuesta por siete construcciones arquitectónicas importantes: Kalasasaya, Templete Semisubterráneo, Pirámide de [NEWLINE][NEWLINE]Akapana, Puerta del Sol y Puma Punku.
+				Testimonio de una importante cultura preincaica, la cultura Tiahuanaco poseía un puerto en el Lago Titicaca aunque ahora se encuentre a 15 km de distancia de él. La magnificencia de su cultura se refleja en su excelente obra cerámica con los famosos queros (vasos ceremoniales), los huaco-retratos (retrato tridimensional de un rostro humano en una vasija) así como los textiles y sobre todo en las construcciones arquitectónicas, muchas de las cuales poseen orientación astronómica.
+				Esta cultura según algunos autores se inició alrededor del 1500 a 1000 a.C., aunque según estudios más recientes se inició entre 900 a 800 a.C. y colapsó alrededor del año 900 o 1000 d. C. Dada su aparente antigüedad, algunos estudiosos propusieron que Tiahuanaco fue la cultura madre de las civilizaciones americanas, mientras que otros la consideraban como la capital de un antiguo imperio megalítico, o de un gran imperio que se expandió por todos los Andes Centrales.
+				Se considera que Tiahuanaco es una de las culturas más longevas de América del Sur, con 25 siglos de duración desde el año 1500 A.C. al 1000 D.C., aunque estudios más recientes solo le dan una antiguedad a partir de 900 a 800 A.C. La urbe prehispánica de Tiahuanaco fue la capital de un estado andino que comprendía el territorio nombrado como la Meseta del Altiplano. Esta cultura se caracteriza por haber conocido el bronce, lo que le dio una gran ventaja tecnológica y militar con respecto a las otras culturas de América en aquellos tiempos; prueba de ello es que se han encontrado uniones de bronce en sus construcciones, utensilios y armas.
+				La capital de este imperio es Tiahuanaco; se halla 70 km al noroeste de la ciudad de La Paz, por carretera, y a una altura de 3.885 m.s.n.m. a 15 km del Lago Titicaca. Según Alan L. Kolata, arqueólogo norteamericano que realizó sucesivas excavaciones en este sitio durante los años ochenta y principios de los noventa, alrededor del año 1000 la ciudad tenía una población de 115.000 habitantes, junto con otros 250.000 en los campos circundantes.
+				Pero para muchos, estas cifras son muy elevadas; se dice que es más probable que la ciudad haya alcanzado en su apogeo una población de veinte o treinta mil personas. Esta cultura extendió sus dominios físicos a 600.000 km², aproximadamente.
+				Las características de construcción de la capital son únicas y espléndidas, confluyen en ella, arquitectos planificadores, que con un singular dibujo de líneas simples diseñaron fastuosos templos; los ingenieros calcularon las inclinaciones de los muros, y con una excelente técnica urbanística crearon redes superficiales y subterráneas de canales para eliminar las aguas pluviales y servidas.
+				[NEWLINE][NEWLINE]Los picapedreros cantearon piedras de excelente oficio; los metalurgistas fabricaron planchas para los bajorrelieves iconográficos, logrando cubrir portadas de monumentos con metales áureos, que centelleaban bajo el sol. Los sabios orientaron los templos astronómicamente con una precisión asombrosa. Multitudes de hombres cortaron la piedra en lejanas canteras y luego la transportaron a la gran urbe.
+				Tiahuanaco irradia cultura, allí se concentra el saber y dominio de la ciencia y se ama y amparan las bellas artes. La influencia de Tiahuanaco se advierte en monumentos de Perú, Ecuador, y en comunidades de la isla Marajó en la desembocadura del río Amazonas. El sello de esta cultura también se encuentra en objetos cerámicos o de metal que fabrican las comunidades del norte de Chile, norte argentino, Perú, oriente boliviano, etc. Esta cultura, considerada como la más importante del período precolombino en territorio boliviano, logró no sólo grandes avances en la ciencia y arte, sino que creó una excepcional técnica de cultivo en camellones para las tierras planas y en andenes (o terrazas) para las laderas. Sin lugar a dudas, ejerció una poderosa influencia en otras culturas.
+				Se han establecido hasta el presente, de acuerdo con las excavaciones realizadas por la Dirección Nacional de Arqueología y Antropología, la división de la cultura Tiahuanaco en 3 fases: Aldeano (Épocas I y II; 1500 a. C. - 45 d. C.), Urbano (Épocas III y IV; 45 d. C. - 700 d. C.) y Expansivo (Época V; 700 d. C. - 1200 d. C.).
+				En el siglo II de nuestra era Tiahunaco dejo de ser la aldea concentrada de los primeros tiempos para convertirse en la gran urbe ceremonial que tiene dos centros dominantes: el conjunto de Akapana con los edificios que la rodean y el Puma-Punko situado al sud-oeste de Akapana. Ambos muestran la estructura doble de Tiahunaco, que evidencian la visión propia de la sociedad andina, división que pervive hasta la llegada de los españoles y aún después. Todas las ciudades andinas, incluyendo Cusco, se dividen en dos; Anan (los de arriba) y Urin (los de abajo).
+				En el siglo VIII de nuestra era, Tiahuanaco se expande sobre la base de de los enclaves preexistentes, tanto en la costa como en los valles mesotermos; así mismo extiende su poderío sobre el altiplano y la sierra. Esta expansión fue posible gracias al dominio del bronce que le permitió una gran superioridad militar. La expansión se evidencia por la difusión de los símbolos y elementos Tiahunacotas, que aparece en la cerámica y los textiles de todo el ámbito conquistado. Esta expansión llega hasta el norte de Chile (San Pedro de Atacama) y muestra relaciones con la cultura de la Aguada de la Argentina, deja su huella en los valles de Cochabamba y avanza por el norte hasta la ciudad de Huari, cerca de Ayacucho; allí modalidades propias. La ciudad de Huari es un foco de expansión tiwanakoide sobre las culturas del norte de Perú. La ciudad propiamente dicha, con sus grandes murallas de piedra cortada, es diferente a Tiahuanaco, con excepción del sitio de "Cheqo Wasi" cuyas cámaras, realizadas con grandes bloques, recuerdan a la urbe del altiplano. Otro tanto puede decirse de los estratos interiores, recientemente excavados, con muros de sillar pulimentado de tipo Tiahunacota.
+				Las modalidades más conocidas de la cerámica Huari son Robles Moko, con motivos tiahuanacotas, pero de formas globulares, así como los vasos de Pacheco con figuras similares a la puerta del sol. Después del siglo VIII se establece un gran imperio pan-andino que se expande hacia el Pacífico y hacia el norte a través de Huari, índice sobre las culturas Moche Nazca, y al sur, a través de Tiahunaco, llega hasta el norte de Chile y el norte de Argentina.
+				En el siglo XII el colapso es inevitable y en la región donde floreció Tiahuanaco aparecen señoríos aimaras, denominados reinos collas.1
+				[NEWLINE][NEWLINE]Existen muchas investigaciones en las que se establecen épocas diferentes de esta cultura. Al ser tan antigua es difícil establecer años exactos. Muchos investigadores tienen en cuenta esta división mientras que muchos no la consideran válida esta hipótesis puesto que Tiahuanaco no presenta patrones diferentes en los relieves o en su arquitectura, con el paso del tiempo.
+				[NEWLINE][NEWLINE]Según la leyenda aymara, el nombre de Tiahuanaco apareció cuando el Inca Dose Capaca, el "sariri", estando en la ciudad, vio venir a un emisario corriendo. El Inca fue a su encuentro y le dijo "Tiai, wanaku" que traducido es "siéntate, guanaco". A partir de ahí, y mediante la etimología de las palabras mediante su uso, pasó a tener el nombre que nosotros conocemos: Tiahuanaco. Otras variaciones castellanas son, Tiahuanaco (la más difundida), Tiahuanacu y Tihuanaco.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_HUYUSTUS_HEADING_1">
+			<Text>Historia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_HUYUSTUS_TEXT_1">
+			<Text>
+				Huyustus es el único nombre que prevalece de la cultura milenaria de Tiwanaku. Al parecer fue un cacique y pensador de la nación andina. Posteriormente el nombre de Huyustus llegaría a los pueblos de la cultura aymara dentro de lo más profundo de sus leyendas.
+				Dentro de estos parámetros, en la mística del Ande el nombre de Huyustus se pierde en la noche de los tiempos cuando a él se refieren como «El Enviado que llevó a todo su pueblo al reino de las estrellas»... modo en que los sabios explican la desaparición de toda la civilización andina que precedió a la existente.
+				Circula la leyenda oral de que sabios aymaras dicen que Huyustus «era alto, blanco, orejón y barbado, de cabellos y piel como el sol».
+				Huyustus lleva el denominativo de Mallku, que en la mística lengua querría decir: maestro, líder, sabio, emperador. Similar traducción se da en el idioma aymara.
+				Algunas estelas o monolitos de la época tiwanacota nos muestran esculturas de un hombre barbado de mucha importancia. No hay seguridad acerca de si representa a Huyustus o a otro personaje de la misma casta.
+				De alguna manera este líder tiwanacota dejó legados herméticos a los pueblos primitivos que quedaron en el Altiplano; entre ellos un linaje que permanecía oculto y que de cuando en cuando se manifestaba para dar normas a los pueblos. Es el caso de uno de sus descendientes más famosos, el fundador del Imperio Incaico: Mallku Kápacg, de quien luego el vulgo sólo conocería el nombre popular de Manco Kápac.
+				</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_HUYUSTUS_LIVED">
+			<Text>Fecha desconocida</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_HUYUSTUS_NAME">
+			<Text>Huyustus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_HUYUSTUS_SUBTITLE">
+			<Text>Cacique de Tiwanaku</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_HUYUSTUS_TITLES_1">
+			<Text>Desconocido</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CHAKANA">
+			<Text>Al descubrir la Cerámica, recibe un Santuario en las primeras cuatro ciudades. Hasta que el Congreso Mundial sea fundado, las Ciudades-Estado que fueron aliadas y estuvieron siguiendo tu religión pueden unirse al imperio.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CHAKANA_SHORT">
+			<Text>Teocracía de la Chakana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TIWANAKU_0">
+			<Text>Chachapuma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TIWANAKU_1">
+			<Text>Pumakatari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TIWANAKU_2">
+			<Text>Puquina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TIWANAKU_3">
+			<Text>Akachachi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TIWANAKU_4">
+			<Text>Willka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TIWANAKU_5">
+			<Text>Chakan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TIWANAKU_6">
+			<Text>Cheratari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TIWANAKU_7">
+			<Text>Akapuma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TIWANAKU_8">
+			<Text>Amauchapa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TIWANAKU_9">
+			<Text>Pachapuma</Text>
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_UNIT_KALLAWAYA">
+			<Text>Sisqeno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_KALLAWAYA_HELP">
+			<Text>Reemplazo del Misionero. El Sisqeno puede realizar un ritual de Ch'alla, en las Chatallatas y las mejoras de terreno de los Grandes Personajes, incrementando sus valores por 2 (los Chatallatas reciben +1 de cada valor)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_KALLAWAYA_STRATEGY">
+			<Text>Reemplazo del Misionero. El Sisqeno puede realizar un ritual de Ch'alla, en las Chatallatas y las mejoras de terreno de los Grandes Personajes, incrementando sus valores por 2 (los Chatallatas reciben +1 de cada valor)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_KALLAWAYA_TEXT">
+			<Text>
+				Tiwanaku constituyó un centro de ciencias y artes, con alto contenido religioso. Como estado teocrático, la vida social estaba dictada por ritos y ceremonias. El culto debió estar centrado en el Sol -Viracocha- quien surgió de las profundidades del Titicaca para crear el cielo y la tierra, la luna, las estrellas y el día.
+Algunas divinidades fueron profusamente representadas en su arte, tales como la llama, el felino, las cabezas trofeo y el sacrificador. Para desarrollar su complejo mundo religioso utilizaron los Templos y los alucinógenos.
+
+Si bien los Templos ocupaban una posición central en los conjuntos urbanos, sus espacios relativamente pequeños, indican que unos pocos entraban, muy probablemente eran los chamanes quienes mediaban entre la gente y los dioses. Sus escalinatas que conducían a otros planos del mundo y sus monolitos clavados en el suelo eran el teatro para las operaciones de los chamanes en trance.
+
+Los seis individuos que aparecen convergiendo al centro del dintel de Kantatallita -hoy muy deteriorado-, son chamanes en estado de éxtasis por el consumo de alucinógenos, todos poseen largos apéndices nasales, indicando la vía por la cual consumían las sustancias. El hacha y la cabeza que llevan en las manos, delatan su condición de sacrificadores.
+
+El concepto del Sacrificador, lo vemos también en el Chachapuma, un Dios felino con cuerpo humano, indicando el hábito carnicero del puma, varios de ellos flanqueaban el acceso a la Pirámide de Akapana.
+
+Las partes del cuerpo cortadas eran enterradas en los campos de cultivo, en la creencia que aseguraban buenas cosechas, los chamanes sacrificadores utilizaban a los muertos para dar vida.
+
+Con el tiempo pareciera hubo una división entre los chamanes, una reforma religiosa promovió a algunos de ellos a la categoría de sacerdotes para hacerse cargo de la religión oficial -el Mononito Bennett sería un ejemplo-, el otro grupo pasó a ocupar posiciones marginales.
+
+La ingesta de bebidas alcohólicas y el consumo de alucinógenos, fueron inherentes a lo ceremonial. El Kero una clase de vaso de lados divergentes, era el recipiente utilizado para beber la chicha -obtenida de la fermentación del maíz- en agasajos ceremoniales organizados por el Estado.
+
+Como alicinógeno utilizaban las semillas del cebil, que aspiraban en tabletas inhalatorias, su consumo produce modificaciones en la psiquis de la persona, pero no tiene propiedades estimulantes ni depresoras, sino alucinógenas.
+
+Las tabletas estaban finamente decoradas -símbolo de status-, y casi siempre una cabeza de camélido estaba tallada en un extremo del tubo; la asociación simbólica estaría vinculada con las caravanas de llamas a lugares lejanos y los "viajes" producidos por el trance alucinógeno y el parecido de los tubos inhalatorios con el largo cuello de los camélidos.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_IMPROVEMENT_CHATALLATA">
+			<Text>Chatallata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_CHATALLATA_TEXT">
+			<Text>
+				En las  ruinas de Tiwanaku actualmente se pueden seguir apreciando la arquitectura y su
+				ingenieria plasmados en sus Templos en los Monolitos. y mucho mas
+				Templete Semisubterreano. Descubierto en 1903. El templo es uno de los mas importantes en
+				Tiwanaku. Es una expresion de la ingenieria arquitectonica que refleja el explendor de Tiwanaku,
+				esta construido a dos metros sobre el nivel. de una forma casi cuadrangular, formado por muros
+				con 57 pilares, estos muros estan adornados y empotrados por 175 cabezas, que en su mayoria
+				estan trabajado en piedra caliza, todas las cabezas tienen diferentes figuras, en este templete se
+				puede observar, el sistema de drenaje, creados por canales hechos en piedra con un perfecto
+				declive de 2%, En el centro del templete se encuentran tres monumentales monolitos, como el
+				Pachamama (Bennett), el Barbado (kontiki). Este templete fue excavado en 1960 y restaurado
+				entre los anos 1961 a 1964 por el centro de arqueologia  de tiwanaku (CIAT)
+				Kantat hallita (luz del amanecer).  Este es una construccion similar al Putuni de forma
+				rectangular en el cual se puede apreciar una pared en forma de arco, que es una de las piezas
+				mas extraordinarias por sus detalles en su acabado y se cree que tenia grabaciones en oro en la
+				piedra. los depedradores espanoles destruyeron esta pieza, tambien en este lugar se encuentra
+				una piedra muy importante que todavia esta en en buen estado que es la Maqueta, La Maqueta
+				es un enorme bloque de piedra, donde se puede apreciar la reproduccion de pequeñas
+				escarerillas y patios deminutos. lo que demuestra el alto grado de tecnologia que tenia esta
+				cultura.
+				Piramide de Akapana. Este es una imponente estructura de la epoca precolombina, es una
+				piramide  con 800 m de perimetro con 7 terrazas en forma de escaleras, la piramide  tiene una
+				altura  de 18 m  sobre el nivel. en la cima existia un templete semisubterreano que habria tenido
+				una planta cruciforme escalonada,probablemente la piramide  se usaba  para ceremonias
+				religiosas. Acualmente (2007)  las excavaciones continuan
+				Kalasasaya. (templo de las piedras paradas). Es uno de los templos que tiene muchas
+				versiones. es  donde se refleja el trabajo astronomico  y se cree que fue usado como centro de
+				observatorio, por lo que se verifican con exactitud los cambios de estaciones y el ano solar de
+				365 dias. En ambos equinoccios el del otono (21 de Marzo) y el de primavera (21 de Septiembre)
+				el Sol nace por el centro de la puerta principal de ingreso, Encambio en el solsticio de invierno
+				(21 de Junio) el sol nace en el angulo NE, en el solsticio de verano (21 de Diciembre)se marca
+				por el nacimiento del Sol en un angulo SE.  El templo kalasasaya es aproximadamente unas 2
+				hectareas. en el interior se pueden observar los restos de lo que fue uqe refleja unas pequenas
+				habitaciones semisubterreanas, tambien existe un muro a base de sillares  que cierra los
+				sectores este,norte y sur  dejando a ambos lados como un atrio que separa del recinto
+				seremonial. En este templo existen tres importantes esculturas de piedra. el Monolito Ponce que
+				esta ubicado en el centro del patio interior, el Monolito Fraile que se encuentra en la parte sud
+				este y La puerta del Sol que se encuentra en lado noroeste.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CHATALLATA">
+			<Text>Construir Chatallata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CHATALLATA_HELP">
+			<Text>Sólo puede ser construído en terreno plano sin pasto. El Chatallata proveé +1 de Ciencia [ICON_RESEARCH] y +1 de Fé [ICON_PEACE] al ser construído cerca de una ciudad o de una montaña (si es construído cerca de ambos, los valores aumentan). Al descubrir la Astronomía, ambos valores se incrementan incluso fuera de ciudades o montañas. El Chatallata es destruído al ser saqueado.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CHATALLATA_REC">
+			<Text>¡Construir una Chatallata incrementara la Ciencia [ICON_RESEARCH] y la Fé [ICON_PEACE] en el imperio!</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_IMPROVEMENT_CHALLA_CHATALLATA">
+			<Text>Chatallata Mejorado</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_CHALLA_HOLY_SITE">
+			<Text>Sitio Sagrado Mejorado</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_CHALLA_CUSTOMS_HOUSE">
+			<Text>Casa de Cambios mejorada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_CHALLA_MANUFACTORY">
+			<Text>Manufactorera Mejorada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_CHALLA_ACADEMY">
+			<Text>Academia Mejorada
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILD_CHALLA">
+			<Text>Realizar un ritual de Ch'alla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CHALLA_HELP">
+			<Text>La mejora de terreno será mejorada, recibiendo +2 de sus valores (+1 de cada uno si es una Chatallata)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CHALLA_REC">
+			<Text>La mejora de terreno será mejorada, recibiendo +2 de sus valores (+1 de cada uno si es una Chatallata)</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TIWANAKU_INFLUENCE">
+			<Text>Religious Domination from Tiwanaku</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TIWANAKU_INFLUENCE_HELP">
+			<Text>Tiwanaku is influencing this City-State with its religion, which can result in the City-State joining Tiwanaku!</Text>
+		</Row>
+	</Language_ES_ES>
+</GameData>
