@@ -1,0 +1,319 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Pouakai -->
+<GameData>
+	<Language_en_US>
+		<!--Unique Unit-->
+		<Row Tag="TXT_KEY_UNIT_MC_MAKURIAN_NOBATIAN_SWORDSMAN">
+			<Text>Nobatian Swordsman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_MAKURIAN_NOBATIAN_SWORDSMAN_HELP">
+			<Text>Unique Makurian Swordsman. While garrisoned, trade routes with the city provide extra gold. Receives a bonus when fighting in friendly lands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_MAKURIAN_NOBATIAN_SWORDSMAN_STRATEGY">
+			<Text>The Nobatian Swordsman is a unique Makurian Swordsman. In addition to having a bonus when fighting in friendly lands, the Nobatian Swordsman causes trade routes with a city to produce extra gold while garrisoned within the city, giving them use even in peace time. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_MAKURIAN_NOBATIAN_SWORDSMAN_PEDIA">
+			<Text>The swordsman of Nobatia were a group of proud warriors, eager and more than willing to serve their kingdom.  Exactly what kingdom that was, however, changed over the course of the centuries.  While initially serving their namesake, the Kingdom of Nobatia, after the kingdoms merger with it's more powerful southern neighbor, Makuria, the swordsman found themselves under new employment.[NEWLINE][NEWLINE]It is unknown exactly whether or not their assimilation into Makuria was peaceful or not, as records are scarce and do not explicitly mention a battle between the two.  Regardless, the swordsman found themselves more than dedicated to serve god and country with their dying breath.  They were excellent at guarding the precious cities of their homeland, vibrant centers of trade and culture situated along the banks of the Nile.  It was under their watch that cities like Qasr Ibrim, Pacharus, and Dongola were able to safeuly flurish in Upper Egypt along the fertile Nile.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_MAKURIAN_UU_FRIENDLY">
+			<Text>Bonus in Friendly (20)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_MAKURIAN_UU_FRIENDLY_HELP">
+			<Text>+20% combat strength in friendly territory.</Text>
+		</Row>
+		<!--Unique Building-->
+		<Row Tag="TXT_KEY_BUILDING_MC_MAKURIAN_CENOBIUM">
+			<Text>Cenobium</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_MAKURIAN_CENOBIUM_HELP">
+			<Text>Unique Makurian Caravansary. Trade routes provide +1 [ICON_GOLD] Gold for each nearby luxury resource type. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_MAKURIAN_CENOBIUM_STRATEGY">
+			<Text>The Cenobium is a unique Makurian version of the Caravansary. It provides extra [ICON_GOLD] Gold on trade routes based on the amount of different luxury resources near the city, which results in cities in luxury-rich areas becoming very lucrative trade hubs. Additionally, the Cenobium boosts the defensive strength of the city, and has a small base faith output. However, it also costs maintenence.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_MAKURIAN_CENOBIUM_PEDIA">
+			<Text>A cenobium in a place where monks of a certain faith gather, similar to a monastery.  However, cenobiums tend to to differ from other monasteries in that their monks are typically much more sociable amongst one another, other cenobiums, and the nearby communities that they would often trade and interact with.  While not limited to one particular religion, the cenobium, and cenobitic monastacism, is most commonly associated with Christianity.  It's rise began with the falling out of Aramaeic Christianity, as the solitude that was required of its monks became too much to bare emotionally and spiritually for many to handle.  In turn, the prevelance of hermitude gave way to the rise of monks banding together to form a religious community in which they could worship and study together on the various subjects of the time, and as always, the subject of God and the nature of the world.[NEWLINE][NEWLINE]As well as being a place of religious study, cenobiums could also become centers of knowledge and trade.  Monks from one community could travel between different cenobiums, spreading with them new ideas, goods, and the news and gossip of other cenobiums and communities around them.  However, the overall focus of the cenobium first and foremost remained for them to be used as a place of increasing and deepening ones spiritual connection to God, with you and your fellow monks supporting one another in times of trial, rather than going it alone as a solidary hermit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_MAKURIAN_CENOBIUM_DUMMY">
+			<Text>MC: Cenobium Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_MAKURIAN_NOBATIAN_DUMMY">
+			<Text>MC: Nobatian Swordsman Dummy</Text>
+		</Row>
+		<!--Unique Ability-->
+		<Row Tag="TXT_KEY_TRAIT_MC_THE_BAQT_SHORT">
+			<Text>The Baqt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_MC_THE_BAQT">
+			<Text>Units gain [ICON_STRENGTH] Combat Strength from each active Trade Route, and +10% [ICON_STRENGTH] Combat Strength when defending. +1 [ICON_PEACE] faith on all luxury resources.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_THE_BAQT">
+			<Text>The Baqt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_THE_BAQT_HELP_1">
+			<Text>+5% Combat Strength due to owning 1 trade route</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_THE_BAQT_HELP_2">
+			<Text>+10% Combat Strength due to owning 2 trade routes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_THE_BAQT_HELP_3">
+			<Text>+15% Combat Strength due to owning 3 trade routes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_THE_BAQT_HELP_4">
+			<Text>+20% Combat Strength due to owning 4 trade routes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_THE_BAQT_HELP_5">
+			<Text>+25% Combat Strength due to owning 5 trade routes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_THE_BAQT_HELP_6">
+			<Text>+30% Combat Strength due to owning 6 trade routes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_THE_BAQT_HELP_7">
+			<Text>+35% Combat Strength due to owning 7 trade routes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_THE_BAQT_HELP_8">
+			<Text>+40% Combat Strength due to owning 8 trade routes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_THE_BAQT_HELP_9">
+			<Text>+45% Combat Strength due to owning 9 trade routes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_THE_BAQT_HELP_10">
+			<Text>+50% Combat Strength due to owning 10 trade routes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_THE_BAQT_HELP_11">
+			<Text>+55% Combat Strength due to owning at least 11 trade routes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_MAKURIAN_UA_DEFENCE">
+			<Text>Defence of the Homeland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_MAKURIAN_UA_DEFENCE_HELP">
+			<Text>+10% Strength while defending. </Text>
+		</Row>
+		<!--Denonyms-->
+		<Row Tag="TXT_KEY_MC_MAKURIA">
+			<Text>Makuria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_MAKURIA_DESC">
+			<Text>Makurian Empire</Text>
+		</Row>
+		<!--<Row Tag="TXT_KEY_MC_MAKURIA_SHORT_DESC">
+			<Text>Makuria</Text>
+		</Row>-->
+		<Row Tag="TXT_KEY_MC_MAKURIA_ADJECTIVE">
+			<Text>Makuria</Text>
+		</Row>
+		<!-- DOM Text-->
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_MC_MAKURIA_TEXT">
+			<Text>Noble and pious Merkurios, King of Makuria and Nobatia, may your kingdom forever prepare the way of the Lord and make His path straight. You rule the indomitable Makurian civilization, a people born from the rich history of the upper Nile. Traders and craftsmen, they found their place amongst the heathens of late antiquity by adopting the Christian faith; a faith they stalwartly defended at the Battle of Dongola. From this conflict, Makuria would help forge one of history's longest lasting treaties and enter a golden age of trade and prosperity. Yet, the unsteady truce between the Islamic world and Christianity would not prove easy. As Islam continued to rise in the north and raids by desert nomads grew more frequent in the south, Makuria found itself weakened and divided as Muslim kings marched on Nubia.[NEWLINE][NEWLINE]Constantine of the Nubian Church! For seven hundred years your kingdom stood as a bastion of Christendom. Yet, the old treaty has been broken and foreign creeds have laid claim to your throne. Will you return to defend your people and champion their faith? Can you build a civilization that will stand the test of time? </Text>
+		</Row>
+		<!--Diplo lines-->
+		<Row Tag="TXT_KEY_LEADER_MC_MERKURIOS_FIRST_GREETING_1">
+			<Text>Ah, a new visitor to the land of God. Welcome, come. Tell me of your journey. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_MERKURIOS_FIRST_GREETING_2">
+			<Text>Another weary traveller? I pray you have not come to scout our lands for invasion, for your sake.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_MERKURIOS_DEFEATED_1">
+			<Text>The last bastion of Christendom has fallen to the heathens. I pray for humanity.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_MERKURIOS_DEFEATED_2">
+			<Text>I am prepared for the afterlife, are you?</Text>
+		</Row>
+		<!--Spy Names-->
+		<Row Tag="TXT_KEY_SPY_NAME_MC_MAKURIA_0">
+			<Text>Shabaka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_MAKURIA_1">
+			<Text>Aspelta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_MAKURIA_2">
+			<Text>Taharqa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_MAKURIA_3">
+			<Text>Senkamanisken</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_MAKURIA_4">
+			<Text>Kashta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_MAKURIA_5">
+			<Text>Ajola</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_MAKURIA_6">
+			<Text>Mentuemhat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_MAKURIA_7">
+			<Text>Shepenwepet</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_MAKURIA_8">
+			<Text>Qalhata</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_MAKURIA_9">
+			<Text>Arty</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--Civilopedias-->
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MAKURIA_TITLE">
+			<Text>Makuria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MAKURIA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MAKURIA_TEXT_1">
+			<Text>The Kingdom of Makuria was a medieval Christian state founded by the Nubian people in the upper Nile Valley. The strongest among its two rivals Nobatia and Alodia. It managed to survive centuries fighting the Arab invaders before it eventually collapsed in the 14th century.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MAKURIA_HEADING_2">
+			<Text>Geography</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MAKURIA_TEXT_2">
+			<Text>The Kingdom was located in the upper valley of the Nile, which was source of food and water for the people of region. The Nile also harboured the trade routes and therefore was economic pillar of the nation. In other words the citizen were depending on the history defining river for their survival.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MAKURIA_HEADING_3">
+			<Text>Rise</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MAKURIA_TEXT_3">
+			<Text>While the exact origins of the kingdom are not known it is known that Ptolemy describes a people Makkourae who are considered to be the ancestors of the Makurians. It is assumed that Makuria was founded sometime in the 4th or the 5th century AD with the first mention of the kingdom being in the 6th century which mentions the people's hostility towards missionarries traveling to Alodia.[NEWLINE][NEWLINE]The Makurian kingdom accomplished a great feat few managed, they overcame a Rashidun invasion in 642. at the battle Dongola. Arab historians noted the immense skill the Makurian archers possesed. After a great loss was suffered by the Arabs the two sides signed a deal, the baqt. This compromise guaranteed peace under the circumstance that Makurians provide special privileges for Arab traders.[NEWLINE][NEWLINE]At one point Makuria merged with Nobatia to the north, when this happened is not exactly known as the two sources, the Arab writers and a book written in 690 have contradicting information. However clear evidence of Makurian rule suggests that Nobatia was ruled by them in the 8th century.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MAKURIA_HEADING_4">
+			<Text>Golden Age</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MAKURIA_TEXT_4">
+			<Text>During the 8th and 9th century AD Makuria was prosperous and stable kingdom as there was no threat from an invasion from the Muslims in the north of Africa. Instead the agressive ones were the Christian Nubians who often went on raids to Cairo, under the claim that they wanted to protect the Christians living there.[NEWLINE][NEWLINE]Despite not much being known about Makuria at this time one story has important value.King Zacharias sent his son Georgios to Baghdad in order to study the baqt. Georgios as a king plays an important role in the adventures of al-Umari, an Arab adventurer.[NEWLINE][NEWLINE]Druing the rule of the Fatimids the Nubians developed friendly relationship withe Arabs. Which benefited both sides as the Shi'ite Fatimids had very few allies. They also heavily depended on the Makurian slaves for their armies. Trade flourished as well. Egypt sent them wheat and wine while the Makurian merchants traded with Slaves, Ivory and Ostrich feathers. However this prosperity came to an end with the rise of the Mamluks in Egypt, the Ayyubid dynasty of Egypt. In support of their Fatimid allies they tried conquering them but completely failed and were defeated themselves. Later Saladin sent his brother Turan Shah to invade Nubia, however they lost interest in the land as it was "too poor".</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MAKURIA_HEADING_5">
+			<Text>Decline</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MAKURIA_TEXT_5">
+			<Text>There seem to be very few documents which tell of state of Makuria during the 11th and 12th century. The few sources show that the economy and prosperity heavily declined as the Nubian royals got married to Arabs and the land was often invaded by Arabs leaving in a shadow of its former self. Due to this many people retreated to better fortified areas causing the area once known as Nobatia to be setlled by Arabs and heavily influenced by their culture. The Nubian independence came to its end when Awlad Kenz conquered these parts of the Nile valley in 1412, he remained the de facto ruler of Nubia until 1517 when the Ottomans integrated it into their Empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MAKURIA_HEADING_6">
+			<Text>Economy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MAKURIA_TEXT_6">
+			<Text>The economy of Makuria was very basic and did not change much throughout history. The majority of income came through agriculture on banks of the Nile. Beyond that Nubians practiced pottery, weaving and leatherworking. Metalworking and gold mining was very important as well.[NEWLINE][NEWLINE]The trade was largely by barter as the country had no currency, and the main trade partner were teh Egyptians. The biggest export were slaves while manufactured goods were most commonly imported. The slaves were not Makurian in origin, but rather came from areas to the south and west in Africa. Archeological evidence suggest that Makurians had contact with several peoples and nations of sub Saharan Africa, especially Kordofan. While there is not much evidence of interection it is known that the Christian state of Ethiopia was a great political partner as well.</Text>
+		</Row>
+		<!--<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MAKURIA_FACTOID_HEADING">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MAKURIA_FACTOID_TEXT ">
+			<Text>Nubia was was also known by the names of Kush, Wawat  and Ta-seti, meaning the "land of the bow".[NEWLINE][NEWLINE]During the period known as the Middle Kingdom (2134BC - 1782 BC), Egypt began expanding into Nubia to gain more control over the trade routes in Northern Nubia. They also required direct access to trade with Southern Nubia and so to other parts and exotic goods available in the other African countries.</Text>
+		</Row>-->
+		<!--Leader Civilopedia-->
+		<Row Tag="TXT_KEY_LEADER_MC_MERKURIOS_DESC">
+			<Text>Merkurios</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_MERKURIOS_LIVED">
+			<Text>??? - c. 722 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_MERKURIOS_NAME">
+			<Text>Merkurios</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_MERKURIOS_SUBTITLE">
+			<Text>Leader of Makuria</Text>
+		</Row>
+		<!--<Row Tag="TXT_KEY_LEADER_MC_MERKURIOS_TITLES_1">
+			<Text>Usimare</Text>
+		</Row>-->
+		<Row Tag="TXT_KEY_LEADER_MC_MERKURIOS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_MERKURIOS_TEXT_1">
+			<Text>Born in the earlier part of the 7th century A.D., Merkuios, or as John the Deacon of Egypt was known to later call him, the New Constantine, was a ruler of Nubia from 697 to 722.[NEWLINE][NEWLINE]While preserved, written historical records of his life are scare, what we do know about Merkurios comes from inscriptions made at various monuments to his achievements found throughout lands he ruled.  The earliest known monument of this nature is found on a foundation stone at Faras, a Nubian city located on the western side of the Nile.  It marks the year 707 as the elevnth year of his rule, providing us with the year upon which he came to power.  It is believed that during his reign, one of his notable achievements was the conquest and assimilation of the Nobotian lands and people into the Nubian kingdom.  Evidence also points that his lands were the home of Coptic Christian refugees, fleeing from Egypt at a time of heavy Islamification of the area.  It is commonly believed by many historians and archeaologists now that, based on this influx of Coptic refugees finding sanctuary in Nubian lands, and his comparison to the Byzantine emperor Constantine, that he was more than a little involved in the affairs of the Nubian church.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_MERKURIOS_FACTOID_HEADING">
+			<Text>Merkurios Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_MERKURIOS_FACTOID_TEXT">
+			<Text>Merkurios was referred to by some contemporary Christian figures as the "New Constantine," a reference to the Roman emperor who first converted the empire to Christianity. This has led to some claiming that Merkurios was a central figure in the proliferation of Christianity within the region. </Text>
+		</Row>
+		<!--City List-->
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAKURIA_DONGOLA">
+			<Text>Dongola</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAKURIA_FARAS">
+			<Text>Faras</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAKURIA_QASR_IBRIM">
+			<Text>Qasr Ibrim</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAKURIA_NURI">
+			<Text>Nuri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAKURIA_SOLEB">
+			<Text>Soleb</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAKURIA_KERMA">
+			<Text>Kerma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAKURIA_ADINDAN">
+			<Text>Adindan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAKURIA_NAPATA">
+			<Text>Napata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAKURIA_DORGINARTI">
+			<Text>Dorginarti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAKURIA_SEMNA">
+			<Text>Semna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAKURIA_GEBEL_BARKEL">
+			<Text>Gebel Barkel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAKURIA_QUSTUL">
+			<Text>Qustul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAKURIA_BUHEN">
+			<Text>Buhen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAKURIA_ASWAN">
+			<Text>Aswan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAKURIA_BALLANA">
+			<Text>Ballana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAKURIA_SERRA">
+			<Text>Serra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAKURIA_DAKKA">
+			<Text>Dakka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAKURIA_KALABSHA">
+			<Text>Kalabsha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAKURIA_DABOD">
+			<Text>Dabod</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAKURIA_BEIT_AL_WALI">
+			<Text>Beit al Wali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAKURIA_KAWA">
+			<Text>Kawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAKURIA_PREMNIS">
+			<Text>Premnis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAKURIA_QUBBAN">
+			<Text>Qubban</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAKURIA_HALFA">
+			<Text>Halfa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAKURIA_SALIMAH">
+			<Text>Salimah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAKURIA_ELEFANTINA">
+			<Text>Elefantina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAKURIA_NAKA">
+			<Text>Naka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAKURIA_JARTUM">
+			<Text>Jartum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAKURIA_SOBA">
+			<Text>Soba</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

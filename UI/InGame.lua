@@ -1611,6 +1611,9 @@ ContextPtr:LoadNewContext("ThraceFunctions")
 -- Nation - Picts --
 ContextPtr:LoadNewContext("Pict Functions")
 
+-- Nation - Makuria --
+ContextPtr:LoadNewContext("MakuriaCode")
+
 -- Nation - Tiwanaku --
 ContextPtr:LoadNewContext("FreeShrineScript")
 ContextPtr:LoadNewContext("MissionaryReplace")

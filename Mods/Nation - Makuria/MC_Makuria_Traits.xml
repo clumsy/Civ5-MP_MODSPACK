@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Pouakai-->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_MC_THE_BAQT</Type>
+			<Description>TXT_KEY_TRAIT_MC_THE_BAQT</Description>
+			<ShortDescription>TXT_KEY_TRAIT_MC_THE_BAQT_SHORT</ShortDescription>
+			<FreeBuilding>BUILDING_MC_BAQT_FAITH_DUMMY</FreeBuilding>
+		</Row>
+	</Traits>
+	<Trait_FreePromotions>
+		<Row>
+			<TraitType>TRAIT_MC_THE_BAQT</TraitType>
+			<PromotionType>PROMOTION_MC_MAKURIAN_UA_DEFENCE</PromotionType>
+		</Row>
+	</Trait_FreePromotions>
+</GameData>

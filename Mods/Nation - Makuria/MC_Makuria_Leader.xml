@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Pouakai-->
+<GameData>
+	<Leaders>
+		<Row>
+			<Type>LEADER_MC_MERKURIOS</Type>
+			<Description>TXT_KEY_LEADER_MC_MERKURIOS_DESC</Description>
+			<Civilopedia>TXT_KEY_LEADER_MC_MERKURIOS_PEDIA</Civilopedia>
+			<CivilopediaTag>TXT_KEY_LEADER_MC_MERKURIOS</CivilopediaTag>
+			<ArtDefineTag>MC_MAKURIA_Leaderhead.xml</ArtDefineTag>
+			<VictoryCompetitiveness>6</VictoryCompetitiveness>
+			<WonderCompetitiveness>5</WonderCompetitiveness>
+			<MinorCivCompetitiveness>6</MinorCivCompetitiveness>
+			<Boldness>4</Boldness>
+			<DiploBalance>7</DiploBalance>
+			<WarmongerHate>6</WarmongerHate>
+			<DenounceWillingness>5</DenounceWillingness>
+			<DoFWillingness>5</DoFWillingness>
+			<Loyalty>6</Loyalty>
+			<Neediness>3</Neediness>
+			<Forgiveness>5</Forgiveness>
+			<Chattiness>4</Chattiness>
+			<Meanness>4</Meanness>
+			<PortraitIndex>1</PortraitIndex>
+			<IconAtlas>MC_MAKURIA_ATLAS</IconAtlas>
+		</Row>
+	</Leaders>
+	<Leader_Traits>
+		<Row>
+			<LeaderType>LEADER_MC_MERKURIOS</LeaderType>
+			<TraitType>TRAIT_MC_THE_BAQT</TraitType>
+		</Row>
+	</Leader_Traits>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_MC_MERKURIOS">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_MC_MERKURIOS_FIRST_GREETING_%</Response>
+		</Row>
+		<Row LeaderType="LEADER_MC_MERKURIOS">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_MC_MERKURIOS_DEFEATED_%</Response>
+		</Row>
+	</Diplomacy_Responses>
+</GameData>

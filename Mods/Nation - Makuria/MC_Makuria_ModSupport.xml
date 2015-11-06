@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- RYOGA's UNIQUE CULTURAL INFLUENCE -->
+		<Row Tag="TXT_KEY_GENERIC_MC_MAKURIA_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now buying your ivory and chanting your Coptic prayers! I am worried the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<!-- VICEVIRTUOSO's WISH FOR THE WORLD -->
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MC_MAKURIA">
+			<Text>Lahideamani</Text>
+		</Row>
+		<!--Sukritact's Events & Decisions-->
+		<Row Tag="TXT_KEY_EVENT_CULDEV_MAKURIA_01">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MC_MAKURIA_BAQT">
+			<Text>Renegotiate the Baqt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MC_MAKURIA_BAQT_DESC">
+			<Text>
+				[NEWLINE]The Baqt has long been a source of both peace and tension between us and our northern neighbours. We should attempt negotations in search of a better deal. 
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Makuria
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Num} [ICON_PEACE]Faith
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_SWAP] Trade Route
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MC_MAKURIA_BAQT_ENACTED_DESC">
+			<Text>
+				[NEWLINE]The Baqt has long been a source of both peace and tension between us and our northern neighbours. We should attempt negotations in search of a better deal.
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_SWAP] Trade Route
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MC_MAKURIA_BOWMANSHIP">
+			<Text>Restore Nubian Bowmanship</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MC_MAKURIA_BOWMANSHIP_DESC">
+			<Text>
+				[NEWLINE]The ancients called our land the 'Land of the Bow' - let us restore this tradition and ensure our archers are the envy of the world!
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Makuria
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Ranged Units gain +15% [ICON_STRENGTH] Combat Strength
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_MC_MAKURIA_BOWMANSHIP_ENACTED_DESC">
+			<Text>
+				[NEWLINE]The ancients called our land the 'Land of the Bow' - let us restore this tradition and ensure our archers are the envy of the world!
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Ranged Units gain +15% [ICON_STRENGTH] Combat Strength
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DECISIONS_MC_MAKURIA_BAQT_DESC">
+			<Text>MC: Makura TR</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DECISIONS_MC_MAKURIA_BAQT_HELP">
+			<Text>+1 Trade Route</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DECISIONS_MC_MAKURIA_BOWMANSHIP">
+			<Text>Nubian Bowmanship</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DECISIONS_MC_MAKURIA_BOWMANSHIP_HELP">
+			<Text>+15% [ICON_STRENGTH] Combat Strength</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

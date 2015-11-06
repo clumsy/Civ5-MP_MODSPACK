@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="c3e71d16-7c65-4603-9995-7d24d3f43823" version="2">
+  <Properties>
+    <Name>MC's Makuria</Name>
+    <Teaser>Adds [COLOR_POSITIVE_TEXT]Makuria[ENDCOLOR] to the game as a playable civilisation</Teaser>
+    <Description>Adds [COLOR_POSITIVE_TEXT]Makuria[ENDCOLOR] to the game as a playable civilisation</Description>
+    <Authors>More Civs</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="CulDiv" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="Piety" />
+    <Mod id="d99bf7aa-51ac-4bef-bd88-d765b28e260e" minversion="0" maxversion="999" title="Sovereignty" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="E&amp;D" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="RED Modpack" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Traits" />
+    <Mod id="6676902b-b907-45f1-8db5-32dcb2135eee" minversion="0" maxversion="999" title="ExCE" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="Mercenaries" />
+    <Mod id="be2d13ee-d18d-410e-8f04-7cd19cd99a98 " minversion="0" maxversion="999" title="More Luxuries" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="B3B38B4D91CB8B6C5FD2996F64D3DC20" import="1">Art/Atlases/MC_MakuriaAlpha_128.dds</File>
+    <File md5="756E5C18A45B71B03E2C333E4BDD03BA" import="1">Art/Atlases/MC_MakuriaAlpha_16.dds</File>
+    <File md5="15DCA86062A2156C1F667751A2FEE295" import="1">Art/Atlases/MC_MakuriaAlpha_22.dds</File>
+    <File md5="8ED49E2E5CA78FF0457EC0CC2B2649E3" import="1">Art/Atlases/MC_MakuriaAlpha_24.dds</File>
+    <File md5="2FD558384ED99B6703D4318C1048A4A0" import="1">Art/Atlases/MC_MakuriaAlpha_256.dds</File>
+    <File md5="C7BA2BF6179773CEB1FE3C1D655FB5AD" import="1">Art/Atlases/MC_MakuriaAlpha_32.dds</File>
+    <File md5="0129765ABE160161D9004E7A2DB0F0CE" import="1">Art/Atlases/MC_MakuriaAlpha_45.dds</File>
+    <File md5="BD9A92C20D1DDE2DAC5C39B77FC281C9" import="1">Art/Atlases/MC_MakuriaAlpha_48.dds</File>
+    <File md5="795A3FA678BCDCEA7DEF0C7F2E0F0793" import="1">Art/Atlases/MC_MakuriaAlpha_64.dds</File>
+    <File md5="E6149BCE257731091100888AA6F72967" import="1">Art/Atlases/MC_MakuriaAlpha_80.dds</File>
+    <File md5="88D6BC64BA4326FABB2FFB311F052376" import="1">Art/Atlases/MC_Makuria_128.dds</File>
+    <File md5="FDDCBD718795DF633CDAC76DF4317EDC" import="1">Art/Atlases/MC_Makuria_256.dds</File>
+    <File md5="82A13B0E8336278DE27AAB6C7F570FE2" import="1">Art/Atlases/MC_Makuria_32.dds</File>
+    <File md5="8934F02A39B988A726DBFFC8F608E6F3" import="1">Art/Atlases/MC_Makuria_45.dds</File>
+    <File md5="AC7D03DC814C6293A6C9779A1E6E2F88" import="1">Art/Atlases/MC_Makuria_64.dds</File>
+    <File md5="C87D36D782CC1C55155F0A7568FD34C8" import="1">Art/Atlases/MC_Makuria_80.dds</File>
+    <File md5="970DDDB669977817E0F101D2F9B95761" import="1">Art/Models/MC_MakurianNobatianSwordsmanUnitFlag_32.dds</File>
+    <File md5="818D023D24A38D673A11D7A7FF8B87F6" import="1">Art/Models/MC_NobatianSwordsman.fxsxml</File>
+    <File md5="10E0903C782D17B763D184037A5BEF46" import="1">Art/Models/MC_NobatianSwordsman.gr2</File>
+    <File md5="30267C91558AF902FAD50D89E1EF3A92" import="1">Art/Models/MC_NobatianSwordsman_diff.dds</File>
+    <File md5="BD690F1A57C66CB782EE7F60877B1040" import="1">Art/Models/MC_NobatianSwordsman_sref.dds</File>
+    <File md5="BB413305BDE7F74A79C0804FBC294CC9" import="1">Art/Models/sv_NobatianSwordsman.dds</File>
+    <File md5="AA01574E296EDA8B37F4EFF696E52D5B" import="1">Art/Scenes/MC_Makuria_Map.dds</File>
+    <File md5="5B3CEE7175B479A6433D4FEB2501E31D" import="1">Art/Scenes/MC_Makuria_Leaderhead.dds</File>
+    <File md5="A4AA3D9AE609F83B973E6A5ECCAA7C4E" import="1">Art/Scenes/MC_Makuria_DoM.dds</File>
+    <File md5="7CCBC07898A7ED63854C3EFD4E988D3A" import="1">Core/Art/MC_NobatianSwordsman.sql</File>
+    <File md5="BE5F116745CC82C61569A903AB3C9D04" import="1">Core/Art/MC_Makuria_Leaderhead.xml</File>
+    <File md5="AAC4439C5697A77D4A40BEFDEEC3E52F" import="0">Core/Buildings/MC_Makuria_Buildings.xml</File>
+    <File md5="24C07D01C152D9ACB06E20DC1B1F36DF" import="0">Core/Civilizations/MC_Makuria_Civilizations.xml</File>
+    <File md5="2A1FF348F0D1B4303963407C63DB18EB" import="0">Core/GameInfo/MC_Makuria_IconTextureAtlases.xml</File>
+    <File md5="892705BE88B94EDF4808622EDC2D58BE" import="0">Core/GameInfo/MC_Makuria_Sounds.xml</File>
+    <File md5="A68681152375D0EF26B2CCAEDD038CCB" import="0">Core/GameInfo/MC_Makuria_Traits.sql</File>
+    <File md5="06DCE608EC582C3F304798B69DAAEB67" import="0">Core/GameInfo/MC_Makuria_Traits.xml</File>
+    <File md5="5662B96836E73BE929ABE77E1D7F86D6" import="0">Core/Leaders/MC_Makuria_Leader.xml</File>
+    <File md5="0D0132C63DEDF37D74EE19D5E06C1F49" import="0">Core/Leaders/MC_Makuria_LeaderFlavors.sql</File>
+    <File md5="C7693652AB6A0E052B21D299B5E357B5" import="0">Core/Text/MC_Makuria_Text.xml</File>
+    <File md5="7020B14F17A356BCF2A28BCF04EDC09E" import="0">Core/Units/MC_Makuria_UnitPromotions.sql</File>
+    <File md5="3ADE83B01101BFA14B25626D4ACFBBFC" import="0">Core/Units/MC_Makuria_UnitPromotions.xml</File>
+    <File md5="083C59A64302D07D92F332845043074B" import="0">Core/Units/MC_Makuria_Units.xml</File>
+    <File md5="9DB40B7645633B4D1F53671CE5AD09C9" import="0">Lua/MakuriaCode.lua</File>
+    <File md5="C5516438DDC59315529FED4DD9F941C4" import="1">Sounds/MCMakuriaDoM.mp3</File>
+    <File md5="2B5354442258A3C79D0AF1717C7A38AE" import="1">Sounds/MCMerkuriosPeace.mp3</File>
+    <File md5="150696D3CE3E6ED5C523CABD78C4A227" import="1">Sounds/MCMerkuriosWar.mp3</File>
+    <File md5="8DA96D564148F1FB8D34DEA2F4BDD03F" import="1">Support/MC_Makuria_Decisions.lua</File>
+    <File md5="ED6D9DBEDDEAD11703B4E0AB8AEF905B" import="0">Support/MC_Makuria_ModSupport.sql</File>
+    <File md5="236FA87DEF685C962856552CED0FC97B" import="0">Support/MC_Makuria_ModSupport.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/Art/MC_Makuria_Leaderhead.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Art/MC_NobatianSwordsman.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Buildings/MC_Makuria_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Civilizations/MC_Makuria_Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameInfo/MC_Makuria_IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameInfo/MC_Makuria_Sounds.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameInfo/MC_Makuria_Traits.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameInfo/MC_Makuria_Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Leaders/MC_Makuria_Leader.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Leaders/MC_Makuria_LeaderFlavors.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Text/MC_Makuria_Text.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Units/MC_Makuria_UnitPromotions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Units/MC_Makuria_UnitPromotions.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Units/MC_Makuria_Units.xml</UpdateDatabase>
+      <UpdateDatabase>Support/MC_Makuria_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Support/MC_Makuria_ModSupport.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/MakuriaCode.lua">
+      <Name>MakuriaCode</Name>
+      <Description>Makurian stuff</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>
