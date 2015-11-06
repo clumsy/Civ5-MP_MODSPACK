@@ -1616,6 +1616,12 @@ ContextPtr:LoadNewContext("FreeShrineScript")
 ContextPtr:LoadNewContext("MissionaryReplace")
 ContextPtr:LoadNewContext("TiwaDialog")
 
+-- Nation - Ptolemy (Cleopatra) --
+ContextPtr:LoadNewContext("GalatianGuard")
+ContextPtr:LoadNewContext("Embassies")
+ContextPtr:LoadNewContext("Emporion")
+ContextPtr:LoadNewContext("Friendships")
+
 -- Misc - Events & Decisions --
 --ContextPtr:LoadNewContext("BuildingYieldFromCityStates")
 --ContextPtr:LoadNewContext("LuaEvents.PlayerEnteredNewEra")

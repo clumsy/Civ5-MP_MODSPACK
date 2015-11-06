@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/20/2015 6:34:12 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_EVENT_NILE_FAMINE">
+			<Text>A famine in our lands</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_NILE_FAMINE_DESC">
+			<Text>We have angered the gods through our actions, and they have condemned Egypt to an age of famine! We must find a way to put an end to their wrath, or the support of our dynasty will collapse.[NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_NILE_FAMINE_OUTCOME_1">
+			<Text>We must regain the favour of the gods! Praise Serapis!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_NILE_FAMINE_OUTCOME_2">
+			<Text>We must save as much food as we can! Egypt will persevere this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_NILE_FAMINE_OUTCOME_3">
+			<Text>Let the people suffer. They should know their wrongdoings!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_NILE_FAMINE_OUTCOME_RESULT_1">
+			<Text>
+				[ICON_BULLET][COLOR_POSITIVE_TEXT]Receive a free Temple in {1_City}[NEWLINE][ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {3_Gold} [ICON_GOLD] Gold[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_NILE_FAMINE_OUTCOME_RESULT_2">
+			<Text>
+				[ICON_BULLET][COLOR_POSITIVE_TEXT]Receive a free Aqueduct and Granary in {1_City}
+				[NEWLINE][ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {2_Gold} [ICON_GOLD] Gold[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_NILE_FAMINE_OUTCOME_RESULT_3">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]3 turns of [ICON_RESISTANCE] Resistance in {1_City}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NILE_FAMINE_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>The Gods have been satisfied and freed us from our plight!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NILE_FAMINE_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>The new infrastructure has prevented mass starvation, but at a high material cost.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NILE_FAMINE_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>You have abandoned your subjects to suffer and die.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_MARK_ANTONY">
+			<Text>Mark Antony</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_MARK_ANTONY_DESC">
+			<Text>Blessed Queen. A dashing military commander has requested your audience. Where and when would you like to meet this gentleman?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_MARK_ANTONY_OUTCOME_1">
+			<Text>Send him to my chambers at night</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_MARK_ANTONY_OUTCOME_2">
+			<Text>I am too busy. Assign a vizier to see him</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_MARK_ANTONY_OUTCOME_3">
+			<Text>Turn him away, he does not interest me</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_MARK_ANTONY_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT] A Great General is spawned near the [ICON_CAPITAL] Capital[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Culture} [ICON_CULTURE] Culture[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_NEGATIVE_TEXT]3 turns of [ICON_RESISTANCE] Resistance in the [ICON_CAPITAL] Capital[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_MARK_ANTONY_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]3 Military units are spawned near the [ICON_CAPITAL] Capital[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_NEGATIVE_TEXT] Lose {1_Gold} [ICON_GOLD] Gold[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_MARK_ANTONY_OUTCOME_RESULT_3">
+			<Text>[ICON_BULLET]No effect</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_MARK_ANTONY_WORLD">
+			<Text>Cleopatra has met with Mark Antony in Egypt.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MARK_ANTONY_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>The populace is disgruntled by your affairs with a foreigner.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MARK_ANTONY_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>We have acquired a sizeable army through negotiations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MARK_ANTONY_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>The foreigner has left our realm.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_LITE_TARCISIO_PTOLEMIES_EMPLOY_FOREIGN_HELP">
+			<Text>Employ Foreign Troops</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_LITE_TARCISIO_PTOLEMIES_EMPLOY_FOREIGN_HELP_DESC">
+			<Text>
+				The flame of your dynasty dwindles as nations around you strive to overcome you. However, our friends would be of great use if we could employ troops from their lands.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Ptolemies (Cleopatra)
+				[NEWLINE][ICON_BULLET]Player must have at least 5 embassies in their capital.
+				[NEWLINE][ICON_BULLET]May only be enacted twice per game
+				[NEWLINE][ICON_BULLET]May only be enacted once per era
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive {2_Units} Military Units (Increase with the number of embassies you have)
+				[NEWLINE][ICON_BULLET]The military units start with {3_Exp} extra experience (Increase with the number of embassies you have)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_LITE_TARCISIO_PTOLEMIES_EMPLOY_FOREIGN_HELP_ENACTED_DESC">
+			<Text>
+				The flame of your dynasty dwindles as nations around you strive to overcome you. However, our friends would be of great use if we could employ troops from their lands.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Receive {2_Units} Military Units (Increase with the number of embassies you have)
+				[NEWLINE][ICON_BULLET]The military units start with {3_Exp} extra experience (Increase with the number of embassies you have)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_LITE_TARCISIO_PTOLEMIES_CALENDAR">
+			<Text>Reform the Calendar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_LITE_TARCISIO_PTOLEMIES_CALENDAR_DESC">
+			<Text>
+				A local astronomer has suggested adding an extra day every fourth annum. His genius was recognized by one of our neighbouring nations, which have made his proposal the basis of their calendar. It would do good for us to see whether his ideas are useful or not.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Ptolemies
+				[NEWLINE][ICON_BULLET]Player must have at least 3 Libraries
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]A Great Scientist is spawned near the [ICON_CAPITAL] Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_LITE_TARCISIO_PTOLEMIES_CALENDAR_ENACTED_DESC">
+			<Text>
+				A local astronomer has suggested adding an extra day every fourth annum. His genius was recognized by one of our neighbouring nations, which have made his proposal the basis of their calendar. It would do good for us to see whether his ideas are useful or not.
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]A Great Scientist is spawned near the [ICON_CAPITAL] Capital
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

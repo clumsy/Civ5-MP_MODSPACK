@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="ee0301ba-e413-46f6-852d-62e4da1522c5" version="4">
+  <Properties>
+    <Name>Light in the East and TarcisioCM - The Ptolemies(Cleopatra)</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds [COLOR_POSITIVE_TEXT]The Ptolemies led by Cleopatra[ENDCOLOR]</Teaser>
+    <Description>[NEWLINE]Note: 
+[NEWLINE]- This civilization requires the Brave New World expansion.
+[NEWLINE]- Updates will most likely break saves. Do not update unless you are ready to start a new game.
+[NEWLINE]
+[NEWLINE]~~~
+[NEWLINE]
+[NEWLINE]
+[NEWLINE]Leader:  Cleopatra
+[NEWLINE]Capital: Alexandria
+[NEWLINE]Unique Ability: (Queen of Kings) Embassies established in your Capital grant 5% of their Civilization Capital’s highest yield. Receive Military Units and Culture after signing a Declaration of Friendship.
+[NEWLINE]Unique Building: Emporion. Replaces Market. Provides +1  Culture in addition to the Market's bonuses. Outgoing  Trade Routes generate extra Gold for each internal Trade Route targeting this City. Generates Culture (extra for each internal Trade Route targeting this City) from Trade Routes to friendly Civilizations.
+[NEWLINE]Unique Unit: Galatian Guard. Replaces the Swordsman. May move after being purchased, and turns Experience into Culture if disbanded. While within two tiles of a Ptolemaic City, gains double the amount of experience and has +15% Combat Strength.
+[NEWLINE]
+[NEWLINE]Support:
+[NEWLINE]- YNAEMP 
+[NEWLINE]- Ethnic Units 
+[NEWLINE]- Historical Religions Complete
+[NEWLINE]- Piety and Prestige by JFD
+[NEWLINE]- Events and Decisions 
+[NEWLINE]- R.E.D. Modpack
+[NEWLINE]- Map Labels
+[NEWLINE]- Cultural Diversity
+[NEWLINE]- Unique Cultural Influence
+[NEWLINE]- Wish for the World
+[NEWLINE]- Exploration Continued
+[NEWLINE]- Civ 4 Traits
+[NEWLINE]- Sovereignty
+[NEWLINE]- Mercenaries
+[NEWLINE]- Community Patch
+[NEWLINE]- Community Balance Patch
+[NEWLINE]- Enlightenment Era
+[NEWLINE]- Historical Religions</Description>
+    <Authors>regalmanemperor, TarcisioCM</Authors>
+    <SpecialThanks>Janboruta, Bane_, COF, JTitan, Tomatekh, Viregel, Pouakai, Charlaten Alley</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>0</SupportsMultiplayer>
+    <SupportsHotSeat>0</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YNAEMP" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="Piety and Prestige" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="Cultural Diversity" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Cultural Influence" />
+    <Mod id="43868e8d-de88-48a1-a8d9-ce144e07f5e0" minversion="0" maxversion="999" title="Exploration Continued" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events &amp; Decisions" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D." />
+    <Mod id="d99bf7aa-51ac-4bef-bd88-d765b28e260e" minversion="0" maxversion="999" title="Sovereignty" />
+    <Mod id="Mercenaries" minversion="0" maxversion="999" title="a19351c5-c0b3-4b07-8695-4affaa19994" />
+    <Mod id="ce8aa614-7ef7-4a45-a179-5329869e8d6d" minversion="0" maxversion="999" title="Enlightenment Era" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Traits" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="FDC2A51D21320E19F0A896D9AFB43F87" import="1">Art/Atlases/LITE_TARCISIO_CleopatraAlphaAtlas_128.dds</File>
+    <File md5="7DEF729DC9B8CD4177F93458BCE8D0AE" import="1">Art/Atlases/LITE_TARCISIO_CleopatraAlphaAtlas_16.dds</File>
+    <File md5="94C4DACFADD78E80265247D849F54172" import="1">Art/Atlases/LITE_TARCISIO_CleopatraAlphaAtlas_24.dds</File>
+    <File md5="FE3E7AC579B436C5372DB6FDAD8BAD90" import="1">Art/Atlases/LITE_TARCISIO_CleopatraAlphaAtlas_256.dds</File>
+    <File md5="759CED6492B13A8A623F737BAFC29DD6" import="1">Art/Atlases/LITE_TARCISIO_CleopatraAlphaAtlas_32.dds</File>
+    <File md5="D8F1F89747ECEA98189BA2E8657B516B" import="1">Art/Atlases/LITE_TARCISIO_CleopatraAlphaAtlas_45.dds</File>
+    <File md5="3A8D377052BE1FE8F24617D64CEA4D67" import="1">Art/Atlases/LITE_TARCISIO_CleopatraAlphaAtlas_48.dds</File>
+    <File md5="61C8525B80146527919CCF5ABA3C1DEA" import="1">Art/Atlases/LITE_TARCISIO_CleopatraAlphaAtlas_64.dds</File>
+    <File md5="36DACD85C14E0197A1A1BAF9C83732B4" import="1">Art/Atlases/LITE_TARCISIO_CleopatraAlphaAtlas_80.dds</File>
+    <File md5="0CFC784A284F8F3CF36DDB6B01777672" import="1">Art/Atlases/LITE_TARCISIO_CleopatraAtlas_128.dds</File>
+    <File md5="233BDFA5B2534F00E8008F879170D8EC" import="1">Art/Atlases/LITE_TARCISIO_CleopatraAtlas_256.dds</File>
+    <File md5="916142D82C336B7470AF59DB70CD6002" import="1">Art/Atlases/LITE_TARCISIO_CleopatraAtlas_32.dds</File>
+    <File md5="426065C745A068AB8EAF6A8498622548" import="1">Art/Atlases/LITE_TARCISIO_CleopatraAtlas_45.dds</File>
+    <File md5="D471EFB492343B4F9A38D927382FE07D" import="1">Art/Atlases/LITE_TARCISIO_CleopatraAtlas_64.dds</File>
+    <File md5="4BAF60FC8A2C5F92DC64C14F5E7A258B" import="1">Art/Atlases/LITE_TARCISIO_CleopatraAtlas_80.dds</File>
+    <File md5="1D9A4E4A116C2E99A87BEC8AD72359A2" import="1">Art/Models/Galatian Guard/EnglandWarrior.dds</File>
+    <File md5="192FE58CA6F09995816EE05C81878012" import="1">Art/Models/Galatian Guard/EnglandWarrior.fbx</File>
+    <File md5="FAE32EF5AAB3480BEFB07A42A3748D7A" import="1">Art/Models/Galatian Guard/EnglandWarrior.fxsxml</File>
+    <File md5="6733CE485A2C40B64C2E04A364BB313B" import="1">Art/Models/Galatian Guard/EnglandWarrior.gr2</File>
+    <File md5="D5982AE689BF33FBDFA69F0C24C07103" import="1">Art/Models/Galatian Guard/EnglandWarrior_sref.dds</File>
+    <File md5="11E6E17131421E0E98E50C8D24CAE1D2" import="1">Art/Models/Galatian Guard/LITE_TARCISIO_GalatianGuardUnitFlag_32.dds</File>
+    <File md5="C34E418058176C07B7CA6549DD3D38F2" import="1">Art/Models/Galatian Guard/sv_GalatianGuard.dds</File>
+    <File md5="8D03C7D1BEF8CF705493E0D2E353BAA2" import="1">Art/Scenes/LITE_TARCISIO_CleopatraDiplo.dds</File>
+    <File md5="0B7B42D08065A4CA811CAA0101F65B10" import="1">Art/Scenes/LITE_TARCISIO_CleopatraDOM.dds</File>
+    <File md5="638FA7849D6A7530D9530D91EDFFC395" import="1">Art/Scenes/LITE_TARCISIO_CleopatraMap.dds</File>
+    <File md5="D33EF541079141FF78A4A277F39BFF2F" import="1">Core/Art/Cleopatra_Leaderhead.xml</File>
+    <File md5="09EABDD2E99387584822E471177FACC4" import="1">Core/Art/LITE_TARCISIO_Ptolemies_ArtDefines.sql</File>
+    <File md5="75A6B45F211C842DBD4DF135B8885AED" import="0">Core/Buildings/LITE_TARCISIO_Ptolemies_BuildingClasses.xml</File>
+    <File md5="B588E79CD5199AB98CC21EFA97AD4457" import="0">Core/Buildings/LITE_TARCISIO_Ptolemies_Buildings.xml</File>
+    <File md5="8741B38E0210ECBDAE98BDC60881B499" import="0">Core/Civilizations/LITE_TARCISIO_Ptolemies_Civilizations.xml</File>
+    <File md5="2C1AA3C94F10CD598EA145F67F65BD6A" import="0">Core/GameInfo/LITE_TARCISIO_Ptolemies_Traits.xml</File>
+    <File md5="53E054B1DB7E80982EC3CCA698880AA0" import="0">Core/GameInfo/LITE_TARCISIO_Ptolemies_IconTextureAtlases.xml</File>
+    <File md5="C8866B3A15F43A733C527E8FE234F67C" import="0">Core/GameInfo/LITE_TARCISIO_Ptolemies_Sounds.xml</File>
+    <File md5="1FEC1EDF190DB939643E7295998D9DC7" import="0">Core/Leaders/LITE_TARCISIO_Ptolemies_Leader.xml</File>
+    <File md5="418AD06BC8FBD46EAFFBEB9262A716D0" import="0">Core/Text/LITE_TARCISIO_Ptolemies_Text.xml</File>
+    <File md5="D23B2245EB6A187BA497F3FB695397C5" import="0">Core/Units/LITE_TARCISIO_Ptolemies_UnitPromotions.xml</File>
+    <File md5="3E3279897F6CD9C9160B61D653A522B3" import="0">Core/Units/LITE_TARCISIO_Ptolemies_Units.xml</File>
+    <File md5="5D17BCC1B2110CCF1161452C12F23735" import="0">Lua/Embassies.lua</File>
+    <File md5="4693A8935B58C6F4333139488E857477" import="0">Lua/Emporion.lua</File>
+    <File md5="A90E82CAEC9B580171CED8098F929279" import="0">Lua/Friendships.lua</File>
+    <File md5="734163C45B2E1371A56088359FB75480" import="0">Lua/GalatianGuard.lua</File>
+    <File md5="D63DC8BB6AA0F310DD55B264DB49C7E2" import="1">Lua/PlotIterators.lua</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">Lua/SaveUtils.lua</File>
+    <File md5="4A6AE8343E8A5B6B2EB86659034DE3B2" import="0">Mods/CleopatraEvents_DecisionsText.xml</File>
+    <File md5="15C98A3789035BE9B101E2E5EFFFD467" import="1">Mods/CleopatraModDecisions.lua</File>
+    <File md5="81F2F2B51CF3F789C2731480791B8313" import="1">Mods/CleopatraModEvents.lua</File>
+    <File md5="8772AE21317D907BAA16AE3B20CF463E" import="0">Mods/CleopatraModEvents_Decisions.sql</File>
+    <File md5="DD7EE491012917FEF9E12B790867930A" import="0">Mods/CleopatraModSupport.sql</File>
+    <File md5="3574B6EFC8AF8BBC0CBC25ABEF22533B" import="1">Sounds/LITE_TARCISIO_Ptolemies_War.mp3</File>
+    <File md5="73D9E2FA44B2749316F7D04882333319" import="1">Sounds/LITE_TARCISIO_Ptolemies_Peace.mp3</File>
+    <File md5="AB13C2DFE00C519F89E40FE1FF8DABA9" import="1">Sounds/LITE_TARCISIO_DOM_Ptolemies_Voiceover.mp3</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/Leaders/LITE_TARCISIO_Ptolemies_Leader.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameInfo/LITE_TARCISIO_Ptolemies_Traits.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Civilizations/LITE_TARCISIO_Ptolemies_Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Units/LITE_TARCISIO_Ptolemies_Units.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Buildings/LITE_TARCISIO_Ptolemies_BuildingClasses.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Buildings/LITE_TARCISIO_Ptolemies_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameInfo/LITE_TARCISIO_Ptolemies_IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Units/LITE_TARCISIO_Ptolemies_UnitPromotions.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Text/LITE_TARCISIO_Ptolemies_Text.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameInfo/LITE_TARCISIO_Ptolemies_Sounds.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Art/Cleopatra_Leaderhead.xml</UpdateDatabase>
+      <UpdateDatabase>Art/Models/Galatian Guard/EnglandWarrior.fxsxml</UpdateDatabase>
+      <UpdateDatabase>Mods/CleopatraModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Mods/CleopatraEvents_DecisionsText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Art/LITE_TARCISIO_Ptolemies_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Mods/CleopatraModEvents_Decisions.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/GalatianGuard.lua">
+      <Name>GalatianGuard.lua</Name>
+      <Description>GalatianGuard</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Embassies.lua">
+      <Name>Embassies.lua</Name>
+      <Description>Embassies.lua</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Emporion.lua">
+      <Name>Emporion.lua</Name>
+      <Description>Emporion.lua</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Friendships.lua">
+      <Name>Friendships.lua</Name>
+      <Description>Friendships.lua</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

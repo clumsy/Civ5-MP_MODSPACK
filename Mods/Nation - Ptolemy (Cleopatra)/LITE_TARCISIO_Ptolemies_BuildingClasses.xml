@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/20/2015 7:13:11 PM -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_LITE_TARCISIO_PTOLEMIES_CULTURE_DUMMY</Type>
+			<DefaultBuilding>NONE</DefaultBuilding>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_LITE_TARCISIO_PTOLEMIES_GOLD_DUMMY</Type>
+			<DefaultBuilding>NONE</DefaultBuilding>
+		</Row>
+	</BuildingClasses>
+</GameData>

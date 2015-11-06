@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/19/2015 2:24:07 PM -->
+<GameData>
+	<Language_en_US>
+		<!--Unique Unit-->
+		<Row Tag="TXT_KEY_UNIT_LITE_TARCISIO_PTOLEMIES_GALATIAN_GUARD">
+			<Text>Galatian Guard</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LITE_TARCISIO_PTOLEMIES_GALATIAN_GUARD_HELP">
+			<Text>Replaces the Swordsman. May move after being purchased, and turns Experience into [ICON_CULTURE] Culture if disbanded. While within two tiles of a Ptolemaic City, gains double the amount of experience and has [ICON_STRENGTH] +15% Combat Strength.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LITE_TARCISIO_PTOLEMIES_GALATIAN_GUARD_STRATEGY">
+			<Text>The Galatian Guard is a Swordsman replacement that gains strength when fighting defensively near your Cities. Purchasing them during war and disbanding afterwards will provide a burst of [ICON_CULTURE].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LITE_TARCISIO_PTOLEMIES_GALATIAN_GUARD_PEDIA">
+			<Text>Encouraged by Ptolemaic Pharaohs to settle in Egypt, Galatian mercenaries were employed in their armies and as royal guards. Celtic tribesmen, the Galatians migrated south into central Anatolia and eastern Phrygia following Brennus’ invasions of Macedon and Greece in 279 BC. They had a fierce reputation and found employment as mercenaries throughout the Hellenistic world. Held in high esteem throughout the period, they fought in the Celtic style, making use of swords, javelins and oval shields. Auxiliaries in the Egyptian army were not generally armoured, but the Galatians of the royal guard wore mail shirts by the time of the last Cleopatra; she was given 300 Galatian warriors in 48 BC by Julius Caesar. Galatians were a practical solution to a manpower shortage faced by the Ptolemaic dynasty; the loyalty of mercenaries could easily be purchased with Egypt’s wealth, and they were far less likely to turn on their foreign masters than the Egyptians.</Text>
+		</Row>
+		<!--Unique Building-->
+		<Row Tag="TXT_KEY_BUILDING_LITE_TARCISIO_PTOLEMIES_EMPORION">
+			<Text>Emporion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LITE_TARCISIO_PTOLEMIES_EMPORION_HELP">
+			<Text>Replaces Market. Provides +1 [ICON_CULTURE] Culture in addition to the Market's bonuses. Outgoing [ICON_SWAP] Trade Routes generate extra Gold for each internal [ICON_SWAP] Trade Route targeting this City. Generates [ICON_CULTURE] Culture (extra for each internal Trade Route targeting this City) from Trade Routes to friendly Civilizations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LITE_TARCISIO_PTOLEMIES_EMPORION_STRATEGY">
+			<Text>The Emporion makes its city more desirable to send Trade Routes to. It also provides +1 [ICON_CULTURE] in addition to the usual Market bonuses to accumulate as much Culture as possible before another foreign Trade Route is assigned to the city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDING_LITE_TARCISIO_PTOLEMIES_EMPORION_PEDIA">
+			<Text>In antiquity, an emporion was a place which the traders of one nation had reserved to their business interests within the territory of another nation. With the blooming of Hellenistic culture, these places became widespread throughout the known world. Being a maritime nation, the  Greek Ptolemaic dynasty was involved in trade throughout the Mediterranean world. Within its border, many famous emporia existed such as the ones in Cyrene, Syene and Halicarnassus. The capital, Alexandria, was the largest metropolis on the Mediterranean in its time and thus, was a bustling port with markets overflowing from goods that were brought from surrounding regions. The wealth of the Ptolemaic kingdom lay in trade with other empires that shared the same sea. The same wealth that was coveted by others and became the cause of their downfall at the hands of Rome.</Text>
+		</Row>
+		<!--Promotion Tags-->
+		<Row Tag="TXT_KEY_PROMOTION_LITE_TARCISIO_CITY_BONUS">
+			<Text>Galatian Guard City Bonus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LITE_TARCISIO_CITY_BONUS_HELP">
+			<Text>Earns double Experience and has +15% [ICON_STRENGTH] Combat Strength when within 2 tiles of a friendly City.</Text>
+		</Row>
+		<!--Unique Ability-->
+		<Row Tag="TXT_KEY_TRAIT_QUEEN_OF_KINGS_SHORT">
+			<Text>Queen of Kings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_QUEEN_OF_KINGS">
+			<Text>Embassies established in your [ICON_CAPITAL] Capital grant 5% of their Civilization [ICON_CAPITAL] Capital's highest yield. Receive Military Units and [ICON_CULTURE] Culture after signing a Declaration of Friendship.</Text>
+		</Row>
+		<!--Spy Names-->
+		<Row Tag="TXT_KEY_SPY_NAME_LITE_TARCISIO_PTOLEMIES_0">
+			<Text>Arsinoe</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LITE_TARCISIO_PTOLEMIES_1">
+			<Text>Caesarion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LITE_TARCISIO_PTOLEMIES_2">
+			<Text>Selene</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LITE_TARCISIO_PTOLEMIES_3">
+			<Text>Helios</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LITE_TARCISIO_PTOLEMIES_4">
+			<Text>Berenice</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LITE_TARCISIO_PTOLEMIES_5">
+			<Text>Ptolemy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LITE_TARCISIO_PTOLEMIES_6">
+			<Text>Eirene</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LITE_TARCISIO_PTOLEMIES_7">
+			<Text>Serapion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LITE_TARCISIO_PTOLEMIES_8">
+			<Text>Eurydice</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LITE_TARCISIO_PTOLEMIES_9">
+			<Text>Sosigenes</Text>
+		</Row>
+		<!--Denonyms-->
+		<Row Tag="TXT_KEY_LITE_TARCISIO_PTOLEMIES_DESC">
+			<Text>Ptolemaic Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LITE_TARCISIO_PTOLEMIES_SHORT_DESC">
+			<Text>The Ptolemies</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_LITE_TARCISIO_PTOLEMIES_ADJECTIVE">
+			<Text>Ptolemaic</Text>
+		</Row>
+		<!--Civilopedias-->
+		<Row Tag="TXT_KEY_LITE_TARCISIO_PTOLEMIES">
+			<Text>The Ptolemies</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_LITE_TARCISIO_PTOLEMIES_TITLE">
+			<Text>Ptolemaic Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_LITE_TARCISIO_PTOLEMIES_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_LITE_TARCISIO_PTOLEMIES_TEXT_1">
+			<Text>In 332 BC, the Macedonian king Alexander the Great conquered Egypt and gave a new capital to the old kingdom along the Nile, Alexandria. After his death (11 June 323), his friend Ptolemy became satrap of Egypt, and started to behave himself rather independently. When Perdiccas, the regent of Alexander's Philip Arridaeus arrived in 320, he was defeated. This marked the beginning of Egypt's independence under a new dynasty, the Ptolemies (or Lagids). Ptolemy accepted the royal title in 306 BC.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_LITE_TARCISIO_PTOLEMIES_HEADING_2">
+			<Text>Foreign Dynasty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_LITE_TARCISIO_PTOLEMIES_TEXT_2">
+			<Text>The fourteen kings of this dynasty were all called Ptolemy and are numbered by modern historians I to XV (Ptolemy VII never reigned). A remarkable aspect of the Ptolemaic monarchy was the prominence of women (seven queens named Cleopatra and four Berenices), who rose to power when their sons or brothers were too young. This was almost unique in Antiquity. Another intriguing aspect was the willingness of the Ptolemies to present themselves to the Egyptians as native pharaohs. This was less unique: the Seleucid dynasty that reigned the Asian parts of Alexander's empire did the same.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_LITE_TARCISIO_PTOLEMIES_HEADING_3">
+			<Text>Expansionism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_LITE_TARCISIO_PTOLEMIES_TEXT_3">
+			<Text>Although Ptolemy I had refused the regency after the death of Perdiccas, he aimed at more than Egypt alone. In the last years of the fourth century, he managed to seize Coele Syria, which is more or less equivalent to modern Israel, Palestine, Lebanon and southern Syria (and included the small Jewish state around Jerusalem). The possession of this area was, however, hotly contested: several Syrian wars were fought to defend it against the claims of the Seleucids. At first, Egyptian power was great: Cyprus, several Aegean islands, parts of Asia Minor and parts of Thrace belonged to the Ptolemaic empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_LITE_TARCISIO_PTOLEMIES_HEADING_4">
+			<Text>Warring Diadochi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_LITE_TARCISIO_PTOLEMIES_TEXT_4">
+			<Text>However, after the death of Ptolemy IV Philopator in 204, his son Ptolemy V Epiphanes was too young to rule, and his wife Arsinoe was murdered. During this crisis, the Seleucid king Antiochus III the Great and Philip V of Macedonia decided to attack the Ptolemaic empire and divide the booty. When a peace treaty was signed in 195, Egypt had lost Coele Syria and all oversea possessions, except for Cyprus. The next years saw several revolts inside Egypt.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_LITE_TARCISIO_PTOLEMIES_HEADING_5">
+			<Text>Decline of the Kingdom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_LITE_TARCISIO_PTOLEMIES_TEXT_5">
+			<Text>In 169 and 168, the Seleucid king Antiochus IV Epiphanes invaded Egypt, conquered the Delta, and laid siege to Alexandria. However, the Romans intervened and forced him to return. From now on, the Ptolemies were increasingly dependent on Rome.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_LITE_TARCISIO_PTOLEMIES_HEADING_6">
+			<Text>Cleopatra and the end</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_LITE_TARCISIO_PTOLEMIES_TEXT_6">
+			<Text>The first Roman plans to conquer Egypt were made in the 140s, but the famously rich kingdom was too high a prize for one man to win: every Roman senator wanted to be the man who conquered Egypt, and hence all senators jointly prevented any Roman magistrate who wanted to go to Alexandria from doing so. Egypt was left to its own until 47, when Julius Caesar - who had defeated all other senators - arrived. He made Cleopatra VII queen (together with her twelve-year old brother Ptolemy XIV) and demanded money. Seventeen years later, Caesar's adoptive son Octavian drove Cleopatra into suicide, murdered her son Ptolemy XV Caesarion and annexed it as a province of Rome.</Text>
+		</Row>
+		<!--City List-->
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_TARCISIO_PTOLEMIES_0">
+			<Text>Alexandria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_TARCISIO_PTOLEMIES_1">
+			<Text>Hermopolis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_TARCISIO_PTOLEMIES_2">
+			<Text>Dendera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_TARCISIO_PTOLEMIES_3">
+			<Text>Ptolemais</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_TARCISIO_PTOLEMIES_4">
+			<Text>Rosetta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_TARCISIO_PTOLEMIES_5">
+			<Text>Edfu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_TARCISIO_PTOLEMIES_6">
+			<Text>Pselchis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_TARCISIO_PTOLEMIES_7">
+			<Text>Paraitonion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_TARCISIO_PTOLEMIES_8">
+			<Text>Syene</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_TARCISIO_PTOLEMIES_9">
+			<Text>Philae</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_TARCISIO_PTOLEMIES_10">
+			<Text>Berenice</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_TARCISIO_PTOLEMIES_11">
+			<Text>Ammonium</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_TARCISIO_PTOLEMIES_12">
+			<Text>Pelusium</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_TARCISIO_PTOLEMIES_13">
+			<Text>Oxyhynchos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_TARCISIO_PTOLEMIES_14">
+			<Text>Philadelphia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_TARCISIO_PTOLEMIES_15">
+			<Text>Koptos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_TARCISIO_PTOLEMIES_16">
+			<Text>Arsinoe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_TARCISIO_PTOLEMIES_17">
+			<Text>Diospolis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_TARCISIO_PTOLEMIES_18">
+			<Text>Panopolis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_TARCISIO_PTOLEMIES_19">
+			<Text>Heracleopolis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_TARCISIO_PTOLEMIES_20">
+			<Text>Plynos Limen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_TARCISIO_PTOLEMIES_21">
+			<Text>Aphroditopolis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_TARCISIO_PTOLEMIES_22">
+			<Text>Theben</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_TARCISIO_PTOLEMIES_23">
+			<Text>Elephantine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_TARCISIO_PTOLEMIES_24">
+			<Text>Crocodopolis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_TARCISIO_PTOLEMIES_25">
+			<Text>Memphis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_TARCISIO_PTOLEMIES_26">
+			<Text>Sais</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_TARCISIO_PTOLEMIES_27">
+			<Text>Leucas Limen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_TARCISIO_PTOLEMIES_28">
+			<Text>Taucheira</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_TARCISIO_PTOLEMIES_29">
+			<Text>Buto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LITE_TARCISIO_PTOLEMIES_30">
+			<Text>Heliopolis</Text>
+		</Row>
+		<!-- Leader Civlopedia Text -->
+		<Row Tag="TXT_KEY_LEADER_LITE_TARCISIO_CLEOPATRA_DESC">
+			<Text>Cleopatra</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LITE_TARCISIO_CLEOPATRA_LIVED">
+			<Text>c.69 - 30 B.C.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LITE_TARCISIO_CLEOPATRA_NAME">
+			<Text>Cleopatra VII Thea Philopator</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LITE_TARCISIO_CLEOPATRA_SUBTITLE">
+			<Text>Queen of the Ptolemies</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LITE_TARCISIO_CLEOPATRA_TITLES_1">
+			<Text>Queen of Kings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LITE_TARCISIO_CLEOPATRA_TITLES_2">
+			<Text>Queen of Egypt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LITE_TARCISIO_CLEOPATRA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LITE_TARCISIO_CLEOPATRA_TEXT_1">
+			<Text>Known to history as the last pharaoh of Egypt before Roman conquest, Cleopatra VII Philopator was a ruler of the Macedonian Ptolemaic dynasty. Rising through the court to become the sole ruler of Egypt, Cleopatra’s life was a myriad of affairs and intrigue. Through her cunningness and skillful diplomacy, she managed to safeguard Egypt against potential threats such as the Romans. However, a series of missteps ultimately led to her fall at the hands of Octavian, a Roman commander. She died young, purportedly due to suicide by poison.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LITE_TARCISIO_CLEOPATRA_HEADING_2">
+			<Text>Early Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LITE_TARCISIO_CLEOPATRA_TEXT_2">
+			<Text>Since no contemporary accounts exist of Cleopatra’s life, it is difficult to piece together her biography with much certainty. Much of what is known about her life comes from the work of Greco-Roman scholars, particularly Plutarch. Born in 70 or 69 B.C., Cleopatra was a daughter of Ptolemy XII. Her mother was believed to be Cleopatra V Tryphaena, the king’s wife. In 51 B.C., upon the apparently natural death of Auletes, the Egyptian throne passed to 18-year-old Cleopatra and her 10-year-old brother, Ptolemy XIII.[NEWLINE][NEWLINE]Soon after the siblings’ ascension to the throne, Ptolemy’s advisers acted against Cleopatra, who was forced to flee Egypt for Syria in 49 B.C. She raised an army of mercenaries and returned the following year to face her brother’s forces at Pelusium, on Egypt’s eastern border. Meanwhile, after allowing the Roman general Pompey to be murdered, Ptolemy XIII welcomed the arrival of Pompey’s rival, Julius Caesar, to Alexandria. In order to help her cause, Cleopatra sought Caesar’s support, reportedly smuggling herself into the royal palace to plead her case with him.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LITE_TARCISIO_CLEOPATRA_HEADING_3">
+			<Text>Julius Caesar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LITE_TARCISIO_CLEOPATRA_TEXT_3">
+			<Text>For his part, Caesar needed to fund his own return to power in Rome, and needed Egypt to repay the debts incurred by Auletes. After four months of war between Caesar’s outnumbered forces and those of Ptolemy XIII, Roman reinforcements arrived; Ptolemy was forced to flee Alexandria, and was believed to have drowned in the Nile River. Entering Alexandria as an unpopular conqueror, Caesar restored the throne to the equally unpopular Cleopatra and her younger brother Ptolemy XIV. Caesar remained in Egypt with Cleopatra for a time, and around 47 B.C. she gave birth to a son, Ptolemy Caesar. He was believed to be Caesar’s child, and was known by the Egyptian people as Caesarion, or Little Caesar.[NEWLINE][NEWLINE]Sometime in 46-45 B.C., Cleopatra traveled with Ptolemy XIV and Caesarion to Rome to visit Caesar, who had returned earlier. After Caesar was murdered in March 44 B.C., Cleopatra went back to Egypt; Ptolemy XIV died soon after, and the three-year-old Caesarion was named co-regent with his mother, as Ptolemy XV. By this point, Cleopatra had strongly identified herself with the goddess Isis, the sister-wife of Osiris and mother of Horus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LITE_TARCISIO_CLEOPATRA_HEADING_4">
+			<Text>Mark Antony</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LITE_TARCISIO_CLEOPATRA_TEXT_4">
+			<Text>With her infant son as co-regent, Cleopatra’s hold on power in Egypt was more secure than it had ever been. Still, unreliable flooding of the Nile resulted in failing crops, leading to inflation and hunger. Meanwhile, a conflict was raging in Rome between a second triumvirate of Caesar’s allies (Mark Antony, Octavian and Lepidus) and his assassins, Brutus and Cassius. Both sides asked for Egyptian support, and after some stalling Cleopatra sent four Roman legions stationed in Egypt by Caesar to support the triumvirate. In 42 B.C., after defeating the forces of Brutus and Cassius in the battles of Philippi, Mark Antony and Octavian divided power in Rome.[NEWLINE][NEWLINE]Mark Antony soon summoned Cleopatra to the Cilician city of Tarsus (south of modern Turkey) to explain the role she had played in the complicated aftermath of Caesar’s assassination. According to the story recorded by Plutarch (and later dramatized famously by William Shakespeare), Cleopatra sailed to Tarsus in an elaborate ship, dressed in the robes of Isis. Antony, who associated himself with the Greek deity Dionysus, was seduced by her charms. He agreed to protect Egypt and Cleopatra’s crown, pledging support for the removal of her younger sister and rival Arsinoe, then in exile. Cleopatra returned to Egypt, followed shortly thereafter by Antony, who left behind his third wife, Fulvia, and their children in Rome. In 40 B.C., after Antony’s return to Rome, Cleopatra gave birth to twins, Alexander Helios (sun) and Cleopatra Selene (moon).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LITE_TARCISIO_CLEOPATRA_HEADING_5">
+			<Text>Power Struggle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LITE_TARCISIO_CLEOPATRA_TEXT_5">
+			<Text>After Fulvia took ill and died, Antony was forced to prove his loyalty to Octavian by making a diplomatic marriage with Octavian’s half-sister Octavia. Egypt grew more prosperous under Cleopatra’s rule, and in 37 B.C. Antony again met with Cleopatra to obtain funds for his long-delayed military campaign against the kingdom of Parthia. In exchange, he agreed to return much of Egypt’s eastern empire, including Cyprus, Crete, Cyrenaica (Libya), Jericho and large portions of Syria and Lebanon. They again became lovers, and Cleopatra gave birth to another son, Ptolemy Philadelphos.[NEWLINE][NEWLINE]After a humiliating defeat in Parthia, Antony publicly rejected his wife Octavia’s efforts to rejoin him and instead returned to Egypt and Cleopatra. In a public celebration in 34 B.C. known as the “Donations of Alexandria,” Antony declared Caesarion as Caesar’s son and rightful heir (as opposed to his adopted son, Octavian) and awarded land to each of his children with Cleopatra. This began a war of propaganda between him and the furious Octavian, who claimed that Antony was entirely under Cleopatra’s control and would abandon Rome and found a new capital in Egypt. In late 32 B.C., the Roman Senate stripped Antony of all his titles, and Octavian declared war on Cleopatra.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LITE_TARCISIO_CLEOPATRA_HEADING_6">
+			<Text>Defeat and Death</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LITE_TARCISIO_CLEOPATRA_TEXT_6">
+			<Text>On September 2, 31 B.C., Octavian’s forces soundly defeated those of Antony and Cleopatra in the Battle of Actium. Cleopatra’s ships deserted the battle and fled to Egypt, and Antony soon managed to break away and follow her with a few ships. With Alexandria under attack from Octavian’s forces, Antony heard a rumor that Cleopatra had committed suicide. He fell on his sword, and died just as news arrived that the rumor had been false.[NEWLINE][NEWLINE]On August 12, 30 B.C., after burying Antony and meeting with the victorious Octavian, Cleopatra closed herself in her chamber with two of her female servants. The means of her death is uncertain, but Plutarch and other writers advanced the theory that she used a poisonous snake known as the asp, a symbol of divine royalty. According to her wishes, Cleopatra’s body was buried with Antony’s, leaving Octavian (later Emperor Augustus I) to celebrate his conquest of Egypt and his consolidation of power in Rome.</Text>
+		</Row>
+	    <Row Tag="TXT_KEY_LEADER_LITE_TARCISIO_CLEOPATRA_FIRST_GREETING_1">
+			<Text>Welcome to the prized realm of the Nile. How may the queen who sits atop its throne help you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LITE_TARCISIO_CLEOPATRA_FIRST_GREETING_2">
+			<Text>Welcome beautiful stranger. Indeed you are quite handsome as they said! In these times, such beautiful gifts of Aphrodite are hard to find.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LITE_TARCISIO_CLEOPATRA_DEFEATED_1">
+			<Text>You have won a true prize of a kingdom. Be careful to preserve it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LITE_TARCISIO_CLEOPATRA_DEFEATED_2">
+			<Text>You were a threat I was foolish enough to overlook. You have damned your soul.</Text>
+		</Row>
+		<!-- DOM Text-->
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_LITE_TARCISIO_PTOLEMIES_TEXT">
+			<Text>Blessed queen of the Nile, the glory of Isis shines upon you, oh great Cleopatra Philopator, ruler of the Ptolemaic Kingdom of Egypt. Appointed as joint ruler with your younger brother, you were faced with many difficult situations early in your reign, with the nation in turmoil, famine in abundance and floods in deficit. Eager to rule alone, you acted on these problems yourself, leading your brother to depose you despite your efforts. As Rome’s shadow fell across the Mediterranean, you led the once mighty kingdom of the Ptolemaic dynasty during a time of turmoil. An excellent diplomat, you secured the favour of the Romans and thus, ensured the survival of Egypt as an independent nation and your return to life as the sole monarch. Challenges to your throne were seen off time and time again by your legendary wisdom, striking deals to ensure your survival while the world around descended into civil war. Though you too succumbed to the ravages of this conflict, you will be remembered as Egypt’s last great ruler, one truly beloved by the people.[NEWLINE][NEWLINE]Cleopatra, it is time for you to return to your land once more! Great Amun-Ra has shone upon you; he calls upon you to reunite your people, to begin a new epoch for Egypt. Will you see the lifeblood of your people, the Nile, bring unprecedented harvests yet again? Will you fend off all challengers for your throne? Will you build a civilisation that can stand the test of time?</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
