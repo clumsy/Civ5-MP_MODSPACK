@@ -1619,6 +1619,9 @@ ContextPtr:LoadNewContext("FreeShrineScript")
 ContextPtr:LoadNewContext("MissionaryReplace")
 ContextPtr:LoadNewContext("TiwaDialog")
 
+-- Nation - Hyksos --
+ContextPtr:LoadNewContext("HyksosFunctions")
+
 -- Nation - Ptolemy (Cleopatra) --
 ContextPtr:LoadNewContext("GalatianGuard")
 ContextPtr:LoadNewContext("Embassies")

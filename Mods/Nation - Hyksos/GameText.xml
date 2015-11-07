@@ -1,0 +1,329 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/18/2015 1:59:32 AM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_TCM_HYKSOS_DESC">
+			<Text>Hyksos Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TCM_HYKSOS_SHORT_DESC">
+			<Text>The Hyksos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TCM_HYKSOS_ADJECTIVE">
+			<Text>Hyksos</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_DOM_TCM_HYKSOS_TEXT">
+			<Text>May the blessings of Set be upon you, oh foreign lord of Egypt Apophis of the Hyksos! Though the means of which your people have managed to grasp the rule of Lower Egypt for themselves have faded from history, the Hyksos left a decisive mark on Egyptian history as the first foreign people to have ruled as suzerains of the Nile, and the great improvements brought by them - mainly on the military - had everlasting impact on Egyptian history, as future dynasties would have the power to conquer, keep in check their asiatic neighbours, and prosper.[NEWLINE][NEWLINE]Oh faithful servant of Set, the God of the Desert has let the pass into Egypt open to the Hyksos yet again! Will you claim the riches of this blessed land, forming your own Dynasty to rule over the waters of the Nile? Can you build a civilization to stand the test of time?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_TCM_HYKSOS_TITLE">
+			<Text>The Hyksos Kingdom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TCM_HYKSOS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TCM_HYKSOS_TEXT_1">
+			<Text>The Hyksos were a group of Asiatic people from Western Asia who took over the eastern Nile Delta, ending the Thirteenth Dynasty of Egypt and initiating the Second Intermediate Period. The Hyksos practiced horse burials, and their chief deity, their native storm god, the west-Semitic Baal, became associated with the Egyptian storm and desert god, Seth. The Hyksos brought several technical improvements to Egypt, as well as cultural infusions such as new musical instruments and foreign loan words. The changes introduced include new techniques of bronze working and pottery, new breeds of animals, and new crops. In warfare, they introduced the horse and chariot, the composite bow, improved battle axes, and advanced fortification techniques. Because of these cultural advances, Hyksos rule was decisive for Egypt’s later empire in the Middle East.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_HYKSOS_01">
+			<Text>Avaris</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_HYKSOS_02">
+			<Text>Sharuhen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_HYKSOS_03">
+			<Text>Noph</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_HYKSOS_04">
+			<Text>Awen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_HYKSOS_05">
+			<Text>Ghazzat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_HYKSOS_06">
+			<Text>Wadjet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_HYKSOS_07">
+			<Text>Maketi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_HYKSOS_08">
+			<Text>Sidon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_HYKSOS_09">
+			<Text>Ugarit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_HYKSOS_10">
+			<Text>Halab</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_HYKSOS_11">
+			<Text>Giza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_HYKSOS_12">
+			<Text>Tjaru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_HYKSOS_13">
+			<Text>Sais</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_HYKSOS_14">
+			<Text>Bubastis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_HYKSOS_15">
+			<Text>Tyre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_HYKSOS_16">
+			<Text>Byblos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_HYKSOS_17">
+			<Text>Busiris</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_HYKSOS_18">
+			<Text>Khem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_HYKSOS_19">
+			<Text>Athribis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_HYKSOS_20">
+			<Text>Kadesh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_HYKSOS_21">
+			<Text>Khito</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_HYKSOS_22">
+			<Text>Qatna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_HYKSOS_23">
+			<Text>Lachish</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_HYKSOS_24">
+			<Text>Sin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_HYKSOS_25">
+			<Text>Dimasqu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_HYKSOS_26">
+			<Text>Zemar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_HYKSOS_27">
+			<Text>Hazor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_HYKSOS_28">
+			<Text>Dor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_HYKSOS_29">
+			<Text>Arwad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_HYKSOS_30">
+			<Text>Baalbek</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_TCM_APOPHIS_FIRSTGREETING_1">
+			<Text>Who is that who dares enter my domains? Be warned that you are not welcomed here, turn back and leave at once and you might yet not feel the wrath of Set!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_APOPHIS_DEFEATED_1">
+			<Text>This cannot be true, you vile beings! May the serpent of chaos consume you all!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_HYKSOS_1">
+			<Text>Ammit</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_HYKSOS_2">
+			<Text>Apep</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_HYKSOS_3">
+			<Text>Shezmu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_HYKSOS_4">
+			<Text>Menwi</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_HYKSOS_5">
+			<Text>Sakir-Har</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_HYKSOS_6">
+			<Text>Khamudi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_HYKSOS_7">
+			<Text>Khyan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_HYKSOS_8">
+			<Text>Ziwat</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_HYKSOS_9">
+			<Text>Tani</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_TCM_APOPHIS_PEDIA_TEXT">
+			<Text>Apophis was a ruler of Lower Egypt during the fifteenth dynasty and the end of the Second Intermediate Period that was dominated by this foreign dynasty of rulers called the Hyksos. Although his reign only entailed northern Egypt, Apepi was dominant over most of Egypt during the early portion of his reign, and traded peacefully with the native, Theban Seventeenth dynasty to the south. In the Ramesside era, he is recorded as worshiping Seth in a monolatric way: "He chose for his Lord the god Seth. He didn't worship any other deity in the whole land except Seth."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_APOPHIS_PEDIA_LIVED">
+			<Text>1575 - 1540 BC</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_APOPHIS_PEDIA_NAME">
+			<Text>Apophis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_APOPHIS_PEDIA_SUBTITLE">
+			<Text>Leader of the Hyksos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_APOPHIS_PEDIA_TITLES_1">
+			<Text>Pharaoh</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_TCM_APOPHIS">
+			<Text>Apophis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TCM_APOPHIS_HYKSOS_SHORT">
+			<Text>Cultists of Set</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TCM_APOPHIS_HYKSOS">
+			<Text>Gain [ICON_CULTURE] Culture and [ICON_RESEARCH] Science from Resistance in cities. Conquering a city for the first time grants you a portion of the [ICON_CULTURE] Culture that it has generated in its lifetime.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_TCM_HEQA_KHASUT">
+			<Text>Heqa-Khasut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_TCM_HEQA_KHASUT_TEXT">
+			<Text>Heqa-Khasut means, in Egyptian, "rulers of the foreign countries". It was how they called the Hyksos, a people of uncertain asiatic descent who grasped control of lower egypt for about a hundred years, and brought many military advancements.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TCM_HEQA_KHASUT_STRATEGY">
+			<Text>The ranged Heqa-Khasuts are best employed offensively on sieges not only due to the fact that they're stronger than their non-unique counterparts, but also because they gain the ability to build Forts when within the limits of a conquered city. Doing so will not only build the fort itself, but also repair any nearby pillaged improvements, and instantly improve any nearby strategic resources such as Horses and Iron.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_TCM_HEQA_KHASUT">
+			<Text>A stronger Chariot Archer that only the Hyksos may build. They are able to build forts while inside the limits of occupied cities, repairing all nearby tiles and improving any nearby strategic resources when doing so.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_TCM_MEKTER">
+			<Text>Mekter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TCM_MEKTER_HELP">
+			<Text>Unique Hyksos Barracks replacement. Upon being first built in a conquered city it grants +3 Experience to all units, or +5 if they were not trained in a city with a Mekter (A maximum of +15 Experience per unit may be gained from this).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TCM_MEKTER_TEXT">
+			<Text>Mekter is a broad term in Egyptian for forts. The Hyksos brought new fortification techniques to Egypt after installing their Dynasty on the north of the Nile. Due to this, and other military advancements that arrived in Egypt through the Hyksos, later native Egyptian dynasties would have the capacity to expand Egypt to it's greatest extent ever since.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TCM_MEKTER_STRATEGY">
+			<Text>The unique Hyksos Mekter allows players who have decided to rush unit production for early game conquest before building their Barracks to still receive the Experience bonuses from the building, as long as the Mekter was built in a conquered city. Alternatively, one could still build the Mekter in their home cities, and reap a total 30 experience bonus from this building; this would take longer, however.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_TCM_HYKSOS_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now worshipping Set and naming their children after ancient embodiments of Chaos. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+	
+		
+		<Row Tag="TXT_KEY_DECISIONS_TCM_HYKSOSANCIENTTEXTS_1">
+			<Text>Copy Ancient Texts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TCM_HYKSOSANCIENTTEXTS_1_DESC">
+			<Text>
+				The ease in which we took control of the Nile only serves to prove the fragility of so called mighty empires; that may even include us, one day. We must ensure that the most important of all things is protected and never be allowed to fade away: Knowledge.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Hyksos
+				[NEWLINE][ICON_BULLET]May only be enacted once per Major Civilization
+				[NEWLINE][ICON_BULLET]Must have captured the [ICON_CAPITAL] Capital of a Major Civilization
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]Costs {1_Cost} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]Costs 2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Gains {2_Science} [ICON_RESEARCH] Science
+				[NEWLINE][ICON_BULLET]Gain a Library in every city conquered from that Civilization.
+				[NEWLINE][ICON_BULLET]Receive a free Great Work of Writing, if there is any free slot available.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TCM_HYKSOSANCIENTTEXTS_2">
+			<Text>Copy Ancient {1_Adjective} Texts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TCM_HYKSOSANCIENTTEXTS_2_DESC">
+			<Text>
+				The ease in which {1_Civilization} fell to us only serves to prove the fragility of so called mighty empires; that may even include us, one day. We must ensure that the most important of all things is protected and never be allowed to fade away: Knowledge.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Hyksos
+				[NEWLINE][ICON_BULLET]May only be enacted once
+				[NEWLINE][ICON_BULLET]Must have captured the {2_Adjective} [ICON_CAPITAL] Capital
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]Costs {3_Cost} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]Costs 2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Gain a Library in every city conquered from {1_Name}.
+				[NEWLINE][ICON_BULLET]Gains {4_Science} [ICON_RESEARCH] Science
+				[NEWLINE][ICON_BULLET]Receive a free Great Work of Writing, if there is any free slot available.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TCM_HYKSOSANCIENTTEXTS_2_ENACTED_DESC">
+			<Text>
+				We have copied ancient texts from these lands for safekeeping.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DECISIONS_TCM_HYKSOSFORTIFYFRONTIER">
+			<Text>Fortify the Frontier</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TCM_HYKSOSFORTIFYFRONTIER_DESC">
+			<Text>
+				We have finally found a prosperous new land to call home! And now we know how surprisingly undefended the path to get here is; we must secure the frontiers so no one can follow our steps into here.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Hyksos
+				[NEWLINE][ICON_BULLET]May only be enacted once
+				[NEWLINE][ICON_BULLET]Must have conquered four cities
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]Costs {1_Cost} [ICON_GOLD] Gold
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Walls and Mekters will be built 25% faster
+				[NEWLINE][ICON_BULLET]Building a Fort triggers a [ICON_PRODUCTION] Production boost in nearby cities
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TCM_HYKSOSFORTIFYFRONTIER_ENACTED_DESC">
+			<Text>
+				The path lay open no more! The frontiers of our realm have been fortified.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_TCM_HYKSOS_SET">
+			<Text>Religious Tensions Erupt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TCM_HYKSOS_SET_DESC">
+			<Text>Rebellious local priests have roused the populace of {1_City} demanding that we cease to exclusively worship Set, claiming that our God is a manifestation of evil!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_TCM_HYKSOS_SET_OUTCOME_1">
+			<Text>Order the garrison to quell dissidents.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TCM_HYKSOS_SET_OUTCOME_2">
+			<Text>Send an army to slaughter them!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TCM_HYKSOS_SET_OUTCOME_3">
+			<Text>Attempt to stall their access to the new technologies.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_TCM_HYKSOS_SET_OUTCOME_RESULT_1">
+			<Text>
+				[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Faith} [ICON_PEACE] Faith[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_NEGATIVE_TEXT]3 Turns of [ICON_RESISTANCE] Resistance in {2_City}[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TCM_HYKSOS_SET_OUTCOME_RESULT_2">
+			<Text>
+				[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Faith} [ICON_PEACE] Faith[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_NEGATIVE_TEXT]Rebels rise up in {2_City}![ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TCM_HYKSOS_SET_OUTCOME_RESULT_3">
+			<Text>
+				[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain a Temple in {1_City}[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {2_Faith} [ICON_PEACE] Faith[ENDCOLOR]
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_TCM_HYKSOS_SET_NOTIFICATION">
+			<Text>Religious Tensions Erupt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TCM_HYKSOS_SET_OUTCOME_RESULT_NOTIFICATION_1">
+			<Text>The city garrison has been ordered to suppress dissent</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TCM_HYKSOS_SET_OUTCOME_RESULT_NOTIFICATION_2">
+			<Text>An army has been dispatched to cleanse the city of heretics</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TCM_HYKSOS_SET_OUTCOME_RESULT_NOTIFICATION_3">
+			<Text>Temples to other Egyptian deities have been ordered to be built</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

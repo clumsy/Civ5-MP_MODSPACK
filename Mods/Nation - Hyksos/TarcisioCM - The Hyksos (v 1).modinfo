@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="8d7b9b52-a3cd-4264-bac9-28803ab1c7ed" version="1">
+  <Properties>
+    <Name>TarcisioCM - The Hyksos</Name>
+    <Teaser>Adds [COLOR_POSITIVE_TEXT]The Hyksos[ENDCOLOR] under Apophis. Requires BNW</Teaser>
+    <Description>Adds [COLOR_POSITIVE_TEXT]The Hyksos[ENDCOLOR] under Apophis. Requires BNW</Description>
+    <Authors>TarcisioCM, JanBoruta, Regalman</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="8c101299-95c5-4b28-b7ed-4e0f774857ef" minversion="0" maxversion="999" title="Historical Religions" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+    <Mod id="1b456011-7882-4f02-8184-5421e6a2b3fb" minversion="0" maxversion="999" title="Egyptian Denominations" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events and Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="43868e8d-de88-48a1-a8d9-ce144e07f5e0" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD’s and Pouakai’s Mercenaries" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="D66354E5999C9567344921E0C880FFE8" import="1">Art/DDS/tcmApophisScene.xml</File>
+    <File md5="38BAA8A5270B987A693B00689123BA67" import="1">Art/DDS/tcmApophisLeaderscreen.dds</File>
+    <File md5="0451E1A05C80A427F16B1F465D9AF754" import="1">Art/DDS/tcmHeqaKhasutAlpha32.dds</File>
+    <File md5="A5D4A59E797BE2961EA978FDE21E6778" import="1">Art/DDS/tcmHeqaKhasutSV.dds</File>
+    <File md5="0D0652A79ED231EACC66111CAC40DE4E" import="1">Art/DDS/tcmHyksosAlpha128.dds</File>
+    <File md5="972688BCBC2C17761614899159CD8C3D" import="1">Art/DDS/tcmHyksosAlpha16.dds</File>
+    <File md5="5A1B0135D739DF45DB08CEF6EE08ADFE" import="1">Art/DDS/tcmHyksosAlpha22.dds</File>
+    <File md5="0CE94D0126BB973F75C53820A4B710CC" import="1">Art/DDS/tcmHyksosAlpha24.dds</File>
+    <File md5="78106C6A5F744D590A84CDFD02D548CB" import="1">Art/DDS/tcmHyksosAlpha256.dds</File>
+    <File md5="63B662B7ED97E1E99080AE316E5411E0" import="1">Art/DDS/tcmHyksosAlpha32.dds</File>
+    <File md5="04C1130A796C0873380B38D608294C95" import="1">Art/DDS/tcmHyksosAlpha45.dds</File>
+    <File md5="0D584807FD28F75280BAC55F6640A097" import="1">Art/DDS/tcmHyksosAlpha48.dds</File>
+    <File md5="D7D806F5D88962EA62424120D8F243A4" import="1">Art/DDS/tcmHyksosAlpha64.dds</File>
+    <File md5="5CA71EFD900CEA8EF3F1138E47CF88A1" import="1">Art/DDS/tcmHyksosAlpha80.dds</File>
+    <File md5="BBC6A3B92E3D9CCEDAB762EFD9E4AD49" import="1">Art/DDS/tcmHyksosDOM.dds</File>
+    <File md5="E082C7CF675BD8D87FC9A06514931A12" import="1">Art/DDS/tcmHyksosIcons128.dds</File>
+    <File md5="2080C9C4C3285CD25B2C8EC5DD4B7F91" import="1">Art/DDS/tcmHyksosIcons256.dds</File>
+    <File md5="47A0E61CBD6F3DABB9BA7FF86B5EB18A" import="1">Art/DDS/tcmHyksosIcons32.dds</File>
+    <File md5="FE082C3FCD675CAA89559C5C0C1C74EB" import="1">Art/DDS/tcmHyksosIcons45.dds</File>
+    <File md5="8FC1BF56BBB28B081024050D0FEC037B" import="1">Art/DDS/tcmHyksosIcons64.dds</File>
+    <File md5="42478BEBEB7C23F1824FB5E4C1F922DC" import="1">Art/DDS/tcmHyksosIcons80.dds</File>
+    <File md5="6F041A3124AF3AB85BC3BFD4C638C820" import="1">Art/DDS/tcmHyksosMap.dds</File>
+    <File md5="42DBF8E0CB753E09C0310C474D17FEBC" import="1">Art/Model/tcmHeqaKhasut.fxsxml</File>
+    <File md5="A0CC86A58757DA68CA99A9A1BAA404E5" import="1">Art/Model/tcmHeqaKhasut.gr2</File>
+    <File md5="14B4AB6101C9D75A295A0ABF639ECDE4" import="1">Art/Model/tcmHeqaKhasut_diff.dds</File>
+    <File md5="834C1BDDBC33E05424D3D1918CC3BD6D" import="1">Art/Model/tcmHeqaKhasut_sref.dds</File>
+    <File md5="5BCC728EC7D174C758DF7FB3E3279253" import="1">Art/Music/tcmHyksosPeace.mp3</File>
+    <File md5="4A0908B60EDA1572D00A067C82B2BC8C" import="1">Art/Music/tcmHyksosWar.mp3</File>
+    <File md5="DFB0A8E9553AE9B37A33F790B3C33E90" import="0">Code/Core.sql</File>
+    <File md5="18B8038D5F7B1C772036B395E58597DD" import="0">Code/ArtDef.sql</File>
+    <File md5="22AB06CBC21DFA5D6A9CEABBFD01C3F2" import="1">Code/EAD/tcmHyksosDecisions.lua</File>
+    <File md5="5346E4D54907D1FB63FD084339E45568" import="1">Code/EAD/tcmHyksosEvents.lua</File>
+    <File md5="C978F9C38B2D05A12E28A4D42A817D1F" import="0">Code/ModSupport.sql</File>
+    <File md5="17EA508E8949E1FCDFAB528756D2AAEE" import="0">Code/GameText.xml</File>
+    <File md5="770F36DC1F8B8FA9268EB9D2F4724214" import="0">Code/Functions.lua</File>
+    <File md5="D63DC8BB6AA0F310DD55B264DB49C7E2" import="1">Code/PlotIterators.lua</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">Code/SaveUtils.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Code/Core.sql</UpdateDatabase>
+      <UpdateDatabase>Code/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Code/ArtDef.sql</UpdateDatabase>
+      <UpdateDatabase>Code/ModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Code/Functions.lua">
+      <Name>Hyksos FUNctions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>
