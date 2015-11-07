@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<DecisionsAddin_Support>
+		<Row>
+			<FileName>LeugiMapucheDecisions.lua</FileName>
+		</Row>
+	</DecisionsAddin_Support>
+	<Language_en_US>
+		<!--Malon Raids-->
+		<Row Tag="TXT_KEY_DECISIONS_LEUGI_MAPUCHE_RAIDS">
+			<Text>Malón Raids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_LEUGI_MAPUCHE_RAIDS_DESC">
+			<Text>Our enemies are strong, but they still depend on their lands like us. Our wise Lonco council suggested we could start destroying their crops and mines to deal a fatal blow to their subsistence and recover the lands that are rightfully ours.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Mapuche
+				[NEWLINE][ICON_BULLET]Player must be at War
+				[NEWLINE][ICON_BULLET]May be enacted once per era
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Faith} [ICON_PEACE] Faith
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Existing Units receive the Toqui's Malon Raid promotion
+				[NEWLINE][ICON_BULLET]Receive a free Toqui
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_LEUGI_MAPUCHE_RAIDS_ENACTED_DESC">
+			<Text>Our enemies are strong, but they still depend on their lands like us. Our wise Lonco council suggested we could start destroying their crops and mines to deal a fatal blow to their subsistence and recover the lands that are rightfully ours.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Existing Units receive the Toqui's Malon Raid promotion
+				[NEWLINE][ICON_BULLET]Receive a free Toqui
+			</Text>
+		</Row>
+		<!--Maule Defense-->
+		<Row Tag="TXT_KEY_DECISIONS_LEUGI_MAULE_DEFENSE">
+			<Text>Defense of the Maule</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_LEUGI_MAULE_DEFENSE_DESC">
+			<Text>Oh Great Butal-Toqui, our lands are under attack. We are the people of the earth, and we can use that on our advantage. We know our rivers and mountains more than anyone, and it should help us against the invaders.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Mapuche
+				[NEWLINE][ICON_BULLET]Player must be at War
+				[NEWLINE][ICON_BULLET]Must have founded at least 1 City adjacent to a River
+				[NEWLINE][ICON_BULLET]Must have founded at least 1 City adjacent to a Mountain
+				[NEWLINE][ICON_BULLET]Must have researched Chivalry
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Faith} [ICON_PEACE] Faith
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Units receive the Defense of the Maule promotion
+				[NEWLINE][ICON_BULLET]Receive a free Toqui
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_LEUGI_MAULE_DEFENSE_ENACTED_DESC">
+			<Text>Oh Great Butal-Toqui, our lands are under attack. We are the people of the earth, and we can use that on our advantage. We know our rivers and mountains more than anyone, and it should help us against the invaders.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Units receive the Defense of the Maule promotion
+				[NEWLINE][ICON_BULLET]Receive a free Toqui
+			</Text>
+		</Row>
+	</Language_en_US>
+
+
+	<Language_ES_ES>
+		<!--Malon Raids-->
+		<Row Tag="TXT_KEY_DECISIONS_LEUGI_MAPUCHE_RAIDS">
+			<Text>Maloness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_LEUGI_MAPUCHE_RAIDS_DESC">
+			<Text>
+				Nuestros enemigos son poderosos, pero aún dependen de su tierra como nosotros. Nuestro sabio consejo Lonco sugiere que podríamos empezar a destruir sus cosechas y minas para lograr darles un fuerte golpe en su subsistenci y así conseguir las tierras que nos pertenecen.[NEWLINE]
+				[NEWLINE]Requerimientos/Restricciones:
+				[NEWLINE][ICON_BULLET]El Jugador debe ser Mapuche
+				[NEWLINE][ICON_BULLET]El Jugador debe estar en guerra
+				[NEWLINE][ICON_BULLET]Sólo puede decidirse una vez por era
+				[NEWLINE]Costos:
+				[NEWLINE][ICON_BULLET]{1_Faith} de Fe[ICON_PEACE]
+				[NEWLINE][ICON_BULLET]Un Magistrado[ICON_MAGISTRATES]
+				[NEWLINE]Recompensas:
+				[NEWLINE][ICON_BULLET]Las unidades existentes reciben la promoción del Toqui
+				[NEWLINE][ICON_BULLET]Recibe un Toqui gratis
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_LEUGI_MAPUCHE_RAIDS_ENACTED_DESC">
+			<Text>
+				Nuestros enemigos son poderosos, pero aún dependen de su tierra como nosotros. Nuestro sabio consejo Lonco sugiere que podríamos empezar a destruir sus cosechas y minas para lograr darles un fuerte golpe en su subsistenci y así conseguir las tierras que nos pertenecen.[NEWLINE]
+				[NEWLINE]Recompensas:
+				[NEWLINE][ICON_BULLET]Las unidades existentes reciben la promoción del Toqui
+				[NEWLINE][ICON_BULLET]Recibe un Toqui gratis
+			</Text>
+		</Row>
+		<!--Maule Defense-->
+		<Row Tag="TXT_KEY_DECISIONS_LEUGI_MAULE_DEFENSE">
+			<Text>Defensa del Maule</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_LEUGI_MAULE_DEFENSE_DESC">
+			<Text>
+				Oh gran Butaltoqui, nuestras tierras se encuentran bajo ataque. Nosotros somos la gente de la tierra, y podemos usar ello como ventaja. Conocemos nuestros ríos y montañas más que nadie, y eso puede ayudarnos contra los invasores.[NEWLINE]
+				[NEWLINE]Requerimientos/Restricciones:
+				[NEWLINE][ICON_BULLET]El Jugador debe ser Mapuche
+				[NEWLINE][ICON_BULLET]El Jugador debe estar en guerra
+				[NEWLINE][ICON_BULLET]Debe haber fundado por lo menos una ciudad al lado de un río
+				[NEWLINE][ICON_BULLET]Debe haber fundado por lo menos una ciudad al lado de una montaña
+				[NEWLINE][ICON_BULLET]Debe conocer la Caballería
+				[NEWLINE][ICON_BULLET]Sólo puede decidirse una vez en el juego
+				[NEWLINE]Costos:
+				[NEWLINE][ICON_BULLET]{1_Faith} de Fé[ICON_PEACE]
+				[NEWLINE][ICON_BULLET]2 Magistrados[ICON_MAGISTRATES]
+				[NEWLINE]Recompensas:
+				[NEWLINE][ICON_BULLET]Las unidades reciben la promoción de "Defensa del Maule"
+				[NEWLINE][ICON_BULLET]Recibe un Toqui gratis
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_LEUGI_MAULE_DEFENSE_ENACTED_DESC">
+			<Text>
+				Oh gran Butaltoqui, nuestras tierras se encuentran bajo ataque. Nosotros somos la gente de la tierra, y podemos usar ello como ventaja. Conocemos nuestros ríos y montañas más que nadie, y eso puede ayudarnos contra los invasores.[NEWLINE]
+				[NEWLINE]Recompensas:
+				[NEWLINE][ICON_BULLET]Las unidades reciben la promoción de "Defensa del Maule"
+				[NEWLINE][ICON_BULLET]Recibe un Toqui gratis
+			</Text>
+		</Row>
+	</Language_ES_ES>
+</GameData>
+

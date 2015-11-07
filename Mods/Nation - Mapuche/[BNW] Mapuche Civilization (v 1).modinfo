@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="506e5316-8c82-4a6e-aa60-88f64b98fce3" version="1">
+  <Properties>
+    <Name>[BNW] Mapuche Civilization</Name>
+    <Teaser>Adds the Mapuche Civilization to Brave New World with Lautaro as its Leader!</Teaser>
+    <Description>Adds the Mapuche Civilization to Brave New World with Lautaro as its Leader!</Description>
+    <Authors>Leugi</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>0</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events and Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Packs" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="FC83C52D5B0E5AD59ED6D92938D949CA" import="1">Art/AlphaMapucheIcon128.dds</File>
+    <File md5="E87AECC93EC073D6E88C1C0906587C47" import="1">Art/AlphaMapucheIcon24.dds</File>
+    <File md5="ACE33FBF7E5EFFA6910DC55927F62C9A" import="1">Art/AlphaMapucheIcon256.dds</File>
+    <File md5="E7F5AEF5FEC4F93D54C893463ACC5D60" import="1">Art/AlphaMapucheIcon32.dds</File>
+    <File md5="F1EDC91EA02FCDB025AF7F31DEFCDDEC" import="1">Art/AlphaMapucheIcon45.dds</File>
+    <File md5="CA6EA746C5DEA20F5BA955D12AEF30EF" import="1">Art/AlphaMapucheIcon48.dds</File>
+    <File md5="F7800CB51AA390B6664B0C79529FA664" import="1">Art/AlphaMapucheIcon64.dds</File>
+    <File md5="0143793AAA1871229176A5A9A45179DB" import="1">Art/AlphaMapucheIcon80.dds</File>
+    <File md5="D6ABF36F1801DED89C611F984D7A9B4C" import="1">Art/ChemamullIcon128.dds</File>
+    <File md5="5A23CD8A7FAFCFAC4ADECB25B55874A9" import="1">Art/ChemamullIcon256.dds</File>
+    <File md5="09A497799B2C23BE83C7659B7958F7E8" import="1">Art/ChemamullIcon32.dds</File>
+    <File md5="FFED6F2719AB2CAC0A9B4774BF74E755" import="1">Art/ChemamullIcon45.dds</File>
+    <File md5="7AB3C59FD2E6C67EBE552AF2A302AEEE" import="1">Art/ChemamullIcon48.dds</File>
+    <File md5="B5B6F2230A8B9B0F202AFB05F131340A" import="1">Art/ChemamullIcon64.dds</File>
+    <File md5="8FFCA7E62356F23D15BAC5A31EF49B9A" import="1">Art/ChemamullIcon80.dds</File>
+    <File md5="F31E78DCBA2AEEB65D48D85162DD09DD" import="1">Art/Chemamull/chemamull.dds</File>
+    <File md5="BB03F25BF34BE3FF89A0A8AB7FDDDDFE" import="1">Art/Chemamull/chemamull.fxsxml</File>
+    <File md5="8099DADBDFE90839859D91D52FE7BD62" import="1">Art/Chemamull/Chemamull.gr2</File>
+    <File md5="7BA413E856B0BBC0527E2BB9FAD7584E" import="1">Art/Chemamull/chemamull_hb.fxsxml</File>
+    <File md5="BB7B194F80D6C855C6CA7B6C874A487A" import="1">Art/Chemamull/Chemamull_HB.gr2</File>
+    <File md5="260486FF56203760621F40FD14F375BC" import="1">Art/Chemamull/chemamull_pl.dds</File>
+    <File md5="31F90A331AA94A37BEE11414BBF9AB06" import="1">Art/Chemamull/chemamull_pl.fxsxml</File>
+    <File md5="6CC85DFE0D6A1D51E50819A2E68B1733" import="1">Art/Chemamull/Chemamull_PL.gr2</File>
+    <File md5="07E35D759304663F914665AAA7B8BECD" import="1">Art/flag_toqui.dds</File>
+    <File md5="E4F0BE123C2A461C6841386D7A64B25E" import="1">Art/Leader/Lautaro.dds</File>
+    <File md5="55C873878292FCB7A32F7E5F78393966" import="1">Art/Leader/MapucheDOM.dds</File>
+    <File md5="6FC65A5B0F07AB100AA6C5B2EC057287" import="1">Art/Leader/MapucheMap.dds</File>
+    <File md5="7D0BE9BE1DEA0922C1FDED32BBFC75AE" import="1">Art/MapucheIcons.dds</File>
+    <File md5="CC1A7D4E3C422AA8EF5AEF51AC84CEC7" import="1">Art/MapucheIcons128.dds</File>
+    <File md5="08E11271EE6D5602B9D2D33DFE76EDE5" import="1">Art/MapucheIcons256.dds</File>
+    <File md5="E8E70621B7875AFBA197BBA944E6C6DB" import="1">Art/MapucheIcons32.dds</File>
+    <File md5="2D76E30EF45A58AEBEFCA830AD6D670A" import="1">Art/MapucheIcons45.dds</File>
+    <File md5="3EA2981826E572B18825DD5DB65396F8" import="1">Art/MapucheIcons64.dds</File>
+    <File md5="049A6056562914A32C62F32349752AC8" import="1">Art/MapucheIcons80.dds</File>
+    <File md5="72AC327C028035DC35DB1E91BB81E7EA" import="1">Art/OtherModels/Toqui.fxsxml</File>
+    <File md5="B018CDBA8794182E9E22EDDCE61AC827" import="1">Art/OtherModels/Toqui.dds</File>
+    <File md5="56EC15863877304138C3CECE1DF8F700" import="1">Art/OtherModels/Toqui.gr2</File>
+    <File md5="F995F7E30B6E9B888B5B87A55337CD34" import="1">Art/OtherModels/Toqui_Horse.dds</File>
+    <File md5="5D41C8382927256CED1BC6C5164974EC" import="1">Art/sv_chemamull.dds</File>
+    <File md5="BF0DE7EBB5C07468158F5E2D3A1E4620" import="1">Art/sv_toqui.dds</File>
+    <File md5="CC0F349C35BC00CD669497328592C0B0" import="0">Lua/BattleGeneral.lua</File>
+    <File md5="4B7D5B4CCE9A0E3C78BB3E0D2EC55468" import="0">Lua/Chemamullscripts.lua</File>
+    <File md5="8B4D8603E0C914DD3A7FC6739903816D" import="0">Lua/MauleLua.lua</File>
+    <File md5="5C63FD0330C3A734DC9734BBBFC4A7FB" import="0">SQL/ChemamullDefine.sql</File>
+    <File md5="0F48E0F06825F50D43B12DE605EC3244" import="0">SQL/MapucheArtDefines.sql</File>
+    <File md5="A60F977FF291EDCA1B064CA17ACE5888" import="0">SQL/TSL.sql</File>
+    <File md5="161955F58AE980EE3A9D49F59954F5B7" import="0">XML/Civilization/MapucheCivilization.xml</File>
+    <File md5="DB104AC6AA30BD8FF9BC653D2A1275E3" import="0">XML/Civilization/MapucheTrait.xml</File>
+    <File md5="5F1E9AF02225657FB71B0139AB7A58D7" import="0">XML/Compatibility/MapucheReligion.sql</File>
+    <File md5="4F4D538126FBC574468ED8EA4999685A" import="1">XML/Decisions/LeugiMapucheDecisions.lua</File>
+    <File md5="70759AB752039A9EE7C780FE46A6BFAD" import="0">XML/Decisions/Mapuche Decisions.xml</File>
+    <File md5="55B8ED3F2E86DC3D51FEDAF77E0F449B" import="0">XML/Icons/MapucheIconAtlas.xml</File>
+    <File md5="52990A91A6F74961978E1E94C6BD6F31" import="0">XML/Improvements/ImprovementsMapuche.xml</File>
+    <File md5="8FF3F5A1D79569CE2621D0C4D6F7D3E8" import="1">XML/Leader/LautaroPeace.mp3</File>
+    <File md5="02954BD3A316C2B4D39DE44BF4B59C97" import="1">XML/Leader/LautaroWar.mp3</File>
+    <File md5="4B9EFCEE4B9DA4E46FC546C5D4988F90" import="0">XML/Leader/LeaderLautaro.xml</File>
+    <File md5="C633F2C88CB6998F36C960FDFDD98CD4" import="1">XML/Leader/Lautaro_Scene.xml</File>
+    <File md5="B69D0311BDFA21730950E8B3C51A874E" import="0">XML/Music/MapucheAudioScripts.xml</File>
+    <File md5="7B5217037EB3722C6A75479F923DF7DD" import="0">XML/Text/CivMapucheText.xml</File>
+    <File md5="E55E4455CEA79270C2AF1C11A5BA91C8" import="0">XML/Units/BattleGeneralPromotions.xml</File>
+    <File md5="3E6D47FF7A1ED948712A3D3A7607CF11" import="0">XML/Units/UnitsMapuche.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Decisions/Mapuche Decisions.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/CivMapucheText.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/ChemamullDefine.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/MapucheArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization/MapucheCivilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization/MapucheTrait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Icons/MapucheIconAtlas.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader/Lautaro_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader/LeaderLautaro.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Improvements/ImprovementsMapuche.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/BattleGeneralPromotions.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/UnitsMapuche.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Music/MapucheAudioScripts.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/TSL.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Compatibility/MapucheReligion.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/BattleGeneral.lua">
+      <Name>Battle Generals</Name>
+      <Description>Lua for allowing Generals to fight</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Chemamullscripts.lua">
+      <Name>Chemamull Scripts</Name>
+      <Description>Scripts for Chemamull creation</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

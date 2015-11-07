@@ -1,0 +1,754 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/19/2013 1:20:28 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CHEMAMULL_REPAIR_ALERT">
+			<Text>Your {1_name} has restored a Chemamull on this tile!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CHEMAMULL_REPAIR_ALERT_GP">
+			<Text>{1_name} has restored a Chemamull on this tile!</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_PUREN">
+			<Text>Puren</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PILMAYKEN">
+			<Text>Pilmayken</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERKENCO">
+			<Text>Perkenco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KILLIN">
+			<Text>Killin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KULSHE">
+			<Text>Kulshe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SHILIWE">
+			<Text>Shiliwe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KOZ_KOZ">
+			<Text>Koz Koz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PENKO">
+			<Text>Penko</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CURAREWE">
+			<Text>Curarewe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUKEN">
+			<Text>Neuken</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SHAURA_KAWIN">
+			<Text>Shaura Kawin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WENU_LEUFU">
+			<Text>Wenu Leufu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KALBUKO">
+			<Text>Kalbuko</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEWIN">
+			<Text>Mewin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANIL_LEUFU">
+			<Text>Anil Leufu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEWKEN">
+			<Text>Newken</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TUCAPEL">
+			<Text>Tucapel</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_BOROA">
+			<Text>Boroa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KILSHE">
+			<Text>Kilshe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LIKAN_RAY">
+			<Text>Likan Ray</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHOS_MALAL">
+			<Text>Chos Malal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KARENLEUFU">
+			<Text>Karenleufu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TAPIWE">
+			<Text>Tapiwe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KINSHAMALI">
+			<Text>Kinshamali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MARISHIWUE">
+			<Text>Marishiwue</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DUAO">
+			<Text>Duao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LIKINE">
+			<Text>Likine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MALALKAWUELO">
+			<Text>Malalkawuelo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WAPI">
+			<Text>Wapi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PUYEWE">
+			<Text>Puyewe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KELLON">
+			<Text>Kellon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAFIL">
+			<Text>Mafil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RARI">
+			<Text>Rari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANTICURA">
+			<Text>Anticura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_REINOWELEN">
+			<Text>Reinowelen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CUMPEO">
+			<Text>Cumpeo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NINHUE">
+			<Text>Ninhue</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LOLOL">
+			<Text>Lolol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LAUTARO">
+			<Text>Lautaro</Text>
+		</Row>
+		<!--Leader Speech -->
+		<!--Greeting (first time meeting) -->
+		<Row Tag="TXT_KEY_LEADER_LAUTARO_FIRSTGREETING_1">
+			<Text>These are the lands of the Mapuche, my people. And you're being an intruder, but that may change... hopefully</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LAUTARO_FIRSTGREETING_2">
+			<Text>Welcome to the lands of my people, the Mapuche. Don't dare to threaten it!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LAUTARO_FIRSTGREETING_3">
+			<Text>I'm Lautaro, Toqi of the Mapuche. If you come here with envy of our lands, know that we'll defend it with our lives and bravery!</Text>
+		</Row>
+
+		<!--Defeated and removed from game -->
+		<Row Tag="TXT_KEY_LEADER_LAUTARO_DEFEATED_1">
+			<Text>My people have been robbed from their lands! Know that the Mapuche shall prevail, and our Ngen shall defeat you!</Text>
+		</Row>
+
+
+			<Row Tag="TXT_KEY_CIV_MAPUCHE_ADJECTIVE">
+				<Text>Mapuche</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV_MAPUCHE_DESC">
+				<Text>Wallmapu</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV_MAPUCHE_SHORT_DESC">
+				<Text>The Mapuche</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_MAPUCHE_HEADING_1">
+				<Text>History</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_MAPUCHE_DOM_TEXT_1">
+				<Text>
+Oh Toqui of Toquis, Lautaro, leader of the Wallmapu, the Mapuche People, by the wise election of the Lonkos of the Mapuche.
+[NEWLINE][NEWLINE]The Mapuche are the union of Picunches, Huilliches, Moluche and Nguluche from Araucanía. Your people successfully resisted many attempts by the Inca Empire to subjugate them, despite their lack of state organization. They fought against the Sapa Inca, Tupac Yupanqui, and his army. The result of the bloody three-day confrontation known as the Battle of the Maule was that the Inca conquest of the territories of Chile ended at the Maule river. They fell back to the north behind the Rapel and Cachapoal Rivers, where they established a fortified border guarded by fortresses such as the Pucará de La Compañía and the Pucará del Cerro La Muralla.
+[NEWLINE][NEWLINE]Your people also repelled the Spanish after their initial conquests in the late 16th century so effectively that there were areas to which Europeans did not return until late in the 19th century. One of the main geographical boundaries was the Bío-Bío River, which they used as a natural barrier to Spanish and Chilean incursion.
+[NEWLINE][NEWLINE]Oh great Toqui, your people still fight for their right to their lands. Will you lead them to victory? Will you build a civilization that shall stand the test of time?
+				</Text>
+			</Row>
+		<Row Tag="TXT_KEY_CIV_MAPUCHE_PEDIA">
+			<Text>
+				The Mapuche are a group of indigenous inhabitants of south-central Chile and southwestern Argentina. They constitute a wide-ranging ethnicity composed of various groups who shared a common social, religious and economic structure, as well as a common linguistic heritage. Their influence once extended between the Aconcagua River and Chiloé Archipelago and spread later eastward to the Argentine pampa. The Mapuche make up about 9% of the Chilean population, and are particularly concentrated in Araucanía and are due to emigration also numerous in Santiago.
+
+				[NEWLINE][NEWLINE]The term Mapuche can refer to the whole group of Picunches (people of the north), Huilliches (people of the South) and Moluche or Nguluche from Araucanía, or exclusively to the Moluche or Nguluche from Araucanía. The Mapuche traditional economy is based on agriculture; their traditional social organisation consists of extended families, under the direction of a "lonko" or chief, although in times of war they would unite in larger groupings and elect a toqui (from Mapudungun toki "axe, axe-bearer") to lead them.
+
+				[NEWLINE][NEWLINE]The Araucanian Mapuche inhabited at the time of Spanish arrival the valleys between the Itata and Toltén rivers, south of it as did the Huilliche and the Cuncos lived as far south as the Chiloé Archipelago. In the 17th, 18th and 19th centuries, Mapuche groups migrated eastward into the Andes and pampas, fusing and establishing relationships with the Poyas and Pehuenche. At about the same time, ethnic groups of the pampa regions, the Puelche, Ranqueles and northern Aonikenk, made contact with Mapuche groups. The Tehuelche adopted the Mapuche language and some of their culture in what came to be called Araucanization.
+
+				[NEWLINE][NEWLINE]Historically Mapuches were known as Araucanians (araucanos) by the Spanish colonizers of South America. However, this term is now mostly considered pejorative by some people. The Quechua word awqa "rebel, enemy", is probably not the root of araucano: the latter is more likely derived from the placename rag ko (Spanish Arauco) "clayey water".
+
+				[NEWLINE][NEWLINE]While some Mapuches mingled with Spanish during colonial times, giving origin to a large group of mestizos in Chile, Mapuche society in Araucanía and Patagonia remained independent until the Chilean Occupation of Araucanía and the Argentine Conquest of the Desert in late 19th century. Since then Mapuches have become subjects and then nationals and citizens of the respective states. Today, many Mapuche and Mapuche communities are engaged in the so-called Mapuche conflict over land and indigenous rights both in Argentina and in Chile.
+			</Text>
+		</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_LAUTARO_HEADING_1">
+				<Text>History</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_LAUTARO_TEXT_1">
+				<Text>
+					Lautaro (Mapudungun: Lef-Traru "swift hawk") (1534?–April 29, 1557) was the young Mapuche military commander in the four-year Arauco War (Araucanian War) in Chile. His people undertook to expel the Spanish colonizers. The army under Lautaro's command inflicted crushing defeats and huge death tolls on Spanish forces despite having far inferior weaponry. He was close to final victory when he was killed in battle at around 23 years of age.
+					[NEWLINE][NEWLINE]Alonso de Ercilla, an officer in the Spanish forces during the Araucanian war (and as it happens only one year older than Lautaro), in the following decade composed that masterpiece of Spanish literature, the historical epic poem, La Araucana, which became a major literary work about the Spanish conquest of America. Ercilla made Lautaro its protagonist.
+
+					Lautaro has come to be acclaimed by Chileans the first Chilean general for his revolutionary strategies and his achievement in uniting the dispersed Mapuche people. He inflicted many crushing defeats on a Spanish armies armed with lances, muskets and horses even though his own army was armed with only spears and axes.
+
+					His name was used by Francisco de Miranda when he founded the Logia Lautaro (Lautaro Lodge), an American independence society of the end of 18th century and the beginning of the 19th century. In the 20th century, Chilean author Pablo Neruda, the future Nobel Literature Prize laureate, wrote a poem about him.
+				</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_LAUTARO_LIVED">
+				<Text>1534–1557.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_LAUTARO_NAME">
+				<Text>Lautaro</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_LAUTARO_SUBTITLE">
+				<Text>Toqui of the Arauco Wars</Text>
+			</Row>
+			
+			<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_LAUTARO_TITLES_1">
+				<Text>Toqui</Text>
+			</Row>
+			<Row Tag="TXT_KEY_TRAIT_ARAUCANIAD">
+				<Text>
+					Combat Units may enter rival territory without Open Border treaties. Increased generation of Experience in battle. After the discovery of Calendar, units that die on an unimproved or pillaged tile create a Chemamull.
+				</Text>
+			</Row>
+			<Row Tag="TXT_KEY_TRAIT_ARAUCANIAD_SHORT">
+				<Text>Legacy of Arauco</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_MAPUCHE_0">
+				<Text>Malloquete</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_MAPUCHE_1">
+				<Text>Ainavillo</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_MAPUCHE_2">
+				<Text>Liconyan</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_MAPUCHE_3">
+				<Text>Turcupichun</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_MAPUCHE_4">
+				<Text>Illanguilién</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_MAPUCHE_5">
+				<Text>Paineñamcu</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_MAPUCHE_6">
+				<Text>Quintuguenu</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_MAPUCHE_7">
+				<Text>Paillaeco</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_MAPUCHE_8">
+				<Text>Clentaru</Text>
+			</Row>
+			<Row Tag="TXT_KEY_SPY_NAME_MAPUCHE_9">
+				<Text>Lientur</Text>
+			</Row>
+
+
+			<Row Tag="TXT_KEY_PROMOTION_MAPUCHE">
+				<Text>Legacy of Arauco</Text>
+			</Row>
+			<Row Tag="TXT_KEY_PROMOTION_MAPUCHE_HELP">
+				<Text>Unit may enter rival territory. 50% more experience after combat.</Text>
+			</Row>
+
+
+		<Row Tag="TXT_KEY_PROMOTION_CHEMAMULL">
+			<Text>Honour the Fallen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CHEMAMULL_HELP">
+			<Text>This unit is remembering the fallen, and earns double experience after combat, also earns a combat bonus.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_PROMOTION_MAULE">
+			<Text>Defense of the Maule</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MAULE_HELP">
+			<Text>This unit heals faster on river tiles, or next to mountains.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_PROMOTION_TOQUI">
+			<Text>Malón Raids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TOQUI_HELP">
+			<Text>May move after Pillaging</Text>
+		</Row>
+		
+		
+		<Row Tag="TXT_KEY_UNIT_TOQUI">
+			<Text>Toqui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TOQUI_HELP">
+			<Text>Replacement for the Great General. The Toqui may attack and defend, unlike the Great General which it replaces. It receives a combat higher than the most advanced horse unit you may produce, but loses health everytime it kills an enemy. Increased combat strenght of adjacent units, may move after Pillaging. May not build Citadels.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TOQUI_STRATEGY">
+			<Text>The Toqui is a special and different Great Unit, that may attack and defend itself. However, the attack bonuses only apply until the discovery of Combustion, and then it may be upgraded to a Tank.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TOQUI_TEXT">
+			<Text>
+				Toqui (Mapudungun for axe or axe-bearer) is a title conferred by the Mapuche (an indigenous Chilean people) on those chosen as leaders during times of war. The toqui is chosen in an assembly or parliament (coyag) of the chieftains (loncos) of various clans (Rehues) or confederation of clans (Aillarehues), allied during the war at hand. The toqui commanded strict obedience of all the warriors and their loncos during the war, would organize them into units and appoint leaders over them. This command would continue until the toqui was killed, abdicated (Cayancaru), was deposed in another parliament (as in the case of Lincoyan, for poor leadership), or upon completion of the war for which he was chosen.
+
+				[NEWLINE][NEWLINE]Some of the more famous Toqui in the Arauco War with the Spanish introduced tactical innovations. For example Lautaro introduced infantry tactics to defeat horsemen. Lemucaguin was the first Toqui to use firearms and artillery in battle. Nongoniel was the first Toqui to use cavalry with the Mapuche army. Cadeguala was the first to successfully use Mapuche cavalry to defeat Spanish cavalry in battle. Anganamón was the first to mount his infantry to keep up with his fast-moving cavalry. Lientur pioneered the tactic of numerous and rapid malóns into Spanish territory.
+
+				[NEWLINE][NEWLINE]The greatest of the Toqui was the older Paillamachu, who developed the strategy, patiently organized and trained his forces and then with his two younger Vice Toqui, Pelantaro and Millacolquin, carried out the Great Revolt of 1598-1604 which finally expelled the Spanish from Araucania.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_IMPROVEMENT_CHEMAMULL">
+			<Text>Chemamull</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_CHEMAMULL_TEXT">
+			<Text>
+				Chemamüll ("people wood", from Mapudungun che "people" and mamüll "wood") are Mapuche statues made of wood used to signal the grave of a deceased person.
+
+				[NEWLINE][NEWLINE]The chemamüll are carved wooden statues, usually more than 2 meters tall, that represent the stylized body and head of a stylized human being. Statues may have male or female features. The Mapuche used whole logs of either Nothofagus obliqua, a hard wood, or laurel for their Chemamull.
+
+				[NEWLINE][NEWLINE]The Mapuche made Chemamull in pre-Columbian times in a manner similar to headstones. According to testimony in books, Chemamull helped the deceased's soul reunite with its ancestors. This sculpture stood by the deceased during the funeral and was then erected next to over the grave.
+
+				[NEWLINE][NEWLINE]Before the Spanish arrived, Chemamull may have been prevalent, but the Spanish considered the Statues idolatrous and many were burned.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CHEMAMULL">
+			<Text>Create Chemamulls</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CHEMAMULL_HELP">
+			<Text>The Chemamull yields +1 [ICON_CULTURE] Culture and +2 [ICON_PEACE] Faith (only +1 [ICON_CULTURE] to civilizations other than Mapuche), but it consumes the worker when built. Chemamulls claim the tile they are created upon when not built by workers; but when pillaged they may grant the ownership of the tile to the nearest city. Units starting their turn on a Chemamull may earn double experience from combat and a combat bonus; and will restore the Chemamull if it was pillaged.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CHEMAMULL_REC">
+			<Text>Build a Chemamull!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TOQUI_NAME_01">
+			<Text>Toqui Colocolo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOQUI_NAME_02">
+			<Text>Toqui Ainavillo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOQUI_NAME_03">
+			<Text>Toqui Lincoyan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOQUI_NAME_04">
+			<Text>Toqui Caupolicán</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOQUI_NAME_05">
+			<Text>Toqui Lautaro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOQUI_NAME_06">
+			<Text>Toqui Turcupichun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOQUI_NAME_07">
+			<Text>Toqui Lemucaguin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOQUI_NAME_08">
+			<Text>Toqui Illangulién</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOQUI_NAME_09">
+			<Text>Toqui Paillataru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOQUI_NAME_10">
+			<Text>Toqui Paineñamcu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOQUI_NAME_11">
+			<Text>Toqui Cayancaru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOQUI_NAME_12">
+			<Text>Toqui Nongoniel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOQUI_NAME_13">
+			<Text>Toqui Cadeguala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOQUI_NAME_14">
+			<Text>Toqui Guanoalca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOQUI_NAME_15">
+			<Text>Toqui Quintuguenu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOQUI_NAME_16">
+			<Text>Toqui Paillaeco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOQUI_NAME_17">
+			<Text>Toqui Paillamachu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOQUI_NAME_18">
+			<Text>Toqui Huenecura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOQUI_NAME_19">
+			<Text>Toqui Aillavilu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOQUI_NAME_20">
+			<Text>Toqui Lientur</Text>
+		</Row>
+	</Language_en_US>
+	
+	<!-- __________________________________________________________________________________________________________________________________ -->
+	
+	<Language_ES_ES>
+
+		<!--Leader Speech -->
+		<!--Greeting (first time meeting) -->
+		<Row Tag="TXT_KEY_LEADER_LAUTARO_FIRSTGREETING_1">
+			<Text>Estas son las tierras de los Mapuche, espero que actúes como un amigo, y no como un intruso</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LAUTARO_FIRSTGREETING_2">
+			<Text>Bienvenido a las tierras de mi gente, los Mapuche. ¡No te atrevas a amenazarla!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LAUTARO_FIRSTGREETING_3">
+			<Text>Soy Lautaro, Toqui de los Mapuche... Si te atreves a amenazar nuestras tierras, ¡la defenderemos con nuestra vida!</Text>
+		</Row>
+
+		<!--Defeated and removed from game -->
+		<Row Tag="TXT_KEY_LEADER_LAUTARO_DEFEATED_1">
+			<Text>Nos robaste nuestra tierra, ¡asesinando a mi gente! Los Mapuche siempre volveremos, ¡y nuestros Ngen te derrotaran!</Text>
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_CIV_MAPUCHE_ADJECTIVE">
+			<Text>mapuche|mapuche|mapuche|mapuches</Text>
+			<Gender>masculine|feminine|masculine|feminine</Gender>
+			<Plurality>1|1|2|2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MAPUCHE_DESC">
+			<Text>Wallmapu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MAPUCHE_SHORT_DESC">
+			<Text>Los Mapuche</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MAPUCHE_HEADING_1">
+			<Text>Historia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MAPUCHE_DOM_TEXT_1">
+			<Text>
+				Oh, gran y legendario Toqui, Lautaro, líder de Wallmapu, los Mapuche, a través de la sabia elección de los Lonkos.
+				[NEWLINE][NEWLINE]Los Mapuche son la unión de los Picunches, Huilliches, Moluche y Nguluche de la Araucanía. Tu gente logró resistir los muchos intentos del Imperio Inca para subyugarlos, a pesar de no tener un estado organizado. Lucharon contra el Sapa Inca, Tupac Yupanqui, y su armada. La Batalla del Maule fue el momento para demostrar su fuerza, logrando hacer a los Incas retroceder hasta los ríos Rapel y Chachapoal.
+				[NEWLINE][NEWLINE]Tu gente también pudo repeler a los españoles después de sus conquistas iniciales en el siglo XVI. El río Bío-Bío siempre fue una barrera natural contra las incursiones españolas, y más tarde las chilenas.
+				[NEWLINE][NEWLINE]Oh gran Toqui, tu gente aún sigue luchando por el derecho a sus tierras. ¿Los llevarás a la victoria? ¿Construirás una civilización que trascienda las pruebas del tiempo?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MAPUCHE_PEDIA">
+			<Text>
+				Los Mapuche son los habitantes del la zona Sur-Central de Chile y el Sudoeste de Argentina. Compuestos por varios grupos que comparten una misma estructura social, religiosa y económica, además de un mismo lengüaje. Su influencia solía llegar hasta la zona entre el río Aconcagua y el archipiélago de Chiloé, extendiéndose hasta la pampa Argentina. Los Mapuche forman el 9% de la población Chilena, y actualmente se encuentra concentrados en la Araucanía.
+				[NEWLINE][NEWLINE]El término Mapuche puede referirse al grupo completo de Picunches (gente del norte), Hulliches (gente del sur) y los Moluche o Nguluche de la Araucanía, o exclusivamente a estos dos últimos. La economía tradicional Mapuche se basa en la agricultura; su organización social tradicional consiste en familias extendidas, bajo la dirección de un "Lonko" o jefe, aunque en tiempos de guerra se unen en grupos más grandes y eligen un Toqui (del Mapudungun 'toki', portador del hacha) para liderarlos
+				[NEWLINE][NEWLINE]Los Mapuches araucanos habitaban los valles entre el río Itata y el río Toltén durante la llegada de los Españoles. En los sigles XVII, XVIII, y XIX, muchos grupos Mapuche migraron al este, hacia los Andes ylas pampas, estableciendo relaciones y fusionándose con los Poyas y los Pehuenche.
+				[NEWLINE][NEWLINE]Históricamente, los Mapuche fueron conocidos como Araucanos por los colonizadores españoles de Sud América. Sin embargo, este término es considerado peyorativo.
+				[NEWLINE][NEWLINE]La sociedad Mapuche en la Araucanía y la Patagonia se mantuvieron independientes hasta la ocupación chilena de la Araucanía, y la conquista argentina del desierto a finales del siglo XIX. Desde entonces los Mapuche se convirtieron en ciudadanos de los países respectivos. Sin embargo, hoy, muchos mapuche y comunidades mapuche están enfrascados en el llamado "Conflicto Mapuche" para recuperar los derechos de sus tierras en Argentina y Chile.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_LAUTARO_HEADING_1">
+			<Text>Historia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_LAUTARO_TEXT_1">
+			<Text>
+				Lautaro (del mapudungun: lef-traru, águila rápida) (1534 - 29 de Abril de 1557) fue el joven comandante Mapuche en la guerra de Arauco en la actual Chile. Su genté se armó para expulsar a los colonizadores españoles. La armada, bajo los comandos de Lautaro, logró derrotar a las fuerzas españolas en muchas batallas, a pesar de la desventaja tecnológica en armamento. Lautaro fue asesinado en batalla, a sus 23 años, muy cerca de la victoria.
+				[NEWLINE][NEWLINE]Alonso de Ercilla, un oficial español durante la guerra, compuso una obra maestra de la literatura española: La Araucana. Ercilla hizo de Lautaro su protagonista.
+				[NEWLINE][NEWLINE]Lautaro se convirtió en un símbolo para el movimiento revolucionario chileno al unir a los dispersos Mapuche en batalla. Lautaro pudo derrotar a las fuerzas españolas que iban armadas con lanzas, mosquetes y caballos; utilizando sólo lanzas y hachas.
+				[NEWLINE][NEWLINE]Francisco de Miranda fundó la Logia Lautaro, una sociedad de libertadores, a finales del siglo XVIII. En el siglo XX, Pablo Neruda, autor chileno, escribió un poema sobre él.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_LAUTARO_LIVED">
+			<Text>1534–1557.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_LAUTARO_NAME">
+			<Text>Lautaro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_LAUTARO_SUBTITLE">
+			<Text>Toqui de las Guerras de Arauco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LAUTARO">
+			<Text>Lautaro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_LAUTARO_TITLES_1">
+			<Text>Toqui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_ARAUCANIAD">
+			<Text>
+				Las unidades de combate pueden entrar en territorio ajeno sin tratados de Bordes Abiertos. Mayor generación de puntos de experiencia en batalla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_ARAUCANIAD_SHORT">
+			<Text>El Legado de Arauco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAPUCHE_0">
+			<Text>Malloquete</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAPUCHE_1">
+			<Text>Ainavillo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAPUCHE_2">
+			<Text>Liconyan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAPUCHE_3">
+			<Text>Turcupichun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAPUCHE_4">
+			<Text>Illanguilién</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAPUCHE_5">
+			<Text>Paineñamcu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAPUCHE_6">
+			<Text>Quintuguenu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAPUCHE_7">
+			<Text>Paillaeco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAPUCHE_8">
+			<Text>Clentaru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAPUCHE_9">
+			<Text>Lientur</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_PROMOTION_MAPUCHE">
+			<Text>El Legado de Arauco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MAPUCHE_HELP">
+			<Text>Puede entrar en territorio rival. 50% más de experiencia generada en combate</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_CHEMAMULL">
+			<Text>Recordar a los caídos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CHEMAMULL_HELP">
+			<Text>Esta unidad está recordando a sus compatriotas caídos, recibe el doble de experiencia.</Text>
+		</Row>
+		
+		
+		<Row Tag="TXT_KEY_PROMOTION_TOQUI">
+			<Text>Malón</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TOQUI_HELP">
+			<Text>Puede moverse después del pillaje</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_UNIT_TOQUI">
+			<Text>Toqui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TOQUI_HELP">
+			<Text>Reemplazo mapuche del Gran General. El toqui puede atacar y defenderse, a diferencia del Gran General. Recibe un combate mayor a la unidad de caballo más avanzada que se pueda producir, pero pierde puntos de vida cada vez que mata a una unidad enemiga. Incrementa los puntos de combate de unidades adyacentes, y puede moverse después del pillaje. No puede construir ciudadelas.
+		</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TOQUI_STRATEGY">
+			<Text>El toqui es una Gran Unidad especial y diferenet, que puede atacar y defenderse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TOQUI_TEXT">
+			<Text>
+				Toqui (en mapudungun, hacha, o portador de hacha) es un título conferido por los mapuche a aquellos que son elegidos como líderes durante tiempos de guerra. El toqui es elegido en un consejo (coyag) de los jefes (loncos) de varios clanes (Rehues), aliados durante la guerra. El toqui comandaba bajo estricta obediencia de todos los guerreros y sus loncos durante la guerra, y organizaba sus armadas. Este liderazgo continuaba hasta que el toqui era asesinado, renunciaba o era reemplazado por el consejo de loncos, o cuando la guerra terminaba.
+				[NEWLINE][NEWLINE]Algunos de los más famosos toqui durante la Guerra de Arauco contra los españoles introdujeron innovaciones tácticas. Por ejemplo, Lautaro introdujo tácticas de infantería para derrotar a los jinetes. Lemucaguin fue el primer Toqui en utilizar armas de fuego y artillería en batalla. Nongoniel fue el primer toqui en utilizar caballería en la armada mapuche. Cadeguala fue el primero en realizar victoriosamente batallas de caballería contra caballería. Anganamón fue el primero en montar la infantería para alcanzar a la caballería. Lientur dominó las tácticas de numerosos Malones en territorio español.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_IMPROVEMENT_CHEMAMULL">
+			<Text>Chemamull</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_CHEMAMULL_TEXT">
+			<Text>
+				Los chemamüll o chemamull (del mapudungun: che, persona y mamüll, madera, persona de madera) son estatuas mapuches de madera. Se utilizan en ritos funerarios.
+				[NEWLINE][NEWLINE]Los chemamüll son estatuas talladas en madera de gran altura (más 2 metros) que representan el cuerpo y cabeza de una persona con rasgos estilizados. Los chemamüll representan tanto a hombres como a mujeres. Las maderas utilizadas para estas esculturas son la de roble pellín, que tiene mucha resistencia, y la de laurel. La textura de la estatua es la de una madera tallada de forma irregular.
+				[NEWLINE][NEWLINE]Los chemamull, junto con los kemu-kemu, corresponden a las primeras esculturas mapuches, anteriores a la llegada de los españoles, que eran utilizados para los ritos funerarios, al modo de las cruces cristianas. De acuerdo con testimonios en libros,  los chemamull ayudaban al alma del difunto a poder llegar a su destino final, para reunirse con los antepasados. Esta escultura permanecía junto al difunto durante el velorio y luego era erigida junto o sobre el difunto.
+
+				[NEWLINE][NEWLINE]Para la creación de un chemamull, los antiguos talladores mapuche utilizaban hachas, hachuelas o rocas. Era un trabajo arduo que se llevaba a cabo en troncos completos, pues no se contaba con las tecnologías de la actualidad. Esto denota el tiempo que tenían los antiguos para dedicarle a una pieza, que era muchísimo más que una escultura o un trabajo, ya que era arte, que manifestaba gran parte del pensamiento mapuche.
+
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CHEMAMULL">
+			<Text>Construir un Chemamull</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CHEMAMULL_HELP">
+			<Text>El Chemamull sacrificará al constructor. Genera +2 de Cultura [ICON_CULTURE] y +1 de Fé [ICON_PEACE]. Unidades que empiecen su turno en un Chemamull reciben doble experiencia de combate.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_CHEMAMULL_REC">
+			<Text>Construir un Chemamull adquirirá todo el territorio adyacente!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TOQUI_NAME_01">
+			<Text>Toqui Colocolo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOQUI_NAME_02">
+			<Text>Toqui Ainavillo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOQUI_NAME_03">
+			<Text>Toqui Lincoyan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOQUI_NAME_04">
+			<Text>Toqui Caupolicán</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOQUI_NAME_05">
+			<Text>Toqui Lautaro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOQUI_NAME_06">
+			<Text>Toqui Turcupichun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOQUI_NAME_07">
+			<Text>Toqui Lemucaguin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOQUI_NAME_08">
+			<Text>Toqui Illangulién</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOQUI_NAME_09">
+			<Text>Toqui Paillataru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOQUI_NAME_10">
+			<Text>Toqui Paineñamcu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOQUI_NAME_11">
+			<Text>Toqui Cayancaru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOQUI_NAME_12">
+			<Text>Toqui Nongoniel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOQUI_NAME_13">
+			<Text>Toqui Cadeguala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOQUI_NAME_14">
+			<Text>Toqui Guanoalca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOQUI_NAME_15">
+			<Text>Toqui Quintuguenu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOQUI_NAME_16">
+			<Text>Toqui Paillaeco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOQUI_NAME_17">
+			<Text>Toqui Paillamachu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOQUI_NAME_18">
+			<Text>Toqui Huenecura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOQUI_NAME_19">
+			<Text>Toqui Aillavilu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOQUI_NAME_20">
+			<Text>Toqui Lientur</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_PROMOTION_MAULE">
+			<Text>Defensa del Maule</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MAULE_HELP">
+			<Text>Esta unidad se cura más rápido en los ríos y al lado de las montañas.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_PUREN">
+			<Text>Puren</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PILMAYKEN">
+			<Text>Pilmayken</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PERKENCO">
+			<Text>Perkenco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KILLIN">
+			<Text>Killin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KULSHE">
+			<Text>Kulshe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SHILIWE">
+			<Text>Shiliwe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BOROA">
+			<Text>Boroa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KOZ_KOZ">
+			<Text>Koz Koz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PENKO">
+			<Text>Penko</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CURAREWE">
+			<Text>Curarewe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEUKEN">
+			<Text>Neuken</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SHAURA_KAWIN">
+			<Text>Shaura Kawin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WENU_LEUFU">
+			<Text>Wenu Leufu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KALBUKO">
+			<Text>Kalbuko</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEWIN">
+			<Text>Mewin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANIL_LEUFU">
+			<Text>Anil Leufu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEWKEN">
+			<Text>Newken</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TUCAPEL">
+			<Text>Tucapel</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_KILSHE">
+			<Text>Kilshe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LIKAN_RAY">
+			<Text>Likan Ray</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHOS_MALAL">
+			<Text>Chos Malal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KARENLEUFU">
+			<Text>Karenleufu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TAPIWE">
+			<Text>Tapiwe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KINSHAMALI">
+			<Text>Kinshamali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MARISHIWUE">
+			<Text>Marishiwue</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DUAO">
+			<Text>Duao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LIKINE">
+			<Text>Likine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MALALKAWUELO">
+			<Text>Malalkawuelo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WAPI">
+			<Text>Wapi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PUYEWE">
+			<Text>Puyewe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KELLON">
+			<Text>Kellon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAFIL">
+			<Text>Mafil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RARI">
+			<Text>Rari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANTICURA">
+			<Text>Anticura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_REINOWELEN">
+			<Text>Reinowelen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CUMPEO">
+			<Text>Cumpeo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NINHUE">
+			<Text>Ninhue</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LOLOL">
+			<Text>Lolol</Text>
+		</Row>
+	</Language_ES_ES>
+</GameData>

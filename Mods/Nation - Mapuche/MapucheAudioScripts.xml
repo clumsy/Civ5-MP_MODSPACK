@@ -1,0 +1,47 @@
+<GameData>
+	<Audio_Sounds>
+
+		<!--Lautaro Music-->
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_LAUTARO_PEACE</SoundID>
+			<Filename>LautaroPeace</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_LAUTARO_WAR</SoundID>
+			<Filename>LautaroWar</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<!--Lautaro Music-->
+	</Audio_Sounds>
+	<Audio_2DSounds>
+		<!--Lautaro Music For Audio Scripts-->
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_LAUTARO_PEACE</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_LAUTARO_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>75</MinVolume>
+			<MaxVolume>75</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_LAUTARO_WAR</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_LAUTARO_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>65</MinVolume>
+			<MaxVolume>65</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_AMBIENCE_LEADER_LAUTARO_AMBIENCE</ScriptID>
+			<SoundID>SND_AMBIENCE_COAST_BED</SoundID>
+			<SoundType>GAME_SFX</SoundType>
+			<Looping>true</Looping>
+			<MinVolume>50</MinVolume>
+			<MaxVolume>50</MaxVolume>
+		</Row>
+		<!--Lautaro Music-->
+	</Audio_2DSounds>
+	
+
+</GameData>

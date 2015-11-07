@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/31/2013 6:12:34 PM -->
+<GameData>
+	<Improvements>
+	<Row>
+		<Type>IMPROVEMENT_CHEMAMULL</Type>
+		<Description>TXT_KEY_IMPROVEMENT_CHEMAMULL</Description>
+		<Civilopedia>TXT_KEY_IMPROVEMENT_CHEMAMULL_TEXT</Civilopedia>
+		<ArtDefineTag>ART_DEF_IMPROVEMENT_CHEMAMULL</ArtDefineTag>
+		<Help>TXT_KEY_BUILD_CHEMAMULL_HELP</Help>
+		<SpecificCivRequired>true</SpecificCivRequired>
+		<PillageGold>50</PillageGold>
+		<CivilizationType>CIVILIZATION_MAPUCHE</CivilizationType>
+		<PortraitIndex>3</PortraitIndex>
+		<IconAtlas>CIV_COLOR_ATLAS_MAPUCHE</IconAtlas>
+	</Row>	
+		
+	</Improvements>
+
+
+<Improvement_ValidTerrains>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CHEMAMULL</ImprovementType>
+			<TerrainType>TERRAIN_GRASS</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CHEMAMULL</ImprovementType>
+			<TerrainType>TERRAIN_PLAINS</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CHEMAMULL</ImprovementType>
+			<TerrainType>TERRAIN_DESERT</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CHEMAMULL</ImprovementType>
+			<TerrainType>TERRAIN_TUNDRA</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CHEMAMULL</ImprovementType>
+			<TerrainType>TERRAIN_SNOW</TerrainType>
+		</Row>
+</Improvement_ValidTerrains>	
+	<Improvement_Yields>
+		<Row>
+			<ImprovementType>IMPROVEMENT_CHEMAMULL</ImprovementType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Improvement_Yields>
+	<Builds>
+		<Row>
+			<Type>BUILD_CHEMAMULL</Type>
+			<PrereqTech>TECH_CALENDAR</PrereqTech>
+			<Kill>1</Kill>
+			<ImprovementType>IMPROVEMENT_CHEMAMULL</ImprovementType>
+			<Description>TXT_KEY_BUILD_CHEMAMULL</Description>
+			<Help>TXT_KEY_BUILD_CHEMAMULL_HELP</Help>
+			<Recommendation>TXT_KEY_BUILD_CHEMAMULL_REC</Recommendation>
+			<EntityEvent>ENTITY_EVENT_CHOP</EntityEvent>
+			<HotKey>KB_A</HotKey>
+			<OrderPriority>96</OrderPriority>
+			<CtrlDown>1</CtrlDown>
+			<IconIndex>0</IconIndex>
+			<IconAtlas>CIV_COLOR_ATLAS_CHEMAMULL</IconAtlas>
+		</Row>
+		
+	</Builds>
+	<BuildFeatures>
+		<Row>
+			<BuildType>BUILD_CHEMAMULL</BuildType>
+			<FeatureType>FEATURE_JUNGLE</FeatureType>
+			<PrereqTech>TECH_BRONZE_WORKING</PrereqTech>
+			<Time>700</Time>
+			<Remove>true</Remove>
+		</Row>
+		<Row>
+			<BuildType>BUILD_CHEMAMULL</BuildType>
+			<FeatureType>FEATURE_FOREST</FeatureType>
+			<PrereqTech>TECH_MINING</PrereqTech>
+			<Time>400</Time>
+			<Production>20</Production>
+			<Remove>true</Remove>
+		</Row>
+		<Row>
+			<BuildType>BUILD_CHEMAMULL</BuildType>
+			<FeatureType>FEATURE_MARSH</FeatureType>
+			<PrereqTech>TECH_MASONRY</PrereqTech>
+			<Time>600</Time>
+			<Remove>true</Remove>
+		</Row>
+		
+	</BuildFeatures>
+	<Unit_Builds>
+		<Row>
+			<UnitType>UNIT_WORKER</UnitType>
+			<BuildType>BUILD_CHEMAMULL</BuildType>
+		</Row>
+
+	</Unit_Builds>
+</GameData>

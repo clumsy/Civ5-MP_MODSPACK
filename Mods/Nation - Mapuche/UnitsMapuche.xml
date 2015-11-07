@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/19/2013 1:42:12 PM -->
+<GameData>
+	<Units>
+		<Row>
+			<Class>UNITCLASS_GREAT_GENERAL</Class>
+			<Type>UNIT_TOQUI</Type>
+			<Combat>9</Combat>
+			<Cost>-1</Cost>
+			<Moves>5</Moves>
+			<CombatClass>UNITCOMBAT_RECON</CombatClass>
+			<Special>SPECIALUNIT_PEOPLE</Special>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_FAST_ATTACK</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_TOQUI</Description>
+			<Civilopedia>TXT_KEY_UNIT_TOQUI_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_TOQUI_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_TOQUI_HELP</Help>
+			<AdvancedStartCost>-1</AdvancedStartCost>
+			<WorkRate>1</WorkRate>
+			<MilitarySupport>true</MilitarySupport>
+			<Pillage>true</Pillage>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<XPValueAttack>0</XPValueAttack>
+			<XPValueDefense>0</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_TOQUI</UnitArtInfo>
+			<IconAtlas>CIV_COLOR_ATLAS_MAPUCHE</IconAtlas>
+			<PortraitIndex>2</PortraitIndex>
+			<MoveRate>QUADRUPED</MoveRate>
+			<UnitFlagAtlas>TOQUI_FLAG</UnitFlagAtlas>
+			<UnitFlagIconOffset>0</UnitFlagIconOffset>
+		</Row>
+	</Units>
+	<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_TOQUI</UnitType>
+			<UnitAIType>UNITAI_DEFENSE</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_TOQUI</UnitType>
+			<UnitAIType>UNITAI_FAST_ATTACK</UnitAIType>
+		</Row>
+
+	</Unit_AITypes>
+	
+	<Unit_ClassUpgrades>
+		<Row>
+			<UnitType>UNIT_TOQUI</UnitType>
+			<UnitClassType>UNITCLASS_TANK</UnitClassType>
+		</Row>
+	</Unit_ClassUpgrades>
+	<Unit_FreePromotions>
+		<Row>
+			<UnitType>UNIT_TOQUI</UnitType>
+			<PromotionType>PROMOTION_CAN_MOVE_AFTER_ATTACKING</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_TOQUI</UnitType>
+			<PromotionType>PROMOTION_GREAT_GENERAL</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_TOQUI</UnitType>
+			<PromotionType>PROMOTION_BATTLE_GENERAL_0</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_TOQUI</UnitType>
+			<PromotionType>PROMOTION_TOQUI</PromotionType>
+		</Row>
+	</Unit_FreePromotions>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_MAPUCHE</Type>
+			<Description>TXT_KEY_PROMOTION_MAPUCHE</Description>
+			<Help>TXT_KEY_PROMOTION_MAPUCHE_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<ExperiencePercent>50</ExperiencePercent>
+			<EnemyRoute>true</EnemyRoute>
+			<RivalTerritory>true</RivalTerritory>
+			<PortraitIndex>6</PortraitIndex>
+			<IconAtlas>EXPANSION2_PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_SHARED</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_MAPUCHE</PediaEntry>
+		</Row>
+
+		<Row>
+			<Type>PROMOTION_CHEMAMULL</Type>
+			<Description>TXT_KEY_PROMOTION_CHEMAMULL</Description>
+			<Help>TXT_KEY_PROMOTION_CHEMAMULL_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<ExperiencePercent>100</ExperiencePercent>
+			<PortraitIndex>6</PortraitIndex>
+			<IconAtlas>KRIS_SWORDSMAN_PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_SHARED</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_CHEMAMULL</PediaEntry>
+		</Row>
+
+
+		<Row>
+			<Type>PROMOTION_MAULE</Type>
+			<Description>TXT_KEY_PROMOTION_MAULE</Description>
+			<Help>TXT_KEY_PROMOTION_MAULE_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PortraitIndex>5</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_SHARED</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_MAULE</PediaEntry>
+		</Row>
+
+		<Row>
+			<Type>PROMOTION_MAULE_FUNCTIONAL</Type>
+			<Description>TXT_KEY_PROMOTION_MAULE</Description>
+			<Help>TXT_KEY_PROMOTION_MAULE_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<EnemyHealChange>25</EnemyHealChange>
+			<NeutralHealChange>25</NeutralHealChange>
+			<FriendlyHealChange>25</FriendlyHealChange>
+			<PortraitIndex>48</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_SHARED</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_MAULE</PediaEntry>
+		</Row>
+		
+		<InsertOrAbort>
+			<Type>PROMOTION_TOQUI</Type>
+			<Description>TXT_KEY_PROMOTION_TOQUI</Description>
+			<Help>TXT_KEY_PROMOTION_TOQUI_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<LostWithUpgrade>true</LostWithUpgrade>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>EXPANSION2_PROMOTION_ATLAS</IconAtlas>
+			<FreePillageMoves>true</FreePillageMoves>
+			<PediaType>PEDIA_SHARED</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_TOQUI</PediaEntry>
+		</InsertOrAbort>
+	</UnitPromotions>
+	<Unit_UniqueNames>
+		<Row>
+			<UnitType>UNIT_TOQUI</UnitType>
+			<UniqueName>TXT_KEY_TOQUI_NAME_01</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_TOQUI</UnitType>
+			<UniqueName>TXT_KEY_TOQUI_NAME_02</UniqueName>
+		</Row>
+<Row>
+			<UnitType>UNIT_TOQUI</UnitType>
+			<UniqueName>TXT_KEY_TOQUI_NAME_03</UniqueName>
+		</Row>
+<Row>
+			<UnitType>UNIT_TOQUI</UnitType>
+			<UniqueName>TXT_KEY_TOQUI_NAME_04</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_TOQUI</UnitType>
+			<UniqueName>TXT_KEY_TOQUI_NAME_05</UniqueName>
+		</Row>
+<Row>
+			<UnitType>UNIT_TOQUI</UnitType>
+			<UniqueName>TXT_KEY_TOQUI_NAME_06</UniqueName>
+		</Row>
+<Row>
+			<UnitType>UNIT_TOQUI</UnitType>
+			<UniqueName>TXT_KEY_TOQUI_NAME_07</UniqueName>
+		</Row>
+<Row>
+			<UnitType>UNIT_TOQUI</UnitType>
+			<UniqueName>TXT_KEY_TOQUI_NAME_08</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_TOQUI</UnitType>
+			<UniqueName>TXT_KEY_TOQUI_NAME_09</UniqueName>
+		</Row>
+<Row>
+			<UnitType>UNIT_TOQUI</UnitType>
+			<UniqueName>TXT_KEY_TOQUI_NAME_10</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_TOQUI</UnitType>
+			<UniqueName>TXT_KEY_TOQUI_NAME_11</UniqueName>
+		</Row>
+<Row>
+			<UnitType>UNIT_TOQUI</UnitType>
+			<UniqueName>TXT_KEY_TOQUI_NAME_12</UniqueName>
+		</Row>
+<Row>
+			<UnitType>UNIT_TOQUI</UnitType>
+			<UniqueName>TXT_KEY_TOQUI_NAME_13</UniqueName>
+		</Row>
+<Row>
+			<UnitType>UNIT_TOQUI</UnitType>
+			<UniqueName>TXT_KEY_TOQUI_NAME_14</UniqueName>
+		</Row>
+<Row>
+			<UnitType>UNIT_TOQUI</UnitType>
+			<UniqueName>TXT_KEY_TOQUI_NAME_15</UniqueName>
+		</Row>
+<Row>
+			<UnitType>UNIT_TOQUI</UnitType>
+			<UniqueName>TXT_KEY_TOQUI_NAME_16</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_TOQUI</UnitType>
+			<UniqueName>TXT_KEY_TOQUI_NAME_17</UniqueName>
+		</Row>
+<Row>
+			<UnitType>UNIT_TOQUI</UnitType>
+			<UniqueName>TXT_KEY_TOQUI_NAME_18</UniqueName>
+		</Row>
+<Row>
+			<UnitType>UNIT_TOQUI</UnitType>
+			<UniqueName>TXT_KEY_TOQUI_NAME_19</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_TOQUI</UnitType>
+			<UniqueName>TXT_KEY_TOQUI_NAME_20</UniqueName>
+		</Row>
+
+	</Unit_UniqueNames>
+</GameData>

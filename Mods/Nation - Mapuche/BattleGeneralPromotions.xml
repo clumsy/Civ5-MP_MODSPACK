@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/31/2013 1:03:47 PM -->
+<GameData>
+	<UnitPromotions>
+	<!-- Note: The Battle General promotions are mostly a graphical thing, the change in combat strenght is generated through Lua. This is so the 
+		Combat Strenght will show in the UI. The Promotions are important so we can know the change actually applied, and it looks nice-->
+		<!-- Note 2: The Base Battle General Promotion also avoids the Great General to capture cities and sets some penalties, 
+		you're free to change that.-->
+	<!-- So... The starting General must have 10 as a base (+2 from Warrior)-->
+	<!-- After Horseback Riding, must have 14 (+2 from Horseman)-->
+	<!-- After Chivalry, must have 22 (+2 from Knight)-->
+	<!-- After Metallurgy, must have 27 (+2 from Lancer)-->
+	<!-- After Military Science, must have 36 (+2 from Cavalry)-->
+		<InsertOrAbort>
+			<Type>PROMOTION_BATTLE_GENERAL_0</Type>
+			<Description>TXT_KEY_PROMOTION_BATTLE_GENERAL_0</Description>
+			<Help>TXT_KEY_PROMOTION_BATTLE_GENERAL_0_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<LostWithUpgrade>true</LostWithUpgrade>
+			<PortraitIndex>24</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<!-- Penalties for Generals-->
+			<NoCapture>true</NoCapture>
+			<ExperiencePercent>-300</ExperiencePercent>
+			<IgnoreGreatGeneralBenefit>true</IgnoreGreatGeneralBenefit>
+			<HPHealedIfDestroyEnemy>-10</HPHealedIfDestroyEnemy>
+			<!-- Penalties for Generals-->
+			<PediaType>PEDIA_SHARED</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_BATTLE_GENERAL_0</PediaEntry>
+		</InsertOrAbort>
+
+		<InsertOrAbort>
+			<Type>PROMOTION_BATTLE_GENERAL_1</Type>
+			<Description>TXT_KEY_PROMOTION_BATTLE_GENERAL_1</Description>
+			<Help>TXT_KEY_PROMOTION_BATTLE_GENERAL_1_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<LostWithUpgrade>true</LostWithUpgrade>
+			<PortraitIndex>16</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_SHARED</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_BATTLE_GENERAL_1</PediaEntry>
+		</InsertOrAbort>
+
+		<InsertOrAbort>
+			<Type>PROMOTION_BATTLE_GENERAL_2</Type>
+			<Description>TXT_KEY_PROMOTION_BATTLE_GENERAL_2</Description>
+			<Help>TXT_KEY_PROMOTION_BATTLE_GENERAL_2_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<LostWithUpgrade>true</LostWithUpgrade>
+			<PortraitIndex>17</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_SHARED</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_BATTLE_GENERAL_2</PediaEntry>
+		</InsertOrAbort>
+
+		<InsertOrAbort>
+			<Type>PROMOTION_BATTLE_GENERAL_3</Type>
+			<Description>TXT_KEY_PROMOTION_BATTLE_GENERAL_3</Description>
+			<Help>TXT_KEY_PROMOTION_BATTLE_GENERAL_3_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<LostWithUpgrade>true</LostWithUpgrade>
+			<PortraitIndex>18</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_SHARED</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_BATTLE_GENERAL_3</PediaEntry>
+		</InsertOrAbort>
+
+		<InsertOrAbort>
+			<Type>PROMOTION_BATTLE_GENERAL_4</Type>
+			<Description>TXT_KEY_PROMOTION_BATTLE_GENERAL_4</Description>
+			<Help>TXT_KEY_PROMOTION_BATTLE_GENERAL_4_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<LostWithUpgrade>true</LostWithUpgrade>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_SHARED</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_BATTLE_GENERAL_4</PediaEntry>
+		</InsertOrAbort>
+	</UnitPromotions>
+	<Language_en_US>
+		
+		<Row Tag="TXT_KEY_PROMOTION_BATTLE_GENERAL_0">
+			<Text>Battle General</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BATTLE_GENERAL_0_HELP">
+			<Text>This Great General may Attack and Defend itself, however it loses 10 HP for each unit killed and may not capture cities.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_BATTLE_GENERAL_1">
+			<Text>Battle General [COLOR_YIELD_GOLD]Level 1[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BATTLE_GENERAL_1_HELP">
+			<Text>Combat Bonus Boost after learning the secrets of Horseback Riding</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BATTLE_GENERAL_2">
+			<Text>Battle General [COLOR_YIELD_GOLD]Level 2[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BATTLE_GENERAL_2_HELP">
+			<Text>Combat Bonus Boost after learning the secrets of Chivalry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BATTLE_GENERAL_3">
+			<Text>Battle General [COLOR_YIELD_GOLD]Level 3[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BATTLE_GENERAL_3_HELP">
+			<Text>Combat Bonus Boost after learning the secrets of Metallurgy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BATTLE_GENERAL_4">
+			<Text>Battle General [COLOR_YIELD_GOLD]Level 4[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BATTLE_GENERAL_4_HELP">
+			<Text>Combat Bonus Boost after learning the secrets of Millirary Science. This is the Final Level.</Text>
+		</Row>
+
+	</Language_en_US>
+
+	<Language_ES_ES>
+
+		<Row Tag="TXT_KEY_PROMOTION_BATTLE_GENERAL_0">
+			<Text>General de Batalla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BATTLE_GENERAL_0_HELP">
+			<Text>Este Gran General puede atacar y defenderse, pero pierde 10 de vida por cada unidad asesinada y no puede capturar ciudades</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_BATTLE_GENERAL_1">
+			<Text>General de Batalla [COLOR_YIELD_GOLD]Nivel 1[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BATTLE_GENERAL_1_HELP">
+			<Text>Mayor combate al descubrir los secretos de la Equitacion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BATTLE_GENERAL_2">
+			<Text>General de Batalla [COLOR_YIELD_GOLD]Nivel 2[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BATTLE_GENERAL_2_HELP">
+			<Text>Mayor combate al descubrir los secretos de la Caballeria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BATTLE_GENERAL_3">
+			<Text>Geneeral de Batalla [COLOR_YIELD_GOLD]Nivel 3[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BATTLE_GENERAL_3_HELP">
+			<Text>Mayor combate al descubrir los secretos de la Metalurgia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BATTLE_GENERAL_4">
+			<Text>General de Batalla [COLOR_YIELD_GOLD]Nivel 4[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BATTLE_GENERAL_4_HELP">
+			<Text>Mayor combate al descubrir los secretos de la Ciencia Militar, este es el ultimo nivel</Text>
+		</Row>
+
+	</Language_ES_ES>
+</GameData>

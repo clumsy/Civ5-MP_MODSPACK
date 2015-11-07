@@ -1622,6 +1622,10 @@ ContextPtr:LoadNewContext("TiwaDialog")
 -- Nation - Hyksos --
 ContextPtr:LoadNewContext("HyksosFunctions")
 
+-- Nation - Mapuche --
+ContextPtr:LoadNewContext("BattleGeneral")
+ContextPtr:LoadNewContext("Chemamullscripts")
+
 -- Nation - Ptolemy (Cleopatra) --
 ContextPtr:LoadNewContext("GalatianGuard")
 ContextPtr:LoadNewContext("Embassies")
