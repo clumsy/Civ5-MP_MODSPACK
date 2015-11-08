@@ -1632,6 +1632,9 @@ ContextPtr:LoadNewContext("Embassies")
 ContextPtr:LoadNewContext("Emporion")
 ContextPtr:LoadNewContext("Friendships")
 
+-- Nation - Serbia (Peter I) --
+ContextPtr:LoadNewContext("Peter I Functions")
+
 -- Misc - Events & Decisions --
 --ContextPtr:LoadNewContext("BuildingYieldFromCityStates")
 --ContextPtr:LoadNewContext("LuaEvents.PlayerEnteredNewEra")

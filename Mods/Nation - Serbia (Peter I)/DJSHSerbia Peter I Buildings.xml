@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/3/2013 6:21:37 PM -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_DJSH_SERBIA_PETER_I_HAPPINESS</Type>
+			<DefaultBuilding>BUILDING_DJSH_SERBIA_PETER_I_HAPPINESS</DefaultBuilding>
+			<Description>Serbia Peter I Happiness</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_DJSH_SERBIA_PETER_I_HAPPINESS_COUNT</Type>
+			<DefaultBuilding>BUILDING_DJSH_SERBIA_PETER_I_HAPPINESS_COUNT</DefaultBuilding>
+			<Description>Serbia Peter I Happiness</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_DJSH_SERBIA_PETER_I_CULTURE</Type>
+			<DefaultBuilding>BUILDING_DJSH_SERBIA_PETER_I_CULTURE</DefaultBuilding>
+			<Description>Serbia Peter I Happiness</Description>
+		</Row>
+	</BuildingClasses>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_DJSH_SERBIA_PETER_I_HAPPINESS</Type>
+			<BuildingClass>BUILDINGCLASS_DJSH_SERBIA_PETER_I_HAPPINESS</BuildingClass>
+			<Cost>-1</Cost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<PrereqTech>NULL</PrereqTech>
+			<Description>Serbia Peter I Happiness</Description>
+			<Happiness>1</Happiness>
+			<ArtDefineTag>ART_DEF_BUILDING_FORGE</ArtDefineTag>
+			<NukeImmune>true</NukeImmune>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<MinAreaSize>-1</MinAreaSize>>
+			<NeverCapture>true</NeverCapture>
+			<IconAtlas>CIV_DJSH_SERBIA_PETER_I_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+		</Row>
+		<Row>
+			<Type>BUILDING_DJSH_SERBIA_PETER_I_HAPPINESS_COUNT</Type>
+			<BuildingClass>BUILDINGCLASS_DJSH_SERBIA_PETER_I_HAPPINESS_COUNT</BuildingClass>
+			<Cost>-1</Cost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<PrereqTech>NULL</PrereqTech>
+			<Description>Serbia Peter I Happiness</Description>
+			<ArtDefineTag>ART_DEF_BUILDING_FORGE</ArtDefineTag>
+			<NukeImmune>true</NukeImmune>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<MinAreaSize>-1</MinAreaSize>>
+			<NeverCapture>true</NeverCapture>
+			<IconAtlas>CIV_DJSH_SERBIA_PETER_I_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+		</Row>
+		<Row>
+			<Type>BUILDING_DJSH_SERBIA_PETER_I_CULTURE</Type>
+			<BuildingClass>BUILDINGCLASS_DJSH_SERBIA_PETER_I_CULTURE</BuildingClass>
+			<Cost>-1</Cost>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<PrereqTech>NULL</PrereqTech>
+			<Description>Serbia Peter I Culture</Description>
+			<ArtDefineTag>ART_DEF_BUILDING_FORGE</ArtDefineTag>
+			<NukeImmune>true</NukeImmune>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<MinAreaSize>-1</MinAreaSize>>
+			<NeverCapture>true</NeverCapture>
+			<IconAtlas>CIV_DJSH_SERBIA_PETER_I_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_DJSH_SERBIA_PETER_I_CULTURE</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_YieldChanges>
+</GameData>

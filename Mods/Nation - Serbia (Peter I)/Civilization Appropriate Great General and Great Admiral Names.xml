@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/9/2015 8:18:43 PM -->
+<GameData>
+	<Unit_UniqueNames>
+		<Row>
+			<UnitType>UNIT_GREAT_GENERAL</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_DJSH_PAVLE_JURISIC_STURM</UniqueName>
+			<CivilizationType>CIVILIZATION_DJSH_SERBIA_PETER_I</CivilizationType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_GREAT_GENERAL</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_DJSH_UZUN_MIRKO</UniqueName>
+			<CivilizationType>CIVILIZATION_DJSH_SERBIA_PETER_I</CivilizationType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_GREAT_GENERAL</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_DJSH_COLAK_ANTA</UniqueName>
+			<CivilizationType>CIVILIZATION_DJSH_SERBIA_PETER_I</CivilizationType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_GREAT_GENERAL</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_DJSH_STOJAN_CUPIC</UniqueName>
+			<CivilizationType>CIVILIZATION_DJSH_SERBIA_PETER_I</CivilizationType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_GREAT_GENERAL</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_DJSH_RADOMIR_PUTNIK</UniqueName>
+			<CivilizationType>CIVILIZATION_DJSH_SERBIA_PETER_I</CivilizationType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_GREAT_GENERAL</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_DJSH_STEPA_STEPANOVIC</UniqueName>
+			<CivilizationType>CIVILIZATION_DJSH_SERBIA_PETER_I</CivilizationType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_GREAT_GENERAL</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_DJSH_STEVAN_KNICANIN</UniqueName>
+			<CivilizationType>CIVILIZATION_DJSH_SERBIA_PETER_I</CivilizationType>
+		</Row>
+	</Unit_UniqueNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DJSH_PAVLE_JURISIC_STURM">
+			<Text>Pavle Jurisic Sturm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DJSH_UZUN_MIRKO">
+			<Text>Uzun-Mirko</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DJSH_COLAK_ANTA">
+			<Text>Colak-Anta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DJSH_STOJAN_CUPIC">
+			<Text>Stojan-Cupic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DJSH_RADOMIR_PUTNIK">
+			<Text>Radomir Putnik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DJSH_STEPA_STEPANOVIC">
+			<Text>Stepa Stepanovic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DJSH_STEVAN_KNICANIN">
+			<Text>Stevan Knicanin</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

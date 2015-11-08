@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="87254992-6f2e-47ce-8720-2d74673e8212" version="1">
+  <Properties>
+    <Name>Serbia (Peter I) (BNW)</Name>
+    <Teaser>This mods adds the Serbia (Peter I) to the game as a playable civilization. Requires Brave New World.</Teaser>
+    <Description>This mods adds Serbia (Peter I) to the game as a playable civilization. Requires Brave New World.[NEWLINE][NEWLINE]
+
+Leader: Peter I[NEWLINE][NEWLINE]
+
+UA: Serbian Age of Pericles - Gain a temporary [ICON_HAPPINESS_1] Happiness boost after adopting a Social Policy. Cities provide more [ICON_CULTURE] Culture when [ICON_FOOD] growing.[NEWLINE][NEWLINE]
+
+UI: Pijaca (Currency).  +1 [ICON_FOOD] Food and [ICON_GOLD] Gold. +1 [ICON_FOOD] Food after Fertilizer. +1 [ICON_GOLD] Gold after Economics. Occasionally provides a [ICON_FOOD] Food Boost if next to a Bonus Resource (except [ICON_RES_STONE] Stone). There cannot be two adjacent Pijacas.[NEWLINE][NEWLINE]
+
+UU: Gvozdeni Puk. Replaces the Great War Infantry. Starts with extra Experience (based on [ICON_CITIZEN] Population size). Heals Hitpoints based on total amount of experience if there is a nearby enemy unit.</Description>
+    <Authors>DJSHenninger</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Unique Cultural Influence" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="Piety and Prestige" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="fe245559-0525-41bb-9e1c-b281e018b5fc" minversion="0" maxversion="999" title="Civilization Appropriate Great General and Admiral Names" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact's Events and Decisions" />
+    <Mod id="43868e8d-de88-48a1-a8d9-ce144e07f5e0" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="2193F929B8FC26FDAEBA7EB14A4BBC4B" import="1">Art/AlphaPeterISerbia128.dds</File>
+    <File md5="00979849101E3FC092F3299982E78C74" import="1">Art/AlphaPeterISerbia16.dds</File>
+    <File md5="4285D5134C30C4F8FD2F535ECDD0B96E" import="1">Art/AlphaPeterISerbia24.dds</File>
+    <File md5="38D18D63C5EAACF5696074D0FAFE6088" import="1">Art/AlphaPeterISerbia256.dds</File>
+    <File md5="613FE060E3D2A3653B148D0B352F338B" import="1">Art/AlphaPeterISerbia32.dds</File>
+    <File md5="F6F9E19C461366F259FECBC025F9144A" import="1">Art/AlphaPeterISerbia45.dds</File>
+    <File md5="FD063F6C271EA0FAA049E85DCC97F7C4" import="1">Art/AlphaPeterISerbia48.dds</File>
+    <File md5="250EC941AA6EE20FCBC0B28BEB6C2956" import="1">Art/AlphaPeterISerbia64.dds</File>
+    <File md5="C2C0C67B91B3F9CE6A0EF0B994949723" import="1">Art/AlphaPeterISerbia80.dds</File>
+    <File md5="1522E3A0E66E291617044CEB40ADC2E9" import="1">Art/DJSHSerbiaPeterI_Icons128.dds</File>
+    <File md5="869F761C058B8E07764F3CCF9D173AEE" import="1">Art/DJSHSerbiaPeterI_Icons256.dds</File>
+    <File md5="ED3255E9010B5C72A9D56E2DBFFAE272" import="1">Art/DJSHSerbiaPeterI_Icons32.dds</File>
+    <File md5="F4DE42E6B0A8C330156B40B698996598" import="1">Art/DJSHSerbiaPeterI_Icons45.dds</File>
+    <File md5="21D3A9BD5F52D9929314ED347385A577" import="1">Art/DJSHSerbiaPeterI_Icons64.dds</File>
+    <File md5="99B7DD0E2B8E1442E0062662388107F1" import="1">Art/DJSHSerbiaPeterI_Icons80.dds</File>
+    <File md5="0C759F1CED95795CCFBE40C6BD9A963C" import="1">Art/Gvozdeni Puk Graphics/no_gloss.dds</File>
+    <File md5="EC40DAE6D2698D04BB03EB891E4B5293" import="1">Art/Gvozdeni Puk Graphics/ottgw1.dds</File>
+    <File md5="9CFDBB399C0C0C10ABED71CEFD0890CA" import="1">Art/Gvozdeni Puk Graphics/ottgw1.fxsxml</File>
+    <File md5="FB916DDBBA30491CF610033695032799" import="1">Art/Gvozdeni Puk Graphics/ottgw1.gr2</File>
+    <File md5="6BB94511F404788B57B51A46741EF6EE" import="1">Art/MapPeterISerbia512.dds</File>
+    <File md5="C9CEFB05716C8A04CEB62492EE611C6F" import="1">Art/PeterISerbia_diplo.dds</File>
+    <File md5="C1880223E1A24EECB8A0F93B73E25983" import="1">Art/PeterISerbia_DOM.dds</File>
+    <File md5="CCE2B359668236BF151A76572C9DF957" import="1">Art/PeterI_Scene.xml</File>
+    <File md5="80973E6A625A80590F2D2FFDBF883A22" import="1">Art/Pijaca Graphics/easternMarket_cm.dds</File>
+    <File md5="CC7AEB2F4C08D490859DDB93F9D8CC28" import="1">Art/Pijaca Graphics/Pijaca HB.gr2</File>
+    <File md5="ABA3955F0C15F32D371DDFF40F6A85F6" import="1">Art/Pijaca Graphics/Pijaca PL.gr2</File>
+    <File md5="6278A0BF69146462FD59182C483C9A1F" import="1">Art/Pijaca Graphics/Pijaca.gr2</File>
+    <File md5="F64167ACE317984FB900264D77469F88" import="1">Art/Pijaca Graphics/Pijaca B.fxsxml</File>
+    <File md5="28FC537C6446BE929B446A06028B62AC" import="1">Art/Pijaca Graphics/Pijaca HB.fxsxml</File>
+    <File md5="E698D5BC9E2E2B3EF48461846727F1E2" import="1">Art/Pijaca Graphics/Pijaca PL.fxsxml</File>
+    <File md5="A194C8B7E1BB1464E4A197A1BDFDB25E" import="1">Art/Pijaca_Action45.dds</File>
+    <File md5="7F04500DD08386F7C6A81176B1ACB2CE" import="1">Art/Pijaca_Action64.dds</File>
+    <File md5="7B1D3116DF504F2802C0E85343F282D3" import="1">Art/Pijaca_SV.dds</File>
+    <File md5="232FB43D20ACA8963AA21803DDDF295D" import="0">Lua/Peter I Functions.lua</File>
+    <File md5="19D73486586D9FE81A97CD0B551CCA4C" import="1">Lua/PlotIterators.lua</File>
+    <File md5="BD9DA1538E0020CDE738FF021FCC92E4" import="0">Mod Support for Serbia (Peter I)/Civilization Appropriate Great General and Great Admiral Names.xml</File>
+    <File md5="C32E611633A21582A1C762A6935FBFB7" import="1">Mod Support for Serbia (Peter I)/Events/DJSHSerbia Peter I Events.lua</File>
+    <File md5="F0AEBA103C7A72CDC7D56700B7CBD3BC" import="0">Mod Support for Serbia (Peter I)/Events/DJSHSerbia Peter I Events.xml</File>
+    <File md5="DFB93E904530C4287D061425B471AAFB" import="1">Mod Support for Serbia (Peter I)/Decisions/DJSHSerbia Peter I Decisions.lua</File>
+    <File md5="D8260DB5B18C92CD9FB7F891877391BC" import="0">Mod Support for Serbia (Peter I)/Decisions/DJSHSerbia Peter I Decisions.xml</File>
+    <File md5="A8CF871D80037457D16077C9EEA9E896" import="0">Mod Support for Serbia (Peter I)/Exploration Continued Expanded.sql</File>
+    <File md5="C9036F25E79BD2045AB79B6816CBC509" import="0">Mod Support for Serbia (Peter I)/Barathor's YnAEMP.sql</File>
+    <File md5="9847B2C70567BFACAF5DF158A3344407" import="0">Mod Support for Serbia (Peter I)/Bingles' Civ IV Traits.sql</File>
+    <File md5="0F795E7F1C862A0D588560C62505BFCB" import="0">Mod Support for Serbia (Peter I)/Cultural Diversity.sql</File>
+    <File md5="FF64F9B4F9C0711803E58D1A4EC5916C" import="0">Mod Support for Serbia (Peter I)/Ethnic Units.sql</File>
+    <File md5="E40FC72EAAACA0F1EC7E274FB25E1F4A" import="0">Mod Support for Serbia (Peter I)/hazel16's Map Labels.sql</File>
+    <File md5="EF2538D93917884182B65E728BE26428" import="0">Mod Support for Serbia (Peter I)/JFD's Piety and Prestige.sql</File>
+    <File md5="DD096C78B993FE925DC0D962CF5DFA5F" import="0">Mod Support for Serbia (Peter I)/Ryoga's Unique Cultural Influence.xml</File>
+    <File md5="8F549B6C7118936618622FD438E369B2" import="1">Music/DJSHSerbiaPeterIPeace.mp3</File>
+    <File md5="3E369FA773303B2C26CBB36F43B0E2B7" import="1">Music/DJSHSerbiaPeterIWar.mp3</File>
+    <File md5="FF8288BAE52D1AA2005237616F574101" import="0">XML/DJSHSerbia Peter I UnitPromotions.xml</File>
+    <File md5="D7DF24162E576E94B452A5C012239F25" import="0">XML/DJSHSerbia Peter I Improvement.xml</File>
+    <File md5="B50B85DED3B4AA3CE63FE65AA11DCAD5" import="0">XML/DJSHSerbia Peter I Buildings.xml</File>
+    <File md5="2A080599C372DCDB13E7E2BE13005ED3" import="0">XML/DJSHSerbia Peter I Colors.xml</File>
+    <File md5="01C10AA724E17A852F0628B7077D8F67" import="0">XML/DJSHSerbia Peter I IconTextureAtlases.xml</File>
+    <File md5="9E34B2D9081DC983274754BA9F3C0B3D" import="0">XML/DJSHSerbia Peter I Leader.xml</File>
+    <File md5="413C2DF55795424428A535EFCBA43F25" import="0">XML/DJSHSerbia Peter I Traits.xml</File>
+    <File md5="8EBE3634409D95080C4305121D1C98F0" import="0">XML/DJSHSerbia Peter I Units.xml</File>
+    <File md5="F14D1F02DB8A076EEFDD8E65881EBD66" import="0">XML/DJSHSerbia Peter I Civilization.xml</File>
+    <File md5="4B8F97CC29431E28FB6FB1E3FE6FB084" import="0">XML/DJSHSerbia Peter I GameText.xml</File>
+    <File md5="4DB984A430217B96C9E34253D52E70B1" import="0">XML/DJSHSerbia Peter I Music.xml</File>
+    <File md5="8212D05203A3D102C642B6BA46CCD296" import="0">XML/DJSHSerbia Peter I Diplomacy.xml</File>
+    <File md5="5EDF43C5C3DBA6F977B43BE32671141A" import="0">XML/DJSHSerbia Peter I Unit Graphics.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/PeterI_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/DJSHSerbia Peter I Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/DJSHSerbia Peter I Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/DJSHSerbia Peter I Colors.xml</UpdateDatabase>
+      <UpdateDatabase>XML/DJSHSerbia Peter I IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/DJSHSerbia Peter I Leader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/DJSHSerbia Peter I Traits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/DJSHSerbia Peter I Units.xml</UpdateDatabase>
+      <UpdateDatabase>XML/DJSHSerbia Peter I UnitPromotions.xml</UpdateDatabase>
+      <UpdateDatabase>XML/DJSHSerbia Peter I GameText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/DJSHSerbia Peter I Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>XML/DJSHSerbia Peter I Improvement.xml</UpdateDatabase>
+      <UpdateDatabase>XML/DJSHSerbia Peter I Unit Graphics.xml</UpdateDatabase>
+      <UpdateDatabase>XML/DJSHSerbia Peter I Music.xml</UpdateDatabase>
+      <UpdateDatabase>Mod Support for Serbia (Peter I)/Barathor's YnAEMP.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Support for Serbia (Peter I)/Bingles' Civ IV Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Support for Serbia (Peter I)/Ethnic Units.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Support for Serbia (Peter I)/Ryoga's Unique Cultural Influence.xml</UpdateDatabase>
+      <UpdateDatabase>Mod Support for Serbia (Peter I)/hazel16's Map Labels.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Support for Serbia (Peter I)/JFD's Piety and Prestige.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Support for Serbia (Peter I)/Cultural Diversity.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Support for Serbia (Peter I)/Civilization Appropriate Great General and Great Admiral Names.xml</UpdateDatabase>
+      <UpdateDatabase>Mod Support for Serbia (Peter I)/Exploration Continued Expanded.sql</UpdateDatabase>
+      <UpdateDatabase>Mod Support for Serbia (Peter I)/Decisions/DJSHSerbia Peter I Decisions.xml</UpdateDatabase>
+      <UpdateDatabase>Mod Support for Serbia (Peter I)/Events/DJSHSerbia Peter I Events.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Peter I Functions.lua">
+      <Name>Peter I Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/6/2013 10:00:47 PM -->
+<GameData>
+		<Diplomacy_Responses>
+			<Row LeaderType="LEADER_DJSH_PETER_I">
+				<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+				<Response>TXT_KEY_LEADER_DJSH_PETER_I_FIRST_GREETING_%</Response>
+			</Row>
+			<Row LeaderType="LEADER_DJSH_PETER_I">
+				<ResponseType>RESPONSE_DEFEATED</ResponseType>
+				<Response>TXT_KEY_LEADER_DJSH_PETER_I_MOD_DEFEATED_%</Response>
+			</Row>
+		</Diplomacy_Responses>
+</GameData>

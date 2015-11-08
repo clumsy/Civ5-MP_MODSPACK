@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/1/2015 9:56:14 AM -->
+<GameData>
+	<DecisionsAddin_Support>
+		<Row>
+			<FileName>DJSHSerbia Peter I Decisions.lua</FileName>
+		</Row>
+	</DecisionsAddin_Support>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_DJSH_REVISE_1888_CONSTITUTION_1</Type>
+			<DefaultBuilding>BUILDING_DJSH_REVISE_1888_CONSTITUTION_1</DefaultBuilding>
+			<Description>Revise Constitution</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_DJSH_UPGRADE_GRAND_SCHOOL_BELGRADE</Type>
+			<DefaultBuilding>BUILDING_DJSH_UPGRADE_GRAND_SCHOOL_BELGRADE</DefaultBuilding>
+			<Description>Upgrade Grand School of Belgrade</Description>
+		</Row>
+	</BuildingClasses>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_DJSH_REVISE_1888_CONSTITUTION_1</Type>
+			<BuildingClass>BUILDINGCLASS_DJSH_REVISE_1888_CONSTITUTION_1</BuildingClass>
+			<Cost>-1</Cost>
+			<PrereqTech>NULL</PrereqTech>
+			<Description>Revise Constitution</Description>
+			<ArtDefineTag>ART_DEF_BUILDING_FORGE</ArtDefineTag>
+			<Happiness>1</Happiness>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NukeImmune>true</NukeImmune>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<MinAreaSize>-1</MinAreaSize>>
+			<NeverCapture>true</NeverCapture>
+			<IconAtlas>CIV_DJSH_SERBIA_PETER_I_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+		</Row>
+		<Row>
+			<Type>BUILDING_DJSH_UPGRADE_GRAND_SCHOOL_BELGRADE</Type>
+			<BuildingClass>BUILDINGCLASS_DJSH_UPGRADE_GRAND_SCHOOL_BELGRADE</BuildingClass>
+			<Cost>-1</Cost>
+			<PrereqTech>NULL</PrereqTech>
+			<Description>Upgrade Grand School of Belgrade</Description>
+			<ArtDefineTag>ART_DEF_BUILDING_FORGE</ArtDefineTag>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NukeImmune>true</NukeImmune>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<MinAreaSize>-1</MinAreaSize>>
+			<NeverCapture>true</NeverCapture>
+			<IconAtlas>CIV_DJSH_SERBIA_PETER_I_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_YieldModifiers>
+		<Row>
+			<BuildingType>BUILDING_DJSH_UPGRADE_GRAND_SCHOOL_BELGRADE</BuildingType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>25</Yield>
+		</Row>
+	</Building_YieldModifiers>
+	<Language_en_US>
+		<!--Revise the Constitution-->
+		<Row Tag="TXT_KEY_DECISIONS_DJSH_REVISE_1888_CONSTITUTION">
+			<Text>Revise the Constitution</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DJSH_REVISE_1888_CONSTITUTION_DESC">
+			<Text>
+				The current Constitution is not in line with the principles of democracy. It should be revised in such a way that it honors these important pinnacles of democracy and freedom.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Serbia led by Peter I
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Modern Era
+				[NEWLINE][ICON_BULLET]May only be enacted once
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_HAPPINESS_1] Happiness for every 4 [ICON_CITIZEN] Citizens
+				[NEWLINE][ICON_BULLET]Gain {1_Culture} [ICON_CULTURE] Culture
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DJSH_REVISE_1888_CONSTITUTION_ENACTED_DESC">
+			<Text>
+				The current Constitution is not in line with the principles of democracy. It should be revised in such a way that it honors these important pinnacles of democracy and freedom.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_HAPPINESS_1] Happiness for every 4 [ICON_CITIZEN] Citizens
+				[NEWLINE][ICON_BULLET]Gain {1_Culture} [ICON_CULTURE] Culture
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_DJSH_REVISE_1888_CONSTITUTION">
+			<Text>The old Constitution of Serbia was revised, as ordered by Peter I.</Text>
+		</Row>
+
+		<!--Upgrade Grand School of Belgrade-->
+		<Row Tag="TXT_KEY_DECISIONS_DJSH_UPGRADE_GRAND_SCHOOL_BELGRADE">
+			<Text>Upgrade Grand School of Belgrade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DJSH_UPGRADE_GRAND_SCHOOL_BELGRADE_DESC">
+			<Text>
+				The Grand School of Belgrade, though already prestigious, is in need of renewal. It should be upgraded to a proper University; it will allow the great minds of our nation to function at their best![NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be Serbia led by Peter I
+				[NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Modern Era
+				[NEWLINE][ICON_BULLET]Must have a University in the [ICON_CAPITAL] Capital
+				[NEWLINE][ICON_BULLET]May only be enacted once
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+25% [ICON_RESEARCH] Science in the [ICON_CAPITAL] Capital
+				[NEWLINE][ICON_BULLET]15% of the [ICON_CAPITAL] Capital's [ICON_RESEARCH] Science is converted to [ICON_CULTURE] Culture
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DJSH_UPGRADE_GRAND_SCHOOL_BELGRADE_ENACTED_DESC">
+			<Text>
+				The Grand School of Belgrade, though already prestigious, is in need of renewal. It should be upgraded to a proper University; it will allow the great minds of our nation to function at their best![NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+25% [ICON_RESEARCH] Science in the [ICON_CAPITAL] Capital
+				[NEWLINE][ICON_BULLET]15% of the [ICON_CAPITAL] Capital's [ICON_RESEARCH] Science is converted to [ICON_CULTURE] Culture
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_DJSH_UPGRADE_GRAND_SCHOOL_BELGRADE">
+			<Text>The Grand School of Belgrade was upgraded to a prestigious university.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

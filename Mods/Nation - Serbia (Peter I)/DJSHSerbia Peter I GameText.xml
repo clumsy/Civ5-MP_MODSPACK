@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/20/2013 8:51:09 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- CIVILIZATION -->
+		<Row Tag="TXT_KEY_CIV_DJSH_SERBIA_PETER_I_DESC">
+			<Text>Serbian Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_DJSH_SERBIA_PETER_I_SHORT_DESC">
+			<Text>Serbia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_DJSH_SERBIA_PETER_I_ADJECTIVE">
+			<Text>Serbian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJSH_SERBIA_PETER_I_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJSH_SERBIA_PETER_I_TEXT_1">
+			<Text>The Kingdom of Serbia  was created when Prince Milan Obrenović, ruler of the Principality of Serbia, was crowned king in 1882. The Principality of Serbia was ruled by the Obrenović dynasty from 1817 onwards. The Principality had expelled all Ottoman troops by 1867, de facto securing its independence. The Congress of Berlin in 1878 recognized the formal independence of the Principality of Serbia. The Principality of Serbia was a state in the Balkans that came into existence as a result of the Serbian revolution which lasted between 1804 and 1817. At first, the principality included only the territory of the former Pashaluk of Belgrade, but in 1831–1833 it expanded to the east, south, and west. Serbia was further expanded to the south-east in 1878, when it won full international recognition at the Treaty of Berlin. The Serbo-Bulgarian War was a war between Serbia and Bulgaria that erupted on 14 November 1885 and lasted until 28 November the same year. The war ended in defeat for Serbia as it had failed outright to capture the Slivnitsa region which it had set out to achieve: the Bulgarians successfully repelled the Serbs after the decisive victory at the Battle of Slivnitsa and advanced into Serbian territory taking Pirot and clearing the way to Nis. The Bosnian Crisis of 1908–1909 (also referred to as the Annexation crisis) erupted into public view when on October 5, 1908, Bulgaria declared its independence and on October 6, 1908, Austria-Hungary announced the annexation of Bosnia and Herzegovina, which was populated mainly by south Slavic nationals (Serbs, Croats and Bosniaks). In April 1909, the Treaty of Berlin was amended to accept the new status quo bringing the crisis to an end. The crisis permanently damaged relations between Austria-Hungary on the one hand and Russia and Serbia on the other. The annexation and reactions to the annexation were contributing causes of World War I. Serbia, victorious in two Balkan Wars, gained significant territorial areas of the Central Balkans and almost doubled its territory. The assassination of Archduke Franz Ferdinand of Austria on 28 June 1914 in Sarajevo (then part of the Austria-Hungary) brought the tensions between Austria-Hungary and Serbia to a head. Behind the assassination in Sarajevo was a secret radical organization, Black Hand, from Serbia. The political objective of the assassination was to break the Austro-Hungarian south-Slav provinces off from the Austro-Hungarian Empire. Assassination of Archduke Franz Ferdinand triggered a chain of international events that embroiled Russia and the major European powers. War broke out in Europe over the next thirty-seven days.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJSH_PETER_I_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJSH_PETER_I_TEXT_1">
+			<Text>Peter I was the last King of Serbia, ruling from 1903 to 1918, after the previous King of Serbia, Alexander I of the house of Obrenovic, was assassinated in a coup d'état. Initially disgusted by the overthrow, he reluctantly accepted the throne in 1903. Peter I was a descendant of Karadorde, who was viewed by the Serbians as the one who secured their independence. Peter I was educated in the West, which greatly influenced his political decisions. He attempted to liberalize Serbia, attempting to create a western-style constitutional monarchy. For these actions, Peter I became gradually very popular among the public. The reign of King Peter I Karadjordjević from 1903 to 1914, is remembered as the "Golden Age of Serbia" or the "Era of Pericles in Serbia", due to the unrestricted political freedoms, free press, and cultural ascendancy among South Slavs. King Peter I was supportive to the movement of Yugoslav unification, hosting in Belgrade various cultural gatherings. King Peter I gained enormous popularity following the Balkan Wars in 1912 and 1913, which, from a Serb and South Slav perspective, were a great success, heralded by the spectacular military victories over the Ottomans, followed by the liberation of Old Serbia (Vilayet of Kosovo) and mostly Slavic-inhabited Macedonia (Vilayet of Monastir). The territory of Serbia was doubled and her prestige among South Slavs grew significantly, with Peter I as the main symbol of this both political and cultural success. After the conflict between military and civilian representatives in the spring of 1914, King Peter chose to "retire" due to ill health, reassigning on 11/24 June 1914 his royal prerogatives to his second son Heir apparent Crown Prince Alexander. The King, spending most of his time in various Serbian spas, remained relatively inactive during the First World War, although occasionally, when the military situation became critical, he visited trenches on the front-line to check up on morale of his troops. His visit to the firing line prior to the Battle of Kolubara in late 1914 boosted morale of the retreating Serbian forces and announced a counter-offensive and sparkling victory against numerically superior Austro-Hungarian forces. On 1 December 1918, King Peter I was proclaimed King of the Serbs, Croats and Slovenes. King Peter stayed abroad until July 1919 and returned to Belgrade where he died in 1921 at the age of 77.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJSH_PETER_I_LIVED">
+			<Text>1844 - 1921 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJSH_PETER_I_NAME">
+			<Text>Peter I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJSH_PETER_I_SUBTITLE">
+			<Text>Leader of Serbia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJSH_PETER_I_TITLES_1">
+			<Text>King of Yugoslavia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJSH_PETER_I_TITLES_2">
+			<Text>King of Serbia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DJSH_SERBIA_PETER_I">
+			<Text>Gain a temporary [ICON_HAPPINESS_1] Happiness boost after adopting a Social Policy. Cities provide more [ICON_CULTURE] Culture when [ICON_FOOD] growing.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DJSH_SERBIA_PETER_I_SHORT">
+			<Text>Serbian Age of Pericles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DJSH_PETER_I_FIRST_GREETING_1">
+			<Text>Welcome to Serbia, where freedom and the principles of democracy rule.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DJSH_PETER_I_FIRST_GREETING_2">
+			<Text>In this time of chaos and agony, I bid you welcome. May we find peace through freedom.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DJSH_PETER_I_DEFEATED_1">
+			<Text>You have succeeded in causing agony and misery. Was that really what you wanted?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DJSH_PETER_I_DEFEATED_2">
+			<Text>So, the Kingdom has fallen. You were a worthy opponent. May we meet again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_DJSH_SERBIA_PETER_I_TEXT">
+			<Text>Oh most glorious King Peter I, you inspire your people endlessly! Your fight for freedom and democracy earned you the respect of your people! During your rule, your people experienced a period of unprecedented freedom. Serbia was successful in various wars; your mere presence would inspire and restore the morale of your army! Your people fondly remember your reign as the Golden Age of Serbia or the Age of Pericles in Serbia.[NEWLINE][NEWLINE]Oh magnificent King, rise once more to lead your people towards everlasting glory! Unfold a new chapter in Serbian history; bring it to new heights! Can you build a civilization that will stand the test of time? </Text>
+		</Row>
+
+		<!-- UNITS -->
+		<Row Tag="TXT_KEY_UNIT_DJSH_GVOZDENI_PUK">
+			<Text>Gvozdeni Puk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_DJSH_GVOZDENI_PUK_TEXT">
+			<Text>The Gvozdeni Puk, literally the 'Iron Regiment', was the most famous military unit of the Serbian army in the beginning of the 20th century. From 1912 to 1918 they served in various battles and wars, often succeeding despite the odds. They had success against major powers such as the Ottoman Empire and Austria-Hungary. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DJSH_GVOZDENI_PUK_STRATEGY">
+			<Text>Only the Serbians led by Peter I may build this unit. Starts with extra Experience (based on number of [ICON_CITIZEN] Citizens). Heals Hitpoints based on total amount of experience if there is a nearby enemy unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_DJSH_GVOZDENI_PUK">
+			<Text>Starts with extra Experience (based on number of [ICON_CITIZEN] Citizens). Heals Hitpoints based on total amount of experience if there is a nearby enemy unit.</Text>
+		</Row>
+
+		<!-- PROMOTIONS -->
+		<Row Tag="TXT_KEY_PROMOTION_DJSH_GVOZDENI_PUK">
+			<Text>Against All Odds</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DJSH_GVOZDENI_PUK_HELP">
+			<Text>Starts with extra Experience (based on number of [ICON_CITIZEN] Citizens). Heals Hitpoints based on total amount of experience if no [ICON_MOVES] Movement Points were expended that turn.</Text>
+		</Row>
+		
+		
+		<!-- IMPROVEMENTS -->
+		<Row Tag="TXT_KEY_BUILD_DJSH_PIJACA">
+			<Text>Construct a [LINK=IMPROVEMENT_DJSH_PIJACA]Pijaca[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_DJSH_PIJACA_HELP">
+			<Text>+1 [ICON_FOOD] Food after Fertilizer. Occasionally provides a [ICON_FOOD] Food Boost if next to a Bonus Resource (except [ICON_RES_STONE] Stone). There cannot be two adjacent Pijacas. Only buildable on Flatlands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_DJSH_PIJACA">
+			<Text>Pijaca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_DJSH_PIJACA_HELP">
+			<Text>+1 [ICON_FOOD] Food after Fertilizer. Occasionally provides a [ICON_FOOD] Food Boost if next to a Bonus Resource (except [ICON_RES_STONE] Stone). There cannot be two adjacent Pijacas. Only buildable on Flatlands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_DJSH_PIJACA_RECOMMENDATION">
+			<Text>It will increase the [ICON_FOOD] Food and [ICON_GOLD] Gold output of this Tile!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_DJSH_PIJACA_TEXT">
+			<Text>"Pijaca" literally refers to a greengrocery. Agriculture was one of the most important economic sectors of the Kingdom of Serbia; and remained important for its successor states. Such Pijacas were vital to the economy on a local scale.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

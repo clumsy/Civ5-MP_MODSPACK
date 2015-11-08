@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/2/2015 10:18:50 AM -->
+<GameData>
+	<EventsAddin_Support>
+		<Row>
+			<FileName>DJSHSerbia Peter I Events.lua</FileName>
+		</Row>
+	</EventsAddin_Support>
+	<Language_en_US>
+		<!-- Cultural Gatherings -->
+		<Row Tag="TXT_KEY_EVENT_DJSH_CULTURAL_GATHERINGS">
+			<Text>Cultural Gatherings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DJSH_CULTURAL_GATHERINGS_DESC">
+			<Text>
+				Several prominent figures are planning a number of cultural gatherings.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DJSH_CULTURAL_GATHERINGS_OUTCOME_1">
+			<Text>We should support them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DJSH_CULTURAL_GATHERINGS_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_Num} [ICON_GOLD] Gold.[ENDCOLOR][NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {2_Num} [ICON_CULTURE] Culture.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DJSH_CULTURAL_GATHERINGS_RESULT_1_NOTIFICATION">
+			<Text>The cultural gatherings received financial support.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DJSH_CULTURAL_GATHERINGS_OUTCOME_2">
+			<Text>We cannot afford to support them, but we can allow it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DJSH_CULTURAL_GATHERINGS_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_Num} [ICON_CULTURE] Culture.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DJSH_CULTURAL_GATHERINGS_RESULT_2_NOTIFICATION">
+			<Text>The cultural gatherings were allowed to take place.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_DJSH_CULTURAL_GATHERINGS">
+			<Text>Serbian scholars hosted various cultural gatherings.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

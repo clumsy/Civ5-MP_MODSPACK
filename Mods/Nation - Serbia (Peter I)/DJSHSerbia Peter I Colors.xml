@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/5/2013 1:27:40 PM -->
+<GameData>
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_DJSH_SERBIA_PETER_I</Type>
+			<PrimaryColor>COLOR_PLAYER_DJSH_SERBIA_PETER_I_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_DJSH_SERBIA_PETER_I_BACKGROUND</SecondaryColor>
+			<TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_DJSH_SERBIA_PETER_I_BACKGROUND</Type>
+			<Red>0.576</Red>
+			<Green>0.6353</Green>
+			<Blue>0.8196</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_DJSH_SERBIA_PETER_I_ICON</Type>
+			<Red>0.7882</Red>
+			<Green>0.3137</Green>
+			<Blue>0.3137</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+	</Colors>
+</GameData>
