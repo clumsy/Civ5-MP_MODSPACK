@@ -1635,6 +1635,21 @@ ContextPtr:LoadNewContext("Friendships")
 -- Nation - Serbia (Peter I) --
 ContextPtr:LoadNewContext("Peter I Functions")
 
+-- Nation - India Pack --
+ContextPtr:LoadNewContext("BarbarianAdjacentBonus")
+ContextPtr:LoadNewContext("BattleAdmiral")
+ContextPtr:LoadNewContext("CholaUA")
+ContextPtr:LoadNewContext("DummyPolicyTrait")
+ContextPtr:LoadNewContext("FaithPerPop")
+ContextPtr:LoadNewContext("FreeUnitQuantity")
+ContextPtr:LoadNewContext("ImmobileWhileDamaged")
+ContextPtr:LoadNewContext("IndiaUA")
+ContextPtr:LoadNewContext("MarathaTrait")
+ContextPtr:LoadNewContext("MauryaUA")
+ContextPtr:LoadNewContext("MughalUA")
+ContextPtr:LoadNewContext("PillarsofAshoka")
+ContextPtr:LoadNewContext("QilaCode")
+
 -- Misc - Events & Decisions --
 --ContextPtr:LoadNewContext("BuildingYieldFromCityStates")
 --ContextPtr:LoadNewContext("LuaEvents.PlayerEnteredNewEra")

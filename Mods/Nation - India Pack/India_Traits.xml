@@ -1,0 +1,108 @@
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_ARCHITECTURAL_MAJESTY</Type>
+			<Description>TXT_KEY_TRAIT_ARCHITECTURAL_MAJESTY</Description>
+			<ShortDescription>TXT_KEY_TRAIT_ARCHITECTURAL_MAJESTY_SHORT</ShortDescription>
+		</Row>
+		<Row>
+			<Type>TRAIT_ADNYAPATRA</Type>
+			<Description>TXT_KEY_TRAIT_ADNYAPATRA</Description>
+			<ShortDescription>TXT_KEY_TRAIT_ADNYAPATRA_SHORT</ShortDescription>
+			<DummyPolicy>POLICY_CONSCRIPTION</DummyPolicy>
+			<FreeUnit>UNITCLASS_MUSKETMAN</FreeUnit>
+			<FreeUnitPrereqTech>TECH_GUNPOWDER</FreeUnitPrereqTech>
+			<NumFreeUnits>2</NumFreeUnits>
+		</Row>
+		<Row>
+			<Type>TRAIT_SAMAYAN_TRADE_GUILDS</Type>
+			<Description>TXT_KEY_TRAIT_SAMAYAN_TRADE_GUILDS</Description>
+			<ShortDescription>TXT_KEY_TRAIT_SAMAYAN_TRADE_GUILDS_SHORT</ShortDescription>
+		</Row>
+		<Row>
+			<Type>TRAIT_CHAKRAVARTIN</Type>
+			<Description>TXT_KEY_TRAIT_CHAKRAVARTIN</Description>
+			<ShortDescription>TXT_KEY_TRAIT_CHAKRAVARTIN_SHORT</ShortDescription>
+		</Row>
+		<Update>
+			<Where Type="TRAIT_POPULATION_GROWTH"/>
+			<Set CityUnhappinessModifier="0"/>
+		</Update>
+	</Traits>
+	<!--Maratha trait stuff-->
+	<Policies>
+		<Row>
+			<Type>POLICY_CONSCRIPTION</Type>
+			<Description>TXT_KEY_POLICY_FREE_RELIGION</Description>
+			<Civilopedia>TXT_KEY_POLICY_FREERELIGION_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_FREE_RELIGION_HELP</Help>
+			<GridX>1000</GridX>
+			<GridY>1000</GridY>
+			<PortraitIndex>47</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+		</Row>
+	</Policies>
+	<UnitClasses>
+		<Row>
+			<Type>UNITCLASS_CONSCRIPTION</Type>
+			<Description>TXT_KEY_UNIT_CONSCRIPTION</Description>
+			<DefaultUnit>UNIT_CONSCRIPTION</DefaultUnit>
+		</Row>
+	</UnitClasses>
+	<Units>
+		<Row>
+			<Class>UNITCLASS_CONSCRIPTION</Class>
+			<Type>UNIT_CONSCRIPTION</Type>
+			<Moves>0</Moves>
+			<Cost>1</Cost>
+			<CivilianAttackPriority>CIVILIAN_ATTACK_PRIORITY_HIGH</CivilianAttackPriority>
+			<Domain>DOMAIN_LAND</Domain>
+			<PurchaseOnly>true</PurchaseOnly>
+			<Description>TXT_KEY_UNIT_CONSCRIPTION</Description>
+			<Civilopedia>TXT_KEY_UNIT_CONSCRIPTION</Civilopedia>
+			<ShowInPedia>false</ShowInPedia>
+			<Strategy>TXT_KEY_UNIT_CONSCRIPTION</Strategy>
+			<Requirements>TXT_KEY_NO_ACTION_SETTLER_SIZE_LIMIT_HARDCODED</Requirements>
+			<Help>TXT_KEY_UNIT_CONSCRIPTION_HELP</Help>
+			<Food>true</Food>
+			<Combat>30</Combat>
+			<UnitArtInfo>ART_DEF_UNIT_WARRIOR</UnitArtInfo>
+			<UnitFlagIconOffset>0</UnitFlagIconOffset>
+			<IconAtlas>CITIZEN_ATLAS</IconAtlas>
+			<PolicyType>POLICY_CONSCRIPTION</PolicyType>
+			<PortraitIndex>0</PortraitIndex>
+		</Row>
+	</Units>
+	<Unit_Flavors>
+		<Row>
+			<UnitType>UNIT_CONSCRIPTION</UnitType>
+			<FlavorType>FLAVOR_RECON</FlavorType>
+			<Flavor>1</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CONSCRIPTION</UnitType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>1</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_CONSCRIPTION</UnitType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>1</Flavor>
+		</Row>
+	</Unit_Flavors>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_UNIT_CONSCRIPTION">
+			<Text>[COLOR_POSITIVE_TEXT]Conscript Citizens[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CONSCRIPTION_HELP">
+			<Text>Allows you to [COLOR_POSITIVE_TEXT]expend 2 [ICON_CITIZEN] Citizens[ENDCOLOR] and some gold to earn a military unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOCONSCRIPTION_NOTIFICATION_TITLE">
+			<Text>Can't Conscript</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NOCONSCRIPTION_NOTIFICATION">
+			<Text>The city doesn't have enough citizens for conscripting a military unit</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_CROUCHING_TIGER_HIDDEN_COURTHOUSE</Type>
+			<DefaultBuilding>BUILDING_CROUCHING_TIGER_HIDDEN_COURTHOUSE</DefaultBuilding>
+		</Row>
+	</BuildingClasses>
+</GameData>

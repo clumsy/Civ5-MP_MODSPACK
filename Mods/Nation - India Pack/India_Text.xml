@@ -1,0 +1,1473 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Pouakai -->
+<GameData>
+	<Language_en_US>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- Unique Units- - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- Mughal Farsakh Cannon-->
+		<Row Tag="TXT_KEY_UNIT_MUGHAL_FARSAKH_CANNON">
+			<Text>Farsakh Cannon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MUGHAL_FARSAKH_CANNON_HELP">
+			<Text>Devastatingly powerful Renaissance Era siege unit. Only the Mughals may build it. Must set up prior to firing. Vulnerable to melee attacks, and cannot move while damaged.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MUGHAL_FARSAKH_CANNON_STRATEGY">
+			<Text>The Farsakh Cannon is the Mughal unique unit, replacing the Cannon. Like the Cannon it has limited visibility and must set up (1 mp) to attack. Although extremely expensive, Farsakh Cannons have incredibly high Ranged Combat strength. They are vulnerable to melee attacks and become immobile while damaged. Keep them well protected and they will be an invaluable asset on the field.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MUGHAL_FARSAKH_CANNON_CIVILOPEDIA">
+			<Text>Other than founding the Mughal Empire, one of Babur's many achievements was the introduction of artillery on a large scale into India early in the 16th century. As the first battle of Panipat in 1526 has shown, massed cannon fire proved to be both terrifying and decisive. From that point on, the Mughals have become the unquestionable masters of artillery in the Subcontinent. Farsakh Cannons were the embodiment of Mughal pursuit of the best and most beautiful guns in the world. These enormous pieces of ordnance were capable of firing 50-pound (23 kilogram) lead balls at a distance of one farsakh - roughly 4 miles, or 6 kilometres. The cannons were regarded as pieces of art, lavishly decorated with gold ornaments and inscriptions, and were even given names. However, despite all the potency and beauty of these weapons, moving them into position was slow and arduous and required dozens of oxen or even elephants to pull them around. </Text>
+		</Row>
+		<!--Maratha Sepoy-->
+		<Row Tag="TXT_KEY_UNIT_MARATHA_SEPOY">
+			<Text>Sepoy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MARATHA_SEPOY_HELP">
+			<Text>Cheaper and weaker Musketman replacement. Only the Maratha may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MARATHA_SEPOY_STRATEGY">
+			<Text>The Sepoy is a Marathi unique unit, replacing the Musketman. Although less powerful than the Musketman, it is also less expensive, allowing them to be produced more quickly and in greater numbers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MARATHA_SEPOY_CIVILOPEDIA">
+			<Text>Sepoy (from Persian "sipahi" meaning "soldier") was a general term given to native Indian infantrymen within the armies of the Maratha, the Mughals and the kingdom of Mysore. Sepoy regiments were usually armed with matchlock muskets, rockets and grenades, in a fashion slightly akin to European-style line infantry of the 18th century - even though they lacked the uniformity of the armies of the West. European colonial companies in India also employed sepoys as their main fighting force in the area. Those soldiers would continue their service well into the 19th century, and some regiments within the British Army fought in France during World War 1. Later, sepoys would provide a base on which modern Indian army was built after the Subcontinent regained its independence. Famous sepoy military formations still exist - like the Maratha Light Infantry regiment, formed in 1768 and active to this day.</Text>
+		</Row>
+		<!--Maratha Pindari-->
+		<Row Tag="TXT_KEY_UNIT_MARATHA_PINDARI">
+			<Text>Pindari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MARATHA_PINDARI_HELP">
+			<Text>Lancer replacement with bonuses against Gunpowder units. Only the Maratha may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MARATHA_PINDARI_STRATEGY">
+			<Text>The Pindari are a Marathi unique unit, replacing Lancers. In addition to the normal bonuses received by Lancers, Pindari also get bonuses against Gunpowder units, making them significantly more useful.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MARATHA_PINDARI_CIVILOPEDIA">
+			<Text>The Pindari, also known as the Free Companions, were bands of warriors and horsemen from various Indian tribes, whose main purpose was to raid and plunder enemy territory. They emerged as a potent military force during the 18th century, at the time of decline of the Mughal Empire. Loosely organized and commanded by self-chosen leaders, the Pindaris often found themselves under the patronage of wealthy Maratha dynasties. They would prove their mettle when the Maratha clashed with the British East India Company in early 19th century. Up to 30.000 horsemen would gather every year in November and ride off to ravage British-held territory. A retaliatory campaign was mounted by the British in 1817, which would soon escalate into open war. This conflict, known as the Third Anglo-Maratha War, would end not only the Pindari, but also the Maratha Empire itself. </Text>
+		</Row>
+		<!--Indian Gurkha-->
+		<Row Tag="TXT_KEY_UNIT_INDIAN_GURKHA">
+			<Text>Gurkha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_INDIAN_GURKHA_HELP">
+			<Text>Stronger and more expensive than the Great War Infantry, which it replaces. Receives a bonus when fighting outside friendly territory</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_INDIAN_GURKHA_STRATEGY">
+			<Text>The Gurkha is an elite Infantry unit unique to India. Although it is more expensive than the Great War Infantry, the Gurkha is stronger, and recieves a bonus when fighting outside of friendly territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_INDIAN_GURKHA_CIVILOPEDIA">
+			<Text>The Gurkhas are a people native to mountainous Nepal and Gorkhaland region of India. Famed for their bravery, fearlessness and disregard for death, they impressed British military commanders as early as in 1814, during the Gurkha War waged by the East India Company against Nepal. In 1815, even before the war ended, the first regiment of Gurkhas was formed within the British Indian army. Throughout 19th and well into the 20th century, the Gurkhas remained loyal to the British crown, despite wars and numerous Indian rebellions. They fought in both World Wars as a part of the British Army, where they formed fifteen rifle regiments. They were widely admired for their ability to withstand any hardship and feared of their skill with the deadly khukuri knife. Gurkha regiments remain in service to this day.</Text>
+		</Row>
+		<!--Chola Thalai-Thirvai-->
+		<Row Tag="TXT_KEY_UNIT_CHOLA_THALAI_THIRVAI">
+			<Text>Thalai-Thirvai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CHOLA_THALAI_THIRVAI_HELP">
+			<Text>Unique Chola Great Admiral capable of fighting alongside your other Naval units. Becomes more powerful as you gain more advanced Technology.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CHOLA_THALAI_THIRVAI_STRATEGY">
+			<Text>The Thalai-Thirvai is a unique Great Admiral replacement. Unlike the standard Great Admiral, the Thalai-Thirvai is a combat unit; capable of fighting alongside your other Naval units. The Thalai-Thirvai will become more powerful as you gain more advanced Technology.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CHOLA_THALAI_THIRVAI_CIVILOPEDIA">
+			<Text>Admirals of the Chola Navy held many ranks within its highly organized administration. One of the most important offices was the Thalai (head) Thirvai (duty), the overseer of the customs department which was mainly responsible for trade and tariffs. This unit of Chola bureaucracy employed only the best merchants and professional economists of the empire, tasked with calculating duties and other financial obligations of trade partners. They also assessed the prices of commodities, depending on seasons and trade route length. Other arms of Chola customs force included intelligence corps, armed naval vessels tasked with police duties, a coast guard and even privateer squads</Text>
+		</Row>
+		<!--Chola Kadatpadai-->
+		<Row Tag="TXT_KEY_UNIT_CHOLA_KADATPADAI">
+			<Text>Kadatpadai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CHOLA_KADATPADAI_HELP">
+			<Text>Only the Chola may build this unit. It receives extra [ICON_STRENGTH] Combat Strength adjacent to Barbarian units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CHOLA_KADATPADAI_STRATEGY">
+			<Text>The Kadatpadai is the Chola Caravel replacement. It receives extra [ICON_STRENGTH] Combat Strength adjacent to Barbarian units; ensuring safe travel in foreign seas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_CHOLA_KADATPADAI_CIVILOPEDIA">
+			<Text>Kadatpadai is a collective term for the entirety of Chola navy. While it was of great importance to the Cholas from the very beginning, it had to wait until the empire's rejuvenation in 9th century AD, when the fleet's true potential was discovered, and the number of ships greatly increased. Vital to commerce and expansion, Chola navy was employed in a variety of roles - from protecting trade routes and performing diplomatic missions up to combatting rampant Sri Vijaya piracy and securing the empire's interests via force and intimidation, in a fashion not unlike that of „gunboat diplomacy”. Upon contact with the Chinese in 11th century along came cooperation – the fleet enjoyed new ship designs, mixing Indian and Chinese elements to provide the navy with highly specialized vessels. As the empire's splendour grew, so did the position of Chola Admirals, who became highly esteemed members of the society. </Text>
+		</Row>
+		<!--Mauryan War Elephant-->
+		<Update>
+			<Set Text="A fast Ranged Unit highly effective on flat ground. Only Maurya may build it. This Unit has a higher [ICON_STRENGTH] Combat and Ranged Strength than the Chariot Archer, which it replaces."/>
+			<Where Tag="TXT_KEY_UNIT_HELP_INDIAN_WAR_ELEPHANT"/>
+		</Update>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- Unit Promotions - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<Row Tag="TXT_KEY_PROMOTION_BATTLE_ADMIRAL_0">
+			<Text>Battle Admiral</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BATTLE_ADMIRAL_0_HELP">
+			<Text>This Great Admiral may Attack and Defend itself.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BATTLE_ADMIRAL_1">
+			<Text>Battle Admiral [COLOR_YIELD_GOLD]Level 1[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BATTLE_ADMIRAL_1_HELP">
+			<Text>Combat Bonus Boost after learning the secrets of Sailing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BATTLE_ADMIRAL_2">
+			<Text>Battle Admiral [COLOR_YIELD_GOLD]Level 2[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BATTLE_ADMIRAL_2_HELP">
+			<Text>Combat Bonus Boost after learning the secrets of Astronomy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BATTLE_ADMIRAL_3">
+			<Text>Battle Admiral [COLOR_YIELD_GOLD]Level 3[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BATTLE_ADMIRAL_3_HELP">
+			<Text>Combat Bonus Boost after learning the secrets of Navigation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BATTLE_ADMIRAL_4">
+			<Text>Battle Admiral [COLOR_YIELD_GOLD]Level 4[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BATTLE_ADMIRAL_4_HELP">
+			<Text>Combat Bonus Boost after learning the secrets of Military Science.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BATTLE_ADMIRAL_5">
+			<Text>Battle Admiral [COLOR_YIELD_GOLD]Level 5[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BATTLE_ADMIRAL_5_HELP">
+			<Text>Combat Bonus Boost after learning the secrets of Electricity. This is the Final Level.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_IMMOBILE_WHILE_DAMAGED">
+			<Text>Immobile While Damaged</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_IMMOBILE_WHILE_DAMAGED_HELP">
+			<Text>May only move at full health</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ADJACENT_BARBARIAN">
+			<Text>Bonus vs. Barbarians</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ADJACENT_BARBARIAN_HELP">
+			<Text>Receives a combat strength boost of +3 when fighting a barbarian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BONUS_VS_GUNPOWDER">
+			<Text>Bonus vs. Gunpowder (25)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BONUS_VS_GUNPOWDER_HELP">
+			<Text>Receives a +25% boost when fighting gunpowder units</Text>
+		</Row>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- Unique Buildings- - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--Mauryan Pillar of Ashoka-->
+		<Row Tag="TXT_KEY_BUILDING_MAURYAN_PILLAR_OF_ASHOKA">
+			<Text>Pillar of Ashoka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MAURYAN_PILLAR_OF_ASHOKA_HELP">
+			<Text>Converts 75% of the city's population to your religion. Eliminates all [ICON_HAPPINESS_3] Unhappiness from occupied cities</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MAURYAN_PILLAR_OF_ASHOKA_PEDIA">
+			<Text>During and after his many conquests, the Mauryan king Ashoka ordered the construction of numerous stone pillars across India. Those columns were between 12 to 15 metres high (40 to 50 feet) and were adorned with animal capitals, mostly with images of stylised lions. Also, the pillars were carved with inscriptions bearing the Edicts of Ashoka. The Edicts were the king's view of Dhamma, a set of social and religious rules, guidelines and policies. 3rd century BC brought the emergence of Buddhism, common use of iron and migration of rural populace into cities – those and more events thoroughly transformed Indian society. Ashoka's edicts, based on Buddhist thought, were aimed at providing solutions to growing internal problems, as well as at documenting the spread of Buddhism – both in India and beyond. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MAURYAN_PILLAR_OF_ASHOKA_STRATEGY">
+			<Text>Unlike the Courthouse which it replaces, the Pillars of Ashoka can be built in any city. It costs less maintenance and provides [ICON_PEACE] Faith, and will also convert 75% of the city's population to your Religion. Use it to strengthen and spread your Religion throughout the empire. Only the Maurya may build it.</Text>
+		</Row>
+		<!--Indian Mandir-->
+		<Row Tag="TXT_KEY_BUILDING_INDIAN_MANDIR">
+			<Text>Mandir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_INDIAN_MANDIR_HELP">
+			<Text>+1 [ICON_PEACE] Faith for every 2 [ICON_CITIZEN] Citizen in the city</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_INDIAN_MANDIR_PEDIA">
+			<Text>A Mandir is a Hinduist or Jainist temple. The word comes from the Sanskrit ‘mandira', which means ‘house', ‘palace' or ‘temple'. Hundreds of mandirs are spread throughout India and Southeast Asia, where they are called Candi or Wat, amongst other names. A single mandir is often dedicated to a single deity. A brightly decorated altar of the god or goddess is the centre of the temple, where people come to worship and meditate. In some religious complexes there are many individual shrines placed over a larger area, forming one mandir; in others multiple shrines are part of one building. Such temples would often be accompanied by a well or pool of water, where ritual bathing takes place, required before any prayer. One of the most famous and largest mandirs is the Prambanan temple in Indonesia, made of stone in 9th century AD.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_INDIAN_MANDIR_STRATEGY">
+			<Text>In addition to the +2 [ICON_PEACE] Faith provided by the Temple which it replaces, the Mandir also provides +1 [ICON_PEACE] Faith for every 2 [ICON_CITIZEN] Citizens in the city. This building will be extremely useful in accumulating [ICON_PEACE] Faith through the ages, especially in tall empires. Only India may build it</Text>
+		</Row>
+		<!--Mughal Qila-->
+		<Update>
+			<Set Text="Qila"/>
+			<Where Tag="TXT_KEY_BUILDING_MUGHAL_FORT_DESC"/>
+		</Update>
+		<Update>
+			<Set Text="The Qila is a Medieval-era building. It is the Indian unique building, replacing the Castle. The Qila improves the city's Defensive strength and provides some [ICON_CULTURE] Culture every turn. After Flight is learned, it provides a [ICON_GOLD] Gold bonus to the city as well.  Building Walls is a prerequisite for building the Qila."/>
+			<Where Tag="TXT_KEY_BUILDING_MUGHAL_FORT_STRATEGY"/>
+		</Update>
+		<Update>
+			<Set Text="Qila"/>
+			<Where Tag="TXT_KEY_CIV5_BUILDINGS_MUGHALFORT_HEADING"/>
+		</Update>
+		<Update>
+			<Set Text="Provides +2 [ICON_TOURISM] Tourism after Flight is researched.[NEWLINE][NEWLINE]Provides +1 [ICON_GOLDEN_AGE] Golden Age point for every two wonders and 1 for every four buildings in the city. [NEWLINE][NEWLINE]Contains one slot for a Great Work of Art. City must have Walls."/>
+			<Where Tag="TXT_KEY_BUILDING_MUGHAL_FORT_HELP"/>
+		</Update>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- Dawn of Man - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_MUGHAL_TEXT">
+			<Text>May the blessings of god be upon you, O great Akbar, Emperor of the Mughal Empire! You are the bloodline of Timur, oh he of whom tales of glory are known and songs are sung the world over!  You live up to and exceed the reputation of your forefathers, for it was under your rule that the Mughal Empire extended its borders far beyond that which it had yet achieved, bringing the majority of the Indian subcontinent under your rule through a series of devastating military campaigns in which you were undefeated, using weapons at the forefront of technological achievement. Truly did you earn the epithet "the Great"! [NEWLINE][NEWLINE]Yet the achievements of the Mughals were not limited to the field of battle. Your people were innovators, building engineering marvels the likes of which the world had never seen: impregnable fortresses, monuments to love, and temples of science. These wonders of architecture lasted long after the fall of the empire, and have remained testament to the ability and legacy of the Mughal Empire for centuries, remaining unchanged while the land around them passed through the control of several powers – each reminded of the achievements of you, oh Emperor![NEWLINE][NEWLINE]Akbar! The people of India cry out to you! They yearn for your leadership to usher them into a new golden age! Will you answer their call and take to the field of battle once more? Can you restore the Mughal Empire to her former glory? Can you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_MARATHA_TEXT">
+			<Text>Mighty Shivaji Bhosale, the Maratha Empire awaits your command! Under your leadership the Maratha Empire was founded, growing from an enclave of the Sultanate of Bijapur to a powerful state that would successfully challenge the famed Mughal Empire; ending its era of supremacy over India. This empire would remain the pre-eminent power in India for centuries to come. King Shivaji, your innovative military tactics allowed the fledgling empire you founded to successfully triumph over greater foes. This, in concert with your actions to reinstate ancient Hindu political traditions and court conventionsm as well as ending the use of the foreign Persian language in court, have earned you an honoured place in the annals of Indian history.[NEWLINE][NEWLINE]Chhatrapati Shivaji Maharaj! Your armies stand ready for you to lead them. Will the Maratha Empire once again dominate under your firm guidance? Will your people once again prosper? Can you build a civilization to stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_CHOLA_TEXT">
+			<Text>All hail Raja Raja of the Chola Dynasty! May your empire ever prosper! Raja Raja, your nation was a great one; stretching from the Tungabhadra River downwards to the Indian Ocean. Her Kings were great patrons of Tamil culture, resulting in many temples and works of literature which stand testament to the empire's grandeur. The Chola Navy was a true wonder, having grown from a small backwater entity to that of a potent power projection and diplomatic symbol in all of Asia. Raja Raja! Your leadership saw your empire expand and grow; it saw your armies and navies dominate India. Your military campaigns brought the nations around you under your command.[NEWLINE][NEWLINE]Mighty Emperor! The time has come for you to return the Chola Empire to greatness. Your armies and navies stand ready. Will you take charge and lead them to glory? Will you build a civilization to stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_MAURYA_TEXT">
+			<Text>May you be blessed with peace and happiness Great Ashoka of the Maurya Dynasty! O Ashoka; at your feet lies the mighty Mauryan Empire; the largest nation of its age. After its foundation in 322 BC, the empire rapidly expanded; crushing the Satraps of Alexander's Empire. The fledging nation continued to grow, eventually encompassing nearly the entirety of the Indian Subcontinent. Ashoka, Emperor of Emperors, under your rule your empire waged bloody wars against neighbouring lands, bringing them under Mauryan rule. In the wake of these wars, you saw the pain your actions had caused and converted to Buddhism in repentance; spreading the religion throughout Asia and beyond, and cementing your place in history as one of the greatest monarchs the world has ever seen.[NEWLINE][NEWLINE]Samraat Chakravartin Ashoka! Shall you once again lead your empire to expand and grow? Will you once again bring the petty nations around you under your wise guidance? Will you build a Civilization to stand the test of time?</Text>
+		</Row>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- Unique Abilities- - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<Row Tag="TXT_KEY_TRAIT_ARCHITECTURAL_MAJESTY_SHORT">
+			<Text>Architectural Majesty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_ARCHITECTURAL_MAJESTY">
+			<Text>During [ICON_GOLDEN_AGE] Golden Ages every 2 Buildings provide +1 [ICON_PRODUCTION] Production and Wonders provide +3 [ICON_CULTURE] Culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_ADNYAPATRA_SHORT">
+			<Text>Adnyapatra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_ADNYAPATRA">
+			<Text>May expend citizens to purchase infantry units. Upon the discovery of Gunpowder, receive 2 free Sepoys.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SAMAYAN_TRADE_GUILDS_SHORT">
+			<Text>Samayan Trade Guilds</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SAMAYAN_TRADE_GUILDS">
+			<Text>Domestic Trade routes yield +1 [ICON_GOLD] Gold. Trade Routes with City-States generate Great Admiral points and influence with the City-State (this does not suspend influence decay). Bonuses doubled for Naval trade routes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TP_CHOLA_GOLD">
+			<Text>{1_Gold} from Domestic Trade Routes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CHAKRAVARTIN_SHORT">
+			<Text>Chakravartin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_CHAKRAVARTIN">
+			<Text>Upon making peace, receive [ICON_CULTURE] Culture per turn from followers of your religion. The bonus increases with the number of cities captured in the previous war. The bonus is lost and reset on capturing a city or declaring war.</Text>
+		</Row>
+		<Update>
+			<Set Text="Mother Ganges"/>
+			<Where Tag="TXT_KEY_TRAIT_POPULATION_GROWTH_SHORT"/>
+		</Update>
+		<Update>
+			<Set Text="[ICON_HAPPINESS_4] Unhappiness from number of [ICON_CITIZEN] Citizens halved. Cities adjacent to rivers recieve +5% growth for every religion present in the city"/>
+			<Where Tag="TXT_KEY_TRAIT_POPULATION_GROWTH"/>
+		</Update>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- Denonyms- - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+
+		<Row Tag="TXT_KEY_MUGHAL_DESC">
+			<Text>Mughal Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MUGHAL_SHORT_DESC">
+			<Text>The Mughals</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_MUGHAL_ADJECTIVE">
+			<Text>Mughal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MARATHA_DESC">
+			<Text>Maratha Confederacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MARATHA_SHORT_DESC">
+			<Text>Maratha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MARATHA_ADJECTIVE">
+			<Text>Marathi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOLA_DESC">
+			<Text>Chola Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOLA_SHORT_DESC">
+			<Text>Chola</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CHOLA_ADJECTIVE">
+			<Text>Chola</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAURYA_DESC">
+			<Text>Maurya Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAURYA_SHORT_DESC">
+			<Text>Maurya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MAURYA_ADJECTIVE">
+			<Text>Mauryan</Text>
+		</Row>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- Unit name lists - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--Thalai-Thirvai-->
+		<Row Tag="TXT_KEY_THALAI_THIRVAI_MEI_SEMBIYAN">
+			<Text>Mei Sembiyan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THALAI_THIRVAI_NANNAN_THAGAN">
+			<Text>Nannan Thagan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THALAI_THIRVAI_PARU_VENDHI">
+			<Text>Paru Vendhi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THALAI_THIRVAI_VADI_VAELAAN">
+			<Text>Vadi Vaelaan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THALAI_THIRVAI_ERI_PUNGI">
+			<Text>Eri Pungi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THALAI_THIRVAI_VAET_THAGAIYAN">
+			<Text>Vaet Thagaiyan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THALAI_THIRVAI_AAI_MAANDHI">
+			<Text>Aai Maandhi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THALAI_THIRVAI_KAARI_VENDHI">
+			<Text>Kaari Vendhi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THALAI_THIRVAI_MONDHUVAN_MONJUVAN">
+			<Text>Mondhuvan Monjuvan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THALAI_THIRVAI_UDHAN_POGUVAN">
+			<Text>Udhan Poguvan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THALAI_THIRVAI_MUSUKUNTHAN_JEMBIYAN">
+			<Text>Musukunthan Jembiyan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THALAI_THIRVAI_NEDUMI_CENNI">
+			<Text>Nedumi Cenni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THALAI_THIRVAI_NALNGILLI_ELLAGAN">
+			<Text>Nalngilli Ellagan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THALAI_THIRVAI_NEDUNGOP_PERUNKILLI">
+			<Text>Nedungop Perunkilli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THALAI_THIRVAI_KOPPERUN_CHOZHAN">
+			<Text>Kopperun Chozhan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THALAI_THIRVAI_MAEYAN_PORVAIKO">
+			<Text>Maeyan Porvaiko</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THALAI_THIRVAI_AMBALATHU_VENGAIYAR">
+			<Text>Ambalathu Vengaiyar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_THALAI_THIRVAI_AAI_UTTAMATHAIRAYAR">
+			<Text>Aai Uttamathairayar</Text>
+		</Row>
+		<!--Farsakh Cannon-->
+		<Row Tag="TXT_KEY_FARSAKH_CANNON_GHAZI_KHAN">
+			<Text>Ghazi Khan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FARSAKH_CANNON_SHER_DAHAN">
+			<Text>Sher Dahan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FARSAKH_CANNON_KISHWAR_KUSHAE">
+			<Text>Kishwar Kushae</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FARSAKH_CANNON_GARH_BHANJAN">
+			<Text>Garh Bhanjan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FARSAKH_CANNON_FATH_I_LASHKAR">
+			<Text>Fath i Lashkar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FARSAKH_CANNON_AURANGBAR">
+			<Text>Aurangbar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FARSAKH_CANNON_BURJ_SHIKAN">
+			<Text>Burj Shikan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FARSAKH_CANNON_JAHAN_KUSHA">
+			<Text>Jahan Kusha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FARSAKH_CANNON_ALAM_SITAN">
+			<Text>Alam Sitan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FARSAKH_CANNON_ATASH_DAHAN">
+			<Text>Atash Dahan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FARSAKH_CANNON_QILAH_KUSHAE">
+			<Text>Qilah Kushae</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FARSAKH_CANNON_MARYAM">
+			<Text>Maryam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FARSAKH_CANNON_MALIK_I_MAIDAN">
+			<Text>Malik i Maidan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FARSAKH_CANNON_UPARI_BURJ">
+			<Text>Upari Burj</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FARSAKH_CANNON_MALUK_JUFT">
+			<Text>Maluk Juft</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FARSAKH_CANNON_LAMCHHARRI">
+			<Text>Lamchharri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FARSAKH_CANNON_ZAMZAMAH">
+			<Text>Zamzamah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FARSAKH_CANNON_KOHSHIKAN">
+			<Text>Kohshikan</Text>
+		</Row>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- Spy Names - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--Mughal-->
+		<Row Tag="TXT_KEY_SPY_NAME_MUGHAL_0">
+			<Text>Zahir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MUGHAL_1">
+			<Text>Babur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MUGHAL_2">
+			<Text>Jalal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MUGHAL_3">
+			<Text>Faaiz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MUGHAL_4">
+			<Text>Qutb</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MUGHAL_5">
+			<Text>Humayun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MUGHAL_6">
+			<Text>Mirza</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MUGHAL_7">
+			<Text>Muhy</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MUGHAL_8">
+			<Text>Shere</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MUGHAL_9">
+			<Text>Gauhar</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--Maratha-->
+		<Row Tag="TXT_KEY_SPY_NAME_MARATHA_0">
+			<Text>Gangale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MARATHA_1">
+			<Text>Akhil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MARATHA_2">
+			<Text>Jagjal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MARATHA_3">
+			<Text>Etkhade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MARATHA_4">
+			<Text>Dhul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MARATHA_5">
+			<Text>Umli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MARATHA_6">
+			<Text>Tarabai</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MARATHA_7">
+			<Text>Chakol</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MARATHA_8">
+			<Text>Shahane</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MARATHA_9">
+			<Text>Bawankar</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--Chola-->
+		<Row Tag="TXT_KEY_SPY_NAME_CHOLA_0">
+			<Text>Uttamacola</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHOLA_1">
+			<Text>Cakkaravattikal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHOLA_2">
+			<Text>Tiruman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHOLA_3">
+			<Text>Nerkunran</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHOLA_4">
+			<Text>Kannuva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHOLA_5">
+			<Text>Amutan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHOLA_6">
+			<Text>Cani</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHOLA_7">
+			<Text>Periyanacci</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHOLA_8">
+			<Text>Uyakkon</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CHOLA_9">
+			<Text>Sadgata</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--Maurya-->
+		<Row Tag="TXT_KEY_SPY_NAME_MAURYA_0">
+			<Text>Janamejaya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAURYA_1">
+			<Text>Vaisampayana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAURYA_2">
+			<Text>Arjuna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAURYA_3">
+			<Text>Bhishma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAURYA_4">
+			<Text>Ashvattama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAURYA_5">
+			<Text>Yudhisthira</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAURYA_6">
+			<Text>Dritharashtra</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAURYA_7">
+			<Text>Saraswati</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAURYA_8">
+			<Text>Sadhvi</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MAURYA_9">
+			<Text>Kali</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- Civilization Pedias - - - - - - - - - - - - - - - - - - - - -->
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--Mughal-->
+		<Row Tag="TXT_KEY_MUGHAL">
+			<Text>The Mughals</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MUGHAL_TITLE">
+			<Text>The Mughals</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MUGHAL_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MUGHAL_TEXT_1">
+			<Text>The Mughal Empire was a Persianate empire that grew to rule very nearly the entire Indian subcontinent at its peak, stretching from Bengal in the east to Kabul in the west, from Kashmir in the north to Kaveri in the south. The emperors of the Mughal came from Uzbekistan, claiming descendancy from both Genghis Khan and Timur; two of the world's most successful and well known warlords. The Mughals brought about Persian culture and architecture into medieval India, the golden age of the empire saw the creation of many buildings with the Persian and Mughal influences; most notable are the Taj Mahal and Moti Masjid in Agra. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MUGHAL_HEADING_2">
+			<Text>Terrain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MUGHAL_TEXT_2">
+			<Text>At its peak the Mughals controlled most of the subcontinent and parts of neighboring Nepal and Afghanistan. Much of the Indian terrain is a flat plain with tropical and sub-tropical regions covering much of the plain and the base of the mountain ranges.[NEWLINE][NEWLINE]The north of the subcontinent is quite different; jagged and mountainous. The Himalayas that border Asia from the subcontinent have souring mountains so high that the region is often called the 'Roof of the World'. The west of the empire is a hilly desert with sparse plant life and few sources of water.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MUGHAL_HEADING_3">
+			<Text>Landless Leader</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MUGHAL_TEXT_3">
+			<Text>At the young age of 12 Zahir ud-din Muhammad Babur spent much of his life in exile and without shelter from his uncles, they have made continuous attempts to dislodge him as the ruler of Farghana. In 1497 Babur saw a great deal of bad luck while besieging Samarkand, despite his capturing of the city a rebellion between the nobles stole Farghana from his control. Then as Babur marched to return and reclaim the land his troops deserted in Samarkand, leaving him with no land to rule over. Four years later he again attempted the conquest of Sarmarkand, this time failing in the battle against the Khan of the Uzbeks - Muhammad Shaybani. For three years after Babur and his band of followers sought to build a strong army, recruiting amongst others mostly the Tajiks of Badakhshan. By 1504 he crossed the Hindu Kush mountains and captured Kabul, doing so earned him a new kingdom to settle into and a re-establishment of his fortunes and the title of Padshah; the next year saw him reunite with a Timurid relative and scheme with him to fight against the Uzbek Khan, but the death of the relative delayed the undertaking and the diminishing resources caused Babur to leave Herat.[NEWLINE][NEWLINE]A rebellion erupted in Kabul causing Babur to return and quash the uprising, but after just two years another revolt among his generals drove him out of Kabul with dwindling companions. Babur returned to reclaim Kabul and regaining the allegiance of the rebels. During this, in 1510, Babur's bitter rival Muhammad Shaybani fell in combat against Shah Ismail I of Shia Safavid Persia; upon hearing this Babur used this to strike a partnership with Ismail and reconquer his former lands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MUGHAL_HEADING_4">
+			<Text>Formation of the Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MUGHAL_TEXT_4">
+			<Text>The partnership was solid but the conquest proved ineffective; writing in retrospect Babur suggested his failing to capture Samarkand was the greatest gift Allah gave to him, Babur also resigned all hope of recovering Farghana. While fearing an invasion from the Uzbeks he drew his attention to the east, especially to the rich land of the Delhi Sultanate of India. Claiming to be the true monarch of the lands of the Lodi dynasty Babur believed he was the rightful heir to the throne of Timur. The reigning sultan Ibrahim Lodi ousted the Sayyid dynasty, a dynasty with an indirect link to Timur, Babur sought to restore it to the Timurids. While in no rush to launch a full scale invasion Babur made several incursions against the Lodi and seized Kandahar in the process, the occupation however lasted nearly three years as the city and its citadel were taken.[NEWLINE][NEWLINE]Babur's allies advised him to ally with the powerful Janjua Rajputs to join his conquest. The Janjua were known for their rebellion against the throne of Delhi and their support of Timur during his conquests. Babur aided the Janjua against their enemy and gained their alliance against the Lodi. The First Battle of Panipat saw the victory of Babur in destroying the Lodi dynasty and from that founded a new dynasty in the region, the Mughal dynasty.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MUGHAL_HEADING_5">
+			<Text>Declination During the Interim</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MUGHAL_TEXT_5">
+			<Text>Babur's son Humayun became the next Mughal ruler in 1530 but suffered many reversals at the hand of Sher Shah Suri of the Pashtun, losing most of the territory won by his father in India. Humayun crossed the Makran region with his wife to the fortress in Umarkot in Sind to bare their son. From 1540 Humayun became a ruler in exile, reaching the court of the Safavid rule by 1544. Between 1553 and 1556 the Hindu king Hemu Vikramaditya claimed the Delhi throne by defeating the Mughals in both Agra and Delhi. Humayun recaptured the throne but in January 1556 he slipped from the Din Panah building and died. The Mughals would re-establish their foundations in Delhi from Humayun's son, Akbar.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MUGHAL_HEADING_6">
+			<Text>Akbar's Lineage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MUGHAL_TEXT_6">
+			<Text>Akbar became the Mughal ruler in 1556, he was a wise ruler; while high he set reasonable taxes to the population - one-fifth of their agricultural production, he was more inclusive to the non-Muslim citizens of the empire, he allied with the Rajputs for his conquests, he appointed natives as generals and administrators, he even created a form of syncretic philosophy based on tolerance.[NEWLINE][NEWLINE]While Akbar's son, Jahangir's rule of the empire was largely uneventful Jahangir's son, Shah Jahan would ascend to the throne in October 1627. Shah Jahan commissioned the construction of many famous buildings in the empire, the most famous being the Taj Mahal as a tomb for his wife Mumtaz Mahal who died giving birth to their fourteenth child.[NEWLINE][NEWLINE]The day before August 1658 Aurangzeb Alamgir, one of Shah Jahan's sons, ascended to the Mughal throne. By 1690 Aurangzeb drove the Mughal Empire to its zenith in territorial claim.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MUGHAL_HEADING_7">
+			<Text>Mughal Dynasty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MUGHAL_TEXT_7">
+			<Text>Undoubtedly the biggest Mughal contribution to India is the unique architecture, the Taj Mahal is often depicted as one of the finest examples of Mughal architecture. While recalling the structures of central Asia Babur and his descendants infused the native Indian style into the building of their monuments, forts and palaces. Other forms of Mughal influence are found in the governments of the neighboring kingdoms, the Persian art and culture infused into artworks and literature, new trade routes to the Arab and Turkic lands, Mughal cuisine and the unique landscape gardening found in the many buildings built by the Mughals.[NEWLINE][NEWLINE]As the Mughals slowly unified the subcontinent the economy flourished as old kingdoms became joined by new road systems and a uniform currency was established. Manufactured goods were sold around the world, the key industries being shipbuilding, textiles and steel. The Mughal fleet was small as it merely served to send pilgrims to Mecca and import Arab horses in Surat. While cities boomed during Mughal rule they were mostly military and political centers and only guilds that produces goods for the bureaucracy made goods in towns; the remainder of the industry based in rural areas. The Bengal region was especially prosperous under Mughal rule.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MUGHAL_HEADING_8">
+			<Text>Decline</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MUGHAL_TEXT_8">
+			<Text>The decline of the Mughals began as Chatrapati Shivaji , leader of the Maratha Empire declared independence for Hindus and began to raise an army. Santaji Ghorpade and Dhanaji Jadhav, two of the Maratha's best warriors eliminated most of the Mughal generals one by one. Aurangzeb engaged the Mughals into the War of 27 Years against the Marathas where the Mughals suffered heavy loses and defeats. By 1706 Aurangzeb's son Prince Bakht was routed by Dhanaji, bringing additional disgrace to the throne, Aurangzeb's death only a few months after would display the dire situation of the Mughal status. The Maratha Peshwa ravaged Mughal outposts after Aurangzeb's death. Shivaji's son Shahu was released by the Mughals in an effort to establish peace between the two empires, but this failed as Peshwa Vishwanath Balaji Rao continued to expand the Maratha empire. Vishwanath's son, Baji Rao I overthrew the Mughals from Deccan to the Punjab and from Bengal to Sindh. Baji Rao I continued to invade northern Mughal territories in 1728 with none of the Muslim generals able to stop him; by 1737 Baji Rao I invaded and captured Delhi itself. The war resulted in the near complete destruction of the Mughal Empire single-handedly.[NEWLINE][NEWLINE]The last of the Mughals ruled only over Delhi for the next century when Emperor Bahadur Shah II supported the Indian Rebellion of 1857. In a twist of irony he was overthrown by the British, his sons killed and the last of the empire was absorbed into the British Raj.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MUGHAL_STATBOX">
+			<Text>[NEWLINE]        Leader: Akbar[NEWLINE]        Unique Unit: Farsakh Cannon[NEWLINE]        Unique Building: Qila[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MUGHAL_FACTOID_HEADING">
+			<Text>Mughal Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MUGHAL_FACTOID_TEXT">
+			<Text>The name 'Mughal' is derived from the original homeland of the Timurids - 'Moghulistan', meaning 'Land of Mongols'.[NEWLINE][NEWLINE]The Mughals made advances in observational astronomy, Humayun himself built his own personal observatory near Delhi. The most notable creation of Mughal India is the seamless celestial globe.[NEWLINE][NEWLINE]Fathullah Shirazi, the Persian polymath and mechanical engineer who worked for Akbar developed the volley gun.[NEWLINE][NEWLINE]During the Siege of Bidar in 1657 the forces of then Prince Aurangzeb utilized fired rockets and grenades as they scaled the walls. Sidi Marjan was mortally wounded after a rocket struck the gunpowder deposit.</Text>
+		</Row>
+		<!--Maratha-->
+		<Row Tag="TXT_KEY_MARATHA">
+			<Text>Maratha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MARATHA_TITLE">
+			<Text>Maratha Confederacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MARATHA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MARATHA_TEXT_1">
+			<Text>The Maratha Confederacy was an imperial power of India during the late seventeenth to early nineteenth century made famous by its conquest of the Mughal Empire. Founded by Shivaji Bhosle, the Marathas began as a yeoman warrior group of western Deccan; they fought in the longest war in Indian history to ultimately defeat the Mughals and rule the Indian subcontinent. The Marathas gained a command of the seas as most of the border was coastline and kept the European navies at bay. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MARATHA_HEADING_2">
+			<Text>Terrain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MARATHA_TEXT_2">
+			<Text>At the height of their power, the Marathas controlled most of the subcontinent, much of the Indian terrain is a flat plain with tropical and sub-tropical regions covering much of the plain and the base of the mountain ranges. The subcontinent is flanked by two massive rivers, the Indus and Ganges; each river contains a large array of sister rivers branching off into the heart of the land and large deltas at the mouths of the rivers, creating vast areas of wetlands at the easterly and westerly points of the landmass. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MARATHA_HEADING_3">
+			<Text>Bhosle Era</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MARATHA_TEXT_3">
+			<Text>Shivaji was an aristocrat of the Bhosle clan who founded the Maratha empire, he led a resistance to free the Marathas from the Sultanate of Bijapur and re-establish 'Hindavi Swarajya' - the self rule of Hindu people, for a more detailed look into Shivaji and his war against the Mughals see his Civilopedia entry. Shivaji established Raigad as the capital of the new empire and successfully defended Maratha from the Mughals, he was crowned Chhatrapati, or 'sovereign', of the Maratha empire in 1674. His elder son Sambhaji was very popular among the courtiers and in 1681 he was crowned emperor and resumed his father's expansion. Sambhaji saw early victories against the Portuguese and Chikka Deva Raya of Mysore while the Mughal emperor Aurangzeb moved south to conquer the Marathas and neighboring sultanates. In the eight years of war that followed Sambhaji never lost a battle nor fort to Aurangzeb save for one during early 1689; Aurangzeb ambushed Sangamshwar and captured Sambhaji and his adviser where they were executed on March 11 of that year.[NEWLINE][NEWLINE]At the death of his older brother Rajaram took the throne. As the Mughals laid siege on Raigad he fled to Vishalgad and then Ginge for safety. From there the Marathas raided Mughal territory, claiming many forts and gaining a great deal of ground. Rajaram offered a truce in 1697 but the Mughals rejected it, three years later Rajaram died in Sinhagad. His widow Tarabai held the throne in the name of her son Ramaraja, she led the Marathas heroically and by 1705 they crossed the Narmada River, entering Malwa. The conquest of Malwa proved decisive for the Maratha Empire as the Mughals lost their grip on the subcontinent, resulting in the emperors reduced to titular rulers. The victory set the foundations of the imperial conquests of later expansions under the Peshwas.[NEWLINE][NEWLINE]However, after Aurangzeb's death in 1707, Sambhaji's son Shahuji was released by the next Mughal - Bahadur Shah I, under the conditions that rendered him a vassal of the Mughal emperor. Shahuji claimed the throne and challenged his aunt Tarabai and her son, this caused a split in the states over the succession dispute; the states of Satara and Kolhapur formed in 1707 and three years later the two principalities became established fact. Furrukhsiyar became Mughal emperor in 1713 and his bid for power depended heavily on the Saiyid brothers, who at the time had a falling-out with the emperor. Negotiations with the Saiyids and Peshwa Belaji Vishwanath, a civilian representative of Shahuji, drew the Marathas into the Saiyids vendetta. The next year saw a Maratha army march to Delhi unopposed, deposing the Mughal emperor. In return for the help Vishwanath negotiated a substantial treaty; Shahuji would accept Mughal control in the Deccan, furnish forces for the imperial army and pay annual tribute, in return Shahuji received an imperial directive guaranteeing Swaraj, 'independence' in the Maratha homeland and the rights to chauth and sardeshmukh, a form of tax, throughout Gujarat, Malwa and the six provinces of the Mughal Deccan, amounting to 35% of the total revenue. The treaty also released Shahuji's mother Yesubai from the Mughals. During this time the Marathas pushed the borders of the empire in all directions, the houses of the victorious generals would ultimately undermine the king's authority and bring the rule of the Bhosle clan to a close.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MARATHA_HEADING_4">
+			<Text>Peshwa Era</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MARATHA_TEXT_4">
+			<Text>After Vishwanath's death in April 1720 his son Baji Rao Vishwanath Bhatt was appointed Peshwa, the equivalent of a Prime Minister, by Chattrapati Shahu. Shahu was able to see talent in his people, and doing so caused a social revolution by bringing capable people into power regardless of their status or upbringing. This led to a great social mobility within the empire and enabled a rapid expansion. While Peshwa Baji Rao I was a great general who never lost a battle in his campaigns - 41 battles, 41 victories. He is also credited with expanding the frontiers, especially the north. His expansion included the Battle of Palkhed on February 28, 1728 against Nizm-ul-Mulk of Hyperbad, the battle is an example of superior military strategy at work. Another victory and a major achievement for Baji Rao I was the Battle of Vasai, fought between the empire and Portuguese-owned Vasai the Marathas were led by one of Baji Rao's brothers Chimaji Appa.[NEWLINE][NEWLINE]Baji Rao's son Balaji Baji Rao was appointed Peshwa after his father's death on April 25 1740, almost immediately he launched an invasion of both Damalcheery and Arcot, both falling in quick succession. Balaji then invaded Trichinopoly in December that year, unable to resist the attack Chanda Saheb past the fort to the Maratha general Raghuji on March 14, 1741; Saheb was arrested and sent to Nagpur. The next four years of his rule was of general calm in the Deccan, while Rughuji would continue to harass and annex kingdom after kingdom in six campaigns in the Bengal from 1741 to 1748. Chattrapati Shahuji died in 1749 and moved power of the state to the Peshwa under the condition that the house of Shivaji will be maintained and the welfare of its subjects were tended to. The Nawab of Bengal, Alivardi Khan brokered peace with Rughaji in 1751 ceding land and annual tribute of 1,200,000 rupees while the smaller states of Raipur, Ratanpur, Bilaspur and Sambalpur were conquered and placed in charge of an illegitimate son of the general. By the end of his career Rughaji conquered Berar, the Gond kingdoms of Devgad, Nagpur, Gadha-Mandla and Chandrapur, the Suba of Cuttack and smaller states between Nagpur and Cuttack. Balaji Baji Rao encouraged agriculture, protected the villagers and brought about improvement in the state of the empire. Continuing expansion saw the empire reach Delhi as the Afghan withdrew after Ahmed Shah Abdali's plunder of the city; Balaji's brother, Raghuath Rao captured Delhi in August 1757, laying the corner-stone of Maratha influence in northwestern India. The empire was now a major player on the subcontinent.[NEWLINE][NEWLINE]On May 8, 1758 the Marathas took Peshawar from the Afghans; the general Sadashiv Rao Bhau, upon hearing about the Afghans' return to North India, promptly marched to recapture Delhi. The formal Mughal capital and then Afghan garrison fell once again to the Marathas in August 1760; Delhi was already in a poor state due to the constant destruction of the city and depopulation from the countless battles and endless war that buy this time acute supply shortages affected the Maratha camp, still Bhau once again ordered its sacking, he also planned to install his nephew Vishwars Rao on the Mughal throne. By 1760, after the victory over the Nizam in the Deccan, the empire reached its zenith - controlling 2,800,000 square kilometer acres. The Afghan Emir Ahmad Shah Durrani called upon allies to drive out the 'infidels' from Delhi, massive Muslim forces clashed with the Hindus on January 14, 1761 where the Marathas lost and for the first time halted their expansion. Antagonized by heavy taxes the Jats and Rajputs resided their support for the Marathas, Raja Suraj Mal of Bharatput abandoned the empire and the Rajputs broke off their alliance at Agra before the Third Battle of Panipat. By 1771, in a bid to rebuild and stabilize the fractured empire Peshwa Madhav Rao I gave semi-autonomy to the strongest of the knights and in turn created a confederacy of states.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MARATHA_HEADING_5">
+			<Text>Maratha Confederacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MARATHA_TEXT_5">
+			<Text>Thirteen knights of the former empire established their states across the breadth of the subcontinent, six states formed in the outer region of the empire and seven formed in the Maharashtra - the Maratha homelands. Mahadaji Shinde ruled the state of Gwalior in central India, he was instrumental in restoring Maratha power after the Third Battle of Panipat and became a trusted lieutenant of the Peshwa. Mahadaji also took complete advantage of Britain's neutrality to reaffirm Maratha power in northern India and was helped by French adventurer Benoît de Boigne in increasing his forces. Mahadaji launched his army to conquer the states who refused to pay tributes to him; in early 1771 he recaptured Delhi and installed Shah Alam II as a puppet on the Mughal throne - Shah Alam earned the title Vakil-ul-Mutlak, meaning 'vice-regent', of the empire. In the years that followed Mahadaji claimed the states of Bhopal, Datiya, Chanderi, Narwar, Salbai and Gohad; he attempted to take Jaipur but withdrew from the Battle of Lalsot in 1787 as it was inconclusive. Between the March months of 1786 and 1787 the Marathas fought Tipu Sultan where their emerged victorious. Delhi was briefly lost in 1788 to a Mughal noble Ismail Beg, he and his Rohilla ally, Ghulam Kadir captured the city and deposed and then blinded Shah Alam II. On October 2 of that year Mahadaji reclaimed the city and reinstalled Alam before sending Benoît de Boigne to destroy the forces of Jaipur and Marwar in two separate battles in 1790. Two years later Mahadaji made peace with Tipu and using his influence prevented a treaty between the British, the Nizam and the Peshwa against Tipu.[NEWLINE][NEWLINE]After the Battle of Poona, the Peshwa left the government of the state to Yashwant Rao Holkar; he appointed Amrut Rao as the Peshwa and went to Indore on March 13, 1803. Besides the Gaikwad chief of Baroda, having accepted British protection nearly a year before, supported the new Peshwa. Yashwant Rao sued a treaty with the British in 1805 and he settled the disputes between the Scindia and Peshwa. His battles were the most remarkable in India's history and the acclaim from the Mughal emperor gave him prominence amongst the rulers of India. As a clever organizer and skillful general Yashwant Rao tried to once again reunite the Confederacy; his armies were laid on sound military basis and his personality certainly preceded him as even in periods of instability, no state or power would consider any act of aggression on his state, the state of Holkar then was secure even after a number of years after his death.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MARATHA_HEADING_6">
+			<Text>Anglo-Maratha Wars and the British</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MARATHA_TEXT_6">
+			<Text>During the Confederacy the British East India Company intervened in a succession battle in Pune, vouching for Raghunath Rao in 1775. From this came the First Anglo-Maratha War; it ended in 1782, restoring the status quo of before the conflict. In 1802 the British again intervened another conflict in Baroda to support the heir to the throne, the British signed a treaty with the new Maharaja recognizing his independence from the Maratha Empire in exchange for acknowledging British paramountcy. The Second Anglo-Maratha War sprang from Peshwa Baji Rao II and his defeat at the Battle of Poona against Yashwant Rao Holkar, he fled to British protection and in December 1802 signed a treaty with the British East India Company to cede territory for maintenance for an army and agreeing to treaty with noone else. The Maratha chieftains were horrified at the action and contested the agreement, sparking the conflict; as mentioned before Yashwant Rao sues for a treaty with the British in 1805, suspending the two year battle.[NEWLINE][NEWLINE]The Third Anglo-Maratha War was a last ditch effort to unite the states and regain sovereignty. The gamble did not pay off; most of the Maratha state came under British control and the Peshwa was exiled to Bithoor as a pensioner, the Maratha homelands came under direct British rule except Kolhapur and Satara. Gwalior, Indore and Nagpur lost territory and became subordinate allies with the British Raj as states that retain sovereignty under British paramountcy. Other small states also fell to the British Raj; at the end of the war every Maratha power surrendered to the British, bearing the Treaty of Gwalior on November 5, 1817. One by one the states fell until the Peshwa, the last of the states, surrendered on June 3, 1818. The war saw the British East India Company control very nearly the entire subcontinent below the Sutlej River, recover the Nassak Diamond, claim much of the former Maratha Empire and in effect destroyed their most dynamic opposition.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MARATHA_STATBOX">
+			<Text>[NEWLINE]        Leader: Shivaji[NEWLINE]        Unique Units: Rajput[NEWLINE]			Pindari[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MARATHA_FACTOID_HEADING">
+			<Text>Maratha Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MARATHA_FACTOID_TEXT">
+			<Text>The Maratha are credited with introducing a blue-water navy to Indian naval warfare. The Maratha also placed cannons inside their warships since their inception.[NEWLINE][NEWLINE]The Maratha army was praised by virtually all their enemies, the infantry most of all. Even the Duke of Wellington noted that the generals led the battles poorly but their infantry and artillery matched the standards of the Europeans, he also warned other soldier not to underestimate them in battle.</Text>
+		</Row>
+		<!--Chola-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CHOLA">
+			<Text>Chola</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CHOLA_FACTOID_HEADING">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CHOLA_FACTOID_TEXT">
+			<Text>The Cholas set up an embassy in China, which as well as conducting diplomacy, sold products to the Chinese. The embassy was apparently highly profitable for the Cholas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CHOLA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CHOLA_TEXT_1">
+			<Text>For over 1000 years, the Chola dynasty lay at the southern tip of the Indian subcontinent. The empire was founded on fertile ground around the Kaveri river, and continued to grow for most of their history. While the exact origins of the Chola have never been discovered, they are believed to be descended from the Tamil dynasty, a similar culture in Southern India. The Chola grew as a trading empire, and reached the height of their power during the middle ages, through kings such as Rajaraja Chola I and Rajendra Chola I, both capable military and expansive leaders. However, the empire soon fell into decline, and with constant harassment by the Pandyas, the Chola dynasty were gone by the end of the 13th century.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CHOLA_HEADING_2">
+			<Text>Geography and Climate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CHOLA_TEXT_2">
+			<Text>The Chola heartlands are one of the hottest parts of India, with temperatures above 27 degrees Celsius on average. To the west of this lies a far cooler, more  moderate climate of around 20 degrees, which they also ruled over. Again, while the eastern part of the territory has a tropical savannah climate, the east has a wet tropical, creating a large geographical difference between the sides of the empire. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CHOLA_HEADING_3">
+			<Text>Southern India</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CHOLA_TEXT_3">
+			<Text>Ancient cultures in the south of India date back to 8000 BC. Items found around the area include stone axes and basic copper tools. The region is believed to have entered the Iron Age around 1000 BC, although they never passed through a fully formed copper age. As time passed, the Pandyan Empire took the land in the South of India, an area known as "Tamil". Although there were many competitors to the north to take the land, the Pandyas prevailed, and held the territory for quite a while. They were known for their mastery of the arts, but passed little on to successive dynasties. Throughout their ownership of the Tamil area, they had to fight against countless invaders, including the Kalabras, who put their history into dispute. However, this let an even more powerful empire take over in the region - they would quickly become known as the Cholas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CHOLA_HEADING_4">
+			<Text>Foundations of an Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CHOLA_TEXT_4">
+			<Text>Over the course of around two-hundred years, the Chola dynasty became a prominent political entity in the region. The Cholas won over other dynasties in the region, including the Pandyas, and set out to forge an empire for themselves. However, they quickly fell into decline, presumable due to the invasion of the Kalabras. The Cholas stayed a strong state during the three-hundred years the Kalabras ruled over them, as they only really had control over the northern states, while the Chola heartlands were in the south. They maintained their influence in the region until the Kalabras had gone, and soon enough, the Chola empire was ready to re-establish itself.  </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CHOLA_HEADING_5">
+			<Text>Peak of the Dynasty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CHOLA_TEXT_5">
+			<Text>Initially, the Cholas made little success in establishing a new empire. They had grown to take a lot of South India, although their power was constrained to that area. However, during the ninth century, the empire re-established itself under the rule of Raja Raja I. This say a series of political reforms, and the creation of a large sphere of influence that spanned most of East India and Western Indochina. The empire continued to grow through the reign of Rajendra Chola, with the establishment of more trade links to places like China and Surabaya. This was the largest the empire had grown to - its power was not just concentrated in the Chola state, but throughout many areas of the empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CHOLA_HEADING_6">
+			<Text>The Later Princes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CHOLA_TEXT_6">
+			<Text>The empire's glory days had come and gone, and while it was still a prominent political entity after the tenth century, they had lost most of their power in the regions to the east of the central government. Instead, the empire focused on expanding their domains to the north of the main Chola area, undertaking several wars to take that territory. During this period, they also had a focus on the arts, and made several statues to honour the leaders of the past, in the glory days now long-gone. They still maintained their trade routes to China, and had ones to the Malays as well, but their influence had demised to the point that the empire wasn't a shadow of its former self. [NEWLINE][NEWLINE] However, a lot of the emperors of the declining dynasty were still very able leaders, so the empire, while not nearly as prosperous as it once was, still enjoyed a high standard of living, with policies focused far more on maritime trade than war. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CHOLA_HEADING_7">
+			<Text>End of the Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CHOLA_TEXT_7">
+			<Text>In 1070, a succession crisis was triggered when the king died, and his son was assassinated shortly after him. There were several people in line for the throne at this point, and over about fifty years, a lot of the north of the empire was lost before the crisis could be solved. Kulothunga Chola I, who ruled through these troubled times, was actually a very able monarch, but was undermined by the amount of problems he faced, rendering most of the empire lost. By the time his son came to the throne, it was only about a third as large as the empire that his father had inherited. By 1246, the empire was diminished to a small entity around the Kaveri River, and at the end of the 13th centary, the Cholas had passed into history, under the authority of the Pandyas once more.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CHOLA_HEADING_8">
+			<Text>Legacy of the Chola</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CHOLA_TEXT_8">
+			<Text>While the dynasty may be gone, the Cholas have left a legacy in the buildings and monuments they constructed around Southern India. They are known today as master architects, with buildings such as the Brihadeeswarar Temple, which is part of a site called "Great Living Chola Temples", due to the large number of Chola temples in the area. They are known in paticular for the scale and detail gone into these constructions. As well as the temples they built, they also has a vast body of writing. A lot of books are about Hinduism (the primary religion of the Cholas), with a lot also being dedicated to poetry, and a vast number about the empire itself. While a lot of the empires in the north of India were Islamic, the Chola Dynasty were Hindu, and to this day, India remains a mostly Hindu state, perhaps thanks to the once-mighty kingdom in the south. All in all, the Chola dynasty was one that truly shaped India, and  with its buildings and books to show its lasting legacy, the Cholas are undeniably one of the most important groups in India's long history.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_CHOLA_STATBOX">
+			<Text>[NEWLINE]        Leader: Raja Raja I[NEWLINE]        Unique Unit: Thalai-Thirvai[NEWLINE]        Kadatpadai[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<!--Maurya-->
+		<Row Tag="TXT_KEY_MAURYA">
+			<Text>Maurya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MAURYA_TITLE">
+			<Text>Maurya Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MAURYA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MAURYA_TEXT_1">
+			<Text>The Maurya Empire was an Iron Age power in ancient India. Established by Chandragupta Maurya in 322 BC, the Maurya Empire expanded westward, quickly claiming control of central and western India and exploiting the local disruptions due to Alexander the Great withdrawal. The Maurya Empire was the largest empire on the subcontinent and one of the largest in the world. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MAURYA_HEADING_2">
+			<Text>Terrain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MAURYA_TEXT_2">
+			<Text>Much of the Maurya Empire encompassed all of what is now India - the subcontinent is a large tropical plain bordered by the Himalaya Mountains, the Indian Ocean and the Arabian Sea. The peninsula itself is very flat and is littered with rivers cutting every which way across the plain, the largest of these being the Indus River. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MAURYA_HEADING_3">
+			<Text>Fallout from the Death of Alexander</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MAURYA_TEXT_3">
+			<Text>The Maurya Empire was founded during what would turn out to be a tumultuous time; as Chandragupta Maurya and Chanakya, a Brahmin teacher from Takshashila traveled to Magadha - a large, powerful kingdom feared by its neighbors, the ever-growing power of Alexander the Great and his Macedonians refused to cross the River Beas to further push into India, deterred by the same fear of the Magadha. Alexander returned to Babylon and re-deployed the bulk of his forces west of the Indus river. When Alexander died in 323 BC his empire fractured, the local kings claimed independence and thus fought each other. This left several smaller satrapies in disunity, territories ripe for conquest. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MAURYA_HEADING_4">
+			<Text>Conquest of Magadha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MAURYA_TEXT_4">
+			<Text>Chanakya, made an advisor by Chandragupta, encouraged him and the army to claim the throne of Magadha. Chandragupta used his influence to discover many young men from the Magadha kingdom upset over the oppressive rule of the king Dhana and the resources for his long series of battles. In these ranks were the former general of Taxila, the representative of King Porus of Kakayee, and rulers of smaller states.[NEWLINE][NEWLINE]Preparing for the invasion of Pataliputra, Chandragupta developed a strategy. The Magadhan army drew out of the city to engage the Mauryan forces, meanwhile the Mauryan spies bribed the general of Nanda and caused civil unrest in the kingdom - the unrest led to the death of the heir to the throne. Chanakya was able to win popularity for Chandragupta. Nanda resigned, handing control of the city to the Mauryans. Chanakya then met with the prime minister of Magadha, Rakshasa and made him understand that his loyalty was not to the Nanda dynasty but Magadha, insisting he remain in office. Chanakya then threatened war that would cripple the kingdom. Rakshasa accepted and Chandragupta was made the King of Magadha, Rakshasa became his chief advisor and Chanakya an elder statesman.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MAURYA_HEADING_5">
+			<Text>Seleucid-Mauryan War</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MAURYA_TEXT_5">
+			<Text>Chandragupta turned his attention to the Macedonians when Seleucus I Nicator, when trying to build the Seleucid Empire, tried to recapture the northwestern regions of India in 305 BC. Seleucus failed and the two rulers came to an agreement where the Greeks offered their princess and the satrapies of Paropamisade, Arachosia and Gedrosia, and the Mauryans offered 500 war elephants that ultimately played a role in Seleucus' victory in the Battle of Ipsus. Diplomacy was established with the Greeks and several Greeks such as Megasthenes, Deimakos and Dionysius lived at the Mauryan court. From this Chandragupta established a strong centralized state with a complex administration at Pataliputra. The historian Megasthenes described the city as being "surrounded by a wooden wall pierced by 64 gates and 570 towers - and rivaled the splendors of contemporaneous Persian sites such as Susa and Ecbatana."</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MAURYA_HEADING_6">
+			<Text>Bindusara - the Blue Spot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MAURYA_TEXT_6">
+			<Text>Bindusara was the son of Chandragupta Maurya and his queen Durdhara; during his reign he would push the frontiers of the empire south. According to the Rajavalikatha - a Jain text - the original name of the emperor was Simhasena. The legend tells the tale of his birth; Chanakya used to feed Chandragupta small doses of poison in an effort to create an immunity against it should enemies attempt to poison him. One day, unaware of Chanakya's practices, Chandragupta shared his food with his pregnant wife who was a week away from delivery. Without this immunity the queen collapsed and died in just a few minutes. Chanakya entered just as she fell and, in order to save the unborn child, he immediately cut open her belly and took out the baby. A drop of poison already reached the baby and touched its head, discoloring his forehead with a permanent bluish spot - a "bindu". The young heir was thus named Bindusara.[NEWLINE][NEWLINE]At just 22 Bindusara inherited the Mauryan Empire - what is now regions of Northern, Central and Eastern India and parts of Afghanistan and Baluchistan. Bindusara expanded to the southern regions of India, as far as what is now Karnataka. He brought sixteen states under Mauryan control and conquered almost the entire Indian peninsula, he is said to have claimed the 'land between the two seas' - this is the peninsula area between the Bay of Bengal and the Arabian Sea. Apart from the friendly Dravidian kingdoms of the Cholas, the Pandyas and Cheras, the only southern kingdom that did not fall to Bindusara was Kalinga in modern Odisha.[NEWLINE][NEWLINE]Bindusara's life is not well documented; Chanaka continued to serve as prime minister during his reign. According to the Tibetan scholar Taranatha when he visited India, Chanakya helped Bindusara "to destroy the noble kings of the sixteen kingdoms and thus become absolute master of the territory between the eastern and western oceans." The citizens of Taxila revolted twice during his rule; first was the maladministration of Suseema, Bindusara's eldest son. The reason for the second revolt is not known, but Bindusara could not suppress it in his lifetime. He died in 272 BC and was succeeded by his son Ashokavardhan Maurya, more commonly known as Ashoka the Great.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MAURYA_HEADING_7">
+			<Text>Ashokavardhan the Great</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MAURYA_TEXT_7">
+			<Text>As a young prince Ashoka was an impressive commander, crushing the revolts in Ujjain and Taxila. As a monarch he was bold and aggressive, re-asserting the empire's superiority in the south and west; for more on his conquests and his life in general see his Civilopedia entry. However it was between 262 and 261 BC where a pivotal event changed Ashoka's life - the conquest of Kalinga. Ashoka's forces won overwhelmingly, yet the fact that approximately 100,000 soldiers and citizens were killed in the battle, including 10,000 of Ashoka's men, wrangled Ashoka. Hundreds of thousands of people had become affected by the fallout of the battle, witnessing this himself Ashoka felt remorseful - so much so that even with the annexation of Kalinga Ashoka accepted and embraced Buddhism, renouncing violence and war. He sent out missionaries to travel all over Asia to spread Buddhism to other civilizations.[NEWLINE][NEWLINE]Ashoka established principles of 'ahimsa' - meaning 'to do no harm' - by banning hunting and violent sport, and ending indentured and forced labor - thousands of people in Kalinga had been forced into hard labor and servitude. Even though he did maintain an army, mainly to keep the peace and authority, Ashoka extended friendly relations with countries across Europe and Asia, sponsoring Buddhist missions. Ashoka undertook a large public works campaign across the empire. With over four decades of peace, harmony and prosperity during his reign Ashoka is one of the most successful and famous kings in Indian history and remains an idealized figure of inspiration in the country today.[NEWLINE][NEWLINE]The Edicts of Ashoka are set in stones throughout the Subcontinent; as far west as Afghanistan and as far south as Andhra. The edicts state his laws and accomplishments during his reign. The edicts also attest to Ashoka having sent envoys to the Greek rulers in the West as far as the Mediterranean, going so far as to name each of the rulers of the Hellenic world at the time such as 'Amtiyoko', 'Tulamaya' and 'Alikasudaro' - Antiochus, Ptolemy and Alexander respectively.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MAURYA_HEADING_8">
+			<Text> Decline and the Indo-Greek Kingdom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MAURYA_TEXT_8">
+			<Text>After Ashoka's death in 232 BC followed 50 years of weaker kings. Brihadratha was the last Mauryan ruler of the dynasty and held a nation much smaller from Ashoka's reign, though he still upheld the Buddhist faith. Brihadratha was assassinated in 185 BC during a military parade by the Brahmin general Pusyamitra Sunga, the commander of his guard, who then took the throne and established the Sunga dynasty. Buddhist records write that the assassination and the rise of the Sunga empire led to a wave of persecution against Buddhists and a resurgence of Hinduism. Scholars tend to differ as to the legitimacy of these records.[NEWLINE][NEWLINE]The fall of the Mauryans left the Khyber Pass unguarded and a wave of foreign invasion followed soon after. The Greco-Bactrian king Demetrius capitalized on the break up and took southern Afghanistan and parts of northern India by about c. 180 BC, creating the Indo-Greek Kingdom. The Indo-Greeks maintained the land in the trans-Indus region and raided parts of central India for about a century until roughly c. 70 BC when the Indo-Scythians invaded and succeeded.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MAURYA_STATBOX">
+			<Text>[NEWLINE]        Leader: Ashoka[NEWLINE]        Unique Unit: War Elephant[NEWLINE]			Unique Building: Pillar of Ashoka[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MAURYA_FACTOID_HEADING">
+			<Text>Maurya Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MAURYA_FACTOID_TEXT">
+			<Text>While mostly written in Prakrit, two Edicts of Ashoka are written in Greek and one is in both Greek and Aramaic. Ashoka's edicts refer to the Greeks, Kambojas and Gandharas as peoples forming a frontier region of his empire.[NEWLINE][NEWLINE]Historians believe that the organization of the empire was in line with the extensive bureaucracy mentioned by Kautilya int he Arthashastra; a sophisticated civil service governed everything from hygiene to international trade. The expansion and defense of the empire was made possible by what seems to have been the largest standing army of its time.</Text>
+		</Row>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- Leader Civilopedias - - - - - - - - - - - - - - - - - - - - -->
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--Akbar-->
+		<Row Tag="TXT_KEY_LEADER_AKBAR_DESC">
+			<Text>Akbar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AKBAR_LIVED">
+			<Text>1542 - 1605</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AKBAR_NAME">
+			<Text>Akbar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AKBAR_SUBTITLE">
+			<Text>Leader of the Mughals</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AKBAR_TITLES_1">
+			<Text>Akbar the Great</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AKBAR_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AKBAR_TEXT_1">
+			<Text>Akbar was the third Mughal Emperor, ascending in 1556. In that time Akbar would become the greatest ruler of the empire; expanding the Mughal sphere of influence, adopting a policy to conciliate defeated rulers through marriage and diplomacy, winning support from non-Muslim citizens through tolerance policies and strove to unite lands through loyalty expressed through the Persianised culture. As a patron of culture Akbar established the foundations of a multicultural Mughal empire and won the trust of the native Indians for the first time in the history of the empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AKBAR_HEADING_2">
+			<Text>Early Years</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AKBAR_TEXT_2">
+			<Text>Born on October 14, 1542 in Umerkot as Badruddin, Akbar's parents Humayun and Hamida Banu Begum sought refuge in the town from the loss of Kabul. Humayun reclaimed Kabul some weeks later and performed Akbar's circumcision ceremony there, they also changed his name to Jalal-ud-din Muhammad - a name Humayun heard in a dream in Lahore. The conflict with the Pashtun leader Sher Shah Suri drove Humayun and Hamida Banu to Persia in exile, Akbar however grew up in the village of Mukundpur in present-day Madhya Pradesh. Akbar grew up with prince Ram Singh I wher they became good friends; Akbar later moved to the eastern Safavid Empire where he was risen by his uncle Mirza Askari, there he learnt to hunt, run and fight - he to become a skilled warrior who then never learnt to read. Ironically even at youth he pursued knowledge as it is said he rested in the evening having someone read to him. In November 1551 Akbar married his first cousin, Ruqaiya Sultan Begum in Jaladhar.[NEWLINE][NEWLINE]Following the turmoil over the succession of Suri's son Islam Shah, Humayun reconquered Delhi in 1555 with an army partly provided by his Persian ally Tahmasp I. Months later Humayun fell from the top of the Din Panah building; concealing the manner of his death Akbar's guardian, Bairam Khan prepared Akbar for his succession. His succession was during the conflict with the Sur leader Sikandar Shah, to reclaim the Mughal throne. By the age of 13, in Kalanaur in Punjab, Akbar was enthroned by Bairamand proclaimed 'Shahanshah' - meaning 'King of kings' - where Bairam Khan ruled on Akbar's behalf until he came of age.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AKBAR_HEADING_3">
+			<Text>The Northern Struggle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AKBAR_TEXT_3">
+			<Text>Before Akbar's ascension Humayun claimed control of the Punjab, Delhi and Agra with support from Persia; due to the Surs victories in claiming the throne the control of these areas were precarious, adding to that no support would be earned from the Persians as Kabul was in the throws of its own invasion by the leader of Badakhshan, Prince Mirza Suleiman. The young emperor's future was unclear. His regent Bairam Khan called a war council to marshal the forces but none of the chieftains approved the idea, Bairam prevailed over them and the Mughals would engage the Surs in the Punjab. Sikandar Shah was of no genuine threat to Akbar, avoiding battle as the Mughals approached. Hemu was the greatest threat, as a minister and general to one of the Sur rulers he proclaimed himself Hindu emperor and expelled the Mughals from the Indo-Gangetic plains.[NEWLINE][NEWLINE]Spurred on by Bairam Khan who himself marshalled the Mughal army before Hemu consolidated his position, Akbar marched to Delhi and by the start of 1557 the Mughals captured the city and Agra. Akbar entered Delhi in a triumph where he stayed for a month, until he and Bairam returned to Punjab to deal with the now active Sikandar Shah. For six months the Mughals gained another major victory against the Sur who fled east to Bengal, as he did Akbar occupied Lahore and seized Multan. By the end of 1558 the Mughals claimed Ajmer from the Muslim ruler there and a Mughal commander defeated the last Sur prince Ibrahim, claiming Jaunpur in the eastern Gengetic Valley. The Mughals also defeated the Sur controlling Gwalior Fort, the greatest stronghold north of the Narmada River. The flurry of victories brought the cities between Lahore, Delhi, Agra and Jaunpur under Mughal control, this presented the empire with the ability to tap the immense agricultural productivity and potential of trade. Royal begums came from Kabul as Akbar made his intentions clear - the Mughals are to remain in India.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AKBAR_HEADING_4">
+			<Text>Expansion into Central India</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AKBAR_TEXT_4">
+			<Text>By 1559 the Mughals began a drive south into Rajputana and Malwa, disputes between him and Bairam Khan however ended this temporarily. Urged by his relatives Akbar, now 18, wanted a more active role in management of the empire, after another dispute with the regent Akbar dismissed Bairam Khan in the spring of 1560, ordering him to leave and travel to Mecca. Bairam did, but was goaded by oppoition to rebel, he was defeated by the Mughal forces and forced to submit where Akbar forgave him and offered the choise to return to the court or continue to Mecca. Bairam chose the latter where during his journey he was assassinated by a vengeful Afghan. Akbar continued the push south, he sent his foster brother, Adham Khan with commander Pir Muhammad Khan and the army to invade Malwa. The Afghan ruler Baz Bahadur was defeated and fled to Khandesh for refuge leaving his harem, treasure and war elephants. In spite of the success Akbar suffered a disaster in that Adham retained all the spoils of war and killed the surrendered garrison, their wives and children, and most Muslim theologians and Sayyids. Akbar rode the Malwa to confront his foster brother and relieve him of command, while Pir Muhammad marched to pursue Baz; he was beaten back by the alliance of the rulers of Khandesh and Berar. Baz Bahadur reclaimed Malwa until the next year Akbar again invaded and annexed Malwa, Baz survived as a refugee in various courts until in 1570 he took service under Akbar.[NEWLINE][NEWLINE]The Mughals conquered the Gondwana kingdom in 1564, predominantly for its herd of wild elephants. Akbar allowed the Mughal governor of Kara, Asaf Khan the task of capturing Gondwana as he himself was dealing with an Uzbek rebellion. Raja Vir Narayan, ruler of Gondwana fell in the Fall of Chauragarh while his mother Durgavati committed suicide in the Battle of Damoh. The conquest added gold, silver and jewels in the Mughal coffers, 1000 elephants to the herd, the younger sister of Durgavati into the harem and installed the brother of Durgavati's husband as the Mughal administer in the region. Once again however this also caused a dispute with Akbar's vassals, Asaf Khan sent Akbar only 200 of the elephants and when summoned to give accoutns he fled. Asaf went to the Uzbeks to rally an army to pursued the Mughals forces for the kingdom; defeated, Asaf Khan submitted and Akbar restored his previous position.[NEWLINE][NEWLINE]Establishing Mughal control in northern India Akbar pursued further south to Rajputana, concluding that no imperial power in India based in the plains could be safe if a rival power dwelt in the region. Mughal influence already exsisted in Mewat, Ajmer and Nagor, Akbar was determined to drill straight into the homelands of the Rajput kings; further than any of the Muslim rulers of the Delhi Sultanate. Starting in 1561 the Mughals engaged the Rajputs in battle and diplomacy; most of the Rajput states ceded to Akbar, the ruler of Mewar Udai Singh, however remained defiant. As the head of the Sisodia clan Raja Udai Singh claimed the highest ritual status of the Rajput kings in India, unless he submitted the authority of the Mughals would be lessened in the eyes of the Rajputs. Further working against Akbar was still his devotion to Islam, seeking to impress the superiority of his faith over the Brahminical Hinduism of the warriors.[NEWLINE][NEWLINE]In 1567 Akbar marched to claim and reduce the Chittorgarh Fort in Mewar, the fort was a strategic location to take as it lay on the shortest route between Agra and Gujarat and was a key to hold the interior of Rajputana. Udai left two generals, Jaimal and Patta to defend the fort as he retired to the hills, Chittorgarh fell on Febuary 1568. As a show of authority Akbar killed the surviving defenders and displayed their heads on towers throughout the region. After three days in the fort Akbar returned to Agra where to celebrate the victory he commissioned statues depicting Jaimal and Patta on elephants at the gates of his fort. Udai Singh's power was broken and he never left the moutain refuge in Mewar, this suited Akbar and he left him as the Mughals continued to invade Ranthambore Fort the same year. In 1569 Akbar founded the city of Fatehpur Sikri, meaning 'the City of Victory', to commemorate his conquest of Rajputana, a feat only completed in 1576 when Pratap Singh, Udai's son, was defeated in the Battle of Haldighati.[NEWLINE][NEWLINE]Akbar would continue his campaigning to conquer Western and Eastern India, parts of Afghanistan, the Indus Valley, Baluchistan and Kandahar.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AKBAR_HEADING_5">
+			<Text>The Din-i Ilahi Movement</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AKBAR_TEXT_5">
+			<Text>Akbar had a great interest in religious and philosophical matters, as an orthodox Muslim originally he later came to be influenced by Sufi preached in the empire at the time. This influence moved him to appoint in his court several talented people with liberal ideas, including Abul Fazl, Faizi and Birbal. In 1575 in Fatehpur Sikri Akbar built a hall known as the Ibadat Khana - meaning House of Worship - in order to invite theologians, mystics and courtiers known for their intellect to discuss matters of spirituality with them all. Originally restricted to Muslims, these forums were acrimonious and often resulted in the participants shouting and hurling abuse at each other. Upset by this Akbar opened the Ibadat Khana to people of any religion, including atheists, resulting in a broader discussion - even into areas such as the validity of the Quran and the nature of God. Naturally this shocked the orthodox theologians and motivated them to discredit Akbar by spreading rumours of his want to forsake Islam. This even caused a number of his brilliant courtiers to criticize Akbar's chioces, decisions and regulations - amongst other things - regarding religious matters.[NEWLINE][NEWLINE]Akbar's attempts to reach a common meeting point among the intellects was not going well, each tried to assert the superiority of their religion and denounce the others. This resulted in the debating in the Ibadat Khana to grow more acrimonious and unintentionally fostered a bitterness among each other; by 1582 Akbar discontinued the discussions, but the interaction did convince him that beyond the differences of each religion they all had several good practices. This drove him to combine these into a new religion movement known as Dīn-i Ilāhī, meaning 'Religion of God'. Dīn-i Ilāhī was more a system of ethics that is said to have prohibited lust, sensuality, slander and pride - each considered as sins, and piety, prudence, abstinence and kindness core virtues; the soul is encouraged to purify itself through the yearning of God. Celibacy was respected, chastity was enforced, the slaughter of animals was forbidden and there were no sacred scriptures or priestly hierarchy. Akbar changed the name of the city of Prayag to Allahabad to commemorate Dīn-i Ilāhī. Sulh-e-kul, the system that formed the essence of Dīn-i Ilāhī, was adopted by Akbar not just as a religious system but also as a general administrative policy; this formed the basis of his religious toleration. By the death of Akbar in 1605 the policy showed no discontent amongst either the Muslims nor that of the Hindus.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AKBAR_HEADING_6">
+			<Text>Death and Dishonour</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AKBAR_TEXT_6">
+			<Text>On October 3, 1605 Akbar was struck with dysentery which he never recovered from, dying on the 27th of that month. He was buried in a mausoleum in Sikandra in Agra. In 1691, three quarters of a century later, a group of Hindu rebels known as the Jats broke into the mausoleum, stealing the gold, silver and carpets in it, and dragged his remains from the structure and burnt him.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AKBAR_HEADING_7">
+			<Text>Verdict of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AKBAR_TEXT_7">
+			<Text>Akbar gained the title 'Akbar the Great' from his impressive military campaigns and unbeaten record. As a military leader he dominated the field of battle at every conflict, ballooning the once fledgling state kingdom to a massive subcontinental empire, unifying much of the Indian kingdoms to his rule. Akbar encouraged trade between the kingdoms and tolerance between the religions, unifying the Muslim imperialists with the Hindu natives as a single people. Akbar implanted the notion of pluralism and tolerance into the Indian people that now underlies the values of the modern republic of India. Citing this, Time magazine includes Akbar in its top 25 world leaders. </Text>
+		</Row>
+		<!--Shivaji-->
+		<Row Tag="TXT_KEY_LEADER_SHIVAJI_DESC">
+			<Text>Shivaji</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHIVAJI_LIVED">
+			<Text>c. 1627 - 1680</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHIVAJI_NAME">
+			<Text>Shivaji</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHIVAJI_SUBTITLE">
+			<Text>Leader of the Maratha Confederacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHIVAJI_TITLES_1">
+			<Text>Chhatrapati</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHIVAJI_TITLES_2">
+			<Text>Shakakarta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHIVAJI_TITLES_3">
+			<Text>Kshatriya Kulavantas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHIVAJI_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHIVAJI_TEXT_1">
+			<Text>Shivaji Bhosale was the founder of the Maratha Empire, he led a resistance against the Adilshahi Sultanate of Bijapur and the Mughal Empire to establish a Hindavi Swarajya, meaning a 'self-rule of Hindu people'. He created the independent kingdom, placing Raigad as the capital and was crowned Chhatrapati, meaning 'paramount sovereign', in 1674. During his rule Shivaji established a progressive rule with the help of a well trained army and organized administrations. He innovated battlefield tactics, developed guerrilla warfare methods and focused pinpoint attacks to defeat his larger and more powerful enemies. From just 2000 men Shivaji inflated the army to 100,000, he built and repaired many forts to defend his land and revived ancient Hindu political traditions and court conventions, promoting the use of Marathi and Sanskrit to Persian in the administration.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHIVAJI_HEADING_2">
+			<Text>Early Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHIVAJI_TEXT_2">
+			<Text>Sometime around 1627 Shivaji was born in the hill fort of Shivneri, near Jaipur. Other dates suggest specifically April 6 of that year, while another suggests February 19, 1630. Legend holds that his mother named him Shivaji to honor the goddess Shivai who she prayed the baby be born healthy. His father, Shahaji Bhosale was the leader of a band of mercenaries serving in the Deccan Sultanates; his mother, Jijabai was the daughter of Lakhuji Rao Jadhav of Sindkhed. At the time of Shivaji's birth the Deccan was shared between three Islamic sultanates; Bijapur, Ahmednagar and Golconda. As a mercenary for hire Shahaji often changed loyalties between the Nizamshahi of Ahmadnagar, the Adilshah of Bijapur and the Mughals, but he kept his jagir - or fiefdom - in Pune and his army with him. Following a treaty between the Mughals and the Bijaput Sultanate Shahji was posted in a Bangalore-based jagir while Jijabai and Shivaji stayed in Pune.[NEWLINE][NEWLINE]Shivaji was very devoted to his mother, Jijabai was very religious and the religious environment drove him to study the Hindu epics - Ramayana and Manabharata, these influenced his lifelong defense of Hindu values. Shivaji took great interest in religious teachings and regularly found the company of Hindu and Sufi saints. In that time Shahaji married another wife, Tuka Bai Mohite; he moved on to assign himself in Karnataka and entrusted his younger son and Jijabai with his friend Dadoji Kondadev Kulkarni, providing a mansion administered by the jagir. Kulkarni mentored the young Shivaji, proving himself a keen outdoorsman but lacking a formal education and was most likely illiterate. Shivaji drew his earliest trusted generals and a number of soldiers from the Maval region to remain with him in Pune, in their company he set off over the hills and into the forests of the Sahyadri range; there he hardened himself and gained knowledge of the land about him and the region. At the age of 12 Shivaji was sent to Bangalore where he and his elder brother Smabhaji and stepbrother Ekoji I all received further training. Shivaji married Saibai, a member of the rising Nimbalkar family, in 1640. At age 14 Shivaji returned to Pune with a rajmudra, meaning 'sovereign seal', and a ministerial court; around 1645 he first expressed the notion of Hindavi Swarajya in a letter to Dadaji Naras Prabhu.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHIVAJI_HEADING_3">
+			<Text>Aggravated Adilshahi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHIVAJI_TEXT_3">
+			<Text>That year, at the age of 16 Shivaji bribed the Bijapuri commander, Inayat Khan to hand control of Torna Fort to Shivaji; Firangoji Narsala professed loyalty to Shivaji and handed the Chakan fort to him and the Adilshahi governor gave him the fort of Kondana for a bribe. On July 25, 1649 Adilshah Mohammed Adil Shah attempted to contain Shivaji's domain by sending Baji Ghorpade to imprison his father; accounts vary as to Shahaji's captivity with his release ranging from 1649 to 1655. Whichever the case, upon his release Shahaji retired from his duties and lived privately until 1665 in a hunting accident. After the morning of his father Shivaji continued the raiding and claimed the kingdom of Javali from another Maratha chieftain.[NEWLINE][NEWLINE]During 1659 the Adilshah sent Afzal Khan, a veteran and experienced general to eliminate Shivaji and quash what he saw as a regional revolt. Khan desecrated Hindu temples at Tuljapur and Pandharpur in an effort to draw Shivaji to the plains, a battlefield the Bijapuri army could destroy him; in response Shivaji sent Khan a letter to negotiate. On November 10 that year they met in a hut at the foothills of Pratapgad. The arrangement dictated they armed with just a sword and attended by a follower, suspecting an attack from Khan or planning to himself Shivaji work armor under his clothes, had a dagger in his right hand and concealed a bagh nakh, meaning 'tiger claw' - it is a metal claw weapon to fit over the knuckles, on his left arm. Accounts vary as to who started the fight, but both the Maratha and Persian chronicles notate Khan's dagger hitting Shivaji's armor and Shivaji mortally injuring Khan, Shivaji then signaled his hidden troop to assault the Bijapuri army.[NEWLINE][NEWLINE]The assault is known as the Battle of Pratapgarh, Shivaji defeated the forces with the infantry's speed and cavalry's agility hammering the Bijapuri army. The unlikely victory made Shivaji a hero of the Maratha and a legend. The captured weapons, horses, armor and other materials strengthen the emerging Maratha army to the point that the Mughal emperor Aurangzeb saw Shivaji as a major threat to the empire. Soon after Shivaji, Shahaji and the chief of the cavalry, Netaji Palkar decided to attack and defeat the Adilshahi kingdom at Bijapur. Shahaji's health took a turn for the worse though and the attack was postponed, in the meantime Palkar continued to harass the Adilshahi with further attacks. To reverse the loss at Pratapgarh and defeat the Maratha a larger army was sent to met and destroy Shivaji under the leadership of general Rustamjaman. On December 28, 1659 Shivaji met him with 5000 cavalry near Kolhapur, outnumbered two to one Shivaji soundly defeated the Bijapuri again after several hours of battle, Rustamjaman fled the battlefield and the Battle of Kolhapur alarmed Aurangazeb to address the rising threat, calling Shivaji the "Mountain Rat".[NEWLINE][NEWLINE]The following year the Adilshah sent his general Siddi Jauhar to attack the Marathai southern frontier in an allied battle with the Mughals who were to attack from the north. Shivaji was camped at Panhala Fort near the latest claim of Kolhapur. In mid 1660 Jauhar besieged the fort, Shivaji escaped and withdrew his forces to Rangna. Ali Adil Shah arrived at the field in person and after four months the fort fell to the Adilshah. During the siege Jauhar purchased grenades and hired artillerymen from the British in Rajapur, they conspicuously flew the Union Jack into battle. Deeply betrayed Shivaji sought vengeance and plundered the English factory at Rajapur, capturing four of the factors and imprisoning them until mid 1663.[NEWLINE][NEWLINE]Believing the enemies were quickly converging on him Shivaji now sought to avoid defeat. Baji Prabhu Deshpande, a Maratha sardar of Bandal Deshmukh, and 300 soldiers volunteered to fight the enemy at Ghod Khind and defend Shivaji to the death as he retreated to the Vishalgad Fort. This became the Battle of Pavan Khind on July 13, 1660, where the small Maratha force held back the enemy for many hours as Shivaji made his escape. Deshpande was injured in the ensuing battle but carried on fighting until he heard the sound of cannon fire from Vishalgad, the signal of Shivaji's arrival. A truce was made between Shivaji and the Adilshah through Shahaji; Panhala Fort was given to Jauhar and the site of Ghod Khind was renamed Paavan Khind, meaning 'sacred pass', to honor Deshpande and the soldiers who fought there.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHIVAJI_HEADING_4">
+			<Text>Mughal Fury</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHIVAJI_TEXT_4">
+			<Text>Before 1657 Shivaji maintained peace with the Mughal Empire, Shivaji even offered aid to Aurangzeb in conquering Bijapur in exchange for the right to claim the forts and villages as his own. The wars began in March of that year when two of Shivaji's officers raided the Mughal owned Ahmednagar, and then followed by raids in Junnar where Shivaji claimed 300,000 hun in cash and 200 horses. Aurangzeb responded by sending Nasiri Khan to defeat the forces in Ahmednagar, this was held back during the rainy season and after the succession battle for the throne following the illness of Shah Jahan.[NEWLINE][NEWLINE]By the request of Badi Begum of Bijapur the Mughal emperor sent his maternal uncle, Shaista Khan with an army of more than 150,000 and artillery to attack Shivaji in January 1660; this was the Mughal force that worked with the Adilshah general Siddi Jauhar. Better equipped and provisioned Khan seized Pune and the neighboring Chakan Fort, besieging it for one and a half months until breaching the walls. Khan pressed his advantage further by establishing his resistance at Shivaji's palace of Lal Mahal. In April 1663 Shivaji launched a surprise attack on Shaista Khan in Pune; the accounts vary once again but they agree that he and 200 followers infiltrated the city using a wedding procession as cover, they overcame the palace guards, breached the wall and entered Khan's quarters, killing all they crossed paths with. Shaista Khan himself escaped minus a thumb he lost in battle, but one of his sons and other members of the household fell in the assault. Khan took refuge outside Pune and Aurangzeb punished him for the embarrassment by tranfering him to Bengal. Shaista Khan later sent an Uzbek general, Kartalab Khan to attack Shivaji's forces in the Konkan region on February 3, 1661. In an attempt to surprise the Marathas the Mughal troops were in fact themselves surprise attacked by Shivaji in the Battle of Umberkhind. Foreseeing defeat the commander Raibagan advised Khan to parley with Shivaji; he allowed the Mughals to surrender their supplies and arms in exchange for safe passage home. Shivaji retaliated against Shaista Khan's attacks with the sacking of Surat in 1664, the attack also replenished the depleted Maratha coffers.[NEWLINE][NEWLINE]Infuriated by the attack Aurangzeb sent Mirza Raja Jai Singh I with an army 150,000 strong to annihilate Shivaji. Jai Singh was effective in battle, claiming a number of forts and thus forced Shivaji to come to terms with the emperor rather than run heavier loses. Shivaji and Jai Singh signed the Treaty of Purandar on June 11, 1665, Shivaji agreed to pass 23 forts to Mughal control and pay 400,000 rupees in compensation. The greater loss in the treaty was Shivaji's son Sambhaji to become a Mughal sardar and Shivaji himself would serve in the Mughal court and fight with the Mughals against Bijapur. Shivaji's commander Netaji Palkar joined the Mughals; Palkar was rewarded handsomely, converted to Islam and changed his name to Quli Mohammed Khan the following year where he was sent to fight tribes in the Afghan borders. Palkar returned to both Marathi and Shivaji's service in 1676 and was accepted back as a Hindu.[NEWLINE][NEWLINE]On May 12, 1666 Aurangzeb invited Shivaji and his son to Agra; the emperor's plan was simply to send Shivaji to Kandahar to consolidate the northwest frontier of the empire, but during the meeting in the court the emperor made Shivaji stand behind military commanders - Shivaji took great offense to this and stormed out of the court. Aurangzeb placed him under house arrest and placed the Kotwal of Agra, Faulad Khan to keep a watch on him. During the arrest spies informed Shivaji of Aurangzeb's plans to move him to Raja Vitthaldas' residence and possibly kill him there or send Shivaji to fight in the Afghan frontiers, Shivaji schemed escape. Feigning illness Shivaji requested most of his men back to the Deccan, ensuring their safety, and sent daily offerings of sweets to saints, fakirs and temples in Agra to bless him for better health. Being a nine year old child Sambhaji could freely leave the prison camp, Shivaji disguised himself as a laborer carrying sweets on August 17, 1666. They both fled to the Deccan disguised as sadhus, 'holy men', and after the escape Shivaji spread the rumor of his son's death in order to protect him.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHIVAJI_HEADING_5">
+			<Text>Vengeance</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHIVAJI_TEXT_5">
+			<Text>With Shivaji's escape hostilities ebbed and the established treaty ended by the end of 1670 when he launched a major offensive, in four months most of the territory lost five years before were recovered in this single campaign. In it the Marathas won the fort of Sinhgad with the general, Tanaji Malusare falling in the process, and the second sacking of Surat; the Mughals tried to intercept Shivaji after the sacking but lost in the Battle of Vani-Dindori.[NEWLINE][NEWLINE]In October 1670 Shivaji once again harassed the British in Bombay as they refused to sell him war material, he blocked the woodcutting parties. The following year Shivaji sent an ambassador to Bombay to again request material to fight Danda-Rajpuri, but the British had misgivings with the implications of Shivaji's advantages in the conquest, but the British also didn't want to miss the opportunity to gain compensation for his looting in Rajapur many years before. The British East India Company sent Lieutenant Stephen Ustick to treat with Shivaji, but negotiations failed over indemnity. In the following years envoys would continue to met and discuss the matter; agreement was reached to the issue of arms in 1674 but Shivaji would never pay the Rajapur indemnity before his death, and from that the affected factory dissolved in 1682.[NEWLINE][NEWLINE]In 1674 the commander of the Maratha forces, Prataprao Gujar was sent to repel an invasion force led by Adilshahi general Bahlol Khan. Gujar was successful in this and captured Khan in battle, but Khan sued for peace. Shivaji warned Gujar against peace with the general, but Gujar released him and upon reaching safely Khan prepared for the next invasion. Upset by the turn of events Shivaji sent a letter to Gujar, refusing him audience until a re-capture was made. Shivaji and Gujar learned of a force of 15,000 camped at Nesari led by Bahlol Khan. However, not wanting to risk losing the smaller Maratha force entirely, Gujar and six of his sardars attacked the force in a suicide mission, buying time for Anandrao Mohite to withdraw the army to safety. The Marathas avenged the death of Prataprao Gujar by defeated Khan and capturing his jagir under the leadership of Anaji and Hambirao Mohite, the new commander of the Maratha forces. Raigad Fort was newly built as a capital of the Maratha kingdom.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHIVAJI_HEADING_6">
+			<Text>Built on a Title</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHIVAJI_TEXT_6">
+			<Text>Shivaji gained many territories and great wealth through the campaigns, but lacked a formal title; due to this Shivaji was still technically a Mughal zamindar or the son of an Adilshahi jagirdar, and could not rule a de facto domain. A title would address this and in turn prevent challenges from the rest of the Maratha leaders, who at this time were still Shivaji's equals, and provide the Hindu Marathas with a Hindu sovereign in a region otherwise ruled by Muslims. Thus Shivaji was crowned king of the Marathas at Raigad on June 6, 1674. Pandit Gaga Bhutt officiated, holding a vessel filled with the seven sacred waters over Shivaji's head and chanted the mantras. Shivaji bowed before his mother Jijabai in a ceremony seen by approximately 50,000 people, he was entitled Shakakarta, Kshatriya Kulavantas and Chhatrapati - meaning "founder of an era", "head of Kshatriyas" and "paramount sovereign" respectively. Twelve days after Jijabai died; seen as a bad omen a second coronation ceremony was held on September 24, 1674 and was precised over by Nischal Puri. At the time of the coronation the Maratha state was a kingdom, it would become a full-fledged empire a century later. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHIVAJI_HEADING_7">
+			<Text>Further Conquest and Death</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHIVAJI_TEXT_7">
+			<Text>With the kingdom established Shivaji returned to his expansionist campaigns, raiding Khandesh, capturing Bijapuri Phonda, claiming Karwar and Kolhapur by mid 1675. The navy engaged with the Siddis of Janjira and Peshwa Pingale fought the Raja of Ramnagar en route to Surat in 1676. By the end of the year Shivaji raided Athani, besieged Belgaum and Vayem Rayim and captured the forts of Vellore and Gingee. Shivaji called for a sense of Deccani patriotism in southern India, proclaiming it a homeland that should be protected from outsiders. The proclamation led to a treaty with the Qutubshah of Golconda in the eastern Deccan.[NEWLINE][NEWLINE]In late March 1680 Shivaji fell ill with fever and dysentery, dying in early April that year. Succession was a complex issue as his eldest son Sambhaji was irresponsible and "addicted to sensual pleasures". Shivaji confined him to Panhala in 1678 where Sambhaji and his wife escaped and defected to the Mughals for a year. Sambhaji returned afterward without regret for his actions and was again confined the Panhala. Shivaji's widow, Soyarabai planned with ministers to install her ten year old son Rajaram to the throne, having done so on April 21, 1680. Sambhaji captured Raigad Fort, killing the commander there and by June 18 took control of the city itself, ascending in July 20. This would eventually become the Maratha War of Independence as the Mughals seized the chance to claim Maratha in the ensuing instability.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHIVAJI_HEADING_8">
+			<Text>Verdict of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHIVAJI_TEXT_8">
+			<Text>As a warlord Shivaji made great feats on the battlefield, launching surprise attacks and constantly resisting the Persianized rulers, as a patriot he embodied the spirit of nationalism in the Hindu population in the Deccan as he finally asserted independence in the final years before his death. Nineteenth century revivalist Swami Vivekanada paid many tributes to the hero and best describes Shivaji's mark in history:	"Shivaji is one of the greatest saviors who emancipated our society and our Hindu dharma when they were faced with the threat of total destruction. He was a peerless hero, a pious and God-fearing king and verily a manifestation of all the virtues of a born leader of men described in our ancient scriptures. He also embodied the deathless spirit of our land and stood as the light of hope for our people."</Text>
+		</Row>
+		<!--Raja Raja I-->
+		<Row Tag="TXT_KEY_LEADER_RAJA_RAJA_I_DESC">
+			<Text>Raja Raja I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAJA_RAJA_I_NAME">
+			<Text>Rajaraja Chola I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAJA_RAJA_I_TITLES_1">
+			<Text>King of the Chola Dynasty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAJA_RAJA_I_SUBTITLE">
+			<Text>Leader of The Chola</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAJA_RAJA_I_LIVED">
+			<Text>947 - 1014</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAJA_RAJA_I_FACT_1">
+			<Text>Despite being brought up in a somewhat restrictive Hindu sect, Raja Raja was fairly tolerant towards other faiths and beliefs. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAJA_RAJA_I_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAJA_RAJA_I_TEXT_1">
+			<Text>Rajaraja Chola I is considered one of the greatest ever Indian kings and possibly the greatest leader of the Chola. Born Arulmozhi Varman, he was the third child of the king, and was never declared the crown prince. However, he proved himself on the battlefield, and soon enough, his rise to power was complete. Rajaraja soon attacked neighbouring states, by land and sea, and put the Chola Empire in the best possession it had ever been in. Towards the end of his reign, he left the state in a peaceful place, leaving a legacy to secure his place in history.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAJA_RAJA_I_HEADING_2">
+			<Text>Early Life and Chola Prince</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAJA_RAJA_I_TEXT_2">
+			<Text>As a child, Raja Raja Chola (or Arulmozhi) was not brought up in the lavish lifestyle of a stereotypical prince. Although he did live a life of luxury, he was often on the battlefield, expanding the kingdom. According to a lot of sources, Raja Raja had no intention of becoming king, although his older siblings often bickered about it due to their right to rule. He was named a pince of the Chola Dynasty, and kept on fighting in several wars, until he was democratically elected as ruler of the empire, over his older siblings. According to some inscriptions, Raja Raja was a form of, or at least the image of Vishnu, a supreme deity in Hinduism, having allegedly had marks to show his place as the god. Some scholars believe that Raja Raja initially had no intention of inheriting the kingdom because he instead wanted to build up the military might and resources to get ready himself for war once he ascended to the throne.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAJA_RAJA_I_HEADING_3">
+			<Text>Conquests in the South</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAJA_RAJA_I_TEXT_3">
+			<Text>Although many people believe that Raja Raja was at war from the early days of his reign, there is no evidence that he actually went to war until his eighth year in power. This is presumably because he wanted to finish the constriction of a massive army, capable of wiping out any enemy. Many kingdoms in the south, including the once - powerful Pandyas, were allied against the Chola dynasty, so Raja Raja sought to destroy them. He started his exceptional campaign by destroying a fleet in Kerala, which was altogether successful for the Cholas. He continued this campaign by going round the rest of the Pandyas lands, and soon enough assumed the title "Mummudi-Chola", or "the Chola king who wears three crowns", referencing his now-enlarged empire. Several poems were written about his expeditions, including one about the killing of eighteen princes as revenge for an insult dealt to him. Raja Raja grew his empire further up India's west coast, but stopped part way up. [NEWLINE][NEWLINE] Raja Raja's next target was Sri Lanka - a fairly large island just to the south of the Chola territory. In 1017, he captured the whole island, although it was reconquered before the end of the century. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAJA_RAJA_I_HEADING_4">
+			<Text>Wars of the North</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAJA_RAJA_I_TEXT_4">
+			<Text>After winning many naval battles, Raja Raja's attention turned to the north of India. Little by little, he attacked kingdoms to the north, and took the entire Ganga country. It is still unclear as to why Raja Raja put so much focus into these wars, as he already had a large amount of the territory to the north, but nevertheless, he did extremely well in his conquest of the area. The war in the north had almost been constant throughout his reign, and his next targets were the Chalukyas, another dynasty whom the Cholas had a rivalry with. Raja Raja enjoyed success in the early days of the war, but the enemy soon struck back at them. By the end of the war, the new boundary was established at the Tungabadhra River. Next, Raja Raja attacked the Vengi, proven by several temples and Chola Naval bases in the territory. The last land target for Raja Raja was Kalinga, which he took without much difficulty. The Chola's new aim was to gain supreme naval dominance in the region, which was made easy by Raja Raja's already proven skill on the water.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAJA_RAJA_I_HEADING_5">
+			<Text>Naval Wars</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAJA_RAJA_I_TEXT_5">
+			<Text>The Chola navy were an expert military force, who had assisted in the invasion of Sri Lanka, as well as the wars against the Pandyas. According to Rajaraja, there were around 12,000 islands out there that needed to fall under Chola dominance. The islands he spoke of were this time in the far east of the empire, around the present-day Indonesian islands. The navy used had improved since the times of Rajaraja's father, and was now ready to be utilised as an invasion force for any nation, seeing as the Chola navy was the first ever in India, and thus the only one on the continent, letting him take a lot of the Indochinese peninsula and the south-east Asian archipelago with relative ease. As well as expanding the empire far beyond the homeland, the Chola dynasty demanded tribute from several smaller states around the area. This empire was now one of the biggest in Asia, with possibly the most effective use of a naval force this far into history. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAJA_RAJA_I_HEADING_6">
+			<Text>Return to Peace</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAJA_RAJA_I_TEXT_6">
+			<Text>After the multitude of wars in his reign, Rajaraja settled down to a period of peace and prosperity for the empire. The trade was still doing fine in the area; the empire was now huge, at its largest until Rajendra would come along. A lot of resources were dedicated to the architecture going on in the region, and soon, the Cholas were one of the leading nations in the Indian subcontinent. A lot of records were made of the events that happened during Rajaraja's reign, hence why we have a very clear image of what his policies were and how his reign unfolded. Raja Raja died in 1014, with an empire several times larger than any of his predecessors had ruled over.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAJA_RAJA_I_HEADING_7">
+			<Text>Judgement of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAJA_RAJA_I_TEXT_7">
+			<Text>Today, Rajaraja I Chola is known as a warrior king who dramatically expanded the borders of his empire. He made the Chola a feared naval power in the region, and probably made the largest advancements towards the Cholas becoming a powerhouse in the area than any other person in the dynasty. As well as being a highly capable general, Raja Raja was incredibly good at administration the newly-conquered territories, which is why the new empire didn't fall apart almost instantly. He also built many great buildings in the Chola heartlands and beyond, and to the best of our knowledge, the buildings still exist today. Raja Raja I Chola was a fantastic ruler in times of both war and peace, and was able to make sure that as well as not getting defeated, the Chola Dynasty made several gains. He is mostly remembered today as the forefather of the Chola supremacy in the region, and continues to be known as a great tactician and politician.</Text>
+		</Row>
+		<!--Ashoka-->
+		<Row Tag="TXT_KEY_LEADER_ASHOKA_DESC">
+			<Text>Ashoka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHOKA_LIVED">
+			<Text>c. 617 - 649</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHOKA_NAME">
+			<Text>Ashoka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHOKA_SUBTITLE">
+			<Text>Leader of the Maurya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHOKA_TITLES_1">
+			<Text>Chandaashoka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHOKA_TITLES_2">
+			<Text>Samraat Chakravartin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHOKA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHOKA_TEXT_1">
+			<Text>Ashoka Maurya was an emperor of the Maurya dynasty and one of the greatest leaders in Indian history. He originally stretched the empire to cover nearly the entire subcontinent; from Khorasan and parts of ancient Afghanistan, through the Hindu Kush mountains to Bangladesh and Assam and as far south as Kerala and Andhra Pradesh. However Ashoka is mostly remembered for the battle against Kalinga where he ultimately adopted Buddhism and renounced violence. In his edicts Ashoka is referred to as Devanampriya - "the Beloved of the Gods" - and Priyadarsin - "He who regards everyone with affection". </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHOKA_HEADING_2">
+			<Text>Early Life and Reign</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHOKA_TEXT_2">
+			<Text>Born in the capital of Pataliputra, Ashoka was the son of emperor Bindusara and Dharma, a lower ranked wife of his, although texts tend to differ over his mother; the Avadana suggest his mother to be Queen Subhadrang. It is from her exclamation "I am now without sorrow," where Ashoka got his name. The Divyavadana tells a similar story, the queen is named Janapadakalyani. Ashoka had several older siblings; all of them were half-brothers from Bindusara's other wives. As a child his fighting abilities were apparent, where he received royal military training. Ashoka was known as a fearsome hunter; legend suggests that he killed a lion with just a wooden stick. Due to this reputation of a fierce warrior and a heartless general Ashoka was sent to quash the riots in the Avanti province of the empire.[NEWLINE][NEWLINE]The Divyavadana continues to tell Ashoka's story, the text describes Ashoka putting down a revolt caused by the activities of corrupt ministers. Chanakya, one of Bindusara's great lords - and the same lord who advised Chandragupta Maurya - destroyed the nobles and kings of 16 towns and laid claim to all the land between the eastern and western seas. Historians differ as to the proceeding events that ensued as a result; most understand this as an indication of Bindusara's conquest of the Deccan. Nonetheless following the suppression of the revolt Ashoka was stationed at Ujjayini as governor. Bindusara's death by 273 BC led to a war over succession. The Divyavadana tells that Bindusara wanted his son Sushim to succeed, but Ashoka was supported by the late emperor's ministers, suggesting Sushim as arrogant and disrespectful. One of the ministers, Radhagupta played a very important role in Ashoka's rise. The Ashokavadana recounts Radhagupta offering Ashoka an old royal elephant for him to ride to the Garden of the Gold Pavilion where King Bindusara would determine his successor. Afterwards Ashoka got rid of the legitimate heir to the throne by tricking him into entering a pit full of live coals. According to the Ashokavadana Radhagupta would be appointed prime minister by Ashoka once he secured the throne - four years after his succession Ashoka was coronated in 269 BC.[NEWLINE][NEWLINE]Buddhist texts suggest that Ashoka was of a terrible nature and a bad temper - however Professor Charles Derekmeier cautions that these texts intend to dramatize the change that the religion brought to him, and thus exaggerate Ashoka's past after his conversion. What is known is that as Ashoka ascended the throne he expanded the empire over the next eight years - up to the present-day borders of Burma and Bangladesh, and the state of Assam in India in the east to present-day Iran, Persia and Afghanistan in the west. From the Pamir Knots in the north to very nearly the tip of the peninsula at southern India.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHOKA_HEADING_3">
+			<Text>Kalinga - the Battle that Changed Everything</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHOKA_TEXT_3">
+			<Text>Of Ashoka's conquests as emperor of the Mauryan empire the Kalinga War is his most famous victory, but not from the tactics of the battle nor the valor of the men. During his reign Kalinga was a state that prided its sovereignty and democracy. As a monarchical parliamentary democracy the state was unique in ancient Bharata - the state adopted 'Rajdharma', meaning 'the duty of the rulers', which was entwined with bravery and dharma. Ashoka invaded the state and annexed it with relative ease, but as he cavorted the streets, basking in his victory, he was moved by the sheer number of bodies littering the ground - over 100,000 men fell in battle; 10,000 of which were Ashoka's own men, as well as a number of civilians rallying to defend Kalinga - and the wails of the kith and kin of the dead - the battle displaced more than 150,000 citizens.[NEWLINE][NEWLINE]So touched and remorseful was Ashoka that he converted to Buddhism, rejecting violence and conquest and replacing it with peace and harmony. This ultimately led to massive expansion of the religion by Ashoka in the Mauryan empire and beyond at about c. 250 BC. His son and daughter - Mahinda and Sanghamitra respectively - later continued his expansion of Buddhism by establishing it in Ceylon, what is now Sri Lanka.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHOKA_HEADING_4">
+			<Text>Forty Peaceful Years</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHOKA_TEXT_4">
+			<Text>After the annexation of Kalinga and his conversation to Buddhism, Ashoka returned to his throne and ensured peace and friendly relations through the rest of his rule. Forty years past, and in that time Ashoka established a golden age in the empire.[NEWLINE][NEWLINE]Ashoka believed that Buddhism is beneficial for all man and animal-kind as well as the plant life, this belief encouraged the construction of many stupas, viharas, chaitya and other residences for Buddhist monks across the empire - according to the Ashokavadana he ordered the creation of 84,000 stupas to hold the Buddha's relics. He gave donations to viharas and mathas, sent his son and daughter to Sri Lanka to spread the religion, and also sent prominent Buddhist monks to present-day Kashmir, Afghanistan, Syria, Persia, Egypt, Greece, Italy, Turkey, Nepal, Bhutan, China, Mongolia, Cambodia, Laos, Burma, Thailand and Vietnam - Ashoka single-handedly spread Buddhism to all of the known world. Ashoka is also well known to have sent emissaries to transmit messages or letters to various people in the wider world. It was not unusual to add oral messages to the letters and these were used to spread his dhammavijaya - his victory through dhrama, which he saw as his greatest victory. Greeks living in the empire were also active in spreading Buddhism - some of Ashoka's emissaries are described in Pali sources as leading Greek Buddhist monks.[NEWLINE][NEWLINE]Domestically Ashoka held strong might until his conversion where he maintained friendlier ties with the frontier kingdoms. His edicts tell us that he provided medical treatment for humans and animals in and out of the empire, and built wells and planted trees along the roads to benefit his people. Ashoka banned the slaughter and consumption of cattle and imposed restriction on fishing and eating fish. By banning hunting, creative veterinary clinics and removed eating meat on many holidays the Mauryan Empire under Ashoka is described as "one of the few instances in world history of a government treating its animals as citizens who are as deserving of its protection as the human residents."[NEWLINE][NEWLINE]Ashokmudra, the Lion Capital of Ashoka is a sculpture of four Indian lions standing back to back. Originally it rested atop the Aśoka pillar in Sarnath, while the pillar still stands in its original location the Lion Capital is now in the Sarnath Museum. The Lion Capital has been adopted as the Indian national emblem and the "Ashoka Chakra", a Buddhist motif found at the Lion Capital's base, was adopted into the Indian flag in its center. Carved from a single block of polished sandstone, the capital contains the four lions mounted on an abacus, with a frieze carrying sculptures of an elephant, a horse, a bull and a lion by istelf, all separated by spoked chariot wheels over a bell-shaped lotus. The animals represent the different steps of Buddha's life; the elephant symbolizes Buddha's idea, referring to the dream of Queen Maya of a white elephant entering her womb. The bull represents desire during his life as a prince. The horse displays Buddha's departure from life in the palace. The lion represents his accomplishments. Other construction efforts from Ashoka include the Mahabodhi Temple in Bihar, Bhir Mound in Taxila and Butkara Stupa in Swat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHOKA_HEADING_5">
+			<Text>Death and Rediscovery</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHOKA_TEXT_5">
+			<Text>At the age of 72 Ashoka died in 232 BC. Legend says his body burned for seven days and nights during his cremation, however we know that his ashes were spread across the Ganges River possibly as Varanasi less than a day after his death. The reign of Ashoka was very nearly lost to the world, he left no record of his reign apart from the sculpted pillars found all around what was the empire. The pillars inscribed his actions and teachings he wanted to publish under his name, as a result of this Ashoka left behind the Prakrit language, the first written language in the subcontinent since the ancient Harappa. Just ten of the Ashokstambha - Pillars of Ashoka - survive with inscriptions. The first Ashokstambha was found in the 16th century by English traveler Thomas Coryat in the ruins of ancient Delhi. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHOKA_HEADING_6">
+			<Text>Judgement of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHOKA_TEXT_6">
+			<Text>Ashoka was without doubt one of the greatest leaders in Indian history, originally a mighty warrior and tactician Ashoka is more well known for his dramatic and iconic turnaround from an aggressor to a pacifist. His far-reaching spread of Buddhism and friendly banter to other kingdoms held the happiness of the people and kept the peace of the empire. One of Ashoka's most endearing legacies, Buddhist kingship is still present today in Thailand through the traditional role of the Thai king as a religious and secular leader. </Text>
+		</Row>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- Diplomacy Lines - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--Akbar-->
+		<Row Tag="TXT_KEY_LEADER_AKBAR_FIRST_GREETING_1">
+			<Text>Welcome to the land of the Mughals. I trust you do not have anything as impressive in your homeland?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AKBAR_FIRST_GREETING_2">
+			<Text>Welcome to my court. Tell me, are you a friend to trade with, or an enemy to depose?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AKBAR_DEFEATED_1">
+			<Text>The Mughal Empire has yielded to these barbarous peoples. I worry for the sake of future generations of this planet - with us gone, is there anyone who remains civilised? </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_AKBAR_DEFEATED_2">
+			<Text>How is this possible? You have thrown me from my kingdom, despite clearly being the inferior power! Be aware that your reign will not last, for I will return twice as powerful as before</Text>
+		</Row>
+		<!--Akbar-->
+		<Row Tag="TXT_KEY_LEADER_SHIVAJI_FIRST_GREETING_1">
+			<Text>Who is this before me? Some citizen of a foreign land? What brings you to the Maratha confederacy?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHIVAJI_FIRST_GREETING_2">
+			<Text>Oh, a new challenger in the world court? As a sign of goodwill I shall offer you advice - by the time you know you have made an enemy of us, it will be too late.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHIVAJI_DEFEATED_1">
+			<Text>You believe you have conquered us? Fool. You will not have conquered us until you conquer every tree, every mountain, every river and every street in this kingdom. My people are everywhere.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SHIVAJI_DEFEATED_2">
+			<Text>Enjoy your moment of glory while it lasts. You will not survive the year, lest you relinquish control of that which is not yours.</Text>
+		</Row>
+		<!--Akbar-->
+		<Row Tag="TXT_KEY_LEADER_RAJA_RAJA_I_FIRST_GREETING_1">
+			<Text>Greetings, friend. Let us discuss the future of trade between our two great nations!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAJA_RAJA_I_FIRST_GREETING_2">
+			<Text>I do not recognise the build of ship from which you have disembarked. Where do you hail from?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAJA_RAJA_I_DEFEATED_1">
+			<Text>How can an occupation benefit anyone? We would have gladly exchanged resources of our land with you, yet now you oppress our people to gain them?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RAJA_RAJA_I_DEFEATED_2">
+			<Text>How can this be? Through conquests, I have taken too much to be defeated in such a disgraceful manner.</Text>
+		</Row>
+		<!--Akbar-->
+		<Row Tag="TXT_KEY_LEADER_ASHOKA_FIRST_GREETING_1">
+			<Text>You look fatigued. I am Ashoka, and let it be known that if your peoples face hardships in your land, they can seek refuge here.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHOKA_FIRST_GREETING_2">
+			<Text>We resent that it took so long for us to meet! I am Ashoka, Emperor of Emperors, and your future king of course.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHOKA_DEFEATED_1">
+			<Text>We kneel to you, oh Emperor. Please take care of our people, for clearly I could not.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ASHOKA_DEFEATED_2">
+			<Text>I do not fear death, for I have atoned for my violent past. When shall you atone for yours?</Text>
+		</Row>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- City Lists- - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--Mughal-->
+		<Row Tag="TXT_KEY_CITY_NAME_MUGHAL_AGRA">
+			<Text>Agra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MUGHAL_GAUR">
+			<Text>Gaur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MUGHAL_FATEHPUR_SIKRI">
+			<Text>Fatehpur Sikri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MUGHAL_LAHORE">
+			<Text>Lahore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MUGHAL_SHAHJAHANABAD">
+			<Text>Shahjahanabad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MUGHAL_KABUL">
+			<Text>Kabul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MUGHAL_CHAMPANER">
+			<Text>Champaner</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MUGHAL_KANDAHAR">
+			<Text>Kandahar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MUGHAL_CHUNAR">
+			<Text>Chunar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MUGHAL_JODHPUR">
+			<Text>Jodhpur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MUGHAL_MULTAN">
+			<Text>Multan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MUGHAL_AJMER">
+			<Text>Ajmer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MUGHAL_JAUNPUR">
+			<Text>Jaunpur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MUGHAL_MANDU">
+			<Text>Mandu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MUGHAL_CHITTOR">
+			<Text>Chittor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MUGHAL_AHMEDABAD">
+			<Text>Ahmedabad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MUGHAL_BHAKKAR">
+			<Text>Bhakkar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MUGHAL_SURAT">
+			<Text>Surat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MUGHAL_PUTNA">
+			<Text>Putna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MUGHAL_KASHMIR">
+			<Text>Kashmir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MUGHAL_SRINAGAR">
+			<Text>Srinagar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MUGHAL_SEHWAN">
+			<Text>Sehwan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MUGHAL_SIBI">
+			<Text>Sibi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MUGHAL_ORCHHA">
+			<Text>Orchha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MUGHAL_KISTWAR">
+			<Text>Kistwar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MUGHAL_AHMEDNAGAR">
+			<Text>Ahmednagar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MUGHAL_BIJAPUR">
+			<Text>Bijapur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MUGHAL_BIDAR">
+			<Text>Bidar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MUGHAL_CHITTAGONG">
+			<Text>Chittagong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MUGHAL_GOLKONDA">
+			<Text>Golkonda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MUGHAL_SATARA">
+			<Text>Satara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MUGHAL_GUWAHATI">
+			<Text>Guwahati</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MUGHAL_GARHGAON">
+			<Text>Garhgaon</Text>
+		</Row>
+		<!--Maratha-->
+		<Row Tag="TXT_KEY_CITY_NAME_MARATHA_RAIGAD">
+			<Text>Raigad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MARATHA_PUNE">
+			<Text>Pune</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MARATHA_SANGAMESHWAR">
+			<Text>Sangameshwar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MARATHA_VISHALGAD">
+			<Text>Vishalgad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MARATHA_GINGE">
+			<Text>Ginge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MARATHA_SINHAGAD">
+			<Text>Sinhagad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MARATHA_DHAR">
+			<Text>Dhar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MARATHA_INDORE">
+			<Text>Indore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MARATHA_GWALIOR">
+			<Text>Gwalior</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MARATHA_GINGEE">
+			<Text>Gingee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MARATHA_PALKHED">
+			<Text>Palkhed</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MARATHA_VASAI">
+			<Text>Vasai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MARATHA_ARCOT">
+			<Text>Arcot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MARATHA_TIRUCHIRAPPALLI">
+			<Text>Tiruchirappalli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MARATHA_KATAK">
+			<Text>Katak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MARATHA_RAIPUR">
+			<Text>Raipur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MARATHA_RATANPUR">
+			<Text>Ratanpur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MARATHA_BILASPUR">
+			<Text>Bilaspur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MARATHA_SAMBALPUR">
+			<Text>Sambalpur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MARATHA_NAGPUR">
+			<Text>Nagpur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MARATHA_GADHA-MANDLA">
+			<Text>Gadha-Mandla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MARATHA_CHANDRAPUR">
+			<Text>Chandrapur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MARATHA_DELHI">
+			<Text>Delhi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MARATHA_PESHAWAR">
+			<Text>Peshawar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MARATHA_BHOPAL">
+			<Text>Bhopal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MARATHA_CHANDERI">
+			<Text>Chanderi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MARATHA_NARWAR">
+			<Text>Narwar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MARATHA_SALBAI">
+			<Text>Salbai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MARATHA_GOHAD">
+			<Text>Gohad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MARATHA_GAJENDRAGAD">
+			<Text>Gajendragad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MARATHA_PATAN">
+			<Text>Patan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MARATHA_UJJAIN">
+			<Text>Ujjain</Text>
+		</Row>
+		<!--Chola-->
+		<Row Tag="TXT_KEY_CITY_NAME_CHOLA_CHOLAPURAM">
+			<Text>Cholapuram</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHOLA_THANJAVUR">
+			<Text>Thanjavur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHOLA_PAZHAIYARAI">
+			<Text>Pazhaiyarai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHOLA_KANCHIPURAM">
+			<Text>Kanchipuram</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHOLA_NAGAPATTINAM">
+			<Text>Nagapattinam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHOLA_ANURADHAPURA">
+			<Text>Anuradhapura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHOLA_THIRUVARUR">
+			<Text>Thiruvarur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHOLA_URAIYUR">
+			<Text>Uraiyur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHOLA_THIRUALAVAI">
+			<Text>Thirualavai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHOLA_THOOTHUKUDI">
+			<Text>Thoothukudi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHOLA_THIRUNELVELI">
+			<Text>Thirunelveli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHOLA_POLONARUWA">
+			<Text>Polonaruwa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHOLA_PANDYA-KAVADA">
+			<Text>Pandya-Kavada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHOLA_CHENNAPATNAM">
+			<Text>Chennapatnam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHOLA_KATHARAGAMA">
+			<Text>Katharagama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHOLA_VENGI">
+			<Text>Vengi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHOLA_POLONNARUWA">
+			<Text>Polonnaruwa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHOLA_ADICHANALLUR">
+			<Text>Adichanallur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHOLA_SATHYAPUTRA">
+			<Text>Sathyaputra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHOLA_GOKANNA">
+			<Text>Gokanna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHOLA_MAHIYANGANAYA">
+			<Text>Mahiyanganaya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHOLA_GOADAWAYA">
+			<Text>Goadawaya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHOLA_MAGAMPURA">
+			<Text>Magampura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHOLA_DEDIGAMA">
+			<Text>Dedigama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHOLA_MAHA_THOTA">
+			<Text>Maha Thota</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHOLA_MAHA_THALE">
+			<Text>Maha Thale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHOLA_POOMPUHAR">
+			<Text>Poompuhar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHOLA_MAISURU">
+			<Text>Maisuru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHOLA_BENGALURU">
+			<Text>Bengaluru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CHOLA_KALYANI">
+			<Text>Kalyani</Text>
+		</Row>
+		<!--Maurya-->
+		<Row Tag="TXT_KEY_CITY_NAME_MAURYA_PATALIPUTRA">
+			<Text>Pataliputra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAURYA_SARNATH">
+			<Text>Sarnath</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAURYA_UJJAIN">
+			<Text>Ujjain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAURYA_MATHURA">
+			<Text>Mathura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAURYA_INDRAPRASTHA">
+			<Text>Indraprastha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAURYA_SUVARNAGIRI">
+			<Text>Suvarnagiri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAURYA_TAMRALIPTI">
+			<Text>Tamralipti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAURYA_VARANASI">
+			<Text>Varanasi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAURYA_LUMBINI">
+			<Text>Lumbini</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAURYA_TOSHALI">
+			<Text>Toshali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAURYA_SANCHI">
+			<Text>Sanchi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAURYA_KAUSAMBI">
+			<Text>Kausambi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAURYA_AMARAVATI">
+			<Text>Amaravati</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAURYA_LAURIYA-ARARAJ">
+			<Text>Lauriya-Araraj</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAURYA_BODH_GAYA">
+			<Text>Bodh Gaya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAURYA_SOPARA">
+			<Text>Sopara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAURYA_LALITAPATNA">
+			<Text>Lalitapatna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAURYA_JAUGADA">
+			<Text>Jaugada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAURYA_SANNATHI">
+			<Text>Sannathi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAURYA_LAURIYA-NANDANGARH">
+			<Text>Lauriya-Nandangarh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAURYA_YERRAGUDI">
+			<Text>Yerragudi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAURYA_DHAULI">
+			<Text>Dhauli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAURYA_MEERUT">
+			<Text>Meerut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAURYA_TAXILA">
+			<Text>Taxila</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAURYA_KAPILVASTU">
+			<Text>Kapilvastu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAURYA_SHABAZGARHI">
+			<Text>Shabazgarhi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAURYA_MAHAAN_SEHRA">
+			<Text>Mahaan Sehra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAURYA_PATTALA">
+			<Text>Pattala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAURYA_KOPASI">
+			<Text>Kopasi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MAURYA_KALSI">
+			<Text>Kalsi</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

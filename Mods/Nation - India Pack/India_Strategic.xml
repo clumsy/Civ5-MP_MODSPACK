@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Pouakai -->
+<GameData>
+	<ArtDefine_StrategicView>
+		<Replace>
+			<StrategicViewType>ART_DEF_UNIT_MUGHAL_FARSAKH_CANNON</StrategicViewType>
+			<TileType>Unit</TileType>
+			<Asset>sv_farsakh_cannon.dds</Asset>
+		</Replace>
+		<Replace>
+			<StrategicViewType>ART_DEF_UNIT_MARATHA_SEPOY</StrategicViewType>
+			<TileType>Unit</TileType>
+			<Asset>sv_sepoy.dds</Asset>
+		</Replace>
+		<Replace>
+			<StrategicViewType>ART_DEF_UNIT_MARATHA_PINDARI</StrategicViewType>
+			<TileType>Unit</TileType>
+			<Asset>sv_pindari.dds</Asset>
+		</Replace>
+		<Replace>
+			<StrategicViewType>ART_DEF_UNIT_INDIA_GURKHA</StrategicViewType>
+			<TileType>Unit</TileType>
+			<Asset>sv_gurkha.dds</Asset>
+		</Replace>
+		<Replace>
+			<StrategicViewType>ART_DEF_UNIT_CHOLA_THALAI_THIRVAI</StrategicViewType>
+			<TileType>Unit</TileType>
+			<Asset>sv_thalai_thirvai.dds</Asset>
+		</Replace>
+		<Replace>
+			<StrategicViewType>ART_DEF_UNIT_CHOLA_KADATPADAI</StrategicViewType>
+			<TileType>Unit</TileType>
+			<Asset>sv_kadatpadai.dds</Asset>
+		</Replace>
+	</ArtDefine_StrategicView>
+</GameData>

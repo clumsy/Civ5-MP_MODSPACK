@@ -1,0 +1,56 @@
+﻿<!-- Created by Janboruta -->
+<GameData>
+	<!-- ++++++++++++++++++++++++++++++ -->
+	<!-- Earth Giant map start position -->
+	<!-- ++++++++++++++++++++++++++++++ -->
+	<Civilizations_YagemStartPosition>
+		<Update>
+			<Where Type="CIVILIZATION_INDIA"/>
+			<Set X="68" Y="48"/>
+		</Update>
+		
+	</Civilizations_YagemStartPosition>	
+	<!-- +++++++++++++++++++++++++++++ -->
+	<!-- Earth Huge map start position -->
+	<!-- +++++++++++++++++++++++++++++ -->
+	<Civilizations_YahemStartPosition>
+		<Update>
+			<Where Type="CIVILIZATION_INDIA"/>
+			<Set X="95" Y="42"/>
+		</Update>
+		
+	</Civilizations_YahemStartPosition>
+	<!-- ++++++++++++++++++++++++++++++++++ -->
+	<!-- Earth Cordiform map start position -->
+	<!-- ++++++++++++++++++++++++++++++++++ -->
+	<Civilizations_CordiformStartPosition>
+		<Update>
+			<Where Type="CIVILIZATION_INDIA"/>
+			<Set X="59" Y="23"/>
+		</Update>
+		
+	</Civilizations_CordiformStartPosition>		
+	<!-- +++++++++++++++++++++++++++++++++++ -->
+	<!-- "Greatest Earth Map" start position -->
+	<!-- +++++++++++++++++++++++++++++++++++ -->
+	<Civilizations_GreatestEarthStartPosition>
+		<Update>
+			<Where Type="CIVILIZATION_INDIA"/>
+			<Set X="80" Y="38"/>
+		</Update>
+		
+	</Civilizations_GreatestEarthStartPosition>
+	<!-- ++++++++++++++++++++++++++ -->
+	<!-- Indian Capital name change -->
+	<!-- ++++++++++++++++++++++++++ -->
+	<Language_en_US>
+		<Update>
+			<Set Text="Calcutta"/>
+			<Where Tag="TXT_KEY_CITY_NAME_DELHI"/>
+		</Update>
+		<Update>
+			<Set Text="New Delhi"/>
+			<Where Tag="TXT_KEY_CITY_NAME_CALCUTTA"/>
+		</Update>
+	</Language_en_US>
+</GameData>
