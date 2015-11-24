@@ -1635,6 +1635,9 @@ ContextPtr:LoadNewContext("Friendships")
 -- Nation - Serbia (Peter I) --
 ContextPtr:LoadNewContext("Peter I Functions")
 
+-- Nation - Bosnia --
+ContextPtr:LoadNewContext("BosniaUA")
+
 -- Nation - Ashanti --
 ContextPtr:LoadNewContext("MC_Ashanti_Functions")
 ContextPtr:LoadNewContext("CityInfoStack")

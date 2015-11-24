@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/8/2014 8:50:58 PM -->
+<GameData>
+	<Units>
+	<Row>
+		<Class>UNITCLASS_SWORDSMAN</Class>
+		<Type>UNIT_KRSTJAN</Type>
+		<PrereqTech>TECH_IRON_WORKING</PrereqTech>
+		<Combat>12</Combat>
+		<Cost>50</Cost>
+		<FaithCost>150</FaithCost>
+		<RequiresFaithPurchaseEnabled>true</RequiresFaithPurchaseEnabled>
+		<Moves>2</Moves>
+		<HurryCostModifier>20</HurryCostModifier>
+		<CombatClass>UNITCOMBAT_MELEE</CombatClass>
+		<Domain>DOMAIN_LAND</Domain>
+		<DefaultUnitAI>UNITAI_ATTACK</DefaultUnitAI>
+		<Description>TXT_KEY_UNIT_KRSTJAN</Description>
+		<Civilopedia>No info</Civilopedia>
+		<Strategy>TXT_KEY_UNIT_KRSTJAN_STRATEGY</Strategy>
+		<Help>TXT_KEY_UNIT_KRSTJAN_HELP</Help>
+		<MilitarySupport>true</MilitarySupport>
+		<MilitaryProduction>true</MilitaryProduction>
+		<Pillage>true</Pillage>
+		<ObsoleteTech>TECH_STEEL</ObsoleteTech>
+		<GoodyHutUpgradeUnitClass>UNITCLASS_LONGSWORDSMAN</GoodyHutUpgradeUnitClass>
+		<AdvancedStartCost>20</AdvancedStartCost>
+		<XPValueAttack>3</XPValueAttack>
+		<XPValueDefense>3</XPValueDefense>
+		<Conscription>1</Conscription>
+		<UnitArtInfo>ART_DEF_UNIT_SWORDSMAN</UnitArtInfo>
+		<UnitFlagAtlas>UNIT_ATLAS_KRSTJAN_ALPHA</UnitFlagAtlas>
+		<UnitFlagIconOffset>0</UnitFlagIconOffset>
+		<IconAtlas>KRSTJAN_ATLAS</IconAtlas>
+		<PortraitIndex>0</PortraitIndex>
+		<MoveRate>HEAVY_BIPED</MoveRate>
+	</Row>
+	</Units>
+	<Unit_AITypes>
+	<Row>
+		<UnitType>UNIT_KRSTJAN</UnitType>
+		<UnitAIType>UNITAI_ATTACK</UnitAIType>
+	</Row>
+	<Row>
+		<UnitType>UNIT_KRSTJAN</UnitType>
+		<UnitAIType>UNITAI_DEFENSE</UnitAIType>
+	</Row>
+	</Unit_AITypes>
+	<Unit_ClassUpgrades>
+		<Row>
+			<UnitType>UNIT_KRSTJAN</UnitType>
+			<UnitClassType>UNITCLASS_LONGSWORDSMAN</UnitClassType>
+		</Row>
+	</Unit_ClassUpgrades>
+	<Unit_Flavors>
+		<Row>
+			<UnitType>UNIT_KRSTJAN</UnitType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_KRSTJAN</UnitType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+	</Unit_Flavors>
+	<Unit_YieldFromKills>
+		<Row>
+			<UnitType>UNIT_KRSTJAN</UnitType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>50</Yield>
+		</Row>
+	</Unit_YieldFromKills>
+	
+			
+</GameData>

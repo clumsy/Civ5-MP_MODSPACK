@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="beb8df6d-6eed-4ff4-988f-9b6ba92ab36d" version="3">
+  <Properties>
+    <Name>Kingdom of Bosnia (Brave New World)</Name>
+    <Stability>Beta</Stability>
+    <Teaser>Adds the Kingdom of Bosnia to the game as a playable civilization. Requires Brave New World.</Teaser>
+    <Description>Adds the Kingdom of Bosnia to the game as a playable civilization. Requires Brave New World.
+
+Leader: Tvrtko I
+
+Unique Ability: Crkva Bosanska - +25% experience for new units produced in cities where a Missionary is stationed. Receive a free Great General upon discovering Theology.
+
+UU: Krstjan - Replaces Swordsman. Weaker and cheaper than the swordsman it replaces, does not require Iron. Earns Faith from kills.
+
+UB: Bogomilian Church - Replaces Temple. Provides +1 happiness and a free missionary appears near the city where it is built.
+
+Credits:
+Hiram - XML
+COF - Art, concept
+LastSword - Lua
+TarcisioCM - Icons
+
+Music Credits:
+http://www.youtube.com/watch?v=Y8vWiwIEVSM
+http://www.youtube.com/watch?v=yDyanfkNM28</Description>
+    <Authors>Hiram, COF, LastSword</Authors>
+    <SpecialThanks>LastSword, TarcisioCM</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="487A4E281952E0AAED9AC273AC9BDC10" import="1">Art/bosdom.dds</File>
+    <File md5="67E98F5C3F8A248E59E0A4C781DE92D6" import="1">Art/bosmap.dds</File>
+    <File md5="7E5EA75EBD40FCAF5032AE0AA7D00C76" import="1">Art/Buildingicons/bogchurch128.dds</File>
+    <File md5="85503A5C814059ECA1EA140D28790672" import="1">Art/Buildingicons/bogchurch256.dds</File>
+    <File md5="DABD8E5096507246E984F965BA78C85A" import="1">Art/Buildingicons/bogchurch45.dds</File>
+    <File md5="B2E5BB31F44A62F08B080C795C8F85F7" import="1">Art/Buildingicons/bogchurch64.dds</File>
+    <File md5="23D07F0CDE67E616B5743692994C9622" import="1">Art/Civicons/bosalpha128.dds</File>
+    <File md5="A75755712AEE4439F800C32F59395B09" import="1">Art/Civicons/bosalpha16.dds</File>
+    <File md5="5BDEEF4E1D1CEAE17F0E67400C4B91D4" import="1">Art/Civicons/bosalpha24.dds</File>
+    <File md5="1AD4E7A4BDDC90C98C0354136FB45925" import="1">Art/Civicons/bosalpha32.dds</File>
+    <File md5="4A9CC2D3C07B36EB63A8DD4B751A8AB5" import="1">Art/Civicons/bosalpha48.dds</File>
+    <File md5="EE279E2E83053D65292661E142FABC7F" import="1">Art/Civicons/bosalpha64.dds</File>
+    <File md5="4EBF6DEAF3E4BE70A07C933B5CBD0843" import="1">Art/Civicons/bosicon128.dds</File>
+    <File md5="99C2AC7CF71683E2A8B5D3DD2A6F8A09" import="1">Art/Civicons/bosicon214.dds</File>
+    <File md5="FDAF503B4F534534AD0F2E44403D372E" import="1">Art/Civicons/bosicon256.dds</File>
+    <File md5="77329BA57B42E67E029BEAC93E394404" import="1">Art/Civicons/bosicon32.dds</File>
+    <File md5="BAD85931542E4ED458C06CCE9B46A5FA" import="1">Art/Civicons/bosicon45.dds</File>
+    <File md5="273348010D654EF3EA62AA1B25319845" import="1">Art/Civicons/bosicon64.dds</File>
+    <File md5="B63A7442CCCBFA10BC0D619D056B1134" import="1">Art/Civicons/bosicon80.dds</File>
+    <File md5="C89F2B3D7B4658EC1B3D9B2855373B36" import="1">Art/Leadericons/tvrtko128.dds</File>
+    <File md5="98671C82BAC9EAB2B597981F77D55051" import="1">Art/Leadericons/tvrtko256.dds</File>
+    <File md5="696C3964DA2E9D2AB465D1B630CDC3E1" import="1">Art/Leadericons/tvrtko64.dds</File>
+    <File md5="ABB67A6076488D8293F82679C82ED34E" import="1">Art/tvrtko.dds</File>
+    <File md5="DE682550E77C7F9CE46F907166198704" import="1">Art/Uniticons/krstjan128.dds</File>
+    <File md5="456370D4C713504635AB33D4A0C23743" import="1">Art/Uniticons/krstjan256.dds</File>
+    <File md5="CA5E827BC43A0B8DCC12EB971C41D9E8" import="1">Art/Uniticons/krstjan32.dds</File>
+    <File md5="69BF3C361968A4524CA27779F5AB4357" import="1">Art/Uniticons/krstjan45.dds</File>
+    <File md5="B7B1AE6B886263367AC8BBED47531DBB" import="1">Art/Uniticons/krstjan64.dds</File>
+    <File md5="D66C1796E68D44CA5056BE727C19F3E8" import="1">Art/Uniticons/krstjan80.dds</File>
+    <File md5="F18F31E7261452F125D83DAD936818A7" import="0">Lua/BosniaUA.lua</File>
+    <File md5="4FD952D072BB190E2073A272735965B4" import="1">Sounds/TvrtkoPeace.mp3</File>
+    <File md5="562A429B474104B9F0036A61A4A469FA" import="1">Sounds/TvrtkoWar.mp3</File>
+    <File md5="D879FC73F90E7BD3340E510CCD22C21B" import="0">XML/Buildings.xml</File>
+    <File md5="4A94A4F69BE313463856CEF12FB812D5" import="0">XML/Civilizations.xml</File>
+    <File md5="E8F3A5F7C0B18BF515F7B129382BD70E" import="0">XML/Sounds.xml</File>
+    <File md5="71AFF5A3C13CE9EACAD729006A331802" import="1">XML/Tvrtko_Scene.xml</File>
+    <File md5="424796AA06C2E26AE9B5EF7D45F2D8C3" import="0">XML/IconAtlas.xml</File>
+    <File md5="A0A480A200DA420EDFB5E1E8B6BA539C" import="0">XML/Leaders.xml</File>
+    <File md5="5F02D754C75D3CBBE340ED40C08E824C" import="0">XML/Text.xml</File>
+    <File md5="0A37B323D05B0B2C23FE8D2E7E19C208" import="0">XML/Units.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>XML/IconAtlas.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Sounds.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/BosniaUA.lua">
+      <Name>BosniaUA.lua</Name>
+      <Description>Bosnia UA</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

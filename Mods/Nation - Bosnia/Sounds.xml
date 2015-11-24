@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/30/2014 8:48:46 PM -->
+<GameData>
+	<Audio_Sounds>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_TVRTKO_PEACE</SoundID>
+			<Filename>TvrtkoPeace</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_LEADER_MUSIC_TVRTKO_WAR</SoundID>
+			<Filename>TvrtkoWar</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+	</Audio_Sounds>
+	<Audio_2DSounds>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_TVRTKO_PEACE</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_TVRTKO_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>50</MinVolume>
+			<MaxVolume>50</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_LEADER_MUSIC_TVRTKO_WAR</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_TVRTKO_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>true</IsMusic>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_AMBIENCE_LEADER_TVRTKO_AMBIENCE</ScriptID>
+			<SoundID>SND_AMBIENCE_DESERT_BED</SoundID>
+			<SoundType>GAME_SFX</SoundType>
+			<Looping>true</Looping>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+		</Row>
+	</Audio_2DSounds>
+</GameData>

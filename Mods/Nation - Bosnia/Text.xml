@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/8/2014 8:51:29 PM -->
+<GameData>
+	<!-- gameplay -->
+	<Language_en_US>
+		<Row Tag="TXT_KEY_TRAIT_HERETICAL_CHURCH">
+			<Text>+25% experience for new units produced in cities where a Missionary is stationed. Receive a free Great General upon discovering Theology.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_HERETICAL_CHURCH_SHORT">
+			<Text>Crkva Bosanska</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_BOGOMILCHURCH_DESC">
+			<Text>Bogomilian Church</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BOGOMILCHURCH_HELP">
+			<Text>Replaces Temple. Provides +1 [ICON_HAPPINESS_1] happiness and a free missionary appears near the city where it is built.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_BOGOMILCHURCH_TEXT">
+			<Text>
+				NOTHING
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BOGOMILCHURCH_STRATEGY">
+			<Text>The Bogomilian Church provides happiness in addition to faith and a free missionary.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_KRSTJAN">
+			<Text>Krstjan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_KRSTJAN_HELP">
+			<Text>Replaces Swordsman. Weaker and cheaper than the swordsman it replaces, does not require Iron. Yields faith from kills.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_KRSTJAN_TEXT">
+			<Text>NOTHING</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_KRSTJAN_STRATEGY">
+			<Text>The Krstjan is weaker than the Swordman which it replaces, however it is also cheaper yields faith from kills.</Text>
+		</Row>
+
+	</Language_en_US>
+
+	<!-- civilopedia -->
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_KDMBOSNIA_DESC">
+			<Text>Kingdom of Bosnia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_KDMBOSNIA_SHORT_DESC">
+			<Text>Bosnia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_KDMBOSNIA_ADJECTIVE">
+			<Text>Bosnian</Text>
+		</Row>
+
+		<!--Info-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_KDMBOSNIA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_KDMBOSNIA_TEXT_1">
+			<Text>
+				NOTHING
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_TVRTKO_LIVED">
+			<Text>?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_TVRTKO_NAME">
+			<Text>Tvrtko I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_TVRTKO_SUBTITLE">
+			<Text>King of Bosnia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_TVRTKO_HEADING_1">
+			<Text>Historical account</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_TVRTKO_TEXT_1">
+			<Text>
+				NOTHING
+			</Text>
+		</Row>
+
+
+
+		<Row Tag="TXT_KEY_LEADER_TVRTKO">
+			<Text>Tvrtko I</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV_KDMBOSNIA_DOM_QUOTE">
+			<Text>
+				Hail Tvrtko I, first king of the Kotromanic dynasty. After succeeding your uncle as Ban of Bosnia you fought against many rivals in order to become king of both Bosnia and Serbia. During your time as King you fought alongside many other powers in the region against the conquering Ottoman Empire, a feat which you took great pride in. In your later days you fought against Hungary, however it was sudden death, not battle, that ended your reign in Bosnia. [NEWLINE][NEWLINE]Great leader, will you lead Bosnia to glory? Will you build a civilization to stand the test of time?
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_TVRTKO_FIRSTGREETING_1">
+			<Text>Welcome to the Kingdom of Bosnia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TVRTKO_FIRSTGREETING_2">
+			<Text>Greetings, this is Bosnia. On what terms do you approach me?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_TVRTKO_DEFEATED_1">
+			<Text>Bosnia falls...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TVRTKO_DEFEATED_2">
+			<Text>You have defeated us this time, but our nation will rise again!</Text>
+		</Row>
+	</Language_en_US>
+
+</GameData>
