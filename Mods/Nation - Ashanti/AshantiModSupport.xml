@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/7/2015 1:25:36 PM -->
+<GameData>
+	<Language_en_US>
+		<!--Wish for the World-->
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MC_TUTU_I">
+			<Text>Yaa Asantewaa</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--Unique Cultural Influence-->
+		<Row Tag="TXT_KEY_GENERIC_MC_ASHANTI_INFLUENTIAL_ON_AI_1">
+			<Text>My people have started to wear kente cloth and play fontomfrom drums. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

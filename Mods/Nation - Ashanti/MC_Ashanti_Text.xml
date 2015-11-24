@@ -1,0 +1,347 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Pouakai -->
+<GameData>
+	<Language_en_US>
+		<!--Unique Unit-->
+		<Row Tag="TXT_KEY_UNIT_MC_ASHANTI_DRUMROLL_WARRIOR">
+			<Text>Drumroll Warrior</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_ASHANTI_DRUMROLL_WARRIOR_HELP">
+			<Text>Replaces Spearman. Weaker, but receive two for every one produced. Generates +1 [ICON_GOLDEN_STOOL] GSP for every XP earned. Only the Ashanti may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_ASHANTI_DRUMROLL_WARRIOR_STRATEGY">
+			<Text>The Drumroll Warrior is a unique Ashanti spearman replacement. Although weaker than the spearman, two Drumroll Warriors are received for every one produced. Additionally, the Drumroll Warrior generates Golden Stool points equivalent to every experience point earned, which can be spent on units and other features.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_ASHANTI_DRUMROLL_WARRIOR_PEDIA">
+			<Text>Drums such as the fontomfrom, a form of talking drum, played a huge role in both the daily and military life of the Ashanti. The drummer of the Ashantihene, for example, was the foremost historian of the nation; beating its history and recounting battles and past chiefs at festivals. Likewise, soldiers could use the drum to boost morale, warn of danger, and call men to arms. However, the drum was not used as a means of signaling, i.e. tapping out a predetermined code, but rather mimicked actual speech. Drummers could reproduce the tone, punctuation, and accent of the Ashanti dialect with their instrument, allowing them to convey whole phrases and strategic messages over great distances and in an incredibly short space of time.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_ASHANTI_ABRADE">
+			<Text>Abrade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_ASHANTI_ABRADE_HELP">
+			<Text>Replaces Rifleman. Receives a bonus when fighting wounded units. On the first turn after being purchased or produced, has two additional movement points.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_ASHANTI_ABRADE_STRATEGY">
+			<Text>Abrade are a Rifleman replacement unique to the Ashanti. For the first turn immediately following the unit's purchase or production, the Abrade has an additional two movement points. Additionally, the Abrade receives a combat bonus when fighting wounded units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_ASHANTI_ABRADE_PEDIA">
+			<Text>The Ashanti became familiar with firearms in the 18th century, and by the 19th century, the bulk of their best troops were armed with a variety of guns, such as the standard European trade musket. However, though these firearms proved serviceable weapons in a local context, they were already obsolete compared to first rank European firearms. The Ashanti army itself was elaborately organized into six parts: scouts (akwansrafo); advance guard (twafo); main infantry (adonten); general's bodyguard (gyase); rear guard (kyidom); and the left and right wings (benkum and nifa). Though guns were added and adapted into this six part breakdown, the primary structure was based on traditional military organization present in the Akan states prior to European contact. The six part organization also allowed for a large degree of flexibility and decentralization, important in the thick forests of Western Africa. Since heavy jungle growth often hindered large scale battles, Ashanti methods involved smaller tactical sub-units, ambushes, constant movement, and more dispersed strikes and counter-strikes.</Text>
+		</Row>
+		<!--Promotion Tags-->
+		<Row Tag="TXT_KEY_PROMOTION_MC_ASHANTI_EXTRA_MOVES">
+			<Text>Extra Moves</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_ASHANTI_EXTRA_MOVES_HELP">
+			<Text>2 extra moves during first movement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_ASHANTI_GOLDEN_STOOL_POINTS">
+			<Text>Protector of the Golden Stool</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MC_ASHANTI_GOLDEN_STOOL_POINTS_HELP">
+			<Text>Generates  [ICON_GOLDEN_STOOL] Golden Stool Points as it earns experience.</Text>
+		</Row>
+		<!--Unique Ability-->
+		<Row Tag="TXT_KEY_TRAIT_GOLDEN_STOOL_SHORT">
+			<Text>Golden Stool</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_GOLDEN_STOOL">
+			<Text>Gain [ICON_GOLDEN_STOOL] Golden Stool Points (GSP) whenever a City is conquered or converted to your religion or when a Great Person is expended. [ICON_GOLDEN_STOOL] GSP can be used to recruit units and influence or integrate City States.</Text>
+		</Row>
+		<!--Spy Names-->
+		<Row Tag="TXT_KEY_SPY_NAME_MC_ASHANTI_0">
+			<Text>Prempeh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_ASHANTI_1">
+			<Text>Mensa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_ASHANTI_2">
+			<Text>Oti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_ASHANTI_3">
+			<Text>Okwan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_ASHANTI_4">
+			<Text>Kofi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_ASHANTI_5">
+			<Text>Ason</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_ASHANTI_6">
+			<Text>Anane</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_ASHANTI_7">
+			<Text>Tawia</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_ASHANTI_8">
+			<Text>Akosua</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_ASHANTI_9">
+			<Text>Adwoa</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--Denonyms-->
+		<Row Tag="TXT_KEY_MC_ASHANTI_DESC">
+			<Text>Ashanti Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_ASHANTI_SHORT_DESC">
+			<Text>The Ashanti</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_MC_ASHANTI_ADJECTIVE">
+			<Text>Ashanti</Text>
+		</Row>
+		<!--Civilopedias-->
+		<Row Tag="TXT_KEY_MC_ASHANTI">
+			<Text>The Ashanti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_ASHANTI_TITLE">
+			<Text>Ashanti Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_ASHANTI_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_ASHANTI_TEXT_1">
+			<Text>Occupying most of modern-day Ghana, the Ashanti Empire was one of the most powerful African kingdoms ever to have been in existence. Originating in the 17th century, the Ashanti came to dominate their portion of the Gold Coast, which was fought over by colonial superpowers in years to come. The Ashanti fiercely resisted, largely due to their adoption of firearms and devastating military strategy, with an extremely disciplined army. However, the Ashanti used their massive territorial expansion for economic good as well, given that this opened up trade routes with the European powers, notably the Dutch. After years of war, the British Empire eventually defeated the Ashanti in 1902, though the Ashanti are still recognised as a sub-state of Ghana today.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_ASHANTI_HEADING_2">
+			<Text>Geography</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_ASHANTI_TEXT_2">
+			<Text>With territories from the Gold Coast stretching deep into the African Continent, the Ashanti Empire covered a variety of different climate areas. In the heart of the Ashanti territory lies Lake Bosumtwi, which is considered sacred by the Ashanti. To the east of the traditional lands is one of Ghana’s largest rivers, the Volta, which flows out to the Gold Coast after its tributaries connect in northern Ashantiland. The Ashanti homeland was mountainous in parts, mostly covered in forest with the Guinea Savanna in the north and more temperate forest in the south.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_ASHANTI_HEADING_3">
+			<Text>Early History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_ASHANTI_TEXT_3">
+			<Text>The Ashanti lands, mostly populated by the Akan people, were initially settled by them around the 10th century AD, populating the south of present-day Ghana. The Akan founded a multitude of separate states in this region, and over the years they developed into larger kingdoms. By the time of their first encounter with Europeans, they had established themselves as prominent among the Akan states as a gold-rich nation, the trade of which was to flourish when the colonisation of west Africa began, the Europeans ever-greedy for foreign riches.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_ASHANTI_HEADING_4">
+			<Text>Founding the Confederation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_ASHANTI_TEXT_4">
+			<Text>The Ashanti Kingdom was a clan-based system, each clan with a considerable degree of independence, headed by the Amanhene, the overall clan chief. The Amanhene initially had limited power over the Ashanti as a whole; despite being a unifying figure, ready to fight against rivals, most power lay with the clan chiefs. For a while, the Ashanti themselves were vassals of a larger Akan state, the Denkyira. However, in the 17th century, the Ashanti consolidated themselves into a much more centralised state, with the ultimate unifying symbol being the Golden Stool. According to legend, the first king of the confederation, Osei Tutu, called a meeting of all the clan chiefs prior to declaring independence from the Denkyira. During this assembly, the heavens opened up to give way to the Golden Stool - which reportedly drifted into Osei Tutu’s lap. True or not, Osei Tutu was almost unanimously declared the new Asantehene, and lead the Ashanti nation to independence after a brief conflict with the Denkyira.[NEWLINE][NEWLINE]The Ashanti quickly expanded; after overcoming the Denkyira, they consolidated power around nearby lands. With an alliance of friendly Akan city-states, Osei Tutu adopted a policy of crushing his nearby foes, with rapid expansion high on the agenda. The declaration of independence of the Ashanti was delivered in 1701, with this rapidly-expanding state very quickly becoming a new player in west Africa. Though the alliance of Akan city-states was very useful in forming the Ashanti state, Tutu wanted this power to be consolidated in the one ruler. Throwing away a lot of the traditional clan-based system, the kingdom brought most of the power to the capital, Kumasi. Newly-conquered lands were either integrated into the empire or became tributaries, ensuring the Ashanti’s sphere of influence would continue to grow. Tutu’s successor as king, Opoku Ware I, conquered much of the land that is modern-day Ghana, carving out a highly impressive empire in a remarkably short space of time.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_ASHANTI_HEADING_5">
+			<Text>Enter the Europeans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_ASHANTI_TEXT_5">
+			<Text>Territorial progress continued throughout the 18th century. However, in the 19th century, the Ashanti advance had mostly slowed, as they turned to a more prosperous pastime - gold, ivory and slave trade. Powers such as the Portuguese and the British were willing to pay vast deals of money for what the Ashanti had to offer, allowing them to profit off their colonial expeditions, unlike most nations, which were simply taken over at first sight. However, many Europeans at home thought of the Ashanti as inferior still. Thomas Bowdich, an English explorer, traveled to the Ashanti nation, and found himself highly impressed with their kingdom. However, even after writing a book on his travels, Europeans still didn’t want to acknowledge the Ashanti as at least on-par with European civilisation. Treaties were established with the Ashanti regardless, as the Brits began formal diplomatic relations with them.[NEWLINE][NEWLINE]The Ashanti had always had a tradition of selling slaves; normally prisoners of war, they were quite happy to sell them onto the Europeans for profit where they could. Slavery was justified by the Ashanti belief that slaves would follow their masters into the afterlife. However, slavery within Ashanti society was quite different to what it was for the purposes of Europeans. With several different social classes of slaves, there was a chance that slaves would be treated extremely well at times. Masters would occasionally marry their slaves, for complex social reasons.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_ASHANTI_HEADING_6">
+			<Text>Decline of the Kingdom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_ASHANTI_TEXT_6">
+			<Text>Though the Brits had mostly left the Ashanti alone, they finally broke all ties with them in 1895. A British expedition force was sent to Kumasi, with the intention of destroying the central power that was so important to the confederation’s success. The Asantehene, Agyeman Prempeh, ordered his people not to resist. Soon after, Prempeh was captured and the Ashanti kingdom had fallen. The following year, the British Empire annexed the territory, forcing the Ashanti leaders into exile in the Seychelles. Named part of the Gold Coast colony, most of Africa was now held by European powers, the Ashanti one of the last lines of resistance. However, even the Ashanti still largely had self-governance, most of the Ashanti were unhappy with being a British colony, and would do what they could to rebel.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_ASHANTI_HEADING_7">
+			<Text>The Ashanti Uprising</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_ASHANTI_TEXT_7">
+			<Text>TSome of the Ashanti leaders had not yet been exiled to the Seychelles, and mounted a resistance of their own in 1900. Lead by Yaa Asantewaa, the remaining Ashanti military attacked Kumasi Fort, the centre of British power in the Ashanti lands. A war quickly followed, and despite only lasting a matter of months, convinced the British to give further powers to the Ashanti. Designated a protectorate in 1902, the Ashanti had a significant amount of self-rule. Following the war, Yaa Asantewaa was exiled to the Seychelles as well, ridding the Ashanti of many of its able governors. Since 1935, the Ashanti Kingdom have had self-rule, and have been in political union with Ghana since 1957, when their king was restored to power. With the traditional hierarchy still installed, the Ashanti Kingdom is a complex nation, a country inside a country, independent yet not. The Kingdom abides by the Ashanti rule of law to this day, the King the chief lawmaker, yet bound by the Ashanti bureaucracy. These traditions live on in the state today, adding a strong sense of history to this otherwise mysterious part of west Africa.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_ASHANTI_FACTOID_HEADING">
+			<Text>Ashanti Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_ASHANTI_FACTOID_TEXT">
+			<Text>The founder of the international Scouting association, Robert Baden-Powell, was the British commander during the invasion of the Ashanti territory in 1896.[NEWLINE][NEWLINE]The Ashanti was initially a theocracy, with crimes and sins regarded as much the same thing.[NEWLINE][NEWLINE]The monarch is elected by semi-aristocratic means, with the king (or queen) usually coming from a royal bloodline, but with popular assemblies in force to approve or disapprove of a candidate for the monarch.</Text>
+		</Row>
+		<!--City List-->
+		<Row Tag="TXT_KEY_CITY_NAME_MC_ASHANTI_KUMASI">
+			<Text>Kumasi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_ASHANTI_DENKYIRA">
+			<Text>Denkyira</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_ASHANTI_KONONGO">
+			<Text>Konongo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_ASHANTI_MAMPONG">
+			<Text>Mampong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_ASHANTI_EJURA">
+			<Text>Ejura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_ASHANTI_ATEBUBU">
+			<Text>Atebubu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_ASHANTI_YEJI">
+			<Text>Yeji</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_ASHANTI_WINNEBA">
+			<Text>Winneba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_ASHANTI_ACCRA">
+			<Text>Accra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_ASHANTI_BUNA">
+			<Text>Buna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_ASHANTI_BOLE">
+			<Text>Bole</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_ASHANTI_MANGO">
+			<Text>Mango</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_ASHANTI_KONG">
+			<Text>Kong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_ASHANTI_LITTLE_POPO">
+			<Text>Little Popo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_ASHANTI_BEKWAI">
+			<Text>Bekwai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_ASHANTI_OBUASI">
+			<Text>Obuasi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_ASHANTI_AKROFUOM">
+			<Text>Akrofuom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_ASHANTI_AJUMAKASSI">
+			<Text>Ajumakassi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_ASHANTI_TAKYIMAN">
+			<Text>Takyiman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_ASHANTI_KPEMBE">
+			<Text>Kpembe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_ASHANTI_DABOYA">
+			<Text>Daboya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_ASHANTI_YENDI">
+			<Text>Yendi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_ASHANTI_BANDA">
+			<Text>Banda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_ASHANTI_WANKYE">
+			<Text>Wankye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_ASHANTI_NSOKO">
+			<Text>Nsoko</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_ASHANTI_ATAKPAME">
+			<Text>Atakpame</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_ASHANTI_SUKURA">
+			<Text>Sukura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_ASHANTI_WIAWUSU">
+			<Text>Wiawusu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_ASHANTI_WA">
+			<Text>Wa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_ASHANTI_BASSU">
+			<Text>Bassu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_ASHANTI_ABETITI">
+			<Text>Abetiti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_ASHANTI_KUFURI">
+			<Text>Kufuri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_ASHANTI_JABIN">
+			<Text>Jabin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_ASHANTI_AGOGO">
+			<Text>Agogo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_ASHANTI_DUMASSI">
+			<Text>Dumassi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_ASHANTI_KUMI">
+			<Text>Kumi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_ASHANTI_MANSISU">
+			<Text>Mansisu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_ASHANTI_BEREKUM">
+			<Text>Berekum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_ASHANTI_KINTAMPO">
+			<Text>Kintampo</Text>
+		</Row>
+		<!-- Leader Civlopedia Text -->
+		<Row Tag="TXT_KEY_LEADER_MC_TUTU_I_DESC">
+			<Text>Osei Tutu I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TUTU_I_LIVED">
+			<Text>c.1660 - 1717</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TUTU_I_NAME">
+			<Text>Osei Tutu I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TUTU_I_SUBTITLE">
+			<Text>King of the Ashanti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TUTU_I_TITLES_1">
+			<Text>King Asantehene</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TUTU_I_TITLES_2">
+			<Text>Kumasehene of Kumasi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TUTU_I_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TUTU_I_TEXT_1">
+			<Text>The legendary founder of the Ashanti Confederation, Osei Tutu was born into one of the dominant families of the time, his uncle having preceded him as the ruler of the future Ashanti capital, Kumasi. However, with a large concentration of separate Akan states around this area, it was almost impossible for one state to hold sway over any of the others - divided, the area had long been a puppet state of the Denkyira. Osei Tutu’s reign saw the Ashanti challenge their rule, bringing about a new state that would dominate west Africa for years to come.[NEWLINE][NEWLINE]In 1701, Osei Tutu called a meeting of all the tribal chiefs of Ashanti states, on the eve of revolt against the Denkyira overlords. With unity brought about over cultural and spiritual bonding, it was almost inevitable that the Ashanti would unify - albeit who would rule them was still a point of discussion. However, Okomfo Anokye - one of the Ashanti tribal chiefs, and an advocate of spiritual unity - suddenly bestowed the Golden Stool upon the congregation, and according to legend, as it fell into Osei Tutu’s lap, he was unanimously declared the king of the Ashanti.[NEWLINE][NEWLINE]Tutu, now consolidated as the Ashanti king, went on to destroy the Denkyira rule over the Ashanti. As the king of Kumasi, Tutu declared this the capital of the union - and very quickly made it one of the most powerful entities in the kingdom, centralising power in his seat. Importantly, the power of the king was not absolute, given that there was also an assembly of other chiefs - though Tutu came close to being a despotic monarch. Very shortly after becoming king, he embarked on wide-ranging military expansion, while Okomfo Anokye wrote up the constitution and laws for the kingdom. Very quickly, the Ashanti became a force to be reckoned with. By reorganising the army, and overwriting individual states’ cultural traditions for a more unified approach, Tutu made the the Ashanti a formidable fighting force while being very much a unitary state for years to come.[NEWLINE][NEWLINE]Osei Tutu’s military prowess came at a price; his own life. Over-confident in his ability, he marched on the Akyem without his armour or lucky charms, believing he could overpower them by number alone. Crossing the River Pra, Tutu was shot by Akyem snipers, fatally wounding him - he died within minutes. His last words are said to be “if only I knew”, in reference to his underestimation of the Akyem military. Though the empire’s founder had fallen, the empire continued to grow and prosper for almost three centuries more.</Text>
+		</Row>
+		<!--<Row Tag="TXT_KEY_LEADER_MC_TUTU_I_HEADING_2">
+			<Text>Early Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TUTU_I_TEXT_2">
+			<Text>Victoria was born on the 29th of September in 1786 in Tamazula in New Spain, now the state of Durango. Early on in his life his parents both died, leaving him to be baptized and adopted by his uncle, Agustin Fernandez. He studied at the Durango Seminary and made a living by creating copies of Latin grammar texts to sell to the other students for two reales. In 1807 he left for Ciudad de Mexico, enrolling in the college of San Ildefonso to obtain degrees in Civil and Canon Law. He studied hard and vigorously, and kept himself in line in the tight atmosphere of the militarized school. He graduated with a Bachelor of Laws on the 24th of April, 1811.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TUTU_I_HEADING_3">
+			<Text>The Revolution</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TUTU_I_TEXT_3">
+			<Text>In the beginning of the Mexican Revolution in 1812, he joined the insurgent forces lead by Hermenegild Galeana, fighting in the Siege of Cuautla with Jose Morelos. He also served a part in the siege of Oaxaca, later joining the troops of Nicolas Bravo in Veracruz. He put forth quite a bit of time and effort into raiding military convoys while defending the passage of El Puente del Rey until his defeat in 1815. He retreated to the town of Nautla and for a number of years continued his raids on the Spaniards while going back and forth between losing and gaining towns and territory. By 1817, his loses had disgraced him to the point that his men abandoned him, and that rebel leaders wished to persecute him. He fled to the jungle. He survived by eating herbs, fruits, and animals while also developing epilepsy, all while denying a pardon from the Viceroy for his insurgent actions. He stayed in the jungle for nearly four years before once again emerging to join forces with Agustin de Iturbide and Vicente Guerrero in 1821, helping the final push for independence and ultimately helping to create the Plan of Iguala that would directly lead to the signing of the Declaration of Independence of the Mexican Empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TUTU_I_HEADING_4">
+			<Text>The Mexican Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TUTU_I_TEXT_4">
+			<Text>With the formation of the Mexican Empire, Victoria sought to get Iturbide to fully comply with the Plan of Iguala by letting an unmarried insurgent who had not accepted a pardon marry a native Guatemalan woman in order to unify both Mexico and the Central American states. Iturbide declined and proclaimed himself to be Emperor of Mexico, creating a rift between himself and Victoria. Iturbide’s disbanding of the Mexican Congress within the first year of his reign would ultimately be his downfall as Mexicans quickly became fed up with his actions and promptly dethroning him by 1823 after brief fighting with his forces against those of Victoria and Guerrero. When the dust had settled and Iturbide had abdicated the throne, the role of power was filled by a triumvirate called the Supreme Executive Powers, on which he would serve based in Veracruz until the presidential elections.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TUTU_I_HEADING_5">
+			<Text>Presidency</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TUTU_I_TEXT_5">
+			<Text> In 1826, Victoria was elected to be the first President of Mexico, and appointed Nicolo Bravo as his vice president. The early years of his presidency were characterized by the need to defend against the threat of a Spanish attempt at retaking Mexico, to which he responded by increasing spending on the military, rebuilding damaged infrastructure, and garrisoning the Yucatan in the event of an invasion via Cuba. Victoria is also well known for establishing the National Bank of Mexico to help improve the economy, and even more so for abolishing slavery in Mexico. It was also during his term that he established diplomatic relationships with major world powers such as France, Spain, the United Kingdom, and the United States of America.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TUTU_I_HEADING_6">
+			<Text>Post Presidency</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TUTU_I_TEXT_6">
+			<Text>After serving his full term as president, Victoria promptly retired from a public lifestyle to manage his own affairs, living at his hacienda in Veracruz while he gave the presidency to General Vicente Guerrero. He was briefly appointed military command of Veracruz in 1836, but resigned only a month after being given the position. Even in his retirement, Victoria still assisted the government in handling a few diplomatic affairs, and did so until his death on March 21st 1843.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TUTU_I_HEADING_7">
+			<Text>Verdict of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TUTU_I_TEXT_7">
+			<Text>History views Guadalupe Victoria in a nominally good light. He stood for independence for an oppressed people, fighting against a number of odds in order to see the Mexican Revolution through until a successful end while benefiting the country all the while. His building of the National Bank, educational reforms, and abolition of slavery are by far his most renowned accomplishments, and it is these things that earned him a rightful place in history as one of the greatest leaders Mexico has ever had, and one of the better men of his time.</Text>
+		</Row>-->
+		<Row Tag="TXT_KEY_LEADER_MC_TUTU_I_FIRST_GREETING_1">
+			<Text>Greetings from the king atop the golden stool. How may our prosperous realm be of use?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TUTU_I_FIRST_GREETING_2">
+			<Text>Welcome to the court of Akanland. Our kingdom is one of the fiercest and finest to grace this world.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TUTU_I_DEFEATED_1">
+			<Text>Many have tried to vanquish us, but only you have succeeded. I will relinquish my seat as the divine will intends it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_TUTU_I_DEFEATED_2">
+			<Text>My warriors were outnumbered, yet they fought with spirit and heart. Beware of what you have set in motion.</Text>
+		</Row>
+		<!-- DOM Text-->
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_MC_ASHANTI_TEXT">
+			<Text>Mekyea wo noble Osei Tutu, Asantehene of the Ashanti people! The Akan states of southern Ghana were renowned centers for trade and gold. Yet, they remained divided; lost to petty rivalries and ancient conflicts. Great King, together with your advisor, Okomfo Anokye, you rose to forge a union whose sophistication and military prowess was nearly unmatched in sub-Saharan Africa. By uniting the warring Ashanti chiefs, you overthrew the Denkyera and laid the foundations for a divine kingship. Yet, as your people expanded to the Ivory Coast, conflict with the empires of Europe would prove inevitable. Though your kingdom resisted longer than most, even Ashantiland would ultimately fall to the march of imperialism.[NEWLINE][NEWLINE]Kumasihene, foreign crowns have ravaged your lands. Your people pray to their ancestors and look to the spirit of the Ashanti nation for guidance. It is time to return, to finally cross the River Pra and free your people. Will you heed the call to once more sit upon the Golden Stool? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+	</Language_en_US>	
+</GameData>

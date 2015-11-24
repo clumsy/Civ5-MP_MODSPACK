@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="fac08026-4318-45b6-8eca-65b4a26e9233" version="1">
+  <Properties>
+    <Name>MC's Ashanti Civilisation</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]Ashanti Empire[ENDCOLOR] to the game as a playable civ.</Teaser>
+    <Description>Adds the [COLOR_POSITIVE_TEXT]Ashanti Empire[ENDCOLOR] to the game as a playable civ.</Description>
+    <Authors>More Civs</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD's Piety" />
+    <Mod id="d99bf7aa-51ac-4bef-bd88-d765b28e260e" minversion="0" maxversion="999" title="JFD's Prestige" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events &amp; Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="RED" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Traits" />
+    <Mod id="6676902b-b907-45f1-8db5-32dcb2135eee" minversion="0" maxversion="999" title="ExCE" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="C470C33EF67EF9EAABF44CD187BEE89D" import="1">Art/Atlases/MC_AshantiAlpha_128.dds</File>
+    <File md5="2A7C2F97D5BDD40421ACF1579F1E5BE3" import="1">Art/Atlases/MC_AshantiAlpha_16.dds</File>
+    <File md5="F8B5B0303027C57830043DC5D36EFED3" import="1">Art/Atlases/MC_AshantiAlpha_24.dds</File>
+    <File md5="DE674A7FAE54B7046D9953F9A0EB4CF9" import="1">Art/Atlases/MC_AshantiAlpha_32.dds</File>
+    <File md5="78B433373C2543C16040A132BD1234A8" import="1">Art/Atlases/MC_AshantiAlpha_48.dds</File>
+    <File md5="C26BA98CC948ED75AC325BB375AA0E53" import="1">Art/Atlases/MC_AshantiAlpha_64.dds</File>
+    <File md5="33566C0A78543EBCA6D0737E603585CE" import="1">Art/Atlases/MC_Ashanti_128.dds</File>
+    <File md5="71EB8F2DA9623EB6FB7551437E9AB4C8" import="1">Art/Atlases/MC_Ashanti_256.dds</File>
+    <File md5="A430096AC76841A99F4E918D117400D7" import="1">Art/Atlases/MC_Ashanti_32.dds</File>
+    <File md5="88A45D7B6A6DD8BFABF7DB85EF1DACB7" import="1">Art/Atlases/MC_Ashanti_45.dds</File>
+    <File md5="EEC7883F48F99ABE7E7990203CC19FD9" import="1">Art/Atlases/MC_Ashanti_64.dds</File>
+    <File md5="5746F04A935AC0C71ED64E94BC3636AA" import="1">Art/Atlases/MC_Ashanti_80.dds</File>
+    <File md5="A2EDB1E9EAA534C22A2CCB65E8213745" import="1">Art/FontIcons/Golden_Stool_FontIcon.dds</File>
+    <File md5="B28EDBF021BF8A5D92C91ABDCD3D2525" import="1">Art/FontIcons/Golden_Stool_FontIcon.ggxml</File>
+    <File md5="74B71E59B1D0C393DE04167BB78068B8" import="1">Art/Models/Abrade/flag_MC_Abrade.dds</File>
+    <File md5="92F41B7A5F21B1925DE5A2FDB0BD7457" import="1">Art/Models/Abrade/MC_Abrade.dds</File>
+    <File md5="9E015DF4159FDB936A42954F2E1A8EB4" import="1">Art/Models/Abrade/MC_Abrade.fxsxml</File>
+    <File md5="7D4FCD3F820239BDBF14400DDBA7DF3B" import="1">Art/Models/Abrade/MC_Abrade.gr2</File>
+    <File md5="E815B4CB894D5E2EFDD937E23E8ACEAF" import="0">Art/Models/Abrade/MC_Abrade.sql</File>
+    <File md5="F81F06640EEA7CEEB2E2186176AA99B1" import="1">Art/Models/Abrade/sv_Abrade.dds</File>
+    <File md5="E0B8574A2C16AF1C78D002FA17955828" import="1">Art/Models/Drumroll Warrior/flag_MC_Drumroll.dds</File>
+    <File md5="B00218CDA07A16DF7EE279ABE957B588" import="1">Art/Models/Drumroll Warrior/MC_DrumrollWarrior.dds</File>
+    <File md5="385E5221D0378DF98CCB9C896A33D347" import="1">Art/Models/Drumroll Warrior/MC_DrumrollWarrior.fxsxml</File>
+    <File md5="474D03CD467278B43B0992706600CD0B" import="1">Art/Models/Drumroll Warrior/MC_DrumrollWarrior.gr2</File>
+    <File md5="3BE0092289F06A90AD8425FEBE89C1E1" import="1">Art/Models/Drumroll Warrior/MC_DrumrollWarrior.sql</File>
+    <File md5="B1052DDB4F185B6EF0D408129B27E732" import="1">Art/Models/Drumroll Warrior/sv_DrumrollWarrior.dds</File>
+    <File md5="19F6AF703246C371E63A28E37784D20B" import="1">Art/Scenes/MC_Ashanti_Diplo.dds</File>
+    <File md5="5A66884C5F27AC5E58B05620BB78B3F8" import="1">Art/Scenes/MC_Ashanti_DOM.dds</File>
+    <File md5="C395D90758BD71FDADA0E79AD70BBEC8" import="1">Art/Scenes/MC_Ashanti_Map.dds</File>
+    <File md5="498AA2694200AD8B8FDBE9C7F1DD4149" import="1">Art/UI/Cultural128.dds</File>
+    <File md5="FBD8027539E18316CE77B5210710C43E" import="1">Art/UI/GoldenStool_64.dds</File>
+    <File md5="AD64B44475B3184013723EDCBB0D936A" import="1">Art/UI/Maritime128.dds</File>
+    <File md5="3A56F79DF6A950D2BAE48C6D569236E0" import="1">Art/UI/Mercantile128.dds</File>
+    <File md5="91B0B29788EAE0E9CFED093C8C3CCB0D" import="1">Art/UI/Militzaristic128.dds</File>
+    <File md5="985AFBEF2E30480F1B38CB647921D2DE" import="1">Art/UI/Religious128.dds</File>
+    <File md5="3E1E6E8F2B02745C0E919E6A3BC78048" import="1">Core/Art/MC_Ashanti_Leaderhead.xml</File>
+    <File md5="69C601F475A397D21F80DFB740AD5C11" import="0">Core/Civilizations/MC_Ashanti_Civilizations.xml</File>
+    <File md5="5F0681B147862C5E83FA24C19F677EF9" import="0">Core/GameInfo/MC_Ashanti_IconTextureAtlases.xml</File>
+    <File md5="62758E0925C4C7E1DEB68C41C397AE12" import="0">Core/GameInfo/MC_Ashanti_Sounds.xml</File>
+    <File md5="B97C4815361F0E0AD1C9072B00C9156A" import="0">Core/GameInfo/MC_Ashanti_Traits.xml</File>
+    <File md5="99A5095B38E44479826FDADA29C36CE2" import="0">Core/Leaders/MC_Ashanti_Leader.xml</File>
+    <File md5="9C47DF5C608F0AD573B8671130C979DC" import="0">Core/Mod Support/AshantiModSupport.sql</File>
+    <File md5="F9254DABB7F48C1053C2C4FEC36124A7" import="0">Core/Mod Support/AshantiModSupport.xml</File>
+    <File md5="C40C7E15464DDFFC40AA8F650931FB51" import="0">Core/Text/MC_Ashanti_Text.xml</File>
+    <File md5="20B7747A4EFB956FD3B9F0CA3568A780" import="0">Core/Units/MC_Ashanti_UnitPromotions.xml</File>
+    <File md5="C31C63B167D33436993762F5279EEDB4" import="0">Core/Units/MC_Ashanti_Units.xml</File>
+    <File md5="95741DA4C57419DD1A87DA8891AADF05" import="1">Decisions/MC_Ashanti_Decisions.lua</File>
+    <File md5="E7E1FF4C7625D7367B0E3719FF4E080D" import="0">Decisions/MC_Ashanti_Decisions.sql</File>
+    <File md5="5C29CE7523C0719384FF408C6CEF8675" import="0">Lua/MC_Ashanti_Functions.lua</File>
+    <File md5="92E3F1CB9B1BD88C5F5E30E60F1CBF6E" import="0">Lua/LuaEvents.PlayerEnteredNewEra.lua</File>
+    <File md5="8A5FC22EB73A2C2106DE16D1A3E98AF2" import="1">Lua/Sukritact_SaveUtils.lua</File>
+    <File md5="9E4CB3E9E435B8E2D9CAE69011F2CD72" import="1">Sounds/MCTutuIWar.mp3</File>
+    <File md5="59FE1B7C681D4C280BA8738E13C812AF" import="1">Sounds/MCTutuIPeace.mp3</File>
+    <File md5="5942F2936817E91136563EE3A349FA00" import="1">Sounds/MCAshantiDoM.mp3</File>
+    <File md5="CF8D87ACC0520DD599FE162C082F3AFE" import="0">UI/MC_Ashanti_UI.sql</File>
+    <File md5="7AF06AEA282F6F27BC439D3631CCDB18" import="0">UI/MC_Ashanti_UI.lua</File>
+    <File md5="D0B239C9FF62E99DAA2868ECF4EF62C5" import="0">UI/MC_Ashanti_UI.xml</File>
+    <File md5="64DF635BD57CDEB13DC1038934568A7E" import="0">UI/Sukritact's MCIS/CityInfoStack.lua</File>
+    <File md5="4E7C5E4894BC0A0E0CBA1743787E1015" import="0">UI/Sukritact's MCIS/CityInfoStack.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/Models/Drumroll Warrior/MC_DrumrollWarrior.sql</UpdateDatabase>
+      <UpdateDatabase>Art/Models/Abrade/MC_Abrade.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Art/MC_Ashanti_Leaderhead.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Civilizations/MC_Ashanti_Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameInfo/MC_Ashanti_IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameInfo/MC_Ashanti_Sounds.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameInfo/MC_Ashanti_Traits.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Leaders/MC_Ashanti_Leader.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Text/MC_Ashanti_Text.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Units/MC_Ashanti_UnitPromotions.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Units/MC_Ashanti_Units.xml</UpdateDatabase>
+      <UpdateDatabase>UI/MC_Ashanti_UI.sql</UpdateDatabase>
+      <UpdateDatabase>Decisions/MC_Ashanti_Decisions.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Mod Support/AshantiModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Mod Support/AshantiModSupport.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/MC_Ashanti_Functions.lua">
+      <Name>AshantiUUMove</Name>
+      <Description>UU Extra Moves</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="UI/Sukritact's MCIS/CityInfoStack.lua">
+      <Name>CityInfoStack.lua</Name>
+      <Description>CityInfoStack.lua</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="UI/MC_Ashanti_UI.lua">
+      <Name>MC_Ashanti_UI.lua</Name>
+      <Description>MC_Ashanti_UI.lua</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/LuaEvents.PlayerEnteredNewEra.lua">
+      <Name>LuaEvents.PlayerEnteredNewEra.lua</Name>
+      <Description>LuaEvents.PlayerEnteredNewEra.lua</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

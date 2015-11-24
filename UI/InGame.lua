@@ -1635,6 +1635,12 @@ ContextPtr:LoadNewContext("Friendships")
 -- Nation - Serbia (Peter I) --
 ContextPtr:LoadNewContext("Peter I Functions")
 
+-- Nation - Ashanti --
+ContextPtr:LoadNewContext("MC_Ashanti_Functions")
+ContextPtr:LoadNewContext("CityInfoStack")
+ContextPtr:LoadNewContext("MC_Ashanti_UI")
+ContextPtr:LoadNewContext("LuaEvents.PlayerEnteredNewEra")
+
 -- Nation - India Pack --
 ContextPtr:LoadNewContext("BarbarianAdjacentBonus")
 ContextPtr:LoadNewContext("BattleAdmiral")
