@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/9/2014 12:07:38 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_SELEUCID_DESC">
+			<Text>Seleucid Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SELEUCID_SHORT_DESC">
+			<Text>Seleukeia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SELEUCID_ADJECTIVE">
+			<Text>Seleucid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SELEUCID_PEDIA">
+			<Text>No info</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_SELEUCID_TEXT">
+			<Text>Hail Seleucus Nicator, Basileus of the Seleucid Empire! You were one of the Diadochi, a former commander in the army of Alexander the Great and one of the men who would carry on his legacy after his untimely death. You created a state in western Asia rivaling the conquests of your predeccessor and cementing your reputation in history as a great miliary commander. Your great empire met its end long after your death due to instabilty caused by its vastness. [NEWLINE][NEWLINE]Great commander, will you rebuild your vast empire and secure your Macedonian legacy? Can you build a civilization to stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SELEUCUS_DESC">
+			<Text>Seleucus Nicator</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SELEUCUS_PEDIA_LIVED">
+			<Text>358 BC – 281 BC</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SELEUCUS_NAME">
+			<Text>Seleucus I Nicator</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SELEUCUS_PEDIA_SUBTITLE">
+			<Text>Basileus of the Seleucid Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SELEUCUS_PEDIA_HEADING_1">
+			<Text>Historical account</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SELEUCUS_PEDIA">
+			<Text>No info</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_KATOIKOI">
+			<Text>Barracks provide additional [ICON_FOOD] food and [ICON_HAPPINESS_1] happiness. +15% [ICON_PRODUCTION] production of melee combat units in all cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_KATOIKOI_SHORT">
+			<Text>Katoikoi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SELEUKEION_DESC">
+			<Text>Seleukeion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SELEUKEION_HELP">
+			<Text>Replaces Courthouse. Reduces unhappiness in occupied cities and can be built 50% faster than the Courthouse it replaces.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SELEUKEION_STRATEGY">
+			<Text>The Seleukeion allows for the fast reduction of unhappiness in occupied cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SELEUKEION_PEDIA">
+			<Text>When Alexander the Great died he left behind a power vacuum only to be filled by his generals, the Diadochi, who carved up his empire for themselves.  One of these generals, Seleucus I, was proclaimed Chiliach, or General of the Army, under Perdiccas. When Perdiccas was murdered in 321 BC, which Seleucus had a hand in; he moved quickly to seize Babylon and the entirety of the Old Persian Empire.  At the time of Seleucus own murder he was in control of the largest of the Successor kingdoms, with an empire that stretched from Asia Minor to India. To help control the towns and cities local magistrates worked from a building called the Seleukeion.  These buildings managed everything from day to day running of the city.  To trade along the vital trade routes east.  Principle among those were the Persian Royal Road and the Silk Road.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_THORAKITAI_DESC">
+			<Text>Thorakitai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_THORAKITAI">
+			<Text>Replaces Spearman. The Thorakitai has +1 extra movement per turn and starts with the Drill I promotion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_THORAKITAI_STRATEGY">
+			<Text>The Thorakitai is a fast early infantry unit that is useful for combat in rough terrain.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_THORAKITAI_PEDIA">
+			<Text>The Seleukidoi took to the thureophoroi and went one better, armoring their improved unit to the teeth and giving him a longer spear with a wider blade. These men are exceedingly well trained and often can make the difference in any battle simply by making their fearsome appearance known. They carry theuros shields with silver medusa heads emblazoned on the front and wear helmets that are strengthened with mail 'veils', making their appearance even more fearsome. As if this was not enough, they carry heavy javelins to break enemy lines and long spears to drive the charge home when they are finished with their javelin throwing. They fight in an organized formation, but not in a phalanx, and are thus more mobile than the Phalanx. They are the best and fittest men within the Hypastistai and are often able to break an enemy line. They have no real weakness in battle, but are extremely expensive to maintain, so their numbers are always few and far between. They should be used as an elite shock infantry, because this is the role for which they were made. They should be well supported, because if these hardy and grizzled veterans rout, it could induce the rest of the army to do so as well. Historically, the Seleukidos Thorakitai Argyraspidai were a small elite unit of the Hypastistai that were the leaders of an infantry charge. Their heavy armor was elaborate and expensive, making their numbers never more than one thousand (among six thousand Hypastistai). They were used during many battles, but were notoriously absent from Raphia due to their being refitted after a battle with rebels supported by the Parthai. They slowly dwindled in number as the kingdom's finances did the same. They were no longer a factor when the Seleukidod king fought the Romaioi in Makedonia, a battle at which they would have been very much appreciated. If a capable ruler were to take the Seleukidos throne and carefully manage the kingdom's finances, perhaps he could utilize these fine soldiers far longer than happened historically.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SELEUCUS_FIRSTGREETING_1">
+			<Text>Welcome to Seleukeia, the great bastion of Hellenism in the east. What business do you bring?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SELEUCUS_FIRSTGREETING_2">
+			<Text>Hello there! Will we fight alongside each other or will your lands soon belong to the great Seleucid Empire?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SELEUCUS_DEFEATED_1">
+			<Text>You have proven your tactics to be superior to mine. My realm is yours.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SELEUCUS_DEFEATED_2">
+			<Text>My empire crumbles! However, history will remember my triumphs!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

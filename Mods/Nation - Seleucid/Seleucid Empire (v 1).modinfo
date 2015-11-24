@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="664c75b1-38fb-4ca9-abca-5dd3e5d83129" version="1">
+  <Properties>
+    <Name>Seleucid Empire</Name>
+    <Stability>Beta</Stability>
+    <Teaser>Adds the Seleucid Empire to the game as a playable civilization.</Teaser>
+    <Description>Adds the Seleucid Empire to the game as a playable civilization.
+
+Direct Download: http://forums.civfanatics.com/downloads.php?do=file&amp;id=22418
+
+Leader: Seleucus I Nicator
+Unique Ability: Katoikoi - Barracks provide additional food and happiness. +15% production of melee combat units in all cities.
+Unique Unit: Thorakitai - Replaces Spearman. The Thorakitai has +1 extra movement per turn and starts with the Drill I promotion.
+Unique Building: Seleukeion - Replaces Courthouse. Reduces unhappiness in occupied cities and can be built 50% faster than the Courthouse it replaces.
+
+Credits
+XML - Hiram 
+Art - Janboruta 
+Map - Pouakai 
+Music - Firaxis Games</Description>
+    <Authors>Hiram, Janboruta</Authors>
+    <SpecialThanks>Janboruta</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="31A9DA8B897FBDE505C1B139E30CA455" import="1">Art/Buildingicons/seleukeion128.dds</File>
+    <File md5="9C35F38BAB9241CA7ECFCBD84B5FF93C" import="1">Art/Buildingicons/seleukeion256.dds</File>
+    <File md5="8AA7F5C9F8C8C757DA2F73E0289C2B83" import="1">Art/Buildingicons/seleukeion45.dds</File>
+    <File md5="00209F4ECE784A34EB635E2759222616" import="1">Art/Buildingicons/seleukeion64.dds</File>
+    <File md5="17951EBB87AB0D90F4CC38E5B73CE855" import="1">Art/Civicons/seleucidalpha128.dds</File>
+    <File md5="5E418BBC53C12C6A0943A5DAB82C92D1" import="1">Art/Civicons/seleucidalpha16.dds</File>
+    <File md5="5BBCFBC9B11AD6865AB78EFD3EB52E73" import="1">Art/Civicons/seleucidalpha24.dds</File>
+    <File md5="ED9D7F39C4B0200FBF034DED31A62C74" import="1">Art/Civicons/seleucidalpha32.dds</File>
+    <File md5="5449D8D4674B8267C3627F80929883D9" import="1">Art/Civicons/seleucidalpha48.dds</File>
+    <File md5="CB67484F3B5685408F5E535264C5124D" import="1">Art/Civicons/seleucidalpha64.dds</File>
+    <File md5="4F834123AB842C9F72DA13207D670016" import="1">Art/Civicons/seleucidicon128.dds</File>
+    <File md5="C6C43FD84D831A2FB74CD5C4D282BD54" import="1">Art/Civicons/seleucidicon214.dds</File>
+    <File md5="9990C068CF10CE217A0C89F2A0738A85" import="1">Art/Civicons/seleucidicon256.dds</File>
+    <File md5="0A3917E1BF8CA7E0E5846FC10B7E19FE" import="1">Art/Civicons/seleucidicon32.dds</File>
+    <File md5="B099011393CF6EDEDA399EEA49136565" import="1">Art/Civicons/seleucidicon45.dds</File>
+    <File md5="7982B8C5188862783B28C435958F72B7" import="1">Art/Civicons/seleucidicon64.dds</File>
+    <File md5="F6844F26E3EBA457D8987C65EC4B880A" import="1">Art/Civicons/seleucidicon80.dds</File>
+    <File md5="4DEC7C0FA24DDF3894A9FC37C2878F98" import="1">Art/Leadericons/seleucus128.dds</File>
+    <File md5="7A67F89F2D609A72A942523E97A0FF96" import="1">Art/Leadericons/seleucus256.dds</File>
+    <File md5="28789D7B4F371E447EE487AFA7F175AB" import="1">Art/Leadericons/seleucus64.dds</File>
+    <File md5="662B12C278E0541C8BDE1A0B4440103C" import="1">Art/SeleucidMap.dds</File>
+    <File md5="451A5F90A41CFEC064B65905B8E6ACD2" import="1">Art/seleucus.dds</File>
+    <File md5="3D1A64B83C66CFB0F32280FFE78E1F02" import="1">Art/seleucusDOM.dds</File>
+    <File md5="CC8BA239967A7E58C898825D0B29AD7B" import="1">Art/Uniticons/thorakitai128.dds</File>
+    <File md5="E0343512D41FA707972B488BDD646984" import="1">Art/Uniticons/thorakitai256.dds</File>
+    <File md5="ED9D7F39C4B0200FBF034DED31A62C74" import="1">Art/Uniticons/thorakitai32.dds</File>
+    <File md5="8EAB4091AB5026F422E87FF2E13D7EA9" import="1">Art/Uniticons/thorakitai45.dds</File>
+    <File md5="44052DC52C6F0DE113E6703C8FD14363" import="1">Art/Uniticons/thorakitai64.dds</File>
+    <File md5="12EC324812F9568E03E41EC7910D48F6" import="1">Art/Uniticons/thorakitai80.dds</File>
+    <File md5="4D0D2AC81018FE8F92A2EF4B3E46E07E" import="1">Sounds/SeleucusPeace.mp3</File>
+    <File md5="0305EEE484D72A0A7F7C0E56DD2EC42B" import="1">Sounds/SeleucusWar.mp3</File>
+    <File md5="2D15B9C70CF2F9C9026C6B4A33920548" import="0">XML/Buildings.xml</File>
+    <File md5="A1C10FFD09E982BA71E710032CEBA381" import="0">XML/Civilizations.xml</File>
+    <File md5="87E9F308D17F053E5F74EDB19C4E83AC" import="0">XML/IconAtlas.xml</File>
+    <File md5="FC80E2913BD40A64F3D892C7C7BE2446" import="0">XML/Leaders.xml</File>
+    <File md5="256E28464D6523DF071C570C1F000142" import="1">XML/Seleucus_Scene.xml</File>
+    <File md5="8F529A791637121B965B2919C75A91E7" import="0">XML/Sounds.xml</File>
+    <File md5="67773E35D53A695D33D8EF66DF5AB275" import="0">XML/Text.xml</File>
+    <File md5="F861C394E95E74AA1B8163A17A80565B" import="0">XML/Units.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>XML/IconAtlas.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Sounds.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>
