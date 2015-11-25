@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_GENERIC_MC_MINOA_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now building labyrinths and jumping bulls. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<!--Wish for the World-->
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_MC_MINOS">
+			<Text>Ariadne</Text>
+			<Gender>feminine</Gender>
+		</Row>
+	</Language_en_US>
+</GameData>

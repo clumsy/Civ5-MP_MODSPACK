@@ -1644,6 +1644,12 @@ ContextPtr:LoadNewContext("CityInfoStack")
 ContextPtr:LoadNewContext("MC_Ashanti_UI")
 ContextPtr:LoadNewContext("LuaEvents.PlayerEnteredNewEra")
 
+-- Nation - Minoa --
+ContextPtr:LoadNewContext("JFD_MinoaFunctions")
+ContextPtr:LoadNewContext("CityInfoStack")
+ContextPtr:LoadNewContext("JFD_AnaktoraHappinessCityInfo")
+ContextPtr:LoadNewContext("JFD_AnaktoraScienceCityInfo")
+
 -- Nation - India Pack --
 ContextPtr:LoadNewContext("BarbarianAdjacentBonus")
 ContextPtr:LoadNewContext("BattleAdmiral")

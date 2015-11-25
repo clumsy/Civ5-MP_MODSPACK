@@ -1,0 +1,318 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Pouakai -->
+<GameData>
+	<Language_en_US>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- Unique Building - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<Row Tag="TXT_KEY_BUILDING_MC_MINOAN_ANAKTORA">
+			<Text>Anaktoro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_MINOAN_ANAKTORA_HELP">
+			<Text>+1 [ICON_HAPPINESS_1] Happiness, +2 [ICON_HAPPINESS_1] if in a coastal city. +1 [ICON_RESEARCH] Science for every two [ICON_CITIZEN] population. During [ICON_GOLDEN_AGE] Golden Ages, each naval trade route to the city generates additional +2 [ICON_RESEARCH] Science.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_MINOAN_ANAKTORA_STRATEGY">
+			<Text>The Anaktoro is the Minoan unique building, replacing the Library. In addition to the normal library effects, the Anaktoro generates an additional +1 [ICON_HAPPINESS_1] Happiness, which is doubled in coastal cities. In addition, during a [ICON_GOLDEN_AGE] Golden Age, each naval trade route with the city will generate an additional +2 [ICON_RESEARCH] Science, allowing trade hubs to quickly become scientific centres. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_MINOAN_ANAKTORA_PEDIA">
+			<Text>The Minoan palaces, called “anaktoro” in Greek (plural Anaktora), were the administrative centers of Minoan society. Not only did they serve as the homes for the rulers of the most prominent Minoan cities, they also housed the elite members of Minoan society whose mastery of arts and sciences made them essential to maintenance of the kingdom. This included not only craftsmen and artists such as painters, masons, sculptors, and carpenters, but also smiths, weavers, chefs, physicians, scribes, musicians, and priests. There were two main styles of palaces built by the Minoans. Those constructed before 1700 BC, known as the Old Palaces, were full of complex, winding passages - the ruins of which likely inspired the legendary Labyrinth. The New Palaces, constructed after 1700 BC, were far more open and elegant their predecessors, with colonnades, galleries, and wide courtyards.</Text>
+		</Row>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- Unique Unit - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<Row Tag="TXT_KEY_UNIT_MC_MINOAN_GALEA">
+			<Text>Galéa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_MINOAN_GALEA_HELP">
+			<Text>Cheaper and slighly weaker, but has +1 movement and can enter rival territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_MINOAN_GALEA_STRATEGY">
+			<Text>Only the Minoans may build it. Although slighly cheaper and weaker than the Trireme, the Galéa is also faster and has the ability to enter rival territory, making it an excellent scouting vessel.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_MINOAN_GALEA_PEDIA">
+			<Text>"Galea" is the Greek word from which English derives the word "Galley." For half a millennium between 2000 and 1500 BC, Minoan galleys dominated the Aegean. Minoan naval power took the form of both a defensive war fleet and a merchant marine. In both cases, their vessels were slender, round-hulled ships propelled by oars and a single broad sail. Larger ships had shelters constructed on their upper deck to house passengers. The reliability of these vessels were highly prized in the ancient world, and Pharaoh Thutmose III commissioned Minoan sailors to carry prized cedar from Phoenicia. The Athenian historian Thucydides credits Minos and the Minoans with the creation of the first navy and defending the Aegean from pirates and raiders.</Text>
+		</Row>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- Trait - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<Row Tag="TXT_KEY_TRAIT_MC_PAX_MINOICA_SHORT">
+			<Text>Pax Minoica</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_MC_PAX_MINOICA">
+			<Text>Enter a [ICON_GOLDEN_AGE] Golden Age when your first coastal city is founded. Cargo ships gain +50% range. Start the game with 1 additional trade route.</Text>
+		</Row>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- Dawn of Man - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_MC_MINOA_TEXT">
+			<Text>Greetings, Great King Minos, son of Zeus and Europa; most powerful king in the Aegean! The Minoans await your wisdom. Yours is a proud kingdom of traders and artisans centred on the island of Crete, away from the petty and bloody squabbles of the nations around you. In this perpetual peace your people blossomed, becoming the most culturally and technologically advanced empire of the age. The tales of your prosperity spread across the isles of the Aegean through your many trade routes, and to outsiders your kingdom assumed a mythic status. As the Minoan legend grew, so too did yours, with your name coming to be known as one of the great kings of old.[NEWLINE][NEWLINE]King Minos! The Minoan empire has long since fallen, yet men continue to sing tales of glory to which your kingdom was the setting. It is time to raise that kingdom anew! Will you spur your merchants to rebuild their ships and reclaim the seas? Will your cities and palaces once again be the envy of all the nations around you? Will you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- Diplomacy Lines - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<Row Tag="TXT_KEY_LEADER_MC_MINOS_FIRST_GREETING_1">
+			<Text>Welcome to the lands of the Minoan people. Please do not be frightened by our technological superiority over you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_MINOS_FIRST_GREETING_2">
+			<Text>Who dares to taint the sanctity of the palace of Minos with their presence?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_MINOS_DEFEATED_1">
+			<Text>Truly the gods have abandoned us, for without their aid you could never have destroyed us.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_MINOS_DEFEATED_2">
+			<Text>You have done the world a great disservice, today. In years to come, people will look upon your actions and weep.</Text>
+		</Row>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- Spy Names - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<Row Tag="TXT_KEY_SPY_NAME_MC_MINOA_0">
+			<Text>Androgoes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_MINOA_1">
+			<Text>Deucalion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_MINOA_2">
+			<Text>Glaucus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_MINOA_3">
+			<Text>Althaemenes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_MINOA_4">
+			<Text>Idomeneus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_MINOA_5">
+			<Text>Salim</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_MINOA_6">
+			<Text>Thuwaini</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_MINOA_7">
+			<Text>Ariadne</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_MINOA_8">
+			<Text>Phaedra</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_MINOA_9">
+			<Text>Acacallis</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- Denonyms- - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<Row Tag="TXT_KEY_MC_MINOA_DESC">
+			<Text>Minoan Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_MINOA_SHORT_DESC">
+			<Text>Minoa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_MINOA_ADJECTIVE">
+			<Text>Minoan</Text>
+		</Row>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- Civilopedias- - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--Minoa-->
+		<Row Tag="TXT_KEY_MC_MINOA">
+			<Text>Minoa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MINOA_TITLE">
+			<Text>Minoan Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MINOA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MINOA_TEXT_1">
+			<Text>The history of the Minoan Civilization has long since passed into the realm of myth and legend. Only in the last eighty years has archaeology begun to assemble a detailed understanding of this ancient culture. But with their language unknown, only mute artifacts remain to speak for their legacy. Their true name has been forgot, though it is perhaps faintly remembered in ancient names for the island of Crete such as the Mariote “Kaptara”, Egyptian “Keftiu”, and possibly, the biblical “Caphtor.” Whatever the Minoans called their own civilization, today they are named for their king Minos, who was remembered in Greek myth as the son of Zeus and Europa and ruler of Crete. The Minoans were wealthy merchants and that wealth paid for the lavish palaces of Minoan royalty. The Minoans rose as the first urban European civilization with technologies that other areas of Europe would wait centuries, if not millennia to obtain. Ultimately however, the Minoans fell to a combination of natural disaster and foreign invasion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MINOA_HEADING_2">
+			<Text>Geography and Climate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MINOA_TEXT_2">
+			<Text>Minoan civilization once thrived in the Aegean Sea, establishing colonies and outposts on the seas numerous islands as well as on the mainland. Their homeland, however, was Crete -- the largest of the Greek islands at the southern limit of the Aegean Sea. Crete is a long narrow island; from east to west it measures 260 kilometers while only being 60 kilometers at its widest point. Three mountain ranges, full of caves and gorges, dominate the island. Between these mountains lie lush valleys and fertile plateaus. The majority of the island enjoys a mild Mediterranean climate, while the southern coast more closely resembles the climate of North Africa, permitting year-round agriculture and the growth of plants like date palms.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MINOA_HEADING_3">
+			<Text>The First Settlers and the First Settlement</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MINOA_TEXT_3">
+			<Text>The first humans arrived on Crete at least 130,000 years ago and discovered an isolated world full of its own unique fauna, such as pygmy elephants and terrestrial otters. While the island’s exotic animals died out at the end of the Ice Age, its human inhabitants survived. By 7000 BC, the early people of Crete had established a Neolithic economy with the introduction of wheat, cattle, goats, and pigs. It is uncertain whether the original inhabitants of the island acquired these domesticated species from their trading partners or if a new wave of Neolithic immigrants brought their way of life with them as they intermingled with the indigenous peoples. Regardless of the exact methods, a new way of life was forming. Homes were built, first from wood then mud brick and even later stone foundations were incorporated into their designs. The oldest known Neolithic village on Crete was established around this time. It was a small cluster of wattle-and-daub huts, home to no more than fifty people. From this humble beginning, Knossos - the first European city - would grow.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MINOA_HEADING_4">
+			<Text>The Old Palaces</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MINOA_TEXT_4">
+			<Text>Around 2600 BC, bronze-working and pottery arrived one Crete. New settlements were established at Vasiliki and Mirtos. At Vasiliki, the Minoans constructed one of the earliest predecessors of their famous palaces. This ancient structure combined features of both the earlier villages of Knossos and hints of the labyrinthian architecture of later palaces. At Mirtos, other new architectural trends were introduced. Rectangular homes with stone foundations and mud-brick walls covered in red plaster were common, and the community possessed a basic drainage system for sanitation. [NEWLINE][NEWLINE]While new immigrants may have arrived on Crete in the intervening centuries, the continuous growth of villages into early cities indicates that the development of Minoan civilization was an indigenous process aided by increasingly productive agriculture. Figs, olives, grapes and other new crops were introduced from the mainland. To accommodate the surplus, the people of Knossos and other early Minoan sites constructed enormous subterranean storage chambers. Later, they erected the first palaces, from where the authority of the Minoan kings radiated. From artifacts found in the remains of these earliest palaces, the primary concern of this generation of rulers was the collection and redistribution of their community’s wealth and resources. Minoan palaces were lavish and finely wrought, decorated with a veneer of alabaster. While gargantuan defensive walls dominate the architecture of the Grecian mainland during the Bronze Age, the Minoans seem to have paid little attention to such strategic concerns when constructing their own cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MINOA_HEADING_5">
+			<Text>The New Palaces</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MINOA_TEXT_5">
+			<Text>By 1700 BC, some twenty thousand people called Knossos home. They lived in multi-story homes that towered over the streets radiating from the palace. Minoan power stretched outward into the Aegean, bringing the Cyclades into their cultural sphere of influence. Around 1700 BC, however, a great earthquake struck Crete, inflicting considerable damage to its cities and the Minoan palaces. Though certainly a tragedy for the Minoan people, they rebuilt following the disaster and flourished. A new wave of palace construction throughout Crete sparked a cultural renaissance, creating the iconic artwork that has come to define the Minoan culture today. [NEWLINE][NEWLINE]The new palaces were adorned with alabaster facades, balconies and colonnades, courtyards, breezy galleries, and frescos of dancers, dolphins, griffons, and other scenes both mundane and fantastic. The labyrinthian claustrophobia of the old palaces had been replaced with an elegant and inviting openness. Minoan rulers had no need to impress visitors with imposing architecture; their luxurious wealth said all a guest needed to know about the power and prosperity of Knossos.[NEWLINE][NEWLINE]This era witnessed the pinnacle of Minoan influence. They established more distance outposts on Rhodes and Cyprus. The rulers of Tel Kabri, in what is now northern Israel, likewise fell under the cultural influences emanating from Knossos and decorated their palace with Minoan frescoes. In Egypt, Minoan traders and officials were frequent and welcomed guests of the pharaohs. Saffron, a spice native to the Aegean islands, fueled the Minoans’ international trade. As Minoan merchants traveled the eastern Mediterranean, the Minoan fleet patrolled their waters, keeping the seaways safe from pirates and other raiders. Though powerful and wealthy, even at their peak, the Minoans appear to have been more concerned with keeping the peace than invading and imposing their authority over other peoples.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MINOA_HEADING_6">
+			<Text>A Day and Night of Destruction</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MINOA_TEXT_6">
+			<Text>Ninety kilometers north of Knossos, the Minoans established another city known today as Akrotiri on the island of Thera. The small portion of the city that survives to the modern day contains three-storey tall homes, merchants’ warehouses, and textile workshops. The homes were decorated with frescoes of saffron-gatherers, flotillas of pleasure boats, and cavorting antelopes. Pipes brought running water, heated by the geothermal properties of the island, and a sophisticated drainage system carried the waste away. Whether all of Akrotiri enjoyed the same level of wealth and convenience is unknown. So much is known about this small portion of the city because a thick layer of volcanic ash had buried it. The same disaster that preserved this neighborhood obliterated the rest of Akrotiri.[NEWLINE][NEWLINE]The volcanic island on which Akrotiri was built erupted sometime between 1600 and 1500 BC in a catastrophe known as the Minoan Eruption. The amount of ash blasted from Thera at this time was four times larger than that famous eruption of Krakatoa, placing among the largest volcanic eruptions to occur during recording history. Fortunately for the people of Akrotiri, the volcano appears to have given them enough of a warning to evacuate their island home as no bodies have been recovered from the site.[NEWLINE][NEWLINE]The cataclysm had repercussions around the world. In China, the volcanic winter precipitated the collapse of the Xia dynasty as a summer frost killed crops and famine struck the land. In Egypt, the chaotic Second Intermediate Period witnessed torrential storms and flooding that might have been caused by Thera’s impact on the world’s climate. In Greece, the eruption may have inspired various myths and legends, such as Hesiod’s Titanomachy and Plato’s Atlantis, which was said to have been destroyed in a day and night of destruction.[NEWLINE][NEWLINE]Closer to home, tsunamis ravaged the Minoan coasts and ash rained from the sky. Though Thera was abandoned for the remainder of the Bronze Age, elsewhere the Minoans rebuilt as they had after the disaster in 1700 BC. However, the Minoan Eruption crippled their economy and their ability to project power through the Aegean. Perhaps their fleets had been smashed by the tsunamis. Perhaps crop and saffron harvests on which their lives and trade depended failed as ash suffocated the land. Perhaps the cataclysm struck a deep blow the confidence of the Minoan people in their leadership and undermined the authority of their rulers. One by one the outlying palaces were abandoned until only a weakened Knossos remained by 1450 BC. By then, the power of the Minoans had diminished to the point where they could no longer fend off invaders. Mycenean Greeks from the mainland swept through the Cyclades and invaded Crete. They claimed the palace of Knossos as their own and brought the Minoan civilization to its end.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MINOA_FACTOID_HEADING">
+			<Text>Minoan Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MINOA_FACTOID_TEXT">
+			<Text>The Minoans had two systems of writing: Minoan hieroglyphs and Linear A. Both remain undeciphered.[NEWLINE][NEWLINE]An indigenous population known as the Etocretans, or “True Cretans,” continued to be recognized by the Greeks for more than a century after their conquest by the Myceneans.[NEWLINE][NEWLINE]Minoan architecture employed unique “inverted columns” which were wider at the top than they were at the bottom.[NEWLINE][NEWLINE]While the palaces also contained shrines, the holiest places in the Minoan religion appear to have been their sacred caves - over 300 of which have been discovered - and mountain top shrines known as the Horns of Consecration.[NEWLINE][NEWLINE]Among the Greeks, Zeus was believed to have been born in Idaion, one of the sacred caves of Crete.[NEWLINE][NEWLINE]While the minotaur is a Greek invention, the beast may have been inspired by the regalia of a Minoan priest or depiction of one of their gods. Bulls were important icons for the Minoans, and in their artwork, their gods or priests are sometimes depicted wearing animal masks - though one wearing a bull mask has not be discovered by modern archaeologists.</Text>
+		</Row>
+		<!-- Minos -->
+		<Row Tag="TXT_KEY_LEADER_MC_MINOS_DESC">
+			<Text>Minos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_MINOS_LIVED">
+			<Text>c. 1400's BC?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_MINOS_NAME">
+			<Text>Minos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_MINOS_SUBTITLE">
+			<Text>King of Minoa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_MINOS_TITLES_1">
+			<Text>King of Crete</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_MINOS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_MINOS_TEXT_1">
+			<Text>What is known of Minos has been constructed through scattered references to the Cretan king in various ancient Greek myths and histories. Minos’ descended from an impecable lineage. His maternal grandfather was Phoenix, the king of Tyre and legendary founder of the Phoenicians. Phoenix’s daughter Europa caught the eye of Zeus. The god took the form of an entrancing bull and coaxed to Europa to climb onto his back. Once Europa had mounted the animal, the bull dashed across the sea. Zeus took his new lover to his birthplace on the island of Crete, and there the couple had three sons: Minos, Rhadamanthys, and Sarpedon. After Zeus abandoned Europa, she married Asterion, heir of the kingdom of Crete.[NEWLINE][NEWLINE]Asterion raised Europa’s children as his own. While Asterion was king of Crete, each of his adopted sons were given a portion of the island to administrate. To Rhadamanthys, he gave Phaistos; to Sarpedon, he gave Malia; and to Minos, he gave the capital of Knossos. When Asterion died, the three brothers quarreled among themselves over who would inherit the kingdom. During the conflict, Minos drove Sarpedon from Crete. After seeking refuge with his uncle Cilix in Asia Minor, Sarpedon conquered a kingdom of his own which came to be called Lycia. Whether he founded the Minoan colony of Miletus in the southwest corner of Asia Minor before or after his exile is debatable; the love of youth named Miletus, perhaps the personification of this colony, is said to have caused the rift between Minos and Sarpedon.[NEWLINE][NEWLINE]Once Sarpedon had been dealt with, Minos turned his attention to Rhadamanthys. The younger brother wisely surrendered and fled to Boeotia on the Grecian mainland, where his other uncle Cadmus had chosen to live out his remaining days after also failing to return Europa to Tyre. While Cadmus is credited with founding Thebes and introducing the Phoenician alphabet to Greece, Rhadamanthys brought additional Minoan learning to Greece and served as a tutor for Heracles. To consecrate his rule over a united Crete, Minos beseeched Poseidon for a perfect bull to sacrifice. However, after the god delivered an animal of finest pedigree, Minos kept it for himself and sacrificed a less noble bull instead. Enraged, the god cursed the Minos’ wife Pasiphaë and set into motion the downfall of Minos’ rule.[NEWLINE][NEWLINE]Before Minos’ doom came to fruition, however, he and his kingdom enjoyed many prosperous years. Every nine years, Minos undertook a pilgrimage to one of the island’s sacred caves to confer with Zeus and with his divine father’s insight, he ruled with wisdom and justice. According to Greek historians, he constructed the first formal navy, combated piracy throughout the Aegean, brought the Cyclades under his protection, and composed a legal system that would be remembered as one of the sources of the Spartan constitution centuries later.[NEWLINE][NEWLINE]When the great Athenian inventor and architect Daedalus killed his nephew, he fled his punishment and pledged himself to the service of Minos. His first work great work for the Minoan royal family was a dancing ground for Minos’ daughter Ariadne. Later, he became an instrument for Poseidon’s revenge. The curse laid on Pasiphaë caused the queen to become infatuated with Minos’ prized bull. She ordered Daedalus to construct an artificial cow so that she might indulge in her obsession. As a result of her blasphemous union, she birthed a named for Minos’ adoptive father, Asterion, but better known today as the Minotaur - the Bull of Minos. The king had Daedalus construct a labyrinth to contain the monster. To ensure the secrets of maze remained so, Daedalus and his son Icarus were likewise imprisoned.[NEWLINE][NEWLINE]Meanwhile, Minos’ son Androgeus had left Crete to participate in the Panathenaic Games hosted by Aegeus, king of Athens. The Minoan prince claimed victory in every game he participated in, but by the end of the contest he was dead. The circumstances of his death was a subject of much debate. Some said his death was an accident while he fought the Marathonian Bull; others said that Aegeus plotted against Androgeus, fearing that the Minoan prince might side with his political rivals. Others said that jealous competitors and their supporters had killed the prince during the games. Still others said that Androgeus had not come to participate in the Athenian games but to conquer the city and that his death had been the result of the ensuing battle. [NEWLINE][NEWLINE]At the time of Androgeus’ death, Minos was on the Cycladic island of Paros, presiding over a sacrifice to the three Graces. Upon receiving word of his son’s death, Minos brought the festivities to an end, casting off his garland and silencing the music. From Paros, he brought his fleet down upon Athens. In some accounts, Minos first demanded that Aegeus turn over his son’s murderers, and when the king of Athens was unable to identify the criminals, the two rulers agreed upon other terms to avoid war. In other accounts, Minos did, in fact, declare war upon Athens. While he was unable to take the city, his siege and the concurrent famine and plague within it, forced the city to capitulate. Regardless of the exact circumstances, Athens agreed to send seven young men and women to Crete every seven or nine years to feed the Minotaur. When the third batch of tributes was due, Aegeus’ own son Theseus volunteered, vowing to slay the Minotaur and end the sacrifices demanded of Athens. Conspiring with Daedalus and Ariadne, he successfully killed Asterion and led his fellow tributes out of the maze and safely back to Athens.[NEWLINE][NEWLINE]After the Minotaur’s death, Daedalus and his son Icarus also escaped Crete. Since Minos’ rule over land and sea was absolute, legend says that Daedalus had to invent wings which allowed him to fly from Crete, though other tales say he invented a new style of sail that was able to outpace Minoan galleys. While Icarus died in their flight from Crete, Daedalus safely arrived on the island of Sicily. There, he ingratiated himself in the court of King Cocalus of Camicus. Minos personally conducted the search for the fugitive Daedalus. Knowing that the Athenian genius would be in hiding, Minos had to cleverly coax him into revealing himself. He traveled from city to city, offering a reward to anyone who could solve his riddle. He presented each ruler with spiral seashell and asked for it be threaded all the way through. Cocalus employed Daedalus’ ingenuity to solve the problem and inadvertently revealed that he was harboring the fugitive in his court. Minos demanded that he had return Daedalus to his custody immediately, but Cocalus convinced Minos that, after such a long journey, he should enjoy a bath before doling out punishment to those who have wronged him. While Minos bathed, Daedalus and Cocalus’ daughters plotted against him. The Sicilian princesses trapped the Minoan king in his bath while Daedalus poured boiling water or oil through the pipes and scalded Minos to death. [NEWLINE][NEWLINE]Cocalus returned Minos’ body to the Minoans who had traveled with him and they interned him within a tomb befitting a king. This tomb became the centerpiece of Aphrodite’s temple in Camicus, and there Minos’ earthly remains rested until they returned to Crete by Theron of Akragas, in the 5th Century BC. However, while the Minoans were able to give their king a proper burial, the expedition soon fell into disorder without Minos. In an ensuing battle with the Sicilians, the Minoan fleet was destroyed and those stranded on Sicily established new settlements at Minoa and Hyria. With Minos’ death and the destruction of the better part of the Minoan fleet, his son Deucalion inherited a greatly diminished kingdom.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_MINOS_HEADING_2">
+			<Text>Judgement of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_MINOS_TEXT_2">
+			<Text>With so much of Minos’ life tangled up in myth and legend, it is difficult to assess the success of his reign and his accomplishments. Among the Athenians and Megarians, Minos is remembered as a tyrant who demanded a vicious tribute to sate the desires of a child born of his wife’s heinous indulgence. Among other Greeks, Minos is remembered as just, wise, and pious ruler who maintained peace and security throughout the Aegean, who brought wealth and prosperity to his subjects and allies, and who inspired legal traditions that continue to influence Greece hundreds of years after his death. Even in death, the Greeks invested Minos with considerable power, naming him as the chief among the three judges of the Underworld. The disparity between this two images of Minos have inspired some writers to consider him as two distinct individuals. Perhaps this interpretation is not far from the truth; “Minos” may indeed be the title of the Minoan ruler rather than his name.</Text>
+		</Row>
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- City List - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MINOA_KNOSSOS">
+			<Text>Knossos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MINOA_PHAISTOS">
+			<Text>Phaistos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MINOA_MALIA">
+			<Text>Malia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MINOA_GOURNIA">
+			<Text>Gournia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MINOA_ZAKROS">
+			<Text>Zakros</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MINOA_AGIA_TRIADA">
+			<Text>Agia Triada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MINOA_AMNISOS">
+			<Text>Amnisos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MINOA_NIROU_KHANI">
+			<Text>Nirou Khani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MINOA_PALEKASTRO">
+			<Text>Palekastro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MINOA_AKROTIRI">
+			<Text>Akrotiri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MINOA_PIGADHIA">
+			<Text>Pigadhia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MINOA_TRIANDA">
+			<Text>Trianda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MINOA_IASOS">
+			<Text>Iasos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MINOA_MILETUS">
+			<Text>Miletus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MINOA_AGIA_EIRENE">
+			<Text>Agia Eirene</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MINOA_TYLISSOS">
+			<Text>Tylissos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MINOA_SKLAVOKAMBOS">
+			<Text>Sklavokambos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MINOA_VATHYPETRO">
+			<Text>Vathypetro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MINOA_APODHOULOU">
+			<Text>Apodhoulou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MINOA_SAKLOURIA">
+			<Text>Saklouria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MINOA_MYXORROUMA">
+			<Text>Myxorrouma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MINOA_MYRTOS">
+			<Text>Myrtos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MINOA_ZOU">
+			<Text>Zou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MINOA_MALEME">
+			<Text>Maleme</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MINOA_LEBENA">
+			<Text>Lebena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MINOA_KHANIA">
+			<Text>Khania</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MINOA_KAMAIZI">
+			<Text>Kamaizi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MINOA_KOMMOS">
+			<Text>Kommos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MINOA_PLATYVOLA">
+			<Text>Platyvola</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MINOA_VASILIKI">
+			<Text>Vasiliki</Text>
+		</Row>
+		<!--ExCE Support-->
+		<Row Tag="TXT_KEY_COLONY_NAME_MC_MINOA_01">
+			<Text>Heraclea Minoa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_MC_MINOA_02">
+			<Text>Kalami</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_MC_MINOA_03">
+			<Text>Mochlos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_MC_MINOA_04">
+			<Text>Agia Pelagia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_MC_MINOA_05">
+			<Text>Stylos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_MC_MINOA_06">
+			<Text>Praisos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_MC_MINOA_07">
+			<Text>Armenoi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_MC_MINOA_08">
+			<Text>Platanos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_MC_MINOA_09">
+			<Text>Monastiraki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COLONY_NAME_MC_MINOA_10">
+			<Text>Archanes</Text>
+		</Row>
+	</Language_en_US>	
+</GameData>

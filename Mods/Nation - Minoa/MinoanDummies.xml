@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by JFD (forgive me)-->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_MC_MINOA</Type>
+			<DefaultBuilding>BUILDING_MC_MINOAN_TR</DefaultBuilding>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_MC_MINOA_CARGO</Type>
+			<DefaultBuilding>BUILDING_MC_MINOAN_CARGO</DefaultBuilding>
+		</Row>
+	</BuildingClasses>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_MC_MINOAN_CARGO</Type>
+			<BuildingClass>BUILDINGCLASS_MC_MINOA_CARGO</BuildingClass>
+			<Description>TXT_KEY_MC_MINOAN_CARGO</Description>
+			<Help>TXT_KEY_MC_MINOAN_CARGO_HELP</Help>
+			<Cost>-1</Cost>
+			<PrereqTech>NULL</PrereqTech>
+			<MinAreaSize>-1</MinAreaSize>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<FaithCost>-1</FaithCost>
+			<TradeRouteSeaDistanceModifier>50</TradeRouteSeaDistanceModifier>
+		</Row>
+		<Row>
+			<Type>BUILDING_MC_MINOAN_TR</Type>
+			<BuildingClass>BUILDINGCLASS_MC_MINOA</BuildingClass>
+			<Description>TXT_KEY_MC_MINOAN_TR</Description>
+			<Help>TXT_KEY_MC_MINOAN_TR_HELP</Help>
+			<Cost>-1</Cost>
+			<PrereqTech>NULL</PrereqTech>
+			<MinAreaSize>-1</MinAreaSize>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<FaithCost>-1</FaithCost>
+			<NumTradeRouteBonus>1</NumTradeRouteBonus>
+		</Row>
+		<Row>
+			<Type>BUILDING_MC_ANAKTORA_HAPPINESS</Type>
+			<BuildingClass>BUILDINGCLASS_MC_MINOA</BuildingClass>
+			<Description>TXT_KEY_MC_ANAKTORA_HAPPINESS</Description>
+			<Help>TXT_KEY_MC_ANAKTORA_HAPPINESS_HELP</Help>
+			<Cost>-1</Cost>
+			<PrereqTech>NULL</PrereqTech>
+			<MinAreaSize>-1</MinAreaSize>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<FaithCost>-1</FaithCost>
+			<Happiness>1</Happiness>
+		</Row>
+		<Row>
+			<Type>BUILDING_MC_ANAKTORA_SCIENCE</Type>
+			<BuildingClass>BUILDINGCLASS_MC_MINOA</BuildingClass>
+			<Description>TXT_KEY_MC_ANAKTORA_SCIENCE</Description>
+			<Help>TXT_KEY_MC_ANAKTORA_SCIENCE_HELP</Help>
+			<Cost>-1</Cost>
+			<PrereqTech>NULL</PrereqTech>
+			<MinAreaSize>-1</MinAreaSize>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<FaithCost>-1</FaithCost>
+		</Row>
+	</Buildings>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_MC_ANAKTORA_SCIENCE</BuildingType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_MC_MINOAN_TR">
+			<Text>MC: Minoan TR</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_MINOAN_TR_HELP">
+			<Text>+1 Trade Route</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_MINOAN_CARGO">
+			<Text>MC: Minoan Cargo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_MINOAN_CARGO_HELP">
+			<Text>+50% Cargo Ship range</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_ANAKTORA_HAPPINESS">
+			<Text>MC: Anaktora Happiness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_ANAKTORA_HAPPINESS_HELP">
+			<Text>+1 [ICON_HAPPINESS_1] Happiness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_ANAKTORA_HAPPINESS_CITY_VIEW_HELP">
+			<Text>+1 [ICON_HAPPINESS_1] Happiness from Anaktora.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_ANAKTORA_SCIENCE">
+			<Text>MC: Anaktora Science</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_ANAKTORA_SCIENCE_HELP">
+			<Text>+2 [ICON_RESEARCH] Science</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_ANAKTORA_SCIENCE_CITY_VIEW_HELP">
+			<Text>+{1_Num} [ICON_RESEARCH] Science from Naval Trade Routes during this [ICON_GOLDEN_AGE] Golden Age.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

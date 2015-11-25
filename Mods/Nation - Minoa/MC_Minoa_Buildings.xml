@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Pouakai-->
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_MC_MINOAN_ANAKTORA</Type>
+			<BuildingClass>BUILDINGCLASS_LIBRARY</BuildingClass>
+			<FreeStartEra>ERA_INDUSTRIAL</FreeStartEra>
+			<Cost>75</Cost>
+			<GoldMaintenance>1</GoldMaintenance>
+			<PrereqTech>TECH_WRITING</PrereqTech>
+			<Help>TXT_KEY_BUILDING_MC_MINOAN_ANAKTORA_HELP</Help>
+			<Description>TXT_KEY_BUILDING_MC_MINOAN_ANAKTORA</Description>
+			<Civilopedia>TXT_KEY_BUILDING_MC_MINOAN_ANAKTORA_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_MC_MINOAN_ANAKTORA_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_LIBRARY</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<Happiness>1</Happiness>
+			<ConquestProb>66</ConquestProb>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>MC_MINOA_ATLAS</IconAtlas>
+			<PortraitIndex>2</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_MC_MINOAN_ANAKTORA</BuildingType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>40</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MC_MINOAN_ANAKTORA</BuildingType>
+			<FlavorType>FLAVOR_I_SEA_TRADE_ROUTE</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MC_MINOAN_ANAKTORA</BuildingType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+	</Building_Flavors>
+	<Building_YieldChangesPerPop>
+		<Row>
+			<BuildingType>BUILDING_MC_MINOAN_ANAKTORA</BuildingType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>50</Yield>
+		</Row>
+	</Building_YieldChangesPerPop>
+</GameData>

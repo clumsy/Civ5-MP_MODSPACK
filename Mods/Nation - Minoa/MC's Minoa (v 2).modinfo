@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="dad5dfb5-345a-48cf-99a9-28d3ef468b59" version="2">
+  <Properties>
+    <Name>MC's Minoa</Name>
+    <Teaser>Adds [COLOR_POSITIVE_TEXT]Minoa[ENDCOLOR] as a playable civilisation, led by Minos</Teaser>
+    <Description>Centered on the island of Crete, largest island of the Aegean, the Minoan civilisation was both technologically and culturally one of the most advanced nations of its age. Renowned across the eastern Mediterranean for the quality of their frescoes and palatial architecture, Minoan artisans were in high demand throughout the bronze age as word of their skill followed the trade routes, with Minoan frescoes adorning palaces as far away as Egypt. But their skill was not limited to peaceful endeavour, indeed the Minoan navy was greatest and most powerful fleet in the Mediterranean, serving to protect both Minoan holdings and her trade routes from piracy and invasion. However, no navy could protect the Minoans from Thera, a supervolcano just kilometres north of Crete, the eruption of which brought about the end of the Minoan civilisation in but a single day and night, adding the legend of Atlantis as one of the many mythological tales inspired by Europe's first great civilisation.[NEWLINE][NEWLINE]
+[COLOR_POSITIVE_TEXT]Minoa - Minos[ENDCOLOR]NEWLINE][NEWLINE]Pax Minoica - Enter a Golden Age when your first coastal city is founded. Cargo ships gain +50% range. Start the game with 1 additional trade route[NEWLINE]Galea - Replaces the Trireme. Cheaper and slightly weaker, but had +1 movement and can enter rival territory. Generates +2 gold per turn when stationed within two tiles of the destination city of a trade route. [NEWLINE]Anaktora - Replaces Library. +1 Happiness, +2 in coastal cities. In addition to standard Library effects, during Golden Ages, each naval troute to a city with an Anaktora generates additional +2 science.</Description>
+    <Authors>More Civs</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD's Piety" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact's Events &amp; Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Traits" />
+    <Mod id="43868e8d-de88-48a1-a8d9-ce144e07f5e0" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="7BC3CB0392BBCE2BED121A950CD86DBE" import="1">Art/Atlases/MC_MinoaAlpha_128.dds</File>
+    <File md5="FF0E487137D4DB2E59FF6112108B9560" import="1">Art/Atlases/MC_MinoaAlpha_16.dds</File>
+    <File md5="3693C50856F042B303CE450224EB73BF" import="1">Art/Atlases/MC_MinoaAlpha_24.dds</File>
+    <File md5="4CF092B1D6924DDD11C51C3528859CF3" import="1">Art/Atlases/MC_MinoaAlpha_32.dds</File>
+    <File md5="ED4E9D4A760225D92A453B56EB7A8316" import="1">Art/Atlases/MC_MinoaAlpha_48.dds</File>
+    <File md5="B5BA79F455C53474D2082AC0EFBAEBDE" import="1">Art/Atlases/MC_MinoaAlpha_64.dds</File>
+    <File md5="F8F1402D86E80664A3476196D904CE33" import="1">Art/Atlases/MC_MinoanLabyrinth_128.dds</File>
+    <File md5="544EAF039F5F805DA68A0F1C2B4202DB" import="1">Art/Atlases/MC_MinoanLabyrinth_256.dds</File>
+    <File md5="0B9B43B26BBD97D3FA103C50A8954181" import="1">Art/Atlases/MC_MinoanLabyrinth_45.dds</File>
+    <File md5="36164609401A0100CD2F613820D43506" import="1">Art/Atlases/MC_MinoanLabyrinth_64.dds</File>
+    <File md5="4199A7FF86360455A5BAFAE678755828" import="1">Art/Atlases/MC_MinoanLabyrinth_80.dds</File>
+    <File md5="A90ED3BF0F38053D075BDF79CF17352B" import="1">Art/Atlases/MC_Minoa_128.dds</File>
+    <File md5="0B2ED99C627020FCC16D3807A0585609" import="1">Art/Atlases/MC_Minoa_24.dds</File>
+    <File md5="87DE97EDDB814B23B4B074D2ECAE06ED" import="1">Art/Atlases/MC_Minoa_256.dds</File>
+    <File md5="576742B0E85D4A90B498CDA32009801C" import="1">Art/Atlases/MC_Minoa_32.dds</File>
+    <File md5="B95CB25F87904C8D0101AEB8332D6E55" import="1">Art/Atlases/MC_Minoa_45.dds</File>
+    <File md5="49F714774D610D01C25D8560B3160347" import="1">Art/Atlases/MC_Minoa_48.dds</File>
+    <File md5="C499F1385C755BAD8C502AA9AF8D0DD5" import="1">Art/Atlases/MC_Minoa_64.dds</File>
+    <File md5="03FDD0B910DE470766A53C353B0FAE47" import="1">Art/Atlases/MC_Minoa_80.dds</File>
+    <File md5="C7E80225CE93AA4DF41B993DEFAB2717" import="1">Art/Models/GaleaFlag.dds</File>
+    <File md5="2081446C4DAABA2A7BC4D4FEC0BE3837" import="1">Art/Models/minoan_galea.fxsxml</File>
+    <File md5="0D89E37C36EA7584ADC0DC626B56BEFE" import="1">Art/Models/minoan_galea.gr2</File>
+    <File md5="EB8C654A210F47BE5AB8632307ED363A" import="1">Art/Models/minoan_galea_diff.dds</File>
+    <File md5="19163A2201643F133CA3C2485A44C93C" import="1">Art/Models/minoan_galea_sref.dds</File>
+    <File md5="6434EC8EB89A8F24BDF2CB792467982A" import="1">Art/Models/sv_galea.dds</File>
+    <File md5="2DED35B84E2AB8308E4D0ADB4A54F0DC" import="1">Art/Scenes/MC_Minoa_Diplo.dds</File>
+    <File md5="A26E17F2CE287E0C396AF7CEFC1C1B7E" import="1">Art/Scenes/MC_Minoa_DoM.dds</File>
+    <File md5="CCD707967448C2F8A54D207D60AB9778" import="1">Art/Scenes/MC_Minoa_Map.dds</File>
+    <File md5="FBC4DD35605C7F0BBBDA1108B6CEF591" import="0">Decisions/MC_Minoa_Events.lua</File>
+    <File md5="8704BDCB115B2F4DBFAC3560B99DB1F9" import="1">Decisions/MC_Minoa_Decisions.lua</File>
+    <File md5="F9D5672BDB5B896A61E3B9E744C27388" import="0">Decisions/MC_Minoa_Decisions.xml</File>
+    <File md5="61CED8FC0F64B65720620644758F2028" import="0">Lua/JFD_MinoaFunctions.lua</File>
+    <File md5="1280EAE6B2F0E8E19FFC494134396DAA" import="0">Lua/MinoanDummies.xml</File>
+    <File md5="86C1C3EDCE4699DE320A932C4E70E22C" import="0">Lua/Sukritact MCIS/CityInfoStack.lua</File>
+    <File md5="120EB71025973A8A48B38314241DD0B3" import="0">Lua/Sukritact MCIS/CityInfoStack.xml</File>
+    <File md5="2D8FC870748C1A6E115EDF57896E5F88" import="0">Lua/Sukritact MCIS/JFD_AnaktoraHappinessCityInfo.lua</File>
+    <File md5="B5293F828F7917BA92817C57487599DC" import="0">Lua/Sukritact MCIS/JFD_AnaktoraHappinessCityInfo.xml</File>
+    <File md5="3B1AA0DEC03601AD025099B93FB85E47" import="0">Lua/Sukritact MCIS/JFD_AnaktoraScienceCityInfo.lua</File>
+    <File md5="B2A1843A94694E52F91AA1C4788C92E6" import="0">Lua/Sukritact MCIS/JFD_AnaktoraScienceCityInfo.xml</File>
+    <File md5="8A5FC22EB73A2C2106DE16D1A3E98AF2" import="1">Lua/Sukritact_SaveUtils.lua</File>
+    <File md5="B2E92E43A86089C5DC5ED724723F118A" import="1">Sounds/MCMinoaPeace.mp3</File>
+    <File md5="906697DCED718C79B4A69A7694F9C488" import="1">Sounds/MCMinoaWar.mp3</File>
+    <File md5="7481640D6AD1CC823A0DFE0AEBA9F0A8" import="1">Sounds/MCMinoaDoM.mp3</File>
+    <File md5="B0DE8BA65435058A5E5A3C22255FFB75" import="0">SQL/ArtDefGalea.sql</File>
+    <File md5="BA2E84081DCEF2E452F148B9164315F5" import="0">SQL/CivilizationStartPos.sql</File>
+    <File md5="A302DBE5C10C0A5CDB73057E161FCAFB" import="0">SQL/ModSupport.sql</File>
+    <File md5="6B84A23A9FE7E7D637479D1F235A9960" import="1">XML/Art/MC_Minoa_Leaderhead.xml</File>
+    <File md5="BD751BB9575E76520E61EC835DE06939" import="0">XML/Buildings/MC_Minoa_Buildings.xml</File>
+    <File md5="E6D88048C80C32084609BC49853E75EF" import="0">XML/Civilizations/MC_Minoa_Civilizations.xml</File>
+    <File md5="8E5C67CB8BF6582AD83F41B488E5CE77" import="0">XML/GameInfo/MC_Minoa_IconTextureAtlases.xml</File>
+    <File md5="37D51A6758338A7306BFC0514B6185EA" import="0">XML/GameInfo/MC_Minoa_Sounds.xml</File>
+    <File md5="A4B15E04AD215D427646E2A295F9A9DC" import="0">XML/GameInfo/MC_Minoa_Traits.xml</File>
+    <File md5="4AF01AEFCF510F9E0B8291A718D31532" import="0">XML/Leaders/MC_Minoa_Leader.xml</File>
+    <File md5="0289F946F0C413872B0CEE06375EEF14" import="0">XML/Text/MC_Minoa_Text.xml</File>
+    <File md5="339CCA521F2ABA1C67AE8D7626A50E0C" import="0">XML/Text/MC_Minoa_UCI_Support.xml</File>
+    <File md5="481CC82A53FE2586FE569A4465B42D48" import="0">XML/Units/MC_Minoa_Units.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Decisions/MC_Minoa_Decisions.xml</UpdateDatabase>
+      <UpdateDatabase>Lua/MinoanDummies.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/ArtDefGalea.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/CivilizationStartPos.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Art/MC_Minoa_Leaderhead.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/MC_Minoa_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/MC_Minoa_Civilizations.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/MC_Minoa_IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/MC_Minoa_Sounds.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/MC_Minoa_Traits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/MC_Minoa_Leader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/MC_Minoa_Text.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/MC_Minoa_Units.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/MC_Minoa_UCI_Support.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_MinoaFunctions.lua">
+      <Name>JFD_MinoanFunctions</Name>
+      <Description>Minoan Lua</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Sukritact MCIS/CityInfoStack.lua">
+      <Name>CityInfoStack</Name>
+      <Description>MCIS Stuff</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Sukritact MCIS/JFD_AnaktoraHappinessCityInfo.lua">
+      <Name>JFD_AnaktoraHappinessCityInfo</Name>
+      <Description>MCIS Stuff</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Sukritact MCIS/JFD_AnaktoraScienceCityInfo.lua">
+      <Name>JFD_AnaktoraScienceCityInfo</Name>
+      <Description>MCIS Stuff</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>
