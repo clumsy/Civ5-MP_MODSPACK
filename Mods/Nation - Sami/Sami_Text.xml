@@ -1,0 +1,517 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<!----------------------------------------------------------------
+						Sámi Empire
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_MC_SAMI_DESC">
+			<Text>Sámi Empire</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_MC_SAMI_SHORT_DESC">
+			<Text>The Sámi</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_MC_SAMI_ADJECTIVE">
+			<Text>Sámi</Text>
+		</Row>
+		<!--Civilopedias-->
+		<Row Tag="TXT_KEY_MC_CIVLOPEDIA_SAMI_TITLE">
+			<Text>The Sámi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_CIVLOPEDIA_SAMI_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_CIVLOPEDIA_SAMI_TEXT_1">
+			<Text>The Sámi are the people native to an area in northern Scandinavia called Sampi (formerly Lapland) known for its freezing temperatures. For many years, the Sámi prospered in the region, herding reindeer, fishing, fur trapping, and sheep heading. They survived in the harsh, unforgiving tundra of the northern Scandinavian states by living the same nomadic lifestyle that their ancestors had before them. This lifestyle has worked for them over millennia, but recently it has come under threat. The nations of Sweden, Norway, Finland and Russia have some claim to the Sámi lands that lie to their north, though the Sámi have always been unwilling to give up their fight. While there is no one Sámi nation recognised at any international level, instead the Sámi people encompass the northern parts of the aforementioned states, they still have a high level of cultural identity, distinct from all those around them, as the Sámi are in so many ways different from the other Scandinavian cultures; so different, in fact, that they were actually at risk of almost dying out culturally. However, political activism and increased interest has prevented other nations from destroying them, and has instead made them think twice about dispersing this unique and ancient culture. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_CIVLOPEDIA_SAMI_HEADING_2">
+			<Text>Geography and Climate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_CIVLOPEDIA_SAMI_TEXT_2">
+			<Text>The Sámi region, Sapmi, stretches from the mountainous centre of Norway and Sweden to the icy lands of northern Russia. The Sámi lands are notorious for being snowed over most of the year. However, the Sámi have adapted well to this climate, and have been known to use what is there - furs, fishing, and all other manner of things to survive the colder winter months. Although the Sámi possess a unique culture, they are still, in many ways, divided. Many Sámi regions are inaccessible from others owing to their climate or terrain, or even by linguistic barriers. Sámi land is mostly tundra and ice, giving very little to live on. However, the simple lifestyle for the Sámi people means that they can very easily adapt to this climate - by fishing to get food and fur hunting to get warmth, the Sámi people are able to survive all manner of natural rages. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_CIVLOPEDIA_SAMI_HEADING_3">
+			<Text>Migration to Sampi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_CIVLOPEDIA_SAMI_TEXT_3">
+			<Text>
+				The Sámi people have been known to outsiders possibly as far back as the Roman era, but their linage stretches back further than that. Today, their genetics are still in dispute; there is a good possibility that the Sámi are among the first native Europeans, possibly among the first to return to Europe after the last Ice Age. There is a possibility that they are of partial Asian descent, as well as European, further differing them from the Finnish people and the Germanic tribes. Archaeology points to them entering their future homeland, Sampi, around 8100 BC, some of the first Europeans to do so, and possibly one of the most northern peoples in the world; few today are as far north, or further, than the Sámi. However, the Sámi language itself is purportedly very new; it is reported to have emerged only in the past 2000 years or so, and although still older than most other languages still in use today, it seems somewhat strange for a tribe to go so long without their traditional language today. Stemming from this, the evidence of the creation of the Sámi language points towards the Sámi lands being far bigger than they are today, spanning the whole of Finland, and possibly the whole Norwegian and Swedish coastlines as well, and probably even stretching down to the Baltic States. 
+				[NEWLINE][NEWLINE]The Sámi people remained in this general area of Scandinavia for a long period of time; being the dominant culture in the region. Their territory, however, was mostly snowy; this lead to them adapting to, and then staying in the tundra regions, possibly due to strengthened cultural bonds. This lead to their world famous reindeer hearing, and ancient tradition still practiced today.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_CIVLOPEDIA_SAMI_HEADING_4">
+			<Text>The Reindeer Herders</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_CIVLOPEDIA_SAMI_TEXT_4">
+			<Text>There are many reasons that the Sámi are famous today; their traditional clothing, colourful, yet sustainable and warm, their survival in the tundra of northern Scandinavia, a feat accomplished by few, and rarely matched with the Sámi; but most famous of all is their reindeer herding. Traditionally, the Sámi have always maintained a close connection with the reindeer herds. Let us examine their language itself; there are distinct similarities between the words for life, “eallin”, and the word for herd, “eallu”. This bond intertwines the Sámi and herding almost inseparably; so much so, that should the herding stop, irreparable damage may be done to the language, and subsequently the rest of Sámi culture. Herding has been practiced for many generations, dating from the initial arrival of the Sámi to Scandinavia's frozen north, to the revived traditions of today. There is a lot of knowledge required for this lifestyle; you have to be able to tell if a reindeer is pregnant (she loses her antlers), and when you are eating one, you must use every part of it for the lifestyle to be sustainable. Reindeers must be taken across rivers should it be needed; at whatever cost, herders must find suitable ground for the reindeer to graze.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_CIVLOPEDIA_SAMI_HEADING_5">
+			<Text>Early Years in the North</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_CIVLOPEDIA_SAMI_TEXT_5">
+			<Text>
+				The Sámi lifestyle was based upon reindeer migration. While they had other sources of food, such as fishing, and other sources of warm clothing, such as trapping, they stuck to this lifestyle for the reason that is was sustainable and worked for them. However, their entire culture came under threat during the early Medieval Era, when outsiders threatened their existence. In Finland, territory was claimed by the Finns, pushing the Sámi culture and people further and further north. The Vikings also claimed land in present-day Sweden and Norway, forcing the Sámi out from the sea, and back into the mountainous central regions between Norway and Sweden, even getting them towards the vast and beautiful fjords in Norway. Although their culture was under threat, the Sámi still managed to stay strong, and in some ways, even thrive, in the cold north. As other cultures were unlikely to adapt to it in such a way that would be sustainable, the north would be impervious to any outsiders. Or was it? 
+				[NEWLINE][NEWLINE]As there was - and still is - a finite and small amount of resources to help survive in Sampi, the Sámi tribes did not fare well when it came to providing outsiders with supplies, or even paying taxes and tribute to them. There was a fairly sharp drop in reindeer numbers when neighbouring states demanded tribute from them. However, this still did not spell destruction for the Sámi; if anything, their history now shows survival with the world against them. After many years of consideration, the Sámi chose to ally with the Norse settlers, and give up what they demanded to them, as a means of protection from their enemies, the Finno-Ugric tribes. Although the Sámi were initially pleased by this alliance, as it did not do much damage to them, a wave of Norse settlers soon moved into the Sámi lands. This in itself had some benefit, as they could then have trading relations with them, letting the Sámi prosper more. The Norse could not possibly have survived in great numbers without Sámi help; after all, they were in the minority who could help anyone survive in the tundra. This gave way to a mutual relationship between the Sámi and Norse cultures. 
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_CIVLOPEDIA_SAMI_HEADING_6">
+			<Text>Scandinavia against the Sámi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_CIVLOPEDIA_SAMI_TEXT_6">
+			<Text>Around the 15th and 16th centuries, nations began to emerge from the disintegrating Kalmar Union, which was based in Denmark. The Danes themselves had no interest in these northern regions, though the rising superpower of Sweden was closer. In need of expansion, the Swedes drove north through the Sámi lands, now claiming all Baltic territory that the Sámi once owned. Due to the Norse protection of the Sámi, this still didn't mean that the Sámi would have no access to the coast; if anything, it made it easier, as Finland was under Swedish control. Sweden didn't even have all the Sámi lands; only a thin strip that they were still entitled to use, as it was under lose control of the Swedish king. However, nearby nations also claimed land. Denmark, now with even less land, put more pressure on the Sámi in an attempt to outmatch Sweden's land. The Kingdom of Russia, now newly formed out of the Grand Duchy of Moscow, also laid claim to Sámi territories, resulting in their rapid and unmatched territorial expansion. The Sámi still had to pay taxes to their respective overlords; a lot of their traditions were under threat, but not dead. Another major effect of this was that the Sámi had to move in greater numbers to the fjords of Norway, which were still, for the most part, unclaimed, and undoubtedly untamed by any of the European powers. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_CIVLOPEDIA_SAMI_HEADING_7">
+			<Text>Threats to the Sámi Culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_CIVLOPEDIA_SAMI_TEXT_7">
+			<Text>As the traditional Sámi way of life and territory got swallowed up by the increasingly imperialistic nations around them, the Sámi had to look for new ways to survive in this world made harsher by the might of the empires close to them. The Sámi were forced to give up precious resources, such as furs and food via taxes. However, the Sámi were very well off in many ways; for a long time, they had better living conditions compared to a lot of Norwegians at the time. They were free to trade with whoever they wanted, giving them a sustainable economy. Around 1720, the conversion of the Sámi to Lutheranism began, using methods of burning their Shaman Drums; in effect, tearing away at their culture. Although this arguably got them closer relations to those around them, it didn't do their traditions, which had been valued since time immemorial, any favours. As they had almost always fared well, any idea of change was likely to be a bad idea, as it may have damaged their circle of life.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_CIVLOPEDIA_SAMI_HEADING_8">
+			<Text>Integration into the Northern Powers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_CIVLOPEDIA_SAMI_TEXT_8">
+			<Text>Russian Imperialism drew closer to the Sámi lands, and with the seizure of Finland in 1809, the Sámi were effectively split, with the divide formalised in 1826, when Russia closed its borders to Norway. From this point on, the Sámi living in Russia were under strict administration from them, compared to the self-governance that they had wielded before. This also impacted herding, as Sámi could no longer cross the Norwegian- Finnish border to herd their reindeer, taking more away from their nomadic way of life. However, in Norway, the general Sámi outlook was a lot brighter. As they outsourced the Norwegian fishermen, they were able to resist their ambitions there for a long time, letting them regain their economic strength, despite attacks on their reindeer herding. However, Norwegians became increasingly more imperialistic, and founded new cities along the Sámi coastline, endangering them to the point where they were in perpetual threat of dying out. Norway was able to employ more efficient and advanced methods to get resources than the Sámi could; this left them stagnating as the 19th century progressed. Norway, a new nation at this point, was becoming more and more nationalistic, making sure that Norwegians were the dominant force in their nation. Norway employed methods to make the Sámi less culturally distinct from the Norwegians by attempting to crush the Sámi language, making Norwegian the official language wherever the Norwegian government could press its authority.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_CIVLOPEDIA_SAMI_HEADING_9">
+			<Text>Modern History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_CIVLOPEDIA_SAMI_TEXT_9">
+			<Text>
+				During the 20th century, steps were taken to increasingly break down the Sámi culture. The Norwegian government made life harder for the Sámi; one of the more famous examples is the policy of land purchase in Finnmark, where a lot of the Sámi resided. To own land there (and in turn, farm there), you would have to prove sufficiency in the Norwegian language, in an attempt to either give the land to someone who was already Norwegian, or a Sámi who had apparently succumbed to the effects of Norwegianisation. Over in the Russian side of the border, the land was cultivated by the Soviets, and the Russians organised the Sámi in such a way that it effectively destroyed their entire way of life, as the work was based on pastures rather than herding. However, it is notable that conditions were somewhat better in Sweden. The Sámi culture was not attacked in any way; instead, the Swedish education program arranged visits to Sámi herders. However, as industry moved north into the Sámi lands, traditional developments in the region were left in ruins. In 1940, the Sámi were affected by the Second World War, as they were forbidden to pass the border between Norway and Sweden, practically isolating them from Sámi whose lands fell in a different state. Between 1944 and 1945, the Sámi lands came under attack from all sides, effectively eradicating their cultural mark in many areas. Although this would seem like the best place for the Sámi to restart, the Norwegians made the first move. 
+				[NEWLINE][NEWLINE]By presenting the old Sámi way of life as ridiculous and outdated, the Norwegian government made themselves an excuse that was in their eyes valid to modernise - and effectively Norwegianise the Sámi, by building modern houses for them and the Norwegian way of life seen as the only way of life. This time, a lot less resistance took place, and the Sámi were dragged to Norwegian schools, to receive an education in Norwegian, centred on Norway, and not their native Sampi. However, at the same time, Norwegian radio stations started broadcasting the news in Sámi, and schoolchildren were taught the alphabet in both Sámi and Norwegian, showing at least come condolence for them. 
+				[NEWLINE][NEWLINE]Nonetheless, Sámi culture still survives. Today the indigenous Sámi population is a mostly urbanised demographic, but a substantial number live in villages in the high arctic. The Sámi are still coping with the cultural consequences of language and culture loss related to generations of Sámi children taken to missionary and state-run boarding schools and the legacy of laws that were created to deny the Sámi rights (e.g., to their beliefs, language, land and to the practice of traditional livelihoods). The Sámi are experiencing cultural and environmental threats, including oil exploration, mining, dam building, logging, climate change, military bombing ranges, tourism and commercial development.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_CIVLOPEDIA_SAMI_STATBOX">
+			<Text>[NEWLINE]        Leader: EADNI[NEWLINE]        Unique Unit: S[NEWLINE]        Unique Building: Puquios[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_CIVLOPEDIA_SAMI_FACTOID_HEADING">
+			<Text>Sámi Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_CIVLOPEDIA_SAMI_FACTOID_TEXT">
+			<Text>
+				Some Sámi have immigrated to North America to teach the native tribes, such as the Inuit, their tradition of reindeer herding. 
+				[NEWLINE][NEWLINE]There is a Sámi national day - it was designated to be February 6, as the date when the first Sámi National Congress was held in 1917. By chance, it also managed to fall on the same date that the Sámi would discuss issues with the Russians on an annual basis. 
+				[NEWLINE][NEWLINE]With Finland's independence in 1918, the Sámi living there were no longer subject to Russian rule - in fact, they ended up with the right to have their own parliament there from the start. This gave the Sámi living there a greater degree of freedom. One of the most important issues concerning them is the foresting of land around them by state-owned companies.
+			</Text>
+		</Row>
+		<!--City List-->
+		<Row Tag="TXT_KEY_MC_CITY_NAME_SAMI_KÁRÁSJOHKA">	
+			<Text>Kárásjohka</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_MC_CITY_NAME_SAMI_GUOVDAGEAIDNU">	
+			<Text>Guovdageaidnu</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_MC_CITY_NAME_SAMI_AANAAR">	
+			<Text>Aanaar</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_MC_CITY_NAME_SAMI_DIVTASVUODNA">	
+			<Text>Divtasvuodna</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_MC_CITY_NAME_SAMI_LEAVDNJA">	
+			<Text>Leavdnja</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_MC_CITY_NAME_SAMI_ROMSA">	
+			<Text>Romsa</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_MC_CITY_NAME_SAMI_ÁRVIESJÁVRRIE">	
+			<Text>Árviesjávrrie</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_MC_CITY_NAME_SAMI_UNJÁRGA">	
+			<Text>Unjárga</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_MC_CITY_NAME_SAMI_LUVLIELUSPIE">	
+			<Text>Luvlieluspie</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_MC_CITY_NAME_SAMI_SNÅASE">	
+			<Text>Snåase</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_MC_CITY_NAME_SAMI_JÅHKÅMÅHKKE">	
+			<Text>Jåhkåmåhkke</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_MC_CITY_NAME_SAMI_GÁIVUOTNA">	
+			<Text>Gáivuotna</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_MC_CITY_NAME_SAMI_AARBORTE">	
+			<Text>Aarborte</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_MC_CITY_NAME_SAMI_EANODAT">	
+			<Text>Eanodat</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_MC_CITY_NAME_SAMI_ARJEPLUOVVE">	
+			<Text>Arjepluovve</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_MC_CITY_NAME_SAMI_JIELLEVÁRRI">	
+			<Text>Jiellevárri</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_MC_CITY_NAME_SAMI_OHCEJOHKA">	
+			<Text>Ohcejohka</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_MC_CITY_NAME_SAMI_GIRON">	
+			<Text>Giron</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_MC_CITY_NAME_SAMI_SUOSSJÁVRI">	
+			<Text>Suossjávri</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_MC_CITY_NAME_SAMI_SUOVVAGUOIKA">	
+			<Text>Suovvaguoika</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_MC_CITY_NAME_SAMI_VALJOK">	
+			<Text>Valjok</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_MC_CITY_NAME_SAMI_JIEPMALUOKTA">	
+			<Text>Jiepmaluokta</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_MC_CITY_NAME_SAMI_ALTA">	
+			<Text>Alta</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_MC_CITY_NAME_SAMI_SOADEGILLI">	
+			<Text>Soadegilli</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_MC_CITY_NAME_SAMI_ROVANIEMI">	
+			<Text>Roavenjárga</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_MC_CITY_NAME_SAMI_VUOLLERIM">	
+			<Text>Vuollerim</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_MC_CITY_NAME_SAMI_MUONÁ">	
+			<Text>Muoná</Text>
+		</Row>
+		<!--Spy Names-->
+		<Row Tag="TXT_KEY_MC_SPY_NAME_SAMI_0">
+			<Text>Laib Olmai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_SPY_NAME_SAMI_1">
+			<Text>Noaidi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_SPY_NAME_SAMI_2">
+			<Text>Horagalles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_SPY_NAME_SAMI_3">
+			<Text>Ruohtta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_SPY_NAME_SAMI_4">
+			<Text>Juoksa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_SPY_NAME_SAMI_5">
+			<Text>Sabbe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_SPY_NAME_SAMI_6">
+			<Text>Beaivi</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_MC_SPY_NAME_SAMI_7">
+			<Text>Rana</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_MC_SPY_NAME_SAMI_8">
+			<Text>Násti</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_MC_SPY_NAME_SAMI_9">
+			<Text>Oajá</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!----------------------------------------------------------------
+						Eadni
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_DESC">
+			<Text>Eadni</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_MC_DAWN_OF_MAN_SAMI_TEXT">
+			<Text>Dear Eadni, you are mother to the Sámi people; the people who have thrived from time immemorial in the unforgiving Scandinavian tundra. For many years your people lived simple lives; fishing, trapping furs, and perhaps most famously, herding reindeer. But as the imperialist nations of Finland, Russia, Norway and Sweden claimed your lands, the Sámi culture was unjustly suppressed; your traditions scorned and your languages shunned. Your people fought and eventually were recognized by both the UN and the governments of those nations which seized your homes; finally accepted as the indigenous peoples of Scandinavia.[NEWLINE][NEWLINE]Eadni! A new era dawns, and the Sámi look to you for your wisdom. Will you nurture the Sámi and bring them peace and prosperity? Will your people thrive in the harsh lands that await you? Can you build a civilization to stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_LIVED">
+			<Text>?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_NAME">
+			<Text>Eadni</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_SUBTITLE">
+			<Text>Leader of the Sámi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_TITLES_1">
+			<Text>Leader of the Sámi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_HEADING_1">
+			<Text>A Note from the Author</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_TEXT_1">
+			<Text>Due to the fact that Eadni was made up to cover for a non-existent Sámi leader (Eadni being a Northern Sámi word meaning "Mother") because of limited choices and sheer lack of records, it probably shouldn't be a surprise that there was some difficulty in creating a Civilopedia for her. Instead, we have taken another route, and decided on describing their systems of governance. As you will see from the description of their politics, there wasn't really a suitable leader, or any Sámi who could claim to be ruler of all the Sámi tribes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_HEADING_2">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_TEXT_2">
+			<Text>The origin of the Sámi ways of governance has been lost in the mists of time, but it must be around as long as the distinct Sámi culture has existed, as their policies are embedded in their way of life. A Sámi government has never really existed until recently, though they seem to make up for the lack of these institutions with the obedience to the generally accepted laws. As the Sámi are a semi-nomadic people, it makes it harder to centralise their government - in fact, that is what much of their policy is based on. The Sámi would share settlements with others, and move around as a group as winter passed, all between permanent settlements. Over time, this evolved so that people in these groups would share resources, making their harsh lifestyle a little easier for them. Over time, the Sámi lands got swallowed up by larger states, though this affected them little as the lands would not have much to offer for the other powers, thus their presence there would be minimalized. However, some nations decided to almost completely engulf the Sámi into their political system, and their relative independence faded. Only recently with the opening of several Sámi parliaments have they begun to regain their autonomy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_HEADING_3">
+			<Text>Style of Governance</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_TEXT_3">
+			<Text>As the Sámi rarely stay in the one place for very long, they can have no one government that can truly control all of them. Instead, they have lived for generations in an almost communist manner; the Sámi have organised themselves into groups called siidas, which are traveling groups that go out hunting, while sharing the same resources. In the past, almost all Sámi were part of a siida; now, with the decline of their traditions, siidas are becomingly increasingly rarer. As there is no leader among the siidas, there can thus be no head of all the Sámi. Some Norse legends talk of Sámi kings, or “Finnekonger”, though it is unlikely they existed at all, and were fabricated by the Norse in their entirety. The closest that one would get to find a Sámi leader would be among the village, or siida elders, who would occasionally be elected by the counsels. In the 16th century, a lot of Sámi settled down in villages, while others decided to stay as a semi-nomadic group, while still using effectively the same systems. Both of these were aimed at cultivating reindeer, though taking very different approaches to it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_HEADING_4">
+			<Text>Autonomy within Scandinavia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_TEXT_4">
+			<Text>When the Imperialist nations around them decided to lay further claim on the Sámi lands, the Sámi people were further divided. However, this affected their political structure little, due to the aforementioned reason that they had no centralised government. On the other hand, the division crippled their economy, as reindeer heading across borders was, in many cases, impossible. This division was worsened by several factors - the first was the land being divided more and more between states. At the start, it was only really Sweden and Denmark pressing a claim to their territory, albeit a weak one, though later in the 1900s, with Norway's independence, the Norwegians strove to claim the land to their north for their own. Furthermore, the establishment of a Russian state took a lot of land away from the East; the Swedish annexation of Finland made it yet worse. Within these states, the Sámi had little power. The Norwegian government during the 19th century treated the Sámi people as “inferior” to the Norwegians, a claim that was simply not true. During the same time period, Alexander II of Russia organised an annual conference with the Sámi, the Koladak Sobbar, which was widely seen as a democratic solution to keep Sámi autonomy. The Russian officials would meet with the Sámi at the town of Kola every year, and discuss issues that were affecting the Sámi, and often resulted in them getting help from the authorities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_HEADING_5">
+			<Text>Sámi Activism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_TEXT_5">
+			<Text>At the tail end of the 19th century, efforts began to regain some of the Sámi autonomy in countries where it had been lost, mainly in Norway. A lot of the Sámi activists joined the Norwegian Labour Party, which was the most supportive of the Sámi cause. Isak Saba, one of these activists, was the first Sámi politician elected to Norwegian parliament, and later wrote a song, Sámi soga Lavlla, later proclaimed as the Sámi National Anthem. In 1917, an International Sámi Conference took place, which aimed to promote the Sámi culture, and the conference attracted native Sámi people from Norway and Sweden. It aimed to sort out the problems that the Norwegian Government were causing with the Sámi's Reindeer herding, and even today, the date of February 6th has great historic and cultural value to the Sámi, and is even proclaimed as their national day. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_HEADING_6">
+			<Text>Sámi Parliaments</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_TEXT_6">
+			<Text>Today, devolved powers have been given to the Sámi people, mainly as a result of their activism getting support for them, and casting off the chains put on them by the other Nordic governments. There is an individual one in each state with a significant Sámi population, aside from Russia, though the Sámi are still pushing for a parliament there.  To create more unity through the Sámi people due to their divisions, all Sámi parliaments have links to each other, making the Sámi capable of doing more with them. Today, there is such thing as a “leader” of the Sámi - though not one for all of the tribes. Instead, there are three Presidents of the Sámi, with Klemetti Näkkäläjärvi representing the Finnish Sámi, Aili Kestkitalo representing the Sámi population in Norway, and in Sweden, Lars-Anders Baer. Of these parliaments, the Swedish one doesn't have as much power within Sweden as the others, though the Sámi had no real need for campaigning in Sweden, as they have always been pretty much equal with the Swedes. The most powerful, perhaps unsurprisingly, is the Norwegian Sámi Parliament, a tribute to the work that was needed to make the Sámi equal the Norwegians. </Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Diplomacy
+		------------------------------------------------------------------>
+		<!--First Greeting messages from AI leaders-->
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_FIRSTGREETING_1">
+			<Text>Welcome, please sit; your journey here must have been long and treacherous.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_FIRSTGREETING_2">
+			<Text>I welcome you on behalf of my people! Please, stay for a while, that you may rest and tell us your story.</Text>
+		</Row>
+		<!--Defeated messages from AI leaders-->
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_DEFEATED_1">
+			<Text>You have destroyed a peaceful people. Have you gained what you sought? Are you satisfied?</Text>
+		</Row>
+		<!-- Human repeats an action too much, gets the following responses -->
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_REPEAT_TOO_MUCH_1">
+			<Text>...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_REPEAT_TRADE_TOO_MUCH_1">
+			<Text>Our people could never accept this proposal.</Text>
+		</Row>
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_GREETING_HOSTILE_HELLO_1">
+			<Text>Be forewarned, the Sámi people are not happy that I have agreed to receive you. Why are you here?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_GREETING_POLITE_HELLO_1">
+			<Text>Please sit! What would to like to discuss?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>The Sámi have no desire to get involved in your conflicts, if that is why you are here.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_GREETING_HUMAN_AT_WAR_1">
+			<Text>My people wish all the best for you in your current war. What would you like to discuss?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Our Boazovázzi are very concerned by your army. Move your army away from our borders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>Your purchase of our lands is a danger to our way of life, and I warn you that our people will not sit idly by if it continues.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>Your purchase of our lands upsets our reindeer herders, please refrain from purchasing any more.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>Your aggressive expansion is a danger to our way of life! The Boazovázzi will not stand for it! Refrain from further expansion into our lands!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>While I have this opportunity, I should mention that your expansion worries our Boazovázzi. I hope that this does not cause any problems in the future. What would you like to discuss?.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>Our people are extremely gladdened that we have your empire as an ally. Your great army puts us at ease.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>You're empire is famous for its strong economy. I hope you are putting that economy to the good of your people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_GREETING_HOSTILE_HUMAN_FEW_CITIES_1">
+			<Text>How do your people live in such a small nation?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>Even we peaceful Sámi think your army is much too small.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>The Sámi do not treat with tyrants.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_TOO_SOON_FOR_DOF_1">
+			<Text>I'm sorry, but I feel it is too early for us to declare this openly.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_DENOUNCE_1">
+			<Text>You have shown nothing but treachery to my people! It is time I let the world know of it![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>The rest of the world knows the Sámi better than to believe such nonsense.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_HUMAN_DOFED_FRIEND_1">
+			<Text>It is wonderful that you are friends with{1_CivName}! I am very glad to hear it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_HUMAN_DOFED_ENEMY_1">
+			<Text>{1_CivName} is not to be trusted. I suggest you do not get too close to them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>I strongly urge you to reconsider your position with {1_CivName}. They have been nothing but good friends to us.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>I agree that {1_CivName} is not to be trusted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>I noticed that you have declared your friendship with {1_CivName}. My people have decided to follow in your footsteps.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>Your foolish friendship with {1_CivName} will only lead to grief.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>I share your convictions that {1_CivName} only causes problems for our cause. Perhaps the combination of our denouncements will have them rethink their position in this world.</Text>
+		</Row>
+		<!-- General Diplo Text -->
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_DEC_FRIENDSHIP_1">
+			<Text>For the sake of both our peoples, would you be willing to declare to world that we are friends?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_DEC_FRIENDSHIP_2">
+			<Text>I want nothing more than for our two great countries to be at peace and harmony, and to prosper greatly. A declaration of friendship will go a long way toward this goal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Our Boazovázzi are very concerned by your army. Move your army away from our borders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_PLOT_BUYING_WARNING_1">
+			<Text>Your expansion poses a danger to our way of life! Please refrain from further expansion into our lands</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>Your aggressive expansion is a danger to our way of life! The Boazovázzi will not stand for it! Refrain from further expansion into our lands!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Your aggressive expansion is a danger to our way of life! The Boazovázzi will not stand for it! Refrain from further expansion into our lands!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_EXPANSION_WARNING">
+			<Text>I am concerned about your growing expansion, and must warn you against it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_RETURNED_CIVILIAN_1">
+			<Text>On behalf of the Sámi and those you rescued. I thank you from the heart.</Text>
+		</Row>
+		<!--Public Declarations-->
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}. Attacking the City-State will greatly damage relations and may lead to war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<!-- Human is asking the AI for something -->
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_DONT_SETTLE_NO_1">
+			<Text>Our people need those lands to survive. I must refuse to agree.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_DONT_SETTLE_YES_1">
+			<Text>As you wish. I will ask our herders to look elsewhere in the future.</Text>
+		</Row>
+		<!--Deal Offers and related-->
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_LUXURY_TRADE_1">
+			<Text>I sincerely hope that through trade our two nations will prosper.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_OPEN_BORDERS_EXCHANGE_1">
+			<Text>I believe there is much to be achieved for our people should we allow them to cross freely between our two nations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_RESPONSE_REQUEST_1">
+			<Text>I ask of you this, for I know that I can trust you to deliver.</Text>
+		</Row>
+		<!--AI Attacked by Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_ATTACKED_HOSTILE_1">
+			<Text>Our people will defend our lands and way of life to the last!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_ATTACKED_EXCITED_1">
+			<Text>Our people will defend our lands and way of life to the last!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_ATTACKED_SAD_1">
+			<Text>I regret that it as come to this. Our people will defend our lands and way of life to the last!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_ATTACKED_BETRAYED_1">
+			<Text>How dare you!? Our people will defend our lands and way of life to the last!</Text>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_TOO_SOON_NO_PEACE_1">
+			<Text>The Sámi could never agree to overlook such an insult so soon.</Text>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_BAD_1">
+			<Text>This is quite disappointing to hear.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_LEADER_EADNI_GOOD_1">
+			<Text>I thank you, on behalf of my people.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Sieidi
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_MC_BUILDING_SAMI_SIEIDI">
+			<Text>Sieidi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_BUILDING_SAMI_SIEIDI_HELP">
+			<Text>Reveals up to three Sieidis, each providing 2 [ICON_CULTURE] Culture and [ICON_PEACE] Faith, within the city's borders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_BUILDING_SAMI_SIEIDI_STRATEGY">
+			<Text>The Sieidi is the Sámi unique building, replacing the Temple. Rather than providing yields directly to the city, when built the Sieidi will reveal up to three Sieidi Improvements, each providing 2 [ICON_CULTURE] Culture and [ICON_PEACE] Faith, that can be worked by the city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_BUILDING_SAMI_SIEIDI_PEDIA">
+			<Text>In the landscape throughout Northern Scandinavia, one can find what are known in the different parts of Sapmi as Seita, Sieidis or Storjunkare: places that have unusual land forms different from the surrounding countryside. Sámi shamanism considers these spiritual 'focal points' and worships them as gateways to the spirit world. At these sieidis, sacrifices were made, of animals and objects, and archaeologists have found "Sámic metal depots" (due to the large numbers of metal objects) dating back to 9th-14th centuries. These objects are mostly coins from medieval Germany and England, weapons parts such as arrow-heads, and other minor findings such as antler from reindeer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_IMPROVEMENT_SAMI_SIEIDI">
+			<Text>Sieidi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_IMPROVEMENT_SAMI_SIEIDI_PEDIA">
+			<Text>In the landscape throughout Northern Scandinavia, one can find what are known in the different parts of Sapmi as Seita, Sieidis or Storjunkare: places that have unusual land forms different from the surrounding countryside. Sámi shamanism considers these spiritual 'focal points' and worships them as gateways to the spirit world. At these sieidis, sacrifices were made, of animals and objects, and archaeologists have found "Sámic metal depots" (due to the large numbers of metal objects) dating back to 9th-14th centuries. These objects are mostly coins from medieval Germany and England, weapons parts such as arrow-heads, and other minor findings such as antler from reindeer.[NEWLINE][NEWLINE]Can only be gained by constructing a Sieidi in a nearby city.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Boazovázzi
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_MC_UNIT_SAMI_BOAZOVAZZI">
+			<Text>Boazovázzi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_CIV5_SAMI_BOAZOVAZZI_TEXT">
+			<Text>Sámi herders call their work "Boazovázzi", which translates as "reindeer walker". This has been and still is an important aspect of Sámi culture. During the years of forced assimilation, the areas in which reindeer herding was an important livelihood were among the few where the Sámi culture and language survived. Today in Norway and Sweden, reindeer husbandry is legally protected as an exclusive Sámi livelihood, such that only persons of Sámi descent with a linkage to a reindeer herding family can own, and hence make a living off, reindeer. Presently, about 2,800 people are engaged in reindeer herding in Norway. In Finland, reindeer husbandry is not exclusive and is practiced to a limited degree also by ethnic Finns. Legally, it is restricted to EU/EEA nationals resident in the area. In the north (Sápmi), it plays a major role in the local economy, while its economic impact is lesser in the southern parts of the area.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_UNIT_SAMI_BOAZOVAZZI_STRATEGY">
+			<Text>The Boazovázzi is the Sámi unique unit replacing the Scout. Though the Boazovázzi is a ranged unit and is weaker than the scout, it can herd resources, temporarily removing them from the game in return for [ICON_FOOD] Food and [ICON_PRODUCTION] Production, making this unit extremely useful for growing your cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_UNIT_HELP_SAMI_BOAZOVAZZI">
+			<Text>A weaker and ranged Scout replacement. This unit can herd certain resources; speeding city growth. Only the Sámi may build it.</Text>
+		</Row>
+		<!--Herd-->
+		<Row Tag="TXT_KEY_MC_SAMI_HERD">
+			<Text>Herd</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_BUILD_SAMI_HERD_HELP">
+			<Text>Herd the animals on this tile, temporarily removing them in return for [ICON_FOOD] Food and [ICON_PRODUCTION] Production in your nearest city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_CIVILOPEDIA_SAMI_HERD_TEXT">
+			<Text>Reindeer have been herded for centuries by several Arctic and Subarctic people including the Sámi and the Nenets. They are raised for their meat, hides, and antlers and, to a lesser extent, for milk and transportation. Reindeer are not considered fully domesticated, as they generally roam free on pasture grounds. In traditional nomadic herding, reindeer herders migrate with their herds between coast and inland areas according to an annual migration route and herds are keenly tended. However, reindeer were not bred in captivity, though they were tamed for milking as well as for use as draught animals or beasts of burden.[NEWLINE][NEWLINE]Temporarily removes the resources on this tile in return for [ICON_FOOD] Food and [ICON_PRODUCTION] Production in your nearest city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_BUILD_SAMI_HERD_REC">
+			<Text>Herd the animals on this tile, temporarily removing them in return for [ICON_FOOD] Food and [ICON_PRODUCTION] Production in your nearest city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_BUILD_SAMI_HERD_NOTIFICATION_TITLE">
+			<Text>Animals herded to {1_City}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_BUILD_SAMI_HERD_NOTIFICATION">
+			<Text>{1_City} has gained {2_Food} [ICON_FOOD] Food and {3_Prod} [ICON_PRODUCTION] Production from herding.</Text>
+		</Row>
+		<!--Migratory Grounds-->
+		<Row Tag="TXT_KEY_MC_RESOURCE_MIGRATORY_GROUNDS">
+			<Text>Migratory Grounds</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_RESOURCE_MIGRATORY_GROUNDS_HELP">
+			<Text>Marks tiles from which resources have been herded away. It has no practical use.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_CIV5_RESOURCE_MIGRATORY_GROUNDS_TEXT">
+			<Text>Migration is an adaptive response to the seasonal or geographic variation of resources. The annual cycle of the seasons produces large differences in the duration and intensity of solar energy received in each hemisphere at any given time. Many migrants take advantage of favourable food and weather conditions offered in certain areas during very limited time periods. For instance, migratory birds like the bar-tailed godwit that breed at high latitudes (e.g., in the arctic tundra) exploit the extraordinary abundance of food during a few weeks in early summer and profit from long days, which allow them to extend foraging time. By leaving these areas after breeding, they avoid the northern winters with short days, low temperatures, and low food availability. In other cases, the resources needed in different life stages may be found in different locations. For example, young salmon migrate to sea to take advantage of the great abundance of food and high growth potential available there, but must someday return upstream to the small rocky tributaries required for spawning, a trip sometimes involving thousands of kilometres.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Siida Culture
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_MC_TRAIT_SIIDA_CULTURE_SHORT">
+			<Text>Siida Culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_TRAIT_SIIDA_CULTURE">
+			<Text>Founding cities reveals all tiles within its working radius. Cities founded on or adjacent to Tundra or Snow receive additional [ICON_FOOD] Food on adjacent Tundra and Snow tiles and claim all unclaimed resource tiles within its working radius.</Text>
+		</Row>
+	</Language_en_US>	
+</GameData>

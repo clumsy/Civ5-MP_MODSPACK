@@ -1644,6 +1644,11 @@ ContextPtr:LoadNewContext("CityInfoStack")
 ContextPtr:LoadNewContext("MC_Ashanti_UI")
 ContextPtr:LoadNewContext("LuaEvents.PlayerEnteredNewEra")
 
+-- Nation - Sami --
+ContextPtr:LoadNewContext("BoazovazziCode")
+ContextPtr:LoadNewContext("SamiUA")
+ContextPtr:LoadNewContext("SieidiCode")
+
 -- Nation - Minoa --
 ContextPtr:LoadNewContext("JFD_MinoaFunctions")
 ContextPtr:LoadNewContext("CityInfoStack")

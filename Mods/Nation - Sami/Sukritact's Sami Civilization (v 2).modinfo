@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="76e62793-78b2-4657-bf8a-a8e38fb1286f" version="2">
+  <Properties>
+    <Name>Sukritact's Sami Civilization</Name>
+    <Teaser>The Sámi: Masters of the Tundra</Teaser>
+    <Description>The Sámi are the indigenous people of Norther Europe; of an area of land which encompasses parts of far northern Norway, Sweden, Finland, the Kola Peninsula of Russia, and the border area between south and middle Sweden and Norway. Living off fishing, trapping and most famously, reindeer herding, they have thrived since time immemorial in the frigid cold of the north.</Description>
+    <Authors>Sukritact, Leugi, Viregel</Authors>
+    <SpecialThanks>Charlatan Alley, Berit Margrethe Oskal, Millikin University Choir</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety &amp; Prestige" />
+    <Mod id="43868e8d-de88-48a1-a8d9-ce144e07f5e0" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="16D395D3B6CDB006BAE93B504BF92FD3" import="0">Art/Atlas/Sami_ArtDefines.sql</File>
+    <File md5="4B6CAB6C8165E0A2C3687869A6EFFA0B" import="1">Art/Atlas/SamiAlpha_128.dds</File>
+    <File md5="89BE2811B2146AD6B1C15AB191608C7C" import="1">Art/Atlas/SamiAlpha_16.dds</File>
+    <File md5="006B2AA049B0C4E1080FD98BD5B43709" import="1">Art/Atlas/SamiAlpha_24.dds</File>
+    <File md5="1B9FC473135A41DA73AA85FE98F22A75" import="1">Art/Atlas/SamiAlpha_256.dds</File>
+    <File md5="EBEA159E5F4DF6628F5356ECED137485" import="1">Art/Atlas/SamiAlpha_32.dds</File>
+    <File md5="8756BC068C5FF5810FAFD3086550E648" import="1">Art/Atlas/SamiAlpha_45.dds</File>
+    <File md5="1D7E7ED86AACC9FA4BD678A7E80005D3" import="1">Art/Atlas/SamiAlpha_48.dds</File>
+    <File md5="7F7BBE82F1F0012684D3F2AB4649483E" import="1">Art/Atlas/SamiAlpha_64.dds</File>
+    <File md5="D86FA1F928C6452F96825ACA1844CE0D" import="1">Art/Atlas/SamiAlpha_80.dds</File>
+    <File md5="F7579E5D3C81270D867F36446A775A90" import="1">Art/Atlas/SamiAtlas_128.dds</File>
+    <File md5="75514D66094E87CFC0C90C700CD4E4C8" import="1">Art/Atlas/SamiAtlas_16.dds</File>
+    <File md5="BDCA182730EA345B0121ED0F8427D247" import="1">Art/Atlas/SamiAtlas_24.dds</File>
+    <File md5="5D82579DE647C66FFC55F771A526F702" import="1">Art/Atlas/SamiAtlas_256.dds</File>
+    <File md5="8A61114A8FA938C92BD478ADE6740287" import="1">Art/Atlas/SamiAtlas_32.dds</File>
+    <File md5="9E47B14B256C6D46EB13CAD685EE4BF9" import="1">Art/Atlas/SamiAtlas_45.dds</File>
+    <File md5="EC1539E7967D716E8EC40827F009568A" import="1">Art/Atlas/SamiAtlas_48.dds</File>
+    <File md5="BFF944A362F73EA228E2D25473F960F5" import="1">Art/Atlas/SamiAtlas_64.dds</File>
+    <File md5="F26006EFC95D6AE6E4C1950677B4C1B0" import="1">Art/Atlas/SamiAtlas_80.dds</File>
+    <File md5="B3D7D6FCD14113AD2A9DEAC5399DB490" import="0">Art/Audio/Sami_Audio.sql</File>
+    <File md5="CDB81477670CA74ABC683007ACC7EBD3" import="1">Art/Audio/SamiDoM.mp3</File>
+    <File md5="C0CD59E8A42D3E09521988493C0BD2BD" import="1">Art/Audio/SamiPeace.mp3</File>
+    <File md5="BF473CF7ABEF5B51D619B01C79542B1F" import="1">Art/Audio/SamiWar.mp3</File>
+    <File md5="69A9B47FB15D7A2281877E5E9A691C7A" import="1">Art/Improvements/Migratory Grounds/Migratory_artdef.sql</File>
+    <File md5="FEE718294BECCA033FA91D9FD7C4F379" import="1">Art/Improvements/Migratory Grounds/sv_migratory.dds</File>
+    <File md5="AC41C06BA721315512F26433220FEDF7" import="1">Art/Improvements/Sieidi/no_gloss.dds</File>
+    <File md5="B1A6B1F19A2CF0DA5391B65BAEAE4E78" import="1">Art/Improvements/Sieidi/SieidiModel.gr2</File>
+    <File md5="570CAA44B69E2670CCB931DBB4A437BC" import="1">Art/Improvements/Sieidi/SieidiPillagedModel.gr2</File>
+    <File md5="5F43FC13FEF2627385FE5BCFAE79EBD3" import="1">Art/Improvements/Sieidi/SieidiPillagedTexture.dds</File>
+    <File md5="9294E5307FB34A2B0E38ABE75BFC0D07" import="1">Art/Improvements/Sieidi/SieidiTexture.dds</File>
+    <File md5="66F030B6815914738C657CCA5B06BB3F" import="1">Art/Improvements/Sieidi/Sieidi_artdef.sql</File>
+    <File md5="FD8653D9EFA62FAD262000C90CA88104" import="1">Art/Improvements/Sieidi/sv_sieidi.dds</File>
+    <File md5="882D5E1C5F9940E8D9E413244A5403D6" import="1">Art/Improvements/Sieidi/Sieidi_B.fxsxml</File>
+    <File md5="22FEC45A0BDF5228614F8F76D1C7ACED" import="1">Art/Improvements/Sieidi/Sieidi_PL.fxsxml</File>
+    <File md5="8DEE908448FC557A770DAC0D1AA46224" import="1">Art/Scenes/Sami_Diplo.dds</File>
+    <File md5="0C94B198D55E5CD7B24CA5E82FD14389" import="1">Art/Scenes/Sami_DOM.dds</File>
+    <File md5="159D5761E0164C3AE337ABD1A9BE035E" import="1">Art/Scenes/Sami_Leaderhead.xml</File>
+    <File md5="EFF6F311FA80C66D8B5887F4D25D2B66" import="1">Art/Scenes/Sami_map.dds</File>
+    <File md5="A15C498E8CA1A136FE1924B4EDB9008F" import="1">Art/Units/Boazovazzi.gr2</File>
+    <File md5="F9AD0A5E4DD919F85EADD3EE3BEBD3C6" import="1">Art/Units/Boazovazzi.fxsxml</File>
+    <File md5="847D7D798EA9212F1A02F2FD7DB0D7A7" import="1">Art/Units/Boazovazzi_diff.dds</File>
+    <File md5="47E717A1ED27B9287D1B6CF47DE38EF7" import="1">Art/Units/Boazovazzi_sref.dds</File>
+    <File md5="00E96DC6ADC8D2789ABFA9F58AB3DDC6" import="1">Art/Units/BoazovazziFlag.dds</File>
+    <File md5="4C2BED0DA1367DEA21415AC768BD38C9" import="1">Art/Units/Boazovazzi_artdef.sql</File>
+    <File md5="E7752B79FE8C90603325EBA479907C1F" import="1">Art/Units/sv_Boazovazzi.dds</File>
+    <File md5="2E656E817B005A8966FB414531B3DFCC" import="1">Code/Decisions Support/Sami_Decisions.lua</File>
+    <File md5="5D4E0D23B8947747B0D3FF2D3C90A4E6" import="0">Code/Decisions Support/Sami_Decisions.sql</File>
+    <File md5="98F3E32ADB0B91DD226C234B33BE5ACA" import="0">Code/Decisions Support/Sami_EN_US.xml</File>
+    <File md5="6A0E0B3298C60A1DBE51A033FA1DF834" import="0">Code/JFD's ExCE Support/Sami_EXCE.sql</File>
+    <File md5="71A0A2ECCDE0C9071A298017CCE80E17" import="0">Code/Lua/BoazovázziCode.lua</File>
+    <File md5="D63DC8BB6AA0F310DD55B264DB49C7E2" import="1">Code/Lua/Includes/PlotIterators.lua</File>
+    <File md5="8A5FC22EB73A2C2106DE16D1A3E98AF2" import="1">Code/Lua/Includes/Sukritact_SaveUtils.lua</File>
+    <File md5="B33981C391977AA57DBD4E915529C76E" import="0">Code/Lua/SamiUA.lua</File>
+    <File md5="537D888B9438C0C8E197A2CA45072DD6" import="0">Code/Lua/SieidiCode.lua</File>
+    <File md5="6B6B2FC006F10561E17472546EACFE51" import="0">Code/Map Labels Support/Sami_EN_US.xml</File>
+    <File md5="1B07B532ED078709571B46C344D6A7F4" import="0">Code/Map Labels Support/Sámi_MapLabels.sql</File>
+    <File md5="A96F19FDA28B9D612E08EC03C3851E29" import="0">Code/Piety and Prestige Support/Sami_Flavor.sql</File>
+    <File md5="4D62B87C11F738749F26E3665030727F" import="0">Code/Sami_Buildings.sql</File>
+    <File md5="7FB874C7BB73CB1EB627B36EE0354D47" import="0">Code/Sami_Civilizations.sql</File>
+    <File md5="6FFA04C6DE459F3876B0070B7E5B7962" import="0">Code/Sami_Diplomacy.sql</File>
+    <File md5="85BCE64A44A5DC7DA1C0DA02CD70637D" import="0">Code/Sami_Improvements.sql</File>
+    <File md5="E39D6A34E100B4D9A2DEA63135E5AC86" import="0">Code/Sami_Leaderhead.sql</File>
+    <File md5="2AF7E38C1F156AC01C582A0D8A15B1DD" import="0">Code/Sami_PlayerColours.sql</File>
+    <File md5="69E839B94457444FEBCCF6EBCB9916AD" import="0">Code/Sami_Resources.sql</File>
+    <File md5="BB422462225C25FAB657391F7A67C43F" import="0">Code/Sami_Text.xml</File>
+    <File md5="8BE00FD1068EFD8243AD6D1B8A54BBA2" import="0">Code/Sami_Traits.sql</File>
+    <File md5="8343EF48C19B6A008F8BCABD48E71311" import="0">Code/Sami_Units.sql</File>
+    <File md5="2D685DFEF2BF7EA54523A7918749EF6D" import="0">Code/YnAEMP Support/Sami_TSL.sql</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/Improvements/Migratory Grounds/Migratory_artdef.sql</UpdateDatabase>
+      <UpdateDatabase>Art/Units/Boazovazzi_artdef.sql</UpdateDatabase>
+      <UpdateDatabase>Art/Improvements/Sieidi/Sieidi_artdef.sql</UpdateDatabase>
+      <UpdateDatabase>Art/Atlas/Sami_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Art/Audio/Sami_Audio.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Sami_Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Sami_Improvements.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Sami_Leaderhead.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Sami_PlayerColours.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Sami_Resources.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Sami_Text.xml</UpdateDatabase>
+      <UpdateDatabase>Code/Sami_Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Sami_Buildings.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Sami_Units.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Sami_Civilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Code/YnAEMP Support/Sami_TSL.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Decisions Support/Sami_Decisions.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Decisions Support/Sami_EN_US.xml</UpdateDatabase>
+      <UpdateDatabase>Code/Map Labels Support/Sami_EN_US.xml</UpdateDatabase>
+      <UpdateDatabase>Code/Map Labels Support/Sámi_MapLabels.sql</UpdateDatabase>
+      <UpdateDatabase>Code/JFD's ExCE Support/Sami_EXCE.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Code/Lua/BoazovázziCode.lua">
+      <Name>BoazovázziCode.lua</Name>
+      <Description>BoazovázziCode.lua</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Code/Lua/SamiUA.lua">
+      <Name>SamiUA.lua</Name>
+      <Description>SamiUA.lua</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Code/Lua/SieidiCode.lua">
+      <Name>SieidiCode.lua</Name>
+      <Description>SieidiCode.lua</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

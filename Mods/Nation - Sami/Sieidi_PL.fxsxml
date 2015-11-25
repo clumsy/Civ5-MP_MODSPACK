@@ -1,0 +1,13 @@
+<Asset>
+  <Mesh file="SieidiPillagedModel.gr2" source="Max" />
+  <Texture file="PL_Fort_MID_DIFF.dds" source="Max" />
+  <Texture file="PL_Fort_MID_Decal_D.dds" source="Max" />
+  <Texture file="PL_Fort_MID_Decal_H.dds" source="Max" />
+  <Texture file="PL_Fort_MID_SREF.dds" source="Max" />
+  <Texture file="Generic_Grey_8.dds" source="Max" />
+  <DecisionTree file="StaticLandmarkDecisionTree.ddtxml" source="Tool" />
+  <TimedTrigger file="FX_Triggers_PL_Fort_MID.ftsxml" source="Tool" model="Box01" state="0,1,2,3" />
+  <BoneUsage>
+    <Bone name="Box01" />
+  </BoneUsage>
+</Asset>

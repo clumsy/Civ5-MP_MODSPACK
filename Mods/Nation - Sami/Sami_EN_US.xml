@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_MC_DECISIONS_SAMISAMEDIGGI">
+			<Text>Establish the Sámediggi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_DECISIONS_SAMISAMEDIGGI_DESC">
+			<Text>
+				As the years pass our traditional way of life becomes more and more outdated. This is unacceptable. We must take efforts to preserve it; beginning with founding an institution to ensure that our culture remains strong and unbesmirched by foreign influences.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Sámi
+				[NEWLINE][ICON_BULLET]Player must have researched Scientific Theory[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Cost} [ICON_GOLD] Gold
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Boazovázzi provide +2 [ICON_CULTURE] Culture and +2 [ICON_TOURISM] Tourism when garrisoned in a city
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_DECISIONS_SAMISAMEDIGGI_ENACTED_DESC">
+			<Text>
+				As the years pass our traditional way of life becomes more and more outdated. This is unacceptable. We must take efforts to preserve it; beginning with founding an institution to ensure that our culture remains strong and unbesmirched by foreign influences.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Boazovázzi provide +2 [ICON_CULTURE] Culture and +2 [ICON_TOURISM] Tourism when garrisoned in a city
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_DECISIONS_SAMIFISHING">
+			<Text>Encourage Fishing in {1_City}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_DECISIONS_SAMIFISHING_DESC">
+			<Text>
+				While we are perhaps better known for reindeer husbandry, fishing has long been the main livelihood for those Sámi who live along the coasts. We should support and encourage the trade in {1_City} to help the city grow.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Sámi
+				[NEWLINE][ICON_BULLET]{1_City} must built on the coast
+				[NEWLINE][ICON_BULLET]May only be enacted once per city
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_GOLD] Gold and +1 [ICON_CULTURE] Culture from Sea Resources worked by {1_City}
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_DECISIONS_SAMIFISHING_ENACTED_DESC">
+			<Text>
+				While we are perhaps better known for reindeer husbandry, fishing has long been the main livelihood for those Sámi who live along the coasts. We should support and encourage the trade in {1_City} to help the city grow.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_GOLD] Gold and +1 [ICON_CULTURE] Culture from Sea Resources worked by {1_City}
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_DECISIONS_SAMIFISHING_NOTE">
+			<Text>
+				[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: This Decision will be available in any coastal cities you found[ENDCOLOR]
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

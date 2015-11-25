@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_ML_CULTURE_SAPMI">
+			<Text>Sápmi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ML_CULTURE_SAPMI_SUGGESTEDCIVS">
+			<Text>The Sámi</Text>
+		</Row>
+		<!----------------------------------------------------------------
+		LAKE		
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_NAME_SAPMI_LAKE_AANAARJAVRI">
+			<Text>Aanaarjävri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_SAPMI_LAKE_HAMMASJAVRI">
+			<Text>Hammasjävri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_SAPMI_LAKE_PASASJAVRI">
+			<Text>Pasasjävri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_SAPMI_LAKE_COHKKIRASJAVRI">
+			<Text>Cohkkirasjávri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_SAPMI_LAKE_ALAJARVI">
+			<Text>Alajärvi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_SAPMI_LAKE_GIEMAJAVRI">
+			<Text>Giemajávri</Text>
+		</Row>
+		<!----------------------------------------------------------------
+		OCEAN		
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_NAME_SAPMI_OCEAN_MEARRABADALUOKTA">
+			<Text>Mearrabadaluokta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_SAPMI_OCEAN_NUORTAMEARRA">
+			<Text>Nuortamearra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_SAPMI_OCEAN_KARAMEARRA">
+			<Text>Karamearra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_SAPMI_OCEAN_BARENTSMEARRA">
+			<Text>Bárentsmearra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_SAPMI_OCEAN_NORGGAMEARRA">
+			<Text>Norggamearra</Text>
+		</Row>
+		<!----------------------------------------------------------------
+		REGION		
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_NAME_SAPMI_REGION_GUOLADAT">
+			<Text>Guoládat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_SAPMI_REGION_FINNMARKU">
+			<Text>Finnmárku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_SAPMI_REGION_ROMSA">
+			<Text>Romsa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_SAPMI_REGION_NORDLANDA">
+			<Text>Nordlánda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_SAPMI_REGION_DAVVITRONDELAGA">
+			<Text>Davvi-Trøndelága</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_SAPMI_REGION_MATTATRONDELAGA">
+			<Text>Mátta-Trøndelága</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_SAPMI_REGION_NORRBOTTENA">
+			<Text>Norrbottena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_SAPMI_REGION_VASTERBOTTENA">
+			<Text>Västerbottena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_SAPMI_REGION_JAMTLANDDA">
+			<Text>Jämtlándda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_SAPMI_REGION_LAPPI">
+			<Text>Lappi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_SAPMI_REGION_MURMANSKA">
+			<Text>Murmánska</Text>
+		</Row>
+		<!----------------------------------------------------------------
+		DESERT		
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_NAME_SAPMI_DESERT_JOSTEDALSBREEN">
+			<Text>Jostedalsbreen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_SAPMI_DESERT_BRIKSDALSBREEN">
+			<Text>Briksdalsbreen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_SAPMI_DESERT_OKSTINDBREEN">
+			<Text>Okstindbreen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_SAPMI_DESERT_AKSOVUONJIEHKKI">
+			<Text>Áksovuonjiehkki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_SAPMI_DESERT_FROSTISEN">
+			<Text>Frostisen</Text>
+		</Row>
+		<!----------------------------------------------------------------
+		MOUNTAIN		
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_NAME_SAPMI_MOUNTAIN_GIEBMEGAISI">
+			<Text>Giebmegáisi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_SAPMI_MOUNTAIN_GAVNNESVARRI">
+			<Text>Gávnnesvárri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_SAPMI_MOUNTAIN_BEALJEHKH">
+			<Text>Bealjehkh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_SAPMI_MOUNTAIN_AHKKA">
+			<Text>Áhkká</Text>
+		</Row>
+		<!----------------------------------------------------------------
+		FOREST		
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_NAME_SAPMI_FOREST_PRESTEGARDSSKOGEN">
+			<Text>Prestegårdsskogen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_SAPMI_FOREST_BLAFJELLA">
+			<Text>Blåfjella</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_SAPMI_FOREST_SKJAEKERFJELLA">
+			<Text>Skjækerfjella</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_SAPMI_FOREST_ANDERDALEN">
+			<Text>Ånderdalen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_SAPMI_FOREST_BORGEFJELL">
+			<Text>Børgefjell</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_SAPMI_FOREST_FOROLLHOGNA">
+			<Text>Forollhogna</Text>
+		</Row>
+		<!----------------------------------------------------------------
+		ISLAND		
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_NAME_SAPMI_ISLAND_HAUTUUMAASAARI">
+			<Text>Hautuumaasaari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_SAPMI_ISLAND_UKONSAARI">
+			<Text>Ukonsaari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_SAPMI_ISLAND_SELKALAHDENSAARI">
+			<Text>Selkälahdensaari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_SAPMI_ISLAND_JAASAARI">
+			<Text>Jääsaari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_SAPMI_ISLAND_HAAPASAARI">
+			<Text>Haapasaari</Text>
+		</Row>
+		<!----------------------------------------------------------------
+		RIVER		
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_NAME_SAPMI_RIVER_GIEMAJOHKA">
+			<Text>Giemajohka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_SAPMI_RIVER_OVNNESJOHKA">
+			<Text>Ovnnesjohka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_SAPMI_RIVER_DOALLANJOHKA">
+			<Text>Doallánjohka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_SAPMI_RIVER_KARASJOHKA">
+			<Text>Kárásjohka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_SAPMI_RIVER_DEATNU">
+			<Text>Deatnu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_SAPMI_RIVER_ANARJOHKA">
+			<Text>Anárjohka</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
