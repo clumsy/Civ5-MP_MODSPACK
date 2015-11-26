@@ -1,0 +1,331 @@
+<trigger_system type="FGrannyTimedTriggerSystem">
+  <event_tracks>
+    <event_track ec="1160">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1480">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1800">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1580">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="2220">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1200">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1520">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1620">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1400">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="2040">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1450">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1180">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1500">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1120">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Effect" />
+      <track id="5" name="Action" />
+    </event_track>
+    <event_track ec="1440">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1220">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1540">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1000">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1640">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1100">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1420">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1040">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="2000">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1140">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Effect" />
+      <track id="5" name="Action" />
+    </event_track>
+    <event_track ec="1460">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="2100">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1560">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="2200">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1290">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1020">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1285">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1280">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1600">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="2020">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="1110">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+    <event_track ec="2440">
+      <track id="1" name="Sound" />
+      <track id="2" name="Effect" />
+      <track id="3" name="Transfer" />
+      <track id="4" name="Action" />
+    </event_track>
+  </event_tracks>
+  <triggers>
+    <trigger type="FTimedTriggerEffect" id="8" time="0.018705" duration="0" repeat="0" ec="2200" track="2" event="ART_DEF_VEFFECT_CHARIOT_DEATH" bone="bone_FRAME" />
+    <trigger type="FTimedTriggerSound" id="72" time="0.261765" duration="0" repeat="0" ec="1120" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_CHAR_WHL_SQUEAK_LOW" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="58" time="0.00396" duration="0" repeat="0" ec="1500" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_FORTIFY" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="67" time="0.355372" duration="0" repeat="0" ec="1800" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_VICTORY_VOX_D" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="44" time="0.31750524" duration="0" repeat="0" ec="1200" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_CHAR_ARCH_DIE_WHEEL" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="53" time="0.278931946" duration="0" repeat="0" ec="2200" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_CHAR_ARCH_DIE_WHEEL" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="48" time="1.413457" duration="0" repeat="0" ec="1200" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_WOOD_SHIELD_DROP_20" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="89" time="0.435045" duration="0" repeat="0" ec="1140" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_CHAR_WHL_SQUEAK_HIGH" bone="" tier="-1" />
+    <trigger type="FTimedTriggerEffect" id="11" time="0.236364" duration="0" repeat="0" ec="1200" track="2" event="ART_DEF_VEFFECT_BLUNT_HIT_SM" bone="Base HumanSpine22" />
+    <trigger type="FTimedTriggerSound" id="20" time="0.535664" duration="0" repeat="0" ec="1140" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_HORSE_RUN_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="84" time="0.785852" duration="0" repeat="0" ec="1440" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_HORSE_FOOT_DPMT_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="61" time="0.08764275" duration="0" repeat="0" ec="1400" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_HORSE_RUN_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerEffect" id="6" time="0" duration="0.533333" repeat="0" ec="1460" track="2" event="ART_DEF_VEFFECT_CHARIOT_DUST_TRAIL_SM" bone="bone_BODY" />
+    <trigger type="FTimedTriggerSound" id="70" time="0.6317462" duration="0" repeat="0" ec="1140" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_CHAR_WHL_SQUEAK_LOW" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="47" time="0.5463515" duration="0" repeat="0" ec="1200" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_CHARIOT_HIT" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="56" time="0.6523104" duration="0" repeat="0" ec="2200" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_BODY_FALL_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerEffect" id="1" time="0.165657" duration="0" repeat="0" ec="1200" track="2" event="ART_DEF_VEFFECT_BLUNT_HIT_SM" bone="Base HumanSpine2" />
+    <trigger type="FTimedTriggerSound" id="42" time="0.1121681" duration="0" repeat="0" ec="1200" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_DEATH_VOX_D" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="59" time="0.5561537" duration="0" repeat="0" ec="1500" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_FORTIFY_VOX_D" bone="" tier="-1" />
+    <trigger type="FTimedTriggerEffect" id="4" time="0" duration="0" repeat="0" ec="2200" track="2" event="ART_DEF_VEFFECT_BLUNT_HIT_SM" bone="Base HumanSpine2" />
+    <trigger type="FTimedTriggerSound" id="68" time="0.615808" duration="0" repeat="0" ec="1800" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_HORSE_WHINNY_SHORT" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="45" time="0.690810561" duration="0" repeat="0" ec="1200" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_ANIMAL_BODY_FALL_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="54" time="0.7264587" duration="0" repeat="0" ec="2200" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_ANIMAL_BODY_FALL_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="49" time="0.112582147" duration="0" repeat="0" ec="2200" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_IMPACT_$(WEAPON)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="26" time="0.5909857" duration="0" repeat="0" ec="2100" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_LEATHER_CREAK_SHORT" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="90" time="0.348768234" duration="0" repeat="0" ec="1400" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_CHAR_WHL_SQUEAK_HIGH" bone="" tier="-1" />
+    <trigger type="FTimedTriggerEffect" id="12" time="0.20404" duration="0" repeat="0" ec="1200" track="2" event="ART_DEF_VEFFECT_CHARIOT_DEATH" bone="bone_FRAME" />
+    <trigger type="FTimedTriggerSound" id="85" time="0.177143" duration="0" repeat="0" ec="1800" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_LEATHER_CREAK_SHORT" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="62" time="0.06256526" duration="0" repeat="0" ec="1120" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_HORSE_RUN_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerEffect" id="7" time="0.03741" duration="0" repeat="0" ec="2200" track="2" event="ART_DEF_VEFFECT_BLUNT_HIT_SM" bone="Base HumanSpine22" />
+    <trigger type="FTimedTriggerSound" id="71" time="0.14244023" duration="0" repeat="0" ec="1400" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_CHAR_WHL_SQUEAK_LOW" bone="" tier="-1" />
+    <trigger type="FTimedTriggerEffect" id="2" time="0" duration="0.533333" repeat="0" ec="1400" track="2" event="ART_DEF_VEFFECT_CHARIOT_DUST_TRAIL_SM" bone="bone_BODY" />
+    <trigger type="FTimedTriggerEffect" id="10" time="0" duration="1" repeat="0" ec="1140" track="4" event="ART_DEF_VEFFECT_CHARIOT_DUST_TRAIL_MD" bone="bone_BODY" />
+    <trigger type="FTimedTriggerSound" id="74" time="0.123037472" duration="0" repeat="0" ec="1440" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_HORSE_FOOT_DPMT_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="19" time="0.07226066" duration="0" repeat="0" ec="1140" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_HORSE_RUN_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerEffect" id="5" time="0" duration="0.533333" repeat="0" ec="1480" track="2" event="ART_DEF_VEFFECT_CHARIOT_DUST_TRAIL_SM" bone="bone_BODY" />
+    <trigger type="FTimedTriggerSound" id="46" time="0.9602692" duration="0" repeat="0" ec="1200" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_BODY_FALL_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="55" time="0.458239079" duration="0" repeat="0" ec="2200" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_CHARIOT_HIT" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="41" time="0.111110687" duration="0" repeat="0" ec="1200" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_IMPACT_$(WEAPON)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="50" time="0.114334449" duration="0" repeat="0" ec="2200" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_DEATH_VOX_D" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="91" time="0.173677176" duration="0" repeat="0" ec="1120" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_CHAR_WHL_SQUEAK_HIGH" bone="" tier="-1" />
+    <trigger type="FTimedTriggerEffect" id="13" time="0" duration="0.533333" repeat="0" ec="1120" track="4" event="ART_DEF_VEFFECT_CHARIOT_DUST_TRAIL_MD" bone="bone_BODY" />
+    <trigger type="FTimedTriggerSound" id="86" time="0.797143" duration="0" repeat="0" ec="1800" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_LEATHER_CREAK_SHORT" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="58" time="0" duration="0.53" repeat="0" ec="1400" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_RUN" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="3" time="0.298148185" duration="0" repeat="0" ec="1280" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_FORTIFY_VOX_D" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="65" time="0.401851982" duration="0" repeat="0" ec="1280" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_HORSE_FOOT_DPMT_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="83" time="0.50079155" duration="0" repeat="0" ec="1600" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_FORTIFY_VOX_D" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="129" time="0" duration="0.53" repeat="0" ec="1400" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_T2_RUN_$(TERRAIN)" bone="" tier="2" />
+    <trigger type="FTimedTriggerSound" id="130" time="0.177778423" duration="0" repeat="0" ec="1440" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_HORSE_FOOT_DPMT_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="131" time="0.375236839" duration="0" repeat="0" ec="1440" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_HORSE_FOOT_DPMT_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="132" time="0.544347346" duration="0" repeat="0" ec="1440" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_HORSE_FOOT_DPMT_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="133" time="0.00195503421" duration="0" repeat="0" ec="1440" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_STOP_RUN_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="137" time="0.703204036" duration="0" repeat="0" ec="2200" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_STAFF_DIRT" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="138" time="0.00195503421" duration="0" repeat="0" ec="2440" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_STOP_RUN_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="139" time="0.123037472" duration="0" repeat="0" ec="2440" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_HORSE_FOOT_DPMT_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="140" time="0.177778423" duration="0" repeat="0" ec="2440" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_HORSE_FOOT_DPMT_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="141" time="0.375236839" duration="0" repeat="0" ec="2440" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_HORSE_FOOT_DPMT_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="142" time="0.544347346" duration="0" repeat="0" ec="2440" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_HORSE_FOOT_DPMT_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="143" time="0.785852" duration="0" repeat="0" ec="2440" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_HORSE_FOOT_DPMT_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="43" time="0.608166337" duration="0" repeat="0" ec="1160" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_THROW_TORCH" bone="" tier="-1" />
+    <trigger type="FTimedTriggerAction" id="38" time="0.6240741" duration="0" repeat="0" ec="1100" track="4" action="1" />
+    <trigger type="FTimedTriggerAction" id="52" time="0.698148131" duration="0" repeat="0" ec="1140" track="5" action="1" />
+    <trigger type="FTimedTriggerAction" id="64" time="0.724074066" duration="0" repeat="0" ec="2100" track="4" action="1" />
+    <trigger type="FTimedTriggerEffect" id="66" time="0.08148148" duration="0.53" repeat="0" ec="1160" track="2" event="ART_DEF_VEFFECT_MELEE_TORCH_PROJECTILE" bone="Base HumanLDigit21" />
+    <trigger type="FTimedTriggerTransfer" id="73" time="0.607407331" duration="0" repeat="0" ec="1160" track="3" refid="66" speed="0" tangent.x="-0.4590572" tangent.y="-0.777656138" tangent.z="0.42955476" />
+    <trigger type="FTimedTriggerEffect" id="75" time="0.07962963" duration="0.53" repeat="0" ec="1180" track="2" event="ART_DEF_VEFFECT_MELEE_TORCH_PROJECTILE" bone="Base HumanLDigit21" />
+    <trigger type="FTimedTriggerTransfer" id="76" time="0.607407331" duration="0" repeat="0" ec="1180" track="3" refid="75" speed="0" tangent.x="-0.4590572" tangent.y="-0.777656138" tangent.z="0.42955476" />
+    <trigger type="FTimedTriggerSound" id="59" time="0.606982" duration="0" repeat="0" ec="1180" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_THROW_TORCH" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="60" time="0.53612566" duration="0" repeat="0" ec="1180" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_ATTACK_VOX_A" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="60" time="0.814815" duration="0" repeat="0" ec="1180" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_THROW_TORCH_T1" bone="" tier="1" />
+    <trigger type="FTimedTriggerSound" id="60" time="0.814815" duration="0" repeat="0" ec="1180" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_THROW_TORCH_T2" bone="" tier="2" />
+    <trigger type="FTimedTriggerSound" id="67" time="0.5436856" duration="0" repeat="0" ec="1180" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_SWORD_SWING_LOW" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="1" time="0.578350246" duration="0" repeat="0" ec="2100" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_SWORD_SWING_LOW" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="61" time="0" duration="1.16666675" repeat="0" ec="2100" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_BATTLE_AMB_VOX_T1" bone="" tier="1" />
+    <trigger type="FTimedTriggerSound" id="4" time="0.587614" duration="0" repeat="0" ec="2100" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_ATTACK_VOX_A" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="61" time="0.00185186416" duration="1.16666675" repeat="0" ec="2100" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_BATTLE_AMB_VOX_T2" bone="" tier="2" />
+    <trigger type="FTimedTriggerSound" id="61" time="0" duration="1.16666675" repeat="0" ec="2100" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_BAT_AMB_T2_$(WEAPON)" bone="" tier="2" />
+    <trigger type="FTimedTriggerSound" id="61" time="0" duration="1.16666675" repeat="0" ec="2100" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_BAT_AMB_T1_$(WEAPON)" bone="" tier="1" />
+    <trigger type="FTimedTriggerSound" id="57" time="0.5269162" duration="0" repeat="0" ec="1160" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_SWORD_SWING_LOW" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="56" time="0.796235859" duration="0" repeat="0" ec="1160" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_THROW_TORCH_T2" bone="" tier="2" />
+    <trigger type="FTimedTriggerSound" id="56" time="0.807164848" duration="0" repeat="0" ec="1160" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_THROW_TORCH_T1" bone="" tier="1" />
+    <trigger type="FTimedTriggerSound" id="56" time="0.5328475" duration="0" repeat="0" ec="1160" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_ATTACK_VOX_A" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="55" time="0.872222" duration="0" repeat="0" ec="1160" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_THROW_TORCH" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="19" time="0.35510084" duration="0" repeat="0" ec="1140" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_ATTACK_VOX_A" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="63" time="0.00185185182" duration="1.16666675" repeat="0" ec="1140" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_BAT_AMB_T2_$(WEAPON)" bone="" tier="2" />
+    <trigger type="FTimedTriggerSound" id="63" time="0.00370370364" duration="1.16666675" repeat="0" ec="1140" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_BATTLE_AMB_VOX_T1" bone="" tier="1" />
+    <trigger type="FTimedTriggerSound" id="63" time="0" duration="1.16666675" repeat="0" ec="1140" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_BATTLE_AMB_VOX_T2" bone="" tier="2" />
+    <trigger type="FTimedTriggerSound" id="63" time="0" duration="1.16666675" repeat="0" ec="1140" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_BAT_AMB_T1_$(WEAPON)" bone="" tier="1" />
+    <trigger type="FTimedTriggerSound" id="11" time="0.318611" duration="0" repeat="0" ec="1140" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_LEATHER_CREAK_SHORT" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="14" time="0.388253838" duration="0" repeat="0" ec="1100" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_ATTACK_VOX_A" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="47" time="0.4132838" duration="0" repeat="0" ec="1100" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_SWORD_SWING_LOW" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="49" time="0.100344114" duration="1.16666675" repeat="0" ec="1100" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_BATTLE_AMB_VOX_T2" bone="" tier="2" />
+    <trigger type="FTimedTriggerSound" id="16" time="0.3063452" duration="0" repeat="0" ec="1100" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_LEATHER_CREAK_SHORT" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="49" time="0" duration="1.16666675" repeat="0" ec="1100" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_BAT_AMB_T1_$(WEAPON)" bone="" tier="1" />
+    <trigger type="FTimedTriggerSound" id="49" time="0" duration="1.16666675" repeat="0" ec="1100" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_BAT_AMB_T2_$(WEAPON)" bone="" tier="2" />
+    <trigger type="FTimedTriggerSound" id="49" time="0" duration="1.16666675" repeat="0" ec="1100" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_BATTLE_AMB_VOX_T1" bone="" tier="1" />
+    <trigger type="FTimedTriggerSound" id="9" time="0.370704919" duration="0" repeat="0" ec="1140" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_SWORD_SWING_LOW" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="15" time="0.872222" duration="0" repeat="0" ec="1180" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_THROW_TORCH" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="17" time="0.6301546" duration="0" repeat="0" ec="1200" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_ANIMAL_BODY_FALL_$(TERRAIN)" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="18" time="0.794032633" duration="0" repeat="0" ec="1200" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_BODY_FALL_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="21" time="0.738402069" duration="0" repeat="0" ec="1200" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_IMPACT_HARPOON" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="22" time="0.4803247" duration="0" repeat="0" ec="2200" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_ANIMAL_BODY_FALL_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="23" time="0.5994755" duration="0" repeat="0" ec="2200" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_BODY_FALL_$(TERRAIN)" bone="" tier="-1" />
+    <trigger type="FTimedTriggerSound" id="24" time="0.375926077" duration="0" repeat="0" ec="1280" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_STAFF_DIRT" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="25" time="0.422222078" duration="0" repeat="0" ec="1280" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_STAFF_TAP" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="28" time="0.622222066" duration="0" repeat="0" ec="1500" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_STAFF_DIRT" bone="" tier="0" />
+    <trigger type="FTimedTriggerSound" id="30" time="0.655555546" duration="0" repeat="0" ec="1600" track="1" event="AS3D_UNIT_U_HITITTE_WAR_CHARIOT_STAFF_DIRT" bone="" tier="0" />
+  </triggers>
+</trigger_system>

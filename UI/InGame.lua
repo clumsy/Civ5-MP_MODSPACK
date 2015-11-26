@@ -1649,6 +1649,9 @@ ContextPtr:LoadNewContext("BoazovazziCode")
 ContextPtr:LoadNewContext("SamiUA")
 ContextPtr:LoadNewContext("SieidiCode")
 
+-- Nation - Hittites --
+ContextPtr:LoadNewContext("Hittite Mod Check")
+
 -- Nation - Minoa --
 ContextPtr:LoadNewContext("JFD_MinoaFunctions")
 ContextPtr:LoadNewContext("CityInfoStack")

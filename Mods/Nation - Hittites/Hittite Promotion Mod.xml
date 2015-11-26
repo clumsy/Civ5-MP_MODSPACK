@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_HITTITE_HEAVY_CHARIOT</Type>
+			<Description>TXT_KEY_PROMOTION_HITTITE_HEAVY_CHARIOT</Description>
+			<Help>TXT_KEY_PROMOTION_HITTITE_HEAVY_CHARIOT_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<LostWithUpgrade>true</LostWithUpgrade>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_HITTITE_HEAVY_CHARIOT</PediaEntry>
+		</Row>
+		<Row>
+			<Type>PROMOTION_STAGGER_MOD</Type>
+			<Description>TXT_KEY_PROMOTION_STAGGER_MOD</Description>
+			<Help>TXT_KEY_PROMOTION_STAGGER_MOD_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PortraitIndex>33</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_STAGGER_MOD</PediaEntry>
+		</Row>
+		<Row>
+			<Type>PROMOTION_HITTITE_CITY_STATE</Type>
+			<Description>TXT_KEY_PROMOTION_HITTITE_CITY_STATE</Description>
+			<Help>TXT_KEY_PROMOTION_HITTITE_CITY_STATE_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<CombatPercent>20</CombatPercent>
+			<PortraitIndex>8</PortraitIndex>
+			<IconAtlas>EXPANSION2_PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_HITTITE_CITY_STATE</PediaEntry>		
+		</Row>
+	</UnitPromotions>
+	<UnitPromotions_UnitCombatMods>
+		<Row>
+			<PromotionType>PROMOTION_HITTITE_HEAVY_CHARIOT</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+			<Modifier>30</Modifier>
+		</Row>
+	</UnitPromotions_UnitCombatMods>
+</GameData>

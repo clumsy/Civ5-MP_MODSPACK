@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<Language_en_US>	
+		<!--Treaty Gods-->
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_HITTITE_METEOR">
+			<Text>Honour the Treaty Gods</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_HITTITE_METEOR_DESC">
+			<Text>The Thousand Gods bear witness as we sign a declaration of peace and friendship with our brothers to the east and south. Let us honour this sacred oath and adopt their gods into our pantheon.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Hittites
+				[NEWLINE][ICON_BULLET]Must have a Declaration of Friendship with at least 1 other Civilization
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Faith} [ICON_PEACE] Faith
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Cities earn +1 [ICON_PEACE] Faith for each Religion that has at least 1 follower in the City
+				[NEWLINE][ICON_BULLET]Your Cities will be partially converted to your friend's founded Religion (if present)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_HITTITE_METEOR_ENACTED_DESC">
+			<Text>The Thousand Gods bear witness as we sign a declaration of peace and friendship with our brothers to the east and south. Let us honour this sacred oath and adopt their gods into our pantheon.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Cities earn +1 [ICON_PEACE] Faith for each Religion that has at least 1 follower in the City
+				[NEWLINE][ICON_BULLET]Your Cities will be partially converted to your friend's founded Religion (if present)
+			</Text>
+		</Row>	
+		<!--Bullying-->
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_HITTITE_BULLY">
+			<Text>Secure the Lesser Kings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_HITTITE_BULLY_DESC">
+			<Text>Our envoys report that the loyalty of the minor kings has begun to waiver. We should show our military strength to ensure their continued fealty.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Hittites
+				[NEWLINE][ICON_BULLET]Must have met at least 3 City-States
+				[NEWLINE][ICON_BULLET]Must be friends or allies with at least 1 City-State
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Military Units are 25% more effective at intimidating City-States
+				[NEWLINE][ICON_BULLET][ICON_INFLUENCE] Influence will no longer decay with non-hostile City-States you can demand tribute from (reduced decay with hostile City-States)
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_HITTITE_BULLY_ENACTED_DESC">
+			<Text>Our envoys report that the loyalty of the minor kings has begun to waiver. We should show our military strength to ensure their continued fealty.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]Military Units are 25% more effective at intimidating City-States
+				[NEWLINE][ICON_BULLET][ICON_INFLUENCE] Influence will no longer decay with non-hostile City-States you can demand tribute from (reduced decay with hostile City-States)
+			</Text>
+		</Row>
+		<!-- Sea Peoples -->
+		<Row Tag="TXT_KEY_EVENT_TOMATEKH_SEA_PEOPLES_INVASION">
+			<Text>Sea Peoples</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TOMATEKH_SEA_PEOPLES_INVASION_DESC">
+			<Text>Ships of the enemy have been seen at sea! We must remain firm, surround our cities with ramparts, and await the enemy with great resolution![NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TOMATEKH_SEA_PEOPLES_INVASION_OUTCOME_1">
+			<Text>Defend our way of life!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TOMATEKH_SEA_PEOPLES_INVASION_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]Two Barbarian Galleys and a Barbarian Trireme will spawn inside our borders[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]All existing naval combat units will earn experience 50% faster[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TOMATEKH_SEA_PEOPLES_INVASION_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>The Sea Peoples are invading!</Text>
+		</Row>
+		<!--Dummy Policy-->
+		<Row Tag="TXT_KEY_POLICY_HITTITE_BULLY_MOD">
+			<Text>Hegemony</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_HITTITE_BULLY_MOD_TEXT">
+			<Text>Hegemony</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_HITTITE_BULLY_HELP">
+			<Text>Suffer no [ICON_INFLUENCE] Influence decay with non-hostile City-States you could demand tribute from (reduced decay with hostile City-States)</Text>
+		</Row>
+	</Language_en_US>
+	<Policies>
+		<Row>
+			<Type>POLICY_HITTITE_BULLY_MOD</Type>
+			<Description>TXT_KEY_POLICY_HITTITE_BULLY_MOD</Description>
+			<Civilopedia>TXT_KEY_POLICY_HITTITE_BULLY_MOD_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_HITTITE_BULLY_HELP</Help>
+			<AfraidMinorPerTurnInfluence>100</AfraidMinorPerTurnInfluence>
+			<MinorBullyScoreModifier>25</MinorBullyScoreModifier>
+			<GridX>1000</GridX>
+			<GridY>1000</GridY>
+			<PortraitIndex>47</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+		</Row>
+	</Policies>
+</GameData>

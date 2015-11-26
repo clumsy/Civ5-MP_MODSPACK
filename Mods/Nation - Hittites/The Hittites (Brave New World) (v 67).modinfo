@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="744b03de-0aa1-4708-b66c-a4e484eb158d" version="67">
+  <Properties>
+    <Name>The Hittites (Brave New World)</Name>
+    <Teaser>Adds the Hittites to the base game. Requires the Brave New World expansion.</Teaser>
+    <Description>Adds the Hittites to the base game. 
+[NEWLINE]
+[NEWLINE]Note: 
+[NEWLINE]- This civilization requires the Brave New World expansion. 
+[NEWLINE]- Updates to the Mod will most likely break save games. Please do not update until you are ready to begin a new game. 
+[NEWLINE]
+[NEWLINE]Leader: Suppiluliuma I
+[NEWLINE]UA: Bond and Oath 
+[NEWLINE]UU: Heavy Chariot
+[NEWLINE]UB: Bloomery</Description>
+    <Authors>Tomatekh</Authors>
+    <SpecialThanks>Janboruta, Sukritact</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <Homepage>http://forums.civfanatics.com/showthread.php?t=472751</Homepage>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>67</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+    <Dlc id="BBB0D085-A0B1-4475-B007-3E549CF3ADC3" minversion="0" maxversion="999" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events and Decisions" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="Cultural Diversity" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Cultural Influence" />
+    <Mod id="43868e8d-de88-48a1-a8d9-ce144e07f5e0" minversion="0" maxversion="999" title="ExCE" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="C. Patch" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="C. Balance Patch" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D." />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="Piety" />
+    <Mod id="d99bf7aa-51ac-4bef-bd88-d765b28e260e" minversion="0" maxversion="999" title="Prestige" />
+  </References>
+  <Blocks>
+    <Mod id="2626e6a3-a0fd-478d-a5ab-0d9dee67ed0a" minversion="0" maxversion="999" title="YnAEMP Patch" />
+  </Blocks>
+  <Files>
+    <File md5="B0AFE0CC82923B6330BDE3E756791340" import="1">Art/AlphaAtlas/HitAlphaAtlas128.dds</File>
+    <File md5="3C687F97D2E0F13214BEC92760B3EF5E" import="1">Art/AlphaAtlas/HitAlphaAtlas16.dds</File>
+    <File md5="A47CA6689CF542ACDACAF2A3D926CE8D" import="1">Art/AlphaAtlas/HitAlphaAtlas24.dds</File>
+    <File md5="1309EA401E44D207B8731BF2D828B63F" import="1">Art/AlphaAtlas/HitAlphaAtlas32.dds</File>
+    <File md5="4EF4395A3487BDE6E057AF0BAC253F78" import="1">Art/AlphaAtlas/HitAlphaAtlas48.dds</File>
+    <File md5="44393A1E5C8393D7F6995724FD0C8641" import="1">Art/AlphaAtlas/HitAlphaAtlas64.dds</File>
+    <File md5="6EB0A8BBF18AFBC5231F7FC5F6DAD9D9" import="1">Art/Atlas/HittiteAtlas128.dds</File>
+    <File md5="D0847DD2D86F0A6D0261B4F21A2E2584" import="1">Art/Atlas/HittiteAtlas214.dds</File>
+    <File md5="245FD1E8690120BB4EFCA27683EB525D" import="1">Art/Atlas/HittiteAtlas256.dds</File>
+    <File md5="402439BD544BC68D8BC21F0DF2FC8E77" import="1">Art/Atlas/HittiteAtlas32.dds</File>
+    <File md5="33ED5586AFCBA225C53629BFF6015F53" import="1">Art/Atlas/HittiteAtlas45.dds</File>
+    <File md5="25D87A110CCEF241486120CF92AAB7A1" import="1">Art/Atlas/HittiteAtlas64.dds</File>
+    <File md5="C61FC4D8FA790E2577E40306E55F7E30" import="1">Art/Atlas/HittiteAtlas80.dds</File>
+    <File md5="D98D6E9E40E3D952DDA964C98A190AD0" import="1">Art/HittiteDiploMod.dds</File>
+    <File md5="63C13956CE8A16ADFE644BA3F19CBFCA" import="1">Art/HittiteDOMMod.dds</File>
+    <File md5="860D2CEEF0BE377DB6DFCC98FEBB6979" import="1">Art/HittiteMapMap.dds</File>
+    <File md5="A1377B6D32B78001F904A27193D4F922" import="1">Art/Unit/Alt Hittite UU/Chariot_Babylon.blend</File>
+    <File md5="B095580EFC2C39EB6FACF70972432DCE" import="1">Art/Unit/Alt Hittite UU/Chariot_Babylon.dds</File>
+    <File md5="B76AD6968116CA2EA90F680D34C6133B" import="1">Art/Unit/Alt Hittite UU/Chariot_Babylon.fxsxml</File>
+    <File md5="3BEEB0CEE3039745638681AE4A20B7E2" import="1">Art/Unit/Alt Hittite UU/Chariot_Babylon.gr2</File>
+    <File md5="A2081364EF81E904FF82976CA00955E0" import="1">Art/Unit/Alt Hittite UU/Chariot_Babylon.jpg</File>
+    <File md5="EC6F36970C6BB6C6637C92949DA4C896" import="1">Art/Unit/Alt Hittite UU/Chariot_Babylon_gloss.dds</File>
+    <File md5="6813F78B5A810834AE046B9CB0D54D11" import="1">Art/Unit/fx_triggers_hititte_war_chariot.ftsxml</File>
+    <File md5="653E9F957748FC6B6660D3CD15CC9B47" import="1">Art/Unit/hititte_war_chariot.fxsxml</File>
+    <File md5="4662C1FBEB938C606A3BE6086C87BEB2" import="1">Art/Unit/hititte_war_chariot.gr2</File>
+    <File md5="AC1DD5C303B8FD36FBBCB4BECBC8CAE9" import="1">Art/Unit/hititte_war_chariot_attacka.gr2</File>
+    <File md5="34E4C5883A39CAC1B51A7C3B93C810F5" import="1">Art/Unit/hititte_war_chariot_attackb.gr2</File>
+    <File md5="4A29964780582055654EEB04119C1061" import="1">Art/Unit/hititte_war_chariot_attack_city.gr2</File>
+    <File md5="86B71E0FC7BF8B223C04B9A1D0BB791F" import="1">Art/Unit/hititte_war_chariot_bombard_defense.gr2</File>
+    <File md5="48EEF9AA4EA7DB037789547502A23450" import="1">Art/Unit/hititte_war_chariot_bombard_defense_idle.gr2</File>
+    <File md5="84703781499315B0803B0D8E991DD20F" import="1">Art/Unit/hititte_war_chariot_bombard_defense_idle_trans_idlea.gr2</File>
+    <File md5="4D7BB232B69ADDB97FC0400E499B07B4" import="1">Art/Unit/hititte_war_chariot_charge_attack.gr2</File>
+    <File md5="591661E88417FECEDF56ACC8F1248DAB" import="1">Art/Unit/hititte_war_chariot_charge_run.gr2</File>
+    <File md5="44056AB3A9EAB7631167694CF2C882A4" import="1">Art/Unit/hititte_war_chariot_charge_start_run.gr2</File>
+    <File md5="E321ACDD384F8C90C5C51328821F8389" import="1">Art/Unit/hititte_war_chariot_combat_ready.gr2</File>
+    <File md5="DE5B6EF8483D0FF861F578FF447F1CEF" import="1">Art/Unit/hititte_war_chariot_combat_ready_idle.gr2</File>
+    <File md5="E01303B022E934179958AD78D26A6220" import="1">Art/Unit/hititte_war_chariot_combat_ready_idle_trans_idlea.gr2</File>
+    <File md5="9DFD977A0580698AA29E6A8A81647135" import="1">Art/Unit/hititte_war_chariot_deatha.gr2</File>
+    <File md5="53B40CA7DD7641A672778C0F9DAF2402" import="1">Art/Unit/hititte_war_chariot_deatha_idle.gr2</File>
+    <File md5="4E8BCADA826747D633E2374F060EA06F" import="1">Art/Unit/hititte_war_chariot_deathb.gr2</File>
+    <File md5="F138C1F197EEEAFD1D829F027E19E207" import="1">Art/Unit/hititte_war_chariot_deathb_idle.gr2</File>
+    <File md5="3EDBC9913CD81709C6A55A8AF43A96CC" import="1">Art/Unit/hititte_war_chariot_diff.dds</File>
+    <File md5="F6C34B3761266A2353ECF4B7C09A263D" import="1">Art/Unit/hititte_war_chariot_fidgeta.gr2</File>
+    <File md5="853A2006C3B35C8CD834FD5A02A1A7E6" import="1">Art/Unit/hititte_war_chariot_fidgetb.gr2</File>
+    <File md5="5E9250E9BFEAB445482B46643B008DB5" import="1">Art/Unit/hititte_war_chariot_fortify.gr2</File>
+    <File md5="74F7C7CD665B85A99ED609D320941790" import="1">Art/Unit/hititte_war_chariot_fortify_idle.gr2</File>
+    <File md5="DAD818C9021EF66B2A47716D0B7447FA" import="1">Art/Unit/hititte_war_chariot_fortify_idle_fidget.gr2</File>
+    <File md5="4284975F5BFD3CE8912689F09493CC93" import="1">Art/Unit/hititte_war_chariot_fortify_idle_trans_combat_ready_idle.gr2</File>
+    <File md5="1071ED93CC487815C47FC368237A8988" import="1">Art/Unit/hititte_war_chariot_fortify_idle_trans_idlea.gr2</File>
+    <File md5="5508D9C4B22FBC6BE6A0BB29CB2BE415" import="1">Art/Unit/hititte_war_chariot_idlea.gr2</File>
+    <File md5="32EC3B2808C2BB729E34ACF4F8810FFA" import="1">Art/Unit/hititte_war_chariot_idlea_trans_idleb.gr2</File>
+    <File md5="521706D4DA80DFFCE216FBBFF0E05601" import="1">Art/Unit/hititte_war_chariot_idleb.gr2</File>
+    <File md5="4819BE431C9CC2EBE9F02F98E9A0255F" import="1">Art/Unit/hititte_war_chariot_idleb_trans_idlea.gr2</File>
+    <File md5="70453DC41BE1856535C275023701A47D" import="1">Art/Unit/hititte_war_chariot_run.gr2</File>
+    <File md5="44A2A9465AC6EA0B8123B04A35FB7BA5" import="1">Art/Unit/hititte_war_chariot_run_turn_left.gr2</File>
+    <File md5="E48B383B68415E0DADE04A2FA4183822" import="1">Art/Unit/hititte_war_chariot_run_turn_right.gr2</File>
+    <File md5="38FC5F8B46556FB5F7945881CD2E95A4" import="1">Art/Unit/hititte_war_chariot_shuffle.gr2</File>
+    <File md5="072ED1A027A35D36D988582B067451F7" import="1">Art/Unit/hititte_war_chariot_sref.dds</File>
+    <File md5="7150E821ADD9F0CFBB64FFE7CB9BA9EE" import="1">Art/Unit/hititte_war_chariot_start_run.gr2</File>
+    <File md5="34D3B33E2F6DCE43DD353986AE685750" import="1">Art/Unit/hititte_war_chariot_stop_run.gr2</File>
+    <File md5="72A0BF58CCF016A498A2B6A6C0FDECD0" import="1">Art/Unit/hititte_war_chariot_stop_run_idleb.gr2</File>
+    <File md5="72BBCA4951A7AC9FEDCCB12B798D2699" import="1">Art/Unit/hititte_war_chariot_victory.gr2</File>
+    <File md5="F07F3A9AF5F4B069B25245815F98135D" import="1">Art/Unit/UnitAlpha/HittiteUnitAlphaAtlas.dds</File>
+    <File md5="3ACB94329B1B26C9604EE33EB17DE9A3" import="1">Art/Unit/UnitAlpha/sv_Hittite_Chariot_Mod.dds</File>
+    <File md5="6CA9D0D26FEFC76C50EF74CEC9E79944" import="1">Art/Unit/unit_environment_dull.dds</File>
+    <File md5="6256FE131AAE98F8CAE6FC9D66757F7C" import="1">Art/Unit/unit_environment_sharp.dds</File>
+    <File md5="48928C9DD4121A8035B9F23EEA5E03F8" import="1">Art/Unit/unit_irradiance.dds</File>
+    <File md5="7ABED089B477FE0709EE6CCEC160D787" import="0">Decisions/Hittite Decisions SQL.sql</File>
+    <File md5="21CE68F2444E9461245AE295640CEFBA" import="0">Decisions/Hittite Decisions Support.xml</File>
+    <File md5="EFAD7C7BD46367A72A28DDECF7408E3C" import="1">Decisions/TomatekhHittiteDecisions.lua</File>
+    <File md5="AFC0FB6C4E0C4FFE5BF9F967BDD93381" import="1">Decisions/TomatekhHittiteEvents.lua</File>
+    <File md5="E4AAB6ED3667CC8CC56A2FF6BF2D9C8D" import="0">LUA/Hittite Mod Check.lua</File>
+    <File md5="580190F435CA46C02375E54209DB41B0" import="1">LUA/Hittite Traits Mod.lua</File>
+    <File md5="49A50B3F928752FBB176089AB3A50321" import="1">Sound/MuwatalliPeace.mp3</File>
+    <File md5="C89404A56A1134A5B0A89F8CC906355E" import="1">Sound/MuwatalliWar.mp3</File>
+    <File md5="8E2ED9D31EA2E4C15853C6F2D84216D2" import="0">SQL/Hittite Mod Support.sql</File>
+    <File md5="C78365B17A2C4C5C6FAF3AC5B5CCE7E1" import="0">SQL/Hittite Unit Skin.sql</File>
+    <File md5="E5CD2835F2C960D6C39417AE7B383CC1" import="1">XML/Art/civ5artdefines_unitmembers.xml</File>
+    <File md5="CA16271879B08AD233BBC22ACCD08A26" import="1">XML/Art/civ5artdefines_units.xml</File>
+    <File md5="C96C9F09E12B379E18FEC88AEB666DA7" import="0">XML/Art/Hittite Strategic View Mod.xml</File>
+    <File md5="AFD40EBC65FA304DEA7FD5070DE93137" import="1">XML/Art/Hittite_Leader_Scene_Mod.xml</File>
+    <File md5="F5EFD89FA11717B04EB2D90EE2091BBC" import="0">XML/Art/Hittite Atlas Mod.xml</File>
+    <File md5="E7E1B846B2C652A66B5B92E30F74ACD6" import="0">XML/Buildings/Hittite Buildingclass Mod.xml</File>
+    <File md5="8B37CEEED4CEC92B4BC303B6993B8DE7" import="0">XML/Buildings/Hittite Buildings Mod.xml</File>
+    <File md5="169D152336F51916E3D6E9BF5C161EF5" import="0">XML/Civilization/Hittite Traits Mod.xml</File>
+    <File md5="256EA06109914AA60B062D6277948093" import="0">XML/Civilization/Hittite Leader Mod.xml</File>
+    <File md5="7887C599E39C4E50DABF62392CEC2F02" import="0">XML/Civilization/Hittite Civ Mod.xml</File>
+    <File md5="B79D1A792CA8B1759671101D059B2822" import="0">XML/Diplomacy/Hittite Diplomacy Mod.xml</File>
+    <File md5="2E6F001E17DE7CF7D97D38F23042F162" import="0">XML/Sound/Hittite Sound Mod.xml</File>
+    <File md5="7A051B0E6F94687305BA4560A9AEB75C" import="0">XML/Text/Hittite Game Text Mod.xml</File>
+    <File md5="949A3B82997FA5C44F5D781CEE572AA3" import="0">XML/Text/Non English XML Tags/Hittite Game Text DE_DE.xml</File>
+    <File md5="2610918062448B7CD7055BA446EB952B" import="0">XML/Text/Non English XML Tags/Hittite Game Text ES_ES.xml</File>
+    <File md5="B90DCDD24B26AA0881ECC90827FCA227" import="0">XML/Text/Non English XML Tags/Hittite Game Text FR_FR.xml</File>
+    <File md5="AC7A7B994CC4B33FDB2F7278736278D6" import="0">XML/Text/Non English XML Tags/Hittite Game Text IT_IT.xml</File>
+    <File md5="D65F306C9F3C406F5230626C3EF68E42" import="0">XML/Text/Non English XML Tags/Hittite Game Text JA_JP.xml</File>
+    <File md5="76E937A9E9D797F1A33A7655EAE63DA5" import="0">XML/Text/Non English XML Tags/Hittite Game Text KO_KR.xml</File>
+    <File md5="3BC925094BEF6AB3460C5B5D71FCBD95" import="0">XML/Text/Non English XML Tags/Hittite Game Text PL_PL.xml</File>
+    <File md5="C183C76EAD345F9769F41531FB4861B2" import="0">XML/Text/Non English XML Tags/Hittite Game Text RU_RU.xml</File>
+    <File md5="474A9E72CB2DF06DE7E6CDCC467CDB3B" import="0">XML/Units/Hittite Promotion Mod.xml</File>
+    <File md5="37A2FDEBC862B6727C6A4ED01254C6F9" import="0">XML/Units/Hittite Units Mod.xml</File>
+    <File md5="64F3972E1DB397CFB410EB4750F96DAB" import="0">YnAEMP/Hittite YnAEMP Compatability.sql</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>SQL/Hittite Unit Skin.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Art/Hittite Atlas Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/Hittite Units Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Hittite Buildingclass Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Hittite Buildings Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Diplomacy/Hittite Diplomacy Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Art/Hittite_Leader_Scene_Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization/Hittite Leader Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization/Hittite Civ Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization/Hittite Traits Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Hittite Game Text Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Art/Hittite Strategic View Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Sound/Hittite Sound Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/Hittite Promotion Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Hittite Game Text DE_DE.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Hittite Game Text ES_ES.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Hittite Game Text FR_FR.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Hittite Game Text IT_IT.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Hittite Game Text JA_JP.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Hittite Game Text KO_KR.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Hittite Game Text PL_PL.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Hittite Game Text RU_RU.xml</UpdateDatabase>
+      <UpdateDatabase>YnAEMP/Hittite YnAEMP Compatability.sql</UpdateDatabase>
+      <UpdateDatabase>Decisions/Hittite Decisions SQL.sql</UpdateDatabase>
+      <UpdateDatabase>Decisions/Hittite Decisions Support.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Hittite Mod Support.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="LUA/Hittite Mod Check.lua">
+      <Name>Hittite Trait</Name>
+      <Description>Hittite Trait</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

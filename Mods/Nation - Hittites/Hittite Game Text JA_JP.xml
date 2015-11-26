@@ -1,0 +1,414 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh-->
+<GameData>
+	<Language_JA_JP>
+		<!-- -->
+		<Row Tag="TXT_KEY_UNIT_HITTITE_MOD_THREE_MAN_CHARIOT">
+			<Text>Heavy Chariot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HITTITE_MOD_THREE_MAN_CHARIOT_TEXT">
+			<Text>The Hittite war chariot, an evolution of existing chariot designs, was larger and more robust than those commonly found amongst the armies of Egypt. By reducing the overall weight of the chariot and moving the wheels further to the front, the Hittite adaptation was capable of carrying up to three warriors on a single chariot. These chariots were often used to crash the enemy lines, breaking through and demoralizing the scattered infantry.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HITTITE_MOD_THREE_MAN_CHARIOT_HELP">
+			<Text>Mobile shock Unit effective at breaking and demoralizing frontline infantry. Only the Hittites may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HITTITE_MOD_THREE_MAN_CHARIOT_STRATEGY">
+			<Text>The Heavy Chariot is a melee attack unit specializing in charging and breaking enemy fronts. While it has less mobility and range than the standard Chariot Archer, which it replaces, it is significantly more powerful against Melee Units. Additionally, the Heavy Chariot will stagger any enemy unit that begins its turn adjacent to it, disrupting troop mobility. Unlike the Chariot Archer, the Heavy Chariot does not require Horses.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_BUILDING_HITTITE_IRON_FORGE">
+			<Text>Bloomery</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_BUILDINGS_HITTITE_IRON_FORGE_TEXT">
+			<Text>A Bloomery is a type of furnace once widely used for smelting iron from its oxides. The bloomery was the earliest form of smelter capable of smelting iron. A bloomery's product is a porous mass of iron and slag called a bloom. This mix of slag and iron in the bloom is termed sponge iron, which is usually shingled and further forged into wrought iron. The bloomery has now largely been superseded by the blast furnace, which produces pig iron.[NEWLINE][NEWLINE]Although belonging to the Bronze Age, the Hittites were forerunners of the Iron Age, developing the steady manufacture of iron artifacts from as early as the 14th century BC. One of the earliest smelted iron artifacts known is a dagger with an iron blade found in a Hattic tomb in Anatolia, dating from 2500 BC. Additionally, Hittite diplomatic texts are filled with requests from foreign leaders requesting the trade of iron weapons and jewelry. The Hittites never used iron extensively, but they produced limited quantities of iron daggers and swords before their empire collapsed around 1200 BC.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HITTITE_IRON_FORGE_HELP">
+			<Text>Provides 2 [ICON_RES_IRON] Iron.[NEWLINE][NEWLINE]Maximum of 5 of these Buildings in your empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HITTITE_IRON_FORGE_STRATEGY">
+			<Text>The Bloomery functions differently than the standard Forge, which it replaces. Instead of a resource based [ICON_PRODUCTION] Production bonus, the Bloomery functions similar to an early game Recycling Center and provides +2 [ICON_RES_IRON] Iron. As the Bloomery does not have a terrain requirement, this ability guarantees the Hittites access to the resource. However, the Bloomery is more expensive to maintain and does not increase land unit production.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_TRAIT_LAND_OF_A_THOUSAND_GODS_SHORT">
+			<Text>Bond and Oath</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LAND_OF_A_THOUSAND_GODS">
+			<Text>Rival Civilizations suffer increased [ICON_INFLUENCE] Influence decay with any City-State with which you have greater [ICON_INFLUENCE] Influence. Allied City-State Units have +20% [ICON_STRENGTH] Combat Strength.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_PROMOTION_HITTITE_HEAVY_CHARIOT">
+			<Text>Bonus vs Melee (30)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HITTITE_HEAVY_CHARIOT_HELP">
+			<Text>30% Bonus vs Melee.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_STAGGER_MOD">
+			<Text>Stagger</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_STAGGER_MOD_HELP">
+			<Text>Enemy combat units that begin their turn adjacent to this unit suffer one movement point penalty during their turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HITTITE_CITY_STATE">
+			<Text>Hittite Suzerainty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HITTITE_CITY_STATE_HELP">
+			<Text>+20% [ICON_STRENGTH] Combat Strength.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_HITTITE_MOD_DESC">
+			<Text>Hittite Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HITTITE_MOD_SHORT_DESC">
+			<Text>The Hittites</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_HITTITE_MOD_ADJECTIVE">
+			<Text>Hittite</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HITTITE_MOD">
+			<Text>The Hittites</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_HITTITE_MOD_MUWATALLI_DESC">
+			<Text>Suppiluliumas I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HITTITE_MOD_MUWATALLI_LIVED">
+			<Text>c. ? - 1322 BC</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HITTITE_MOD_MUWATALLI_NAME">
+			<Text>Suppiluliumas I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HITTITE_MOD_MUWATALLI_SUBTITLE">
+			<Text>Leader of the Hittites</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HITTITE_MOD_MUWATALLI_TITLES_1">
+			<Text>King of the Hittites</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HITTITE_MOD_MUWATALLI_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HITTITE_MOD_MUWATALLI_TEXT_1">
+			<Text>The Hittite Empire reached its zenith during the reign of Suppiluliumas I (c. 1350-1322 BC). A brilliant warrior and statesmen, he led a series of campaigns against the Mitanni, effectively ending their kingdom, and successfully challenged the then dominant Egyptian Empire to cement Hittite rule over Syria.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HITTITE_MOD_MUWATALLI_HEADING_2">
+			<Text>Early Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HITTITE_MOD_MUWATALLI_TEXT_2">
+			<Text>Suppiluliumas began his career as the chief advisor and general to his father Tudhaliya II, then based at Samuha. In this capacity, he defeated the Hittites' enemies among the Azzi-Hayasa and the Kaskas. Both enemies then united around charismatic leaders to counter him. Suppiluliumas and Tudhaliya defeated these threats in turn, to the extent that the Hittite court could resettle in Hattusa. When Tudhaliya II died, Suppiluliumas' brother, Tudhaliya III, succeeded to the throne. Soon after his accession, however, he was overthrown and killed by Suppiluliumas.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HITTITE_MOD_MUWATALLI_HEADING_3">
+			<Text>Syria and the Mitanni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HITTITE_MOD_MUWATALLI_TEXT_3">
+			<Text>Suppiluliumas' military career was almost exclusively devoted to struggles with the kingdom of Mitanni in the east and the reestablishment of a firm Hittite foothold in Syria. After an unsuccessful exploratory raid, he schemed to circumvent the Mitanni defenses in northern Syria by crossing the Euphrates River farther north and approaching its capital, Wassukkani, from the rear. Suppiluliumas' new tactics were successful, and he was able to capture and sack Wassukkani. He then turned south across the Euphrates and secured the allegiance of the Syrian princelings.[NEWLINE][NEWLINE]Suppiluliumas left his son Telipinus in charge of Syrian affairs and returned to Hattusas to resume religious duties. In the meantime, however, the debilitated Mitanni kingdom underwent a series of upheavals abetted by the renascent Assyrian kingdom, which had long been a tributary of the Mitanni. In the end, Assyria gained its independence, infiltrated Mitanni, and emerged as a new power in the region.[NEWLINE][NEWLINE]Suppiluliumas immediately returned to Syria, besieging the city of Carchemish. Hittite power was thus consolidated in all of northern Syria, where Suppiluliumas installed his sons Telipinus and Piyassilis as kings of Aleppo and Carchemish. In addition, Suppiluliumas concluded with Mattiwaza, son of the murdered Mitannian king Tushratta, a treaty of mutual assistance. A Mitannian buffer state was set up to shield the Hittite dominions in Syria from the growing Assyrian menace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HITTITE_MOD_MUWATALLI_HEADING_4">
+			<Text>Egypt and Death</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HITTITE_MOD_MUWATALLI_TEXT_4">
+			<Text>Suppiluliumas' preeminent international reputation is shown by an event that occurred during his siege of Carchemish. Ankhesenamen, daughter of the Egyptian king Akhenaton and childless widow of his successor Tutankhamen, wrote to the Hittite king and asked for one of his sons in marriage. Under Egypt's matrilinear succession laws, the new husband was to be the pharaoh. Suppiluliumas agreed to send his son Zannanza to Egypt to marry the queen; most likely he saw this as a chance to widely expand his influence and power base. However, Zannanza was assassinated en route to Egypt by adversaries of the Queen's plans.[NEWLINE][NEWLINE]Suppiluliumas was furious and blamed the new Egyptian Pharaoh Ay for his son's death. A Hittite army under crown prince Arnuwanda invaded Egyptian territory from Syria, pillaging and taking many prisoners. These prisoners brought with them a plague which ravaged the Hittite Kingdom continuing well into Suppiluliumas' son reign and may have killed Suppiluliumas himself.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HITTITE_MOD_MUWATALLI_HEADING_5">
+			<Text>Verdict of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HITTITE_MOD_MUWATALLI_TEXT_5">
+			<Text>Suppiluliumas I dominated the history of the ancient Middle East for the greater part of four decades and raised the Hittite kingdom to an Imperial power. His reign saw the reconstruction and strengthening of the Hittite capital of Hattusa and a consolidation of the Hittite heartland. He also introduced concepts of sacred and divine kingship into Hittite culture. He is remembered today as a brilliant warrior and statesmen and often cited as the greatest of the Hittite kings.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HITTITE_MOD_MUWATALLI_HEADING_6">
+			<Text>Factoid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HITTITE_MOD_MUWATALLI_TEXT_6">
+			<Text>The "Deeds of Suppiluliumas", compiled after his death by his son Mursili, is an important primary source for the king's reign.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HITTITE_MOD_MUWATALLI_HEADING_7">
+			<Text>Factoid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_HITTITE_MOD_MUWATALLI_TEXT_7">
+			<Text>The Hittite priesthood would later consider Suppiluliumas' murder of his brother to achieve the throne an outstanding crime of the whole dynasty.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_HITTITE_MOD_TEXT">
+			<Text>Peace to you, noble Suppiluliumas, King of the Hittites, may the blessings of Tarhun and Ishtanu ensure your everlasting prosperity. The Hittites were a proud people who carved a mighty empire in the heart of ancient Anatolia. They mastered the most sacred of metals, forging iron weapons envied by the Great Kings of Assyria, and were unmatched in perfecting the chariot; driving divine fury across the flatlands. In defense of your kingdom, mighty Suppiluliumas, you drove back the fearless Mitanni and cemented the Hittite claim to Syria. Yet, war was ever a present threat for your people. The fall of the Mitanni would allow Assyria to rise again and eventually lay waste to the Hittite homeland.[NEWLINE][NEWLINE]Great King, all the peoples and lands that you pledged to protect cry out to you. Once again your enemies break the sacred treaties and encroach on your territory. The names of the thousand gods demand that you return. Can you forge a new empire whose legacy shall never be forgotten? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_LEADER_HITTITE_MOD_MUWATALLI_FIRST_GREETING_1">
+			<Text>If you keep well to your word then the thousand gods which I, the Lord Suppiluliumas, have convoked shall protect you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HITTITE_MOD_MUWATALLI_FIRST_GREETING_2">
+			<Text>The King of the land of Hatti invites you as his brother, to establish good peace and good fraternity forever between us.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HITTITE_MOD_MUWATALLI_DEFEATED_1">
+			<Text>The oath gods shall destroy you for this betrayal, together with your wives, your sons, your households, and your land!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HITTITE_MOD_MUWATALLI_DEFEATED_2">
+			<Text>Even now my allies in the south, in the east, and in the north gather to reclaim the land of Hatti!</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HITTITE_MOD_STATBOX">
+			<Text>[NEWLINE]        Leader: Suppiluliumas I[NEWLINE]        Unique Unit: Heavy Chariot[NEWLINE]        Unique Building: Bloomery[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HITTITE_MOD_TITLE">
+			<Text>The Hittites</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HITTITE_MOD_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HITTITE_MOD_TEXT_1">
+			<Text>The Hittites were a Bronze Age power centered in Anatolia and one of the four major empires of the period alongside Assyria, Babylon, and Egypt. Thought to have been founded around 1700 BC, the Hittites would face an ebb and flow of military successes and defeats for over 500 years. The Hittites were known to have extensively engaged in diplomatic treaties with neighboring powers, to have mastered and improved upon chariot design and warfare, and to have been one of the earliest peoples to have forged iron weapons and artifacts. After 1180 BC, amid general turmoil in the Levant associated with the sudden arrival of the Sea Peoples, the Hittite Empire disintegrated into several independent Neo-Hittite city-states, some of which survived until as late as the 8th century BC.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HITTITE_MOD_HEADING_2">
+			<Text>Climate and Terrain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HITTITE_MOD_TEXT_2">
+			<Text>Anatolia's terrain is structurally complex, giving the appearance of a plateau with rough terrain and wedged between two folded mountain ranges that converge in the east. True lowland is rare and confined to a few narrow coastal and riverbed areas. Anatolia has a varied range of climates. The central plateau is characterized by a continental climate, with hot summers and cold snowy winters, while the coastal areas range from a Mediterranean climate in the south and west, to a temperate oceanic climate in the north. Anatolia is rich in metals, especially silver and iron. In the empire period, the Hittites developed iron-working technology, helping to initiate the Iron Age.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HITTITE_MOD_HEADING_3">
+			<Text>Early Bronze Age Anatolia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HITTITE_MOD_TEXT_3">
+			<Text>Before the rise of the Hittite Kingdom, there were three major Indo-European groups in Anatolia: the Luwians, Palaians, and Nesites. There is no historical consensus on where they came from or when. The area which would later become the center of Hittite civilization was controlled by a non Indo-European population called the Hattians. Indo-Europeans seem to have been particularly concentrated in the city of Nesa, from which the group takes its name, which originated as an Assyrian trading colony. The culture and language of the Nesites would eventually became dominant in the central Anatolian ruling class. The spread of Nesite, which would later become the official language of the Hittite Empire, was probably due to its importance in the Assyrian trade network. Nesite was written in the cuneiform script borrowed from the Assyrians.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HITTITE_MOD_HEADING_4">
+			<Text>The Old Kingdom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HITTITE_MOD_TEXT_4">
+			<Text>The early history of the Hittite Kingdom is known through the so called Anitta texts, written c. 17th century BC. These tablets tell how Pithana, the King of Kussara, conquered the neighboring city of Nesa. After the conquest, Nesa became the seat of the Kussaran dynasty. Pithana's son Anitta launched several successful campaigns against the various Anatolian city-states. Anitta's kingdom did not last long, however, and disintegrated soon after his death.[NEWLINE][NEWLINE]After the fall of Anitta's kingdom, central Anatolia fell into a state of constant warfare between the various regional powers and from invading peoples such as the Hurrians and the Kaskians. The Hittite Kingdom would grow out of the city of Kussara, and the founding of the kingdom is attributed to Labarna I who began a new era of conquest. Hattusili I, possibly Labarna's grandson, established the seat of his reign in the city of Hattusa, from which he captured the city of Sanahuitta and controlled most of central Anatolia.[NEWLINE][NEWLINE]Hattusili led a series of campaigns into Syria as well as northern Mesopotamian territory. While lucrative, these campaigns failed to establish permanent Hittite control over the areas. His reign was also marked by several invasions by the Hurrians and internal uprisings. It was after these rebellions that Hattusili appointed his grandson Mursili I as his heir. Mursili continued the conquests of Hattusili. He invaded Mesopotamia and even ransacked the city of Babylon in 1531 BC, effectively ending the dynasty of Hammurabi. Rather than incorporate Babylonia into Hittite domains, Mursili seems to have instead turned control of Babylonia over to his Kassite allies, who were to rule it for the next four centuries. This lengthy campaign, however, allowed for an assassination plot to be formed, and Mursili was assassinated by his brother-in-law Hantili shortly after his return home.[NEWLINE][NEWLINE]During this period the Hittite Kingdom began its decline and was attacked by various surrounding states. A successive list of kings were usurped or murdered by family members until Telepinu, a son of Ammuna, established control over the Hittite core territory once again, and expanded towards the Euphrates, taking various towns in the region near Carchemish. He also signed a treaty with the southern Hurrian kingdoms which formalized territorial agreements.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HITTITE_MOD_HEADING_5">
+			<Text>The Middle Kingdom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HITTITE_MOD_TEXT_5">
+			<Text>The successors of Telepinu reigned over a period of instability, sometimes called the Middle Kingdom. This period saw the first invasions of Hatti by the Kaska peoples of the north, who took the town of Nerik and led to the fortification of the capital of Hattusa and other towns in the region of Hatti. This period also saw the Hittite Kingdom wracked with internecine strife, as kings were assassinated and pretenders vied for the royal throne. It was also during this period that the Hurrian confederation of Mittani expanded into Syria and into Hittite controlled land west of the Euphrates.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HITTITE_MOD_HEADING_6">
+			<Text>The New Kingdom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HITTITE_MOD_TEXT_6">
+			<Text>Around 1400 BC, the Hittite Kingdom re-emerged from the fog of obscurity and entered its empire period. Settlement of the Hittites progressed; however, the Hittite people tended to settle in the older lands of south Anatolia rather than the lands of the Aegean. Kingship became hereditary and began to resemble the God-Kings of Mesopotamia with the Hittite king acting as a high priest for the whole kingdom, making an annual tour of the Hittite holy cities, conducting festivals, and supervising the upkeep of the sanctuaries.[NEWLINE][NEWLINE]The Hittite Kingdom reached its zenith during the reign of Suppiluliumas I (c. 1350-1322 BC), who deposed his older brother to become the king. Suppiluliumas established control over Kizzuwadna and invaded Isuwa, coming into conflict with the Mitanni. The Mitanni, wracked by civil war, was unable to withstand the Hittite onslaught. Suppiluliumas allied with Artatama, a rival for the Mitanni throne and enemy of the Mitanni King Tushratta. Following an uprising in Isuwa, Suppiluliumas swiftly attacked the Mitanni heartland through Isuwa, capturing and plundering the Mitanni capital of Washshuganni.[NEWLINE][NEWLINE]He then turned west, recrossed the Euphrates, and captured all the Syrian kingdoms which were vassals to the Mitanni, including Aleppo, Mukish, Niya, Qatna, Upi, and Kadesh. Other kingdoms such as Ugarit and Amurru voluntarily became vassal states of the Hittites. When hostilities flared up once more with Mitanni, Suppiluliumas invaded Syria himself, laying siege to the city of Carchemish. He also sent some troops south to aid his vassals in an attack on the Egyptian ally of Amka in retaliation for an earlier Egyptian attack against Kadesh. Suppiluliumas laid siege to Carchemish and broke the siege on the eighth day, installing his son Piyassili as viceroy of the kingdom. With his sons as viceroys of Aleppo and Carchemish, Suppiluliumas had cemented his rule over Syria and brought the Mitanni Empire to an end.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HITTITE_MOD_HEADING_7">
+			<Text>Battle of Kadesh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HITTITE_MOD_TEXT_7">
+			<Text>Hittite prosperity was mostly dependent on controlling trade routes and metal sources. Because of the importance of Northern Syria to the vital routes linking the Cilician gates with Mesopotamia, defense of this area was crucial, and was soon put to the test by Egyptian expansion under Pharaoh Ramesses II. The outcome of the battle is uncertain, though it seems that the timely arrival of Egyptian reinforcements prevented total Hittite victory. The Egyptians forced the Hittites to take refuge in the fortress of Kadesh, but their own losses prevented them from sustaining a siege. The Battle of Kadesh (c. 1274 BC) was probably the largest chariot battle ever fought, involving perhaps five to six thousand chariots.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HITTITE_MOD_HEADING_8">
+			<Text>Diplomacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HITTITE_MOD_TEXT_8">
+			<Text>One innovation that can be credited to early Hittite rulers is the practice of conducting treaties and alliances with neighboring states; the Hittites were thus among the earliest known pioneers in the art of international politics and diplomacy. The Hittites referred to diplomatic treaties by a pair of terms meaning literally, "binding and oath".nHowever, the Hittites held a firm belief that foreign lands were either enemies or friends; neutrality was not an option. The goal of Hittite foreign policy, whether carious out by peaceful or military means, was to reduce the number of hostile countries, thereby promoting bother internal and international stability. Depending on factors such as their distance from Hatti, their level of culture, and their own military and economic strength, foreign lands could be rendered harmless either by annexing them to the Hittite Empire as vassals, or by drawing them into an alliance as equals.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HITTITE_MOD_HEADING_9">
+			<Text>Iron Working</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HITTITE_MOD_TEXT_9">
+			<Text>Although belonging to the Bronze Age, the Hittites were forerunners of the Iron Age, developing the manufacture of iron artifacts from as early as the 14th century BC, when letters to foreign rulers reveal the demand for their iron goods. Recent excavations, however, have discovered evidence of iron tool production dating back at least as far as the second millennium BC. Hittite weapons were mostly made from bronze, though. Although the Hittites made iron and were known among their neighbors for doing so, they do not appear to have had sufficient knowledge of ores to produce good iron on a regular schedule. As such, iron was employed mostly in constructing prestige goods.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HITTITE_MOD_HEADING_10">
+			<Text>Downfall and Demise</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HITTITE_MOD_TEXT_10">
+			<Text>The power of the Hittites began to decline yet again due to the rising power of the Assyrians. The Assyrian king Shalmaneser I, had seized the opportunity to vanquish Hurria and Mitanni, occupy their lands, and expand to the head of Euphrates in Anatolia and into Syria, while Muwatalli I was preoccupied with the Egyptians with Kadesh. The Hittites had vainly tried to preserve the Mitanni kingdom with military support. Assyria now posed just as great a threat to Hittite trade routes as Egypt ever had. In response to increasing Assyrian encroachments, the Hittites concluded a peace and alliance with Rameses II, presenting his daughter's hand in marriage to the Pharaoh. The "Treaty of Kadesh", one of the oldest completely surviving treaties in history, fixed their mutual boundaries in Canaan.[NEWLINE][NEWLINE]Hattusili's son, Tudhaliya IV, was the last strong Hittite king able to keep the Assyrians out of the Hittite heartland, though he was ultimately defeated by the Assyrians at the Battle of Nihiriya. The very last king, Suppiluliumas II, also managed to win some victories, including a naval battle against the Sea Peoples off the coast of Cyprus. But it was too little and too late. The Assyrians, under Ashurreshishi I had by this time annexed too much Hittite territory in Asia Minor and Syria, driving out the Babylonian king Nebuchadnezzar I in the process. The Sea Peoples had already begun their push down the Mediterranean coastline, starting from the Aegean, and continuing all the way to Philistia cutting off coveted trade routes. This left the Hittite homelands vulnerable to attack from all directions, and Hattusa was burnt to the ground sometime around 1180 BC following a combined onslaught from the Kaskas, Phrygians, and Bryges. The Hittite Kingdom thus vanished from historical records.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HITTITE_MOD_HEADING_11">
+			<Text>The Neo-Hittites</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HITTITE_MOD_TEXT_11">
+			<Text>Although the Hittite kingdom had disappeared from Anatolia by this point, there emerged a number of so called Neo-Hittite kingdoms in Anatolia and northern Syria. They were the successors of the Hittite Kingdom. The most notable Syrian Neo-Hittite kingdoms were those at Carchemish and Milid. These kingdoms gradually fell under the control of the Neo-Assyrian Empire (911-608 BC). Carchemish and Milid were made vassals of Assyria under Shalmaneser III (858-823 BC), and fully incorporated into Assyria during the reign of Sargon II (722-705 BC).[NEWLINE][NEWLINE]Both Luwian hieroglyphs and cuneiform were also rendered obsolete due to the introduction of the alphabet, which seems to have entered Anatolia simultaneously from the Aegean and from the Phoenicians and neighboring peoples in Syria.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HITTITE_MOD_FACTOID_HEADING">
+			<Text>Hittite Factoid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_HITTITE_MOD_FACTOID_TEXT">
+			<Text>The term "Hittite" was taken from the King James translation of the Hebrew Bible, as a transliteration of the term "Children of Heth". The archaeologists who discovered the Anatolian Hittites in the 19th century AD initially identified them with these Biblical Hittites. Today the identification of the Biblical peoples with either the Hattusa-based empire or the Neo-Hittite kingdoms is a matter of dispute.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_SPY_NAME_HITTITE_MOD_0">
+			<Text>Arnuwandas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HITTITE_MOD_1">
+			<Text>Lubarna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HITTITE_MOD_2">
+			<Text>Tudhaliyas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HITTITE_MOD_3">
+			<Text>Katuzili</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HITTITE_MOD_4">
+			<Text>Urhi-Teshup</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HITTITE_MOD_5">
+			<Text>Wurusemu</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HITTITE_MOD_6">
+			<Text>Estan</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HITTITE_MOD_7">
+			<Text>Istustaya</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HITTITE_MOD_8">
+			<Text>Hebat</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_HITTITE_MOD_9">
+			<Text>Ulmi-Teshup</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_CITY_NAME_HITTITE_MOD_HATTUSA">
+			<Text>Hattusa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HITTITE_MOD_TARHUNTASHA">
+			<Text>Tarhuntassa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HITTITE_MOD_NESHA">
+			<Text>Nesa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HITTITE_MOD_SAMUHA">
+			<Text>Samuha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HITTITE_MOD_KUSSARA">
+			<Text>Kussara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HITTITE_MOD_LUSNA">
+			<Text>Lusna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HITTITE_MOD_TUNIP">
+			<Text>Tunip</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HITTITE_MOD_SAPINUWA">
+			<Text>Sapinuwa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HITTITE_MOD_TARUISHA">
+			<Text>Tarsos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HITTITE_MOD_ALALAKH">
+			<Text>Alalah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HITTITE_MOD_KARGAMISH">
+			<Text>Karchemish</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HITTITE_MOD_HALPA">
+			<Text>Halab</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HITTITE_MOD_KADESH">
+			<Text>Kadesh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HITTITE_MOD_ZALPA">
+			<Text>Zalpa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HITTITE_MOD_NERIK">
+			<Text>Nerik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HITTITE_MOD_HAKPISH">
+			<Text>Hakpish</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HITTITE_MOD_ADANIYA">
+			<Text>Adaniya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HITTITE_MOD_ARINNA">
+			<Text>Arinna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HITTITE_MOD_SHALLAPA">
+			<Text>Shallapa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HITTITE_MOD_WASHSHUKANNI">
+			<Text>Washshukanni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HITTITE_MOD_MILID">
+			<Text>Milid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HITTITE_MOD_URA">
+			<Text>Ura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HITTITE_MOD_KUMMANNI">
+			<Text>Kummanni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HITTITE_MOD_TUWANUWA">
+			<Text>Tuwanuwa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HITTITE_MOD_MILLAWANDA">
+			<Text>Millawanda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HITTITE_MOD_APASHA">
+			<Text>Apasha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HITTITE_MOD_WALIWANDA">
+			<Text>Waliwanda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HITTITE_MOD_TAPIKKA">
+			<Text>Tapikka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HITTITE_MOD_GAZIURA">
+			<Text>Gaziura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HITTITE_MOD_DIMASHKU">
+			<Text>Dimashku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HITTITE_MOD_ARWADA">
+			<Text>Arwada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HITTITE_MOD_UGARIT">
+			<Text>Ugarit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HITTITE_MOD_SANAHUITTA">
+			<Text>Sanahuitta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_HITTITE_MOD_URSHU">
+			<Text>Urshu</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_BUILDING_HITTITE_EMBASSY">
+			<Text>Hittite Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_HITTITE_EMBASSY_STRATEGY">
+			<Text>This building cannot be constructed but rather facilitates the Hittite Unique Ability.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_BUILDINGS_HITTITE_EMBASSY_TEXT">
+			<Text>Found in Hattusa, the capital city of the Hittite Empire, the Lion's Gate was a large arching entry-way thought to have been constructed sometime around the 14th century BC. Each side of the gate features the likeness of a large stone lion, a creature of symbolic importance to the Hittite society that was commonly found on many of their structures and monuments.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_NAME_ANATOLIA_TOMATEKH_REGION">
+			<Text>Anatolia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ANATOLIA_TOMATEKH_REGION_TWO">
+			<Text>Arzawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ANATOLIA_TOMATEKH_KIZILIRMAK">
+			<Text>Kizilirmak River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ANATOLIA_TOMATEKH_DELICE">
+			<Text>Delice River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ANATOLIA_TOMATEKH_DEVREZ">
+			<Text>Devrez River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ANATOLIA_TOMATEKH_GOKIRMAK">
+			<Text>Gökirmak River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ANATOLIA_TOMATEKH_PONTIC">
+			<Text>Pontic Mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ANATOLIA_TOMATEKH_TAURUS">
+			<Text>Taurus Mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NAME_ANATOLIA_TOMATEKH_ALASIYA">
+			<Text>Alasiya</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_GENERIC_HITTITE_MOD_INFLUENTIAL_ON_AI_1">
+			<Text>Chariot sales are oddly starting to make a comeback... I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_HITTITE_MOD_MUWATALLI">
+			<Text>Ishara</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- -->
+	</Language_JA_JP>	
+</GameData>
